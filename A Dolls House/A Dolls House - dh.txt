@@ -1,0 +1,31 @@
+A Doll's House v1.8.
+
+Thank you for wanting to play A Doll's House.
+
+The game is compiled for Spear of Destiny and comes with the following 9 files:
+DH.EXE, AUDIOT, GAMEMAPS, MAPHEAD, VGADICT, VGAGRAPH, VGAHEAD, VSWAP and DH.TXT (this file).
+
+
+A Doll's House uses some resources from the original Wolfenstein games.
+To protect the copyright of the owner of the original game, the AUDIOHED file is not included in the zip.
+You must own a registered version of Spear of Destiny to supply that file.
+
+How to install and run A Doll's House:
+Create a new directory or folder.
+Unzip DH.ZIP in this directory/folder.
+Copy the AUDIOHED file from your original Spear of Destiny directory/folder.
+Start DH.EXE
+
+Before you start beware the following:
+A water puddle will take all ordinary ammo from you unless your health is 20% or lower, in which case it will add 3 to your health.
+Be also aware that you can carry only one cross at a time.
+
+For more info on the game see:
+http://home.online.no/~p-olstad/wolfenstein/dollshouse.html
+
+The author of A Doll's House kindly requests people not to modify A Doll's House nor use part of it in other add-ons.
+
+
+Paal Olstad.
+
+p-olstad@online.no

@@ -1,0 +1,10 @@
+After Dean's post on his blog about a little known mod called 6:25, (which you can read here: http://deans-wolf-blog.blogspot.com/2011/09/great-mods-youve-probably-never-heard.html)
+I decided to see if it really is that hard to come up with something interesting in such a small grid. Well, it is. I couldn't fill an entire
+episode, so it's just these 6 + 1 secret level. Perhaps I will do another episode some day. Perhaps not.
+
+The levels can be found in episode 1. The other episodes are empty so don't even bother selecting them. ;)
+
+Features:
+There is one 'twist': knifes are silent and one stab in the back kill instantly. I wanted to give this little mod a more stealthy feel.
+
+-ronwolf1705
