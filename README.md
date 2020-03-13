@@ -53,3 +53,11 @@ I couldn't get my hands on.
 7. This is useless.
 
 I know.
+
+-----------------------------------------------------------
+
+Changelog since launch:
+
+-@ symbols were replaced by (at) because reasons. This can make a few places in .bat files look silly, but things should be fine
+all in all. If you see something completely wrong, let me know
+-temporarily deleted Apogee catalogs, will fix later
