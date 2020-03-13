@@ -145,7 +145,7 @@ hookey from work or school.  (I do have priorities, after all.)  If you have
 some tidbits of information, or, heck, a whole flood of information tidbits,
 let me know and I'll put it in the FAQ along with your name in the credits.
 The best way to reach me is through the internet.  Try these addresses in
-this order: ri... (at) unh.edu, s... (at) christa.unh.edu, stod... (at) ctron.com.
+this order: ri...@unh.edu, s...@christa.unh.edu, stod...@ctron.com.
 
 [1.2]  About this FAQ
 
@@ -183,7 +183,7 @@ version or the HTML version of the Apogee FAQ.  These are listed below.
    comp.sys.ibm.pc.games.misc, and comp.sys.ibm.pc.games.action on a regular
    basis.  New versions will be posted to all three newsgroups immediately
    upon release.
- - Email:  write me at s... (at) kepler.unh.edu or stod... (at) ctron.com.
+ - Email:  write me at s...@kepler.unh.edu or stod...@ctron.com.
 
 [1.2.1.2]  Obtaining the HTML based version
  
@@ -236,13 +236,13 @@ instructions for obtaining the latest version of each, follows:
   -------               ----------       -------------
   Rise of the Triad     Rylan Hilman     FTP to ftp.uml.edu, and download
                                          /msdos/games/apogee/faq/rott.faq, or
-                                         send mail to rhi... (at) oasis.rain.com.
+                                         send mail to rhi...@oasis.rain.com.
   Wolfenstein 3D        Adam Williamson  FTP to wcl-l.bham.ac.uk and download
                                          /pub/djh/faqs/Wolfenstein-3D.faq, or
-                                         send mail to ad... (at) scss.demon.co.uk.
+                                         send mail to ad...@scss.demon.co.uk.
   Commander Keen        Bill Amon        FTP to wcl-l.bham.ac.uk and download
                                          /pub/djh/faqs/commander.keen.faq, or
-                                         send mail to wa... (at) mbunix.mitre.org.
+                                         send mail to wa...@mbunix.mitre.org.
 
 Note that you could probably get copies of any or all of these by simply
 posting a request to alt.games.apogee or comp.sys.ibm.pc.games.action.
@@ -308,7 +308,7 @@ Apogee monitors these, plus the gaming, shareware, and Apogee support
 Apogee has an Internet mailing list.  Whenever new games or slide shows are
 released (or other important information), Apogee sends the information out in
 a mailing.  If you would like to be on this mailing list, contact Joe Siegler
-(joe.s... (at) apogee1.com, joe.s... (at) swcbbs.com, or apo... (at) metronet.com, in
+(joe.s...@apogee1.com, joe.s...@swcbbs.com, or apo...@metronet.com, in
 that order).  Those email addresses send directly to Joe Siegler, and not
 to a list daemon or robot.  The mailing list is free of charge.
 
@@ -317,7 +317,7 @@ to a list daemon or robot.  The mailing list is free of charge.
 
 [1.7.3]  Finger files
 
-On the internet, you can finger apo... (at) fohnix.metronet.com, and receive all
+On the internet, you can finger apo...@fohnix.metronet.com, and receive all
 the latest information about Apogee.  Usually this entails both recent and
 upcoming releases, among other things.
 
@@ -1492,9 +1492,8 @@ number of people who have given ratings for that particular game.
 
 [3.1.5.1]  Rules of the voting system
 
-To send in your votes, send mail to one of:  ri... (at) unh.edu, s... (at) christa.unh.edu,
-
-or stod... (at) ctron.com.  Include something on the order of "Apogee Votes" in
+To send in your votes, send mail to one of:  ri...@unh.edu, s...@christa.unh.edu,
+or stod...@ctron.com.  Include something on the order of "Apogee Votes" in
 the subject line.  The body of the message should contain one or more Apogee
 games that you're voting on, one vote per game.  Your vote will be a rating
 from 1 through 10, inclusive.  Use whole numbers -- the decimals in the
@@ -2309,7 +2308,7 @@ happening, save where expressly noted below.)
                [ctrl] [F5] - add one credit to player one (nine maximum)
                [ctrl] [F8] - add one credit to player two (nine maximum)
                 [1] or [!] - set lives for player one to zero *
-                [2] or [ (at) ] - set lives for player two to zero *
+                [2] or [@] - set lives for player two to zero *
  
         * These two cheats may not work if the shift key is used for a button.
 
@@ -3117,9 +3116,9 @@ Send mail to:
 You can contact an Apogee representative from the computer networks
 listed below by using one of the given addresses.
 
-   Internet            / joe.s... (at) apogee1.com
-                         apo... (at) metronet.com
-                         joe.s... (at) swcbbs.com
+   Internet            / joe.s...@apogee1.com
+                         apo...@metronet.com
+                         joe.s...@swcbbs.com
    CompuServe          / 74200,553
    AOL                 / APOGEE
    Fidonet             / 1:124/9006
@@ -3134,49 +3133,49 @@ You can contact George Broussard on CompuServe at 73121,2743.
 
 In no particular order, thanks to:
 
-  - To Scott Symes <sy... (at) lfs.loral.com> for forwarding information about
+  - To Scott Symes <sy...@lfs.loral.com> for forwarding information about
     the relationship between Apogee and id.
-} - To Dan Cerman <dece... (at) ouray.cudenver.edu> for writing said information.
-  - To Mike Vasconcellos <mi... (at) netcom.com> for Apogee game lists.
-  - To Audry A. DeLisle <r... (at) crl.com> for information regarding MS-DOS 6.22's
+} - To Dan Cerman <dece...@ouray.cudenver.edu> for writing said information.
+  - To Mike Vasconcellos <mi...@netcom.com> for Apogee game lists.
+  - To Audry A. DeLisle <r...@crl.com> for information regarding MS-DOS 6.22's
     DriveSpace program, Apogee's recommended system configuration for it,
     Apogee games lists, and combination deal offers.
-  - To Bill Amon <wa... (at) mbunix.mitre.org> for Keen cheats and the Keen FAQ.
-  - To Rylan Hilman <hil... (at) ichips.intel.com> for more Keen cheats,
+  - To Bill Amon <wa...@mbunix.mitre.org> for Keen cheats and the Keen FAQ.
+  - To Rylan Hilman <hil...@ichips.intel.com> for more Keen cheats,
     Rise of the Triad cheats, and the Rise of the Triad FAQ.
-  - To Stanley Stasiak <sta... (at) tartarus.uwa.edu.au> for the Wolf3D FAQ.
-  - To Adam Williamson <ad... (at) scss.demon.co.uk> for taking over the Wolf3D FAQ.
-  - To Diane Winters <di... (at) netcom.com> for several cheats.
-  - To Robert Wade <rew... (at) aol.com> for the Raptor birthday mode dates.
-  - To Warren Buss <wb... (at) primenet.com> for Wolf3D and Blake Stone
+  - To Stanley Stasiak <sta...@tartarus.uwa.edu.au> for the Wolf3D FAQ.
+  - To Adam Williamson <ad...@scss.demon.co.uk> for taking over the Wolf3D FAQ.
+  - To Diane Winters <di...@netcom.com> for several cheats.
+  - To Robert Wade <rew...@aol.com> for the Raptor birthday mode dates.
+  - To Warren Buss <wb...@primenet.com> for Wolf3D and Blake Stone
     information.
-  - To Benjamin William Andrews <band... (at) pen.k12.va.us> for passing along
+  - To Benjamin William Andrews <band...@pen.k12.va.us> for passing along
     the ROTT cheats.
-  - To Vincenzo Alcamo <alc... (at) arci01.bo.cnr.it> for compiling a ROTT cheat
+  - To Vincenzo Alcamo <alc...@arci01.bo.cnr.it> for compiling a ROTT cheat
     list.
-  - To <danm3... (at) aol.com> for the Wacky Wheels hex editing instructions.
-  - To Robert Mueller <lsrl... (at) netcom.com> for miscellaneous cheat codes.
-  - To Spencer Candland <swc... (at) aol.com> for Cosmo cheats.
-  - To Kelly Youngblood <j... (at) pinn.net> for the Keen language.
-  - To <ryanj... (at) aol.com> for keeping sharp eyes on FTP sites.
-  - To Michael T. Oda <az... (at) freenet.carleton.ca> for cheat corrections.
-} - To Eric Baker <eric... (at) pctie.microbbs.us.com> for ROTT screen shots
+  - To <danm3...@aol.com> for the Wacky Wheels hex editing instructions.
+  - To Robert Mueller <lsrl...@netcom.com> for miscellaneous cheat codes.
+  - To Spencer Candland <swc...@aol.com> for Cosmo cheats.
+  - To Kelly Youngblood <j...@pinn.net> for the Keen language.
+  - To <ryanj...@aol.com> for keeping sharp eyes on FTP sites.
+  - To Michael T. Oda <az...@freenet.carleton.ca> for cheat corrections.
+} - To Eric Baker <eric...@pctie.microbbs.us.com> for ROTT screen shots
     information and various corrections.
-  - To Stanley Adams <stanle... (at) search.van.wa.us> for Keen secrets.
-  - To <jwn... (at) execpc.com> for undocumented Wacky Wheels and Raptor cheats.
-  - To Charlie Grasmick <sf... (at) mt.net> for correcting typos.
-  - To Bryce C Liu <pts... (at) prodigy.com> for observations about Wacky Wheels.
-  - To David B. Laprad <psc1... (at) frank.mtsu.edu> for some of the Paganitzu
+  - To Stanley Adams <stanle...@search.van.wa.us> for Keen secrets.
+  - To <jwn...@execpc.com> for undocumented Wacky Wheels and Raptor cheats.
+  - To Charlie Grasmick <sf...@mt.net> for correcting typos.
+  - To Bryce C Liu <pts...@prodigy.com> for observations about Wacky Wheels.
+  - To David B. Laprad <psc1...@frank.mtsu.edu> for some of the Paganitzu
     and Realms of Chaos history and prompting the discovery of the rest by
     his watchful curiosity.
-  - To Donna Wong <do... (at) omc.lan.mcgill.ca> for noticing important details.
-  - To Daniel Tobias <dto... (at) webcom.com>, senior programmer/editor for
+  - To Donna Wong <do...@omc.lan.mcgill.ca> for noticing important details.
+  - To Daniel Tobias <dto...@webcom.com>, senior programmer/editor for
     Softdisk, for extensive and precise information regarding the relationship
     between Apogee, id, and Softdisk.
-  - To Lee Jackson <lee.j... (at) p5.f9005.n124.z1.fidonet.org>, composer for
+  - To Lee Jackson <lee.j...@p5.f9005.n124.z1.fidonet.org>, composer for
     Apogee, for the history of the Apogee theme song, the Dopefish history,
     and being otherwise helpful in aiding in the development of this FAQ.
-  - Last, but certainly not least, to Joe Siegler <joe.s... (at) apogee1.com>,
+  - Last, but certainly not least, to Joe Siegler <joe.s...@apogee1.com>,
     for his undying research and patience in the face of my unending string of
     questions and requests put forth before him.  His efforts in promoting
     the accuracy and completeness of this FAQ are greatly appreciated.
@@ -3207,7 +3206,7 @@ Apologies if I missed anyone.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 --
 .......// Samuel Stoddard  //  "...He that heareth my word, and  //...
-......// - ri... (at) unh.edu - //  believeth on him that sent me,    //....
+......// - ri...@unh.edu - //  believeth on him that sent me,    //....
 .....//  Author of the   //  hath everlasting life, and shall  //.....
 ....//    Apogee FAQ.   //  not come into condemnation; but   //......
 ...//  Write me for    //  is passed from death unto life."  //.......

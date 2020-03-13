@@ -125,8 +125,8 @@ playing hookey from work or school.  (I do have priorities, after all.)  If
 you have some tidbits of information, or, heck, a whole flood of information
 tidbits, let me know and I'll put it in the FAQ along with your name in the
 credits.  The best way to reach me is through the internet.  Try these
-addresses in this order: rink (at) unh.edu, ss1 (at) christa.unh.edu,
-stoddard (at) ctron.com.
+addresses in this order: rink@unh.edu, ss1@christa.unh.edu,
+stoddard@ctron.com.
 
 [1.2]  About this FAQ
 
@@ -152,7 +152,7 @@ There are a few ways to get the latest copy:
    weeks, and in comp.sys.ibm.pc.games.misc and comp.sys.ibm.pc.games.action
    once a month.  New versions will be posted to all three newsgroups
    immediately.
- - Email:  write me at ss1 (at) kepler.unh.edu or stoddard (at) ctron.com.
+ - Email:  write me at ss1@kepler.unh.edu or stoddard@ctron.com.
 
 [1.2.2]  Revision history
 
@@ -180,12 +180,12 @@ with instructions for obtaining the latest versions, follows:
   ----                  ----------       -------------
 } Rise of the Triad     Rylan Hilman     FTP to ftp.uml.edu, and download
 }                                        /msdos/Games/Apogee/faq/rott.faq, or
-}                                        send mail to rhilman (at) oasis.rain.com.
+}                                        send mail to rhilman@oasis.rain.com.
 } Wolfenstein 3D        Stanley Stasiak  FTP to wcl-l.bham.ac.uk and download
 }                                        /pub/djh/faqs/Wolfenstein-3D.faq.
 } Commander Keen        Bill Amon        FTP to wcl-l.bham.ac.uk and download
 }                                        /pub/djh/faqs/commander.keen.faq, or
-}                                        send mail to wamon (at) mbunix.mitre.org.
+}                                        send mail to wamon@mbunix.mitre.org.
 
 Note that you could probably get copies of any or all of these by simply
 posting a request to alt.games.apogee or comp.sys.ibm.pc.games.action.
@@ -251,14 +251,14 @@ on the line.
 Apogee has an Internet mailing list.  Whenever new games or slide shows are
 released (or other important information), Apogee sends the information out in
 a mailing.  If you would like to be on this mailing list, contact Joe Siegler
-}(joe.siegler (at) swcbbs.com or apogee (at) metronet.com).  It is free of charge.
+}(joe.siegler@swcbbs.com or apogee@metronet.com).  It is free of charge.
 
 [1.7.3]  Finger files
 
-}On the internet, you can finger apogee (at) metronet.com, and receive all the
+}On the internet, you can finger apogee@metronet.com, and receive all the
 }latest information about Apogee.  Usually this entails both recent and
-}upcoming releases, among other things.  If apogee (at) metronet.com does not
-}work, try apogee (at) fohnix.metronet.com.
+}upcoming releases, among other things.  If apogee@metronet.com does not
+}work, try apogee@fohnix.metronet.com.
 
 [1.8]  Apogee's staff
 
@@ -914,8 +914,8 @@ lines.  Apogee's games are released here first before anywhere else in
 the world.  The numbers are:
 
     (508) 365-2359 2400 baud
-    (508) 368-7036  (at)  9600-14.4k v.32bis
-    (508) 365-4035  (at)  28.8k v.fc / v.34
+    (508) 368-7036 @ 9600-14.4k v.32bis
+    (508) 365-4035 @ 28.8k v.fc / v.34
 
 [5.1.2]  Anonymous FTP
 
@@ -1749,9 +1749,9 @@ Send mail to:
 You can contact an Apogee representative from the computer networks
 listed below by using one of the given addresses.
 
-   Internet            / joe.siegler (at) swcbbs.com (preferred)
-                         apogee (at) metronet.com
-                         apogee (at) aol.com
+   Internet            / joe.siegler@swcbbs.com (preferred)
+                         apogee@metronet.com
+                         apogee@aol.com
    CompuServe          / 74200,553
    AOL                 / APOGEE
    GEnie               / APOGEE
@@ -1770,24 +1770,24 @@ You can contact George Broussard on CompuServe at 73121,2743.
 
 In no particular order, thanks to:
 
-  - To Scott Symes <symes (at) lfs.loral.com> for forwarding information about
+  - To Scott Symes <symes@lfs.loral.com> for forwarding information about
     the relationship between Apogee and id.
-  - To QUAKE <decerman (at) ouray.denver.colorado.edu> for writing said
+  - To QUAKE <decerman@ouray.denver.colorado.edu> for writing said
     information.
-  - To Mike Vasconcellos <mikev (at) netcom.com> for Apogee game lists.
-  - To Audry A. DeLisle <rad (at) crl.com> for information regarding MS-DOS 6.22's
+  - To Mike Vasconcellos <mikev@netcom.com> for Apogee game lists.
+  - To Audry A. DeLisle <rad@crl.com> for information regarding MS-DOS 6.22's
     DriveSpace program, Apogee's recommended system configuration for it,
     Apogee games lists, and combination deal offers.
-  - To Bill Amon <wamon (at) mbunix.mitre.org> for Keen cheats and the Keen FAQ.
-  - To Rylan Hilman <hilman (at) ichips.intel.com> for more Keen cheats and the
+  - To Bill Amon <wamon@mbunix.mitre.org> for Keen cheats and the Keen FAQ.
+  - To Rylan Hilman <hilman@ichips.intel.com> for more Keen cheats and the
     Rise of the Triad FAQ.
-  - To Stanley Stasiak <stasiak (at) tartarus.uwa.edu.au> for the Wolf3D FAQ.
-  - To Diane Winters <diane (at) netcom.com> for several cheats.
-  - To Robert Wade <rewade (at) aol.com> for the Raptor birthday mode dates.
-  - To Warren Buss <wbuss (at) primenet.com> for Wolf3D and Blake Stone
+  - To Stanley Stasiak <stasiak@tartarus.uwa.edu.au> for the Wolf3D FAQ.
+  - To Diane Winters <diane@netcom.com> for several cheats.
+  - To Robert Wade <rewade@aol.com> for the Raptor birthday mode dates.
+  - To Warren Buss <wbuss@primenet.com> for Wolf3D and Blake Stone
     information.
-  - To Donna Wong <donna (at) omc.lan.mcgill.ca> for noticing important details.
-  - To Joe Siegler <joe.siegler (at) swcbbs.com> for a whole lotta stuff.
+  - To Donna Wong <donna@omc.lan.mcgill.ca> for noticing important details.
+  - To Joe Siegler <joe.siegler@swcbbs.com> for a whole lotta stuff.
 
 Apologies if I missed anyone.
 

@@ -178,7 +178,7 @@ but I try to make this as informative and truthful a document as I humanly
 can without playing hookey from work or school.  If you have some tidbits
 of information, or, heck, a whole flood of information tidbits, let me know
 and I'll put it in the FAQ along with your name in the credits.  You can
-reach me through the Internet at sam (at) rinkworks.com.
+reach me through the Internet at sam@rinkworks.com.
 
 [1.2]  About This FAQ
 
@@ -363,12 +363,12 @@ such as 3D Realms, and is free of charge.
 
 To sign up for the mailing list, there are a couple different options.  The
 easiest is to visit http://www.apogee1.com/tech/mailinglist.html and fill out
-the form.  Alternately, you can send mail to listadd (at) 3drealms.com and put the
+the form.  Alternately, you can send mail to listadd@3drealms.com and put the
 word "subscribe" (and only that word) in the body of the message (not the
 subject line).  You will then be sent a confirmation letter, with further
 instructions.
 
-To unsubscribe from the mailing list, send email to listadd (at) 3drealms.com
+To unsubscribe from the mailing list, send email to listadd@3drealms.com
 and put the word "unsubscribe" (and only that word) in the body of the message
 (not the subject line).
 
@@ -3916,7 +3916,7 @@ happening, save where expressly noted below.)
                [ctrl] [F5] - add one credit to player one (nine maximum)
                [ctrl] [F8] - add one credit to player two (nine maximum)
                 [1] or [!] - set lives for player one to zero *
-                [2] or [ (at) ] - set lives for player two to zero *
+                [2] or [@] - set lives for player two to zero *
 
         * These two cheats may not work if the shift key is used for a button.
 
@@ -4691,11 +4691,9 @@ happening, save where expressly noted below.)
 }
 }The cheats in Duke Nukem: Zero Hour are unique.  You can't enter "codes" to
 }get them; you must earn access to them by successfully completing levels and
-}accomplishing other tasks.  Once you have earned a secret, you'll need to start
-
+}accomplishing other tasks.  Once you have earned a secret, you'll need to start
 }a new game, and then you'll be able to enable the cheats from the main menu.
-}In addition to cheats, a new Dukematch character will become available for you.
-
+}In addition to cheats, a new Dukematch character will become available for you.
 }The following table shows which cheats are available, and what you must do to
 }earn them.  When you successfully complete the game, first person mode and the
 }Action Nukem cheat will become available.
@@ -4719,12 +4717,10 @@ happening, save where expressly noted below.)
 }15. Dawn of the Duke     All Secrets Soldier Pig         Max Ammo: SMG
 }16. Hydrogen Bomb        All Kills   Capitalist Pig      Max Ammo: Gatling Gun
 }17. The Rack             All Secrets Soldier #1          Max Ammo: Volt Cannon
-}18. Going Down (secret)  All Babes   Victorian Duke #2   Max Ammo: Sniper Rifle
-
+}18. Going Down (secret)  All Babes   Victorian Duke #2   Max Ammo: Sniper Rifle
 }19. Brainstorm           None.       Soldier #2          None.
 }20. The Brothers Nukem   All Kills   Evil Duke           Max Ammo: Freezer
-}21. Alien Mothership     All Babes   Army Duke #1        Max Ammo: Gamma Cannon
-
+}21. Alien Mothership     All Babes   Army Duke #1        Max Ammo: Gamma Cannon
 }22. Zero Hour            None.       X-Terminator        None.
 
 
@@ -4850,10 +4846,10 @@ like:
 3   + + + + + D D D !
 4   + + k   + D k D +
 5   S S     + D D D +
-6           +       +       where you are " (at) " at H-9, pushing the rock at
+6           +       +       where you are "@" at H-9, pushing the rock at
 7           + R * R +       I-9 to the right as the spider goes down the
 8         S + * * * +       "corridor" from L-9 to O-9
-9    (at)  *      #      +
+9   @ *      #      +
 10  *       + + + + +
 11        R         (
 12  + + + + + + + + +
@@ -5515,7 +5511,7 @@ To contact 3D Realms, send mail to:
 [7.4]  Through the Internet
 
 }You can contact an Apogee representative on the Internet by sending
-}email to help (at) 3drealms.com.
+}email to help@3drealms.com.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 [8]  Credits
@@ -5523,83 +5519,83 @@ To contact 3D Realms, send mail to:
 
 In no particular order, thanks to:
 
-  - To Scott Symes <symes (at) lfs.loral.com> for forwarding information about
+  - To Scott Symes <symes@lfs.loral.com> for forwarding information about
     the relationship between Apogee and id.
-  - To Dan Cerman <decerman (at) ouray.cudenver.edu> for writing said information.
-  - To Mike Vasconcellos <mikev (at) netcom.com> for Apogee game lists.
-  - To Audry A. DeLisle <rad (at) crl.com> for information regarding MS-DOS 6.22's
+  - To Dan Cerman <decerman@ouray.cudenver.edu> for writing said information.
+  - To Mike Vasconcellos <mikev@netcom.com> for Apogee game lists.
+  - To Audry A. DeLisle <rad@crl.com> for information regarding MS-DOS 6.22's
     DriveSpace program, Apogee's recommended system configuration for it,
     Apogee games lists, and combination deal offers.
-  - To Bill Amon <wamon (at) mbunix.mitre.org> for Keen cheats.
-  - To Rylan Hilman <hilman (at) ichips.intel.com> for more Keen cheats and Rise of
+  - To Bill Amon <wamon@mbunix.mitre.org> for Keen cheats.
+  - To Rylan Hilman <hilman@ichips.intel.com> for more Keen cheats and Rise of
     the Triad cheats.
-  - To Derek Greentree <derekg (at) icanect.net> for Rise of the Triad information.
-  - To Stanley Stasiak <stasiak (at) tartarus.uwa.edu.au> for Wolfenstein 3D info.
-  - To Adam Williamson <adam (at) scss.demon.co.uk> for Wolfenstein 3D and Terminal
+  - To Derek Greentree <derekg@icanect.net> for Rise of the Triad information.
+  - To Stanley Stasiak <stasiak@tartarus.uwa.edu.au> for Wolfenstein 3D info.
+  - To Adam Williamson <adam@scss.demon.co.uk> for Wolfenstein 3D and Terminal
     Velocity information.
-  - To Diane Winters <diane (at) netcom.com> for several cheats.
-  - To Robert Wade <rewade (at) aol.com> for the Raptor birthday mode dates.
-  - To Warren Buss <wbuss (at) primenet.com> for Wolf3D and Blake Stone
+  - To Diane Winters <diane@netcom.com> for several cheats.
+  - To Robert Wade <rewade@aol.com> for the Raptor birthday mode dates.
+  - To Warren Buss <wbuss@primenet.com> for Wolf3D and Blake Stone
     information.
-  - To Benjamin William Andrews <bandrews (at) pen.k12.va.us> for passing along
+  - To Benjamin William Andrews <bandrews@pen.k12.va.us> for passing along
     the ROTT cheats.
-  - To Vincenzo Alcamo <alcamo (at) arci01.bo.cnr.it> for compiling a ROTT cheat
+  - To Vincenzo Alcamo <alcamo@arci01.bo.cnr.it> for compiling a ROTT cheat
     list.
-  - To <danm360381 (at) aol.com> for the Wacky Wheels hex editing instructions.
-  - To Robert Mueller <lsrlight (at) netcom.com> for miscellaneous cheat codes.
-  - To Spencer Candland <swcteam (at) aol.com> for Cosmo cheats.
-  - To Kelly Youngblood <jry (at) pinn.net> for the Keen language.
-  - To <ryanj85154 (at) aol.com> for keeping sharp eyes on FTP sites.
-  - To Michael T. Oda <az171 (at) freenet.carleton.ca> for cheat corrections.
-  - To Eric Baker <eric.baker (at) pctie.microbbs.us.com> for ROTT screen shots
+  - To <danm360381@aol.com> for the Wacky Wheels hex editing instructions.
+  - To Robert Mueller <lsrlight@netcom.com> for miscellaneous cheat codes.
+  - To Spencer Candland <swcteam@aol.com> for Cosmo cheats.
+  - To Kelly Youngblood <jry@pinn.net> for the Keen language.
+  - To <ryanj85154@aol.com> for keeping sharp eyes on FTP sites.
+  - To Michael T. Oda <az171@freenet.carleton.ca> for cheat corrections.
+  - To Eric Baker <eric.baker@pctie.microbbs.us.com> for ROTT screen shots
     information and an abundance of tidbits.
-  - To Stanley Adams <stanley.adams (at) search.van.wa.us> for Keen secrets.
-  - To <jwnrski (at) execpc.com> for undocumented Wacky Wheels and Raptor cheats.
-  - To Charlie Grasmick <sftk (at) mt.net> for correcting typos.
-  - To Bryce C Liu <ptsm14c (at) prodigy.com> for observations about Wacky Wheels.
-  - To Deepak Khurana <deepak.cherry (at) axcess.net.in> for numerous suggestions
+  - To Stanley Adams <stanley.adams@search.van.wa.us> for Keen secrets.
+  - To <jwnrski@execpc.com> for undocumented Wacky Wheels and Raptor cheats.
+  - To Charlie Grasmick <sftk@mt.net> for correcting typos.
+  - To Bryce C Liu <ptsm14c@prodigy.com> for observations about Wacky Wheels.
+  - To Deepak Khurana <deepak.cherry@axcess.net.in> for numerous suggestions
     and information.
-  - To Nigel Dight <n.dight (at) bbcnc.org.uk> for Spear of Destiny cheats and
+  - To Nigel Dight <n.dight@bbcnc.org.uk> for Spear of Destiny cheats and
     secrets.
-  - To Andrew Leonard <aleonard (at) access.digex.net> for Wolfenstein information.
-  - To Dean A. Thompson <paxit (at) inetnebr.com> for various suggestions.
-  - To Mitch Burton <bwizard (at) bga.com> for Terminal Velocity cheats.
-  - To Cary Liao <kcobain95 (at) aol.com> for Terminal Velocity secrets.
-  - To Brian <bcbaum (at) aol.com> for information on "Strife."
-  - To Trace <trace (at) trace.ultranet.com> for the Wacky Wheels loophole.
-  - To Jonah Bishop <c/o gb (at) cs.unc.edu> for helpful suggestions.
-  - To John Bush <jbush (at) bushniki.ultranet.com> for info on "The Rings of ZON."
-  - To Doug Howell <dhowell (at) iac.net> for XenoPhage cheats, secrets, and trivia.
-  - To Bernd Wolffgramm <uzs691 (at) ibm.rhrz.uni-bonn.de> for information and
+  - To Andrew Leonard <aleonard@access.digex.net> for Wolfenstein information.
+  - To Dean A. Thompson <paxit@inetnebr.com> for various suggestions.
+  - To Mitch Burton <bwizard@bga.com> for Terminal Velocity cheats.
+  - To Cary Liao <kcobain95@aol.com> for Terminal Velocity secrets.
+  - To Brian <bcbaum@aol.com> for information on "Strife."
+  - To Trace <trace@trace.ultranet.com> for the Wacky Wheels loophole.
+  - To Jonah Bishop <c/o gb@cs.unc.edu> for helpful suggestions.
+  - To John Bush <jbush@bushniki.ultranet.com> for info on "The Rings of ZON."
+  - To Doug Howell <dhowell@iac.net> for XenoPhage cheats, secrets, and trivia.
+  - To Bernd Wolffgramm <uzs691@ibm.rhrz.uni-bonn.de> for information and
     corrections on Wolfenstein 3D's various names.
-  - To <klmatero (at) oakland.edu> for asking questions I needed to answer.
-  - To Luis Barrera <lbarrera (at) mail.aim-net.mx> for Stargunner's debug mode.
-  - To Eric Roberts <gjroberts (at) worldnet.att.net> for pointing out the omission
+  - To <klmatero@oakland.edu> for asking questions I needed to answer.
+  - To Luis Barrera <lbarrera@mail.aim-net.mx> for Stargunner's debug mode.
+  - To Eric Roberts <gjroberts@worldnet.att.net> for pointing out the omission
     of Mortimer McMire as a Keen villain.
-  - To Bernardo Rossi <b.rossi (at) intesys.it> for Raptor's record game commands.
-  - To Frans P. de Vries <fpv (at) gamers.org> for the new Wolf3D/Spear FTP site.
-  - To Adam Parkin <pzelnip (at) lightspeed.bc.ca> for noticing some errors.
-  - To Bill Witkowski <v068f2br (at) ubvms.cc.buffalo.edu> for information
+  - To Bernardo Rossi <b.rossi@intesys.it> for Raptor's record game commands.
+  - To Frans P. de Vries <fpv@gamers.org> for the new Wolf3D/Spear FTP site.
+  - To Adam Parkin <pzelnip@lightspeed.bc.ca> for noticing some errors.
+  - To Bill Witkowski <v068f2br@ubvms.cc.buffalo.edu> for information
     about the Duke Nukem level editor.
-} - To James Marble <midorikid (at) tele-net.net> for Shadow Warrior information.
-  - To David B. Laprad <dvlaprad (at) dekalb.net> for some of the Paganitzu
+} - To James Marble <midorikid@tele-net.net> for Shadow Warrior information.
+  - To David B. Laprad <dvlaprad@dekalb.net> for some of the Paganitzu
     and Realms of Chaos history and prompting the discovery of the rest by
     his watchful curiosity; for spotting the final incarnation of Crazy Baby.
-  - To Donna Wong <donna (at) omc.lan.mcgill.ca> for noticing important details.
-  - To Daniel Tobias <dtobias (at) webcom.com>, senior programmer/editor for
+  - To Donna Wong <donna@omc.lan.mcgill.ca> for noticing important details.
+  - To Daniel Tobias <dtobias@webcom.com>, senior programmer/editor for
     Softdisk, for extensive information regarding the relationship between
     Apogee, id, and Softdisk.
-  - To John Romero <john (at) ionstorm.com> for adding information to and
+  - To John Romero <john@ionstorm.com> for adding information to and
     correcting information in the Softdisk history section.
-  - To Joe Selinske <joeske (at) ritual.com> for his side of the "I'm Free"
+  - To Joe Selinske <joeske@ritual.com> for his side of the "I'm Free"
     saga, miscellaneous historical information, and helpful suggestions.
-  - To Scott Miller <scottm (at) 3drealms.com> for contributing to and
+  - To Scott Miller <scottm@3drealms.com> for contributing to and
     proofreading the Kroz history section -- and, of course, for starting it
     all.
-  - To Lee Jackson <ljackson (at) nstar.net>, composer for Apogee, for the history
+  - To Lee Jackson <ljackson@nstar.net>, composer for Apogee, for the history
     of the Apogee theme song, the Dopefish history, vocal artist credits, and
     being otherwise helpful in aiding in the development of this FAQ.
-  - Last, but certainly not least, to Joe Siegler <joes (at) 3drealms.com>,
+  - Last, but certainly not least, to Joe Siegler <joes@3drealms.com>,
     for the endless flow of wisdom he has actively and continually emanated
     in my direction.  His efforts in promoting the accuracy and completeness
     of this FAQ are greatly appreciated.

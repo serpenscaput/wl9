@@ -127,8 +127,8 @@ FAQ are true, but I try to make this as informative and truthful a document as
 I humanly can.  If you have some tidbits of information, or, heck, a whole
 flood of information tidbits, let me know and I'll put it in the FAQ along
 with your name in the credits.  The best way to reach me is through the
-internet.  Try these addresses in this order:  ss1 (at) christa.unh.edu,
-stoddard (at) ctron.com.
+internet.  Try these addresses in this order:  ss1@christa.unh.edu,
+stoddard@ctron.com.
 
 [1.2]  About this FAQ
 
@@ -156,7 +156,7 @@ maintainer of both and modeled the 3D Realms FAQ after the Apogee FAQ.
    comp.sys.ibm.pc.games.misc, and comp.sys.ibm.pc.games.action on a regular
    basis.  New versions will be posted to all three newsgroups immediately
    upon release.
- - Email:  write me at ss1 (at) christa.unh.edu or stoddard (at) ctron.com.
+ - Email:  write me at ss1@christa.unh.edu or stoddard@ctron.com.
 
 [1.2.2]  Revision history
 
@@ -184,12 +184,12 @@ fruitful.
 
    Subject            Author                 Email
    -------            ------                 -----
-   Apogee             Sam Stoddard           ss1 (at) christa.unh.edu
-   Duke Nukem 3D      Zeuxis                 zeuxis (at) wwa.com
-   Terminal Velocity  Adam Williamson        adam (at) scss.demon.co.uk
-   Wolfenstein 3D     Adam Williamson        adam (at) scss.demon.co.uk
-   Rise of the Triad  Derek Greentree        derekg (at) compass.net
-   Commander Keen     Bill Amon              wamon (at) mitre.org
+   Apogee             Sam Stoddard           ss1@christa.unh.edu
+   Duke Nukem 3D      Zeuxis                 zeuxis@wwa.com
+   Terminal Velocity  Adam Williamson        adam@scss.demon.co.uk
+   Wolfenstein 3D     Adam Williamson        adam@scss.demon.co.uk
+   Rise of the Triad  Derek Greentree        derekg@compass.net
+   Commander Keen     Bill Amon              wamon@mitre.org
 
 [1.4]  What is 3D Realms?
 
@@ -248,7 +248,7 @@ conferences on Fidonet, Rime, Intelec, ILink, and U'NI-Net.
 3D Realms has an Internet mailing list.  Whenever new games or slide shows are
 released (or other important information), 3D Realms sends the information out
 in a mailing.  If you would like to be on this mailing list, contact Joe
-Siegler (apogee.software (at) apogee1.com or apogee (at) metronet.com, in that order).
+Siegler (apogee.software@apogee1.com or apogee@metronet.com, in that order).
 Those email addresses send directly to Joe Siegler, and not to a list daemon
 or robot.  The mailing list is free of charge.
 
@@ -257,7 +257,7 @@ on one, you're on the other.
 
 [1.6.3]  Finger files
 
-}On the internet, you can finger apogee (at) 3drealms.com, and receive all
+}On the internet, you can finger apogee@3drealms.com, and receive all
 the latest information about 3D Realms.  Usually this entails both recent and
 upcoming releases, among other things.
 
@@ -477,8 +477,8 @@ number of people who have given ratings for that particular game.
 
 [3.1.5.1]  Rules of the voting system
 
-To send in your votes, send mail to one of:  ss1 (at) christa.unh.edu or
-stoddard (at) ctron.com.  Include something on the order of "3D Realms Votes" in
+To send in your votes, send mail to one of:  ss1@christa.unh.edu or
+stoddard@ctron.com.  Include something on the order of "3D Realms Votes" in
 the subject line.  The body of the message should contain one or more Apogee
 games that you're voting on, one vote per game.  Your vote will be a rating
 from 1 through 10, inclusive.  Use whole numbers -- the decimals in the
@@ -990,7 +990,7 @@ Garland, TX 75049
 You can contact a 3D Realms representative from the computer networks
 listed below by using one of the given addresses.
 
-   Internet            / 3d.realms (at) 3drealms.com
+   Internet            / 3d.realms@3drealms.com
    CompuServe          / 102052,513
    AOL                 / realms999
    Fidonet             / 1:124/9006
@@ -1005,14 +1005,14 @@ You can contact George Broussard on CompuServe at 73121,2743.
 
 In no particular order, thanks to:
 
-  - To Mitch Burton <bwizard (at) bga.com> for Terminal Velocity cheats.
-  - To kcobain95 (at) aol.com <Cary Liao> for Terminal Velocity secrets.
-  - To Adam Williamson <adam (at) scss.demon.co.uk> for the Wolfenstein 3D FAQ and
+  - To Mitch Burton <bwizard@bga.com> for Terminal Velocity cheats.
+  - To kcobain95@aol.com <Cary Liao> for Terminal Velocity secrets.
+  - To Adam Williamson <adam@scss.demon.co.uk> for the Wolfenstein 3D FAQ and
     the Terminal Velocity FAQ.
-  - To Zeuxis <zeuxis (at) wwa.com> for the Duke Nukem 3D FAQ.  
-  - To Peter Freese <74170.543 (at) compuserve.com> for the history of Blood.
-  - To Joe Selinske <joe.selinske (at) swcbbs.com> for information and suggestions.
-  - To Joe Siegler <joe.siegler (at) apogee1.com> for the endless flow of wisdom
+  - To Zeuxis <zeuxis@wwa.com> for the Duke Nukem 3D FAQ.  
+  - To Peter Freese <74170.543@compuserve.com> for the history of Blood.
+  - To Joe Selinske <joe.selinske@swcbbs.com> for information and suggestions.
+  - To Joe Siegler <joe.siegler@apogee1.com> for the endless flow of wisdom
     he has actively and continually emanated in my direction.
 
 Apologies if I missed anyone.

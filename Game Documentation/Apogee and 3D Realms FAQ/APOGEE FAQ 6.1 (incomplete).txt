@@ -1431,8 +1431,7 @@ correct some technical problems.
 --
 "Snake rules!"  "Ya, but--"  "Humbug."  "Thaynk yew!"  "Quainold."  "What?"
 "COME HERE YOU GOTTA SEE THIS!"  "Die in evil pain."  "Huh?"  "Never mind."
-"Hsk is a weenie."  "Thaynk yew."  "it'S alL sO cleAR tO mE noW."  "You turkey."
-
+"Hsk is a weenie."  "Thaynk yew."  "it'S alL sO cleAR tO mE noW."  "You turkey."
 "Yo, Fuh'rina!"  "Dude..."  "Hail to the Rink!"  "*Joy*!"  "Where's my pen?!?"
 
 [6.2.1]  Complete cheat list
@@ -1772,7 +1771,7 @@ happening, save where expressly noted below.)
                [ctrl] [F5] - add one credit to player one (nine maximum)
                [ctrl] [F8] - add one credit to player two (nine maximum)
                 [1] or [!] - set lives for player one to zero *
-                [2] or [ (at) ] - set lives for player two to zero *
+                [2] or [@] - set lives for player two to zero *
  
         * These two cheats may not work if the shift key is used for a button.
 
@@ -2648,10 +2647,10 @@ like:
 3   + + + + + D D D !
 4   + + k   + D k D +
 5   S S     + D D D +
-6           +       +       where you are " (at) " at H-9, pushing the rock at
+6           +       +       where you are "@" at H-9, pushing the rock at
 7           + R * R +       I-9 to the right as the spider goes down the
 8         S + * * * +       "corridor" from L-9 to O-9
-9    (at)  *      #      +
+9   @ *      #      +
 10  *       + + + + +
 11        R         (
 12  + + + + + + + + +
@@ -3171,7 +3170,7 @@ listed below by using one of the given addresses.
 
 To contact Apogee:
 
-   Internet            / he... (at) apogee1.com
+   Internet            / he...@apogee1.com
    CompuServe          / 74200,553
    AOL                 / APOGEE
    Fidonet             / 1:124/9006
@@ -3180,7 +3179,7 @@ To contact Apogee:
 
 To contact 3D Realms:
 
-   Internet            / he... (at) apogee1.com
+   Internet            / he...@apogee1.com
    CompuServe          / 102052,513
    AOL                 / realms999
    Fidonet             / 1:124/9006
@@ -3193,73 +3192,73 @@ To contact 3D Realms:
 
 In no particular order, thanks to:
 
-  - To Scott Symes <sy... (at) lfs.loral.com> for forwarding information about
+  - To Scott Symes <sy...@lfs.loral.com> for forwarding information about
     the relationship between Apogee and id.
-  - To Dan Cerman <dece... (at) ouray.cudenver.edu> for writing said information.
-  - To Mike Vasconcellos <mi... (at) netcom.com> for Apogee game lists.
-  - To Audry A. DeLisle <r... (at) crl.com> for information regarding MS-DOS 6.22's
+  - To Dan Cerman <dece...@ouray.cudenver.edu> for writing said information.
+  - To Mike Vasconcellos <mi...@netcom.com> for Apogee game lists.
+  - To Audry A. DeLisle <r...@crl.com> for information regarding MS-DOS 6.22's
     DriveSpace program, Apogee's recommended system configuration for it,
     Apogee games lists, and combination deal offers.
-  - To Bill Amon <wa... (at) mbunix.mitre.org> for Keen cheats.
-  - To Rylan Hilman <hil... (at) ichips.intel.com> for more Keen cheats and Rise of
+  - To Bill Amon <wa...@mbunix.mitre.org> for Keen cheats.
+  - To Rylan Hilman <hil...@ichips.intel.com> for more Keen cheats and Rise of
     the Triad cheats.
-  - To Derek Greentree <der... (at) icanect.net> for Rise of the Triad information.
-  - To Stanley Stasiak <sta... (at) tartarus.uwa.edu.au> for Wolfenstein 3D info.
-  - To Adam Williamson <ad... (at) scss.demon.co.uk> for Wolfenstein 3D and Terminal
+  - To Derek Greentree <der...@icanect.net> for Rise of the Triad information.
+  - To Stanley Stasiak <sta...@tartarus.uwa.edu.au> for Wolfenstein 3D info.
+  - To Adam Williamson <ad...@scss.demon.co.uk> for Wolfenstein 3D and Terminal
     Velocity information.
-  - To Diane Winters <di... (at) netcom.com> for several cheats.
-  - To Robert Wade <rew... (at) aol.com> for the Raptor birthday mode dates.
-  - To Warren Buss <wb... (at) primenet.com> for Wolf3D and Blake Stone
+  - To Diane Winters <di...@netcom.com> for several cheats.
+  - To Robert Wade <rew...@aol.com> for the Raptor birthday mode dates.
+  - To Warren Buss <wb...@primenet.com> for Wolf3D and Blake Stone
     information.
-  - To Benjamin William Andrews <band... (at) pen.k12.va.us> for passing along
+  - To Benjamin William Andrews <band...@pen.k12.va.us> for passing along
     the ROTT cheats.
-  - To Vincenzo Alcamo <alc... (at) arci01.bo.cnr.it> for compiling a ROTT cheat
+  - To Vincenzo Alcamo <alc...@arci01.bo.cnr.it> for compiling a ROTT cheat
     list.
-  - To <danm3... (at) aol.com> for the Wacky Wheels hex editing instructions.
-  - To Robert Mueller <lsrl... (at) netcom.com> for miscellaneous cheat codes.
-  - To Spencer Candland <swc... (at) aol.com> for Cosmo cheats.
-  - To Kelly Youngblood <j... (at) pinn.net> for the Keen language.
-  - To <ryanj... (at) aol.com> for keeping sharp eyes on FTP sites.
-  - To Michael T. Oda <az... (at) freenet.carleton.ca> for cheat corrections.
-  - To Eric Baker <eric... (at) pctie.microbbs.us.com> for ROTT screen shots
+  - To <danm3...@aol.com> for the Wacky Wheels hex editing instructions.
+  - To Robert Mueller <lsrl...@netcom.com> for miscellaneous cheat codes.
+  - To Spencer Candland <swc...@aol.com> for Cosmo cheats.
+  - To Kelly Youngblood <j...@pinn.net> for the Keen language.
+  - To <ryanj...@aol.com> for keeping sharp eyes on FTP sites.
+  - To Michael T. Oda <az...@freenet.carleton.ca> for cheat corrections.
+  - To Eric Baker <eric...@pctie.microbbs.us.com> for ROTT screen shots
     information and an abundance of tidbits.
-  - To Stanley Adams <stanle... (at) search.van.wa.us> for Keen secrets.
-  - To <jwn... (at) execpc.com> for undocumented Wacky Wheels and Raptor cheats.
-  - To Charlie Grasmick <sf... (at) mt.net> for correcting typos.
-  - To Bryce C Liu <pts... (at) prodigy.com> for observations about Wacky Wheels.
-  - To Deepak Khurana <deepak... (at) axcess.net.in> for numerous suggestions
+  - To Stanley Adams <stanle...@search.van.wa.us> for Keen secrets.
+  - To <jwn...@execpc.com> for undocumented Wacky Wheels and Raptor cheats.
+  - To Charlie Grasmick <sf...@mt.net> for correcting typos.
+  - To Bryce C Liu <pts...@prodigy.com> for observations about Wacky Wheels.
+  - To Deepak Khurana <deepak...@axcess.net.in> for numerous suggestions
     and information.
-  - To Nigel Dight <n.d... (at) bbcnc.org.uk> for Spear of Destiny cheats and
+  - To Nigel Dight <n.d...@bbcnc.org.uk> for Spear of Destiny cheats and
     secrets.
-  - To Andrew Leonard <aleo... (at) access.digex.net> for Wolfenstein information.
-  - To Dean A. Thompson <pa... (at) inetnebr.com> for various suggestions.
-  - To Mitch Burton <bwi... (at) bga.com> for Terminal Velocity cheats.
-  - To kcob... (at) aol.com <Cary Liao> for Terminal Velocity secrets.
-  - To Brian <bcb... (at) aol.com> for information on "Strife."
-  - To Trace <tr... (at) trace.ultranet.com> for the Wacky Wheels loophole.
-  - To Jonah Bishop <c/o g... (at) cs.unc.edu> for helpful suggestions.
-  - To John Bush <jb... (at) bushniki.ultranet.com> for info on "The Rings of ZON."
-  - To Doug Howell <dho... (at) iac.net> for XenoPhage cheats, secrets, and trivia.
-  - To Bernd Wolffgramm <uzs... (at) ibm.rhrz.uni-bonn.de> for information and
+  - To Andrew Leonard <aleo...@access.digex.net> for Wolfenstein information.
+  - To Dean A. Thompson <pa...@inetnebr.com> for various suggestions.
+  - To Mitch Burton <bwi...@bga.com> for Terminal Velocity cheats.
+  - To kcob...@aol.com <Cary Liao> for Terminal Velocity secrets.
+  - To Brian <bcb...@aol.com> for information on "Strife."
+  - To Trace <tr...@trace.ultranet.com> for the Wacky Wheels loophole.
+  - To Jonah Bishop <c/o g...@cs.unc.edu> for helpful suggestions.
+  - To John Bush <jb...@bushniki.ultranet.com> for info on "The Rings of ZON."
+  - To Doug Howell <dho...@iac.net> for XenoPhage cheats, secrets, and trivia.
+  - To Bernd Wolffgramm <uzs...@ibm.rhrz.uni-bonn.de> for information and
     corrections on Wolfenstein 3D's various names.
-  - To David B. Laprad <dvla... (at) dekalb.net> for some of the Paganitzu
+  - To David B. Laprad <dvla...@dekalb.net> for some of the Paganitzu
     and Realms of Chaos history and prompting the discovery of the rest by
 }   his watchful curiosity; for spotting the final incarnation of Crazy Baby.
-  - To Donna Wong <do... (at) omc.lan.mcgill.ca> for noticing important details.
-  - To Daniel Tobias <dto... (at) webcom.com>, senior programmer/editor for
+  - To Donna Wong <do...@omc.lan.mcgill.ca> for noticing important details.
+  - To Daniel Tobias <dto...@webcom.com>, senior programmer/editor for
     Softdisk, for extensive information regarding the relationship between
     Apogee, id, and Softdisk.
-} - To John Romero <jro... (at) unicomp.net> for adding information to and
+} - To John Romero <jro...@unicomp.net> for adding information to and
 }   correcting information in the Softdisk history section.
-  - To Joe Selinske <joe... (at) terminalreality.com> for his side of the "I'm Free"
+  - To Joe Selinske <joe...@terminalreality.com> for his side of the "I'm Free"
     saga, miscellaneous historical information, and helpful suggestions.
-  - To Scott Miller <sc... (at) apogee1.com> for contributing to and
+  - To Scott Miller <sc...@apogee1.com> for contributing to and
     proofreading the Kroz history section -- and, of course, for starting it
     all.
-  - To Lee Jackson <ljac... (at) intex.net>, composer for Apogee, for the history
+  - To Lee Jackson <ljac...@intex.net>, composer for Apogee, for the history
     of the Apogee theme song, the Dopefish history, and being otherwise helpful
     in aiding in the development of this FAQ.
-  - Last, but certainly not least, to Joe Siegler <joe.s... (at) apogee1.com>,
+  - Last, but certainly not least, to Joe Siegler <joe.s...@apogee1.com>,
     for the endless flow of wisdom he has actively and continually emanated
     in my direction.  His efforts in promoting the accuracy and completeness
     of this FAQ are greatly appreciated.
@@ -3296,6 +3295,5 @@ Apologies if I missed anyone.
 --
 "Snake rules!"  "Ya, but--"  "Humbug."  "Thaynk yew!"  "Quainold."  "What?"
 "COME HERE YOU GOTTA SEE THIS!"  "Die in evil pain."  "Huh?"  "Never mind."
-"Hsk is a weenie."  "Thaynk yew."  "it'S alL sO cleAR tO mE noW."  "You turkey."
-
+"Hsk is a weenie."  "Thaynk yew."  "it'S alL sO cleAR tO mE noW."  "You turkey."
 "Yo, Fuh'rina!"  "Dude..."  "Hail to the Rink!"  "*Joy*!"  "Where's my pen?!?"

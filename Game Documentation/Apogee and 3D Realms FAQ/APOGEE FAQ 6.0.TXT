@@ -1,6 +1,6 @@
-From RINK (at) unh.edu Sat Feb 22 15:01:03 1997
+From RINK@unh.edu Sat Feb 22 15:01:03 1997
 Date: Sat, 22 Feb 1997 03:04:18 -0500 (EST)
-From: The Rink <RINK (at) unh.edu>
+From: The Rink <RINK@unh.edu>
 To: List Receivers
 Subject: Apogee FAQ v6.0 (Yes, a new version!)
 
@@ -191,7 +191,7 @@ this as informative and truthful a document as I humanly can without playing
 hookey from work or school.  If you have some tidbits of information, or,
 heck, a whole flood of information tidbits, let me know and I'll put it in
 the FAQ along with your name in the credits.  You can reach me through the
-Internet at ss1 (at) christa.unh.edu.
+Internet at ss1@christa.unh.edu.
 
 [1.2]  About This FAQ
 
@@ -212,7 +212,7 @@ and generously to its creation and growth; for that, I offer my sincere thanks.
                      comp.sys.ibm.pc.games.action on a regular basis.
                      New versions will be posted to all three newsgroups
                      immediately upon release.
-}- Through Email   - Write me at ss1 (at) christa.unh.edu.
+}- Through Email   - Write me at ss1@christa.unh.edu.
 
 [1.2.2]  Revision history
 
@@ -367,7 +367,7 @@ Apogee monitors these, plus the gaming, shareware, and Apogee support
 }mailing list includes information about any of Apogee's specialized divisions,
 }such as 3D Realms, and is free of charge.
 }
-}To sign up for the mailing list, send email to majordomo (at) apogee1.com and
+}To sign up for the mailing list, send email to majordomo@apogee1.com and
 }include, in the body of the message, a line reading:
 }
 }            subscribe info EMAIL
@@ -375,7 +375,7 @@ Apogee monitors these, plus the gaming, shareware, and Apogee support
 }...where EMAIL is your email address.  You should be sent a message confirming
 }that you're subscribed almost instantly; if you don't, it may be that you
 }supplied an incorrect email address.  CompuServe users should supply their
-}email addresses in the form XXXXX.XXX (at) compuserve.com.
+}email addresses in the form XXXXX.XXX@compuserve.com.
 }
 }To unsubscribe yourself from the mailing list, send email reading:
 }
@@ -565,8 +565,7 @@ Romero, and James T. Row.
 
 [2.1.3]  What's Apogee's relationship with Parallax?
 
-}Originally, the game Descent, written by Parallax and distributed by Interplay,
-
+}Originally, the game Descent, written by Parallax and distributed by Interplay,
 }was to be an Apogee game.  Due to financial issues, Apogee cancelled it, and
 }Interplay picked it up.  However, the game was apparently under Apogee's roof
 }long enough to make an impression on the final product.  In the credits for
@@ -1225,8 +1224,7 @@ screens.
 }Super Boppin.
 }
 }The initial version of Boppin contained a disturbing, gory logo, as well as
-}bloody suicide sequences when you failed to solve one of the puzzles correctly.
-
+}bloody suicide sequences when you failed to solve one of the puzzles correctly.
 }These were put in the game by the company that made it, Accursed Toys.
 }However, Apogee, Boppin's distributor, found the gore to be gratuitous and out
 }of place and attached a message to the game disclaiming the violent aspects of
@@ -1639,8 +1637,7 @@ Name                         Size  Genre Filename     Price  Ep  Ver  Med Gph
 }Death Rally                 6958k Race  #1ral11.zip  $29.95 N/A 1.1   C  S`
 }XenoPhage: Alien Bloodsport 6438k Fight #1xeno11.zip $34.95 N/A 1.1   C  S~
  Realms of Chaos             2544k Plat  #1roc.zip    $24.95  3  1.0  D/C V~
- Rise of the Triad           3661k 3DAct #1rott13.zip $29.95  5  1.3   C  V*"^~=
-
+ Rise of the Triad           3661k 3DAct #1rott13.zip $29.95  5  1.3   C  V*"^~=
 }Boppin                      1349k Puzzl #1bop11.zip  $29.95  4  1.1   D  V`
  Wacky Wheels                1664k Race  #1wacky.zip  $34.95  6  1.1   C  V
  Mystic Towers               1204k 3DPuz #1mystic.zip $24.95  6  1.1   D  V
@@ -3043,8 +3040,7 @@ held the position, but, when he left, he was replaced by Robert Atkins.
 [5.1.1]  The Internet
 
 }You can download the shareware versions of Apogee games from their web page,
-}http://www.apogee1.com/.  The file area is:  http://www.apogee1.com/files.html.
-
+}http://www.apogee1.com/.  The file area is:  http://www.apogee1.com/files.html.
 }
 }Or, you can download them via anonymous FTP at the following sites:
 
@@ -3540,7 +3536,7 @@ happening, save where expressly noted below.)
                [ctrl] [F5] - add one credit to player one (nine maximum)
                [ctrl] [F8] - add one credit to player two (nine maximum)
                 [1] or [!] - set lives for player one to zero *
-                [2] or [ (at) ] - set lives for player two to zero *
+                [2] or [@] - set lives for player two to zero *
  
         * These two cheats may not work if the shift key is used for a button.
 
@@ -4391,10 +4387,10 @@ like:
 3   + + + + + D D D !
 4   + + k   + D k D +
 5   S S     + D D D +
-6           +       +       where you are " (at) " at H-9, pushing the rock at
+6           +       +       where you are "@" at H-9, pushing the rock at
 7           + R * R +       I-9 to the right as the spider goes down the
 8         S + * * * +       "corridor" from L-9 to O-9
-9    (at)  *      #      +
+9   @ *      #      +
 10  *       + + + + +
 11        R         (
 12  + + + + + + + + +
@@ -4894,8 +4890,7 @@ Central Time on Mondays through Friday.  It is also closed for major national
 
 [7.2]  By Fax
 
-}Apogee's fax number is (972) 278-4670.  Be sure to include a return fax number.
-
+}Apogee's fax number is (972) 278-4670.  Be sure to include a return fax number.
 }This number may also be used to contact one of Apogee's specialized divisions
 }such as 3D Realms.
 
@@ -4922,7 +4917,7 @@ listed below by using one of the given addresses.
 
 }To contact Apogee:
 
-}  Internet            / help (at) apogee1.com
+}  Internet            / help@apogee1.com
    CompuServe          / 74200,553
    AOL                 / APOGEE
    Fidonet             / 1:124/9006
@@ -4931,7 +4926,7 @@ listed below by using one of the given addresses.
 
 }To contact 3D Realms:
 
-}  Internet            / help (at) apogee1.com
+}  Internet            / help@apogee1.com
    CompuServe          / 102052,513
    AOL                 / realms999
    Fidonet             / 1:124/9006
@@ -4944,71 +4939,71 @@ listed below by using one of the given addresses.
 
 In no particular order, thanks to:
 
-  - To Scott Symes <symes (at) lfs.loral.com> for forwarding information about
+  - To Scott Symes <symes@lfs.loral.com> for forwarding information about
     the relationship between Apogee and id.
-  - To Dan Cerman <decerman (at) ouray.cudenver.edu> for writing said information.
-  - To Mike Vasconcellos <mikev (at) netcom.com> for Apogee game lists.
-  - To Audry A. DeLisle <rad (at) crl.com> for information regarding MS-DOS 6.22's
+  - To Dan Cerman <decerman@ouray.cudenver.edu> for writing said information.
+  - To Mike Vasconcellos <mikev@netcom.com> for Apogee game lists.
+  - To Audry A. DeLisle <rad@crl.com> for information regarding MS-DOS 6.22's
     DriveSpace program, Apogee's recommended system configuration for it,
     Apogee games lists, and combination deal offers.
-  - To Bill Amon <wamon (at) mbunix.mitre.org> for Keen cheats.
-  - To Rylan Hilman <hilman (at) ichips.intel.com> for more Keen cheats and Rise of
+  - To Bill Amon <wamon@mbunix.mitre.org> for Keen cheats.
+  - To Rylan Hilman <hilman@ichips.intel.com> for more Keen cheats and Rise of
     the Triad cheats.
-  - To Derek Greentree <derekg (at) icanect.net> for Rise of the Triad information.
-  - To Stanley Stasiak <stasiak (at) tartarus.uwa.edu.au> for Wolfenstein 3D info.
-  - To Adam Williamson <adam (at) scss.demon.co.uk> for Wolfenstein 3D and Terminal
+  - To Derek Greentree <derekg@icanect.net> for Rise of the Triad information.
+  - To Stanley Stasiak <stasiak@tartarus.uwa.edu.au> for Wolfenstein 3D info.
+  - To Adam Williamson <adam@scss.demon.co.uk> for Wolfenstein 3D and Terminal
     Velocity information.
-  - To Diane Winters <diane (at) netcom.com> for several cheats.
-  - To Robert Wade <rewade (at) aol.com> for the Raptor birthday mode dates.
-  - To Warren Buss <wbuss (at) primenet.com> for Wolf3D and Blake Stone
+  - To Diane Winters <diane@netcom.com> for several cheats.
+  - To Robert Wade <rewade@aol.com> for the Raptor birthday mode dates.
+  - To Warren Buss <wbuss@primenet.com> for Wolf3D and Blake Stone
     information.
-  - To Benjamin William Andrews <bandrews (at) pen.k12.va.us> for passing along
+  - To Benjamin William Andrews <bandrews@pen.k12.va.us> for passing along
     the ROTT cheats.
-  - To Vincenzo Alcamo <alcamo (at) arci01.bo.cnr.it> for compiling a ROTT cheat
+  - To Vincenzo Alcamo <alcamo@arci01.bo.cnr.it> for compiling a ROTT cheat
     list.
-  - To <danm360381 (at) aol.com> for the Wacky Wheels hex editing instructions.
-  - To Robert Mueller <lsrlight (at) netcom.com> for miscellaneous cheat codes.
-  - To Spencer Candland <swcteam (at) aol.com> for Cosmo cheats.
-  - To Kelly Youngblood <jry (at) pinn.net> for the Keen language.
-  - To <ryanj85154 (at) aol.com> for keeping sharp eyes on FTP sites.
-  - To Michael T. Oda <az171 (at) freenet.carleton.ca> for cheat corrections.
-  - To Eric Baker <eric.baker (at) pctie.microbbs.us.com> for ROTT screen shots
+  - To <danm360381@aol.com> for the Wacky Wheels hex editing instructions.
+  - To Robert Mueller <lsrlight@netcom.com> for miscellaneous cheat codes.
+  - To Spencer Candland <swcteam@aol.com> for Cosmo cheats.
+  - To Kelly Youngblood <jry@pinn.net> for the Keen language.
+  - To <ryanj85154@aol.com> for keeping sharp eyes on FTP sites.
+  - To Michael T. Oda <az171@freenet.carleton.ca> for cheat corrections.
+  - To Eric Baker <eric.baker@pctie.microbbs.us.com> for ROTT screen shots
     information and an abundance of tidbits.
-  - To Stanley Adams <stanley.adams (at) search.van.wa.us> for Keen secrets.
-  - To <jwnrski (at) execpc.com> for undocumented Wacky Wheels and Raptor cheats.
-  - To Charlie Grasmick <sftk (at) mt.net> for correcting typos.
-  - To Bryce C Liu <ptsm14c (at) prodigy.com> for observations about Wacky Wheels.
-  - To Deepak Khurana <deepak.cherry (at) axcess.net.in> for numerous suggestions
+  - To Stanley Adams <stanley.adams@search.van.wa.us> for Keen secrets.
+  - To <jwnrski@execpc.com> for undocumented Wacky Wheels and Raptor cheats.
+  - To Charlie Grasmick <sftk@mt.net> for correcting typos.
+  - To Bryce C Liu <ptsm14c@prodigy.com> for observations about Wacky Wheels.
+  - To Deepak Khurana <deepak.cherry@axcess.net.in> for numerous suggestions
     and information.
-  - To Nigel Dight <n.dight (at) bbcnc.org.uk> for Spear of Destiny cheats and
+  - To Nigel Dight <n.dight@bbcnc.org.uk> for Spear of Destiny cheats and
     secrets.
-  - To Andrew Leonard <aleonard (at) access.digex.net> for Wolfenstein information.
-  - To Dean A. Thompson <paxit (at) inetnebr.com> for various suggestions.
-} - To Mitch Burton <bwizard (at) bga.com> for Terminal Velocity cheats.
-} - To kcobain95 (at) aol.com <Cary Liao> for Terminal Velocity secrets.
-} - To Brian <bcbaum (at) aol.com> for information on "Strife."
-} - To Trace <trace (at) trace.ultranet.com> for the Wacky Wheels loophole.
-} - To Jonah Bishop <c/o gb (at) cs.unc.edu> for helpful suggestions.
-} - To John Bush <jbush (at) bushniki.ultranet.com> for info on "The Rings of ZON."
-} - To Doug Howell <dhowell (at) iac.net> for XenoPhage cheats, secrets, and trivia.
-} - To Bernd Wolffgramm <uzs691 (at) ibm.rhrz.uni-bonn.de> for information and
+  - To Andrew Leonard <aleonard@access.digex.net> for Wolfenstein information.
+  - To Dean A. Thompson <paxit@inetnebr.com> for various suggestions.
+} - To Mitch Burton <bwizard@bga.com> for Terminal Velocity cheats.
+} - To kcobain95@aol.com <Cary Liao> for Terminal Velocity secrets.
+} - To Brian <bcbaum@aol.com> for information on "Strife."
+} - To Trace <trace@trace.ultranet.com> for the Wacky Wheels loophole.
+} - To Jonah Bishop <c/o gb@cs.unc.edu> for helpful suggestions.
+} - To John Bush <jbush@bushniki.ultranet.com> for info on "The Rings of ZON."
+} - To Doug Howell <dhowell@iac.net> for XenoPhage cheats, secrets, and trivia.
+} - To Bernd Wolffgramm <uzs691@ibm.rhrz.uni-bonn.de> for information and
 }   corrections on Wolfenstein 3D's various names.
-} - To David B. Laprad <dvlaprad (at) dekalb.net> for some of the Paganitzu
+} - To David B. Laprad <dvlaprad@dekalb.net> for some of the Paganitzu
     and Realms of Chaos history and prompting the discovery of the rest by
     his watchful curiosity.
-  - To Donna Wong <donna (at) omc.lan.mcgill.ca> for noticing important details.
-  - To Daniel Tobias <dtobias (at) webcom.com>, senior programmer/editor for
+  - To Donna Wong <donna@omc.lan.mcgill.ca> for noticing important details.
+  - To Daniel Tobias <dtobias@webcom.com>, senior programmer/editor for
     Softdisk, for extensive and precise information regarding the relationship
     between Apogee, id, and Softdisk.
-} - To Scott Miller <scott (at) apogee1.com> for contributing to and
+} - To Scott Miller <scott@apogee1.com> for contributing to and
     proofreading the Kroz history section -- and, of course, for starting it
     all.
-} - To Joe Selinske <joeske (at) terminalreality.com> for his side of the "I'm Free"
+} - To Joe Selinske <joeske@terminalreality.com> for his side of the "I'm Free"
     saga, miscellaneous historical information, and helpful suggestions.
-  - To Lee Jackson <ljackson (at) intex.net>, composer for Apogee, for the history
+  - To Lee Jackson <ljackson@intex.net>, composer for Apogee, for the history
     of the Apogee theme song, the Dopefish history, and being otherwise helpful
     in aiding in the development of this FAQ.
-  - Last, but certainly not least, to Joe Siegler <joe.siegler (at) apogee1.com>,
+  - Last, but certainly not least, to Joe Siegler <joe.siegler@apogee1.com>,
     for the endless flow of wisdom he has actively and continually emanated
     in my direction.  His efforts in promoting the accuracy and completeness
     of this FAQ are greatly appreciated.

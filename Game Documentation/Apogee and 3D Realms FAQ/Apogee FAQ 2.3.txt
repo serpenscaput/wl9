@@ -128,8 +128,8 @@ playing hookey from work or school.  (I do have priorities, after all.)  If
 you have some tidbits of information, or, heck, a whole flood of information
 tidbits, let me know and I'll put it in the FAQ along with your name in the
 credits.  The best way to reach me is through the internet.  Try these
-addresses in this order: ri... (at) unh.edu, s... (at) christa.unh.edu,
-stod... (at) ctron.com.
+addresses in this order: ri...@unh.edu, s...@christa.unh.edu,
+stod...@ctron.com.
 
 [1.2]  About this FAQ
 
@@ -155,7 +155,7 @@ There are a few ways to get the latest copy:
    weeks, and in comp.sys.ibm.pc.games.misc and comp.sys.ibm.pc.games.action
    once a month.  New versions will be posted to all three newsgroups
    immediately.
- - Email:  write me at s... (at) kepler.unh.edu or stod... (at) ctron.com.
+ - Email:  write me at s...@kepler.unh.edu or stod...@ctron.com.
 
 [1.2.2]  Revision history
 
@@ -186,12 +186,12 @@ with instructions for obtaining the latest versions, follows:
   ----                  ----------       -------------
   Rise of the Triad     Rylan Hilman     FTP to ftp.uml.edu, and download
 }                                        /msdos/games/apogee/faq/rott.faq, or
-                                         send mail to rhi... (at) oasis.rain.com.
+                                         send mail to rhi...@oasis.rain.com.
   Wolfenstein 3D        Stanley Stasiak  FTP to wcl-l.bham.ac.uk and download
                                          /pub/djh/faqs/Wolfenstein-3D.faq.
   Commander Keen        Bill Amon        FTP to wcl-l.bham.ac.uk and download
                                          /pub/djh/faqs/commander.keen.faq, or
-                                         send mail to wa... (at) mbunix.mitre.org.
+                                         send mail to wa...@mbunix.mitre.org.
 
 Note that you could probably get copies of any or all of these by simply
 posting a request to alt.games.apogee or comp.sys.ibm.pc.games.action.
@@ -258,14 +258,14 @@ and comp.sys.ibm.pc.games.misc, and alt.games.apogee all carry discussion
 Apogee has an Internet mailing list.  Whenever new games or slide shows are
 released (or other important information), Apogee sends the information out in
 a mailing.  If you would like to be on this mailing list, contact Joe Siegler
-(joe.s... (at) swcbbs.com or apo... (at) metronet.com).  It is free of charge.
+(joe.s...@swcbbs.com or apo...@metronet.com).  It is free of charge.
 
 [1.7.3]  Finger files
 
-}On the internet, you can finger apo... (at) fohnix.metronet.com, and receive all
+}On the internet, you can finger apo...@fohnix.metronet.com, and receive all
 the latest information about Apogee.  Usually this entails both recent and
-}upcoming releases, among other things.  If apo... (at) fohnix.metronet.com does
-}not work, try apo... (at) metronet.com.
+}upcoming releases, among other things.  If apo...@fohnix.metronet.com does
+}not work, try apo...@metronet.com.
 
 [1.8]  Apogee's staff
 
@@ -1081,8 +1081,8 @@ lines.  Apogee's games are released here first before anywhere else in
 the world.  The numbers are:
 
     (508) 365-2359 2400 baud
-    (508) 368-7036  (at)  9600-14.4k v.32bis
-    (508) 365-4035  (at)  28.8k v.fc / v.34
+    (508) 368-7036 @ 9600-14.4k v.32bis
+    (508) 365-4035 @ 28.8k v.fc / v.34
 
 [5.1.2]  Anonymous FTP
 
@@ -1275,22 +1275,18 @@ under "Contacting Apogee."
 }The MIDI PORT parameter will only be needed if you are using a card that has
 }MIDI capabilites.  If so, this is where you define what MIDI port you are
 }using.  330 seems to be the default, so if you have a MIDI card, and you
-}haven't changed anything from factory defaults, this is probably where it still
-
+}haven't changed anything from factory defaults, this is probably where it still
 }is.
 }
 }The HIGH DMA CHANNEL is something that is used primarily on Sound Blaster 16
 }cards.  This is not the same as the standard DMA channel, this is a different
 }one.  This is only used if you're using a 16 bit sound card capable of playing
-}16 bit Sound Blaster sounds.  By default, this is usually 5, so unless you know
-
+}16 bit Sound Blaster sounds.  By default, this is usually 5, so unless you know
 }that it's something else, it's probably still 5.
 }
 }The E620 parameter is something that is needed _only_ if you have a Creative
-}Labs AWE32 sound card.  If you have one of these, this parameter will have been
-
-}set up properly assuming you've installed the software that came with the card.
-
+}Labs AWE32 sound card.  If you have one of these, this parameter will have been
+}set up properly assuming you've installed the software that came with the card.
 }Check your AWE32 documentation for a more thorough explanation of what this
 }parameter is used for.
 }
@@ -1436,7 +1432,7 @@ happening, save where expressly noted below.)
                [ctrl] [F5] - add one credit to player one (nine maximum)
                [ctrl] [F8] - add one credit to player two (nine maximum)
                 [1] or [!] - set lives for player one to zero *
-                [2] or [ (at) ] - set lives for player two to zero *
+                [2] or [@] - set lives for player two to zero *
 
         * These two cheats may not work if the shift key is used for a button.
 
@@ -2003,9 +1999,9 @@ Send mail to:
 You can contact an Apogee representative from the computer networks
 listed below by using one of the given addresses.
 
-   Internet            / joe.s... (at) swcbbs.com (preferred)
-                         apo... (at) metronet.com
-                         apo... (at) aol.com
+   Internet            / joe.s...@swcbbs.com (preferred)
+                         apo...@metronet.com
+                         apo...@aol.com
    CompuServe          / 74200,553
    AOL                 / APOGEE
    GEnie               / APOGEE
@@ -2022,24 +2018,24 @@ You can contact George Broussard on CompuServe at 73121,2743.
 
 In no particular order, thanks to:
 
-  - To Scott Symes <sy... (at) lfs.loral.com> for forwarding information about
+  - To Scott Symes <sy...@lfs.loral.com> for forwarding information about
     the relationship between Apogee and id.
-  - To QUAKE <dece... (at) ouray.denver.colorado.edu> for writing said
+  - To QUAKE <dece...@ouray.denver.colorado.edu> for writing said
     information.
-  - To Mike Vasconcellos <mi... (at) netcom.com> for Apogee game lists.
-  - To Audry A. DeLisle <r... (at) crl.com> for information regarding MS-DOS 6.22's
+  - To Mike Vasconcellos <mi...@netcom.com> for Apogee game lists.
+  - To Audry A. DeLisle <r...@crl.com> for information regarding MS-DOS 6.22's
     DriveSpace program, Apogee's recommended system configuration for it,
     Apogee games lists, and combination deal offers.
-  - To Bill Amon <wa... (at) mbunix.mitre.org> for Keen cheats and the Keen FAQ.
-  - To Rylan Hilman <hil... (at) ichips.intel.com> for more Keen cheats and the
+  - To Bill Amon <wa...@mbunix.mitre.org> for Keen cheats and the Keen FAQ.
+  - To Rylan Hilman <hil...@ichips.intel.com> for more Keen cheats and the
     Rise of the Triad FAQ.
-  - To Stanley Stasiak <sta... (at) tartarus.uwa.edu.au> for the Wolf3D FAQ.
-  - To Diane Winters <di... (at) netcom.com> for several cheats.
-  - To Robert Wade <rew... (at) aol.com> for the Raptor birthday mode dates.
-  - To Warren Buss <wb... (at) primenet.com> for Wolf3D and Blake Stone
+  - To Stanley Stasiak <sta...@tartarus.uwa.edu.au> for the Wolf3D FAQ.
+  - To Diane Winters <di...@netcom.com> for several cheats.
+  - To Robert Wade <rew...@aol.com> for the Raptor birthday mode dates.
+  - To Warren Buss <wb...@primenet.com> for Wolf3D and Blake Stone
     information.
-  - To Donna Wong <do... (at) omc.lan.mcgill.ca> for noticing important details.
-  - To Joe Siegler <joe.s... (at) swcbbs.com> for a whole lotta stuff.
+  - To Donna Wong <do...@omc.lan.mcgill.ca> for noticing important details.
+  - To Joe Siegler <joe.s...@swcbbs.com> for a whole lotta stuff.
 
 Apologies if I missed anyone.
 
@@ -2063,7 +2059,7 @@ Apologies if I missed anyone.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 --
-s... (at) kepler.unh.edu    +----------------------------------------------------+
+s...@kepler.unh.edu    +----------------------------------------------------+
                       | And God shall wipe away all tears from their eyes; |
 +---------------------| and there shall be no more death,  neither sorrow, |
 | Surely goodness and | nor crying,  neither shall there be any more pain: |
