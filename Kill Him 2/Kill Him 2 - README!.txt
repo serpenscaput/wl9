@@ -2,7 +2,7 @@
 Do not copy this game or remake (edit) this game!
 Fox Software all rights reserved!
 guestions? then mail it to:
-gamefreakangelo@hotmail.com
+gamefreakangelo (at) hotmail.com
 
 Kill Him 2 needs the full registered version of Spear Of Destiny to play.
 

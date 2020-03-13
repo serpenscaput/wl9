@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 
 rem  MENU.BAT   Works with DOSMENU.EXE to create an easy to use menu system
 rem             to launch DOS applications. The use of a batch file frees 

@@ -1,6 +1,6 @@
 StarShipTroopers Demo
 Author:Steve Johnson aka"Thealienfan"
-Email:Thealienfan@hotmail.com
+Email:Thealienfan (at) hotmail.com
 Webpage:www.geocities.com/colonialmarinestc/
 Other works:I have two realesed Half-Life map packs "halflife:xen" and "Black bag 
 Ops"
@@ -30,12 +30,12 @@ to put one down so just keep shooting (AND SEACRH FOR THE AMMO!)
 
 Please send me feedback on what you'd like to see and if you can help me! Or just 
 send me an email telling me 
-how good/crappy it was. :)Thealienfan@hotmail.com
+how good/crappy it was. :)Thealienfan (at) hotmail.com
 
 
 Copyright
 DO NOT I REPEAT DO NOT STEAL ANY OF THIS MOD AND CAlL IT YOUR OWN DONT USE THE aRT 
 IN YOUR OWN MOD/TC/MAP/ENGine/ANYTHING
 I WiLL KICK YOUR ASS! No Really hehe if your gonna use My art please Contact me! 
-THEALIENFAN@HOTMAIL.COM
+THEALIENFAN (at) HOTMAIL.COM
 If you make user maps Please tell me where i can get em! 

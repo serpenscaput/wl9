@@ -12,7 +12,7 @@
  
                    me a line and let me know,
 
-                                       Harry Sr     wa4gih@netzero.net
+                                       Harry Sr     wa4gih (at) netzero.net
 
                     
 

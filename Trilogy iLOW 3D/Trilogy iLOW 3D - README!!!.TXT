@@ -22,9 +22,9 @@ Thanks to:
 
 suggestion, question, bug report:
     
-	- email @ ipank7000@fmguy.com
+	- email  (at)  ipank7000 (at) fmguy.com
 	- PM me in DHW forum (Ipank7000) or in Wolf3d Haven forum (Ipank7000)
-	- Follow twitter @Ipank7000
+	- Follow twitter  (at) Ipank7000
 
 (Sorry for very late and lame answers because i'm so busy until next july/August) 
 

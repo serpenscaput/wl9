@@ -38,7 +38,7 @@ a TRANSGROSSE or 2 and of course, THE ANGEL OF DEATH is in residence somewhere i
 the castle. Have a great visit and I'll see you on "The Other Side"...........Bobby 
 Bucksnort
 
-If you have problems or questions, EMAIL me : webmaster@themutantco.cjb.net or mutantmaker@themutantco.cjb.net
+If you have problems or questions, EMAIL me : webmaster (at) themutantco.cjb.net or mutantmaker (at) themutantco.cjb.net
 
 
 

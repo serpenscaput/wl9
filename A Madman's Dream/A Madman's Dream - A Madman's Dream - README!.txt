@@ -35,6 +35,6 @@ GOOD LUCK and HAVE FUN!!...............................John
 
 
 
-Tom@jbucksnort.com
+Tom (at) jbucksnort.com
 
 LONG LIVE THE SPEAR AND WOLF WILL LIVE FOREVER!!!!

@@ -156,7 +156,7 @@ This is a list of people that have contributed something for my TC
 ~
 Some material in the game is either modified by me, made by me, or borrowed. I ask 
 that you please DO NOT take any graphics, sounds, or maps from Todpfad with out permission. 
-If you want to borrow something, please feel free to email me at k007auf@wowway.com. 
+If you want to borrow something, please feel free to email me at k007auf (at) wowway.com. 
 Please DO NOT sell this for commerical reasons, it's for FREE, and it must be FREE, 
 not even a Bonus on a CD. This game and myself do NOT support Nazism or Neo-Nazism 
 or and Racist Group at all, this game is made purely for entertainment purposes only 
@@ -168,6 +168,6 @@ and for you to have fun.
 If you have any questions, comments, or any problems related to Todpfad, you can 
 contact me the following ways:
 
-Email: K007auf@wowway.com
-MSN: kylertcw@hotmail.com
+Email: K007auf (at) wowway.com
+MSN: kylertcw (at) hotmail.com
 DieHard Wolfers Forum: KyleRTCW

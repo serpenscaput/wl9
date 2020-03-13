@@ -77,7 +77,7 @@ A Quick Note from your InterNet Distributor:
 
         This package was distributed to the InterNet by Josh Templin.  If 
         you have any questions, comments, or problems, feel free to contact
-        me at jtemplin@ub.d.umn.edu .   I will attempt to answer/fix any
+        me at jtemplin (at) ub.d.umn.edu .   I will attempt to answer/fix any
         questions/problems you have, and all comments will be sent to the 
         author.  
 

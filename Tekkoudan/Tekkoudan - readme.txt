@@ -6,7 +6,7 @@ Version  : 0.3a
 Date     : 7/13/00
 
 Author   : Ben "dla_one" Blaufarb
-Email    : dla_one@yahoo.com
+Email    : dla_one (at) yahoo.com
 
 Webpage  : http://tekkoudan.conversions.net/
 
@@ -22,7 +22,7 @@ Details:
 Please take notice, this is the ALPHA release!  It is only version 0.3!!!
 This is no where close to a finished product!  With that in mind have fun
 playing the game and send any bug reports or comments/suggestions to
-dla_one@yahoo.com.  Later I'll have a forum on the Tekkoudan website where
+dla_one (at) yahoo.com.  Later I'll have a forum on the Tekkoudan website where
 you can report bugs.
 
 

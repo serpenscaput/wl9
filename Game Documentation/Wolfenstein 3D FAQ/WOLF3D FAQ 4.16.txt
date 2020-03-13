@@ -3,7 +3,7 @@
              FREQUENTLY ASKED QUESTIONS.
                      by
                    Adam Williamson
-             (adam@scss.demon.co.uk)
+             (adam (at) scss.demon.co.uk)
              [Version 4.16]
           Last Revised on: Thursday 15 1994 18:37 GMT (Greenwich Mean Time)
 
@@ -181,7 +181,7 @@ the post, but as usual no guarantees are provided.
 0.4 HOW CAN THE WOLFENSTEIN FAQ AUTHOR BE CONTACTED?
 
 I can be contacted via Internet e-mail at the following address: 
-adam@scss.demon.co.uk.
+adam (at) scss.demon.co.uk.
 
 0.5 HOW CAN I OBTAIN THE MOST RECENT VERSION OF THE WOLFENSTEIN FAQ?
 
@@ -669,7 +669,7 @@ on God mode...
 
 -- Ben Rudiak-Gould
 AOL: BenjaminRG
-Internet: benrg@uclink.berkeley.edu
+Internet: benrg (at) uclink.berkeley.edu
 --------------------------------------------------------------------------------
 
 
@@ -697,8 +697,8 @@ the registered versions would have some kind of cheat mode (???) etc.)
 1.11 HOW CAN I CONTACT iD Software or Apogee?
 
 If you have some difficulties with Wolfenstein or Spear that are unresolved
-after reading this FAQ you can send e-mail to help@iDsoftware.com or
-apogee@delphi.com.
+after reading this FAQ you can send e-mail to help (at) iDsoftware.com or
+apogee (at) delphi.com.
 Note that this FAQ is not produced or in any way sponsored by iD Software or
 Apogee, so they are not responsible for the material included herein.
 I would discourage asking them about the add-on products for Wolfenstein.
@@ -1508,7 +1508,7 @@ Note: This section is *far* from complete. Why not send in your hints
 
 ---
 Well, here's a general guide submitted by Douglas Bottoms 
-(BOTTOMS_DOGLAS_J@Lilly.com)
+(BOTTOMS_DOGLAS_J (at) Lilly.com)
 
 "Usually, I try to get as close to the boss as possible, then back STRAIGHT
 away from the boss while firing. Then strafing left or right to hide behind
@@ -1580,7 +1580,7 @@ Mapedit v4.1
     The following two are the most popular.
 
 Mapedit v4.2
-    - Written by Ralf Seider (rauh@wrcd1.uni-wcppertal.de)
+    - Written by Ralf Seider (rauh (at) wrcd1.uni-wcppertal.de)
       Some new functions were added to v4.1
       - Item selection memory while editing.
       - Can select items from map (pick up using mouse)
@@ -2499,32 +2499,32 @@ news when I actually _play_ the demo...
 Lastly I would like to thank all who contributed to this FAQ.
 In no particular order, thanks go to:
 
-Ben Rudiak-Gould    (benrg@ocf.Berkeley.EDU)
-Jay Wilbur      (jayw@idcube.idsoftware.com)
-Brian D Milner      (Brian.Milner@brunel.ac.uk)
-Fred Brown      (brown@dgaust.oz.dg.com)
-Nancy Rabinowitz    (nrabinow@itsmail1.hamilton.edu)
-Greg Cohen      (rn.3332@rose.com)
-Stephen Schimpf     (stephen@eggneb.astro.ucla.edu)
-Don Campbell        (donc@cognos.com)
-Andrew Baker Glazier    (glazier@isr.harvard.edu)
-Tony Lezard         (tony@mantis.co.uk)
-Frans P. de Vries   (fpv@xymph.iaf.nl)
-John Edwards        (edwards@tincup.enet.dec.com)
-*Bob O'Bob      (obrien@netcom.com)
-Richard Ward        (rrward@netcom.com)
-Dov Sherman     (ab3588@stat.appstate.edu)
-Ben Castricum       (media03@relay.nluug.nl)
-Mark Deplyn         (mbd@ukc.ac.uk)
-Joe Siegler     (apogee@delphi.com)
-Elias Papavassilopoulos (ep104@cus.cam.ac.uk)
-*John Romero        (romero@idcube.idsoftware.com)
-Iain Noble      (100020.2125@CompuServe.COM)
-Douglas Bottoms     (BOTTOMS_DOGLAS_J@Lilly.com)
-Charles E. Corway   (72672.1553@CompuServe.COM)
+Ben Rudiak-Gould    (benrg (at) ocf.Berkeley.EDU)
+Jay Wilbur      (jayw (at) idcube.idsoftware.com)
+Brian D Milner      (Brian.Milner (at) brunel.ac.uk)
+Fred Brown      (brown (at) dgaust.oz.dg.com)
+Nancy Rabinowitz    (nrabinow (at) itsmail1.hamilton.edu)
+Greg Cohen      (rn.3332 (at) rose.com)
+Stephen Schimpf     (stephen (at) eggneb.astro.ucla.edu)
+Don Campbell        (donc (at) cognos.com)
+Andrew Baker Glazier    (glazier (at) isr.harvard.edu)
+Tony Lezard         (tony (at) mantis.co.uk)
+Frans P. de Vries   (fpv (at) xymph.iaf.nl)
+John Edwards        (edwards (at) tincup.enet.dec.com)
+*Bob O'Bob      (obrien (at) netcom.com)
+Richard Ward        (rrward (at) netcom.com)
+Dov Sherman     (ab3588 (at) stat.appstate.edu)
+Ben Castricum       (media03 (at) relay.nluug.nl)
+Mark Deplyn         (mbd (at) ukc.ac.uk)
+Joe Siegler     (apogee (at) delphi.com)
+Elias Papavassilopoulos (ep104 (at) cus.cam.ac.uk)
+*John Romero        (romero (at) idcube.idsoftware.com)
+Iain Noble      (100020.2125 (at) CompuServe.COM)
+Douglas Bottoms     (BOTTOMS_DOGLAS_J (at) Lilly.com)
+Charles E. Corway   (72672.1553 (at) CompuServe.COM)
 Stanley Stasiak (ooops...forgotten your e-mail address...apologies)
 
-????? ????? brown@dgaust.oz.dg.com  <<< ( Could not trace this address )
+????? ????? brown (at) dgaust.oz.dg.com  <<< ( Could not trace this address )
 
 Lastly iD Software Inc. cannot be forgotten since without their efforts this
 FAQ would never have existed (Buhahahahahaha!)
@@ -2550,19 +2550,19 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
 2.0 -   Initial upgrade. Subdivided the whole FAQ into many sections.
     Extensive help on map editors, extra maps, trivia, etc.
     Officially started stamping version numbers on the FAQ.
-2.01 -  Added Section 2.2 part 3) Tony Lezard (tony@mantis.co.uk) Thank you.
+2.01 -  Added Section 2.2 part 3) Tony Lezard (tony (at) mantis.co.uk) Thank you.
 2.02 -  Added sounds of undead (Section 2.1), scores for undead & white
     officers (Section 2.15). Corrected tons of spelling & whitespace.
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
     Corrected some of the email info in preamble upfront.
 2.02b - Filled paragraphs to at least 75 characters. Added Hitler's Ghost
     score plus kill averages (Section 2.15).
     Also some minor layout corrections.
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
 2.02c - Added Section 9.0 Revision History. Also included 2nd reason for crash
     (Section 6.2) with horizontal stripes.
 2.03  - Added 'pushwall phenomenon' (Section 6.3).
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
 2.10  - Removed word 'castle' from Wolfenstein's title.
     Standardised name of iD Software throughout (thx Jay).
     (remember to rescan DEBUG file after each update)
@@ -2584,12 +2584,12 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Added Section 3.11
     Added sound import/export utility to Section 5.3
 2.12  - Fixed a number of bugs in Section 4.2 (6c should be 6b etc.)
-    ab3588@stat.appstate.edu (Dov Sherman) Thank you.
+    ab3588 (at) stat.appstate.edu (Dov Sherman) Thank you.
     Also added more guidelines to Section 4.2
-    rrward@netcom.com (Richard Ward) Thank you.
+    rrward (at) netcom.com (Richard Ward) Thank you.
     Section 4.6 .exe should be .com
     Added LIM Cheat to Section 1.10
-    media03@relay.nluug.nl (Ben Castricum) Thanks for reminder.
+    media03 (at) relay.nluug.nl (Ben Castricum) Thanks for reminder.
     Added enm3-v30 and darkmap1 to Section 5.1
     More typos fixed (ARRGGGHH!)
     Added w3dcool to Section 5.2
@@ -2601,7 +2601,7 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Ran spell-checker again (!!!)
 2.15  - More paragraphing and whitespace corrections.
     Included suggestion to Section 6.3.
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
 2.16  - Removed references to self-extracting Wolfenstein archive from
     Sections 1.3 & 1.4 (No longer valid)
     and forgot to thank someone for it (hmm who was it?)
@@ -2613,24 +2613,24 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Added another mapping hint for secret doors and fixed deaf floor
     value (Section 4.2). Elaborated on 'sparse page' problem (Section 4.3)
     Added secret level completion score and par level time table to
-    Section 2.15  fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    Section 2.15  fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
 2.17b - Removed e-mail addresses which will seize to be valid soon.
     More stuff for (Section 9.0)
     Added AUTOEXEC.BAT reference to Section 6.1.
     Identified 'mbd' in Section 9.0 and added Apogee ack (duh).
 3.0   - Major upgrade to include info on Spear of Destiny.
-    edwards@tincup.enet.dec.com (John Edwards) and
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    edwards (at) tincup.enet.dec.com (John Edwards) and
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
 3.01  - More minor fixes all over the place (does this guy ever give up? :)
     Clarified debugging mode keys functionality for different versions of
     the games and added 'score lost' warning to LIM cheat (Section 1.10).
     Added 'landscape' mapping hint (Section 4.2) and 'input device' hint to
     dizziness phenomenon (Section 3.7). Added 'w3d_cc1' and 'sod_cc1' maps
     (Section 5.1) and 'wfgrchrt' add-on (Section 5.3)
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
-3.10  - Small fixes all over the place apogee@delphi.com (Joe Siegler)
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
+3.10  - Small fixes all over the place apogee (at) delphi.com (Joe Siegler)
     Thank you.
-    Game slowdown hint included in Section 3.4 ep104@cus.cam.ac.uk
+    Game slowdown hint included in Section 3.4 ep104 (at) cus.cam.ac.uk
     (Elias 'CaveMan' Papavassilopoulos) Thank you.
     Section 1.7 elaborated for SoD.
     Added SoD Boss sounds to Section 2.1
@@ -2638,7 +2638,7 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Added 'PM-40' and Elevator use to section 2.8
     Added SoD related info to Section 2.11
     Added number of weapons/keys to section 2.15
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
     Moved major section 2.X behind section 4.X and renamed the Sections
     accordingly. (section 2.X=4.X, 3.X=2.X, 4.X=3.X) Realigned all pointers
     (hopefully).
@@ -2647,7 +2647,7 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Included both Unix & DOS versions in uploads.
 3.11  - Basically a bugfix release.
     Some more hints for Section 4.2.
-    (wolf sound area explanation J. Romero (romero@idcube.idsoftware.com))
+    (wolf sound area explanation J. Romero (romero (at) idcube.idsoftware.com))
     Some more stuff in sections 4.3,4.4,4.5.
     Forgot to renumber section 9.0 consistent with section reshuffle
     in version 3.10. Fixed.
@@ -2672,11 +2672,11 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Inserted new Section 2.11 (Jukebox feature) & moved up Sections
     above 2.11
     Added Section 1.13 Availability for other platforms.
-    Added Section 3.12 Boss strategy BOTTOMS_DOGLAS_J@Lilly.com
+    Added Section 3.12 Boss strategy BOTTOMS_DOGLAS_J (at) Lilly.com
     (Douglas Bottoms) Thank you.
     Added note about not calling Apogee about add-ons to Section 4.2
     Added 'music trivia' Section 2.12 & moved up Sections above 2.12
-    72672.1553@CompuServe.COM (Charles E. Corway) Thank you.
+    72672.1553 (at) CompuServe.COM (Charles E. Corway) Thank you.
     Added 'Morse code message' Section 2.13 & moved up Sections above 2.13
     (originator unknown)
     Added Wolf3D commercialisation note to Section 1.3
@@ -2694,9 +2694,9 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
     Added rating & comment for 'sod_cc1' to Section 5.1
     Replaced 'morewolf3dmaps' with 'allwolfsodmaps' and added
     'allwolfsodmapdefs' to Section 5.3
-    fpv@xymph.iaf.nl (Frans de Vries) Thank you.
+    fpv (at) xymph.iaf.nl (Frans de Vries) Thank you.
 3.30  - Added more boss strategies to Section 3.12 
-    100020.2125@CompuServe.COM (Ian Noble) Thank you.
+    100020.2125 (at) CompuServe.COM (Ian Noble) Thank you.
         Fixed some of that German in Section 2.1
     Added 'xmasswlf' & 'wolfen60' to Section 5.1
     Added 'barney10' & 'barney14' to Section 5.2
@@ -2735,7 +2735,7 @@ Adam (The demon Wolf3d editor!)
 ---
  _________________________________________
 |Adam Williamson      |Maintainer of the  |
-|adam@scss.demon.co.uk|Wolfenstein 3D FAQ,|
+|adam (at) scss.demon.co.uk|Wolfenstein 3D FAQ,|
 |"The views expressed |and total computer |
 |here do not represent|nut. "Computers    |
 |those of my pet      |forever! Pass me   |

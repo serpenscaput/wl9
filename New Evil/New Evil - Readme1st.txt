@@ -49,7 +49,7 @@ And most of all, to my sweet CHERI,(Lakota)who tolerates her old man's WOLF habi
 
 And to Precious, and Rusty, my faithful K-9 companions...
 
-Comments or Complaints..................john_bucksnort@yahoo.com
+Comments or Complaints..................john_bucksnort (at) yahoo.com
 I always welcome comments...I have a special place for complaints...LOL
 
 This is a very difficult set...be patient,  the solutions to getting out

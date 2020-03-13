@@ -34,11 +34,11 @@ This are changes I made:
 Because I'm only 14 years old I didn't do any source code chanches, but
 with even that my addon is much better than some addons I have seen. I 
 have seen much worse!
-If you want to use my graphics or/and sounds then please contact met at kennox@belgacom.net 
+If you want to use my graphics or/and sounds then please contact met at kennox (at) belgacom.net 
 and give me credits in your readme file.
 
 > >> My site: http://users.belgacom.net/kennox
-	> >> My e-mail:kennox@belgacom.net 
+	> >> My e-mail:kennox (at) belgacom.net 
 
 
 	      ---------------------------------------

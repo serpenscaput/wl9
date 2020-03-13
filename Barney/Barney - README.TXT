@@ -253,16 +253,16 @@ I URGENTLY NEED TO CONTACT BLACKADDER OR THOSE OTHER GUYS!
   ----------             
   Michael Adcock               Better yet, email me at:  
   15026 Chipman Ln.              
-  Houston, Tx.                 ST29O@Jetson.uh.edu    (That's a letter 'O'!)
+  Houston, Tx.                 ST29O (at) Jetson.uh.edu    (That's a letter 'O'!)
   77060                            
 
   HOMEBOY FROM THE FUTURE
   -----------------------
-  ST29H@Jetson.uh.edu
+  ST29H (at) Jetson.uh.edu
 
   CRUSADER, THE SPACE PUPPY OF LOVE
   ---------------------------------  
-  ST1WS@Jetson.uh.edu
+  ST1WS (at) Jetson.uh.edu
 
   SATAN
   -----

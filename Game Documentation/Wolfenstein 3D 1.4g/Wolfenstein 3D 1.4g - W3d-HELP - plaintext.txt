@@ -340,7 +340,7 @@ be sound drivers (SoundBlaster 16, Pro Audio Spectrum 16, etc..).
 
 SAMPLE AUTOEXEC.BAT
 -------------------
-@echo off
+ (at) echo off
 SET BLASTER=A220 Ix Dy Tz
 C:\MOUSE\MOUSE
 cls
@@ -639,7 +639,7 @@ execute the "MEM /C" command (or just MEM if you get an error using MEM /C).
 America Online -> APOGEE              CompuServe     -> 74200,553
 Delphi         -> APOGEE              Genie          -> APOGEE
 Prodigy        -> CXVP94A             NVN            -> JSIEGLER
-FidoNet        -> 1:124/9006          Internet       -> joe.siegler@swcbbs.com
+FidoNet        -> 1:124/9006          Internet       -> joe.siegler (at) swcbbs.com
 
 ţ Bulletin Board Networks
 

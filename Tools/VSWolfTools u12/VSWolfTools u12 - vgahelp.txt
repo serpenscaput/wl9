@@ -115,4 +115,4 @@ TEXT:       is a normal text and may be edited as such.
                           Vincent,
 
                     http://vincentius.dk
-                      mail@vincentius.dk
+                      mail (at) vincentius.dk

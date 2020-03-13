@@ -5,7 +5,7 @@
 Title       : Escape! V1.3
 
 Author      : Pablo Dictter
-              email - pablodictter@hotmail.com
+              email - pablodictter (at) hotmail.com
               web   - http://pablod.8m.com
 
 Files 	    : gamemaps.wl6 maphead.wl6 PDwolf2.txt

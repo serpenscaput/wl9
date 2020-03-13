@@ -56,4 +56,4 @@ A valid music chunk is usually LARGER THAN 7000 BYTES ! Don't import anything
 onto other locations unless you change the engine!
 
 
-                 http://vincentius.dk  mail@vincentius.dk
+                 http://vincentius.dk  mail (at) vincentius.dk

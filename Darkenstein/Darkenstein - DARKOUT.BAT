@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 if not exist vswap.wl6 goto error
 if not exist vswap.org goto error
 if not exist maphead.wl6 goto error

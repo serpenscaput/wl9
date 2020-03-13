@@ -4,7 +4,7 @@
 ^G32,16,31
 ^C00 Thanks for playing Pacspear! Congratulations! You've won! Killing Zapper who 
 threw the snowballs was the key to victory!
-^C00If you wish to comment on the game feel to email me at ^C2bAcordgames@juno.com
+^C00If you wish to comment on the game feel to email me at ^C2bAcordgames (at) juno.com
 
 
 ^C00Acord Games Website is:

@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 
 if exist wimphead.wl1 goto wimphead_found
 echo File WIMPHEAD.WL1 not found.

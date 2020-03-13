@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :origin
 CLS
 echo บบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ
@@ -32,18 +32,18 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :000
 
 :1
-@cls
-@CALL Engine.exe
+ (at) cls
+ (at) CALL Engine.exe
 goto :end
 
 :2
-@cls
-@call winplay.exe
+ (at) cls
+ (at) call winplay.exe
 goto :end
 
 :3
-@cls
-@call glplay.exe
+ (at) cls
+ (at) call glplay.exe
 goto :end
 
 :end

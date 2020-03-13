@@ -1,6 +1,6 @@
 POKESTEIN 3D - A Wolfenstein 3D modification.
 AUTHOR: Cliff AKA Lizardcommando
-EMAIL: lilzergling@hotmail.com 
+EMAIL: lilzergling (at) hotmail.com 
 
 WEBSITE: http://www.geocities.com/pokesteinredux/main.html
 
@@ -108,7 +108,7 @@ know why, but even after beating the level, it will warp you back to that level.
 So just 
 don't select those episodes, alright?
 
--If there are anymore bugs, email me at lilzergling@hotmail.com. 
+-If there are anymore bugs, email me at lilzergling (at) hotmail.com. 
 
 6. COMING ATTRACTIONS!
 

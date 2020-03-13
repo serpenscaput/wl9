@@ -193,7 +193,7 @@ The new level works OK on both PC and Acorn/Archimedes machines.
 
 I will probably update the 9 levels at a later date.
 
-My email address is brian@brlowe.globalnet.co.uk
+My email address is brian (at) brlowe.globalnet.co.uk
 My website URL is http://www.users.globalnet.co.uk/~brlowe 
 
 My website is called Mr. Lowe's Wolfenstein 3D Page, and it has many Wolf3D 

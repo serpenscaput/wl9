@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 cls
 mode con: cols=88 lines=34
 color 0A

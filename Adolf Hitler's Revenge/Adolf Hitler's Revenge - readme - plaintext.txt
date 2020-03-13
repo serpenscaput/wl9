@@ -26,7 +26,7 @@ Canada A0K 2P0
 
 ICQ #: johnny-72444281, trent-71365709, brian-75044258
 
-E-Mail: guten_tag_inc@yahoo.com
+E-Mail: guten_tag_inc (at) yahoo.com
 
 
 GUTEN TAG INC. is

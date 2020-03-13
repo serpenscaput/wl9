@@ -38,7 +38,7 @@ Pepsi (See above)
 If anyone would like to help out with Auferstehung or any future projects please 
 
 write me at 
-willmc@home.com 
+willmc (at) home.com 
 and put "Auferstehung" in the subject.
 
 

@@ -25,6 +25,6 @@ first boss, Trans Grosse on the steel
 floor.
 --------------------------------------
 Please send at any error a fast feed-
-back to: gbuteler2000@yahoo.com.ar
+back to: gbuteler2000 (at) yahoo.com.ar
 --------------------------------------
                         -Gbuteler-2003

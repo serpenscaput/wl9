@@ -12,7 +12,7 @@ I am possibly one of the youngest to edit Wolf3d levels.
 
 
 for comments and suggestions please e-mail me:
-wisemanj@xtra.co.nz
+wisemanj (at) xtra.co.nz
 
 Enjoy 
 

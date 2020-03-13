@@ -15,8 +15,8 @@ floor. Some graphics, walls have been changed.
 
     If you find any bug when play, please contact me.
 
-    E-mail: dtrade@cmmail.com
-            dtrade@ding.com.cn
+    E-mail: dtrade (at) cmmail.com
+            dtrade (at) ding.com.cn
 
     
     Dtrade

@@ -85,4 +85,4 @@ This program does not rival Floedit, but it DOES run on 64-bit machines and
     is better in some respects, such as in handling sprites and big graphics.
 
                                                 http://vincentius.dk
-                                                mail@vincentius.dk
+                                                mail (at) vincentius.dk

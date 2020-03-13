@@ -188,4 +188,4 @@ Actors include guards (alive or dead), exploding or animated objects, missiles.
 Turning points and secret doors do NOT count as static objects.
 I prefer the term 'actor' to 'guard' because it is more general.
 
-                                  mail@Vincentius.dk
+                                  mail (at) Vincentius.dk

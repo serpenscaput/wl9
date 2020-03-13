@@ -999,7 +999,7 @@ DIP Bonus              Collect all three developer balls (Hmmmmm....)
 
    AUTOEXEC.BAT
    ============
-   @echo off
+    (at) echo off
    <your path line>
    <your prompt line>
    MOUSE <if you play with a mouse>
@@ -1800,8 +1800,8 @@ monitored as well, and those are also listed.
 
 þ Major Online Services
 
-Internet     -> apogee.software@apogee1.com     CompuServe     -> 74200,553
-Internet     -> apogee@metronet.com             America Online -> APOGEE
+Internet     -> apogee.software (at) apogee1.com     CompuServe     -> 74200,553
+Internet     -> apogee (at) metronet.com             America Online -> APOGEE
 
 See the appropriate instructions for these various services on how to send
 private mail to these addresses.  All of these services have Internet E-Mail
@@ -1817,7 +1817,7 @@ addresses, and we'll put you on.  Just say the word!  The Apogee Mailing list
 is not a robot program, so please don't send automated commands.
 
 Apogee also has a "finger" plan set up for the most up to date online
-information about Apogee Software.  Finger "apogee@fohnix.metronet.com" for
+information about Apogee Software.  Finger "apogee (at) fohnix.metronet.com" for
 the most up to the second info about our releases!   If you are unsure if you
 can do this, or don't know what "finger" access is, please check with your
 local Internet service provider for more information on this Internet service.

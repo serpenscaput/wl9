@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :origin
 CLS
 echo บบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ
@@ -33,33 +33,33 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :000
 
 :1
-@echo off
+ (at) echo off
 copy games\vgadict.wh1 vgadict.hel
 copy games\vgahead.wh1 vgahead.hel
 copy games\vgagraph.wh1 vgagraph.hel
 copy games\gamemaps.wh1 gamemaps.hel
 copy games\maphead.wh1 maphead.hel
-@CALL Wolfhell.exe > nul
+ (at) CALL Wolfhell.exe > nul
 goto :origin
 
 :2
-@echo off
+ (at) echo off
 copy games\vgadict.wh2 vgadict.hel
 copy games\vgahead.wh2 vgahead.hel
 copy games\vgagraph.wh2 vgagraph.hel
 copy games\gamemaps.wh2 gamemaps.hel
 copy games\maphead.wh2 maphead.hel
-@CALL Wolfhell.exe > nul
+ (at) CALL Wolfhell.exe > nul
 goto :origin
 
 :3
-@echo off
+ (at) echo off
 copy games\vgadict.wh3 vgadict.hel
 copy games\vgahead.wh3 vgahead.hel
 copy games\vgagraph.wh3 vgagraph.hel
 copy games\gamemaps.wh3 gamemaps.hel
 copy games\maphead.wh3 maphead.hel
-@CALL Wolfhell.exe > nul
+ (at) CALL Wolfhell.exe > nul
 goto :origin
 
 :end

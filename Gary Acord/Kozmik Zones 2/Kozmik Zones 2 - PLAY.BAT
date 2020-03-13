@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :start
 CLS
 echo КлКАлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллАКлК
@@ -58,105 +58,105 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :start
 
 :1
-@echo off
+ (at) echo off
 copy games\maphead.sp4 maphead.KOZ
 copy games\gamemaps.sp4 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :2
-@echo off
+ (at) echo off
 copy games\maphead.sp5 maphead.KOZ
 copy games\gamemaps.sp5 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :3
-@echo off
+ (at) echo off
 copy games\maphead.sp6 maphead.KOZ
 copy games\gamemaps.sp6 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :4
-@echo off
+ (at) echo off
 copy games\maphead.sp7 maphead.KOZ
 copy games\gamemaps.sp7 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :5
-@echo off
+ (at) echo off
 copy games\maphead.sp8 maphead.KOZ
 copy games\gamemaps.sp8 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :6
-@echo off
+ (at) echo off
 copy games\maphead.sp9 maphead.KOZ
 copy games\gamemaps.sp9 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :7
-@echo off
+ (at) echo off
 copy games\maphead.s10 maphead.KOZ
 copy games\gamemaps.s10 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :8
-@echo off
+ (at) echo off
 copy games\gamemaps.s11 gamemaps.KOZ
 copy games\maphead.s11 maphead.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :9
-@echo off
+ (at) echo off
 copy games\maphead.s12 maphead.KOZ
 copy games\gamemaps.s12 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :10
-@echo off
+ (at) echo off
 copy games\maphead.s13 maphead.KOZ
 copy games\gamemaps.s13 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :11
-@echo off
+ (at) echo off
 copy games\maphead.s14 maphead.KOZ
 copy games\gamemaps.s14 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :12
-@echo off
+ (at) echo off
 copy games\maphead.s15 maphead.KOZ
 copy games\gamemaps.s15 gamemaps.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :13
-@echo off
+ (at) echo off
 copy games\gamemaps.s16 gamemaps.KOZ
 copy games\maphead.s16 maphead.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :14
-@echo off
+ (at) echo off
 copy games\gamemaps.3d gamemaps.KOZ
 copy games\maphead.3d maphead.KOZ
 call Kozmik.exe > nul
 goto :start
 
 :15
-@echo off
+ (at) echo off
 copy games\gamemaps.cc1 gamemaps.KOZ
 copy games\maphead.cc1 maphead.KOZ
 call Kozmik.exe > nul
@@ -217,32 +217,32 @@ call Kozmik.exe > nul
 goto :start
 
 :25
-@echo off
+ (at) echo off
 copy games\vswap.bla vswap.KOZ
 goto :start
 
 :26
-@echo off
+ (at) echo off
 copy games\vswap.doo vswap.KOZ
 goto :start
 
 :27
-@echo off
+ (at) echo off
 copy games\vswap.mon vswap.KOZ
 goto :start
 
 :28
-@echo off
+ (at) echo off
 copy games\vswap.pac vswap.KOZ
 goto :start
 
 :29
-@echo off
+ (at) echo off
 copy games\vswap.cav vswap.KOZ
 goto :start
 
 :30
-@echo off
+ (at) echo off
 copy games\vswap.koz vswap.KOZ
 goto :start
 

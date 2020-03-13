@@ -1,7 +1,7 @@
 If you want to write to a file enter the file name.
   If you want to print the file enter LPT1 or LPT2
 
-  ENTER: $@                                                                   Esc=Quit, 
+  ENTER: $ (at)                                                                    Esc=Quit, 
 T=write text, Keys=,,,,PgUp,PgDn,Home,End   Line=0000  Column=000            
           KMGOIQPH                 TXT2COM & TXT2RES Documentation - July 27, 1987 
                       "FšDN

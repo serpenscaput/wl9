@@ -3,7 +3,7 @@ Czesc!
 *W³aœnie œci¹gn¹³eœ Project: Weltuntergang, dodatek do gry Wolfenstein 3D. Wiêcej informacji 
 w opcji "Read me" w menu g³ównym gry
 
-*Wu-Gang powinien byæ raczej wolny od b³êdów, ale je¿eli jakieœ znajdziesz, napisz do mnie: kukimik@poczta.onet.pl
+*Wu-Gang powinien byæ raczej wolny od b³êdów, ale je¿eli jakieœ znajdziesz, napisz do mnie: kukimik (at) poczta.onet.pl
 
 *Kody: uruchom grê komend¹: wolf3d.exe -kuki, a póŸniej aktywuj i u¿ywaj kodów tak jak w oryginalnym Wolfensteinie 
 (Czêœæ kodów zosta³a usuniêta)

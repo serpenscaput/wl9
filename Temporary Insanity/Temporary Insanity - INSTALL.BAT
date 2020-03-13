@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 if exist gamemaps.old goto error
 if exist maphead.old goto error
 if not exist gamemaps.wl6 goto error

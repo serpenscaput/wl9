@@ -71,7 +71,7 @@ original Wolf4SDL.
 (960x600, 1280x800, etc).
 
 
-If you have any questions about this mod, my email is: totiventura@gmail.com
+If you have any questions about this mod, my email is: totiventura (at) gmail.com
 
 
 Sorry for my English, I speak Spanish

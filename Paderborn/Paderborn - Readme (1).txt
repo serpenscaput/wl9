@@ -30,7 +30,7 @@ to humanity that he poses....Good Luck....Now on your way!
 
 Lakota Bucksnort
 The Mutant Co. LTD.
-comments always welcome....john_bucksnort@yahoo.com
+comments always welcome....john_bucksnort (at) yahoo.com
 
                        Long live the Spear!
   

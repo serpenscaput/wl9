@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 cls
 rem *** This file will automatically install the new floor designs ***
 rem     in the C:\SPEAR direcory. ***

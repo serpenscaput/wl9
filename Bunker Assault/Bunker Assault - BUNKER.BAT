@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 cls
 echo.
 echo.

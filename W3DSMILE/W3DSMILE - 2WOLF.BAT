@@ -1,3 +1,3 @@
 copy wswap.wl1 vswap.wl1
-@echo off
+ (at) echo off
 echo Back to the Original Wolfenstein!

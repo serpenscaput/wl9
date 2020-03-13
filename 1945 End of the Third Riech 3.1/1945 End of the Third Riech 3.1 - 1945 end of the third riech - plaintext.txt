@@ -344,7 +344,7 @@ might have recoloured the day landscape into a sunset landscape. Feel free to us
 these in your own mod if you wish to.
 
 I would also like to thank a few people for source code tutorials Martin Krysiak 
-<mailto:muad.dib1@wp.pl> for directing tutorials at the Wolfenstein dome, MCS for 
+<mailto:muad.dib1 (at) wp.pl> for directing tutorials at the Wolfenstein dome, MCS for 
 the seamless levels shortcut, Luke Strauman for source code tutorials. Without you 
 guys many of this mod's code changes wouldn't have been possible, so thanks it's 
 more than I could have asked for.  

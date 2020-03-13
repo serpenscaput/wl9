@@ -25,7 +25,7 @@ and if you survive the carnage of the first 9 levels, then you can tackle
 
 
 
-john_bucksnort@yahoo.com
+john_bucksnort (at) yahoo.com
 
 http://www.geocities.com/john_bucksnort.games.html
 

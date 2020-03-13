@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :start
 CLS
 echo บบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ
@@ -55,105 +55,105 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :start
 
 :1
-@echo off
+ (at) echo off
 copy games\maphead.dom maphead.ROM
 copy games\gamemaps.dom gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :2
-@echo off
+ (at) echo off
 copy games\maphead.kra maphead.ROM
 copy games\gamemaps.kra gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :3
-@echo off
+ (at) echo off
 copy games\maphead.let maphead.ROM
 copy games\gamemaps.let gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :4
-@echo off
+ (at) echo off
 copy games\maphead.gei maphead.ROM
 copy games\gamemaps.gei gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :5
-@echo off
+ (at) echo off
 copy games\maphead.meg maphead.ROM
 copy games\gamemaps.meg gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :6
-@echo off
+ (at) echo off
 copy games\maphead.tod maphead.ROM
 copy games\gamemaps.tod gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :7
-@echo off
+ (at) echo off
 copy games\maphead.pur maphead.ROM
 copy games\gamemaps.pur gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :8
-@echo off
+ (at) echo off
 copy games\gamemaps.nop gamemaps.ROM
 copy games\maphead.nop maphead.ROM
 call Roman.exe > nul
 goto :start
 
 :9
-@echo off
+ (at) echo off
 copy games\maphead.pad maphead.ROM
 copy games\gamemaps.pad gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :10
-@echo off
+ (at) echo off
 copy games\maphead.alo maphead.ROM
 copy games\gamemaps.alo gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :11
-@echo off
+ (at) echo off
 copy games\maphead.nwa maphead.ROM
 copy games\gamemaps.nwa gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :12
-@echo off
+ (at) echo off
 copy games\maphead.ach maphead.ROM
 copy games\gamemaps.ach gamemaps.ROM
 call Roman.exe > nul
 goto :start
 
 :13
-@echo off
+ (at) echo off
 copy games\gamemaps.sho gamemaps.ROM
 copy games\maphead.sho maphead.ROM
 call Roman.exe > nul
 goto :start
 
 :14
-@echo off
+ (at) echo off
 copy games\gamemaps.mut gamemaps.ROM
 copy games\maphead.mut maphead.ROM
 call Roman.exe > nul
 goto :start
 
 :15
-@echo off
+ (at) echo off
 copy games\gamemaps.pan gamemaps.ROM
 copy games\maphead.pan maphead.ROM
 call Roman.exe > nul

@@ -6,7 +6,7 @@ Wolfenstein 3d
 Title: Project Eisenritter
 Filename: PRJEISEN.ZIP
 Author: Wolf Skevos-Jones
-Email Address: wolf@shadaux.com
+Email Address: wolf (at) shadaux.com
 Description: 20-level Wolfenstein adventure, with many new features
 
 ============================================================

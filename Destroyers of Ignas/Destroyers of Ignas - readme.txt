@@ -85,14 +85,14 @@ ska remixes, other anti-Ignas songs and the official
 KILL IGNAS VIDEO!
 
 Visit D.O.I.on the web: killignas.cjb.net
-Or drop us an email to: doi_band@yahoo.com
+Or drop us an email to: doi_band (at) yahoo.com
 
 This mod was last seen on:
 	killignas.cjb.net/game
 	mods.moddb.com/4129
 
 Made by Ueberwolf (the almighty Ignas slayer)
-	ueberwolf@yahoo.ca
+	ueberwolf (at) yahoo.ca
 
 
 	Sieg KILL IGNAS!

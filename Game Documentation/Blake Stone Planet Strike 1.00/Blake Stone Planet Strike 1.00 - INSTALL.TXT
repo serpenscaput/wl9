@@ -116,7 +116,7 @@
 
    þ Software Creations BBS -> 1-508-368-7036 with filename DRDOS326.ZIP
    þ Novell BBS             -> 1-408-649-3443 with filename PATCH326.ZIP
-   þ Internet               -> Email "drdos@novell.com"
+   þ Internet               -> Email "drdos (at) novell.com"
    þ CompuServe             -> GO NOVLIB, File Area 12, Filename PAT326.EXE
    þ America Online         -> Do keyword search for "DR-DOS",
                                                 and get filename PAT326.ZIP.
@@ -336,7 +336,7 @@ be sound drivers (SoundBlaster 16, Pro Audio Spectrum 16, etc..).
 
 SAMPLE AUTOEXEC.BAT
 -------------------
-@echo off
+ (at) echo off
 SET BLASTER=A220 Ix Dy Tz
 C:\MOUSE\MOUSE
 cls
@@ -600,7 +600,7 @@ execute the "MEM /C" command (or just MEM if you get an error using MEM /C).
 America Online -> APOGEE              CompuServe     -> 74200,553
 Delphi         -> APOGEE              GEnie          -> APOGEE
 Prodigy        -> CXVP94A             NVN            -> JSIEGLER
-FidoNet        -> 1:124/9006          Internet       -> joe.siegler@swcbbs.com
+FidoNet        -> 1:124/9006          Internet       -> joe.siegler (at) swcbbs.com
 
 þ Bulletin Board Networks
 

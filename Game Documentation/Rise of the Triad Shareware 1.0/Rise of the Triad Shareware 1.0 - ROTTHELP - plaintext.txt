@@ -873,7 +873,7 @@ playing Comm-Bat rott, but you need to use the Shift key as well.
 
   AUTOEXEC.BAT
   ============
-  @echo off
+   (at) echo off
   <your path line>
   MOUSE <if you play with a mouse>
   SET BLASTER=<see section on SET BLASTER for more help on this line>
@@ -1426,7 +1426,7 @@ addresses are listed below.   Also, a variety of Bulletin Board networks are
 monitored as well, and those are also listed.
 
 þ Major Online Services
-Internet       -> joe.siegler@swcbbs.com  Internet       -> apogee@metronet.com
+Internet       -> joe.siegler (at) swcbbs.com  Internet       -> apogee (at) metronet.com
 CompuServe     -> 74200,553               America Online -> APOGEE
 GEnie          -> APOGEE                  Prodigy        -> CXVP94A
 
@@ -1443,7 +1443,7 @@ miscellaneous items out on.  Drop us a line at one of the above Internet
 addresses, and we'll put you on.  Just say the word!
 
 Apogee also has a "finger" plan set up for the most up to date online
-information about Apogee Software.  Finger "apogee@fohnix.metronet.com" for
+information about Apogee Software.  Finger "apogee (at) fohnix.metronet.com" for
 the most up to the second info about our releases!   If you are unsure if you
 can do this, or don't know what "finger" access is, please check with your
 local Internet service provider for more information on this Internet service.

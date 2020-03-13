@@ -88,7 +88,7 @@ id software - original game
 
 CONTACTS
 
-You can contact me by email at brian@brlowe.globalnet.co.uk
+You can contact me by email at brian (at) brlowe.globalnet.co.uk
 
 You can also visit my website - The Wolfenstein 3D Dome at http://www.wolfenstein3d.co.uk/ 
  

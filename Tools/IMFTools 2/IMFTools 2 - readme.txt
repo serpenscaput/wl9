@@ -170,6 +170,6 @@ It is a part of NewWolf project: New Horizons for old [but still alive & well] g
 
 It is done for the Wolf3D community and by the Wolf3D community.
 NewWolf site: http://wolfgl.narod.ru
-DarkOne: DarkOne@mail.navigators.lv or DarkOne@quake.ru
+DarkOne: DarkOne (at) mail.navigators.lv or DarkOne (at) quake.ru
 -DarkOne-----------------------00:55 4/13/01---------------------------------------------
 

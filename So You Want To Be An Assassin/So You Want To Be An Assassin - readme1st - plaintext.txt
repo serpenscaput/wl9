@@ -17,7 +17,7 @@ other surprises as well, but then if I told you them, you wouldn't have any fun.
 friend, Harry Mass Sr. has done a level for this set and Paul Gibson donated the 
 Armory Graphics from his excellent "Operation: Knightwolf" set...Thanks,Paul..and 
 as always thanks to Harry for his never-ending help and editing skills. If you have 
-comments or complaints, you know my e-mail by now, I hope.... john_bucksnort@yahoo.com 
+comments or complaints, you know my e-mail by now, I hope.... john_bucksnort (at) yahoo.com 
   Remember, your comments are always welcome and you know I have a special place 
 for complaints...Enjoy this set, and good luck surviving, you'll need it!!! BWAHAHAHAHA...Hey 
 Mo!!!!! 

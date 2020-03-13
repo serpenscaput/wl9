@@ -34,6 +34,6 @@ OTHER LEVELS: Other levels are only "filler" levels, and are all exactly the sam
 far left or right in the first area or the game will freeze.  Just run through the 
 wall you see.)
 
-You can e-mail me at barichm0@netscape.net.
+You can e-mail me at barichm0 (at) netscape.net.
 
 Wolf3D Disaster Zone URL: http://mbarich.tripod.com/wlf3d/

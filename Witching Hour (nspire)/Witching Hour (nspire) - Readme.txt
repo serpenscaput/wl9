@@ -40,7 +40,7 @@ Website :
 https://gameblabla.olympe.in
 
 E-Mail:
-gameblabla@openmailbox.org
+gameblabla (at) openmailbox.org
 
 [M2 Software]
 
@@ -48,4 +48,4 @@ Website:
 http://m2-soft.de.vu/index.php?siteID=WH
 
 E-Mail:
-2evildemons@gmail.com
+2evildemons (at) gmail.com

@@ -64,7 +64,7 @@ Known "bugs":
 - If you start with small playscreen, use the "N"-key to enlarge it.
 
 If you found any other bugs or something wrong with maps - please email me:
-                                                                            tmp.salonen@pp.inet.fi
+                                                                            tmp.salonen (at) pp.inet.fi
 
 
 

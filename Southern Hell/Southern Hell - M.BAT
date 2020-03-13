@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 ren gamemaps.sod *.wl6
 ren maphead.sod *.wl6
 mapedit

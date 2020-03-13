@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 if "%1"=="1" goto unpack
 
 :message

@@ -3,7 +3,7 @@ Wolf2Rott
 Wolfenstein to ROTT level converter 4.01
 Wolfenstein to ROTT graphics converter 1.00
 
-Programmed by Mark Jaskolski (mark_jaskolski@hotmail.com)
+Programmed by Mark Jaskolski (mark_jaskolski (at) hotmail.com)
 
 ================================================================================
 

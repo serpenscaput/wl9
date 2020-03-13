@@ -4,7 +4,7 @@
 =  Official Readme Version 1.21                                =
 =                                                              =
 =                        www.LifeOnTheStreets.Weebly.com       =
-=               (c) 2011 - 2015 Racquetball1987@hotmail.com    =
+=               (c) 2011 - 2015 Racquetball1987 (at) hotmail.com    =
 ================================================================
 
 Table of Contents
@@ -204,7 +204,7 @@ Also if anyone wants a copy of my source code let me know. I didn't put it up ju
 
 because didn't think there would be any interest.
 
-	racquetball1987@hotmail.com
+	racquetball1987 (at) hotmail.com
 
 Check for updates:
 

@@ -49,5 +49,5 @@ You can modify these levels, but you cannot spread them without my express permi
 
 
 For further answers to your curious questions, and more... please contact me:
-e-m@il: mkurpel@gmail.com
+e-m (at) il: mkurpel (at) gmail.com
 WWW: http://www.mk7.wz.sk

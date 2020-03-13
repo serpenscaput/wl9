@@ -22,6 +22,6 @@ Special lighting courtesy of SR..
 Thanks much to Brian Lowe for distribution!
 
 
-Comments? Tom@wolf3d.zzn.com or John_bucksnort@yahoo.com    
+Comments? Tom (at) wolf3d.zzn.com or John_bucksnort (at) yahoo.com    
 
 WOLFENSTEIN WILL LIVE FOREVER!!!

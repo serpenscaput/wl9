@@ -139,7 +139,7 @@ LinuxWolf:SplitWolf
 
 4.1:Contant to Me
 
-You find bug or error? You can write to my catekoprotokol@gmail.com e-mail. Let's 
+You find bug or error? You can write to my catekoprotokol (at) gmail.com e-mail. Let's 
 play!
 
 

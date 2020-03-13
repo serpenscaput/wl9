@@ -1,4 +1,4 @@
-@Echo Off
+ (at) Echo Off
 cls
 if exist animal.man Echo Please Wait.
 if exist Business.man del Business.man
@@ -841,7 +841,7 @@ cls
 Echo Creation.zip has been created. If you'd like to add a file or a picture
 Echo to your file you may do so by using PKZip or WINZip.
 Echo. 
-Echo  When complete, E-mail Creation.zip to Chris at CHOKAN@SYMPATICO.CA.
+Echo  When complete, E-mail Creation.zip to Chris at CHOKAN (at) SYMPATICO.CA.
 Echo.
 pause
 cls
@@ -1385,7 +1385,7 @@ cls
 rename Jstein.gif BIGGIRL.man
 rename Artwork.exe Artwork.man
 :JP
-JSTEIN is really strange ? @#!!
+JSTEIN is really strange ?  (at) #!!
 goto MENU
 
 :FREEL1
@@ -1897,7 +1897,7 @@ if exist file1b.dat del file1b.dat
 del pkzip.exe
 cls
 Echo Now e-mail the WolfStaff:
-Echo Gary (gragland@ix.netcom.com) and Chris (chokan@sympatico.ca)
+Echo Gary (gragland (at) ix.netcom.com) and Chris (chokan (at) sympatico.ca)
 Echo.
 Echo with the HIGHS.DAT (which has been saved in your root C:\ drive)
 Echo for a chance to be in the ALL TIME HIGHSCORES.
@@ -2289,7 +2289,7 @@ cls
 Echo SUCESS!!!
 Echo.
 Echo Now e-mail the WolfStaff:
-Echo Gary (gragland@ix.netcom.com) and Chris (chokan@sympatico.ca)
+Echo Gary (gragland (at) ix.netcom.com) and Chris (chokan (at) sympatico.ca)
 Echo.
 Echo with the HIGHS.DAT (which has been saved in your root C:\ drive)
 Echo for a chance to be in the ALL TIME HIGHSCORES.

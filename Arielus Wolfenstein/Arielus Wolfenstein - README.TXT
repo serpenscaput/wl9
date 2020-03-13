@@ -97,11 +97,11 @@ So well, I think that's it. If you feel like sending me an e-mail, please hesita
 not and do so. I will be glad to read whatever you have to say. These are the accounts 
 I currently have:
 
-arielus1982(@)argentina.com
-arielus1982(@)hotmail.com
-arielus1982(@)yahoo.com.ar
+arielus1982( (at) )argentina.com
+arielus1982( (at) )hotmail.com
+arielus1982( (at) )yahoo.com.ar
 
-Note the brackets surrounding the '@' symbols. I stated my accounts the way I did 
+Note the brackets surrounding the ' (at) ' symbols. I stated my accounts the way I did 
 as a way of protecting them against those programs designed to search for e-mail 
 addresses to be sent spam to. Make sure you don't include any bracket if you write 
 to me, otherwise I won't receive any message. And, if you include no bracket and 

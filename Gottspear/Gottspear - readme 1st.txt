@@ -35,7 +35,7 @@ Thanks to both of you!
 NOW, Go shoot some Nazi scum and have fun!!
 
 Comments or Ideas for a "Wolf" storyline? Send them to me at:
-Tom@wolf3d.zzn.com or John_bucksnort@yahoo.com
+Tom (at) wolf3d.zzn.com or John_bucksnort (at) yahoo.com
 
 Thanks for playing..Wolf will live Forever!!
                        

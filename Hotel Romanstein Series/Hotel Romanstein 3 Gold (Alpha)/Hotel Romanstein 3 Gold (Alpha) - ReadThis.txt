@@ -12,7 +12,7 @@
 ===========================================================================
 Title                   : Hotel Romanstein
 Author	                : Kyung Kook Choi (Nick Name - WADMAN)
-Email Address           : d2kkr@hanmail.net
+Email Address           : d2kkr (at) hanmail.net
 Home Page               : http://cafe.daum.net/CUBEFPS
 Game Engine             : Wolfenstein 3d + Wolf4SDL
 Level                   : 6

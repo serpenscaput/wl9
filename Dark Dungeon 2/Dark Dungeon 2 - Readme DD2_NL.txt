@@ -34,7 +34,7 @@ Vermits ik nog maar 14 jaar ben heb ik geen sorce code veranderingen
 kunnen doen, maar zelfs zonder dat is het toch een fantastische wolf!
 
 	> >> My site: http://users.belgacom.net/kennox
-	> >> My e-mail:kennox@belgacom.net or kennox@belgacom.net
+	> >> My e-mail:kennox (at) belgacom.net or kennox (at) belgacom.net
 
 
 	      ---------------------------------------

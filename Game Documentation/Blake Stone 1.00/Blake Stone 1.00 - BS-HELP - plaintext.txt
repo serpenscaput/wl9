@@ -349,7 +349,7 @@ The needed files are CONFIG.SYS & AUTOEXEC.BAT.
 
 ţ Major Online Services
 
-Internet       -> apogee@delphi.com   Internet       -> joe.siegler@swcbbs.com
+Internet       -> apogee (at) delphi.com   Internet       -> joe.siegler (at) swcbbs.com
 America Online -> APOGEE              CompuServe     -> 74200,553
 Delphi         -> APOGEE              Genie          -> APOGEE
 Prodigy        -> CXVP94A             NVN            -> JSIEGLER

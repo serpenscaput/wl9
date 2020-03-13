@@ -24,6 +24,6 @@ to embark upon.
 
 ^C2bAcordgames.webstarts.com
 ^C10Gary Acord
-^C2bacordgames@juno.com
+^C2bacordgames (at) juno.com
 
 ^E

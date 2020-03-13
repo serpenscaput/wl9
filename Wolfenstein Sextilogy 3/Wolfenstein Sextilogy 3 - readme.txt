@@ -32,7 +32,7 @@ the appearance is changed. Use of the original VSWAP is DOS VERSION ONLY--the VS
 contains additional assets that are REQUIRED to run in Win32 mode.
 
 I hope you enjoy the Wolfenstein Sextilogy. If you wish, let me know what you think 
-of it at spaceforce-temp@hotmail.com.
+of it at spaceforce-temp (at) hotmail.com.
 
 Mod authors: You may use the graphics, sounds, etc. from this TC in your own mod 
 freely if you give credit, but not the levels. Thank you for your understanding.

@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 if exist gamemaps.suk del gamemaps.wl1
 if exist maphead.suk del maphead.wl1
 if exist vswap.suk del vswap.wl1

@@ -15,4 +15,4 @@ go on to the next level you'll just be in a little hallway with an End Game
 trigger set up (for completeness). There's no new sounds or graphics, just
 some levels that are entertaining to play and actually work.
 
-If you have any questions just e-mail me at BrianJ213@juno.com.
+If you have any questions just e-mail me at BrianJ213 (at) juno.com.

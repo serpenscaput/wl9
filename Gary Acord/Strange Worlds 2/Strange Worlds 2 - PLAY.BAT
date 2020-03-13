@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :start
 CLS
 echo ºÛº°±ÛßßßßÛßßßÛßßßßÛßßßßÛßÛÛßÛßßßßÛßßßÛÛßÛßÛßÛßßßÛßßßßÛßÛÛÛßßßßÛßßßÛÛßßßÛ²±°ºÛº
@@ -60,7 +60,7 @@ call Strange.exe > nul
 goto :start
 
 :2
-@echo off
+ (at) echo off
 copy games\gamemaps.r14 gamemaps.STR
 copy games\maphead.r14 maphead.STR
 call Strange.exe > nul
@@ -145,81 +145,81 @@ call Strange.exe > nul
 goto :start
 
 :16
-@echo off
+ (at) echo off
 copy games\gamemaps.cov gamemaps.STR
 copy games\maphead.cov maphead.STR
 call Strange.exe > nul
 goto :start
 
 :17
-@echo off
+ (at) echo off
 copy games\gamemaps.pan gamemaps.STR
 copy games\maphead.pan maphead.STR
 call Strange.exe > nul
 goto :start
 
 :18
-@echo off
+ (at) echo off
 copy games\gamemaps.mut gamemaps.STR
 copy games\maphead.mut maphead.STR
 call Strange.exe > nul
 goto :start
 
 :19
-@echo off
+ (at) echo off
 copy games\gamemaps.bla gamemaps.STR
 copy games\maphead.bla maphead.STR
 call Strange.exe > nul
 goto :start
 
 :20
-@echo off
+ (at) echo off
 copy games\gamemaps.sho gamemaps.STR
 copy games\maphead.sho maphead.STR
 call Strange.exe > nul
 goto :start
 
 :21
-@echo off
+ (at) echo off
 copy games\maphead.wol maphead.STR
 copy games\gamemaps.wol gamemaps.STR
 call Strange.exe > nul
 goto :start
 
 :22
-@echo off
+ (at) echo off
 copy games\maphead.ach maphead.STR
 copy games\gamemaps.ach gamemaps.STR
 call Strange.exe > nul
 goto :start
 
 :23
-@echo off
+ (at) echo off
 copy games\vswap.bla vswap.STR
 goto :start
 
 :24
-@echo off
+ (at) echo off
 copy games\vswap.doo vswap.STR
 goto :start
 
 :25
-@echo off
+ (at) echo off
 copy games\vswap.mon vswap.STR
 goto :start
 
 :26
-@echo off
+ (at) echo off
 copy games\vswap.pac vswap.STR
 goto :start
 
 :27
-@echo off
+ (at) echo off
 copy games\vswap.cav vswap.STR
 goto :start
 
 :28
-@echo off
+ (at) echo off
 copy games\vswap.str vswap.STR
 goto :start
 

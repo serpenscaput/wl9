@@ -12,6 +12,6 @@ Scores over 10 million show on status bar WL_AGENT.CPP, WL_DEF.H, WL_GAME.CPP, I
 
 
 If anyone would like to use the source code before you report to me in e-mail.
-My e-mail:catekoprotokol@gmail.com
+My e-mail:catekoprotokol (at) gmail.com
 
 

@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------
                Rise of the Triad ~ (c) 1994 Apogee Software, Ltd.
                   The Unofficial FAQ - Pre-Release version 1.65
-        Written: August, 1994 by: Rylan Hilman (rhi...@oasis.rain.com)
+        Written: August, 1994 by: Rylan Hilman (rhi... (at) oasis.rain.com)
     "Rise of the Triad: Weapons so powerful, they blow you out of the game!"
                                               - Joe Siegler, Apogee Software
 ------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ if I really DID do it, then I'll tell you personally). If anybody is offended,
 go talk with Apogee.  Remember, as of now, Apogee Software is only mildly
 involved in making this FAQ.  So, to finish up, if it's a question about the
 FAQ, ask me. If it's a question about R.o.t.T. that is not answered in this
-FAQ, send e-mail(Internet) to joe.s...@swcbbs.com (Joe Siegler, Apogee
+FAQ, send e-mail(Internet) to joe.s... (at) swcbbs.com (Joe Siegler, Apogee
 Software).
 
 +==============+
@@ -794,17 +794,17 @@ other miscellaneous sources.
 
   Well, since the game isn't even OUT yet, so I can't take contributions like
 Hank can.  But, if you happen to notice any spelling, punctuation, or any other
-form of mistake or anything, send your notice to rhi...@oasis.rain.com.
+form of mistake or anything, send your notice to rhi... (at) oasis.rain.com.
 (ALL NITPICKERS UNITE!) Here is a small chart on what to send where:
 
 The message content                                  | Address to send to
 -----------------------------------------------------+------------------------
-Compliments about the FAQ                            | rhi...@oasis.rain.com
-Questions about Rise of the Triad not in this FAQ    | joe.s...@swcbbs.com
-Information you would like in the FAQ                | rhi...@oasis.rain.com
-Flames, angry mail, etc                              | your...@here.com :)
-Ordering information                                 | joe.s...@swcbbs.com
-Anything else                                        | rhi...@oasis.rain.com
+Compliments about the FAQ                            | rhi... (at) oasis.rain.com
+Questions about Rise of the Triad not in this FAQ    | joe.s... (at) swcbbs.com
+Information you would like in the FAQ                | rhi... (at) oasis.rain.com
+Flames, angry mail, etc                              | your... (at) here.com :)
+Ordering information                                 | joe.s... (at) swcbbs.com
+Anything else                                        | rhi... (at) oasis.rain.com
 
 
   BTW, this Faq-writing hobby is a non-profit organization.
@@ -814,7 +814,7 @@ Anything else                                        | rhi...@oasis.rain.com
 
   (BTW, I'm not counting myself and Apogee employees)
 
-  Jason Maxwell Evans(jme...@valhalla.cs.wright.edu) - My first non-Apogee,
+  Jason Maxwell Evans(jme... (at) valhalla.cs.wright.edu) - My first non-Apogee,
 non-me contributor. He sent up some general information, which I widely
 scattered(in the appropriate places, at least. :).
 

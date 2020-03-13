@@ -3,7 +3,7 @@
 Title                   : Chemical Reaction
 Files			: gamemaps.wl6 maphead.wl6 PDsod1.txt
 Author                  : Pablo Dictter 
-Email Address           : pablodictter@hotmail.com
+Email Address           : pablodictter (at) hotmail.com
 Description             : My first maps for Spear of Destiny.
 			  I recommend to play these maps at skill 4.
 			  The second map was inspired by the song "The SS gonna get you" and the 		   

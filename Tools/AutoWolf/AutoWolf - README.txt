@@ -184,7 +184,7 @@ See license-gpl.txt for details.
 
 Contact:
 --------
-You can email me for questions regarding this project at ioan_chera@yahoo.com
+You can email me for questions regarding this project at ioan_chera (at) yahoo.com
 You can find me posting at the Doomworld or ZDoom forums as the user "printz".
 
 PM me there if you're registered.

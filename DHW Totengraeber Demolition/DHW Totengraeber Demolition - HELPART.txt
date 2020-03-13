@@ -277,7 +277,7 @@ together without the expert help of the following fine people.
 ^P
 ^C7d CONTACTING THE AUTHOR
 
-^C00 You can contact me at my e-mail address, webmaster@wolf3dbunker.com. You can 
+^C00 You can contact me at my e-mail address, webmaster (at) wolf3dbunker.com. You can 
 also visit my website, B.J. Rowan's Wolfenstein Bunker, to get the latest updates 
 to ^C2bProject Totengraeber, ^C00lots of other add-ons, and help for you other source 
 code writers!
@@ -325,7 +325,7 @@ Watch for these new episodes to start appearing in 2000!
 
 
 ^C17 -Brian J. Rowan
-webmaster@wolf3dbunker.com
+webmaster (at) wolf3dbunker.com
 http://www.wolf3dbunker.com
 ^P
 ^C7d EXTRA - DHW COMMUNITY MAP PACK

@@ -29,7 +29,7 @@ which get blocked off - walls which disappear.  Sometimes a level wouldn't play 
 all.  All these levels have been tested on an Acorn 3010 and play OK.
 
 Please send any comments to my e-mail address at
-brian@brlowe.globalnet.co.uk.
+brian (at) brlowe.globalnet.co.uk.
 
 My web-site URL is http://www.users.globalnet.co.uk/~brlowe.
 

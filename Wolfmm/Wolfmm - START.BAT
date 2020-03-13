@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 CLS
 TYPE MENU
 

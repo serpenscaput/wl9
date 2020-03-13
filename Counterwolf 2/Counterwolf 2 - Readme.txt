@@ -225,11 +225,11 @@ to 	take down simple enemies with these.
 
 ===================
 
-    E-Mail ME @
+    E-Mail ME  (at) 
 
 ===================
 
-ryanpking@yahoo.com
+ryanpking (at) yahoo.com
 
 
 

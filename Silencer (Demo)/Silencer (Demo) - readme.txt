@@ -28,4 +28,4 @@ If you're having difficulty playing the game, just start a new game and turn dow
 the difficulty. We have tested the game, and it is completely beatable on all skill 
 levels. Don't send us complaint emails, unless you think it's really a problem!
 
-Thanks, and any comments and questions you can send to skrathbun@earthlink.net
+Thanks, and any comments and questions you can send to skrathbun (at) earthlink.net

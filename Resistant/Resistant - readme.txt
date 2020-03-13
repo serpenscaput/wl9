@@ -43,7 +43,7 @@ The game does crash very often, especially after killing the last 'psycho doctor
 don't know the problem yet (I'm working on it). If you find out what's the reason 
 for the game crash, mail it to me on
 
-in-ketten@hotmail.com
+in-ketten (at) hotmail.com
 
 . Thank you. I am very sorry for every bug in my game you see.
 

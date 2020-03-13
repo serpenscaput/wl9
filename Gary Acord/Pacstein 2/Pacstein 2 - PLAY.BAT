@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :start
 CLS
 echo บบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ
@@ -49,140 +49,140 @@ if errorlevel 1 goto :ps1
 if errorlevel 0 goto :start
 
 :ps1
-@echo off
+ (at) echo off
 copy games\maphead.r7 maphead.wl1
 copy games\gamemaps.r7 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps2
-@echo off
+ (at) echo off
 copy games\maphead.wd2 maphead.wl1
 copy games\gamemaps.wd2 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps3
-@echo off
+ (at) echo off
 copy games\maphead.r1 maphead.wl1
 copy games\gamemaps.r1 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps4
-@echo off
+ (at) echo off
 copy games\maphead.r2 maphead.wl1
 copy games\gamemaps.r2 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps5
-@echo off
+ (at) echo off
 copy games\maphead.r3 maphead.wl1
 copy games\gamemaps.r3 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps6
-@echo off
+ (at) echo off
 copy games\maphead.r4 maphead.wl1
 copy games\gamemaps.r4 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps7
-@echo off
+ (at) echo off
 copy games\maphead.r5 maphead.wl1
 copy games\gamemaps.r5 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps8
-@echo off
+ (at) echo off
 copy games\gamemaps.enh gamemaps.wl1
 copy games\maphead.enh maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps9
-@echo off
+ (at) echo off
 copy games\maphead.r8 maphead.wl1
 copy games\gamemaps.r8 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps10
-@echo off
+ (at) echo off
 copy games\maphead.rg1 maphead.wl1
 copy games\gamemaps.rg1 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps11
-@echo off
+ (at) echo off
 copy games\maphead.rg2 maphead.wl1
 copy games\gamemaps.rg2 gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps12
-@echo off
+ (at) echo off
 copy games\maphead.wol maphead.wl1
 copy games\gamemaps.wol gamemaps.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps13
-@echo off
+ (at) echo off
 copy games\gamemaps.bla gamemaps.wl1
 copy games\maphead.bla maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps14
-@echo off
+ (at) echo off
 copy games\gamemaps.r14 gamemaps.wl1
 copy games\maphead.r14 maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps15
-@echo off
+ (at) echo off
 copy games\gamemaps.cov gamemaps.wl1
 copy games\maphead.cov maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps16
-@echo off
+ (at) echo off
 copy games\gamemaps.mus gamemaps.wl1
 copy games\maphead.mus maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps17
-@echo off
+ (at) echo off
 copy games\gamemaps.mo1 gamemaps.wl1
 copy games\maphead.mo1 maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps18
-@echo off
+ (at) echo off
 copy games\gamemaps.mo2 gamemaps.wl1
 copy games\maphead.mo2 maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps19
-@echo off
+ (at) echo off
 copy games\gamemaps.wd1 gamemaps.wl1
 copy games\maphead.wd1 maphead.wl1
 call pacstein.exe > nul
 goto :start
 
 :ps20
-@echo off
+ (at) echo off
 copy games\gamemaps.ps1 gamemaps.wl1
 copy games\maphead.ps1 maphead.wl1
 call pacstein.exe > nul

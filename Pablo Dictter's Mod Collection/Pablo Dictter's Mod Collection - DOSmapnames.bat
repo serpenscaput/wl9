@@ -1,1 +1,1 @@
-@wolf3d.exe -goobers -mapnames
+ (at) wolf3d.exe -goobers -mapnames

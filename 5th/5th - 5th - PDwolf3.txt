@@ -3,7 +3,7 @@
 Title                   : 5th
 Files			: gamemaps.wl6 maphead.wl6 PDwolf3.txt MapInfo.txt
 Author                  : Pablo Dictter 
-Email Address           : pablodictter@hotmail.com
+Email Address           : pablodictter (at) hotmail.com
 Description             : A pack of 5 levels for Wolf3D. 
 		          I had these maps lying around my HD for months, and I never found a use 
 		          for them, that's why I'm releasing them.

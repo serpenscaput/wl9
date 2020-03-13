@@ -67,4 +67,4 @@ var   wolfpal   :array[0..255] of integer;            //The wolfenstein palette
 
                                http://vincentius.dk
 
-                                 mail@vincentius.dk
+                                 mail (at) vincentius.dk

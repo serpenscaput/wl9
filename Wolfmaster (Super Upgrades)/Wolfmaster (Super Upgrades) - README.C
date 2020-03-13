@@ -17,7 +17,7 @@
 Title                   : Wolfenstein 3-D: The Renovation
 Author                  : Brian J. "B.J. Blazkowicz" Rowan
 Email Address           : Compuserve : 73552,3423
-                          Internet   : blaze@oeonline.com
+                          Internet   : blaze (at) oeonline.com
 Misc. Author Info       : I am a fan of Wolfenstein, Doom, Spear of
                           Destiny, Blake Stone, Corridor 7 - you name
                           it; if it uses a 3-D action game engine, I
@@ -371,4 +371,4 @@ job, but somebody has to do it...
 Brian J. "B.J. Blazkowicz" Rowan
 
 Compuserve : 73552,3423
-Internet   : blaze@oeonline.com
+Internet   : blaze (at) oeonline.com

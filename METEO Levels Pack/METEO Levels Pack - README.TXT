@@ -5,7 +5,7 @@ Thank you for downloading METEO, a Total Conversion for Wolfenstein 3d
 Title: Meteo (old name:Project:Falconhammer)
 Filename: METEO.ZIP
 Author: Wes L. DesJardins
-Email Address: Spunkmeyer@hotmail.ca or Hitler_JR@hotmail.com
+Email Address: Spunkmeyer (at) hotmail.ca or Hitler_JR (at) hotmail.com
 Description: 15-level Wolfenstein adventure, with many new features
 
 ============================================================

@@ -1,7 +1,7 @@
 ================================================================
 Title                   : The Golden Parrot
 Author                  : Fraggeur
-Email Address           : fraggeur@msn.com
+Email Address           : fraggeur (at) msn.com
 Description             : Pirate themed Wolfenstein 3D mod
 ================================================================
 

@@ -26,7 +26,7 @@ game and the full game of Fraggerstein 2 cuz I like my levels sometimes to be ch
 not boring or impossible.
 
 I like my levels - if you have any suggestions, or even any comments, questions or 
-queries then email me at topfragger@hotmail.com. Enjoy the game demo - have fun!!
+queries then email me at topfragger (at) hotmail.com. Enjoy the game demo - have fun!!
 
 
 

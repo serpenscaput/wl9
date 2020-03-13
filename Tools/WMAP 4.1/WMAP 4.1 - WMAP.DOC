@@ -16,7 +16,7 @@ To display a description of the input syntax enter:
 This version of WMAP now uses files WMAPWALL.DAT & WMAPOBJ.DAT to define the
 characters to be output for each type of wall or object. These data files may
 be edited to suit your own tastes, and if any wall/object code is not defined
-in these files then the default character '@' is output.
+in these files then the default character ' (at) ' is output.
 
 Hosko
 

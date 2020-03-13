@@ -58,7 +58,7 @@ Here it my used utilities on mod making:
 
 3.1:Contant with Me
 
-You write if you have asks,problems to Me (catekoprotokol@gmail.com) e-mail. Thanks.
+You write if you have asks,problems to Me (catekoprotokol (at) gmail.com) e-mail. Thanks.
 
 
 - Officer-Michael John

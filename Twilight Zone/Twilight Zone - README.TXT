@@ -131,7 +131,7 @@ Notes
 *****************************************************************************
 
 Graphics,sounds etc can be used from this TC of mine if I am given credit.
-Any comments etc then you can email me joe_sentinel@hotmail.com
+Any comments etc then you can email me joe_sentinel (at) hotmail.com
 
 Other mods i've created are
 

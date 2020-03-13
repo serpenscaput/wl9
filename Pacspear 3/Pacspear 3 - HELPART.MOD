@@ -27,7 +27,7 @@ Deluxe Animation, and Paintbrush to create Pacspear 3.
 drop me an email.
 
 ^C2dGary Acord
-^C2bAcordgames@juno.com
+^C2bAcordgames (at) juno.com
 
 ^C2dAcord Games Website is:
 ^C2bhttp://Acordgames.webstarts.com

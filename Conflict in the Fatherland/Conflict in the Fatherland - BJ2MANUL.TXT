@@ -20,7 +20,7 @@ It is of the utmost importance that you refrain from contacting either Apogee
 Software or id Software concerning these levels. They will not provide you
 with any support for a modified product. If you have a question or a
 constructive comment or you get an error message, feel free to send a message
-to me, B.J. Rowan, at my e-mail address: bandit@coldmail.com.
+to me, B.J. Rowan, at my e-mail address: bandit (at) coldmail.com.
 
 System Requirements
 -------------------
@@ -347,4 +347,4 @@ http://www.geocities.com/~perigee/wolf3d/
 Enjoy the Game!
 
 If you have a question or a comment, send e-mail to B.J. Rowan at:
-bandit@coldmail.com
+bandit (at) coldmail.com

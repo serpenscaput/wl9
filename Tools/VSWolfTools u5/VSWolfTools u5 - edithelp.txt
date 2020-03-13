@@ -14,7 +14,7 @@ If a mod is not a standard wolf/spear mod, You will be better off
   |     -Level title-        | ? | Rest. |  ||____|_| |____|_| |
   |__________________________|___|_______|  | Solid #   ###    |
   |   |   |   |   |$$$|  |$$$|   |       |  |__________________|
-  | C | K | P | # |$$$|LR|$$$| @ | Save  |
+  | C | K | P | # |$$$|LR|$$$|  (at)  | Save  |
   |---+---+---+---+---+--+---+---+-------|
   | W | F | O |(f)|(c)|  | p | i | f | s |
   |   |   |   |   |   |  |   |   |   |   |
@@ -48,7 +48,7 @@ $$$   *Showing content of left and right mousebutton for inserting/filling.
 LR    *Click and 'LR' turns into 'X'. Inserting/filling now alternates
        between 'left' and 'right' items. Click again to return to LR.
 
- @    *Undo the latest changes in the current level.
+  (at)     *Undo the latest changes in the current level.
 
  Restore *the game from backup (files+'bk').
 

@@ -6,8 +6,8 @@ Alpha Version 0.10
     Version only, tested with 1.1, based on 1.2 maps, should also work
     with 1.4 - anyone who has 1.4 please contact me.
   * Please do not call or e-mail Apogee if something goes wrong, message
-    notwithstanding.  Instead, e-mail <bidi@pinku.zzn.com> or
-    <steve@dosius.zzn.com> and we will attempt to resolve the issue.
+    notwithstanding.  Instead, e-mail <bidi (at) pinku.zzn.com> or
+    <steve (at) dosius.zzn.com> and we will attempt to resolve the issue.
   * The levels changed are currently:
 
       * Episode 1, Levels 1-10

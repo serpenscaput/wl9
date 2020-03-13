@@ -23,7 +23,7 @@ Map [1,2,3,4] :The different maps you may choose.
 
 The Wolfsweden game was created by Oeyvind Naeroe (THE GREAT NERO,YOU KNOW )
 Actually Øyvind Nærø.
-My e-mail address is onaro@sn.no (you may contact me by e-mail)
+My e-mail address is onaro (at) sn.no (you may contact me by e-mail)
 
 
 Particularly I wish you folks from Sweden good luck while playing
@@ -33,7 +33,7 @@ WolfSweden !!!
 Just in case,read the legal stuff here :
 
 My real name                :: Øyvind Nærø
-E-mail address              :: onaro@sn.no
+E-mail address              :: onaro (at) sn.no
 Name of the file uploaded   :: wolf-Swe.zip
 Distribution status         :: Freely re-distributable 
 Name of the original author :: ID software

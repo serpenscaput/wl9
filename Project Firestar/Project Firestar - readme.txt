@@ -8,7 +8,7 @@ Visit http://gbuteler.tripod.com/ or http://gbuteler.tripod.com/firestar for mor
 news on
 FireStar or other projects like Nazi's Death Valley (NDV) or the NDV Demo (in there
 
-respective sections). Send feedback, comments, and suggestions to gbuteler2000@yahoo.com.ar
+respective sections). Send feedback, comments, and suggestions to gbuteler2000 (at) yahoo.com.ar
 
 --------------------------------------------------------------------------------------------
 

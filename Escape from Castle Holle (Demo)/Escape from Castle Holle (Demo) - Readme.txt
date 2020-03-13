@@ -3,7 +3,7 @@ ESCAPE FROM CASTLE HOLLE: DEMO
 
 Created by: Dean
 
-email: deananthonyhorton@hotmail.com
+email: deananthonyhorton (at) hotmail.com
 
 This is a 10 level demo version. The full set should be released later in the year.
 

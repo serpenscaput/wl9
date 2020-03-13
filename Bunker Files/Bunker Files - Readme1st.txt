@@ -32,7 +32,7 @@ Thanks to Brian Lowe for the secret level!
 Level 1 by my grandson Bobby Bucksnort
 
 
-comments?..........john_bucksnort@yahoo.com
+comments?..........john_bucksnort (at) yahoo.com
 
 LONG LIVE THE SPEAR!
 WOLF WILL LIVE FOREVER!

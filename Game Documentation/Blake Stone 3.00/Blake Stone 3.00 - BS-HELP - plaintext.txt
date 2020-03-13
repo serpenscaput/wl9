@@ -128,7 +128,7 @@ v3.0 -> None.  The only change in v3.0 is the new reduced pricing for Blake.
 
    ţ Software Creations BBS -> 1-508-368-7036 with filename DRDOS326.ZIP
    ţ Novell BBS             -> 1-408-649-3443 with filename PATCH326.ZIP
-   ţ Internet               -> Email "drdos@novell.com"
+   ţ Internet               -> Email "drdos (at) novell.com"
    ţ CompuServe             -> GO NOVLIB, File Area 12, Filename PAT326.EXE
    ţ America Online         -> Do keyword search for "DR-DOS",
                                                 and get filename PAT326.ZIP.
@@ -346,7 +346,7 @@ in here would be sound drivers (SoundBlaster 16, Pro Audio Spectrum 16, etc..).
 
 SAMPLE AUTOEXEC.BAT
 -------------------
-@echo off
+ (at) echo off
 SET BLASTER=Aw Ix Dy Tz
 LH C:\DOS\MOUSE.COM
 
@@ -389,7 +389,7 @@ This patch is available in several places online as well.
 
  ţ Software Creations BBS -> 1-508-368-7036 with filename DRDOS326.ZIP
  ţ Novell BBS             -> 1-408-649-3443 with filename PATCH326.ZIP
- ţ Internet               -> Email "drdos@novell.com"
+ ţ Internet               -> Email "drdos (at) novell.com"
  ţ CompuServe             -> GO NOVLIB, File Area 12, Filename PAT326.EXE
  ţ America Online         -> Do keyword search for "DR-DOS",
                                               and get filename PAT326.ZIP.
@@ -535,7 +535,7 @@ monitored as well, and those are also listed.
 
 ţ Major Online Services
 
-Internet       -> joe.siegler@swcbbs.com      Internet -> apogee@metronet.com
+Internet       -> joe.siegler (at) swcbbs.com      Internet -> apogee (at) metronet.com
 CompuServe     -> 74200,553                   America Online -> APOGEE
 GEnie          -> APOGEE                      Prodigy        -> CXVP94A
 
@@ -551,7 +551,7 @@ that will get you the latest info updates directly in your mailbox!  Get the
 most up to date info about Apogee.  Send Internet E-Mail to the Internet mail
 address listed above for more information.  Also, Apogee has a finger service
 available.  If you have access to this capability of the Internet, you can
-finger apogee@metronet.com for the latest hot-off the presses news about
+finger apogee (at) metronet.com for the latest hot-off the presses news about
 Apogee.  (Check w/ your local Internet service provider for more information
 about Finger, and to see if you have access to it.)
 

@@ -7,7 +7,7 @@ It's all 11 lever including 1 secret lever. It's difficult for you to have to
 push some walls to find the key.
 
 If you have find any bug, please contact me:
-dtrade@inhe.net
+dtrade (at) inhe.net
 
 THANKS Mr. Brian Lowe's help.
 dtrade

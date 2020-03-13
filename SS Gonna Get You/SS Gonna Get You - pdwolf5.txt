@@ -3,7 +3,7 @@ Title                   : The SS Gonna Get You
 Filenames               : pdwolf5.txt - gamemaps.wl6 - maphead.wl6
 Date Released		: Nov 21st 2001
 Author                  : Pablo Dictter
-Email Address           : pablo@doomcenter.com
+Email Address           : pablo (at) doomcenter.com
 Description             : a 5 level episode for Wolfenstein 3d.
 			  There is no boring story or fancy new
 			  graphics, just play the maps and have

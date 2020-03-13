@@ -54,10 +54,10 @@ floor colors, cheats etc. The ILM cheat still works, but with different letters.
 - Some graphics have been changed. 
 
   
-by John Hedgehog (email: john_hedgehog3k@yahoo.ca)
+by John Hedgehog (email: john_hedgehog3k (at) yahoo.ca)
 
 Thanks also to:
-Brian Lowe (email: brian@brlowe.globalnet.co.uk) - who helped with the levels and 
+Brian Lowe (email: brian (at) brlowe.globalnet.co.uk) - who helped with the levels and 
 source code 
 Tristan van Putten - source code help
 	

@@ -23,7 +23,7 @@ and Lukas Jaeger. They act the same way as Otto Giftmacher and Gretel Grosse--on
 the appearance is changed.
 
 I hope you enjoy the Wolfenstein Sextilogy. If you wish, let me know what you think 
-of it at spaceforce-temp@hotmail.com.
+of it at spaceforce-temp (at) hotmail.com.
 
 Mod authors: You may use the graphics, sounds, etc. from this TC in your own mod 
 freely if you give credit, but not the levels. Thank you for your understanding.

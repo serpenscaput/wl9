@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 cls
 if "%1" == "/?" goto endc
 if "%1" == "-?" goto endc 

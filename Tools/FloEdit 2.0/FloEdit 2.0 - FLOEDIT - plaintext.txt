@@ -1502,7 +1502,7 @@ PROBLEM: Another problem occurred that wasn't mentioned here.
 SOLUTION: This may be one of the mystery problems that show up every once in a while, 
 annoy you and then dwindle off and never appear again. If you find a continuing problem, 
 email me explaining it and when it occurs so I can look it over. You might even want 
-to save the level to an individual LVL-file in FloEdit and mail it to sexgott@firemail.de, 
+to save the level to an individual LVL-file in FloEdit and mail it to sexgott (at) firemail.de, 
 so I can see the problem myself.
 +$#KDialog box "Professional mode"
 This dialog box gives you full access to FloEdit's symbol database. You can

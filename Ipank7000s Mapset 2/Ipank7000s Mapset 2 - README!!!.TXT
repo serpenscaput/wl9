@@ -31,7 +31,7 @@ Thanks to:
 
 
 suggestion, question, bug report:
- * email @ ipank7000@fmguy.com
+ * email  (at)  ipank7000 (at) fmguy.com
  * PM me in DHW forum (Ipank7000) or in Wolf3d Haven forum (Ipank7000)
  
 Enough reading...start playing!

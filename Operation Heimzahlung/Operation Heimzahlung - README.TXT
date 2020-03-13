@@ -6,7 +6,7 @@ for Wolfenstein 3d
 Title: Operation Heimzahlung
 Filename: HZAHLUNG.ZIP
 Author: Wolf Skevos-Jones
-Email Address: wolf@shadaux.com
+Email Address: wolf (at) shadaux.com
 Description: 22-level Wolfenstein adventure, with many new features
 
 ============================================================

@@ -327,7 +327,7 @@ Want to know what tools i'm used to create this mod? Here it is:
 7. Conclusion and Credits
 
 If you have any problems with the mod (not working, found a bug) feel free to drop 
-an E-mail to me: BKaroly1222aa@gmail.com
+an E-mail to me: BKaroly1222aa (at) gmail.com
 
 Some of these maps might be similar from my earlier mods. The Reason for this is 
 that those few maps we're originally meant to be in this

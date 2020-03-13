@@ -67,7 +67,7 @@ Dood aan de Nazi's, want jij moet ze doden!!!
 Veel plezier met mijn Wolfenstein add-on!!!
 
 PS: Indien zich een fout ontstaat contakteer mij op
-kennox@belgacom.net!
+kennox (at) belgacom.net!
 """""""""""""""""""""""""
 
 Special thanks to:

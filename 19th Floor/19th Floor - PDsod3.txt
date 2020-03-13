@@ -3,7 +3,7 @@
 Title                   : The 19th Floor
 Files			: gamemaps.sod maphead.sod PDsod3.txt
 Author                  : Pablo Dictter 
-Email Address           : pablodictter@hotmail.com
+Email Address           : pablodictter (at) hotmail.com
 Description             : I had made 2 maps for Spear of Destiny and I never
                           finished them. So I took the time and I finished
                           them. I choosed to start the first map at FLOOR04

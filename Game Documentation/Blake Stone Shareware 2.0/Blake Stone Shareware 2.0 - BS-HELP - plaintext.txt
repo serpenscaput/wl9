@@ -108,7 +108,7 @@ BLAKE STONE: ALIENS OF GOLD" v2.0 ON-DISK TECHNICAL SUPPORT ŰŰ˛˛±±°°
 
    ţ Software Creations BBS -> 1-508-368-7036 with filename DRDOS326.ZIP
    ţ Novell BBS             -> 1-408-649-3443 with filename PATCH326.ZIP
-   ţ Internet               -> Email "drdos@novell.com"
+   ţ Internet               -> Email "drdos (at) novell.com"
    ţ CompuServe             -> GO NOVLIB, File Area 12, Filename PAT326.EXE
    ţ America Online         -> Do keyword search for "DR-DOS",
                                                 and get filename PAT326.ZIP.
@@ -326,7 +326,7 @@ in here would be sound drivers (SoundBlaster 16, Pro Audio Spectrum 16, etc..).
 
 SAMPLE AUTOEXEC.BAT
 -------------------
-@echo off
+ (at) echo off
 SET BLASTER=Aw Ix Dy Tz
 LH C:\DOS\MOUSE.COM
 
@@ -369,7 +369,7 @@ This patch is available in several places online as well.
 
  ţ Software Creations BBS -> 1-508-368-7036 with filename DRDOS326.ZIP
  ţ Novell BBS             -> 1-408-649-3443 with filename PATCH326.ZIP
- ţ Internet               -> Email "drdos@novell.com"
+ ţ Internet               -> Email "drdos (at) novell.com"
  ţ CompuServe             -> GO NOVLIB, File Area 12, Filename PAT326.EXE
  ţ America Online         -> Do keyword search for "DR-DOS",
                                               and get filename PAT326.ZIP.
@@ -511,7 +511,7 @@ execute the "MEM /C" command (or just MEM if you get an error using MEM /C).
 
 ţ Major Online Services
 
-Internet       -> apogee@delphi.com   Internet       -> joe.siegler@swcbbs.com
+Internet       -> apogee (at) delphi.com   Internet       -> joe.siegler (at) swcbbs.com
 America Online -> APOGEE              CompuServe     -> 74200,553
 Delphi         -> APOGEE              Genie          -> APOGEE
 Prodigy        -> CXVP94A             NVN            -> JSIEGLER

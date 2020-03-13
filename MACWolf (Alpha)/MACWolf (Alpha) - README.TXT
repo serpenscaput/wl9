@@ -36,4 +36,4 @@ Existing credits - thanks to:
 *id software
 
 If you'd like to help with this project or have any questions please let me know 
--  Jimmy Cozad at jimmycozad1980@yahoo.com
+-  Jimmy Cozad at jimmycozad1980 (at) yahoo.com

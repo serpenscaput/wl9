@@ -1,4 +1,4 @@
-Improved Wolfmap Definition Files * Eric A. Meyer (eam3@po.cwru.edu)   
+Improved Wolfmap Definition Files * Eric A. Meyer (eam3 (at) po.cwru.edu)   
 --------------------------------------------------------------------
    If you've been trying to use map editor programs to the view "Spear
 of Destiny" maps, and finding nothing but a lot of blanks and strange
@@ -45,7 +45,7 @@ descriptions to all of the unused codes.  These will show up in the list
 (and on the map) as "Unknown object" (dark blue question mark) and 
 "Unknown wall" (dark gray checkered square with black center).
    If anyone has a major problem with my icon choices, they may email me 
-at eam3@po.CWRU.Edu for a copy of the files which detail what the 
+at eam3 (at) po.CWRU.Edu for a copy of the files which detail what the 
 object/wall codes stand for and how they may be altered.  If demand for 
 these 'how-to' files goes through the roof they will be uploaded to 
 ccu.umanitoba.ca and all queries will be directed there.

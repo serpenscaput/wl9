@@ -30,4 +30,4 @@
 	------------------------------------------------------------------------
 
     	
-	e-mail: nasaretti@suomi24.fi
+	e-mail: nasaretti (at) suomi24.fi

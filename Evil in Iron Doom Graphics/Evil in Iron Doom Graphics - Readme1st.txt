@@ -37,6 +37,6 @@ Thanks to Ken Obrien for  some extra walls.
 And of course, Mr. Lowe, for distribution!
 
 
-comments?..................john_bucksnort@yahoo.com
+comments?..................john_bucksnort (at) yahoo.com
 
         

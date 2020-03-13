@@ -17,7 +17,7 @@ README.TXT, BLURB.TXT, HINTS.TXT, MAPDATA.DEF, and OBJDATA.DEF are kept
 unmodified and together.
 
 Like the blurb says, we'd love to hear your feedback.  Send comments,
-suggestions, questions, and gripes to benrg@uclink.berkeley.edu.  Enjoy!
+suggestions, questions, and gripes to benrg (at) uclink.berkeley.edu.  Enjoy!
         
         -- Nathaniel Rudiak-Gould (the guy who designed the levels)
             and Ben Rudiak-Gould  (the guy with the email address)

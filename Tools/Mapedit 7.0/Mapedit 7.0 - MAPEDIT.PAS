@@ -20,10 +20,10 @@
       - Minor bug fixes
 
 
-   ver 6.1 (Matt Gruson - 5/93 Contact on CompuServe @ 72360,2432 or
+   ver 6.1 (Matt Gruson - 5/93 Contact on CompuServe  (at)  72360,2432 or
                                                        73766,347
-                                          Prodigy    @ PTJT50A
-                                          GEnie      @ M.GRUSON
+                                          Prodigy     (at)  PTJT50A
+                                          GEnie       (at)  M.GRUSON
 
       - Allowed right mouse button to have it's own value.
       - Allowed sepperate tracking of MAP and OBJ mode values for

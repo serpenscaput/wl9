@@ -51,7 +51,7 @@
  
  
                                  Bill Neisius
-                             bill@solaria.hac.com
+                             bill (at) solaria.hac.com
 
                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

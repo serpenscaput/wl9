@@ -37,6 +37,6 @@ Coding Issues (things I'd like to add to the game, but don't know how to) :
 	Problem : I have not enough sprites left...
 
 
-If you know how to solve one of these, please contact me @
+If you know how to solve one of these, please contact me  (at) 
 
 	www.chaosphere.de.vu/nmesoftware

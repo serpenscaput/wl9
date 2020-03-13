@@ -268,4 +268,4 @@ A shareware or demo mod can handle many more walls than shown here,
   you can add additional walls with VSWAPED.
 I prefer the term 'actor' to 'guard' because it is more general.
 
-                             mail@vincentius.dk
+                             mail (at) vincentius.dk

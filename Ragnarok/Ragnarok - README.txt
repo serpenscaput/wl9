@@ -44,6 +44,6 @@ Brian Lowe for posting these levels.
 And to iD Software, for their classic original.
 
 You can send e-mail with comments or about any undetected bugs to:  
-acquincus@yahoo.com
+acquincus (at) yahoo.com
 
 

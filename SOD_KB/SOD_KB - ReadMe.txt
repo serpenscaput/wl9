@@ -17,7 +17,7 @@ If it wasn't for them you would not be able to play my new levels.
 
 
 If you enjoyed playing the levels, please contact me at 
-                                                          Prints@ccny.com
+                                                          Prints (at) ccny.com
                                                                 Or
                                                           82 South Main St.
                                                           Dolgeville N.Y. 13329 

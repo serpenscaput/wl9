@@ -2,7 +2,7 @@ REM
 REM Level Swap file for Wolfenstien 3-D levels from Ideas From the Deep
 REM
 REM v1.0
-@echo off
+ (at) echo off
 ECHO .
 ECHO Working...
 ECHO .

@@ -2,7 +2,7 @@
 Title                   : MP's Wolfenstein 3D Add-on
 Filename                : mpwolf.zip
 Author                  : Maarten Pinxten
-Email Address           : M.F.Pinxten@student.tudelft.nl
+Email Address           : M.F.Pinxten (at) student.tudelft.nl
 Description             : This is the demo version for my
 			Wolfenstein 3D Add-on. When I get some
 			positive reactions, I'll edit more levels               

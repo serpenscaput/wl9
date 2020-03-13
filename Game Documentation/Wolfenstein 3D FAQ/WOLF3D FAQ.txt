@@ -8,10 +8,10 @@ Any of the following addresses should be correct for e-mail.
 
 Stanley.
 
-sta...@uniwa.uwa.edu.au
-sta...@tartarus.uwa.edu.au
-sta...@swanee.ee.uwa.oz.au
-sta...@swanee.uwa.edu.au
+sta... (at) uniwa.uwa.edu.au
+sta... (at) tartarus.uwa.edu.au
+sta... (at) swanee.ee.uwa.oz.au
+sta... (at) swanee.uwa.edu.au
 
 ===============================================================================
 1. What is WolfenStein-3D?
@@ -125,10 +125,10 @@ WARNING: SPOILER ALERT!!! SPOILER ALERT!!! SPOILER ALERT!!! SPOILER ALERT!!!
 
 
 -------------------------------------------------------------------
-From be...@ocf.Berkeley.EDU Sun Jan 31 19:12:45 1993
+From be... (at) ocf.Berkeley.EDU Sun Jan 31 19:12:45 1993
 Date: Sun, 31 Jan 1993 03:07:14 -0800
-From: Ben Rudiak-Gould <be...@ocf.Berkeley.EDU>
-To: sta...@uniwa.uwa.edu.au
+From: Ben Rudiak-Gould <be... (at) ocf.Berkeley.EDU>
+To: sta... (at) uniwa.uwa.edu.au
 Subject: Re: WolfenStein-3D FAQ
 Newsgroups: comp.sys.ibm.pc.games
 Organization: U.C. Berkeley Open Computing Facility
@@ -263,7 +263,7 @@ God mode...
 
 -- Ben Rudiak-Gould
 AOL: BenjaminRG
-Internet: be...@ocf.berkeley.edu
+Internet: be... (at) ocf.berkeley.edu
 "I really need to work on my Total Time of 0:01 for Episode One.  I was
 messing around too much in those rooms." -- Me, with debugging mode
 -------------------------------------------------------------------------

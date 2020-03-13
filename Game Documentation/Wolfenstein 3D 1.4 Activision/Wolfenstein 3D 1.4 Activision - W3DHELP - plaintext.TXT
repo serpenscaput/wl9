@@ -345,7 +345,7 @@ be sound drivers (SoundBlaster 16, Pro Audio Spectrum 16, etc..).
 
 SAMPLE AUTOEXEC.BAT
 -------------------
-@echo off
+ (at) echo off
 SET BLASTER=A220 Ix Dy Tz
 C:\MOUSE\MOUSE
 cls
@@ -634,7 +634,7 @@ The needed files are CONFIG.SYS & AUTOEXEC.BAT, plus what happens when you
 execute the "MEM /C" command (or just MEM if you get an error using MEM /C).
 
 We can also be reached online at http://www.apogee1.com, as well as via email
-at help@apogee1.com.
+at help (at) apogee1.com.
 
 [ END OF FILE ]
 

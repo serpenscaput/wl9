@@ -585,7 +585,7 @@ cls
 Echo If you know the code to enter security station 1 type it now.
 echo If you don't type ?
 echo Q to quit
-choice /c:?Q~`1234567890-=wertyuiop[]asdfghjkl;'zxcvbnm,.\!@#$%^&*()"_+{} /n
+choice /c:?Q~`1234567890-=wertyuiop[]asdfghjkl;'zxcvbnm,.\! (at) #$%^&*()"_+{} /n
 If errorlevel 4 goto 6
 If not errorlevel 2 goto 60?
 If errorlevel 3 goto 61
@@ -607,7 +607,7 @@ echo This is Security Station 1 If you know the code to enter Security Station ]
 echo type it now.
 echo If you don't type ?
 echo Q to quit
-choice /c:Q?!^~`1@2#3$4%56&7*8(9)0_-+=wertyuiop[{]}asdfghjkl;"'zxcvbnm,.\ /n
+choice /c:Q?!^~`1 (at) 2#3$4%56&7*8(9)0_-+=wertyuiop[{]}asdfghjkl;"'zxcvbnm,.\ /n
 If errorlevel 5 goto 61
 If errorlevel 4 goto 61a1
 If errorlevel 3 goto 61a
@@ -621,7 +621,7 @@ echo This is Security Station 1 If you know the code to enter Security Station ]
 echo type it now.
 echo If you don't type ?
 echo Q to quit
-choice /c:Q?!1@2#3$4%5^6&7*8(9)0_-+=wertyuiop{[}]asdfghjkl;"'zxcvbnm,.~`\ /n
+choice /c:Q?!1 (at) 2#3$4%5^6&7*8(9)0_-+=wertyuiop{[}]asdfghjkl;"'zxcvbnm,.~`\ /n
 If errorlevel 4 goto 61
 If errorlevel 3 goto 62a
 If errorlevel 2 goto 61?
@@ -634,7 +634,7 @@ echo This is Securuty Station 1 If you know the code to enter Security Station ]
 echo type it now.
 echo If you don't type ?
 echo Q to quit
-choice /c:Q?-~!@#$%^&*()_+`1234567890=wertyuiop[]{}asdfghjkl;'"zxcvbnm,.\ /n
+choice /c:Q?-~! (at) #$%^&*()_+`1234567890=wertyuiop[]{}asdfghjkl;'"zxcvbnm,.\ /n
 If errorlevel 4 goto 61
 If errorlevel 3 goto 61a2
 If errorlevel 2 goto 61?
@@ -647,7 +647,7 @@ echo This is Security Station 1 If you know the code to enter Security Station ]
 echo type it now
 echo If you don't type ?
 echo Q to quit
-choice /c:Q?}~`!123456789@$#^%*&(0)-=_+[]{;'",.\wertyuiopasdfghjklzxcvbnm /n
+choice /c:Q?}~`!123456789 (at) $#^%*&(0)-=_+[]{;'",.\wertyuiopasdfghjklzxcvbnm /n
 If errorlevel 4 goto 61
 If errorlevel 3 goto 62b
 If errorlevel 2 goto 61?
@@ -673,7 +673,7 @@ Type S.txt
 pause
 :62ac
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+"? /n
 If errorlevel 47 goto 62ac
 If errorlevel 46 goto 62a1
 If errorlevel 14 goto 62ac
@@ -681,7 +681,7 @@ If errorlevel 13 goto 2
 goto 62ac
 :62a1
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 14 goto 62ac
 if errorlevel 13 goto 2
 if errorlevel 12 goto 62ac
@@ -689,7 +689,7 @@ if errorlevel 11 goto 62a2
 goto 62ac
 :62a2
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 14 goto 62ac
 if errorlevel 13 goto 2
 if errorlevel 4 goto 62ac
@@ -697,7 +697,7 @@ if errorlevel 3 goto 62a3
 goto 62ac
 :62a3
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 14 goto 62ac
 if errorlevel 13 goto 2
 if errorlevel 4 goto 62ac
@@ -705,7 +705,7 @@ if errorlevel 3 goto 62a4
 goto 62ac
 :62a4
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 14 goto 62ac
 if errorlevel 13 goto 2
 if errorlevel 7 goto 62ac
@@ -713,7 +713,7 @@ if errorlevel 6 goto 62a5
 goto 62ac
 :62a5
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 14 goto 62ac
 if errorlevel 13 goto 2
 if errorlevel 8 goto 62ac
@@ -721,7 +721,7 @@ if errorlevel 7 goto 62a6
 goto 62ac
 :62a6
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 If errorlevel 27 goto 62ac
 If errorlevel 26 goto 62a7
 If errorlevel 14 goto 62ac
@@ -729,7 +729,7 @@ If errorlevel 13 goto 2
 goto 62ac
 :62a7
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 22 goto 62ac
 if errorlevel 21 goto 62a8
 if errorlevel 14 goto 62ac
@@ -737,7 +737,7 @@ if errorlevel 13 goto 2
 goto 62ac
 :62a8
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 47 goto 62ac
 if errorlevel 46 goto 62a9
 if errorlevel 14 goto 62ac
@@ -745,7 +745,7 @@ if errorlevel 13 goto 2
 goto 62ac
 :62a9
 cls
-choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~!@#$%^&*()_+{}"? /n
+choice /c:`1234567890=qwertyuiop[]asdfghjkl;'zxcvbnm,.\~! (at) #$%^&*()_+{}"? /n
 if errorlevel 48 goto 62ac
 if errorlevel 47 goto 62a!
 if errorlevel 14 goto 62ac

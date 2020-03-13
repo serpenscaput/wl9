@@ -3,7 +3,7 @@
 Title                   : The Entrance
 Files			: gamemaps.sod maphead.sod PDsod2.txt
 Author                  : Pablo Dictter 
-Email Address           : pablodictter@hotmail.com
+Email Address           : pablodictter (at) hotmail.com
 Description             : A single map for SoD. I made this map hard for
                           newbies and veterans. I used different textures to
                           give this map a colorfull look.

@@ -35,7 +35,7 @@
 
   ver 2.12 
       '/-' option has now takes three values [0|1|2] so that only
-      the letter '@' is recognized as the firsst charcter of a
+      the letter ' (at) ' is recognized as the firsst charcter of a
       file name. The motivation for the change is to let Environmental
       string enable to set responce file. The limitation on the number
       of environmetal sstrings, 64, is removed. In the process of
@@ -93,7 +93,7 @@
       Removed a bug when some extra code is appended after the end of 
       the archive.  Display for the 'u','m' commands and 'Skipped' 
       file warnings are showed explicitly.  The time stamp works
-      after 2038 A.D.  Changed the /@ option to /- following GNU's 
+      after 2038 A.D.  Changed the / (at)  option to /- following GNU's 
       convention.  The /a option for attributes when dearchiving, 
       is corrected. Previously checks whether a new archive can be 
       created.  Under the environment 'APPEND' command of MS-DOS 
@@ -113,7 +113,7 @@
       checking routine is included to know the end of compression
       with corrupt files.
 
-      New '/@' option is added.  English BETA version (LHA205) is
+      New '/ (at) ' option is added.  English BETA version (LHA205) is
       released.
                                                             1 Jan 91
 
@@ -128,7 +128,7 @@
 
   ver 2.04
       LH displays the state of action.   An additional information
-      option /l is available.   LH recognizes '@' written in the 
+      option /l is available.   LH recognizes ' (at) ' written in the 
       response file as the first letter of the file name.
 
       LH never removes the temporary working file when LH can't

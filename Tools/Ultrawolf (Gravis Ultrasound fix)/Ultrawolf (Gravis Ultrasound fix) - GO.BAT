@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 ultrinit
 lh ultrawlf ultrawlf
 REM     lh ultrawlf c:\wolf\ultrawlf /i11 /b220

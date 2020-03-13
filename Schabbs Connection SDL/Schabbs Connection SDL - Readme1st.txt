@@ -37,5 +37,5 @@ Level 2 by Harry Sr. and secret level by Brian Lowe.
 
 Long Live The Spear!
 
-comments?      john_bucksnort@yahoo.com
+comments?      john_bucksnort (at) yahoo.com
 

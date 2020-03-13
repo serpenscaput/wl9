@@ -2,7 +2,7 @@
 Title                   : From Schabb's Hand
 Files			: gamemaps.wl6 maphead.wl6 PDwolf1.txt
 Author                  : Pablo Dictter 
-Email Address           : pablodictter@hotmail.com
+Email Address           : pablodictter (at) hotmail.com
 Description             : A 3 level episode (4 w/ the secret). I made 4 levels when 
 right after I 			  had finished my first SoD levels. They were supose to be part 
 of a full 			  episode that I was going to make. I lost interest and I released them. 

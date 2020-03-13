@@ -44,12 +44,12 @@ Stanley.
 
 Any of the following addresses should be correct for e-mail.
 
-sta...@uniwa.uwa.edu.au
-sta...@tartarus.uwa.edu.au
-sta...@swanee.ee.uwa.oz.au
-sta...@swanee.uwa.edu.au
-sta...@ee.uwa.oz.au
-sta...@ee.uwa.edu.au
+sta... (at) uniwa.uwa.edu.au
+sta... (at) tartarus.uwa.edu.au
+sta... (at) swanee.ee.uwa.oz.au
+sta... (at) swanee.uwa.edu.au
+sta... (at) ee.uwa.oz.au
+sta... (at) ee.uwa.edu.au
 
 THE DISCLAIMER:
 #include <all_kind_of_crap_about_me_only_supplying_this_info_and_no_guarantees_
@@ -540,7 +540,7 @@ God mode...
 
 -- Ben Rudiak-Gould
 AOL: BenjaminRG
-Internet: be...@uclink.berkeley.edu
+Internet: be... (at) uclink.berkeley.edu
 
 2.0 MAP/GRAPHICS EDITORS SECTION (IF YOU'RE MESSING AROUND WITH MAP/GRAPHICS
     FILES THEN THIS SECTION IS FOR YOU).
@@ -1384,17 +1384,17 @@ will send me some info.
 Lastly I would like to thank all who contributed to this FAQ.
 In no particluar order, thanks go to:
 
-Ben Rudiak-Gould (be...@ocf.Berkeley.EDU)
-Jay Wilbur (ja...@idcube.idsoftware.com)
-Brian D Milner (Brian...@brunel.ac.uk)
-Fred Brown (br...@dgaust.oz.dg.com)
-Nancy Rabinowitz (nrab...@itsmail1.hamilton.edu)
-Greg Cohen (rn....@rose.com)
-Stephen Schimpf (ste...@eggneb.astro.ucla.edu)
-Don Campbell (do...@cognos.com)
-Andrew Baker Glazier (gla...@isr.harvard.edu)
-????? ????? m...@ukc.ac.uk           <<< ( Could not trace you people! )
-????? ????? br...@dgaust.oz.dg.com  <<<
+Ben Rudiak-Gould (be... (at) ocf.Berkeley.EDU)
+Jay Wilbur (ja... (at) idcube.idsoftware.com)
+Brian D Milner (Brian... (at) brunel.ac.uk)
+Fred Brown (br... (at) dgaust.oz.dg.com)
+Nancy Rabinowitz (nrab... (at) itsmail1.hamilton.edu)
+Greg Cohen (rn.... (at) rose.com)
+Stephen Schimpf (ste... (at) eggneb.astro.ucla.edu)
+Don Campbell (do... (at) cognos.com)
+Andrew Baker Glazier (gla... (at) isr.harvard.edu)
+????? ????? m... (at) ukc.ac.uk           <<< ( Could not trace you people! )
+????? ????? br... (at) dgaust.oz.dg.com  <<<
 
 Lastly Id Software Inc. cannot be forgotten since without
 their efforts this FAQ would never have existed (Buhahahahahaha!)

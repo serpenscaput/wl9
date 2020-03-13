@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :start
 CLS
 echo บบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ
@@ -59,119 +59,119 @@ if errorlevel 1 goto :ps1
 if errorlevel 0 goto :start
 
 :ps1
-@echo off
+ (at) echo off
 copy games\maphead.r7 maphead.cav
 copy games\gamemaps.r7 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps2
-@echo off
+ (at) echo off
 copy games\maphead.wd2 maphead.cav
 copy games\gamemaps.wd2 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps3
-@echo off
+ (at) echo off
 copy games\maphead.r1 maphead.cav
 copy games\gamemaps.r1 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps4
-@echo off
+ (at) echo off
 copy games\maphead.r2 maphead.cav
 copy games\gamemaps.r2 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps5
-@echo off
+ (at) echo off
 copy games\maphead.r3 maphead.cav
 copy games\gamemaps.r3 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps6
-@echo off
+ (at) echo off
 copy games\maphead.r4 maphead.cav
 copy games\gamemaps.r4 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps7
-@echo off
+ (at) echo off
 copy games\maphead.r5 maphead.cav
 copy games\gamemaps.r5 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps8
-@echo off
+ (at) echo off
 copy games\gamemaps.enh gamemaps.cav
 copy games\maphead.enh maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps9
-@echo off
+ (at) echo off
 copy games\maphead.r8 maphead.cav
 copy games\gamemaps.r8 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps10
-@echo off
+ (at) echo off
 copy games\maphead.rg1 maphead.cav
 copy games\gamemaps.rg1 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps11
-@echo off
+ (at) echo off
 copy games\maphead.rg2 maphead.cav
 copy games\gamemaps.rg2 gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps12
-@echo off
+ (at) echo off
 copy games\maphead.wol maphead.cav
 copy games\gamemaps.wol gamemaps.cav
 call caverns.exe > nul
 goto :start
 
 :ps13
-@echo off
+ (at) echo off
 copy games\gamemaps.bla gamemaps.cav
 copy games\maphead.bla maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps14
-@echo off
+ (at) echo off
 copy games\gamemaps.r14 gamemaps.cav
 copy games\maphead.r14 maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps15
-@echo off
+ (at) echo off
 copy games\gamemaps.cov gamemaps.cav
 copy games\maphead.cov maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps16
-@echo off
+ (at) echo off
 copy games\gamemaps.mus gamemaps.cav
 copy games\maphead.mus maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps17
-@echo off
+ (at) echo off
 copy games\gamemaps.wd1 gamemaps.cav
 copy games\maphead.wd1 maphead.cav
 call caverns.exe > nul
@@ -184,28 +184,28 @@ call caverns.exe > nul
 goto :start
 
 :ps19
-@echo off
+ (at) echo off
 copy games\gamemaps.mo2 gamemaps.cav
 copy games\maphead.mo2 maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps20
-@echo off
+ (at) echo off
 copy games\gamemaps.PS1 gamemaps.cav
 copy games\maphead.PS1 maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps21
-@echo off
+ (at) echo off
 copy games\gamemaps.RG3 gamemaps.cav
 copy games\maphead.RG3 maphead.cav
 call caverns.exe > nul
 goto :start
 
 :ps22
-@echo off
+ (at) echo off
 copy games\gamemaps.WH1 gamemaps.cav
 copy games\maphead.WH1 maphead.cav
 call caverns.exe > nul

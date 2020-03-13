@@ -2,7 +2,7 @@
 Title                       : Wolfenstein 3D : The Old School
 Filename                    : WolfTOS.zip
 Author(s)                   : Steven Johnson (Open Maw/Commando Nukem)
-Email Address               : openmaw@gmail.com
+Email Address               : openmaw (at) gmail.com
 Description                 : "A five level replacement pack for Wolfenstein 3D Shareware."
 
 Build Time                  : Several hours spread across a few sleepless nights. 

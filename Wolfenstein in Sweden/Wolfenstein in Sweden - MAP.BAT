@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 cls
 
 echo.
@@ -6,17 +6,17 @@ echo.
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    There are 4 different episodes to choose from !!!!  บฐฐฑฑ
-echo     ฑฑฐฐบ    Type "map #" where # is the number of the episode !!บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ
-echo     ฑฑฐฐบ    The great thing is that this program will restore   บฐฐฑฑ
-echo     ฑฑฐฐบ    your savegames They will allways correspond to      บฐฐฑฑ
-echo     ฑฑฐฐบ    your chosen episode !!!                             บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ
-echo     ฑฑฐฐบ    Type "wolf3d" to play the game !!                   บฐฐฑฑ         
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   There are 4 different episodes to choose from !!!!  บฐฐฑ?
+echo     ฑฑฐฐ?   Type "map #" where # is the number of the episode !!บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?
+echo     ฑฑฐฐ?   The great thing is that this program will restore   บฐฐฑ?
+echo     ฑฑฐฐ?   your savegames They will allways correspond to      บฐฐฑ?
+echo     ฑฑฐฐ?   your chosen episode !!!                             บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?
+echo     ฑฑฐฐ?   Type "wolf3d" to play the game !!                   บฐฐฑ?        
+echo     ฑฑฐฐ?                                                       บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -80,12 +80,12 @@ ren gam*.nm4 gam*.wl1
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    Now you will be playing map 4 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   Now you will be playing map 4 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -98,12 +98,12 @@ goto end10
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    You are already playing map 4 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   You are already playing map 4 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -162,12 +162,12 @@ ren gam*.nm3 gam*.wl1
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    Now you will be playing map 3 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   Now you will be playing map 3 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -182,12 +182,12 @@ goto end10
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    You are already playing map 3 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   You are already playing map 3 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -244,12 +244,12 @@ ren gam*.nm2 gam*.wl1
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    Now you will be playing map 2 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   Now you will be playing map 2 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -264,12 +264,12 @@ goto end10
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    You are already playing map 2 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   You are already playing map 2 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -330,12 +330,12 @@ ren gam*.nm1 gam*.wl1
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    Now you will be playing map 1 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   Now you will be playing map 1 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -349,12 +349,12 @@ goto end10
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฐฐษออออออออออออออออออออออออออออออออออออออออออออออออออออออออปฐฐฑฑ
-echo     ฑฑฐฐบ    You are already playing map 1 !!!!                  บฐฐฑฑ
-echo     ฑฑฐฐบ    This is based on the demo version !!                บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    The savegames have been restored !!!!               บฐฐฑฑ
-echo     ฑฑฐฐบ                                                        บฐฐฑฑ         
-echo     ฑฑฐฐบ    NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑฑ
+echo     ฑฑฐฐ?   You are already playing map 1 !!!!                  บฐฐฑ?
+echo     ฑฑฐฐ?   This is based on the demo version !!                บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   The savegames have been restored !!!!               บฐฐฑ?
+echo     ฑฑฐฐ?                                                       บฐฐฑ?        
+echo     ฑฑฐฐ?   NERO THE GREAT !!!!   THE GREATEST PLAYER EVER !!   บฐฐฑ?
 echo     ฑฑฐฐศออออออออออออออออออออออออออออออออออออออออออออออออออออออออผฐฐฑฑ 
 echo     ฑฑฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฐฑฑ
 echo     ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
@@ -367,11 +367,11 @@ goto end10
 
 :end10
 
-@echo.
-@echo.
-@echo.
-@echo.
-@echo.
-@echo.
-@echo.
-@echo.
+ (at) echo.
+ (at) echo.
+ (at) echo.
+ (at) echo.
+ (at) echo.
+ (at) echo.
+ (at) echo.
+ (at) echo.

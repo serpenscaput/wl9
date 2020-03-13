@@ -1,4 +1,4 @@
-@Echo Off
+ (at) Echo Off
 cls
 Echo Creating Game...   1
 if exist wicked.man copy wicked.man stick.man

@@ -11,7 +11,7 @@ New Version Due to come out.... em... soon???????
 
 James Ingham "Enjoy!!"
 
-E-mail me at webmaster@verdammt.zzn.com
+E-mail me at webmaster (at) verdammt.zzn.com
 
 If you want 2 beta test Project Verdammt when it comes out, then mail me!
 

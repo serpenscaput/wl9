@@ -18,6 +18,6 @@ RUN SOME MORE!!! SLAY THE KNIGHT AND TAKE THE DEATHKEY.....GOOD LUCK!
 
 
 THANKS TO KEN O'BRIAN FOR SOME SPECIAL WALLS....
-COMMENTS?    john_bucksnort@yahoo.com
+COMMENTS?    john_bucksnort (at) yahoo.com
 
 Wolf will live forever!!!

@@ -3,7 +3,7 @@ to say to you:
 
 PLAY THE GAME! You'll have a lot more fun figuring out stuff for yourself. Don't 
 worry about getting discouraged either - if you're really really stuck on the levels, 
-I can give you a nudge in the right direction if you e-mail me at wolf007jack@hotmail.com, 
+I can give you a nudge in the right direction if you e-mail me at wolf007jack (at) hotmail.com, 
 but I doubt you'll need it.
 
 TOOLS USED:

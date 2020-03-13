@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 rem *** This file will allow you to play the new floor designs and the 
 rem     original floor designs by automatically renaming these floor files
 rem     in the specified directory. ***

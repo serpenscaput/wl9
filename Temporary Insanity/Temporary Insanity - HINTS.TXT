@@ -2358,5 +2358,5 @@ A FEW FINAL WORDS: I hope you enjoy playing my three episodes of
 Wolfenstein 3D.  If you know how to solve any of the problems in the 
 trouble-shooting guide that I never figured out or you need more 
 information that was not covered in this guide or you have any questions 
-or comments at all, send your E-mail to benrg@uclink.berkeley.edu.
+or comments at all, send your E-mail to benrg (at) uclink.berkeley.edu.
 

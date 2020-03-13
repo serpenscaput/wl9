@@ -152,7 +152,7 @@ Contact
 --------------------------------------------------------------------
 
 E-Mail:
-m2soft@web.de
+m2soft (at) web.de
 
 Game Trailer
 http://youtube.com/watch?v=FMKfezRS02o

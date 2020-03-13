@@ -17,8 +17,8 @@ should be seen, mainly, as a new set of maps. We hope you find it enjoyable.
 Please direct any comments/questions/suggestions you may have to the e-mail addresses 
 listed below:
 
-arielus1982@yahoo.com.ar
-brian@brlowe.globalnet.co.uk
+arielus1982 (at) yahoo.com.ar
+brian (at) brlowe.globalnet.co.uk
 
 Have fun playing!
 

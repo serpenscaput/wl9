@@ -96,8 +96,8 @@ How to contact me
 
 	  Prodigy                      VCNB27A
 	  InterChange                  JamieEEdwards
-	  Internet                     VCNB27A@prodigy.Com
-				       JamieEEdwards@ichange.Com
+	  Internet                     VCNB27A (at) prodigy.Com
+				       JamieEEdwards (at) ichange.Com
 
 Installing
 -------------

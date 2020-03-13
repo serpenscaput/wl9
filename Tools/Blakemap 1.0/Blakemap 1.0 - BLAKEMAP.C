@@ -6,7 +6,7 @@
 * Author       : David Lummis
 * Compuserve Id: 71534,3067
 *
-* Last updated : Sun Dec 12, 1993 @ 00:11:53
+* Last updated : Sun Dec 12, 1993  (at)  00:11:53
 *****************/
 
 

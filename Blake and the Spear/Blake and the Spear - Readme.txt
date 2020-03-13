@@ -58,4 +58,4 @@ Andy Nonymous who made Blake Wolf
 ID Software who made Wolfenstein 3-D and Spear of Destiny
 Jammer Productions for making Blake Stone
 
-Any comments or anything then email me at joe_sentinel@hotmail.com
+Any comments or anything then email me at joe_sentinel (at) hotmail.com

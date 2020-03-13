@@ -35,5 +35,5 @@ TO GUARD THE SPEAR...IT WON'T BE A "SNATCH AND GRAB AND RUN" KIND OF MISSION..
 DEATH LURKS BEHIND EVERY CORNER.....WAITING......... 
 
 
-enjoy the game.....Wolf will live forever!.....john_bucksnort@yahoo.com
+enjoy the game.....Wolf will live forever!.....john_bucksnort (at) yahoo.com
      

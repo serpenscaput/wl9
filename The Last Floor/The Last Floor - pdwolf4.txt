@@ -3,7 +3,7 @@ Title                   : The Last Floor
 Filename                : PDwolf4.ZIP
 Date Released		: August 30, 2001
 Author                  : Pablo Dictter
-Email Address           : pablo@doomcenter.com
+Email Address           : pablo (at) doomcenter.com
 Description             : One level that is worth playing.
 			  This has a ep2 theme, and I tried to make it w/
 			  much detailed as I could, but since that is imposible in

@@ -16,7 +16,7 @@ Installation & play:
 4.You can use Debugmode cheats by running WCheatSDL.bat
 ----------------------------------------
 
-If you have any problem with our mods/games, drop an E-mail to: BKaroly1222aa@gmail.com
+If you have any problem with our mods/games, drop an E-mail to: BKaroly1222aa (at) gmail.com
 
 
 Enjoy the DEMO! I Hope you like it!

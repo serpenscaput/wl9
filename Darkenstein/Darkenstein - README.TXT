@@ -102,5 +102,5 @@ Darkenstein 3D 1.0, 1.2, and 1.3 was created by Daniel Young
 Wolfenstein 3D was created by ID software and distributed by GT Software
 
 If you have found a mistake in Darkenstein, or if you have any questions,
-comments, or anything else, I welcome you to E-MAIL me at:dyoung01@win.mail.org
+comments, or anything else, I welcome you to E-MAIL me at:dyoung01 (at) win.mail.org
 

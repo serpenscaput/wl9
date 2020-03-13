@@ -54,7 +54,7 @@ Thanks to:
 
 -=| Martin
     www.wolfenstein3d.tk
-    muad.dib1@wp.pl |=-
+    muad.dib1 (at) wp.pl |=-
 
                          __________________________
                    - |   Wolfenstein Lives Forever!   | -

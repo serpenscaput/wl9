@@ -1,6 +1,6 @@
 Just type WOl3DSE to play.
 
-If you find any bugs please email me at Spenser2005@aol.com.
+If you find any bugs please email me at Spenser2005 (at) aol.com.
 
 Current version: 2.0
 Current source code revision: 1.5

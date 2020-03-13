@@ -25,7 +25,7 @@ memory and may crash while playing. I have tested it on an old 386 computer and 
 worked, except for a few areas where it was out of memory. And in-game has super-slow 
 frame rate. It took 10 minutes to load the shade tables. I hope you aren't running 
 a computer like that, otherwise you might as well forget playing this game... Anyways, 
-enjoy the game, and if you do run across any errors, email me at drewmccauley@charter.net 
+enjoy the game, and if you do run across any errors, email me at drewmccauley (at) charter.net 
 just state the error, and leave a brief description of what you were doing and where 
 you were in the game. It helps me reference what the error might be.
 

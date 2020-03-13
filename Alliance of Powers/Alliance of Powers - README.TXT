@@ -8,7 +8,7 @@ joining forces to put together a set of levels for SoD.  The original SoD feel r
 while the game play is more aggressive.  We hope you like the set.
 
 The maps should be free of bugs, but should you find one, please send a report to: 
-HRandSB@hotmail.com
+HRandSB (at) hotmail.com
 
 Special thanks to Brian Lowe for his 'yellow site' and to everyone at the Dome.
 

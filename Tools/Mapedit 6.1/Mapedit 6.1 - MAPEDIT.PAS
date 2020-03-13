@@ -2,10 +2,10 @@
  {
   MapEdit 6.1     Wolfenstein Map Editor
 
-  ver 6.1 (Matt Gruson - 5/93 Contact on CompuServe @ 72360,2432 or
+  ver 6.1 (Matt Gruson - 5/93 Contact on CompuServe  (at)  72360,2432 or
                                                       73766,347
-                                         Prodigy    @ PTJT50A
-                                         GEnie      @ M.GRUSON
+                                         Prodigy     (at)  PTJT50A
+                                         GEnie       (at)  M.GRUSON
 
             - COMMENTED MY CODE!
             - Allowed right mouse button to have it's own value.

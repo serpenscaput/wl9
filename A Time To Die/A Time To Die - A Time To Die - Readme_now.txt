@@ -24,7 +24,7 @@ Your a prisoner in a nasty damp Nazi-ridden castle. So escape, will ya?
  Sincerely,
                                                                           Lakota 
 Bucksnort
-                                                                          john_bucksnort@yahoo.com
+                                                                          john_bucksnort (at) yahoo.com
 
                                                                           CEO(virtual\emeritus)
 

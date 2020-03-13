@@ -1,4 +1,4 @@
-The new levels were designed by DobaySoft (dobaysft@freemail.hu)! Drop an email if 
+The new levels were designed by DobaySoft (dobaysft (at) freemail.hu)! Drop an email if 
 you like it!
 
 This zip file contains new levels for the full version of Wolfeinstein 3D. It replaces 

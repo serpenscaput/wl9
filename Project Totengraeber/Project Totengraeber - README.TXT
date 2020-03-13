@@ -459,6 +459,6 @@ sometime in 2001.  You  can  get  all the updates  and  news
 about  Project  Totengraeber on  my  website,  B.J.  Rowan's
 Wolfenstein Bunker. The URL is http://www.wolf3dbunker.com/.
 If you have any questions or comments, you can contact me at
-bj@bjrowan.com. Thanks for playing!
+bj (at) bjrowan.com. Thanks for playing!
 
                                              -B.J. Rowan

@@ -54,7 +54,7 @@
                                 ... It is you mission for humanity to STOP
                                                 HIM !!!
  
-         For questions, or comments please email me at GBUSSED@KUHUB.CC.UKANS.EDU,
+         For questions, or comments please email me at GBUSSED (at) KUHUB.CC.UKANS.EDU,
 
          any abusive and/or abrasive comments/criticizism will most likely be ignored.
 

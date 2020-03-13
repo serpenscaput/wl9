@@ -16,12 +16,12 @@ Stanley.
 
 Any of the following addresses should be correct for e-mail.
 
-sta...@tartarus.uwa.edu.au
-sta...@lethe.uwa.edu.au
-sta...@swanee.ee.uwa.oz.au
-sta...@swanee.uwa.edu.au
-sta...@ee.uwa.oz.au
-sta...@ee.uwa.edu.au
+sta... (at) tartarus.uwa.edu.au
+sta... (at) lethe.uwa.edu.au
+sta... (at) swanee.ee.uwa.oz.au
+sta... (at) swanee.uwa.edu.au
+sta... (at) ee.uwa.oz.au
+sta... (at) ee.uwa.edu.au
 
 THE DISCLAIMER:
 #include <all_kind_of_crap_about_me_only_supplying_this_info_and_no_guarantees_
@@ -36,8 +36,8 @@ button_and_your_boss_walks_in___blah_blah_blah____.h>
                      WOLFENSTEIN-3D FREQUENTLY ASKED QUESTIONS.
                                         by
                                  Stanley Stasiak
-                           (sta...@tartarus.uwa.edu.au
-                           sta...@swanee.ee.uwa.edu.au)
+                           (sta... (at) tartarus.uwa.edu.au
+                           sta... (at) swanee.ee.uwa.edu.au)
                                   [Version 2.10]
                     Last Revised on: September 11 1993 21:57 WST
 
@@ -528,13 +528,13 @@ God mode...
 
 -- Ben Rudiak-Gould
 AOL: BenjaminRG
-Internet: be...@uclink.berkeley.edu
+Internet: be... (at) uclink.berkeley.edu
 
 
 1.11 HOW CAN I CONTACT id Software?
 
 If you have some difficulties with Wolfenstein that are unresolved
-after reading this FAQ you can sent e-mail to he...@idsoftware.com
+after reading this FAQ you can sent e-mail to he... (at) idsoftware.com
 Note that this FAQ is not produced or in any way sponsored by
 id Software, so they are not responsible for the material
 included herein. I would discourage asking them about the
@@ -1492,21 +1492,21 @@ WWWWWWWWWWWWWWWWW   WWW
 Lastly I would like to thank all who contributed to this FAQ.
 In no particular order, thanks go to:
 
-Ben Rudiak-Gould (be...@ocf.Berkeley.EDU)
-Jay Wilbur (ja...@idcube.idsoftware.com)
-Brian D Milner (Brian...@brunel.ac.uk)
-Fred Brown (br...@dgaust.oz.dg.com)
-Nancy Rabinowitz (nrab...@itsmail1.hamilton.edu)
-Greg Cohen (rn....@rose.com)
-Stephen Schimpf (ste...@eggneb.astro.ucla.edu)
-Don Campbell (do...@cognos.com)
-Andrew Baker Glazier (gla...@isr.harvard.edu)
-Tony Lezard (to...@mantis.co.uk)
-Frans P. de Vries (fpde...@hgl.signaal.nl)
-John Edwards (edw...@tincup.enet.dec.com)
-*Bob O'Bob (obr...@netcom.com)
-????? ????? m...@ukc.ac.uk           <<< ( Could not trace you people! )
-????? ????? br...@dgaust.oz.dg.com  <<<
+Ben Rudiak-Gould (be... (at) ocf.Berkeley.EDU)
+Jay Wilbur (ja... (at) idcube.idsoftware.com)
+Brian D Milner (Brian... (at) brunel.ac.uk)
+Fred Brown (br... (at) dgaust.oz.dg.com)
+Nancy Rabinowitz (nrab... (at) itsmail1.hamilton.edu)
+Greg Cohen (rn.... (at) rose.com)
+Stephen Schimpf (ste... (at) eggneb.astro.ucla.edu)
+Don Campbell (do... (at) cognos.com)
+Andrew Baker Glazier (gla... (at) isr.harvard.edu)
+Tony Lezard (to... (at) mantis.co.uk)
+Frans P. de Vries (fpde... (at) hgl.signaal.nl)
+John Edwards (edw... (at) tincup.enet.dec.com)
+*Bob O'Bob (obr... (at) netcom.com)
+????? ????? m... (at) ukc.ac.uk           <<< ( Could not trace you people! )
+????? ????? br... (at) dgaust.oz.dg.com  <<<
 
 Lastly id Software Inc. cannot be forgotten since without their efforts this
 FAQ would never have existed (Buhahahahahaha!)
@@ -1523,19 +1523,19 @@ Changes to the FAQ - for anyone interested and my beta testers (Thank you ;)
 2.0 -         Initial upgrade. Subdivided the whole FAQ into many sections.
         Extensive help on map editors, extra maps, trivia etc.
         Officially started stamping version numbers on the FAQ.
-2.01 -  Added Section 3.2 part 3) Tony Lezard (to...@mantis.co.uk) Thank you.
+2.01 -  Added Section 3.2 part 3) Tony Lezard (to... (at) mantis.co.uk) Thank you.
 2.02 -  Added sounds of undead (3.1) scores for undead & w officers
         (3.10). Corrected tons of spelling & whitespace.
-        fpde...@hgl.signaal.nl (Vries F.P. de) Thank you.
+        fpde... (at) hgl.signaal.nl (Vries F.P. de) Thank you.
         Corrected some of the email info in preamble upfront.
 2.02b - Filled paragraphs to at least 75 characters. Added Hitler's Ghost
         score plus kill averages (Section 3.10)
         Also some minor layout corrections.
-        fpde...@hgl.signaal.nl (Vries F.P. de) Thank you.
+        fpde... (at) hgl.signaal.nl (Vries F.P. de) Thank you.
 2.02c - Added Section 8.0 Revision History. Also included 2nd reason for
         crash (section 6.2) with horizontal stripes.
 2.03  -        Added 'pushwall phenomenon' (Section 6.3)
-        fpde...@hgl.signaal.nl (Vries F.P. de) Thank you.
+        fpde... (at) hgl.signaal.nl (Vries F.P. de) Thank you.
 2.10  -        Removed word 'castle' from Wolfenstein's title
         Standardised name of id Software throughout (thx Jay).
         (remember to rescan DEBUG file after each update)
@@ -1571,7 +1571,7 @@ Stan.
 ==============================================================================
 
     _/_/_/  _/_/_/   _/_/   _/_/        Stanley Stasiak
-   _/        _/    _/  _/  _/  _/       (sta...@swanee.ee.uwa.oz.au)
+   _/        _/    _/  _/  _/  _/       (sta... (at) swanee.ee.uwa.oz.au)
   _/_/_/    _/    _/_/_/  _/  _/        University of Western Australia
      _/    _/    _/  _/  _/  _/         Perth
 _/_/_/    _/    _/  _/  _/  _/          "No I haven't lost my mind.

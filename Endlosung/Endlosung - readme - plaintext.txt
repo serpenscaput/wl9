@@ -144,5 +144,5 @@ Borland C+ 3.1
 The game was constructed between March 20 and May 4, 2009.
 
 CONTACT:
-Feel free to contact me at: thomas_weiling@hotmail.com.
+Feel free to contact me at: thomas_weiling (at) hotmail.com.
 

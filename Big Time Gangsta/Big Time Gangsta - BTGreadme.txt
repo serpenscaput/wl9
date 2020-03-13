@@ -22,7 +22,7 @@ for that matter, but with this project, I was aiming for something a little bit 
 STORY
 -----
 
-You can read the story in "bad@ss gangsta speak" if you wait after the title screen 
+You can read the story in "bad (at) ss gangsta speak" if you wait after the title screen 
 of the game, but here's the basic premise: 
 
 "You were once the main bodyguard of Mr. Big, the most powerful and influential gangster 
@@ -104,5 +104,5 @@ so, stop it right away, or you could be the next sucka' spending ten years in ja
 Don't do it!
 
 
-Contact Majik Monkee - matthewmdmerrill@yahoo.com
+Contact Majik Monkee - matthewmdmerrill (at) yahoo.com
 

@@ -1,6 +1,6 @@
 /* Program name:  WMAP.C
    Description:   Draws maps for Wolfenstein 3D using ASCII characters
-   Author:        P.G.W.Hosken  (<RMCB@DLRVM> or via GAMES-L)
+   Author:        P.G.W.Hosken  (<RMCB (at) DLRVM> or via GAMES-L)
    Version:       3.0
    Compilation:   MSC, compile using "cl wmap.c"
 
@@ -385,7 +385,7 @@ int   X1,X2;  /* 2 input bytes */
       case 0x8D:
       case 0x8E:
       case 0x8F: CH=' '; break; /* Floor */
-      default:   CH='@';
+      default:   CH=' (at) ';
                  printf("\nPart 1 unknown code (%X)",X1);
     }
     switch (CH) {
@@ -541,7 +541,7 @@ int   X1,X2;  /* 2 input bytes */
       case 0xD4: CH='4'; DOG=1; break; /* Dog */
       case 0xD5: CH='4'; DOG=1; break; /* Dog */
       case 0xD6: CH='x'; break; /* Hulk */
-      default:   CH='@';
+      default:   CH=' (at) ';
                  printf("\nPart 2 unknown code (%X)",X1);
     }
     if (CH==' ') CH=IN2;

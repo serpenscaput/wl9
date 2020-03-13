@@ -143,4 +143,4 @@ Tools used:
 -----------------------------------------------------------------------------------------------------------
 
 
-For contacting me: tmp.salonen@pp.inet.fi
+For contacting me: tmp.salonen (at) pp.inet.fi

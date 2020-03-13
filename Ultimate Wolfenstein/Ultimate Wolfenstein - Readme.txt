@@ -164,7 +164,7 @@ get the add-on pack).New versions and updates are made only when someohe informs
 me of bugs. I'll make a new version also if I decide  or make every episode have 
 10 levels.
 
-E-mail of bugs or levels that you would like to share at willmann@online.ee with 
+E-mail of bugs or levels that you would like to share at willmann (at) online.ee with 
 subject WolfBug.Plaese write also your thougts what whould cause the bugs. Comments 
 and Questions at same address with subject WolfQ. I get damn lot of mails, and I 
 don't have time to read them all.
@@ -179,7 +179,7 @@ Beta testers:
 Flo Stöhr (http://www.wolfnode.de)
 Nate Smith (http://members.xoom.com/wolf3d_world)
 Shawn Moseley (http://www.angelfire.com/me/moselesh/wolf3d.html)
-Taavi Kübar (e-mail:Tarmo.Kybar.001@mail.ee)
+Taavi Kübar (e-mail:Tarmo.Kybar.001 (at) mail.ee)
 Brian Lowe (http://www.users.globalnet.co.uk/~brlowe)
 
 

@@ -6,7 +6,7 @@ Wolfenstein 3d
 Title: Castle Totenkopf 
 Filename: tkopfv12.zip
 Author: Wolf Skevos-Jones
-Email Address: wolf@shadaux.com
+Email Address: wolf (at) shadaux.com
 Description: 18-level Wolfenstein adventure, with some new features
 
 ============================================================

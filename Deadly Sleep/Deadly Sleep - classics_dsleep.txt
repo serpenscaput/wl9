@@ -16,7 +16,7 @@ the original story.
 
 This port should be compatible with any texture, weapon, or gameplay mods made for 
 ECWolf that do not have their own maps or alter MAPINFO. Any bug reports should be 
-directed to spaceforce-temp@hotmail.com.
+directed to spaceforce-temp (at) hotmail.com.
 
 The original README.txt and STORY.txt are present, unaltered, inside the pk3 file. 
 This mod requires Spear of Destiny and will not run correctly under Wolfenstein 3D!

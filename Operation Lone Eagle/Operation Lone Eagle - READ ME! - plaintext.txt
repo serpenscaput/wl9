@@ -43,7 +43,7 @@ TIP: Save often!
 
 CREDITS:
 
-I would also like to extend my sincere thanks to Majik Monkee (winwolf@fastmail.us) 
+I would also like to extend my sincere thanks to Majik Monkee (winwolf (at) fastmail.us) 
  for creating the enemy and weapon sprites which I’ve used in this project. Without 
 Monkee’s Image World (www.mmimageworld.dugtrio17.com), many of the community’s excellent 
 sprites and other custom graphics would go unused and unnoticed!

@@ -198,7 +198,7 @@ Third example: Corridor 7 Alien Invasion (Play Now version).
          an easy task.
 
         *Gfxtiles instead of VSWAP, well..OK. Eventually the first level shows.
-         WHAT THE **@**!? IS THIS MESS??? The level seems all covered with
+         WHAT THE ** (at) **!? IS THIS MESS??? The level seems all covered with
          objects. A statistics reveals that there are 3865 of object no. 18 in
          this level. it can hardly be normal objects and remembering Vincent's
          manual (which of course you have read) you start definition editing

@@ -17,7 +17,7 @@
       problems running this add-on to Wolf3D, you are simply out of 
       luck; do not contact either id or Apogee for tech support.  If
       you wish to contact me via CompuServe, my CIS ID is 70672,712;
-      my Internet address is rpenn@enterprz.crawford.com.  I welcome 
+      my Internet address is rpenn (at) enterprz.crawford.com.  I welcome 
       any comments, complaints, suggestions, or (especially) bug reports.
 
       This product is FREEWARE; use it at your own risk.

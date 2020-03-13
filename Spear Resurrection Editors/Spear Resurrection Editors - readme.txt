@@ -122,7 +122,7 @@ you'd like your name to appear in the Spear Resurrection "Hall of Fame", then on
 you've captured the Spear, save your game and send a copy of the savegame file (it 
 will be in your Spear Resurrection folder named in the form "savegam?.rip" where 
 ? is the number of the saved game) to:
-admin@areyep.com
+admin (at) areyep.com
 We'll check the saved game to confirm you didn't cheat. Most importantly, don't forget 
 to include your name and/or alias so that we can actually list it in the "Hall of 
 Fame"!

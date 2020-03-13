@@ -1,5 +1,5 @@
-@ECHO OFF
-@call TITLE.EXE
+ (at) ECHO OFF
+ (at) call TITLE.EXE
 :origin
 CLS
 echo ººÛßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßÛºº
@@ -61,7 +61,7 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :origin
 
 :1
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r1 maphead.wl1
 copy games\gamemaps.r1 gamemaps.wl1
@@ -69,7 +69,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :2
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r2 maphead.wl1
 copy games\gamemaps.r2 gamemaps.wl1
@@ -77,7 +77,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :3
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r3 maphead.wl1
 copy games\gamemaps.r3 gamemaps.wl1
@@ -85,7 +85,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :4
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r4 maphead.wl1
 copy games\gamemaps.r4 gamemaps.wl1
@@ -93,7 +93,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :5
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r5 maphead.wl1
 copy games\gamemaps.r5 gamemaps.wl1
@@ -101,7 +101,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :6
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r6 maphead.wl1
 copy games\gamemaps.r6 gamemaps.wl1
@@ -109,7 +109,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :7
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.r7 maphead.wl1
 copy games\gamemaps.r7 gamemaps.wl1
@@ -117,7 +117,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :8
-@echo off
+ (at) echo off
 copy games\vswap.r8 vswap.wl1
 copy games\maphead.r8 maphead.wl1
 copy games\gamemaps.r8 gamemaps.wl1
@@ -125,7 +125,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :9
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.p2 maphead.wl1
 copy games\gamemaps.p2 gamemaps.wl1
@@ -133,7 +133,7 @@ copy sexstein.exe engine.exe
 goto :go
 
 :10
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.wd2 maphead.wl1
 copy games\gamemaps.wd2 gamemaps.wl1
@@ -141,7 +141,7 @@ copy sexstein.exe engine.exe
 goto :go
 
 :11
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.cod maphead.wl1
 copy games\gamemaps.cod gamemaps.wl1
@@ -149,7 +149,7 @@ copy sexstein.exe engine.exe
 goto :go
 
 :12
-@echo off
+ (at) echo off
 copy games\vswap.rg1 vswap.wl1
 copy games\maphead.rg1 maphead.wl1
 copy games\gamemaps.rg1 gamemaps.wl1
@@ -157,7 +157,7 @@ copy sexstein.exe engine.exe
 goto :go
 
 :13
-@echo off
+ (at) echo off
 copy games\vswap.rg2 vswap.wl1
 copy games\maphead.rg2 maphead.wl1
 copy games\gamemaps.rg2 gamemaps.wl1
@@ -165,7 +165,7 @@ copy sexstein.exe engine.exe
 goto :go
 
 :14
-@echo off
+ (at) echo off
 copy games\vswap.rg3 vswap.wl1
 copy games\maphead.rg3 maphead.wl1
 copy games\gamemaps.rg3 gamemaps.wl1
@@ -173,7 +173,7 @@ copy sexstein.exe engine.exe
 goto :go
 
 :15
-@echo off
+ (at) echo off
 copy games\vswap.xms vswap.wl1
 copy games\maphead.xms maphead.wl1
 copy games\gamemaps.xms gamemaps.wl1
@@ -181,7 +181,7 @@ copy dosplay.exe engine.exe
 goto :go
 
 :16
-@echo off
+ (at) echo off
 copy games\vswap.xms vswap.wl1
 copy games\maphead.xm2 maphead.wl1
 copy games\gamemaps.xm2 gamemaps.wl1
@@ -189,42 +189,42 @@ copy sexstein.exe engine.exe
 goto :go
 
 :17
-@echo off
+ (at) echo off
 copy games\maphead.wd1 maphead.wl1
 copy games\gamemaps.wd1 gamemaps.wl1
 copy dosplay.exe engine.exe
 goto :go
 
 :18
-@echo off
+ (at) echo off
 copy games\gamemaps.bla gamemaps.wl1
 copy games\maphead.bla maphead.wl1
 copy dosplay.exe engine.exe
 goto :go
 
 :19
-@echo off
+ (at) echo off
 copy games\gamemaps.mus gamemaps.wl1
 copy games\maphead.mus maphead.wl1
 copy dosplay.exe engine.exe
 goto :go
 
 :20
-@echo off
+ (at) echo off
 copy games\gamemaps.17 gamemaps.wl1
 copy games\maphead.17 maphead.wl1
 copy dosplay.exe engine.exe
 goto :go
 
 :21
-@echo off
+ (at) echo off
 copy games\gamemaps.18 gamemaps.wl1
 copy games\maphead.18 maphead.wl1
 copy dosplay.exe engine.exe
 goto :go
 
 :22
-@echo off
+ (at) echo off
 copy games\gamemaps.PS1 gamemaps.wl1
 copy games\maphead.PS1 maphead.wl1
 copy dosplay.exe engine.exe
@@ -266,18 +266,18 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :000
 
 :1
-@cls
-@CALL Engine.exe
+ (at) cls
+ (at) CALL Engine.exe
 goto :origin
 
 :2
-@cls
-@call winplay.exe
+ (at) cls
+ (at) call winplay.exe
 goto :origin
 
 :3
-@cls
-@call glplay.exe
+ (at) cls
+ (at) call glplay.exe
 goto :origin
 
 :end

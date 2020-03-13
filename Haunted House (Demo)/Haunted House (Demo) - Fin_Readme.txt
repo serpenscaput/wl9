@@ -88,7 +88,7 @@
 
 ==============================================================================
 
-	Codetech Software: Tommi.aijala@luukku.com
-	Megabyte:	   Megabyte@luukku.com
+	Codetech Software: Tommi.aijala (at) luukku.com
+	Megabyte:	   Megabyte (at) luukku.com
 
 ==============================================================================

@@ -454,6 +454,6 @@ Wolfenstein  add-ons. You can get all the updates  and  news
 about  Project  Totengraeber on  my  website,  B.J.  Rowan's
 Wolfenstein Bunker. The URL is http://www.wolf3dbunker.com/.
 If you have any questions or comments, you can contact me at
-webmaster@wolf3dbunker.com. Thanks for playing!
+webmaster (at) wolf3dbunker.com. Thanks for playing!
 
                                              -B.J. Rowan

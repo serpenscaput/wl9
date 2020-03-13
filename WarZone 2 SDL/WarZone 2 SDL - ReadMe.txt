@@ -14,8 +14,8 @@ Hope you can like this set. Thanks.
 
       If you find any bugs, please contact me:
 
-      dtrade@cmmail.com
-      dtrade@ding.com.cn
+      dtrade (at) cmmail.com
+      dtrade (at) ding.com.cn
 
       WARZONE Project 1 "SUDDEN STRIKE" has been released. You can 
 download it from Mr. Brian Lowe's homepage:

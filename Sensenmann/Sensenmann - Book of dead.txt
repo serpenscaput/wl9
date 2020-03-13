@@ -85,7 +85,7 @@ Build Time: 23.12.03 - 7.4.2004
 - LZEXE v.0.91 by Fabrice Bellard (EXE compression)
 - Borland C++ v.3.1 (source compilation)
 
-edelgardmezger@web.de (Germany)
+edelgardmezger (at) web.de (Germany)
 but my English is very bad
 	
 	Credits:

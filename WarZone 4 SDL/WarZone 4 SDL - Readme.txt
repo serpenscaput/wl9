@@ -14,8 +14,8 @@ Hope you can like this set. Thanks.
 
       If you find any bugs, please contact me:
 
-      dtrade@cmmail.com
-      dtrade@inhe.net
+      dtrade (at) cmmail.com
+      dtrade (at) inhe.net
 
       WARZONE Project 1 "SUDDEN STRIKE" 
               Project 2 "SURPRISE ATTACK" 

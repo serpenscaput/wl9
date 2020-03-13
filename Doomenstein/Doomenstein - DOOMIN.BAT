@@ -1,4 +1,4 @@
-@echo off
+ (at) echo off
 if not exist vswap.wl6 goto error
 if not exist vswap.dms goto error
 ren vswap.wl6 vswap.org

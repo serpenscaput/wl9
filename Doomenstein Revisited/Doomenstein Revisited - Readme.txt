@@ -15,4 +15,4 @@ And also thanks to ID Software for creating Wolfenstein 3d and Doom
 It also contains some doom graphics I extracted from Doom I and II
 I hope you enjoy playing it
 
-If you have any questions or comments please email me at Joe_sentinel@hotmail.com
+If you have any questions or comments please email me at Joe_sentinel (at) hotmail.com

@@ -1,5 +1,5 @@
-@ECHO OFF
-@call TITLE.EXE
+ (at) ECHO OFF
+ (at) call TITLE.EXE
 :start
 CLS
 echo КлКАБВлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллВБАКлК
@@ -57,105 +57,105 @@ if errorlevel 1 goto :1
 if errorlevel 0 goto :start
 
 :1
-@echo off
+ (at) echo off
 copy games\maphead.dom maphead.MOD
 copy games\gamemaps.dom gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :2
-@echo off
+ (at) echo off
 copy games\maphead.kra maphead.MOD
 copy games\gamemaps.kra gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :3
-@echo off
+ (at) echo off
 copy games\maphead.let maphead.MOD
 copy games\gamemaps.let gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :4
-@echo off
+ (at) echo off
 copy games\maphead.gei maphead.MOD
 copy games\gamemaps.gei gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :5
-@echo off
+ (at) echo off
 copy games\maphead.meg maphead.MOD
 copy games\gamemaps.meg gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :6
-@echo off
+ (at) echo off
 copy games\maphead.tod maphead.MOD
 copy games\gamemaps.tod gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :7
-@echo off
+ (at) echo off
 copy games\maphead.pur maphead.MOD
 copy games\gamemaps.pur gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :8
-@echo off
+ (at) echo off
 copy games\gamemaps.nop gamemaps.MOD
 copy games\maphead.nop maphead.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :9
-@echo off
+ (at) echo off
 copy games\maphead.pad maphead.MOD
 copy games\gamemaps.pad gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :10
-@echo off
+ (at) echo off
 copy games\maphead.alo maphead.MOD
 copy games\gamemaps.alo gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :11
-@echo off
+ (at) echo off
 copy games\maphead.nwa maphead.MOD
 copy games\gamemaps.nwa gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :12
-@echo off
+ (at) echo off
 copy games\maphead.ach maphead.MOD
 copy games\gamemaps.ach gamemaps.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :13
-@echo off
+ (at) echo off
 copy games\gamemaps.sho gamemaps.MOD
 copy games\maphead.sho maphead.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :14
-@echo off
+ (at) echo off
 copy games\gamemaps.mut gamemaps.MOD
 copy games\maphead.mut maphead.MOD
 call Wolfmods.exe > nul
 goto :start
 
 :15
-@echo off
+ (at) echo off
 copy games\gamemaps.pan gamemaps.MOD
 copy games\maphead.pan maphead.MOD
 call Wolfmods.exe > nul
@@ -204,7 +204,7 @@ call Wolfmods.exe > nul
 goto :start
 
 :23
-@echo off
+ (at) echo off
 copy games\vgadict.bla vgadict.MOD
 copy games\vgahead.bla vgahead.MOD
 copy games\vgagraph.bla vgagraph.MOD
@@ -212,7 +212,7 @@ copy games\vswap.bla vswap.MOD
 goto :start
 
 :24
-@echo off
+ (at) echo off
 copy games\vgadict.doo vgadict.MOD
 copy games\vgahead.doo vgahead.MOD
 copy games\vgagraph.doo vgagraph.MOD
@@ -220,7 +220,7 @@ copy games\vswap.doo vswap.MOD
 goto :start
 
 :25
-@echo off
+ (at) echo off
 copy games\vgadict.pac vgadict.MOD
 copy games\vgahead.pac vgahead.MOD
 copy games\vgagraph.pac vgagraph.MOD
@@ -228,7 +228,7 @@ copy games\vswap.pac vswap.MOD
 goto :start
 
 :26
-@echo off
+ (at) echo off
 copy games\vgadict.cav vgadict.MOD
 copy games\vgahead.cav vgahead.MOD
 copy games\vgagraph.cav vgagraph.MOD
@@ -236,7 +236,7 @@ copy games\vswap.cav vswap.MOD
 goto :start
 
 :27
-@echo off
+ (at) echo off
 copy games\vgadict.st3 vgadict.MOD
 copy games\vgahead.st3 vgahead.MOD
 copy games\vgagraph.st3 vgagraph.MOD
@@ -244,7 +244,7 @@ copy games\vswap.str vswap.MOD
 goto :start
 
 :end
-@echo off
+ (at) echo off
 copy games\vgadict.mod vgadict.mod
 copy games\vgahead.mod vgahead.mod
 copy games\vgagraph.mod vgagraph.mod

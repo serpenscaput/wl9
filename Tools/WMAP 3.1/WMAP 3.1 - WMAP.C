@@ -1,7 +1,7 @@
 /* Program name:  WMAP.C
    Description:   Draws maps for Wolfenstein 3D using ASCII characters
-   Author:        P.G.W.Hosken  (<RMCB@DLRVM> or via GAMES-L)
-   Mods:	  George Dolbier (georged@sequent.com uunet!sequent!georged)
+   Author:        P.G.W.Hosken  (<RMCB (at) DLRVM> or via GAMES-L)
+   Mods:	  George Dolbier (georged (at) sequent.com uunet!sequent!georged)
    Version:       3.1
    Compilation:   MSC, compile using "cl wmap.c"
 
@@ -289,7 +289,7 @@ FILE *FP;
   fprintf(FP,"\n	##  Wall (dark stone)		b Banner");
   fprintf(FP,"\n	%%  Wall (lite stone)		h hitler");
   fprintf(FP,"\n	&&  Wall (dark blue)		S Swastika w/ eagle");
-  fprintf(FP,"\n	@@  Wall (lite blue)		e Eagle");
+  fprintf(FP,"\n	 (at)  (at)   Wall (lite blue)		e Eagle");
   fprintf(FP,"\n	00  Wall (stone)		B Steel plates");
   fprintf(FP,"\n	OO  Wall (brick?)		w Wreath");
   fprintf(FP,"\n	88  Wall (purple?)		");
@@ -339,7 +339,7 @@ int   X1,X2;  /* 2 input bytes */
       case 0x06: CH='S'; break; /* Swastika w/ eagle */
       case 0x07: CH='X'; break; /* Cell w/ skeleton */
       case 0x08: CH='&'; break; /* Wall */
-      case 0x09: CH='@'; break; /* Wall */
+      case 0x09: CH=' (at) '; break; /* Wall */
       case 0x0A: CH='e'; break; /* Eagle */
       case 0x0B: CH='h'; break; /* Hitler */
       case 0x0C: CH='0'; break; /* Wall */
@@ -395,7 +395,7 @@ int   X1,X2;  /* 2 input bytes */
       case 0x8D:
       case 0x8E:
       case 0x8F: CH=' '; break; /* Floor */
-      default:   CH='@';
+      default:   CH=' (at) ';
 		 printf("\nPart 1 unknown code (%X)",X1);
     }
     CH2=CH;
@@ -405,7 +405,7 @@ int   X1,X2;  /* 2 input bytes */
       case '#': CH2='#'; break;
       case '%': CH2='%'; break;
       case '&': CH2='&'; break;
-      case '@': CH2='@'; break;
+      case ' (at) ': CH2=' (at) '; break;
       case '0': CH2='0'; break;
       case 'O': CH2='O'; break;
       case '8': CH2='8'; break;
@@ -560,7 +560,7 @@ int   X1,X2;  /* 2 input bytes */
       case 0xD4: CH='4'; DOG=1; break; /* Dog */
       case 0xD5: CH='4'; DOG=1; break; /* Dog */
       case 0xD6: CH='x'; break; /* Hulk */
-      default:   CH='@';
+      default:   CH=' (at) ';
                  printf("\nPart 2 unknown code (%X)",X1);
     }
     if (CH==' ') CH=IN2;

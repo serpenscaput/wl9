@@ -83,7 +83,7 @@ Credits:
 
 
 
-Thanks for downloading! If you need anything, feel free to contact me at lokii1x4@gmail.com!
+Thanks for downloading! If you need anything, feel free to contact me at lokii1x4 (at) gmail.com!
 
 
 Cheers!

@@ -181,7 +181,7 @@ completition.
 5.2) Level Testing
 All the levels of this Mod were tested and completed on the highest difficulty
 beginning with 8 Bullets and a pistol.
-If you find any bugs, which is common, report to me at roberto@carnier.com
+If you find any bugs, which is common, report to me at roberto (at) carnier.com
 5.3) Credits
 Textures and Sounds were collected and downloaded from:
  Wolf3d Dome.UK
@@ -225,4 +225,4 @@ LV19:Sorcerer - Abyss
 Contact:
 Roberto Carnier –
 Creator of SOD:FR
-roberto@carnier.com
+roberto (at) carnier.com

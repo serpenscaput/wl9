@@ -23,6 +23,6 @@ is! You might have to play in GOD MODE for a while, to see what's what.
 If anyone wants a map of any of my levels, my e-mail address is;
 
  
-teeburd105@aol.com     or    teeburd@juno.com
+teeburd105 (at) aol.com     or    teeburd (at) juno.com
 
 Happy killin'   Tony

@@ -47,7 +47,7 @@ So it's really up to you. I mainly use ATAW1.EXE in Windows XP and ATAW2.EXE in 
 If you run into any memory or performance issues on one exe, you might get better 
 luck out of using the other one.
 
-If you notice any bugs, feel free to send them to choksta@hotmail.com. I'd enjoy 
+If you notice any bugs, feel free to send them to choksta (at) hotmail.com. I'd enjoy 
 hearing about them.
 Note: One I'm aware of is the occasional vertical line/gaps on walls bug, the latter 
 also being present in the original wolf3d.
@@ -203,7 +203,7 @@ Schabbs 7000, February 2005 [Released May 2006] (Never Finished)	|
 Abandon 2: Purgatory! February-March 2005 (Failed)			|
 Secrets of Offenbach, February-July, 2005 (Failed)			|
 	
-If you can read this, you are a moron! Haha! Anyway, mail to thomasweiling@hotmail.com 
+If you can read this, you are a moron! Haha! Anyway, mail to thomasweiling (at) hotmail.com 
 if you read this, and you'll get a gift! 
 Very Avant-Garde, huh? ;-)
 
@@ -228,7 +228,7 @@ Regarding my mods, they can be found at the Wolfenstein 3D Dome, which has been 
 CONTACT
 
 Feel free to drop a comment or two about the game, and if you have questions, you 
-can mail me at thomasweiling@hotmail.com.
+can mail me at thomasweiling (at) hotmail.com.
 
 CREDITS
 

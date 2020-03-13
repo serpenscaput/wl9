@@ -14,8 +14,8 @@ Also special thanks Mr. Brian Lowe's help when I make my addon.
 Thanks all who help me.
 
 If you have any question, please contact me 
-dtrade@cmmail.com 
+dtrade (at) cmmail.com 
 or
-dtrade@ding.com.cn
+dtrade (at) ding.com.cn
 
 Dtrade

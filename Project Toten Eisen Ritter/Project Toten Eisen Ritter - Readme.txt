@@ -6,7 +6,7 @@ Wolfenstein 3d
 Title: Project Toten Eisen Ritter v1.7
 Filename: PRJTOTEISEN.ZIP
 Author: Ling Yan Li
-Email Address: lingyan203@yahoo.com
+Email Address: lingyan203 (at) yahoo.com
 Description: 60-level Wolfenstein adventure, with many new features
 
 ============================================================

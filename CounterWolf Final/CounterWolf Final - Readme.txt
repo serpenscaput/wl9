@@ -128,11 +128,11 @@ Deleted E4m1
 
 ===================
 
-    E-Mail ME @
+    E-Mail ME  (at) 
 
 ===================
 
-ryanpking@yahoo.com
+ryanpking (at) yahoo.com
 
 
 

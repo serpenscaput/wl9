@@ -91,7 +91,7 @@ Target finish date: May 1999
 
 Get more info at: http://members.tripod.com/~gdr2
 
-Or e-mail me at: gragland@ix.netcom.com
+Or e-mail me at: gragland (at) ix.netcom.com
 
 THANKS and ENJOY!
 

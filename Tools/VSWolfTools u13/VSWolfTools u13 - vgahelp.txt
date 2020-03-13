@@ -118,4 +118,4 @@ TEXT:       is a text a little like HTML and may be edited as text.
                           Vincent,
 
                     http://vincentius.dk
-                 vincentschousboe@gmail.com
+                 vincentschousboe (at) gmail.com

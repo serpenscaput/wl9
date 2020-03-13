@@ -25,7 +25,7 @@ Thanks to:
   My brother for give me ideas
   My father for buy full version of wolf3d
 
-suggestion, question, bug report please email @ ipank7000@fmguy.com
+suggestion, question, bug report please email  (at)  ipank7000 (at) fmguy.com
 
 Enough reading...start playing!
 

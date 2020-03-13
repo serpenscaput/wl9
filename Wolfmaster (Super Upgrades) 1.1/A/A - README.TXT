@@ -34,7 +34,7 @@ consumes a lot of time).
 Carlton Griffin 
 
 Compuserve  71053,1043
-Internet    CG@android.com
+Internet    CG (at) android.com
 
 Or in the GAMES or 4SALE conferences of
 RIME

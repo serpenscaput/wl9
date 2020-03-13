@@ -1,4 +1,4 @@
-@ECHO OFF
+ (at) ECHO OFF
 :origin
 CLS
 echo บบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ
@@ -51,7 +51,7 @@ if errorlevel 1 goto :one
 if errorlevel 0 goto :origin
 
 :one
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r7 maphead.wl1
 copy games\gamemaps.r7 gamemaps.wl1
@@ -62,7 +62,7 @@ call go.bat
 goto :origin
 
 :two
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.wd2 maphead.wl1
 copy games\gamemaps.wd2 gamemaps.wl1
@@ -73,7 +73,7 @@ call go.bat
 goto :origin
 
 :three
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r1 maphead.wl1
 copy games\gamemaps.r1 gamemaps.wl1
@@ -84,7 +84,7 @@ call go.bat
 goto :origin
 
 :four
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r2 maphead.wl1
 copy games\gamemaps.r2 gamemaps.wl1
@@ -95,7 +95,7 @@ call go.bat
 goto :origin
 
 :five
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r3 maphead.wl1
 copy games\gamemaps.r3 gamemaps.wl1
@@ -106,7 +106,7 @@ call go.bat
 goto :origin
 
 :six
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r4 maphead.wl1
 copy games\gamemaps.r4 gamemaps.wl1
@@ -117,7 +117,7 @@ call go.bat
 goto :origin
 
 :seven
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r5 maphead.wl1
 copy games\gamemaps.r5 gamemaps.wl1
@@ -128,7 +128,7 @@ call go.bat
 goto :origin
 
 :eight
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r6 maphead.wl1
 copy games\gamemaps.r6 gamemaps.wl1
@@ -139,7 +139,7 @@ call go.bat
 goto :origin
 
 :nine
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.r8 maphead.wl1
 copy games\gamemaps.r8 gamemaps.wl1
@@ -150,7 +150,7 @@ call go.bat
 goto :origin
 
 :ten
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.rg1 maphead.wl1
 copy games\gamemaps.rg1 gamemaps.wl1
@@ -161,7 +161,7 @@ call go.bat
 goto :origin
 
 :eleven
-@echo off
+ (at) echo off
 copy games\vswap.r14 vswap.wl1
 copy games\maphead.rg2 maphead.wl1
 copy games\gamemaps.rg2 gamemaps.wl1
@@ -172,7 +172,7 @@ call go.bat
 goto :origin
 
 :twelve
-@echo off
+ (at) echo off
 copy games\vswap.wol vswap.wl1
 copy games\maphead.p2 maphead.wl1
 copy games\gamemaps.p2 gamemaps.wl1
@@ -183,7 +183,7 @@ call go.bat
 goto :origin
 
 :13
-@echo off
+ (at) echo off
 copy games\maphead.bla maphead.wl1
 copy games\gamemaps.bla gamemaps.wl1
 copy games\vgadict.bla vgadict.wl1
@@ -193,7 +193,7 @@ call go.bat
 goto :origin
 
 :14
-@echo off
+ (at) echo off
 copy games\vswap.r14 vswap.wl1
 copy games\maphead.r14 maphead.wl1
 copy games\gamemaps.r14 gamemaps.wl1
@@ -204,7 +204,7 @@ call go2.bat
 goto :origin
 
 :15
-@echo off
+ (at) echo off
 copy games\vswap.r14 vswap.wl1
 copy games\maphead.cov maphead.wl1
 copy games\gamemaps.cov gamemaps.wl1
@@ -215,7 +215,7 @@ call go2.bat
 goto :origin
 
 :16
-@echo off
+ (at) echo off
 copy games\maphead.16 maphead.wl1
 copy games\gamemaps.16 gamemaps.wl1
 copy games\vgadict.16 vgadict.wl1
@@ -225,7 +225,7 @@ call go.bat
 goto :origin
 
 :17
-@echo off
+ (at) echo off
 copy games\maphead.17 maphead.wl1
 copy games\gamemaps.17 gamemaps.wl1
 copy games\vgadict.17 vgadict.wl1
@@ -235,7 +235,7 @@ call go.bat
 goto :origin
 
 :18
-@echo off
+ (at) echo off
 copy games\maphead.mus maphead.wl1
 copy games\gamemaps.mus gamemaps.wl1
 copy games\vgadict.18 vgadict.wl1
@@ -245,8 +245,8 @@ call go.bat
 goto :origin
 
 :19
-@echo off
-@call Pacspear.bat
+ (at) echo off
+ (at) call Pacspear.bat
 goto :origin
 
 :end

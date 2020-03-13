@@ -4,8 +4,8 @@ Hi!
 3D Total Conversion. For more info, check "Read me" in the main menu of the game.
 
 
-*Wu-Gang should be rather bug-free, but if you find something, please mail me: kukimik@poczta.onet.pl 
-or catekoprotokol@gmail.com
+*Wu-Gang should be rather bug-free, but if you find something, please mail me: kukimik (at) poczta.onet.pl 
+or catekoprotokol (at) gmail.com
 
 *Cheats: run the game with command: wolf3d.exe -kuki, and then use the cheats just 
 like in the original Wolf3D

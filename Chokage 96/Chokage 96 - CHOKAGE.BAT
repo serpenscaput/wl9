@@ -1,4 +1,4 @@
-@Echo Off
+ (at) Echo Off
 cls
 if exist youwill.die del youwill.die
 if not exist chokage.bat goto ERROR22
@@ -49,7 +49,7 @@ Echo        K = Krazy Wolfenstein          M = The Music Menu       R = Rate Cho
 Echo        P = Loads Last Game Played     I = Intro Sequence       Q = Quit   
 
 :CHOICES
-choice /t~,99 /n /c:1234567hq890dmel$ckrpi~@?ÿ
+choice /t~,99 /n /c:1234567hq890dmel$ckrpi~ (at) ?ÿ
 cls
 if errorlevel 27 goto FONY!BALONY
 if errorlevel 26 goto ERROR4

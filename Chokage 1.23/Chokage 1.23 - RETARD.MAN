@@ -1,4 +1,4 @@
-@Echo Off
+ (at) Echo Off
 cls
 if exist menu.com rename menu.com stupid.com
 if exist wicked.man copy wicked.man cookie.man
@@ -90,7 +90,7 @@ Echo Blood Thirsty Mosquito  - By Jenny Chokan & Chris Chokan
 Echo. 
 Echo   If you have any ideas for your own section to 'Stupid Choice' and would
 Echo like to see it on 'Stupid Choice', inform me (Chris Chokan; at
-Echo [705] 969-3520 or E-mail me: chokan@sympatico).
+Echo [705] 969-3520 or E-mail me: chokan (at) sympatico).
 Echo.
 pause
 goto STUPIDNESS
@@ -736,7 +736,7 @@ if errorlevel 1 goto B
 goto STUPIDNESS
 
 :B14
-Echo "@#!#@!@@#!" screamed the police.
+Echo " (at) #!# (at) ! (at)  (at) #!" screamed the police.
 Echo "This guy belongs in the mental institution, he's a total NUT!" screamed the
 
 Echo  police to another police.
@@ -2740,7 +2740,7 @@ Echo does. Pulling your legs up, you...
 Echo.
 pause
 cls
-Echo "?@#! OOOWWWWWWWWWWW!!!!!! FREAKIN! FREAKIN DUMB ASS BLADE!!!"...you hurt
+Echo "? (at) #! OOOWWWWWWWWWWW!!!!!! FREAKIN! FREAKIN DUMB ASS BLADE!!!"...you hurt
 Echo yourself and sort of break your leg.
 Echo.
 Echo NARRATOR: "Haha!"

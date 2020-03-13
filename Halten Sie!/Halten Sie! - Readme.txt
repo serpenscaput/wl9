@@ -1,7 +1,7 @@
 
 Title: Halten Sie!
 Author: Laz Rojas
-Email Address: filmman@earthlink.net; wolfdoom@aol.com
+Email Address: filmman (at) earthlink.net; wolfdoom (at) aol.com
 Web sites: http://www.geocities.com/TimesSquare/3744/
 http://www.doomworld.com/wolfendoom
 Description: 10 levels for Wolf 3D, replacing the first episode

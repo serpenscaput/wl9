@@ -1,5 +1,5 @@
 cls
-@echo off
+ (at) echo off
 :message
 echo             ESCAPE FROM WOLFENSTIEN 2
 echo Levels by Cyber Grunger (Jesse) Built in 1995 This file
