@@ -1,0 +1,71 @@
+Monster Land
+by Gary Acord
+
+Fumbling through hundreds of different Wolfenstein mods, I discovered a bunch
+of features that I could include in a wolfmod, the first of which I developed
+about 20 years ago. Grabbing a feature here and a feature there, I gradually
+improved the quality of my games, and then I released Wolfmods, Strange Worlds,
+Kozmik Zones, Pacspear, Wolfhell, Super Wolfhell, and now Monster Land.
+
+In Monster Land, you are Captain Zoom, trapped in another world, surrounded
+by active eerie creatures. Filled by a strong yearning to escape back to the
+world of your loved ones and friends, driven by that one desire to the point
+of obsession, you must escape, yet you are surrounded by enemies who are
+totally against your victory.
+
+It's kill or be killed as you fight your way to escape! It won't be easy as you
+pick you zone and venture through level after level of complex situations. Good
+luck in your adventure!
+
+Note: Some columns will disappear if you press your spacebar.
+---------------------------------------
+
+Features:
+
+3 Ten-Level Games
+Ceiling + Floor Textures
+Full Screen
+Bobbing gun
+More Objects
+Directional Sprites
+Animated Objects
+Destructible Columns (press spacebar)
+---------------------------------------
+
+Credits:
+
+Monster Land is a mod by Gary Acord of id's Wolfenstein 3D. The .exe file
+was created by Michael Collin. Additional artwork by Mr. Choi. Mapediting
+help and distribution by Brian Lowe.
+Many other wolfmods, can be found on the Wolfenstein mod site
+http://www.users.globalnet.co.uk/~brlowe/index.html.
+
+Of course I must give thanks to ID Software for the classic Wolfenstein 3d and
+Spear of Destiny, without which there could be no mod games.
+---------------------------------------
+
+Tools used:
+
+ChaosEdit
+Floedit
+Mapedit
+Bill Kirby's Wolfedit
+Varsity Text Editor
+Deluxe Animation
+Paintbrush
+Notepad
+---------------------------------------
+
+Thank You for Playing Monster Land!
+If you enjoy this then you should check other mods at:
+http://www.users.globalnet.co.uk/~brlowe/index.html.
+---------------------------------------
+
+If you like this game drop me an email at Acordgames@Juno.com.
+Also, you can download Zapagame, a menued presentation of 250 Shareware and
+Demo games, at http://Celebration4all.com.
+---------------------------------------
+For other games, and information on Acord Games, run Games.htm, included with
+this game.
+---------------------------------------
+Acord Games Website is http://Acordgames.webstarts.com

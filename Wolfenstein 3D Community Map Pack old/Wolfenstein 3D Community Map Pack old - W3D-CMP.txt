@@ -1,0 +1,58 @@
+"Wolf3d Community Map Pack"
+
+Title screen, VSWAP, and source code are hacked by
+     Tricob.  Same goes for the demos and VSWAP, not
+     to mention that "Scaremare" tune you hear on the
+     title screen.
+
+This contains 6 maps for each episode, and is done by
+     the following DHW members:
+
+Episode 1 - Tricob
+Episode 2 - Levels 1, 2, 3, 4, and 10 by Thomas;
+            Level 5 by WLHack
+Episode 3 - Dean
+Episode 4 - Levels 1, 2, 3, 4, and 5 by Tricob;
+            Level 10 by Dean
+Episode 5 - WLHack
+EPisode 6 - Level 1 by Thomas, Level 2 by Brian Lowe,
+            Level 3 by Dean, Levels 4 and 5 by
+            Tricob, and Level 10 by RonWOlf
+
+Most of my levels are updates from my older add-on
+     "Operation: Kill BJ!", aside from E1L1, E1L5,
+     and E6L5, which are new.
+
+The game has the Ammo Box added, along with wall
+    images from Spear Of Destiny.  The "Dog Death"
+    sound has also been changed, and a full-screen
+    game window is now available (Statusbar intact).
+    Note also that the "blockiness" of objects and
+    walls up close isn't near as bad now, thanks to
+    a couple of coding tips from Ripper.  :-)
+
+I've included two batch files, WOLF and WARP, to
+     enable the cheat codes and warp to different
+     levels.  The WARP command is only useful in DOS
+     Box or the Windows Command Prompt (or MS-DOS or
+     FreeDOS, if you have it).
+
+Thanks to everyone who made this mapset possible.
+       You've all done good levels here, and that's
+       one of the reasons I wanted this collection to
+       be released;  good maps are useless if no one
+       ever gets to play them.
+
+This is Version 1.20, and still has a long list of
+     bugs reminiscent of the original code.  The most
+     popular bugs are the "Walls turning into Grey
+     Stone 1" bug, and the "Guards shooting when
+     shot" bug.  Source code is available upon
+     request, if anyone wishes to update the source.
+     Just E-Mail "KellyArbr" at AOL.COM.  A more
+     permanent E-Mail address is "neotraditions" at
+     WEBMAIL.CO.ZA.  That is, if Webmail continues
+     to be more reliable than my Yahoo E-Mail was.
+     :-/
+
+- Tricob.

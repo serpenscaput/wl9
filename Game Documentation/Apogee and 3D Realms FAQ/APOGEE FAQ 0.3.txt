@@ -1,0 +1,1486 @@
+This is not *quite* the complete FAQ, so it's v0.3.  (Versions 0.1 and 0.2
+were not publicly distributed.)  It contains everything except the cheats
+to Mystic Towers and Hocus Pocus, and a whole section describing hardware
+requirements and other statistics about each game.
+Except for HP and MT, this FAQ contains the COMPLETE list of cheats to ALL
+Apogee games that have been released.
+
+Also, note that this is the "Official" Apogee FAQ -- Joe Siegler has
+authorized it to be so named, and has provided a wealth of information,
+particularly the in the cheat list.
+
+I welcome comments, suggestions, and criticism, but not flames.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+        T h e     ___        " O f f i c i a l "
+                 / _ \ _ __   ___   __ _  ___  ___
+                | |_| | '_ \ / _ \ / _` |/ _ \/ _ \
+                |  _  | |_) | (_) | (_| |  __/  __/
+                |_| |_| .__/ \___/ \__, |\___|\___|    F A Q
+                      |_|          |___/                        Version 0.3
+
+                    Current as of September 2, 1994
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Contents:
+
+ [1]  Introduction
+   [1.1]  A word from me
+   [1.2]  Obtaining the latest version of the FAQ
+   [1.3]  Obtaining other Apogee-related FAQs
+   [1.4]  What is Apogee?
+   [1.5]  How Apogee markets its games
+   [1.6]  Apogee's internet mailing list
+   [1.7]  Apogee's staff
+
+ [2]  Historical Information
+   [2.1]  What is Apogee's relationship with id?
+   [2.2]  What awards has Apogee won?
+   [2.3]  History of specific games
+     [2.3.1]  Keen
+     [2.3.2]  Wolfenstein 3d
+
+ [3]  Games Lists
+   [3.1]  What games are currently available from Apogee?
+   [3.2]  What combination deals does Apogee offer?
+   [3.3]  What upgrade patches are currently available?
+   [3.4]  What slide shows are currently available from Apogee?
+   [2.5]  What are upcoming releases from Apogee?
+   [3.6]  What Apogee games are no longer supported?
+   [3.7]  Which of Apogee's games are good?
+
+ [4]  Obtaining the Games
+   [4.1]  The Shareware Episodes
+     [4.1.1]  Software Creations BBS
+     [4.1.2]  Anonymous FTP
+     [4.1.3]  CompuSERVE
+     [4.1.4]  America On-Line
+     [4.1.5]  Fidonet
+   [4.2]  The Registered Episodes
+     [4.2.1]  Ordering information
+     [4.2.2]  Software Creations BBS
+
+ [5]  Troubleshooting
+   [5.1]  Things to try first
+   [5.2]  Recommended system configuration
+   [5.3]  Setting the BLASTER environment variable
+   [5.4]  Drive compression programs
+   [5.5]  By game
+
+ [6]  Cheats
+   [6.1]  Overview
+   [6.2]  What's that about cows and monkeys in Raptor?
+   [6.3]  Complete Cheat List
+
+ [7]  Contacting Apogee
+   [7.1]  Through internet
+   [7.2]  By phone
+   [7.3]  By fax
+   [7.4]  By snail mail
+
+ [8]  Credits
+
+ [9]  Dopefish and Friends
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Legal Quagmire:  This FAQ is copyright (c) 1994 by Samuel Stoddard.  No part
+of this FAQ may be distributed unless it remains intact, with all credits,
+attributions, and other miscellaneous praises to myself preserved. You may keep
+as many copies of this FAQ as you like, on whatever and however many different
+mediums that you like, and you can even read more than one copy at one time.
+There's a whole lot of trademarks in here that are acknowledged implicitly even
+if they aren't acknowledged explicitly in the following statement:  I hereby
+explicitly acknowledge the following trademarks:  Apogee, id, XenoPhage, Wacky
+Wheels, Mystic Towers, Hocus Pocus, Raptor, Blake Stone, Duke Nukem,
+Wolfenstein 3D, Doom, and all the other trademarks in here.  All the trademarks
+that are not explicitly explicitly acknowledged are implicitly acknowledged as
+explicitly acknowledged trademarks.  All trademarks (including, but not limited
+to, those that are explicitly acknowledged, those that are implicitly
+acknowledged as explicitly acknowledged, and those that are explicitly
+implicitly acknowledged) are also implicitly acknowledged here to boot.  Also,
+the header for this FAQ was done with the aid of "Figlet".  Finally, I take no
+responsibility whatsoever for anything that happens as a result of this FAQ's
+existence.  Except for the good things.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[1]  Introduction
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[1.1]  A word from me
+
+Who am I?  I'm just another Apogee fan, the primary difference between you and
+me being that I'm the one flaunting my vast sea of Apogee knowledge.  I don't
+guarantee that all or even any of the facts in this FAQ are true, but I try to
+make this as informative and truthful a document as I humanly can without
+playing hookey from work or school.  (I do have priorities, after all.)  If you
+have some tidbits of information, or, heck, a whole flood of information
+tidbits, let me know and I'll put it in the FAQ along with your name in the
+credits.  The best way to reach me is through the internet.  Try these
+addresses in this order: s...@christa.unh.edu, stod...@ctron.com.
+
+[1.2]  Obtaining the latest version of the FAQ
+
+There are a few ways to get the latest copy:
+
+ - Through Usenet:  I will try to post it in alt.games.apogee once
+   every two weeks, and in comp.sys.ibm.pc.games.misc and
+   comp.sys.ibm.pc.games.action once every month.
+ - Email:  write me at s...@kepler.unh.edu or stod...@ctron.com.
+
+[1.3]  Obtaining other Apogee-related FAQs
+
+Several FAQs about individual Apogee games are available.  A list,
+with instructions for obtaining the latest versions, follows:
+
+Game                  Maintainer       How To Get It
+----                  ----------       -------------
+Rise of the Triad     Rylan Hilman     Send mail to rhi...@oasis.rain.com
+Wolfenstein 3D        Stanley Stasiak  FTP to ftp.cc.umanitoba, and download
+                                          /wolf3d/wolf3d.faq
+Commander Keen        Bill Amon        Send mail to wa...@mbunix.mitre.org
+
+[1.4]  What is Apogee?
+
+Apogee is a games distributor for PC games of many sorts.  It is a diverse
+gaming company, contributing to several different genres of games.  While much
+of what Apogee publishes are games written primarily by other companies, such
+as Cygnus or Argo, Apogee writes their own games as well.  Apogee's staff
+includes an array of talented programmers, artists, and musicians.  For many
+years now, Apogee has been among the leading shareware games companies for the
+PC and compatible market.
+
+[1.5]  How Apogee markets its games
+
+In 1987, Apogee came up with a unique method of marketing their games.  Since
+then, other shareware companies have adopted their strategy.  Their scheme is
+this:  each game they produce is divided into three to four, sometimes even
+six, episodes.  The first episode is free.  It can be downloaded from
+CompuServe, BBS's, or the Internet, or bought in a store that distributes
+shareware games for disk copying charges.  You can distribute the shareware
+episode to your friends yourself, if you like, provided you leave all the
+original files intact.
+
+If you like the shareware episode of a game, Apogee requires that you register
+it.  This is the normal rule regarding shareware.  Upon registration, you will
+receive the complete game.
+
+Apogee uses this marketing scheme so that people can have a good idea about
+the game they are buying before they put their cash on the line.
+
+[1.6]  Apogee's internet mailing list
+
+Apogee has an Internet mailing list.  Whenever new games or slide shows are
+released (or other important information), Apogee sends the information out in
+a mailing.  If you would like to be on this mailing list, contact Joe Siegler
+<joe.s...@swcbbs.com> to sign up.  It is free of charge.
+
+[1.7]  Apogee's staff
+
+    Scott Miller      - President, Co-owner
+    George Broussard  - Executive VP, Co-owner
+    Steven Blackburn  - VP Operations
+    Tom Hall          - Creative Director
+    Greg Malone       - Creative Director
+    Dennis Scarff     - Vice President, World Operations
+    Joe Siegler       - On-Line Support Manager & Technical Support
+    Kevin Green       - Customer Support Supervisor & Technical Support
+    Dan Linton        - SysOp/Owner of Software Creation BBS
+    Lee Jackson       - Technical Support
+    Steve Quarrella   - Technical Support
+    Joe Selinske      - Technical Support
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[2]  Historical Information
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[2.1]  What is Apogee's relationship with id?
+
+Apogee Software and id Software are completely different companies.  I believe
+most of the id guys are former employees of Softdisk, who decided to do their
+own thing.  They wrote the legendary Commander Keen series and Wolfenstein 3-D,
+which were *distributed* by Apogee.  So if you play these games, you will see
+both Apogee's and id's labels.
+
+Then, id wrote Doom.  They decided to publish this (and all future id
+releases) themselves, instead of going through Apogee, FormGen, or others.
+According to Joe Siegler, there was no "divorce" between id and Apogee.  They
+just parted ways peacefully, and employees of both get together regularly.
+Some people still falsely believe that Doom is an Apogee game.  It's not!  It's
+by id and only id.  Apogee has nothing to do with it.  Nowhere in DOOM will you
+find any reference to Apogee.
+
+Also, Apogee is significantly bigger than id.  They work on twenty-some games
+at a time, including those it distributes for other companies.  id consists of
+a relatively small crew of programmers, and, for the most part, work on a
+single game at a time.
+
+Keen 6 and Spear of Destiny were written by id and distributed through FormGen.
+Apogee resells these games and will provide tech support for them if you
+bought them through Apogee.  As for Doom, Apogee does not even resell this,
+and thus, will not provide tech support for it.
+
+As a final note of confusion, Apogee and id are both situated in Texas, just
+down the road from each other.
+
+[2.2]  What awards has Apogee won?
+
+Apogee has won over a hundred national and international awards -- far too
+many to list here -- but here are some of the highlights:
+
+    Commander Keen  - Best Entertainment Software         - 1992
+    Commander Keen  - Best Overall                        - 1992
+    Math Rescue     - Best Education Software             - 1993
+    Wolfenstein 3D  - Best Entertainment Software         - 1993
+    Wolfenstein 3D  - Best New Home, Hobby, Entertainment - 1993
+    Wolfenstein 3D  - Best Overall, People's Choice       - 1993
+
+[2.3]  History of specific games
+
+[2.3.1]  Keen
+
+Joe Siegler's explanation of the history of the Keen series:
+
+Here's a short history of the Commander Keen games.  First, I'll list
+all the games and their titles.  All of them were written by id
+Software.
+
+  1) Marooned on Mars    ---\
+  2) The Earth Explodes     | ---> Invasion of the Vorticons
+  3) Keen Must Die       ---/
+3.5) Keen Dreams
+  4) Secret of the Oracle    --\__  Goodbye Galaxy
+  5) The Armageddon Machine  --/
+  6) Aliens Ate My Babysitter
+
+Episodes 1-3 are collectively called "Invasion of the Vorticons",
+and are published by Apogee Software.   This series of Commander Keen
+was released on December 14th, 1990, according to Tom Hall, Apogee's
+Creative Director, and at the time, Creative Director of id Software.
+
+Episodes 4 & 5 are collectively called "Goodbye Galaxy", and are also
+published by Apogee Software.  This series of Commander Keen was
+released somewhere around June of 1991.  There was also a special CGA
+edition of Keens 4-5 made.  The game is functionally exactly the same
+as the standard EGA version of the game, but the graphics are in CGA.
+
+Episode 6 is a "stand alone" game, and is entitled "Aliens Ate my
+Babysitter".  This episode of Keen is distributed by FormGen.  It is
+commercial software, and is available at your local software store
+(such as CompUSA).  This is also sold by Apogee, but Apogee only
+resells this product, we don't actually distribute it.  FormGen also
+decided to put off-disk copy protection on the full version of this
+game.  Furthermore, FormGen also has a playable 3 level commercial
+demo available for perusal before purchase.  Apogee Software sells a
+version of Keen 6 in CGA.  I do not know if FormGen sells the CGA
+version of Keen 6 in the stores; it may only be available from Apogee
+Software.  Check with FormGen for more details.
+
+Keen Dreams has kind of an interesting story.  This is referred to as
+the "Lost Episode" of Commander Keen.   I like to think of it as "Keen
+Episode 3.5".  The reason for that is that Keen Dreams falls in between
+Vorticons and Galaxy, both in terms of technology and storyline.
+Before the id guys actually formed id, the majority of them worked at
+Softdisk, a computer software publisher in Shreveport, LA.  The
+founding members of id Software left Softdisk to do the Vorticons
+series of Keen for Apogee Software.  However, they were contractually
+obligated to deliver another game to Softdisk, and since development
+had started on the Galaxy series, they threw together a Keen game for
+Softdisk, and Keen Dreams was born.  This game is not sold by Apogee
+Software, nor does Apogee have anything at all to do with it.  You'd
+need to contact Softdisk for any further information regarding Keen
+Dreams.
+
+Episodes 1, 3.5, 4, and the 3 level demo for Episode 6 are
+the only ones that you are legally allowed to upload and download
+anywhere.  Episodes 2,3,5, and the full version of Episode 6 are
+commercial software, and should not appear on any BBS, online service,
+or should otherwise be sold except for authorized sellers of the
+games.
+
+Here are the BBS filenames as currently available from Apogee for the
+various Keen games from Apogee.
+
+Keen 1 -> #1KEEN.ZIP
+Keen 4 -> #4KEEN.ZIP
+Keen 4 -> #4KEENC.ZIP (Special CGA Version)
+
+I've seen the 3 level Aliens Demo available with the filename
+#6K-DEMO.ZIP.  I've seen Keen Dreams available with the filename
+KDREAMS.ZIP.  However, neither of these are Apogee products, and I
+cannot vouch for the files' names.
+
+If you played Keen 5, there was a screen that said something to the
+effect of "Join us in December 1992 for the greatest Keen adventure
+yet".  There was a picture of Keen smiling, with a Santa Claus hat on.
+At the time, id Software was intending to do a third series of
+Commander Keen, tentatively entitled "Commander Keen: The Universe is
+Toast".  However, other projects came up (Wolfenstein 3D, Spear of
+Destiny, and later, Doom).  At this time, there is no development
+going on in the Commander Keen department.  There will eventually be
+more Commander Keen games by Apogee Software.  However, even if the
+work were to commence on the game TODAY, it would still take about 12
+months to see the light of day.  The earliest development could start
+on this game would be early in 1995, so I would not look for any new
+Commander Keen games before the Spring of 1996.
+
+[2.3.2]  Wolfenstein 3d
+
+Joe Siegler's explanation of the history of the Wolfenstein series:
+
+On May 5, 1992, Apogee Software released the shareware episode of
+Wolfenstein 3D, and has been distributing it in the shareware market
+since then.  Apogee is the official distributor of Wolfenstein 3D's
+original 6 episodes in the shareware market.
+
+Somewhere around September of 1992, FormGen Corp released Spear of
+Destiny.  This is a retail sequel to Wolfenstein 3D.  This game
+consisted of one episode with 20 levels.  It has some new wall
+art, a couple of new objects, and new boss creatures.  This game
+is essentially the same as Wolf3D generally, but is completely
+new in the level design aspect.  This game is available in stores
+like CompUSA.  Apogee also resells this product, but is not
+responsible for the distribution of it.  Apogee has to buy it from
+FormGen like any other store would.  There is a 2 level playable demo
+floating around for Spear of Destiny.  It's the same first two levels
+that appear in the full version of the game.  This is not shareware.
+Commercial demos are for the most part non-interactive.  This one *IS*
+interactive, and since it bears a close resemblance to Wolfenstein 3D,
+which is shareware, the SOD demo is frequently mistaken for being
+shareware, which it is not.
+
+There have been numerous editors and extra levels appear for both
+Wolfenstein 3D and Spear of Destiny.  In regards to Wolf3D, Apogee
+respectfully requests that you not make or distribute any editor/extra
+level/add on that will modify the shareware episode.  If you choose to
+do this, please make these items for the registered version only; and
+be aware that Apogee cannot support user created items.
+
+Somewhere in mid/late 1993, id Software decided that they were going
+to publish these same 6 original episodes in the retail market.
+These are the same 6 episodes that Apogee had been selling since May
+of 1992.  Since Apogee was at that time not set up for retail
+distribution, id Software went with another company, and that company
+is GT Software.   This package is available in CompUSA, and contains
+the same 6 episodes that Apogee is the distributor of.  Apogee has
+absolutely nothing at all to do with this product.  The GT Software
+version of Wolfenstein 3D is totally a GT deal.  Apogee has no control
+over the packaging, the quality control, or the price.
+
+In May of 1994, FormGen Corporation released an update to Spear of
+Destiny.  I do not remember the exact title offhand, but it's
+something like "Spear of Destiny Missions 2 & 3".  This is an add-on
+to Spear of Destiny, and has some new level graphics, some differently
+colored actors, but is essentially more levels for Spear of Destiny.
+This extra version (The extra episodes are called "Return to Danger",
+and "Ultimate Challenge") does require that you have the first Spear
+of Destiny game (The original 6 Apogee Wolf episodes are not required).
+Apogee Software has absolutely nothing to do with this prodct.  We do
+not sell it, and we do not support it.  This is a FormGen deal completely.
+
+id Software released a version of Wolfenstein 3D for the Super
+Nintendo somewhere around Jan/Feb of 1994.  This was published through
+a company called "Imagineer".  Due to Nintendo restrictions, some of
+the cooler elements had to be removed.  These were, 1) All Nazi
+references, 2) The dogs (with rats), and 3) No Blood (replaced with
+sweat).  This is still a cool game, considering what it's programmed
+for.  Also, id Software is currently developing a version of
+Wolfenstein 3D for the Atari Jaguar.  I have no information as to when
+it will be released, or who is publishing it.  You'd need to ask id
+Software about this.  Apogee has nothing to do with the SNES version,
+and I'd wager that Apogee will have nothing to do with the Jaguar
+version, either when released.
+
+The premiere issue of Game Developer's Magazine stated that Apogee
+Software was working on a game called "Wolfenstein 3D: Part II", which
+was to be a totally new game, with completely new actors, and totally
+new everything; the only thing the same being the title Wolfenstein
+3D.   This information is incorrect; there is no such title under
+production at either Apogee or id Software.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[3]  Games Lists
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Please note that this information is constantly changing, especially when new
+games are added to the list of Apogee products.  Please note that some of the
+information given here could become out of date.  I'll try to keep everything
+current, but no guarantees.
+
+[3.1]  What games are currently available from Apogee?
+
+A list of Apogee games follows. The filename given is the file - on CompuServe,
+BBS's, and the Internet -- which contains the first episode of each game.  Note
+that on the Internet, the filenames do not contain the leading '#' mark.
+
+The price given is the cost of the _complete_ game with all episodes. The "Ep"
+field contains the number of episodes in the complete version. The "Ver." field
+contains the latest version number of the game.  "Gra" is the best graphics
+mode that the game utilizes.
+
+Name                          Genre        Filename       Price   Ep  Ver. Gra
+----                          -----        ------------   ------  --  ---- ---
+Mystic Towers                 3D Puzzle    #1MYSTIC.ZIP   $24.95   6  1.1  VGA
+Hocus Pocus                   Platform     #1HOCUS.ZIP    $24.95   4  1.0  VGA
+Raptor: Call of the Shadows   Shooter      #1RAP11.ZIP    $34.95   3  1.1  VGA
+Blake Stone: Aliens of Gold   3D Action    #1BS21.ZIP     $59.95   6  2.1  VGA
+Duke Nukem II                 Platform     #4DUKE.ZIP     $34.95   4  1.0  VGA
+Halloween Harry               Platform     #1HH12.ZIP     $29.95   4  1.2  VGA
+Wolfenstein 3D                3D Action    #1WOLF14.ZIP   $49.95   6  1.4  VGA
+Bio Menace                    Platform     #1BIO11.ZIP    $29.95   3  1.1  EGA
+Monster Bash                  Platform     #1BASH21.ZIP   $34.95   3  2.1  EGA
+Commander Keen: Vorticons     Platform     #1KEEN.ZIP     $29.95   3  1.31 EGA
+Commander Keen: Galaxy        Platform     #4KEEN.ZIP     $34.95   2  1.4  EGA*
+Cosmo's Cosmic Adventure      Platform     #1COSMO.ZIP    $34.95   3  1.2  EGA
+Duke Nukem I                  Platform     #1DUKE.ZIP     $29.95   3  2.0  EGA
+Major Stryker                 Shooter      #1MAJR14.ZIP   $29.95   3  1.4  EGA
+Crystal Caves                 Platform     #1CRYSTL.ZIP   $29.95   3  1.0  EGA
+Secret Agent                  Platform     #1AGENT.ZIP    $29.95   3  1.0  EGA
+Math Rescue                   Edu-Game     #1MATH.ZIP     $29.95   3  2.0  EGA
+Word Rescue                   Edu-Game     #1RESCUE.ZIP   $29.95   3  2.0  EGA
+Dark Ages                     Platform     #1DARK.ZIP     $29.95   3  1.0  EGA
+Paganitzu                     Puzzle       #1PAGA.ZIP     $29.95   3  1.02 EGA*
+Pharaoh's Tomb                Platform     #1PTOMB.ZIP    $24.95   4  3.0  CGA
+Arctic Adventure              Platform     #1ARCTIC.ZIP   $24.95   4  2.0  CGA
+Monuments of Mars             Platform     #1MARS.ZIP     $24.95   4  1.0  CGA
+The Kroz Series               Puzzle       #1KROZ.ZIP     $24.95   7  1.0  TEXT
+
+Spear of Destiny                           3D Action      $34.95   1  1.4  VGA
+Commander Keen: Aliens Ate My BabySitter   Platform       $34.95   1  1.4  EGA*
+
+Note: Spear of Destiny and Aliens Ate My Babysitter are commercial pieces of
+      software by FormGen Corporation.  id Software wrote both of them, and
+      FormGen distributes them.  Apogee only resells these titles.  There are
+      demos available from FormGen for these games, but they are not Apogee
+      titles, and Apogee does not distribute the demos for these games.
+
+* - There is an optional CGA mode in Paganitzu.  There are CGA versions of
+    Keen 4-6.
+
+[3.2]  What combination deals does Apogee offer?
+
+Combo Name           Games in Combo                             Price     Save
+----------           --------------                             ------    ----
+Blast'em             Raptor & Major Stryker                     $49.95     $15
+Blake/Wolf3D         Blake Stone, Wolf3D, Wolf Hint Book        $89.95     $30
+Duke                 Duke Nukem I & Duke Nukem II               $39.95     $25
+Duke/Cosmo           Duke Nukem I, Duke Nukem II, Cosmo         $59.95     $35
+Combat               Duke II, Halloween Harry, Bio Menace       $59.95     $35
+Action               Secret Agent, Crystal Caves, Dark Ages     $49.95     $40
+Kid                  Word Rescue & Math Rescue                  $39.95     $20
+Keen Vort/Galaxy     Keen Vorticons & Goodbye Galaxy            $49.95     $15
+Keen Galaxy/Aliens   Keen Goodbye Galaxy & Aliens Ate...        $59.95     $10*
+Keen Fun Pack        Keen Vorticons, Galaxy, & Aliens           $69.95     $30
+Action CGA           Keen Galaxy CGA & Monuments of Mars        $39.95     $20
+Adventure CGA        Pharaoh's Tomb & Arctic Adventure          $34.95     $15
+
+* - There is also a CGA version of this combo available.
+
+[3.3]  What upgrade patches are currently available?
+
+These are upgrades available on CompuServe, BBS's, and the Internet only; if
+you need an upgrade that isn't listed, call Apogee.  The "S/R" field
+says whether the patch is for the shareware or registered version of the game.
+If it's for the registered version, the form NReg means that it is the upgrade
+patch for the registered N-episode version.
+
+Filename          Game            S/R   From  To
+--------          ----            ---   ----  ---
+RAPPAT-R.ZIP      Raptor          Reg   1.0   1.1
+RAPPAT-S.ZIP      Raptor          SW    1.0   1.1
+BS21PAT6.ZIP      Blake Stone     Reg   2.0   2.1
+BSPATCH6.ZIP      Blake Stone     Reg   1.0   2.0
+
+[3.4]  What slide shows are currently available?
+
+Filename       Gra   Game
+--------       ---   ----
+#1xp-pix.zip   VGA   XenoPhage
+#1rotpix.zip   VGA   Rise of the Triad
+#1ww-pix.zip   VGA   Wacky Wheels
+#1mt-pix.zip   VGA   Mystic Towers (plus some of ROTT and Ruins)
+#1hp-pix.zip   VGA   Hocus Pocus
+#1rappix.zip   VGA   Raptor
+#1bspix3.zip   VGA   Blake Stone
+#4dn-pix.zip   VGA   Duke Nukem II
+#1hhpix2.zip   VGA   Halloween Harry
+#1bm-pix.zip   EGA   Bio Menace
+#1mb-pix.zip   EGA   Monster Bash
+
+[3.5]  What are Apogee's upcoming releases?
+
+Game                        Genre          Release Date
+----                        -----          ------------
+Wacky Wheels                Auto Racing    September 1994
+Rise of the Triad           3D Action      October 1994
+Blake Stone: Planet Strike  3D Action      Fall 1994
+Stargunner                  Shooter        Fall/Winter 1994
+Boppin                      Puzzle         Fall/Winter 1994
+Realms of Chaos             Platform       Winter 1994
+Tom, Dick, and Harry        Platform       1stQ/1995
+Monster Bash VGA            Platform       1stQ/1995
+XenoPhage                   Fighting       1995
+
+Please note that these games may change their names before release, and that
+these released dates are ESTIMATES.  They are VERY HIGHLY subject to change.
+
+[3.6]  What Apogee games are no longer supported?
+
+Apogee no longer takes orders, technical calls, or any other form of support
+for the following games:  The Thor Trilogy, SuperNova, Beyond the Titanic, Word
+Whiz, and Trivia Whiz.  Apogee retains the copyright on these games, but not
+much else.
+
+There are three games that Apogee does not distribute, sell, or register
+anymore.  These three are Jumpman Lives!, Star Trek Trivia, and Star Trek:TNG
+Trivia.  Apogee retains no copyright on these, and requests that the shareware
+episodes (if they exist) on any Apogee site be removed from distribution.
+
+[3.7]  Which of Apogee's games are good?
+
+What follows is my own personal evaluation of each game, based on several
+different things.  The last evaluation for each game is an overall rating.  It
+is not an average of the other ratings; instead, it correlates to how much I
+like and play the game personally.  I try to make the ratings fairly objective,
+compensating as best I can for any personal bias.  Ratings are given on a scale
+of 1 to 5.  A rating of 2.5 is a mediocre rating.  Anything less constitutes
+substandard quality.  A rating of 3 would probably only impress fans of the
+genre (or games in general).  A rating of 4 means excellent.  A rating of 5
+does not mean perfect (in the computer gaming world, perfection is never
+achieved, for somebody always comes out with a game that's one step better),
+but it does mean you're nuts if you don't love it.
+
+For the "graphics" field, a letter precedes each rating, which indicates
+whether the game's best video mode is (T)ext, (C)GA, (E)GA, (V)GA, or (S)VGA.
+Just because a game uses a higher video mode than another does not mean that it
+will get a higher rating; for instance, I've seen many EGA games with more
+impressive graphics than other VGA games.   The "enemies" field rates how
+unique, challenging, well-animated, and interesting your enemies are.  Some
+games do not have monsters or enemies, and thus, do not have a rating under
+this field.  The "level" field rates the thought that went into the design
+of the levels.  Level design also has an indirect impact on the gameplay.
+The "overall" field is not an average of the previous four ratings, but
+rather a rating of how lastingly enjoyable the game is to play.  "Gameplay"
+has a strong influence on this rating.
+
+If I've left a field blank, it's because I don't feel adequately qualified to
+make a judgment.  The games at the end are ones I played only briefly and could
+not make an "overall" judgment.
+
+One final note:  in Joe Siegler's words, "Ultimately, you, the reader are the
+only person who can make up your own mind about whether a game is good.
+Beauty is in the eye of the beholder, and so is the enjoyment factor of
+computer games.  Only you can decide whether you'll like our games or not."
+
+Name                        Graphics  Sound  Enemies  Level  Gameplay  Overall
+----                        --------  -----  -------  -----  --------  -------
+Spear of Destiny             V 4       4       4       4.5      5        5
+Wolfenstein 3D               V 4       4       4       4        5        5
+Raptor: Call of the Shadows  V 5       5       2.5     3.5      4.5      5
+Duke Nukem I                 E 2.5     2.5     4.5     4.5      4.5      4.5
+Blake Stone: Aliens of Gold  V 4       3.5     4       3.5      4        4
+Duke Nukem II                V 4.5     4.5     5       4        3.5      4
+Halloween Harry              V 4.5     4               4        3        4
+Bio Menace                   E 2.5     3       4       4        3.5      3.5
+Crystal Caves                E 2               3.5     4.5      3.5      3.5
+Cmdr Keen: Goodbye Galaxy    E 3.5     3       3       3.5      3.5      3.5
+Cmdr Keen: Aliens Ate...     E 3.5     3       3       3.5      3.5      3.5
+Monster Bash                 E 2.5     3       4.5     3.5      3.5      3.5
+Cosmo's Cosmic Adventure     E 3       2       3       4        3        3
+Cmdr Keen: Vorticons         E 1.5     1.5     2       2.5      3        3
+Word Rescue                  E 2               3       3.5      3        3
+Math Rescue                  E 2               3       3.5      3        3
+Paganitzu                    E 1       2.5     N/A     3        3        3
+Hocus Pocus                  V 4.5     3.5     2       1.5      2        2.5
+Arctic Adventure             C 1       1       1.5     3.5      3        2.5
+Dark Ages                    E 1.5     1.5     2       2        2.5      2
+Monuments of Mars            C 1       1       1.5     2.5      2.5      2
+Pharaoh's Tomb               C 1       1       1.5     2.5      2.5      2
+Secret Agent                 E 2                                1.5      1.5
+Mystic Towers                V 2.5     2.5
+Kingdom of Kroz              T 1      
+Major Stryker                
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[4]  Obtaining the Games
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[4.1]  The Shareware Episodes
+
+[4.1.1]  Software Creations BBS
+
+Apogee's home BBS is the Software Creation BBS.  There are over a hundred
+lines.  The numbers are:
+
+    (508) 365-2359 2400 baud
+    (508) 368-7036 @ 9600-14.4k v.32bis
+    (508) 365-4035 @ 28.8k v.fc / v.34
+
+[4.1.2]  Anonymous FTP
+
+The official FTP site for Apogee is ftp.uml.edu.  uml has several mirror sites
+which can be used in the event that uml is down or too crowded.  Mirrors are
+generally updated on a daily basis.  A list of sites follows:
+
+  Site Name            Directory                         Notes
+  ---------            ---------                         -----
+  ftp.uml.edu          /msdos/Games/Apogee               the official site
+  ftp.ulowell.edu      /msdos/Games/Apogee               uml mirror
+  ftp.uwp.edu          /pub/games/uml                    uml mirror
+  wuarchive.wustl.edu  /systems/msdos/msdos-games        uml mirror
+  src.doc.ic.ac.uk     /computing/systems/ibmpc/         uml mirror
+                                      msdos-games/Games
+  ftp.uni-paderborn.de /pcsoft/msdos/games               uml mirror
+  ftp.sun.ac.za        /pub/msdos/uml                    uml mirror
+  nctuccca.edu.tw      /Ulowell/msdos                    uml mirror
+  ftp.cdrom.com        /.3/games/Games/Apogee
+  ftp.cdrom.com        /.3/games/historic/msdos/*        older games
+  ftp.cc.umanitoba.ca  /wolf3d                           Wolf3d stuff
+  ftp.uwp.edu          /pub/games/id                     Keen/Wolf3d stuff
+  wuarchive.wustl.edu  /pub/MSDOS_UPLOADS/games/Apogee   user-supported
+
+[4.1.3]  CompuSERVE
+
+Type "GO APOGEE" at a ! prompt.
+
+[4.1.4]  America On-Line
+
+Use the keyword "APOGEE" to go to Apogee's forum.
+
+[4.1.5]  Fidonet
+
+If you are a Fidonet SysOp, you can get Apogee's games on the Fido Filebone.
+Talk to your local filebone hub about the four Apogee areas.  See FILEBONE.NA
+for more information.
+
+[4.2]  The Registered Episodes
+
+The registered versions of the software are the complete versions, and, as
+they are not shareware, cannot legally exist on public BBS's or FTP sites.  The
+registered versions of the software must be purchased directly from Apogee or
+from one of Apogee's dealers.
+
+In many of Apogee's newer games, a DEALERS.EXE executable is archived with the
+game.  This is an executable readme containing a list of the foreign dealers
+that sell Apogee's software.
+
+[4.2.1]  Ordering information
+
+To order directly from Apogee, call 1-800-APOGEE1.  The line is open 24 hours
+a day.  They'll need to know what disk size you desire, the best graphics mode
+you are able to run (CGA, EGA, VGA, SVGA), and whether you have an XT, 286,
+386, 486, or Pentium.  Note that some games have minimum CPU and graphics
+requirements.  Also note that Apogee's VGA games come only on high density
+disks.
+
+Use the ORDER.FRM file, which comes with virtually all of Apogee's games, if
+you want to send in an order by mail.  Send it to:
+
+    Apogee Software, Ltd.
+    P.O. Box 496389,
+    Garland TX 75049-6389
+
+Or, you can fax a copy of your order to (214) 278-4670.  Please include a
+return fax number if you make use of this facility.
+
+[4.2.2]  Software Creations BBS
+
+By October 1994, you will be able to download the full registered versions
+of any Apogee game by using a credit card for payment.  (Apogee will mail
+you the game manual and catalog, which you will receive a few days later.)
+See section 3.1.1 for information on calling Software Creations.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[5]  Troubleshooting
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[5.1]  Things to try first
+
+If you have a program with an Apogee game not starting correctly, there are a
+few things you should try first.  The most common startup error is that there
+is not enough memory to load the game.  There are a few methods of freeing up
+RAM.  First, try removing any TSRs that you do not need, such as unneeded
+drivers, virus scanners (only if necessary!), etc.  If you don't plan on using
+the mouse for the game, you can unload the mouse from memory.  Then try to
+start the game again.   You can also try booting "clean".  With MS-DOS 6.0 or
+greater, you can do this by holding down either the shift key or F5 while the
+system is booting.  This causes your autoexec.bat and config.sys files to be
+bypassed.
+
+If the problem is EMS/XMS memory, then perhaps your memory manager (EMM386,
+QEMM386, etc) is either set incorrectly or is incompatible with the game.  Try
+removing the memory manager altogether, first, since this seems to fix most
+problems Apogee games have with EMS/XMS memory.
+
+Barring all, read the directions; that's what I always say.  Apogee usually
+includes an executable help" readme file with all their later games.  (The
+filename is in the form XXXXHELP.EXE.)  Run this; detailed troubleshooting
+instructions are usually included in this file.  There are plans underway
+to make a file available on-line which will contain all the current versions
+of the tech support files in them.
+
+Also, you may want to check the cheats section of this FAQ, as, for some
+games, it lists several technical support parameters you can pass to the
+game.  Sometimes this fixes problems with certain pieces of hardware.
+
+If you've tried everything and still can't get an Apogee game to work
+correctly, Apogee's technical support line is (214) 278-5655.  It is open
+from 8am-6pm.
+
+[5.2]  Recommended system configuration
+
+If your game still isn't up and running, even after reading all the docs
+that came with the game, and you are reasonable sure it is your system's
+configuration at fault, you might want to try comparing your autoexec.bat and
+config.sys files with those given below.  If you have MS-DOS 6.0 or greater,
+Apogee recommends creating a multi-boot option for Apogee.  If you do this,
+the following commands should go there.  This is _without_ any drive
+compression programs installed; you'll need to add the necessary commands if
+you have a drive compression program.  (See the next section for more details
+about this.)
+
+Note that some of these commands probably require at least MS-DOS 5.0 or
+greater.
+
+----------
+config.sys
+----------
+DEVICE=C:\DOS\HIMEM.SYS
+DEVICE=C:\DOS\EMM386.EXE RAM
+DOS=HIGH,UMB
+FILES=30
+BUFFERS=30
+STACKS=9,256
+FCBS=16,0
+SHELL=C:\DOS\COMMAND.COM C:\DOS\ /e:750 /p
+
+------------
+autoexec.bat
+------------
+@ECHO OFF
+SET BLASTER=A220 I7 D1 T1 (make sure to alter for your computer)
+PATH C:\;C;\DOS
+MOUSE   (if you play with a mouse; otherwise it's not necessary)
+
+NOTE #1: Apogee does not recommend using disk caching programs such as
+         SMARTDRV.  Apogee's games have their own caching routines, and
+         other disk caching programs may even cause the game to slow down.
+NOTE #2: You will need to insert the proper "SET BLASTER" line on your
+         computer, or the appropriate sound card drivers you need.
+
+[5.3]  Setting the BLASTER environment variable
+
+If you are having problems with your soundblaster, it could be because the
+BLASTER environment variable is not set correctly.  Check to make sure that
+you have the appropriate SET BLASTER command in your autoexec.bat file.
+A sample SET BLASTER command follows:
+
+SET BLASTER=A220 I5 D1 T3
+ |    |      |    | |  |
+ |    |      |    | |  |______ Type of Card
+ |    |      |    | |_________ DMA Channel
+ |    |      |    |___________ Interrupt
+ |    |      |________________ Port Address
+ |    |_______________________ Environment Variable
+ |____________________________ DOS Command
+
+NOTE: There can be no spaces between the word BLASTER and the equal
+sign (=).  If you have a space in there, your system will read it
+incorrectly, and it will not be recognized by Apogee games.
+
+Consult your card manual for information on how to tell at what
+settings your card is set.  The information *is* important, so it's
+recommended that you know precisely what the settings are.  If you
+are using a card that emulates the Soundblaster, you should check your
+card's manual on how to set the card for Soundblaster emulation.
+
+Port address is almost always 220.  Unless you've changed it, it's a
+safe bet that your card is set at 220.
+
+The interrupt varies from system to system.  Apogee's games prior to
+Raptor do not support IRQs higher than 7.  Starting with Raptor,
+Apogee's sound code supports the higher IRQs.  IRQ 2 is not recommended,
+as it may cause problems.
+
+The DMA channel is almost always 1 by default.  DMA conflicts are the
+cause of several problems.  If you get lockups with an Apogee game
+that has digitized sounds, try turning off the digitized sounds and
+running it again.  If it works, then you have a DMA conflict.  Adjust
+the DMA on your sound card, then reflect said change the BLASTER
+environment variable.
+
+The type of card is either 1 or 3 if you do not have a genuine Soundblaster.
+Try 1 first; if it doesn't work, try 3.  If you have a genuine Soundblaster,
+use 1 or 3 for a plain Soundblaster, 2 or 4 for a Soundblaster Pro, or
+6 or a Soundblaster 16.  If it's an older card, choose the lower number
+(1 or 2).
+
+[5.4]  Drive compression programs
+
+As mentioned before, Apogee has run tests on its full product line with MS-DOS
+6.22's DriveSpace compression program.  All games save Monster Bash, which
+suffered a slowdown, worked fine.  If you are having problems with DriveSpace,
+try using the system configuration recommended above, with the addition line:
+
+DEVICEHIGH=C:\DOS\DRVSPACE.SYS /MOVE
+
+....appended to the end of the config.sys file.  Also, Apogee's games have
+been tested on Stacker v3.1 and v4.0 and work fine on both.  Naturally,
+you will need appropriate Stacker commands in the config.sys and/or
+autoexec.bat files.
+
+[5.5]  By game
+
+This section contains some common problems, and their solutions, for specific
+Apogee games.  In addition to perusing this section, you might want to look
+at the cheats section; technical support parameters are listed there also,
+which may help to fix your problem.
+
+[Raptor]
+
+ Problem:  I'm using a joystick, and I can't move down.
+ Solution: You're most likely running Raptor v1.0.  Upgrade to the latest
+           version.
+ Problem:  Raptor locks on me sometimes.
+ Solution: Are you using an 8-bit SoundBlaster?  Apogee is currently working on
+           Raptor v1.2, which fixes this problem.  It will be released shortly;
+           sit tight until the patch comes out.  In the meantime, use Adlib; it
+           won't sound as good, but it will work.
+ Problem:  I can't save or load games.
+ Solution: Increase the value "files" is set to in your config.sys.  Note that
+           if you booted clean, this would have been bypassed.
+ Problem:  My mouse won't go over the entire screen, only in a corner.
+ Solution: This is usually due to an old version of your mouse driver.  Check
+           with the mouse manufacturer to see if a more recent version is
+           available.
+
+[Duke Nukem II]
+
+ Problem:  Certain levels lock on me.
+ Solution: There's no good solution for this yet.  It's a sprite problem,
+           and Apogee isn't really sure how to fix.  You could try rebooting,
+           and trying the level again.  If the problem persists, then playing
+           on a lower difficulty level might help.
+
+[Monster Bash]
+
+ Problem:  Rock monsters freeze in place.
+ Solution: You're running an old version of Monster Bash.  Get the most recent
+           version, which is v2.1.
+ Problem:  I can't get by the dragon in Episode 1 Level 4 no matter what I do.
+ Solution: The correct way by is to crawl until you're past him.  If this does
+           not work, and he still wakes up, you have an old version.  Get the
+           current version, which is v2.1.
+ Problem:  In episode 3, I can take the broom and, in one place, fly off the
+           top of the screen.  Then the game crashes.
+ Solution: Don't go up there; there's nothing of value there.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[6]  Cheats
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[6.1]  Overview
+
+Apogee has almost always made a point of putting cheats in their games, both
+documented and undocumented.  In their later games, however, these cheats are
+only available in the registered versions of the games.  From 1987 to
+around May 1993, Apogee games came with a hint sheet, which often contained
+cheats in them.  From May 1993 to December 1993, Apogee games were shipped
+with a XXXXHINT.EXE file, which had the same text as the old hint sheets.
+Beginning in 1994, the XXXXHINT.EXE files are done away with too; the
+information is now contained in the actual game manuals.
+
+The cheats listed in section [6.3] are subdivided by category.  The customer
+cheats are the cheats listed in the hint sheet, hint file, or game manual
+that comes with the game.  Some of the games also have a debugging mode, which
+is not generally documented.  Their original purpose is to aid in the beta
+testing of the game.  Lots of times, however, the debugging mode is left
+intact, available for the regular game-player to use.  Finally, there are
+technical support parameters, which are not really cheats, but are used to
+correct some technical problems.
+
+[6.2]  What's that about cows and monkeys in Raptor?
+
+Raptor was written by Cygnus, and it seems to be a birthday present to
+themselves.  Whenever Raptor is started when your system's clock matches the
+birthday of one of the people at Cygnus (there are six or seven or so), then
+Raptor behaves a little strangely.  First, the Apogee logo is displayed, but
+not with Apogee's trademark music.  Instead, you hear the Cygnus folks,
+sounding a little tipsy, humming the Apogee theme music themselves.  In
+addition, some of the Raptor levels contain enemies that don't normally appear
+such as monkeys who throw coconuts at you, raptor dinosaurs scurrying across
+he screen, and cows with machine guns concealed beneath their hides.  Most of
+these peculiar enemies appear on the first mission of the game, and they are
+invariably difficult to kill.
+
+Finally, when you exit the game, you get to hear the member of Cygnus whose
+birthday it is, give an impersonation of a monkey.  This might consist of
+hooting or screeching sounds, or simply an eloquent rendering of the word
+"monkey."
+
+Now the reason this section is in with the cheats is because there is a way,
+beyond setting the system time to a particular birthday, of getting the
+monkeys and raptors and cows to fight you.  When the screen comes up where you
+must choose a sector to fly, flip the switch at the bottom center of the screen
+by clicking on it with the mouse.  It should darken.  This activates the three
+lights to the right of this switch.  In version 1.0 of Raptor, you should turn
+on the first and third lights; in version 1.1 of Raptor, you should turn all
+three lights on.  Then you can select a sector or "auto-pilot" and fly the
+level.  You'll know the cheat worked if you hear a static-like sound.  All
+levels have some new enemy that appears by using this cheat, though sometimes
+they are small and inconspicuous.  Besides monkeys, cows, and raptors, there
+are:  the ship from 2001: A Space Odyssey, the ship from Space 1999, a woman
+sunbathing on a roof, and other miscellaneous things.
+
+[6.3]  Complete Cheat List
+
+This section contains a variety of cheats from various Apogee games.
+Actually, in the words of Joe Siegler, it's "the first comprehensive cheat
+[list] ever published for all Apogee titles."
+
+Note that while the customer cheat keys are officially supported by Apogee,
+the debug keys are not.  If you use the debug keys, Apogee cannot provide
+any support, since this alters game performance to a state where their
+standard support comments and issues might not apply.  In short, neither
+Apogee or I can be held responsible for damage caused by usage of the debug
+keys.  (Though, as a word of reassurance, I have never heard of such a thing
+happening.)
+
+
+[Raptor: Call of the Shadows]
+
++ Customer Cheat -  The backspace key will restore all your energy and give you
+                    a death ray, at the cost of all your money.  This will only
+                    work in the registered version.
+
++ Debug mode -  Set the environment variable "S_HOST" to the value "CASTLE" at
+  the DOS prompt by typing "SET S_HOST=CASTLE". (It must be in caps)  Then,
+  when you play Raptor, you become completely invincible, and have all the
+  weapons at your disposal.
+
++ Warp - There is a level warp built into the game, so you can see any level
+  you want at any time.  What you need to do is to get to the screen where
+  you see the level selection (Bravo Sector, etc...).  The warp combination is
+  a 2 key entry.  The keys are not to be pressed at the same time.
+
+  Key 1 - Z, X, or Y (Z is Episode 1, X is Episode 2, and Y is Episode 3)
+  Key 2 - Any key between Q and O on the keyboard.  Q is Level 1, and O is
+          Level 9.
+
+  This works in both the shareware and registered versions.  However, if you
+  try and warp to a registered episode from the shareware version, it will
+  crash the game.
+
++ Other notes -  With a hex editor, change bytes 27h and 28h of a Raptor saved
+  game file (char????.fil) to the value FF.  When you load this saved game,
+  you'll have a few million dollars to spend on equipment.  If you don't have a
+  hex editor, there are some programs available that do this for you.  RapCheat
+  is one; RapCash is another.  Both should be available at ftp.uwp.edu under
+  the directory /pub/msdos/games/romulus/cheats.  Some people have reported
+  problems using RapCash; I don't know if these problems have been fixed since
+  or not.
+
++ Birthday Mode - As mentioned above, the "Birthday Mode" will automatically
+  put you into "Battle Cow" mode, and it will also play the goofy Apogee theme
+  song.  To get it, change the system's date to the birthday of one of the
+  Cygnus programmers.  The only known date at this time is May 16th.  Any year
+  should be OK, as long as it's not in the past.  You can also get "Battle
+  Cow" mode by darkening the switch on the "choose sector" screen, and turning
+  on all three lights on the right (for v1.0, don't turn on the middle light).
+  You don't get the goofy Apogee theme song if you do it this way, however.
+
+
+[Blake Stone: Aliens of Gold and Planet Strike]
+
++ Customer Cheat - [J] [A] [M] [Enter] - These keys are to be pressed one at a
+                   time.  When all are pressed, the message "Now you're
+                   Jammin'" appears, and you will be given all keys, and you
+                   will get 100% health.  Your score will also be taken to 0.
+                   This will only work on the registered version of the game.
+
++ Debug Mode - Command Line Parameters
+
+  POWERBALL - Enables debug keys. Requires the [LSHIFT] & [RSHIFT] to be
+              held down during the JAM Logo intro.  You must keep holding
+              these keys until the PC-13 Screen is loaded.  You will hear
+              a "ching" sound during the intro when Debug Mode has been
+              successfully enabled.  The "ching" sound will only happen if you
+              have a sound card. If you have a PC Speaker, you won't hear this.
+       TICS - Display TIC INFO in score area.
+      MUSIC - Enable music test mode: [backspace] [arrows] changes music.
+      RADAR - Displays a rotating overhead view during gameplay.  Please note
+              that this *REALLY* slows the game down, to the point of being
+              unplayable.
+
+              These cheat keys can be use during gameplay only if you invoked
+              the program with the "powerball" parameter:
+
+     [backspace] W - Warp to level (SHIFT-W loads the DEFAULT MAP)
+     [backspace] D - Player invisible (dumb objects)
+     [backspace] G - God mode
+     [backspace] I - Item cheat
+     [backspace] M - Memory info
+     [backspace] P - Pause screen
+     [backspace] Q - Fast quit
+     [backspace] A - Add Actors to AutoMapper.
+     [backspace] U - Unlock all floors
+     [backspace] O - Show hidden walls on auto mapper
+     [backspace] E - Quick Win Mission
+     [backspace] B - Border color
+     [backspace] C - Count objects
+     [backspace] F - Facing spot
+     [backspace] H - Hurt self (only if not in God mode)
+     [backspace] S - Slow motion
+     [backspace] V - Extra VBLS
+  [backspace] HOME - Dec sky color (if ceiling textures are OFF)
+  [backspace] PGUP - Inc sky color (if ceiling textures are OFF)
+   [backspace] END - Dec ground color (if ground textures are OFF)
+  [backspace] PGDN - Inc ground color (if ground textures are OFF)
+     [backspace] + - Add shading depth (if textures are OFF)
+     [backspace] - - Dec shading depth (if textures are OFF)
+     [backspace] ] - Inc shading drop off (if textures are OFF)
+     [backspace] [ - Dec shading drop off (if textures are OFF)
+     [shift] [tab] - Show Full automap containing all live actors.
+
+     These cheat keys can be used during gameplay:
+
+           [6] [7] - Collect all bonus items (gold, ammo, health, etc.)
+           [7] [8] - Kill all actors.
+           [6] [8] - Collect all bonus items and kill all actors.
+
++ Tech Support Command Line Parameters - These aren't really debug codes, or
+       cheats, either.  They're in here for Apogee's Tech Support to use in
+       assisting customers who might be having problems running the game.
+
+    VERSION - Display version information.
+     SYSTEM - Display system information.
+ HIDDENCARD - Disable checking for video card.
+     NOJOYS - Disable checking for joysticks.
+    NOMOUSE - Disable checking for mouse.
+     NOMAIN - Disable checking for main memory.
+      NOEMS - Disable checking for EMS memory.
+      NOXMS - Disable checking for XMS memory.
+       NOAL - Disable checking for AdLib.
+       NOSB - Disable checking for Sound Blaster.
+      NOPRO - Disable checking for Sound Blaster Pro.
+       NOSS - Disable checking for Sound Source.
+        SST - Disable checking for Tandy Sound Source.
+        SS1 - Disable checking for Sound Source on LPT1.
+        SS2 - Disable checking for Sound Source on LPT2.
+        SS3 - Disable checking for Sound Source on LPT3.
+      NO386 - Disable checking for 386.
+   ENABLEGP - Enables NoteBook GamePort checking (This will do bad things if
+                                                  you try it on an Acer)
+
+
+[Duke Nukem II]
+
++ Customer Cheats - For the registered version only, the following two codes
+  can be typed in during gameplay.  Please note that all three letters have to
+  be pressed at the same time.
+
+  [E] [A] [T] - health is restored to maximum, but score is reset to zero
+  [N] [U] [K] - get a random weapon, plus all inventory required to finish
+                the current level
+
+
+[Wolfenstein 3D / Spear of Destiny]
+
++ Customer Cheat - Pressing [I] [L] [M] all at the same time, will give you
+                   both keys, and will give you 100% health.  It will also
+                   take your score to zero.  This cheat will work in both the
+                   shareware and the registered version.
+
++ Debug mode
+
+  The debug mode is activated with a different command line parameter
+  depending on what version of the game you have.
+
+  v1.0  -> -next
+           Once in the game, press Ctrl-Alt-Enter to activate.
+
+  v1.1+ -> -goobers
+           Once in the game, press LShift-Alt-Backspace to activate.
+
+  Spear -> -debugmode
+           Once in the game, press LShift-Alt-Backspace to activate.
+
+  Once activated, these are the keys you can use.
+
+  [tab] q - Quit
+  [tab] w - Warp to level xx
+  [tab] e - Exit to next level
+  [tab] t - Debug info in memory
+  [tab] i - Free items
+  [tab] o - Map of level
+  [tab] s - Slow motion
+  [tab] f - Position info
+  [tab] g - God mode (no damage)
+  [tab] h - Hurt yourself
+  [tab] x - Extra stuff (???)
+  [tab] c - Statistics
+  [tab] v - Increase/decrease game speed
+  [tab] b - Change border color
+  [tab] n - No clipping (walk through walls)
+            This does not work in the registered version of Wolf3D.  This mode
+            causes really bad things to happen to the game, and it can even
+            corrupt your copy of the game, which is why it was taken out.
+  [tab] m - Memory map
+
++ Tech Support Command Line Parameters are the same as in Blake Stone, except
+  VERSION, SYSTEM, and ENABLEGP do nothing in Wolf3D.
+
++ Note 1: If you press [B] [A] [T] all at once, you'll get a message wondering
+          why you're trying to cheat, since this is the old Keen Galaxy cheat
+          code.
+
++ Note 2: For Spear only, if you do nothing in the game for 30 seconds, BJ will
+          either cross his eyes or stick his tongue out at you.  It happens
+          really quickly, so you have to watch carefully.
+
+
+[Halloween Harry]
+
++ Customer Cheat - Pressing [B] [I] [G] all at the same time will give you full
+                   health and jetpack power.
+
++ Tech Parameter - Pressing these four keys at the same time will show you the
+                   coordinates you are at on the level.  This serves no real
+                   function on it's own, but it is used by Apogee's Game Hint
+                   Line sometimes to locate a player in a level.  The keys are
+                   [Ctrl] [Alt] [RShift] [F12]
+
+
+[Bio Menace]
+
++ Customer Cheat -  [C] [A] [T] - During gameplay, you can press these three
+                    letters at the same time, and you will receive the machine
+                    gun, 99 ammo, & 99 grenades.  This works only in the
+                    registered version.
+
++ Tech Support Command Line Parameters -
+
+        COMP       -
+        NOJOYS     - Disable joystick detection
+        NOMOUSE    - Disable mouse detection
+        HIDDENCARD -
+
++ Other Notes - The following secret weapons are available in both the
+                shareware and registered versions:
+
+        Super Plasma Bolt - hold the up arrow until you hear a charge sound,
+                            then hit fire; this causes one hit point of damage
+          Fireball Attack - turn left and right 6 or 7 times in succession,
+                            then hit fire
+          Electron Shield - turn left and right 6 or 7 times in succession,
+                            then hit the jump key
+      Invincibility Burst - hold the up arrow until you hear a charge sound,
+                            then hit the down arrow
+
+
+[Monster Bash]
+
++ Customer Cheat - In the registered version only, you can press the [Z] and
+                   [F10] keys down simultaneously to receive five lives.  Hold
+                   down [Z] first; since the [F10] key, by itself, has meaning
+                   in the game, the cheat won't work if you push both down at
+                   the same time and the [F10] is the first to register.
+
+
+[Commander Keen: Invasion of the Vorticons]
+
++ Customer Cheats - Either of these cheats will work with either the shareware
+                    or registered versions of the game.  The key combinations
+                    need to be pressed at the same time.
+
+  [C] [T] [SpaceBar] - Gives Pogostick, all Keycards, and full Ammo
+  [Shift] [Tab]      - Passes through unplayed level on world map
+
++ Debug mode - Pressing all three of these at the same time will put you in
+               God mode, and will give you a "jump cheat", which means when
+               you press "jump", you fly.  [G] [O] [D]
+
+
+[Commander Keen: Goodbye Galaxy and Aliens Ate My Baby Sitter]
+
++ Customer Cheat - Pressing the [B] [A] [T] keys all at once will give you 99
+                   shots, an extra life, and all the gems.  This does not work
+                   on early versions of Aliens Ate My Babysitter.
+
++ Debug Mode - Pressing [A] [2] [Enter] all at once will activate debug mode.
+               Once activated, these keys will perform the following functions:
+
+               [F10] [G] God Mode
+               [F10] [I] Free Items
+               [F10] [J] Jump Cheat (Note that you will not be able to jump
+                                     down while the jump cheat is activated)
+               [F10] [N] No Clipping (Be careful.  If you fall off the bottom
+                                      of the level, you'll die, even if you
+                                      are in God Mode.)
+               [F10] [Y] View Hidden Areas in the level.
+               [F10] [B] Set border color (1-15)
+               [F10] [C] Show number of active/inactive objects in the level
+               [F10] [D] Record a demo
+               [F10] [E] End the current level
+               [F10] [M] Display memory usage
+               [F10] [S] Slow motion
+               [F10] [T] Sprite test
+               [F10] [V] Add 0-8 VBLs
+               [F10] [W] Warp to any level
+               [F10] [Y] Reveal hidden areas
+
+
+[Cosmo's Cosmic Adventure]
+
++ Customer Cheat - [C] [0] [F10]  Pressing all three keys down simultaneously
+                                  to receive full health and a full supply of
+                                  bombs.
+
++ Debug mode - [Tab] [F12] [Del] - Pressing all three activates Debug Mode.
+                                   Once activated, pressing these combinations
+                                   of keys (at the same time) will do...
+               [F10] [G] - God mode
+               [F10] [W] - Warp
+
+
+[Duke Nukem I]
+
++ Customer Cheat - Pressing [Bksp] & [PgDn] at the same time will give you all
+                   keys, and full gun power.  This can be used in either the
+                   shareware or registered version of the game.
+
++ Debug mode - To activate, you must enter "asp" on the command line, and it
+               must be in lower case.  Once activated, and inside the game, you
+               press these key combinations.  All must be pressed
+               simultaneously.
+
+               [G] [O] [D] - Full health & all items
+               [G] [O] [W] - Level Warp.  This isn't a real warp, it will
+                             just take you to the next level.  You need to
+                             keep on using it to progress through the levels.
+
+
+[Major Stryker]
+
++ Customer Cheat - The cheats here are a bit more complicated than in other
+                   games.  There is a two step procedure to active the cheat
+                   mode.  (This cheat mode only works in the registered
+                   version.  It does nothing in the shareware version.)
+
+                   Step 1 - Type [C] [H] [E] [A] [T] at the Main Title Screen.
+                            All keys need to be pressed one at a time.  When
+                            you get it, you'll see the message that says "Cheat
+                            Active (it really isn't yet).
+                   Step 2 - During the game, hold down the [BackSpace] key, and
+                            then press the [H] & [S] keys at the same time.
+                            When you are successful, you'll see a message that
+                            says "Cheat Mode On" (it is now).
+
+                  Once activated, you can press these keys to activate various
+                  options.  Please note that you must HOLD DOWN the [Tab] key
+                  first before pressing the others, or it won't work.
+
+                  [Tab] [O] - Fire Options
+                  [Tab] [R] - Rapid Fire
+                  [Tab] [S] - Shield Options
+
+
+[Crystal Caves]
+
++ Customer Cheat - All keys need to be pressed at the same time.
+                   [X] [T] [R] [A] - Gives you max ammo
+                   [N] [E] [X] [T] - Lets you warp to any level
+
++ Debug mode - Pressing [Z] [E] [U] [S] all at the same time will put you into
+               God mode, and will let you activate the other debug mode key,
+               which is [G].  Pressing that will reverse the gravity in the
+               game.
+
+
+[Secret Agent]
+
++ Customer Cheats - Pressing these key combinations at the same time will
+                    activate the functions listed.  This will work with either
+                    the shareware or registered versions of the game.
+
+                    [U] [V] [K] - Gives you 25 Ammo
+                    [Z] [G] [I] - Gives you the disk and a dynamite
+
++ Debug Mode - Pressing these key combinations at the same time will activate
+               the functions listed.  This will work with either the shareware
+               or registered versions of the game.
+
+               [P] [J] [X] - God Mode
+               [B] [O] [N] [D] - Warp
+
+
+[Math Rescue]
+
++ Customer Cheats - These cheats will work in either the shareware or the
+                    registered versions of the game.  Key combinations have to
+                    be pressed at the same time.
+
+                    [E] [L] [M] - Gives you lids and slime
+                    [P] [A] [M] - Level Warp.  When you hit this combination,
+                                  the game will freeze.  Press a number here,
+                                  and you will be taken to that level.  You
+                                  will not be able to see the number when you
+                                  are typing it.
+
++ Tech Parameter - Pressing the [+] or [-] keys will speed up or slow down the
+                   game appropriately.
+
+
+[Word Rescue]
+
++ Customer Cheats - These will work with either the shareware or registered
+                    versions of the game.
+
+                    [L] [Z]  - Warp.  When you type this, the screen will
+                               freeze.  Enter the level number you want to go
+                               to.  You will not be able to see the number when
+                               you are typing it.
+                    [P] [S]  - Gives you slime.
+                    [Escape] - Will skip the finish of the key sequence.
+
+
+[Dark Ages]
+
++ Customer Cheats - Any of these cheats will work with either the shareware
+                    or registered version of the game.
+
+                    [F10] - Activate Cheat Mode
+                    [Bksp] - Extra health with 5 coins
+                    [+] - Automatic Firing
+
+
+[Paganitzu]
+
++ Customer Cheats - To active the cheat mode, you need to be at the game menu
+                    screen.  When you are there, press these three keys at the
+                    same time [Ctrl] [A] [L], and you will be taken to another
+                    screen where you can enter a number.  The numbers you can
+                    enter and their functions are listed below, and they will
+                    work with either the shareware or registered versions of
+                    the game.
+
+                    325 - Gives you 99 lives
+                    589 - Goes right to the ending game sequence
+                    822 - Double Point Value
+                    7xx - Level Warp where xx is the level to warp to
+                    642 - God Mode on
+                    643 - God Mode off
+
+
+[Pharaoh's Tomb]
+
++ Customer Cheat - When the scroll lock is on, the grey plus key will advance
+                   you through the levels.  This will work on both the
+                   shareware and registered versions of the game.
+
+
+[Arctic Adventure]
+
++ Customer Cheat - Pressing all three of these keys at the same time will give
+                   you all the keys, the boat, infinite ammo, and infinite pick
+                   axes.  This will work with either the shareware or
+                   registered version of the game.
+
+
+[Monuments of Mars]
+
++ Customer Cheat - To activate the cheat mode, you need to press [CapsLock],
+                   and then press the combination of [Shift] & [.].  Once
+                   you've done that, you can press [PgDn] to advance a level.
+                   This will work in either the shareware or registered
+                   versions of the game.
+
+
+[The Kroz Series]
+
++ Customer Cheat - To activate the cheat mode, you need to press either [!] or
+                   [x].  This depends on which version you're playing, so you
+                   will need to try both to see which works on what you have.
+                   Once activated, you can use these keystrokes for cheats:
+
+                   [Shift] [9] then right arrow - Go to the next level
+                   [Shift] [0] will give you free items
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[7]  Contacting Apogee
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[7.1]  Through internet
+
+You can contact an Apogee representative from the internet by e-mailing
+joe.s...@swcbbs.com.
+
+[7.2]  By phone
+
+Apogee's technical support line is (214) 278-5655.  It is open from 8am-6pm
+Central Time on Mondays through Friday.  It is also closed for major national
+holidays, and on the weekends.
+
+[7.3]  By fax
+
+Apogee's fax number is (214) 278-4670.  Include a return fax number.
+
+[7.4]  By snail mail
+
+Send mail to:
+
+    Apogee Software, Ltd.
+    POB 496389
+    Garland, TX 75049-6389
+    United States of America
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[8]  Credits
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+In no particular order, thanks to:
+
+- To Scott Symes <sy...@lfs.loral.com> for forwarding information about
+  the relationship between Apogee and id.
+- To QUAKE <dece...@ouray.denver.colorado.edu> for writing said information.
+- To Mike Vasconcellos <mi...@netcom.com> for Apogee game lists.
+- To Audry A. DeLisle <r...@crl.com> for information regarding MS-DOS 6.22's
+  DriveSpace program, Apogee's recommended system configuration for it,
+  Apogee games lists, and combination deal offers.
+- To Bill Amon <wa...@mbunix.mitre.org> for Keen cheats.
+- To Rylan Hilman <hil...@ichips.intel.com> for more Keen cheats.
+- To Stanley Stasiak <sta...@tartarus.uwa.edu.au> for the Wolf3d FAQ.
+- To Diane Winters <di...@netcom.com> for several cheats.
+- To Joe Siegler <joe.s...@swcbbs.com> for a whole lotta stuff.
+
+Apologies if I missed anyone.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[9]  Dopefish and Friends
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+"YYAAAAAAAAAAAA...HA...HA...HA...HOOOOEEYY!!!" -- Goofy
+"Yabba dabba doo!!"                            -- Fred Flintstone
+"Habba, habba, ha-hhhhhaaaaa...."              -- Jackie Gleason
+"Ahweehrwyyhwhryrhwwehrwehrwrhwherr...."       -- Dick Van Dyke, "Mary Poppins"
+"Yerhudurdhrrdrhudrtdhtudhrtduhtddhrtur...."   -- Sebastian, "Little Mermaid"
+"Belch."                                       -- Dopefish, "Siegler's Sig"
+
+                        --------------------------------
+                       |       _|\_                     |
+                       |   \  /    \   Pisces Swimeatus |
+                       |   |>< |>  OO    The Dopefish   |
+                       |   /  \___/UU                   |
+                        --------------------------------
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+--
+---------------------------------------------------------------
+  "My son is a sophomore in computer science here," -- my dad
+               "I know him well." -- Paul Sand.
+---------------------------------------------------------------
+|  The Rink, High King of the Bits, and Grand Hacker Exalted  |
+|   Even Above FPS Who Tries Hard, But Never Quite Makes It   |
+---------------------------------------------------------------
+                      s...@kepler.unh.edu

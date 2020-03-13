@@ -1,0 +1,31 @@
+Drawn and Quartered by Ringman (wolf3d mod)
+original DOS release: 1 April 2006
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+Floor, ceiling, border, signon screen and menu colors changed
+Death fizzle fade to grey
+Don't rotate enemies
+
+Further improvements in SDL version:
+
+Demos disabled
+Menu fade changed to dark grey
+Final ratios adjusted for 3 levels
+Third level added to final ratios
+Warping limited to 3 levels
+
+
+
+
+
+
+
+
+
+

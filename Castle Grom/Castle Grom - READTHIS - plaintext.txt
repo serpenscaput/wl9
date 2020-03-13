@@ -1,0 +1,92 @@
+[Castle Grom - A Wolfenstein3D Adventure By: Raziel A. AKA: Karharis AKA: Human_Waste 
+AKA: Karharis].
+
+
+[STORY]
+
+This story starts out long before we come to meet B.J. But you already know how that 
+chapter ended. We meet B.J. in a taxi just outside the Russian border. There are 
+reports that the Nazis have captured several old and very horribly defended Russian 
+army bases. B.J. has been given a false passport under the name Bill Hammond. "Sir 
+what is the nature of your stay in Russia. Are you here on business or is it for 
+pleasure." asked the Russian in a thick accent. B.J. has been told that he's supposed 
+to say that he's going on vacation and that he will stay just a week. His passport 
+was cleared and the taxi pressed on to New Moscow. It was about 40 miles northwest 
+of Stalingrad and was not going to be attacked by the Nazis. Hitler deemed it to 
+be of no danger. With Hitler dead nobody knows who is leading the Nazis now as they 
+are still fighting. They arrived some hours later in New Moscow at the U.S. Embassy. 
+It was the middle of the night and there was a hotel that with a room that was paid 
+for just down the street. B.J. gave the $1,200 in American money to the driver and 
+said that should cover his return trip home. The taxi driver thanked B.J. for the 
+huge tip and drove off. The next day there was a meeting and as B.J. would say blah, 
+blah, blah, lets skip this meeting. So as B.J. would do if he were telling the story 
+there's a meeting and he got his mission briefing. Here's the quick rundown of the 
+mission. There are several old Russian bases were captured by the nazis just hours 
+before Hitler was killed by B.J. The bases are codenamed House of Hay, House of Wood 
+and House of Bricks. B.J. was sent to an army airfield about 10 miles outside of 
+New Moscow to load the plane that he would drop out of. When he got there though 
+he had to use the restroom, and he took a... "Hey, what the hell is going on here?! 
+I don't need people knowing what I did in the bathroom before leaving for a mission. 
+Get back to the story and don't tell them what I did in the bathroom." said B.J. 
+Well B.J. was dropped about 3 miles outside of the House of Hay and entered through 
+a back door. After he entered the base he pulled out his combat knife and saw a guard... 
+"You idiot! This isn't a book!!! They have to play the mod to find out what happens 
+to me. Don’t say anymore. I'm hiring a new storyteller for the next mod!" shouted 
+B.J. Now go play Castle Grom!
+
+[FEATURES]
+
+*New Levels Made By Me
+*Textured Ceiling\Floor mod
+*Gun Bobbing
+*Removed PG-13\Signon Screen\Shareware Note
+*All New Object Sprites and Wall Sprites (some not seen in other mods)
+*Seamless Level Progression
+*Hans Changed Into a Mini-Boss
+*MLI Cheat-Code Changed
+*HiRes Graphics
+*Full Screen Mode With The HUD Displayed
+*Removed The Demo Player and The Deathcam
+*More...
+
+
+[KNOWN BUGS]
+
+*The sounds might be Distorted in some machines
+ (I dont know how to fix it)..
+
+*In some places in Map#4 you might encounter a weird bug
+ that makes the floor to look like the ceiling when the player 
+ is at some random angle.. (It might happen in other maps too)
+
+
+[CREDITS]
+
+[Graphics]: [Laz Rojas,AReyeP,WSJ,ROTT Creators,MAC Wolf3D,]
+                      [Various Others].
+[Sounds]: [ROTT Creators,WSJ,Various Others].
+[Music]: [Robert Prince]
+[Levels]: [Raziel A.] [some of the levels are from my last MOD 'The Ultimate Evil']
+
+                 [And from a unreleased game of mine].
+[Story]: [James Shain]
+[Coding]: [Raziel A.].
+[CodingTutorials]: [MCS,Dugtrio17,WSJ,Ripper,Darkone,Chris,]
+                                    [BrotherTank].
+[Beta Testing]: [Raziel A.].
+[ID SOFTWARE]: [For creating this cool game and releasing the source-code]
+[BrianLowe]: [For publishing my game at his site].
+[You]: [For playing my dumb game].
+
+[A Little Note]
+
+*If you like to use this MOD as a base for yours you're very welcome to do so.
+ Just -DONT- forget to credit me and the rest of the people I credited..
+
+[CONTACT THE MAKER]
+
+*If you have any questions, complaints or you just want to chat, contact me through 
+
+ my Email. Gt_suicidalRitual@Hotmail.com
+
+[Thank you for downloading Castle Grom]

@@ -1,0 +1,28 @@
+FINAL FIGHT CREDITS
+
+LEVELS:
+1/10 - James, Schabbs
+11/50 - Schabbs
+51/60 - ack
+ 
+GRAPHICS: 
+Various walls etc - WLHack 
+Super Mutant - Ian Summerfield
+SS Variations: red color - David
+Status Bar #2 - Richard Kelly
+Himmelpferd by Erick Bessant-Chavez
+Destroyer Mutant by RGamesINC
+Title Screen – Airslide
+
+OTHER:
+Thanks to Eric Lin for hosting the Wolf3D Haven forum, which brought so many people 
+together to work on this mod. Also, to drchainsaw, Eric and others who beta tested 
+the levels.
+
+Thanks to the Dome for its coding tutorials, especially the helpart tutorial.
+
+And for the last, thanks to id Software for making Wolfenstein 3D and for providing 
+the source code. Without them and their game, we'd have no addons.
+
+
+James Shain

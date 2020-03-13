@@ -1,0 +1,87 @@
+                                    EDITOR
+
+You can use all features of the program in edit mode except tracing.
+Both v1.4 and v1.0 can be edited.
+If a mod is not a standard wolf/spear mod, You will be better off
+   if you make a special mapdata file for that mod (edit mapdata).
+
+  The controls are from upper-left:             Large numbers
+
+                                  _______
+                                 |  App> |
+   ______________________________|_______|   __________________
+  |                          |   |       |  | ______   ______  |
+  |     -Level title-        | ? | Rest. |  ||____|_| |____|_| |
+  |__________________________|___|_______|  | Solid #   ###    |
+  |   |   |   |   |$$$|  |$$$|   |       |  |__________________|
+  | C | K | P | # |$$$|LR|$$$| @ | Save  |
+  |---+---+---+---+---+--+---+---+-------|
+  | W | F | O |(f)|(c)|  | p | i | f | s |
+  |   |   |   |   |   |  |   |   |   |   |
+  '---'---'---'---'---'  '---'---'---'---'
+
+
+ App> *Import the selected level from another gamemaps file.
+       (Start a new VSMAPED program, select the wanted level there or
+       open a *.lvl file. Then click the App> button in the old program.
+       The level is then copied to the current level).
+
+-Lev- *Edit level title (max 16 characters).
+
+ ?    *Read this helpfile.
+
+ Rest *Restore the maps in the game from backup (files+'bk').
+
+ C    *Cut  selection. The values inside will become zero.
+
+ K    *Copy selection. The inside will be left unchanged.
+
+ P    *Paste selection.
+
+ #    *Open the 'Number' panel. It shows the most and least significant byte
+       in a (large) number. You can pick it or insert a value in the map.
+       It is here because some mods have special information in corner cells
+       with quite large values. Use left or right mousebutton.
+
+$$$   *Showing content of left and right mousebutton for inserting/filling.
+ 
+LR    *Click and 'LR' turns into 'X'. Inserting/filling now alternates
+       between 'left' and 'right' items. Click again to return to LR.
+
+ @    *Undo the latest changes in the current level.
+
+ Restore *the game from backup (files+'bk').
+
+ Save    *the maps to the game. Make a backup (option).
+
+---Map mode (what to edit):
+ W   *Walls (N/S and E/W faces shown) and Doors.
+ F   *Floor codes.
+ O   *Objects.
+(f)  *Floor   structures | (In some mods). If there are no structures, the
+(c)  *Ceiling structures | buttons don't show, click to open for the buttons.
+
+---Edit mode (what to do):
+ p   *Pick   an item, fex. a wall with the left mousebutton and a floor code
+             with the right, from the map or the lists below or
+             the graphics list.
+ i   *Insert the item,                       use left or right mousebutton.
+ f   *Fill   an area with the item,          use left or right mousebutton.
+ s   *Select a rectangular area for copying, use any mousebutton.
+
+Below are 4 lists of items showing thumbnail, map index, (class) and name,
+   sorted by map index except objects which are sorted by class first.
+
+You can undo the latest changes in a level unless you go to another
+   level, then the changes become permanent. 
+It is strongly recommended that you let the program make a backup 
+   when you save the maps to the game.
+A copied selection can be pasted to another level in the same or another game.
+   (copy the selection, open another gamemaps file and paste it to a level).
+When you are editing floor or ceiling structures, press any key and see an
+   overlay of walls and floor patterns as long as the key is pressed.
+   Useful for aligning structures.
+
+If you deselect the edit controls (click on the lowered tab) you can
+   click entries in the items lists to blink in the picture, and trace also.
+   Click a tab and you are back in edit mode.

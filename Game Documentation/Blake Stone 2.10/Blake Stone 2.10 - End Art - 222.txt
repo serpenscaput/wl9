@@ -1,0 +1,6 @@
+The selected saved game is
+from an older version of the
+game and can not be loaded.
+
+         Press a key.^XX
+

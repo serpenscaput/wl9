@@ -1,0 +1,191 @@
+
+          *************************************************
+          *    MapEdit 6.0  - Wolfenstein Map Editor      *
+          *************************************************
+
+    Ver 6.0  - Dave Huntoon Modification (Help, Copy, Paste, Exchange,
+                                          Write and Read)
+    Ver 5.0  - Bryan Baker  Modification (Display of critical statistics)
+    Ver 4.1a - Dave Huntoon Modification (Spear of Destiny compatibility)
+    Ver 4.1  - (c) 1992 Bill Kirby
+
+
+To use MapEdit, unpack the archive into the directory where Wolfenstein
+is installed.  Type MAPEDIT to start the editor.
+
+
+Key functions:
+
+arrows - select level to view
+     Q - quit (you will be prompted to save)
+     C - clear level (grey brick around the outside inside filled with 
+                      selected map value)
+     O - toggle object display
+     F - toggle floor display
+     S - toggle between Statistics and Help display
+     M - Memorize present map
+     T - Transfer memorized map with present map
+     E - Exchange memorized map with present map
+     W - Write present map to a file named FLOOR.OUT
+     R - Read into clipboard FLOOR.OUT
+     V - Display MapEdit version number
+
+*** NOTE:
+*** If any of the commands in the Help display flash Red then there was an
+*** error executing the command.  See command description below.
+
+Map window:
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking the mouse
+will change either the map or object data to the currently selected item.
+
+
+Legend window:
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN scrolls through the list.  Clicking on MAP/OBJ switches
+between the map and object lists.  Clicking on an item in the list makes
+it the "current" item.
+
+After each guard, there is a 3 character description which specifies
+what level the guard is, whether they are moving or stationary, and
+what direction they are facing/walking.  For example, "1/S/E" means
+a level 1 guard, stationary, facing east.
+
+
+Memorize, Transfer and Exchange functions:
+
+***********************************************************************
+***** Note: Always make backups of your gamemap files before      *****
+***** using these commands. Save your MAPHEAD.WL1 and MAPTEMP.WL1 *****
+***** or MAPHEAD.WL6 and GAMEMAPS.WL6 or MAPHEAD.SOD and          *****
+***** GAMEMAPS.SOD.                                               *****
+***********************************************************************      
+With these operations you can move maps from one floor to another.  If you
+want to copy a floor, move to the floor you want to copy and press the 'M'
+key.  The Memorize line in the help display will turn yellow indicating that
+you have a stored floor in the clipboard.  This will now stay yellow for the
+rest of the session because there will always be something stored.  You can
+now Transfer (Paste) the Memorized floor wherever you want.  Move to the
+floor where you want the stored floor to be and either press 'T' to Transfer
+the stored floor on top of the presently displayed floor or press 'E' to
+exchange the displayed floor with the Memorized floor.  The Exchange function
+allows you to easily move the floors up or down a level.  If the Memorize line
+in the Help display is not yellow (nothing stored) these functions won't work.
+They will flash red for this case.
+
+If you use the Transfer operation you will lose the floor that you copied the
+Memorized floor on top of.  If the Statistics display is on the display will
+flip to the help display during the Memorize, Transfer and Exchange operations
+and then flip back to the statistics display.
+
+
+Write and Read functions:
+
+If you want to share floor maps or create floor maps with a group or if 
+you have designed a favorite floor in one version of Wolfenstein and would
+like to move it to a different version you can now do it with these functions.
+MapEdit was designed to operate from one directory and has no directory
+features nor keyboard/display functions built in.  It will take a little
+extra work to implement copying and pasting from one map file to another from
+within MapEdit.  To implement this feature quickly I decided to implement
+the exporting and importing of maps by file.  The file is predefined as
+FLOOR.OUT and you can only export/import one floor at a time.  You have to
+have two directories with MapEdit and the gamemap files you want to transfer
+the floors between or you must move the gamemap files in and out of the
+working directory.  I know this can be a pain but this was the easiest way
+without requiring major changes to the MapEdit program.  If there is a big
+enough demand to implement an easier interface then I'll work on it.
+To export a floor you run MapEdit on the gamemap/maphead files you want to 
+export from.  You move to the floor that you want and press the 'W' key and
+the displayed floor is written to 'FLOOR.OUT'.  You now quit MapEdit and copy
+the FLOOR.OUT file into the directory that has the gamemap/maphead files you
+want to import the floor into.  Run MapEdit and press 'R' to read into the
+clipboard the file FLOOR.OUT.  Now move to the floor where you want your
+imported floor and press 'T' to paste it or press 'E' to exchange it with
+the displayed floor.  You copy FLOOR.OUT into the directory containing the
+gamemaps you want to import the floor into or move the gamemaps into the same
+directory.  An error message will be displayed if there was a problem reading
+or writing the file.
+
+A major advantage of exporting/importing by file is that you now can share
+your floors with others without having to give them the whole gamemap/maphead
+files.  All you have to do is give them the FLOOR.OUT file of your favorite
+design and they can read it into theirs.
+
+
+Clear Level:
+
+Pressing the 'C' key will Clear the current floor placing grey brick on the
+outside edge and filling the inside with the selected map value.  Before you
+clear the display select the map value you want to fill with then press 'C'.
+You can fill with any map value.  If the last item you selected was an Object
+then if you Clear before selecting a map value the clear function will fill
+using a floor value of '8C'.
+
+
+MAPDATA.DEF and OBJDATA.DEF:
+
+If you figure out a new object, you can add it's description to the
+object/map list by editing the MAPDATA.DEF or OBJDATA.DEF file.
+Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.  Right now, even
+though their are 4 digits, you can only put objects from 0000-00ff in.
+
+** Note version 4.1a allows up to 0116.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors.  The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c -
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+
+ACKNOWLEDGMENTS
+
+   This program would not have been possible without Paul (Hosko) Hosken,
+author of WMAP, who figured out the original map file formats.
+
+Thanks Hosko!
+

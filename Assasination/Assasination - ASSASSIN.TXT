@@ -1,0 +1,55 @@
+                         Assassinate Uwe Grosse.
+
+Welcome to assassinate final version 1.2.
+
+Created by Bernt "Nova" Hansen.
+
+First of all thanks to the unknown person who made the "lost episodes" graphic
+avaliable in the set, lost-ep.zip go grab it it's worth it. I modified it a
+bit with some different wall textures.
+Also thanks to Zach Higgins, for his Project Verteilgung. I use 1
+frame of his new officer and modified it a bit, to make Pierre. Much
+better than the old one i made.
+
+
+Here comes a description of some of the levels.
+
+Level 1.  There's no need to get frustrated because you can't find the secret
+          elevator, i didn't include it. Instead you're playing the levels in
+          a consecutive order, making level 9 the secret level and level 10
+          the boss level.
+          There are only dogs and guards in this level, as in the first level
+          of the shareware set. I think it's a nice starting level.
+
+Level 5. This level is quite small, the only problem you've got is to find
+         the silver key.
+
+Level 8. All things are included here, some action, a bit of puzzle solving
+         and a mini-maze to enter.
+
+Level 9. This is the secret level, plenty of angry enemies are waiting to 
+         greet you with a hail of bullets. Also Leo Grosse, Uwe's twin
+         brother is there somewhere.
+
+Level 10. I had a problem with "flashing screen borders". I already had a 1 
+          block thick perimeter walls but it didn't solve the problem. Then i 
+          remembered what Warren Buss, had recommended make the perimeter 
+          walls 2 blocks thick. Now the level works smoothly.
+
+Oh nearly forgot to tell, that i reenabled an old cheatcode without using the
+sourcecode. What cheatcode it is, you'll have to find out yourself. Ok i'll be
+nice use TAB + N to enable the "no clipping" cheat. It really helped me out 
+when i had to check out the different levels, for some small changes such as 
+the moving guards pattern.
+
+The levels are designed to be played on the hardest difficulty setting. They
+are a bit harder to complete than the original sw set, yet they aren't 
+impossible to complete.
+
+Any comments about this set are as always welcome, you can email me at :
+bernt@fyn13.dk
+
+Upcoming projects :
+
+Ubermensch : 5 levels or perhaps more for Spear of Destiny.
+Fearwolf : 10 tribute levels for episode 5.

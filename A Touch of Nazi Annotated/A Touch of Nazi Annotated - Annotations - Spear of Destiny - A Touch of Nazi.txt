@@ -1,0 +1,78 @@
+A Touch of Nazi is a very challenging Wolfenstein 3D addon, though technically considered 
+a Spear of Destiny addon. You'll want to play every floor in this one, so to assist 
+you in getting the highest possible score, I have saved each floor from 1 through 
+8, plus the secret floor 10, as at the end of the floor. I have 100% kill on each 
+floor except 3, and full treasure and secrets on most floors. This will help you 
+to find the secret rooms more easily than checking the perimeter of all rooms, like 
+I did. Where there is less than 100% Kill/Treasure/Secrets, I did a thorough search, 
+but could not find the remaining secret rooms. Should you be so inclined, you may 
+look for them yourself, and perhaps, in so doing, better my score. I recommend that 
+you not bother doing this.
+
+The saved floors will allow you to explore a floor in its' entirety, (other than 
+the unfound secrets), without worrying about being shot. You can get an idea of where 
+the soldiers and/or mutants are, where the secrets are, possible locations of keys, 
+etc.
+
+My weapon of choice, whenever possible, is the knife, so I've been able to leave 
+ a lot of ammo behind on the completed floors, so you'll have a better idea of where 
+to find it. I also attempt to clear each room without loss of health, so most of 
+the food and med kits are still strew about on the completed floors. In many cases, 
+you have to go a fair way into the maze before you will find an ammo dump or medical 
+supplies. On floor seven, in particular, I believe that all of the hidden ammo and 
+med kits were behind one wall. Although there is plenty of ammo on each floor, it's 
+seldom where you would want it to be, so get used to saving frequently. On floor 
+seven, though, don't be too quick to save in some situations, because soldiers will 
+attach simultaneously from your front and rear, and in numbers. When I came across 
+this section of the floor, I moved away from that area and down a corridor that I 
+had already cleared, so that they were all coming toward me from a single direction. 
+This might work for you, as well. 
+
+Here are some notes that I think you will find useful:
+
+As mentioned above, the knife is very useful, especially at the beginning of floor 
+one, when you only have eight rounds of ammo to start. There are four doors around 
+the starting elevator on floor 1, and I was able to kill all of the soldiers in the 
+first corridor behind each of those four doors exclusively with the knife. Most of 
+the time when you have a right angle beside a door, or in a corridor, you can use 
+the knife if you know where the soldiers are. Often multiple soldiers can be killed, 
+one after the other, with the knife. Sometimes you can lure one or more soldiers 
+away from his position, to a place where he can be stabbed. If you see one or more 
+soldiers on a spot, and their ammo is still on the floor, you'll know I used the 
+knife. Keep in mind, however, that if you see a pile of two or three soldiers, there 
+may in fact be 5-15 or more on the same spot. Soldiers can't shoot while they are 
+being stabbed. Do not, however, attempt to kill a mutant with the knife. It won't 
+work. Note that the bodies lie where I killed them, not necessarily where I found 
+the soldiers.
+
+The Boss floors are 3, 8, and 9.
+
+On floor 8, there is a large maze at the beginning. There are soldiers and mutants 
+throughout, and they move around, unlike most situations where they wait until you 
+are in proximity. You may have to clear a bit forward, then backtrack for the ones 
+behind you. There are also several mutants in the floor 8 main maze. It's very large, 
+and easy to get lost in there. The best way to navigate is to find a fixed point 
+of reference, (the starting elevator is a good choice), and follow the perimeter, 
+as you would if looking for secrets. When you get to one of the several dead ends, 
+it's a good time to save. There are, eventually, two doors on the perimeter of the 
+main maze. I didn't find any secrets in the main maze of floor 8, but there is one 
+of the eight secrets that I didn't find, so it might be in there. It's probably a 
+waste of time to look, unless you are attemting to get a perfect score. Don't bother 
+if you haven't found everything on floor 3. 
+
+You will have to do a lot of wall pushing, though. Most of the keys, and many of 
+the soldiers, are behind push walls. Floor 7 actually has the elevator behind a push 
+wall, but it doesn't lead to a secret floor. 
+
+You're going to have to do floor 9 without any help from me. There are four bosses 
+on floor 9. You'll have to kill one to get the gold key, and one of the other three 
+to complete the game. Grab any remaining ammo before opening the locked doors.
+
+To use the saved games, copy the SAVEGAM.WL6 file(s) and paste to the main game folder. 
+If you use cut and paste instead, you will lose your saved end of floor file if you 
+save over it.
+
+
+Good luck, B.J.!
+
+ 

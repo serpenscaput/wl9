@@ -1,0 +1,30 @@
+SamWolf Demo version 2
+
+
+NEW FEATURES
+
+changed chaingun to "Burst Rifle"
+200 ammo
+new music (plus originals by me)
+"heartbeat" sound
+new weapons
+new Hans Grosse (just a quick sprite, since I wasn't too interested
+in spending a hell of a lot of time on this project.)
+new episode (which makes 2/6 completed)
+
+ALSO INCLUDED
+
+my "WolfMusic" archive, which features various midis and their IMF
+counterparts.  IMFCreator was used to make these, and Anvil Studio
+was used for the songs by me.
+
+
+
+EDITORS USED:
+Crimson Editor, Borland Compiler, FloEdit, ChaosEdit, WDC,
+Paint Shop Pro 5, Anvil Studio, SpriteMaker, IMFCreator
+
+
+Enjoy
+
+Sam Feichter (AstroCreep)

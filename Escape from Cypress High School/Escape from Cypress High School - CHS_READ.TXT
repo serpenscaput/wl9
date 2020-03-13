@@ -1,0 +1,68 @@
+*************************ESCAPE from CYPRESS HIGH SCHOOL*********************
+                            created by Erik Selfridge
+----------------------------------------------------------------------------- 
+NOTICE: ESC from CHS is all in good fun and it's creator does not condone    
+the shooting, killing, maiming, or mutilation of civil servants in any way.  
+This game is simply a way of letting off steam.                                  
+    
+----------------------------------------------------------------------------- 
+                                                                                 
+ 
+     Esc from CHS is a thrilling 3D action game based on Wolfenstein 3D(tm)*. 
+It is a graphically modified version of the game. You are able to get back at 
+your teachers for all the rotten tests they have given you. It is Freeware   
+and if you like it, tell me in a letter sent to: 
+                                          Erik Selfridge
+                                          5294 Rome Ave.
+                                          Cypress, CA 90630
+(donations are accepted and level maps and new levels are available.) 
+To play type: cd escape <ENTER>, chs <ENTER>.
+     
+     A completely new sequel to Esc from CHS based on DOOM(tm)* will be 
+released in the near future with all new sound, music, characters, weapons, 
+and levels (some based on actual CHS terrain). From the 200, to the 300 
+building, to the quad, you will enjoy blowing away those teachers you love 
+to hate.
+                                                              Sincerely,
+                                                                      Erik 
+ * Wolfenstein 3d and DOOM are trademarks of id Software.
+Be sure to play all six glorious episodes:
+E1: Escape!               E4: The Trail of a Madman
+E2: The Wrath of Beard    E5: The Lecture's Over!
+E3: Die, Sharman, Die     E6: School is OUT           --Enjoy!                 How 
+to play Escape from Cypress High School.
+=============================================================================
+I. SETUP
+1. To hear the digitized screams of agony as your teachers bite the dust,
+you must have an Adlib, Sound Source, Soundblaster or compatible.
+
+II. CONTROLS
+1. <CTRL> or left mouse button fires or stabs, <SPACE> opens doors, to 
+take an object just walk over it, cursor key or mouse movement moves. 
+<ALT>+ cursor strafes. <SHIFT>+ cursor runs. With a mouse, button: 1 
+shoots, 2 strafes, 3 opens doors. 
+2. <F1> help, <F2> save, <F3> restore, <F4> sound, <F5> view, <F6> 
+controls, <F7> end game, <F10> Quit, and, <Pause>, of course, pauses.
+Press <Esc> to go to the main menu.
+III. OBJECT OF GAME
+1. The object of the game is to escape Cypress High. You use weapons to 
+shoot your favorite teachers. You must kill them before they kill you. The 
+different weapons are, as follows: 1. Swiss Army Knife, 2. Luger pistol, 
+3. machine gun, 4. Gatling gun, with increasing levels of lethality.
+To switch between the weapons you have obtained, press it's respective
+number.
+2. To regain health simply eat some lunch.
+3. Try to steal the school's property, it's fun, pisses off the faculty,
+and increases your score considerably. Don't steal other student's 
+possessions.
+
+IV. SECRETS
+1. There are secret rooms and levels with extra goodies opened the same way
+as doors.
+2. There is a secret code that consists of a password at the DOS prompt, 
+  ( WOLF3D -goobers ) Then three different keys depressed simultaneously, 
+  ( ALT-LEFT SHIFT-BACKSPACE ) after you have started a new or saved game.
+  Then <TAB>+[a letter] for specific cheating functions. 
+Good Luck!
+                             -Erik Selfridge.
+   

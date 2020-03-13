@@ -1,0 +1,41 @@
+111111111   11111111111   1111111111    1111111111111111
+111             111       111    111       111 111 111
+111  11111      111       1111111111       111 111 111
+111   111       111       111    111       111 111 111
+111   111       111       111    111       111 111 111
+111111111       111       111    111    1111111111111111
+
+by david o'rafferty
+
+i have ternd wolf3d in to a crime sim
+you have 3 levals 1.portland -it contans cops and mafia
+                  2.stauunton island -it contans cops, mafia and columbians
+                  3.shoreside vale -it contans lots of cops, mafia and columbians 
+
+bad guys
+cops(dogs)-wont shoot from a distens
+mafia(gards)-thay are in black cars and will shoot from a distens
+columbians(s.s.)-thay are in blue 4x4s and will shoot from a distens whith uzis
+note ther was choper but i had to cut it out
+
+guns
+car
+yous it wen you run out of ammo
+
+colt 45
+crap gun
+
+uzi
+good gun (you can do drive bys)
+
+m16
+best gun (you can do drive bys)
+
+moor stuff
+grand theft auto
+steal cars to get a good score
+
+hokers
+get hokers to recover your helf
+
+i hope you like my game

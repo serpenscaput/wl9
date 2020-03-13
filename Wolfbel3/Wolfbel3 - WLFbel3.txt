@@ -1,0 +1,53 @@
+WLFbel3.txt file (updated version August 18, 2000).
+
+
+WLFbel3.ZIP - by Brian E. Lowe, and Bill Hough (who made the first 14 levels).  Thanks 
+also to Thomas Hubert who made one level (episode 5, level 5). 
+
+This set now contains 57 new levels for the full 60 level registered set of Wolfenstein 
+3D (PC and Acorn/Archimedes versions). The remaining 3 levels are from my first WolfBel 
+set, but have been modified (extra guards/secret rooms etc). The 3 modified levels 
+are from episode 6, levels 7, 8 and secret.
+
+Since the original release, a few minor bugs (such as a blocked passage on episode 
+1 level 8 - PC only) have been removed. Also, I have added the batch file WCheat. 
+ PC users who want to enable these codes should start the game with this file.
+
+WLFbel3.ZIP contains 4 files GAMEMAPS.WL6 and MAPHEAD.WL6, WCheat.BAT, plus this 
+text file WLFbel3.txt.
+
+Users may freely distribute these 4 files (or the ZIP file),  on a non-profit basis. 
+ However, please do not distribute them (or the ZIP file), with any other files. 
+ Users must have the original Wolf3D 60 level set to play this set.
+
+These levels should be played with the original VSWAP.WL6 file.  Acorn/Archimedes 
+users can get this from my first WolfBel set.
+I didn't alter any of the objects/walls etc.  I find one of the reasons why the game 
+is so compelling is the atmosphere of the Nazi era.  (Now that it's gone, that is. 
+ It obviously wasn't very nice at the time).   
+ 
+Acorn/Archimedes users may be aware of bugs in some previous add-on level sets.  
+Passages which get blocked off - walls which disappear.  Sometimes a level wouldn't 
+play at all.  All these levels have been tested on an Acorn 3010 computer and play 
+OK. There are a couple of levels  where a wall looks out of place because it's gray 
+stone and shouldn't be - episode 5 level 8 is one - but every level does work.  
+
+
+Please send any comments to my e-mail address at
+brian@brlowe.globalnet.co.uk.
+
+My web-site URL is http://www.users.globalnet.co.uk/~brlowe. I also have a Wolfenstein 
+3D News 
+Page at http://www.belowe.demon.co.uk, and a home page at http://www.belowe.com.
+
+
+Brian E. Lowe
+September 12, 1999.
+Updated December 10, 1999.
+2nd update February 5, 2000
+3rd update February 19, 2000
+4th update July 28, 2000
+5th update August 15, 2000
+6th update August 18,2000.
+
+

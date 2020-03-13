@@ -1,0 +1,401 @@
+Operation Serpent credits
+
+GRAPHICS
+--------
+Menu font - Jimmy
+Console and smallfont - Id Software (Quake 2)
+Intermission font - Id Software (Jaguar/Mac version of Wolf3D)
+Status bar - Id Software (SHAWN1 texture), BPRD
+Menu cursor - Ben Blaufarb
+Metal backdrop for various screens - Id Software (SHAWN2 texture)
+Title screen - Shane Strife
+Status bar face - Xaser
+San Salvacion flag designed by Executor
+Aquila symbol designed by Executor using a medieval Russian coat of arms as a base
+
+
+SPRITES
+-------
+Knife - Apogee Software (Rise of the Triad), hands by Id Software (Doom), all edits 
+by Executor
+Glock 17 - JoeyTD, Minigunner, hand by Banjo Software (Hacx)
+Uzi - Banjo Software, CaptainToenail, hand by Banjo Software (Hacx)
+AK47 - JoeyTD, WildWeasel, muzzle flash by zrrion the insect
+Shotgun - 3D Realms (Duke Nukem 3D), JoeyTD
+FN Minimi - HellcattX
+Mefisto RPG - Eriance, projectile by FreeDoom team, explosion by Rogue Entertainment 
+(Strife)
+Secret weapon - DoomNukem, WildWeasel
+
+SSLA guard - Mr. Wolf, additional edits by Executor
+SSLA sergeant - Mr. Wolf, additional edits by Executor
+SSLA trooper - JaM Productions (Blake Stone), Captain J
+SSLA shotgunner - JaM Productions (Blake Stone), edits by Executor
+SSLA elite - JaM Productions (Blake Stone), Captain J
+SSLA executioner - JaM Productions (Blake Stone), Enjay
+SSLA officer - Majik Monkee, Captain J
+Hand grenade - Enjay
+Monkey mutant - Vader, Captain Toenail
+Dragon mutant - Raven Software, voice: Raven Software (Hexen) and Id Software (Quake)
+
+Dog: FormGen Entertainment, Enjay
+SSLA gibs (unused) - Enjay
+Cyborg gunner - MarlboroMike2100
+Cyber brute - Eriance, Xim, Captain J
+Ceiling turrets - Necronita, Red Storm Entertainment (Ghost Recon)
+Berserker (unused) - Xim
+Scientist - Captain J, voice Infinity Ward (Call of Duty 1) and Marty Kirra
+Dr. Joachim Moerder - Apogee Software (ROTT original specs), Majik Monkee, edits 
+and shotgun firing animation by Executor
+Secret enemy - Kilkakon
+Secret boss - Ed Cripps
+
+Rubble - Megabyte
+Light bulb - WSJ
+Concrete column - Ben Blaufarb
+Nuclear waste drum - FormGen Entertainment (Spear Lost Episodes)
+Large white ceiling lamp - JaM Productions (Blake Stone)
+Potted plant: FormGen Entertainment (Spear Lost Episodes), B.J. Rowan
+Small white ceilimg lamp - JaM Productions (Blake Stone)
+Sink - JaM Productions (Blake Stone)
+Table with chairs - FormGen Entertainment (Spear Lost Episodes), B.J. Rowan
+Water fountain - JaM Productions (Blake Stone)
+Potted fern - ArEyeP
+Toilet - ArEyeP
+Water - ArEyeP
+Barrel - Tricob
+Bed - Tricob
+Office chair - Id Software (Doom 0.4)
+Gray floor lamp - Id Software (Doom 0.4)
+Strobe lamp - 3D Realms (Duke Nukem 3D)
+Dead scientists and general - Scuba Steve
+Wine bottle (unused) - Laz Rojas
+Cardboard box - 3D Realms (Duke Nukem 3D)
+Boxes with styrofoam - ArEyeP
+Dining chair - Laz Rojas
+File cabinet - Laz Rojas
+Hanging Moss - ArEyeP
+Trash can - 3D Realms (Duke Nukem 3D), Laz Rojas
+Water cooler - Laz Rojas
+Desk with computer - ArEyeP
+Small floor lamp - AREyeP
+Jungle vines - Megabyte
+Palm tree - Majik Monkee
+Jungle rocks - ArEyeP
+Flag - Majik Monkee
+Jungle fern - Majik Monkee
+Rough column - Tricob
+Oil drum - ArEyeP
+Oil slick - ArEyeP
+Shower - Laz Rojas
+Wood chandelier - WSJ
+Radio - ArEyeP
+Land mine - ArEyeP
+Land mine explosion - Lobotomy Entertainment (Powerslave)
+Globe - Apogee Software (ROTT original specs)
+Torch - ArEyeP
+Hanging flame - Ryan de Haast
+Fancy column - Tricob
+Brazier - ArEyeP
+Flame trap - Doomjedi, Apogee Software (Rise of the Triad)
+Spear trap - Apogee Software (ROTT original specs)
+Grass: Doomjedi
+Pond: Doomjedi
+Deciduous trees - Doomjedi
+Campfire - Doomjedi
+Car - Doomjedi
+Stove - WSJ
+AK rack - Majik Monkee
+Wooden pillar - Doomjedi
+Crosswalk sign - Doomjedi
+Bench - Doomjedi
+Pool table - Doomjedi
+Streetlamps - Doomjedi
+Hydrant - Doomjedi
+Outdoor trash can - Doomjedi
+Fancy floor lamp - Laz Rojas
+Chests of drawers - Laz Rojas
+Ceiling lamp with shade - Laz Rojas
+Boss mine - Doomjedi
+Explosive barrel - Id Software (Doom), edits by Executor
+Fancy plants - Laz Rojas
+Marble column - Id Software (Spear of Destiny)
+Long tables - Laz Rojas, wine table edits by Executor
+Suit of armor - Raven Software (Hexen), WSJ
+Metal table - Ben Blaufarb
+Vending machine - Necronita
+Tech column - Morladim
+Specimen tank - zrrion the insect
+Stalactites and stalagmites - Bethesda Softworks (The Elder Scrolls II: Daggerfall), 
+Captain Toenail
+Biohazard bin - Doomjedi
+Crash carts with medical stuff - Doomjedi
+Lab tables - WSJ
+Electric trap (unuzed) - FormGen Entertainment (Spear Lost Episodes)
+Gurneys - FormGen Entertainment (Blake Stone), B.J. Rowan, Doomjedi (gory one)
+Floor gibs - Rogue Entertainment (Strife)
+Dead test subject 1 - WSJ
+Dead test subject 2 - Mr. Wolf
+Severed heads - Knee-Deep in ZDoom team
+Bones - ArEyeP
+Giant bone pile - Raven Software (Shadowcaster), Captain Toenail, Gez
+Charred skeleton - Apogee Software (Rise of the Triad)
+Dead test subject 3 - Majik Monkee
+Mutilated torso - Doomjedi
+Pile of bodies - Doomjedi
+Bloody Skeleton - FormGen Entertainment (Spear Lost Episodes)
+Bloody chair - Doomjedi
+Hanging body - WSJ
+
+9mm clip - Ben Blaufarb
+9mm box - Konami (Metal Gear 2), Ben Blaufarb
+Sandwich - JaM Productions (Blake Stone)
+Stimpack - ArEyeP
+Rations - Konami (Metal Gear 2), Ben Blaufarb
+Medikit - Konami (Metal Gear 2), Ben Blaufarb
+Armor (unused) - Banjo Software (Hacx)
+Adrenaline hypo ("did I just pick up heroin" --Bashe) - B.J. Rowan
+Adrenaline kit - Banjo Software (Hacx)
+Keys - Mars 3D team
+Shotgun shells - ID Software (Doom)
+Bag of bullion - JaM Productions (Blake Stone)
+Gold bars - JaM Productions (Blake Stone)
+Gold cross - ArEyeP
+Cash - Gerolf
+7.62mm magazine - Id Software (Doom 0.4)
+7.62mm stripper clip - Executor
+5.56mm ammo - Belt by PillowBlaster, box by Id Software (Doom 0.4) 
+Backpack: Rogue Entertainment (Strife)
+Secret treasure - You'll know who made them when you see them...
+
+MUSIC
+-----
+All music (except secret music) arranged and performed by Shane Strife
+
+Composition:
+Title: Shane Strife
+Menu: Shane Strife
+Dusk on the Battlefield (read this screen): Bashe
+Solemn Sight (level 1): Bashe
+Rolling Thunder (level 2): Shane Strife
+Cirrus Linked (level 3): Pip Malt
+Nightfall Came (level 4): Bashe
+Forces of the Wicked (level 5): Bashe
+Live Brains in Satan's Lab (level 6): Bashe
+Hit and Run (level 7): Shane Strife
+The Hour of the Wolf (ending): Shane Strife
+Secret level: Junichi Masuda
+
+SOUNDS
+------
+Agent Cortez - Raven Software (Star Wars Jedi Knight II: Jedi Outcast)
+Treasure pickup - Banjo Software (Hacx)
+Powerup - Banjo Software (Hacx)
+Elevator - Rogue Entertainment (Strife)
+Key - WildWeasel
+Health - Id Software (Quake II)
+Weapon and ammo pickup - MacPlay Entertainment (Mac Wolf3D)
+Menu - MacPlay Entertainment (Mac Wolf3D)
+Flame deaths - Id Software (Return to Castle Wolfenstein)
+BIg switch - Id Software (Doom)
+Small switch - Rogue Entertainment (Strife)
+Pushwall - MacPlay Entertainment (Mac Wolf3D)
+Regular door - 3D Realms (Duke Nukem 3D)
+Heavy door - MacPlay Entertainment (Mac Wolf3D), 3D Realms (Duke Nukem 3D)
+Silver door - FreeDoom team
+Explosive barrel - Raven Software (Quake 4)
+Body fall sounds - Rare (Goldeneye), 3D Realms (Shadow Warrior), el zee
+Gib sound (unused) - Rogue Entertainment (Strife)
+Knife - MacPlay Entertainment (Mac Wolf3D)
+Glock 17 - gezortemplotz on freesound
+Browning Hi-Power (enemy handgun) - Red Storm Entertainment (Ghost Recon 1)
+Uzi - Red Storm Entertainment (Ghost Recom Island Thunder)
+AKM - Red Storm Entertainment (Ghost Recon Island Thunder)
+FN Minimi - Red Storm Entertainment (Ghost Recon 1)
+Mefisto RPG - Red Storm Entertainment (Ghost Recon 1), Rogue Entertainment (Strife)
+
+Hand grenade - Valve Software (Half-Life 2)
+Lupara - Id Software (Doom II)
+
+SSLA guard/sergeant - Red Storm Entertainment (Ghost Recon Island Thunder)
+SSLA trooper/shotgunner - Ubisoft (Ghost Recon Advanced Warfighter)
+SSLA elite - Ubisoft (Ghost Recon Advanced Warfighter)
+SSLA executioner - Infinity Ward (Call of Duty 1)
+SSLA officer/scientist - Infinity Ward (Call of Duty 1), deaths by Marty Kirra
+Monkey - monkey sounds on freesound
+Dragon - Id Software (Quake), fireball sound by Raven Software (Hexen)
+Cyber brute - Eriance, death by Vader
+Dog - Id Software (Quake)
+Ceiling turret - Red Storm Entertainment (Ghost Recon Island Thunder)
+Dr. Joachim Moerder - WSJ, Apogee Software (Rise of the Triad)
+
+TEXTURES
+--------
+Gray concrete - Ben Blaufarb, B.J. Rowan/Executor (flag), ArEyeP (moss), edited and 
+composited by Executor
+Elevator and one-way door - JaM Productions, Id Software (Doom), edited and composited 
+by Executor
+Steel locked doors - Ben Blaufarb, Id Software (Doom), edited and composited by Executor
+
+Wooden locked doors - JaM Productions (Blake Stone), Id Software (Wolfenstein 3D), 
+edited and composited by Executor
+Rugged wooden door - Codetech
+Fancy wooden door - Laz Rojas
+Shiny metal - Id Software (Doom 0.4), banner by Rogue Entertainment (Strife), edited 
+and composited by Executor
+Shiny door - Id Software (Doom 0.4), edited and composited by Executor
+Gray door - Laz Rojas
+Elevator - WLHack
+Bunker wall - 3D Realms (Duke Nukem 3D) edited by Laz Rojas, Megabyte (notice board), 
+3D realms (nuke sign), Id Software/Executor (Flag)
+Wooden mineshaft - ArEyeP
+Tan tunnels - Apogee Software (Rise of the Triad)
+Jungle wall - Majik Monkee
+Wooden slats - WSJ, B.J. Rowan/Executor (flag)
+Shelves with boxes: ArEyeP
+Plaster wall with paneling - Laz Rojas
+Gray office wall - Laz Rojas, banner by Rogue Entertainment (Strife), clock by 3D 
+Realms (Duke Nukem 3D)
+Tan bricks - Cage, Id Software/Executor (flag), window by 3D Realms (Duke Nukem 3D)
+
+Gray cinder blocks - Id Software (Jaguar/Mac Wolfenstein 3D), B.J. Rowan/Executor 
+(flag)
+Crates - Ben Blaufarb
+Mossy rock - Parallax Software (Descent), skull receptacles by ArEyeP, poster is 
+a theater poster for Bill and Ted's Excellent Adventure
+Brown cavern - Parallax Software (Descent), wall light strips and restricted sign 
+by Id Software (Doom 0.4), banner by Rogue Entertainment (Strife), aquila by Executor
+
+Large banner with aquila: ArEyeP with heavy edits by Executor
+Dusk landscape: WSJ
+Big wooden crate - Cage, aquila by Executor
+Church wall - Apogee Software (ROTT original specs), B.J. Rowan/Executor (flag), 
+Anthony Czerwonka (cross), Raven Software (stained glass)
+Cement blocks - WSJ, flag by Id Software/Executor, window and wall light by Doomjedi, 
+window by 3D Realms (Duke Nukem 3D), edits by Executor
+Stucco wall - Id Software (Doom II), aquila by Executor, banner by Rogue Entertainment 
+(Strife), notice board by Megabyte
+Old bricks - Id Software (Doom II), banner by Raven Software (Shadowcaster), wall 
+light and window by Doomjedi, edits by Executor
+Brown cobblestone - Laz Rojas
+Black marble door - Laz Rojas
+Dark doorframe - WLHack
+White Marble - backdrop by Raven Software with edits by Executor, flag by Id Software/Executor, 
+aquila by Executor
+Black tech wall - JaM Productions (Planet Strike)
+Brown mansion wall - Raven Software (ShadowCaster) and Id Software, wall light by 
+Laz Rojas, composited and edited by Executor
+Cobbled mansion wall - Laz Rojas
+Silver switch - Id Software (Doom), mechanism by Apogee Software (ROTT original specs), 
+edits by Executor
+Wooden switch - AREyeP (Doom), mechanism and light by Jimmy, edits by Executor
+Old Panel - Megabyte, with spliced bitmaps by Id Software (Spear of Destiny/Doom 
+II) with edits by Executor
+Square wooden paneling: ArEyeP, aqula by Executor, banner by Rogue Entertainment 
+(Strife)
+Black marble and wood - zrrion the insect, banner by Id Software (Doom II), wall 
+light by Laz Rojas
+Cellar wall - Raven Software (Shadowcaster), flag by B.J. Rowan/Executor, aquila 
+by Executor
+Hedgerow - ArEyeP
+Black marble - FormGen Entertainment, flag by B.J. Rowan/Executor
+Marble switch - ArEyeP, FormGen Entertainment, switch plaque and mechanism by Jimmy
+
+Marble elevator - ArEyeP, FormGen Entertainment, Megabyte, assembled by Executor
+
+Lockers - Id Software (Doom 0.4)
+Bookcases - ArEyeP, Ryan de Haast
+Brown marble - Ben Blaufarb, aquila by Executor, banner by Rogue Entertainment(Strife)
+
+Secret gate - Rogue Entertainment (Strife)
+Lab door - JaM Productions (Planet Strike)
+Volcanic rock - Parallax Software (Descent)
+Lab Wall - B.J. Rowan, restricted sign by Id Software (Doom), sector sign by Parallax 
+Software (Descent)
+Bathroom Tiles: Assembled by Executor with spliced pieces from Id Software and Randy 
+Heit
+
+FLATS
+-----
+All Id Software flats from Doom unless otherwise noted.
+GRASS - doomjedi
+GRYSLAB - Id Software
+DARKCEIL - Laz Rojas
+GRAYCEIL - Laz Rojas
+BRWNCEIL - Megabyte
+TANCEIL - Raven Software (CyClones)
+TANCEI2 - Id Software
+REDCEIL - Apogee Software (Rise of the Triad)
+GRYTILE - Id Software
+FLURLITE - Id Software
+GRAYCEI2/GRAYLITE - Raven Software (CyClones)
+SILVCEIL/SILVLITE - Id Software (Doom 0.5)
+TANFLOR - Id Software
+GRAYFLOR - Id Software
+HEX1/HEX2 - Id Software
+TANTILE/TANLITE - Id Software
+BCARPET - Id Software
+CONCRETE - Id Software
+TCARPET - Id Software
+MARBCHEK - Laz Rojas
+RCARPET - Id Software
+DTILE - Laz Rojas
+WOODCEIL - Id Software (Doom II)
+FLAT5_1 - Id Software
+FLAT5_2 - Id Software
+DIRT - Bethesda Softworks (The Elder Scrolls II: Daggerfall)
+SFLR6_1 - Laz Rojas
+LARJGRAY - Id Software
+GRASS2 - Id Software
+All pavement flats - doomjedi
+Water flats - Id Software
+SAND - Apogee Software (ROTT original specs)
+SIDEWALK - Laz Rojas
+DIAMONDS - Parallax Software (Descent)
+BLAKSLAB - Parallax Software (Descent)
+LITEROCK - Parallax Software (Descent)
+MOSSCEIL - Parallax Software (Descent)
+SWAMP - Parallax Software (Descent)
+Lava - Parallax Software (Descent)
+Lava cracks - Id Software (Doom II)
+WHITMARB/BLAKMARB - Laz Rojas
+BRWNMARB - Laz Rojas
+GRASPATH - doomjedi
+CRAKDIRT - doomjedi
+BRWNCOBL/GRAYCOBL - Id Software (Doom II)
+BROWNTAN - Id Software (Quake)
+MARBDIAM - Laz Rojas
+GRAYMARB - Laz Rojas
+FMARBLE1 - Raven Software (Shadowcaster)
+FMARBLE2 - Raven Software (Shadowcaster)
+Tech flats - Raven Software (CyClones)
+REDX - ArEyeP
+REDCLOTH/BLUCLOTH - Raven Software (Shadowcaster)
+SMALPARQ - Raven Software (Shadowcaster)
+BRWNTILE - Raven Software (Shadowcaster)
+BRWNCHEK - Raven Software (Shadowcaster)
+FLGSTONE - Raven Software (Shadowcaster)
+FMARBLE3 - Laz Rojas
+NFCL33GR/34GR - Nick Baker
+GRAYT13 - Nick Backer
+ROCK191 - Parallax Software (Descent)
+ROCK074 - Parallax Software (Descent)
+TILEFLAT and variations - Assembled by Executor from base by Id Software
+GRAYBLOD - Assembled by Executor from pieces by Nick baker and Randy Heit
+
+-MISC AND LEGAL C.Y.A.-
+
+Thanks to all those who tested and provided feedback for Operation Serpent:
+Au Cid Ad Soite
+Bashe
+Blzut3
+Cyanosis
+thedarkarchon
+Shane Strife
+Wildweasel
+
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this 
+TC.
+Apologies to anyone whose work was used but either overlooked or forgotten when I 
+audited the mod assets.

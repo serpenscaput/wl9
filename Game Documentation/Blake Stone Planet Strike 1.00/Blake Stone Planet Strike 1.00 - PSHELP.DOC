@@ -1,0 +1,615 @@
+         °°±±²²ÛÛ PLANET STRIKE v1.0 ON-DISK TECHNICAL SUPPORT ÛÛ²²±±°°
+
+                        Game designed by JAM Productions
+             Copyright 1994 Apogee Software, Ltd / Jam Productions
+                       Published by FormGen Incorporated
+
+
+                              ===================
+                              SYSTEM REQUIREMENTS
+                              ===================
+
+þ Planet Strike requires a minimum of a 386DX/25 computer, with 560k of free
+  conventional memory, and MS-DOS v5.0+. Planet Strike also supports EMS & XMS
+  for data storage, and is recommended due to greater game speed if EMS/XMS are
+  used.  The Sound Blaster & Sound Blaster Pro sound cards are also optionally
+  supported, as well as the Adlib card, and the Disney Sound Source.
+
+
+                            ========================
+                            BEFORE RUNNING THIS GAME
+                            ========================
+
+þ This game is not designed to be run under MicroSoft Windows.  Windows takes
+  up far too many system resources that our programs require for efficient and
+  proper operation.  When running this program, DO NOT LAUNCH FROM WINDOWS.
+  Run it directly from DOS.  If you are in the Windows environment, quit
+  Windows and then run the program.  (NOTE: Using the MS/DOS Icon does not exit
+  you from Windows.  That is a shell from Windows. You need to completely close
+  down the Program Manager to totally exit from Windows.)
+
+þ Any kind of menu program such as Dos Shell will most likely cause problems.
+  We recommend running our programs completely from the DOS prompt.  To test
+  this, enter the word "exit".  If nothing at all happens, then you are
+  completely at the dos prompt, and not "shelled" from anything else.  If you
+  type exit, and return to another program (such as Windows or the MS/DOS
+  Shell), then you need to completely exit the program that you returned to
+  before attempting to run Planet Strike.
+
+þ Planet Strike requires MS/DOS 5.0 or greater.  Any previous version of DOS
+  may be sufficient in order to run the game.  The chief reason behind this
+  requirement is that these older versions of DOS are sometimes incapable of
+  providing enough conventional memory in order to run Planet Strike.
+
+þ The music in this game is Adlib music, and all game play sounds are Sound
+  Blaster digitized effects.  An example of the digitized effects are the door
+  noises, your weapons firing, and the various speech from the people you'll
+  meet in the game.
+
+
+                          ===========================
+                          PLANET STRIKE DETAILED HELP
+                          ===========================
+
+þ If the game crashes with a $81-03 error, then you need to check a few lines
+  in your CONFIG.SYS file.  The values listed here may or may not be in your
+  file.  If they are not, you will need to add them.  If they are in the file,
+  but the values are less than what is stated here, they will need to be
+  altered to match what is here.  If they are greater than the values listed
+  here, then you can just leave what you have alone.  The four lines are:
+
+  FILES=30
+  BUFFERS=30
+  STACKS=9,256
+  FCBS=16,0
+
+  If, for some reason, the errors still occur after you've added these lines to
+  your file, try changing the FILES=20 to FILES=99.  If you are unfamiliar or
+  are unsure on how to make these changes, please consult your DOS manual, the
+  assistance you'll need for this procedure is there.
+
+þ If the game crashes with an error that reads "Can't open MAPTEMP.VSI", you
+  will need to check the values of a few lines in your CONFIG.SYS file. The
+  values listed here may or may not be in your file.  If they are not, you will
+  need to add them.  If they are in the file, but the values are less than what
+  is stated here, they will need to be altered to match what is here.  If they
+  are greater than the values listed here, then you can just leave what you
+  have alone.  The four lines are:
+
+  FILES=30
+  BUFFERS=30
+  STACKS=9,256
+  FCBS=16,0
+
+þ If the game crashes with any other error that begins with $81 or an $8F, this
+  is usually the result of some sort of corruption of your copy of the game, or
+  a conflict with your upper memory manager.  Try reinstalling your game, and
+  if you're running on a compressed drive such as Stacker or DriveSpace, try
+  moving the game to an uncompressed drive, and playing without the compression
+  driver loaded.  You can also try running the game like this; it might help your
+
+  problem. PLANET NOEMS NOXMS
+
+þ If the game crashes with any one of the following errors, it means your
+  SET BLASTER line is set up improperly.  Run the supplied utility program
+  called SETBLAST.EXE for assistance in properly setting this up.  The errors
+  to watch out for here are: $91-04, $91-05, and $91-06.
+
+þ If, when you start the game, you get the error screen saying that you have
+  insufficient memory in order to play the game, go to the "How do I make more
+  memory available?" section later on in this document.  There is help for this
+  issue there.
+
+  If, however, you are running DR-DOS, then there is a separate issue to be
+  addressed.  DR-DOS preallocates 64k of conventional memory to any .EXE file
+  that it believes to be compressed.  Since the Main Planet Strike executable
+  file *IS* compressed, DR-DOS is allocating 64k of conventional memory from
+  whatever you have to begin with, almost certainly leaving you with
+  insufficient memory in order to play the game.  There is a fix for this
+  available from Novell.  You need to contact Novell and obtain "DR-DOS Patch
+  326".  This will optionally allow you to eliminate the preallocation that
+  DR-DOS is doing.  At the time of the writing of this document, Novell DOS 7
+  was not released, and we do not have any idea if this will still apply to
+  that version of DOS.  Check with Novell for more information.
+
+  This patch is available in several places online as well.
+
+   þ Software Creations BBS -> 1-508-368-7036 with filename DRDOS326.ZIP
+   þ Novell BBS             -> 1-408-649-3443 with filename PATCH326.ZIP
+   þ Internet               -> Email "drdos@novell.com"
+   þ CompuServe             -> GO NOVLIB, File Area 12, Filename PAT326.EXE
+   þ America Online         -> Do keyword search for "DR-DOS",
+                                                and get filename PAT326.ZIP.
+
+þ If you're playing the game, and it locks up when loading a level, (or locks
+  up at any other time), there are a few things that you can try to resolve
+  this problem.  First, try running the game using the NOEMS NOXMS parameters.
+  See the section on "Command Line Parameters" for more detailed information
+  on how to do this.  Another idea here would be to check your sound card
+  settings.
+
+þ Not all clone sound cards properly emulate the Creative Labs Sound Card.
+  This program was written for a Creative Labs Sound card, and functions
+  properly on all Creative Labs cards.  During the testing of this game, it
+  was made to work on these following cards with very little effort.  They are:
+  Pro Audio Spectrum 16 and the Gravis UltraSound Card.  Other clone cards
+  should work, but if you're having problems, make sure to run the SETBLAST.EXE
+  program, as it sets up an environment variable in your system that is
+  required for proper execution.
+
+  We get a lot of questions from people wanting to know why they have to use
+  this if they don't have a Sound Blaster.  Well, it's simple.  This command
+  has NOTHING to do with what type of card you use.  Apogee games that use
+  digitized sounds expect a sound card to be at specific settings.  If they are
+  not, then the game needs to be told where to send it's sound output to.  The
+  way to do this is with the environment variable BLASTER.  Apogee has provided
+  a program with this archive called SETBLAST.EXE.  This will assist in
+  properly setting up the SET BLASTER line in your AUTOEXEC.BAT file.  There is
+  online documentation explaining this further.  Consult that documentation for
+  more assistance.
+
+þ If you are having lockup problems, or sound problems, you can run the
+  supplied utility program called SETBLAST.EXE. This program will check your
+  system's sound settings, and ensure that they are properly set.  This program
+  will let you pick IRQ's, DMA's and port addresses until you get one that is
+  correct.  When you get one that is correct (the program will alert you if
+  what you are trying to use is incorrect), it will modify your AUTOEXEC.BAT
+  file by placing the correct SET BLASTER line at the end.  Once you have quit
+  the SETBLAST.EXE program, you need to reboot your computer, and then your
+  sound problems should go away. An improperly set sound card can often cause
+  system lockups.
+
+þ If your IRQ is set to 10, you will not get proper sound performance, and your
+  computer may also lock up.  Planet Strike requires that your IRQ be set at 7
+  or less.  IRQ10 is a 16 bit sound IRQ, and since the sounds that Planet
+  Strike makes are 8 bit, IRQ10 is unusable.  Please run the SETBLAST.EXE
+  program for some more detailed assistance in properly setting up your sound
+  card for Sound Blaster emulation if it is not a true Sound Blaster.
+
+þ If you are running a Compaq computer, and the game tells you that you do not
+  have a VGA card, and you know for a fact that you do, or you experience
+  lockups, this is what you'll need to do.  You'll need to contact Compaq for
+  an update.  The reason for this is that Compaq has some video cards that do
+  not conform to all proper detection methods.  There is a device driver
+  available from Compaq that will fix this problem.  The driver's name is
+  FINDVGA.SYS.  Compaq does have this file available for download on their BBS
+  with the filename SP0117.ZIP.
+
+þ If you notice the game running slowly on your system, here are a few
+  suggestions on improving game performance.
+
+  ¯ Disable your disk cache.  Planet Strike does it's own internal caching, and
+    sometimes external caches such as SmartDrive can get in the way, and slow
+    things down.
+
+  ¯ Try disabling the ceiling and floor textures during game play.  This can
+    be done by using the [C] & [F] keys respectively.
+
+  ¯ Try disabling the light diminishing feature of the game, as this can slow
+    down the game.  You can disable this function with the [L] key.
+
+  ¯ Reduce the window size.  You can do this during game play by pressing F5 or
+    from the OPTIONS menu under CONTROL.
+
+  ¯ Increase the amount of free memory your system has before running the game.
+    See "How do I make more conventional memory available?"
+
+  ¯ If you are a Sound Blaster or compatible sound card user, try disabling
+    the Digitized sounds.  Press F4 during game play to bring up the sound
+    menu, or use the "SOUND" menu under "GAME OPTIONS" when in the menu system.
+
+  ¯ If you are an AdLib or compatible sound card user, try disabling the
+    Background Music.  Press F4 during game play to bring up the sound menu, or
+    use the "SOUND" menu under "GAME OPTIONS" when in the menu system.
+
+
+                     =====================================
+                     PLANET STRIKE COMMAND LINE PARAMETERS
+                     =====================================
+
+þ There are a few command line parameters you can try to use to help other
+  things that might turn up when playing the game.  A command line parameter
+  is something that you type on the command line after the name of the program
+  you're running.  The /NOJOYS switch will be used as an example.  To use
+  that one, you would need to start the game like this...
+
+  PLANET NOJOYS  (or PLANET -NOJOYS, or PLANET /NOJOYS)
+
+  The command line parameters for Planet Strike are stackable, which means
+  that you can use more than one at a time, if you need to.  An example of
+  a stacked set of command line parameters would look like this...
+
+  PLANET NOJOYS NOMOUSE
+
+  Here is a list of the common command line parameters you can use with
+  Planet Strike, and what they are used for.
+
+  VERSION    ¯ Displays the compile date and version of your copy of Planet
+               Strike.
+
+  SYSTEM     ¯ Displays technical information about your system.  This is
+               primarily used if you would need to contact Technical Support.
+               If you do contact Technical Support, please have this
+               information ready.  This shows such information as if the game
+               detects a mouse, a joystick, etc.  Please note that the memory
+               available figure here IS NOT the amount of conventional memory
+               you have available on your computer.  This figure is only how
+               much is left over after the game has been loaded.  If you need
+               to know your conventional memory figure, go to DOS and execute
+               the "MEM" command.  The figure you're looking for will be in the
+               "Largest Executable Program Size" line.
+
+  NOEMS      ¯ Used to disable checking for EMS memory.  Useful in helping
+               to solve memory manager conflicts.  Is almost always used
+               in tandem with the NOXMS switch.
+
+  NOXMS      ¯ Used to disable checking for XMS memory.  Useful in helping
+               to solve memory manager conflicts.  Is almost always used
+               in tandem with the NOEMS switch.
+
+  NOJOYS     ¯ Disable Joystick detection.   If for some reason the game is
+               moving you in one direction, and you can't get it to go any
+               other way, it might mean the game thinks you have a joystick,
+               when you don't. When using the "SYSTEM" parameter, if the
+               program detects a joystick and you don't have one, use this
+               parameter.
+
+  NOMOUSE    ¯ Disable mouse detection.  This will disable the use of your
+               system's mouse during game play.
+
+  HIDDENCARD ¯ This switch overrides the video card detection routines if the
+               program seems to be improperly detecting your video card and not
+               letting you play the game.
+
+  NOAL       ¯ This will turn off detection of an Adlib sound card, and will
+               essentially prevent you from hearing any of the background
+               music. (You will be unable to turn on background music from
+               the game menus if you use this parameter.)
+
+  NOSB       ¯ This will turn off detection of a Sound Blaster card.  This
+               parameter will essentially cease any digitized sounds from
+               being generated from the game. (You will be unable to select
+               any digitized sounds in the game menus when you use this
+               parameter.)
+
+  NOPRO      ¯ This will disable the stereo effect of the game.  If you are
+               running a Sound Blaster Pro or 16 card, you will get the benefit
+               of stereo sounds, and depth sounds.  What this means is that a
+               character further down the hallway will not sound as loud as a
+               character standing right in front of you.  If you wish to have
+               all the characters speak at the same volume, use this parameter.
+
+  ENABLEGP   ¯ If you are attempting to run Planet Strike on a laptop, and are
+               having problems with your gameport detection, use this
+               parameter.  NOTE TO ACER OWNERS ->  Do not use this parameter
+               on your computer, as it will lock up your computer!
+
+  NOSS       ¯ Disable checking for the Disney Sound Source.  If you have one
+               of these products, and are having problems, this parameter may
+               be useful in tracking down problems.
+
+  SST        ¯ Disable checking for the Tandy Sound Source.
+  SS1        ¯ Disable checking for the Sound Source on LPT1
+  SS2        ¯ Disable checking for the Sound Source on LPT2
+  SS3        ¯ Disable checking for the Sound Source on LPT3
+
+
+                      ====================================
+                      HOW DO I MAKE MORE MEMORY AVAILABLE?
+                      ====================================
+
+If Planet Strike returns a message that says you do not have enough memory to
+run the game, or the program behaves erratically when it is executed, you
+will need to make more conventional memory available.
+
+We get a lot of questions like "I have 8 meg of memory, what do you mean I need
+more memory?" If this sounds like a question you might ask, then read the
+section called "The 640k barrier".
+
+There are virtually millions of ways a config.sys file can be arranged to
+provide memory, and you'd be reading this document forever if we tried to
+explain them all, so we'll just give you one simple example that will work.
+It is a simple setup, and will provide you with enough memory in order to
+run the game.  Furthermore, there are also several versions of DOS out there.
+We will provide examples that use MS/DOS commands.  If your version of DOS is
+not MS/DOS, you would need to use the appropriate substitute commands for the
+MS/DOS counterparts.  If you are unfamiliar with editing your configuration
+files, or are uneasy about it, get a friend of yours that is familiar with the
+procedure to help, or check your DOS manual on how to use the Text (ASCII)
+editor that comes with your version of DOS.
+
+SAMPLE CONFIG.SYS
+-----------------
+DEVICE=C:\DOS\HIMEM.SYS
+DEVICE=C:\DOS\EMM386.EXE RAM
+DOS=HIGH,UMB
+FILES=30
+BUFFERS=30
+STACKS=9,256
+FCBS=16,0
+DEVICEHIGH=C:\DOS\DRVSPACE.SYS /MOVE
+
+The last line should only be used if you're using MS/DOS's DriveSpace utility.
+(That would also most likely be the place you have a Stacker, SuperStor, or
+some other disk compression driver).  Other things that would go in here would
+be sound drivers (SoundBlaster 16, Pro Audio Spectrum 16, etc..).
+
+SAMPLE AUTOEXEC.BAT
+-------------------
+@echo off
+SET BLASTER=A220 Ix Dy Tz
+C:\MOUSE\MOUSE
+cls
+
+You would only put the mouse line in there if you use the mouse to play the
+game, and you would only use the SET BLASTER line if you are playing with a
+sound card.  Planet Strike uses the BLASTER variable to determine where to send
+it's sound output.
+
+If you do find that you need some sort of modified config.sys and autoexec.bat
+files in order to run this game, you might wish to explore what is about to be
+said.  Later revisions of DOS (MS/DOS 6.x+, and DR-DOS 6+) have built into them
+the capabilities of "Multiple Boot Configurations".  If you are familiar with
+these procedures, it will be a snap to do.  If you are unfamiliar, you need to
+consult your DOS manual.  The process varies greatly from computer to computer
+depending on how you have your system set up, so this will not be explained
+here.  However, the time spent learning this procedure from your DOS manual
+will benefit you greatly elsewhere, in addition to this game.  When you do set
+up a separate configuration, use what is listed above for the config.sys and
+autoexec.bat commands in this new boot configuration.  This will work for this
+game, and for most other Apogee titles as well.
+
+This document does not pretend to be your DOS manual, but it does give you a
+basic explanation as to why you may not have enough memory in order to run a
+program of ours.  If you are still having trouble getting this program to run
+after attempting the steps outlined above, you need to consult your DOS manual
+on "How to make more conventional memory" available.  Your DOS manual has far
+more exhaustive examples on how to do this than we could possibly document
+here.  Apogee Technical Support is unable to assist beyond what is documented
+here.  If you are still having trouble getting the program to run, it is not a
+fault of our game, it is a limitation of DOS.  Please check your DOS manual, or
+call MicroSoft's Technical Support Department.
+
+
+                                ================
+                                THE 640K BARRIER
+                                ================
+
+This section isn't actually needed in order to get our programs running.  What
+is contained in here is for the most part background information to better
+assist our customers in understanding why they need to make more conventional
+memory available.
+
+When MicroSoft first made DOS 1.0, 640 kilobytes (KB) was set aside as the
+highest amount of memory that a computer could have.  The 640KB of memory is
+what is called "conventional memory".  To maintain compatibility with older
+versions, this was never changed.  Advances in memory management have made
+access to memory beyond 640KB, but this memory can only hold data; the program
+actually has to run in the first 640KB.  This first 640k is called
+"Conventional Memory".
+
+Here is a brief discussion of the different types of memory available on your
+computer.  The most important one is Conventional memory.
+
+  þ CONVENTIONAL MEMORY starts at 0k and normally ends at 640k.  (The instances
+    where this is not the case are EXTREMELY rare)  If you are not using some
+    sort of memory manager (such as DOS's EMM386, Quarterdeck's QEMM, or
+    Qualitas' 386MAX), this is the only type of memory you have.  Conventional
+    memory is used by DOS as well as device drivers and TSR's (Terminate and
+    Stay Resident Programs).  A TSR is a program that is loaded into your
+    computer's memory (usually from the CONFIG.SYS or AUTOEXEC.BAT files) and
+    stays there.  Most programs remove themselves from memory after execution,
+    a TSR does not. Device drivers and TSR's are programs that enable the
+    computer to use additional hardware such as a mouse, scanner, CD-ROM,
+    expanded or extended memory, etc.  A program such as an Apogee game is NOT
+    a program that can be loaded as a TSR.  If all you have is conventional
+    memory, anything that you would load as a TSR would come out of this
+    section of memory.  Take too much away, and you're not left over with
+    enough memory to run our product.
+
+    If you are getting an out of memory error from our program, it is this
+    memory that you are running out of.  Whether you have 1 meg, 8 meg of
+    memory, or 32 meg of memory, it's irrelevant.  Only the first 640k of
+    memory is available for program execution.  Please do not confuse this with
+    hard drive space.  Your hard drive space is not memory, and is not relevant
+    nor should be considered in this example.
+
+  þ UPPER MEMORY starts at 640k and ends at 1024k.  Normally, this area is used
+    for things such as system ROM, video and hardware cards, and the like.  On
+    most PC's hardware does not use the entire upper memory area, and with the
+    use of the aforementioned memory managers, (EMM386, QEMM, 386MAX, etc.) you
+    can move some TSR's into this memory area.  These unused areas are called
+    Upper Memory Blocks (UMB'S), and this is where some TSR's can be loaded.
+
+  þ EXTENDED MEMORY (XMS) is the memory addressed above 1024k.  Extended memory
+    requires the use of a memory manager, such as MS/DOS's HIMEM.SYS.  This
+    region of memory is not usable for standard program execution; it can only
+    be used for data storage.  Apogee programs that use this type of memory
+    (such as Wolfenstein & Blake Stone), only use this to store level or
+    graphic data.  The actual program itself is running in conventional memory.
+
+  þ HIGH MEMORY AREA (HMA) is the first 64k of extended memory.  This is a
+    special region of memory that is most commonly used to load DOS high.  When
+    you issue the DOS=HIGH command in your config.sys file, the amount of
+    conventional memory that was previously being occupied by DOS itself is
+    moved into this region.
+
+  þ EXPANDED MEMORY (EMS) is another type of memory that some MS/DOS programs
+    can make use of.  Like XMS, this memory is not available for program
+    execution, it's only used for data storage due to it's nature.  An
+    explanation of this type of memory is rather technical, so it will not be
+    delved into here.  If you're curious, check your DOS manual, or your memory
+    manager manual.
+
+When you first start up your computer, there are two files that your computer
+looks at: CONFIG.SYS and AUTOEXEC.BAT.  These two files contain lists of device
+drivers and TSR's that are automatically run when starting your computer.  Each
+of these takes up space, and it is taken away from the 640k of conventional
+memory.  As more and more programs are loaded from the autoexec.bat and
+config.sys files, you have less and less available from the original 640k.
+Since it is this memory that programs run in, you can see that the amount taken
+away from the programs executed in config.sys and autoexec.bat would want to be
+kept to a minimum.  This can be accomplished by either reducing the amount of
+programs loaded in from config.sys and autoexec.bat, or moving them to high
+memory via the use of EMM386, QEMM, 386MAX, or some other memory management
+program.
+
+
+            ========================================================
+            WHAT IS THE "SET BLASTER" COMMAND, AND WHY DO I NEED IT?
+            ========================================================
+
+Planet Strike (and any other Apogee game that uses the Sound Blaster) uses the
+SET BLASTER command to figure out where to send it's sound output.  A Sound
+Blaster card can have many different sound outputs, and since there are
+zillions of computers out there, a way needs to be used in order to tell the
+game where your sound card is located.  The SET BLASTER line is how we do it.
+Check to make sure that you have the SET BLASTER line in your AUTOEXEC.BAT
+file.  The line looks like this.  This code is an example, and isn't exactly
+what you need to put in your system, make sure to read this whole section.
+
+SET BLASTER=A220 I5 D1 T3
+ |    |      |    | |  |
+ |    |      |    | |  |______ Type of Card
+ |    |      |    | |_________ DMA Channel
+ |    |      |    |___________ Interrupt
+ |    |      |________________ Port Address
+ |    |_______________________ Environment Variable
+ |____________________________ DOS Command
+
+NOTE: There can be no spaces between the word BLASTER and the equal sign (=).
+If you have a space in there, your system will read it incorrectly, and it will
+not be recognized by our games.
+
+Now, these may not (most likely not) be the same for your board, because the
+Port Address, Interrupt and DMA Channel can be set by adjusting "jumpers" on
+your sound board.  Some newer cards have this information controlled by
+software, please consult your card's manual for more information on how to set
+these things.  You should also check your manual if you are unclear as to how
+to tell what settings your card is set at.  The information *IS* important, so
+it's recommended that you know precisely what the settings are.  If you are
+using a card that "emulates" the Sound Blaster (such as the Gravis UltraSound
+through software, or the PAS16), you should check your card's manual on how to
+set the card for Sound Blaster emulation.
+
+For PORT ADDRESS, it's almost always 220.  That seems to be the default for
+most sound cards out there, and unless you know you've switched it away from
+220, it's a safe bet it's still there.
+
+The INTERRUPT is something that varies from system to system.  Planet Strike
+requires that your IRQ be set at 7 or less.  If your computer is at IRQ10, you
+will have to change it to something lower than 8 in order to play the game.
+Apogee does not recommend using IRQ2.  Most of the people we run into who use
+IRQ2 have difficulty getting their programs to run properly, unless they switch
+to a different IRQ channel.
+
+The DMA CHANNEL is one that causes some people problems.  By default, this is
+almost always set at 1.  Unless you have a specific need to change this, it's
+probably still at 1.  If you're running into lockups using digitized sounds
+with Apogee games, this is probably where your problem lies. If you get lockups
+with an Apogee game that has digitized sounds, and this variable is correct,
+try turning off the digitized sounds, and if the game plays right, you probably
+have a DMA conflict.  Adjust the DMA channel on your sound card, then reflect
+said change in this variable in the SET BLASTER line.
+
+The TYPE OF CARD is something that is fairly easy to check out.  If you're
+running a non-Creative Labs sound card, then you want this to either be 1 or 3,
+depending on which card it is.  It's usually 1.  For a genuine Sound Blaster
+card, it's one of these...
+
+1 or 3 for a plain Sound Blaster.  2 or 4 for a Sound Blaster Pro, or a 6 for
+a Sound Blaster 16 or an AWE32).  The factor in choosing between the two
+numbers here is the age of the card.  If it's an older card, then choose the
+smaller number (1 or 2).  Clone cards, or cards that emulate the Sound Blaster
+usually have a T variable of 1.  Experiment to see what works best for you.
+
+I get a lot of questions from people wanting to know why they have to use this
+if they don't have a Sound Blaster.  Well, it's simple.  This command has
+NOTHING to do with what type of command you use.  Apogee games that use
+digitized sounds expect these cards to be at specific settings.  If they are
+not, then the game needs to be told this.  The way to do this is with the
+environment variable BLASTER.  That's why this is needed.  Some of our newer
+programs (Raptor, Hocus Pocus) have specific setup programs which let you set
+up this information manually, but they still require the SET BLASTER line to
+operate at 100% efficiency.
+
+Please remember to add this to AUTOEXEC.BAT, save the file back to disk,
+reboot your computer, and make sure to delete the game config file (CONFIG.VSI)
+before running again.  If you have any further questions, please drop Apogee a
+line.
+
+
+                          ============================
+                          CONTACTING TECHNICAL SUPPORT
+                          ============================
+
+As a registered user of Planet Strike, you are welcome to contact our Technical
+Support and Hints Department for any assistance required.  Technical support
+and hints may be received by phoning (214) 278-5655, Monday through Friday,
+between 8:00 a.m. and 6:00 pm Central Standard Time or writing to Apogee
+Software at P.O. Box 496389, Garland, TX 75049-6389.
+
+To assist us in providing you with faster service, please be at your computer
+system when calling.  Written inquiries are accepted, but the phone is a more
+expedient method of solving problems.  If writing, please include the
+information requested at the bottom of this section.
+
+Please do not call our 800 line for technical support or game hints as this
+information will not be given there.
+
+If contacting us for a game hint, please include (or have with you) your order
+number if possible.  If you purchased Planet Strike directly from Apogee, then
+you are automatically registered for the game.  If you purchased it in the
+stores, then you *must* send in your registration card (original only, please
+do not duplicate the card) in order to be eligible for game hints and
+assistance.
+
+Apogee thanks you very much for playing our games.  Customer satisfaction is a
+high priority of Apogee's, and we strive to please everyone.  Our Technical
+Support staff is available to assist all of our customers in solving any
+technical problems that may be experienced.  Our Technical Support Department
+is available to answer your questions Monday through Friday during the hours of
+8:00 A.M. to 6:00 P.M. Central Standard Time.  The phone number for the Tech
+Support Department is (214) 278-5655.
+
+However, the voice line isn't your only channel of contact.  We are also
+reachable via a fax machine at (214) 278-4670, (24 Hours a Day) or you can
+write to us.  Our mailing address is:
+
+Apogee Software
+POB 496389
+Garland, TX 75049-6389
+United States of America
+
+Apogee Technical Support can also be contacted via a variety of electronic
+medium.  Several major online services are monitored, and Apogee's E-Mail
+addresses are listed below.   Also, a variety of Bulletin Board networks are
+monitored as well, and those are also listed.
+
+If you do contact our Technical Support department, please be at your computer,
+and have it ready for assistance.  If you can't be at your computer, please
+have printouts of the following things available, so that we may assist you
+better.  It may be possible to provide technical support without these things,
+but it will be much more difficult.
+
+The needed files are CONFIG.SYS & AUTOEXEC.BAT, plus what happens when you
+execute the "MEM /C" command (or just MEM if you get an error using MEM /C).
+
+þ Major Online Services
+
+America Online -> APOGEE              CompuServe     -> 74200,553
+Delphi         -> APOGEE              GEnie          -> APOGEE
+Prodigy        -> CXVP94A             NVN            -> JSIEGLER
+FidoNet        -> 1:124/9006          Internet       -> joe.siegler@swcbbs.com
+
+þ Bulletin Board Networks
+
+There are several BBS networks that are monitored for Apogee messages.  Our
+Online Support Representative monitors all of the following BBS networks.
+
+Fidonet, Relaynet (Rime), Intelec, Ilink, U'NI-Net, Smartnet, & City2City.
+All of these BBS networks have Games, Shareware, and Apogee conferences.
+
+And of course, we can be reached on Software Creations, the Apogee BBS!
+
+[ END OF FILE ]

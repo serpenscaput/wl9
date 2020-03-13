@@ -1,0 +1,25 @@
+^P^
+^G 8 8 [WINNER]
+^C[DarkRed]THE BATTLE IS OVER... ^C00
+
+The experiments ended. Mutant Hiedler has been defeated. The laboratory burned down. 
+BJ escaped and retrieved the Sceptre of Destruction.
+
+Is it all over though?
+^P
+^G 8 8 [WINNER]
+Over or not, BJ takes a vacation that he really deserved. The world surely owes him 
+some beer now.
+
+... but the wolves don't sleep. The end?
+^P
+^C[DarkRed]CONGRATULATIONS! ^C00
+
+Thank you for playing my mod! I hope you enjoyed it as much as I did making it.
+
+Also if you want to check out more mods from me, give "Wolfenstein 3D - Fourth Encounter" 
+a try.
+
+And again, check out the "ONS-credits.txt" file for the credits. I've got some help 
+from some really nice people. :)
+^E

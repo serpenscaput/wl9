@@ -1,0 +1,34 @@
+^P
+^C8f Non c'e' inferno!
+^C00
+L'Uber Soldat e' stato distrutto. Hitler, al contrario di tutto quel che si diceva, 
+non era morto.
+Ora il suo corpo giace a terra, dilaniato dai colpi delle tue armi da fuoco. Tutto 
+quel che hai visto, demoni compresi, sono stati degli esperimenti volti a resuscitare 
+Hitler.
+
+^P
+^C00
+Immediatamente arriva TexZK che non sa piu' che cosa dire di te.
+^C67 "Eccellente, Dr.Gnegno! Non mi immaginavo che ti potessi spingere a tanto. Sono 
+lusingato."
+^Cf7 "Grazie, Presidente. Ora vorrei avere un piccolo periodo di tranquillita'"
+^C67 "Proposta accettata, Dottore! Ma mi sa che dopo quel periodo non sara' poi cosi' 
+tranquillo!"
+^Cf7 "Cosa intende dire con questo?"
+^C67 "Vede, Dr.Gnegno... fra non molto la mia carica finira'. Lascero' a lei tutto 
+il mio potere"
+^Cf7 "Non so come ringraziarla, Signore!"
+^C67 "Sarei io a doverla ringraziare! Bene, ora e' il momento di lasciarla alla sua 
+vacanza. Arrivederci!"
+
+^P
+^C00
+E cosi' esci dall'edificio e compi un viaggio fino a casa. Tutti gli orrori che hai 
+visto ti si rigirano nella testa come se fosse stato tutto un sogno.
+Il mondo ora non sara' piu' oppresso dai Nazisti. Complimenti!
+^G90,100,5
+^L160,132
+^C20 THE END
+
+^E

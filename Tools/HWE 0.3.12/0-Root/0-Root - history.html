@@ -1,0 +1,179 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<title>Revision history</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+<h1>Revision history</h1>
+
+<p><u>Version 0.3.12 - 02/20/2017</u></p>
+<ul>
+<li>Fixed a bug in the map handler which prevented reading map planes at offset 0</li>
+
+<li>Fixed some memory leaks in the dialog which provides statistics for individual 
+map objects</li>
+</ul>
+
+<p><u>Version 0.3.11 - 07/02/2016</u></p>
+<ul>
+<li>Added a dialog which provides statistics for individual map objects</li>
+<li>Fixed a typo in the clipboard manager dialog</li>
+<li>Revised and updated help file</li>
+</ul>
+
+<p><u>Version 0.3.10 - 06/15/2016</u></p>
+<ul>
+<li>Fixed some bugs in the map compression algorithms</li>
+<li>Fixed some tooltips not showing up over the buttons</li>
+<li>Fixed some memory leaks in the WAD file handler</li>
+<li>Added error handling code in case a project directory does not exist anymore</li>
+
+</ul>
+
+<p><u>Version 0.3.9 - 06/14/2016</u></p>
+<ul>
+<li>Fixed a bug in the map exporter dialog where closing the dialog with the window 
+close button would export one or more maps into the previously chosen file format 
+at the previously selected file location</li>
+<li>Fixed a bug in the map rotation feature</li>
+<li>Fixed grammar mistakes in several dialogs</li>
+<li>Code optimizations in various parts of the editor</li>
+<li>Reimplemented map compression algorithms</li>
+</ul>
+
+<p><u>Version 0.3.8 - 02/12/2016</u></p>
+<ul>
+<li>Fixed a bug where the "ZoomFactor" option was reset in the map definition file 
+of a project when the project was reloaded</li>
+</ul>
+
+<p><u>Version 0.3.7 - 10/23/2015</u></p>
+<ul>
+<li>Support for Super 3D Noah's Ark</li>
+<li>Changed color of the map grid</li>
+<li>The validation checks for map filenames and map definition filenames are now 
+case insensitive</li>
+<li>Added ability to browse the list entries of the map symbols and map symbol types 
+dialog with the arrow keys</li>
+<li>Fixed some UI bugs in the map symbols and map symbol types dialog</li>
+<li>Fixed a memory leak in the map symbol types dialog</li>
+<li>Fixed a bug that prevented the "Check for update at startup" option from being 
+written to the main configuration file</li>
+<li>Revised and updated help file</li>
+</ul>
+
+<p><u>Version 0.3.6 - 08/18/2015</u></p>
+<ul>
+<li>Reimplemented flood fill functionality</li>
+<li>Fixed a bug in the zoom slider control that didn't allow to directly select intermediary 
+zoom factors</li>
+<li>Fixed a bug in the solid rectangle tool that didn't allow to place rectangles 
+that are only 1 tile wide</li>
+</ul>
+
+<p><u>Version 0.3.5 - 07/15/2015</u></p>
+<ul>
+<li>Autofloor functionality now takes secret rooms into consideration</li>
+<li>Fixed grammar mistakes in several dialogs</li>
+</ul>
+
+<p><u>Version 0.3.4 - 03/27/2015</u></p>
+<ul>
+<li>Added WAD file support (Used in source ports such as ECWolf)</li>
+<li>Added a project files selection dialog</li>
+<li>Last opened project is now remembered by the "Open Project" option</li>
+<li>The current map number is now displayed in the window title</li>
+<li>Reduced the maximum map size to 180x180 tiles due to restrictions of the GAMEMAPS 
+file format</li>
+<li>Fixed several bugs in the "Find &amp; Replace" functionality</li>
+<li>Fixed broken Blake Stone support</li>
+</ul>
+
+<p><u>Version 0.3.3 - 03/02/2013</u></p>
+<ul>
+<li>Fixed a bug that prevented the map editing area from refreshing correctly when 
+the "Show Floor" option was deactivated</li>
+<li>Fixed a bug that prevented the software update checker from comparing program 
+versions correctly</li>
+<li>Fixed a bug that prevented the "Find &amp; Replace" functionality from working 
+correctly in all cases</li>
+</ul>
+
+<p><u>Version 0.3.2 - 08/22/2011</u></p>
+<ul>
+<li>Ability to display map information (Amount of map type objects in the currently 
+selected map)</li>
+<li>Ability to create map definition structures for unknown file extensions within 
+HWE</li>
+<li>The main window of HWE is now completely variable in size</li>
+<li>Native support for the floppy disk version of Corridor 7</li>
+<li>Ability to save maps in WDC compatible format</li>
+<li>Additional exception handling</li>
+<li>Revised and updated help file</li>
+<li>Map clearing functionality</li>
+<li>Numerous bug fixes</li>
+</ul>
+
+<p><u>Version 0.3.1 - 06/05/2011</u></p>
+<ul>
+<li>Additional confirmation dialog boxes</li>
+<li>Map editing area is now variable in size</li>
+<li>Zoom functionality for the map editing area</li>
+<li>Support for the Spear of Destiny mission packs</li>
+<li>Mouse wheel support for the vertical scrollbar of the map editing area</li>
+<li>Ability to apply a new map size to all maps at once</li>
+<li>Ability to search tiles / objects also by name</li>
+<li>Ability to flip or rotate a copied map part</li>
+<li>A MRU list (recent-files list)</li>
+<li>Software update checker</li>
+<li>Numerous bug fixes</li>
+</ul>
+
+<p><u>Version 0.3 - 04/24/2011 (First public release)</u></p>
+<ul>
+<li>Support for extended map names (32 characters)</li>
+<li>Increased map size limit (from 196x196 tiles to 256x256 tiles)</li>
+<li>Ability to easily search for and replace tiles / objects in a map</li>
+<li>Revised and updated map definition file format (e.g. added map symbol categories 
+and a value for the direction the map symbols are facing)</li>
+<li>Additional map tools (e.g. flipping planes or rotating maps)</li>
+<li>Revised and updated help file</li>
+<li>Numerous bug fixes</li>
+</ul>
+
+<hr>
+
+<p><u>Version 0.2 - 12/20/2010</u></p>
+<ul>
+<li>An editor to add and edit the map objects inside of HWE</li>
+<li>Support for Blake Stone: Aliens of Gold, Blake Stone: Planet Strike, Corridor 
+7 and Operation Body Count</li>
+<li>Slightly improved Autofloor functionality (using a non-recursive algorithm now 
+and is no longer bound to fixed floor codes)</li>
+<li>Slightly improved map definition file format (comes closer to the MapEdit format 
+now)</li>
+<li>Slightly improved flood fill functionality (using a non-recursive algorithm now)</li>
+
+<li>Slightly improved undo / redo functionality (using less memory now)</li>
+<li>The first version of the help file</li>
+<li>Numerous bug fixes</li>
+</ul>
+
+<p><u>Version 0.1 - 04/20/2010 (First alpha release)</u></p>
+<ul>
+<li>Map editing</li>
+<li>Clipboarding</li>
+<li>Exporting and importing (multiple) maps (in ChaosEdit, HWE, FloEdit, MapEdit, 
+and WDC map format)</li>
+<li>Unlimited map plane adding support</li>
+<li>Unlimited map adding support</li>
+<li>Undo / redo functionality</li>
+<li>Autofloor functionality</li>
+<li>High and low byte editing (e.g. useful for the textured floor and ceiling feature)</li>
+
+</ul>
+</body>
+</html>

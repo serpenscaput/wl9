@@ -1,0 +1,31 @@
+WMAP -- v3.0
+============
+
+Here is a program to generate the maps for Wolfenstein. It uses the files
+MAPHEAD.WL1 and MAPTEMP.WL1 that come with the game, and the produces files:
+
+       LEVELnn.MAP  --  the map for level nn
+
+To display a description of the input syntax enter:
+
+       WMAP /?
+
+The source code is also included for those who like to mess around with
+things. All comments about the prog. will be greatfully received.
+
+Hosko
+
+
+History
+-------
+  v1.0 - Original version.
+  v2.0 - Blue SS guards marked separate to normal guards.
+         Key updated.
+         Code generally improved.
+         Command line parameters included.
+  v2.1 - Minor mods.
+         Map interpretation errors corrected.
+  v3.0 - Map start address taken from MAPHEAD.WL1 .
+         Map names taken from MAPTEMP.WL1 .
+         /k switch can be used on its own.
+         /h switch included - prints map as hex dump.

@@ -1,0 +1,135 @@
+Hitler's Ark
+by Dr. Chainsaw Studios '07
+
+Story;
+Like every other mod the war proved to be a real bitch to Hitler and pals. 
+Inspired by Noah's Ark he decided to take two of each nazis, 2 SS, 2 Officers etc 
+and build an ark to escape.
+However due to the toxic fumes of the labs the nazis started to reproduce at a rapid 
+rate. 
+It wasn't too long before they managed to burst out of their cages and wreck havoc 
+on the ark.
+
+There were two options for Hitler; Put the nazis down or put them to sleep. He was 
+inspired by Super Noah's Ark 3D.
+So he wipped out his sling shot and Axe and then grabbed some tranquilazers. "Hasta 
+La Vista baby!"
+
+You play the part of Hitler as you start from the bottom floor of the ark right to 
+the deck. Godd Luck!
+
+---------------------------------------
+
+Features;
+9 New Levels
+Multiple Ceiling + Floor Textures
+Animated dead guards
+Full Screen
+More Objects
+Directional Sprites
+Animated Objects
+Seamless Level Progression
+Ingame Messages 
+Level name on the Get Psyched screen
+Changed Cheat Codes
+Inter Mission Screens
+New Doors
+Muntant's can't open doors
+Quit Messages replaced with graphics
++ More
+
+---------------------------------------
+
+Credits;
+
+//Code Toturials;
+
+Brothertank;
+Inter Mission Screens
+
+MCS;
+Adding Objects + Walls
+Enabling Helpart/Endart
+
+Ripper;
+Directional Sprites
+Removing the scalers
+Full Screen Mode
+Different Door Sides
+
+Darkeone;
+Floor and Ceiling Textures
+
+Adam Biser;
+Multiple Ceiling + Floor Textures
+Level name on the Get Psyched screen
+
+WSJ;
+Animated Objects
+In-Game Messages
+
+WLHack;
+Moveable objects
+
+Haasboy;
+Quit Messages replaced with graphics
+
+//Grahpics;
+
+Walls;
+Flags - Lord Raffles
+Wood - BJ Rowan
+Book Case - Areyep
+Lab Textures - Triston Van Putten
+Metal - Triston Van Putten
+Boxes - Triston Van Putten
+Brown Brick Walls - Areyep
+
+Sprites;
+Tables - Areyep
+Torches - Areyep
+Lab Tables - Triston Van Putten
+Axe + chaingun thing- Max
+Metal Window bars - WLHack
+Railings - WLHack
+Schabbs - General Blitzkanonier
+Slingshots ripped by Dumscheissekopf 
+
+Sounds; 
+Id software
+
+Music;
+Judas Priest, Iron Maiden, Alice Cooper, Guns 'N Roses, Aerosmith
+
+Original Wolf3d Graphics by Id Software
+
+//Tools used;
+Borland 3.1 C++: Code Compiling
+Paint/Fireworks: Graphics/textures/sprites editing
+ChaosEdit: Importing graphics/textures/sprites/sounds/ and Level Creation
+Notepad: Soure Code Editing/This/Helpart etc
+IMF Creator; Music
+
+//Other Credits;
+Lot's of Graphics and Sounds by Wisdom Tree.
+Ronwolf1705 and Codetech84 for helping me make animated dead guards.
+
+And of Course ID Software for the classic Wolf3d and Spear of Destiny.
+
+---------------------------------------
+
+Hints;
+You may also experience the sound cutting out. If this happens just press T-A-B to 
+fix it.
+When you approuch a barrel puzzle it is a good idea to save your game. 
+
+---------------------------------------
+
+Thank You for Playing Hitler's Ark, 
+If you enjoy this then you should check my other mods 'Castle Hasselhoff' and 'Nazis 
+With Attitude'.
+If you would like to commet on the game drop me an Email.
+
+Michael Collin '07
+
+mikecollin@btinternet.com

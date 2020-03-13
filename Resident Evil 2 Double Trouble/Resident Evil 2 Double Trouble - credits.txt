@@ -1,0 +1,80 @@
+-- Credits --
+
+I'ld like to thank the following for the resources used in order to create Double 
+Trouble:
+
+Myself (Ryan de Haast) - Putting Double Trouble together, source code editing, new 
+graphics, new sounds, new levels;
+Parafiction (Tristan van Putten) - Source code Tutorials, graphics from "The Final 
+Solution", Coding Help;
+Areyep (Steve Walley) - Graphic Tutorials (www.areyep.com), Graphics from "Spear 
+Ressurrection";
+MCS (Martin Bonnet) - Source Code Tutorials, Coding Help;
+Ripper - Source Code Tutorials, Coding Help;
+Darkone - Source Code Tutorials;
+BrotherTank - Source Code Tutorials, Coding Help;
+Codetech - Source Code Tutorials;
+DugTrio - Source Code Tutorials;
+WSJ - Source Code Tutorials (Sprite Offsets);
+Poet (Paal Olstad) & his brother - Source Code Tutorials, Coding Help;
+James Ingham - Source Code Tutorials, Graphics from "Project Vertilgung", Coding 
+Help;
+B.J. Rowan - Source Code Tutorials, Graphics from "Project Totengraeber;"
+Adam Biser - Source Code Tutorials, Creating WDC & Recolor BMP;
+Florian Stohr - Creating Floedit;
+Majik Monkee - Graphics from "HOS" & his "Image World" website;
+KyleRTCW - Coding Help;
+iD Software - Creating Wolfenstein, Doom, Duke Nukem, Quake, Heretic, etc (used graphics 
+from games);
+Mirage Interactive - Creating Mortyr (Used Sounds from games);
+
+-- Beta Testers --
+
+Ryan de Haast
+Ringman
+Sonicyouth314
+Raistlin
+
+-- Editor's Used --
+
+Mapedit 8.4 - Warren Buss
+Floedit 2.0 - Florian Stohr
+Paint Shop Pro 5 - Jasc Software
+WDC 1.8.219 & later - Adam Biser
+Recolor BMP 1.0.12 & later - Adam Biser
+Gold Wave 5.06 - Gold Wave Inc
+Borland C++ 3.1 - Borland
+Paint 5.1 - Micorsoft
+Sound Recorder 5.1 - Microsoft
+XWE(eXtendable Wad Editor) 1.12 - Csabo
+Wave Flow 5.1 - Xavier Cirac Vidal
+SpriteMaker 1.0.0.48 & later - Adam Biser
+
+-- Other Resources -- 
+
+http://www.graphtallica.com - Tons of resources;
+http://www.grsites.com - Great Textures;
+http://www.areyep.com - Graphic Tutorials & Source Code Tutorials;
+http://www.chaos-software.de.vu - Hardcore source code tutorials;
+http://mmimageworld.tripod.com - Hosted by Majik Monkee, tons of enemy resources;
+
+http://diehardwolfers.wolfers.com - Tons of help (source code tutorials, graphics 
+help etc).
+
+-- Original Design --
+
+iD Software & Apogee - Creating and Distributing Wolfenstein & Spear of Destiny and 
+for releasing the source codes.
+
+-- Final Thanks --
+
+A Final Thanks goes to all those that helped me in the creating of Double Trouble, 
+if your name is not mentioned above, I do thank you for your help to. Enjoy Double 
+Trouble as it took me 3 years to make. Double Trouble is a sequel to my first mod 
+Rising Evil
+
+-- Contact Details --
+
+Visit my site http://thewolfensteincabin.cjb.net "The Wolfenstein Cabin" for Tons 
+of resources and help on creating your own Wolfenstein mod or else you could e-mail 
+me at the following rddehaast@mweb.co.za.

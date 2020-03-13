@@ -1,0 +1,182 @@
+The Spear
+
+Storyline
+1945
+" With the spear in our posession we have the power to 
+rule the world, the world can ruled ruled by fear"
+Adolf Hitler
+
+"Only the loyal in blood can be loyal in siprit"
+Heinrich Himmler
+
+The Holy Spear, the Spear of Longinus, Adolf Hitler found the spearhead
+in Vienna's Hoftberg Museum, took it to a Castle Wolfenstein, which is the heart 
+of where 
+the secret Nazi scheame is arranged in a room at the very peek safely
+guarded. Hitler discovered he had new powers with this holy rellic,
+but the power is all in the mind. Rumour has it that the holy Spear was stolen by
+
+an evil castrated magician by the name of Klingsor, who knows exactly how the Spear
+
+ended up in the hands of Adolf Hitler?
+The Allies have a plan, if we can rescue the Spear we can put an end to The Third 
+Riech,
+our only hope is Captain BJ Blazcowicks also known as The One Man Army.
+You are Captain BJ Blazcowicks the One Man Army, your mission is as follows,
+you must enter a Castle Wolfenstein and rescue the Spear, this castle is situated 
+
+in some forest,  good luck BJ and try to come back in one piece
+with the spear.
+
+About
+
+Thank you for downloading The Spear, my 2nd Wolfenstein mod,
+this mod is a prequal to my first mod End of the third riech, the 
+storyline of The Spear takes place before End of the third riech, the
+storyline is loosely based on the original Spear of destiny, plus
+largely based around a book by James Herbert The Spear,
+which is what this mod is named after.
+
+Although it's actually a Wolfenstein mod rather than a Spear
+of Destiny mod ( the reason being is originally I couldn't
+compile the SOD code ). But alot of modifications
+were made to make this mod as close to Spear of destiny 
+as I could possibly achieve.
+
+
+
+
+
+The Spear features are as follows
+
+
+
+30 seamless levels ( 18 + 1 normal levels, 2 secret levels, 6 Super Secret levels 
+and 2 Ultra Secret levels ).
+Many new and imported vswap graphics and sounds.
+New imported music.
+New VGA graphics.
+Changed ceiling colours and multiple floor colours.
+Changed menu colour.
+Changed screen colour.
+New End art.
+New Demos.
+25 ammo crate added.
+Boss action replays removed, all bosses drop appropriate keys.
+Spear of destiny added to make it more like a Spear of destiny mod.
+
+New features for version 3.1
+2 extra keys added 
+
+
+Level names
+
+Level 1 White forest
+It's snowing, don't ask me why but you BJ park your truck
+in by some trees and have to find your way into the Castle nearby.
+
+Levels 2-5 tunnels
+The castle is an old fortress, to get to the castle you have to travel
+through a series of underground tunnels, but it gets more civilised as you go up.
+
+
+Levels 6 - 10 dungeons
+After the tunnels your still in the very lower levels of the old fortress,
+the dungeons are where people are taken prisnors, many people are left to 
+die and perish here.
+
+Levels 11 - 16 the castle
+You have made it to the main castle, this castle is very old, here you
+will find mutents, these mutents are DR Scabb's older creations
+and what happened to some of the prisnors who survived.
+The castle is where Dr Scabb's use to work and live,
+Dr Scabb's has since moved on to a bigger facility
+and left these mutants here to reside.
+
+Level 17 ramparts
+Your mission is nearing a end, here you are on the top of the castle where you can 
+get 
+the best view from down below.
+
+Level 18 Part 1 castle peek
+At the very peek of the castle in a large open room you 
+have one last fight to gain acess to The Spear.
+
+Level 18 Part 2 
+After taking The Spear you are sucked into Hell 
+to fight with the Angel of Death to find out who is 
+worthy of wieldering The Spear.
+
+Secret levels
+There are 2 secret levels that can be accessed within the first 18 levels. 
+
+Super Secret and Ultra Secret levels
+Access to these levels can be very well hidden.
+
+
+
+
+
+Credits
+First off I would like to thank Id Software for the relese of Wolfenstein 3D and 
+it's
+prequal Spear of Destiny, thanks also to Form Gen Corp for the 2 Spear addons,
+Return to danger and Ultimate chalnge. Thanks also to Id Software for relesing
+the Wolfenstein 3D Source code. Thanks also to the people who make other Wolfenstein
+
+editing utilities avalible for the general public to use like Floe Edit and Chaos 
+Edit.
+Credit goes to BJ Rowen for use of vswap graphics and sounds from his Project Totengraber,
+
+Areyep and MCS for use any vswap graphics, sounds and music from Spear ressurection 
+and End of Destiny, Form Gen 
+Corp for use of vswap graphics and sounds from their 2 Spear mod mission packs, Id 
+software for use of
+vswap graphics, sounds, music and some vga graphics used in original Wolfenstein 
+3D and Spear of destiny, Paal 
+Olstad for use of vswap graphics from his Wolfenstein mods, Ken O Brian for use of 
+the white guard from a SOD mod Harry Senior for use of brown mutant from SR's Wolf 
+mods,
+Apogee for use of vswap graphics that were for a Wolfenstein sequal that never was, 
+Laz Rogers for use of vswap graphics
+and sounds from Mac Wolfenstein and Wolfendoom, Nate Smith for use of vswap graphics 
+and sounds
+from Beyond Wolfenstein, WSJ for use of sounds from his mods, plus a few vswap graphics 
+that I hand drew for this mod.
+Reactor for his collection of IMF files and credit goes to whoever made any of the 
+imported music used in this mod.
+Finally I would like to thank some people for uploading Source code tutorials, Thanks 
+to all who uploaded source code tutorials on
+the Wolfenstein 3D Dome and Mr Lowe's Wolfenstein 3D page, thanks to Areyep and MCS 
+for Source code tutorials
+( namely the seamless level shortcut ), thanks also to Paal Olstad for Source code 
+tutorials on his Wolfenstein page, thanks
+also to Luke Strauman for his Wolfenstein page of Source code tutorials, especially 
+the Spear code to use 
+in Wolfenstein.
+Thanks again to everyone for use of their content in this mod, I hope this will be 
+a mod that many will be proud of in 
+years to come.  
+
+
+
+Conditions
+You may distribute this mod as freeware ( for non profet use only ) , you may use 
+this mod as a base for your own mod, if you want to use vswap graphics or sounds 
+from this mod fine by me, credits as mentuined above, you may use the levels 
+in this mod for your mods, that's fine by me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

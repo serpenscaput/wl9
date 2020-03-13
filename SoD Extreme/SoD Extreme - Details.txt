@@ -1,0 +1,41 @@
+SoD Extreme by Team RayCast (2013)
+--------------------------------
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+
+Thanks for playing SoD Extreme. This is a mapset of Sod with a few minor changes 
+like the fact that each level has been remade with a basically unlimited amount of 
+items and guards. There have also been the addition of map names on the Get Psyched 
+screen and Boss levels have been changed to timed levels rather than a points reward 
+type.
+
+CREDITS
+-------
+Mapping - RonWolf1705 & Dean
+Coding - Andy_Nonymous
+Title Screen - Lozer_42
+Beta Testing - LinuxWolf & DoomJedi
+
+A list of who made which level follows;
+Level 01 - Ron
+Level 02 - Ron
+Level 03 - Dean
+Level 04 - Ron
+Level 05 - Ron
+Level 06 - Dean
+Level 07 - Ron
+Level 08 - Dean
+Level 09 - Ron
+Level 10 - Dean
+Level 11 - Ron
+Level 12 - Dean
+Level 13 - Ron
+Level 14 - Dean
+Level 15 - Dean
+Level 16 - Dean
+Level 17 - Ron
+Level 18 - Dean 
+Level 19 - Ron
+Level 20 - Dean
+Level 21 - Ron

@@ -1,0 +1,40 @@
+SoD Extreme II by Team RayCast (2016)
+--------------------------------
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+
+Thanks for playing SoD Extreme II. Some new coding features have been added this 
+time:
+-exploding barrels
+-breakable column, barrel, oil drum, vase 
+
+CREDITS
+-------
+Mapping - RonWolf1705 & Dean
+Coding - Andy_Nonymous & Linuxwolf
+Title Screen - Lozer_42
+Beta Testing - LinuxWolf & DoomJedi
+
+A list of who made which level follows;
+Level 01 - Dean
+Level 02 - Dean
+Level 03 - Ron
+Level 04 - Ron & Dean
+Level 05 - Dean
+Level 06 - Ron
+Level 07 - Dean & Ron
+Level 08 - Ron
+Level 09 - Ron
+Level 10 - Ron
+Level 11 - Dean
+Level 12 - Ron
+Level 13 - Dean
+Level 14 - Ron
+Level 15 - Ron
+Level 16 - Ron
+Level 17 - Dean
+Level 18 - Ron 
+Level 19 - Dean
+Level 20 - Ron
+Level 21 - Dean

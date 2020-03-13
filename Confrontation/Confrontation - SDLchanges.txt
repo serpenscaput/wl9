@@ -1,0 +1,34 @@
+Confrontation by Lakota Bucksnort (wolf3d mod)
+original DOS release: 26 January 2010
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on 2nd.zip "On the Trail of Schabbs" EXE by BJ Rowan:
+
+Seamless levels (MCS, Chris Chokan tutorials)
+Music order changed
+Ceiling colors changed
+No secret levels
+
+Further improvements in SDL version:
+
+Allow warping to level 10
+Endgame ratios adjusted for 10 levels
+New par times on former boss and secret levels
+Endgame ratios restored in YOU WIN! screen
+Increased MAXACTORS and MAXSTATS slightly
+SDL defective hollowalls fixed (Chris Chokan)
+Tab-U real-time ratios
+Added treasures to overhead map (Chris Chokan)
+Check diagonal floor code when converting deaf floors (for level 2)
+
+Removed two inaccessible treasures on level 1
+Minor floor code fixes on level 1, 5, 6
+Swapped keys on level 7 (silver locked door area inaccessible)

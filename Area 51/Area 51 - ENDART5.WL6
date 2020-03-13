@@ -1,0 +1,88 @@
+^P
+^C7d HELLO YOU! 
+^G32,16,3
+
+^C00 So, you'd like to have Read This! and End Art altered. To get started, quit 
+the game and open the file Helpart.wl6. There you'll find out what to do and how 
+to do. Good luck and have fun!
+
+
+
+^C84 Tristan van Putten
+^C85 tvanputten@yahoo.com
+^C86 http://www.geocities.com/tvanputten/
+
+^E
+
+INTRODUCTION
+
+Editing Read This! and End Art isn't that complicated. All you need is the
+altered EXE(see my website), the Helpart and Endart files and a text editor.
+Handiest to use is Dos EDIT(you can get to this one by typing EDIT in the Dos
+Prompt). To get started, read on or read further below the next line.
+
+BASICS
+
+To start a new page, create a new blank line and type on it: ^P. Behind the
+^P you may not type anything else. Then you create another blank line and
+there you place a ^C plus the color you want. Use it just like you do with
+ceiling colors, but now you type, for instance, 1d ONCE, not twice. Basic
+text has the code ^C00 , which indicates black. You can play around with it.
+Take a look at the first page above(which can be used as backup).
+
+As you can see there, the text is written behind each other, not 1 sentence
+per line. This HAS to be done by you too, or else the text will screw up.
+Take a look within the game often too see if you have to start a new page
+yet!
+
+ADDING GRAPHICS
+
+Adding graphics is pretty easy, but you have to watch where you place it.
+The graphics you can use are those in the VGAGRAPH file. To add a graphic,
+create a blank line and type on it:
+
+^G(vertical spot),(horizontal spot), (graphic number)
+
+For example, to have the picture with B.J. stealing a dead guard's pistol:
+
+^G32,16,3
+
+You get it? Just play around with the offset to get it right.
+You can use almost all graphics. Below you can read which ones not to use.
+
+1,2,6,7,8,9,86,87,89,135-148.
+
+Note: Don't use any graphics behind 135! These are IGrab pictures not
+      accessible from FloEdit. FloEdit doesn't recognize them and cannot
+      alter them(maybe something for an update , Mr. Stohr?). The rest
+      of the graphics can be used.
+
+To tell Read This! that the text stops(not after a line, but at the very end
+of your messages, let's say after 99 pages), create a new line and type:
+
+
+^E
+
+You MUST have this one at the end, or else you'll get a Wolfenstein Error:
+
+様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
+              Wolfenstein 3-D Error!                 
+CacheLayoutGraphics: No ^E to terminate file!               
+Call Apogee at 1-800-GAME123 and tell them about this. Thanks.
+様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
+
+Ofcourse, you DO realise that you can't get help from Apogee with this, so
+put in the ^E, OK?
+
+Well, that'll be it for now. Have fun with this alteration and tell me if
+you don't understand something or it doesn't work. Visit my website at:
+
+http://www.geocities.com/tvanputten/
+
+or send me an email at:
+
+tvanputten@yahoo.com
+
+Thanks already.
+
+Tristan van Putten, Saturday the 26th of August 2000

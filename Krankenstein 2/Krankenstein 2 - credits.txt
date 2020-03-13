@@ -1,0 +1,43 @@
+This mod was made with Floedit 2, Paint Shop Pro 7 and my own 'Seefiles' program.
+
+The game uses the original Wolfenstein 3D v1.3 engine.
+
+  I did most of the graphics and a few sounds myself but included some,
+for he most part modified, from Duke Nukem 3D and the Wolfenstein mods
+Hotel Romanstein,
+Christmas Wolf,
+Lost Episodes,
+Schabbsdoom (for dr. Krankenstein).
+
+  The paintings are by Munck, Chagall and Rembrandt,
+the photos are of Marilyn Monroe and queen Margrethe II of Denmark.
+I was inspired by the thriller 'Coma' and the first danish private hospital, 'Mermaid 
+Clinic'.
+If you like, you may copy the WSWAP.WL1 file to a 'Krankenstein (I)' directory and 
+use
+the improved graphics for that game.
+
+  About the game...
+The levels are a bit more difficult than in Krankenstein I,
+you must use various stealth strategies. and solve a few mazes.
+No keys are behind secret doors, some (but not all) locked doors are there for logical 
+reasons
+and need not (or can't) be opened. You don't have to kill all enemies or open every 
+secret door.
+
+  The story...
+Dr. Krankenstein is back, thanks to quite a few organ transplants.
+Unfortunately his brain ¨was intact as well as his dear wife,
+(he may have his reasons for making all those clones.)
+He has started up a new hospital somewhere else, and YOU, equipped with a temporary 
+License to Kill,
+is sent out to sneak around and record the goings-on. Unhappily you were captured 
+instantly
+by the security staff and dumped in a slightly disturbing room for further questioning.
+
+You must fulfill your task and (hopefully) get out alive.
+
+  For more fun:
+      make use of your dirty phantasy.
+
+Vincent  (http://vincentius.dk)

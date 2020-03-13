@@ -1,0 +1,286 @@
+
+          *************************************************
+          *    MapEdit 7.0  - Wolfenstein Map Editor      *
+          *************************************************
+
+    Ver 7.0  - Bryan Baker & Dave Huntoon (Expanded statistics features,
+                                           Read/Write filename may now be
+                                           specified, Improved program error
+                                           reporting & logic during startup)
+
+    Ver 6.1  -  Matt Gruson (Spacebar toggles between Map and Object modes,
+                             PAGEUP/PAGEDWN scroll legend display, add right
+                             mouse button to have own value, Shift + left mouse
+                             button memorizes value from map)
+
+    Ver 6.0  - Dave Huntoon Modification (Help, Copy, Paste, Exchange,
+                                          Write and Read)
+    Ver 5.0  - Bryan Baker  Modification (Display of critical statistics)
+    Ver 4.1a - Dave Huntoon Modification (Spear of Destiny compatibility)
+    Ver 4.1  - (c) 1992 Bill Kirby
+
+
+To use MapEdit, unpack the archive into the directory where Wolfenstein
+is installed.  Type MAPEDIT to start the editor.
+
+
+KEY FUNCTIONS:
+
+arrows - select level to view
+     Q - quit (you will be prompted to save)
+     C - clear level (grey brick around the outside inside filled with
+                      selected map value)
+     O - toggle object display on/off
+     F - toggle floor display on/off
+     S - toggle between Statistics and Help display
+     M - Memorize present map (into clipboard)
+     T - Transfer clipboard map into present map
+     E - Exchange clipboard map with present map
+     W - Write present map to a floor file
+     R - Read a floor file from disk into clipboard
+     V - Display MapEdit version number
+     1 - Display only Level 1 guards
+     2 - Display only Treasure and One-ups
+     3 - Display only Level 3 guards
+     4 - Display only Level 4 guards
+     5 - Display only Super guards
+     6 - Display only Ammo, Guns, Food, First Aid, and One-ups
+     A - Display all objects
+<Space>- Toggles between object and map legend
+<Pgup> - pages scroll legend display up
+<Pgdwn>- pages scroll legend display down
+
+*** NOTE:
+*** If any of the commands in the Help display flash Red then there was an
+*** error executing the command.  See command description below.
+
+
+GENERAL DISCUSSION OF MAP DATATYPES:
+
+In Wolf 3-D there are two different types of data that can be assigned
+to a given square.  One is known as "map" data, and the other is "object"
+data.  Examples of "map" data are: various wall types, doors, and "floor
+codes".  "Object" data is all of the other scenery (treasure, food, ammo,
+tables, etc.)  Guards are also considered to be object data.  MAPEDIT
+requires map and object "definition" files to specify the symbol and
+provide a short bit of text to remind you of what each specific item is.
+These definition files are described below.  At any time, MAPEDIT is in
+either "Map Mode" or "Object Mode" depending on which Legend is currently
+being displayed.  You toggle the mode by either pressing the space bar or
+clicking the appropriate box below the Legend window.
+
+The left and right mouse buttons can each be assigned a "map" code and
+an "object" code.  Thus you can have 4 different codes (2 map and
+2 object) at your fingertips.  You switch between them by toggling the
+Legend.  You can assign values to the mouse buttons in 2 ways: (1) by
+selecting the desired item in the Legend window, or (2) by "memorizing"
+an item by holding either shift key and clicking the desired mouse button
+while pointing to the desired item in the Map window.  Note that the
+datatype (map or object) that is memorized depends on the current Legend
+mode.
+
+The map or object datatype that is currently assigned to the left mouse
+button is displayed in the lower left corner of the MAPEDIT window.
+Unfortunately, the screen is very full, and there is no room to display
+the current value assigned to the right mouse button.  You've got to
+remember it. Sorry.
+
+
+MAP WINDOW:
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking either
+mouse button will change either the map or object data in the map to the
+item currently assigned to that button.  The datatype that is assigned
+(either map or object) depends on the current Legend mode.
+
+Holding down the shift key and selecting a map/object value using the
+left/right mouse button will memorize that value for that button.  (See
+General Discussion above)
+
+
+LEGEND WINDOW:
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN or pressing the page up/down keys scrolls through the
+list.  Clicking on MAP/OBJ switches between the map and object lists.
+Clicking on an item in the list with the left mouse button makes it the
+"current" item for the left button.  Clicking on an item using the right
+mouse button will make it the "current" item for the right button.
+
+After each guard, there is a 3 character description which specifies
+what level the guard is, whether they are moving or stationary, and
+what direction they are facing/walking.  For example, "1/S/E" means
+a level 1 guard, stationary, facing east.
+
+
+MEMORIZE, TRANSFER AND EXCHANGE FUNCTIONS:
+
+***********************************************************************
+***** Note: Always make backups of your gamemap files before      *****
+***** using these commands. Save your MAPHEAD.WL1 and MAPTEMP.WL1 *****
+***** or MAPHEAD.WL6 and GAMEMAPS.WL6 or MAPHEAD.SOD and          *****
+***** GAMEMAPS.SOD.                                               *****
+***********************************************************************
+
+With these operations you can move maps from one floor to another.  If you
+want to copy a floor, move to the floor you want to copy and press the 'M'
+key.  The Memorize line in the help display will turn yellow indicating that
+you have a stored floor in the clipboard.  This will now stay yellow for the
+rest of the session because there will always be something stored.  You can
+now Transfer (Paste) the Memorized floor wherever you want.  Move to the
+floor where you want the stored floor to be and either press 'T' to Transfer
+the stored floor on top of the presently displayed floor or press 'E' to
+exchange the displayed floor with the Memorized floor.  The Exchange function
+allows you to easily move the floors up or down a level.  If the Memorize line
+in the Help display is not yellow (nothing stored) these functions won't work.
+They will flash red for this case.
+
+If you use the Transfer operation you will lose the floor that you copied the
+Memorized floor on top of.  If the Statistics display is on the display will
+flip to the help display during the Memorize, Transfer and Exchange operations
+and then flip back to the statistics display.
+
+
+READ AND WRITE FUNCTIONS:
+
+If you want to share floor maps or create floor maps with a group or if
+you have designed a favorite floor in one version of Wolfenstein and would
+like to move it to a different version you can now do it with these functions.
+Use the 'W' command to write a floor file to disk.  You will be prompted
+for a filename.  Enter up to eight characters + up to three character
+extension.  To read a floor file from disk, use the 'R' command.  Again,
+you will be prompted for the filename.  The file will be read into the
+clipboard.  In order to place it into the actual map file, use either the
+'E' or 'T' command.
+
+A major advantage of exporting/importing by file is that you now can share
+your floors with others without having to give them the whole gamemap/maphead
+files.  All you have to do is give them the file saved using the write
+command.  They can then read in the file and use either the 'E' or 'T'
+command to place it into their map file.
+
+
+CLEAR LEVEL:
+
+Pressing the 'C' key will Clear the current floor placing grey brick on the
+outside edge and filling the inside with the selected map value.  Before you
+clear the display select the map value you want to fill with then press 'C'.
+You can fill with any map value.  If the last item you selected was an Object
+then if you Clear before selecting a map value the clear function will fill
+using a floor value of '6C'.
+
+
+HELP:
+
+The major hot keys are listed in the help display.
+
+
+STATISTICS DISPLAY:
+
+The statistics display keeps track of the following information:
+
+         Number of Static Objects
+         Total number of Guards
+         Total number of Doors
+
+         Number of Level 1 Guards
+         Number of Level 3 Guards
+         Number of Level 4 Guards
+         Number of Boss Guards
+
+         Number of Secret Doors
+         Number of Treasure and Extra Lives
+
+This information can be very useful in designing levels.  There are
+some program limits that must not be exceeded.  These limits are:
+
+    400 Static Objects
+    150 Guards
+     64 Doors (Unlocked + Locked + Elevator Doors)
+
+When these limits are exceeded, the text changes to red as a visual
+warning.
+
+You can control what object information is displayed in the map using
+the '1' ... '6' keys (see key functions above).  This allows you to
+easily balance the # guards, etc, as you are designing your maps.
+
+
+MAP AND OBJECT DEFINITION FILES:
+
+MAPDATA.DEF and OBJDATA.DEF
+MAPDATA.WL1 and OBJDATA.WL1
+MAPDATA.WL6 and OBJDATA.WL6
+MAPDATA.SOD and OBJDATA.SOD
+
+MapEdit will try to open the *.def files 1'st.  If they are not found it
+will try to open the files with the same extension as the game map file
+found (ie. - if gamemap.sod was found then it will look for the
+mapdata.sod and objdata.sod files.  You can now keep definition files
+for each version of Wolfenstein you are running.  For the 30 level game
+MapEdit opens the *.WL6 files.
+
+If you figure out a new object or want to change the description, you can
+add/change it's description to the object/map list by editing the
+MAPDATA.xxx or OBJDATA.xxx file.  Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.  Right now, even
+though their are 4 digits, you can only put objects from 0000-00ff in.
+
+** Note version 4.1a allows up to 0116.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors.  The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c -
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+
+ACKNOWLEDGMENTS
+
+   This program would not have been possible without Paul (Hosko) Hosken,
+author of WMAP, who figured out the original map file formats.
+
+Thanks Hosko!
+
+

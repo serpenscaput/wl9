@@ -1,0 +1,20 @@
+Here are ten new levels for the original Wolfenstein 3D (Shareware version).
+These ten levels were tested on version 1.1 and SHOULD be compatible with
+all later versions of the SHAREWARE edition; although I cannot guarantee it.
+
+There are two files that need to be changed in order for you to play these
+new floors.  First, change the files called GAMEMAPS.WL1 and MAPHEAD.WL1 to
+GAMEMAPS.ORI and MAPHEAD.ORI.  
+
+Next, copy the files GAMEMAPS.WL1 and MAPHEAD.WL1 to your Wolfenstein 
+directory.
+
+Enjoy.
+ 
+NOTE: This is not an official product of Apogee Software.
+
+If you have already used these game maps, you probably already know about
+the mapping error on floor 6 at the elevator exit.  This version corrects 
+that error from the original design. 
+ 
+

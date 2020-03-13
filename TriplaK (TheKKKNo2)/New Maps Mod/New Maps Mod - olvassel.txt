@@ -1,0 +1,11 @@
+Hello!
+
+Ez egy saját készítésû Wolfenstein 3D Mod, ami tartalmaz új forrás kódót, textúrákat, pályákat meg
+
+még sok mást.
+
+Indítás: Futtasd a Wolf4SDL.exe fájlt
+
+Remélem, tetszeni fog :-)
+
+KKK911XD

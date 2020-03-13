@@ -1,0 +1,183 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Rage against the machine.It was made by me Wilhelm 
+(Joe M).It took me three weeks or so to complete.
+
+^P
+^C7d THE STORY
+
+^C00 Arpil 2006.In the country Korath the Korathian army led by Captain Justin Darian 
+was a threat to the United Kingdom.An RAF war hero Joe Sentinel heard about a plot.
+
+
+^P
+^C7d THE STORY
+
+^C6c He listened to the radio and heard Captain Darian's voice.The plot was to start 
+a nuclear war against Britain.This was not allowed to happen.
+
+^P
+^C7d THE STORY
+
+^C00 Captain Darian's scientists were building robots.They were scary and dangerous.The 
+main machine was a squad of tank commandos.Captain Darian wanted a whole load to 
+stick to each other and was going to help them destroy Britain.
+
+^P
+^C7d THE STORY
+
+^C00 You hopped into your aircraft and was ready to fly off and stop him.The plot 
+needed to be stopped and Darian defeated.
+  
+^C09You landed but the Korathians didn't notice.
+  
+^C6cYou were near the entry holding your shotgun.Barriers stood around you.
+
+^P
+^C7d THE STORY
+
+^C09Some items were left lying around.You inspected them carefully.
+
+^P
+^C7d FEATURES
+
+^C00 * One seamless episode
+* 24 levels
+* New graphics
+* New sounds
+* New enemies
+* New weapons
+* Deathcams removed
+* Changed help screen and end screen
+* MORE...
+
+^P
+^C7d HEALTH
+^G48,16,30
+
+^C00 These items heal you.  (Max: 100%)
+
+^C7d Limeade: ^C00 2%
+
+^C7d First aid, small: ^C00 15%
+
+^C7d First aid, large: ^C00 30%
+
+^P
+^C7d TREASURE
+^G48,16,31
+
+^C00 These items add points to your score.
+
+^C7d Sugar bag: ^C00 +100
+
+^C7d Bowl of cereal: ^C00 +500
+
+^C7d Cola: ^C00 +1000
+
+^P
+^C7d AMMUNITION
+^G48,16,33
+
+^C00 These items give you bullets.  (Max: 500)
+
+^C7d Clip: ^C00 32
+
+^C7d Ammo crate: ^C00 64
+
+^P
+^C7d WEAPONS
+
+Fist: ^If you have no ammo left in your gun break your enemies nose
+
+Shotgun: ^C00You had this with you.Put a bullet in someone's head with it
+
+^C7d Assualt Rifle: ^C00A nice weapon where you can delay your enemies attack.This 
+will teach them.
+
+^C7d Machinegun: ^C00Fires forever but can jam at random times.A very good weapon.
+
+
+^P
+^C7d THE ENEMY
+
+Korath Guard: ^C00Grunts of the Korath army.They carry pistols and are slow but weak.
+
+
+^C7d Korath Scientist: ^C00Fast but easy to kill since they are anxious for the kill 
+but never do it.
+
+^C7d Korath Troop: ^C00Captain Darian's main soldiers.They are tough and are dangerous 
+in groups.They carry double barrel rifles
+
+^P
+^C7d THE ENEMY
+
+Korath Enforcer: ^C00Slow but dangerous.Dont punch them with your fist.They are highly 
+trained.
+
+^C7d Korath Patrol: ^C00They are seen quite often and they are fast and dangerous
+
+  
+^C7d Gladiator: ^C00Carry MP60 chainguns and can put a bullet in your head easily
+
+
+^P
+^C7d THE ENEMY
+
+Tank: ^C00Huge robots that can be heard when they walk.Get in take out machinegun 
+and keep firing
+
+^C7d Tank Commando: ^C00Much more tough than a tank.These robots are fast so watch 
+out for them when a tank dies
+
+^P
+^C7d THE ENEMY
+
+Captain Darian: ^C00Leader of the Korath army.He is just weak.Thinks he can start 
+a war but the answer is no.
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit: ^C00Adding graphics, sounds,
+^C7d Borland 3.1: ^C00Code compilation
+^C7d Notepad: ^C00Help Screens/End Art
+^C7d Paint Shop Pro: ^C00Graphics modification
+^C7d Mapedit 8.4:Level editing
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+Poet and MCS: ^C00source code tutorials
+^C7d Brian Lowe: ^C00posting this TC
+^C7d Florian Stohr: ^C00FloEdit
+^C7d id Software: ^C00Wolfenstein 3d
+^C7d Others: ^C00The artists of a few other Wolf3d TCs
+^C7d BJ Rowan: ^C00Project Totengraeber and releasing the source code
+
+^P
+^C7d OTHER ADD-ONS BY JOE M
+
+^C00 Before releasing this TC, I made some others.
+
+^C7d Twilight Zone: ^C00Kill Professor Gottkopf,Find the Spear of Doom then stop 
+Commander Sturm
+
+^C7d Otto's Trial: ^C00 Kill Otto Giftmacher before he destroys Britain
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 Questions?  Comments?  You can e-mail me at joe_sentinel@hotmail.com
+ 
+^P
+^C7d THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 I hope you enjoy Rage against the machine
+
+^E

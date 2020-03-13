@@ -1,0 +1,18 @@
+^P
+^C20> Recieving communication link request from frequency 093.9...
+
+>
+
+^P
+^G16,16,5
+^G16,48,30
+^C20Testing Testing One Two Three...
+
+^P
+^C20> Recieving communication link request from frequency 093.9...
+
+> Communication link terminated.
+
+>
+
+^E

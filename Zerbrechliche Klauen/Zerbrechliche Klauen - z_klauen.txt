@@ -1,0 +1,71 @@
+
+Title                   : Zerbrechliche Klauen (Fragile Claws) (v1.1)
+Filename                : z_klauen.zip
+Release date            : February 27th 2013
+Author                  : Ryan 'quakis' Rouse
+website		        : http://taw.duke4.net
+Other Files By Author   : 
+
+			Duke3D;
+			  Community Build Project 8: Metropolitan Starlight	[2012]
+			  Done & Dusted						[2011]
+			  Discarded Stronghold					[2007]
+			  Enlighten the Darkness				[2005]
+			  Simple Minded						[2005]
+			  The System: Opposing Facility				[2004]
+			(and others)
+
+Description             :	Three levels which has BJ infiltrate a hidden Nazi
+				outpost, underground prison cave and small palace which
+				is currently holding an important meeting.
+
+Installation		:	Backup the following files in your wolf3d/base folder;
+					gamemaps.wl6
+					maphead.wl6
+				Then copy the zip contents into the same folder and run
+				Wolf3d via either DOS or Wolf4SDL source port.
+
+				This release may be repackaged in future to be played
+				out the box and hassle free. Hopefully.
+
+Additional Credits to   :	id Software, for Wolf3D ofcourse!
+
+				Thomas Weiling for '10 New Ones' which inspired me
+				to start these maps in the first place.
+
+Changelog (1.1)		:		E1M2: Gold door was invisible due to deaf guard
+					floor code being too close to the door. Fixed.
+			  		
+===========================================================================
+* What is included *
+
+New levels              : E1M1 - E1M3
+Sounds                  : No
+Music                   : No
+Graphics                : No
+
+* Play Information *
+
+Game                    : Wolfenstein 3D
+Map #                   : E1M1 - E1M3
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Created from scratch
+Build Time              : 5 Months, on and off
+Editor(s) used          : ChaosEdit
+Known Bugs              : None known			  
+
+* Copyright / Permissions *
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+http://taw.duke4.net/z_klauen.zip

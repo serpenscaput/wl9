@@ -1,0 +1,8 @@
+2019/10/11
+
+- Poison Damage should no longer carry over between levels
+- You can now prestige at any time you fulfill requirements, except on Floor 1. Formerly 
+restricted to the first 15 seconds of a level.
+- Prestige notification is now a bit more noticable.
+- Prestige has been rebalanced to account for being able to level whenever (increases 
+for early rewards, decreases/stable for higher). May be tweaked further.

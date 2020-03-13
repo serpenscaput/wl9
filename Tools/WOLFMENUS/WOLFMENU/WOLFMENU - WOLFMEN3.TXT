@@ -1,0 +1,389 @@
+
+WolfMenu version 3.2
+
+
+What is this?
+-------------
+WolfMenu is an ongoing side-project of mine to make it easy to launch,
+organize and even find my Wolfenstein 3-D add-ons and mods. Like
+Wolfenstein itself, it runs in DOS (no Windows necessary). A combination
+of QuickBasic executable and DOS batch files means that very little memory is
+used during playing time, and the switch between QuickBasic and batch is
+transparent to the user. It runs perfectly fine in various versions of DOS
+and Windows 9x, and except for some of the endscreen options, runs under
+Windows XP also. I have not tested this under DOSBox or VDMSound.
+
+I've always considered it a personal project, sort of an "album" to display
+my collection of Wolf mods.
+
+Brian Lowe posted an earlier version (1.2) back in 2000 on his Yellow Site,
+under Extras.
+
+
+What's New?
+-----------
+Well, my collection has grown to over 1.3 Gigs, and Wolfenstein mods have
+overwhelmingly gone from "patches" to standalone mods since I started this
+project in 1999.  So, WolfMenu has developed to accommodate these changes
+in my collection. Since version 1.2:
+
+-  All changes to WolfMenu can now be done through the built-in editor (no
+   more editing of external configuration files, though you can still do
+   that if it pleases you).
+
+-  Added Planet Strike patch swapping support
+
+-  Wider field per entry, allowing for longer named mods, and additional
+   information such as author and date of release
+
+-  Much better memory management, can now support up to 600 entries per menu
+
+-  Search / repeat search, shell to DOS prompt, home, end, refresh functions
+   added
+
+-  Many bugfixes and aesthetic enhancements
+
+Note: if you shell to a DOS prompt, you must type "exit" to return to WolfMenu
+
+
+Getting Started
+---------------
+After unzipping the archive into a folder (PKUNZIP users must use -d flag to
+preserve the subdirectories), type SETUP to update the config files to
+insert the new/current location on your machine.
+
+From the command prompt, type WOLF to start. I have also added a "WolfMenu"
+Windows shortcut for your convenience.
+
+F1 and F2 keys for quick help / reminder of keys available to you
+
+Sorry, no mouse support.
+
+
+Setting Up
+----------
+Since this is strictly a DOS program, some knowledge of how to locate a
+file and execute a program from within a command prompt is necessary.
+
+Familiarize yourself with the WolfMenu Editor by changing the colors to your
+liking. It's the first item under WolfMenu Editor. You can mess the colors
+up as much as you want; nothing will be committed unless you select "Save
+current settings" and see the message "Settings saved in COLOR.CFG" at the
+top of the screen. If you don't save your changes, when you back out to the
+first WolfMenu Editor screen, your original colors are restored. And if you
+ever mess up by making your menus unreadable and saving, then you can
+always edit COLOR.CFG with edit.com or notepad as a last resort. Just change
+a number or two and then finish customizing it in WolfMenu Editor.
+
+Once comfortable with using the editor, go to the second item called "Main
+Menu", what I call the opening screen when you start WolfMenu. Here you can
+add or delete a set number of specific main menu entries, move them around,
+rename them, and define their location and associated executable. Note that
+you cannot delete the WolfMenu Editor entry.
+
+Under Main Menu's "Edit paths and command lines" are entries for changing
+the main menu's title, and the browser used for looking at each game's readme
+files and the one you are reading now (wolfmen3.txt using browse.com). I
+personally like using list.com by Vernon D. Buerg, since you can change its
+colors to match WolfMenu's colors. List.com is available at www.buerg.com.
+
+Again, any changes you make will not be committed unless you select "Save
+changes" and see the "Changes saved in WOLFMENU.CFG" message at the top.
+
+For now, I will assume that you want to simply use WolfMenu for your
+existing add-ons/mods that you currently play. These will be placed under
+the main menu's "Other Wolfenstein games and TC's" title (which you can
+change, of course). In the WolfMenu Editor they are known as "Standalone
+addons".
+
+Under "Standalone addons" you can move, delete and rename your menu entries.
+These are pretty easy to use and I will not go into detail on them.
+
+To add a new entry, enter "Standalone addons" and go to "Add entries", then
+enter what you want to appear on the screen. After that, enter the full path
+to your mod/TC (eg. C:\WOLF3D\EOD). Next, enter the command to run the game
+(eg. spear -noss or call chokage.bat). Last, if you want to display the
+endscreen text that shows after you quit the game, enter 0 for a pause, or
+1-99 for number of seconds to wait before returning to WolfMenu. Leaving it
+a blank skips the endscreen altogether. Win2000/XP users should use 0 or
+blank because delays don't work here.
+
+After returning to the Addon menu, select "Save changes" and you will get a
+message at the top that says "Changes saved in ADDON.CFG", and you are done
+with that entry (barring any typos). If you exit the editor and go to the
+"Other Wolfenstein games and TC's" entry, your added TC should appear and can
+be played by entering when it is selected.
+
+Note: I have left the Wolfenstein 3-D entry in there because WolfMenu doesn't
+like empty config files (zero is bad!), so you can safely delete that after
+you have added your own. Or edit it to point to your copy of Wolfenstein 3-D,
+using Standalone addon's "Edit paths and command lines". I have also added
+some examples for your perusal. To see the pertinent information, go into
+the editor under Standalone addon's "Edit paths and command lines" for each
+item. Feel free to trash these items once you don't need them anymore.
+
+Note 2: any ASCII text files in your TC's directory can be browsed if you
+rename them to README.TXT, subsequent ones README2.TXT and README3.TXT.
+To see them from WolfMenu, just hit the "?" key when your TC is selected.
+Currently browse.com is used to look at them; as I stated before, list.com
+is a bit more fancy and flexible.
+
+That's it for "standalone" TC's/mods. In summary, all you need is
+
+-  a location / path to your TC
+-  a command to start your TC (CALL must precede any .BAT file invocations)
+-  optionally, rename game docs README.TXT README2.TXT README3.TXT (limit 3)
+
+I have included four examples of alternate ways of organizing your add-on
+collection. The batch files that call them merely rename config files
+and then rename them back when complete.
+
+BEST - Wolfenstein Top 50 from the Die Hard Wolfers popularity poll
+
+DOME - Wolfenstein Dome Award winning mods
+
+SPOT - Wolfer Spotlight featured add-ons
+
+FULL - A somewhat "complete" collection of TC's and patches
+
+RESET - clean up any "out of syncs" between the 5 previous commands
+        (you get wrong menu, "duplicate files" and "file not found" messages)
+
+
+Patch Swappers
+--------------
+
+The original Wolfenstein "mods" were just patches, that is, changed graphics
+(VSWAP) or changed levels (GAMEMAPS). The intent was to give the Wolf player
+a patch to apply to his existing game to change it somehow. Streamlining this
+capability was the original intent of WOLFMENU, and the "Standalone Addon"
+feature was just an afterthought. Remember, this was started in 1999, and
+only about a dozen or so "Standalones" existed at that time.
+
+Start by putting a working copy of the appropriate game in its folder.
+
+Each "patch" must have a unique filetype. For example, I've given ack's
+"acktung!" levels a filetype of ACK, so the game files would be
+MAPHEAD.ACK and GAMEMAPS.ACK in the WOLFREG folder. Optionally, the game
+documentation has been renamed README.ACK so it can be browsed from within
+WOLFMENU.
+
+A graphics patch requires at least a VSWAP. Optionally it can have VGA files
+(must include all 3), AUD files (both), and up to three README's.
+
+In summary:
+
+Graphics: VSWAP, [all 3 VGA files, both AUD files, README, README2, README3]
+Maps: MAPHEAD, GAMEMAPS, [README, README2, README3]
+
+The patch swapper feature allows the player to match any graphics with any
+levels within a folder. Of course, they must be compatible (same version)
+or the game will bomb. 
+
+I have included several "patch swapper" folders in this package:
+
+WOLF10 - for shareware 1.0
+WOLFSHR - for shareware 1.4
+WOLFREG - for registered 1.4 (see notes on VGA versions)
+SPEAR - for Spear of Destiny full version
+SPEARDMO - for Spear of Destiny demo
+BSTONE - for Blake Stone registered
+PLANET - for Planet Strike
+
+An alternative way of patch swapping is to use the swap.bat within each of
+the provided "patch swapper" folders. This allows for playing of one
+new filetype only. So "acktung!" could be run from the WOLFREG folder as
+"swap ACK". From WOLFMENU's "Standalone addon" section, it would have a
+command line of "call swap    ACK". In other words, the command
+"call swap    ABC" will take all files that ends in .ABC and use them for
+playing with the version of Wolfenstein that resides in the same folder.
+The "game id" is column-dependent here, and I have put in a guide in the
+editing menu to help here.
+
+The following 2 folders aren't really for WOLFMENU's patch swapper function,
+but can be used for patch swapping (as described above) for those mods whose
+VGA files are incompatible with the majority of registered Wolf 1.4
+addons/patches (again, see the notes on VGA versions below).
+
+WOLF11 - for registered 1.1/1.2
+WOLF14 - for registered Apogee 1.4
+
+I have set up the patch swapper folders to be under the main WolfMenu folder.
+I also put all my "standalone" mod folders under here too, so all my mods
+are physically in one place. This is not necessary for WolfMenu to work; you
+can specify any location that is physically accessible on your computer. In
+other words, if you can define where it is (drive and folder, for example
+F:\GAMES\WOLF3D\MEGADEMO) and run it from DOS (executable, eg wolf3d -goobers)
+you can set up WolfMenu to run it. This is done in the editor under "Edit
+paths and command lines".
+
+
+Notes on Registered Wolf 3-D VGA versions
+-----------------------------------------
+
+There are 3 types of distinct Wolf 3-D VGA versions which are incompatible
+with each other: Apogee version 1.1/1.2, Apogee version 1.4, and the
+id/GT/Activision 1.4. I have therefore set up 3 separate folders for
+registered version patch-swapping: WOLF11, WOLF14, and WOLFREG, respectively.
+
+On Flo-edited VGA files, the VGADICT file is left untouched, can tell what
+version it is by the date:
+
+Apogee version 1.1/1.2  :  6/10/92  1:10 PM
+                           6/22/92  1:11 PM
+
+Apogee version 1.4 :      12/03/92  5:39 PM
+                          12/31/92 10:40 PM
+                          10/01/94  1:40 PM
+
+id/GT/Activision 1.4 :     9/02/93  8:54 PM
+                           4/13/94  1:40 AM
+
+(There is a fourth VGA group that I would call GT 1.41, but mods using it
+ have always been accompanied by a changed EXE, hence its exclusion. For
+ completeness sake, the VGADICT file is dated  9/13/93  1:41 PM)
+
+On the newer editors that may re-assemble the VGADICT file, from the command
+prompt, try a FC (file compare) with a known version to determine
+"equivalence" (do not use the binary compare here). Even if the file sizes
+differ (eg. 1024 vs 1020), the ones that result in "no differences found"
+are equivalent as far as the Wolf 3D engine is concerned.
+
+
+Technical notes
+---------------
+
+WOLFMENU.EXE was compiled with QuickBasic 4.50. I considered mouse support,
+and had it working, but the speed of today's machines made it unstable and it
+did not work as it should have. Adding delays made the mouse work better, but
+ruined WolfMenu's performance. This compiler dates to 1990, and the fastest
+PCs back then had a 486 33Mhz CPU.
+
+Long file names also did not exist at that time; hence, WolfMenu needs to
+use the DOS alias (aka 8.3 format). For example, in Windows, you may have:
+
+   C:\Program Files\Games\Wolfenstein 3-D\Registered 1.4
+
+It's an extreme example, but possible. Anyway, the DOS alias would be:
+
+   C:\PROGRA~1\GAMES\WOLFEN~1\REGIST~1.4
+
+(the ~1 might be ~2 or higher if there are multiple folders with the same
+first 6 characters)
+
+If you need to add that location to WolfMenu's config files, it must be in
+the DOS alias form. Personally, when dealing with Wolfenstein, or any DOS
+game, I avoid using more than 8 characters in the folder names.
+
+Make sure your command line includes "call" if you invoke a .bat file, or
+you will not return to WolfMenu when you complete your game. This is because
+Wolfmenu creates a .bat file on the fly to actually run your game as WolfMenu
+itself actually closes. If this did not happen there would not be enough
+conventional memory to run your game, since WolfMenu uses almost 500k. Without
+the "call", batch files simply run the referenced batch file without returning
+to the original one. A useful way to exit perhaps, but not one we want to use
+here.
+
+
+Well, I'm out of gas, how about you?
+
+Andy
+
+
+Version history
+---------------
+
+Version 1.0  12/10/99 APN  QuickBasic 4.50 + QuickPak Professional
+Version 1.01  5/09/00 APN  Fixed bug in browse of README2.TXT for addons
+Version 1.02  5/30/00 APN  New read/write method (and format) for COLOR.CFG
+Version 1.10  6/02/00 APN  Added VGAGRAPH support for graphics patches and
+                           now ignore ADDON.CFG entries beyond 80 spaces
+                           New read/write method (and format) for MENUFLAG
+Version 1.20  6/16/00 APN  Added version 1.0 shareware support, Blake Stone
+                           (registered) patch support, AUDIOT support for
+                           graphics patches, and custom command-line
+                           entries in WOLFMENU.CFG
+Version 1.30 12/20/00 APN  Fixed a bug in the MainFolder$ detection routine.
+                           Fixed a major bug in the shareware v1.0 swapping
+                           routines.
+             12/28/00 APN  Clear keyboard buffer before starting.
+             01/10/01 APN  Supports up to 228 patches and addons.
+             01/15/01 APN  Supports third README3.TXT file.
+             01/31/01 APN  Mouse support removed. To work correctly on a
+                           33 MHz or better machine, too many delays have
+                           to be added, hurting overall performance.
+Version 2.0  02/24/01 APN  Fully-developed WolfMenu Editor.
+                           Background color editing support.
+Version 2.01 03/14/02 APN  Fixed possible text browser errors if trailing
+                           spaces are after browser path in WOLFMENU.CFG
+Version 2.10 05/28/02 APN  Added Planet Strike patch swapping support.
+Version 2.11 07/19/02 APN  Added VGADICT graphics support to incorporate id
+                           version "addons" into registered patch swapping.
+             11/04/03 APN  Start opening menu where it left off.
+Version 2.12 10/17/04 APN  Fixed bug in "last adddon selected" routine.
+Version 2.13 11/01/04 APN  Allow swapping within addon folders. Note that
+                           this will require "helper" bat files for
+                           swapping and browsing. The ADDON.CFG command line
+                           *must* be in 4+8+3 format: call folder   wl6
+                           call spearres mas
+             11/02/04 APN  added DOS shell support to addon routine
+             11/05/04 APN  added DOS shell support to all display routines
+             11/28/04 APN  fixed potential bug in browser routine
+Version 2.14 02/11/05 APN  deleted Show- and Hide- (mouse) Cursor calls
+Version 2.15 02/13/05 APN  further optimization of code, especially in
+                           near memory usage and variable declarations
+             02/17/05 APN  Converted addon, graphics, and maps displays
+                           from MAmenu to MAmenuT to free up near memory
+                           (DGROUP) to eliminate "out of string space"
+                           errors, increased MAX to 256
+Version 2.16 03/10/05 APN  Removed EXIT FOR in DetectPatch because it
+                           bypasses some error detection, also removed the
+                           renaming in DeleteEntry because it could
+                           introduce errors if the files are already gone
+Version 2.17 03/10/05 APN  Converted addon display to single-column,
+                           increased MAX to 512
+Version 2.18 03/11/05 APN  Converted patch swapper displays to single-column
+                           and fixed detectpatch to display the longer names
+Version 2.19 03/12/05 APN  Converted MenuEntry$ and MainTitle$ to fixed
+Version 2.20 03/12/05 APN  New WOLFMENU.CFG format to accomodate 74-length
+                           titles.
+Version 2.30 03/12/05 APN  Updated all edit menus to accomodate all of the
+                           above changes
+Version 2.40 03/12/05 APN  Converted dataline$ to a fixed string array * 256
+                           Note: must now use /ah option to compile/link
+Version 2.50 03/16/05 APN  Fixed EditAddonCmd, updated browser routines
+Version 2.60 03/17/05 APN  Fixed EditMainCmd and some aesthetic bugs
+Version 2.70 03/23/05 APN  Fixed browser, new swap.bat features broke it
+Version 2.80 03/24/05 APN  Added command extension capability to LEVELS.xxx
+                           file for add-ons located in odd episodes
+Version 2.90 03/26/05 APN  Display menu features added: R for refresh,
+Version 2.91 03/26/05 APN  F for find, A for repeat find
+Version 2.92 03/27/05 APN  added alt-s and F3 keys to find and repeat
+                           F2 for additional information
+Version 2.93 03/28/05 APN  Completed new features for all editor menus,
+                           cleaned up each menu's responses, bugfixes
+Version 2.94 03/28/05 APN  Had to break source code into 2 modules due to
+                           "out of memory" error while compiling
+Version 2.95 03/29/05 APN  Bug fixes and completion of menu enhancements
+Version 2.96 03/31/05 APN  Added F10 for exit, ensure DOS shell color
+                           scheme matches menu color
+Version 2.97 04/02/05 APN  New swapping method for patches
+Version 2.98 04/03/05 APN  Full automatic recovery for both addons, patches
+Version 2.99 04/03/05 APN  CurrentAddon and CurrentMain are now preserved
+                           when moving or deleting entries
+             04/06/05 APN  Changed MAX from 512 to 600
+             04/08/05 APN  Added guide for semi-swap id entries
+Version 3.0  04/09/05 APN  Fine-tuned repeat find function
+             04/23/05 APN  Fine-tuned detect patch routine for longer names
+                           Added edit capability for level-dependent
+                           command extensions (i.e. tedlevel in LEVELS.xxx)
+             04/27/05 APN  Added same to add entry menu
+             04/30/05 APN  Added a cls to CreateBatch after the command
+             11/24/05 APN  Fixed a ClearWindow background color bug.
+Version 3.1  04/26/06 APN  CLS to black background for end text messages.
+             04/30/06 APN  Corrected some add entry bugs in main menu area.
+             05/03/06 APN  Added endtext display capability.
+             05/08/06 APN  Aesthetic update to EditAddonCmd.
+Version 3.2  05/20/07 APN  Stopped checking for number of swap members in
+                           DetectPatch.
+             06/23/07 APN  Check for folder existence before shelling to it

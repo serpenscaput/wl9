@@ -1,0 +1,234 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Castle Totenkopf.  It was created by me, Wolf Skevos-Jones 
+(some coincidence!!)  This is my first Wolfenstein add-on, and I've added new things 
+to the source code, including new enemies!  The game is difficult, but not impossible 
+to win.  I hope you enjoy it.
+
+^P
+^C7d KNOWN BUGS
+
+^C00 Though I've added new features to the Wolfenstein engine, I'm not a true programmer. 
+ There were a few bugs which I've been unable to fix.  Sorry.  One is a bug that 
+was there to begin with -- dogs sometimes "disappear" when they chase you into an 
+elevator, but they still bite you.  Be careful of this on level four!  Also, the 
+assault rifle won't shoot rapidly if you don't have any regular bullets.  One more 
+thing: some of the ratios at the intermission are sometimes over 100%.  I don't know 
+why.  
+
+^P
+^C7d THE STORY
+
+^C00 August 1944--World War II is still raging.  The Allies have managed to push 
+back the Nazis considerably, but Hitler seems determined to fight to the bitter end. 
+ You, Agent William J. Blazkowicz, were assigned on a mission to obtain information 
+on a new Nazi operation that could turn the tide of the war in favor of the Axis 
+Powers.  Your mission was to infiltrate Castle Totenkopf, an S.S.-controlled prison 
+fortress.
+
+^P
+^C7d THE STORY
+^G32,16,4
+
+^C00 You were able to steal some plans for the Nazi operation, but you suddenly feel 
+a heavy blow on the back of your head, and all goes black...
+
+^P
+^C7d THE STORY
+
+^C00 A sharp kick in the ribs wakes you up.  You find yourself lying in a small, 
+dank cell.  The large figure of a Nazi guard towers over you.  The guard growls, 
+"Stehen Sie auf!"  Seeing that he is armed and you are not, you obey and stand up. 
+ He then takes you to the interrogation room.
+
+^P
+^C7d THE STORY
+
+^C00 It seems that you have been captured and are now in the lower dungeons of Castle 
+Totenkopf.  For the next few days, you are interrogated and tortured.  You tell them 
+nothing, but you are getting weaker and weaker.  Captain Narbgesicht, the S.S. interrogator, 
+has very brutal methods of torturing people.  When Narbgesicht isn't questioning 
+you, you are thrown into your little cell.  You can hear the cries of other prisoners 
+being tortured.  Some of them are taken away and used in the Nazi medical experiments 
+by Dr. Schabbs.
+
+^P
+^C7d THE STORY
+
+^C00 You've got to escape.  You don't want die of torture... or even worse, one of 
+the diabolical Nazi experiments.  You decide to plan your escape.
+
+^P
+^C7d THE STORY
+^G32,16,3
+
+^C00 You hear the guard coming.  You lie on the floor, pretending to be unconscious. 
+ The guard opens the door and barks his usual "Stehen Sie auf!" You lie absolutely 
+still.  Again, the guard tells you to stand up, but you don't respond.  When the 
+guard comes over, you grab him, take his knife and stab him with it.  Once he dies, 
+you take his gun.  Your escape from Castle Totenkopf begins!!!
+
+^P
+^C7d FEATURES
+
+^C00 * One massive, seamless episode
+* 18 new levels 
+* Two new weapons
+* New enemies, including S.S. Officers
+* Two new keys
+* Ambient sounds
+* Changed help screen and end screen
+* Changed ceiling colors
+* Spear of Destiny music
+
+^P
+^C7d LEVELS
+
+Floors 1-5: Prison ^C00Once you escape from your cell, you will have to get through 
+the lower dungeons of Castle Totenkopf.  No one has ever made it out of the dungeons 
+alive. 
+
+^C7d Floors 6-10: Labs ^C00Under head scientist Dr. Schabbs, the Nazis have been 
+conducting chemical and biological research.  They were using some of the prisoners 
+as guinea pigs in their diabolical experiments.  Beware of their creations.
+
+^P
+^C7d LEVELS
+
+Floors 11-16: Castle ^C00You are getting closer to the end, but the Nazi resistance 
+is getting worse.  Captain Narbgesicht holds an important key.
+
+^C7d Floor 17: Lurking ^C00Narbgesicht is dead!  But something is wrong.  You expected 
+to find a mass of Nazi troops waiting for you on the next floor, but instead you 
+find that they're all dead.  What could have killed them?
+
+^P
+^C7d LEVELS
+
+Floor 18: Escape ^C00If you make it out of here in one piece, you win!!!
+
+^C7d Secret Levels: ^C00See if you can find 'em!
+
+^P
+^C7d ARSENAL
+
+^C00 Accept for the knife, the weapons either use bullets or rifle rounds.
+
+^C7d Knife: ^C00Used for close combat, the knife is best as a last resort.  It requires 
+no ammo. 
+
+^C7d Luger: ^C00The standard German pistol. You'll need to switch to a better weapon 
+when fighting multiple enemies.  It uses standard 9mm ammo.
+
+^P
+^C7d ARSENAL
+
+MP40: ^C00This machinegun comes in handy when fighting groups of enemies.  It is 
+often carried by S.S. personnel.  The MP40 uses 9mm bullets.
+
+^C7d Chaingun: ^C00This ultra-speed Gatling gun can mow down an entire Nazi platoon 
+in seconds!  However, it uses up ammo like popcorn.  The Chaingun uses 9mm bullets.
+
+
+^P
+^C7d ARSENAL
+
+Mauser: ^C00The Mauser is the standard German rifle.  Its strength and accuracy make 
+it the choice weapon among snipers.  It uses 7.92mm rifle rounds.
+
+^C7d STG44: ^C00Abbreviated for "Sturmgewehr 44," the STG44 is an assault rifle that 
+has the same rate of fire as the MP40, only it is much more powerful.  It uses 7.92mm 
+rifle rounds.
+
+^P
+^C7d THE ENEMY
+
+Wehrmacht Troops: ^C00The standard German soldier.  They are the most common enemy.
+
+
+^C7d Guard Dogs: ^C00These German shepherds are trained to attack intruders.  They 
+are weak, but vicious!
+
+^C7d Officers: ^C00Though armed only with a Luger, Officers are fast and furious.
+
+
+^P
+^C7d THE ENEMY
+
+S.S.: ^C00Also known as Himmler's "Blackshirts," S.S. guards are brutal and will 
+perforate you with their MP40 machineguns.  S.S. Officers are even deadlier since 
+they are faster!
+
+^C7d Waffen-S.S.: ^C00These elite soldiers are some of the meanest, toughest Nazis 
+around.  They wear armor and carry assault rifles!
+
+^C7d Snipers: ^C00Instead of chasing you, Snipers prefer to wait until you come within 
+range of their rifles.
+
+^P
+^C7d THE ENEMY
+
+Flamethrower S.S.: ^C00'Nuff said.
+
+^C7d Chaingunner: ^C00Probably the most dangerous Nazi soldier.  He's heavily armored 
+and shoots bullets like there's no tomorrow.
+
+(Note: It is also rumored that the Nazis are conducting horrible human experiments 
+somewhere within Castle Totenkopf.  Don't say we didn't warn you.)
+
+^P
+^C7d NAZI LEADERS
+
+Hans Grosse: ^C00A brother in a family of Aryan super-soldiers, Hans wears tank-like 
+armor and fires two chainguns!
+
+^C7d Panz Grosse: ^C00Hans's bigger, meaner brother.  He is named "Panz" for his 
+two additional shoulder-mounted panzerfausts!
+
+^C7d Dr. Schabbs: ^C00This evil Nazi scientist is the director of the genetic experiments. 
+ Instead of using guns, Schabbs throws syringes filled with formula for the undead!
+
+
+^P
+^C7d NAZI LEADERS
+
+Captain Narbgesicht: ^C00This brutal S.S. interrogator is notorious for his torturing 
+methods and cruelty.  He is so bad that even other Nazis are afraid of him.
+
+^P
+^C7d SPECIAL THANKS
+
+^C00 To MCS and others (I'm terrible at remembering names) who provided excellent 
+tutorials on source code editing, to Florian Stohr for creating FloEdit, and, of 
+course, to the guys at id for writing Wolf 3d and other games which inspired me. 
+ I would also like to thank everyone at the Wolf 3d Community for their contributions.
+
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit: ^C00Adding graphics, sounds, levels
+^C7d Borland 3.1: ^C00Code Compilation
+^C7d Notepad: ^C00Help Screens/End Art
+^C7d Paint Shop Pro: ^C00Graphics modification
+^C7d Sound Forge 5.0: ^C00Sound effects 
+
+^P
+
+^C7d CONTACTING THE AUTHOR
+
+^C00 Comments?  Suggestions?  Nasty criticism?  Nazi interrogation?  My current e-mail 
+address is wolf@shadaux.com.  I used to be bad at remembering to check my e-mail, 
+but I do it regularly now.
+ 
+^P
+^C7d THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 I hope you enjoy playing Castle Totenkopf!  Now start blasting through those 
+goose-stepping Nazis!  Good luck, B.J.!
+
+^E

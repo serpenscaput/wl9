@@ -1,0 +1,60 @@
+Here are 59 totally new levels ( I left one as was; it was hard enough ).
+
+These levels are (almost) completely new; I kept the parts I liked :-) 
+  They: 1) are not particularly difficult  (IMHO),
+	2) are not just loaded up w/ guards,
+	3) have no unreachable areas ( you can get 3x100% in all floors),
+	4) can be played Death Incarnate all the way through,
+	5) will require a little thought in some areas.
+All levels have been pretty thoroughly tested; I don't think I missed
+any problems.  (Commercial Version 1.1)
+There are a few wall/object changes, so make sure you rename _all_
+the files; otherwise, the levels may look odd.  No auto-load batch 
+files or programs, sorry.  See HELPNOTES if you have never used any
+new levels before.
+
+Manifest:
+	W3D_CC1.ARJ	(use ARJ 2.30)
+  contains:
+	README.CCS	this file
+	GAMEMAPS.CCS	completely modified
+	MAPHEAD.CCS	absolutely necessary
+	VSWAP.CCS	somewhat modified
+
+Thanks to: ALL you guys (and gals, if any) for writing _and distributing_ 
+		the map/wall/sound editors.  Good Show.
+Comments (one way or t'other) to:  ccs2@neosoft.com   
+		Let me know what you think.  I may do some more.
+Also available: Sorted lists of the wall and objects files (w/diffs).
+		Modified wall and object GIF files from Wolf3D and SOD.
+Coming up (if ID doesn't hurry up w/DOOM):  hi-tech floors/guards/sounds.
+		Any volunteers for help?  Hello? Hello?
+Special Note: (Disregard this note if you are not using an external
+		 hi-power amplifier).  If you have obtained the "Wolf316"
+		 maps, do NOT play with the volume turned up loud.  The
+		 sounds used for gunfire generate harmonics (at least 
+		 with the SoundBlaster) that will tax your amp badly. 
+Enjoy. 
+
+
+
+
+HELPNOTES: ________________________________________________________________
+
+   To install the new levels....................
+	Find the files:		and rename them to:
+		GAMEMAPS.WL6	GAMEMAPS.BKX
+		MAPHEAD.WL6	MAPHEAD.BKX
+		VSWAP.WL6	VSWAP.BKX
+    then:
+	Find the files:		and COPY them to:
+		GAMEMAPS.CCS	GAMEMAPS.WL6
+		MAPHEAD.CCS	MAPHEAD.WL6
+		VSWAP.CCS	VSWAP.WL6
+
+    To restore the original game(s).............
+	rename	GAMEMAPS.BKX	as	GAMEMAPS.WL6
+	rename	MAPHEAD.BKX	as	MAPHEAD.WL6
+	rename	VSWAP.BKX	as	VSWAP.WL6
+
+

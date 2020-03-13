@@ -1,0 +1,89 @@
+
+To:   Joe Seigler
+From: Dave Huntoon
+
+Here are the floors I promised you.  Let me know what you
+think of DAVE2.FLR and WGBFLR1.FLR.  You will need at least 
+MapEdit v8.0 to read these in and then save to the game files.
+
+Dave
+
+                   Floors for Blake Stone Aliens of Gold
+
+Floor DAVE2.FLR:
+Designed by Dave Huntoon
+
+Floor WGBFLR1.FLR:
+Designed by Warren Buss
+
+
+
+
+Floor0 to Floor4 :
+NOTE:  These floor files were created with the assistance of MapEdit 8.0.
+You must own a registered copy of Blake Stone Aliens of Gold V2.0 or 2.1
+and have a copy of MapEdit 8.0 to insert these floor files into your
+registered copy of Blake Stone.
+
+Installation Proceedure:
+
+1.  Create a new directory for the revised Blake Stone game files -
+    Suggestion:  C:\NEWSTONE
+
+2.  Copy all your existing Blake Stone game files from their existing
+    DOS directory - C:\BSTONE is the default directory name when the game
+    is installed for the first time.
+
+3.  Unzip a copy of MapEdit V8.0 to your new game directory - C:\NEWSTONE
+
+4.  If you haven't used MapEdit before, carefully review its documentation
+    BEFORE proceeding further.
+
+5.  Using MapEdit, READ each floor file and TRANSFER into your registered
+    copy of Blake Stone.  Make sure that you save your changes when you
+    QUIT MapEdit.
+
+6.  Run Blake Stone and enjoy.
+
+Files Supplied:
+
+FLOOR0.FLR  -  Use as Level 0 of anyone of 6 Blake Stone episodes but must
+               be used and inserted as Level 0 of the individual episode
+               that you are modifying.  Leve1 1 has a teleporter location
+               that will access this floor.
+
+FLOOR1.FLR  -  Level 1 (beginning floor of episode).  This file has a
+               teleporter reference to FLOOR0, for this reason, these two
+               levels were specifically designed to work together as a set.
+               Make sure that you install both FLOOR0 and FLOOR1 into your
+               revised episode.
+
+FLOOR2.FLR     Level 2
+
+FLOOR3.FLR     Level 3
+
+FLOOR4.FLR     Level 4
+
+How created and tested:
+
+These floor files were created via MapEdit V8.0 and saved as MapEdit individual
+floor files.  Each floor was played through on normal and hard difficulty
+levels for playability.  However, there are a few minor "bugs" that someone
+with more experience with the new version of MapEdit may be able to correct.
+
+Copyright:
+
+NONE - These levels were created entirely from scratch.  Please use them
+as you wish and copy or modify at will.
+
+Why:
+
+After having played through all episodes of Blake Stone on all difficulty
+levels, did Wolfenstein 3D and Spear of Destiny again,  did all three DOOM
+episodes - its just time for more Blake Stone.
+
+Author:
+
+Dan Cogley
+Compuserve 75776,1563
+Leave E-Mail on the GAMERS forum for questions or comments on these floors.

@@ -1,0 +1,102 @@
+Beyond Wolfenstein II
+
+	by Nate Smith
+
+Official Manual
+
+============================================
+
+I.    Story
+II.   Items
+III.  Credits
+IV.   Technical Info
+V.    Other Info
+
+============================================
+
+I.  Story
+
+============================================
+
+II.  Items
+
+     There are some new items in Beyond Wolfenstein II.  Here's a list:
+
+	Health Bonus  -  This syringe adds 1% to your life meter.
+	Rockets  -  These give 2 rockets with which you have a good chance of taking 
+		    out 8 guards.
+	Shotgun  -  This gives you 4 shotgun shells.
+	Shells  -  Um..this gives you 4 shotgun shells.
+	Bullet Box  -  This gives you 25 bullets.
+	Shell Box  -  This gives you 16 shells.
+
+============================================
+
+III.  Credits
+
+	Game Design - nate smith
+	Coding - nate smith
+	Levels - nate smith
+	Graphics - nate smith, rick williams
+	Beta Tests - James Stopford, dave blazkowicz
+	Installation - James Stopford
+	Thanks to D1 for hosting the web site, Brandon "Lord B" Farmer for help with compiling,
+
+		B.J. Rowan for the OBJ filez, and everyone who has helped promote this game
+        
+============================================
+
+IV.  Technical Info
+
+	Beyond Wolfenstein 2 was created using the Wolfenstein 3d source code and Borland 
+Turbo
+	C++ Version 3.0.  The following changes have been made.
+
+Updates to the WOLF3D.EXE executable file as of 12:15 PM 7/5/99
+
+Version 1.0
+
+	Music order changed
+	Separate shotgun shells added
+	Random dead guards
+	Dead guard on level 1 put in first death frame
+	Officer on level 1 drops key
+	Flamethrower on level 9 drops key
+	Maximum bullets changed to 250
+	Maximum health changed to 115
+	Ambient screams added
+	Shotgun (pistol) made more powerful
+	Hans and Gretel Grosse drop chainguns
+	Hans and Gretel Grosse made weaker
+	Otto Giftmacher and General Fettgesicht made tougher
+	DeathCam eliminated
+	Bosses drop silver key
+	SS always drops machine gun
+	4-shell ammo packs added
+
+Version 1.1
+	
+	Par times changed
+	Otto Giftmacher respawns on secret level
+
+Version 2.0
+
+	Blood splatters added
+	25-bullet ammo boxes added
+	Title song changed
+	Menu song changed
+	16-shell ammo boxes added
+	Shotgun bug fixed
+	Shotgun moved to the right
+	Subtitle and credit added to title screen
+	Rocket launcher added
+	Separate rocket ammo added
+	2-rocket ammo packs added
+	End-level screen song changed
+
+
+	To find out how you can compile the source code, visit Nate's Source Code Tips at 
+
+	http://members.xoom.com/wolf3d_world/natessourcecodetips_wolf3dworld.html .
+
+============================================

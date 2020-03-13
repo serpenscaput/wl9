@@ -1,0 +1,67 @@
+---------------------------------------------------------------
+Title    : Wolfenstein 3D Zero Hour
+Version  : Full Version 2.0
+Date     : 6 of July 2002
+Author   : Martin Krysiak
+Email    : muad.dib1@wp.pl
+
+Mobile   : 505 041 275 (Poland)
+
+Details:
+---------
+
+This is the full version of the game. Everything's closed up, but there
+may be still some bugs, less they don't interrupt playing (in most cases
+they are just language mistakes in readme/help art/end art files, no one is
+perfect). I played with source and art 5 months of-and-on, with help of
+people listed below. I'd like to thank them and may the Force of Dark Side
+be with them.
+
+Anyway, feel free to play the game ;)... of course, it's your choice, you
+downloaded it. Also, drop me a mail with regards, bug fixes, questions or
+whatsoever. I very much like to open new e-mails, you know...
+
+Gameplay:
+---------
+
+Skill Level   : Gets harder when progress
+Guard Levels  : On levels 1-5
+New Musics    : Yes
+New Sound     : Yes
+New Art       : Yes
+New Enemies   : Yes
+SC Changes    : Yes, lots!
+Levels        : 19, bosses on 6, 12 and 19.
+Secret levels : None
+Pushwalls     : Yes
+
+Editors Used:
+--------------
+Borland C++ 3.1
+Adobe Photoshop 5.0. by Adobe
+FloEdit by Florian Stohr
+Mapedit 8.4 by David Huntoon, Bryan Baker, Warren Buss
+Wolfedit by Bill Kirby
+ImfTools by Dark One (NewWolf!)
+Microsoft Paint by Microsoft
+
+Thanks to: (or Zero Hour Operatives List)
+-----------
+Please note that the order of names is not in order of appreciatement!
+They just come from mind, and kill me if I didn't listed someone!
+
+Brian Lowe					  Beta-Tester
+Tristan van Putten				  Really... I don't know him.
+Brian Rowan   					  Art 
+Kuki						  Beta-Tester
+Martin Bonnett (MCS)				  Beta-Tester, SC Help
+Ripper (Chaos Software)				  Source Code Help
+AReyeP						  Art
+Zach Higgins					  Art help (lol ;)
+
+...
+...
+
+Last Word: Don't look at the dates of some files in the archive. My old, crusty CMOS 
+battery in my old computer (1993 :) had a reset and forget anything.. date too. At 
+first CMOS reset I had 1 January 1801, so that's not so bad :].

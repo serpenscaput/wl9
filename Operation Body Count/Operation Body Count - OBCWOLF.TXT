@@ -1,0 +1,16 @@
+Operation Body Count
+
+   This graphics add-on was hacked from Operation Body Count (demo). I also
+borrowed the doors from Duke Does Deutschland.
+   The game uses the Wolfenstein 3-D engine, so it was familiar enough for me 
+to find and extract the graphics and sound data.
+   This add-on is designed to work with the shareware version 1.4 of Wolf.
+It worked fine on my system, and you should have no problems. However,
+I cannot bear any responsibility for anything that might go wrong, so
+use this add-on at your own risk.
+   Thanks to id, Apogee and Capstone for the game design and Blackadder 
+(Barneystein) and Loren G. Dobert (DOOMenstein) for inspiration.
+
+                                        Have Fun!
+
+                                        Andy Nonymous  4/26/99

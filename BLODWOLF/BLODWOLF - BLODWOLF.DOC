@@ -1,0 +1,25 @@
+A more violent Wolf 3-D. 
+
+
+Make a backup of the VSWAP.WL1 file before replacing this VSWAP.WL1 file. You 
+should have EMS (as shown at the startup screen). If you have none, don't try
+it. 
+ This violent vswap.wl1 file was made using WOLFEDIT 2.0, which was written
+by Bill Kirby. 
+ This is for the first level only. 
+
+ First: Type md c:\vswap copy c:\wolf3d\vswap.wl1 c:\vswap
+
+ Now: copy "VSWAP" to c:\wolf3d .   And rename "VSWAP" "VSWAP.WL1"
+ If this doesn't work, shuch as the game locks, just type COPY C:\VSWAP\VSWAP.WL1 
+c:\wolf3d
+ It's that easy. Thanks,
+
+Who's face is that? Well, it's my brothers, We look a little bit alike (we are
+identical twins) but he is more ugly (just kidding, Rich).
+
+
+
+
+ David Golden
+

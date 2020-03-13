@@ -1,0 +1,532 @@
+
+Mac-enstein First Encounter SDL 2.0    November 20, 2010
+	                        2.01   December 15, 2010 
+                                2.02    January 24, 2011 
+
+Wolfenstein 3D (c) 1992 id Software, Inc.
+First Encounter levels, artwork, sounds and music (c) 1994 InterPlay Productions
+
+
+
+After downloading a 16 MB archive, you might say to yourself, "I only get 3 
+levels?" Well, this release of the Mac-enstein SDL engine is quite an 
+improvement from the previous version:
+
+- It uses AlumiuN's Advanced Sound Manager, which allows use of OGG music 
+  files of the original Mac Wolfenstein music. There are also separate 
+  volume controls for music and sounds.
+
+- All screen resolutions supported by Wolf4SDL and your monitor are possible: 
+  320x200, 320x240, or any multiple of either. Defaults to 640x400. So now
+  you can play in the Mac's original 640x480 mode.
+
+- Macintosh Wolfenstein color palette is used. I took the liberty of changing 
+  the duplicate (unused) colors at the end of the palette to support the PC 
+  Wolf3d menus, though.
+
+The First Encounter files will be needed for future releases, such as the 
+Second Encounter. The Second Encounter's files will be added to the First's 
+installation, and should be less than 1 MB. Hopefully, other releases will 
+be similarly small, certainly less than 5 MB.
+
+Some things to shoot for while you're waiting for the Second Encounter:
+Can you beat my racing time of 1:45? How about 100% under 4:27?  
+
+To play this, run FIRST.BAT. If you prefer making your own shortcut, you have
+to use "--encounter 1" as a parameter to run the First Encounter. This is 
+because the EXE will support other Encounters too, whose data files are not 
+yet ready.
+
+Tab-M toggles the player speed between Mac and PC, Tab-F toggles the
+damage flash, and Tab-B toggles between the original (buggy) dog attack sound 
+and the corrected one. All default to the Mac Wolfenstein behavior, but your
+preference will be saved in the config file.
+
+All Wolf3d v1.4 cheats are now available to use, though I would advise
+against using tedlevel because that messes up the HUD level numbers. Warping
+is better.
+
+For this release, many thanks go to AlumiuN for his Advanced Sound Manager
+code, and to Havoc for a code tweak that helps me package this so I can keep 
+the incremental releases of the future very small. Thank you ponz for finding
+some potentially embarassing bugs, and props to Matt Stath for hosting this 
+on Wolfensteingoodies.com!
+
+Following are the credits and notes from the previous version, most of 
+which still apply, and the coding timelines, for those of you that are bored 
+and need something to read! :-D
+
+
+Andy
+
+
+Previous Readme.txt for Mac-enstein Second Encounter           June 7, 2008
+=============================================================================
+
+Mac-enstein Second Encounter SDL version
+
+Wolfenstein 3D (c) 1992 id Software, Inc.
+Second Encounter levels, artwork, and music (c) 1994 InterPlay Productions
+
+
+When Ripper first announced Wolf4SDL, I had mixed emotions about
+it. I always liked Wolfenstein's simplicity, its modest system
+requirements, and that it was DOS-based. 
+
+But once I was able to compile the Wolf4SDL source code, it occurred
+to me that many of the shortcomings of the original Mac-enstein 
+mod could be overcome using Wolf4SDL as its base. Goodbye, single 
+channel digital sound and 320x200 video resolution!
+
+I had already tinkered with an improved color palette, and the maps
+were done, so it was full speed ahead to make Mac-enstein almost 
+completely Mac-like, which is really its only reason for existence 
+anyway. For further motivation, I made it a goal for this to be the 
+first full Wolf4SDL mod release.
+
+This mod is hardcoded to run at 640x400 video resolution. If your
+system cannot handle that, don't bother. Also, it seems a minimum
+of Pentium II 400 MHz CPU would be advisable for PC players.
+
+Andy
+
+
+Many thanks to the beta testers: 
+
+Ripper
+Laz Rojas
+Chris Chokan
+Born4battle
+Ariel
+
+
+Special thanks to :
+
+- Ripper for creating Wolf4SDL and his outstanding support as beta tester
+- AlumiuN for his suggestions on how to have hi-res VGA images
+- MCS for helping me figure out the stationary dog code, the player death
+  sound cut-off and the projectile/door phenomenon
+- Born4battle for his valuable Mac input
+- Phroggy for helping me extract the midi data from the Mac version
+- Brian Lowe (Schabbs) for hosting this mod
+- "Burger" Bill Heineman for releasing the Second Encounter source code
+- id Software for releasing the Wolfenstein 3d source code
+
+
+Changes since the original Mac-enstein Second Encounter:
+
+New features and switches
+  - Tab-P for Ripper's Picture Grabber to make bmp screenshots
+  - Tab-F to toggle damage flash (default: off)
+  - Tab-M to toggle between Mac and PC player movement speeds
+  - Tab-B to toggle between buggy Mac dog attack sound and corrected one
+    (all toggled preferences are preserved in config file)
+  - parameter --slowcpu for < 800 MHz machines, only affects level
+    completed sounds and end-of-game sprites
+  - parameter --showsavemsg for faster machines ensures quicksave message
+    is displayed
+
+Improved color palette
+  - all greens and greys from Mac Wolfenstein palette added
+   
+Improved sounds 
+  - new digitized sounds with sample rate of 22050 Hz
+  - all Adlib sounds have been replaced by Mac Wolfenstein sounds
+
+Hi-resolution VGA images
+  -signon and logo screens
+  -status bar, numbers, keys and BJ face
+  -episode and difficulty selection pics
+  -BJ breathing and victory pics
+
+Bug fixes (yes there were some!)
+  - bonus life awarded every 20,000 points
+  - doors are not shaded
+  - weapons sized closer to mac size
+  - Schabbs' needles explode on walls 
+  - floor 5-5 enemies don't open locked doors
+
+Other enhancements, made possible by finding the Mac Wolfenstein source 
+code at: http://www.cosc.canterbury.ac.nz/greg.ewing/4thEncounter/
+
+Resources used:
+base VSWAP - from Ripper's hiresvswap.zip
+high resolution textures & sprites - from Tails *ORIGINAL*'s macgraphics5pz.gif
+music - 3 midis from Born4Battle and Phroggy's wolfmacm.zip 
+
+Tools used:
+
+WolfEdit 2.0.4 (Mac) by Greg Ewing
+MapEdit 4.2 by Ralf Seidel
+FloEdit 2.0.0.5 by Florian St”hr
+ChaosEdit v1.27 by Chaos Software
+WDC 1.14.372 by Adam Biser
+IMFCreator 1.0.13 by Adam Biser
+Microsoft Paint by Microsoft Corp.
+Paint Shop Pro 7.04 demo version by JASC, Inc.
+Dev-C++ 4.9.9.2 by Bloodshed Software
+ResEdit 2.1.3 (Mac) by Sumit Bando & Samiran Basaks
+MusicTime 2.0 by Passport Designs, Inc.
+
+
+Sources of tutorials and helpful posts at DHW:
+
+Adam Biser
+BrotherTank
+CodeTech84
+BJ Rowan
+DeathWish
+Dugtrio17
+Joe
+MCS
+Parafriction
+Poet
+Ripper
+the_fish
+The Wolf3D Dome
+WolfTrap
+
+
+Mac-enstein Second Encounter SDL code changes
+
+commented in code as MAC4 followed by number listed below
+
+1.  Enabled hi-resolution 03/24/08                                  VERSION.H
+2.  Updated palette 03/24/08                                      WOLFPAL.INC
+3.  High resolution weapons 03/25/08, updated 04/24/08            WL_DRAW.CPP
+4.  Changed episode names 03/25/08 Dome                           WL_MENU.CPP
+5.  Changed ceiling colors 03/25/08 Dome                          WL_DRAW.CPP
+6.  Removed damage flash 03/25/08 Dome                           WL_AGENT.CPP
+7.  Removed bonus flash 03/25/08                                 WL_AGENT.CPP
+8.  Disabled the demo player 03/26/08 Dome                        WL_MAIN.CPP
+9.  Altered the high scores 03/26/08 Dome                         ID_US_1.CPP
+10. Changed border colors 03/26/08 Dome (BJ Rowan, Parafriction)  WL_GAME.CPP,
+						      WL_INTER.CPP, WL_MENU.H
+11. New status bar assignments 03/26/08                          WL_AGENT.CPP
+12. Changed music order 03/26/08 Dome                             WL_PLAY.CPP
+13. Added 25 ammo box 03/27/08 Dome                 WL_ACT1.CPP, WL_AGENT.CPP
+14. SS always drop machine gun 03/27/08 Dome (WolfTrap)          WL_STATE.CPP
+15. Changed the floor color 03/27/08 Dome                         WL_DRAW.CPP
+16. Reduced the number of episodes 03/27/08 MCS                   WL_MENU.CPP
+17. Stationary dogs 03/27/08 MCS                                  WL_ACT2.CPP
+18. Removed "hit wall" and space bar sounds 03/27/08 MCS         WL_AGENT.CPP
+19. Enabled endart 03/27/08 MCS                                     VERSION.H
+20. Decreased door open time 03/27/08 DHW (Dugtrio17)             WL_ACT1.CPP
+21. Increased speed of pushwalls 03/27/08 DHW (Dugtrio17)         WL_ACT1.CPP
+22. Changed par times 03/27/08                                   WL_INTER.CPP
+23. All clips contain 5 bullets 03/27/08                         WL_AGENT.CPP
+24. Extra life sphere does not increase ammo 03/27/08            WL_AGENT.CPP
+25. Start game with 2 lives 03/27/08                              WL_MAIN.CPP
+26. Added a backpack 03/28/08 Joe          WL_DEF.H, WL_MAIN.CPP, WL_GAME.CPP, 
+			                            WL_AGENT.CPP, WL_ACT1.CPP
+27. Start at 16 ammo, 32 for baby mode 03/28/08         WL_DEF.H, WL_MAIN.CPP
+28. BAT message changed to version info 03/28/08                  WL_PLAY.CPP
+29. Converted PG13 id logo screen 03/28/08                       WL_INTER.CPP
+30. Treasures count as items rather than score points 03/28/08    
+                             WL_AGENT.CPP, WL_MAIN.CPP, WL_DEF.H, WL_GAME.CPP
+(31. BJ does not stare forward in-game - better fix in 96)
+32. BJ's face is injured at 25% health 03/28/08                  WL_AGENT.CPP
+33. Disabled verification code 03/28/08                          WL_INTER.CPP
+34. Get Psyched! appears even after BJ dies 03/29/08              WL_GAME.CPP
+35. No stat bar during Get Psyched! 03/29/08        WL_INTER.CPP, WL_GAME.CPP
+36. Seamless music during menus 03/29/08            WL_INTER.CPP, WL_MENU.CPP, 
+								    WL_MENU.H
+37. Added blue key locked door image 03/29/08 Poet                WL_DRAW.CPP
+38. New episode and level numbers 03/29/08         WL_AGENT.CPP, WL_INTER.CPP
+39. Endart comes after high scores 03/29/08         WL_INTER.CPP, WL_GAME.CPP
+40. Added MacPlay screen 03/30/08                                WL_INTER.CPP
+41. Added MacPlay team credits screen 03/30/08                    WL_MAIN.CPP
+42. Randomized the actor greetings 03/30/08                      WL_STATE.CPP
+43. Randomized the actor death cries 03/30/08                     WL_ACT2.CPP
+44. BJ says "yeah", grins on higher weapons 03/30/08             WL_AGENT.CPP
+45. BJ says "awright" on 1-up and extra life 03/30/08            WL_AGENT.CPP
+46. Fix Fake Hitler "no free objects" 03/30/08 DHW (BrotherTank)  WL_PLAY.CPP
+47. Fix for "jumping" Hitler 03/30/08 DHW (MCS)     WL_STATE.CPP, WL_ACT2.CPP
+48. BJ death: new sound, no red fade 03/30/08                     WL_GAME.CPP
+(49. Fix for BJ death sound cut off 03/30/08 DHW (MCS)- better fix in 101)
+50. Increased episode to 30 levels 03/31/08         WL_INTER.CPP, WL_GAME.CPP
+51. Final ratios don't include secret levels 03/31/08            WL_INTER.CPP
+52. Total game time can exceed 99:99 03/31/08                    WL_INTER.CPP
+53. Allow warping up to level 30 03/31/08                        WL_DEBUG.CPP
+(54. savegame/loadgame ratios correctly handled in wolf4sdl - code unchanged)
+55. Poet: added missile launcher with its own ammo (and flamethrower)
+                             WL_DEF.H, WL_DRAW.CPP, WL_AGENT.CPP, WL_ACT1.CPP, 
+                                        WL_ACT2.CPP, WL_GAME.CPP, WL_MAIN.CPP
+56. Check if weapons have ammo 04/02/08 DHW (BrotherTank)        WL_AGENT.CPP
+57. Ammo display changes with weapon change 04/02/08 Poet        WL_AGENT.CPP
+58. Chaingun gives 20 bullets 04/02/08                           WL_AGENT.CPP
+59. Avoid getting a lower weapon with a higher one 04/02/08 Poet     WL_DEF.H, 
+				       WL_GAME.CPP, WL_MAIN.CPP, WL_AGENT.CPP
+60. Keep weapons, ammo when killed in baby mode 04/03/08          WL_GAME.CPP
+61. Schabbs' needles explode upon impact 04/03/08 DHW (the_fish)  WL_ACT2.CPP
+62. Rockets (and flames) continue to solid walls 04/03/08         WL_ACT2.CPP
+63. Adding a new projectile 04/03/08 DHW (Deathwish)              WL_ACT2.CPP
+64. Projectiles go through all static objects, but not bosses 
+    04/02/08 DHW (CodeTech84)                                     WL_ACT2.CPP
+65. Code adjustments for new bosses 04/02/08                      WL_ACT2.CPP
+66. Made bosses react to sounds 04/03/08 MCS                      WL_ACT2.CPP
+67. Made all actors "direction-independent" 04/03/08              WL_ACT2.CPP
+68. Spawn victory sprite after killing Hitler 04/03/08            WL_DRAW.CPP
+69. Spawn game over sprite after game ends in death 04/03/08      WL_DRAW.CPP
+70. Updated MLI cheat results 04/03/08                            WL_PLAY.CPP
+71. Column, cage are projectile-proof 04/04/08 DHW (Codetech84)   WL_ACT2.CPP
+72. Player projectiles won't keep doors open 04/04/08            WL_AGENT.CPP
+73. No 2x dmg to non-attackers on death incarnate 04/04/08       WL_STATE.CPP
+74. Disabled DeathCam (and drop key) 04/04/08 Poet  WL_ACT2.CPP, WL_STATE.CPP
+75. Adjusted enemy speed, strength, reaction time and points 04/04/08, 
+    05/20/08, 05/21/08                              WL_STATE.CPP, WL_ACT2.CPP
+76. Higher audio sample rate 04/05/08 DHW (Ripper)                  ID_SD.CPP
+77. Re-org, added new digi-sounds 04/06/08, 05/11/08              WL_ACT1.CPP, 
+	                              WL_ACT2.CPP, WL_STATE.CPP, WL_AGENT.CPP
+78. Added thud to death statetypes of actors 04/06/08             WL_ACT2.CPP
+79. Mac gives extra man every 20000 points 04/08/08                  WL_DEF.H
+80. BJ not a mutant when Schabbs kills him 04/14/08              WL_AGENT.CPP
+81. New menu sounds 04/15/08                                      WL_MENU.CPP  
+82. New level complete sounds 04/15/08, 05/20/08                 WL_INTER.CPP
+83. New sign-on screen 04/16/08                                    SIGNON.CPP
+84. Force 640x400 resolution 04/25/08                  ID_VL.CPP, WL_MAIN.CPP
+85. Re-adjusted weapon size 04/25/08                              WL_DRAW.CPP
+86. Hi-res for status bar numbers and pics, getpsyched 04/25/08     
+                                        ID_VL.CPP, WL_INTER.CPP, WL_AGENT.CPP
+87. Hi-res for most vga graphics 04/25/08       ID_VL.H, ID_VL.CPP, ID_VH.CPP,
+                                                     WL_MENU.CPP, WL_GAME.CPP
+88. Narrowed msg window in signon 04/26/08, 05/16/08              WL_MAIN.CPP
+89. Hi-res Macplay, id, and credits screens 04/26/08                ID_CA.CPP
+90. Fixed status bar on fullscreen tab   04/26/08      ID_VL.CPP, WL_GAME.CPP
+91. Fixed all tile8 diaglog boxes 04/26/08, 05/02/08              ID_US_1.CPP
+92. Hi-res signon screen 04/27/08                                 WL_MAIN.CPP
+93. Adjusted game over and victory spite positions 04/27/08       WL_DRAW.CPP
+94. Adjusted status bar border in victory, level completed, and 
+    fullscreen tab 04/29/08                         WL_INTER.CPP, WL_GAME.CPP
+95. Restored pause on player death 04/29/08, 05/04/08             WL_GAME.CPP
+96. BJ face updates 05/02/08, 05/06/08                           WL_AGENT.CPP
+97. Improved BJ grin timing 05/01/08                             WL_AGENT.CPP
+98. Mac BJ's eyes are shiftier (faster) 05/02/08                 WL_AGENT.CPP
+99. Fix aborted awright's in level tally 05/02/08, 05/08/08      WL_INTER.CPP
+100. Victory sprite pulses 05/04/08        WL_DEF.H, WL_GAME.CPP, WL_DRAW.CPP
+101. Game Over sprite pulses 05/04/08      WL_DEF.H, WL_GAME.CPP, WL_DRAW.CPP
+102. BJ thumbs up on levelcomplete 300% 05/06/08                 WL_INTER.CPP 
+103. New victory pic 05/06/08                         ID_VH.CPP, WL_INTER.CPP
+104. New title screen 05/06/08                                      ID_CA.CPP
+105. Fade out high score screen at end 05/07/08                   WL_GAME.CPP
+106. Schabbs' needles explode on walls 05/11/08                   WL_ACT2.CPP
+107. Fix wrong keys on quickload (found by Ripper) 05/13/08      WL_AGENT.CPP
+108. Adjustments for new screen size 05/14/08 - 05/16/08          WL_GAME.CPP, 
+              WL_MAIN.CPP, ID_VH.CPP, WL_AGENT.CPP, WL_INTER.CPP, WL_DRAW.CPP
+109. Toggle Tab-F for damage flash 05/14/08, 05/16/08, 05/24/08      WL_DEF.H, 
+						    WL_PLAY.CPP, WL_AGENT.CPP
+110. Save damage flash preference in config 05/15/08              WL_MAIN.CPP 
+111. Put timed delay in topsprite functions 05/15/08              WL_DRAW.CPP
+112. Put timed delays in levelcompleted 05/15/08                 WL_INTER.CPP
+113. Added missing menu sounds (found by Ripper) 05/15/08         WL_MENU.CPP
+114. Make changeview fulscreen obvious 05/15/08                   WL_MAIN.CPP
+115. Mecha steps sped up a bit (found by Ripper) 05/15/08         WL_ACT2.CPP
+116. Fixed seamless in-game music 05/16/08                        WL_GAME.CPP
+117. Reduced Tab-I to 20000 points (sound issue) 05/20/08        WL_DEBUG.CPP
+118. Further global speed adjustments 05/22/08                       WL_DEF.H
+119. Player speed adjustment with Tab-M toggle 05/23/08              WL_DEF.H, 
+		                       WL_GAME.CPP, WL_AGENT.CPP, WL_PLAY.CPP
+120. Save player speed preference in config 05/23/08              WL_MAIN.CPP
+121. Tab-P picture grabber always enabled 05/23/08      WL_DEF.H, WL_PLAY.CPP
+122. Tab-B toggle for dog bite fix 05/24/08             WL_DEF.H, WL_ACT2.CPP, 
+                                                                  WL_PLAY.CPP
+123. Save dog attack preference in config 05/24/08                WL_MAIN.CPP
+124. --slowcpu parameter for legacy machines 05/28/08                WL_DEF.H, 
+				       WL_MAIN.CPP, WL_DRAW.CPP, WL_INTER.CPP
+125. New palette for title 06/02/08                   GFXV_WL6.H, WL_MAIN.CPP
+126. New palette for victory picture 06/03/08        GFXV_WL6.H, WL_INTER.CPP
+127. Clear keyboard buffer ensured on game over 06/04/08          WL_DRAW.CPP
+128. Further adjustment of levelcomplete sounds 06/05/08         WL_INTER.CPP
+129. Don't allow immediate exit from end sprites 06/05/08         WL_DRAW.CPP
+130. --showsavemsg for quicksave on faster machines 06/05/08         WL_DEF.H,
+						     WL_MAIN.CPP, WL_MENU.CPP
+
+=============================================================================
+
+Mac-enstein Second Encounter SDL 2.0 change timeline
+
+Wolf4SDL v1.6 source code compiled with DEV-C++  03/15/10  Ripper 
+
+Advanced Sound Manager v0.91 files added and code changes made, per
+instructions in wolfinst.txt and DHW postings  03/26/10  AlumiuN   
+
+Numbered items are marked in source code as "MAC6 # [author]"
+
+ 1. New music  03/27/10  APN    ASMCREF.H, AUDIOWL6.H, WL_MENU.H, WL_MENU.CPP,
+                                                    WL_PLAY.CPP, WL_INTER.CPP
+ 2. Seamless music  03/29/10  APN      WL_INTER.CPP, WL_GAME.CPP, WL_MENU.CPP
+ 3. New sounds  03/30/10  APN                           ASMCREF.H, AUDIOWL6.H
+ 4. Sound adjustments  03/30/10  APN   WL_AGENT.CPP, WL_MENU.CPP, WL_ACT1.CPP,
+                                                                  WL_ACT2.CPP
+ 5. Removed "hit wall" and space bar sounds  03/31/10   MCS      WL_AGENT.CPP
+ 6. Actor sounds  04/02/10  APN                     WL_STATE.CPP, WL_ACT2.CPP
+ 7. Activated USE_HIRES  04/05/10 APN                               VERSION.H
+ 8. BAT message changed to version info  04/05/10 APN             WL_PLAY.CPP
+    Re-compiled with Mac Wolfenstein + color palette  04/07/10 APN
+                                                                  WOLFPAL.INC
+ 9. Hi-res weapons code  04/09/10 APN                             WL_DRAW.CPP
+10. Changed ceiling colors  04/09/10 Dome                         WL_DRAW.CPP
+11. Changed floor colors  04/09/10 APN                            WL_DRAW.CPP
+12. Add blue key locked door  04/09/10 Poet                       WL_DRAW.CPP
+13. Stationary dogs  04/09/10 MCS                                 WL_ACT2.CPP
+14. Decreased door open time  04/09/10 DHW (Dugtrio17)            WL_ACT1.CPP
+15. Increase speed of pushwalls  04/09/10 DHW (Dugtrio17)         WL_ACT1.CPP
+16. Removed damage flash  04/09/10 Dome                          WL_AGENT.CPP
+17. Removed bonus flash  04/09/10 APN                            WL_AGENT.CPP
+18. Disabled the demo player  04/09/10 Dome                       WL_MAIN.CPP
+19. Added 25 ammo box  04/09/10 Dome                WL_ACT1.CPP, WL_AGENT.CPP
+20. All clips contain 5 bullets  04/09/10 APN                    WL_AGENT.CPP
+21. Start game with 2 lives  04/09/10 APN                         WL_MAIN.CPP
+22. Start at 16 ammo, 32 for baby mode  04/09/10 APN    WL_DEF.H, WL_MAIN.CPP
+23. Extra life sphere does not increase ammo  04/09/10 APN       WL_AGENT.CPP
+24. SS always drop machine gun  04/09/10 Dome (WolfTrap)         WL_STATE.CPP
+25. Get Psyched! appears even after BJ dies  04/09/10 APN         WL_GAME.CPP
+26. Added a backpack  04/10/10 Joe         WL_DEF.H, WL_MAIN.CPP, WL_GAME.CPP,
+                                                    WL_AGENT.CPP, WL_ACT1.CPP
+27. No stat bar during Get Psyched!  04/10/10 APN   WL_INTER.CPP, WL_GAME.CPP
+28. Changed border colors  04/10/10 Dome (BJ Rowan, Parafriction) WL_GAME.CPP,
+                                                      WL_INTER.CPP, WL_MENU.H
+29. Hi-res signon screen  04/11/10 APN        ID_VL.H, ID_VL.CPP, WL_MAIN.CPP
+30. Narrowed msg window in signon  04/11/10 APN                   WL_MAIN.CPP
+31. Miscellaneous color adjustments  04/11/10, 06/02/10 APN      WL_INTER.CPP,
+   WL_MENU.H, WL_MENU.CPP, WL_MAIN.CPP, WL_TEXT.CPP, WL_GAME.CPP, WL_PLAY.CPP
+32. Hi-res vga menu pictures  04/11/10 APN                          ID_VH.CPP
+33. New palettes for title, intermission, and victory screens  04/17/10  APN
+                                                                   GFXV_WL6.H
+34. Hi-res id, Macplay, title, and credits screens  04/18/10, 04/22/10  APN     
+
+                                         ID_VH_CPP, WL_INTER.CPP, WL_MAIN.CPP
+35. Altered the high scores  04/19/10  Dome                       ID_US_1.CPP
+36. Changed par times  04/19/10  APN                             WL_INTER.CPP
+37. Disabled verification code  04/19/10  APN                    WL_INTER.CPP
+38. No 2x dmg to non-attackers on death incarnate 04/19/10 APN   WL_STATE.CPP
+39. BJ not a mutant when Schabbs kills him  04/19/10  APN        WL_AGENT.CPP
+40. Allow warping up to level 30  04/19/10  APN                  WL_DEBUG.CPP
+41. Added thud to death statetypes of actors  04/19/10  APN       WL_ACT2.CPP
+42. Made bosses react to sounds  04/19/10  MCS                    WL_ACT2.CPP
+43. Made all actors "direction-independent"  04/19/10  APN        WL_ACT2.CPP
+44. Mac gives extra man every 20000 points  04/19/10  APN            WL_DEF.H
+45. Menu adjustments for 640x480 mode  04/21/10, 04/25/10  APN    WL_MENU.CPP,
+                                                                  WL_GAME.CPP
+46. Better intermission timing  04/21/10, 06/02/10  APN          WL_INTER.CPP,
+                                                     WL_MAIN.CPP, WL_GAME.CPP
+47. Randomized BJ hurt sounds  04/21/10  APN                     WL_AGENT.CPP
+48. Actor hurt sound added  04/21/10  APN                        WL_STATE.CPP
+49. No red fade when BJ dies  04/21/10  APN                       WL_GAME.CPP
+50. Hi-res status bar elements and smaller Get Psyched  04/22/10  APN
+                                                                    ID_VL.CPP
+51. Hi-res status bar  04/22/10  APN                                ID_VH.CPP
+52. Adjust Get Psyched image and progress bar  04/22/10  APN     WL_INTER.CPP
+53. Adjust status bar elements  04/22/10  APN         ID_VH.CPP, WL_AGENT.CPP,
+                                                                  WL_GAME.CPP
+54. Treasures count as items rather than score points  04/23/10  APN
+                             WL_DEF.H, WL_AGENT.CPP, WL_MAIN.CPP, WL_GAME.CPP
+55. Don't trim or clip status bar  04/23/10  APN    WL_GAME.CPP, WL_INTER.CPP
+56. Changes for BJ face behavior  04/24/10  APN     WL_AGENT.CPP, WL_GAME.CPP
+57. Make size 20 the default screen size  04/24/10  APN           WL_MAIN.CPP
+58. Allow sound to finish when BJ dies  04/25/10  DHW (BrotherTank)
+                                                                  WL_GAME.CPP
+59. Fix for "jumping" Hitler  04/25/10  DHW (MCS)                WL_STATE.CPP
+60. Reduced Tab-I to 20000 points (sound issue)  04/25/10  APN   WL_DEBUG.CPP
+61. Adjusted enemy speed, strength, reaction time and points  04/25/10  APN
+                                          WL_DEF.H, WL_STATE.CPP, WL_ACT2.CPP
+62. Total game time can exceed 99:99  04/26/10  APN              WL_INTER.CPP
+(63. Final ratios don't include secret levels  04/26/10  APN    WL_INTER.CPP)
+    UNDONE 11/14/10 - now need all levels 100% completed to get final 100%
+64. Level complete adjustments  04/27/10  APN      WL_INTER.CPP, WL_AGENT.CPP
+65. Disabled DeathCam (and drop key) 04/29/10 Poet  WL_ACT2.CPP, WL_STATE.CPP
+66. Code adjustments for new bosses  04/29/10  APN      WL_DEF.H, WL_ACT2.CPP
+67. Added new weapons with own ammo, avoid lower weapon with higher one, ammo
+    display changes with weapon change  04/30/10  Poet, APN          WL_DEF.H,
+                           WL_DRAW.CPP, WL_ACT1.CPP, WL_MAIN.CPP, WL_GAME.CPP
+68. Keep weapons, ammo when killed in baby mode  04/30/10  APN    WL_GAME.CPP
+69. Projectiles go through all static objects, but not bosses 
+    04/30/10  APN, CodeTech                                       WL_ACT2.CPP
+70. Column, cage are projectile-proof  04/30/10  DHW (Codetech84) WL_ACT2.CPP
+71. Schabbs' needles explode upon impact  04/30/10  DHW (the_fish)
+                                                                  WL_ACT2.CPP
+72. Rockets (and flames) continue to solid walls  04/30/10  APN   WL_ACT2.CPP
+73. Adding a new projectile  04/30/10  DHW (Deathwish)            WL_ACT2.CPP
+74. Schabbs' needles explode on walls  04/30/10  APN              WL_ACT2.CPP
+75. Player projectiles won't keep doors open  04/30/10  APN      WL_AGENT.CPP
+76. Ammo display changes with weapon change  04/30/10  Poet      WL_AGENT.CPP
+77. Check if weapons have ammo  04/30/10  DHW (BrotherTank)      WL_AGENT.CPP
+78. Chaingun gives 20 bullets  04/30/10  APN                     WL_AGENT.CPP 
+79. Updated MLI cheat results  05/06/10  APN                      WL_PLAY.CPP
+80. Pulsing victory sprite  05/06/10  Bill Heineman     WL_DEF.H, WL_GAME.CPP,
+                                                                  WL_DRAW.CPP
+81. Pulsing game over sprite  05/06/10  Bill Heineman   WL_DEF.H, WL_GAME.CPP,
+                                                                  WL_DRAW.CPP
+82. --slowcpu parameter for legacy machines  05/15/10  APN           WL_DEF.H,
+                                       WL_MAIN.CPP, WL_DRAW.CPP, WL_INTER.CPP
+83. --showsavemsg for quicksave on faster machines  05/15/10  APN    WL_DEF.H,
+                                                     WL_MAIN.CPP, WL_MENU.CPP
+84. Toggle Tab-F for damage flash, save in config  05/15/10  APN     WL_DEF.H,
+                                       WL_PLAY.CPP, WL_AGENT.CPP, WL_MAIN.CPP
+85. Player speed adjustment with Tab-M toggle, save in config  05/15/10  APN
+                WL_DEF.H, WL_GAME.CPP, WL_AGENT.CPP, WL_PLAY.CPP, WL_MAIN.CPP
+86. Tab-B toggle for dog bite fix, save in config  05/15/10  APN     WL_DEF.H,
+                 WL_ACT2.CPP, WL_PLAY.CPP, ASMCREF.H, AUDIOWL6.H, WL_MAIN.CPP
+87. Tab-P picture grabber always enabled 05/15/10 APN   WL_DEF.H, WL_PLAY.CPP
+88. New victory pic  05/15/10  APN        GFXV_WL6.H, ID_VH.CPP, WL_INTER.CPP
+89. Enabled endart  06/02/10  MCS                                   VERSION.H
+90. Endart comes after high scores  06/02/10  APN   WL_INTER.CPP, WL_GAME.CPP
+91. Fade out high score screen at end  06/02/10  APN              WL_GAME.CPP
+92. Fix Fake Hitler "no free objects" 06/02/10 DHW (BrotherTank)  WL_PLAY.CPP
+93. Fixed all tile8 diaglog boxes  06/02/10  APN                  ID_US_1.CPP
+94. Count Hitler for correct kill totals  06/12/10  APN           WL_ACT2.CPP 
+95. Added the dash as a new character 06/14/10 APN   GFXV_WL6.H, WL_INTER.CPP
+96. Mechahitler death sound and points corrected  07/28/10  APN   WL_ACT2.CPP,
+                                                                 WL_STATE.CPP
+97. Seamless levels  09/06/10  Chris Chokan, APN       WL_MENU.CPP, VERSION.H,
+                                                                 WL_INTER.CPP
+98. Enable EXE to handle multiple encounters  11/06/10  APN          WL_DEF.H,
+                                                                  WL_MAIN.CPP
+99. Hooks for First Encounter added  11/07/10  APN, Havoc        WL_INTER.CPP,
+ ID_PM.CPP, WL_AGENT.CPP, WL_DEBUG.CPP, WL_MAIN.CPP, WL_MENU.CPP, WL_PLAY.CPP
+100. Ensure US_PrintCentered uses correct font  11/07/10  APN      ID_US1.CPP
+101. Unique extension for Second Encounter  11/09/10  APN         WL_MENU.CPP
+102. Hooks for Third Encounter added 11/09/10 APN   WL_MENU.CPP, WL_AGENT.CPP,	
+          		                            WL_INTER.CPP, WL_PLAY.CPP
+103. Limit 3rd Encounter to episode 1, enable 2-6 via command line  11/10/10, 
+     11/19/10  APN                         WL_DEF.H, WL_MENU.CPP, WL_MAIN.CPP
+104. Cheat message adjustment  11/10/10  APN  		            FOREIGN.H
+105. Full-screen level end awkwardness fixed  11/11/10  APN      WL_INTER.CPP,
+	                                                          WL_GAME.CPP
+106. Secret level updates  11/14/10  APN            WL_INTER.CPP, WL_GAME.CPP
+107. Check for encounter parameter  11/15/10, 11/18/10  APN       WL_MAIN.CPP
+108. VIEASM indicator on signon screen 11/17/10  APN  SIGNON.CPP, WL_MENU.CPP
+109. Fix load game bug (found by ponz) 11/17/10  APN   WL_DEF.H, WL_INTER.CPP
+110. Music adjustments and new seamless method for levels  11/17/10  APN 
+                                                    WL_PLAY.CPP, WL_INTER.CPP
+111. Fixed menu sound bug  11/19/10  APN                ASMCREF.H, AUDIOWL6.H
+112. Tweaked player speed  11/19/10, 11/20/10  APN   WL_PLAY.CPP, WL_GAME.CPP
+
+Version 2.01 changes:
+
+     Updated code to Wolf4SDL v1.7 revision 255 via SVN  12/03/10  Ripper
+113. Tweaked intermission sounds  12/03/10  APN                  WL_INTER.CPP
+
+Volume of boss sound wav files increased  12/13/10  APN
+
+114. Added guard blockers for level 6-4  12/15/10  MCS, Tricob       WL_DEF.H, 
+					                         WL_STATE.CPP
+
+Version 2.02 changes:
+
+115. Fixed intermittent missing elevator switch sound  12/25/10  APN
+                                                                 WL_AGENT.CPP
+116. Warp limited to levels 1-10 for Third Encounter episodes  12/25/10  APN
+                                                                 WL_DEBUG.CPP
+117. Paused, Get Psyched graphic improvements  01/01/11  APN      WL_PLAY.CPP, 
+                                                                 WL_INTER.CPP
+118. Fixed door sound bug  01/01/11  APN                ASMCREF.H, AUDIOWL6.H
+119. Prevent enemies from opening locked doors  01/02/11  CodeTech 
+                                                                 WL_STATE.CPP
+120. Enemies do not see you more than 16 tiles away  01/11/11  Heineman     
+                                                                 WL_STATE.CPP
+121. Better weapon scaling in 320x240 modes  01/13/11  APN        WL_DRAW.CPP
+122. Improved bullet and projectile behavior through doors  01/14/11  APN
+                                                    WL_STATE.CPP, WL_ACT2.CPP 
+123. Improved message centering in 320x240 modes 01/14/11, 1/24/11  APN
+                                                     WL_PLAY.CPP, WL_MENU.CPP

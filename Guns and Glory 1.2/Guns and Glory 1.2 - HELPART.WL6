@@ -1,0 +1,305 @@
+^P
+^C7d GUNS AND GLORY
+^G32,16,5
+
+^C26 On your journey you will need to familiarize yourself with everyone and everything 
+you will find on your journey.
+
+^C00 We hope that this help Guidebook will prove useful on your mission. If you ever 
+need to consult it in a tight situation, press the F1 key.
+
+^P
+^G16,16,3
+^C7e TABLE OF CONTENTS
+^C00
+3-9 Story/Recap
+10-14 Gameplay
+15-19 Items/Health and Novelties
+20-26 Warning!/Weapons and Ammo
+27-28 Interactive objects
+29-29 The Reich's Army
+30-33 Credits
+34-35 Resources
+36    End
+
+
+^P
+^C7d THE STORY
+^G32,175,3
+^C00 Everyone is aware of the original story of the Original Wolfenstein 3d: You 
+a spy of the allied forces, escape Castle Hollehammer and assassinate The Nazi Leaders: 
+Adolf Hitler, Franz Schabbs, Otto Giftmacher and General Fettsgesicht.
+
+^P
+^C7d THE STORY
+^C00 But This story takes place much, much later. It takes place in the year 2007, 
+the world is in the middle of a guerilla war with The forces of Iraq.
+
+^P
+^C7d THE STORY
+^C00 America, already starting to loose has no hope, but then things turn for the 
+worse, The security in Germany, is halted to aide in the Iraq-war enabling some ugly 
+faces to turn into the light.
+
+^P
+^C7d THE STORY
+^C00 The Nazi's reform their establishments after hiding for almost a century and 
+invade a small island, taking it's citizens hostage and forcing certain members to 
+become part of the security detail, and the rest to be put to work as either workers, 
+scientists, or raw human samples for research. 
+
+^P
+^C7d THE STORY
+^C00 With this in the midst of becoming a world crisis, the Government assigns BJ 
+Blazcowicz's Grandson, BJ Jr. jr. To the task. With only about 26 years behind you, 
+you've not had much experience fighting Nazi's, but your the unit they've chosen. 
+You must go and fight the Nazi forces and eliminate their projects before the world's 
+populous is told of such an outcome.
+
+^P
+^C7d THE STORY
+^C00 Now go! Get ready! Be prepared, and stay sharp, the Nazi's are more cunning 
+with the new-age technology of today. Their base is on a small island, you will infiltrate 
+the island via this route:
+
+^P
+^C7d RECAP
+^C00 You must make your way through the nearest entryway: The Sewers, then pass through 
+one of the towns surrounding the Nazi's base, followed by a trek through the Nazi's 
+ore mines on the island, and make your way into the base after a short swim. From 
+there you reach the Command Center and destroy the master computer and escape before 
+the base blows.
+
+^P
+^C7d GAMEPLAY
+^C00 If you've played the original Wolfenstein 3d, then this should be a no-brainer. 
+But If not, This is a first person shooter, where the object of the game is to go 
+around shooting things with various weapons or other utensils. However, unlike the 
+original Wolfenstein, Guns and Glory has a much bigger purpose in mind: Strategy, 
+Timing and Planned Action.
+
+^P
+^C7d GAMEPLAY
+^C00 In Guns and Glory, every weapon (save for the chainsaw and knife) fire projectiles, 
+although this takes away from the realism, it does add a new threat to the player: 
+Position and knowing your environment. Guards also fire projectiles, and most usually 
+die in one hit, but since everyone fires projectiles now, You'll have to be more 
+careful, some projectiles can be quite tricky.
+
+^P
+^C7d GAMEPLAY
+^C00 One such projectile is the "Grenade" used by Cyborgs, it is a projectile and 
+can eventually become a timed-landmine to add to their danger level. The easiest 
+way to take care of this is: always know your options and environment, environment 
+takes a big role in G&G because it could mean the difference between life or death 
+in a matter of seconds.
+
+^P
+^C7d GAMEPLAY
+^C00 All I can tell you is that, you'll have to be quick to dodge and quick to fire, 
+those two steps will keep you alive in most situations. Otherwise: save often, and 
+remember to use the pistol when you don't need anything bigger, it may mean the difference 
+in one of your many encounters.
+
+^P
+^C7d GAMEPLAY
+^C00 On a final note: Grenades, and Flame Thrower guards explode when killed, they 
+can be a great way to save ammo. When a FTG is close to a group of other guards, 
+kill them first and the difference will become clear. Same with Grenades, although 
+they can be a problem, they can also be an accet, so utilize them wisely.
+
+^P
+^C7e ITEMS
+^C00 There are many different items and objects that you will require on your journey, 
+such as food, water, and weapons to use to dispatch of your foes. Here is an illistrated 
+discription of each of these 3 categories: Health and novelties, Weapons and ammo, 
+and interactive things.
+
+^P
+^C7e HEALTH AND NOVELTIES
+^C00 These are the health and treasure items, that you will come across, here is 
+a small list of what each one does:
+^C91 Potion: heals 1% health (not a whole lot, but better than nothing)
+Stimpack: heals 5% health (it'll help, for now)
+Dinner: heals 10% health (mmm, steak!)
+Medkit: heals 25% health (those bandaids and pain killers really help.
+
+^P
+^C7e HEALTH AND NOVELTIES
+^C00 Tresure items can be obtained for score and to then gain extra lives here's 
+how much each item is worth:
+^C91 Cross: 100 points (100 points saved is 100 points earned)
+Chalice: 500 points (Hey there's no wine in these!)
+Chest: 1000 points (money, money, money!)
+Gem: 2500 points (oooo! shiny!)
+Crown: 5000 points (I feel like royalty!)
+Bj Sphere: gives you 1 extra life (an ugly Mug but a nice effect)
+
+^P
+^C7e HEALTH AND NOVELTIES
+^C00 The Keys are used to open the many locked doors inside the castles, and in the 
+Nazi fortresses. Gathering one could prove useful.
+^C91 Silver Key: not well guarded, and usually the first to be collected due to it's 
+low value.
+Gold key: Well guarded, and sometimes dropped by tough guards, there are sometimes 
+more than one of these.
+Keycard: Very Well Guarded and usually kept by the really tough guards.
+
+^P
+^C7e HEALTH AND NOVELTIES
+^C91 Severed Hand: Some doors require identification to pass through. With all the 
+confusion, I'm sure you'd be able to find a helping "hand."
+
+^P
+^C7e WARNING!
+^C00 Although weak, the pistol has unlimited ammo, but you must find one before using 
+it, also chainsaw's are known to work more effectively if you have an ammo clip available, 
+otherwise they simply do not use as much force when attacking.
+
+^P
+^C7e WEAPONS AND AMMO
+^C00
+On your journey you will have to face the nazi warmachine with many different "tools" 
+these are all of your necessary tools for combating the Nazi's on their own turf.
+
+
+^P
+^C7e WEAPONS AND AMMO
+^C91 1. Knife: your standard issue knife, it can be used as a last resort weapon, 
+good for sneak attacks, but not much else.
+3. Pistol: A Standard firearm, It can be used to get rid of little threats, and has 
+unlimited ammo, making it a good weapon early on, and possibly later as well.
+
+^P
+^C7e WEAPONS AND AMMO
+^C91 4. Machine Gun: This gun can be used to clear rooms of guards in seconds, it 
+is a better choice than the pistol, but it only has 60 bullets per clip, so use it 
+wisely.
+5. Chain Gun: This Rapid Fire gun is the best choice for taking on armies of guards, 
+But it chews through your ammo supply very quickly so it is advised that you save 
+it for emergencies.
+
+^P
+^C7e WEAPONS AND AMMO
+^C91 6. Rocket Launcher: Used for taking out heavily armored threats with several 
+well aimed blasts. It is very powerful, but ammo for it is scarce, and close range 
+useage can be fatal.
+7. Flame Thrower: This device hurls large waves of Flames at your opponents setting 
+them on fire, and causing a slow and painful death. It's ammo is plentiful, but it 
+is hard to come by these.
+
+^P
+^C7e WEAPONS AND AMMO
+^C91 2. Chainsaw: A rare find, and it is powerful too. It is hard to find one of 
+these, and can be effective. Unfortunately, it does not operate at full capacity 
+unless you have at least 1 ammo.
+
+^P
+^C7e WEAPONS AND AMMO
+^C91 Clip: Gives 60 ammo for the machine gun.
+Ammo Box: Gives 90 ammo for the chaingun.
+Rocket Box: Gives 10 ammo for the rocket launcher.
+Fuel Canister: Gives 70 fuel for the flame thrower.
+
+^P
+^C7e INTERACTIBLE OBJECTS
+^C00
+On your mission, you'll find many objects that boggle the mind, but here are a few 
+that you should get used to:
+^C91 1. Gibs: The remains of what was once human. If your health is 10% or below, 
+you can eat these to gain 1% health back.
+2. Waste: Unlike gibs, these cause damage if you run over this stuff, but luckily, 
+everyone can suffer from this stuff, so they can act as somewhat of a "landmine."
+
+
+^P
+^C7e INTERACTIBLE OBJECTS
+^C91 3. Ladders/Manholes: You can climb up/down from these to reach other areas of 
+the map. Unfortunately, sometimes it's impossible to return the way that you came.
+
+4. GodMode Artifact: These large orbs can give you limited invulnerability, but they 
+are hard to find, so wasting them wouldn't be a good idea.
+
+^P
+^C7e THE REICH'S ARMY (GUARDS)
+^C00
+There are many different types of regular guards and bosses ingame. They each have 
+their own skills and behavior, but you will be briefed about them each time you finish/start 
+a level, so there's no need to tell you about them here.
+
+^P
+^C7e CREDITS
+^C00
+Credits go to the following people for use of either graphics, inspiration, sounds, 
+and coding help:
+CodeTech and Megabyte: Graphics for the Reich knight (from Haunted House demo)
+Areyep and MCS: mostly sounds, music and Graphics from their hit games EOD and Spear 
+resurrection.
+Adam Biser and Deathwish: Coding help, and helping me fix a few things with my code.
+
+Majik Monkee: for Monkee's image world and assorted graphics from sed webpage.
+
+^P
+^C7e CREDITS
+^C00
+Schabbs(Brian Lowe): Support, and allowing me to post this game on the Wolfenstein 
+3d Dome.
+BrotherTank: Coding tutorials, which led to the cool features ingame.
+Chris (wolf community): Coding support, and tutorials.
+Ripper: Coding tutorials, including the great shading tutorial.
+ZulinRaynor: Coding tutorial for the exploding Barrel.
+
+^P
+^C7e CREDITS
+^C00
+DeathWish: Coding Support, tutorials, and tolerating me and my constant threads on 
+Die Hard Wolfers.
+InsurrectionMan: Giving me something to do by trying out Doom: Legions of Hell.
+Digital Cafe: For the Muckinator enemy sprites.
+The folks Who made Skulltag: For ideas and concepts of characters, maps, and probably 
+a few sounds.
+The Folks who made Action Doom: For giving me fast paced action, ideas, graphics, 
+and a few sounds too.
+
+^P
+^C7e CREDITS
+^C00
+ID Software: for making the original Wolfenstein 3d, and graphics and sounds.
+Conner94: for offering to help with coding for the orginal Guns and Glory concept.
+
+Richard Kelly: for offering help with walls and graphics of the original Guns and 
+Glory concept.
+My Parents: for putting up with the long and hard hours of me sitting in front of 
+my and their computers.
+Chris (Doom community): for putting up with my work on this game instead of the Game 
+we're currently working on.
+
+^P
+^C7e RESOURCES
+^C00
+Music: Doom, Heretic, The Original Wolfenstein, Final Fantasy 5, 6, 7, 8, 9, and 
+10, and Spear Resurrection.
+Graphics: Wolfenstein, Doom, Spear Resurrection, EOD, Haunted House Demo, Monkee's 
+image world, The Thing, Spear of Destiny, Hexen, Blood, and Heretic
+Sounds: Doom, Wolfendoom (doom community), Heretic, and Wolfenstein 3d
+Coding: Diehard wolfer's Forum, Areyep.com, The Wolfenstein 3d Dome, and wherever 
+else applicable.
+
+^P
+^C7e RESOURCES
+^C00
+Maps: Inspiration for map layouts: EOD, Doom, Rising Evil 2, Halls of Stonehenge, 
+and Wolfendoom.
+Utlities: Borland Compiler, MSPaint, Floedit, WDC, ChaosEdit, PC Sound Recorder, 
+WinTex (doom), IMF Creator.
+
+^P
+^G16,16,5
+^C7e END
+^C00
+Now that's all there is, Oh, one last thing, I am General Cleetus. I, The Science 
+Manager and the Weapons Chief will all aide you on your journey. We will tell you 
+what to do and where to go. It'll be a thrill working with you, the son of a legend, 
+but don't get too excited, you have mission to accomplish.
+
+^E

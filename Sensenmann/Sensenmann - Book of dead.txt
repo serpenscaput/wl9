@@ -1,0 +1,101 @@
+================* Sensenmann *===================
+       --------* Grim  Reaper *--------
+	--------* Reaper Man *--------
+=================================================
+	
+It's my first Game.I never have worked with a source code before. 
+
+Only with Mapeditors of the following Games:
+Tenchu 2, Timesplitters 2, Warcraft 2, Tony Hawk 2 
+
+What would have happended if this Game have been the first famous
+Shooter and not Wolfenstein 3D?
+
+No music: press F1 2 times or press ESC and go back to the Game
+
+Jukebox: (Hold key "m" when starting sense.exe)
+ 	It's not in the Main Menu because i need Book of Dead 
+	(Read This) for a Story.
+
+Levels: Episode 1: 3 + Secret		Episode 4: 3
+	Episode 2: 3 + Secret		Episode 5: 3 + Secret
+	Episode 3: 3 + Secret		Episode 6: 4
+	and some Funlevels (but not in Episode 4,5)
+	The Levels 4 and 5 in Episode 5 are from my cousin Kevin
+
+Hmm.If you want some Cheats.Try this:
+------------------------------------
+----- 1.The M+L+I Cheat -----
+
+??? a man who lopped off his right hand (it's from a Horrorfilm) ???
+
+----- 2.The goobers command -----
+
+Clive Barker film:
+texas chainsaw massacre person:
+the most famous vampire:
+Paul Verhoevens roboter:
+..... of Re-Animator:
+Grim ......:
+
+the last letter of each answer is the command
+
+"""""""Tab + K = Suicide"""""""""""""""Tab + O(P) = Special""""""""
+"""""""Tab + W = Warp"""""""""""""""Tab + I = Weapons""""""""
+"""""""Tab + G = ?"""""""""""""""Tab + A = Fun""""""""
+"""""""Tab + U = Fun"""""""""""""""Tab + D = Fun""""""""
+"""""""Tab + J = State""""""""
+
+be glad that are all famous movies or want you a question about
+Violent Shit, "Braindead", Bad Taste, Untold Story, Story of Ricky,
+Premutos, Zombie,Demons (dance of the demons), Intruder (Bloodnight)
+
+Build Time: 23.12.03 - 7.4.2004
+
+	Features:
+	--------
+- Floor/Ceiling Textures 
+- 9 weapons
+- rain,snow
+- animated clouds
+- Lightshading
+- New graphics
+- New sounds
+- animated objects
+- !close doors because some enemies can't open it!
+
+	missing stuff:
+	-------------
+- enemies drops a pool of blood (I can add this but it's too 
+  much for the Game.If you're fight against more than 10 enemies they will disappear)
+
+- 2 Songs in the Jukebox (Error when playing Tracks) 
+- animated Sprites doesn't block
+- exploding objects
+- more sounds (i can't add it)
+- more images (i can't add it)
+
+	Tools:
+	-----
+- Audio File Manager v.1.0 by DarkOne (Sound)
+- ImfTools v.1.0 by DarkOne (Music Convert)
+- FloEdit v.2.0 by Florian Stöhr (graphics, digitized sound and Music)
+- Paint (graphic)
+- Paint Shop Pro v.8 by Jasc Software (graphic modofications)
+- LZEXE v.0.91 by Fabrice Bellard (EXE compression)
+- Borland C++ v.3.1 (source compilation)
+
+edelgardmezger@web.de (Germany)
+but my English is very bad
+	
+	Credits:
+- Programming: John Carmack, John Romero, Mäx, ArEyeP,MCS,
+  DarkOne,Chaos Software,Poet & Tommy Olstad,
+  Tristan van Putten, Bj Rowan, Kuki and I think some other
+- Artist: Mäx and some stuff from other Tcs
+- Creative Director: Mäx
+ 
+zappzerrapp ist die Rübe ab
+Ich kam, sah und versägte mich
+Ich traue niemandem, der fünf Tage lang blutet ohne zu sterben
+Advent, Advent der Karlheinz brennt

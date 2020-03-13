@@ -1,0 +1,25 @@
+^P
+^C[DarkRed]QUICK COMMAND REFERENCE
+^c00
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to Desktop
+^P
+^C[DarkRed] Weapons:
+^C[green]Knife: ^C[Black] This is the weakest weapon there is, but it uses no ammuntion, 
+and is silent. 
+^C[green]Pistols: ^C[Black] Uses bullets
+^C[green]Dual Pistols: ^C[Black] Uses bullets. Right pistol can be fired with Alt-fire 
+key.
+^C[green]MP40: ^C[Black] Uses bullets. It is considerably faster than the pistols.
+
+^C[green]Chaingun: ^C[Black] Not only is this a chaingun, it's a gatling chaingun! 
+Uses run-of-the-mill bullets. It is exremely fast.
+^C[green]Flamethrower: ^C[Black] This weapon of mass destruction can be picked up 
+from Ghost Hitlers. It uses ammo picked up also from the demonic beings.

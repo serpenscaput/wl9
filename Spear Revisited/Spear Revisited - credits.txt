@@ -1,0 +1,177 @@
+Although I tried to ensure the validity of all this information, I cannot guarantee 
+100% accuracy for the credits due to the diverse sources of the things I borrowed. 
+To make corrections to this list, please drop me a line at spaceforce-temp@hotmail.com.
+
+
+SPEAR REVISITED CREDITS
+
+-TEXTURES-
+Gray stone 1: Tristan van Putten
+Gray stone 2: Tristan van Putten
+Gray Stone w/ Flag: Wall by Tristan van Putten, flag by Lord Raffles
+Gray Stone w/ Hitler: Wall by Tristan Van Putten, painting by DHW TC team
+Dark Stone (blue stone): ArEyeP
+Gray Stone w/ Eagle: Tristan van Putten
+Wood: ArEyeP
+Gray stone w/slime: B.J. Rowan, recolored by Executor
+Steel: Tristan van Putten
+Day Landscape: Original Wolf 3-D. recolored by Executor
+Night Landscape: ArEyeP
+Red brick: MacPlay Entertainment (Macintosh Wolfenstein), resized and touched up 
+by Executor
+Armor panel: Wolf Skevos-Jones
+Elevator: Megabyte
+Console: Wolf Skevos-Jones
+Gray Stone 3: B.J, Rowan
+Gray Stone 3 w/ sign: Tristan van Putten
+Black stone: Id Software (Doom II)
+Black stone w/ flag: Id Software (Doom II), flag by WLhack, assembled by Executor
+
+Black stone w/ Hitler: Id Software (Doom II), painting by B.J. Rowan
+Blue Wall: B.J. Rowan
+Blue Wall w/ SS Flag: B.J. Rowan, flag by WLHack
+Gray Brick: Tristan Van Putten, decorations taken from original Wolf3D
+Marble: FormGen Corporation (Spear LE), flag by Lord Raffles 
+Brown rock: Apogee Software (Rise of the Triad), recolored by Executor
+Cyan tile: JackaL
+Hell Wall: FormGen Corporation (Spear LE)
+Gray Stone w/ SS Flag: Tristan van Putten, flag by Lord Raffles
+Concrete: Tristan van Putten, flag by WLHack
+Doors: Megabyte
+
+-SPRITES-
+Water: ArEyeP
+Oil drums: ArEyeP, recolored by Executor
+Table w/ chairs: ArEyeP
+Brown floor light: Ben Blaufarb
+Chandelier: WLHack
+Cobble columns: DHWTC team, gray column recolored by Executor
+Potted plant: Laz Rojas with pieces of original Wolf3D plant, recolored and modified 
+by Executor
+Table: ArEyeP
+Gray ceiling light: Ben Blaufarb
+Suit of armor: Wolf Skevos-Jones
+Silver key: B.J. Rowan
+Oil slick: ArEyeP
+Small health: ArEyeP
+Food plate: Wolf SKevos-Jones
+Medkit: ArEyeP
+Skeleton: ArEyeP
+Clip: Id Software (Doom alpha 0.4)
+Skewered heads: DHWTC team
+MP40 pickup: Brian Lowe
+MG42 pickup: Apogee Software (Rise of the Triad original specs)
+Treasure: DHW TC team
+Extra life: Brian Lowe
+Gibs: ArEyeP
+Barrel: DHWTC team
+Well w/ water: Majik Monkee
+Flag: Wolf Skevos-Jones
+Bone pieces: ArEyeP
+Ammo box: ArEyeP, recolored by Executor
+Fern: ArEyeP
+Desks: ArEyeP
+Spear rack: WLHack
+Spear of Destiny: ArEyeP
+Guard: Wolf Skevos-Jones, muzzle flash by WLHack
+SS: Wolf Skevos-Jones, muzzle flash by Megabyte
+Dog: DHWTC team
+Murant: Original Wolf 3-D, recolored by Executor
+Officer: Architect, muzzle flash by WLHack
+Missile: Majik Monkee
+Trans Grosse: Erick Bessant-Chavez, muzzle flashes by Megabyte
+Ludwig Fotzekopf: thejoph
+Ubermutant: Original Spear, recolored by Executor
+Death Knight: Original Spear, recolored by Executor
+Sabaoth: RGamesINC
+Knife: Apogee Software (Rise of the Triad)
+Pistol: Apogee Software (Rise of the Triad)
+MP40: Apogee Software (Rise of the Triad)
+MG42: Id Software (Doom alpha 0.4), Laz Rojas
+Kommandant (unused): Majik Monkee
+Boxes: ArEyeP
+Mold: ArEyeP
+Butcher's table: ArEyeP
+Hanging gore: ArEyeP
+Table w/ axe: ArEyeP
+Toilet: ArEyeP
+Cyan ceiling light: Brian Lowe
+Steel table w/ chairs: B.J. Rowan
+Sink: JAM productions (Blake Stone)
+Stove: Wolf Skevos-Jones
+Utensils: DHWTC team
+Gray floor light: Wolf Skevos-Jones
+Metal column: Wolf Skevos-Jones
+Bed: DHWTC team
+Cyan ceiling light: ArEyeP
+Bronze column: WLHack
+SS uniform: Megabyte
+SS Flag: Wolf Skevos-Jones
+
+
+-MUSIC-
+Floor 2: Lee Jackson (Rise of the Triad)
+Floor 6: Robert Prince (Doom)
+Floor 3: Lee Jackson (Rise of the Triad)
+Floor 12: Apogee Software (Raptor)
+Floor 1: Paul Corfiatis
+Floor 7: Robert Prince (Doom II)
+End screen: Lee Jackson (Rise of the Triad)
+Floor 11: Robert Prince (Doom II)
+Floor 8: Paul COrfiatis
+Floor 9: Robert Prince (Doom II)
+Floor 14: Paul Corfiatis
+Floor 13: ArEyeP
+Floor 15: Nobuo Uematsu (Final Fantasy X)
+Menu: Apogee Software (Raptor)
+Boss 1 (Trans Grosse): ArEyeP
+Intemission: Robert Prince (Doom II)
+Angel of Death: Robert Prince (Doom II)
+Floor 19: Nobuo Uematsu (Final Fantasy X)
+Boss 4 (Death Knight): Nobuo Uematsu (Final Fantasy VII)
+High scores: Lee Jackson (Rise of the Triad)
+Floor 17: Apogee Software (Raptor)
+Floor 4: Apogee Software (Raptor)
+Title: Laz Rojas, possibly adapted from classical music
+Boss 2 (Ludwig Fotzekopf): Nobuo Uematsu (Final Fantasy X)
+Boss 3 (Ubermutant): Parallax Software (Descent)
+Floor 20: Parallax Software (Descent II)
+
+-GUEST LEVELS-
+Level 16: thejosh
+Level 19: Brian Lowe
+
+
+-SOUNDS-
+Guard: Wolf Skevos-Jones
+Dog: Wolf Skevos-Jones
+Door close: thejosh
+Door open: thejosh
+MP40: Wolf Skevos-Jones
+Pistol: Wolf Skevos-Jones
+MG34: Wolf Skevos-Jones
+SS sight: Laz Rojas
+SS death: Wolf SKevos-Jones
+Weapon change: Apogee Software (Rise of the Triad)
+Low health hit: Apogee Software (Rise of the Triad)
+Secret wall: Wolf Skevos-Jones
+Mutant: Id Software (Quake II)
+Blood: FormGen corporation (Spear LE)
+Officer: Wolf Skevos-Jones
+End level: FormGen Corporation (Spear LE)
+Trans Grosse: Laz Rojas
+Ludwig Fotzekopf: Tristan van Putten
+Ubermutant death: Id Software (Quake II)
+Sabaoth: Id Software (Quake II)
+Chaingun pickup: Tristan van Putten
+Death Knight rocket: Id Software (Doom II)
+Rocket explosion: Id Sotware (Quake II)
+Regular rocket: Id Software (Quake II)
+Menu sounds: Id Software (Quake II)
+Sabaoth fire: Id Software (Doom II)
+Additional guard sounds (unused): Wolf Skevos-Jones
+
+-GRAPHICS-
+Menu graphics: Tristan van Putten
+Status bar: Tristan van Putten
+Difficulty levels: Apogee Software (Rise of the Triad)

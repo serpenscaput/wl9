@@ -1,0 +1,228 @@
+Wolfenstein 3D: Spear of Destiny
+The final resistance1) Intro
+Spear of Destiny: The final resistance is a SoD modification with new Sprites,
+textures and sound collected from different Wolfenstein 3D Fan websites - also some
+
+created by the author of this modification, never seen before in Wolf3D world –with 
+a
+new atmosphere, new enemies and experiences.
+The main points of this MOD are level Mapping , interior design and puzzle
+structure of of the 19 different levels. Each one has a different approach and a 
+story to
+tell, such as the Castle Interior, the high security prisions, the Schabbs Secret 
+X
+laboratories and the Spear hideout.
+We encourage players to read the story and description of this small Read Me to
+understand what SoD: TFR is all about, including its Innovation.
+1.1) Basic Controls
+Spear of Destiny uses basically the same controls of Wolfenstein 3D
+Ctrl – Shoots
+Space – Open Doors and Secret Walls
+Key Arrows – Movement
+2) The Story
+After retrieving the Spear of Destiny, B.J is once again engaged by the OSS into
+
+another mission. This time, you’ll need to retrieve a second and more powerful
+Spear. That’s Right. It seems that there is another Spear, more powerful and
+unique than the one you retrieved. The Thule Society discovered a spear with
+“Aryan” roots after some expeditions to the Middle East and India, which it is
+believed that belonged to different ancient emperors.
+The OSS don’t know precisely its power. According to different sources, the
+Nazis are trying to use it as an ultimate weapon inside their last bastion of
+resistance against the allied forces: Caste Brunwald, in Austria. The Castle is
+famous for top secret researches, human experimentation and High Tech
+weaponry tests. The Castle protector is General Schröder, a nazi party member
+official that ascended SS ranks and currently guards the Castle prison, inside a
+
+lavish floor surrounded by SS Honor Guards. He was also one of the chief
+inspectors of Dr. Schabbs experiments.
+All evidences collected so far indicates that this Aryan spear is hidden into the
+
+castle. It’s BJ’s mission to get there and destroy the last nazi resistance, destroying
+
+a new utopia of world domination.3) The Levels
+Part 1: The Castle
+Level 1: Castle Entrance
+Castle Brunwald entrance is full of the most expensive furniture of Central Europe,
+
+including rooms entirely made of Black Forest woods decorated with honor flags of 
+the
+Third Reich. Only invited members are permitted to enter the Black Marble corridor,
+
+which directs to the castle upper floors. Let’s see if you are able to enter inside 
+it !
+Level 2: Conference Rooms
+Albert Speer, Hitler’s personal architect, designed this floor especially for High 
+and Top
+Secret Nazi conferences for politics and other sinister topics. The main entrance 
+Hall
+was Hitler’s personal favorite. The one that wants to explore even more the castle
+
+whereabouts will need to search for secret areas and walls for different passageways
+
+that lead to the castle upper floors. This was intentionally done for security matters
+
+against intruders.
+Level 3: Soldiers Chambers
+In the third Floor you’ll face the officers and soldiers restrooms. With labyrinth
+
+corridors, the elevator to the fourth floors is heavily guarded and hides many surprises.
+
+Level 4: High Officials Floor
+Only High Nazi officials are permitted into this floor. Designed for accommodations 
+and
+lavish dinners, the fourth floor also guards the elevator to the Level 2 top secret 
+floors
+of the castle. To reach there, you’ll need to find the many secret passageways that
+
+holds secret rooms.
+Level 5: Top Secret Floor nº1
+Not too much is known about this room, since no one ever went there and escaped
+alive. Our reports indicate that it is extremely heavily guarded and leads to an 
+elevator
+that goes straight to the castle prisons.Part 2: The Prisons
+Our reports about these secret floors are really scarce, based upon OSS agents
+infiltrations and coded messages sent to us.
+Level 6: Human Cells
+Probably visitors are not permitted inside here, neither are mere high officials. 
+As far as
+we know, access to Brunwald’s prisons needs the consent of General Schroder. Our 
+OSS
+agents indicated that the Nazis are holding humans inside prisons for further human
+
+experimentation for their ultra-secret laboratories. We do not expect that you find 
+any
+prisoner alive.
+Level 7: The Blue Floor – Interrogation rooms
+The Nazis get their prisoners for interrogation around here. Narrow rooms and tricky
+
+secret doors probably are part of this horrendous place.
+Our Department does not have further info’s on the upper floors of the castle, only
+
+their respective activities. ! Some info below may Contain spoilers!
+Level 8: Torture Floor
+Level 9: Execution Floor
+Level 10: General Schroder Office
+Eliminate the crazy man to access Dr. Schabbs X Laboratories. This man is responsible
+
+for many atrocities against human beings. You have permission and all means
+necessary to eliminate him.
+Part 3: Dr. Schabbs X Laboratories – After Schabb’s death we knew that a second and
+
+most secret laboratory existed somewhere in Germany, but only now we know that it
+
+is inside Brunwald Castle. Find Out what’s going over there and eliminate all Schabb’s
+
+crazy experiments at once!
+Level 11: X-Labs Experimentations floor
+Level 12: Testing’s and medical operations floor
+Level 13: Chemical Biohazard storage and surgery floor
+Level 14: Dr. Schabbs Private Headquarters
+Level 15: Deactivated Laboratories
+Level 16: Unknown Floor
+Part 4: Aryan Spear Fortress – This is probably where the Spear is being held. Expect 
+all
+kind of protection and extreme heavy security.
+Level 17: Spear Protection FloorLevel 18: Spear Floor
+Level 19: Escape ?
+4) Enemies
+4.1) German Army and Waffen SS Staff
+You’ll face some of the best prepared staff of the remaining Third Reich inside the
+
+castle. These are the most common enemies you’ll face along your mission. They will
+
+kill everyone who tries to trespass the security levels, including even those of 
+the
+german arymy, who do not have permission to go further.
+Wehrmacht Soldier
+Waffen SS Hauptmann
+Waffen SS Officer4.2) German Top Secret experiments
+Some of our previous reconnaissance indicated that the Nazis have some Top Secret
+
+technology inside the castle. These include :
+ Human Experiment mutants, probably more advanced in weaponry than those
+you’ve encountered previously on Dr. Schabbs secret laboratories in Operation
+Wolfenstein, if not more resistant. Rumors say than something greater than a
+Mutant exists.
+ Über Soldiers, robots designed to kill with the most advanced weaponry
+available. OSS Indicates that there are two types of these Über Soldats,
+normally they protect something vital for your progress inside the castle floors.
+
+Eliminate all of them!!
+4.3) Top Priority Targets
+Gen Schröder – All we have from this man is his passport picture. He’s
+responsible for many atrocities against innocent people from Europe, using them as
+
+experiments inside Brunwald Castle. He was Dr. Schabbs superior and creator of all 
+the
+bizarre experiments you have seen and will see further.
+Eliminate him at all costs to access the Castle top secret floors.5) Important Rooms 
+and Tips
+In Spear of Destiny: Final Resistance, you’ll encounter some exclusive rooms which
+
+hold Ammunition and MedKits, such as the Ammo Storage and Infirmary. These have
+different and exclusive wall textures that you’ll find through the castle, which 
+are
+easily identifiable. These can only be opened with Golden or Silver Keys.
+Infirmary
+Ammo Storage5.1) Rooms with secret Walls
+Sometimes, through your progress, you’ll need to access Secret Rooms through Secret
+
+walls. This was not a common thing made by the Wolf 3D and SOD designers, due to
+
+the difficulty of gamers to find these secret walls. In SoD: Final Resistance, all 
+these
+passages are subliminary indicated by Walls with flags or other symbols, so If you 
+are
+stuck, try to push walls with these indications.
+There are no secret walls without symbols that are vital to be discovered for the 
+Level
+completition.
+5.2) Level Testing
+All the levels of this Mod were tested and completed on the highest difficulty
+beginning with 8 Bullets and a pistol.
+If you find any bugs, which is common, report to me at roberto@carnier.com
+5.3) Credits
+Textures and Sounds were collected and downloaded from:
+ Wolf3d Dome.UK
+ Wolf 3D Mods: Project Einsenritter, Castle Totenkopf, Spear: End of Destiny
+ Monkee’s Image World.
+Some wall textures and sprites were created and edited by me using Photoshop CS4.
+
+Spear of Destiny is a creation of ID Software ®. This is just a modification and 
+it is free
+for sharing.
+5.4) Music to listen while playing Wolf3d
+While Wolfenstein is recognized by its nostalgic Soundtrack, SoD: FR was theorized 
+and
+created with Tangerine Dream “Krautrock” playing on the background. Here’s a list 
+of
+songs which are suitable to listen when playing this MOD.
+(Album from Tangerine Dram – Name of Song)
+Spear of Destiny : Final Resistance Open theme is “The Keep – Stealing the Silver
+
+Cross” – Free for listen at files.
+If you wish I can send you the songs, just e-mail me.
+LV1: Tyger – 21st Century Common Man (pt1/2)
+LV2:Antique Dreams – Phaedra of NottinghamLV3 The Private Music of Tangerine Dream 
+- After the Call
+LV4: Hyperborea: No Man’s Land
+LV5: Thief – Dr. Destructo
+LV6 : Seven Letters from Tibet: The Red Blood Connection
+LV7:Legend – The Blue Room
+LV8: Hyperborea- Hyperborea
+LV9 Hyperborea- Sphynx Lightning
+LV10: Sorcerer - Vengeance
+LV11: Green Desert – Green Desert
+LV12: Optical Race: The Midnight Trail
+LV13: Mars Polaris - Astrophobia
+LV14:Phaedra -Phaedra
+LV15 Phaedra – Movements of a Visionary
+LV16: Zeit – Nebulous Dawn
+LV17: The Keep – Stealing the Silver Cross
+LV18: Legend – The Kitchen/ Unicorn Theme Reprise
+LV19:Sorcerer - Abyss
+Contact:
+Roberto Carnier –
+Creator of SOD:FR
+roberto@carnier.com

@@ -1,0 +1,696 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           EDITING/CREATING NEW FLOORS
+                                       for
+                           CORRIDOR 7: Alien Invasion
+                                       by
+                                   Warren Buss
+        
+                    ************IMPORTANT NOTICE*************
+
+        Corridor 7: Alien Invasion (tm) - both the disk version and the CD-
+        ROM version - are Copyrighted games. As such you are cautioned NOT
+        to distribute the main program files (CORR7.EXE, CORR7CD.EXE, or
+        SETUP.EXE). Instructions for distributing floors created for
+        Corridor 7 by MAPEDIT are included below. Be sure to read and
+        follow them.
+
+        If you experience any problems with floors you develop for Corridor
+        7 using Mapedit, you are requested NOT to contact IntraCorp, Inc.
+        Tech Support. They will not provide help. Instead, contact one of
+        the authors of Mapedit. Please include this entire notice with any
+        floors you distribute to others.
+
+                    *************IMPORTANT NOTICE************
+
+
+
+
+
+
+        * Corridor 7: Alien Invasion is a trademark of IntraCorp, Inc. All
+        other trademarks are acknowledged.
+        
+                                 Table of Contents
+
+
+        Introduction . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+        Game Map Structure . . . . . . . . . . . . . . . . . . . . . .  4
+
+        Corridor 7 (disk) vs. Corridor 7 (CD-ROM). . . . . . . . . . .  5
+
+        DATA DEFINITION FILES  . . . . . . . . . . . . . . . . . . . .  5
+
+        New Features in Corridor 7 . . . . . . . . . . . . . . . . . .  6
+
+        Corridor 7 Design Limitations. . . . . . . . . . . . . . . . .  6
+
+        Corridor 7 Design Considerations . . . . . . . . . . . . . . .  6
+
+        Hidden Areas, Push Walls & Bonus Scoring . . . . . . . . . . .  7
+
+        Special Floor Code & The Automap . . . . . . . . . . . . . . .  7
+
+        Locked Doors . . . . . . . . . . . . . . . . . . . . . . . . .  8
+
+        Special Trigger Codes. . . . . . . . . . . . . . . . . . . . .  8
+             Animation Error Code. . . . . . . . . . . . . . . . . . .  8
+
+        How Animation Works. . . . . . . . . . . . . . . . . . . . . .  9
+
+        Non-Sliding Doors. . . . . . . . . . . . . . . . . . . . . . .  9
+
+        Teleporters. . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+        A New CD-ROM Alien . . . . . . . . . . . . . . . . . . . . . . 10
+
+        NETWORK Levels . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+        Debugging Your Levels. . . . . . . . . . . . . . . . . . . . . 12
+
+        Distributing Game Levels . . . . . . . . . . . . . . . . . . . 14
+        
+        Introduction
+
+        Corridor 7 is the 4th in a series of first person, 3-D games that
+        uses an engine licensed from id Software. The first 3 in the order
+        of their appearance are Wolfenstein 3-D (tm), Spear of Destiny
+        (tm), and Blake Stone: Aliens of Gold (tm). Spear of Destiny used
+        the same engine as Wolf3D. Blake Stone introduced a number of
+        changes to support new features that were not present in its
+        predecessors through the use of significant engine modifications.
+
+        Corridor 7 introduces other new features but only one is like any
+        in Blake Stone. For the most part, Corridor 7 operates more like
+        Wolf3D and Spear of Destiny than Blake Stone. Virtually all of the
+        changes to the engine of Corridor 7 affect walls and doors, the use
+        of "animated" objects, as well as an ability to "see" through
+        certain types of walls and doors.
+
+        As far as creating floors for Corridor 7 is concerned, the approach
+        does not differ much from creating floors for Wolf3D, Spear of
+        Destiny, or Blake Stone. If you have never created a floor for any
+        of these games before, it is recommended that you read through
+        "Tips for Creating/Editing Wolf3D and Spear of Destiny Designs".
+        This document is included in the Mapedit package. The above
+        document will give you a flavor for what is involved.
+
+        Game Map Structure
+
+        Corridor 7 (both the diskette version and the CD-ROM version) are
+        structured differently from their predecessors even though the same
+        data is required by the engine in order for the game to operate.
+
+        All games using the id Software engine require a pair of files that
+        contain the maps of all the levels being played as well as
+        "pointer" data to these levels. Prior to Corridor 7, the "pointer"
+        data is contained in a separate file named MAPHEAD. In Corridor 7,
+        this file does not exist, per se. Instead, the data which would
+        normally be in this file has been integrated into the Corridor 7
+        program itself. The game maps still exist in a separate file named
+        MAPTEMP.CO7.
+
+        The point of all this is to remind you that when you prepare some
+        new floors for Corridor 7 and you want to make them available to
+        others, you MUST NOT ship a copy of the Corridor 7 program. This
+        would violate the copyright of Corridor 7.
+
+        In order to distribute your new floors, a special utility program
+        is available to export a special "map group" file that can be
+
+
+
+
+
+                                      -4-
+        
+        distributed. The recipient will then be required to use a copy of
+        the same utility to import (merge) the map data into his own copy
+        of the C7 program. This method of distribution ensures that no one
+        except a registered user of Corridor 7 can use the floors. More on
+        the utility program later.
+
+        Corridor 7 (disk) vs. Corridor 7 (CD-ROM)
+
+        While the first 30 levels, plus 6 bonus levels, of the CD-ROM
+        version of the game appear to be nearly identical to the same
+        levels in the disk version of the game, they are in fact
+        incompatible with one another. As a result, when you create new
+        floors for one of the games, they will NOT be playable with the
+        other version of the game.
+
+        DATA DEFINITION FILES
+
+        MAPEDIT provides data definition files for all games it supports.
+        In the case of Corridor 7, there are separate versions for Disk and
+        CD-ROM versions. See the README file for instructions on how to
+        select the proper data definition files.
+
+        There are a significant number of codes/symbols identified in the
+        MAPDATA definition file that represent walls/doors that were not
+        used in the official game. Any description that simply says (unused
+        wall) is one of these walls/doors. To see what these walls/doors
+        look like, you will have to insert them in a floor and start the
+        game to view them.
+
+        Of the remaining walls/doors, the descriptions that appear in the
+        MAPEDIT legend window are mostly too long to fit in the limited
+        space so you must scroll the legend window horizontally to read the
+        entire description. The descriptions are lengthy due to the complex
+        graphic designs, especially (but certainly not limited to) the
+        alien walls.
+
+        You are also reminded that you are free to edit the definition
+        files since they are in Ascii format. However, it is not advisable
+        to re-order the file. Even though the actual game does not depend
+        on this file, you will find it easier to edit floors if you leave
+        it in its present order.
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -5-
+        
+        New Features in Corridor 7
+
+        To those of you who have played previous 3-D games, the most
+        obvious new feature that is immediately apparent in Corridor 7 is
+        the use of "glass" walls through which one can clearly see what is
+        on the other side. This "see-through" feature is extended to
+        certain types of doors as well as other wall types that partition
+        off the floor space. Note: Aliens cannot see through any type of
+        wall. If they can be seen moving rapidly about on the other side of
+        a "see-thru" wall, it is because they have shifted to Attack Mode
+        for some reason not related to the "see-through" feature.
+
+        Another interesting feature is that there is a great deal of
+        movement - or animation - present. Many of the wall graphics are in
+        constant motion. This tends to make the environment seem more alive
+        than previous games of the same genre. Much of the movement is
+        inherent and controlled by the engine. Some of it needs to be
+        overtly triggered by the floor designer with the use of certain
+        triggering object codes. A set of triggering object codes is also
+        used to activate the "see-through" feature mentioned in the
+        previous paragraph.
+
+        Corridor 7 Design Limitations
+
+        In the disk version of Corridor 7, the game ends by destroying the
+        VORTEX. Hence, the VORTEX must appear in the 30th level only.
+
+        In the CD-ROM version of the game, the VORTEX can be destroyed
+        either on the 30th level or the final level and this will end the
+        game. The VORTEX on the 30th level can also be "entered" by the
+        Space Marine and he will be transported to the 31st level. It can
+        also be entered on the final level, which will end the game and
+        start the final cinematic sequences.
+
+        Bonus levels are entered from levels 1, 5, 10, 15, 20, and 25 only.
+        In the original game, the bonus levels are entered from elevators
+        that have a special floor code. These elevators are usually hidden,
+        and/or protected by increasingly tougher "bosses".
+
+        Certain alien creatures do not exist outside of an alien
+        environment, notably the "Alioprobes", in the original game. There
+        is no restriction other than the spirit of the game that keeps them
+        from being used in an earth type environment.
+
+        Corridor 7 Design Considerations
+
+        Wolf3D and Spear of Destiny are prison and castle environments. As
+        such, the use of narrow corridors is in keeping with the spirit of
+        the game (although many wide halls and corridors were used too).
+        Hidden rooms entered through pushwalls contained treasure and
+        caches of ammo and weapons, but sometimes pushwalls were used as
+
+
+                                      -6-
+        
+        shortcuts to other areas.
+
+        Blake Stone occurs in a futuristic sci-fi environment. While there
+        were many alien type creatures created by Dr. Goldfire, there were
+        also humans. The floor designs were not generally dungeon-like in
+        appearance. Hidden rooms were used in virtually the same manner as
+        in Wolf3d and SoD.
+
+        Corridor 7 suggests an entirely different environment: a modern
+        office and lab complex on earth which is being methodically
+        converted to an out-of-world environment suitable for supporting
+        the alien life that is occupying it. Aside from our Space Marine,
+        there are no other live humans. Narrow halls are the exception
+        rather than the rule. The major exception to this is the outer
+        maintenance corridor which exists on most levels (except the new
+        alien levels in the CD-ROM version) and is entered through a push
+        wall.
+
+        Hidden Areas, Push Walls & Bonus Scoring
+
+        Corridor 7 contains no treasure (earthly treasure is apparently of
+        no value to the occupying aliens). Hidden areas normally contain
+        weapons, armor, invincibility spheres, proximity maps, and other
+        devices helpful to the survival of the Space Marine. Hidden areas
+        that contain these items are considered restricted areas and as
+        such affect the bonus scoring. However, entering a maintenance
+        corridor through a push wall is not normally considered to be
+        entering a restricted area. To differentiate between a restricted
+        area and a non-restricted area, there are two types of "push-wall"
+        codes. If object code '62' is used to mark a pushwall, then the
+        area behind it is considered restricted. If object code '65' is
+        used to mark a pushwall, then the area behind it is considered
+        unrestricted.
+
+        To achieve 100% access to all restricted areas, all pushwalls
+        identified with object code '62' must be located and pushed open.
+        Any pushwalls identified with object code '65' do not figure into
+        the bonus scoring.
+
+        Special Floor Code & The Automap
+
+        All floors have areas located behind secret doors (pushwalls). Such
+        areas do not display on the game's Automap. The key to hiding any
+        area you don't want displayed on the Automap is to use floor code
+        '008F' (disk version) or floor code '0103' (CD version).
+
+
+
+
+
+
+
+
+                                      -7-
+        
+        Locked Doors
+
+        Virtually every floor in Corridor 7 that is not an alien floor,
+        contains locked doors. To open these doors, a blue or red access
+        "card" must be obtained. In every case, access is granted when an
+        appropriate Access Security Terminal is located. Most often, one or
+        both of the Terminals are located in a "Security Office". They are
+        usually mixed in with one or more "Access Intrusion Terminals",
+        which, if accidently or mistakenly activated, will alert any nearby
+        aliens.
+
+        In most cases, there are also Access Security Terminals located
+        just inside the door that is locked. This is so if the Space Marine
+        finds an alternate access to the room/area via a pushwall
+        somewhere, he can obtain the right access card to unlock the door
+        and leave the area.
+
+        Special Trigger Codes
+
+        As indicated above, Corridor 7 uses special object codes to cause
+        certain walls/doors to appear animated or to be able to see through
+        different wall and door types. These are listed below together with
+        where and how each code is used.
+
+        Object
+        Code     Description
+        ----     -----------
+        0056     Slow Speed Animation
+        0057     Normal Speed Animation
+        0058     High Speed Animation
+        0067     Sliding Door "see thru" and open/close activator
+        0068     Glass "see thru" activator
+        0069     Wall "see thru" activator (incl. fences)
+        006a     Non-sliding door activator with "see thru"
+        006b     No Clipping activated for single map cell
+
+        The above codes are inserted in the same cell on the map as the
+        wall/door that is to be activated.
+
+        Animation Error Code
+
+        There is a limit to the number of some Animation object codes that
+        can be used in one level. Codes 56-58, 6a, and 6b in the above list
+        are the "animation" codes and their combined use cannot exceed 32.
+        The Map code '0055' (Medic Pack) also figures into the total count.
+        If you exceed the count, the Stat labeled "Total Animates" in the
+        lower right corner of the Mapedit screen will turn red to warn you.
+        If you ignore the warning and play the game, as soon as the level
+        is being loaded into memory, the game will abort and issue a
+        message "32+ Sliding Walls".
+
+
+
+                                      -8-
+        
+        How Animation Works
+
+        Animation is implemented in the following way. During play, when
+        the game detects any wall type with an Animation code on it, the
+        program displays the wall represented by that code and the
+        following 3 wall codes in sequence, then continues to cycle through
+        the 4 codes. This causes the wall graphic to be animated. Any one
+        of the 4 wall types used in the animation sequence could be used by
+        itself without an Animation code, thus eliminating any movement.
+
+        Animation speed is determined by which animation code (56 thru 58)
+        you select. Choose the one you think gives the effect you desire.
+
+        Once again, you are reminded that you can edit the data definition
+        files. However, you are advised not to change the order.
+
+        Non-Sliding Doors
+
+        Many different types of doors are used in Corridor 7. The
+        conventional doors slide left or right when opening. Such doors
+        require no special triggering to make them operate. (You are
+        limited to 63 of these kinds of doors). However, there are a number
+        of other types of "doors" that open in unconventional ways. Some
+        open by moving upwards (Health Chamber, Medic Pack); others open
+        from the inside out (most alien entrances and elevator doors);
+        still others open by the removal of a force field (Security
+        Offices).
+
+        Because unconventional doors cannot be handled the same as the
+        sliding doors, the animation effect must be applied so that four
+        separate door codes are cycled through one time to see the door
+        open and in reverse to see the door close. Object code '6a' is used
+        for this purpose. It is inserted on the map in the same cell as the
+        door that is to be operated.
+
+        If you want to have one of these doors in the open position and not
+        allow it to be closed, then choose the fully opened door code for
+        the door type you want and then use object code '6b' so that the
+        door can be walked through. Code '6b' does 2 things. It makes a
+        wall or door appear as a thin partition and then applies "no
+        clipping" logic so that it can be walked through.
+
+        To help you determine which doors/walls can be animated, the
+        Mapdata legend window in Mapedit will provide 2 additional pieces
+        of information. 1) Any wall type that can be animated will have a
+        small letter 'a' in parenthesis at the beginning of the
+        description. At the end of the description will be the trigger
+        object code(s) that you can choose from. 2) Any door type that
+        needs a trigger code will have that code displayed at the end of
+        the description.
+
+
+
+                                      -9-
+        
+        NOTE: A large letter 'A' in parenthesis at the start of the
+        description field means the symbol represents something normally
+        used only in an alien environment.
+
+        Teleporters
+
+        Another interesting feature of Corridor 7 is the introduction of
+        Teleporters (only in the CD-ROM version). While teleporters also
+        exist in Blake Stone, only Blake can use them. In Corridor 7,
+        aliens can use them as well. There is no special action required to
+        use them - just walk into one and be teleported to some
+        destination.
+
+        Teleporter destinations are determined by the use of 1 of 8 special
+        floor codes (117 through 11e). Floor code '11f' denotes the use of
+        a teleporter that takes you to the next level (there are no
+        elevators used in the 10 new Alien levels of the CD-ROM version of
+        Corridor 7).
+
+        NOTE: Teleporters are objects and as such have object codes used to
+        insert them on the map where you want them, but they are not
+        operable unless they are placed on one of the 8 teleporter floor
+        codes. You can have a maximum of 8 teleporters per level.
+
+        As stated above, teleporters can and are used by aliens. This
+        produces an interesting effect depending on how the regular floor
+        codes are laid out. If the Space Marine fires his weapon while
+        standing on any particular code, all aliens on the same floor code
+        will shift to Attack mode and move towards the Space Marine. This
+        produces the singular effect of having aliens seemingly coming out
+        of the woodwork from all directions, homing in on their target as
+        some of them move through teleporters.
+
+        A New CD-ROM Alien
+
+        The CD-ROM version of Corridor 7 introduces some new aliens. The
+        game's User Guide names and describes all aliens but one. It
+        appears in several of the new levels. It is a small creature that
+        jumps high in the air and emits a piercing scream when killed. He
+        is more of an annoyance than a real threat, but he dies in an
+        amusing way. This alien was supposed to have been removed from the
+        game before it was released, but somehow it was overlooked and
+        hence wasn't given a name. You will find that it has a name in the
+        object data legend window. In keeping with the use of names spelled
+        backwards for many of the aliens, I have chosen to name this small
+        creature NERRAW.
+
+
+
+
+
+
+
+                                     -10-
+        
+        NETWORK Levels
+
+        The CD-ROM version of the game introduces Networking and Deathmatch
+        play. There are 8 levels designed for this purpose. They are levels
+        51 through 58. They have large open areas and lots of available
+        ammo, weapons, health items, etc. Walls/doors and objects that were
+        used only in the Network levels are marked with an 'NT' in the
+        description fields. There are no Proximity Maps provided for these
+        levels as this would provide the players with an unfair advantage.
+
+        There are also no aliens in these levels. The player is given a
+        choice of being a Space Marine or an Alien when playing. Just
+        remember that if you choose an Alien, some of them move more slowly
+        than others and are no match for a Space Marine, but alien against
+        like-alien would be an interesting match.
+
+        While starting locations are in each Network level, the game will
+        assign random starting locations for each player at the start of
+        the game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -11-
+        
+        Debugging Your Levels
+
+        A number of debugging or "cheat" codes are available when you want
+        to test a floor you have created or changed. To enter debugging
+        mode you must start the game in the following manner:
+
+        CORR7 level1diagnostic
+
+        There are no spaces in the word "level1diagnostic". You may provide
+        other parameters along with this one if you want. The above
+        parameter does not have to be the first one in the list.
+
+        When a floor appears on the screen then you must press
+        TAB+LSHIFT+LCTRL simultaneously to enable the debugging keys. Hold
+        down the Backspace key while pressing one of the following debug
+        keys:
+
+        C: Information on Statics and Actors
+        D: Walking Debug mode. Constantly displays stats in real time while
+           walking about the floor.
+        F: Detailed Player/tile/actor information
+        G: God Mode (Invincibility). Does NOT give you unlimited ammo.
+        I: Adds to your score and gives you 200 rounds of ammo and 100
+           alien charges, plus the next more powerful weapon.
+        M: Memory information
+        N: Toggles Clipping Mode (enables you to walk through solid objects
+           and walls (except outer perimeter wall).
+        P: Requests a "Flic Name". (plays cinematic sequences)
+        R: Shows the "Solrac graphic"
+        T: Displays teleporter information.
+        W: Warp to any level.
+
+        Command Line Parameters
+
+        NOPICS        Skip the Cutscenes
+        NOWAIT        Automatically skips several screens at game start
+        TEDLEVEL nn   Start game at any level. 'nn' is level number-1. This
+                  causes the desired level to be loaded immediately without
+                  displaying any of the opening screens including the main
+                  menu. 'TEDLEVEL' is used in CD game. 'GOLEVEL' is used in
+                  Disk version of game.
+        BABY          Starts game at skill level 1: Corporal (the default).
+        EASY          Starts game at skill level 2: Lieutenant
+        NORMAL        Starts game at skill level 3: Captain
+        HARD          Starts game at skill level 4: Major
+
+             (There is no parameter for starting the game at the President
+             level).
+
+
+
+
+
+                                      -12-
+        
+        Examples:
+
+        CORR7 TEDLEVEL (starts game at level 1 at skill level 1)
+
+        CORR7 TEDLEVEL 14 NORMAL (starts game at level 15 at skill level 3)
+
+        NOTE: You cannot use TEDLEVEL to start a NETWORK level. You must
+        enter the game at any of the normal non-network levels, then Warp
+        to the desired Network level in Debug mode.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -13-
+        
+        Distributing Game Levels
+
+        As mentioned earlier, a new utility for use only with Corridor 7
+        has been added to the Mapedit package. This utility is named
+        C7_UTIL.EXE. It's purpose is to create and export a file to disk
+        that contains all the floors that comprise the current game (CD-ROM
+        or Disk version) prior to distributing them. It also must be used
+        to import a file into an existing game.
+
+        It doesn't matter where you store C7_UTIL. By default, it expects
+        to find the game files in the current directory, as well as the map
+        group files. But these defaults can be overridden after you start
+        C7_UTIL. (A "map group" consists of an entire set of maps for all
+        levels as well as the data that points to each level).
+
+        There is one important safety feature built into the utility. When
+        you wish to Import a map group, by default, a backup file will be
+        created of the current game map files before the Importing takes
+        place. You can elect to override this feature and you can also
+        select a name of your choice for the backup file.
+
+        The first time you start C7_UTIL a menu of 4 optional items - A, B,
+        E, and F - will appear on the screen. Item A, by default, is
+        Export. Item B is the file name for the file to be Exported. The
+        default name for this file also displays and may be altered by
+        selecting item B.
+
+        Item E can be selected to tell C7_UTIL the full name of the game
+        path. By default, it is the current directory. If you want to store
+        the floor files somewhere other than the current directory, select
+        option F. To start the Export operation, select the G option (GO).
+        Any time you need help press F1. Press Q to quit. You will be asked
+        if you want to save any changes you made to any of the options.
+        Reply 'Y' or 'N' and press Enter. NOTE: If this is the first time
+        you have run C7_UTIL and you modified any pathnames, be sure to
+        save the changes when you quit so you won't have to repeat them
+        next time.
+
+        If you selected item A to change to an IMPORT operation, then you
+        will see 2 additional options displayed (C and D). Option C lets
+        you elect to say you want a backup file of the current game files
+        created before the Import takes place, or not. The default is to
+        create the backup file. If you want a backup file, then option D
+        lets you choose a name other than the name currently displayed on
+        the screen. NOTE: C7_UTIL checks to see if the maps you are
+        importing match your game (CD or Diskette) and aborts if they don't
+        match.
+
+        Lastly, if you are distributing game groups to someone else, try to
+        determine if they have the C7_UTIL program. If you can't determine
+        it or you know they don't have it, then ship a copy of C7_UTIL with
+        your distribution package. You may want to ship a copy of these
+        instructions too.
+                                     -14-
+        
+

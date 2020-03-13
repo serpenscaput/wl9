@@ -1,0 +1,97 @@
+"SS"
+
+Gerolf Games 2012
+===========================================================================
+Archive Maintainer      : Brian Lowe
+Purpose         : create a 10 level addon for Wolfenstein 3d that has an Id Software 
+feeling.
+===========================================================================
+Title                   : SS
+Filename                : SS.zip
+Release date            : August 15th 2012
+Author                  : Tristan Hill
+Email Address           : herrgerolf@live.com
+Description             : Escape Castle Fefehlbuchstabiersburg (see story below).
+
+
+Additional Credits to   : Andy Nonymous, WSJ, Tricob, doomjedi, Id Software
+===========================================================================
+* What is included *
+
+New levels              : 10
+Difficulty Settings     : Yes
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Demos                   : Yes
+Other                   : New EXE with Seamless level progression, SOD Ammo box, 
+TAB message change.
+
+
+
+* Construction *
+
+Base                    : New from scratch / Modified Originals (minor)
+Build Time              : About 3 years (see FAQ below) 
+Editor(s) used          : Chaos Edit, WDC
+Known Bugs              : (N/A)
+Testers                 : Sully, George, Tyler, Nicolas, Jimmy, Myself
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the EXE of this file as a base for their own 10 level
+modifications. 
+
+You MAY distribute and include this addon and archive in any free compilation, 
+in any electronic format (BBS,Diskette,CD,etc.), provided this archive is 
+intact with the original unchanged files(not altered in any way,) including 
+all the documentation and is offered Free(no-cost)
+
+This archive can NOT be used for commercial sale in it's original or 
+modified form and/or packaged with a commercial product. You may NOT charge 
+a fee for this addon or other files in the archive.
+
+
+
+* Where to get the file that this text file describes *
+
+http://www.veracottis.co.uk/SS.zip
+
+===========================================================================
+STORY:
+===========================================================================
+
+1941: World War II rages across Europe, America has just entered the war..
+
+You are 1st Lieutenant William J. "B.J." Blazkowicz, the allies bad boy of espionage. 
+Just a few weeks ago, you were on a reconnaissance mission of extreme importance. 
+You have been captured and brought to Castle Fefehlbuchstabiersburg for interrogation 
+by the dreaded SS. All you know about this castle is that it is owned by Heinrich 
+Himmler, the leader of the SS. Your new mission: ESCAPE, and KILL Himmler if you 
+get the chance.
+
+As a guard enters your cell to escort you to the interrogation chamber, you draw 
+out your knife that was never recovered when you were scuffed, and silently end his 
+life. Now you've got a gun and eight floors of hell to get through, good luck!
+
+===========================================================================
+(FAQ)
+
+You may be wondering why would a 10 level addon have a FAQ? Well, in this case, 
+
+I was asked this question many times:
+===========================================================================
+
+
+Q) What took you so long to finish this?
+
+A) This project was started around 2010, it is now 2012. In 2010 it was real close 
+to being finished but then my computer crashed and it was lost. In 2011, I went up 
+and down, working on other things, and at one point giving up, then trying again, 
+then taking a 2 month break. Not much progress was done. In 2012 things worked out 
+much better, and in about 6 months it was completed. My next project will not take 
+as long I hope. 
+
+

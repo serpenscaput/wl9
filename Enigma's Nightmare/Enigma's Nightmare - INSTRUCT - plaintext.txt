@@ -1,0 +1,82 @@
+****** ENIGMA'S NIGHTMARE ****** Alternate maps for shareware version of
+                                 WOLFENSTEIN 3D (1WOLF12.*)
+
+The files contained in this archive are NOT COMPRESSED. If you re-compress the
+files with any archiver, ZIP, LZH, ARJ or whatever, the files WILL NOT work.
+If you choose to re-package these files be sure to do it in such a way so as
+not to compress them in any way while merely storing them in an archive.
+
+If you install these maps and just as the episode starts to run the machine
+locks up on a blank screen, what's happened is that somewhere down the line
+somebody has used an archiver to actually compress these files.  That means
+that WOLF3D will not read them and they are useless.  Toss 'em (after running
+DESTLR.EXE to reconstruct your original map files, more on this later).
+
+You'll need at least 2 megs of memory to run these maps (although you might
+wish to upgrade to 4 megs just to be safe).  If you run out of memory, remove
+any TSRs you may have running, load DOS high, and try it again.
+
+These files are meant to be used with the SHAREWARE VERSION OF WOLFENSTEIN-3D
+VERSION 1.2 ONLY.  If you try to use it with the commercial version YOU WILL
+DESTROY YOUR ORIGINAL WOLF MAP FILES!
+
+INSTRUCTIONS:  These files have a BAK extension.  This is so they will not try
+to overwrite the map files which came with your original game.  Read on for
+the reasons behind this......
+
+FIRST: Unpack this archive in the same directory where you keep your shareware
+version 1.2 of WOLF3D.
+
+SECONDLY: Run the INSTLR.EXE file.  This will rename your original map files
+with a BUP extension, and then copy the BAK files to the WL1 extensions they
+need to work with your game.  NOTE: to put your game back the way it was, run
+the DESTLR.EXE file.  This will delete all WL1 files created by the INSTLR.EXE
+program and then rename the BUP back to what they are supposed to be to work
+with the game.  By running INSTLR.EXE or DESTLR.EXE, you can toggle the game
+from the original maps to these NIGHTMARE maps and back again at will.
+
+A WORD OF CAUTION:  Make careful note of the games you've saved while running
+the original version of WOLF3D and the ones you save while using these new map
+files.  NEVER try running saved games you've saved with one map version while
+running the other map version.  I don't know exactly what will happen, but it
+IT WON'T BE GOOD and is best not to try it.  Put a -NM on the end of every
+NIGHTMARE saved game so you can tell 'em apart.
+
+THIRDLY: Start the game.  This version of NIGHTMARE is already configured for
+the best window size.
+
+FOURTH: Start the WOLF3D episode, then, drop your rocks, pull up your socks &
+GRAB YOUR SANITY.  You're in for the ride of your life!  These maps resemble
+the original maps to a certain degree, but they are NOT the mundane originals!
+You'll run into more guards, more treasure, more secret panels and rooms than
+ever before!  You'll even be able to get a BIG CHAINGUN while still on level
+one.  Why?  Because YOU'LL NEED IT!   You're gonna need to be a real Bad Boy
+to get through THIS mess!
+
+If you like heart stopping WOLF3D adventure you'll love ENIGMA'S NIGHTMARE!
+
+ENIGMA'S HINT:  Not many know it but there is a secret 10th level in the
+                shareware version of WOLF3D.  NIGHTMARE also has this
+                level.  To get there, get to the up elevator on level 1.
+                Before you go barging into the elevator to go to level 2,
+                search the elevator room walls for a secret panel.  When
+                you open it, search the interior of the secret room for
+                yet another secret panel.  This one opens into a second
+                elevator room.  That elevator takes you to level 10 and
+                when you get through that level you get thousands of bonus
+                points!  Then you return to level 2 when you use the level
+                10 elevator.
+
+                Be sure to check the second elevator room on level 1
+                for secrets before you ride up to 10.  And if you're
+                playing the NIGHTMARE maps, I wouldn't go up there
+                unless you have the big gun and gobs of ammo, unless
+                you're feeling REAL mean!
+
+ALSO, if you like the shareware version of Wolfenstein, you might register and
+try the entire game...you'll love it, and the game authors at ID will love you
+for your support!  The commercial version is so good, NIGHTMARE is nothing in
+comparison to it.
+
+ENJOY!  ENIGMA-13
+

@@ -1,0 +1,247 @@
+
+WolfenMap v7.0 - Wolfenstein Map Editor            (c) 1941 Lothar Vollbehr
+
+
+Please register your copies of Wolfenstein 3D with Apogee Software.  It is
+assumed that owners of "Spear of Destiny" have purchased their software
+from FormGen.
+
+    About CARDWARE:
+
+    Recently, I became aware of the CARDWARE concept from a game I down-
+    loaded from my regular BBS.  Here's the deal:  If you enjoyed these
+    new levels (even just a little) I would appreciate it if you would
+    send a postcard (a local scene would be nice) to the address below.
+    Please mention how you obtained WolfenMap and any comments.  It will be
+    interesting to see just how far and wide a BBS file travels.
+
+
+    Address:
+
+        Lothar Vollbehr
+        13700 W. Middletown Rd.
+        Salem, Ohio  44460
+        U.S.A.
+
+
+NEW FEATURES:
+
+WolfenMap is similar to MapEdit except it greatly reduces map development
+time through the following enhancements:
+
+  - Flood an entire map with a user-selected wall.  (It's much quicker to
+    cut floors into a solid wall than it is to draw walls around a floor.)
+
+  - Instantly add blocks of walls, floors or objects. Block sizes are user
+    selectable from 2x2 to 9x9.  (This eases the tediousness of correcting
+    mouse mistakes.)
+
+  - Can edit maps for 'Spear of Destiny' and 'Wolfenstein 3D.'
+
+  - Extract a floor from an episode.
+
+  - Include an extracted floor into an episode. 
+
+  - Live statistics showing current number of actors and objects.  The data
+    is displayed in red when a limit is exceeded.
+
+USAGE:
+
+Create a new subdirectory and re-install the game you wish to edit.  This
+will allow you to rollback to your original game, in the event of errors.
+To use WolfenMap, copy the files from the WolfenMap floppy into the directory
+where your game is installed.  Type: WM70 to start the editor.
+
+
+KEY FUNCTIONS:
+
+     up & down arrows - select level to view or edit.
+     Q - Quit (you will be prompted to save).
+     C - Clear level (grey brick around the outside of an empty level).
+     O - Toggle object display.
+     F - Toggle floor display.
+     T - Flood an entire level with the last chosen wall, floor or object.
+     S - Toggle display a count of things, actors, static objects and the
+         onscreen help..  Be aware that each games has different limits and
+         experimentation may be required to determine limits.
+     2 through 9 - Instantly paste the current wall, floor or object in
+         block fashion by positioning the mouse at the top left corner of
+         the block, then pressing a number key.
+     R - Read SINGLE.FLR
+     W - Write SINGLE.FLR
+
+
+MAP WINDOW:
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking the mouse
+will change either the map or object data to the currently selected item.
+
+
+LEGEND WINDOW:
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN scrolls through the list.  Clicking on MAP/OBJ switches
+between the map and object lists.  Clicking on an item in the list makes
+it the "current" item.
+
+After each guard, there is a 3 character description which specifies what
+level the guard is, whether they are moving or stationary, and which
+direction they are facing/walking.  For example, "1/S/E" meansa level 1
+guard, stationary, facing east.
+
+
+*.DAT FILES:
+
+ WALLS1.DAT  = Walls for the single episode version of Wolfenstein 3D
+ THINGS1.DAT = Actors and objects for the single episode Wolfenstein 3D
+ WALLS.DAT   = Walls for the six episode version of Wolfenstein 3D
+ THINGS.DAT  = Actors and objects for the six episode version of Wolfenstein
+ WALLSOD.DAT = Walls for Spear of Destiny
+ THINGSOD.DAT= Actors and objects for Spear of Destiny
+
+There is no problem created by installing all of the *.DAT files into the
+directory with any of the editable games.  WolfenMap is smart enough to
+know which .DAT to use.
+
+If you figure out a new object or desire to customize WolfenMap, you can
+add or change it's description to the object/map list by editing the
+appropriate DAT file.
+
+Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.  Right now, even
+though there are 4 digits, you can only put objects from 0000-01ff in.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors.  The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered 
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c - 
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+HINTS:
+
+   An episode consisting of favorite floors from various episodes could
+be created through the use of the READ and WRITE functions.
+
+   It is much faster to create a new level by first flooding a blank floor
+with a particular wall.  Then use various sized blocks of floor to "cut" rooms
+into the walls.
+
+   Be sure that all "actors" within a room can "see" the door.  That is,
+they must face towards the door in a general fashion.  Failure to do so
+seems to cause the game to lockup.
+
+   Placing an "actor" with his nose right against a wall will cause the
+game to lockup.
+
+   By placing "actors" on the Deaf Guard type of floor, they will stay in
+a room until the door is opened.
+
+   If you use the "standing" type of actors and place one of them near the
+door on the inside of a room, the actors will wander out of the room and
+head in you general direction after a shot is fired.
+
+   Pay attention to the statistical display.  If a limit of actors or objects
+is exceeded, the game produces an error at runtime.
+
+   Elevator doors should face East of West.  The game doesn't seem to handle
+elevator doors facing North or South.
+
+   The game doesn't seem to interpret the different types of floors.  I
+generally use Purple for the public areas, black with a grey dot for the
+areas behind a secret door and green to draw a path from the starting point
+to the elevator.  This makes it easy to find your way through a level when
+revisiting it later.  It also helps you avoid creating a level that has an
+unreachable elevator.
+
+   The secret door token can be used many ways.  For example: a key can be
+placed in a small vacant area behind a secret panel.  When the wall is pushed,
+the key comes into view.  Also: secret panels can be stacked, thus the wall
+can be move more than the normal three steps.  Clustering secret panels can
+create an interesting effect, too.
+
+   If dogs are used without the Turning Points, they will roam around and
+hunt down the player.  If Turning Points are used with the dogs, be careful
+you don't create a puppy shooting gallery.
+
+   Guards can be made to "walk out of a wall" by placing two Turning Points
+which face each other inside a wall and an actor facing into the Turning
+Points.  EX:  -><-G (G/S/W).  The player can also step into one of these
+alcoves and become invisible to the guards.
+
+   Guards can shoot through the corners of rooms with adjacent corners.
+
+   The game will support multiple Bosses on one level.
+
+   In version 1.0 (shareware, 10 levels), an interesting effect can be created
+by placing a stationary Guard on a Deaf Guard floor space with his nose against
+the inside of a door.  The door becomes invisible!
+
+   Be careful that you don't use tokens from one game in a game that they are
+not part of.  That is, don't use a Spear of Destiny token in a Wolfenstein
+map.  When the player approaches this token, the screen will freeze.
+WolfenMap is smart (to a certain degree) enough to help you by chosing the
+appropriate .DAT files.  The best bet is to use different subdirectories for
+different games.
+
+
+
+ACKNOWLEDGMENTS:
+
+   This program would not have been possible without Paul (Hosko) Hosken, 
+author of WMAP, who figured out the original map file formats.  This program
+is based on the work of Bill Kirby.
+
+Thanks Hosko and Bill!
+
+  "WOLFENSTEIN 3D" is copyrighted by Apogee Software Productions and ID.
+  "SPEAR OF DESTINY" is coyrighted FormGen and ID.
+
+DISCLAIMER:
+
+   The intent of this program is for a dedicated gamer to enhance their own
+games for their personnal enjoyment.  The author of WolfenMap is not
+responsible for any actions taken by a WolfenMap user.  These actions may
+include, but are are not limited to, the distribution of altered map files.
+
+<EOF>

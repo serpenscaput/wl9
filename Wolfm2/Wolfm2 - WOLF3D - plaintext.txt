@@ -1,0 +1,97 @@
+
+
+			Wolfenstein 3D
+
+		       60 New Levels
+
+			
+			by Nate Smith
+			Nayt1@usa.net
+						
+
+
+
+	This is my Wolfenstein 3D add-on.  It keeps the spirit of the original game intact, 
+but still changes the graphics, levels, and some of the sounds.  It contains 60 new 
+levels, new graphics, and new sounds.  The following 4 files should be included:
+
+
+				VSWAP.WL6
+				GAMEMAPS.WL6
+				MAPHEAD.WL6
+				WOLF3D.DOC
+
+Unzip them into your wolf3d directory.
+
+Some of the graphics in this patch are from Spear of Destiny, some are from Spear 
+of Destiny Mission 2, and some are completely new.
+
+							GUARDS
+
+The following is a list of the guards and pictures of their new graphics.
+
+I want to hear from you!  If you played my add-on, please e-mail me and tell me what 
+you thought of my levels and the graphics.
+
+
+            Green Guards:  They go down easy, but there's alot of  'em. 
+ 	Dogs:  They go down even easier, but are dangerous in numbers.
+ 	Officers:  They're quick and deadly.
+ 	SS:  They're slow, but powerful.
+ 	Mutants:  They're quicker than Officers and attack without warning.
+ 	???????
+
+							HUGE GUARDS
+
+ 		Submarine Willy:  Armed with a chaingun and a machine gun, he'll be 						difficult 
+to defeat
+ 		Dr.  Schabbs:  Now with a missile launcher, he's as deadly as ever.
+ 		Adolf Hitler:  With four chainguns, he's the ultimate enemy.
+ 		Otto Giftmacher:  His rocket laucher is sure to give you trouble.
+ 		Hans Grosse:  Because he's got two chainguns, this very well may be 					     
+     where your mission ends!
+ 		General Fetgeisecht:  He owns a rocket laucher and a chaingun, so he'll 						
+      be hard to beat.
+
+
+
+
+
+
+					   The "Lost Episodes"
+
+	The so-called Spear of Destiny Lost Episodes are two add-ons released by the FormGen 
+Corporation in 1994 for Spear of Destiny.  They were titiled "Spear of Destiny Mission 
+2: Return to Danger" and "Spear of Destiny Mission 3: the Ultimate Challenge."   
+Nobody seems to know much about these add-ons.
+
+	When the Lost Episodes were released, I "obtained" a copy of Mission 2.  Unfortunately 
+I no longer have the files.  However, I do have the manual.  The manual contains 
+the maps for the 21 levels.
+The first 5 levels of Episode 1 in my add-on are copied from the maps of  Mission 
+2.
+
+	Since I've read somewhere that no one knows what the guards of Mission 2 say, I 
+present the sounds of Mission 2:
+
+ 		Green Guard:  Alarm!  -  Danger!*
+					        Gluck gwhabt!  -  You were lucky!
+				 	        Mammi!  -  Mommy!
+					       Au!  Das tut weh!  -  Ow! That hurts!
+	
+      		S.S.:  Wer da?  -  Who's there?*
+				         Tod furs Vaterland!  -  Death for the Father country!
+ 		Officer:  Denkste!  -  You thought so!*
+				               Heil Hitler!  -  Hail Hitler!
+ 		Was zum Teufel?  -  What the hell?
+					Verdammt  -  Damn!
+ 		Dein letzer Fehler!  -  Your last mistake!
+					Nein, nicht schon wieder!  -  No, not again!
+ 		Zeig was du kanns, du Fiegling!  -  Show what you can, you 									wimp!
+					Du bist der storleste.  -  You are the strongest.
+
+
+*those marked with a * appear as sounds in my add-on
+
+
+An add-on for Spear of Destiny is coming soon!

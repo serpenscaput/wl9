@@ -1,0 +1,118 @@
+                             VSVGAED
+
+VSVGAED is for editing the VGAGRAPH.* file. Any item, except
+the image dimensions table, can be replaced. The program cannot
+(yet) show endscreens and fonts, but they can be replaced anyway.
+!!!Be careful when you change anything. You may ruin your mod!!!
+
+The controls are, from top downwards:
+
+  HELP           :View this helpfile.
+  LOG            :View a log of changes.
+  Open VGAfile   :Open a VGAGRAPH, VGAHEAD and VGADICT file.
+                    The program decides which palette to be used
+                    for pictures (wolf or spear).
+  Open palette   :Override the program's choice.
+  Insert palette :To reveal a hidden palette, select a picture of at
+                    least 48 x 48 pixels, click this button and start
+                    the mod. When you see a palette in the game,
+                    get a screenshot, press 'OK', start the Palette
+                    Tool in VSWAPED and proceed with capturing the
+                    palette as described in the tool's helpfile.
+                    Follow the next instructions displayed.
+  SP             :Return to the Standard Palette (wolf or spear).
+  File>          :Open a file to replace the selected chunk with a
+                    picture, palette or raw data as demanded.
+                    Text can be imported but is easier edited
+                    inside the program.
+  App>           :Import Pictures etc. from another vgafile.
+                    The procedure is as follows:
+                    1: Open the vga file to be changed.
+                    2: Start a new VGAED containing a wanted vga file.
+                 -> 3: Select the item to be changed in the old file.
+                |   4: Select the item to import in the new file.
+                |   5: Click the App button in the old program.
+                |   6: USE the imported item.
+                '-     repeat if more items must be replaced.
+                    7: Close the new program.
+  USE           :Carry out the replacement. If you don't like it:
+  UNDO          :-the latest change.
+                     An imported chunk always replaces the chunk
+                     selected in the list, if possible.
+
+  Export selected  :Save the selected chunk in the proper format:
+                     picture (with the palette in use), palette,
+                     text, raw data.
+  Save chunks list :Save the chunks list as text.
+
+  Save to game     :Save the VGAGRAPH and VGAHEAD files to the 
+                     game directory, maybe make a backup copy
+                     (file+'bk') of the originals.
+                     The VGADICT file will remain unchanged.
+  Restore game     :Reinstall the original files, maybe
+                     delete the backup files.
+
+  <The Professor>  :Will permit you to ADD a new picture, endscreen or
+                     text to the vgagraph file. Bear in mind
+                     that any addition calls for a RECOMPILATION OF THE EXE!
+                     So only add something if you  KNOW WHAT YOU ARE DOING!
+                     As in Floedit, any item is added as the
+                     last of its kind, and the chunks sequence 
+                     can be rearranged, removing all 'Null' items.
+
+A click on a line in the chunks list will select the item, and its hex
+  start address and decimal absolute and compressed size is shown below.
+The chunks come in various types:
+
+  Image dimensions :Maintained by the program and not to edit.
+  Font             :Two fonts sized 10 and 13, or more.
+  Picture          :Image shown with its width and height.
+  Null             :-Not useful-
+  Endscreen        :DOS-like screen in a format unknown to me.
+  Palette          :Spear of Destiny contains several palettes.
+  Demo             :Game demo, with level number.
+  Text             :Metatext with pictures shown in the game,or plain text.
+  Data             :Unspecified data chunk, not one of those above.
+
+Pictures must be imported in BMP format, of any size up to
+  320x200 pixels, and the compressed size must not exceed 64 Kbytes.
+  This size depends on the picture, palette and VGADICT data,
+       just give it a try.
+  If needed, the colors will be sampled to the nearest colors
+  in the palette used, and the picture may be clipped to dimensions
+  divisible by 4.
+Texts are best edited inside the program.
+Other item types will be imported as raw data.
+
+                        MEANS OF EDITING:
+Fonts:      Use the WSF font editor (available at www.wolfnode.de).
+Endscreens: Use the ScreenEditor    (available at www.wolfnode.de).
+Demos:      To record a demo, start Wolfenstein with parameter 
+             "goobers" or Spear with "debugmode", and hold down
+              the <TAB> key as you see the startup screen until
+              you get an inputbox asking for the level to record.
+TEXT:       is a normal text and may be edited as such.
+            There are some commands worth knowing:
+ ^P[ENTER]               Start a new page. MUST be the first command.
+ ^C<hex digit>           Change text color to this number in palette.
+ ^G<y>,<x>,<pic>[ENTER]  Draw a graphic and push margins.
+                            y,x are pixels, pic is chunk number.
+ ^L<x>,<y>               Locate to a specific spot,
+                            x in pixels, y in lines.
+ ^E[ENTER]               Absolute end of this layout.
+
+---------------------------ooooooo-----------------------------
+
+          I will thank ID for releasing the source files,
+         and Floedit for providing the information above.
+
+
+                 Sorry for the short help text
+                but I trust that those who dare
+                 tamper with the VGAGRAPH file
+                   know what they're doing.
+
+                          Vincent,
+
+                    http://vincentius.dk
+                      mail@vincentius.dk

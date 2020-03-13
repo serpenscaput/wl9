@@ -1,0 +1,35 @@
+Paderborn by Lakota Bucksnort (wolf3d mod)
+original DOS release: 21 September 2004
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on 2nd.zip "On the Trail of Schabbs" EXE by BJ Rowan:
+
+Seamless levels (MCS, Chris Chokan tutorials)
+Music order changed
+Ceiling colors changed
+No secret levels
+
+Further improvements in SDL version:
+
+Endgame ratios adjusted for 15 levels
+Allow warping to level 15
+New par times on former boss and secret levels
+Endgame ratios restored in YOU WIN! screen
+Increased MAXACTORS and MAXSTATS slightly
+Adjust HUD when score goes over 1 million
+
+Restored tile8s
+Moved a table that blocked a door on level 3
+Removed an enemy buried in a wall on level 5
+Moved a pushwall to expose a blocked treasure on level 5
+Minor floor code fixes on level 7, 9, 13, 15
+
+

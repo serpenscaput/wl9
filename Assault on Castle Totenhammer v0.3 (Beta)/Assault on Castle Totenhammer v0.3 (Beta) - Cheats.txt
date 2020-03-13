@@ -1,0 +1,17 @@
+This is merely a make-shift cheat-sheet for your use.
+Run 'Cheat.bat' to initiate these cheats.
+
+Cheat: Invisbility
+I,N,V
+Cheat: Infinite Ammo
+B,A,T
+Cheat: God Mode
+G,O,D
+Cheat: Golden Luger
+G,U,N
+Cheat: All Guns (Except Golden Luger)
+B,A,H
+Cheat: Complete Level
+E,X,T
+
+the Warp Cheat is locked until phase one is completed.

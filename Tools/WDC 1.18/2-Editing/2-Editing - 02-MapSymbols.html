@@ -1,0 +1,59 @@
+<HTML>
+<HEAD><TITLE>Map Symbols</TITLE></HEAD>
+<BODY>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<FONT class="title">
+Editing :: Map Symbols
+</FONT><BR>
+<BR>
+<CENTER><IMG SRC="EditMapSymbol.bmp"></CENTER>
+<h3>Menus</h3>
+<ul>
+<li><b>Plane</b> - Selects the map plane to load into the tile list.</li>
+<li><b>Map Tile</b> - Gives you the ability to add a new map tile to the list.</li>
+
+<li><b>Edit</b> - Gives you different forms of copy/paste functionality.</li>
+<li><b>Shape</b> - Gives you various shapes that you can add to the symbol draw area.</li>
+
+<li><b>Help</b> - Opens this help page.</li>
+</ul>
+<h3>The Tile List</h3>
+This list mimics the list given to you in the map editor except that you can change 
+the order of the tiles.
+This functionality was added in WDC 1.15.374 so that you can group similar tiles 
+together even when their map codes are far apart.
+You can change the order by selected the tile(s) you want to move and using the buttons 
+to the right of the list or by dragging the items to the position you want.
+<h3>Tile Information</h3>
+<ul>
+<li><b>Name</b> - The name for the map tile.</li>
+<li><b>Type</b> - The type of map tile.  This list changes according to which plane 
+the tile is in.</li>
+<li><b>Key</b> - Represents either the key needed to open a door or the key dropped 
+when a guard is killed.</li>
+<li><b>Direction</b> - The direction the guard is facing at the map start or the 
+turning direction.</li>
+</ul>
+Note that it is important that these values are set up correctly or WDC's map error 
+checking will either miss errors or report errors when there are none.
+<h3>Colors</h3>
+This area provides you a 16-color palette which you use to paint your map tile's 
+symbol.
+You are allowed to select a primary color with the left mouse button and a secondary 
+color with the right mouse button.
+<h3>Symbol</h3>
+This area is your map tile's symbol or icon that is draw in the map viewer/editor.
+
+You can click a cell to paint it or you can press and hold the mouse button while 
+moving the mouse in order to paint lines and other shapes manually.
+You can also double-click a cell to replace all cells of the double-clicked cell's 
+color with your selected color.
+Note that this action is not the same as a flood fill.
+It is also worth noting that you can make a completely black map symbol by just selecting 
+a type in the tile information area.
+<h3>Graphic</h3>
+Use this are to set a graphic that can be displayed in the bottom-right of the map 
+editor when viewing map graphics rather than map symbols.
+</BODY>
+</HTML>

@@ -1,0 +1,28 @@
+WarZone IV: High Stakes by DTrade (wolf3d mod)
+original DOS release: 12 February 2003
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+
+Changes based on WarZone IV EXE:
+
+Episode screen altered
+
+Improvements in SDL version:
+
+Can't select episodes 2 through 6
+Demos disabled
+Corrected Robot boss sprite sequence
+Warp debug adjusted to 9 levels
+
+
+
+
+
+
+

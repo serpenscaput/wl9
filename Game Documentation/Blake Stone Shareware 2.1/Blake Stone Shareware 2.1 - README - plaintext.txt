@@ -1,0 +1,416 @@
+If you want to write to a file enter the file name.
+  If you want to print the file enter LPT1 or LPT2
+
+  ENTER: $@                                                                   Esc=Quit, 
+T=write text, Keys=,,,,PgUp,PgDn,Home,End   Line=0000  Column=000            
+          KMGOIQPH                 TXT2COM & TXT2RES Documentation - July 27, 1987 
+                      "FšDN
+
+                    TXT2COM Version 2.0 Documentation
+                    Copyright 1987 by Keith P. Graham
+
+                              Main Menu
+
+
+                     F1 - Revision History
+                     F2 - Program Description
+                     F3 - Limits
+                     F4 - Writing Out the Original File
+                     F5 - Adding Color
+                     F6 - Using Function Keys
+                     F7 - Sample Colors
+                     F8 - TXT2RES Special Instructions
+                     F9 - Altering the Hot Key with HOTFIX.COM
+                     F10 - Usage and License
+
+
+
+
+
+
+
+~#1
+        Version 2.0 - Added Function Key support. Produced a
+        memory resident version.
+        Version 1.1 - Minor bug fixes. Fixed problem with files
+        shorter than 1 page and repaint of pages already displayed.
+        Version 1.0 - First release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~#2                     Program Description
+
+            TXT2COM is a simple program which makes an ascii text file into a
+       full screen display. It is useful for documentation and for "README"
+       files which can be shown on the screen and then printed out. The COM
+       file created by TXT2COM is easy to use and intuitive. There is a help
+       line on line 25 and an optional title on line 1. The cursor controls
+       move around the file and the Esc key exits.
+
+           Creating a text COM files is easy. Enter at the dos prompt:
+
+       TXT2COM textfile comfile heading
+
+           Textfile is the name of the ascii textfile to be converted.
+       Filenames can include disk and paths. Comfile is the name of the COM
+       file to be created. If you leave off the .COM, the program will add
+       one. Heading is anything you want to appear at the top line of the
+       display and can be any character (except dos pipe and redirect
+       characters) and any number of words. Headings are automatically
+       centered.
+           I created this file by entering:
+
+            TXT2COM TXT2COM.DOC README.COM TXT2COM DOCUMENTATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~#3
+       LIMITS:
+
+            As a practical limit, text files should be no larger
+       than 50k. TXT2COM will convert files up to 55K, but there
+       are some factors to consider. Each line in the text file
+       expands the COM file by 2 bytes. The maximum size of a com
+       file is 64K. The driver takes up 2K. 64K - 2K - 55K leaves
+       7K for line numbers which is 3500 lines. If the 55k
+       text file averages 10 bytes per line then it has 5500 lines
+       and will not convert. If it has 20 bytes per line then
+       it contains 2,750 lines and will convert. The best way to
+       tell is to convert the file, display it and press the End
+       key. If you see garbage, then the file is too big.
+
+            The memory resident version, TXT2RES.COM uses about
+       7.5K for its driver, most is screen buffer and stack and
+       the rest is code additions. This also limits the size of
+       the text file.
+
+
+
+
+
+
+~#4
+                   ~40 Writing Out the Original File ~07
+
+            You can write out the original text file to a file or to the
+       printer by choosing option "T". (Just press the T key while the COM
+       file is displaying the file.) The program will ask for a file name.
+       Simply enter the name of the file at the prompt. If you want to go to
+       a printer enter LPT1 or LPT2 (leave off the colon at the end).
+
+            In resident files you cannot write out the original
+       documentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~#5
+
+                             Changing Screen Colors
+
+            You can control screen attributes through the use of the tilde
+       character (~). Normally the tilde is all but ignored. Tildes will
+       display as tildes except when a tilde is followed by two hex digits
+       or another tilde. Two tildes together mean force the display of a
+       single tilde, no matter what follows the second tilde. When a tilde
+       is followed by two hex digits the decimal number is converted to an
+       attribute and will change the screen colors from that point on. The
+       default color is 07 which is white on black. The attribute digits
+       will change this.
+            If you want to start out with an attribute other than the
+       default 07 just make sure that the first 3 characters of the text
+       file are a tilde sequence.
+
+
+
+
+
+
+
+
+
+
+
+
+~#6
+                          Using Function Keys
+
+           You may include a Tilde string which is used as a marker in
+      the text file. When a function key is pressed the program will search
+      forward until it finds the corresponding Tilde string.
+           The marker string is the combination of the Tilde character
+      followed by a pound sign (#) and then the number of the function
+      key from 1 to 0. (0 being the character used for function key 10).
+           More than one marker can be included in the text for the same
+      function key. If there is more than one function key, subsequent
+      pressing of the function key finds the next marker. The search
+      starts over again at the top when the bottom of the file is reached.
+           The tilde screens for each of the function keys are:
+
+                   F1 = ~~#1         F6 = ~~#6
+                   F2 = ~~#2         F7 = ~~#7
+                   F3 = ~~#3         F8 = ~~#8
+                   F4 = ~~#4         F9 = ~~#9
+                   F5 = ~~#5         F10= ~~#0
+
+
+
+
+
+
+
+~#7
+                These are examples of screen attributes:
+
+        Sequence      Display          Sequence      Display
+
+            ~~00     ~00Screen Display~07      ~~10    ~10Screen Display~07
+            ~~01     ~01Screen Display~07      ~~11    ~11Screen Display~07
+            ~~02     ~02Screen Display~07      ~~12    ~12Screen Display~07
+            ~~03     ~03Screen Display~07      ~~13    ~13Screen Display~07
+            ~~04     ~04Screen Display~07      ~~14    ~14Screen Display~07
+            ~~05     ~05Screen Display~07      ~~15    ~15Screen Display~07
+            ~~06     ~06Screen Display~07      ~~16    ~16Screen Display~07
+            ~~07     ~07Screen Display~07      ~~17    ~17Screen Display~07
+            ~~08     ~08Screen Display~07      ~~18    ~18Screen Display~07
+            ~~09     ~09Screen Display~07      ~~19    ~19Screen Display~07
+            ~~0A     ~0AScreen Display~07      ~~1A    ~1AScreen Display~07
+            ~~0B     ~0BScreen Display~07      ~~1B    ~1BScreen Display~07
+            ~~0C     ~0CScreen Display~07      ~~1C    ~1CScreen Display~07
+            ~~0D     ~0DScreen Display~07      ~~1D    ~1DScreen Display~07
+            ~~0E     ~0EScreen Display~07      ~~1E    ~1EScreen Display~07
+            ~~0F     ~0FScreen Display~07      ~~1F    ~1FScreen Display~07
+
+            ~~20     ~20Screen Display~07      ~~30    ~30Screen Display~07
+            ~~21     ~21Screen Display~07      ~~31    ~31Screen Display~07
+            ~~22     ~22Screen Display~07      ~~32    ~32Screen Display~07
+            ~~23     ~23Screen Display~07      ~~33    ~33Screen Display~07
+            ~~24     ~24Screen Display~07      ~~34    ~34Screen Display~07
+            ~~25     ~25Screen Display~07      ~~35    ~35Screen Display~07
+            ~~26     ~26Screen Display~07      ~~36    ~36Screen Display~07
+            ~~27     ~27Screen Display~07      ~~37    ~37Screen Display~07
+            ~~28     ~28Screen Display~07      ~~38    ~38Screen Display~07
+            ~~29     ~29Screen Display~07      ~~39    ~39Screen Display~07
+            ~~2A     ~2AScreen Display~07      ~~3A    ~3AScreen Display~07
+            ~~2B     ~2BScreen Display~07      ~~3B    ~3BScreen Display~07
+            ~~2C     ~2CScreen Display~07      ~~3C    ~3CScreen Display~07
+            ~~2D     ~2DScreen Display~07      ~~3D    ~3DScreen Display~07
+            ~~2E     ~2EScreen Display~07      ~~3E    ~3EScreen Display~07
+            ~~2F     ~2FScreen Display~07      ~~3F    ~3FScreen Display~07
+
+            ~~40     ~40Screen Display~07      ~~50    ~50Screen Display~07
+            ~~41     ~41Screen Display~07      ~~51    ~51Screen Display~07
+            ~~42     ~42Screen Display~07      ~~52    ~52Screen Display~07
+            ~~43     ~43Screen Display~07      ~~53    ~53Screen Display~07
+            ~~44     ~44Screen Display~07      ~~54    ~54Screen Display~07
+            ~~45     ~45Screen Display~07      ~~55    ~55Screen Display~07
+            ~~46     ~46Screen Display~07      ~~56    ~56Screen Display~07
+            ~~47     ~47Screen Display~07      ~~57    ~57Screen Display~07
+            ~~48     ~48Screen Display~07      ~~58    ~58Screen Display~07
+            ~~49     ~49Screen Display~07      ~~59    ~59Screen Display~07
+            ~~4A     ~4AScreen Display~07      ~~5A    ~5AScreen Display~07
+            ~~4B     ~4BScreen Display~07      ~~5B    ~5BScreen Display~07
+            ~~4C     ~4CScreen Display~07      ~~5C    ~5CScreen Display~07
+            ~~4D     ~4DScreen Display~07      ~~5D    ~5DScreen Display~07
+            ~~4E     ~4EScreen Display~07      ~~5E    ~5EScreen Display~07
+            ~~4F     ~4FScreen Display~07      ~~5F    ~5FScreen Display~07
+
+            ~~60     ~60Screen Display~07      ~~70    ~70Screen Display~07
+            ~~61     ~61Screen Display~07      ~~71    ~71Screen Display~07
+            ~~62     ~62Screen Display~07      ~~72    ~72Screen Display~07
+            ~~63     ~63Screen Display~07      ~~73    ~73Screen Display~07
+            ~~64     ~64Screen Display~07      ~~74    ~74Screen Display~07
+            ~~65     ~65Screen Display~07      ~~75    ~75Screen Display~07
+            ~~66     ~66Screen Display~07      ~~76    ~76Screen Display~07
+            ~~67     ~67Screen Display~07      ~~77    ~77Screen Display~07
+            ~~68     ~68Screen Display~07      ~~78    ~78Screen Display~07
+            ~~69     ~69Screen Display~07      ~~79    ~79Screen Display~07
+            ~~6A     ~6AScreen Display~07      ~~7A    ~7AScreen Display~07
+            ~~6B     ~6BScreen Display~07      ~~7B    ~7BScreen Display~07
+            ~~6C     ~6CScreen Display~07      ~~7C    ~7CScreen Display~07
+            ~~6D     ~6DScreen Display~07      ~~7D    ~7DScreen Display~07
+            ~~6E     ~6EScreen Display~07      ~~7E    ~7EScreen Display~07
+            ~~6F     ~6FScreen Display~07      ~~7F    ~7FScreen Display~07
+
+            ~~80     ~80Screen Display~07      ~~90    ~90Screen Display~07
+            ~~81     ~81Screen Display~07      ~~91    ~91Screen Display~07
+            ~~82     ~82Screen Display~07      ~~92    ~92Screen Display~07
+            ~~83     ~83Screen Display~07      ~~93    ~93Screen Display~07
+            ~~84     ~84Screen Display~07      ~~94    ~94Screen Display~07
+            ~~85     ~85Screen Display~07      ~~95    ~95Screen Display~07
+            ~~86     ~86Screen Display~07      ~~96    ~96Screen Display~07
+            ~~87     ~87Screen Display~07      ~~97    ~97Screen Display~07
+            ~~88     ~88Screen Display~07      ~~98    ~98Screen Display~07
+            ~~89     ~89Screen Display~07      ~~99    ~99Screen Display~07
+            ~~8A     ~8AScreen Display~07      ~~9A    ~9AScreen Display~07
+            ~~8B     ~8BScreen Display~07      ~~9B    ~9BScreen Display~07
+            ~~8C     ~8CScreen Display~07      ~~9C    ~9CScreen Display~07
+            ~~8D     ~8DScreen Display~07      ~~9D    ~9DScreen Display~07
+            ~~8E     ~8EScreen Display~07      ~~9E    ~9EScreen Display~07
+            ~~8F     ~8FScreen Display~07      ~~9F    ~9FScreen Display~07
+
+            ~~A0     ~A0Screen Display~07      ~~B0    ~B0Screen Display~07
+            ~~A1     ~A1Screen Display~07      ~~B1    ~B1Screen Display~07
+            ~~A2     ~A2Screen Display~07      ~~B2    ~B2Screen Display~07
+            ~~A3     ~A3Screen Display~07      ~~B3    ~B3Screen Display~07
+            ~~A4     ~A4Screen Display~07      ~~B4    ~B4Screen Display~07
+            ~~A5     ~A5Screen Display~07      ~~B5    ~B5Screen Display~07
+            ~~A6     ~A6Screen Display~07      ~~B6    ~B6Screen Display~07
+            ~~A7     ~A7Screen Display~07      ~~B7    ~B7Screen Display~07
+            ~~A8     ~A8Screen Display~07      ~~B8    ~B8Screen Display~07
+            ~~A9     ~A9Screen Display~07      ~~B9    ~B9Screen Display~07
+            ~~AA     ~AAScreen Display~07      ~~BA    ~BAScreen Display~07
+            ~~AB     ~ABScreen Display~07      ~~BB    ~BBScreen Display~07
+            ~~AC     ~ACScreen Display~07      ~~BC    ~BCScreen Display~07
+            ~~AD     ~ADScreen Display~07      ~~BD    ~BDScreen Display~07
+            ~~AE     ~AEScreen Display~07      ~~BE    ~BEScreen Display~07
+            ~~AF     ~AFScreen Display~07      ~~BF    ~BFScreen Display~07
+
+            ~~C0     ~C0Screen Display~07      ~~D0    ~D0Screen Display~07
+            ~~C1     ~C1Screen Display~07      ~~D1    ~D1Screen Display~07
+            ~~C2     ~C2Screen Display~07      ~~D2    ~D2Screen Display~07
+            ~~C3     ~C3Screen Display~07      ~~D3    ~D3Screen Display~07
+            ~~C4     ~C4Screen Display~07      ~~D4    ~D4Screen Display~07
+            ~~C5     ~C5Screen Display~07      ~~D5    ~D5Screen Display~07
+            ~~C6     ~C6Screen Display~07      ~~D6    ~D6Screen Display~07
+            ~~C7     ~C7Screen Display~07      ~~D7    ~D7Screen Display~07
+            ~~C8     ~C8Screen Display~07      ~~D8    ~D8Screen Display~07
+            ~~C9     ~C9Screen Display~07      ~~D9    ~D9Screen Display~07
+            ~~CA     ~CAScreen Display~07      ~~DA    ~DAScreen Display~07
+            ~~CB     ~CBScreen Display~07      ~~DB    ~DBScreen Display~07
+            ~~CC     ~CCScreen Display~07      ~~DC    ~DCScreen Display~07
+            ~~CD     ~CDScreen Display~07      ~~DD    ~DDScreen Display~07
+            ~~CE     ~CEScreen Display~07      ~~DE    ~DEScreen Display~07
+            ~~CF     ~CFScreen Display~07      ~~DF    ~DFScreen Display~07
+
+            ~~E0     ~E0Screen Display~07      ~~F0    ~F0Screen Display~07
+            ~~E1     ~E1Screen Display~07      ~~F1    ~F1Screen Display~07
+            ~~E2     ~E2Screen Display~07      ~~F2    ~F2Screen Display~07
+            ~~E3     ~E3Screen Display~07      ~~F3    ~F3Screen Display~07
+            ~~E4     ~E4Screen Display~07      ~~F4    ~F4Screen Display~07
+            ~~E5     ~E5Screen Display~07      ~~F5    ~F5Screen Display~07
+            ~~E6     ~E6Screen Display~07      ~~F6    ~F6Screen Display~07
+            ~~E7     ~E7Screen Display~07      ~~F7    ~F7Screen Display~07
+            ~~E8     ~E8Screen Display~07      ~~F8    ~F8Screen Display~07
+            ~~E9     ~E9Screen Display~07      ~~F9    ~F9Screen Display~07
+            ~~EA     ~EAScreen Display~07      ~~FA    ~FAScreen Display~07
+            ~~EB     ~EBScreen Display~07      ~~FB    ~FBScreen Display~07
+            ~~EC     ~ECScreen Display~07      ~~FC    ~FCScreen Display~07
+            ~~ED     ~EDScreen Display~07      ~~FD    ~FDScreen Display~07
+            ~~EE     ~EEScreen Display~07      ~~FE    ~FEScreen Display~07
+            ~~EF     ~EFScreen Display~07      ~~FF    ~FFScreen Display~07
+
+~#8                  Using TXT2RES.COM
+
+            TXT2RES works the same as TXT2COM except that it creates
+       a COM file which can be included in an autoexec.bat to
+       make the text file resident. The file can be brought forward
+       at any time by pressing a HOT KEY combination. The default
+       hot key combination is:
+                     Alt-Left Shift-D
+             TXT2RES is good for creating resident tutorials and
+       references. Combined with the function key ability this can
+       create powerful interactive screens which can augment any
+       application.
+
+
+
+
+
+
+
+
+
+
+
+
+~#9                   Changing the HOT KEY
+
+           The default Hot Key combination is Alt-Left Shift-D.
+       This is fine for some uses, but when more than one application
+       uses this hot key combination or it conflicts in some way with
+       an application then you must run HOTFIX on the COM file that
+       you have produced. Do not run HOTFIX on TXT2RES.
+            HOTFIX works by changing the letter in the hot key
+       combination. It changes only the letter. The Alt-Left Shift
+       part remains the same. The form of the HOTFIX command is:
+
+               HOTFIX filename n
+
+       where filename is the COM file you want to fix and n is the
+       key letter that you want to change the hot key to. To change
+       the hot key combination of a resident file called apphelp.com
+       to Alt-Left Shift-H enter:
+
+              HOTFIX apphelp.com h
+
+
+
+
+
+
+
+
+
+
+~#0
+            This is a free product to all users with the exception of those
+       who wish to include the COM file produced with this product in a
+       commercial package (not freeware, shareware or user supported). When
+       the output of TXT2COM is included in a Commercial product I demand a
+       royalty based on product price and number of sales. For more
+       information write to: Keith P. Graham
+                             238 Germonds Road
+                             W. Nyack, NY 10994
+                             (914) 623-4161
+
+            If you have any suggestions or comments you can direct them
+            to Keith Graham at PC-Rockland BBS (914) 353-2176.
+
+
+
+

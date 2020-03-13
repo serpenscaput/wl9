@@ -1,0 +1,5 @@
+Dunkelschwamm (Chaingun guard, boss generator which I used to make the new bosses)
+
+Executor (Colored locked doors)
+Orka (chaingun guard voices, dual pistol guard voices, custom music, HUD pistol edit, 
+dual pistol guard edit, wall texture edits, One-eyed Fox [the new BJ])

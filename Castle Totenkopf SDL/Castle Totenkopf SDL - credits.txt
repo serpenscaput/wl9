@@ -1,0 +1,111 @@
+This is a list of people (besides myself) whose work was used in the making of this 
+mod.  I apologize if I left out anyone.
+
+
+CODE:
+
+Moritz "Ripper" Kroll - the Wolf4SDL source code and most of its features
+
+Gerard "AlumiuN" Watson - advanced sound manager, bullet code
+
+Martin "MCS" Bonnet - seamless level progression, some of the ambient sound code
+
+
+Dark One - the original floor/ceiling texturing code
+
+Adam Biser - some of the floor/ceiling texturing code, displaying map names on the 
+loading screen
+
+Matthew - enemy AI search patterns, explosion damage, random number code
+
+TexZK - sniper scope zooming
+
+BrotherTank - intermission text
+
+Andy_Nonymous - final time fix
+
+
+GRAPHICS:
+
+Id Software - modified graphics from Wolfenstein 3D, Spear of Destiny, and Doom
+
+FormGen Corporation - modified graphics from Spear of Destiny Mission Packs
+
+Raven Software - burning enemy animation
+
+Steve "AReyeP" Wally - desk, toilet, sink, pool of water/blood, some of the corpses, 
+metal barrel (originally red)
+
+Apogee/3D Realms - operating tables
+
+Ian "ISJ" Skevos-Jones - treasure sprites
+
+Chaos Software - sky texture
+
+
+SOUNDS:
+
+Moritz "Ripper" Kroll - enemy German speech
+
+Id Software - modified sounds from Wolfenstein 3D
+
+Richard Frohlich - secret wall movement
+
+Andre Nascimento - key pickup
+
+Abyssmal - knife slashes
+
+UATaudio - door opening and closing
+
+Jedimichael - door locked
+
+Pempi - elevator switch flip
+
+Matt Bronka - ambient footsteps
+
+Dave Incamas - ambient rattling chains
+
+Than Van Nispen - ambient torture scream 4
+
+C-drik Fermont - ambient torture scream 5
+
+mich3d - ambient dripping
+
+Sruddi1 - dog death 2
+
+miregrobar - small explosions
+
+
+EDITING UTILITIES:
+
+Adam Biser - Wolfenstein Data Compiler (WDC)
+
+Chaos Software - ChaosEdit
+
+Bloodshed Software - Dev-C++
+
+Florian Stöhr - FloEdit
+
+
+SPECIAL THANKS:
+
+Id Software - for creating Wolfenstein 3D and other great games which defined the 
+FPS genre of video games, and for releasing the Wolf3D source code to the public
+
+
+Ripper and Chaos Software - for creating the Wolf4SDL source port which helped to 
+preserve and revolutionize Wolf3D modding in the post-Vista era, and for providing 
+his voice for the German speech of the enemies
+
+Sam Lantinga - for creating the Simple DirectMedia Layer (SDL) library
+
+AlumiuN - for his advanced sound code which made it possible to use high-quality 
+sound effects and music in this mod
+
+Brian Lowe - for running the Wolfenstein 3D Dome website, for posting my mods and 
+others on his websites, and for helping to preserve an overall interest in Wolfenstein 
+3D
+
+BrotherTank, MCS, and AReyeP - for running the Diehard Wolfers Forums, which for 
+many years has been the main avenue for the Wolf3D community
+

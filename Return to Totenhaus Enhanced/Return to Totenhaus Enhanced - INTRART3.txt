@@ -1,0 +1,16 @@
+^P 
+^C[Gold]NEARING THE END
+^c[White]At last you have arrived at the executive wing, where the elevator that 
+will take you to the mansion's outer courtyard is located. Freedom is so close you 
+can taste it. But it won't come easily...
+
+^P
+^G16 16[LUFTBOSS]
+^C[Gold]ONE WAY OUT
+^c[White]The executive wing is guarded by Totenhaus' commandant, SS-Oberfuhrer Jurgen 
+Luftmensch. He's loaded for bear and will turn you into pink mist if he catches you 
+in the open.
+
+The Nazis are on full alert and paratroopers are fanning out throughout the area 
+to find you. Good luck--you'll need it!
+^E

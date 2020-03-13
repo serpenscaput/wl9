@@ -1,0 +1,104 @@
+COFFEE BREAK CREDITS LIST
+
+-WALLS-
+Spear of Destiny walls: Id Software
+Cellar walls: Ken O'Brien
+Cyan bricks: Id Software, JackaL
+Yellow bricks: Ken O'Brien, ArEyeP, Raven Software, Megabyte
+Brown stone w/ Hitler: Id Software, Megabyte
+Marble w/ eagle: Id Software, Laz Rojas
+Brown stone w/ flag: Id Software, B.J. Rowan
+Plaster w/ picture: Id Software, B.J. Rowan
+Hedges: Cage & Xaser
+Catacomb walls: Xaser (various Wolf3D-based edits)
+Bone wall: Xaser
+Crypt wall: ArEyeP
+Rusty door: Rust pattern by B.J. Rowan, door by Id Software, assembled by Executor
+
+Checkered Marble: Gary Ragland, decorations by ArEyeP, Id Software and Raven Software
+
+
+
+-SPRITES-
+
+Rifle: Turbo
+Rocket Launcher: SamVision, ammo pickup by WSJ
+Heavy Machine Gun: B.J. Rowan, ammo pickup by Id Software
+Flamer: Gerolf, based on SNES Wolf3D, ammo pickup by WSJ
+Trooper: Original sprite by FormGen, rifle and firing animation by WSJ, assembled 
+by Executor
+Kommando: Original sprite by doomjedi, edited by Captain J
+Heavy Trooper: Captain J, expanding on original frontal frames by WSJ
+Rocketeer: UnTrustable
+Grenadier: Laz Rojas
+Torch: AREyeP
+Brazier: AREyeP
+Dog sitting frames: UnTrustable
+E1 secret boss: Tobbè
+E2 secret enemies: Doomjedi
+E2 secret boss: Doomjedi
+Square banner: AREyeP
+Blue lamp: AREyeP
+Light bulb: B.J. Rowan
+Spear of Destiny column: Id Software
+Red lamp: Id Software
+Fern: AREyeP
+Gold helmet: WSJ
+Metal table: WSJ
+Toilet: AREyeP
+Fences: Xaser (based on GothicTX stuff)
+Glass: Xaser / Banjo (based on Hacx stuff)
+Cell bars: Doomjedi
+Large wood window: Shape by Laz Rojas, base texture by Apogee Software, edited and 
+assembled by Executor
+Wood base texture for gray stone and gray brick windows: Apogee Software
+Barred window for red bricks and steel: AREyeP 
+Trees: Doomjedi
+Lamps: Doomjedi
+
+-SOUNDS-
+Rifle: Raven Software
+Enemy rifle: Megabyte
+Explosion: JaM Productions
+Rocket launcher: MacPlay Entertainment
+Minigun sound: Digital illusions CE
+Minigun start/stop: WildWeasel
+Flamer: MacPlay Entertainment
+Flamer impact: Per Kristian
+Knife: MacPlay Entertainment
+Heavy Machine Gun: B.J. Rowan
+Trooper: MacPlay Entertainment
+Additional AdLib sounds: Id Software, JaM Entertainment
+Player death: MacPlay Entertainment
+Switch: Apogee Software
+Kommando: Laz Rojas
+Enemy HMG: WSJ
+E1 secret boss: Monolith Productions, Id Software
+E2 secret enemies and boss: Doomjedi
+E2 secret voice clip: Sega
+Grenadier: Laz Rojas
+Rocketeer: MacPlay Entertainment (sight), Id Software (death)
+
+-MUSIC-
+DAGGER.imf: Bethesda Softworks
+SIEGE.imf: Bobby Prince
+SHARDS.imf: Lee Jackson
+E1 secret level music: Lee Jackson
+FUTURMIL.imf: Lee Jackson
+XJAZNAZI.imf: Bobby Prince
+XGETYOU.imf: Bobby Prince
+GENEFUNK.imf: Bobby Prince
+IMPACT.imf: Paul Corfiatis
+TOOTENSE.imf: Bobby Prince
+FUNERAL.imf: Frederic Chopin
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this 
+TC.
+Secret level music: Lee Jackson
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this 
+TC.

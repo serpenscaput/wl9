@@ -1,0 +1,55 @@
+
+Operation: Letzterschutz SDL coding progress
+
+AUDIOT file had to be adjusted to work with SDL version  08/27/11        AUDIOT.WL6
+
+Added new digitized sounds  08/27/11                        AUDIOWL6.H, WL_MAIN.CPP 
+        
+Make sure pushwalls move 3 spaces  08/27/11                             WL_ACT1.CPP 
+
+New difficulty names, ILM cheat message  08/27/11                         FOREIGN.H 
+  
+New VGAGRAPH images  08/27/11                                            GFXV_WL6.H
+
+Changed high score entries  08/27/11                                     ID_US1.CPP
+
+Added new sprites, objects, enemy types, weapons, etc.  08/27/11           WL_DEF.H
+
+New episode names  08/27/11                                             WL_MENU.CPP
+
+New ceiling and floor colors, weapons  08/27/11                         WL_DRAW.CPP
+
+Adjusted level ratios for smaller episode size  08/27/11     WL_DEF.H, WL_INTER.CPP
+
+Disable all debugs except God mode and warp  08/27/11                  WL_DEBUG.CPP
+
+New static and Tricob's animated sprites  08/28/11         WL_DRAW.CPP, WL_ACT1.CPP
+
+Remove signon screen, new cheat code  08/28/11                          WL_MAIN.CPP
+
+New object sounds, points, etc.  08/28/11                              WL_STATE.CPP
+
+New statetypes, actors, etc.  08/28/11                                  WL_ACT2.CPP
+
+New secret elevator floors, etc.  08/28/11                              WL_GAME.CPP
+
+New ILM cheat, deleted BAT cheat  08/28/11                              WL_PLAY.CPP
+
+Silenced hitwall and spacebar sounds  09/15/11                         WL_AGENT.CPP
+
+Fixed illegal music startoffs crash  09/23/11                             ID_SD.CPP
+
+   
+
+Operation: Letzterschutz DOS edits
+
+AUDIOWL6.H adjustments to work with new AUDIOT file  08/27/11            AUDIOWL6.H
+
+Make sure pushwalls move 3 spaces  08/27/11                               WL_ACT1.C 
+        
+Silenced hitwall and spacebar sounds  09/15/11                           WL_AGENT.C
+
+
+Corrected typos in Ep1 and Ep4 endart  09/30/11                           VGAGRAPH
+
+

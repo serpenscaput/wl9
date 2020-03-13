@@ -1,0 +1,55 @@
+================================================================
+Title                   : MPSOD
+Filenames		: gamemaps.sod and maphead.sod
+Author                  : Maarten Pinxten
+Email Address           : M.F.Pinxten@student.tudelft.nl
+Description             : Full replacement for Spear of Destiny,
+			with the same style as the originals.
+                          
+Additional Credit to    : Apogee for both Wolfenstein 3D and Spear
+			of Destiny and Gary Ragland for the
+			motivation.
+                                                     
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New from scratch
+Editor used             : MAPED83.EXE
+Build Time              : Don't know. Lotsa. 
+Known Bugs              : None
+
+* Install procedure *
+
+- go to your Spear Of Destiny directory
+- rename maphead.sod and gamemaps.sod (for example to maphead.old and 
+gamemaps.old)
+- copy the maphead.sod and gamemaps.sod which were part of this zipfile to
+your Spear Of Destiny directory
+- Start Spear Of Destiny and enjoy my levels!
+
+* Copyright / Permissions *
+
+You can freely distribute this level and put it on your page. You may 
+also use this level as a base for your own (don't be such loser, 
+though), as long as you include this textfile and give me credit for
+it. Please don't distribute this level under your own name. There's
+not much I can do about it, but well, I'll be watching ya :)
+
+* Where to get this MAP *
+
+On Maarten's Gamorama (www.crosswinds.net/~Gamorama);
+Maarten's Virtual Adventure (bounce.to/MVA);
+Gary Ragland's Wolfenstein 3D page (members.tripod.com/~gdr2);
+Mr. Lowe's Wolf3D page (www.users.globalnet.co.uk/~brlowe);
+Shawn Mosely's Wolf3D page (surf.to/wolf3d).
+Have you seen this level on another page? Mail me!

@@ -1,0 +1,281 @@
+^P
+^C7d THE ROAD TO DESPAIR
+^G32,175,30
+
+^C23 One Hero. Four Weapons. Five Thousand Neo-Nazis. Do you have what it takes? 
+
+
+^C99 Thanks for downloading The Road to Despair, the first of the four Megastein 
+3-D games that take place in Germany in the near future. I hope you enjoy playing 
+it as much as I did making it!
+
+^P
+^C7d THE STORY
+
+^G32,16,3
+^C99 The year is 2012 and World War III has begun. General Wilhelm šberkopf has seized 
+control of Germany, setting up a totalitarian Neo-Nazi regime that threatens to conquer 
+the whole of Europe. šberkopf has amassed a huge military and seems nearly unstoppable. 
+His Gestapo police have crushed all dissent in the country.
+
+^P
+^C7d THE STORY
+
+^C99 Worse, a team of Neo-Nazi scientists lead by Dr. Sebastian Krist have uncovered 
+the lost documents of Dr. Arzt Schabbs and have learned how to make a new army of 
+mutant soldiers that make Schabbs' minions look like cuddly toys! Krist's zombies 
+are made from the remains of dead bodies. The Gestapo have been intruding on funerals 
+to swipe corpses to be put in the mutant army. However, there are not enough mutants 
+to seriously challenge the forces of Europe. Yet.
+
+^P
+^C7d THE STORY
+
+^C99 You are Richard Reid, a U.S. Air Force pilot. While flying a reconnaisance mission 
+over Munich, you were shot down by a flak turret and captured by the Schutzstaffel. 
+You have been imprisoned in the Totenhaus prison far to the north. You are slated 
+for execution in seventeen more days and then will be sent to Krist's labs at the 
+Totenmanner Gesellschaft, where you will face a fate far, far worse than death...
+
+
+^P
+^C7d THE STORY
+
+^C99 Totenhaus is a large sprawling complex composed of prisons, barracks, offices, 
+guardhouses, and mess areas. You are imprisoned at the lowest level of the basement. 
+There are four basement floors you must traverse, each packed with trigger-happy 
+Nazi soldiers. Then you must enter the main building of Totenhaus through the heavily-guarded 
+Labyrinth through which no intruder has passed alive.
+
+^P
+^C7d THE STORY
+
+^G32,192,4
+^C99 Then, to get to the Totenmanner building, you must travel along a set of tunnels 
+known as the Road to Despair (hence the game's name) that stop at a relay point where 
+corpses and zombies are packaged up to be shipped to either Totenhaus (for mutants) 
+or Totenmanner (for corpses). The relay point also serves as a security checkpoint. 
+Then you must traverse the second half of the Road to Despair.
+
+^P
+^C7d THE STORY
+
+^G80,176,5
+^C99 When you arrive at the Totenmanner building, you will encounter massive resistance, 
+as the Nazis are aware of your presence. Total forces within the basement floor are 
+estimated at 50-80 Nazis. Things should get a little easier in the first few aboveground 
+floors of the building.
+
+^P
+^C7D THE STORY
+
+^C99 As for what lies within Totenmanner, we don't know...
+
+^P
+^C7d THE STORY
+
+^C99 What we DO know is that Krist is holed up in the top floor with a huge contigent 
+of mutants as well as his new šbermutants. There may also be some šbermutants elsewhere 
+in the building, so be alert.
+
+^P
+^C7d THE STORY
+
+^C99 You have nothing to lose, so go out there and kick some butt! Even if you lose, 
+you'll go out--you guessed it--in a blaze of glory.
+
+^P
+^C7d FEATURES
+
+^G22,175,30
+^C99 What new features are in ^CCEThe Road to Despair? ^C9D Go to the next page to 
+find out!
+
+^P
+^C7d FEATURES
+
+^C99 * 48 well-designed and challenging levels, with over 100 Nazis to waste in EACH 
+LEVEL!
+* Seamless level flow due to the Project Totengraeber engine
+* Changed ceiling colors & music
+* Two new keys: the Bronze and Blue keys. Both have icons on the status bar
+* The Gatling can jam
+* New HELPART and ENDART
+
+^P
+^C7d NEW KEYS
+
+^G25,16,31
+^C23 The Bronze Key ^C99is common in Totenhaus, and is often used to mark a special 
+area elsewhere.
+
+^G86,16,32
+^C23 The Blue Key ^C99 is rarely used, and often unlocks secret elevators.
+
+^P
+^C7d NEW HEALTH ITEMS
+
+^G25,16,34
+^C23 Steroids ^C99give you a 2% health boost, up to 200% health. Developed by Sebastian 
+Krist, these rarely ever appear.
+
+^G86,16,35
+^C99 The ^C23Adrenaline Health Kit ^C99contains an experimental dosage of adrenaline 
+and other pharmaceuticals which give you an instant health boost to 125%, or 25% 
+additional if you are already above 100%. They also give you an extra life.
+
+^P
+^C7d KNOW THINE ENEMY
+
+^C99 The black-clad ^C23SS ^C99are the grunts of Uberkopf's army. Stupid and slow, 
+they carry pistols. 
+
+^C23 Security Guards ^C99are specially trained members of the Gestapo that are assigned 
+to guard Totenhaus and the Totenmannner Gesellschaft complexes. They are fast and 
+intelligent.
+
+^C23 Waffen-SS ^C99 are highly trained killing machines that carry assault rifles. 
+Kill one of these guys and you can take his weapon.
+
+^P
+^C7d KNOW THINE ENEMY
+
+^C99 There will also be mutated monsters roaming the levels, as well as extremely 
+tough Boss enemies. Watch out.
+
+^C99 Boss enemies are heavily armed and take dozens of bullets to kill (They're also 
+huge and ugly). When health and ammo packs start appearing in huge groups, a Boss 
+may be nearby.
+^P
+^C7d OTHER HEALTH ITEMS
+
+^C99 Dog food, although somewhat embarassing to eat, will add 4 to your health per 
+bowl.
+
+^C99 Plates with food on them are scattered all over the place (Nazis aren't too 
+smart). Eating a meal will give you 10 health.
+
+^C99 Gray medkits boost your health by 25 apiece.
+
+^P
+^C7d INSTRUMENTS OF DESTRUCTION
+
+^C99 The knife does almost no damage and should only be used when you're out of ammo.
+
+^C99 The pistol is your starting weapon, and fires rather slowly. Get an assault 
+rife fast.
+^C99 The assault rifle fires at a moderate rate and does moderate damage. It will 
+be your workhorse.
+^C99 The Gatling gun rips the enemy apart with six barrels of flaming death. However, 
+it consumes ammo rapidly and can jam.
+
+^P
+^C7d AMMO
+
+^C99 Guns need ammo, right? There are three sources of ammo in TRTD. Ammo clips dropped 
+by dead Nazis give you 4 bullets each. Clips found scattered on the ground unused 
+give you 8 bullets each. Each large box of ammo you collect contains 16 rounds.
+
+^P
+^C7d $$$ DOUGH
+
+^C99 If you're gonna save the world, why not get rich in the process? The U.S. Armed 
+Forces has put a bounty on the heads of every Nazi pig you kill.
+
+ SS: $100 each
+ Dog: $200 each
+ Security Guard: $400 each
+ Waffen-SS: $500 each
+ Mutant: $700 each
+ Boss: $5000 each
+
+^P
+^C7d TONS OF $$$ DOUGH
+
+^C99 If you really want to be rich, you'll have to collect treasure which comes in 
+four forms. Pressing on walls with the Spacebar can open up secret caches of treasure.
+
+
+ Helmet: $100 each
+ Sapphire Skull: $500 each
+ Ruby Skull: $1000 each
+ Topaz Skull: $5000 each
+
+
+^P
+^C7d SECRET LEVELS
+                
+^C99 Secret levels are hidden by push walls and guarded by Boss enemies. If you manage 
+to enter a secret level, you will discover an astounding amount of treasure, but 
+secret levels are very heavily guarded.
+
+^P
+^C7d TRTD CREDITS
+
+^C99 The credits list is (very) lengthy, and too long to fit in here. See credits.txt 
+for the credits list. 
+
+^P
+^C7d SPECIAL CREDITS
+
+^C7d UTILITIES & SUPPORT
+^C99 Florian Stohr
+^C99 Bill Kirby and Warren Buss
+^C99 B.J. Rowan
+
+^C7d SPECIAL THANKS
+^C99 Brian Lowe
+^C99 Barry Christian
+^C99 B.J. Rowan
+^C99 Id Software
+
+^C7d DEDICATED TO
+^C99 The Wolf 3-D community
+
+^P
+^C7d EDITORS USED
+
+^C99 A list of how I did what...
+
+^C23 MapEdit 8.4: Level design
+^C23 FloEdit 1.1: Graphics and sound replacement
+^C23 Ulead PhotoImpact 6: Graphics editing
+^C23 IMF_TOOLS: Music replacement
+^C23 Notepad: HELPART/ENDART
+
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C99 You can contact me at webmaster@iexecutor.net or executor@goaway.zzn.com.
+^C99 My website is located at www.iexecutor.net/egm and contains a weblog and forums. 
+Go there. Right now.
+
+^P
+^C7d AND IF YOU LIKE THE ROAD TO DESPAIR...
+
+^C99 ...Then you might enjoy the other chapters of the Megastein series: The Specter 
+of the Dark Ages, Pandemonium in Berlin, and The Final Assault.
+^C99 At the time of writing. An 8-level demo of The Final Assault has been released. 
+Go to www.wolfenstein3d.co.uk for the download.
+
+^P
+^C7d AND IF YOU LIKE THE ROAD TO DESPAIR...
+
+^C99 Stay tuned for version 1.01, with even more new stuff exploiting the capabilities 
+of FloEdit 2.0.
+
+^P
+^C7d THANKS FOR PLAYING
+^C99 I hope you enjoy The Road to Despair. Go forth and kick some Nazi ass!
+
+
+
+
+
+
+^C17 Executor
+webmaster@iexecutor.net
+http://iexecutor.net/egm
+
+^E

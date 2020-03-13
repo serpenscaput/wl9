@@ -1,0 +1,147 @@
+<HTML>
+<HEAD><TITLE>Data Errors</TITLE></HEAD>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<body>
+<font class="title">
+Error Message Guide :: Data Errors
+</font><br>
+<br>
+<table>
+    <td class="title">Error Description</td>
+    <td class="title">Resolution</td>
+</tr>
+<tr>
+    <td class="item"><a name="0">Error 1501 in clsVGAGraph.LoadNonPictureData: Could 
+not load chunk #n
+    <td>You will generally get this error for early Apogee games wush as Commander 
+Keen and Catacomb 3D.  If you get this on a Wolfenstein 3-D based game, please let 
+me know.  Otherwise, this is nothing to worry about.
+</tr>
+<tr>
+    <td class="item"><a name="1">Error 1502 in CatBuster: Could not find Catbuster.ini
+
+    <td>You might want to verify that the file is in the same folder with WDC.  If 
+not, reinstall WDC.  If it is, let me know that you got this error.
+</tr>
+<tr>
+    <td class="item"><a name="2">Error 1503 in CatBuster: CatBuster.ini does not 
+contain an extension for this EXE name: [filename]
+    <td>CatBuster has not been setup so it can't extract the data from the EXE file 
+in your base folder.  If you're handy with a hex editor, you can setup the CatBuster.ini 
+to work with your EXE.
+</tr>
+<tr>
+    <td class="item"><a name="3">Error 1504 in CompileVGAGraph: [filename] is for 
+the Tile8 chunk and the Tile8 BMP needs to be 40x56.
+    <td>Tile8 chunks need to be 40x56 pixels in order to work.  This one image contains 
+all the 8x8 tiles stoed in the chunk.
+</tr>
+<tr>
+    <td class="item"><a name="4">Error 1505 in CompileVGAGraph: The width of [filename] 
+is not a multiple of 4.
+    <td>VGAGRAPH images need to be a multiple of four.  Simply change your BMP or 
+use a different one.
+</tr>
+<tr>
+    <td class="item"><a name="5">Error 1506 in CompileAudioT: File not found: [filename]
+
+    <td>You have moved or deleted a file that was associated with a data chunk.  
+Use a different file.
+</tr>
+<tr>
+    <td class="item"><a name="6">Error 1507 in CompileVGAGraph: File not found: [filename]
+
+    <td>You have moved or deleted a file that was associated with a data chunk.  
+Use a different file.
+</tr>
+<tr>
+    <td class="item"><a name="7">Error 1508 in CompileVSwap: File not found: [filename]
+
+    <td>You have moved or deleted a file that was associated with a data chunk.  
+Use a different file.
+</tr>
+<tr>
+    <td class="item"><a name="8">Error 1509 in CompileAudioT: Added chunk had no 
+file: x
+    <td>This is pretty serious... let me know about it.
+</tr>
+<tr>
+    <td class="item"><a name="9">Error 1510 in CompileVGAGraph: Added chunk had no 
+file: x
+    <td>This is pretty serious... let me know about it.
+</tr>
+<tr>
+    <td class="item"><a name="10">Error 1511 in CompileVSwap: Added chunk had no 
+file: x
+    <td>This is pretty serious... let me know about it.
+</tr>
+<tr>
+    <td class="item"><a name="11">Error 1512 in clsVSWAP.SaveVSwap: Error at wall 
+chunk #n: BMP was not 256 colors.
+    <td>BMPs need to be 256 colors (8 bit) in order to work.
+</tr>
+<tr>
+    <td class="item"><a name="12">Error 1513 in clsVSWAP.SaveVSwap: Error at sprite 
+chunk #n: BMP was not 256 colors.
+    <td>BMPs need to be 256 colors (8 bit) in order to work.
+</tr>
+<tr>
+    <td class="item"><a name="13">Error 1514 in clsVSWAP.SaveVSwap: Error at sprite 
+chunk #n: Compressed sprite data too big (xxxx, MAX: 64000).
+    <td>The sprite BMP was too big to fit in a page in the VSWAP file.  You should 
+either reduce the amount of transparent areas or make the sprite (not the BMP) smaller.
+
+</tr>
+<tr>
+    <td class="item"><a name="14">Error 1515 in clsVSWAP.SaveVSwap: Error at sound 
+#n: The WAV file's format is: x. The format needs to be: 8.
+    <td>You need to convert the WAV to the proper format or use a different one.
+
+</tr>
+<tr>
+    <td class="item"><a name="15">Error 1516 in clsVSWAP.SaveVSwap: Error at sound 
+#n: Sound data too big (xxxx, MAX: 64000).
+    <td>You need to shorten the WAV or use a different one.
+</tr>
+<tr>
+    <td class="item"><a name="16">Error 1517 in CompileAudioT: Error loading chunk 
+#n
+    <td>This is pretty serious... let me know about it.
+</tr>
+<tr>
+    <td class="item"><a name="17">Error 1518 in CompileVGAGraph: Error loading chunk 
+#n
+    <td>This is pretty serious... let me know about it.
+</tr>
+<tr>
+    <td class="item"><a name="18">Error 1519 in CompileVSwap: Error loading chunk 
+#n
+    <td>This is pretty serious... let me know about it.
+</tr>
+<tr>
+    <td class="item"><a name="19">Error 1520 in StoreINIFileName: The BMP width needs 
+to be a multiple of 4.
+    <td>VGAGRAPH images need to be a multiple of four.  Simply change your BMP or 
+use a different one.
+</tr>
+<tr>
+    <td class="item"><a name="20">Error 1521 in StoreINIFileName: The BMP is not 
+64x64.
+    <td>VSWAP Walls and Sprites must be 64x64 BMPs.  Please use a different BMP or 
+resize it to be 64x64.
+</tr>
+<tr>
+    <td class="item"><a name="21">Error 1522 in StoreINIFileName: The Tile8 BMP is 
+not 40x56.
+    <td>Tile8 chunks need to be 40x56 pixels in order to work.  This one image contains 
+all the 8x8 tiles stoed in the chunk.
+</tr>
+<tr>
+    <td class="item"><a name="22">Error 1523 in clsVGAGraph.SaveVGAGraph: Error at 
+VGAGRAPH chunk #n: BMP was not 256 Color.
+    <td>BMPs need to be 256 colors (8 bit) in order to work.
+</tr>
+
+</BODY>
+</HTML>

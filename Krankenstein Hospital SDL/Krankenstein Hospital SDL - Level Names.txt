@@ -1,0 +1,40 @@
+ 1.Morgue   
+ 2.Labyrinth
+ 3.Coma
+ 4.Psycho
+ 5.White Walls
+ 6.Health Spa
+ 7.Hospice
+ 8.Homes
+ 9.Rich Clients
+10.Garden Party
+11.Clonedike
+12.Clonelab
+13.Clonology
+14.Dead End
+15.Garages
+16.Country Club
+17.Boo!
+18.Surprise!
+19.Sayonara!
+20.Panick
+21.The End?
+22.Old Hospital
+23.Intensive
+24.Catastrophe
+25.New Hospital
+26.Brain Wash
+27.Storerooms
+28.Sexism
+29.Guts
+30.Fat Clinic
+31.Asylum
+32.Femme Fatale
+33.Delirium
+34.Krankenstad
+35.Rush Hour
+36.Banquet
+37.The End!
+---------------
+38.Tunnels 
+39.Castle

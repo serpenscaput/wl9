@@ -1,0 +1,25 @@
+Cheat Code
+-----------
+
+run quick.bat or use the "-goobers" command line parameter like so:
+
+panzer -goobers
+
+when in a new game press [SHIFT]+[ALT]+[BACKSPACE](using the left shift button). 
+ You should get a message that says, "Debugging keys are now available."
+
+Use the following debugging keys(in order of usefulness):
+
+[TAB]+[W] - Warp to level XX
+[TAB]+[G] - God Mode
+[TAB]+[N] - No Clipping(walk through walls)  yes, it works.
+[TAB]+[I] - The next gun, some ammo, some points and a 1up
+[TAB]+[E] - End the level
+[TAB]+[Q] - Quit imediately to DOS
+[TAB]+[H] - Hurt yourself 16%
+[TAB]+[T] - Debug info in memory
+[TAB]+[C] - Statistics
+[TAB]+[F] - Position info
+[TAB]+[S] - Slow motion
+[TAB]+[V] - Add extra VBLs
+[TAB]+[X] - Extra stuff(except not)

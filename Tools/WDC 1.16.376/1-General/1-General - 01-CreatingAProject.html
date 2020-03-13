@@ -1,0 +1,117 @@
+<HTML>
+<HEAD><TITLE>Creating a Project</TITLE></HEAD>
+<BODY>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<FONT class="title">
+General :: Creating a Project
+</FONT>
+<BR><BR>
+
+<center><IMG SRC="ProjectInformation.bmp"></center>
+<BR>
+
+<font class="item">Base Data Folder</font>
+<font class="reqd">required</font>
+<BR>
+This contains the data files you want to base your project on.
+These data files can be of any extension (WL1, WL6, SOD, SDM, etc).
+No changes will be made to these data files.
+<BR><BR>
+
+<font class="item">Compiled Extension</font>
+<font class="reqd">required</font>
+<BR>
+This is the extension that will be use for your compiled data files.
+<BR><BR>
+
+<font class="item">Output Folder</font>
+<font class="reqd">required for editing</font>
+<BR>
+This is where your compiled data files will be created.
+<BR><BR>
+
+<font class="item">Test Program</font>
+<BR>
+If you select your test EXE file, you will be able to test your compiled data quickly 
+by going to File -> Test Project or by clicking the 'Test' button that will appear 
+on your compilation status screen.
+<BR><BR>
+
+<font class="item">Program Parameter</font>
+<BR>
+This value is used as the parameter for running the test program.
+If you want to test with Wolfenstein in debug mode, simply enter "-goobers" here.
+
+<BR><BR>
+
+<font class="item">GamePal.OBJ</font>
+<BR>
+This allows you to edit the GAMEPAL.OBJ file used by your source.
+Simply select the file, then click the button with the opening folder to edit it.
+
+<BR><BR>
+
+<font class="item">Signon.OBJ</font>
+<BR>
+This allows you to edit the SIGNON.OBJ file used by your source.
+Simply select the file, then click the button with the opening folder to edit it 
+or you can click the button with the diskette to insert your own file.<BR>
+NOTE: This file must be 320x200 and 256 colors.
+<BR><BR>
+
+<font class="item">Default Palette</font>
+<BR>
+This sets the palette that WDC will use when displaying graphics.
+WDC automatically detects SOD and SDM files and adjusts its internal palette accordingly.
+
+<BR><BR>
+
+<font class="item">Map Data File</font>
+<font class="reqd">required</font>
+<BR>
+This selects your map symbol file.
+This file also contains the sound and music names.
+<BR><BR>
+
+<font class="item">MAXACTORS, MAXSTATS, MAXDOORS, MAPPLANES</font>
+<BR>
+If you've changed these values in the code, you can change them here so the WDC's 
+error reporting will be accurate.
+<BR><BR>
+
+<font class="item">Use Tile16s for maps, if they exist</font>
+<BR>
+These are only useful for the EGA games and the Wolf3D alpha, since they are the 
+only games that have Tile16s and Tile16Ms.
+These tiles can be used for the map screen so that the map editor looks like TED5.
+
+<BR><BR>
+
+<font class="item">Tile16Ms start at map code 0</font>
+<BR>
+This should be checked only when working with the Wolf3D alpha.
+<BR><BR>
+
+<font class="item">Base NEARTAG, Base FARTAG, Use BaseTags, Compile NEARTAG, Compile 
+FARTAG, Compile RLEW Tag</font>
+<BR>
+These settings affect the map encryption and also need to match their values in your 
+code.
+If you are not familiar with these settings, please do not touch them.
+If you know the base files have different tags, change the base-related tags.
+If you want to compile the maps with different tags, change the compile-related tags.
+
+WDC will take care of unchecking "Use Base Tags" when you first compile your maps.
+
+<BR>
+<BR>
+<HR>
+Once you have set these fields, click 'OK'.
+You will then be asked for a filename for this project.
+A filename is necessary because changes are made to the project file while you work.
+
+<BR><BR>
+You are now ready to begin!
+</BODY>
+</HTML>

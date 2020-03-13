@@ -1,0 +1,31 @@
+WOLFROTT Gameplay Mod for ECWolf
+
+This is a simple decorate replacement for Wolf3D, replacing actors
+with analogs from the original ROTT spec (while still being inspired
+by original ROTT).  This can simply be ran on top of Wolf3D to 
+replace the original actors with the WOLFROTT ones
+
+Credits:
+
+Lightning Guard - Majik Monkee
+Low Guard - Thandor
+High Guard - Majik Monkee
+Enforcer - Majik Monkee
+Darian Wannabe - Majik Monkee
+Krist - Majik Monkee (modified from ROTT spec)
+Ballistikraft - AstroCreep (modified from Blake Stone sprites)
+Patrol Robot - AstroCreep (same)
+NME - Majik Monkee
+El Oscuro - AstroCreep (modified from Monk sprites)
+Death Monks - AstroCreep (modified from Monk sprites originally from specs)
+
+Pistol, dual pistol - AstroCreep (modified from Lost Episodes)
+MP40 - AstroCreep (ditto)
+ROTT Chaingun - ROTT Specs
+Bazooka - ROTT Specs
+Flamethrower - ROTT Specs
+Knife - Lost Episodes
+
+IMF Music by AstroCreep, converted from original midis using IMFCreator
+
+all other resources ripped directly from Rise of the Triad

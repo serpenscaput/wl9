@@ -1,0 +1,64 @@
+5/20/01
+========================================================================
+Title                   : Chemical Reaction
+Files			: gamemaps.wl6 maphead.wl6 PDsod1.txt
+Author                  : Pablo Dictter 
+Email Address           : pablodictter@hotmail.com
+Description             : My first maps for Spear of Destiny.
+			  I recommend to play these maps at skill 4.
+			  The second map was inspired by the song "The SS gonna get you" and the 		   
+       map has the same name. (you can hear the song at floor04 of SOD)
+			  These maps are very hard, so beware.
+			  
+Instalation		: Before unziping this file into you're Spear of Destiny folder, make 
+a 			  copy of the original gamemaps.wl6 and maphead.wl6. When you have done 			 
+ that, just unzip this file into the Spear of Destiny folder and play 				  the game. 
+
+
+Special Thanks to	: Mr.Lowe for testing and editing help. Thanks dude!
+
+========================================================================
+
+* Play Information *
+
+Game			: Spear Of Destiny
+Episode and Level #     : FLOOR 01 - FLOOR02 - FLOOR03 - FLOOR04
+New Sounds              : No
+New Sprites		: No	
+New Textures		: No
+New Graphics		: No
+
+* Construction *
+
+Base                    : New
+Build Time              : about 40 minutes.
+Editor(s) used          : FloEdit
+Known Bugs              : None
+
+* Map Names *
+
+FLOOR01 - The Entrance
+FLOOR02 - The SS gonna get you
+FLOOR03 - Achtung!
+FLOOR04 - The Last Floor
+
+* Hints *
+
+- When you open a door, and you know that there's a bad guy, just shoot, you will 
+get him.
+- Check every wall with decorations (this works with map 3), and you might find something.
+
+- If there are too many bad guys in one room, get out of there, and wait for them 
+on another       room.
+			  
+========================================================================
+
+* Copyright / Permissions *
+
+ Authors may not use these levels as a base to build additional
+ levels. 
+
+ You MAY distribute this WAD in any electronic format (BBS, Diskette, 
+ CD, etc) as long as you include this file intact. 
+
+http://pablod.8m.com

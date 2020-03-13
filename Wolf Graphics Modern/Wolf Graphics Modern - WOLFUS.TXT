@@ -1,0 +1,90 @@
+                                WOLF GRAPHICS - MODERN/U.S.
+                                v1.1
+
+By Denis Papp (dpapp@muskwa.ucs.ualberta.ca)
+ & Sean Blanchette
+
+VERSION 1.1
+- Sean has gotten around to fixing up the SS.  They now have spiked
+hair and shades.  The head still explodes, even if you use a knife.
+
+-------------
+
+These graphics were edited using WOLFEDIT.EXE by Bill Kirby and
+some graphics editors onthe side.  I believe NEOPAINT was most
+widely used.
+
+Note the graphics are NOT finished. The final character (you) has to
+be changed to something more interesting.
+
+I think the biggest advantage here is that this *should* be allowed to
+be distributed publicly in Germany.  I think, maybe the story would
+have to be changed or whatever.  Since existing German law does not
+allow Wolf 3D to be distributed...  since it involves killing
+Germans, even if they are Nazis.
+
+DESCRIPTION
+-----------
+A mix of our own Gore graphics and U.S. graphics.  These gore graphics
+have it where the guard gets a hole blown in his chest when you shoot
+him.  You can actually see through the hole.  Neat :)
+
+The normal guards just have a camouflage.  They also have pale faces
+(unintended!  WolfEdit does funny things to the colors)
+
+When you kill the SS his head blows up.   Dead bodies look much more like
+piles of gore than dead bodies.  The dog could use some touching up, not
+much was done.
+
+The food was done by my 8 year old sister (Lianne) - not bad I say...  Supposed
+to be McDonalds or Dairy Queen or something
+
+All wall ornaments (except 1 which didnt need changing) were changed to
+something representing the USA...  The wall painting is well, either
+some corrupt general, some general, or the president in army uniform.
+I prefer the latter, not like it matters though, since the story
+is 'flexible'.
+
+The story would be better if the walls were less 'castle-like'.  Hopefully
+we get around to that too.
+
+REQUIREMENTS
+------------
+Well, Wolf3D, the shareware version.  I dont know if it'll work with
+the registered full package.  Basically its made to replace the
+VSWAP.WL1
+
+
+STORY
+-----
+Totally up to you.  Here are some options:
+1) You are some psycho murderer escaping from some military prison.
+
+2) You are a nazi being held prisoner in some evil allied caslte, and want to
+go around and kill US soldiers, during world war II.
+
+3) Some Commies have invaded the US and taken over a prominent US
+building (or castle?).  Hence the wall paintings/etc are US.  The Soldiers
+are terrorists or whatever in camouflage.
+
+4) The U.S. government (or military) has gone corrupt sometime in the
+near future.  You're out to save the world.
+
+5) You've been struck on the head too many times.  Are you are just
+plain loony.
+
+6) You're really bored of the old Wolf graphics, so you wanted some
+new ones.
+
+7) Cattle mutilators have infiltrated the military ranks of some
+small country.  Seeing the US as a major cattle power-base, they
+have seized control of a processing factory (disguised as a castle
+and set in the wilds of Vermont).  You worked at that processing
+factory, and were sleeping in one of the cells when they attacked
+and took over the place (everyone was chased out).  Now they
+have begun their evil plans of wantonly mutilating cows and
+sending the parts via snail mail to unsuspecting consumers in suburban
+U.S.  You are out to stop them from performing this evil deed of
+destroying the sacred Indian animal.
+
+

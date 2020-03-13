@@ -1,0 +1,46 @@
+
+  ******************************************************************
+  *                                                                *
+  * The MAPED72.ZIP file should have contained the following files: *
+  *                                                                *
+  ******************************************************************
+
+README   1ST  - version notes
+MAPED72  DOC  - doc file
+MANIFEST      - this file
+MAPEDIT  EXE  - MapEdit executable
+MAPEDIT  PAS  - MapEdit source
+MOUSE    PAS  - Mouse driver unit
+MOUSE    TPU  - Mouse driver unit
+EGAVGA   BGI  - Borland BGI driver
+LITT     CHR  - Borland BGI font
+
+
+**   Map and Object data definition files:
+
+MAPDATA  WL1  - Origional 10 level Map definition file
+OBJDATA  WL1  - Origional 10 level Object definition file
+
+MAPDATA  WL6  - 30/60 level Map definition file
+OBJDATA  WL6  - 30/60 level Object definition file
+
+MAPDATA  SDM  - Spear of Destiny 2 level Map definition file
+OBJDATA  SDM  - Spear of Destiny 2 level Object definition file
+
+MAPDATA  SOD  - Spear of Destiny 21 level Map definition file
+OBJDATA  SOD  - Spear of Destiny 21 level Object definition file
+
+ALT_DEF  ZIP  - An alternate set of definition files by K van den Helm
+
+*** Note - Read the MAPED72.DOC file for a complete description of
+           the *DATA.*** files and their proper use.
+
+
+**   Example floor files that you can import:
+
+NEW      FLR  - Can be imported into *.WL3, WL6, SOD
+BDB3C4   FLR  - Must be imported into *.SOD.
+SDM      FLR  - Can be imported into *.SOD, *.SDM
+
+
+

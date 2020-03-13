@@ -1,0 +1,72 @@
+^P
+^C7d THE AFTERMATH
+
+John Bono, mortally wounded, watches in despair as you grab the claw of Houstophocles. 
+ With the artifact, you attack the Soviet planes heading your way with the claw, 
+destroying everything around them as well.
+
+^P
+The castle begins to shake up.  You take the one plane that still works and headed 
+out of there as the French castle falls down, finally killing and bringing an end 
+to John Bono Smithy Satchmo.  The next day, you get a call from Allied forces about 
+an affair going on in Antarctica...
+
+^P
+CONGRATULATIONS!
+
+You have completed Episode I of the Guild of Darkness!  Episode II will be started 
+on soon.  Now that John Bono has fallen, and the Soviet stronghold has weakened in 
+Europe, it's time for you to see the cheat codes!  Turn to the next page.
+
+^P
+^C26 Cheat codes - to start:
+
+To go to a level, on the DOS prompt, type:
+dark1 -tedlevel (level-1)
+If level is 10 or less, type a 0 next to it, (i.e. dark1 -tedlevel 09)
+
+^P
+^C26 Cheat codes - for Quake-like coding
+There is a special feature called debugmode on all Wolfenstein TC games.  Here's 
+how the code works here.
+
+On the DOS prompt, type:
+dark1 -x
+That's it!
+The next page will give you a list of combos:
+
+^P
+^C26 TAB+E - Skip Level (unless using tedlevel then quit)
+^C26 TAB+F - Position Shown
+^C26 TAB+G - God Mode
+^C26 TAB+I - Free Items (ammo limited to 99)
+^C26 TAB+N - No Clipping
+^C26 TAB+Q - Quit Game
+^C26 TAB+W - Warp Level (level 1-53)
+NOTE: The level warper will take you as far as the lower levels of the Emerald Zone. 
+ You're on your own from there.
+^P
+^C7d CREDITS
+Programmed by: Tetraarchangel
+Beta-Tested by: (and scores)
+Tetraarchangel (236,024)
+Tantok
+John Bono Smithy Satchmo
+Mercury Pimp
+
+^P
+^C7d Tools Used:
+^C00 * Borland C++ 3.1
+* Mapedit ver 8.4
+* Floedit 1.1
+* Microsoft Visual C++ 6.0
+* Notepad
+
+^P
+And thanks to ID for, without their source code, this game wouldn't be possible!
+
+
+Ciao!
+04/20/2002
+Tetraarchangel
+^E

@@ -1,0 +1,343 @@
+^P
+^C04INTRODUCTION
+^C00
+		Welcome to ^C6B"Green Arrow" ^C00 mod!
+
+^P
+^C04TABLE OF CONTENTS
+^C00
+		INTRODUCTION	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	 1
+		THE STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	 3
+		PLAYING THE GAME	.	.	.	.	.	.	.	.	.	.	.	.	12
+		CONTROLS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	13
+		WEAPONS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	15
+		INVENTORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	20
+		ENEMIES	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	21
+		CREDITS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	22
+		SPECIAL THANKS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	26
+		CONTACTING THE CREATORS	.	.	.	.	.	.	27
+		OTHER MODS BY TEAM RAYCAST	.	.	.	28
+
+^P
+^C04THE STORY
+^C00
+Oliver Queen had just ordered his drink, while waiting for an old friend to show 
+up. Nights like these are special; it isn't often that Oliver could take a break 
+from being the Green Arrow. Unfortunately, his night off wouldn't last long...
+
+After taking a few sips from his drink, a familiar dizziness set in. Someone spiked 
+his drink, and he knew exactly whose M.O. this was. He fell from his chair onto the 
+ground. 
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+His head still hurting, Oliver slowly opened his eyes. There was a familiar figure 
+sitting opposite him.
+
+'Hello, Mr. Queen'
+
+'Hello, Amanda. You know, you could just give me a call. Don't have to spike my drink 
+every goddamn time'
+
+'Until there's a safer way to bring you in, this'll do'
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+Amanda Waller, director of A.R.G.U.S., was almost always bad news for Oliver. It 
+either meant that a supervillain had escaped, or that Oliver had to clean up a mess 
+she had made.
+
+'Let's cut to the chase, Oliver. Deathstroke is up to something, and it involves 
+Mirakuru'
+
+'Shit... is he creating another army of supersoldiers?'
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+'That certainly seems to be the case. He and his army have set up camp over at Lian 
+Yu. Since you have lived and survived on that island for years after getting shipwrecked, 
+there is no one more suitable for this mission than you. No one knows this island 
+as intimitaly as you'
+
+'And why would I want to risk my life for this?' 
+
+'Because I say so...'
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+Waller continued. 'There is no one who knows the island better than you, and you 
+know that Deathstroke will be coming for you when he is done creating this superarmy. 
+And if you refuse, I'll reveal the identities of you and everyone associated with 
+your vigilante antics.'
+
+'What I'm saying is: you have no choice'
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+'And I wasn't lying when I said that he's still a real threat. I have reason to believe 
+that he has improved the Mirakuru formula. One of his test subjects was found floating 
+in the ocean. And from what we can tell, the effects of Mirakuru are even more powerful 
+now. This has to be stopped, before he can make another attack on Starling City. 
+You will be dropped on the island tomorrow'
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+Early next morning, his mood worse than it had been in a long time, Oliver was standing 
+at the edge of the airplane. Ready to parachute towards the island. The island that 
+had only bad memories for him. Facing an old friend he couldn't save.
+
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+He jumped. But as he was going in for the landing, he suddenly heard shouting. He 
+had been spotted. Shots were fired, puncturing his parachute. Oliver descended fast, 
+landing hard in the midst of the jungle. He was hurt, badly.
+^G100,100,33
+
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+Luckily, Oliver still had a couple of safe places on the island. He made his way 
+towards a nearby cave.
+^P
+^C04PLAYING THE GAME
+^C00
+The world in ^C6B"Green Arrow" ^C00
+^C00contains great depth and detail. As you
+explore, you will come across many things
+you can interact with. Try to press the
+^CA0"use" ^C00key near objects or characters that
+look like ones that can be interactive.
+
+^P
+^C04CONTROLS
+^C00
+The controls for ^C6B"Green Arrow" ^C00 are
+customizable. Their defaults are as follows:
+
+^C6BArrow keys	^C00- to move/turn
+^C6BCTRL ^C00						- Shoot
+^C6BALT ^C00							- Strafe
+^C6BSHIFT ^C00					- Run
+^C6BSPACE ^C00					- open doors,
+										- activate pushwalls, 
+										- interact with objects 
+											and characters
+^P
+^C04CONTROLS 		(cont'd.)
+^C00
+^C6B1-9 ^C00							- Weapon Select
+^C6B U ^C00									- Check stats
+
+Run the game with ^C6B--wasdweapons 
+^C00command line for weapon scheme fitting wasd controls:
+weapons grouped into less selection keys you can loop through.
+						
+^P
+^C04WEAPONS
+^C00
+	Even a superhero can't hold the bow
+	pulled for too long. Press ^C6B"shoot" 
+	^C00in idle state to prepare Oliver 
+	for his enemy encounters.
+		 
+		^C87FIST
+				^C00Use your fists 
+				to beat down your foes.
+				Press ^C6B"1" ^C00to select.
+
+		^C87BASIC BOW
+				^C00Shoots standard arrow projectile.
+				Press ^C6B"2" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87EXPLODING ARROW
+				^C00As it sounds.
+				Press ^C6B"3" ^C00to select.
+				
+		^C87FLAMING ARROW
+				^C00Shoots flaming projectile
+				to set enemies on fire.
+				But is much more useful than just
+				that because of related fire 
+				properties.
+				Press ^C6B"4" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87TRIPLE ARROW
+				^C00Shoots a spread of 3 arrows
+				at different directions. Good against
+				groups of enemies.
+				Press ^C6B"5" ^C00to select.
+				
+		^C87GAS ARROW
+				^C00Oliver uses the Gas Arrow 
+				to smoke out baddies. 
+				Stealthy, yet effective against
+				large groups as well.
+				Press ^C6B"6" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87STICKY (EXPLODING) ARROW
+				^C00Arrow that can stick to
+				surfaces and enemies and explode.
+				Press ^C6B"7" ^C00to select.
+				
+				Has 3 modes you can scroll 
+				by pressing ^C6B"7" ^C00 -
+				^C04TIMED, PROXIMITY ^C00(to other enemy)
+				and ^C04REMOTE. 
+				
+				^C00Press ^C6B"8" ^C00to select 
+				remote control manually.
+				or loop ^C6B"7" ^C00till you see it.  
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87DRONE ARROW
+				^C00Remote-controlled drone
+				with onboard camera that can 
+				survey the area, climb walls
+				and flip switches. Easy destructible.
+				Exit drone view by selecting
+				another weapon.
+^P
+^C04INVENTORY
+^C00
+		^C6BKEYS
+				^C00This mod has 4 keys of different 
+				colors. 
+
+^P
+^C04ENEMIES
+^C00
+			^C00The mod has wide selection of enemies, 
+			you'll have to discover those yourself
+
+^C04OTHER CHARACTERS
+^C00
+		^CBCWILD BOAR
+				^C00Running around in the wild
+				Can be useful
+^P
+^C04CREDITS
+^C00
+		^CABDoomjedi
+				^C00Project Coordination
+				Art Direction
+
+		^CABLinuxwolf
+				^C00Lead Programming
+				
+		^CABAtina
+				^C00Various story screens
+^P
+^C04CREDITS		(cont'd.)
+				
+		^CABRonWolf
+				^C00Mapping
+				Music
+				Story
+				Enemy Sounds
+
+		^CABSerpens
+				^C00Mapping
+^P
+^C04CREDITS		(cont'd.)
+^C00
+		^CABAdditional Art
+				^C00Wolfenstein 3D, WLHack
+				Blake Stone, Hexen
+				Operation Bodycount, Strife
+				The Josh ("Trench Warfare")
+				Operation Letzterschutz
+				DaggerFall, Powerslave, MrWolf
+^P
+^C04CREDITS		(cont'd.)
+^C00		
+		^CABBeta Testers
+				^C00WLHack	
+				GarretChan
+				WolferCooker
+				Lozer_42
+^P
+^C04SPECIAL THANKS
+^C00
+		ID Software for making Wolfenstein 3D
+		Ripper for making Wolf4SDL
+		Blake Neely for making the Arrow OST, 
+		which inspired the soundtrack for this 
+		mod.
+^P
+^C04CONTACTING THE CREATORS
+^C00
+		Look for us on Mod DB!
+		
+^P
+^C04OTHER MODS BY TEAM RAYCAST
+^C00
+		^C96BATMAN vs BANE
+				^C0010-level Wolf3D TC inspired by the
+				Batman comics, games, movies and
+				cartoons. First part of in-work
+				trilogy.
+
+		^C96OPERATION EISENFAUST: LEGACY
+				^C00After Schabbs' demise, it was 
+				assumed that the Eisenfaust plans 
+				had been destroyed once and for all. 
+				But a former protege of Schabbs has 
+				taken the blueprints of the operation 
+				and is attempting to restart it. (...)
+^P
+^C04OTHER MODS BY TEAM RAYCAST		(cont'd.)
+^C00
+				(...) It is up to special agent B.J. 
+				Blazkowicz to stop the Nazi's from 
+				creating another mutant army. 
+				Will B.J. stop them, or is he about 
+				to find out that the operation might 
+				have progressed a lot faster than 
+				he thought, with its effects 
+				far more devastating...
+
+		^C96OPERATION EISENFAUST: ORIGINS
+				^C00A Sci-Fi "Wolfenstein 3D" mod/TC about
+				the origins of "Operation Eisenfaust".
+^P
+^C04OTHER MODS BY TEAM RAYCAST		(cont'd.)
+^C00
+		^C96BATMAN: NO MAN'S LAND
+				^C00The remaining escaped convicts and
+				supervillains have taken refugee in
+				West Gotham, the part of Gotham
+				destroyed by Bane's earthquake device.
+				The supervillains are split up in
+				sections, which has escalated 
+				into a gang war. Knowing for sure
+				they're up to no good, Batman and
+				the GCPD try to arrest them while
+				also saving the innocent people still
+				trapped inbetween the fighting
+				sections. But knowing these (...)
+^P
+^C04OTHER MODS BY TEAM RAYCAST		(cont'd.)
+^C00
+				(...) supervillains, arresting them
+				will not be a walk in the park.
+				
+		^C96SOD EXTREME I & II
+				^C00Two Spear of Destiny Mapsets of
+				completely original maps without the
+				old object and enemy limits you're
+				used to.
+
+		^C96SPLITWOLF
+				^C00SplitScreen (coop) for up to 4 players
+				(currently optimized for 2) in
+				cooperative mode on a single PC!!!
+				
+^E

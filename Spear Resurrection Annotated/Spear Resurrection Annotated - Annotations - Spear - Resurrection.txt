@@ -1,0 +1,1236 @@
+I wrote the floor notes before I knew about the hintbook,
+
+(http://www.areyep.com/RIPandMCS-Spearres-HintManual.html),
+
+so there are notes only up to floor 10. This is a very challenging 
+Spear of Destiny episode, with lots of hard to find Artifacts. Keep
+in mind that the Artifacts of Death and Invulnerability are your
+best friends; use them wisely. You'll usually find an Artifact of
+Invulnerability near enough to a Super Clone to be useful, but move 
+quickly once you find it, as it often takes a while to get from the
+Artifact to the Boss' location.
+
+I saved the .html documents from the official site, in case the site
+is no longer around at some future date. Each floor .html document
+has a map and strategy notes from the game creators. The file folders
+with the .html documents contain the graphics.
+
+Reading the Manual and studying the maps in advance will be of
+great help to you in this one.
+
+Note that the Hall of Fame for high scores is no longer being updated, 
+so don't bother submitting your SAVEGAM.RIP file.
+
+Good luck, BJ!!
+
+
+Floor 1:
+
+You won't face a lot of enemies on floor 1, just some Guards, and some
+Suicide Clones. There are just a few things you need to do, to get full 
+points:
+
+a) Find the two Secrets. If you go right from the start, you'll find the 
+first Secret, (an Ammo depot), behind the wooden door in the second 
+guarded stone wall. The second one is in the wooden building farther 
+on, but watch out for the Land Mine.
+
+b) Find the 22 Black Diamonds. Expect most of them to be found near 
+Guards and/or Land Mines. 
+
+c) Find the rusty door, which leads to the elevator to floor two. There 
+are no Keys on this floor. 
+
+d) Avoid the Land Mines and Poison Berry Bushes. This is easier said 
+than done. There are a lot of Land Mines, and they're hard to spot, 
+(small gray rectangles on the black forest floor). There are frequently, 
+but not always, Health Berry Bushes near Land Mines. There are no 
+Health reinforcements on this floor, other than Berry Bushes. 
+
+Resist the temptation to shoot at the Suicide Clones, when trees 
+separate you from them. You probably haven't found the Ammo depot 
+at Secret #1 yet, and they're trying to use up most of your Ammo. 
+Get them later. 
+
+Kill Suicide Clones as quickly as possible, and always with The Pistol. 
+It usually takes 3-4 shots to make them explode. You don't want them 
+to be close to you when that happens. They move quickly, and don't 
+call out, like the Guards do.
+
+There's only one occaision where you'll be attacked from behind. It's 
+immediately after when you battle two Suicide Clones. All other 
+enemies attacking from the rear will hit Land Mines before they'll hit
+you. 
+
+As much of the forest looks the same, when searching for Treasure, 
+it's best to pick an unique landmark as your starting point. Some good 
+choices are:
+
+i) The elevator to floor 2. Save your game before entering the elevator. 
+If you have 100% Kill, but less than 100% treasure, multiply the 
+Treasure percentage by 22. This will let you know how many Black 
+Diamonds you still need to find. 
+
+ii) The Gefahr signs, (Danger), at the beginning of the minefield, shortly
+after the beginning, if you start the game going right. 
+
+iii) The wooden building, where you'll find the second Secret. 
+
+Note that there are many objects on this floor, (bushes, rocks, etc.), 
+which appear to be solid, but you can walk over or through them. If you 
+start your Treasure search at the wooden building, note that there is a 
+shrub in the middle of the pathway at one point. If you go through the 
+shrub, you will go in circles. If you treat the shrub as if it was a solid 
+object, you can follow the perimeter to find any remaining Black 
+Diamonds.
+
+Do not assume that it is safe to move around the perimeter everywhere. 
+There are some Poison Berry Bushes next to walls. Watch for Land Mines, 
+and scout around in cul de sacs. It's often a good idea to exit the same 
+way you go in, if you find nothing, or have already scooped the Treasure.
+
+Floor 2:
+
+You'll need to know which barrels to explode, and which columns to 
+crumble, if you want to complete floor 2. 
+
+There are seven Secrets on this floor, (objects must be found behind a 
+push wall to be considered Secrets), and you'll have to explode the right
+barrel and crumble the right column to find four of them. You'll also 
+have to walk through some toxic sludge, with a variable loss of Health 
+between 25 and 30%, if you want all of the Treasure. You'll also have to 
+destroy a column to obtain your final Key, but it can be seen from the 
+nearby corridor. Any barrels that will explode, or columns that will 
+crumble, will do so with three direct gunshots. 
+
+If you see Treasure behind a barrel, that barrel will explode, but don't 
+be close to it when it happens, or you will suffer significant Health loss.
+
+It's a good idea to clear the floor of Soldiers before opening any doors. 
+Your first two secrets are close to the elevator, to your left, and to your 
+right. There is a rusty door near the top, and six doors to your right. 
+The third Secret, a series of Treasure rooms guarded by Clones, is found 
+behind the first door. An exploding barrel with toxic sludge is behind 
+the sixth door. You'll have to cross the sludge to get a 2,500 point Black 
+Diamond, if you're playing for points and the Treasure bonus. 
+
+Your first locked door, leading to the Bronze Key area, is behind door five.
+
+Through the rusty door at the top, you'll find the last four Secrets, in two 
+groups of double push walls. Demolish the correct columns in front of the
+plainly visible Treasure, and you'll find two of them. Farther up the 
+corridor, there are two Clones on opposite sides of the hallway, looking to 
+make you dead. The one on the left is behind an exploding barrel; the one 
+on your right is waiting for you be be within his line of sight, or for you 
+to engage the other one on the opposite side. I went straight at the right 
+side Clone, killed him quickly, and moved left, behind a bit of wall, to 
+avoid the shots from the second Clone behind the barrel. He was much 
+easier to kill, once he no longer had cover from the rear. 
+
+The last two Secrets are behind him, including a door leading to the 
+Artifact of Life, which raises your Health to 125%, and increases both 
+Ammo types by 25 rounds. You should refrain from picking up the Artifact
+until you have found the elevator to floor 3, otherwise you are unlikely 
+to start the next floor with the maximum possible Health. 
+
+Following the Clones on either side of the corridor, you'll find a door, 
+behind which the Bronze Key is protected by a Guard and two SS Soldiers, 
+one of whom is to your right, with some cover. Rather than engage him
+directly, I crossed over to the right side of the door, and dispatched the 
+two Soldiers within, using my Knife. If was then easier to lure the second 
+SS Soldier into the room. If you're low on Ammo at this point, there is a 
+box behind the left side door, when you have removed these three enemies 
+from active duty. 
+
+In the opening of the Bronze Key area, there are several Guards and Clones
+between you and the Blood Key, at center, but out of sight. I went through
+the door at right before firing any shots, and took them down as they either
+exited the room, or came around the corner. Grab the Blood Key, and 
+advance around to the left towards the next locked door. You'll again face a 
+Clone menace on either side of the corridor, just before the door. Taking out 
+the first column on the left, and the second column on the right, will make it 
+easier for you to advance through the door unscathed. 
+
+Through the Blood Key door, you'll see, directly in front of you, a Gold Key
+door that you definitely don't want to open, (there's a barrel of toxic sludge
+on the other side). around the corner left, break the column to engage a 
+group of SS Soldiers and Guards, who are between you and the Blue Key. 
+
+At the far left end of the room, behind some columns, (one of which is 
+structurably unstable), is another Gold Key door. A Clone moves quickly
+back and forth to the left, but he won't shoot at you. He's trying to make you
+expend Ammo, like a duck in a shooting gallery. Find the Gold Key first, 
+before battling him. It's behind a column in this general area. 
+
+The Gold Key leads to the elevator to floor 3. Don't forget to go back for the
+Artifact of Life. If will also give you 25 rounds of type 1 and 2 Ammo.
+
+There are multiple situations on this floor where you can waste a lot of Ammo
+if you don't know what to shoot at; barrels that won't explode, columns that
+won't crumble, Clones that tease. A walk through the 'end 2' saved game
+will be useful in knowing which barrels and columns are only temporary 
+obstacles. Other than the toxic sludge filled barrel behind the first Gold Key
+door, any exploding barrel or column will lead to something valuable, be it
+Treasure, Ammo, Heath, Artifact, or Key.
+
+Floor 3:
+
+Floor 3 is very tough. With the exception of the three SS Soldiers that you'll
+encounter just before the elevator to floor 4, you'll be fighting Clones 
+exclusively, most of whom will be firing from positions where they can't be
+seen, or can't be seen clearly. There are many places where you will expend a
+lot more Ammo than you'd like. You'll use a lot of Ammo destroying columns
+to either advance through a portion of the maze, gain a better shooting angle
+at Clones, or to find a Key, some Treasure, or a Secret. 
+
+Most of the Ammo reinforements will be found in boxes of 25, usually two or
+three together. Wherever possible, I've left one behind in the 'end 3' saved
+game, so you'll know where they are. 
+
+The first of five Secrets is to your right, just past the elevator. Go straight up,
+
+through the rusty door, and enter the middle door. On the back wall is 
+Secret #2, the MCS Mk3. In the Ammo room at the far end of the left branch,
+you'll find Secrets #3 and #4.  The last one was very difficult to find. It's 
+behind a column in the Bronze Key area, and contains nothing; it's only value
+is towards the Secrets bonus.  You'll also find the Artifact of Life in the Bronze
+
+Key area, but it doesn't count as a Secret. If your Health is strong, consider
+waiting until you've cleared the floor before picking it up. With multiple
+saving, I was able to complete this floor without any loss of Health, so the
+maximum Health going into floor 4 is 150%
+
+The Blood and Blue Keys are found behind crumbled columns, near the far
+ends of the right and left branches from the top. The Blood Key is behind a
+door in a large wood panelled Treasure room, guarded by multiple Clones.
+The Blue Key is visible from the corridor, guarded by one Clone.  The Bronze 
+Key is behind the Blood Key door, and the Bronze Key area contains the Gold, 
+(elevator), Key.
+
+On this floor, the most important thing to do is to kill your enemies in the 
+proper sequence. This may also require that you first remove the proper 
+columns. Several areas are very frustrating immediately, because you will be
+under attack, but unable to see your assailants. The Clones fire very 
+accurately, even at long distance, and when shielded by columns. When you
+have an enemy in front of you, you often have one or two on either side, as 
+well, which makes it hard to advance into the room. Precise shooting angles
+make all the difference on this floor.
+
+Whenever possible, you'll want to do the following: 
+
+a) If you have enemy attack from the center, right, and left, always try to 
+remove the center threat first. Your MCS Mk3 will be useful in dropping an
+opponent from a distance, as it fires bullets three wide.
+
+b) When there is an enemy behind a crumbling column, remove the column
+first. 
+
+c) Make use of nooks in the wall that may be good spots from both an 
+offensive and defensive point of view. You won't do well if you proceed in a 
+linear direction. There's a lot of quick advancing in a specific direction, then
+
+doubling back to deal with the additional Clones coming towards your rear
+flank, or the angles to shoot at them are better, if you approach them from
+the opposite direction. 
+
+d) Know which columns will crumble, and which ones won't. Use your Knife
+to test or crumble columns if the area's been cleared. Other than to add the
+MCS Mk3 to your weapons array, none of the Secrets is of immediate 
+importance. 
+
+e) Be aware of your route to Health reinforcement. It is possible to play this
+entire floor without loss of any Health, but it's unlikely, unless you want to
+spend an hour plus net time doing so. Most of the Health is in just a few
+locations, but there's usually a lot of it, when you do find it. 
+
+The two rooms to the right and left, through the rusty door opposite the 
+elevator, lead to similar obstacles; there are multiple Clones on either side, 
+behind columns, just past the doorway. I ran quickly to the far end of the 
+room, and worked my way backwards in a crisscross pattern, using the 
+alcoves of defeated Clones to remove columns on the opposite side, to get a 
+better shooting angle, then repeated as I moved closer to the door from 
+which I'd entered. 
+
+There's an extensive area behind the third column on your left as you exit 
+the elevator. Use the center enemy first, columns next, crisscrossing pattern 
+in this area as well. It took me a while to find the Bronze Key door. If you 
+follow the perimeter, you will find it. 
+
+Floor 4. 
+
+Floor 4 isn't too difficult, provided that you find the Artifact of Invulnerability
+
+before you use the Artifact of Displacement. 
+
+Have a Machine Gun in hand as you exit the elevator, as you will have to 
+immediately face two Suicide Clones. Take out the exploding barrels to the
+right and left. The ones on the left will also crumble two columns. Watch out
+for toxic sludge on either side before going left. You'll find your first Secret 
+
+on the wall when you take the left direction from the elevator. 
+
+It is possible to kill all of the Guards and SS Soldiers in the next room using
+only The Knife. In fact, if you can kill the Guards in and around the central
+area, you can contain the other Guards and SS Soldiers, and you'll find it
+much easier to take them out when they aren't coming out of the room
+prematurely. There isn't a lot of Health to be found on this floor, so play it 
+smart. There are a couple of places where you can dispatch enemies by 
+exploding a barrel near them, starting with the room after the door on your
+left, where you'll find a number of Clones, several of them suicidal. Make your
+presence known in the doorway, then fall back to the corner, so that the door
+is on your upper right. Use the barrel to drop the first one, and let a few more
+
+come out the door, before you go in to get the rest. 
+
+The Bronze Key is in the room at the far right corner, with the two silver
+doors. You'll also find the second Secret on the wall in that room. 
+
+Through the right side door from the initial room with the Guards and SS 
+Soldiers, you'll confront a number of Suicide Clones. Let them come to you 
+while you wait for them in the doorway. Try to kill the first one in the 
+second doorway, so you won't have to keep opening the doors, and possibly 
+meet up with a Suicide Clone between the two doors, where they can do a 
+lot of damage to your Health. A couple of them will hang back in the next 
+hall. Destroy them and kill the Guard before entering any of the rooms. 
+
+There are multiple Bronze Key doors in the right side hall, (and one near the
+elevator that starts the floor). Secret #3 is in the washroom, a Blood Key 
+Door leading to a Treasure room. The Blood Key itself is well guarded one 
+room to the right of the washroom. There are two doors to the Blood Key. 
+Go through the right hand door, and go around to the door on your left. 
+Draw the SS Soldiers back towards the previous room, and take out two 
+of them at once with the exploding barrel. The other two will be much easier
+to get after that. 
+
+Although there are two Blood Key Doors, only the one to the Treasure room 
+is needed. The other one will bring you more quickly to the area where the 
+Artifact of Displacement is, but you can also get there through one of the 
+Bronze Key doors. Near the Purple Artifact of Displacement, you'll find the
+fourth Secret, the Artifact of Life, in the corner near the Gold Key door. 
+The yellow Artifact of Invulnerability is in the same room as the Artifact of 
+Displacement, which will teleport you beyond the Gold Key door. If you 
+haven't picked up the Artifact of Invulnerability first, the Clones on the 
+other side will make short work of you. 
+
+Your temporary omnipotence will have expired before you can defeat all of 
+the SS Soldiers, Guards, and Officers behind the room with five doors. On 
+either side of this room is a wooded area with pillars. You should draw out 
+the Soldiers behind the pillars first. A shot should attract their attention. 
+Make sure you get them on either side, before approaching the doors, 
+otherwise you will be fired upon from both the front and rear simultaneously. 
+Use the corner for some cover as you battle the multiple SS Soldiers. Three 
+Officers may remain behind in the room. Flush them out from the last door, 
+if necessary. The Gold Key is in the room to which you teleport from the 
+Artifact of Displacement, and the Blue Key is in the room with the SS 
+Soldiers and Officers.
+
+Two Suicide Clones guard the elevator in the Gold Key area, behind the single
+door near the left side forest and pillars. The sixth and last Secret, a Treasure
+
+room, is directly opposite on the far wall. Be sure to top up your Health and
+Ammo before advancing to floor 5, and grab the Artifact of Life, if you left it
+behind. You'll need it when you face the Super Clone on the next level.
+
+Floor 5:
+
+The elevators are separated by three pillars, but you'll need all four Keys to 
+finish this floor.
+
+In the opening hall, there are two rusty doors. The left is a Health room, and 
+the right is an Ammo room. There's a Blood Key door at the top. You start 
+with the silver door, on your right, which brings you next to the elevator
+to floor 6. 
+
+You'll use a lot of Ammo on this floor, mostly from the MCS Mk3, and you 
+don't want to waste its' Ammo on Soldiers. The first group can be killed with 
+either The Knife or The Machine Gun. 
+
+In the next room, use the exploding barrels in front of the MCS Mk3 to take 
+out three SS Soldiers in one explosion. Both pillars will crumble.
+
+Directly across from the middle pillar, through two doors and a crumbling 
+pillar, you'll find the first Secret, the Artifact of Invulnerability. It's behind 
+
+a barrel of toxic sludge, however, and you'll have to take two significant hits 
+
+to your Health to pick it up. 
+
+
+It's impossible to explode the barrel without loss of Health. The best I could do
+
+was -37%, from 175% to 138%. On a few occaisions, there is no toxic sludge 
+from the barrel. I think it's random, because it's not specific to any weapon. 
+
+You'll want to explode the barrel, but leave the Artifact until you have the 
+Bronze Key, and are ready to face the Super Clone. 
+
+The next hall has silver doors at right angles to each other on each of the left 
+
+and right corners. Take out the two Clones in each corner first. Go right and 
+open the first door on your left. Let the Clones come out to you, before going 
+in to wrap things up. Don't go to the end of the corridor, by the Blood Key, or 
+
+some Guards and SS Soldiers will come through the Blood Key door behind 
+you.  
+
+After clearing the armory, go down the left side, and test the perimeter by the
+swastika flag. This will bring several Soldiers out from the last door on your 
+right. One Officer will remain behind, guarding the Blood Key. Secret #2, the 
+Artifact of Life, is in the same room as the Blood Key. The second Blood Key 
+door brings you to the corridor on the other side of the armory. The third
+Blood Key door is across, through a door, and to your right, from the opening 
+elevator. You can steal the Bronze Key from in front of the Super Clone, who's 
+separated from you by a non crumbling column. At this point, you want to 
+withdraw to the room by the end elevator, so that Super Clone has time to 
+make his move.
+
+He usually goes to the Ammo room, behind the rusty door to your right as you 
+face the Blood Key door. fire a few shots at him to get his attention, and 
+withdraw towards the end elevator room. Make sure he is following you. Keep 
+him one room behind you as you withdraw to the room with the Artifact of 
+Invulnerability, (this is why you would want to explode the toxic barrel earlier, 
+
+because you'll want to grab the Artifact quickly. When the Super Clone enters 
+the last door between you, take the Artifact and advance towards him, in a 
+steady stream of bullets from the MCS Mk3. You should be able to kill him 
+before the Invulnerability wears off. The dead Super Clone coughs up the 
+Gold Key. 
+
+Although there are several Bronze Key doors, don't open them until after you 
+have defeated the Super Clone. Make sure your Ammo, for the MCS Mk3 in 
+particular, is at Maximum. There were several boxes in the room with the 
+Artifact of Invulnerability, and I think I used them all. 
+
+You'll have to kill a lot of Clones to get to the Blue Key.  You can clear the 
+Bronze Key area first, and find the fourth Secret, a Health and MCS Mk3 
+Ammo room, to the left of the Blue Key. You need to go through the Gold Key 
+door, on your left on the left side of the armory, (near where you got the 
+Blood Key), to get to the chamber where the Blue Key is, but after clearing 
+the room of Clones, (watch for the Suicide Clone, at the second Gold Key 
+door, at the top of the room), instead double back towards the Bronze Key 
+area. Top up your MCS Mk3 Ammo on the way over, or you might be fighting 
+Clones with a Knife. 
+
+You don't want to go directly through the Gold Key door to the Blue Key, 
+because about seven additional Clones will come out of nowhere, and it's very 
+difficult to kill them, as there will be non crumbling columns between you. 
+
+The last Secret is in the wall, behind the Blue Key. Pick it up, and use it to 
+advance to floor 6. Pick up the Artifact of Life first, if you were saving it for 
+
+the end of the floor. This is a 15,000 point Boss Bonus floor, so I can't tell 
+from stats, but I looked carefully, and am confident that there are only five 
+Secrets. 
+
+Floor 6: 
+
+Your first Secret on floor 6 is in the health and Ammo room on your right, as 
+you exit the elevator. Through the rusty door on your left, there's a room 
+with several guards. If you appear in the doorway, but don't enter, you can
+lure them out to the corridor, one at a time, to die by Knife thrust, but if you 
+
+enter the room and withdraw, they will come out together, and there isn't a 
+good angle for multiple Knife kills on the left side, and there's a pillar on your 
+
+right. A few Machine Gun rounds will also work. 
+
+Two guards are behind the columns on your right, as you enter the room. One 
+of the columns will crumble, allowing you access to the Gold Key area. You can 
+also get through the Gold Key door by firing at the Artifacts behind the 
+columns on your left, and killing the guard as he leaves the Gold Key door. 
+
+All of the Guards in the next hall can be lured to the Gold Key doorway, or 
+killed in the open, using The Knife. The machine Gun would work, as well. This 
+game allows you to stab around corners, which is very handy when facing 
+several consecutive guards. 
+
+Go through the door on the right, near the four Blood Key doors. You'll find the 
+
+Bronze Key in a room beyond the fourth door in the washroom on your left. 
+For the right hand rooms, clear the first room behind each door, but do not 
+go through the second doors. The second doors on the right hand rooms lead 
+to the area behind the two silver doors around the corner to the right from 
+the Blood Key doors. By clearing most of the Officers from the corridor near 
+the Blood Key doors first, you'll only have two or three Officers Left behind the 
+
+pair of silver doors, instead of five or six emerging from the two doors at the 
+
+same time. Before going to the Bronze Key area, I've only used my Machine 
+Gun twice; once to take out the two Guards behind the columns near the 
+Gold Key door, and again for one of the two Officers left behind the double 
+silver doors. Everything else can be done with The Knife, but that's just my 
+playing style.
+
+The second Secret is on the left side wall, near the first Blood Key door. It 
+leads to the Arifact of Life and Invulnerability, seen earlier in the room behind 
+
+the Gold Key door. 
+
+Past the Bronze Key doors are two or more Guards, depending on how many 
+came out earlier when you entered the right side door from the Gold Key area. 
+
+The third Secret is on the wall opposite to, and left from, the leftmost Bronze 
+
+Key door. 
+
+Through trial and error, I learned to avoid the two doors on the left and right 
+
+of the Blood Key doors at the far right of the Bronze Key area. It's better to 
+have the Blood Key first before opening these. I instead started at the wooden 
+door to the right of the Hitler portrait opposite the Bronze Key doors. From 
+there, it was on to the armory, to the left of the Bronze Key doors. 
+
+At the back of the armory, there is a door on the left with a Suicide Clone, 
+and a Blood Key door behind him, (this Blood Key door leads to the main hall 
+after the Gold Key door at the beginning) . There is a single Gold Key door to 
+the right. Through the center door, there are three doors, behind which a are 
+several SS Soldiers guarding the Blood Key, past the left hand door. There are 
+multiple exploding barrels in that room, some which can be used to your 
+advantage, and some which will cause you massive Health loss if you explode 
+them in an attack. 
+
+Open the center door first, and take out the Soldiers in the middle by exploding 
+
+the barrel near them. Next open the right side door, and from around the corner, 
+
+kill the SS Soldier WITHOUT exploding the barrel. You can then kill the other 
+two SS Soldiers on the left side by shooting to your left from the middle door. 
+
+Pick up the Blood Key after you've killed them all. Take note of the second 
+Artifact of Life, or pick it up if you need the Health Boost. 
+
+In the Blood Key area of the main hall, there are a number of Guards, easily 
+dispatched with your Knife. You will see the Artifact of Displacement in front 
+of the four Gold Key doors. To survive your next test, you will need a full 
+compliment of 150 rounds for your Machine Gun, and perfect execution, as you 
+will probably need all 150 rounds to kill the flood of SS Soldiers who will be 
+attacking you simultaneously. The MCS Mk3 would run out of Ammo before 
+you would run out of SS, and there's no time to switch weapons. 
+
+Use the Artifact of Displacement to cross over into the Gold Key area, quickly 
+grab the Gold Key, and teleport back. Run like hell around the corner to your 
+right, and go through the Secret door on your right to use the Artifact of 
+Invincibility. Run back to the four Gold Key doors, and confront at least 20 
+SS Soldiers coming out of the Gold Key doors. Make sure none of them can get 
+behind you. If you are an excellent shot, you can just barely kill all of them 
+before your Machine Gun Ammo and Invulnerability run out. One SS Soldier 
+will remain behind the Gold Key doors, on your right as you enter. 
+
+You can get all of the Treasure in the Gold Key zone by crumbling the proper 
+columns. Use the Artifact of Displacement again to find the fourth secret, an 
+Artifact of Life, the third such on this floor. Now go back to the single Gold Key 
+
+door in the Armory. One Guard is behind the door, and he stands between you 
+and the Blue Key. The fifth Secret, a Treasure room, is behind the Blue Key. 
+
+Use the Blue Key to open the third elevator from the left, directly across from
+the four Gold Key doors.
+
+The sixth and last Secret, (or the third, in hindsight), is in the same room as 
+
+the Artifacts of Life and Displacement. It's guarded by three Suicide Clones, 
+and it's the MCS Mk4 rifle. Bring it with you to floor 7, but there really wasn't 
+
+any place on floor 6 where it was needed.
+
+Floor 7: 
+
+There's really no excuse for not having at least 150% health when you complete
+floor 7, as there are six Artifacts of Life among the Secrets. There's also an
+Artifact of Invulnerability, which you probably won't need to use, and two 
+Artifacts of Displacement, which will transport you to the areas where you'll
+find the Gold and Blue Keys. We'll also see the Artifact of Death for the first
+time, which you can use to your advantage as you exit the elevator from floor 6.
+
+I think I only needed to use an MCS rifle on this floor only once. This is a floor 
+
+where you'll want to conserve Ammo, though,because the reserves are often 
+far from where you need them.
+
+
+The right side column opposite the four elevators will crumble, but you don't
+want to do that until you have allowed the Artifact of Death to take care of
+the Guards and SS Soldiers in the hall beyond the silver door. Let the Soldiers
+see you through the gap between the columns, and hide behind the wall to the
+right, between the silver door and the crumbling column. The Soldiers will
+come through the door one at a time, and die as they reach the Artifact of 
+Death. When no more are coming through, fire a single shot through the right
+side gap beside the crumbling column to draw out the last few Soldiers. Note
+that the Artifact of Death loses its' potency as more and more Soldiers die
+on top of it, so the last one might get through. Do not attempt to retrieve 
+Ammo from the Soldiers who have died on the Artifact of Death. Crumble the 
+column when you are no longer in immenent danger, and advance into the hall. 
+
+In the next hall, you'll find a Blood Key door on your left, and a Bronze Key 
+door on your right, as well as a silver door, also to the right, which will lead 
+
+you to the Blood Key. After eliminating the two Clones, dispatch the Guard on 
+the right, and crumble the column in the room on your right to find the first 
+Secret. You can lure several of the Guards from the next hall back to the 
+crumbled column, to die by your Knife. You might have to face several of them 
+at the same time, if you use gunfire. 
+
+There are two Clones behind each of the two doors on your left, one Suicide
+Clone and one regular Clone. Lure them out, instead of trying to kill them in 
+the cramped space behind the doors. There are several more opportunities 
+where Ammo can be saved by using The Knife. You'll find the Blood Key in the
+room at upper left as you enter this area, through the wooden door between
+two rectangular stone blocks. In the room at the far end, upper right, you'll
+find a Gold Key door, but you won't be able to open it from this side. You'll use
+
+it near the end of the game, from the other other side, mainly to retrieve 
+Health and Ammo after finding the elevator to floor 8. Return to the Blood Key
+door, in the hall beyond the Artifact of Death. 
+
+You'll want to use your Knife in the early part of the Blood Key area, as there 
+
+are several Guards patrolling, and some SS Soldiers and a Guard who will come 
+out from behind doors, if they hear comotion. If you go to the washroom at the 
+far left end of the Blood Key area, you'll find the second Secret, the Artifact of
+
+Invulnerability, which you might be tempted to use in the brown brick area at
+the far right of the corridor. Resist the temptation to do so, unless you have
+already lured the Guards and SS Soldiers out to the main corridor, and are 
+using the Artifact of Invulnerability for the remaining Clones only.
+
+On the left hand side of the corridor, there are two doors leading to an armory.
+
+Much of the armory is blocked by barrels, but you can't get past until you have
+the Bronze Key. I recommend that you clear the area behind the first armory
+door, but leave the second door, (behind which is one Guard, near an exploding
+barrel, and the first Artifact of Displacement). SS Soldiers and/or Guards will 
+
+randomly come out of the brown brick room at the far right, and you'll want to 
+finish with them before taking out the Guard by the Artifact of Displacement.
+ 
+As mentioned above, it might seem like it would be easier to clear the brown 
+brick area at the far right end while under the protection of the Artifact of 
+Invincibility, but you will run out of Ammo before killing all of the Guards, 
+SS Soldiers, and Clones in that area. You'll hear an "ugh" sound when you are
+no longer Invulnerable. 
+
+The Soldiers can be coaxed out to the main corridor, and if you go through the 
+third corridor door, (past the armory), one or two of the three Clones on the 
+left side of the room can be killed with an exploding barrel. 
+
+When this area is cleared, you can go back and take out the Guard near the 
+first Artifact of Displacement. 
+
+There are two rusty doors in the brown brick area. which you have to clear 
+of Soldiers and Clones. It doesn't matter which one of the rusty doors you go 
+through, they'll both lead you to the Bronze Key. A mossy brick passage 
+behind each of the rusty doors leads you to the heavily guarded Bronze Key.
+If you enter through the upper door, near where Treasure can be seen behind
+pillars, you'll find the third, fourth, and fifth Secrets, (directly left of the 
+
+Bronze Key itself, if you find that first). You'll first find a number of Black 
+
+Diamonds at the end of a twisting gray passage, and two additional push walls 
+will give you four Artifacts of Life. One of the push walls is behind one of the 
+
+Artifacts, where you'll find a fourth Artifact of Life. You may find that you're 
+
+picking up one or more of the Artifacts of Life immediately, if not for the 
+Health, then for the 25 round increase to both your conventional and MCS 
+Ammo. 
+
+Several doors are opened by the Bronze Key. If you want the all killed bonus, 
+You can use exploding barrels to kill the Guard and SS Soldiers in two rooms
+connected to a Bronze Key door. In the second room, one of the SS Soldiers 
+can be killed with the Knife. 
+
+All Bronze Key door paths will eventually end with the room you can see from
+the main brown brick area, with a red barrel and a corroded one. Be ready to 
+face two Clones when you open the door in the back. Another one, and an SS
+Soldier, are waiting a little farther on. At the end of the hall, there are a few 
+
+Guards in the armory, but they're not tough to take out. You'll find the sixth
+Secret in the armory, another Artifact of Life. It's in the corner by the door
+of the same room as the Artifact of displacement. When you've taken 
+everything of value from the armory, use the Artifact of Displacement to 
+move to the area where you'll be able to get the Gold Key, (the Gold Key can be 
+
+seen in the brown brick area).
+ 
+You'll have two Clones on your right and left as you push the wall. The right side
+
+column crumbles. You'll have a couple of additional Clones to deal with, and
+two more hidden in the corner rooms of Treasure and MCS gun and Ammo.
+Additional Clones will come through the Bronze Key door on your left as you 
+turn the corner going right. I used the MCS Mk4 to take out the Clone in the 
+back corner of the MCS gun and Ammo room. You can now go through the 
+Bronze Key door to get some Treasure and the Gold Key, Through the Gold Key
+door, four Clones, one alone, and three more around the corner, guard the 
+second Artifact of Displacement. It brings you to a room where two Clones are
+guarding the Blue Key. Yet another Artifact of Life is the seventh Secret, 
+behind the Blue Key. The Gold Key Door leads to an ante room with Gold Key
+doors on the left and the right. The left door leads back to the room not far from
+
+where you found the Blood Key, where you found a Gold Key door earlier. It 
+makes it handy to go back and pick things up, after you dispatch the three 
+more Suicide Clones who stand between you and the elevator to floor 8.
+
+Floor 8:
+
+Several interesting challenges are presented on floor 8. To do well, you must
+often resist the urge to do what has usually been successful in the past. You
+won't be able to leave this floor without suffering some significant loss of 
+Health, unless you're not playing for the Kill, Secrets, and Treaure bonuses.
+
+There are ten Secrets on this floor, and you won't be able to find all of them if
+
+you just test the outer perimeter. I recommend that you either test each room
+as you clear it, or treat locked doors as part of the perimeter, and seach the
+area behind each as a separate section. You can also just go directly to the 
+spots described in these notes.
+
+You can find the first four Secrets by the time you find the Bronze Key. The 
+first two are on either side of the Hitler monuments, just to your left as you
+exit the elevator. The third is behind the parquet wall, just before the room to
+
+the right of the Bronze Key door, where you'll find the Bronze Key and the
+fourth Secret. I cleared the other rooms in the initial hall before going into the
+
+Bronze Key area. In the initial hall, The Knife can be used to some extent, but
+most of the rooms have three Officers inside, so you'll need a firearm to take
+down at least the first two, (there are many more than three Officers in the
+room with the Bronze Key and Secret #4).
+
+The fifth Secret can also be found before entering the Bronze Key area. It's
+in the corner of the room directly across from the second Secret, (a Machine
+Gun).
+
+The Bronze Key door gains you access to a hall with a single Guard patrolling.
+To your far right are two Blood Key doors, and to your left are two silver doors, 
+
+which lead to a room with five barrels, toxic sludge pools on the floor, and
+pillars separating you from a forested area, in which two Guards and an SS
+Soldier have their sights on you. They can also go around the corner outside
+of the room. All of the barrels will explode except the corroded one and the
+one on the left side wall. I used the MCS Mk4 to take out the Guard at the far 
+end, then lined myself up between a pillar and the stone block beside it, and
+waited to shoot until I could see the enemy through the gap to get the other
+two. There are several strategies that will work here. Expect to use a fair bit
+of Ammo taking out these three Soldiers, as they will move quickly back and
+forth behind the pillars, like ducks in a shooting gallery - but these ducks shoot
+
+back. Somee of the exploding barrels may kill guards, and most will add extra
+toxic sludge to the floor. 
+
+The door on your left leads to a series of three white stone rooms and a room
+with four Suicide Clones, which you will have to navigate to get the Blood Key. 
+
+One Clone will be waiting for you, in front of a door, and behind a water well, as 
+
+you enter the first room. Sometimes you can see the Blood Key behind him. As 
+you advance into the room, other Clones will move in the opposite direction, 
+trying to get behind you. Move a little forward, then turn and engage the Clone 
+
+who moves into the gap between wells. Be careful to not use up too much 
+Ammo against these Clones, particularly MCS rounds. Switch weapons between
+rooms, if necessary. You'll have the opportunity to replenish much of your
+Type 1 ammo when you get past the room of Suicide Clones, as there will be an
+unguarded Ammo box and six 4 round clips, left behind by the Clones from
+behind the wells in the first three white stone rooms. If any of those Clones
+managed to get behind you, you will have to face them before obtaining the
+Blood Key. 
+
+In the second of the white stone rooms, a Blood Key door can be seen behind 
+the water wells on your left. After you have the Blood Key, certain parts of the
+
+white stone rooms can be accessed from either of a Bronze or Blood Key door. 
+This is why this secret is difficult to find, as it is in an area bound by Bronze 
+
+and Blood Key doors, but not part of the outer maze perimeter. Check the wall
+of the second white stone room, behind a med kit, for an Artifact of Life. 
+
+Go back through the rooms to the double Blood Key doors in the Bronze Key
+area, (the single Blood Key door in an Officer's bureau only leads to areas that
+
+you can also be accessed with the Bronze Key, and it's sole purpose is to make 
+one of the Secrets difficult to discover). 
+
+Past the Blood Key doors, you'll meet some spirited resistence from several
+Guards and SS Soldiers. I lured as many as I could into the Bronze Key hall, 
+and stayed behind the second stone block with swastika flag, so that there
+was on Blood Key door on either side, in front of me. It made it much easier
+to kill the Soldiers at close range as they approached the block. Those that 
+remained inside the Blood Key area hall weren't too much trouble, once their
+numbers were thinned considerably. Don't linger in the Blood Key doorway,
+because there is an SS Soldier, on the other side of the room, who will shoot
+at you through the gap between pillars in the middle chamber. The Gold Key
+is visible there, but you'll need the Artifact of Displacement to get it.
+
+Watch out for the Suicide Clone as you open one of the silver doors to the right
+
+of the Gold Key chamber. Use the door on the right, and kill the two SS Soldiers
+
+behind the columns opposite to you before entering the room. There is also a
+Guard in the forest behind pillars to your left. Grab the SS Soldiers' Ammo 
+before going through the silver door. It leads you to the end elevator area, on
+the other side of the pillars that separate you from the start elevator. If
+you didn't kill him earlier while collecting Secrets, you'll find one Guard 
+between you and the silver door on the other side.
+
+The next room is a mirror image of the one on the other side, before the end 
+elevator area; two SS Soldiers behind columns to your left, a Suicide Clone in
+the room, and a Guard behind pillars in the forest. This time, dispatch the 
+Suicide Clone, then the SS Soldiers, the the Guard. You will waste a lot of 
+Ammo if you try to kill the Guard behind the pillars from a distance - Ammo
+that you'll need in the next room.
+
+Nine or Ten Guards and Officers will pour out when you open one of the two 
+silver doors opposite the SS Soldiers. Open the right door, and retreat to the 
+door around the corner and kill almost all of them on the same spot. Watch 
+out for one or two Officers who may linger on the other side of the central
+chamber. 
+
+Top up your Ammo for the next section, even if it means backtracking several
+rooms. The two doors on the upper and lower sides of the central chamber both
+lead to the same place, a room with a door at upper left, and an area behind
+pillars. There is also a third door, in the middle, which is the passage to the
+Artifact of Displacement, guarded by three Clones. Deafeating them will give
+you the Gold Key.
+
+Through the silver door at upper left, there's a passage with barrels on the 
+right, and a door at the far end. I think all of the barrels will explode. Most of 
+
+them contain toxic sludge. You can bypass this area, and go directly to the
+Gold Key Doors, if you're not playing for Kill, Secret, and Treasure bonuses. 
+
+Your first impulse might be to come in firing, using the door as a shield on your
+
+right. This won't get you far, as you will lose a lot of Health from both the
+barrel explosion and the toxic sludge, not tp mention the mob of Guards who'll
+pour through the hole created by the exploded barrel. Instead of doing this, run
+
+to the door at the far end of the barrel passage, and from the next room, lure 
+two or three of the Guards at a time to the pillared area. You should be able to 
+
+kill them with an MCS rifle from there. Go back along the barrel passage, and
+again drop a couple of additional Guards. You can do it a third time, but by then
+
+only one more Guard is stupid enough to show himself behind the pillars. 
+
+Entering from the rear room, you'll need to explode the first barrel, on your left
+
+as you open the door. You'll take a major Health hit when it blow up. The best
+I could do was 35%, from 200%-165%. Sometimes this first barrel has toxic
+sludge in it, and you take a second Health hit. Sometimes, it doesn't. I'm not 
+if the lack of toxic sludge is a random occurance, or if it's tied to the amount 
+
+of Health lost in the explosion, (a smaller loss being good). If your health goes
+
+down by more than 40%, or if you are exposed to the sludge, try again, if you 
+have the game saved.
+
+The reason you don't want to explode a different barrel is that the one on the
+far end of the passage will explode itself and the next one up, but the one at
+the entrance will explode all of them. Don't try to explode any of the middle
+barrels, because the multiple explosions will be two close, and Guards will fire
+
+on you from both the front and rear. 
+
+When you have cleared the Guards, you'll find a Health room and an Ammo 
+room, and a passage to your left, where you'll have one SS Soldier to make 
+make dead. Your reward is the seventh, eighth, and ninth Secrets, in the upper
+left corner of the hall the SS Soldier is guarding. There's an Artifact of Life, 
+
+an MCS Mk3 rifle with Ammo, and the Artifact of Invincibility, guarded by a 
+Clone, (The Artifact of Invincibility can be seen opposite the Gold Key doors, at 
+
+left, behind a column).
+
+In the right hand corner, opposite the Gold Key doors, you'll find the tenth, and
+
+final, Secret. 
+
+I found the Artifact of Invincibility after clearing the Gold Key area, which 
+contains the Blue Key. It's possible that the Artifact can help you in the Gold
+Key area, but its' position, relative to the Gold Key area, is such that much of
+
+the temporary invulnerability will be lost in the time it takes to get from one 
+
+place to the other. It's use might also prompt you to use too much Ammo, and
+be holding a Knife when the Artifact's power wears off. 
+
+Retrace your steps to the four end elevators. The second from the left contains
+a Suicide Clone. The second from the right will bring you to floor 9.
+
+Floor 9:
+
+Good Knife skills will serve you well on floor 9. The large numbers of enemies
+that you will face at one time, on multiple occaisions, make it very easy to
+run out of Ammo in mid battle. Fortunately, you'll have a nearby nook with a
+90 degree angle, so you can face them one at a time.
+
+Take a ride on the Artifact of Displacement, to the other side of the Blood Key
+doors. A Guard and two Officers stand between you and the Blood Key, which 
+opens several doors on each side of the the two groups of  elevators. If you 
+kill these three with The Knife, you won't have to immediately deal with two
+or three additional Officers who, alerted by the gunfire, will emerge from 
+behind one of the Blood Key doors, and fire at you from the rear. Consider this 
+
+to be a stealth floor. Take advantage of your ability to stab around the corners 
+
+of doorways. 
+
+The first two Secrets are on either side of the Blood Key. Note that, if a 
+Secret push wall has been activated, you must wait until it's completely open
+before attempting to open another one.
+
+With Blood Key in hand, you have the option of chosing from four Blood Key
+doors to begin. Go to the first door on your right, as you leave the rooms with 
+
+the Blood Key and the first two Secrets. Open the door, and run to the Secret 
+Health room. A number of Officers will follow you from behind the Blood Key 
+door. Hide around the corner of the Secret room, and you can kill each of them 
+with your Knife as they pass in front of you. The purpose of this is to thin the 
+
+ranks behind the Blood Key doors, and to conserve Ammo.  
+
+When luring Guards and Officers to the Health secret entrance, always open the
+silver door to the main hall again, after you enter, so that when you open a 
+Blood Key door, you can run back to your hiding place, without being slowed
+down reopening the silver door. 
+
+Repeat this procedure an additional two times, and you should be able to clear
+all of the Officers and the Guard from behind this first Blood Key area. As long 
+
+as there is no gunfire, you won't have to deal with the Officers and Guards 
+behind the other Blood Key doors until you have cleared the first two Blood 
+Key areas.
+
+It's difficult to coax the last Officer out from the Blood Key area on the left. 
+If
+you can't get him in the doorway, try to make him come out, and use the stone
+block across from the door as cover. He will come towards you on the left.
+
+Cross the Hall to the first Blood Key area that you cleared, and fire through the 
+
+columns at the Soldiers in the next Blood Key area. You should probably use an
+MCS rifle at that range. This will not alert the Soldiers in the fourth Blood Key
+
+area, but the same is not true if you try to clear the second room on the left
+first. You'll have a good shooting angle between the wall and the first column,
+and an even better one after crumbling a few columns. Watch out for one 
+Officer, (sometimes two), who will exit the door, and try to come around behind 
+
+you. Exit through the first Blood Key door on the right, rather than the second.
+
+
+There are two Officers and one Guard behind the last Blood Key door, at upper 
+left. They will stay in their room until you arrive, if you go back into the hall 
+
+through the first Blood Key door on the right. If you exit to the hall from the 
+
+second Blood Key area on the right, (or if you remain in the hall itself too long, 
+
+without moving), they will come out on their own accord. 
+
+You'll find the third, fourth, and fifth Secrets as a series of push walls in the
+
+second Blood Key area on the right. It's a valuable Secret, (four Artifacts of 
+Life, and some Treasure), but it's heavily guarded by 16 or 17 Suicide Clones 
+and two regular Clones. Before entering the Secret area, however, you should 
+first clear the second hall to your right, past two additional pairs of Blood Key 
+
+doors, (the first pair return you to the elevator area where the floor starts). 
+
+Use this opportunity to top up your Ammo before proceeding. 
+
+When clearing the Secret area, back up from the door, and let Suicide Clones
+come to you. You can kill 8 or 9 of them before actually entering the room. 
+Avoid tight corners, as they are often primed for detonation. Go right, and 
+circle. Clear the perimeter before entering the middle area. 
+
+As you navigate this third Blood Key hall, you'll see two Bronze Key doors on
+your far left and right, and two wooden doors at the top. The sixth Secret is 
+on the right side wall, just before the plane created by the two Bronze Key
+doors. Watch for a couple of Officers coming out of the wooden doors, which 
+lead to a washroom. Beyond the washroom, there is another corridor, with
+a second set of Bronze Key door at either end. An SS Soldier will fire at you 
+from the left, then pursue you down the hall. Stay out of his sights, and the 
+Artifact of Death, in the middle of the corridor, will kill him for you. 
+
+Behind the Bronze Key doors, there are at least 20 Soldiers; mostly Officers,
+but a few Guards, SS Soldiers, and a couple of Suicide Clones.  Sometimes they 
+will remain behind the Bronze Key doors when you go return to the washroom 
+after clearing the Secret area. Other times they will pour out as soon as you 
+cross the plane of the Bronze Key doors in the hall.
+
+They poured out the first time I played this section, but not when replaying for
+
+these notes. Whether or not they pour out is not tied to your Health level, as
+I've passed the Bronze Key doors with 200% Health, and also lesser amounts.
+It's also not triggered by gunfire. It may be tied to the amount of Type 1 or 2 
+
+Ammo that you have, or where and how you killed some of the Soldiers, or 
+perhaps whether or not you've had any loss of Health to date on this floor, (I
+hadn't had any at the point where they poured out). My guess is that it's tied
+to Ammo, because this doesn't seem like a random element. I had fairly low
+Type 1 Ammo when they poured out.
+
+If they pour out, go through the washroom door, and through the door at the 
+back. When you see two more doors ahead of you, go through the right side 
+door. A Clone will be behind an exploding barrel around the corner to your right.
+
+Kill the Clone WITHOUT exploding the barrel; you'll need it to prevent any of 
+the hoarde from attacking you from behind. Make your stand in front of the
+exploding barrel, and wait for the flood of Soldiers to find you. If you're really
+
+good with The Knife, you can kill 12 Soldiers, (mostly Officers, but at least one
+
+Guard and one SS Soldier), with The Knife. You'll have to switch to a firearm 
+before the Suicide Clone arrives, (there will be a lull of a few seconds, and 
+usually another SS Soldier will precede the Suicide Clone). If any of the Soldiers
+
+hits you while you are trying to stab them to death, the Suicide Clone will 
+appear sooner, perhaps as the fifth or sixth to reach your position. Don't 
+attempt to kill the Suicide Clone with your Knife.
+
+A few Officers will hang back in the gray corridor with the Artifact of Death. 
+If you open the wooden door on your right, you can draw a couple more in to the
+killing zone. When no more come after you, it's safe to procede to the next 
+room, to your left in the room with the exploding barrel. Once again, poke your
+head in the doorway, withdraw, and let several Suicide Clones come to you, and 
+take them out from a reasonable distance. Enter the armory, and go right. 
+Watch for two Suicide Clones in between the second and third Ammo cabinets.
+One more Clone is in the upper left corner of the room. 
+
+When you have cleared the armory, go through the door at the far end, near the
+last dead Clone. Go through the white brick and the wood panelled passages. 
+Past the door at the end of the wood panelled passage is the Bronze Key. 
+
+If you faced the flood of Soldiers, this next part is fairly easy; grab the Bronze
+
+Key, and pick off the two Officers on the other side of the pillars. If you have
+
+yet to face the Soldiers in the Bronze Key area, there will be many additional
+Soldiers, mostly Officers, firing at you as you attempt to grab the Key.
+
+The room with pillars, adjacent to where you found the Bronze Key, has two
+entrances, one is the left side Bronze Key door, from the hall. The other is from
+
+a silver door that is across from the side door of the armory. Other than the 
+two Officers who attempt to keep you from the Bronze Key, there are two 
+Guards in the room. The Guards will not approach the pillars, so you'll have to 
+
+enter the room to kill them. 
+
+If you don't face the flood of Soldiers from the Bronze Key doors, the room with
+
+the exploding barrel will have two additional Clones and a Guard in it, (plus the
+
+Clone behind the barrel). 
+
+It's a whole lot easier if there is no flood of Soldiers, as the twenty or so 
+enemies will be spread out through three rooms. Don't use the gray corridor to
+move between Bronze Key areas, or you're likely to cross the Artifact of Death,
+and it's life over. 
+
+The other Bronze Key door, at far right, will lead you to the area where you'll 
+
+find the Gold and Blue Keys, Artifacts of Life and Invulnerability behind 
+crumbling columns, and the final two Secrets. 
+
+After clearing the initial Bronze Key rooms of Nazi vermin, advance around the
+double Gold Key doors, into the area where Heath and Type 2 Ammo reserves 
+are behind columns. Use your Knife to crumble the appropriate column on each 
+side to get your supplies. 
+
+The silver door opposite leads to a corridor where there are three Gold Key
+doors and an open passage on each side, and the end elevator facing you. 
+Entering this corridor will prompt some SS Soldiers to come out from behind
+Gold Key doors. They can be lured into the previous room to taste your Knife. 
+There are also two Officers waiting in the open passages at the far end, near the 
+
+end elevator. They, too can be stabbed, but one might go through the first or 
+second Gold Key door on your right. If you follow him, you will be stuck behind
+a locked door without the Key, but fear not; there is a column that will crumble
+
+from either direction, allowing you access to the right side passage near the
+end elevator. You should let him go, though, and get him later, when you have
+the Gold Key. 
+
+You'll find the Gold Key behind the second column on the left side passage, very
+
+close to the elevator. The Blue Key is towards the end of the right side
+passage, guarded by a clone. The column in the corner, just past the Blue Key,
+crumbles, and behind it is the seventh Secret. There are three passages; Clones
+are at the end of two of them, and the third is an Artifact of Displacement. 
+Before exploring this Secret, however, clear the areas behind the six Gold Key
+doors in the corridor. There is some Treasure, and Artifacts of Life and
+Invulnerability behind crumbling columns. You won't necessarily have 
+Invulnerability long enough to reach the Artifact of Displacement, and clear the 
+
+area to which you are transferred. 
+
+The Artifact of Displacement brings you to an area where you'll have to fight
+several Clones. The eighth and last Secret is just to the right of the Artifact
+of Displacement on the other side. The return trip will bring you back to the
+original starting elevator, from which you can pick up any needed Health or
+Ammo, and any remaining Treasure items, before making your way back to the
+end elevator. You'll face the second Boss on floor 10.
+
+Floor 10:
+
+Exploding a large number of Suicide Clones is your first challenge on floor 10.
+Go straight ahead, to the middle, where there are no exploding barrels. Using
+your Machine Gun, pick a spot between the stone block and non crumbling
+column. Fire repeatedly, allowing Clones to move into the bullets. Don't aim
+for individual ones. Stop firing when you've hit about 4, and wait for some 
+others to move to the center. When you're down to 3 or 4, shoot at the first
+barrel on the right, using the elevator area for cover. One of the three exploded
+
+barrels should be free of toxic sludge. Expect to use a lot of rounds on these 
+Clones. If you use 65 or less, you've done well. More than 70 is too many.
+
+Around the corner right, near the Health Box, you'll find the first two Secrets.
+
+The Artifact of Invulnerability is behind a crumble column, as is the second.
+
+Go through the silver door, and find the Bronze Key in the first room on the 
+right, guarded by two Officers. At the top of the wood panelled passage, there's
+
+a washroom, with two Guards and Two Officers in the upper stalls. You can use
+your Knife to reclaim some of the Ammo lost killing the Suicide Clones. 
+
+The Bronze Key door opens to a hall where several Officers are patrolling. They
+can be lured out for stabbing, usually four in a row. Just around the corner to 
+
+the right of the Bronze Key door is a good place from which to stab. If one of 
+them hits you, though, they'll spread out, and be more aggressive, so you'll need
+
+to use a gun. 
+
+Clear the hall Officers before entering the hall itself, or you will have to face 
+
+Officers from the rooms on the left from a disadvantaged position. If you must 
+use a gun on the hall Officers, try to have the Bronze Key door closed before you 
+
+shoot them, else those inside will hear you, and will come out before you want 
+them to.
+
+There are two doors on your left in the Bronze Key hall, and the Blood Key door
+at far right, around the corner. Behind the two doors to the left are several 
+Officers, and 4 SS Soldiers, who will remain behind. Open the second door on 
+the left, and run to a spot near the Blood Key door, where you will have a good 
+
+shooting angle for the corner. Wait for the Officers to come to you, and pick 
+them off with your Machine Gun as they round the corner. If they are already 
+aware of you, try to get to the same spot near the Blood Key door; don't attempt
+
+a firefight out in the open.
+
+You can reclaim 16 rounds by killing the 4 SS Soldiers with The Knife. There 
+are two in each room, on either side of the wood block as you enter the door.
+Move into their field of vision, and withdraw slightly, and let them come to you.
+
+
+There is some Treasure behind the blocks, and the Blood Key in the second 
+room. 
+
+Take note that the room where you found the Bronze Key is between the two
+rooms on the left. In the Bronze Key room, the Blood Key can be seen on your
+left, and the Treasure on the right. I thought this was a coding error, until I
+checked the distance between the left side rooms. 
+
+Backtrack to replenish your Health and Ammo, if necessary, before advancing
+through the Blood Key door, where you'll use the Artifact of Displacement to
+move past the three columns behind it. 
+
+You have a few Clones to remove in the initial hallway past the columns, before
+entering the large room, where you will face Hirohito Hyoto, the second Boss, 
+along with 14 Clones. There are 6 Clones that you should take out before facing
+the Boss, and 2 more while fighting him. Go around the wood enclosure to your
+left, and get the two who will see you, at mid and upper left. Repeat this 
+procedure on the right side. Next take the two in the central wood section, on
+each side below the MCS rifle. 
+
+You'll engage Hirohito Hyoto as soon as you advance past the midpoint between
+the central wooden area and the cubicles above. Use The Machine Gun initially,
+until you have killed the two Clones waiting at far left and right, just above the
+
+line where you're introduced to the Boss. Go around the left side, and when you 
+
+hear him, retreat back to the lower left hand corner of the central wood
+enclosure, and wait. Fire a few shots at him to get his attention, and retreat to
+
+the lower right hand corner of the enclosure. Hirohito Hyoto is one of the
+smarter Bosses that you'll face in Wolfenstein games, in that his movements
+are unpredictable. When he's out of sight, he may go towards you, around 
+behind you, or through the middle of the enclosure, very close to you. If you 
+don't know where he is, wait diagonally below one of the lower corners. You
+will be able to see at least part of him before he can shoot at you with either
+his Chain Gun or Rocket Launcher. 
+
+When you have him coming towards you, but he's a fair distance away, use the
+opportunity to kill one, then the other Clone at far left and right. You'll finish
+
+off the other six Clones after offing the Boss. Once you've downed the two 
+Clones in the side walls, switch weapons to the MCS Mk4 for the rest of this 
+section. There are a lot of Type 2 Ammo reserves on this floor, (much of it 
+hidden in Secret areas), but relatively little Type 1 Ammo for The Machine Gun.
+
+Keep all of the battle with Hirohito Hyoto in and around the central wooden
+enclosure. Fire some shots, duck around the corner, and wait until the rocket
+smoke passes you before getting back in his face. Circle around the wooden
+encloure, and fire at him from the corners, then move to the next corner, and
+repeat. His bloody corpse surrenders the Gold Key to you.
+
+There are a lot of Health items strewn about the floor, if you take some major
+hits from the Boss.
+
+Hyoto's weakness is that it takes a moment for him to aim, and at a decent 
+range for your MCS Mk4, his rockets take a while to reach you, so if you 
+remain calm, he can be killed without any loss of Health to you. 
+
+Be aware of the Ammo reserves in the corners of the room, but be wary of 
+them, as well. Run quickly into the lower corner ones when the Boss is far
+away from you, but don't let him trap you in there. Leave the two at upper
+left and right until after you have killed the remaining 6 Clones. 
+
+There are ten Secrets in the area where you find Hirohito Hyoto, one triple
+push wall at lower right, which has a single Clone defender, and three pairs of
+push walls near the other three corners, each of which cuts off a small corner
+of the room perimeter. There are 140 Type 2 Ammo rounds for your MCS rifles
+in each of two Secrets. Note also, the Artifact of Life on the upper side of the
+
+central wooden area. 
+
+You'll have to shoot through a torch to find the last secret, which will also
+bring you to the elevator to the ultra secret floor, the Pac Man floor 22.
+
+The Gold Key door at the top of the room reveals the Artifact of Displacement. 
+Make sure that you are moving forward as you touch the Artifact, and continue
+to move forward as it works its' mojo, otherwise you may find yourself on the
+wrong side of the pillars. It's as if the two Artifact of Displacement are right
+
+in front of you, and if you don't clear the second one, you make two jumps 
+instead of one. 
+
+Six Clones guard the Blue Key, behind the side Gold Key door. go around the left
+
+side, quickly past the side entrance to your right, and smoke the three at the 
+top of the room first. Two of the 3 in the center will probably be standing at 
+attention, and will be easy pickings. 
+
+The Blue Key opens the elevator behind the Gold Key door, directly opposite
+the Blood Key door. 
+
+This is a 15,000 point bonus floor for killing a Boss. If you're playing for 100%
+
+Treasure, go back to the first Secrets, near the opening elevator, and retreive 
+
+the Artifact of Invincibility, if you haven't used it already. 
+
+
+
+
+
+
+  
+
+
+             

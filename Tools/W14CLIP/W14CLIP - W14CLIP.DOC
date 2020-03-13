@@ -1,0 +1,108 @@
+W14CLIP was programmed using GEU (Game Enhancement Utility)
+GEU is Copyright 1993, Ralun Programming Ventures
+Windsor, Ontario
+Canada
+
+No Clipping Code Module for Wolf 3D v1.4 (Shareware Version)
+
+อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+This GEU module will restore the 'no clipping' mode in Wolf 3D v1.4 (both
+shareware versions of v1.4). The built-in debug modes will be also be
+restored if you have a version in which they are not working (shareware
+versions only).
+
+Instructions:
+
+Run W14CLIP.EXE from the directory where your WOLF3D.EXE file exists.
+This program will append the 'no clipping' code module to your WOLF3D.EXE
+file. After WOLF3D.EXE has been updated, W14CLIP.EXE is no longer needed.
+
+Please refer to the separate document file included with this archive for
+details on using the 'no clipping' and/or debug modes.
+
+ออออออออออ
+
+þþþþ GEU
+     Game Enhancement Utility
+     Copyright 1993, Ralun Programming Ventures
+
+        GEU (pronounced "goo") is written in individualized, unique versions.
+     Each individual version of GEU is specifically written to enhance only
+     one particular game and/or game version. There are currently 65 versions
+     of GEU, each for a different game software program and/or version.
+
+þþþþ What is "GEU" ?
+
+        GEU is a software utility that allows you to enhance gameplay in
+     over 60 popular titles of entertainment software written for IBM PC/AT
+     or compatible personal computers. Each version of GEU will offer
+     slightly different enhancement features dependent upon the features of
+     the game it is intended to enhance.
+
+        GEU gives control of the game variables to the game player. Game
+     variables such as health, weapons, ammo, character level, play level
+     and much more can be controlled by the game player with only a few
+     keystrokes (each version of GEU is different, some versions will have
+     less controllable variables than others). All game variables are
+     controlled via memory in real time while the game is being played!
+     GEU can be enabled, disabled and re-enabled at any time during play.
+
+þþþþ Notes about this demo version of GEU
+
+        A new demo version of GEU is released each month (since 7/93).
+     The demo version is specific for one current or new game title.
+     The demo version will serve as a sample of the other full versions
+     of GEU available from Ralun Programming Ventures.
+
+þþþþ Disclaimer:
+
+     GEU
+     Game Enhancement Utility
+     Copyright 1993, Ralun Programming Ventures
+     All Rights Reserved
+
+     Ralun Programming Ventures (RPV) makes no representations or warranties
+     with respect to this software or documentation, and specifically
+     disclaims any express or implied warranties of merchantability or
+     fitness for any purpose.  Further, RPV reserves the right to make
+     changes to any and all parts of the software, at any time, without
+     obligations to notify any person or organizations.  RPV will not be
+     liable for any special, incidental, consequential, indirect or
+     similar damages due to loss of data or any other reason even if RPV
+     has been advised of the possibility of such damages.  In no event
+     shall RPV's liability for any damages ever exceed the price paid for
+     the license to use the software, regardless of the form of the claim.
+
+     RPV's documentation may make reference to titles of entertainment
+     software which may be the trademarks of other authors, distributors
+     and/or publishers of entertainment software. All known trademarks will
+     be acknowledge when referenced. Ralun Programming Ventures is in no
+     way affiliated with ANY of the authors, distributors and/or publishers
+     of the entertainment software referenced in this documentation.
+
+     Furthermore, the use of the GEU software utility has NOT been approved
+     for use by any author, distributor and/or publisher of any entertainment
+     software referenced in this documentation.
+
+þþþþ อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+     End of general documentation.
+     The above documentation is a general description of the GEU software
+     utility. This general documentation is found in every version of GEU.
+
+ออออออออออ
+
+End.
+
+     (Note:  Certain shareware distributors require that instructional or
+      identification material be appended to the documentation file or
+      placed in a separate file to be included with the original program
+      files.  The author grants permission for this documentation file to
+      be modified for this purpose provided that the original text is left
+      intact.  The author also grants permission for additional files to
+      be included for this purpose provided that they are clearly identified
+      as not being part of the original program.  This program may not be
+      sold, however a reasonable service charge (not to exceed $7) may be
+      charged to cover shipping and handling.)
+

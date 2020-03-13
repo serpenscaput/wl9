@@ -1,0 +1,253 @@
+  				  ALL THIS & WOLF 3D
+           				   MANUAL
+
+SPECS
+
+This read-me works best with "Wordpad". If you open it up in WinWord, it's filled 
+with words it don't get, so please... Open it here... :-)
+
+INTRODUCING
+
+This is "All This & Wolf 3D", created by me, Thomas Weiling, and EXE compiled by 
+Chris Chokan. It started to boil when Chris sent me a fun new EXE in June, July or 
+August 2005. In November I really began to work on it, and on November 25, 2005 the 
+first level was done. It was finished during the end of January 2007. I made all 
+maps myself using MapEdit v8.5, except for level 69, made by Chris. For the coding, 
+he used Watcom and Borland. Originally, it used the 4GW-stuff.
+
+It is the first Wolfenstein 3D mod release which has more than 60 levels (Correct 
+me if I’m wrong).
+
+
+CODING CHANGES INCLUDE:
+
+- Ten more maps
+- More static objects allowed
+- More guards allowed
+- Seamless levels
+- And other hex editing...
+
+
+WHY ARE THERE TWO EXEs, AND WHICH ONE SHOULD I USE?
+
+Normally, both exes should work the same on most computers, but here's the list of 
+changes in ATAW1.EXE:
+
+- Ripper's No Scalers tutorial was added
+- Handles the Windows scancodes better (LShift, Arrow Keys)
+- Uses one sound table in far memory instead of two in near memory
+- The VBLs are set to 1 to avoid flashing gray lines on really fast monitors
+- Spotvis gets cleared every 4 tics instead of every 8 tics
+- Removed the DONOTHING (space bar) sound
+
+ATAW1.EXE is more of an upgraded version for Windows, and also gives you a lot more 
+free memory to work with.
+ATAW2.EXE is closer to the oldschool Dos version, and should run smoother (with a 
+better FPS rate) in that environment.
+
+So it's really up to you. I mainly use ATAW1.EXE in Windows XP and ATAW2.EXE in DosBox.
+
+If you run into any memory or performance issues on one exe, you might get better 
+luck out of using the other one.
+
+If you notice any bugs, feel free to send them to choksta@hotmail.com. I'd enjoy 
+hearing about them.
+Note: One I'm aware of is the occasional vertical line/gaps on walls bug, the latter 
+also being present in the original wolf3d.
+
+
+HEY, I LIKE TO SAVE AT THE START OF EVERY LEVEL!
+
+Hey, me too! I remember having to use like 5 separate saved games folders in addons 
+like Schabbs2000 for that.
+Alternatively, ATAW automatically saves your stats after every level, so you can 
+have up to 70 checkpoints per game!
+
+How does it work? After you load a saved game, just press F1 if you want to resume 
+the game from an earlier level.
+
+
+
+STORY
+
+1945.
+
+Rumour has it, that mystic stuff is going on in a distant castle in Germany. The 
+locals in the area say that it has been taken over by the Nazis. But what would the 
+Nazis use an old castle for? 
+
+Mystic experiments have been going on in the laboratory areas... More than a million 
+mutants are ready to expand the Nazi territory. Therefore, the leader Hitler is planning 
+to invade USA in about a couple of weeks, so the OSA must set their best spy into 
+this case. B.J. Blazkowicz it is, 33 fearless years old and the direct opposite of 
+a rookie.
+
+You must find Hitler, and kill him! That is your mission. There are 70 floors in 
+this big castle, so you must be strong and take a lot of consequences here. 
+
+LEVEL GUIDE
+
+This castle is split up in several units; all of them have a different objective. 
+
+
+LEVELS 1-10: LOWER CASTLE.
+
+These first ten levels is a compilation of tunnels, bunkers and quarters. You’ll 
+be set at the fortress to a big castle entrance. The second level is a tunnel, and 
+there are more specific levels as long as you get up the unit. It all fades out in 
+level 9, a big, slimy, mulch-filled maze, and then level 10, which houses the boss 
+of this unit, the veteran Hans Grosse.
+
+LEVELS 11-20: LOWER MANSION.
+
+As you defeat Hans Grosse, you’ll come to this unit. It’s kind of like the first 
+unit with all the variations. Level 11 is the officers’ lounge, which has only officers 
+and dogs guarding it. Level 12 is a slimy passage, and then from level 13 and up 
+it’s a mansion. Housing a lot of guards, and is mainly just a lot of barracks. Level 
+16 though, is a prison level, which has only the Wehrmacht guards, and level 20 has 
+this unit’s boss. It’s General Fettgesicht, guarded up by many guards in a cavy complex. 
+How Episode 6 is that?!
+
+LEVELS 21-30: LOWER SECURITY.
+
+As the name says, this is the lower security unit, therefore a lot of guards. Although 
+the action doesn’t start until level 23, which is a compounded “doghouse” and bunker. 
+Level 21 is an older bunker unit, and hasn’t got as many guards as the rest of the 
+unit. Level 30 is the final level here which houses Otto von Giftmacher as a guard. 
+His big mansion is filled with a little too many guards, but as he’s known for there’s 
+a lotta officers in there.
+
+LEVELS 31-40: THE LABORATORIES.
+
+These ten levels are completely different from the others. No bunkers here. Here, 
+you will infiltrate Dr. Schabbs’ huge laboratory unit, with has almost only mutants 
+as guards. The first level is an entrance, which you will enter quite fast. The labs 
+are big and filled with creepy experiments, and there are some few guards, mainly 
+officers, besides the mutants. The next level is a lab-cellar, and then you will 
+get to the straight labs. They're extremely dangerous and very difficult. Level 38 
+is a waste lair, which is a big nuclear deposit hidden in realms of mutants and steel 
+panels. Level 39 is the final lab, before you will reach Schabbs combined experimental 
+area, nuclear barracks and laboratory, which is known as his "House of Death".
+
+LEVELS 41-50: UPPER CASTLE.
+
+After you killed Schabbs you come to the second part of the castle. It’s in similar 
+style to the very first unit, except that it’s more guarded and the levels are bigger. 
+It takes some time to get through most of the levels. Levels 45-47 is said to have 
+“crazy mutants”, meaning they killed all the other guards and took over the regency. 
+It all ends out in level 50, Trans Grosse’s office, where he resides guarded up. 
+I bet he’s mad about what you did to his brother in the first castle unit…
+
+LEVELS 51-60: UPPER MANSION.
+
+These ten levels are too similar to the first unit. This has almost the same thing. 
+It’s a mansion. Even though that there’s more guards here and that the levels vary 
+in style. All of the levels are difficult to come through. Like the first unit, this 
+also mouths out in a big slimy portal. Even though this is not the main castle, level 
+59 is a castle level, but in style to the mansions. Level 60 houses the second-final 
+boss, Gretel Grosse. She’s more pissed than Trans, now that he’s dead too…
+
+LEVELS 61-70: UPPER SECURITY.
+
+You've finally approached the last part of the castle. There isn't much difference 
+from the last twenty talking amount of guards, but they've found better hideouts. 
+You're often surrounding by them, and it's no surprise. The leader of all this, Adolf 
+Hitler, is on the last floor waiting for you. Many of these levels are similar to 
+those in the lower security unit, until you arrive to level 68. Nobody knows what 
+really houses in this level, but it’s rumoured to be haunted. It takes time to get 
+through that place, and it’ll be hard to get a rest here. Level 69 is a proponent, 
+as it’s completely unknown what’s here. The level doesn’t exist in your orders given, 
+nor does it in the castle index. After that, you will go to floor 70, where the only 
+given information tells you it's big, it's difficult and you'll die instantly if 
+you haven't got the guts. Nobody's sure of Hitler really resides here, but instead 
+he resides in a hidden cellar. It's only a rumour though...
+
+
+NOTES
+
+- It doesn’t matter if you read this after or before you’ve finished the game. You 
+might notice that levels 2-7 and 16 aren’t as similar to my style of mapping as the 
+other ones. That’s because they were made in the first period of ATAW (November 2005-January 
+2006), and since level 8 my skills grew. I also had a big change of skills in April, 
+May and June 2006 as I played some of the other mappers than Gary and BJ Rowan’s 
+games. In the final period (October-December 2006) I got very inspired by WSJ and 
+ack, I don’t know if you notice it.
+
+- I know some of you noticed the first release of ATAW, on May 18 2006. Please, do 
+not judge from there, and just play this. Perhaps it’s the same maps and all that, 
+but this is completely different. I regretted the release sooner on, when I suddenly 
+continued working on it in June. It’s now deleted from the news and the server and 
+is forgotten except in your minds! Please refer to the demo from April 14, which 
+is good, and to me stands as a “promotional beta-version”.
+
+
+SO, WHY DIDN'T YOU FOLLOW THE NEW MODDING STYLE?
+
+Why am I making games which use the original base (Nazi Operation for example)? - 
+I really like it. Classic Wolf has always been my business. And it has been a lotta 
+fun being in Wolfenstein's modding world for almost three years. When I joined DieHard 
+Wolfers Forum in 2004, I was the biggest "noob" of them all... I think. I wish I'd 
+been in Wolf Community when it started all back in 1998 or something... I like surfing 
+the Dome Archives through to see all the old, good working, when exploding oil drums 
+was phenomenal, when Totengraeber was the best and all the good old pioneers tried 
+their way through. Classic Wolf was also good back then and "mods" in particular. 
+With changed graphics, sounds and such... This expired me to Abandon and other mods.
+
+
+I love to play amazing games such as Orb of Dilaaria, Spear Resurrection, Double 
+Trouble, and Operation Todpfad and of course End of Destiny, but I don't mod those, 
+because I’m bad at this. All that nice coding doesn't get to me at all. Though, I 
+found mapping for these very interesting, and I'd love to try it out once. Perhaps 
+that's possible nowadays, now the End of Destiny-source is out. :-)
+
+
+OTHER MODS BY ME
+
+Abandon "v0", September-October 2004 (Never Finished)		|
+Abandon, September-November 2004 (Still remains unfixed)		|
+Operation: Achtliebe, November-December 2004 (Never finished)	|
+Project: Wolfgeist, December 2004-February 2005 (Failed)		|	"POSSUM TROT" PERIOD
+
+Schabbs 7000, February 2005 [Released May 2006] (Never Finished)	|
+Abandon 2: Purgatory! February-March 2005 (Failed)			|
+Secrets of Offenbach, February-July, 2005 (Failed)			|
+	
+If you can read this, you are a moron! Haha! Anyway, mail to thomasweiling@hotmail.com 
+if you read this, and you'll get a gift! 
+Very Avant-Garde, huh? ;-)
+
+
+Nazi Operation, July-December 2005					|	        PRESENT PERIOD					
+
+So actually, in my own mind, I’ve only released one good game, "Nazi Operation". 
+In the future it'll be the only mod I'll list, also because in my first and baddest 
+Wolf-period I was known as "Possum Trot". Please bear with me on that one, okay... 
+There's another game I like myself though. The game "Quest for the General" didn’t 
+go official, because I’m tired of all those unfinished games of mine around. Some 
+of the maps have been used in a mapping contest and reconverted to this game. It's 
+not all of them, though. Only a couple of them. If you're interested getting it, 
+send me a mail and I'll link it. Or find it in some DHW-thread. I often yap to much 
+about games and stuff which I really should keep secret. But still, my entire first 
+mods still suck, and remain unreleased in the newbie modding wasteland, but what 
+the heck, as MCS said once, we were all newbies.
+
+Regarding my mods, they can be found at the Wolfenstein 3D Dome, which has been my 
+“second home” for more than three years now.
+
+
+CONTACT
+
+Feel free to drop a comment or two about the game, and if you have questions, you 
+can mail me at thomasweiling@hotmail.com.
+
+
+CREDITS
+
+Chris Chokan - Coding, level 69 (Made especially for this game)
+Dean Horton - Beta testing
+Brian Lowe - Distribution
+Majik Monkee - Shower sprite (Edited by Me)
+Ringman - Checkerboard graphic, stained glass graphic
+
+… And of course id Software and the MapEdit-team for their great games and utilities. 
+Keep on wolfing!

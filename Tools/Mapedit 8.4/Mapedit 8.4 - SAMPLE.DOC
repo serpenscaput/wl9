@@ -1,0 +1,44 @@
+                           Sample Floor
+
+Blake Stone contains a number of features not found in either of its very
+successful predecessors - Wolf3D and Spear of Destiny. The document BSTONE.DOC
+explains what each of these new features is, but there's nothing like being
+able to see how they are laid out on a map in MAPEDIT. For this we have
+prepared a sample floor for you to view while reading the explanations for
+these features in BSTONE.DOC. After viewing the sample floor, you may want
+to take a look at some of the floors of the real Blake Stone levels to see
+if you can decipher what is going on in each level. When you start MAPEDIT,
+you'll need to press the 'L' hot-key to be sure all the LHV codes show up
+(they are displayed as square white blocks with a red center).
+
+While the sample floor is "playable", it offers no challenges and is almost
+completely bare of any of the usual "amenities" found on a real Blake Stone
+floor. But you may find it helpful to import the sample floor and walk through
+it to see what happens. IMPORTANT: Be sure to save the floor on the level you
+use to import the Sample floor BEFORE importing.
+
+The following features have been implemented in the sample floor:
+
+1) Automatic doors
+2) Multiply linked doors
+3) Barriers and barrier switches
+4) Teleporters
+5) Time delays on Smart guards (Alien pods and Plasma generators)
+6) Bio-Techs and how and where they get their messages
+7) Food units.
+8) Ceiling/Floor texture implementation
+9) Ceiling/Floor color implementation
+10) The use of Guard Blocking codes
+
+Once you understand how the above are implemented, other features should not
+be a problem for you.
+
+In column 2 of the sample floor you will see an example of what happens when
+storing LHV coordinates somewhere in the first 3 columns of the map. In this
+case, coordinates were use to link several doors together. Both MAPEDIT and the
+Blake Stone game will be confused by this. See page 23 of MAPEDIT.DOC for an
+explanation of what has happened here.
+
+A map of the floor can be printed to assist you through it. The map file is
+named SAMPLE.PRT. Just use a DOS copy command to print it.
+

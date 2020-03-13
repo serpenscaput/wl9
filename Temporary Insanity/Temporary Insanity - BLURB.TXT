@@ -1,0 +1,53 @@
+Are you bored by the Nightmare Missions?  Tired of authors who think 
+making a "harder" level means adding more bad guys?  In search of 
+something *completely* different?  Nathaniel Rudiak-Gould has spent many 
+months finding bizarre bugs and quirks in the Wolfenstein 3-D engine and 
+turning them to his advantage.  Now, for all you Wolf3D connoisseurs, we 
+present: _Temporary Insanity_.
+
+_Temporary Insanity_ is a set of thirty Wolf3D levels in 6-episode 
+format.  (Don't bother converting them to the shareware level format--
+they won't work.  3-episode *might* work, but we haven't tested it.)  
+Some of these levels were previously released as "Nat's Wolfenstein 3-D 
+levels," but most are completely new.  Each of the levels uses both keys 
+and fills the entire map.  Just like in the original levels, you'll 
+start in a jail cell, but this time it's locked... and you don't have 
+the key.  It gets worse from there.
+
+These levels use tons of neat effects you have probably never seen 
+before: walk-through walls, walk-through objects, self-moving blocks, 
+invisible enemies, statues that spring to life when you shoot them, 
+areas where you move uncontrollably, red-hot walls (don't stand too 
+close!), locked doors that can't be opened with either key, forcefields, 
+areas that can only be reached on certain difficulty levels, time limits 
+(no, not par times, actual time limits enforced by the game), places 
+where winning depends on knowing who *not* to kill, mazes where facing 
+the wrong direction can be fatal, two secret levels for Episode One, and 
+much more!  All of this is done without modifying the Wolf3D program in 
+any way.
+
+Along with the new maps, we've included Nat's 40-page hint file for all 
+thirty levels and his add-on map pictures that allow you to see the 
+levels correctly from the map editor.  (PLEASE only look at levels that 
+you have already completed.  You may never find many of the neatest 
+things in the levels if you cheat, give up, or look at the maps, so use 
+the hint book when you have trouble.)
+
+*All of these levels can be won at all difficulty levels*.  This isn't 
+as obvious as it seems.  Many people have emailed us complaining that 
+Nat's levels are impossible.  In one level, for example, you will start 
+in a room that is completely walled off, and from which there is 
+obviously no way out.  You could even ignore our advice and use the map 
+editor to look at the level, and you would still see that there is 
+obviously no way out.  Don't be fooled.  There *is* a way out.  And if 
+your gun suddenly starts to fire uncontrollably, or you suddenly can't 
+use your gun at all, don't send a bug report to us (or Apogee!).  It's 
+all part of Nat's evil plan.
+
+We appreciate all responses, so send all your questions and any comments 
+on how you like the levels to benrg@uclink.berkeley.edu.  Enjoy... and 
+good luck getting out of the first room!
+
+        -- Nathaniel Rudiak-Gould (the guy who designed the levels)
+            and Ben Rudiak-Gould  (the guy with the email address)
+

@@ -1,0 +1,28 @@
++------------------------------------------------------------+
+|                                                            |
+|        ESCAPE! WOLF SPEAR OF CASTLE DESTINY'S CHILD        |
+|                ~I'm a rogue survivor in 3d~                |
+|                                                            |
+|                                                            |
+|                                                            |
+| GET PSYCHED!                                               |
+|                                                            |
+| ARE YOU A BOOTYLICIOUS ENOUGH BABE TO RESCUE YOURSELF?!    |
+| KIDNAPPED! By Dragon Ninja or Nazis was it? Ah who cares.  |
+| All you gotta know is that you gotta breakout and take     |
+| revenge. Because your body is too bootylicious for them,   |
+| so you gotta take some guns and shoot their brains out.    |
+| Babe.                                                      |
+|                                                            |
+|                                                            |
+| Some Stuff                                                 |
+|                                                            |
+| - Tested on "Bring 'em on!" difficulty.                    |
+| - Standard Wolfenstein 3D controls.                        |
+| - Wolf4SDL port included for ease.                         |
+| - Hidden life in there somewhere.                          |
+| - Lots of ammo but try to conserve it just 'cos.           |
+| - Go get the chaingun and kill Hans already.               |
+|                                                            |
+|                                           love, PizzaTime! |
++------------------------------------------------------------+

@@ -1,0 +1,158 @@
+
+>>THIS IS THE TEST VERSION OF "DEAD WORLD RISING", NOT THE FINAL VERSION.  THERE 
+ARE ONLY TWO LEVELS, AND IT CUTS OFF AFTER THE SECOND ONE.  REPEAT, THIS IS ONLY 
+A DEMO!<<
+
+"Dead World Rising" A new "DOOM" Adventure
+A Wolfenstein 3-D Mod using the "Final Solution" Version 3.0
+Using content from "WolfenDoom" and "TRAGEDY AT ISTANBUL III- EVIL IN IRON: Special 
+'DOOM' Version"
+
+Mod by R. DuHamel (wasabi_zero2002@yahoo.ca)
+"Final Solution"(Ver.1.0, 2.0, 3.0) by Tristan Van Putten (tvanputten@yahoo.com)
+
+"Wolfendoom" by AReyeP (Steve Walley) (areyep@iaa.com.au)
+"TRAGEDY AT ISTANBUL III- EVIL IN IRON: Special 'DOOM' Version"  By John Bucksnort 
+(john_bucksnort@yahoo.com)
+
+BEFORE YOU PLAY:  I chose "The Final Solution" as the platform to build my mod on, 
+as it had many interesting features that I couldn't find in any other port of "Wolfenstein" 
+or "Spear of Destiny".  I congratulate Mr. Van Putten for his excellent work on "The 
+Final Solution", and I hope he don't mind me using it.  I also wish to congratulate 
+AReyep for his work on "Wolfendoom".  It was a great experience, and felt true to 
+DOOM's nature.  Finally, to Mr. Bucksnort.  The Special DOOM Edition of your "Evil 
+In Iron" was every bit as good as "Wolfendoom" (I thought), and also true to DOOM 
+itself, a game of which I am a major fan of.  Many things I borrowed and such, because 
+I've only recently gotten into modding, and haven't yet got the hang of editing source 
+codes (I'm only 15, I'm working on it!).  I have put what games I borrowed DOOM content 
+from (and the game used for the base of the mod), but if you play this game, and 
+see something that you yourself have created (please be honest), and you are not 
+listed, please feel free to e-mail me at wasabi_zero2002yahoo .ca, and tell me.  
+I will try my best to see that you have credit for it.  And please enjoy the game!
+
+
+ -R. DuHamel (The Great Wasabi!) 
+
+THE STORY-
+
+	There you were, fresh out of high school, looking for an exciting, and yet practical 
+job.  A friend jokes to you about joining the military.  You briefly consider it, 
+but the idea is quickly pushed aside for much more attainable goals.
+
+	Then it happened.  By chance, or simply an act of fate, you just happened to notice 
+an advertisement near your apartment.  
+
+	     JOIN THE SPACE MARINES!  WE WANT YOU!
+
+	That's it!  You'd always heard how great the Space Marines were, and of all the 
+cool things they always got to do.  You finally decide to sign up.  Why not?  Go 
+places for free, be fed and clothed, and get rich quick.  And all you have to do 
+is enlist part time.  There's no wars or problems to worry about, all you have to 
+do is take it easy.  Or so you thought.
+
+	Five gruelling months later, your training is done.  They throw a uniform on you, 
+slap an SMG in your hand, and before you know it, you find yourself being put on 
+the first shuttle to the remote space colony LR-304, located on the recently terra-formed 
+planet Mars.  You don't even get a chance to tell your folks good-bye.  On the trip 
+there, you overhear what's going on:  supposedly there have been some odd goings-on 
+at LR-304.  You hear something about "infestation", but think nothing of it.  You 
+do remember something about the base being operated by UAC, that aerospace company. 
+ Was it United Aerospace Company?  Or Corparation?  It quickly leaves your mind. 
+  It's probably just a false alarm.  There couldn't REALLY be anything wrong, could 
+there? 
+
+	Days later (Boy that was sure quick!), the shuttle lands at  LR-304, and there is 
+a rude awakening.  The second the airlock opens, the alarm sounds.  The other Marines 
+go into a panic, and they all shove off their shoulder restraints, grab their guns, 
+and bolt into the colony entrance at the order of the sergeant.  Except you.  Your 
+shoulder restraints jam, and you find yourself trapped in your seat.  No one takes 
+notice of you, and quickly you are alone on the shuttle.  About a half-hour later, 
+you manage to pry the restraints off with the butt of your rifle.  The rifle cracks 
+in your hand, and you discover you've broken part of the firing mechanism.  It's 
+totally useless now.  You swear you'll kill the idiot who made those damn shoulder 
+restraints.   You rush out the join your comrades, when you see a horrifying sight. 
+ All of your comrades are dead.  You see dozens of dead colonists, and upon examining 
+them closer, you realize they've been dead for weeks.  No one is left except you. 
+ You take back what you said about killing the idiot who made the shoulder restraints. 
+ He (or she) saved your life.  For the time being at least.
+
+	Well, here you are.  A Space Marine.  Alone in a place you've never heard of, and 
+know nothing about.  As you turn to go back to the shuttle, the door inexplicably 
+closes.  You try to open it, but the wiring for the button to open it is shot. You 
+pull out your pistol, and brace yourself.  You'll just have to get through this damn 
+hell-hole, and whatever is here is going to get a face full of lead if they decide 
+to show their ugly faces.  You have no idea what you are doing, but what the hell. 
+ It can't be much worse than sitting around starving to death before anyone realizes 
+something's gone terribly wrong.  Right?!  Nothing could be that terrible...
+
+	Good luck.  Believe me, you'll need it.    
+
+YOUR ARSENAL-
+
+	You only have your pistol and your bloody bare hands to start with, but some other 
+weapons appear that will definitely help you.  Here's a complete list of your weapons.
+
+
+#1-Fists:  You're advised not to use this is if you can.  It'll take out weak enemies, 
+but others it won't even scratch.  If this is your last resort, you're in BIG trouble.
+
+
+#2-Pistol:  Your pistol is much better than the fist, but still isn't that great. 
+ 
+
+#3-SMG (Sub-Machine Gun):  You may find this is the weapon you might use most.  It's 
+pretty good on ammo, and packs a punch. It pops up quite often.
+
+#4-PCU (Plasma Conversion Unit) Rifle:  An energy rifle that will make short work 
+of almost any enemy.  It works by converting conventional ammunition into quick bursts 
+of plasma.  This weapon is the final version of the one UAC was eveloping in "Wolfendoom" 
+(Nod to AReyeP!).   It has become standard issue for all Space Marines.  However, 
+it ploughs through ammo very rapidly.  Be warned; this weapon may jam and disappear 
+for no reason if you keep firing it too much.  If it does, you'll just have to find 
+it again...
+
+#5-Chaingun:  Ah, yes.  Your good friend from DOOM.  It will shred any enemy, and 
+when you have it, it just makes you feel so invincible.  For added effect, when firing 
+it, laugh maniacally.  HAHAHAHA!!!! Er, sorry.  Unfortunately, continuous repeated 
+firing of this weapon will cause it to vanish like the HA Rifle.
+
+YOUR PICKUPS-
+
+	Of course, the Space Marines and the colonists left behind plenty of ammunition 
+and items before they met a fateful end.  Here are the ones you'll find:
+
+Blue Vial (Health Bonus)-  In DOOM, they gave you 1 health, and pushed the normal 
+100 health beyond 100.  In "Dead World Rising", each restores 4 health, and they 
+will push your normal HP (Health Points) beyond the normal 100 percent.  You have 
+a max HP of 200.
+
+Stimpack-  A small package with a red cross.  It contains steroids that give you 
+a quick boost of health.  Each one restores 10 health.
+
+MedPack-  A large package that has straps on the front of it, and a big red cross. 
+ Each one of these babies restores 25 health.
+
+Armour Vest-  These will protect you from enemy shots, but they will only withstand 
+a few hits.  They're the blue vests.  When you get hit after picking up one of these, 
+you may notice that your health jumps up.
+
+Ammo Clip-  If you find one just lying around, these give you 8 shots.  If you collect 
+one from a downed foe, they only replenish 4 ammo.  You have a max ammo count of 
+200.
+
+Ammo Box-  Looks like the MedPack, but has a picture of a bullet on it.  Gives 25 
+bullets.
+
+1Up-  You'll know these when you see them, because they say '1Up' right on them. 
+ They're blue.  Yeah, that's them.
+
+"Treasure"-  There is no treasure in the traditional sense.  But there is items that 
+you can collect of value that give points, but they're mainly valuable Space Marine 
+equipment that lays scattered around the facilities at LR-304.  Here are some of 
+the things you should look for:
+
+Armour Helmet-  It gave you 1% armour in DOOM.  It now gives you 100 points.
+
+Light-Amplification Goggles- In DOOM, they let you see perfectly in darkened places. 
+ They now provide you with 500 points.
+

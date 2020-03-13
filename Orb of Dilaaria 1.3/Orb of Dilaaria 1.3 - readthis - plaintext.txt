@@ -1,0 +1,122 @@
+Orb of Dilaaria
+Version 1.00
+
+A Wolfenstein 3-D Total Conversion Mod
+Setup
+Simply double click ORB.EXE to start the game. It runs just like the original Wolfenstein 
+3-D. It has been optimized in hopes of providing an enjoyable experience on a variety 
+of computers. By default, all options except "Show FPS" are enabled. If the game 
+performs poorly, try disabling "Shading/Fog" first, then try disabling "Sky", "Clouds", 
+and "Textured Flats" one at a time until gameplay is acceptable.
+Sound
+If you have Windows 2000 or XP, the Adlib sound effects and music won't run properly. 
+In order to hear these, you'll need to use {VDMSound 2.1 Public Beta} (2.0.4 should 
+also work).
+
+I had initially also recommended {DOSBox}, however this program has some problems 
+when using projectile weapons. This was checked with both DOSBox 0.63 and 0.65. Future 
+versions may work, but it'll be a gamble.
+New Quick Keys
+  * F11 - Display the current map's name 
+  * F12 - Take a screenshot 
+GAMEERR.EXE
+Should the game happen to crash, it will produce a file called GAMEERR.TXT. This 
+EXE file simply translates the given error code into English. Hopefully you will 
+not need to worry about this file.
+Story
+The Land of the Seven Kingdoms was once the peaceful creation of Eilior, the Great 
+Being. There were nine lesser beings who served as council to Eilior called the Nonacyclus. 
+Among them was Wersin, the deceiver, who left the council to descend upon the world 
+thus shattering its peace. For protection, Eilior gave man the gift of the Orb, which 
+strengthens the weapons of the Seven Kingdoms. However, as a weapon becomes further 
+from the Orb, its power wanes. The elders of the Seven Kingdoms met and declared 
+that the Orb be kept within the castle of Dilaaria, since it was nearest the center 
+of all the lands. However, this left the southern-most land, Drami-on, without the 
+power of the Orb.
+
+The dark clouds of war covered the land as Wersin's henchmen swarmed the countryside. 
+For many years the Seven Kingdoms have kept the lands safe, but recent sightings 
+suggest that a great army is rising against them from the south. According to scouts, 
+Wersin has ravaged the lands of Drami-on and stolen their enchanted weapons to equip 
+a massive army.
+
+As a royal guard for King Hylorn, ruler of Dilaaria, you have been ordered to guard 
+the Orb's chamber. From deep within the castle, you only hear muffled sounds as they 
+echo down the hallways toward you. One voice cuts through the jumbled mess: "The 
+enemy approaches!" You listen as the soft murmur rises to the panicked chatter of 
+war. The Dark Army of Wersin has arrived.
+
+Torches dot the fields around the castle. Soon arrows are loosed from all directions. 
+Ladders spring from the ground and the twisted deformities of the Dark Army have 
+soon breached the wall. The knights of the Seven Kingdoms fight valiantly but to 
+no avail. You prepare for battle as you hear the main gates burst open.
+
+Thirty or more demonic beings charge down the hallway toward you and the other royal 
+guards. You are soon surrounded by them. The ten of you are no match for the constant 
+flow of demons and the other guards soon fall dead at your side. A sharp blow to 
+the back of your head sends you sprawling to the ground. As your vision begins to 
+dim, you see the demons smash the door leading to the Orb's chamber...
+
+You awake surprised to see that you're still alive. You look around and discover 
+that you are in a small dungeon cell littered with bones and fleshy debris. This 
+can only mean that you are trapped deep within Zaehylos' dungeon, the vile prison 
+of the ancient stories. Many heroes have been held inside its walls, but none have 
+escaped.
+
+You try to stand, but your head is still spinning with pain and you fall upon a pile 
+of bones. A strange snort echoes outside the door to your cell. Ignoring the pain, 
+you stand again and grab a broken bone from the floor. Within seconds there is a 
+snarl right outside the door and you hide in a darkened corner of your cell. The 
+door slides open and a foot soldier enters the room. You lunge at it, knocking it 
+to the ground. A surprised scream pierces your ears as you shove the shattered end 
+of the bone into its body.
+
+Convinced that it is dead, you grab its mace and prepare for what lies ahead. If 
+you can't escape, at least you'll leave the mark of your presence in the hearts of 
+your enemies...
+Thanks
+id Software - releasing Wolfenstein 3-D and then the source
+
+Team: 
+  * Majik Monkee - tweaking boss and guard graphics 
+  * Ringman - most of the walls, floors, ceilings, and object graphics are his original 
+work 
+  * Ack - map maker extraordinaire plus some graphic and sound offerings 
+  * Arielus - testing, perspective, and suggestions 
+  * AReyeP - testing, perspective, and suggestions 
+  * Liza Walley - testing, perspective, and suggestions 
+  * Mirela - providing the text and voice for the monks 
+Everyone was a tremendous help. I could not have hoped for a better team!
+
+Additional graphic, sound, and inspirational sources: 
+  * The ZDoom Monster Resource WAD 
+  * Doom, Doom II, Quake by id Software 
+  * Heretic, Hexen by Ravensoft 
+  * Blood by Monolith 
+  * Witchaven by Capstone 
+  * PowerSlave by Lobotomy Software 
+  * Arthur's Quest by ValuSoft 
+Contact Information
+website: {http://winwolf3d.dugtrio17.com/}
+email: {winwolf3d@fastmail.us} 
+Version History
+  * Version 1.0 - June 11, 2006 
+  * Version 1.1 - June 12, 2006
+    * Games saved while a pushwall is in motion will reload correctly in all situations 
+now  
+  * Version 1.2 - July 7, 2006 
+    * No more "Hall of Mirrors" effect when the parallaxing sky is disabled on some 
+levels 
+    * Player can no longer escape the sentries by staying in corners 
+    * Tweaked shading a bit (no more full brightness in the distance, but a bit brighter) 
+
+    * Changed Paishkyn's unshaded attack frame 
+    * Fixed upper bound for map amount for various checks 
+    * Hopefully stopped game from bombing if the message text doesn't load correctly 
+
+    * Destroyed walls now receive a floor code when loading a savegame 
+    * 200B errors now report the map x and y of the error  
+  * Version 1.3 - July 10, 2006 
+    * Added dot beside 's' in score on highscore screen 
+    * Fixed maps 33 and 63 
+    * Wersin graphics were enhanced   

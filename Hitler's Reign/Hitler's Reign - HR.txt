@@ -1,0 +1,88 @@
+Hitler's Reign
+
+	by Adam Archbold
+
+Official Manual
+
+============================================
+
+I.    Story
+II.   Items
+III.  Credits
+IV.   Technical Info
+V.    Other Info
+
+============================================
+
+I.  Story
+
+Once again Hitler and his goons have
+returned. Hitler has a new stronger
+army. He has equiped some of his SS's
+with flame thowers. Your job as 
+BJ Blazcovicks is to find and destroy
+Hitler and his army.
+
+============================================
+
+II.  Items
+
+     There are some new items in Hitler's reign.  
+     Here's a list:
+
+	Health Bonus  -  This syringe adds 1% to your 
+        life meter.
+	Shell Box  -  This gives you 16 shells.
+
+============================================
+
+III.  Credits
+
+	Game Design - Adam Archbold
+	Coding - Adam Archbold
+	Levels - Adam Archbold, Lance Thorne
+	Graphics - Adam Archbold, other various sources
+	Beta Tests - Lance Thorne
+	Installation - Adam Archbold
+	Thanks to - Brandon Farmer for help with
+        compiling the source code and Brian Lowe
+        for pointing out some bugs.
+        
+============================================
+
+IV.  Technical Info
+
+	Hitler's reign was created using the 
+        Wolfenstein 3d source code and Borland Turbo
+	C++ Version 3.0.  The following changes have 
+        been made.
+
+Updates to the WOLF3D executable file 
+
+Version 1.0
+
+	
+Changed ceiling colors
+Changed floor colors
+Hanns Grosse made weaker
+Hanns Grosse drops chaingun
+SS always drops machine gun
+Flame Thrower drops key
+Music order Changed
+Main menu music changed
+Mutant drops machine gun
+Maximum health changed to 125
+Maximum ammo changed to 250
+Most cheat codes removed 
+16 bullet ammo box added
+
+
+============================================
+
+V.   Other info
+
+For information on my other projects or 
+updates to the current one go to Wolf 3d universe
+http://members.xoom.com/w3d_universe
+Comments, questions or suggestions email me
+venomous@telstra.easymail.com.au

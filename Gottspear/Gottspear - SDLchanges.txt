@@ -1,0 +1,13 @@
+Gottspear by John Bucksnort (shareware mod)
+original DOS release: 5 May 2000
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for shareware
+Apogee version signon screen
+Pushwalls always move 3 spaces
+Endgame ratios adjusted for 4 normal levels
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds

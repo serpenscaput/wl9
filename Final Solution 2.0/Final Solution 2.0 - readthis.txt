@@ -1,0 +1,47 @@
+---------------------------------------------------------------
+Title    : The Final Solution
+Version  : Full Version 2.0
+Date     : 28th of October, 2000
+Author   : Tristan van Putten
+Email    : tvanputten@yahoo.com
+
+Webpage  : http://www.geocities.com/tvanputten/main.htm
+
+Details:
+---------
+
+This is the full version of the game. All levels, all graphics, all sounds,
+everything's completed. This is the result of 1,5 years of hard work. Have
+fun with it and send any questions, feedback or whatsoever to my email adress.
+The full manual comes after the installation. Read it by opening the file
+"Manual.DOC" with Microsoft Word or "Manual.TXT" with NotePad or just start the game 
+and 
+select "Read This!" from the game's main menu. Be sure to have read both of them!
+
+
+Tools I used:
+--------------
+Borland C++ 3.1
+JASC Paint Shop Pro 4.0
+FloEdit by Florian Stohr
+Mapedit 8.4 by David Huntoon, Bryan Baker, Warren Buss
+
+Thanks to:
+-----------
+Please note that the order of names is not in order of appreciatement!
+
+Brian Rowan
+Martin Bonnet
+Brian Lowe
+Kenny Riley
+Chris Chokan
+Gregory Tingling
+Colinda van Putten
+Patrick Noorlander
+Gijs Hoek
+Elizabeth Hoek
+
+Note by Brian Lowe: The original version of 'tfs' had a bug on level 8 where it wasn't 
+possible to collect the gold key. Tristan asked me to fix this and this latest version 
+(dated 1/26/01) solves the problem. A few extra guards, effects etc have also been 
+added on level 8 and a saved game from level 7 is included.  

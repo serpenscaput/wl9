@@ -1,0 +1,178 @@
+SAVE THE UNIVERSE PART ONE: LAIR OF THE GANALECH
+
+The Goop alien race has been planning something. Something sinister. Something genuinely 
+evil. They plan to blow up the
+universe. What else is new.
+
+Note: In case you aren't really that smart at chemistry, alkali is the opposite of 
+acid on the pH scale. Both burn through
+stuff but alkali is better at burning through flesh.
+
+PRODUCTION NOTES
+I admit it. I'm a lazy animator and graphics artist (except when it comes to drawing, 
+but when I scanned pictures I drew into
+the game to replace emeny animations the game crashed whenever one was visable). 
+Heres a little tip I use. The animation
+sprites (2 dimensional objects) for a typical guard consists of 8 directions, 1 frame 
+for each direction is of him is
+standing and about four or five of each direction in running frames, as well as dying, 
+died and shooting. That is a lot of
+frames and takes a long time, even for my artwork, which barely rivals that seen 
+in South Park. So I make frames for two
+directions (facing front and back) and about two frames for each direction of running 
+and standing.
+
+I cut out and end of game boss (The Ganalech). I made a set of animations for the 
+Ganalech boss but the game crashed whenever
+I opened the door in front of the boss. I put in a large firefight to the exit instead.
+
+
+ENEMIES
+
+Green Goop Alien: Blasts out alkali of pH 13 from his hands. Faster than the grey 
+goop alien but his alkali attack has a
+weaker pH and therefore is weaker.
+
+Grey Goop Alien: Rather than blast out a wad of alkali like the Green Goop Alien, 
+this one sprays it out like a shower.
+It's alkali spray has a pH of 14 and contains little rocks that punch through armor 
+and let alkali seep inside (this is
+painful and damaging).
+
+Tobor Maintainence Bot: Tobor Bots (Tobor is Robot backwards) repair stuff and build 
+things. Has a very weak attack.
+
+WEAPONS
+
+Knife: Made out of an alloy of titanium and high-carbon steel it is strong against 
+solid enemies. Gloop aliens aren't solid
+enemies. Their bodies are made of shaking Jelly so it takes several stabs to rip 
+up a gloop alien. When they are unalert
+Gloop aliens don't shake as much so their brains can easily be stabbed, as opposed 
+to ripping the alien up.
+
+Pulse Rifle: An energy rifle with low rate of fire but excellent damage and accuracy. 
+Good for putting down Gloop aliens.
+
+Ray Gun: You see them in cartoons and "aliens attack the earth movies" from the 1950s. 
+They are the ever popular ray gun.
+It has a high rate of fire and moderate damage, excellent for mowing down waves of 
+Green Gloop Aliens.
+
+Twin Mini Ray Guns: I've seen too many John Woo movies and played a little too much 
+Max Payne. The mini ray gun is basically
+the standard ray gun pistol scaled down for concealment and mowing down people in 
+nightclubs like the Terminator did  in
+the first Terminator movie. One is armed in each fist. The Mini Ray gun fires at 
+a higher rate of fire than it's big brother
+but is weaker.
+
+OBJECTS
+
+AA Batteries: Easier to use than those big thumbly Cell packs from Doom and Quake 
+2, these are the standard portable power
+source in the world (the very spaceship you are walking on utilises 100 of these 
+for power). Each battery is equivilent to
+8 cells from the computer game Quake 2.
+
+Warhammer 20 War Orcs Pack: A standard pack of 20 high quality unpainted orcs.
+
+Warhammer 20 Orcs and Mordian Marines pack: 40 high quality figurines.
+
+Commander Keen 6: Aliens Ate My Babysitter: The best adventure from the Commander 
+Keen series (available from id software).
+
+20 Bucks: A crispy green note with the value of 20 US Dollars.
+
+Canned Peaches: I like canned peaches. They restore some health.
+
+Boxed Sirloin Steaks: 4 sirloin steaks, marinated and perfect for grilling. Restores 
+a lot of health.
+
+HEALTH
+I replaced the "bleeding face" from Wolfenstein 3d with an approximate health bar. 
+It is green and shrinks as your health
+lowers. When you pick up the mini ray guns the bar turns white and has "yay" written 
+on it and then goes back to measuring
+health. When you are dead the bar turns red. In case you haven't played Wolfenstein 
+3d or any games using it's engine health
+ranges from 0-100 (100=Completely Healthy 0=Dead). Health can be replenished by picking 
+up peaches or sirloin steaks.
+
+SECRETS
+Secrets are discovered by pushing pushable wall panels. These secret panels can be 
+identified by the fact there are none
+others like it in the level, or you see a strange wall panel on it's own. Get right 
+up to one and press spacebar. You want
+an example of a secret? On the first level, open the door into the large room with 
+2 aliens. There are 4 mini rooms to the
+sides. Open the second door to the right and push the wall panel. May that be a reward 
+for you, one of few people who
+actually reads txt files such as these.
+
+SPOILERS
+Want to know where the secrets are kept? Want to avoid a trap? Scroll down.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Level 1
+Go through the door into the room with 2 green aliens. There are 4 doors. Go to the 
+2nd door on the right and push the wall
+panel to reveal some treasure, ammo, food and a ray gun.
+
+Level 2
+No secrets or traps
+
+Level 3
+Exit the elevator, take the goodies, go into the next room and take the door on the 
+right. Move through this room (it should
+have 3 guards) to the next room with 2 guards and a door on the left and right. Take 
+the left door and go straight through
+the door ahead of you. You will be in a large hallway full of aliens. Turn left around 
+the corner and go to the end with 3
+wall panels. Push the odd one out (the middle panel) and take the twin mini ray guns 
+and treasure.
+
+Level 4
+Keep going through the only doors (this is a very linear level) until you reach a 
+room with 2 wall panels on each side. Push
+the odd panel (first on the right) to take the treasure.
+
+Level 5
+No secrets or traps
+
+Level 6
+The room with the golden key is a trap on hard levels. If you are playing on the 
+second hardest level or above there are 2
+grey guards ready to ambush you on both sides of the door. The noise will alert the 
+guards in the 4 miniture rooms to the
+sides and if you go straight for the key by the time you pick it up the aliens will 
+storm out of the doors and flank you. If
+you are playing on easy levels there will be no guards to ambush you on the sides 
+but don't fire a shot.
+
+To get the secret treasure leave the elevator, go straight through the door and turn 
+left, then turn right into the room
+with one wall panel on the right. Push it.
+

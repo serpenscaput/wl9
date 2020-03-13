@@ -1,0 +1,2224 @@
+^PAGE 1
+^c7eINTRODUCTION
+^c00
+Welcome. This game, like the previous one, is based on demons. Just warning in case 
+you dislike any non-fully WWII related game.
+It uses Ripper's Wolf4SDL version 1.6, so hopefully there won't be any massive bug 
+like in Lost Relic. Yeah, we wanted to use version 1.7, but unfortunately it took 
+too long to be released. Transport all changes to the new version would be pretty 
+unrewarding.
+^PAGE 2
+^c7eINTRODUCTION
+^c00
+The main difference here are the 128x128 maps. We never liked of making short levels 
+after so much time spent on ideas for the game. A way to avoid that was making several 
+small rooms all along the level area, but it ruins a little the gameplay fun, and 
+also grants problems due to the lack of different floor types. 
+Fortunately, the bigger maps are working nicely. Doesn't mean all levels will use 
+the whole area.
+^PAGE 3
+^c7eINTRODUCTION
+^c00
+You probably noticed the vswap file is enormous. That happened because we used an 
+higher resolution. We wanted to remove the "boss feel" from monsters, so we made 
+most of them directional, and they will react to sounds, like ordinary guards.
+
+Exporting, resizing and importing monsters consumed a lot of time. Usually, each 
+new monsters took like 5 hours to be added and work properly. So, took us like 2 
+months to add all monsters. Is hard to create so many individual behaviors.
+^PAGE 4
+^c7eINTRODUCTION
+^c00
+Also, this game uses the advanced sound manager code by AluminuN. Sounds and musics 
+are read from external folders, so you can replace anything in case you hate some 
+music/sound by something you like.
+
+This was made because the IMF format totally ruins the quality of any music, including 
+mids. We still wanted some original wolf3d musics, so we recorded them into mp3 format 
+(in case you think they are sounding weird). This has contributed for the oversized 
+data of the game.
+^PAGE 5
+^c7eINTRODUCTION
+^c00
+We tried to balance the musics' volume. But you can always adjust it in the Options 
+menu.
+
+If you think the sounds are weird, was because we changed their frequency to fit 
+AluminuN's code better. Don't hate it, you'll get used to it sometime. 
+^PAGE 5
+^c7eINTRODUCTION
+^c00
+All levels have been tested 3 times each. Still, there may be bugs we didn't notice. 
+If you find anything, please send an e-mail to us. We will release a patch fixing 
+any minor bugs a few weeks after this mod was posted. 
+^PAGE 5
+^c7eCONTACT
+^c00
+Our e-mails are ^c91wolfmaniacbros@yahoo.com.br wolfmegaluigi@yahoo.com.br
+^c00Feel free to send anything to both e-mails if you want.
+
+But please, DO NOT ask for puzzle solutions, a version of the game with cheat codes, 
+spoilers or things answered here. If you get stuck, you can very well ask if it's 
+a bug or not. We will say if it's right or wrong, but won't give you any further 
+explanation.
+
+^PAGE 5
+^c7eCONTACT
+^c00
+If you still would like to ask one of those things, send an e-mail and a donation 
+to:
+^c91big_boss_sama@fireplace.empresa ^c00
+
+The donation will be used for parties and drinks. You'll receive a copy of your complain 
+back to you some tuesday or friday 13 during our working hours, 13:30 to 14:00. 
+
+
+Any bug reports will be dealt with by our highly trained monkey team.
+^PAGE 6
+^c7eABOUT LOST RELIC
+^c00
+We know about the bug that prevents many players from playing our previous game. 
+For some reason, it doesn't happen with everyone. Doesn't happen for us, for example. 
+The menu colors get screwed sometimes, but the game is playable. 
+
+When we were developing it, our HD broke. Fortunately, we had a backup, but was a 
+little outdated. We lost around 8 levels and several minor bug fixes we didn't remember 
+anymore.
+^PAGE 7
+^c7eABOUT LOST RELIC
+^c00
+That bug is nowadays fixed, so you can play that game now. If you wanted to play 
+it before, but couldn't, you are highly advised to try Lost Relic before this one.
+
+
+^PAGE 8
+^c7eABOUT LOST RELIC
+^c00
+Now, commenting some things people asked us about:
+
+^c29Fake Hitler- ^c00Some people thought his ressurecting and attacking action was 
+a bug. Well, it was not. It was intended for it to work that way. Those who know 
+how the enemy routine works will see that making an enemy ressurect by mistake is 
+near impossible, unless you are very lucky (or unlucky). Some said that fake hitlers 
+shot up to 10 missiles after their death. Chances for stand up again or stay dead
+
+^PAGE 9
+^c7eABOUT LOST RELIC
+^c00
+^c29Fake Hitler- ^c00were exactly the same. You were unlucky, that's all.
+^PAGE 10
+^c7eABOUT LOST RELIC
+^c00
+^c29Soul Orb- ^c00This poor treasure was accused of making the eyes of some people 
+bleed. Maybe that's why you saw everthing in red. It's a little annoying for sure. 
+But that's the purpose. It's a demonic treasure for a reason, right? But if you hate 
+it that much, you can simple save/load your game and the red flash will be gone. 
+Not the best solution, but there shouldn't be any, so be happy.
+^PAGE 11
+^c7eABOUT LOST RELIC
+^c00
+^c29Dying at 3% HP- ^c00One of the minor bugs mentioned before. It was caused by 
+a small error in the artifact of decay's damage loop routine. It's now fixed and 
+there won't be any problems like this again.
+^PAGE 12
+^c7eABOUT LOST RELIC
+^c00
+^c29Cacodemon- ^c00When invincible, you still will receive some damage from cacodemon's 
+projectile. It was also intended, just to give them some different ability. Otherwise, 
+cacodemons would be the same as hellknights.
+^PAGE 13
+^c7eABOUT LOST RELIC
+^c00
+^c29MLI Cheat- ^c00Still removed for the same reason. Some people cheated health 
+items/artifacts of invincbility or whatever. We can't prevent you from doing that, 
+it's up to you, but keep in mind you can corrupt your saved game file by changing 
+the maps. If that happens, you'll have to start the game all over again, or stop 
+playing. Cheating elevators won't work very well this time.
+^PAGE 14
+^c7eABOUT LOST RELIC
+^c00
+^c29Luigi Map- ^c00Who saw it may have realized it's not a serious map. It was done 
+as an easter egg, there wasn't really any reason. But it inspired me to create a 
+level based on Luigi. Don't worry, there's not cartoon-like graphics or anything 
+comic. It's a pretty dark level., and a secret one, since it's completely non-canon.
+
+
+^PAGE 15
+^c7eSTORY
+^c00
+Since the death of Adolf Hitler, Allies saw that win this war was possible. Even 
+more than possible, was just a matter of time. Without their almighty leader, nazis 
+lost the focus on their goals. They were instructed to obey Hitler without hesitation. 
+They were heavily trained under this filosophy. But, after the reason of their lives 
+was killed, the Third Reich started to decay.
+^PAGE 16
+^c7eSTORY
+^c00
+Still, nazis had to keep going with their plans. General Fettgesicht commanded a 
+chemical war against the Allies, but was succefully stopped before it was too late. 
+
+
+Not long after that, we discovered something that could really turn the things against 
+us in the war: the Spear of Destiny, a tool of very mysterious powers. No one have 
+the technology to understand how it works, but we know how to use it.
+^PAGE 17
+^c7eSTORY
+^c00
+After we discovered that nazis were in possession of the spear, you have been sent 
+to retrieve it in Castle Nuremberg before they could use its full potential against 
+our armies. 
+
+The castle commander, known as Death Knight, were assigned by Hitler himself to protect 
+the spear, which means they had captured the artifact long before you faced the fuhrer. 
+
+^PAGE 18
+^c7eSTORY
+^c00
+Death Knight was defeated, but after grabbing the spear, the castle changed into 
+some demonic thing. In that place, the Angel of Death, protector of the spear, challenged 
+you for the right of wielding it. 
+
+Fortunately, you were able to retrieve it safely. The main problem was that nazis 
+used this time to elect their new leader and improve their war plans. 
+^PAGE 19
+^c7eSTORY
+^c00
+A man known by the name of Ludwig was said to be the new nazi supreme commander. 
+He indeed was not. The real elected leader was Karl von Heinker, who used Ludwig 
+as another diversion for us.
+
+The imposter was coordinating the creation of mechanical fighters; one of them called 
+Vulkan Kanone, a prototype for the newly robotic troopers you will encounter later.
+
+^PAGE 20
+^c7eSTORY
+^c00
+While you were on your way to face Ludwig, you encountered an abomination called 
+Chupa Cabra, which highly resembled the Angel of Death. How have they created a demon?
+
+
+We concluded that Death Knight also grabbed the spear. He was challenged by the angel 
+and also emerged victorious. Probably he took a blood sample from the angel before 
+the demonic place disappeared, and that's how nazis started working with demons.
+
+^PAGE 21
+^c7eSTORY
+^c00
+But if Death Knight had the right of wield the spear, it was very possible that he 
+also used its powers somehow. In fact, it was later proved he did. You faced him 
+again on your last mission. In other words, he tricked death when you first dealt 
+with him. Now, we don't know if he just had an "extra life", or if he became immortal. 
+He wasn't seen again since your last fight with him.
+^PAGE 22
+^c7eSTORY
+^c00
+Ludwig was waiting for you outside the complex. By facing him, it was obvious he 
+was very unskilled with guns, and was easily defeated. 
+That man wasn't really a soldier. He was a researcher for the nazis, collecting data 
+about their tests and sending them to the real headquarter.
+
+His death wasn't important at all. Ludwig's goal was met. Tests with killing machines 
+and a few monsters were made (with your help) and the results were acceptable.
+^PAGE23
+^c7eSTORY
+^c00
+Ludwig's true identity was never discovered. His name means "famous warrior", what 
+fits well his fake position as the nazi leader. It's believed his name was a fake 
+as well.
+
+Anyway, he sent important information to the new fuhrer's brother, Jens von Heinker, 
+a scientist who worked with Schabbs in the mutant serum creation, and was now in 
+charge of studying the possibilities of using demons to win the war, as well as the 
+spear itself.
+^PAGE 24
+^c7eSTORY
+^c00
+The Spear of Destiny was in the possession of the Allies at this time. But Jens' 
+studies led nazis to find an ancient temple, where the spear might have been found 
+hundreds of years ago by the first time.
+The temple had some information about the spear. It is some kind of seal, to prevent 
+evil from sneaking into our plane. After it was removed, a new spear spawned there, 
+a black spear with a slightly different shape. It was named Spear of Abyss.
+^PAGE 25
+^c7eSTORY
+^G35,18,65
+^c00
+The Spear of Abyss is the key to the door between our world and the underworld. Without 
+the seal, Jens were able to summon demons and use them as soldiers. They never were 
+any experiment created by nazis, like we supposed before.
+This spear works differently from the other one.  It was said only an evil person 
+could touch it, but they never said the results would be good.
+^PAGE 26
+^c7eSTORY
+^c00
+A good person would die. An evil person would become a terrible monster, only seeking 
+for destruction. 
+Somehow, this spear was used to steal the Spear of Destiny from the Allies HQ, and 
+also corrupted it.
+
+
+^PAGE 27
+^c7eSTORY
+^G35,18,67
+^c00
+The Angel of Death is the Spear of Destiny's guardian. By protecting the spear, it 
+also protected our realm. It inhabits an unknown plane and is summoned by anyone 
+who grabs the spear.
+So, why the name Angel of Death? "Angel" because it protected our world for uncountable 
+years. "Of Death" because killing humans was necessary in order to fulfil its purpose.
+
+^PAGE 28
+^c7eSTORY
+^G35,18,67
+^c00
+This creature, obviously, can't be killed, since it always returns when the spear 
+acquires a new wielder, what highly suggests it is a demon. Demons can't be killed. 
+When their bodies are destroyed, they will just reborn in the underworld. 
+Why a demon was protecting us is a mystery.
+^PAGE 29
+^c7eSTORY
+^c00
+Knowing of the tests with demons, you have been sent again to put an end on their 
+madness. Karl may have thought they were like irrational animals, something like 
+wild horses, but could be tamed.
+Everyone should those forces can't be controlled by anyone, unless you have full 
+control of the spear/spears (maybe), if that's even possible.
+
+Your way to Karl wasn't easy, but you made it, and defeated him and his brother.
+
+^PAGE 30
+^c7eSTORY
+^c00
+On the last room, you found the Spear of Destiny once more, but the Spear of Abyss 
+wasn't there. 
+
+You were prepared to face the Angel of Death again, but this time, a new creature 
+spawned. It didn't drag you into its plane like it happened before, but came to you 
+and changed the ambient completely.
+^PAGE 31
+^c7eSTORY
+^G35,18,68
+^c00
+It has similarities with the other angel. This one is called Angel of Darkness, and 
+is also mentioned on the ancient temple. The SOD corruption made possible to use 
+its dimensional powers to bring here this powerful demon. Instead of dragging someone 
+into the unknown, it brought something from the unknown.
+The key of the abyss worked well.
+^PAGE 32
+^c7eSTORY
+^G35,18,68
+^c00
+This angel is not the guardian of the evil spear. It's an emissary of the darkness 
+that was unleashed into our world. 
+When you first met it, the demon attacked by using a bright ball of energy, throwing 
+lost souls at you. It's the same energy released from Pain Elementals, the living 
+portals to hell, when they are destroyed. It was the proof of the angel's identity.
+
+^PAGE 33
+^c7eSTORY
+^c00
+We found on Jens' anotations that the Spear of Abyss was teleported back to the temple 
+when they used it to steal the SOD. Even nazis took weeks to find that out. 
+By destroying the Angel of Darkness, all the evil concentrated energy on his body 
+was released and absorbed by the black spear. That was the way to operate the key 
+and let demons invade Earth. The ancient temple was soon full of monsters.
+^PAGE34
+^c7eSTORY
+^G35,18,68
+^c00
+That's the origin of the name. "Angel" because it's the keeper of the key of damnation.
+
+"Of Darkness" because it would lead the existence of life to its end.
+
+And it's partially your fault.
+^PAGE35
+^c7eSTORY
+^c00
+Without hesitation, nazis went again to the temple to retrieve the spear and control 
+demons on their favor. Some things changed in there. An evil atmosphere was created 
+deep inside of it, and some weird artifacts were created.
+Those artifacts are known as "demonic treasures", and they made no good for you on 
+your journey.
+^PAGE 36
+^c7eSTORY
+^G35,18,69
+^c00
+This man was named "The Executioner" for being the first one to use the SOA, being 
+the human that would start the proccess of destroying his own kind. He stole our 
+spear and fortified the temple area with his troops, to prevent you from ruining 
+their plans again. 
+For some reason, he didn't turn into a demon like the researcher who first found 
+the spear, but suffered mutations.
+^PAGE 37
+^c7eSTORY
+^G35,18,69
+^c00
+It increased his physical strength, enabling him to wear a heavy armor while carrying 
+two chain guns, 4 mounted rocket launchers and, of course, loads of ammo.
+
+The Executioner also didn't go berserk. He was turned into even a more calm person 
+than before. Maybe he was born for this. Not to take nazis to their glory, but start 
+some kind of apocalypse.
+^PAGE 38
+^c7eSTORY
+^c00
+Needless to say, our scientists were wrong about the evil spear. It was not orginated 
+from the SOD, but its existence is possible only because of what we have done around. 
+The Spear of Destiny shouldn't never have left the place it belongs. This may have 
+caused the destruction of humanity.
+^PAGE 39
+^c7eSTORY
+^G35,18,70
+^c00
+While the Executioner were guarding the temple, this man snuck inside it. We know 
+he was a member of the Grosse family, enough reason to become your enemy, but about 
+his military status, nothing was found. He also was never mentioned anywhere in any 
+reports we got from nazis. 
+It's unknown if he or The Executioner were commanding the temple exploring operation, 
+but it's possible that, after Karl's fall, he used the name of his family 
+^PAGE 40
+^c7eSTORY
+^G35,18,70
+^c00
+to gain status. Nazis were desperate after watching all their leaders falling so 
+many times. Maybe trying new ways would finally bring some result, even if some rules 
+had to be broken.
+The monsters on the temple didn't attack nazis, and they even helped humans to retrieve 
+the black spear. 
+The black armor this man wears was found on the temple. It seems to be made of metal, 
+but is very light and very 
+^PAGE 41
+^c7eSTORY
+^G35,18,70
+^c00
+resistant. On your fight against him, he was assisted by many demons and a pretty 
+small room. A hard fight. 
+After defeating him, you found the Spear of Abyss, and as expected, the angel appeared 
+again. Both angels actually. This time, they were stronger than before, and switched 
+their skin colors. That may have happened with the SOD's corruption.
+^PAGE 44
+^c7eSTORY
+^c00
+It's weird why both angels worked together against you. They have different existence 
+purposes, and the door leading demons to us was already open.
+This idea also applies to you somehow. You defeated the angels, and earned the right 
+of being Spear of Abyss' possessor. But, you already were Spear of Destiny's wielder 
+as well, and keep the power of protection and the power of destruction is impossible 
+for a human. Don't ask why. Science can't explain this, like many things you saw.
+
+^PAGE 45
+^c7eSTORY
+^c00
+Anyway, grabbing the black spear made the Spear of Destiny disappear from our headquarters 
+again. Not stolen this time. No one knows where it is now or who/what has it. 
+There's a theory about this. If you are wielding the key to destruction, a demon 
+may be wielding the protection seal, so it would keep the balance between both realms.
+
+^PAGE 46
+^c7eSTORY
+^G35,18,71
+^c00
+On this meantime, we found that Schabbs survived, even after his body was mutilated 
+by your chain gun. Since Karl's death, he probably was the one commanding nazis all 
+the time, including the temple invasion.
+This would be a big problem for sure. We had no idea what the manical doctor could 
+have developed now.
+^PAGE 47
+^c7eSTORY
+^G35,18,72
+^c00
+Unfortunately, you found it, Schabbs' first experience with a demon. A Mancubus have 
+been injected with massive amounts of mutant serum, in order to combine demonic with 
+undead powers. It became an extremely powerful creature, virtually invincible. Bullets 
+could damage it, but it had an almost instantly regeneration. There was nothing you 
+could do but run away while it chased you by the nazi castle.
+^PAGE 48
+^c7eSTORY
+^G35,18,72
+^c00
+Just like ordinary mutants, this one was also under Schabbs' control. It was good 
+for nazis, since it wouldn't turn against them while the doctor was alive. 
+On you way to the roof, you found Schabbs a few times, and made sure he wouldn't 
+ever breath again. His death made this monster become very agressive. It was placed 
+behind a barrel barricade for their own safety. But you knew it wouldn't hold the 
+creature for too long.
+^PAGE 49
+^c7eSTORY
+^G35,18,72
+^c00
+At least, Schabbs knew how to destroy it in case something went wrong. A small stock 
+of artifacts of rage was near the monster, the only thing that could ultimately kill 
+it, and, fortunately, it worked.
+Schabbs could have made an entire army of those monsters. No one would ever being 
+able to stop them, but even him knew it was way too dangerous for everyone, including 
+nazis.
+^PAGE 50
+^c7eSTORY
+^c00
+Demonic mutants weren't the worst thing. Schabbs knew how to find the SOA, instructed 
+The Executioner to steal our spear, led you to a mission that would bring demons 
+to our realm and knew you would succeed on it. But all that information wasn't anywhere 
+on the temple. So, we finally discovered why demons are helping nazis. Actually, 
+a demon itself gave those informations to Schabbs.
+^PAGE 49
+^c7eSTORY
+^G35,18,73
+^c00
+The demon is called The Reiver, a very powerful and dangerous entity that can't inhabit 
+our world because it's not "evil" enough. The Reiver needs rage, destruction and 
+death to sustain itself, and you provided it all of those requirements on your way. 
+Opening its urn was a huge mistake. The demon destroyed all your weapons and summoned 
+many servants to make sure you wouldn't survive. It was the hardest battle of your 
+life.
+^PAGE 49
+^c7eSTORY
+^G35,18,73
+^c00
+The presence of this demon made the skies red like blood. You knew you had to destroy 
+it. Fortunately, the nazis you killed let many weapons and ammunition around the 
+place, so you still had a chance to fight. The battle with the servants was long, 
+but you killed every single one of them, including the Reiver. At least, that's what 
+you thought. It turned into a pile of ashes it was before you released it. Your attacks 
+weakened it too much and its
+^PAGE 53
+^c7eSTORY
+^G35,18,73
+^c00
+physical body was now unsustainable. When you thought it was over, another firespawn 
+appeared. You were too weak to keep fighting, but the creature didn't attack you. 
+It stole the urn of the Reiver and disappeared. Couldn't be a good thing. 
+The ashes of the monster couldn't stay there, as it could revive at anytime.  For 
+some reason, they started to desintegrate after some minutes. Probably the demon 
+had already reborn in hell.
+^PAGE 54
+^c7eSTORY
+^c00
+While you have been on this mission, many studies about those demons were made. Firstly, 
+like it was already mentioned, they can't be killed, just their physical body.
+Every demon has an unstable presence in our world. The more powerful they are, the 
+more unstable it is. Weaker ones can remain here for much longer, up to months, but 
+if there's any greater power around, they can remain here indefinitely.
+^PAGE 55
+^c7eSTORY
+^c00
+The strongest ones can't come, as their instability would eradicate them very quickly. 
+This means that the big demons never came, and means you can have a bigger trouble 
+this time.
+We were not talking about demons like the angels or The Reiver. Those three are special. 
+They belong to the most powerful class of demons, and are known as Overlords in the 
+underworld. Why can they live between us?
+^PAGE 56
+^c7eSTORY
+^G35,16,74
+^G35,144,65
+^G35,250,75
+^c00
+
+
+
+
+
+
+
+It's because of those objects. Those entities need something to stabilize themselves, 
+and they have enough power to create those things and live here. But even like this, 
+they can't roam freely around the planet. For example, the angels
+^PAGE 57
+^c7eSTORY
+^G35,16,74
+^G35,144,65
+^G35,250,75
+^c00
+
+
+
+
+
+
+
+are always trapped inside their planes until they are awaken, and the Reiver still 
+need a lot of evil around itself to increase its strenght.
+^PAGE 58
+^c7eSTORY
+^c00
+Angels have a purpose: one is a seal, the other is a key. The Reiver is responsible 
+for enlarging the portals between both planes. The evil atmosphere it created was 
+possible due to the rift made by the Angel of Darkness' destruction. We know the 
+atmosphere disappeared along with the demon, but doesn't mean demons are locked again. 
+
+Also, since the spears and the urn are the objects of those three overlords, your 
+wish to send the Spear of Abyss to the sun was never granted.
+^PAGE 59
+^c7eSTORY
+^c00
+The problem now is that we lost both spears and the urn, though you still are the 
+possessor of the black one.
+
+Your mission now has no main goal. What we know is that nazis are still working with 
+demons, and any threat you eliminate makes the war come closer to an end.
+
+We don't even know if nazis have a new leader, but a man is commanding an operation 
+in the temple again. They probably know the spears were lost, and are trying
+^PAGE 60
+^c7eSTORY
+^G35,18,76
+^c00
+to find something helpful there. Submarine Willie is an old but tough soldier. He 
+is somewhere in the german castle, awaiting for you. 
+It's very possible he knows something about the spears. Of course, asking nicely 
+won't take you anywhere. If there are any clues there, you will find them.
+You must eliminate him. Until then, your mission may change depending on what you 
+find on your way.
+^PAGE 61
+^c7eSTORY
+^c00
+About demons, we know something strange is happening. Many of them are becoming stronger, 
+and their skin are turning black. If you find Willie, you can also find informations 
+about this.
+
+Keep in mind that nazis may have retrieved the spears somehow. In that case, we know 
+you can't carry both. So, this time, you're not going to save the world alone.
+^PAGE 62
+^c7eSTORY
+^G35,18,77
+^c00
+This is Snake. He usually works as a spy and as a special operations soldier, and 
+is known for achieving the impossible.
+Snake will be going with you on this mission. His main task is find informations 
+that can be helpful for you, so expect frequent calls from your radio.
+In case you find both spears, Snake will have to carry one of them. So it's extremely 
+important you both get out of this mission alive.
+^PAGE 62
+^c7eSTORY
+^G35,18,77
+^c00
+During gameplay, you may attempt to call Snake by pressing "Enter" every now and 
+then. 
+Snake will only answer during certain parts of the level. If you don't call him in 
+that moment, you lost the opportunity. It's a pretty long moment, don't get too worried 
+about it.
+You WON'T be warned when you can call Snake, and doing it or not will have different 
+consequences later. It's your choice.
+^PAGE 63
+^c7eSTORY
+^c00
+That's all we can tell you. Now, it's up to you, BJ. All your past missions has led 
+you here. Everything was related to something we don't know, but you will find it 
+out soon. 
+It's your most important mission yet. Billions are depeding on you; don't disappoint 
+them. Good luck.
+
+
+^PAGE 64
+^c7eIMPORTANT FEATURES
+^G45,18,78
+^c00
+^c98Destructible Objects ^c00
+
+Those are the main destuctible objects of the game. They have variations that can 
+also be destroyed, so don't get lost because of such a simple detail. Remember that 
+drums will explode and harm you if you are too close.
+^PAGE 65
+^c7eIMPORTANT FEATURES
+^c00
+^c98Mementos- ^c00Mementos are they way we found to reward you while playing the 
+game. They are inside .zip files protected with passwords that will be given to you 
+in the middle of the game.
+To get a password, you must complete a certain task on a level that won't be revealed. 
+You just have to play the level properly, not running through it just to complete 
+it as fast as possible.
+^PAGE 64
+^c7eIMPORTANT FEATURES
+^c00
+^c98Deathlog- ^c00After you die once, a .txt is created on your game's folder. There, 
+every death will be listed. It will say which enemy killed you, the level number 
+and there's an indication of what the enemy used.
+Also, after you beat the game, a list showing how many enemies of each type you killed 
+will be created as well.
+This won't make any difference on the gameplay, but it's a cool feature to satisfy 
+your curiosity.
+^PAGE 64
+^c7eIMPORTANT FEATURES
+^c00
+^c98Difficulty Levels- ^c00This is important. Once again, we changed how they work. 
+In the original game, every difficulty level, except for the easiest, makes enemies 
+cause full damage on the player. Now, each one have their own base damage.
+
+Can I play, Daddy?    = 25% (unchanged)
+Don't hurt me        = 45%
+Bring'em On           = 65%
+I am Death Incarnate = 85%
+^PAGE 68
+^c7eIMPORTANT FEATURES
+^c00
+^c98Difficulty Levels- ^c00So, even if you choose the hardest one, the damage will 
+still be a little lower than the original game. That's barely noticible, don't think 
+we ruined the game by doing this. 
+It was necessary. Is the best way to let us design levels the way we like.
+^PAGE 68
+^c7eIMPORTANT FEATURES
+^c00
+^c98Game Music- ^c00Unfortunately, the digital music tutorial make the musics restart 
+everytime you return to the main menu, save, load or pause the game. To prevent that 
+(a little at least), we made the level musics continue playing even when you return 
+to the main menu, or save/load your game.
+Yeah, that's not a very cool thing, but would be a shame if we can't use the digital 
+music power. Resetting the music to the same point is a bit annoying. 
+^PAGE CAPENGA
+^c7eIMPORTANT FEATURES
+^c00
+^c98Game Music- ^c00However, if you enter in the ReadThis! through the main menu, 
+its music will play, and when you return to the menu, the menu music will play, what 
+will make the music in the game reset, obviously. 
+If you pause the game, the music stops, what will reset it as well when you resume 
+the gameplay.
+None of this is a bug. Was all made intentionally.
+^PAGE 68
+^c7eIMPORTANT FEATURES
+^g35,55,121
+^g35,20,122
+^g35,80,123
+^c00
+
+
+^c98Screenlock- ^c00During certain moments of the game, these skulls will show up 
+on your screen. The white skull is a warning that you may want and should save your 
+game. The brown skull means you are locked in the game, which actually blocks you 
+from saving your game until it's gone. This skull will disappear after you complete 
+some task in the level. 
+^PAGE 68
+^c7eIMPORTANT FEATURES
+^g35,55,121
+^g35,20,122
+^g35,80,123
+^c00
+
+
+^c98Screenlock- ^c00The red skull works like the brown one, but you also will be 
+unable to return to the main menu or use any of the F keys to go to one of the menu 
+options. May disappear with time or with a task. Unlike the brown skull, the red 
+one will not have a warning before showing up.
+
+^PAGE 64
+^c7eIMPORTANT FEATURES
+
+^c98Weapon Choosing Method- ^c00In the "Control" menu, you can enable the 
+"Single Weapon per Button" option. This game has many weapons and uses a lot of buttons 
+of your keyboard. If you enable this option, similar weapons will be switched in 
+the same button. 
+
+This lowers the amount of keys you have to use and memorize, but sometimes, you will 
+have to press the same button more than once to get the weapon you want.
+^PAGE 64
+^c7eIMPORTANT FEATURES
+
+^c98Secret Areas- ^c00To avoid too much trouble in finding secrets, they are somehow 
+marked in the level. 
+Things you should pay attention to include different walls, a decorated wall, objects 
+near the pushable wall and small rooms.
+Not all secrets follow those standards, but most of them do.
+
+Remember, secret areas are not necessary to beat the level. 
+^PAGE 64
+^c7eIMPORTANT FEATURES
+
+^c98Secret Areas- ^c00By objects, we mean mostly objects that won't block your way.
+
+
+Small rooms would be a small room or a small area of a large room which you could 
+easily push all walls in a few seconds.
+Use your imagination and patience there.
+^PAGE 69
+^c7eARTIFACTS
+^G28,18,79
+^c00
+^c84Artifact of Life- ^c00Sets your health to 100%, if lower than that. Also grants 
+you 25 bullets for your pistol/machine gun, and cures you from the artifact of decay 
+completely.
+This artifact is not counted as a treasure.
+Keep in mind you will take it if you touch it, even if you have full health and/or 
+ammo.
+^PAGE 70
+^c7eARTIFACTS
+^G28,18,79
+^c00
+^cbcArtifact of Displacement- ^c00Teleports you to somewhere else in the level. Different 
+artifacts can lead you to the same place, and they won't disappear after being used.
+
+^PAGE 71
+^c7eARTIFACTS
+^G28,18,79
+^c00
+^c4aArtifact of Invincibility- ^c00Makes you, like the name says, invincible. You'll 
+be immune to almost all attacks of all enemies. 
+It won't protect you from the effets of an artifact of death or an artifact of decay.
+
+Duration: 30 seconds
+^PAGE 72
+^c7eARTIFACTS
+^G28,18,79
+^c00
+^c67Artifact of Healing- ^c00Raises your health up to 50%, few by few, while you 
+are close to it. 
+You can't take this one. It will remain there and can be used as many times as you 
+want.
+^PAGE 73
+^c7eARTIFACTS
+^G28,18,79
+^c00
+^c7cArtifact of Decay- ^c00Starts a slow death process. By taking one, you will lose 
+2 health points every 3 seconds. A second artifact makes you lose 3 health points 
+every 2 seconds, and a third one will kill you instantly.
+Its effects can be neutralized by taking any health items around, as long as they, 
+indeed, increase your health. You will understand this later.
+Duration: endless.
+^PAGE 74
+^c7eARTIFACTS
+^G28,18,80
+^c00
+^c27Artifact of Rage- ^c00Your knife stabs will cause massive damage to the enemies. 
+If you hit them properly, 1 stab can kill the strongest opponent. 
+You will receive less damage while under its effects.
+Duration: 45 seconds.
+^PAGE 75
+^c7eARTIFACTS
+^G28,18,80
+^c00
+^c6dArtifact of Protection- ^c00This orb will summon a guardian spirit that will 
+follow you around the level. While it's close to you, your health will be regenerated. 
+It's like a mobile version of the artifact of healing. 
+Shooting the spirit will cause it to disappear.
+^PAGE 76
+^c7eARTIFACTS
+^G28,18,80
+^c00
+^c7aHoly Cross- ^c00Can be used to neutralize an artifact of death. There's no limit 
+for how many you can have at once, but they won't go with you to next level if you 
+don't use them. 
+Never be afraid of losing a holy cross. The levels were made in a way you will never 
+lose a necessary cross on a useless artifact.
+^PAGE 77
+^c7eARTIFACTS
+^G28,18,80
+^c00
+^c1bArtifact of Death- ^c00Like always, will kill you. You can only get rid of it 
+if you have a holy cross. 
+Artifacts of invincibility won't protect you.
+Artifacts of decay have no relation with this one.
+^PAGE 78
+^c7eDEMONIC TREASURES
+^G28,18,82
+^c00
+They come from the ancient temple. Demonic treasures will grant a high amount of 
+points, considering they are not that rare, when compared with the normal ones. 
+
+Scoring has a function now. Everytime you earn a life, you will also fully restore 
+your health. Will be very helpful sometimes. So, if you have some extra ammo/health, 
+take them.
+^PAGE 78
+^c7eDEMONIC TREASURES
+^G28,18,82
+^c00
+Studies have now revealed what each one of them does. You can analyze if you shall 
+take them or not.
+
+^c1bCursed Helmet- ^c00This helmet is a bit more dangerous than it looks. You will 
+lose 15 health points, and it will make the artifact of decay's effect worse, if 
+you got one, of course. It means you will die if you got two artifacts and take this 
+helmet.
+^PAGE 79
+^c7eDEMONIC TREASURES
+^G28,18,82
+^c00
+^c1bCursed Helmet- ^c00If you have at least 1 holy cross, you will lose only 4 health 
+points, but the cross won't cause any change concerning the decay. 
+Of course, you won't lose your cross by taking those helmets.
+
+^c16Possessed Skull- ^c00This one just takes away 5 health points, nothing else.
+
+^PAGE 80
+^c7eDEMONIC TREASURES
+^G28,18,82
+^c00
+^c25Soul Orb- ^c00The red essence will be unleashed on you, and everything will be 
+red for some time. But that's just some cool and loved by all effect. The orb will 
+also take away 10 bullets of your machine gun ammo and 5 of your rifle, if you have 
+enough to lose.
+^PAGE 80
+^c7eDEMONIC TREASURES
+^G28,18,82
+^c00
+^c1bDemonic Sphere- ^c00This is a cool item because it has a very nice face on it. 
+If your health is higher than 100%, it will be set to this value. If your rifle ammo 
+is higher than 45, will be set to 15. If your flamethrower ammo is higher than 60, 
+it will be set to 25. If you have more than 3 missiles, it will be set to 2. Check 
+your ammo carefully before taking this one.
+^PAGE 80
+^c7eDEMONIC TREASURES
+^G28,18,82
+^c00
+^c1bUnholy Cross- ^c00The first ones will not do anything. After you grab 4, you 
+will lose 40 health points. Differently from holy crosses, this one will go with 
+you to next levels. 
+If you die (not due to the crosses), the count will not be resetted. It will only 
+restarts after you get 4 of them.
+^PAGE 80
+^c7eDEMONIC TREASURES
+^G28,18,81
+^c00
+There new threats that still have unknown effects for us. They were not found on 
+the temple, so we don't know from where they come from. These ones seems to be like 
+artifacts, not treasures. 
+Take them at your own risk, but pay attention on their consequences, and see if they 
+worth the sacrifice.
+^PAGE 80
+^c7eHEALTH ITEMS
+^G28,18,84
+^c00
+Those are the added health items. The rest you all know very well how they work.
+
+
+^cd5Wild Mushroom- ^c00They grow mainly on outdoor ambients, but can also be found 
+on nasty places. Mushrooms can be taken until you have 150% HP, but you can't know 
+if they are poisonous or not. Eat it and find out. They will grant you 11hp or take 
+away 12hp.
+^PAGE 81
+^c7eHEALTH ITEMS
+^G28,18,84
+^c00
+^cd5Field Surgeon Pack- ^c00The best health item, except for the artifact of life. 
+Grants you 50hp, but won't increase your health beyond 100%. It will always completely 
+cure you from the artifact of decay.
+
+^cd5Green Dope- ^c00Grants 4hp, and also increases your health beyond 100%. It's 
+like mushrooms, but without the negative side.
+^PAGE 81
+^c7eHEALTH ITEMS
+^G28,18,84
+^c00
+^cd5Red Dope- ^c00Will boost your health when lower than 50%, and will take it away 
+when higher. You'll lose even more health if it's higher than 99%.
+
+^cd5Holy Drink- ^c00Special drink made with the artifact of healing. Drinking it 
+makes your health keep regenerating over time. If you drink another one before its 
+effects end, the time count will restart.
+^PAGE 82
+^c7eHEALTH ITEMS
+^G28,18,84
+^c00
+^cd5Portable Medkit- ^c00You can take this one and use it when you like by pressing 
+"Backspace". Works like a first aid kit.
+^PAGE 82
+^c7eARMOR
+^G28,18,85
+^c00
+Armor is also shown on your status bar. It works like a secondary health system.
+
+The damage you receive is not equally divided between health and armor. The more 
+armor you have, the better it will work, what makes sense, since it will poorly protect 
+you when it is damaged, full of bullet holes. In other words, get your armor to 0 
+isn't an easy thing.
+Those items can be found and can be dropped by enemies that clearly wears them.
+^PAGE 83
+^c7eLEVELS
+^c00
+The game has XX levels. Many of them will end without the need of using an elevator, 
+so don't think we forgot about the exit. 
+
+On this game, there are no boss levels. It doesn't mean there are no bosses, but 
+the levels are not designed based on a single boss fight. Besides that, kill, treasure 
+and secret statistics, along with the time on those levels, will now count for your 
+final statistic. And bosses won't be just "shoot and kill" now. They had an enhanced 
+development.
+^PAGE 83
+^c7eLEVELS
+^G88,18,86
+^c00
+There are 4 secret levels. Like before, you will know there's one in the level you're 
+playing if you pay some attention, but doesn't mean you will know how to go there. 
+
+And the Orb of Fate is back. We made a tolerance now, you won't have to find them 
+all to play more 3 levels, after the game ends. Those levels can only be played by 
+taking those orbs, and cheating them will not work, so don't waste your time.
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+We changed something about them. Some weapons now have elemental damage, and some 
+kind of damages won't work well on certain enemies, or will work better than the 
+others, or simple won't work at all. They also will drop random loot sometimes.
+
+I'll be honest here. I'm tired of creating stories for those lousy guys you know 
+well, so, for some of them, I'll just give their resistances, weaknesses and hitpoints.
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9a Wermacht Guard
+^C00HP: 25              
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9a SS Soldier
+^C00HP: 100             
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9aMutant
+^C00HP: 45             
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9a Officer
+^C00HP: 50            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9aMutant Guard
+^C00HP: 120            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9aMutant SS
+^C00HP: 300         
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9aMutant Officer
+^C00HP: 160            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9aBattle Mutant
+^C00HP: 25             
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9a Doctor
+^C00HP: 35            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c2170%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,87
+^c9a Scientist
+^C00HP: 40            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c2170%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aElite SS Soldier
+^C00HP: 130            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aWaffen SS Soldier
+^C00HP: 145           
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aHigh Ranking Officer
+^C00HP: 90           
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aRocket Guard
+^C00HP: 200            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aFlamethrower Guard
+^C00HP: 220            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c2130%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aChain Gun Guard
+^C00HP: 300            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c2130%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,88
+
+
+
+
+
+
+
+^c9aCeiling Chain Gun
+^C00HP: 150            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c210%              ^c00Fire - ^c2150%
+^c00Toxin - ^c2140%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,89
+
+
+
+
+
+
+
+^c9aSS Sergeant
+^C00HP: 350            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,89
+
+
+
+
+
+
+
+^c9aSS Captain
+^C00HP: 850            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c2180%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c65130%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,89
+
+
+
+
+
+
+
+^c9aUbermutant
+^C00HP: 900            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c2180%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,89
+
+
+
+
+
+
+
+^c9aUltramutant
+^C00HP: 1100           
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c2160%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+
+^C00HP: 850            
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c2180%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c65130%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,89
+
+
+
+
+
+
+
+^c9aSkull Mutant
+^C00HP: 2200            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c2140%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c2180%
+^C00Death - ^c210%              ^c00Fire - ^c2170%
+^c00Toxin - ^c2140%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,92
+^c9aMutantuber
+^c00
+Undead humans that suffured innumerous process after they were turned into mutants. 
+Now they are bigger and stronger. Even after death, they were somehow brainwashed, 
+so they won't show rage tantrums and turn against nazis.
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+For this reason, they are often used as bodyguards against demons, which can't be 
+fully trusted by anyone.
+
+^C00HP: 500            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c2170%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c65130%
+^C00Death - ^c2150%             ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,106
+^c9aFake Hitler
+^c00
+They are not real humans, just robots with weapons attached to the chest. Fake Hitlers 
+were designed as Hitler's bodyguards. The ones you destroyed before facing the Fuhrer 
+were prototypes. Now they have been upgraded.
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+Fake Hitlers' flamethrower have a faster projectile now, and they can try to trick 
+you by shooting missiles after you defeat them. They won't ressurect.
+
+^C00HP: 350            
+^C00Mutant Serum - ^c210%      ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c82100%
+^C00Death - ^c2130%             ^c00Fire - ^c82100%
+^c00Toxin - ^c2170%
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,105
+^c9aOtrebor
+^c00
+Some kind of intelligent mutant. This type was developed mainly for the temple exploration. 
+Nazis believed that demons were just another kind of animals that could bring some 
+virus or somthing like that. To avoid contaminations, this black suit was
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+developed. It wasn't in vain. Even though there are no deceases to annihilate humans, 
+it grants some extra protection to the mutant.
+For some reason, the same thing that keeps Otrebor intelligent also makes it lose 
+its undead abilities. In other words, it's a different living being. Mutated, but 
+alive.
+^C00HP: 600           
+^C00Mutant Serum - ^c82100%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%        ^c00Electricity - ^c2180%
+^C00Death - ^c82100%            ^c00Fire - ^c82100%
+^c00Toxin - ^c2120%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,90
+^c9aMutant Willie
+^c00
+This is an experiment, made with the mutant serum and some technology. It's not a 
+mutated human, but an android that uses mutant blood and organs in a mechanical body 
+based on Submarine Willie. Why we don't know. But this is a proof that
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+nazis are falling. First, they used dead humans as soldiers. Then, they use the organs 
+of the killed undead humans in a machine. You can expect anything from them.
+
+^C00HP: 1200           
+^C00Mutant Serum - ^c210%    ^C00Physical - ^c2170%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c83100%
+^C00Death - ^c2140%           ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,104
+^c9aSentinel
+^c00
+As the name says, it's a robot that guards severaçl places around the nazi complex. 
+They have a huge energy cell inside their core that enables them to shoot electrical 
+discharges at you from a good distance. Sentinels are pretty fast for their weight,
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+and also very agressive. They can't lock their aim on you if your are not close to 
+them, so stay moving, as their attacks can kill you in a second.
+
+^C00HP: 750           
+^C00Mutant Serum - ^c210%    ^C00Physical - ^c2160%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c83100%
+^C00Death - ^c210%            ^c00Fire - ^c2180%
+^c00Toxin - ^c2150%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,91
+^c9aGolem
+^c00
+When nazis found the temple, they were just stationary statues around the place. 
+With the Angel of Darkness' destruction, they absorbed some of the released energy 
+and became alive. They even have blood inside their bodies.
+^PAGE 83
+^c7eKNOWN ENEMIES
+^c00
+This shows that golems were in a dormant state, but they are real living beings. 
+At least, that's what we think. Their bodies are still made of rock, what grants 
+them good resistances.
+
+^C00HP: 300           
+^C00Mutant Serum - ^c210%    ^C00Physical - ^c2150%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c2120%
+^C00Death - ^c2180%           ^c00Fire - ^c2110%
+^c00Toxin - ^c2150%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,109
+^c9aHellkeeper
+^c00
+They simple spawned on the temple after some time, probably when golems came back 
+to life. 
+Just look at them and you'll know they are dumb creatures, and work as a dog for 
+other demons. Their bodies are always tired due to their
+^p
+^c7eKNOWN ENEMIES
+^c00
+enormous weight, what makes them a pretty easy foe when compared to others, but their 
+mass also grants a good resistance to bullets.
+
+^C00HP: 550           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c2170%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c82100%
+^C00Death - ^c82100%          ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,95
+^c9aCacodemon
+^c00
+A flying ball with one eye and a big mouth. They spit thunderballs, but it's a different 
+kind of energy. Has electrical properties, but it also drains energy of any life 
+form it touches, what highly suggests a death based damage.  For this reason, if 
+you
+^p
+^c7eKNOWN ENEMIES
+^c00
+get an artifact of invincibility, you won't receive the projectile damage, but still 
+will have some of your life drained. Cacodemons can also bite you if you get too 
+close, and it deals a huge damage.
+
+^C00HP: 480           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c2120%
+^C00Death - ^c2180%           ^c00Fire - ^c82100%
+^c00Toxin - ^c65130%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,108
+^c9aSabreclaw
+^c00
+They are one of the minor threats around. Sabreclaws are physically weak and doesn't 
+have any magical abilities. 
+The axe attached to their arms is not enough to deal a good damage. 
+The main problem is that they are usually 
+^p
+^c7eKNOWN ENEMIES
+^c00
+not alone. If you don't kill them quickly and keep running away from them, you can 
+get trapped, and their bodies will explode when defeated. 
+
+^C00HP: 400           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c82100%
+^C00Death - ^c82100%           ^c00Fire - ^c82100%
+^c00Toxin - ^c65130%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,107
+^c9aAfrit
+^c00
+Afrits are a burning gargoyle-like creature. They resemble desperate souls escaping 
+from the fiery pit quite well.
+Like golems, they are also made of rock, as you'll see after killing one, and use 
+fire to attack too.
+Their projectiles will
+
+^p
+^c7eKNOWN ENEMIES
+^c00
+retarget on you after a certain travelled distance, and they can keep doing it indefinitely. 
+So, avoid open areas.
+Even though they are made of rock, the mutant serum will work, as its chemicals will 
+react with the skin of this monster and create an unknown and powerful acid.
+
+^C00HP: 800           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c82100%
+^C00Death - ^c82100%          ^c00Fire - ^c210%
+^c00Toxin - ^c65110%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,99
+^c9aHellknight
+^c00
+One of the most common kind of demons. It's the weakest member of the minotaur race, 
+but stills much stronger than a human. 
+Hellknights can shoot a series of slow fireballs and attack you with their claws, 
+if they have a chance. 
+^p
+^c7eKNOWN ENEMIES
+^c00
+They are not that dangerous if you know how to take care of them. Just keep an eye 
+open to their projectiles if they come with other kind of demons with faster ones. 
+You can easily lose the attention and get caught in a trap.
+
+^C00HP: 600           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c2170%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c82100%
+^C00Death - ^c82100%          ^c00Fire - ^c2190%
+^c00Toxin - ^c65120%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,94
+^c9aBaron of Hell
+^c00
+Enforcers of doom. When a hellknight kill someone, they can drain off their life 
+and boost their own power. You can see the life force on their hands. If they drain 
+enough, they will evolve into a baron of hell.
+This one is much more
+^p
+^c7eKNOWN ENEMIES
+^c00
+dangerous. The physical strenght is enhanced and they will shoot much faster projectiles 
+with more frequency.
+
+^C00HP: 1300           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c2160%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c82100%
+^C00Death - ^c2180%           ^c00Fire - ^c2180%
+^c00Toxin - ^c65130%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,100
+^c9aMinotaur
+^c00
+Another kind of minotaur; it's not related to hellknights. Still, they share some 
+cooperativism. 
+Minotaurs belong to a superior class of demons, what makes them more dangerous than 
+barons of hell.
+They carry a big hammer and use it to
+^p
+^c7eKNOWN ENEMIES
+^c00
+summon hellfire. 
+Minotaurs are very agressive and also fast. Don't get close to them. Their hammer 
+swing can easily kill you instantly.
+
+^C00HP: 2100           
+^C00Mutant Serum - ^c82100%  ^C00Physical - ^c2160%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c2170%
+^C00Death - ^c2180%           ^c00Fire - ^c2170%
+^c00Toxin - ^c65120%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,97
+^c9aHellspawn
+^c00
+The ultimate stage a hellknight can achieve. Their body now actually has more energy 
+than they can handle, so it became something not really physical, what makes them 
+extremely resistant foes.
+Fortunately, 99% of all hellknights usually get
+^p
+^c7eKNOWN ENEMIES
+^c00
+defeated before becoming a hellspawn. You won't find many of them.
+They can shoot a real fast and deadly fireball. You shall always keep moving, as 
+you may not have time to avoid it.
+
+^C00HP: 2800           
+^C00Mutant Serum - ^c210%    ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c2150%
+^C00Death - ^c2110%           ^c00Fire - ^c210%
+^c00Toxin - ^c82100%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,101
+^c9aCommando
+^c00
+People who are completely corrupted by the darkness. It's unknown why this happens 
+to some people.
+Those guys lost their sanity, just wandering around looking for a new target. Yes, 
+they lost their minds, but not their intelligence.
+^p
+^c7eKNOWN ENEMIES
+^c00
+Commandos carry a chain gun, and are deadly with it. If you get too close, you will 
+be aimed easily, and they won't stop shooting until you are dead.
+
+^C00HP: 395           
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c82100%
+^C00Death - ^c2190%           ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,103
+^c9aRevenant
+^c00
+They do have a human resemblance, but no one knows if they are an undead person/demon 
+or if they are naturally a skeleton. The gear seems to hold up some fresh organs, 
+what suggests life.
+Mounted launchers will shoot you a homing 
+^p
+^c7eKNOWN ENEMIES
+^c00
+fireball. It won't stop chasing you until it hits something. A revenant can also 
+punch you, and is a very powerful attack, considering the lack of muscles.
+
+^C00HP: 600           
+^C00Mutant Serum - ^c210%    ^C00Physical - ^c65140%
+^C00Explosions - ^c82100%      ^c00Electricity - ^c2130%
+^C00Death - ^c2110%           ^c00Fire - ^c2160%
+^c00Toxin - ^c65110%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,96
+^c9aCorrupted Cacodemon
+^c00
+Like commandos, demons can also be corrupted. But they don't lose their sanity. Instead, 
+they have their power increased. Whatever this is, it started some time before you 
+found the urn. It's related to a greater evil we still know nothing about.
+^p
+^c7eKNOWN ENEMIES
+^c00
+They won't attack you with thunderballs anymore, but with a powerful blue flame. 
+Those demons now use their life drain abilities without their projectiles. If you 
+get close enough, you will start dying, even if you already killed the creature.
+
+
+^C00HP: 800           
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c82100%
+^C00Death - ^c2180%            ^c00Fire - ^c2180%
+^c00Toxin - ^c65120%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,102
+^c9aPain Elemental
+^c00
+Their appearance is not very frightening. Pain elementals are wise as humans. 
+Actually, they have almost no attack power. Their main purpose is summon the weaker 
+demons lost souls and help plague the world. 
+We thought they were
+^p
+^c7eKNOWN ENEMIES
+^c00
+created by the Spear of Abyss, but it just summoned them. They even share come similarity 
+with the Angel of Darkness. Probably it's easier for them to come to our plane, considering 
+their unique abilities.
+When destroyed, they will release all their energy or more flamming skulls at you.
+
+
+^C00HP: 525           
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c2180%
+^C00Death - ^c2170%            ^c00Fire - ^c2180%
+^c00Toxin - ^c65120%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,98
+^c9aWeredragon
+^c00
+Like dragons, they can spit fire. Like werewolves, they are hard to kill. 
+Weredragons have an amazing regenerative ability. They completely cure all their 
+wounds in seconds, but their energy supply is not unlimited. Since we have no silver 
+bullets
+^p
+^c7eKNOWN ENEMIES
+^c00
+to test, you will have to put them down everytime they stand up again. Be sure they 
+are dead before you walk away.
+
+^C00HP: 520           
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c2180%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c82100%
+^C00Death - ^c82100%           ^c00Fire - ^c2190%
+^c00Toxin - ^c65130%
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,93
+^c9aArch-vile
+^c00
+The closest thing to a living revenant, and just like them, arch-viles will use fire 
+as a weapon. 
+Their projectile does not consist of concentrated energy on its core, like most others. 
+It's a huge energy spread and contained in a certain
+^p
+^c7eKNOWN ENEMIES
+^c00
+area, therefore it won't get destroyed by hitting you, but will pass through and 
+keep burning you, even from some distance. It will also bounce on anything it can 
+hit. 
+
+^C00HP: 900           
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c65120%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c82100%
+^C00Death - ^c2180%            ^c00Fire - ^c210%
+^c00Toxin - ^c65110%
+
+
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,115
+^c9aMancubus
+^c00
+Well known for you at this point. The huge amount of tumors shows how instable this 
+creature is. The test with the serum was considered too dangerous to have continuity, 
+but don't be afraid of using syringes on them. The serum must be given 
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,115
+^c9aMancubus
+^c00
+to them slowly, to let their body metabolize it properly.
+Projects or protoypes of their weapons were never found, so it may be their own technology. 
+It's believed the energy released by the missile propulsion is stored in the containner 
+on
+^p
+^c7eKNOWN ENEMIES
+^c00
+their back, and then absorbed by their bodies, causing the tumors. Energy is matter, 
+so it even makes some sense. 
+
+^C00HP: 950           
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c2120%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c82100%
+^C00Death - ^c2190%            ^c00Fire - ^c82100%
+^c00Toxin - ^c65130%
+^PAGE 83
+^c7eKNOWN ENEMIES
+^G28,18,116
+^c9aIncarnation of Death
+^c00
+Corrupted revenants. They now seem to have some skin protecting their organs. 
+Their attacks are very similar to a normal revenant's one, only with slightly differences. 
+
+The name "Incarnation of Death" is 
+^p
+^c7eKNOWN ENEMIES
+^c00
+suggestive. Don't be fooled.
+
+^C00HP: 700          
+^C00Mutant Serum - ^c210%     ^C00Physical - ^c65120%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c2120%
+^C00Death - ^c2110%            ^c00Fire - ^c82100%
+^c00Toxin - ^c82100%
+
+^p
+^c7eKNOWN ENEMIES
+^G28,18,111 
+^c9aHunter
+^c00
+As we already knew, they belong to a superior class of demons. 
+Hunters are very resistant, agile and agressive. If you let them get too close, you 
+can die easily. The danger they offer is similar to the one offered by a minotaur.
+
+^p
+^c7eKNOWN ENEMIES
+^c00
+Attacks consist of some kind of acid slobber, as well as a poisonous gas that spread 
+quickly over the place. And their big mouth and throat provide a nice scream, loud 
+enough to affect you.
+
+^C00HP: 2400          
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c2170%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c65110%
+^C00Death - ^c82100%           ^c00Fire - ^c82100%
+^c00Toxin - ^c65120%
+
+^p
+^c7eKNOWN ENEMIES
+^G28,18,112 
+^c9aPopulator
+^c00
+A pain elemental variant. This monster doesn't use lost souls as weapons, but as 
+soldiers. Since it can summon an unlimited amount of them, you must focus on the 
+populator immediately, or you may not have enough ammo to get rid of its small army.
+
+^p
+^c7eKNOWN ENEMIES
+^c00
+The totally black eye suggests populators are blind, and even though they are walking 
+warehouses of demons, they are not that dangerous. It will just let its minions do 
+the job, as it has no attacks at all.
+
+^C00HP: 720          
+^C00Mutant Serum - ^c82100%   ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c82100%
+^C00Death - ^c2170%            ^c00Fire - ^c82100%
+^c00Toxin - ^c65110%
+^p
+^c7eKNOWN ENEMIES
+^G28,18,110 
+^c9aNightmare
+^c00
+This is a gas-like enemy. It's unknown if they follow orders from a superior entity 
+or if they are just evil spirits trying to bring havoc to our world.
+For some reason, they dislike light, choosing dark and isolated places to stay
+^p
+^c7eKNOWN ENEMIES
+^c00
+Nightmares hardly search for a fight actually, but they will fiercely attack anyone 
+when disturbed.
+Their fighting style is uncommon. Seems like they use pain elementals as puppets 
+and containers for their own projectiles. Remember that those elementals are very 
+unstable, so strange things can happen.
+^C00HP: 1600         
+^C00Mutant Serum - ^c210%     ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c82100%
+^C00Death - ^c2120%            ^c00Fire - ^c65120%
+^c00Toxin - ^c82100%
+^p
+^c7eKNOWN ENEMIES
+^G28,18,113 
+^c9aFirespawn
+^c00
+You first saw them when fighting the Reiver. It's very possible they are its followers 
+and protectors. Since they only appeared inside the demonic sphere created by the 
+demon overlord, we can assume they need some greater power
+^p
+^c7eKNOWN ENEMIES
+^G28,18,113 
+^c9aFirespawn
+^c00
+around them to survive, so don't expect meeting them very often. 
+Also, one of those creatures are responsible for having stolen the ashes of the Reiver, 
+so keep your eyes open for the urn.
+^p
+^c7eKNOWN ENEMIES
+^c00
+Their attacks consist of fire streams. If you get close, you can be heavily wounded 
+instantly.
+
+^C00HP: 1600         
+^C00Mutant Serum - ^c210%     ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c2150%
+^C00Death - ^c2120%            ^c00Fire - ^c210%
+^c00Toxin - ^c2170%
+^p
+^c7eKNOWN ENEMIES
+^G28,18,114 
+^c9aBloodspawn
+^c00
+After encountering those creatures, we concluded they are actually a demon that posses 
+the matter around them and use it as their own body.
+They have some similarity with the soul orbs. It's possible they're just tormented 
+spirits 
+^p
+^c7eKNOWN ENEMIES
+^c00
+seeking revenge against something they don't even know what it is.
+Still, they are dangerous, though slow. Maybe because moving blood around is much 
+harder than moving gas, but it also grants them some more powerful abilities.
+
+^C00HP: 1600         
+^C00Mutant Serum - ^c210%     ^C00Physical - ^c82100%
+^C00Explosions - ^c82100%       ^c00Electricity - ^c65150%
+^C00Death - ^c2120%            ^c00Fire - ^c2130%
+^c00Toxin - ^c2130%
+^p
+^c7eWEAPONS
+^c00
+Here are the weapons you'll find in the game, besides your usual knife and pistol.
+
+Each one of them have their own ammo type, except for the pistol and the classic 
+machine gun, that use the same kind.
+
+Usually, enemies will drop ammo for the weapon they carry, but doesn't mean you should 
+use the same weapon as them, as they can be resistant or even immune to that kind 
+of damage.
+^p
+^c7eWEAPONS
+^c00
+The "physical" type of damage is NOT related to weapons that use bullets, but is 
+related to a specific weapon, and the "explosion" type is exclusively related to 
+missiles.
+
+The resistance to bullets is already represented by the enemy's hp, so every single 
+of them receives the same amount of damage caused by this kind of ammo. This is also 
+applied to the knife's damage.
+^p
+^c7eWEAPONS
+^c00
+Another important change. Here, when you get a powerful weapon, you won't receive 
+the weapons that come before the one you found. You'll only have the weapons you 
+effectively take.
+
+Keep in mind that the damage of the weapon you are using is reduced if you are far 
+from your enemy, but this is only applied to non-projectile weapons. Weapons like 
+the flamethrower and the rocket launcher will always cause the same average damage.
+
+^p
+^c7eWEAPONS
+^c00
+And the fire rate and damage caused by the weapon are completely fictional. None 
+of them were based on the real weapons.
+
+So there's a very high chance they are all wrong, but they were made so each one 
+could have different performances and could be useful in certain situations.
+Is up to you finding out when you should use them.
+^p
+^c7eWEAPONS
+^c00
+^G36,23,117
+^C67Machine Gun
+^c00
+Classic weapon., mainly used by the SS. Finding it won't be hard, doesn't matter 
+which level you are.
+
+Max Ammo:   200
+Max Damage:  55
+Fire Rate:    350 shots/min
+^p
+^c7eWEAPONS
+^c00
+^G36,23,117
+^C67Chain Gun
+^c00
+Firstly only used by the big bosses. Now they are common around the nazi troops.
+
+
+Max Ammo:   200
+Max Damage:  60
+Fire Rate:    705 shots/min
+^p
+^c7eWEAPONS
+^c00
+^G36,23,117
+^C67Rifle
+^c00
+It's a slow and powerful weapon. Usually, the damage caused by a weapon decreases 
+with the distance, but with this one, the damage reduction is much less intense.
+
+
+Max Ammo:    50
+Max Damage:  175
+Fire Rate:     55 shots/min
+^p
+^c7eWEAPONS
+^c00
+^G36,23,117
+^C67Sten SMG
+^c00
+Corcerning fire rate, this weapon stays between the machine gun and the chain gun. 
+Since it causes more damage, the maximum ammo allowed is reduced.
+
+Max Ammo:   150
+Max Damage:  65
+Fire Rate:    515 shots/min
+
+^p
+^c7eWEAPONS
+^c00
+^G36,23,117
+^C67Nordenfelt
+^c00
+Has the highest fire rate of the bullet users. Careful, as you will tend to waste 
+your ammo easily with this weapon.
+
+Max Ammo:   150
+Max Damage:  70
+Fire Rate:   1045 shots/min
+
+^p
+^c7eWEAPONS
+^c00
+^G36,23,117
+^C67Mounted Weapon
+^c00
+This is a stationary weapon. You can't walk around with it, but it will always be 
+there if you need. Its ammo is endless.
+
+Max Ammo:   ---
+Max Damage:  80
+Fire Rate:    495 shots/min
+
+^p
+^c7eWEAPONS
+^c00
+^G36,23,118
+^C67Flamethrower
+^c00
+The flames are not that powerful, but since they are slow, you can use it to your 
+advantage. Their hit area is also pretty large.
+
+Max Ammo:   80
+Max Damage:  80
+Fire Rate:    350 shots/min
+
+^p
+^c7eWEAPONS
+^c00
+^G36,23,118
+^C67Rocket Launcher
+^c00
+Both the missile impact and the explosion will damage your enemies, but it can also 
+hurt you, if you are too close.
+
+Max Ammo:    5
+Max Damage:  730
+Fire Rate:    150 shots/min
+^p
+^c7eWEAPONS
+^c00
+^G36,23,118
+^C67Firewall
+^c00
+A special weapon developed to destroy demons. Doesn't mean it won't work against 
+humans, but most demons are weak against its toxin.
+The projectiles are short ranged and cause damage over time.
+
+Max Ammo:              500
+Instantaneous Damage: very low
+Fire Rate:       2160 shots/min
+
+^p
+^c7eWEAPONS
+^c00
+^G36,23,118
+^C67Blitzgewehr
+^c00
+Electric weapon, like a thunder machine gun. More powerful than the flamethrower, 
+and the projectiles are also faster.
+
+Max Ammo:    80
+Max Damage:  120
+Fire Rate:  420 shots/min
+^p
+^c7eWEAPONS
+^c00
+^G36,23,118
+^C67Panzerfaust
+^c00
+A panzerfaust destroys itself after a single use. The missile is just a bit more 
+powerful, so this weapon may not be very useful. Use it wisely.
+
+Max Ammo:     1
+Max Damage:  1050
+Fire Rate:     ---
+^p
+^c7eWEAPONS
+^c00
+^G36,23,118
+^C67Mutant Serum
+^c00
+You can now use their own serum against them. Since they are alive, the serum won't 
+turn them into mutants, but can kill them.
+
+Max Ammo:    50
+Max Damage:  120
+Fire Rate:     ---
+
+^p
+^c7eWEAPONS
+^c00
+Considering the distance you'll be from enemies and that you will miss several shots, 
+your average damage will be always MUCH lower than the maximum damage you can cause 
+per shot. That's just to give you an idea of their fire power.
+
+So, how to know which weapon you can use in which enemy? Basically, use your common 
+sense to find it out. 
+The serum won't work on mutants neither on undead creatures, or anything that doesn't 
+have veins.
+^p
+^c7eWEAPONS
+^c00
+Fire won't work on fiery enemies, and electricity won't work on insulator materials. 
+Is not that hard, you don't have to memorize what won't work in every enemy.
+
+Besides the weapons mentioned before, there are secret ones on the game: 1 you will 
+find later on the game, the others you may or may not find. 
+^p
+^c7eWEAPONS
+^c00
+And by "secret weapons", we're not saying they are located behind secrets. You can 
+find more information during your gameplay. Or not.
+^p
+^c7eWEAPONS
+^c00
+^G36,23,124
+^C67Landmine
+^c00
+You can use landmines anywhere, just remember that you can also trigger it by stepping 
+on it, and they won't explode until someone does it. Activated mines will make a 
+noise to warn you they are not there to be picked up.
+^p
+^c7eWEAPONS
+^c00
+^G36,23,124
+^C67Molotov
+^c00
+You have to charge it to throw the bottle farther. Hold the key P to charge it and 
+use the fire button to throw it. The bottle hit will cause extra damage to your enemies, 
+but its flames will also damage you, if you are close enough. 
+^p
+^c7eGUN POWDER
+^c00
+^G36,23,119
+You can find this powder around the levels and use them on the reloading tool by 
+pressing the space bar. Once you do this, you'll be able to choose to which weapon 
+you want to make your ammo.
+You can only make bullets, not missiles or whatever. So you can choose between machine 
+gun, chain gun, rifle, sten smg, rifle or nordenfelt. The amount of powder you have 
+is displayed on the right corner of the screen, and you won't lose them by completing 
+the level.
+^p
+^c7eTOOLS USED
+^c00
+^c35ChaosEdit- ^c00Minor replacements; some graphic and sound exporting.
+
+^c35WDC- ^c00General mapping; massive graphics importing; readthis! making; tests; 
+headaches and errors.
+
+^c35RecolorBMP- ^c00Some recolors; pallete fixing.
+
+^c35Sound Forge- ^c00Sound effects; frequency changes.
+
+^p
+^c7eTOOLS USED
+^c00
+^c35Voice Changer- ^c00Used to record original wolf musics in MP3 format.
+
+^c35Nero WaveEditor- ^c00 Musics compression.
+
+^c35PhotoStyler- ^c00Some graphical changes.
+
+^c35IrfanView- ^c00Resizing enemies; graphics extraction.
+
+^c35SLumpEd, XWE- ^c00Extracting enemies, sprites, walls and sounds from several 
+games.
+
+^p
+^c7eTOOLS USED
+^c00
+^c35Wolf4SDL- ^c00The base engine of this game (thanks Ripper). Already comes with 
+several implemented tutorials.
+
+^c36DevC++- ^c00Code compilation.
+
+^p
+^c7eCREDITS
+^c00
+^c7bWSJ, Kuki- ^c00Teaching us how to compile the code (was for Borland and like 
+10 years ago, but helped a lot); coding tutorials; graphics; sounds.
+
+^c7bRipper- ^c00Creating the WOLF4SDL engine; several amazing tutorials.
+
+^c7bMCS- ^c00Tutorials (teleports, info about weapons and seamless level progression). 
+Also inspired us with ideas to implement in the game.
+
+^C7bAReyeP- ^c00Graphics, sounds and also inspired us.
+
+^p
+^c7eCREDITS
+^c00
+^c7bMajik Monkee- ^c00Hosting some enemies we used on this game. Too bad his site 
+is long dead.
+
+^c7bJames Ingham- ^c00Graphics. 
+
+^c7bChris- ^c00Provided very nice informations at the diehardwolfers board. Wish 
+you a lot of pizza. Special thanks for the extra walls tutorial.
+
+^c7bAlumiuN- ^c00For the advanced sound manager tutorial. May be a beta, but works 
+nicely.
+^p
+^c7eCREDITS
+^c00
+^c7bPaal Olstad- ^c00Explosion and rocket launcher's projectile routine. Yah, he 
+gets mad when people forget his name.
+
+^c7bAriel Castanares- ^c00Explained me a little about how sprites are coded into 
+the game. Have no idea how long ago it was.
+
+^c7bCodeTech- ^c00Area of effects and intermission screens tutorials.
+
+^c7bDugtrio17- ^c00Used his "usable static objects" code as a base for the mounted 
+weapon.
+^p
+^c7eCREDITS
+^c00
+^c7bWolf3dbreaker- ^c00For the reinforcements code. Is a bit hard to use, but is 
+good enough.
+
+^c7bInsurrectionman- ^c00Animated walls.
+
+^c7bAdam Biser- ^c00Blake Stone doors code.
+
+^c7bWolferCooker- ^c00Provided several ideas for the game. Also provided several 
+sprites for static and bonus objects, as well as links to great resources we could 
+use. Created the syringe sprites and suggested to use
+
+^p
+^c7eCREDITS
+^c00
+^c7bWolferCooker- ^c00it as a weapon. Also submitted us vgagraph graphics and wrote 
+several stories for the levels.
+
+^c7bBrian Lowe- ^c00One of the main reasons why Wolfenstein is still alive today.
+
+
+^c7bID Software- ^c00Creating this game and Doom.
+
+^c7bMidway, Capcom, Eidos, Monolith, Nintendo, Konami, Raven Soft- ^c00Resources. 
+There are probably more I forgot.
+^p
+^c7eCREDITS
+^c00
+I really doubt everyone were credited here. There are so many names (weird names) 
+it's impossible to remember. Yes, we should have wrote them somewhere to put everyone 
+here, we know. It's our fault, so sorry if you are one of those people.
+^p
+^c7eTHAT'S IT
+^c00
+^G26,23,120
+Now you know everything you need to play this game (or should know at least). Remember 
+that more info will show up during your gameplay.
+
+Go and save the world once more.
+^E

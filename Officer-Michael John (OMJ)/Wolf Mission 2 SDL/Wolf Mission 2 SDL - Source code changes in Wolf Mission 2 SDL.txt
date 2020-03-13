@@ -1,0 +1,17 @@
+Change unsigned screenbits = -1 to 0 in ID_VL.CPP
+Added new sprite definitions  WL_DEF.H
+Added static sprites  WL_ACT1.CPP, WL_GAME.CPP
+Pushwalls always move 3 spaces  WL_ACT1.CPP,WL_DEF.H,WL_MAIN.CPP
+Increased max statics objects (MAXSTATS) and max soldier (MAXACTORS) for Wolf Misson 
+2 WL_DEF.H
+Music order changed WL_PLAY.CPP
+Re-written Gretel Grosse routine WL_ACT2.CPP
+Enable and adding 25 ammobox WL_ACT1.CPP, WL_AGENT.CPP
+Allow time greater than 99:99 to be shown  WL_INTER.CPP
+Scores over 10 million show on status bar WL_AGENT.CPP, WL_DEF.H, WL_GAME.CPP, ID_VH.CPP
+
+
+If anyone would like to use the source code before you report to me in e-mail.
+My e-mail:catekoprotokol@gmail.com
+
+

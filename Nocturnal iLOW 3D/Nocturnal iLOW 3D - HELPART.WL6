@@ -1,0 +1,345 @@
+^P
+^C7eINTRODUCTION
+
+		^C00Welcome to ^C96Nocturnal: iLOW3D ^C00(iLOW3D stands for "i Love Wolf3d"), the 
+both sequel and prequel of my previous mod called ^C96Trilogy: iLOW3D ^C00. This 
+game is a mod of Id Software's game, Wolfenstein 3D. This is my fifth Wolf3D mod 
+so far, and this uses Wolf4SDL source port. Basically this mod is my own remake of 
+last three episodes of Wolf3d. It has some features like weapon balancement, new 
+enemies, new weapons, and many more. Enjoy!
+
+^P
+^C7eTABLE OF CONTENTS
+
+
+^C00
+INTRODUCTION	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	1
+KEYBOARD CONTROLS	.	.	.	.	.	.	.	.	.	.	.	.	.	3
+THE STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6
+HEALTH 	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8
+WEAPONS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	9
+OTHER THINGS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	15
+CREDIT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	21
+CONTACTING THE AUTHOR	.	.	.	.	.	.	.	.	.	.	27
+
+^P
+^C7eKEYBOARD CONTROLS (default)
+^C00
+Arrows		Move/Turn
+Alt					Strafe
+Shift				Run
+Ctrl				Shoot/Attack
+Space			Use door, switch, or pick weapon
+1							Knife
+2							Pistol, dual pistol
+3							Rifle, submachine gun, assault rifle
+4						Chaingun, flamethrower
+5							Secret Weapon
+
+
+^P
+^C7eKEYBOARD CONTROLS (default)
+^C00
+M						Use portable medkit
+N						Drop weapon
+E							Use nightvision
+Q							Special use weapon
+
+
+^P
+^C7eKEYBOARD CONTROLS (default)
+^C00
+F1						Help
+F2						Save game
+F3						Load game
+F4						Sound menu
+F5						Resize view window
+F6						Controls menu
+F7						End Game
+F8						Quick Save
+F9						Quick Load
+F10					Exit to Windows
+
+^P
+^C7eTHE STORY
+
+^C4e(There was no official in-game story of this episode, so I'll tell you a little 
+about it here. -The Master)
+^G72,16,5
+		
+		^C00Hitler has planned a new war, dubbed the Giftkrieg. Instead of using normal 
+infantry/artillery, he has planned using super chemical weapons. 
+
+^P
+^C7eTHE STORY
+
+^C00These weapons are many times stronger than normal bombs or explosives, because 
+they use certain chemical ingredients. If these weapons are successfully used, and 
+the plan is executed, the Allies could be crippled and destroyed, permanently. The 
+allies have already found the location of the research and laboratories of these 
+weapons. You must travel to that place, and destroy any more continuing research 
+and production. You must also kill the scientist behind the matter, Otto Giftmatcher.
+
+
+^P
+^C7eHEALTH
+
+
+^G32,102,4   
+
+
+
+^C00Health works the same way as in the original Wolf3D (ie: when your health goes 
+to 0, you lose a life and have to the level start over.) However, now you can collect 
+portable medkit in case you can't find any health left over. To use the portable 
+medkit press ^C2d"Medkit" ^C00button. You can collect 3 portable medkits if you don't 
+have a backpack and 5 if you have a backpack.
+
+^P
+^C7eWEAPONS
+
+^G32,64,35   
+
+
+
+
+^C00To pick up a weapon you must press ^C67"Use" ^C00button. You can select the weapon 
+by pressing its number key. You can drop your weapon by pressing ^C75"Drop" ^C00button 
+and it will automatically drop your current weapon. The pistol and the machinegun 
+use the same ammo type. You can collect 100 of this ammo without a backpack and 200 
+with a backpack.
+
+^P
+^C7eWEAPONS
+
+^G32,64,35   
+
+
+
+
+^C00 The pistol cost ^C931 ^C00cappoint, dual pistol ^C932 ^C00(dual pistol = 2 pistols), 
+and the submachinegun ^C932 ^C00.
+
+
+
+
+
+^C26 What is cappoint? see page 17.
+
+^P
+^C7eWEAPONS
+
+^G32,36,141   
+
+
+
+
+^C00 As you can see here, the assault rifle (cost ^C932 ^C00cappoints) use the same 
+ammo type like the rifle and sniper rifle (cost ^C932 ^C00cappoints) do. You can 
+collect this ammo until 100 without a backpack and 200 with a backpack. To use sniper's 
+scope, press ^C43"Special" ^C00 button to use it.
+
+^P
+^C7eWEAPONS
+
+^G32,88,34
+
+
+
+
+^C00 The chaingun use it's own ammo and you can collect this ammo until 200 without 
+a backpack and 400 with a backpack. This weapon very powerful and very useful againts 
+boss or large cluster of enemy. This heavy weapon cost ^C933 ^C00cappoints.
+
+
+^P
+^C7eWEAPONS
+
+^G32,112,33
+
+
+
+
+^C00 The flamethrower use the fuel and you can collect the fuel until 50 litre without 
+a backpack and 100 litre a backpack. This weapon very powerful in close range but 
+you can't use this weapon for far distance. This weapon cost ^C933 ^C00cappoints.
+
+
+^P
+^C7eWEAPONS
+
+^G32,96,154
+
+
+
+
+^C00 The Rocket Launcher is very powerful weapon, you can collect the rocket until 
+10 without a backpack and 20 a backpack. It has blast damage, so be careful. This 
+weapon very effective in long distance and group of enemies. This weapon cost ^C933 
+^C00cappoints. 
+
+^P
+^C7eSECRET WEAPONS
+^G32,128,142
+
+
+
+
+
+^C00There are three secret weapons in the game, each pickable from secret level of 
+each episode. You don't have to find them to win the game, but you will be rewarded 
+for POWERFUL and VERY USEFUL weapon if you find it. In addition these weapon don't 
+cost any cappoint but it will lose if you die (but in WOLF4SDL_EASY you don't lose 
+it).
+
+^P
+^C7eOTHER THINGS
+
+^G32,128,140
+
+
+
+
+^C00 The backpack increase the maximum ammo of weapons and increase the cappoint 
+limit to 9 (while the cappoint limit is 6 if you don't have). In original Wolf3d, 
+the 1-up give you full health (100%) and 25 ammo and 1-up (of course), but in this 
+game it's not give you ammo but it will add your health to 125%. If your health above 
+or equal to 125% it will only give a 1-up.
+
+^P
+^C7eOTHER THINGS
+
+^C00 What is cappoint? cappoint is the value of how much you can carry the weapons. 
+For example if you don't have any backpack you only can carry pistol, machinegun, 
+chaingun (since 1+2+3=6) or the weapon with total cappoints greater or equal to 6. 
+So you can't carry flamethrower, chaingun, machinegun at once (3+3+2>6) without backpack. 
+To increase the limit you must pickup the backpack (up to 9) or reduce your cappoints 
+by drop one or more of your weapon.
+
+^P
+^C7eOTHER THINGS
+
+^G32,128,152
+
+
+
+
+^C00 Watchout! the nazi put many landmines especially in outside are, so make sure 
+you don't step on them. There are nightvision in episode 6. It can be useful for 
+hiding enemies and it has unlimited battery, so don't worry about it. To use it press 
+^C2d"Nightvision". 
+
+
+^P
+^C7eOTHER THINGS
+
+^G32,60,153
+
+
+
+
+
+
+
+^C00 The ladder will bring you to another place. To use it press ^C67"Use" ^C00button 
+in front of it. There are mounted gun in this game. To use it press ^C67"Use" ^C00button 
+in front of it. This weapon doesn't cost any ammo but it has overheat limit.
+
+
+^P
+^C7eCREDITS
+
+		^C00Though I put this mod together myself, there are other people who deserve credit 
+for some things in the game. This is a list of people (besides myself) whose work 
+was used in the making of this mod. I apologize if I left out anyone.
+
+
+^P
+^C63Coding
+
+^C82Mcs ^C00- episode reducing, teleporter, blocking code, enemy picked up item, 
+teleport ceiling changes
+^C82Ripper ^C00- different door sides
+^C82Poet ^C00- rocket tutorial
+^C82WSJ ^C00- in-game messages, overheating weapon 
+^C82thejosh ^C00- enemy attack randomly
+^C82Luke Strauman ^C00- new ammo type, SOD music
+^C82Codetech84 ^C00- episodes must be completed in order, centered windowed, seeker 
+missile, door switch
+
+
+^P
+^C63Coding
+
+^C82Tricob ^C00- adding new options to the controls menu
+^C82Texzk ^C00- zoom effect
+^C82Matthew ^C00- explosion
+^C82Chris ^C00- door switch
+^C82Dugtrio17 ^C00- bouncing projectile
+
+^P
+^C43Graphics
+
+^C82Giorgio ^C00- wall texture compilation
+^C82WSJ ^C00- enemy sprites
+^C82Majik Monkee ^C00- rifle, flamethrower, his website
+^C82Macdeeweaponinfo ^C00- Shotgun sprite
+^C82Gerolf ^C00- one-hand pistol
+^C82AReyep ^C00- hitler statue, wall texture 
+^C82WolferCooker ^C00- weapon and enemy sprite compilation
+
+
+^P
+^C43Graphics
+
+^C82Justin ^C00- weapon
+^C82DooM ^C00- backpack
+^C82Doomjedi ^C00- his artwork collection
+^C82Spear lost episode ^C00- wall textures, weapon
+^C82Spear of destiny ^C00- sprite, wall texture
+^C82Wolfenstein 3d ^C00- sprites, wall texture
+
+^P
+^C23Sound and Music
+
+^C82Wolfenstein : Enemy Territory ^C00- weapons
+^C82Call of duty ^C00- weapons
+^C82MaFI0s0 ^C00- chaingun
+^C82CS 1.6 ^C00- no ammo effect
+^C82Spear lost episode ^C00- enemy
+^C82Spear of destiny ^C00- music
+^C82Wolfenstein 3d ^C00- main sound, music
+
+^P
+^CA9Tools
+
+^C47Floedit ^C82- Florian Stohr
+^C47Chaosedit ^C82- Chaos Software
+^C47CodeBlock ^C82- Code :: Blocks team 
+^C47MsPaint ^C82- Microsoft Corporations
+^C47Audacity ^C82- The Audacity Team
+^C47Adobe Photoshop CS4 ^C82- Adobe Systems
+^C47RecolorBMP CS4 ^C82- Adam Biser 
+
+^P
+^C7eSpecial Thanks
+
+^C78Id Software ^C00- for creating Wolf3D and other great games which defined the 
+FPS genre of video games, and for releasing the Wolf3D source code to the public.
+
+
+^C78Ripper and Chaos Software ^C00- for creating the Wolf4SDL source port.
+
+^C78Brian Lowe ^C00- for running the Wolfenstein 3D Dome website, for posting my 
+mods and others on his websites, and for helping to preserve an overall interest 
+in Wolfenstein 3D.
+
+^P
+^C7eCONTACTING THE AUTHOR
+
+		^C00If you have questions or comments about this game, you contact me. But please 
+keep it polite.^_^ And please don't ask me for cheat codes, I removed them on purpose. 
+
+
+e-mail 		: ^C22ipank7000@fmguy.com ^C00
+^E

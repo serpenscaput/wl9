@@ -1,0 +1,97 @@
+Romanstein Caverns
+by Zap Studios
+
+Fumbling through hundreds of different Wolfenstein mods, I discovered a bunch
+of features that inspired me to create this game. The beautiful graphics and
+great maps used by Mr. Choi in his game Hotel Romanstein were highlights in
+my venture, but I wanted them to be combined with some features I had found in
+other Wolfmods, such as full-screeen, instant loading, and other features. So,
+I decided that it would be interesting to create a game using Mr. Choi's
+graphics, combined with my own and favorites I had discovered in other Wolfmods,
+
+then presenting it with 16 of the best maps I could create or find.
+
+Originally, I created the game for my own amusement and enjoyment, but the
+outcome resulted in a game that I decided might be of interest to other Wolfmod
+fans, so I decided to release it as freeware. Diehard fans will appreciate the
+new features.
+
+You are Captain Zoom, lost in Romanstein Caverns, and surrounded by beautiful,
+merciless formidable Amazon warriors. Filled by a strong yearning to escape
+back to the world of your loved ones and friends, driven by that one desire to
+the point of obsession, you must escape, yet you are surrounded by enemies who
+are totally against your victory.
+
+It's kill or be killed as you fight your way to escape! It won't be easy as you
+venture through level after level of complex situations. Good luck in your
+adventure! You will create your own story as you go along!
+---------------------------------------
+
+Features;
+
+9 New Levels
+Multiple Ceiling + Floor Textures
+Full Screen
+More Objects
+Directional Sprites
+Animated Objects
+Seamless Level Progression
+Ingame Messages 
+Level name on the Get Psyched screen
+Changed Cheat Codes
+Inter Mission Screens
+New Doors
+Muntant's can't open doors
+Quit Messages replaced with graphics
++ More
+---------------------------------------
+
+Credits;
+
+Many of the graphics came from Mr. Choi, from some I had created over the
+years, and others from other Wolfmod games. I learned the programming from
+studying the Wolfmod games of Michael Collin and others.
+Other Wolfmod games can can be found on the
+Wolfenstein mod site http://www.users.globalnet.co.uk/~brlowe/index.html.
+
+Mr. Choi's Hotel Romanstein games were an inspiration.
+
+Of course I must give thanks to ID Software for the classic Wolfenstein 3d and
+Spear of Destiny, without which there could be no mod games.
+
+I wanted to convert the sound to the sounds used in Hotel Romanstein, but have not 
+figured out how to do this. If any ambitious person out there knows how to put some 
+of Mr. Choi's sound effects from Hotel Romanstein into this game, email me a copy 
+and I will update the game.
+---------------------------------------
+
+Tools used;
+
+Borland 3.1 C++: Code Compiling
+Floedit
+Mapedit
+Wolfedit
+Varsity Text Editor
+Deluxe Animation
+Paintbrush
+ChaosEdit: Importing graphics/textures/sprites/sounds/ and Level Creation
+Notepad: Soure Code Editing/This/Helpart etc
+IMF Creator; Music
+---------------------------------------
+
+Hints;
+You may also experience the sound cutting out. If this happens just press T-A-B to
+
+fix it.
+When you approach a barrel puzzle it is a good idea to save your game. 
+---------------------------------------
+
+Thank You for Playing Romanstein Caverns! 
+If you enjoy this then you should check other mods at:
+http://www.users.globalnet.co.uk/~brlowe/index.html.
+---------------------------------------
+
+If you like this game drop me an email at Acordgames@Juno.com.
+Also, you can download Zapagame, a menued presentation of 250 Shareware and
+Demo games, at Celebration4all.com.
+---------------------------------------

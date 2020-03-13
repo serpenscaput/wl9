@@ -1,0 +1,41 @@
+ZW1 Lost Level 0
+
+By De Zeurkous
+
+Copyright (C) Erik Bogeholt, 2004
+E-Mail: aWolfaZeura@zonanet.nl (remove all the ``a'' characters)
+
+Document last changed: November 8, 2004 at 10:42am.
+
+Frequently Asked Questions
+
+Who are you?
+
+I'm a Dutch male, 17 years old.
+
+What is ZW1 Lost Level 0 ?
+
+It's an unfinished level that never made and
+will never make it to the completed phases
+of ZW1. I'ts only released for curiosity.
+
+How do i install the level?
+
+1. Install a fresh copy in a new directory of Wolfenstein 3-D Full Version.
+2. Get and install MapEdit for DOS (last version) from http://www.wolfenstein3d.co.uk
+
+   in the new directory and unpack the WOLF.ZIP file in the same directory.
+2. Start MapEdit, press C at the swap drive question, press R, type ``LOST0'', press
+
+   ENTER, press T, press Q, and finally press Y.
+3. Run WOLF3D.EXE, and have fun!
+
+How do i contact you about these levels?
+
+Send an E-Mail to the above adress, and put
+the text ``ZW1LOST0'' into the subject line. It
+helps me sort mails.
+
+What if i find a bug?
+
+Let it rest in peace.

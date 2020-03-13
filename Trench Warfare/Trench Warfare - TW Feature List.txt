@@ -1,0 +1,33 @@
+Never before seen features:
+
+- Gun Flash when firing
+- Player can "bleed" to death
+- Iodine tablets required for drinking water
+- Uniform disguise allows player to walk by enemies unnoticed, and access restricted 
+areas
+- Damaging barbed wire
+- Portable Health item
+- Defense maps
+
+Extra features not seen in the orignal Wolfenstein 3D:
+
+- Hi-res Weapon sprites
+- Textured Floors/ceilings
+- Atmosphere effects (rain/snow)
+- Fog/shading
+- Ambient sounds
+- Drivable vehicle
+- Rocket Launcher
+- Ammo bandolier allows player to carry more ammo
+- High damage bolt-action rifle
+- 2 extra keys w/corrisponding doors
+- Animated static sprites
+- Directional static sprites
+- Full Screen display
+- Weapon recoil/kick
+- In-game messages
+- New enemy
+- Enemy blocking tiles
+
+Trench Warfare also features ALL NEW graphics, ALL NEW sound effects, And ALL NEW 
+maps. It's like a whole 'nother game.

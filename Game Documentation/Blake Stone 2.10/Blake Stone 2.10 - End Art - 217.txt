@@ -1,0 +1,2 @@
+^ST1^CEPress a number to select a floor.
+^CE(0 selects floor 10)^XX

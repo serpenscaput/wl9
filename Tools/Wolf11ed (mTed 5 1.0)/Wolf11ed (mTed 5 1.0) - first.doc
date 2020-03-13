@@ -1,0 +1,24 @@
+*** First ***
+
+A handy little utility for Wolf3D v1.1 (registered episodes 1-6)
+
+usage:
+
+first <epsiode> <level>
+
+what it does:
+makes the level on the command line first.
+
+so typing
+FIRST 3 5
+
+makes the first level in epsiode 5, level 3 and the third, level 1.
+(thus typing first 3 5 will reverse the change)
+
+** WARNING ** - its easy to get confused using this program and it alters
+                the files MAPHEAD.WL6 and GAMEMAPS.WL6
+        MAKE SURE YOU HAVE A BACKUP OF THESE FILES IN CASE THEY GET
+        SCREWED UP
+
+for info about authors/where to send comments, see file README.TXT
+

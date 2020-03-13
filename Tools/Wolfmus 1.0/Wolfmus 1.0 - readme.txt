@@ -1,0 +1,42 @@
+
+
+Wolf3d Music Player 1.0 - by Martin Fernandez
+-----------------------------------------
+
+	This is a new music player, designed to play the original
+'Wolfenstein 3D' and 'Spear of Destiny' tracks. All of them are included (I ripped 
+them from the audio file), so any secret tunes
+are there too. This is freeware, so do what you want with it.
+
+Requirements and OS info:
+------------------------
+	You need an Adlib card or any Adlib-compatible one (all SoundBlaster's should work), 
+just like in the game. Right now, it 
+doesn't check or auto-detect it, but that shouldn't be a problem.
+It will run in DOS or in a DOS window under Win9x. If Windows asks
+you to run it in MS-DOS only mode, you can answer 'No' and it should
+still work fine. Note that when you leave the player in the background,
+the sound will freeze until you switch to it again (just like the
+game does).
+
+
+Installation:
+------------
+	Remember to unzip all the files to the same directory, and to
+check your MIDI volume settings if no sound comes when you run it. 
+Once you execute it, just use the keys listed on the screen. Any other
+will exit the program.
+
+
+Misc. info:
+----------
+	You can switch from song to song in a linear order, turn on/off
+each of the nine voices and speed up/slow down the tempo. The first 27
+tracks are all the 'Wolf' ones, and the rest are tunes that appear 
+only on 'Spear of Destiny' (which are marked with a [SPEAR] sign).
+The titles were taken from the hidden jukebox of the game, or from
+the filenames if the song was not listed in the jukebox.
+
+
+Comments to mfernan@cnba.uba.ar
+	

@@ -1,0 +1,153 @@
+
+For viewing, extracting and replacing wall pictures, sprites and sounds
+     in any Wolfenstein3D/spear related VSWAP file. Also for wolfenstein v1.
+
+                          -Using the program-
+*Select an item in the list to view/hear or replace.
+*Animate any set of selected walls or sprites.
+*For walls and sprites, click the picture and see the figure against a
+   background with floor and 'normal' ceiling colors for that level.
+*The current picture/sound is stored in the program directory as
+   wp.bmp/wp.wav from where it can be opened in an editor, such as Floedit,
+   or another opened VSWAPED program.
+*VSWAPED has all the features of the former Wolfenpack 3.8, plus:
+   Supports big graphics (128x128 pixels), edits data, adds items.
+
+                              -Controls -
+*Open a vswap file with 64x64 or 128x128 pixels graphics. 
+               The latest used file is loaded by default.
+               Big files take some time to load. Click the 'STOP' text
+               to stop the process if you don't want this particular file.
+
+*Palette tool :The 'Palette tool' enables you to extract the color palette
+               of a game in a few minutes. See the palette tool's help file.
+
+*LOG          :A cumulative logfile with the changes you have made. It can
+               be marked, copied and deleted like any other text.
+
+<my portrait> :View this helpfile.
+
+                            ---on opening---
+
+ To the right is a colored column which shows the occupied pointers, and the
+    current item's place. Further right a list of all the elements.
+    To the left is a big picture of the selected item.
+
+----------------------------further controls-----------------------------------
+
+*Descriptions: Opens a descriptions file. You must open one the first time
+   you run the program. If you CANCEL opening, no descriptions will be used.
+
+*The multicolor button opens a new palette file (*.pal or *.act), else the
+   program decides what palette will be used for images (wolfenstein or spear).
+
+*Set the level number to see the 'normal' ceiling colors.
+
+*Save Selected: Select any set of items and save them all. If the filename
+   is 'default', the items will be saved as 'wallxxxx.bmp', spritexxxx.bmp,
+   soundxxxx.wav' where xxxx is its number.
+   If 'default' is replaced with a name, fex 'pq', the items will be saved as
+   'pqwallxxxx.bmp', 'pqspritexxxx.bmp', pqsoundxxxx.wav'.
+   Pictures will be saved with the palette in use.
+-------------------------------------------------------------------------------
+*  Details show the number of possible wall, sprite and sound pointers
+   and how many of them are used in this vswap file.
+   Item details can be shown in decimal or hex. The true data size is shown,
+   not the allocated space. For sounds, the duration in seconds is shown,
+   for sprites is shown the packing of its data ('light' or 'tight').
+
+*You can disable/enable seeing images in the list.
+
+*3 Boxes show picture coordinates, palette index and the color itself.
+
+*EDIT: Opens or closes the EDIT panel.
+
+---------------------------------about EDIT------------------------------------
+
+                    -Replacing walls, sprites or sounds-
+
+ ^ *Select the item to be replaced.
+ | *from file : Import the item from a file (*.bmp or *.wav). 
+ | *from app  : Import from this file OR: start a new VSWAPED program,
+ |          select an item in the new VSWAP file, click the APP button
+ |          in the old program, then the item is copied to there.
+ |          When finished, close the new VSWAPED program.
+ | *For sprites, you may check 'Tight' and save some space, allowing for more
+ |          complicated sprites (more stuff put into 4096 bytes).
+ |          My 'tight' packing is quite good, but probably not the best.
+ |_*Click *USE to incorporate the new item into the vswap file.
+   *Repeat the steps above as much as you need.
+   *You can *UNDO all replacements made since you started the program.
+   *When finished, click *SAVE TO GAME and save the modified file.
+            Option: Make a backup copy (name+'bk') of the original file.
+
+*RESTORE GAME: Restore the game's vswap file from the backup copy.
+
+                    ---controls below the big picture---
+
+                For walls and sprites:
+*<number>      :Set animation frame speed in ms for walls and sprites.
+*Animate       :Start or stop animation.
+*(<)and(>)     :Step through the animated frames.
+*<radio btns>  :Choose frame system used (pacmen/superguards/guards).
+                OR you can select any number of items. The animation goes
+                through the selected items in table order, repeating.
+
+*<sqare,arrow>: For sounds: Stop or start playing.
+
+***********Advanced: Adding items to the mod, Editing descriptions*************
+
+*Click <the Professor>. Thhen you can add items to the VSWAP file and edit
+   descriptions.
+   In fact you can add anything, and the mod still works, but          beware!
+   You can add walls, but nothing else useful unless you recompile the engine!
+   In a shareware mod: if you also fill in vacant pointers, you can get a
+   total of 128 walls! This is the normal maximum for useful walls in a mod.
+  *click in the list to select category (walls,sprites,sounds).
+   For walls you must SELECT the FIRST door image.
+  *Adjust the number of items you want to add.
+  *Click ADD. For walls in a shareware mod you can fill out vacant pointers
+   OR add the selected number.
+  *If you regret, click UNDO.
+  *When finished, click EDIT and SAVE the vswap file. Maybe make a backup.
+   ADDing items will update the list and the logfile.
+
+ Descriptions are not essential for using the program, but if you are
+   interested, you can click on the professor and 'Descriptions' and then
+   edit the file.
+!! ALTERING THE DESCRIPTIONS FILE WILL NOT AFFECT THE VSWAP FILE IN ANY WAY !!
+!! The list to the right shows only names for USED pointers                 !!
+  *Now new controls appear. You can change, add or delete a line in the file.
+   You must *USE changes to keep them and save them later.
+   You can  *UNDO changes made since the latest save. 
+   To add an item, select an item image and click 'New line' (over) or
+  'New next line' (under the selected line), and add a comment of any length.
+   For doors you should select the first door line and click 'new next line'.
+   Do this as many times as needed. Now edit the names of the new lines.
+   NB: Door images are almost always the last of the wall images. There is
+   nothing in the VSWAP file to tell where doors start, so the first door line
+   is marked 'Doors'. Walls and doors have 2 images each, sprites normally one,
+   but for actor sprites you must set the number of common images, fex.
+   51 mutants. If you want to make a new file, it is best to modify an existing
+   one, fex. wolfenstein.txt or spear.txt, and save the result under another
+   name. R O M.txt explains how the file is made up.
+*******************************************************************************
+
+                                 ---NOTES---
+
+     -Pictures must be in bmp format, but can be of any size. If needed,
+      the colors will be resampled to the nearest colors in the game palette,
+      and the picture will be resized to 64x64 or 128x128 pixels. The
+      aspect ratio is NOT preserved. Use an image editor if you need more.
+
+     -the compressed size of a 64x64 pixel sprite must not exceed 4096 bytes!
+
+     -Sounds must be 8-bit mono in RIFF wav format and less than 65536 bytes
+      (duration 9.5 sec). If wanted they are resampled to the standard 6896 Hz
+      of the game (using linear interpolation).
+
+      This program runs on 64-bit machines and in some respects it works
+      better than Floedit II, such as in handling sprites and big graphics.
+
+                                                http://vincentius.dk
+                                                  mail@vincentius.dk

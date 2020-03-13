@@ -1,0 +1,15 @@
+The Last Mission: SDL Version
+
+The original 10 level shareware set was made by Martin. 
+
+
+Running in DOS hints:
+
+The Dos exe has been included too but if this is used then delete the supplied config.wl1 
+file before playing. 
+
+Also, saved games made with the Dos version are not compatible with those made with 
+SDL.
+
+
+

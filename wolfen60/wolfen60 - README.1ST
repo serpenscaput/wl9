@@ -1,0 +1,18 @@
+This is an update to the original WLF60.ZIP. It corrects an error in
+level 9 of the first episode which prevented the player from ending the
+episode. The docs have also been cleaned up, added to, and corrected.
+
+Players with Version 1.1, please note that as presently constituted, WLF60
+aborts with errors. As soon as I can get a copy of Vers. 1.1, I will test
+with it and try to fix whatever is causing the errors. No errors have been
+reported using Version 1.2 yet.
+
+If you've extracted this file from the package first, then please note that
+the rest of the package should be unzipped into its own directory. Read
+Manual.Doc for instructions on how to get started.
+
+To print any manual (Manual.Doc, Wolftips.Doc, and Player.Doc), just copy
+them to your printer using the DOS copy command. There is minimal formatting
+contained in the documents. No page is longer than 58 lines and there are
+page skips at the end of each page. No document is greater than 12 pages.
+

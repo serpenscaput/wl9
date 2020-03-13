@@ -1,0 +1,21 @@
+So You Wanna Be An Assassin? by John Bucksnort (spear mod)
+original DOS release: 12 September 2001
+
+Spear of Destiny (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+New EXE for DOS based on Wolf3d source by id Software
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Spear of Destiny
+Unique SDL config and saved game names
+
+Both SDL and DOS EXEs contain:
+
+Spear of Destiny signon screen
+Pushwalls always move 3 spaces
+Endgame ratios adjusted for 3 levels with multiple endings
+Increased actor and static object limits slightly
+Corrected Angel of Death level indicator
+Corrected endgame trigger tile response for Spear
+No boss end level messages
+Tab+S to toggle hitwall/spacebar sounds

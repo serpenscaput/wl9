@@ -1,0 +1,133 @@
+
+Program: BLAKEMAP
+Version: 1.0
+
+Author : David Lummis
+Contact: Compuserve Id: 71534,3067
+
+Notes  : This program is used to generate ASCII maps for the Blake Stone
+         Aliens of Gold game.
+
+         This program has been tested with the shareware version of Blake,
+         version 1.0.  It has been designed to work with the 3 and 6 episode
+         versions of the game as well (assuming the encoding of the map files
+         doesn't change, etc, when they are released).
+
+         The /C, /T2, and /T3 options are intended for generating maps that
+         should be helpful if you want to modify the configuration file.
+         /T2 and /T3 will generate hex dumps of the maps so that you can
+         see what value has been assigned to something you see on the
+         screen.  The /FC option can be used to specify the name of an
+         alternate configuration file.
+
+         If you don't specify an episode and/or level number when you run
+         BLAKEMAP then the program will ask you for the missing information.
+
+Files  : BLAKEMAP.EXE   The executable program.  Type BLAKEMAP /? for summary.
+         BLAKEMAP.CFG   The BLAKEMAP configuration file.
+         BLAKEMAP.DOC   This documentation file.
+         BLAKEMAP.C     Source code for BLAKEMAP.EXE
+         BMAP1.L00      Text map for Episode 1 Level 0 (Secret level)
+         BMAP1.L01      Text map for Episode 1 Level 1 (Starting level)
+         BMAP1.L02      Text map for Episode 1 Level 2
+         BMAP1.L03      Text map for Episode 1 Level 3
+         BMAP1.L04      Text map for Episode 1 Level 4
+         BMAP1.L05      Text map for Episode 1 Level 5
+         BMAP1.L06      Text map for Episode 1 Level 6
+         BMAP1.L07      Text map for Episode 1 Level 7
+         BMAP1.L08      Text map for Episode 1 Level 8
+         BMAP1.L09      Text map for Episode 1 Level 9
+         BMAP1.L10      Text map for Episode 1 Level 10
+         BMAP1.LEG      Legend of characters used on the maps
+
+Install: Copy all the files into the Blake Stone data directory.  It is from
+         this directory that the program must be run.
+
+         For those that don't want to run the program, a set of maps has
+         already been created for all 11 levels of the shareware game.
+
+-------------------------------------------------------------------------------
+
+Syntax:
+
+  BLAKEMAP [ <option>[ ...]]
+
+Valid <option>s:
+
+  /L<n>      Level number (0 to 10, or * for all).
+  /G<n>      Game (episode) number (1 to 6).
+
+  /E-        Suppress display of enemies (/T0 maps only).
+
+  /O1        Display all objects.
+  /O2        Display non-trivial objects only. (default)
+  /O-        Suppress all objects (/T0 maps only).
+
+  /2         Use two characters per item on symbolic maps (/T0 and /T1 only)
+
+  /T0        Map type 0: Symbolic. (default)
+  /T1        Map type 1: Symbolic.
+  /T2        Map type 2: Full hex dump.  Not affected by /O.
+  /T3        Map type 3: Partial hex dump.
+
+  /C         Create a file containing counts of map and object values
+
+  /X         Display  hexadecimal X scale on maps. (default)
+  /X-        Suppress hexadecimal X scale on maps.
+  /Y         Display  hexadecimal Y scale on maps. (default)
+  /Y-        Suppress hexadecimal Y scale on maps.
+
+  /FC<file>  Filename of BLAKEMAP Configuration file (default is BLAKEMAP.CFG)
+
+  /?         Display this help screen.
+  /?-        Display this help screen (no pausing).
+
+
+Required files:
+
+   The current directory is searched for the following files:
+
+      1) The program will first look for MAPHEAD.BS6 (which will should
+         contain all 6 episodes).
+
+      2) If MAPHEAD.BS6 was not found, it looks for MAPHEAD.BS3 which should
+         contain episodes 1 to 3.
+
+      3) If MAPHEAD.BS3 was not found, then it looks for MAPHEAD.BS1 which
+         should contain episode 1 only (shareware version).
+
+      4) When generating maps, BLAKEMAP will also look for the appropriate
+         MAPTEMP.BS? (BSTONE v1.0) file.  If MAPTEMP.BS? is not found it
+         will search for GAMEMAPS.BS? (GAMEMAPS was the name used for v1.1
+         and later of WOLF3D).
+
+      5) The program will search the current directory for the configuration
+         file BLAKEMAP.CFG.  If you have used the /FC option, then BLAKEMAP
+         will look for the configuration file you have specified instead.
+
+
+Files created:
+
+  Opt  Filenames         Type          Map contents
+  ---  ----------------  ------------  -------------------------------------
+  /T0  BMAP<g>.L<nn>     Symbolic.     Map and object data.
+       BMAP<g>.LEG       Legend.       List of symbols used on maps.
+
+  /T1  BMAP<g>L<nn>.T1A  Symbolic.     Map and object data.
+       BMAP<g>L<nn>.T1B  Symbolic.     Map data only.
+       BMAP<g>L<nn>.T1C  Symbolic.     Object data only.
+       BMAP<g>.LEG       Legend.       List of symbols used on maps.
+
+  /T2  BMAP<g>L<nn>.T2A  Full hex.     Map and object data.
+       BMAP<g>L<nn>.T2B  Full hex.     Map data only.
+       BMAP<g>L<nn>.T2C  Full hex.     Object data only.
+
+  /T3  BMAP<g>L<nn>.T3A  Partial hex.  Map and object data.  No floors.
+       BMAP<g>L<nn>.T3B  Partial hex.  Map data only.        No walls.
+       BMAP<g>L<nn>.T3C  Partial hex.  Object data only.     No 00's.
+
+  /C   BMAP<g>.COU       Table.        Count of map and object data by level
+
+  where: <g>  = game  number (1 to 6)
+         <nn> = level number (00 to 10)
+

@@ -1,0 +1,56 @@
+
+                .-^^^ E N C R A P M E N T ^^^-.
+                        . . . . . . . .
+
+Welcome to Encrapment *Beta*. You are about to experience one
+of the most revolutionary and retarded mod ideas in the world.
+Enjoy!
+
+
+  ABOUT:
+
+Encrapment is a mod/conversion of the game Wolfenstein 3D.
+Its goal is (guess) to encrap it.
+
+*Beta* is not the final version and is dedicated to beta
+testers. It replaces all Wolfenstein 3D wall textures,
+sprites and misc. game graphics (such as menu, ReadThis, etc.)
+
+The final version will feature:
+ - Compatibility with the full version of Wolfenstein 3D
+ - Encraped menu/ReadThis fonts
+ - Encraped sounds
+
+
+  INSTALLATION:
+
+This mod requires the shareware version of Wolfenstein 3D.
+You get it from: ftp://ftp.3drealms.com/share/1wolf14.zip
+a) Unzip all *.WL1 files from this archive into your
+Wolfenstein 3D folder b) Launch the game.
+
+
+  PROCESS OF ENCRAPMENT:
+
+Encrapment uses JPEG engine to optimise the quality of an
+extracted art element. The original 256 color palette then
+is applied. Finally, the element is to be imported
+back to Wolf3D. Sprites require quite a bit more work,
+because of the transparent background, which is destroyed
+by the JPEG optimisation mechanism. The work includes lots
+of cropping and pixel drawing, and that is the reason why
+this beta is so delayed.
+
+
+  AUTHOR:
+
+Ueberwolf <-> ueberwolf@yahoo.ca
+
+At the moment Encrapment is located at:
+http://shitcore.projektas.lt/mod/enc/
+
+
+  CREDITS:
+
+None!!
+

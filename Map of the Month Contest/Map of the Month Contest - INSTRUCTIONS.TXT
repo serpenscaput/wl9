@@ -1,0 +1,485 @@
+For convenience, map one of the gamemaps in this month's package has the top and 
+left rows of the map set to allow for default settings as follows:
+
+Dark grey ceiling
+Light grey floor
+Shading off
+Crosshair off
+(and if you use teleporters, the above four settings stay the same)
+Blocking tiles block EVERY enemy
+ALL enemies can open locked doors
+Health, ammo and treasures are all worth the usual default values (1st aid kit restores 
+25 points health, dinner 10 points, ammo crate gives 25 ammo, etc etc)
+Enemies cannot use health items
+Player starts with a gun and 8 rounds of ammo
+Weapons do NOT jam
+Bosses ALL drop GOLD keys
+Par time set to 10 minutes
+In game messages have white text with grey shadow
+
+NOTE: WolfMMC2C.exe allows for 700 static sprites per level, 200 enemies and 150 
+objects on screen at once, and this is the exe we will be using for October.
+
+When referring to "values" in the map, it means the number value assigned to a particular 
+map wall texture. Please see the end of this text file to see a list of the first 
+90 textures and their corresponding numbers that are used to create various effects 
+in the map.
+
+
+
+The mapdata.def file contains the numbers relating to other textures (these can be 
+viewed from in Mapedit using the left/right arrow keys).
+
+
+THE TOP ROW OF THE MAP - Coordinates [0,0] to [63,0]
+====================================================
+
+
+-------- GENERAL FEATURES --------
+
+[0,0] = Song to be Played for your episode (Songs 0 to 36)
+[1,0] = The Ceiling Colour for your Map (ie: Map choice Invalid "0" placed on this 
+spot gets colour 0, black, from the games palette. See the image "Game Palette" to 
+see the colours according to number) 
+[2,0] = Floor Colour for your Map (same setup as Ceiling Colour) 
+[3,0] = Starry Sky Toggle (0 = Off) 
+NOTE: The ceiling colour would normally be black if you enable a starry sky, however 
+other effects can be achieved eg: a crimson ceiling would create the effect of a 
+blood red sky, and a red moon with this could be quite effective. Playing with the 
+shading settings to create a red haze may add to the effect.
+[4,0] = Moon Colour (only if 3,0 enables the starry sky) 1=White Moon, 2=Red, 3=Blue
+
+[5,0] = Rain-Snow Toggle (2=Rain, 3=Snow, anything else = No Rain/Snow) 
+[6,0] = Shading Off (0=Turn Off shading for this level only, 1 or anything else turns 
+shading on) 
+NOTE: If you have a starry sky, be careful if you choose to use shading, as it can 
+cause the moon to look odd with "non shaded corners".
+[7,0] = Crosshair Off (0=Turn Off crosshair for this level only, 1 or anything else 
+turns crosshair on)
+NOTE: The included file "Floor Colour and Ceiling chart.gif" makes choosing floor 
+and ceiling colours easy! It shows a complete list of textures corresponding to which 
+colours you can use for ceilings and floors!
+
+
+
+-------- TELEPORTING --------
+
+These values determine what colour ceiling/floor an area you teleport to will have. 
+If you want the player to teleport to an outside area, then you can insert the value 
+"0" in [10,0] so as a night sky will be displayed. Use the same values as in coords 
+[1,0] - [4,0] if you don't want different ceiling/floor colours (for when you're 
+teleporting within a room or area).
+
+[8,0] = Ceiling Colour Warped 
+[9,0] = Floor Colour Warped 
+[10,0] = Starry Sky Warped 
+[11,0] = Moon Colour Warped
+[12,0] = Rain/Snow Warped
+[13,0] = Shading Off Warped (0=Turn Off shading, 1 or anything else turns shading 
+on) 
+[14,0] = Crosshair Off Warped (0=Turn Off crosshair, 1 or anything else turns crosshair 
+on)
+
+
+
+-------- BLOCKING TILES --------
+
+The map coordinates [15,0] - [26,0] determine which enemies can cross a blocking 
+tile object.
+A value of "0" = Not able to cross.
+Any other value and they CAN cross.
+[15,0] = Dogs Cross 
+[16,0] = Guards Cross 
+[17,0] = SS Cross 
+[18,0] = Officer Cross 
+[19,0] = Mutant Cross 
+[20,0] = Hans Cross 
+[21,0] = Gretel Cross 
+[22,0] = Gift Cross 
+[23,0] = Fat Cross 
+[24,0] = Schabbs Cross 
+[25,0] = Mecha Hitler Cross 
+[26,0] = Real Hitler Cross 
+
+
+
+-------- LOCKED DOOR SETTINGS --------
+
+These allow for even more control... While you can use the Blocktile above to control 
+enemy movement, you can now also use these 4 settings for even more control... 
+Using these coordinates: 
+
+[27,0] = Gold/Yellow Locked Doors 
+[28,0] = Silver/Blue Locked Doors 
+[29,0] = White Locked Doors 
+[30,0] = Red Locked Doors 
+
+You can now tell who can open the locked door by minimum enemy type... eg: if you 
+don't want Guards or SS to open those doors, but you want the Officers or better 
+to use the door... then you put the proper wall value on that coordinate...
+
+The values are: 
+
+1 = Guard, 2 = SS, 3 = Officer, 4 = Mutant, 5 = Hans, 6 = Gretel, 7 = Gift, 8 = FatFace, 
+9 = Schabbs, 10 = MechaHitler, and 11 = Real Hitler 
+
+Suppose you don't want Guards or SS to open a locked door of say Gold/Yellow. To 
+achieve this place wall value 2 on map coordinate [27,0]. If the door is open anyone 
+can come through and use it, but if it's closed, Guards and SS can't open it, whilst 
+Officers, Mutants and all bosses can. 
+
+Ghosts and Dogs can't open doors so there is no setting for them. If you want no-one 
+to open a locked door, place a value of 12 and no enemy can open the locked door. 
+A value of "0" means that all enemies can open that locked door type.
+
+
+
+-------- HEALTH ITEM VALUES --------
+
+[31,0] = First Aid Kit Value (For usual value of 25, you'd place texture no. 25 here 
+<purple stone with blood>)
+[32,0] = Food Plate Value (For usual value of 10, you'd place texture no. 10 here 
+<wood panel with eagle>)
+[33,0] = Dog Food Value (For usual value of 4, you'd place texture no. 4 here <grey 
+stone with Hitler pic>)
+[34,0] = Gibs Value (For usual value of 1, you'd place texture no. 1 here <grey stone>)
+
+
+
+
+-------- AMMO/WEAPON VALUES --------
+
+[35,0] = AmmoBox Value (For usual value of 25, you'd place texture no. 25 here <purple 
+stone with blood>)
+[36,0] = Full Clip Value (For usual value of 8, you'd place texture no. 8 here <blue 
+stone>)
+[37,0] = Used Clip Value (For usual value of 4, you'd place texture no. 4 here <grey 
+stone with Hitler pic>)
+[38,0] = Ammo for Weapon Pickup (For value of say 6, you'd place texture no. 6 here 
+<grey stone with eagle>)
+
+
+
+-------- ENEMY HEALTH --------
+
+[39,0] = Enemies using health items (0 = Enemies can't pick up Health items, 1 or 
+higher = Enemies can pick up Health items if they need it)
+
+
+
+-------- BONUS ITEM POINT VALUES --------
+
+IMPORTANT NOTE: All these values are multiplied by 100.
+[40,0] = 1Up Bonus Value (For say a 1500 point bonus, you'd place texture no 15 here 
+<steel panel>)
+[41,0] = Cross Value (For usual value of 100, you'd place texture no. 1 here <grey 
+stone>)
+[42,0] = Chalice Value (For usual value of 500, you'd place texture no. 5 here <blue 
+stone with empty cell>)
+[43,0] = Chest/Bible Value (For usual value of 1000, you'd place texture no. 10 here 
+<wood panel with eagle>)
+[44,0] = Crown Value (For usual value of 5000, you'd place texture no. 50 here <elevator 
+rails with swastika>)
+
+So if, for example, you wished to make a treasure chest worth 3000 points, you'd 
+merely place texture number 30 (brown cave with blood 1) at coordinate [43,0]
+
+
+
+-------- IF PLAYER STARTS WITH ONLY A KNIFE --------
+
+[48,0] = If set to 0, Guards Drop Ammo only. If set to 1 or other, Guards drop Pistol.
+
+So you would use setting 0 if you want to place the gun the player has to find, and 
+setting 1 or above if you want the player to get a gun from the first guard he kills.
+
+NOTE: Coordinate [61,0] determines what weapon the player starts with - see below.
+
+
+
+
+-------- IF PLAYER STARTS WITH A GUN --------
+
+[49,0] = If set to 0, SS Drops Ammo only. If set to 1 or better, SS drops the Machinegun.
+
+So you would use setting 0 if you want to place the machinegun the player has to 
+find, and setting 1 or above if you want the player to get a gun from the first SS 
+he kills.
+
+
+
+-------- WEAPON JAMMING --------
+
+[50,0] Weapons jamming (0 = Disable Weapon Jam, 1 = Enable Weapon Jam)
+[51,0] If Weapon Jamming is Enabled, 0 = Weapon jams momentarily then works again, 
+1 = weapon is lost if it jams
+
+
+
+-------- WHAT THE BOSSES DROP --------
+
+[54,0] = Hans Drop Value
+[55,0] = Gretel Drop Value
+[56,0] = Giftmacher Drop Value 
+[57,0] = Fatface Drop Value
+[58,0] = Schabbs Drop Value
+[59,0] = Mecha Hitler Drop Value
+[60,0] = Real Hitler Drop Value
+ 
+Drop Values (0= drop nothing?, 1=Gold key, 2=Silver key, 3=White key, 4=Red key, 
+5=Master key, 6=1up)
+
+
+
+-------- OTHER VARIABLES --------
+
+[61,0] = Starting Weapon (0 = Player will start with Knife, 1 or above = Players 
+starts with gun and 8 rounds)
+NOTE: If you put texture number 0 (invalid/blank) at coordinate [63,63], then you 
+retain the weapons and ammo you've accumulated for the start of the next level (for 
+use if this package is used as the base for a mod)
+[62,0] = Par time Minutes (texture 1 = 1 min, 2 = 2 min, etc)
+[63,0] = Par time Seconds (texture 0 = 0 secs, 1 = 15secs, 2 = 30secs, 3 = 45secs)
+
+
+So if you wanted a par time of 4 minutes and 30 seconds, you'd enter texture number 
+4 in [62,0] and 2 in [63,0].
+
+
+
+THE LEFT SIDE OF THE MAP - Coordinates [0,1] to [0,63]
+====================================================== 
+
+[0,1] = Red Shading Level 
+[0,2] = Green Shading Level 
+[0,3] = Blue Shading Level 
+[0,4] = Fog Level (0 = No fog, 1 = fog on)
+Remember, coordinates [6,0] and [13,0] along the top row of the map determine if 
+a level has shading or not.
+
+Now the Red, Green, Blue Levels can be adjusted for the shading using wall values 
+just as you can for the other game settings. Ripper's Normal shading examples had 
+the following values: 
+
+Red = Green = Blue in all the settings 
+And he used 3 different values for those settings.. 0, 10, & 15. Now you can play 
+with them as you like to get the specific look that you want. One thing to remember 
+though is that depending on the age and type of your monitor, the colours that you 
+see may be different to someone elses machine. So play with them carefully.
+
+[0,5] = Crosshair Colour (again using palette values - 0 to 15 are usual values, 
+but you can use any colour from the wolfenstein palette) 
+[0,6] = Shadow Colour for Messages 
+[0,7] = Main Colour for Message 
+
+
+
+-------- COORDINATE [63,63] --------
+
+Just place A Blank or Undefined (0) walltile on mapspot [63,63], and this will not 
+reset the next level ie: you'll start the next level with everything you finish the 
+current level with (THIS IS FOR MOD PURPOSES ONLY).
+
+
+
+NEW GAME FEATURES
+=================
+
+
+-------- RANDOM ENEMIES --------
+
+There are a new set of enemies called "Random". You can place these in a level just 
+as any normal enemy, except exactly which enemy appears here in the level will be 
+a random thing. It will spawn a Random enemy type based on truely random numbers. 
+The odds are as follows: 
+
+3 in 14 that nothing will spawn 
+2 in 14 that an officer will spawn 
+1 in 14 that a mutant will spawn 
+3 in 14 that an SS will spawn 
+2 in 14 that a dog will spawn 
+3 in 14 that a guard will spawn 
+
+So by using those Random Spawn points your level will vary from play to play and 
+so on. It shouldn't play the same each time that it is played because it's based 
+on random numbers (and I randomized the case statements to make sure that it too 
+was random).
+
+
+
+-------- PUSHABLE OBJECTS --------
+
+If you place floor value 145 under any object sprite, it should make that particular 
+object permanently pushable in that level (note that in Mapedit you must place the 
+sprite on a proper floor value first, and then place the floor code 145 on top of 
+it - Mapedit won't allow you to put an object on something it doesn't consider to 
+be a legitimate floor value). You can push the object as often as you like through 
+the level. You can even block doors open by pushing an impassable object into an 
+open doorway - the door will stay open until you push the object out of the doorway.
+
+
+You can use this feature to make barrels etc pushable (you could make columns and 
+trees pushable too but this would look a little stupid). Barrels could be used to 
+block an enemies access, or you could gain access to an area that's blocked off by 
+barrels. Be mindful too that the player will have to be careful not to block themselves 
+in an area if they push too many items up against an exit.
+
+There's also potential here to make hard to find secret areas - the player may have 
+to say push a few barrels around in a particular order just to access a secret pushwall. 
+Mind you, most people aren't keen on frustratingly difficult puzzlers, so it's probably 
+best not to make it too complex.
+
+
+
+-------- CEILING/FLOOR COLOURS --------
+
+Below are listed the first 90 textures in numbered order to assist you with determining 
+settings in your levels:  
+
+
+0000 [Invalid/Blank]        ( 0)
+0001 [GS] Gray Stone        ( 1)
+0002 [GS] Gray Stone 2      ( 2)
+0003 [GS] w/Nazi flag       ( 3)
+0004 [GS] w/Hitler Pic      ( 4)
+0005 [BS] w/Empty Cell      ( 5)
+0006 [GS] w/Gold Eagle      ( 6)
+0007 [BS] w/Skeleton Cell   ( 7)
+0008 [BS] Blue Stone        ( 8)
+0009 [BS] Blue Stone 2      ( 9)
+000a [WP] w/White Eagle     (10)
+000b [WP] w/Hitler          (11)
+000c [WP] Wood panelling    (12)
+000d [ED] Entry Door-NF     (13)
+000e [SP] w/Sign            (14)
+000f [SP] Steel panel       (15)
+0010 [OS] Day Sky           (16)
+0011 [RB] Red brick         (17)
+0012 [RB] w/Gold Swas       (18)
+0013 [PS] Purple Stone      (19)
+0014 [RB] w/Purple Eagle    (20)
+0015 [EL] Elevator Switch   (21)
+0016 [EL] Switch Up (Dead)  (22)
+0017 [WP] w/Iron Cross      (23)
+0018 [GS-M] Heavy Moss      (24)
+0019 [PS] w/Blood           (25)
+001a [GS-M] Light Moss      (26)
+001b [GS] Gray Stone 3      (27)
+001c [GS] w/Sign            (28)
+001d [BC] Brown Cave        (29)
+001e [BC] w/Blood 1         (30)
+001f [BC] w/Blood 2         (31)
+0020 [BC] w/Blood 3         (32)
+0021 [GW] w/Stained Glass   (33)
+0022 [BB] w/Skull           (34)
+0023 [GB] GrayBrick         (35)
+0024 [BB] w/Swastika        (36)
+0025 [GB] w/FloorDrain      (37)
+0026 [RB] Multicolor        (38)
+0027 [GB] Cracked           (39)
+0028 [BB] BlueBlock         (40)
+0029 [BS] w/Sign            (41)
+002a [MW] MarbleWall        (42)
+002b [GB] w/Map             (43)
+002c [BS] BrownStone        (44)
+002d [BS] BrownStone 2      (45)
+002e [MW] MarbleWall 2      (46)
+002f [MW] w/Nazi Flag       (47)
+0030 [WP] w/CorkBoard       (48)
+0031 [GB] w/Hitler          (49)
+0032 [EL] Rails w/Swastika  (50)
+0033 [EL] Rails Plain       (51)
+0034 [EL] No Rails          (52)
+0035 [DE] Dead Elevator     (53)
+0036 [BS] w/Sign            (54)
+0037 [BS] w/Flag            (55)
+0038 [BS] w/Eagle           (56)
+0039 [OS] Night Sky         (57)
+003a Bookcase               (58)
+003b [WW] White Wall        (59)
+003c [WW] w/Target          (60)
+003d [WW] w/Panel           (61)
+003e [WW] w/Sign            (62)
+003f [RB] w/woodpanel       (63)
+0040 [RB] w/woodpan/sign    (64)
+0041 [RB] w/marblewall      (65)
+0042 [BW] BoulderWall       (66)
+0043 [BW] BoulderWall 2     (67)
+0044 [BW] w/Flag            (68)
+0045 [BW] w/Wreath          (69)
+0046 [WL] Wallpaper         (70) 
+0047 [WL] w/pic             (71)
+0048 [SW] Slate Wall        (72)
+0049 [SW] w/Hitler pic      (73)
+004a [SW] w/Eagle           (74)
+004b [FT] Oil-Fuel Tank     (75)
+004c [WT] Water Tank        (76)
+004d [RS] Rough Stone       (77)
+004e [RS] Rough Stone 2     (78)
+004f [RS] w/Flag            (79)
+0050 [RS] w/Hitler Pic      (80)
+0051 [OB] Bushes 1          (81)
+0052 [OB] Bushes 2          (82)
+0053 Cmt Wall-Night         (83)
+0054 Cmt Wall-Snow-Night    (84)
+0055 Castle Wall-Day        (85)
+0056 [OBS] Snow Bush 1      (86)
+0057 [OBS] Snow Bush 2      (87)
+0058 Lever Switch 1-Up      (88)
+0059 Lever Switch 2-Down    (89)
+
+
+
+--------------------------------------------------------------------------------
+
+
+In Game Controls are: 
+
+TAB + KEY 
+
+Tab-W = Warp to Level 
+Tab-X = Crosshair On/Off 
+Tab-T = Tricob's Hated Sounds 
+Tab-S = Shading 
+Tab-R = Ratios 
+Tab-O = Countdown Timer 
+Tab-M = Messages 
+Tab-H = Hurt Player 
+Tab-F = Fast Monitor (if you see wierd lines - enable this) 
+Tab-B = Toggle Weapon Bobble
+
+
+CHEATS/DEBUGGING CODES
+======================
+
+BackSpace-D = Kill everything on Level
+BackSpace-C = Count all objects on Level
+BackSpace-E = End the Level
+BackSpace-F = Spot where BJ is Facing (location)
+BackSpace-G = God Mode Toggle
+BackSpace-I = Free Items
+BackSpace-K = Give Key
+BackSpace-M = Memory Info
+BackSpace-N = No Clipping
+BackSpace-Q = Quit
+BackSpace-S = Slow Motion
+BackSpace-T = ShapeTest
+BackSpace-V = Extra Vlb's (Fastmonitor)
+BackSpace-Z = Picture Grab
+
+
+FINALLY:
+
+I forget the names of the songs, but here's a VERY ROUGH guide :)
+
+SONGS:
+Creepy - 1, 2, 5, 9, 12, 13, 17, 18, 22, 34
+Boss   - 19
+Medley - 3
+Morse  - 7
+Action - 4, 10, 20, 21, 27, 28, 29, 35
+Menus  - 6, 11, 14, 15, 16, 23, 24, 25, 32, 33, 36
+Pacman - 26
+Angel of Death - 30
+Jazzy - 31
+Nazi anthem - 8

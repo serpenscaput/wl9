@@ -1,0 +1,67 @@
+THE RESURECTION OF PIGBOY CRABSHAW
+
+
+What that title ...?
+
+Well all is about recovery of historic items, the short story line Herman Goering's 
+genetic material, and the main...
+
+The graphics, and to some part sounds of the third Spear of Destiny release, The 
+ultimate challenge.
+
+The so-called Spear of Destiny Lost Episodes.
+There was two add-on's released by the FormGen Corporation in 1994 for Spear of Destiny.
+
+They were titled "Spear of Destiny Mission 2: Return to Danger" and "Spear of Destiny 
+Mission 3: the Ultimate Challenge." 
+
+I had both of those, and the graphics were superb, especially those of Ultimate challenge, 
+but I, as seemingly all, lost them.
+
+Have during two months heavy deployment in Wlf3d / Spear of Destiny been through 
+some hundred sets.
+Found that the Ultimate challenge graphics still were there (no wonder, they are 
+really good), dispersed in so many vswaps, so I've
+lost the count.
+
+Slowly recovering my 94 / 95 Wolf3d frenzy, I started to remember, and gathered the 
+fragments.
+
+Two wallsets were found almost complete, but the most was found, dispersed in a hell 
+lot of files.
+
+So It's not a 100% restoration of the original, but should bet on, close to it, partly 
+due to choosing Wolf3d indexing and partly
+not able to find all shading variants of all wallsets. Even found the somewhat silly 
+knife.
+
+The vswap shall work with all maps, designed for the original Wolf3d full release 
+graph set, as much attention was paid
+on compatibility in sequence of indexing of all the graphics.
+
+Wolf Bel III was chosen, as one of the best mapsets out there, the maps of the lost 
+missions were not so good
+so I've found no interest in their recovery.
+
+Together they make a fair and challenging game, set in a very nice environment.
+
+Pass your gratitude's to Brian Lowe and Bill Hough who made the first 14 lev's for 
+the maps.
+
+What is left....
+
+Extract the files to some specially created folder, and copy .....
+         In respect of the copyright owner(s), the audiohed.wl6 file is not included 
+in the zip. 
+         You must take that from your own registered Wolf3d set.
+
+          Proper thinking Poet  !
+
+The executable is a flat off, Tcc compiled / Tasm5 assembly, highly optimized version, 
+out of the src.
+
+Read the short story, pop yourself up, and a start to shoot, in one of the nicest 
+graphical environments ever made for Wolf3d / Spear.
+
+P.J.
+

@@ -1,0 +1,203 @@
+MapEdit 4.2 - Wolfenstein Map Editor written 9/93 by Ralf Seidel based on
+MapEdit 4.1 by Bill Kirby
+
+This program is based on MapEdit 4.1 by Bill Kirby. See the end of this
+file for the original documentation of his version.
+
+DISCLAIMER:
+Same as everywhere: You may use, copy, change, in fact everything you want
+with the files delivered in this package. I am not responisble for any
+damage blah blah blah...
+
+ACKNOWLEGMENTS:
+All specific names included herein are trademarks of someone. (Don't bother
+me with such boring listings)
+
+
+Files in this package:
+
+MAPEDIT.DOC    This file
+MAPEDIT.EXE    The executable file
+OBJDATA.DEF    Definition of object graphics (taken from MapEdit 4.1)
+MAPDATA.DEF    Definition of floor graphics (taken from MapEdit 4.1)
+MAPEDIT.PAS    The main program
+M_ED_MIS.PAS   Some procedures used in Mapedit
+M_ED_OBJ.PAS   Object definitions used in Mapedit
+MOUSE.PAS      Mouse routines (taken from MapEdit 4.1 - unchanged)
+VGABGI.OBJ     Borland Graphic Interface VGA driver (included by MapEdit)
+
+Hey Bill, I hope you agree using some of the files I found in your package.
+Otherwise distribution would have been more complicated.
+
+
+To run this program you have to copy the files MAPEDIT.EXE, OBJDATA.DEF and
+MAPDATA.DEF to your Wolf3D directory.
+
+To compile you need Turbo Pascal 6.0 or above.
+
+To run this program you need a 286 CPU or above equiped with enough memory.
+
+
+New features and changes:
+
+When I started using the program by Bill Kirby, I began missing several
+functions which could speed up the task of creating new levels. So I added
+some code at several locations in the source. It was quite difficult to add
+new buttons and handling due to the fact that most of postition, strings
+and so on where located somewhere inside the code and not defined as
+constants. So on and on I rewrote nearly the whole code and at some time I
+decided to use objects instead the traditional records. Now after I have
+finished I see that it would have been better to write a totaly new program
+because the result of my changing is a mixture of objectiv and tratitional
+pascal. But the program is running well now and I don't want to waste time
+with it anymore.
+
+My main goal was to make switching between different map elements easier.
+If you now switch the legend from map to object mode (using the map/obj
+button right beneath the legend) it saves its postion and if you switch
+back the position is restored. This also happends if you use the go to
+beginning/end button (two arrow buttons) and when clicking the restore
+button (up/down arrow). The status information of Bill's program is changed
+to what I call a select cache. The last four items you used are stored and
+shown at the right bottom corner of the screen. You may reselect any of
+these items just like using the legend. The current selected item is
+higlighted by a rectangle around it. The (in my opinion) most important
+enhancement is that you now can use the right button somewhere inside the
+map to select another item. Which type you select (map or object) depends
+on the current mode of the legend.
+
+Also new in the program are the fill, rectangle, clear, put and get
+buttons. With the fill button it is posible to fill any bounded floor or
+wall with a new value (it is only active in map mode). Rectangle is use to
+draw ...what do you think...  rectangles of the currently selected object
+(ative in both modes). Clear just clears the map. With put and get you can
+save and restore your map without changing the Wolfenstein 3D original map.
+They are saved as "LEVEL_?.MAP" where the questionmark is replaced by a
+character the user is asked for.
+
+Some of the functions described above are also availble by keyboard:
+up/down arrows   - select level to view
+Q/<Esc>          - quit (you will be prompted to save)
+C                - clear level
+O                - toggle object display
+F                - toggle floor display
+<PgUp/Down>      - scroll legend
+<ctrl-PgUp/Down> - start/end of legend
+<Space>          - toggle legend mode
+
+
+If you find any bugs or have problems with my (sort of) english, please
+send e-mail
+to: rauh@wrcd1.uni-wuppertal.de
+subject: For Ralf (mapedit)
+(don't have an account by myself)
+
+That's all
+     Ralf
+
+--------------------- Documentation of MapEdit 4.1 -----------------------
+
+MapEdit 4.1 - Wolfenstein Map Editor                  (c) 1992  Bill Kirby
+
+To use MapEdit, unpack the archive into the directory where Wolfenstein is
+installed.  Type MAPEDIT to start the editor.
+
+
+Key funtions:
+
+arrows - select level to view
+     Q - quit (you will be prompted to save)
+     C - clear level (grey brick around the outside of an empty level)
+     O - toggle object display
+     F - toggle floor display
+   
+
+Map window:
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking the mouse
+will change either the map or object data to the currently selected item.
+
+
+Legend window:
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN scrolls through the list.  Clicking on MAP/OBJ switches
+between the map and object lists.  Clicking on an item in the list makes
+it the "current" item.
+
+After each guard, there is a 3 character description which specifies
+what level the guard is, whether they are moving or stationary, and
+what direction they are facing/walking.  For example, "1/S/E" means 
+a level 1 guard, stationary, facing east.
+
+
+MAPDATA.DEF and OBJDATA.DEF:
+
+If you figure out a new object, you can add it's description to the
+object/map list by editing the MAPDATA.DEF or OBJDATA.DEF file.
+Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.  Right now, even
+though their are 4 digits, you can only put objects from 0000-00ff in.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors. The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered 
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c - 
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+
+ACKNOWLEDGMENTS
+
+   This program would not have been possible without Paul (Hosko) Hosken, 
+author of WMAP, who figured out the original map file formats.
+
+Thanks Hosko!
+
+---
+If you find any bugs, please send e-mail to: 
+
+     bkirby@netcom.com
+
+Thanks,
+Bill Kirby

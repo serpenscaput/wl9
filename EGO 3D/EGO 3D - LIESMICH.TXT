@@ -1,0 +1,306 @@
+******************************************************************
+***** # EGO 3D # - Eine Total Conversion fuer Wolfenstein 3-D*****
+******************************************************************
+********************************************** (C) 2003-2007 KB  *
+******************************************************************
+
+1. Hardware:
+------------
+
+  1.1 Mindestanforderungen: (getestet!)
+
+      - 80486er Prozessor (PENTIUM o. besser DRINGEND empfohlen!)
+      - 40 MHz (200 MHz oder besser DRINGEND empfohlen!)
+      - VGA kompatible Grafikkarte
+      - min 560 kB freier konventioneller Speicher
+        (570 kB empfohlen!)
+
+  1.2 unterstuetzte Eingabegeraete:
+
+      - Tastatur
+      - Maus
+      - Joystick
+      - Gamepad
+
+  1.3 unterstuetzte Audiogeraete:
+
+      - SoundBlaster kompatible Soundkarte
+      - PC Speaker
+      - Adlib kompatible Soundkarte
+      - Disney Sound Source
+
+
+2. Software:
+------------
+
+  2.1 Urheberrrecht:
+
+      Wolfenstein 3-D (tm) & (c) 1992 Id Software, Inc.
+
+      EGO 3D ist FREEWARE. Sie duerfen dieses Programm ohne
+      Bedenken installieren und weitergeben. Sie duerfen die
+      Software jedoch nicht verkaufen oder in anderer Weise
+      kommerziell nutzen.
+
+      Teile dieses Programms (z.B. Grafiken und Soundeffekte) sind
+      urheberrechtlich geschuetzt und duerfen nicht
+      weiterverwendet werden.
+
+  2.2 Benoetigte Dateien:
+
+      Damit das Programm fehlerfrei laeuft, muessen sich die
+      folgenden Dateien im Programmverzeichnis befinden:
+
+	             EGO.EXE
+	           DATA1.EGO
+	           DATA2.EGO
+	           DATA3.EGO
+	           DATA4.EGO
+	           DATA5.EGO
+	           DATA6.EGO
+	           DATA7.EGO
+	           DATA8.EGO
+
+      (Aenderungen vorbehalten)
+
+
+      Sollte eine dieser Dateien wider Erwarten nicht erfolgreich
+      in das Programmverzeichnis kopiert worden sein, kontaktieren
+      Sie KB. Bitte versuchen Sie NICHT, die fehlenden Dateien
+      durch Dateien anderer TCs oder des originalen Wolfenstein 3D
+      zu ersetzen, da dies zu einem Systemabsturz fuehren koennte.
+
+
+3. Entwicklung:
+------------------
+
+  3.1 Verwendete Programme:
+
+      Zum Erstellen dieses Programms wurden die folgenden Tools
+      genutzt:
+
+        - Borland C++ 3.1           -> Kompillieren des Quellcodes
+        - Wolfenstein 3D Quellcode  -> Quellcode  ;-)
+        - Microsoft Paintbrush      -> Grafikmodifikationen
+        - Adobe PhotoShop           -> Grafikmodifikationen
+        - IMF Plugin fuer WinAmp    -> identifizieren der Musiken
+        - IMFTools                  -> Konvertieren der Musik
+	- FloEdit II                -> MapDesign, Sounds-, Fonts-,
+                                       Graphiken-, EndText- und
+                                       Musik-Import/Export ...
+
+   
+  3.2 Tutorials:
+
+      An dieser Stelle vielen Dank an alle, die die Wolfenstein
+      Fangemeinde mit Tutorials und neuen Quellcodes versorgen:
+
+      Ohne Eure Tutorials waere dieses Projekt nicht moeglich
+      gewesen!
+
+
+  3.3 Neue Features in der Engine:
+
+      Folgende Features wurden von KB in den Quellcode integriert:
+
+       - EGO-System:
+	 ============
+
+           Getoetete Gegner bringen ausser Punkten nun auch
+           EGO-Pukte, welche die Gesundheit (EGO) erhoehen.
+           Mit den EGO-Punkten ist es moeglich ein EGO von 666%
+           zu erlangen. Normale Power-Ups bringen das EGO auf
+           maximal 100%. Nur durch das Toeten von Gegnern kann
+           man 666% EGO erlangen. Das EGO-System ist neu in der
+           Wolf-Engine. Es wurde von KB entworfen und umgesetzt. 
+	   Es existieren (noch) keine Tutorials zu diesem Thema.
+
+       - Texturierte Boeden und Decken:
+	 ===============================
+
+           Statt der einfarbigen Boeden und Decken gibt es in
+           dieser TC texturierte Boeden und Decken. Diese Texturen 
+           entsprechen den texturen einer Wand. DarkOne hat ein
+           Tutorial zu diesem Thema geschrieben und dieses wurde
+           von KB aufgegriffen und in die Engine integriert.
+
+       - Menue-Hintergruende:
+	 =====================
+
+           Die Hintergruende im Menue sind nun nicht mehr
+           einfarbig, sondern haben ein graues Muster.
+           Dieses Feature wurde von KB ohne die Hilfe eines
+           Tutorials integriert.
+
+       - Deutsche Menues:
+	 =================
+
+           Alle Menueeintraege wurden sorgfaeltig ins Deutsche
+           uebersetzt. Dabei wurden auch neue Bezeichnungen fuer
+           die Schwierigkeitsgrade integriert.
+
+       - Animierte Waende:
+	 ==================
+
+	   Die Engine kann nun auch animierte Waende darstellen.
+           Dies wurde genutzt, um Feuer in Kaminen usw.
+           darzustellen.
+
+       - Nicht-rotierende Sprites:
+	 ==========================
+
+	   Die Engine kann nun auch nicht-rotierende Sprites
+           darstellen. Dies ermoeglicht Features, wie Zaeune,
+           Gitterstäbe (in Gefaengnissen) und echte Fenster, durch 
+           die der Spieler sehen und schiessen kann.
+
+       - Neuer Startbildschirm (Speicher usw.):
+	 =======================================
+
+	   Der alte Startbildschirm wurde durch einen neuen
+           ersetzt, der besser zu den Menues passt.
+
+
+   3.4 Benutzte Hardware:
+
+       Die folgenden Harwarekonfigurationen wurden beim Erstellen
+       und Testen des Programms verwendet. 
+       Es wurde ebenfalls die durchnittliche Framerate, die auf
+       diesen Systemen erreicht wure, angegeben.
+
+       Bitte beachten Sie, dass die Engine nicht mehr als 70
+       Bilder pro Sekunde darstellt.
+
+
+       1. Hauptrechner:  (~70 FPS)
+       ================
+
+          Intel Core 2 Quad Q6600
+          nVidia GeForce 8 8800 GTX - 786 MB
+          2048 MB DDR-RAM
+          1100 GB Festplatte(n)
+
+       2. Hauptrechner:  (~70 FPS)
+       ================
+
+          AMD ATHLON XP 3000+
+          nVidia GeForce 6 6800 - 128 MB
+          1024 MB DDR-RAM
+          Crative SoundBlaster Audigy 2
+          800 GB Festplatte(n)
+
+       3. Hauptrechner:  (~70 FPS)
+       ================
+
+          AMD ATHLON XP 3000+
+          Ati Radeon 9800 Pro - 128 MB
+          512 MB DDR-RAM
+          Crative SoundBlaster Audigy 2
+          200 GB Festplatte
+
+       4. Hauptrechner:  (~70 FPS)
+       ================
+
+          AMD ATHLON - 1,3 GHz
+          nVidia GeForce 4 Ti 4200 - 64MB
+          512 MB SD-RAM
+          Creative SoundBlaster Live!
+          40 GB Festplatte
+
+       5. Hauptrechner:  (~45 FPS)
+       ================
+
+          Intel Pentium I - 200 MHz
+          3dfx Voodoo 3 3000 - 16MB
+          64 MB EDO-RAM
+          Creative SoundBlaster 16
+          8 GB Festplatte
+
+       1. Testrechner:  (~60 FPS)
+       ===============
+
+          Intel Pentium III - 700 MHz
+          nVidia GeForce II MX 200 - 32MB
+          256 MB SD-RAM
+          Creative SoundBlaster 128
+          20 GB Festplatte
+
+       2. Testrechner:  (~40 FPS)
+       ===============
+
+          Intel Pentium I - 133 MHz
+          S3 Virge - 4MB
+          16 MB EDO-RAM
+          Aztec Soundkarte
+          1,2 GB Festplatte
+
+       3. Testrechner:  (~10 FPS)
+       ===============
+
+          80486 DX - 40 MHz
+          SVGA - 1MB
+          8MB RAM
+          PC-Speaker
+          ~200 MB Festplatte
+
+
+
+4. Sonstiges:
+-------------
+
+  4.1 Cheats:
+
+	Druecken Sie einfach [A] [I] [N] gleichzeitig und Sie
+        erhalten alle Waffen, 200 % EGO, beide Schluessel.
+        Die Punkzahl wird dadurch aber wieder auf 0 gesetzt...
+
+	Darueber hinaus gibt es auch die so genannten Debug-
+	Tasten. Die folgenden Cheats sind im Debug-Modus 
+	verfuegbar:
+
+	[Tab]+[G] - God-Mode
+	[Tab]+[N] - Noclip-Mode
+	[Tab]+[I] - Free Items (Waffen, EGO, Munition, Punkte)
+	[Tab]+[W] - Level Warp
+	[Tab]+[E] - End Level
+
+	Hinweis: Es gibt noch weitere Debug-Kommandos, die jedoch
+	nicht als Cheats angesehen werden.
+	Um den Debug-Modus zu aktivieren, drueken Sie waehrend des
+	Spiels gleichzeitig die Tasten [D] [B] [G].
+
+  4.2 Kommandozeilenparameter:
+
+	Mit dem Kommandozeilenparameter "framerate" (ohne die 
+	Anfuehrungszeichen) wird ein Framerate-Counter in der
+	rechten unteren Ecke angezeigt.
+
+	Um den oben beschriebenen Debug-Modus zu aktivieren, ist
+	ein spezieller Parameter notwendig, der hier nicht
+	verraten wird ;) 
+
+  4.3 Unfertigkeit des Spiels:
+
+	Dieses Spiel ist noch lange nicht beendet. In dieser Demo
+	werden die meisten der neuen Features genutzt, aber 
+	Leveldesign und Story werden noch weiter ausgearbeitet.
+	Dies sollte aber in den naechsten Monaten/Jahren
+	behoben werden.
+
+  4.4 Bekannte Programmfehler:
+
+      - Nach Aktivierung des AIN-Cheats oder des Debug-Modus wird
+        der rechte Bildschirmrand blau gefaerbt. Um dies zu beheben,
+	oeffnen Sie das Hauptmenue und kehren Sie dann ins Spiel
+        zurueck.
+
+      - Die Rahmen der Debug-Fenster werden falsch gezeichnet.
+
+      - Beim Verlassen des "Lies mich!" Abschnittes stoppt die
+        Musikwiedergabe im Hauptmenue. Kehren Sie zum Spiel oder zu
+        den Credits zurueck, um die Musik wieder zu aktivieren.
+
+			!! VIEL SPASS MIT DER DEMO !! 
+
+
+[END OF FILE]

@@ -1,0 +1,283 @@
+^P
+^C7d WELCOME TO W.O.T.H!
+^G30,15,5
+
+^C85 Full title: Wrath of the Hedgehog /Milly F. Fox saves John The Hedgehog...
+
+^C00 Thanks for downloading W.O.T.H, the result of much hard work. Graphics and coding 
+took a long time. But, I believe, the result may be noted. The game looks quite realistic, 
+as far as Wolf 3-D's engine allows. The following pages give you the info you need.
+
+
+^P
+^C7d THE STORY
+
+^G32,16,3
+^C00 It's 3235 and people are still quite shaken at what 'The War Of The World' has 
+done. 
+
+The Nazi's plan to attack villages...  
+
+^P
+^C7d THE STORY CONTINUES
+
+^G32,192,3
+^C00 John Hedgehog was captured and needs to be set free.  
+
+He's at a camp in the village. You are Milly F. Fox, and you have to save John.
+
+^P
+^C7d EPISODE ONE: THE JOURNEY BEGINS
+
+^C00 Levels 1-10 Village Quarters
+
+^C2b This is where your journey begins. Milly comes to find a note signed by John. 
+She goes off to the village to see that it's guarded by SS Officers and guards. She'll 
+have to get past them. Good luck!.
+
+
+^P
+^C7d EPISODE TWO:  OPERATION /GET MILLY
+
+^C00 Levels 11-20 Underground
+
+^C2b General Fettgesicht has somehow returned. This is where you have to find him. 
+But his Zombies, SS and other guards will try to stop you at all costs.
+
+^P
+^C7d EPISODE THREE: MORE NEWS
+
+^G32,192,4
+
+^C00 Levels 21-30 Castle Hollehammer
+
+^C2b You made it to the castle. It lies at 4000 meters above sea-level. It makes 
+the perfect location for secret operations as it is impregnable. Those who tried 
+to get atop didn't return. And Schabbs has been resurrected once more!! 
+
+You'll have to defeat the evil here...
+
+^P
+^C7d EPISODE FOUR: MILLY'S RECKONING
+
+^C00 Levels 31-40 Hidden Palace
+
+^C2b You find a Hidden Palace that was uninhabited, and now is habited by the SS 
+and other guards. And Greta has come back.
+
+You'll have to defeat them all.
+
+^P
+^C7d EPISODE FIVE: TIME IS RUNNING OUT
+
+^C00 Levels 41-50 Floating Island
+
+^C2b Well, I guess you made it to the island. But, still you have to take out the 
+guards. 
+
+Then you'll have an encounter with Otto Giftmacher, the maniac scientist!!! How can 
+he still be around after so long. 
+
+You get more info on John's whereabouts. 
+ 
+^P
+^C7d EPISODE SIX: LAST RESORT
+
+^C00 Levels 51-60 Village Camp
+
+^C2b You made it. But you need to get into the camp where you'll find John tied up. 
+There, you'll find it's very well guarded. 
+
+And the ultimate in evil awaits...
+
+^P
+^C7d NEW GRAPHICS/VALUES
+
+
+^C2b Ammo ^C00redesigned and you are now allowed up to 300.
+
+^C2b Health ^C00redesigned and you are now allowed up to 115.
+
+
+^P
+^C7d YOUR WEAPONS
+
+^C00 When you are supposed to eliminate enemy forces, don't assume you can handle 
+it with candy. Your brothers-in-arms are listed here.
+
+^C2b Weapon #1: Knife
+^C00 This commando-knife was a gift from your superiors for your 29th birthday. It 
+can kill a Hitlerjugend-soldier with 2 or 3 stabs, but be advised not to use it against 
+the Schutzstaffel or the Gestapo, as they are stronger. 
+
+^P
+^C7d YOUR WEAPONS
+
+^C2b Weapon #2: Luger P08 Parabellum
+^C7f Length: 8.75 inch
+^C7f Weight: 0,85 kilograms
+^C7f Caliber: 7.65 mm
+^C7f Speed: 15 shots per minute
+
+^C00 This pistol is highly popular in Germany. The Luger was the logical sequel to 
+the Borchardt. In the beginning the pistol looked just like the Borchardt, but the 
+design was altered and improved by Georg Luger.This self-loading weapon was to replace 
+the standard gun.
+
+^P
+^C7d YOUR WEAPONS
+
+^C2b Weapon #3: Mauser 98
+^C7f Length: 11.75 inch
+^C7f Weight: 1,3 kilograms
+^C7f Caliber: 7.69 mm
+^C7f Speed: 24 shots per minute
+
+^C00 This machine-gun is one of the most famous guns in the world. It's efficient, 
+shoots fast and hits target with high accuracy. However, its maximum was in the beginning 
+pretty low(about 100 shots). Today that is 200 shots. It is the friend of the SS, 
+so watch out! 
+
+^P
+^C7d YOUR WEAPONS
+
+^C2b Weapon #4: MG34 GPMG
+^C7f Length: 14,22 inch
+^C7f Weight: 2,65 kilograms
+^C7f Caliber: 6,44 mm
+^C7f Speed: 48 shots per minute
+
+^C00 This so-called anti-assault weapon is another expensive product. Generally fitted 
+with a bipod, it could also be mounted on a heavy tripod for the sustained fire role, 
+and an anti-aircraft mount was also available. This weapon wasn't really popular 
+because of it's annoying round-boxes.
+
+^P
+^C7d HINTS AND TIPS #1
+
+^C2a Entering Rooms
+
+^C00 When entering a room, don't go in with all guns blazing. You'll waste ammo and 
+you'll probably get toasted too.
+Just enter slowly through the door until the guards see you, and then quickly retreat 
+back into the previous room. You can then pick off the guards as they come through 
+one by one. 
+^P
+^C7d HINTS AND TIPS #2
+
+^C2a Cheat Codes
+
+^C00 It was originally intended to completely disable the cheat codes, but it was 
+easier simply to change goobers to something else. As to what that is, it's 'something 
+-------'. 
+
+ILM no longer works, but a new 3 letter combination does. Maybe a hedgehog has the 
+clue?
+^P
+^C2a Thanks to id Software, and especially the following, who helped make the original 
+Wolfenstein 3D. Also for releasing the source code, which made this set possible.
+
+
+^C7c PROGRAMMERS 
+^C00 John Carmack
+^C00 John Romero
+
+^C7c ARTIST 
+^C00 Adrian Carmack
+
+^C7c OTHER CONTRIBUTORS 
+^C00 Tom Hall, Kevin Cloud, Jay Wilbur,
+^C00 Robert Prince, and Jason Blochowiak    
+^P
+^C7d W.O.T.H. CREDITS
+^G80,176,3
+
+^C2b This project could not have come together without the help of the following 
+people. That's why I would like to thank them.
+
+^C7c CODING HELP
+^C00 Brian Lowe
+^C00 Tristan van Putten
+
+
+^C7c BETA TESTING
+^C00 John Hedgehog
+^C00 Brian Lowe
+^C00 
+^C00 
+
+^P
+^C7d W.O.T.H. CREDITS
+^G80,176,3
+
+^C7c UTILITIES 
+^C00 Bill Kirby
+^C00 Brian Baker
+^C00 Dave Huntoon
+^C00 Florian Stohr
+^C00 Warren Buss
+
+^C7c SPECIAL THANKS
+^C00 Brian Lowe
+^C00 Tristan Van Putten
+^C00 
+
+^P
+^C7d EDITORS USED
+
+^C00 The following programs were used to create ^C6aW.O.T.H.
+
+^C7e Mapedit 7.2: ^C00Level creation
+^C7e FloEdit 2.0: ^C00Graphics replacement, sounds, VGAGRAPH editing
+^C7e Wolfedit 2.1: ^C00Graphics replacement
+^C7e Borland C++ 3.1: ^C00Code Compilation
+^C7e Help Screens/End Art: ^C00See the 'Final Solution' website!
+
+^P
+^C7d ATTENTION WOLFENSTEIN 3D EDITORS!
+
+^C00 If you need help on editing the sounds and source code then I recommend Tristan's 
+Coding Homepage. You'll get info not seen elsewhere: tutorials who explain step-by-step 
+what to do in simple English. 
+
+Just take a look and learn up a few things immediately by typing the following address 
+in your Web Browser.
+
+^C86 http://www.geocities.com/
+tvanputten/main.htm
+
+^P
+^C7d COPYRIGHT & DISTRIBUTION PERMISSIONS
+
+^C00 Authors ^C2aMAY ^C00use this modification as a basis for other publically available, 
+not-for-profit work, provided they inform the author of any modifications which are 
+made and give the author credit where it is due. You ^C2aMAY ^C00distribute this 
+Wolfenstein 3-D modification in any electronic format. Authors ^C2aMAY ^C00use any 
+resources of this game(graphics, sounds, etc) for their own projects, provided they 
+give the author of this their project as soon as it's finished. If anyone else would 
+like to include this modification in a collection, contact me...
+
+^P
+^C7d THANKS FOR PLAYING!
+^G80,176,5
+
+^C00 I hope you enjoy playing this game! Now, if you find any bugs, please contact 
+me. Again, thanks for playing. I hope you enjoyed it.
+
+^C84 John Hedgehog
+^C85 johnhedgehog3k
+@yahoo.ca
+^P
+^C7d OTHER SETS!
+^G80,15,3
+
+^C00 If you liked playing this game and would like to play other sets, why not visit 
+^C84MR. LOWE's WOLF 3D PAGE. ^C00Here you'll find more sets (over 200 more). Type 
+the following address in your Web Browser. 
+
+^C81http://www.users.globalnet. co.uk/~brlowe/ 
+
+^C00 Look in the levels sections.
+
+
+^E

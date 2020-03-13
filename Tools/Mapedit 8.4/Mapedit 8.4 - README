@@ -1,0 +1,48 @@
+                 ****************************
+                 *                          *
+                 *    MAPEDIT Version 8.4   *
+                 *                          *
+                 ****************************
+
+This is the latest revision of MAPEDIT! To find out what is new in
+Version 8.4, view the file "WHATS.NEW".
+
+The entire Mapedit package has been reorganized into a common section
+plus sections unique to the game or games you intend to edit. Each
+section is contained within its own Zipped file. When you unzip the
+main package, just unzip the section(s) you are interested in.
+
+If you want to create new floors for either Blake Stone game, you
+need to read BSTONE.DOC to get acquainted with all the new features
+that are these games. You'll also want to read the section in
+MAPEDIT.DOC that explains how the Blake Stone features are implemented.
+Those who wish to create/edit floors for either Corridor 7 or Body
+Count should read the documentation provided for these games.
+
+To print the documents, use the DOS COPY command to PRN or LPT1.
+
+You should take a look at the MANIFEST file to get a quick briefing
+on what each file in the package is and does.
+
+Please be advised that Version 8.4 will not edit shareware versions
+of any of the games it supports. If you experience any problems with
+either MAPEDIT or any of the floors you create with it, contact one
+of the authors. DO NOT CONTACT any of the companies which distribute
+or manufacture the games. We thank you for your cooperation in this
+matter.
+
+We are also announcing at this time that Mapedit Support is starting
+to "wind down", but we aren't precluding the possibility of making
+reasonable enhancements in the future. Especially if another game
+using the Wolf3D engine is released by someone. We will also continue
+to accept any suggestions for improvements or any reports of problems
+(bugs) in the latest version.
+
+Thank you.
+
+Warren Buss - Compuserve ID [71044,3477]
+            - Internet - WBUSS@PRIMENET.COM
+Bryan Baker - Compuserve ID [71121,3376]
+            - Internet - BDBAKER@IX.NETCOM.COM
+Dave Huntoon - Compuserve ID [73317,3325]
+

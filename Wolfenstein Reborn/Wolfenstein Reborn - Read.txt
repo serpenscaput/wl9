@@ -1,0 +1,179 @@
+WOLFENSTEIN REBORN!===============>
+Manual
+
+Foreward:
+=========
+Wolfenstein 3D, the "id Software" logo and all other likenesses to id (www.idsoftware.com) 
+are 
+copyright id Software. This modification is freeware. You must supply your own maps 
+files 
+(gamemaps.wl6 and maphead.wl6) for legality purposes. 
+
+Purposes for Creation:
+======================
+After playing so many add-ons with "better" (better to me means realistic) graphics, 
+as opposed 
+to the cartoonish Wolfenstein graphics, I decided to insert the best sounds and graphics 
+from 
+other add-ons (as well as some of my own) to make one large updated graphics pack. 
+I tried NOT to 
+disturb the original atmosphere by not changing the color of the walls (aside from 
+the doors) and
+of course not changing levels. I think the best level designs are id's original level 
+designs. To
+some I'm sure I have completely ruined the Wolf3D atmosphere. To others it will be 
+a genuis 
+design. Either way go play Wolfenstein and have fun! 
+
+Installation:
+=============
+IMPORTANT! Be sure to backup your graphics files (vswap.wl6, vgagraph.wl6, vgahead.wl6, 
+and 
+vgadict.wl6) and sound files (audihed.wl6 and audiot.wl6) from your Wolf3D directory 
+unless you 
+plan on keeping these graphics files permanently. 
+
+Step 1: Unzip Reborn.zip into your Wolf3D directory.
+
+Step 2: Double click Wolf3D.exe 
+-or- 
+(for DOS) Either reboot into DOS or open a DOS prompt (Start button, Programs, MS-DOS 
+prompt) and 
+type in "CD\WOLF3D". That will display a box that reads "C:\WOLF3D>" Type in "WOLF3D.EXE" 
+
+
+Step 3: Senselessly slaughter Nazis :)
+
+Thanks:
+=======
+To tell the truth I have few to thank for this project. I pulled this together completely 
+on my 
+own. All I have to thank are the graphics contributors listed here along with what 
+I used.
+
+Key:
+$ = Image
+% = Sprite
+& = Wall
+
+
+================================================================================================
+
+=========Name===========|======add-on/TC=======|===========graphics============================|
+
+-< Tristan van Putten   |  The Final Solution  |   1: Angry B.J. holding two firing 
+chainguns $|
+                        |                      |   2: Floor Lamp %               
+              |
+===============================================================================================|
+
+-< B.J. Rowan           |Project: Totengraeber |   1: Gray Stone set (including slime) 
+&       |
+                        |                      |   2: Blue Stone set &           
+              |
+                        |                      |   3: Wood Panel set &           
+              |
+                        |                      |   4: All Doors &                
+              |
+                        |                      |   5: Steel set &                
+              |
+                        |                      |   6: Red Brick set &            
+              |
+                        |                      |   7: Elevator Walls &           
+              |
+                        |                      |   8: Haphazard Brown Stone set & 
+             |
+                        |                      |   9: Stain Glass Swastika &     
+              |
+                        |                      |  10: Blue Wall set &            
+              |
+                        |                      |  11: Gray Brick set (excluding map 
+wall) &    |
+                        |                      |  12: Cage (with and without skeleton) 
+%       |
+                        |                      |  13: Silver key %               
+              |
+                        |                      |  14: Ammo Clip %                
+              |
+                        |                      |  15: Chaingun (pickup) %        
+              |
+                        |                      |  16: SS (I added original black 
+cap) %        |
+                        |                      |  17: Chaingun (firing) %        
+              |
+                        |                      |  18: Machine gun (firing) %     
+              |
+===============================================================================================|
+
+-< Steve Walley (Areyep)|  Spear: Ressurection |   1: Water Puddle %             
+              |
+                        |                      |   2: Hanging Corpse %           
+              |
+                        |                      |   3: Pillar %                   
+              |
+                        |                      |   4: First bloody bones %       
+              |
+                        |                      |   5: Suit of Armor (won in SOD2 
+contest) %    |
+                        |                      |   6: Life %                     
+              |
+                        |                      |   7: Skull %                    
+              |
+                        |                      |   8: Basic Guard %              
+              |
+                        |                      |   9: Officer %                  
+              |
+                        |                      |  10: Pile of bones %            
+              |
+===============================================================================================|
+
+-< Kuki                 |    Project: Welt.    |   1: Oil Drum                   
+              |
+===============================================================================================|
+
+-< Zach Higgins (ME!)   |         n/a          |   1: B.J. Standing over dead guard 
+$          |
+                        |                      |   2: Status bar and fonts etc. $ 
+             |
+                        |                      |   3: Title screen (modified original) 
+$       |
+                        |                      |   4: The map picture on the "Gray 
+Wall"       |
+                        |                      |   5: Demo sign (modified orignal) 
+%           |
+                        |                      |   6: Table with chairs (modified 
+original) %  |
+                        |                      |   7: Table (modified) %         
+              |
+                        |                      |   8: Light Fixture (modified original) 
+%      |
+                        |                      |   9: Steak Dinner %             
+              |
+                        |                      |  10: First-aid kit %            
+              |
+                        |                      |  11: Machine gun (pickup) %     
+              |
+                        |                      |  12: Cross (modified original) % 
+             |
+                        |                      |  13: Cup (modified original) %  
+              |
+                        |                      |  14: Treasure Chest %           
+              |
+                        |                      |  15: Crown (modified original) % 
+             |
+                        |                      |  16: Pistol (firing) %          
+              |
+================================================================================================
+
+================================================================================================
+
+
+Also:
+=====
+If you want to use any graphics please contact me and get permission beforehand. 
+I will probably 
+allow you in most cases but just let me know first. You can email me at WolfenDude87@aolc.com. 
+
+You can catch me on AOL Instant Messenger on "The One87000"
+
+

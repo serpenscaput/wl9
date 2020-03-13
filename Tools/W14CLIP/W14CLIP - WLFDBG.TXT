@@ -1,0 +1,58 @@
+
+Wolfenstein 3D Cheat System
+---------------------------
+
+Wolfenstein checks to see if 3 keys are held down at the same time.
+These keys are valid for v1.0 and higher.
+
+M, I, L -- Gives you all weapons, all ammo, all health, both keys.
+           But you lose your points.
+
+
+Debugging mode:
+--------------
+To activate debugging mode you must also type a password when you run
+the program.  The password and the keys required to activate this mode
+apply to v1.1 and higher.
+
+
+             Password  Keys (press together while in game)
+             --------  -----------------------------------------------
+
+v1.1 - v1.4  goobers   LEFT SHIFT, LEFT ALT, and BACKSPACE
+
+
+Example:  wolf3d goobers
+
+
+Debugging keys (hold down TAB and press the indicated key):
+
+   TAB, B -- Border color
+   TAB, C -- Statistics
+   TAB, E -- Jumps ahead to end of next level
+   TAB, F -- Displays x and y coordinates and angle
+   TAB, G -- God mode on/off (when ON you cannot be hurt)
+   TAB, H -- Hurt yourself (minus 4% health)
+   TAB, I -- Free items
+   TAB, M -- Displays memory usage
+   TAB, N -- No clipping on/off (when ON you can walk through walls!)
+   TAB, P -- ??? Only key that seems to do anything is ENTER.  But then
+                 when you hit another key it drops you back to DOS.
+   TAB, Q -- Quit to DOS
+   TAB, S -- Slow motion on/off
+   TAB, T -- Displays walls, sprites, and sound waveforms.
+             Once in this mode you can press:
+                ENTER -- displays item if not currently displayed
+                LEFT  -- previous item
+                RIGHT -- next item
+                W     -- goto first wall
+                S     -- goto first sprite
+                D     -- goto first sound
+                I     -- goto sound info
+                ESC   -- exit
+   TAB, V -- ??? "Add extra VBLs(0-8)".  Not sure what this does.
+   TAB, W -- Warp to any level
+   TAB, X -- ??? "Extra stuff".  Not sure what this does.
+
+
+

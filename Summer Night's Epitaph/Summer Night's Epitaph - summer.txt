@@ -1,0 +1,40 @@
+1. Introduction
+
+Welcome! Summer Night's Epitaph is a mod that, in my opinion, can be played at any 
+time and by anyone. My goal was to create a short but sweet adventure, sometimes 
+relaxing, sometimes challenging, for Wolfenstein 3D players who appreciate modern 
+features and source ports but still yearn for that unmistakable flavor of old-school 
+Wolfing. Five maps, high stakes, you're in to bring the Third Reich to its knees 
+once again.
+
+2. Storyline
+
+As the year 1945 dawns, Nazi Germany is being assaulted from multiple directions 
+and its demise seems all but certain, the only remaining question being who can reach 
+the capital of Berlin first. But deep in the Fuehrerbunker, Adolf Hitler can be seen 
+shaking the hand of a messenger whose secret mission can change the fate of the world. 
+Heinrich Lenz, skilled and experienced spy serving under Otto Skorzeny himself, is 
+headed to Italy, to the besieged Republic of Salo, where the devious dictator Mussolini 
+is hiding his weapon of last resort. Unbeknownst to all, the Italian nuclear research 
+is progressing with full force, violent flashes of test explosions tearing the sky 
+and turning sand into glass. When Lenz arrives with his message, the full might of 
+Italian air force will be unleashed and directed to drop their terrible load on Ardennes, 
+inevitably destroying the bulk of Allied forces pinned by the feigned counteroffensive 
+of Wacht am Rhein. You are headed to Castello di Oricola, a formidable fortress, 
+with orders to intercept the message at all costs.
+
+3. Features
+
+This mod comes with five new maps and new graphics. It makes use of ECWolf native 
+features to enhance gameplay and provide smooth player experience. Playtesting over 
+the last week should have eliminated all possible bugs, but if anything shows up, 
+please let me know. The scripting was very difficult to learn, but things get easier 
+with enough practice.
+
+4. Credits
+
+-AstroCreep's excellent ECWolf tutorials
+-other modders
+
+Have fun,
+Blackmore

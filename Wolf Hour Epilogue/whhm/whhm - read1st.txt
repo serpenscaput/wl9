@@ -1,0 +1,10 @@
+Wolf-Extra v2.04, Wolf-Extra II v1.01 and Wolf Hour v1.02 + Epilogue v1.00 Hint Manuals.
+
+
+Extract the files from each zip in a suitable catalog.
+Keep "Use folder names" checked, making "maps", "maps2" or "whmaps" with their contents 
+sub catalogs.
+Open the file wehm.html, we2hm.html or whhm.html from the Start menu, from within 
+you browser or Windows Explorer, or via a shortcut.
+
+Paal Olstad.

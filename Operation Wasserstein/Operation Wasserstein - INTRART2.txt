@@ -1,0 +1,7 @@
+^P 
+^C[Red]								
+^c00 With the fearsome Mecha Mutant slain, the path is cleared into the upper floors 
+of the Castle. You must make your way through the administrative and dormitory wings 
+to the office and reception blocks. The Reichsmarschall cannot hide forever.
+
+^E

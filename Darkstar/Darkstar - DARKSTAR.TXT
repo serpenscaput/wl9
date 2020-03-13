@@ -1,0 +1,51 @@
+
+The DarkStar levels in this archive have been converted to version 1.4
+
+-----------------------------------------------------------------------------
+
+Well, it took me a lot longer than I thought it would (due to factors such as
+I do have a life,  my job,  my other hobbies (making GIF and TARGA files) and
+all the  other games  I like  to play),  but  here it is,  DarkStar's  Castle 
+Wolfenstein-3D levels.   I hope you like them.   I had a lot of fun  creating
+them.  I would like  to thank  those brave souls who  playtested  these maps:
+D-Day, Minos, Kid Kaos, and the Cretins from Sparta (or was that the Spartans
+from Crete?).  Some notes before you move on:
+
+  I would  like to  thank Bill Kirby  and Brent Barrett  for the MAPEDIT.EXE
+program, without which none of this would be here.
+
+  BEFORE you copy the MAP*.DS1 files to your Wolfenstien-3D directory, rename
+your old map files to a different  extension, an easy  command to do that is:
+    C:\GAMES\WOLF\>ren map?e*.wl1 map?e.*.old
+this will copy the two  files  that hold the  map data.  Then copy  the *.DS1
+files to .WL1, the command is (like you didn't know) is:
+   C:\GAMES\WOLF\>copy *.ds1 *.wl1
+Tada!  You are now ready to go, and you old maps are still there if you  ever
+want to play them again.
+
+Hints and other tripe:
+
+   On level four, it is impossible to get better than 88% on the secret doors.
+   I had to kludge a fix,  as secret doors  usually  move back two spaces but,
+   sometimes move three.
+
+   On level seven, it is impossible (without cheating) to get 100% on treasure.
+   Whatever you do, DON'T DIE!!!
+
+   On level eight, the secret is to run like hell.
+
+   For those of you who have been playing video games for a long time, you may
+   recognize the room layout of level ten.
+
+   Do not use these maps with version 1.4 of Wolfenstein 3-D, as they  changed
+   the map files.
+
+   Have Fun!
+
+   -DarkStar 
+
+PS: At some time in the near  future (if my few friends (yes,  I have friends)
+    can convince me to get  my ass in gear)  I am going to be finishing up  my
+    "Macho" levels, that is, standard Wolfenstien maps, but made a lot harder.
+
+08/19/93 DarkStar

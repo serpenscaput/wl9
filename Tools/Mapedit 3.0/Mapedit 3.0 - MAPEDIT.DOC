@@ -1,0 +1,118 @@
+
+MapEdit - Wolfenstein Map Editor                       (c) 1992  Bill Kirby
+
+
+To use MapEdit, copy all the files into the directory where you have Wolf3d
+installed.  You may want to make backup copies of the MAPHEAD.WL1 and 
+MAPTEMP.WL1 files.  Type MAPEDIT to start the editor.
+
+
+Key funtions:
+
+arrows - select level to view
+   q,Q - quit (you will be prompted to save)
+   c,C - clear level (grey brick around the outside of an empty level)
+   o,O - toggle object display
+   d,D - toggle decoration display
+   m,M - toggle multiple brick type display
+
+
+Map window:
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking the mouse
+will change either the map or object data to the currently selected item.
+
+
+Legend window:
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN scrolls through the list.  Clicking on MAP/OBJ switches
+between the map and object lists.  Clicking on an item in the list makes
+it the "current" item.
+
+
+Helpfull hints for creating levels:
+
+ - Each level MUST have at least 1 secret door, 1 guard, and 1 treasure, or
+   the game will hang when trying to compute the percentages.
+
+ - The floor values (currently they don't appear as anything) determine the
+   behavior of the guards.  If a guard is on a square with the floor value
+   of 6a, it will not respond to anything.  If a guard is on a floor value
+   other than 6a, it will respond to shots fired, so long as you are on a 
+   floor of the same value as the guard.
+
+ - The first four guards in each section are stationary.  The second four
+   are moving guards.  They will walk through walls if you don't put 
+   movement turning points (5a-61).  I haven't figured out how the movement
+   turning points work yet.
+
+ - It seems that a door between two rooms will not operate properly if the
+   floor value is the same in both rooms.
+
+
+MAPDATA.DEF and OBJDATA.DEF:
+
+If you figure out a new object, you can add it's description to the
+object/map list by editing the MAPDATA.DEF or OBJDATA.DEF file.
+Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.  Right now, even
+though their are 4 digits, you can only put objects from 0000-00ff in.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors.  The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered 
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c - 
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+----------------------
+
+If you have comments or suggestions, 
+please send e-mail to: 
+
+     bkirby@cs.umr.edu
+
+Enjoy,
+Bill Kirby
+

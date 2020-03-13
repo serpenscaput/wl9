@@ -1,0 +1,35 @@
+###    ##   #     #  #   #
+#  #  #  #  #  #  #  ##  #
+#  #  #  #  #  #  #  # # #
+#  #  #  #  #  #  #  #  ##
+###    ##    ## ##   #   #
+
+A Spear of Destiny mod by Military
+
+(demo version)
+
+MUSIC:
+ - Spear of Destiny
+ - Wolfenstein 3D
+ - Doom, Doom II
+
+SOUNDS:
+ - Mac Wolf3d
+ - Lost Episodes
+ - Sporb's Guns of Doom
+
+SPRITES:
+ - Sporb (gatling gun replacement)
+ - Airslide (machine gun)
+ - Gerolf (pistol)
+ - Lost Episodes
+ - Project Totengraeber
+ - Spear Resurrection
+ - jpb6891 (Wolfenstein Endgame sprites)
+
+TEXTURES:
+ - Lost Episodes
+ - Project Totengraeber
+ - Spear Resurrection
+ - Giorgio's WallPacks
+ - Wooden door from Monthly Mapping Contest

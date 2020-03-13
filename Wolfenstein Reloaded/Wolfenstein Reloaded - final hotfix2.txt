@@ -1,0 +1,32 @@
+Wolfenstein Reloaded Final Hotfix 2
+
+Fixes the following issues:
+
+- Mysterious DosBox suicide heal bug fixed
+- Now you can't stop custom bosses from speaking their mouth clean
+- Made episode 2 Grand Hall map a little easier on death incarnate skill
+- Fixed a few menu pic backgrounds
+- Fixed incorrect mapnames when game is loaded from a savegame that is on a different 
+map than current
+- Ambushing guards now don't "find dead guards" when they start chasing
+- Made everything demo playback compatible
+- Hopefully eliminated "Walk: Bad dir" bugs (Which Megabyte reported once)
+- Fixed door jams
+- Fixed old config compatibility
+
+Added stuff:
+
+- Suicide message
+- Recorded 3 demos (Supports 9 demos, without additional source code changes)
+
+Notes:
+
+- Old savegames do not work
+- Old configs work, unlike I stated in diehardwolfers forum (Added compatibility 
+code)
+
+We know, this is the second patch to a version that was supposed to be final, we 
+are sorry.
+
+- KFH Games
+

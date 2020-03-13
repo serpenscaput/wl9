@@ -1,0 +1,52 @@
+^P
+
+^C26 BOUND
+
+^C00 Thanks for downloading Bound, a mod for Wolfenstein 3D. The following pages 
+will introduce you to the story and the features of this project.
+
+^P
+^C7d THE STORY
+
+^C00 In a nutshell: BJ is captured during a mission, but manages to knock out his 
+guard. Bound and unable to kill, BJ must find alternative ways to make it out alive.
+
+
+^P
+^C7d FEATURES
+
+^C00 -No weapons
+-Barrel & Oil Drum are pushable
+-Log files
+-Star sky + rain
+-4 keys
+-New colors floors/ceilings
+-New objects
+
+For the '100% stats' people: since you can't kill anyone, kills will always be 0%. 
+Secondly, the maps are non-linear; multiple paths can be taken in order to complete 
+a level. 
+
+^P
+This could mean that you won't be able to get all the secrets and/or treasures. Just 
+a warning beforehand.
+
+The game starts with a tutorial level. If you want, you can skip this one by directly 
+going into the elevator in the first room.
+
+^P
+^C7d CREDITS
+
+^C00 Ronwolf1705 - Coding, Mapping, Graphics
+ID Software - The original game
+AReyeP - Graphics
+BrotherTank - Pushing objects code
+MCS - Read This! code
+Havoc - Log files
+Ripper - Wolf4SDL code
+Linuxwolf - for his playthrough of Wolf3d without killing enemies, which inspired 
+this idea + testing
+Doomjedi - Testing
+Andy_Nonymous - Testing
+
+^E

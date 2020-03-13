@@ -1,0 +1,51 @@
+WLFbelPC.doc file.
+
+
+WLFbelPC.ZIP - by Brian E. Lowe
+Alternative levels for the full 60 level set of Wolfenstein 3D
+(PC version)
+
+Firstly, my thanks to all those who contributed to the original Wolf3D, and its  
+map editor. 
+
+WLFbelPC.ZIP contains 2 files GAMEMAPS.WL6 and MAPHEAD.WL6.   These 2 files need 
+to be unpacked.
+ 
+Unpack the files with PKUNZIP.  Then open up the original 60 level game Wolf3D folder. 
+ Rename the original GAMEMAPS.WL6 and MAPHEAD.WL6 to something else (say, GAMEMAPS.ALT 
+etc).  Then drag the GAMEMAPS.WL6 and MAPHEAD.WL6 from the unpacked WOLFbel.ZIP into 
+the files in the original  Wolf3D folder.  The unpacked VSWAP file is not required 
+for PC users as it's the same as the original. 
+
+Users may freely distribute these 2 files (or the ZIP file), plus this text file 
+WLFbelPC.doc, on a non-profit basis.  However, please do not distribute them (or 
+the ZIP file), with any other files.  Users must have the original Wolf3D 60 level 
+set to play this set.
+
+This 60 level set has 37 new levels.  Many others have been substantially changed. 
+ The secret levels (apart from a new one in Episode 6), and the boss levels, haven't 
+been changed much.  However, every level has been changed in some way.
+
+GAME STRATEGY
+These levels should be played with the original VSWAP file.  I didn't alter any of 
+the objects/walls etc.  I find one of the reasons that the game is so compelling 
+is the atmosphere of the Nazi era.  (Now that it's gone, that is.  It obviously wasn't 
+very nice at the time). 
+There aren't many mazes.  Also, all new secret doors are obvious.  (eg, a Hitler 
+portrait, or a space between 2 plants etc).  I find endlessly clicking on walls boring. 
+ Some secret doors from the original levels will still be there though.
+Overall, there are far more guards than in the original levels.  There are more deaf 
+guards too.
+Every level has a chapel of some kind.  (Sorry, I'm a religion freak). 
+
+SUNDRIES
+Please send any comments to my e-mail address at
+brian@brlowe.globalnet.co.uk.
+
+Regards,
+
+Brian E. Lowe
+February 8, 1998.
+
+
+

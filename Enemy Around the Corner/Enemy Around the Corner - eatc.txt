@@ -1,0 +1,33 @@
+Enemy Around the Corner + Wolf-Extra Prologue 4SDL
+
+
+Thank you for wanting to play Enemy Around the Corner.
+
+In order to play Enemy Around the Corner you need to own a registered version of 
+Spear of Destiny by ID Software. Copy the AUDIOHED and AUDIOT files from Spear of 
+Destiny to Enemy Around the Corner and change the extensions accordingly:
+
+audiohed.eac
+audiot.eac
+
+
+This edition of Enemy Around the Corner includes the original EATC level + Wolf-Extra 
+Prologue (the remaining levels from the original Wolf-Extra not found in Wolf-Extra 
+SV).
+This edition has a total of 21 levels including 4 secret levels.
+The "Death Incarnate" difficulty level is designed to be as difficult as possible 
+without being impossible!
+It is possible to get the 100% ratio in all three categories on all levels, including 
+the boss- and secret levels.
+All levels have been tested and won on "Death Incarnate" with total ratios of 100% 
+in all three categories.
+
+Remember to leave saved games in different slots so that you may go back to different 
+stages of the level you are on if you need to.
+
+
+
+Paal Olstad (Poet).
+
+
+p-olstad@online.no

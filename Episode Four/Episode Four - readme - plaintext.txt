@@ -1,0 +1,29 @@
+WOLFENSTEIN 3-D
+
+	Thank you for downloading my latest and possibly final set of levels. Countdown 
+to Disaster, my final part of the trilogy started by Assassinate Hitler! and Schabbs 
+2000, never materialized for a variety of reasons. Time constraints and a lack of 
+interest in editing anything beyond mere levels has led me to create this set, which 
+is a replacement for the levels of the original Episode 4: A Dark Secret....
+
+Because this only contains new levels, all that is provided is:
+		GAMEMAPS.WL6
+		MAPHEAD.WL6 (the other 50 levels were left untouched)
+
+Standard drill for using these, just make sure you backup the originals yadde yadde 
+yadde....
+
+If I find the time (again, a BIG if), I'll do the final 20 levels comprising Episodes 
+5 and 6. This would complete the Nocturnal Missions, and cover the storyline that 
+would've served for Countdown to Disaster in the first place.
+
+Special thanks as always to....
+
+Brian Lowe
+Chris Chokan
+The creators of good 'ole Mapedit v7
+iD Software, for their classic original which still kicks major ass
+
+-Gary Ragland (November 2001)
+
+Feel free to e-mail me any comments or bugs:  gr46@springmail.com

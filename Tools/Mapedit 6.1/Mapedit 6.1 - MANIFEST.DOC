@@ -1,0 +1,30 @@
+
+The MAPED6.ZIP file should have contained the following files:
+
+
+VERNOTES DOC  - version notes
+MAPEDIT  DOC  - doc file
+MANIFEST DOC  - this file
+
+MAPEDIT  EXE  - MapEdit
+
+MAPDATA  WL1  - Origional 10 level Map definition file
+OBJDATA  WL1  - Origional 10 level Object definition file
+
+MAPDATA  WL6  - 30/60 level Map definition file
+OBJDATA  WL6  - 30/60 level Object definition file
+
+MAPDATA  SOD  - Spear of Destiny Map definition file
+OBJDATA  SOD  - Spear of Destiny Object definition file
+
+*** Note - to use these definition files copy the ones you want and rename
+           them to MAPDATA.DEF and OBJDATA.DEF
+
+FLOOR    OUT  - An example of a map you can import using the READ command.
+                Can be imported into *.WL3, *.WL6 or SOD.
+
+MAPEDIT  PAS  - MapEdit source
+MOUSE    PAS  - Mouse driver unit
+EGAVGA   BGI  - Borland BGI driver
+LITT     CHR  - Borland BGI font
+

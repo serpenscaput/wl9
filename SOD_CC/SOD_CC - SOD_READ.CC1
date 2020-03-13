@@ -1,0 +1,29 @@
+
+
+	Here are 21 totally new levels for Spear of Destiny.  PDG, IMHO.*
+	This set uses the distribution VSWAP, so it's a little smaller.
+
+	I tried to follow WolfMaps' theme in the levels, i.e., the first
+	five are tunnels, the second group the dungeons, and the third is
+	the castle proper.  I have tested all levels, starting out with
+	just the pistol, and completed all a 3x100%.  It _can_ be done.
+	On Death Incarnate. With just a pistol. Really. Every one. :-)
+	There are no keys required to exit the level hidden by secret
+	doors ( I _hate_ that), and, like the W3D_CC1 levels, are not
+	just loaded up with guards (although it may seem like it at
+	times). If you track such things, my best score so far is 362400.
+	I have included the statistics files, if anyone wants a quick
+	preview.  Files included in SOD_CC1.ZIP (with sizes):
+			SOD_READ.CC1	  1,232	This file.
+			SODSPECS.CC1	    873 Debug statistics
+			SODSTATS.CC1	  1,681 WolfMap statistics
+			MAPHEAD.SOD	    402	Map header (copy this)
+			GAMEMAPS.SOD	157,629	Game maps (copy this)
+		As always, copy your old GAMEMAPS/MAPHEAD files to a
+		safe location before unzipping the download.
+
+	Enjoy.  Let me know what you think.  Otherwise, this will be the
+		last set.
+	als
+
+

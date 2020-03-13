@@ -1,0 +1,10 @@
+^P
+^G16,16,5
+^C[Red]CONGRATULATIONS!
+^C[Black]
+Yuck.  You got some of Der Typ on your shoe.
+
+With most of the rocket guys out of the way, there is nothing standing between you 
+and the lab.  This is where you find out if all this cat people mumbo jumbo is for 
+real.  You hit the elevator button and reload your clip.
+^E

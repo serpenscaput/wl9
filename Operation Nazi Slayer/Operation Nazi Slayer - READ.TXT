@@ -1,0 +1,17 @@
+Operation: Nazi Slayer HD Music
+original MIDI by Orka
+OGG remixes by AstroCreep
+
+INSTRUCTIONS:
+
+To run this music pack along with Operation: Nazi Slayer, either drag
+and drop both the ONS base pk3 and this pk3 onto the ECWolf/LZWolf binary
+(be sure that this comes last in sequence), or alternatively,
+run from command line, EX: "c:\ecwolf\ecwolf.exe -file ONS.pk3 ONS-Music.pk3"
+this pk3 must be loaded last in order to function properly.
+
+CREDITS:
+
+Original MIDI music by Orka
+Remixed by AstroCreep
+Tools used - Logic Pro X 10.3.2, Audacity, SLADE

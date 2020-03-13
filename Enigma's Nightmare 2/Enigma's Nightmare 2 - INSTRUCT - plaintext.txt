@@ -1,0 +1,156 @@
+ENIGMA'S NIGHTMARE II DOCUMENTATION.
+
+READ THIS THROUGH, OR DON'T BLAME ME IF THINGS GO HORRIBLY WRONG!  Contains
+all the things you NEED to know to get full enjoyment from NIGHTMARE II!
+
+----------------------------------------------------------------------------
+OVERVIEW:  ENIGMA'S NIGHTMARE II is a complete set of new playing levels and
+graphics for the SHAREWARE VERSION of ID Software's incredible WOLFENSTEIN
+3D. NM-II levels are very hard, with more treasure, more guards, more guns,
+MORE  ACTION than you've ever seen in WOLF 3D!  The graphics are more color-
+ful and much more bloody (shoot a guard and he either goes down in a spray of
+gore or gets his head completely blown away).  
+
+New wall patterns, new door patterns, new EVERYTHING!  ENIGMA'S NIGHTMARE II
+is created in eager anticipation of DOOM, the newest adventure from ID.  DOOM
+is due in mid-1993 and NM-II was designed to hold avid WOLF fans until its
+release.
+
+You'll need to be NASTY to get through these in one piece!  These are some
+of the roughest, toughest most harrowing WOLFENSTEIN levels you'll EVER see!
+Good luck!
+
+----------------------------------------------------------------------------
+WARNINGS:  All files in this archive (and the offspring files created upon
+installation), are needed in order that NIGHTMARE II will work correctly. 
+Don't delete files just because you cannot see how they fit into things.
+They are NEEDED, believe me!   
+
+Keep in mind that the installer will delete some files which are no longer
+needed after NM-II is installed, in order to help you save disk space. 
+Therefore, be sure to keep a backup of the original archive in case you need
+to install again.
+
+BE CAREFUL and DO NOT try to re-archive these files!  If you want to upload
+or distribute NIGHTMARE II, do so in the original ENITE-II archive only.
+
+The file DEMO.EXE (which will be created during initial install), is NOT a
+demo.  It is part of the loader so don't delete it, otherwise things will
+not work.
+
+Lastly if you do not have a Sound Blaster (any flavor) installed in your
+machine, DON'T tell the loader you do have one!  It'll try to load certain
+drivers your machine cannot support.  At the very least, you'll damage a lot
+of files in your WOLF directory.  And things could get nastier if hardware
+gets into the act.
+
+----------------------------------------------------------------------------
+FILES LIST:  These are the files included in the original ENITE-II archive. 
+If any are missing, you have a defective copy:
+                   
+INSTRUCT.COM   NM2LDR.EXE     NM2SND.EXE   
+NM2GRA.EXE     NM2INSTL.EXE   FILE_ID.DIZ
+
+Also, the NIGHTMARE II archive should be named the following:  ENITE-II. 
+If it's called anything else, I wouldn't trust it!  Best to search INTERNET
+or various BBS until you find the original!
+
+----------------------------------------------------------------------------
+INSTALLATION INSTRUCTIONS:  Create a directory (maybe called NM-II) and
+install a SHAREWARE version of WOLFENSTEIN 3D in it.  Move the ENITE-II
+archive into that directory and open it.
+
+Now that You've unpacked the NIGHTMARE II archive in the same directory as
+your SHAREWARE VERSION of WOLFENSTEIN 3D, the first thing you'll need to
+do is run the file NM2INSTL.EXE.  This is a one time only procedure that
+unpacks the NIGHTMARE II support files and gets them ready for loading into
+the game.  Once again, ALL FILES INSTALLED BY NM2INSTL.EXE ARE NEEDED. 
+DO NOT DELETE ANY OF THEM FROM YOUR DIRECTORY!!!!!
+
+After this is done, simply run the file LOADIT.EXE.  This file allows you to
+load or unload NIGHTMARE II into your WOLF game at will.  Follow the prompts
+and that's all there is to it!  HAVE FUN!
+
+NOTE:  If you try to run NM-II with a commercial version of WOLF 3D, you'll
+destroy both programs.  Run with SHAREWARE WOLFENSTEIN ONLY.
+
+----------------------------------------------------------------------------
+LOADER PROBLEMS?  In the loader, there's a credit screen which requires
+hitting the ESCAPE key to continue.  When you hit ESC, the options menu
+should load.  Most of the time it loads with no problem (though it may take
+a second or two).
+
+However once in awhile the loader stalls at this point, leaving a flashing
+cursor at the bottom of the screen.  When this happens, hit the ESC key 
+once more and the menu should load ok.  Be sure to wait a few seconds to
+be sure the loader is really hung before hitting ESC that second time.
+
+----------------------------------------------------------------------------
+TROUBLESHOOTING:  The main problem with NIGHTMARE II (and with WOLF itself
+for that matter), is memory considerations.  Make sure all TSRs are unloaded
+to make room for the game.
+
+While playing, SAVE THE GAME OFTEN.  If you get killed go back to the last
+saved point.  If you are killed and allow the game to start you again at
+the beginning of the level, keep in mind that WOLF keeps your previous
+moves on that level in memory.  You'll probably run out of memory shortly
+after you restart the level.
+
+This is because NM-II maps & levels are not packed the same way the originals
+are, and the NM-II maps are more complex with more guards than the originals.
+
+HOWEVER, if you reload from a saved point, all memory is freed and you can
+go on playing with no memory problems.
+
+NIGHTMARE II was developed on a machine with 4 megs of memory.  That's not
+to say less RAM makes the game unplayable, but the more memory you have, the
+better.
+
+ALSO, because NM-II maps are bigger, the WOLF game may freeze (very rarely)
+when loading a NIGHTMARE level.  (That's why it's best to save the game
+just before you enter an elevator to go to the next level).  Just reboot
+and load it again.  Problems should clear instantly.
+
+LASTLY, again, because of map size and complexity, you may see odd screen
+effects, colors and characters from time to time.  If these become too
+annoying, simply exit WOLF and reload it and the problems should clear.
+If not, exit WOLF, reboot and reload it.  It's a good idea not to play with
+full sized screen window.  I always go to largest window, then step back two
+sizes.
+
+----------------------------------------------------------------------------
+PLAYING HINTS:  Most keys and some elevators are hidden.  Other than that,
+you're on your own!  :)
+
+----------------------------------------------------------------------------
+CREDITS:  I wish to thank both Ix and FRANK THE RABBIT for their kind help
+and hard work in making ENIGMA'S NIGHTMARE II possible.
+
+----------------------------------------------------------------------------
+DISTRIBUTION:  I have been noticing trashed out copies of my earlier version
+of this program floating around.  I have seen them with renamed archives,
+missing files and BBS adverts splashed all through 'em.
+
+This file is big enough without adding such bullshit as BBS ads to 'em. 
+DO YOU HEAR ME, RUSTY-N-EDIE'S?  This is a practice I DO NOT approve of.  So
+if you find any files other than the 6 mentioned in the above FILES LIST
+section when you open the archive, remove those extra files before you
+distribute NM-II to other people or BBSs.  
+
+Also, PLEASE, PLEASE, PLEASE DO NOT distribute the archive under a different
+name, DO NOT pass around incomplete versions, and distribute only ORIGINAL
+ARCHIVE copies which you know are in good working order!  
+
+Remember, this file is BIG and the next guy in line would like a working
+copy after going to the trouble of downloading this program.  So only
+distribute the original, intact, working archive!
+
+Please spread this around so many can enjoy it.  And by the way, if anybody
+out there has a high speed modem, please see that the original archive is
+uploaded to SOFTWARE CREATIONS BBS (508) 368-4137 or 368-7036.  I'd really
+like them to have a copy. :)
+
+Thanks, and enjoy ENIGMA'S NIGHTMARE II!
+
+E-13 1993
+

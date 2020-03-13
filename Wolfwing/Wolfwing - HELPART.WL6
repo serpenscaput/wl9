@@ -1,0 +1,215 @@
+^P
+^CFE WELCOME
+
+^C00 Thanks for downloading 'NovoWolf', a game by me, Thomas Weiling, and the coding 
+by Dean Horton, and help and assistance from many others. I hope you'll enjoy playing 
+this game - It was made between August 2007 and November 2008, and is my official 
+seventh mod.
+
+^P
+^CFE INFO
+
+^C00 The game itself was constructed in late 2007, with additional mapping one year 
+later, but a glitch in the coding went wrong and it was shelved. As opposed to my 
+other failed mods I did not release this in its unfinished form. With help from Havoc 
+in the fall of 2009, the exe got finished, now using SDL. It should be noted that 
+Dean did a great deal of work in the first EXE. The new enemy worked without a problem, 
+but troubles rose when we needed to increase the number of static objects.
+
+^P
+^CFE CODING CHANGES
+
+^C00 * One seamless 20-level episode
+* One secret level
+* Shading
+* A brand new enemy
+* Animated sprites
+* Two brand new bosses
+* Lots of graphic changes
+* Intermission screens
+* Endart and Helpart
+* Amount of ammo increased
+* New health item added
+* Other hex editing
+^P
+^CFE STORYLINE
+
+^C37 1943 ^C00- WWII is raging, but what only a few people know is that Hitler is 
+seriously ill; a hard case of leukaemia. Only his nearest knows of it, one of them 
+being long time army buddy General Hademar Eisenwolf. When Hitler died on a cold 
+November night in 1943, Eisenwolf declared himself the new leader, setting everything 
+up as if it was him who was supposed to take over. He is now in total control, and 
+one of his first steps is to erect new concentration camps from the coasts of North 
+Jutland to Naples.
+^P
+^C00 Likewise, he's been building nuclear facilities in the remote areas of Norway 
+and the Harz Mountains, but worst of all he's been taking contact to the crazy Dr. 
+Dittz, who's been a long time trainee of Dr. Schabbs, who was Hitler’s nearest doctor. 
+Dr. Dittz has been developing the nuclear facilities along with one of Schabbs’ inventions, 
+the mutants. They're fighting everything that comes close, along with some of the 
+scientists that creates them. Dittz isn't really aware of this problem, and as an 
+obsessive compulsive, it's easy to imagine what will happen. So look out for this 
+guy!
+^P
+^C00 The contractor of the camps and the nuclear facilities is also involved with 
+this. His name is Horst Zwittermann. Being a participant in the Beer Hall Putsch, 
+he's also a close friend of both Hitler and Eisenwolf. He has also been doing his 
+own separate projects, including a big morgue installation in Eisenwolfs castle, 
+getting support from Dr. Dittz and his mutants.
+
+An heir of the castle milieu in the Harz area, Theodor von Richthofen, has been cooperating 
+with the General for the last couple of years. He has been a leading person in Hitler 
+Youth and now serves as
+^P
+^C00 the coach and the leader of the first five levels of the castle, which includes 
+bunker areas held by the SS and the guards, as well as prison areas and offices. 
+He is not exactly a key person but still important, at least for the first part of 
+your mission.
+^G90,96,5
+^P
+^CFE SO WHAT'S THIS CASTLE?
+
+^C00 Eisenwolf chose castle Schwarzenborn, located in a remove forest area at the 
+foothills of the Harz as his hideout. The castle dates from the 16th century, but 
+has been renovated since, and has been used as a vacation area for royalty almost 
+since it was built. At the close of the 19th century, Eisenwolf's father falsified 
+the deed of the castle, merging it into their family. He passed on, and since then, 
+Eisenwolf has been using it for his own personal residence.
+^P
+^CFE YEAH...?
+
+^C00 He has also reserved the older parts of the level from the days of the royalty’s 
+yearly visits. He, as you read earlier, approved Zwittermann's construction of a 
+morgue in the middle of this old castle, he installed chambers for the guards and 
+offices; he practically turned it into a Nazi Castle. It's your goal to get there, 
+and eliminate the general before his mad plans gets worse and he gets more people 
+into this.
+^P
+^CFE HOW DO I GET THERE?
+
+^C00 The MI6's German contact has an airplane he acquired from his time in the Nazi 
+air force. He only joined for getting equipment, including this plane. You’re flown 
+to a smaller castle-like bunker installation in the middle of the Harz Mountains, 
+from which you will fight Dr. Dittz. This'll be the first 15 maps of your mission. 
+He'll be found at the top floor, the last of five floors in the nuclear installation. 
+For each five maps, there's a boss, and they are von Richthofen, Zwittermann and 
+of course Dr. Dittz.
+^P
+^CFE ENEMIES
+^G35,16, 32
+^CFE NAZI GUARD
+
+^C00 These are the most common enemies you'll meet. They're guards from the volunteer 
+army, and not really a challenge. In groups and crowds of officers and SS Guards 
+they might be, but it all depends on your weapon. They're armed with the same pistol 
+as you, and they'll drop a clip of ammo when you whack 'em.
+^P
+^CFE ENEMIES
+^G35,16, 33
+^CFE DOBERMANN
+
+^C00 They're mostly to find in prisons or bunker areas as a weaker guard. Though 
+they're not really that dangerous, and can be killed with just one stab of your knife, 
+these can be difficult in groups, whenever you're surrounded by them or whenever 
+they're around with all the other guards. No ammo is dropped, but other things are.
+
+^P
+^CFE ENEMIES
+^G35,16, 34
+^CFE SS GUARD
+
+^C00 Guards from the Schutzstaffel. They're very tough compared to the regular guards, 
+mainly because they carry MP40's. These guys are much more difficult in groups, and 
+could easily get you down unless your weaponry is in order. They're also the most 
+feared guards in the prison areas, in which they sometimes are in total control.
+
+^P
+^CFE ENEMIES
+^G35,16, 41
+^CFE OFFICER
+
+^C00 A mixed force between Gestapo and Schutzstaffel, these are desk officers. They're 
+mostly in the bunker areas, or in their offices, which could be in labs or prisons. 
+They're fast running, unlike the guard, and they're a little more difficult to get 
+down than the guard as well. They drop a clip of ammo when you kill them.
+^P
+^CFE ENEMIES
+^G35,16, 35
+^CFE MUTANT
+
+^C00 Made by Dr. Dittz after recipe from the late Dr. Schabbs. They're very hard 
+to kill, and as they are practically dead people, they don't care what or who you 
+are, they just kill. There is some sort of rifle built in their chest, though they 
+drop the same ammo as the officer and the guard. But these guys are a lot more difficult 
+than those two combined!
+^P
+^CFE ENEMIES
+^G35,16, 42
+^CFE SCIENTIST
+
+^C00 These guys are most likely to be found in lab areas. Hired by Dr. Dittz as scientists 
+and definitely not guards. They're armed with a gun, and though they run fast, they're 
+easy to get. They drop a clip of ammo for you. And they're not at all dangerous in 
+groups... Still depends on your weaponry.
+^P
+^CFE ENEMIES
+^G35,16, 3
+^CFE CHAINGUN GUARD
+
+^C00 When the SA got toasted in 1934, a couple of very faithful guards survived. 
+They're hard to take down as they're wearing bulletproof vests, but mostly because 
+they're armed with a chaingun! When you kill one of these guys, you'll get a chaingun, 
+so there's some value in this one. This is the least appearing guard of all.
+^P
+^CFE OTHER INFORMATION
+
+^C00 I hope you'll have as much fun playing it as I had making it. This isn't my 
+usual work, actually I mostly stick to the original Wolfenstein and focus on the 
+mapping. I wanted to make this mod in style with those I made when I first came into 
+the Wolf community - although vastly improved. Almost every sprite is changed, though 
+the only completely new things in this game is the scientist and the two bosses, 
+Zwittermann and Eisenwolf.
+^P
+^C00 I had fun making this, and most of the maps were made quickly because of all 
+the inspiration I had, especially for the lab levels. The new enemy also gave me 
+a lot to work with, and the shading got me keen on making various areas in styles 
+I'd never done before. Usually, my mapping is very strict and tight, but this game 
+was a little more loose in my opinion. I put a lot of work in the maps, and that 
+I'm proud of.
+^P
+^CFE CREDITS
+
+^C00 For various things. Music, sounds, graphics, everything.
+
+AlumiuN (Saviour!!!)
+AReyeP & MCS
+Ben Blaufarb
+BJ Rowan
+Bruno deo Vergilio
+id Software
+Laz Rojas
+MajikMonkee
+Richard Kelly
+Tristan van Putten
+
+^P
+^CFE SPECIAL THANKS
+
+^C00Havoc
+Wolf Skevos-Jones
+
+Havoc kindly said yes to help me fix this exe which I longed to release in a better 
+form, and Wolf Skevos-Jones gave the brand new scientist sprite to me. Wolf was also 
+a major inspiration for this game, since I'd never based any game on the so-called 
+"Lost Episodes"-type of guards. Thanks to you both!
+
+^P
+^CFE CONTACT
+
+^C00 Any questions, clever remarks or bugs? Anything can be mailed to:
+^C37thomas_weiling@hotmail.com ^C00- Thanks so much.
+
+Thanks for playing this game!
+
+Thomas Weiling
+^E

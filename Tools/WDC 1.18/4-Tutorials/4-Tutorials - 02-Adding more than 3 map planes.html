@@ -1,0 +1,48 @@
+<HTML>
+<HEAD><TITLE>Adding more than 3 map planes</TITLE></HEAD>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<body>
+<font class="title">
+Tutorials :: Adding more than 3 map planes
+</FONT><BR>
+<BR>
+
+There are just a few things you need to do to enable plane 3 in Wolfenstein 3-D's 
+source code.
+All you need to do is open ID_CA.H and change<BR>
+#define MAPPLANES 2<BR>
+to<BR>
+#define MAPPLANES 3<BR>
+<BR>
+However, there is a chance that 3 planes might not be enough.
+So here's how to add a 4th plane (and higher):
+
+<OL>
+	<LI>Change MAPPLANES in ID_CA.H to 4</LI>
+	<LI>Go a few lines down and change the maptype struct to look like this:
+<PRE>typedef	struct
+{
+	long		planestart[MAPPLANES];	// changed
+	unsigned	planelength[MAPPLANES];	// changed
+	unsigned	width,height;
+	char		name[16];
+} maptype;</PRE></LI>
+	<LI>Now go to ID_CA.C and change the mapfiletype struct to this:
+<PRE>typedef struct
+{
+	unsigned	RLEWtag;
+	int		numplanes;		// added
+	long		headeroffsets[100];
+	byte		tileinfo[];
+} mapfiletype;</PRE></LI>
+</OL>
+And you're done with the code changes.<BR>
+<BR>
+Now all you need to do is set the MAPPLANES value to 4 in "Project Information" and 
+re-compile your GAMEMAPS file.
+<BR>
+Now you're set.
+
+</BODY>
+</HTML>

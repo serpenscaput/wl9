@@ -1,0 +1,7 @@
+
+
+Version 1.0 - Initial version
+
+Version 1.1 - GIF decoder now handles interlaced images correctly
+              bug fixed in GIF decoder
+

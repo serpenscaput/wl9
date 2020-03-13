@@ -1,0 +1,62 @@
+
+Legend for WOLFENSTEIN-3D (W3D) and SPEAR of DESTINY (SoD) plain-ASCII maps:
+===========================================================================
+
+Mazes:
+-----
+	## = wall
+	== = wall with decoration; sign, banner, picture, etc.
+	|| = wall with prison bars or elevator pipes
+	 ? = secret passage
+	-- = horizontal door
+	][ = vertical door
+	() = locked door
+	<> = elevator door
+	&& = elevator walls or entrance elevator
+
+Objects:
+-------
+	 o = object (impassible); table, lamp, well, cage, etc.
+	 a = ammunition
+	 A = ammunition box (SoD only)
+	 f = food
+	 + = first aid
+	 t = treasure
+	 m = machine gun
+	 c = chain gun
+
+	 * = starting position
+	 S = sphere; 1-up
+	 $ = Spear of Destiny (SoD floor 18 only)
+	gk = gold key
+	sk = silver key
+	^^ = endgame trigger
+
+Guards:
+------
+	Dn = Dog (level n=1,3,4)
+	Gn = Guard - brown
+	Sn = S.S. guard - blue
+	On = Officer - white
+	Zn = Zombie (undead) - green
+
+	 x = dead guard
+	 P = Pacman ghost (W3D only)
+	 V = Vampire ghost of Hitler (W3D episode 3 floor 9 only)
+	 W = White ghost (SoD floor 21 only)
+
+Bosses:
+------
+	AD = Angel of Death	 (SoD)
+	AH = Adolf Hitler	 (W3D)
+	BH = Brother of Hans	 (W3D)
+	BW = Barnacle Wilhelm	 (SoD)
+	DK = Death Knight	 (SoD)
+	DS = Dr. Schnabbs	 (W3D)
+	GF = General Fettgesicht (W3D)
+	GG = Greta Grosse	 (W3D)
+	HG = Hans Grosse	 (W3D)
+	OG = Otto Giftmacher	 (W3D)
+	TG = Trans Grosse	 (SoD)
+	UM = UberMutant		 (SoD)
+

@@ -1,0 +1,15 @@
+BEYOND THE GRAVE WITH THE OLD CONTROLS SETUP 
+
+In this version, the Y axis for the mouse is left intact and there is no autorun 
+(press 'shift' to run). 
+
+If you want to just use the arrows to move around, like in classic Wolfenstein 3d,
+
+change the 'W' and 'S' in the controls menu to 'up' and 'down' arrows.
+
+IMPORTANT NOTES: 
+
+-make absolute sure you delete the config file first or else the controls will be 
+messed up.  
+
+-replace your current GRAVE.exe with GRAVE.exe contained in this folder

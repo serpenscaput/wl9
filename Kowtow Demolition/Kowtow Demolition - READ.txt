@@ -1,0 +1,27 @@
+KOWTOW (ECWolf Port)
+mod by Thomas Weiling 2019
+
+20 brand new levels, numerous new graphics and a small host of new
+sounds and music. 
+
+The coding for the original SDL version is courtesy of AlumiuN 
+who did a great job. Some of the new features include: 
+
+* 20 new & gargantuan levels (Including one secret level) 
+* Ammo limit greatly raised (The player can now obtain 500 bullets!) 
+* New ceiling colors/floor colors 
+* 2 new enemies added 
+* Animated objects 
+* Extra static objects 
+* Extra wall textures 
+
+DIFFERENCES FROM ORIGINAL SDL VERSION
+
+No level names on Get Psyched screen
+Remixed IMF music by AstroCreep
+Read This! screen
+
+Special thanks to KyleRTCW for quickly converting the mapdefs to decimal
+(saved me hours of work lol)
+ECWolf Testing - Executor, Zombie, Dunkelschwamm
+

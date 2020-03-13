@@ -1,0 +1,149 @@
+
+Corridor 7 : Alien Wolf  
+
+   This is a Wolfenstein 3-D shareware graphics patch that converts your 
+game into Corridor 7 : Alien Invasion.
+
+   The following text has been adapted from Loren G. Dobert's DOOMenstein 
+documentation.  That patch can be found in America Online's software library,
+and on various Wolfenstein web sites as DOOMSTEN.ZIP.  I highly recommend it.
+
+And now for something completely legal:
+
+        CORRIDOR 7, AND WOLFENSTEIN 3-D ARE COPYRIGHTED BY ID SOFTWARE,
+        CAPSTONE SOFTWARE, APOGEE, AND PROBABLY OTHER PEOPLE.
+        THIS PATCH HAS BEEN TESTED WITH A SHAREWARE COPY OF VERSION 1.4
+        WOLFENSTEIN 3-D. IT WORKED WITH NO PROBLEMS. ANY DIFFICULTIES 
+        ENCOUNTERED BY THE USER INCLUDING BUT NOT LIMITED TO HARDWARE 
+        FAILURE, ERASURE OF ANY DATA, AND PERSONAL TRAUMA ARE SOLELY THE 
+        RESPONSIBILITY OF THE USER. THE USER WILL NOT TRY TO CONTACT APOGEE,
+        ID SOFTWARE, OR JAM ABOUT ANY PROBLEMS THIS PATCH MIGHT INCUR ON 
+        HIS/HER COMPUTER SYSTEM.  I GIVE NO GUARANTEES AND ACCEPT NO 
+        RESPONSIBILTY FOR ANY OF THE ABOVE-MENTIONED PROBLEMS. IF YOU ARE 
+        UNSURE ABOUT THIS, THEN ERASE THE VSWAP FILE AND CONTINUE PLAYING 
+        PLAIN OLD, BORING WOLF 3-D.  YOU MAY COPY AND DISTRIBUTE THE PATCH 
+        AT WILL, AS LONG AS YOU KEEP THE VSWAP FILE INTACT. IF YOU WANT TO 
+        USE SOME OF MY GRAPHICS OR SOUNDS IN A PATCH OF YOUR OWN, PLEASE FEEL 
+        FREE, JUST GIVE ME CREDIT.
+
+Well, you get the picture. Please read the following sections on
+Corridor 7 : Alien Wolf :
+
+         I. WHO
+        II. WHY
+       III. WHEN
+        IV. WHAT
+         V. The Problems
+
+I. WHO
+First of all, the credits:
+        id software for creating Wolfenstein
+        Capstone Software for creating Corridor 7
+        Apogee software for the distribution thing
+        Blackadder (Michael Adcock) and Loren G. Dobert for inspiration
+        Andy Nonymous for slicing and dicing the ingredients
+
+II. WHY
+After the success of the BlakenStone patch, I hungered for another game
+to hack that used the Wolfenstein engine.  So I came upon Corridor 7. 
+
+III. WHEN
+I started this about the first week of November, 1995 and finished on 
+November 19. Changed landscape panels to space panels January 19, 1999.
+
+IV. WHAT
+The following programs were used in creating this patch:
+
+Original Graphics & Sounds:        
+        Corridor 7 : Alien Invasion
+                Capstone Software
+        Wolfenstein 3-D
+                id Software
+Graphics Insertion:        
+        Wolfedit v2.1
+                Bill Kirby
+Sound Insertion:        
+        Wlfaud v1.1
+                Bill Neisius                                                
+Graphics Processing:
+        CHANGE.COM
+                Michael J. Mefford
+        MS-DOS Batch
+                programming by yours truly
+        Paintshop Pro v3.0
+                JASC, Inc.
+Sound processing:        
+        BLASTER Master v6.2
+                Gary Maddox
+        Sound Impression v3.8
+                Dennis J. McMahon
+VSWAP inspection:
+        PC-Valet Shell Version 89.09.04 
+                John A. Junod
+Graphics and Sound Extraction:        
+        QuickBasic 4.50 
+                programming by yours truly
+
+V. The Problems
+
+My BlakenStone project experience smoothed the way for this one, technically.
+The main problems here were mostly aesthetic.
+
+V1. Walls
+Using QuickBasic programming, I extracted the binary data from the Corridor 7
+VSWAP and inserted it into a Wolfenstein VSWAP, then viewed the results
+with Wolfedit. I wrote another program to extract a wall from the Wolf VSWAP, 
+change the binary data to what I thought was a close match to how the colors 
+should look (batch file), and re-insert the data. Some walls were easier than 
+others, some trial and error was used. Walls and doors with see-through holes
+would not have the holes after transferring to Wolfenstein.
+
+V2. The Objects
+I used the same methods as above. Did some re-sizing, as most of the inert
+objects in Corridor 7 are much larger than Wolf's.
+
+V3. Enemies
+Mostly sizing problems here. Also used the same color scheme as above. Here's 
+a commentary on each:
+        
+        Brown Guards replaced with Green Robot-Eyes. Best fit character-wise,
+        but I wish I didn't have to reduce the size to fit. Couldn't id
+        have made the brown soldiers fatter ??? :)
+
+        SS Guards replaced with Short Gremlin. Again, had to resize, since
+        this character is quite squat compared with the SS guard. He's also 
+        a deeper green now...pretend he has a moontan after vacationing
+        in the Ring Nebula !
+
+        The Dogs replaced with Blue Biological-Eyes. Resized again, came out  
+        OK. In all cases, the resizing has resulted in a slight loss of
+        detail, but not enough to cause a grainy or pixelated appearance.
+
+        Hans Gr”sse replaced with the Yellow Robot. Great fit, thematically
+        and physically. No resizing needed. Could only use 2 of 4 shooting
+        frames, and couldn't use all of the original death frames, but it 
+        came out great anyway.
+
+V4. You and your weapons
+Not too difficult... 
+
+        The knife I left as is. 
+
+        The pistol replaced with the single-shot hand gun. 
+
+        The machine gun replaced with the semi-automatic hand gun.
+
+        The chaingun replaced with the alien dual blaster.
+
+        Your victory run. Gave BJ a helmet and brown shades, and cleaned
+        up his clothes - no more blood and rips.
+
+V5. Sounds
+All sounds were recorded on tape and WAV files were created from the tape,
+edited and re-inserted using WLFAUD. The Yellow Robot does not make a sound 
+when he dies, so I substituted the death sound of the Thor-like guard, which
+sounds kind of "liquid-y". 
+
+I hope you enjoy the patch!
+
+Andy Nonymous 1/19/99

@@ -1,0 +1,36 @@
+
+Wolf 3D v1.4 (Shareware Version) Restore Debug Keys
+
+様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
+
+The latest revision of Wolf 3D v1.4 (Shareware Version) has the built-in
+debug keys disabled. Not all copies of v1.4 have the debug keys disabled.
+Use this program only if the built-in debug keys are not working on your
+copy of v1.4 of the Shareware Version of Wolf 3D.
+
+This program will restore the built-in debug keys.
+
+Instructions:
+
+Run W14DEBUG.EXE. This program will restore the debug mode keys to your
+WOLF3D.EXE file while naming the original to WOLF3D.EX$. After WOLF3D.EXE
+has been updated, W14DEBUG.EXE is no longer needed.
+
+The debug mode is activated by starting the program with the command line
+password (goobers) as follows:
+
+wolf3d goobers
+
+The debug mode activation key combination is:
+
+left shift  left alt  backspace
+
+
+Other text files are widely available with a complete description of all
+the debug mode keys.
+
+様様様様様
+
+End.
+
+

@@ -1,0 +1,38 @@
+Weapons
+Page 1
+Golden Parrot – Weapons
+Damage short range Damage mid range Damage long range Base values Penalties Bonus
+
+Weapon Name Description Damage type min max min max min max min max short mid long 
+novice expert
+1 Hook Physical 0 15 0 15 1 5 5
+2 Pistol Physical 15 35 10 23 10 23 60 140 4 6 6 16 16
+3 Cutlass Physical 5 27 5 27 1 3 3
+4 Blunderbuss Physical 12 55 6 31 6 27 48 220 4 7 8 16 16
+5 Musket Physical 24 60 19 48 19 48 96 240 4 5 5 16 16
+6 Hand cannon Explosive 150 150 150 150 150 150 150 150 1 1 1 20 20
+7 Chalice Magical 7 7 7 7 7 7 7 7 1 1 1 2 2
+8 Boarding Axe A devastating weapon for close combat. Physical 16 66 16 66 1 3 3
+
+9 Parrot Magical 130 130 130 130 130 130 130 130 1 1 1 18 18
+Landing alone in the new world is very risky,
+wearing a false hook offers the double
+advantage of feigning a disability and a small
+weapon to defend himslef.
+The flintlock pistol is a versatile weapon,
+efficient at short range and fair at long range.
+The classic pirate sword: handful and
+accurate!
+A powerful short ranged weapon, ideal for
+those not liking subtlety, or not good at
+aiming. Also the easiest to reload.
+The best pirate rifle more than decent at long
+range.
+One must be strong to carry it, but it is fully
+worth! You can even destroy building
+columns, would they be on the way.
+A magic artifact alimented by mana. It is said
+that it is the only thing that allows to fight evil
+creatures.
+A magical driven parrot that is particularly
+difficult to avoid or take down for enemies.

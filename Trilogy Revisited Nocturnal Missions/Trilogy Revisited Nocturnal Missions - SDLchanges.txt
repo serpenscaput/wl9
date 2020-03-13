@@ -1,0 +1,24 @@
+Trilogy Revisited & Nocturnal Missions by Serpens (wolf3d mod)
+original DOS release: 23 September 2007
+
+Note: requires wolf3d (.wl6) data files (VSWAP, 2 AUDIO)
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 2 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on Serpens' EXE:
+Changed some ceiling colors
+
+Minor map fixes to E1M2, E1M7, E1M8, E3M1, E3M6, E5M5, E5M8, E6M2
+
+Many thanks to WolfForever for beta testing this!
+
+
+
+

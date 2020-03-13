@@ -1,0 +1,26 @@
+Red Sunrise by  BAKTRA
+
+60 new levels for the full registered version of Wolfenstein 3D.
+
+Files included
+VSWAP.WL6
+MAPHEAD.WL6
+GAMEMAPS.WL6
+REDSUNRISE.TXT (this file)
+
+Users need to make a copy of the full registered version of Wolf 3D. Call the folder 
+(say) RedSunrise and then add these files to the same folder.
+
+The story:
+In December 1944 military forces from the Soviet Union stopped their progress at 
+the eastern frontier. All attempts to make contacts with Soviet generals failed. 
+
+Allied forces at the western frontier were brought into serious problems because 
+German soldiers from the eastern front were sent to the western front.
+The allied forces are not strong enough to defeat improved German defence forces.
+
+Six secret missions have to be accomplished in order to force the Soviet Union to 
+fight again.
+This addon contains 60 new levels with original graphics.
+
+2/22/2005

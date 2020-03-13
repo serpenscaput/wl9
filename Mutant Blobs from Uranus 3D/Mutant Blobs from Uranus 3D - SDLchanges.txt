@@ -1,0 +1,27 @@
+Mutant Blobs From Uranus 3D by Ringman (wolf3d shareware mod)
+original DOS release: 3 August 2005
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+Apogee 1.4 signon screen
+Blobs3D hex edits reproduced (messages, episode names, difficulty names, etc.)
+Floor and ceiling colors changed
+
+Further improvements in SDL version:
+
+Demos disabled
+Final ratios adjusted for 3 levels
+Third level added to final ratios
+Warping limited to 3 levels
+Disabled episodes 2 to 6 completely
+Centered helpart page marker text
+Minor helpart text re-alignment (VGA)
+Added a floor tile to allow 100% treasures on level 1
+
+
+

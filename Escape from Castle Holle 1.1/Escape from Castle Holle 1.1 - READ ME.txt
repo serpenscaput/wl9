@@ -1,0 +1,79 @@
+ESCAPE FROM CASTLE HOLLE
+========================
+
+Created by: Dean Horton
+
+email: deananthonyhorton@hotmail.com
+
+This is my first full add-on, the Shareware version was released in April 2006. 
+
+This is a 31 level set and contains many changes not in the Shareware version, such 
+as; 
+
+* Additional coding
+* Helpart, Intart and Endart added
+* Full screen
+* Incresed sprite and actors count
+* Additional walls
+* Additional sprites
+* Modified status bar
+* New "Random' treasure item
+* Modified Levels from EFCH sharware set
+* Changed music order
+* Spear of Destiny music added
+* plus heaps more!
+
+Thanks to the following for the use of their turorials;
+
+MCS
+BrotherTank
+Chris Chokan
+Poet
+Tricob
+WSJ
+ 
+I started this in November 2005 and it was finally finished in October 2007 with 
+testing and a mobo failure pushing the release back to December 2007. 
+While the work on this was slow there was little to no work done between August 2006 
+and April 2007 as I was working on other projects as well as attending University 
+and working full-time.
+
+A lot of time has been spent (as i'm bit of a perfectionist) trying to get everything 
+right and in a particular continuous theme.
+
+I would really love some feedback from others on their impressions of the game, especially 
+level layouts/difficulties/tricks and traps etc I've used & the overall look and 
+feel of the game.
+I have created all levels, except levels 13,14,20 and 29, myself from scratch so 
+if any seem familiar to any other creators it is purely coincidental.
+Level 14 is a level made by me, as a tribute to BJ Rowan, creater of one of my favorite 
+mods ever 'Project Totengraeber'. It is made with scenarios copied from different 
+levels of the 'Project Totengraeber' mod and conjoined to make one level as a tribute.
+
+Level 20 was made by Tricob, it's a really great challenging level that fits in nicely. 
+Thanks for making the level, it was great working with you.
+Level 13 & 29 where made by Thomas Weiling. We have worked on many projects together 
+and its a great pleasure to have 2 of your fantastic levels in my mod.
+Level 26 appeared in Thomas Weiling's now withdrawn 40 level release of 'All this 
+& wolf 3d'.
+Levels 27 & 28 appeared in the combined 'Community Mappack' made with WLHack, Thomas, 
+Brian Lowe, RonWolf and Tricob released on the 27th August 2007.
+
+Anyone can use any of this mod for their own projects, just please credit me or the 
+appropriate person for their work.
+
+There a couple of sprites that I can't remember who made them as I ripped them 2 
+years ago (I know the urinal is one of them), so If anyone wishes to be given credit 
+for anything I've used then please email or PM me and I'll update this text file.
+
+
+*Warning - The I-L-M cheat still exists but not in a good way!*
+The original cheat code has been changed, see if you can work out what it is now....
+
+
+For more information see the 'Read this' within the game.
+
+Thanks for playing, I hope you find it challenging!
+
+Dean Horton 
+(December 2007)

@@ -1,0 +1,13 @@
+CREDITS:
+==========================
+
+> Story and graphics - Doomjedi
+
+> Coding, mapping and level naming - WLHack
+
+> Sounds: finding-doomjedi, selecting, converting and implementing- WLHack
+
+> Beta testing - doomjedi and WLHack
+
+Special thanks to ID Software for making wolfenstein3D, which this mod is based off.
+

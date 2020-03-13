@@ -1,0 +1,43 @@
+Gates to Hell by Harry Mass Senior(wolf3d mod)
+original DOS release: 12 September 2000
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on Gates to Hell EXE:
+
+New episode title
+High scores names changed
+Maximum ammo is 200
+Don't clip status bar
+Full ammo boxes contain 25 bullets 
+Schabbs behavior changed
+Ceiling colors changed
+Floors match ceilings
+Music order changed
+Secret elevator floor changed
+4 keys
+
+Further improvements in SDL version:
+
+Demos disabled
+Don't pick up ammo clips when you have 200
+MLI cheat ammo count corrected
+Ammo display in HUD centered
+Don't allow selection of episodes 2 to 6
+Out of sync BJ faces on HUD corrected
+Minor VGA and VSWAP touch ups
+show scores over 1 million on status bar (Chris Chokan)
+
+minor mapping bugs fixed on levels 2,8
+
+
+
+
+
+

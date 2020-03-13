@@ -1,0 +1,22 @@
+This is the updated verion of Escape from Castle Holle
+
+This fixes a few minor things that probably no one would have even noticed plus a 
+couple of minor ones that someone did. :)
+
+Changes in this release are;
+
+Editing changes made to the 'Read this' text file
+Level 9 Intart corrected
+Floor code errors fixed on some levels
+Doors added in a couple of secret areas on Level 28 to help with floorcoding errors
+
+Some guards changed to silent as cause of floor code corrections
+Some minor guard placement changes
+2 secret rooms removed for accuracy reasons
+Minor misplaced walls removed.
+
+
+Thanks to AReyeP for all his help with the maps and advice.
+Thanks to Mbender for his assistance in finding some mapping mistakes I had missed.
+
+Thanks to Tricob for fixing the VGAGraph file.

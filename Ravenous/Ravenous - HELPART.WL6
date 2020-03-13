@@ -1,0 +1,281 @@
+^P
+^C2a WolfenDoom II:The depths of hell ^C00
+
+  Table of contents 
+
+  Default controls : 2
+  Story : 3 - 9
+  Weapons : 10 - 11
+  Items : 12 - 13
+  Enemies : 14 - 15
+  Bosses : 16 - 17
+  Credits : 18
+  Tips from Jemanie : 19 - 26
+
+^P
+^C2a WolfenDoom II  ^C9d  DEFAULT CONTROLS
+
+^C6d ARROW KEYS  ^C00  These keys moves the player.
+ 
+^C6d SPACEBAR  ^C00  Opens doors and activates pushwalls.
+ 
+^C6d ALT  ^C00  Hold this down and press left of right to move sideways.
+
+^C6d CTRL  ^C00  Fires weapons.
+ 
+^C6d SHIFT  ^C00  Hold this down to make the player run.
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 April 14th 1997
+
+^Deep within the deserts of Arizona lies UAC research facility #37, a science institution 
+that UAC researchers use to attempt the creation of a device that can send a man 
+from one dimension to a different one.
+
+They achieved this goal today.
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 This already happened before in six different UAC installations back in 1993, 
+and a single UAC soldier was able to destroy the Inter- Dimensional portals linking 
+our world to hell.
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 Your job in UAC is a dull one, all you do is stand around holding a rifle and 
+shoot intruders. But that's your job, Richard Petrovitch, the grandson of William 
+Joseph Blazkowicz's russian counterpart.
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 But when you woke up today, you had a funny feeling that you were gonna go to 
+battle with a overwhelming enemy.
+
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 At 5:30 PM the entire facility went on red alert, monsters started to come through 
+the portal and were killing the researchers. All the soldiers were ordered to jump 
+through the portal and to combat these monstrousities.
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 76 armed soldiers went into hell to do battle, only 21 including yourself survived. 
+The rest of them were able to escape but before you got a chance to, the portal's 
+link got severed and now the exit 
+portal lies somewhere elsewhere in the depths of hell.
+
+^P
+^C2a WolfenDoom II  ^C9d  STORY
+^G40,16,5
+
+^C00 You take off your helmet and slap a fresh clip into your rifle. And as you take 
+a step forward, you hear a sinister laugh, you instantly know that this won't be 
+easy.
+
+That's when you ask yourself, 
+
+^C3d "Richard, what the hell did you get yourself into this time?"
+
+^P
+^C2a WolfenDoom II  ^C9d  WEAPONS
+^C00 WolfenDoom II features 4 weapons located through out the entire game, here's 
+the list.
+
+^C6a Fist  ^C00  Whenever you're out of ammo, show these demons your boxing skills.
+
+
+
+^C6a Rifle  ^C00  Standard rifle used by all UAC soldiers, armed with light armor 
+piercing bullets.
+
+^P
+^C2a WolfenDoom II  ^C9d  WEAPONS
+^C00 WolfenDoom II features 4 weapons located through out the entire game, here's 
+the list.
+
+^C6a M16 Machine gun  ^C00  This is the gun you'll probably use the most, it's not 
+as deadly as the minigun but it still packs a punch.
+
+^C6a Minigun  ^C00  This weapon is something special, it can take out targets right 
+when you see them. Armed with heavy armor peircing ammunition.
+
+^P
+^C2a WolfenDoom II  ^C9d  ITEMS
+^C00 This game is also loaded with a variety of items that you can use to your advantage.
+
+
+^C7a Ammo clip  ^C00  This loads your guns with 4 - 8 bullets. Your ammo will not 
+exceed 99 bullets.
+
+^C7a Blue vial  ^C00  The contents of this vial will increase your health by 4%. 
+Your health will not exceed 100%.
+
+^C7a Small med kit  ^C00  Scalpals and bandages, increases 10% of health. Your health 
+will not exceed 100%.
+
+^P
+^C2a WolfenDoom II  ^C9d  ITEMS
+^C00 This game is also loaded with a variety of items that you can use to your advantage.
+
+
+^C7a Large med kit  ^C00  Field surgery kit that'll increase 25% of health. Your 
+health will not exceed 100%.
+
+^C7a Sphere of life  ^C00  Increases health to 100%, gives you 25 bullets, and gives 
+you an extra life.
+
+^C7a Treasure  ^C00  Gives you 100 to 5000 points, look for colored skulls and armored 
+helmets.
+
+^P
+^C2a WolfenDoom II  ^C9d  ENEMIES
+^C00 Beware of these enemies, they usually attack in numbers.
+
+^C8a Zombie guards  ^C00  Armed with rifles and are very easy to kill.
+
+^C8a Imps  ^C00  Tougher then the zombie guards and they throw fireballs.
+
+^C8a Lost souls  ^C00  Skulls set on fire that'll attack you relentlessly.
+
+^C8a Spectres  ^C00  Invisible demons that'll eat you alive. They're very easy to 
+kill however.
+
+^P
+^C2a WolfenDoom II  ^C9d  ENEMIES
+^C00 Beware of these enemies, they usually attack in numbers.
+
+^C8a Former UAC soldiers  ^C00  Possessed dead UAC soldiers, dressed in black.
+
+^C8a Cacodemons  ^C00  Flying red monsters that throw fireballs and are very dangerous.
+
+
+^C8a Chaingun zombies  ^C00  Tough, huge zombies that are armed with a chaingun. 
+There are a number of them in the game.
+
+^P
+^C2a WolfenDoom II  ^C9d  BOSSES
+^C00 Your worst nightmares, these guys are tougher then the other demons.
+
+
+^C8d Hell fires  ^C00  Armed with a minigun and very tough, watch your back around 
+these guys.
+
+
+^C8d Archviles  ^C00  These skeleton looking guys can burn you into a crisp in a 
+very short time.
+
+^P
+^C2a WolfenDoom II  ^C9d  BOSSES
+^C00 Your worst nightmares, these guys are tougher then the other demons.
+
+
+^C8f Angel of Death  ^C00  This demon looks similar to a red dragon, beware their 
+green fire balls.
+
+
+^C8f Baron of Hell  ^C00 The worst one of all of them, this guy is in command of 
+all the other demons that you faced in combat.
+
+^P
+^C2a WolfenDoom II  ^C9d  CREDITS
+^C00 These are the people that are responsible for WolfenDoom II.
+
+^C1b Areyep  ^C00  Original WolfenDoom conversion, graphics, sounds.
+
+^C1b Thunderlord Jemanie  ^C00  Game maps, graphics, story.
+
+^C1b The Great Wasabi  ^C00  Music, graphics.
+
+^C1b Brian Lowe  ^C00  Coding.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+  Without a doubt you'll probably have difficulties beating this game, especially 
+if this is the first Wolfenstein game you've played.
+
+So because I'm a nice guy, I've decided to give you some advice...
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+1 - If you are a beginning player for Wolfenstein games and conversions, or if you're 
+just not good at games and think cheats make you badass. Press MLI all at the same 
+time to recieve full health, ammo, all weapons and both keys.
+
+NOTE: This WILL take away your entire score and make you a softer player, the true 
+challenge is to beat the game without any cheats at all.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+2 - The fist can be very helpful against enemy Spectres and unsuspecting Zombie guards 
+as long as they don't have a shit load of allies in the present area.
+
+So unless you have a death wish or something, use it against weak enemies who are 
+by themselves.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+3 - If you access my "precious" hidden floors in each episode, proceed with caution. 
+Those areas are both loaded with goodies and they can be a flattering one way ticket 
+to death.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+4 - The true secret of the pushwalls in WolfenDoom II isn't that they lead you to 
+goodies. One secret is that if you are not careful with them, you can trap yourself 
+in a level easily. The other secret is you
+need to access certain pushwalls in order to beat a level.
+
+NOTE: Easy way to avoid getting stuck in one of my pushwall traps is quicksave (F8) 
+at the beginning of a level so you can quickload (F9) if you mess up and make an 
+ass of yourself.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+5 - If you think my pushwall traps are frusterating, then this is gonna be a bitch 
+for you. I've also added "Ghost walls" which look like solid walls, but you can actually 
+walk through them. Some enemies hide in them and you'll have to search 
+them out to beat some levels. Remember, just because you don't see a path doesn't 
+mean there isn't one.
+
+NOTE: You only need to walk through these to access paths in Episode III. No other 
+episode has them.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+6 - This here is the best advice I'm offering even though I didn't really want to 
+ruin the surprise for you. Episode III is loaded with levels composed of labyrinths, 
+pushwalls and ghost walls.
+
+And like I mentioned before, some pushwalls can block off your only way out of a 
+level but others can lead you to certain victory.
+
+^P
+^C2a WolfenDoom II  ^C9d  TIPS FROM JEMANIE
+^C7c 
+7 - That's all the advice I'm giving besides don't waste all of your freaking bullets 
+like an idiot, conserve your ammo.
+
+Now stop reading this crap and play!
+
+^E

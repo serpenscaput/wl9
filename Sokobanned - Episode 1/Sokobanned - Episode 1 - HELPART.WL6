@@ -1,0 +1,41 @@
+^P
+
+^C26 SOKOBANNED
+
+^C00 Thanks for downloading Sokobanned, a mod for Wolfenstein 3D. The following pages 
+will introduce you to the features of this project.
+
+^P
+^C7d FEATURES
+
+^C00 -No weapons
+-Barrel & Oil Drum are pushable ('SPACE')
+-Pushwalls can be pushed infinitely
+-Pushwalls pushed through an open door leave the door open
+-Multiple Moving Pushwalls at the same time
+-Pushwalls kill guards standing in their path
+-Log files
+-Star sky + rain
+-4 keys
+-New floor/ceiling colors
+-New objects
+
+^P
+^C7d CREDITS
+
+^C00 Ronwolf1705 - Mapping, Graphics, Coding
+Linuxwolf - Coding, Testing
+ID Software - The original game
+AReyeP - Graphics
+BrotherTank - Pushing objects code
+MCS - Read This! code
+Havoc - Log files
+Ripper - Wolf4SDL code
+AlumiuN - Multiple Moving Pushwall code
+
+^P
+^C7d FEATURE RELEASES
+
+^C00 This is just the first of six episodes to follow, so stay tuned for the next 
+releases!
+^E

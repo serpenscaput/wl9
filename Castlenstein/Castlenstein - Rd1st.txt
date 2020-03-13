@@ -1,0 +1,83 @@
+ 				Presenting
+			Castlestein 3D for Wolf3D
+				Version 1.1
+
+October 1998
+
+INDEX-
+_What's new
+_Description
+_Documentation
+_The levels
+_Email notification
+
+__What's new_______________________________________________________________
+In the description section, it talks about the first two levels not having 
+floor files.  They have been added in this version.  Also, the "disappearing
+guard syndrome" has been corrected where it has previously been a problem.
+Also, in a few of the levels, some of the secret doors wouldn't open all of
+the way, making it impossible to get all of the bonuses and (in some cases)
+not even being able to finish the level because of not getting the keys to 
+the locked doors.  Also, some design problems were worked out.  All in all,
+this makes Castlestein a little more fun to play.
+
+__Description______________________________________________________________
+Well, all of you shareware owning Wolfenstein players!  Here's a brand new
+set of Wolfenstein levels for you to enjoy!  I hope you like them.  I tried
+to make them have the feel of the original game.  I tried to stick with the
+methods the game designers had when making the maps.  As you can see (es-
+pecially in the secret level and Floor 8), I did try to diversify a little
+bit.  Also, I didn't figure out the secret of laying down floor files until
+I had already finished the first two levels.  Anotherwords, after the first
+shot you shoot, every guard in the level hears you.  After Level 2, however,
+everything is OK. I might correct it after I finish making my levels for the
+registered game (and by the way, if you are looking to pirate it, I maybe 
+found web sites that have the registered version for you to download, but I
+wouldn't know - I'm just guessing ;)
+
+Anyway, thank you Apogee for making a truly awesome game.
+
+ROCK ON!
+
+Sincerely,
+Daniel
+
+
+__Documentation____________________________________________________________
+Unzip these files into your Wolfenstein shareware directory.  The files are
+called maphead.cst gamemaps.cst.  At the DOS prompt, type in "castle" to 
+play the new levels.  To restore the old ones, type in "restore".
+
+
+__The Levels_______________________________________________________________
+Here's a small description for you of the interesting levels.
+
+Level 1 - You've just come on the elevator from solitary confinement.  You
+are in Castlestein a Nazi castle named by a guy that has no imagination
+whatsoever.  It's your job to escape, killing anything that stops you.  HAHA!
+I bet you like your life! You have to get out of here and fast.
+
+Level 4 - The MOST DIFFICULT LEVEL! (maybe - you could make an argument for
+level eight) I had to scale back the size of the thing, and take away guards.
+There are three or four secret doors.
+
+Level 8 - Two words: OPEN SEASON! (I hope you have a chain gun)
+
+Level 10 (secret level) - A few more words: OPEN SEASON, PART TWO!
+
+
+__Please register these with me!___________________________________________
+While these downloads are ABSOLUTELY FREE, I would like to get an email from
+you if you've downloaded them.  Drop me a little note once you have the new
+levels.  I want to see how many people are playing them. (to play them is to 
+like them!)  Also, if a new version comes out, I will be able to give you the
+new version.
+
+Questions? Comments? Praise for the great levels? Need a new version?
+danielpatterson@hotmail.com
+
+Visit my Web site at http://www.geocities.com/SoHo/Square/2032
+
+or my soon to be Wolfenstein site at 
+(GOD KNOWS WHERE!)
+go to the address above and there will be a link there.

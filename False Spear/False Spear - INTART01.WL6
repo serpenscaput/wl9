@@ -1,0 +1,29 @@
+^P 
+
+^G0,0,10
+^G8,0,101
+^G8,312,102
+^G176,8,11
+^G32,144,35
+
+ 
+^C25 The Story so far... 
+^C00 
+^C00 After the plane crashed to the ground near Offenbach, you find yourself lying 
+on the grass. 
+^C00 
+^C00 You take a look around and notice that
+
+^P
+
+^G0,0,10
+^G8,0,101
+^G8,312,102
+^G176,8,11
+
+^C00 one of your comrades is lying dead near you. Now there is one thing to do for 
+you... search other members of your crew and complete the mission given to you.
+^C00
+^C00 Good luck Captain Blazkowicz, we count you in this mission. 
+
+^E 

@@ -1,0 +1,42 @@
+^P
+^C38 STORY
+
+^C3B Captains Log, 23XX...
+
+A malfunctioning droid has severely bonked his head against the Hyper Transwarp chamber, 
+causing it to shut down. The local Borg colony saw it's chance and boarded the ship 
+by surprise.
+
+They took us completely by storm.
+
+We hope that they didn't do too much damage, as we were already weakened by the battle 
+against the Caitians...
+
+^P
+^C38 HOW TO PLAY ^C3Bor ^C38 DIFFERENCES WITH WOLF 3D
+
+^C3B Control keys are the same as always, defaulting to the Arrow Keys to move your 
+character around, CTRL to attack, ALT to strafe, SPACE to open doors and the right 
+SHIFT to run like the muddafuckin' wind!
+
+^G100,280,30
+While walking around, you might get a message from Counsellor. This is shown by a 
+small walkie-talkie icon in the status bar.
+You can press ^C38M ^c3Bto read the latest message.
+
+^P
+^G8,8,88
+^C38 CREDITS
+^C3B Original game by ID Software.
+Coding and graphics by Pikachu14.
+
+With the voices of Pikachu14 and Cap'n Henk as themself and Machine Gun Panda as 
+the Borg.
+
+Thanks to the Wolf3D Dome and Galaxy sites, the guys from the Dome forum, Chaos Software, 
+the Bob and George community and the guys on Acmlm's Board.
+^P
+^G8,8,88
+^C38 Beta testers:
+^C3B Cap'n Henk / ACMLM / <your names here>
+^E

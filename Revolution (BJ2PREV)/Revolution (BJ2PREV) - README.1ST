@@ -1,0 +1,175 @@
+                ษออออออออออออออออออออออออออออออออออออป
+                บฐฐฑฑฒฒÛ WOLF3D'S REVOLUTION Ûฒฒฑฑฐฐฐบ
+                บ     ฏฏฏ Additional Levels ฎฎฎ      บ
+                ศออออออออออออออออออออออออออออออออออออผ
+                   (C)opyright 1995 by Brian Rowan
+
+                     ****  IMPORTANT NOTICE  ****
+  This is a "preview" episode in which there are only the first six
+ levels of episode one. The full, 60-level product will be available
+             on CompuServe and FTP sites in a few months.
+                     ****        ****        ****
+
+  This file is a modified version of the Doom WAD authoring template
+  version 1.4 included with newer versions of the DOOM Edit Utility.
+
+================================================================
+Title                   : Wolfenstein 3-D: The Revolution (Preview)
+Author                  : Brian J. "B.J. Blazkowicz" Rowan
+Email Address           : Compuserve : 73552,3423
+                          Internet   : blaze@oeonline.com
+Misc. Author Info       : I am a fan of Doom, Wolfenstein, Spear of
+                          Destiny, Blake Stone, Corridor 7 - you name
+                          it; if it uses a 3-D action game engine, I
+                          completely approve.
+
+Overall Description     : THE REVOLUTION PREVIEW is a 6-level replace-
+                          ment for episode one. I guarantee (well,      
+                          _hope_ anyway) that these are some of the
+                          best levels you will ever play. The complete
+                          mission description is in LEVELS.TXT.
+
+Levels Changed          : 6
+Graphics Changed        : None
+Sounds Changed          : None (change forthcoming)
+
+Will operate with       : * Wolf3-D version 1.4
+                          * Wolf3-D version 1.2 (probably; untested)        
+
+Additional Credits to   : * Bill Kirby, David Huntoon, Bryan Baker,
+                             Matt Gruson, and Warren Buss for their
+                             level editor, MapEdit
+                          * Apogee and id Software for this great
+                             game, whose original storyline is better,
+                             IMHO, than any of its sister 3-D games.
+
+Playability             : I DO guarantee the following:
+                           * Each of these levels CAN be finished on
+                             the highest difficulty setting using no
+                             cheat codes.
+                           * On all of the levels where it is
+                             intended, 100% ratios in all categories
+                             are achievable.
+                          I do NOT guarantee the following:
+                           * Any one of these levels can be finished
+                             without saving the game.
+                           * Any one of these levels can be finished
+                             within that level's default par time 
+                             (although it may easily be possible. 
+                             Check it out yourself; I refuse to race
+                             through games. I have to stop and see the
+                             scenery).
+
+--------------
+Construction
+
+Base                    : Totally new levels (what did you expect?)
+Software used           : * MapEdit (originally Copyrighted in 1992 by
+                             Bill Kirby), versions 8.1 through 8.4
+                          * Playtested (to ensure you can beat it) on
+                             Wolf-3D v1.4, by yours truly
+
+Known Bugs              : Every once in a while some of the moving
+                          guards might do one of the following:
+                          * Get "stuck" somewhere
+                          * Move along the desired path, but will not
+                            be animated (this bug is in the game, not
+                            in my levels).
+                          The weird thing about this is that it may
+                          happen in one place at one time and then
+                          never again after that. (???)
+
+
+================================================================
+ZIP ARCHIVE MANIFEST
+
+Filename                Description
+------------            ----------------------------------------
+
+GAMEMAPS.WL6            Levels file.          (Wolf3D data file)
+MAPHEAD.WL6             Levels file header.   (Wolf3D data file)
+README.1ST              This file.
+LEVELS.TXT              Mission description, misc. fiction, etc.
+HINTBOOK.ZIP            Five .PCX shots from episode 4 of the
+                         hint book I'm working on. Check it out!
+
+================================================================
+OTHER WOLFENSTEIN 3-D LEVELS BY THIS AUTHOR:
+
+"The Renovation", a 60-level mission for Wolfenstein 3-D
+Available only from Apogee Software as a part of the 815-
+level Wolfenstein Super Upgrade package by Carlton Griffin
+(Game C, to those of you that already have it).
+
+================================================================
+* Copyright / Permissions *
+
+Authors may NOT use any of these levels as a base to build additional
+levels. After all, this isn't a competition. Your primary function in
+my objective is to obtain, play, and enjoy the levels I make.
+Therefore, I would be grateful if you didn't hack them to pieces and
+dump them on a network with your name on them. Just play or you'll
+pay, Jackson!
+
+You MAY distribute this preview episode on any electronic format
+or diskette or however that legalese goes. Look it up in a Doom WAD
+text file if you really must know. To sum it up, though, if you want
+to put this on internet or whatever, feel free. But remember, don't
+you dare modify it first! If you hack it up and/or put your name on
+it, I'll...I'll...do something mean!
+
+-----------------------------------------------------------------------------
+
+    And now, back by popular demand from "The Renovation", here's:
+                   --------------------------------
+                       A GERMAN LANGUAGE LESSON
+
+For those die-hard Wolfenstein lovers out there (like me), here's a
+few choice German phrases for you that you may find entertaining to
+shout at an oncoming SS or officer. This first column of phrases comes
+to you directly from one of the Spear of Destiny or Wolfenstein 3-D
+hint books:
+
+ษออออออออออออออออออออออออออออออออออหอออออออออออออออออออออออออออออออออป
+บ         GERMAN PHRASE            บ       ENGLISH TRANSLATION       บ
+ฬออออออออออออออออออออออออออออออออออสอออออออออออออออออออออออออออออออออน
+บ Scheiแe! (pronounced `scheisse')           Sh*t!                   บ
+บ                                                                    บ
+บ Tod ist mein leben!                        Death is my life!       บ
+บ                                                                    บ
+บ Erlauben Sie, bitte!                       Allow me, please!       บ
+บ                                                                    บ
+บ Was zum Teufel?                            What the hell?          บ
+บ                                                                    บ
+บ Verdammt!                                  D*mn!                   บ
+บ                                                                    บ
+บ Heil Hitler!                               Hail Hitler!            บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+Now these following phrases here I looked up myself and thought were
+particularly sarcastic or comical to say to a Nazi after you juice
+him:
+
+ษออออออออออออออออออออออออออออออออออหอออออออออออออออออออออออออออออออออป
+บ         GERMAN PHRASE            บ       ENGLISH TRANSLATION       บ
+ฬออออออออออออออออออออออออออออออออออสอออออออออออออออออออออออออออออออออน
+บ Um Gottes willen!                     For God's Sake!              บ
+บ                                                                    บ
+บ Mach's gut.                           Take care of yourself.       บ
+บ                                                                    บ
+บ H”rst du mich jetzt besser?           Can you hear me better now?  บ
+บ                                                                    บ
+บ Schmerzt das? Und das?                Does this hurt? And that?    บ
+บ                                                                    บ
+บ Entschuldigen Sie.                    Excuse me.                   บ
+บ                                                                    บ
+บ Was ist los?                          What's the matter?           บ
+บ                                                                    บ
+บ Die armen Deutschen!                  The poor Germans!            บ
+บ                                                                    บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+-----------------------------------------------------------------------------
+Contacting the Author, B.J. Blazkowicz:
+CompuServe: 73552,3423
+Internet: blaze@oeonline.com

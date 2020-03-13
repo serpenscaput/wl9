@@ -1,0 +1,26 @@
+Hello again, DHWs.  This is Tricob, known in the YouTube world as Tricob1974.
+
+I've decided to provide you all with a "sneak peak" at some of the smaller features 
+of my "Base Of Operations" source code, built from the Wolf4SDL engine.  All its 
+options can be turned on or off by making small changes to the H files.  No more 
+digging in the middle of a CPP file to change what you want;  Par Times, music order, 
+episode names, "Read This!" features, Seamless Levels, and more can all be changed 
+or enabled/disabled through the H files.
+
+The first two EXEs are for the 10-level Shareware version of Wolf3D.  Both EXEs have 
+Seamless Levels enabled, but one version has the EndTexts and "Read This!" feature 
+disabled;  great for running Shareware mods!  The files included here are from Mr. 
+Wolf's second mapset.
+
+The last EXE is for the Spear Of Destiny demo.
+
+All three EXEs have the "Doom Music" feature enabled.  What does that do?  I'm not 
+sure how to describe it well, but "die" in a game, or load up a game to appear in 
+a different area of the same level, and you'll see what I mean.
+
+Other features include "Smart weapon pickup", where - if you already have the chaingun 
+*and* full ammo - the weapon isn't picked up (thus saving ammo).
+
+Thank you for reading this, and enjoy the EXEs.  :-)
+
+- Tricob.

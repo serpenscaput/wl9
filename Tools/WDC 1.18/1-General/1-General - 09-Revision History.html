@@ -1,0 +1,1651 @@
+<HTML>
+<HEAD><TITLE>Revision History</TITLE></HEAD>
+<BODY>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<font class="title">
+General :: Revision History
+</FONT><BR>
+<BR>
+
+<!--
+Things to come in <B>future</B> versions:
+<LI>Compile V/EGAGRAPH files with Tile16s, Tile16Ms, etc.</LI>
+<li>Allow 256x256 walls and sprites. (AlumiuN)</li>
+<li>Have a global map size changer. (AlumiuN)</li>
+<BR><BR>
+-->
+
+Version 1.18.403 - 05/17/2019
+<li>Fixed: GAMEMAPS now must be compiled when closing Project Information after setting 
+it to 32-bit lengths.</li>
+<li>Fixed: Can now change the number of planes when using 32-bit GAMEMAPS lengths. 
+(Zombie_Plan)</li>
+<li>Fixed: Exporting UWMF maps should be faster than before.</li>
+<br><br>
+
+Version 1.18.402 - 05/14/2019
+<li>Added: Support for GAMEMAPS with 32-bit lengths.  Set the maximum map size for 
+this setting at 512x512. (Chris).  Project Information -> Other Options -> Use 32-bit 
+GAMEMAPS lengths<br>
+Note that once a GAMEMAPS of this type is created, there is currently no way to go 
+back to the original GAMEMAPS format.</li>
+<br><br>
+
+Version 1.18.401 - 11/14/2017
+<li>Fixed: Exporting multiple maps was exporting the wrong map names.</li>
+<li>Added: Map Tools-&gt;Map Tile Statistics now defaults to the current map edit 
+plane.</li>
+<li>Fixed: Can now do a Find tile after doing a Replace tile.</li>
+<li>Fixed: Tile list now remembers its previous scroll position when switching planes.</li>
+
+<br><br>
+
+Version 1.18.400 - 9/27/2017
+<li>Fixed: Map Tools-&gt;Mass Replace for the object plane and higher now works. 
+(blacklion)</li>
+<li>Added: Map Tools-&gt;Mass Replace now defaults to the current map edit plane.</li>
+
+<li>Fixed: Can no longer paste into read only projects.</li>
+<br><br>
+
+Version 1.18.399 - 5/24/2017
+<li>Added: Ability to export maps in UWMF for use with ECWolf. See: File -&gt; Export 
+to WAD, then Options -&gt; Export Maps in UWMF and Options -&gt; Additional ECWolf 
+Settings for more information.</li>
+<li>Added: Ability to set up flat textures for plane 3 which can be used with ECWolf. 
+These are used to create an xlat lump and as part of the UWMF map if exporting in 
+that format.</li>
+<li>Fixed: Pasting to a map while the map is scrolled was causing the map piece to 
+be pasted to bounced around.</li>
+<li>Fixed: Copying a section of a map or image then changing the zoom level works 
+better than it did before.</li>
+<li>Fixed: Selection box behaves better after completing a paste on the map.</li>
+
+<li>Added: Project Information -&gt; Other Options: &quot;Ignore top row and left 
+column while error checking maps&quot; for projects that use the top row or left 
+column for map settings that error checking should ignore.</li>
+<li>Added: Single letter shortcuts for map and image edit tools (Pencil is P, Flood 
+Fill is F, etc. See button tooltips.)</li>
+<li>Added: Single letter shortcuts for Int (I), Hi Byte (H) and Low Byte (L) map 
+editing modes.</li>
+<li>Added: Press a number key to change planes while editing maps.</li>
+<li>Added: Ctrl+Click to temporarily use the Tile Picker tool.</li>
+<li>Fixed: Pasting past the edge while scrolled right or down in the map and image 
+editors now pastes correctly.</li>
+<li>Fixed: Map coordinates would sometimes not be fully visible in hexadecimal mode.</li>
+
+<br><br>
+
+Version 1.17.396 - 3/30/2017
+<li>Fixed: Exporting walls in non-hires projects to WAD/PK3/PK7 would duplicate the 
+walls in "hires" namespace. Bug introduced in 1.17.395.</li>
+<br><br>
+
+Version 1.17.395 - 3/30/2017
+<li>Fixed: The last byte of all AUDIOT chunks was being removed when compiling.</li>
+
+<li>Fixed: An extra byte was being exported when exporting any AUDIOT chunk to a 
+file or WAD/PK3/PK7.</li>
+<li>Fixed: If the first music chunk in AUDIOT is 4 bytes or less, it will be set 
+to "\0\0\0\0NULL" so that it can be detected by WDC again.</li>
+<li>Fixed: Exporting WL1-based projects to WAD/PK3/PK7 should work now. Lumps with 
+blank names are skipped rather than throwing an error. Null pictures export as empty 
+lumps/files.</li>
+<li>Fixed: When exporting to WAD/PK3/PK7, music chunks with no music data export 
+as empty lumps/files.</li>
+<li>Fixed: Exporting WAD/PK3/PK7 from hi-res base files works now.</li>
+<li>Fixed: Exporting to PK3/PK7 would sometimes fail when exporting to a file not 
+located on the same drive as the temp folder.</li>
+<li>Added: WAD/PK3/PK7 export window now has an "Unselect menu".</li>
+<li>Added: WAD/PK3/PK7 export window has an Options menu with togglable "Export Empty 
+Chunks As Marker Lumps" settings and two ways of exporting hi-res walls.</li>
+<li>Fixed: Can now set digital sound chunks to 0 length files to clear a sound when 
+exporting the VSWAP.</li>
+<li>Fixed: WL1 exporting now exports null sound chunks correctly. Previously some 
+sounds would be duplicated in the null chunks.</li>
+<li>Fixed: Using the map editor on planes 1 or 2 no longer causes all planes to be 
+draw in the edited tile when "Draw plane 3 and higher only when it is the current 
+plane" is checked.</li>
+<br><br>
+
+Version 1.17.394 - 2/22/2017
+<li>Added Preferences: Other - Default Project Folder. Sets the initial folder used 
+when creating, saving, or opening a project.</li>
+<br><br>
+
+Version 1.17.393 - 1/19/2017
+<li>Added: CatBuster.ini information for GOG version of Catacomb Apocalypse (v1.01 
+rev 1).</li>
+<li>Added: Map definition file for Catacomb Armageddon (ARM.wmc).</li>
+<li>Changed: UNLZEXE process now defaults its output file with "-UNLZEXE" appended 
+to its name rather than default to overwriting the original file.</li>
+<li>Fixed: Export to WAD/PK3/PK7 is now disabled when no project is open.</li>
+<li>Fixed: Project files with missing or invalid UNC paths or filenames no longer 
+cause the program to crash.</li>
+<li>Fixed: Test Project is now disabled when attempting to open a project with invalid 
+information and canceling the project information screen.</li>
+<br><br>
+
+Version 1.17.392 - 12/18/2016
+<li>Fixed: Map Find/Replace still wasn't setting the search plane. Also occurred 
+when using Cut/Copy Planes.</li>
+<br><br>
+
+Version 1.17.391 - 12/17/2016
+<li>Fixed: Map Find/Replace wasn't setting the search plane when loading the window 
+and thus would default to the walls plane unless manually changed.</li>
+<li>Fixed: Subscript errors would occur when loading a project with more planes than 
+the previous depending on map view settings.</li>
+<br><br>
+
+Version 1.17.390 - 11/6/2016
+<li>Fixed: Map editing was broken in previous version.</li>
+<br><br>
+
+Version 1.17.389 - 11/3/2016
+<li>Added: "Draw plane 3 and higher only when it is the current edit plane" map view 
+option.</li>
+<li>Fixed: Old web and email addresses.</li>
+<li>Fixed: Find code in map would crash when a project had more than 8 planes. (Bug 
+introduced in 1.17.388.)</li>
+<li>Fixed: Map Tools-&gt;Mass Replace would crash when a project had more than 8 
+planes. (Bug introduced in 1.17.388.)</li>
+<li>Fixed: Map Tools-&gt;Mass Replace would start to replace every tile on the search 
+plane, not just the given tile codes.</li>
+<li>Changed: File- and folder-related project information fields are now textboxes 
+instead of labels. ie: They can be typed/pasted into.</li>
+<li>Fixed: ShellExecute commands used to open folders would falsely report an error. 
+(Bug introduced in 1.17.388.)</li>
+<br><br>
+
+Version 1.17.388 - 10/31/2016
+<li>Added: Ability to export data to WAD, PK3, and PK7 formats for use with ECWolf.</li>
+
+<li>Added: Importing Nitemare 3D MAP.1/2/3 files</li>
+<li>Added: Exporting Nitemare 3D MAP.1/2/3 files through "Export Multiple Maps"</li>
+
+<li>Changed: Digital WAV sounds are exported at and expected to be 7042 Hz, but it 
+shouldn't complain when importing 6896 files either.</li>
+<li>Fixed: Adding a chunk to the beginning of a file would sometimes cause that file 
+to compile with the first chunk at the end instead.</li>
+<li>Fixed: Flood fill in the picture editor would throw an error.</li>
+<li>Changed: Increased the maximum number of map planes to 32.</li>
+<br><br>
+
+Version 1.16.387 - 12/14/2015
+<li>Empty wall and sprite chunks are now properly skipped when converting a project 
+to high- or low-resolution textures. (Ringman)</li>
+<br><br>
+
+Version 1.16.386 - 10/14/2012
+<li>Fixed a bug that was introduced in v 1.16.382 and occurred when you compiled 
+a data file and changed to a different map. (Toty)</li>
+<li>Fixed an overflow error when importing large maps (such as 192x192). (Executor)</li>
+
+<li>Due to restrictions imposed by the GAMEMAPS file format, the maximum map size 
+is now 180x180.</li>
+<li>MEDC now skips blank lines instead of having an error.</li>
+<li>Adding demo chunks no longer raises subscript errors. (John Doe)</li>
+<!--li>Fixed a display bug in the map symbol editor. (mangolo)</li-->
+<br><br>
+
+Version 1.16.383 - 12/22/2010
+<li>Fixed a bug that had stopped planes information for planes higher than plane 
+3 from being shown in the tile information box.  It is now shown while editing that 
+plane.</li>
+<br><br>
+
+Version 1.16.382 - 06/14/2010
+<li>Fixed several bugs in ImfLib.dll.  Hopefully this means no more locks or playback 
+errors.</li>
+<li>Fixed a bug that caused adlib sounds to sometimes be truncated when played from 
+the main window.</li>
+<li>Added UNLZEXE code inside of WDC.  UNP 4.11 is no longer needed by WDC. (insurrectionman)</li>
+
+<br><br>
+
+Version 1.16.380 - 12/25/2009
+<li>Attempting to save a new palette gave an error. (Haasboy)</li>
+<li>Saved palette files were not saving in the correct format.  (Haasboy)</li>
+<li>Saving a palette and saving to a BMP was only exporting the project's palette, 
+not the palette being edited.  (Haasboy)</li>
+<li>Saving maps to BMPs works again.</li>
+<br><br>
+
+Version 1.16.379 - 11/04/2009
+<li>Added iPhone Wolf3D 1.1 Support. (wolfwhips)</li>
+<li>Fixed map exporting bug introduced in previous version.</li>
+<br><br>
+
+Version 1.16.378 - 09/11/2009
+<li>Now able to import and export iPhone compatible .map files. (wolfwhips)</li>
+
+<li>Now able to import and export iPhone compatible .5551 graphic files. (wolfwhips)</li>
+
+<li>Can now import multiple map files to the map clipboard.</li>
+<li>Fixed map symbol refresh bug when adding things to plane 4. (Airslide)</li>
+<li>Edit frame now shows the byte mode. (Airslide)</li>
+<li>Added a checkbox beside the plane combo to show/hide the current plane. (Airslide)</li>
+
+<li>Redesigned the Preferences and project information windows.</li>
+<li>The test project command line now has a *map* parameter. (Airslide)</li>
+<br><br>
+
+Version 1.16.377 - 06/17/2009
+<li>Fixed the 'Invalid Property Value' error when creating a new project on a clean 
+install. (Havoc) </li>
+<br><br>
+
+Version 1.16.376 - 05/04/2009
+<li>The Multiple file exporter now recognizes music chunk names correctly.</li>
+<li>Fixed a problem with IMF playback that caused playback to cut off. (russelmusic91)</li>
+
+<li>Map tile information can now show both the icon and the graphic at the same time 
+and can be a separate window. (Martin Eyre)</li>
+<li>Corrected C7 Disk, C7 CD, and OBC map definition files. (Martin Eyre)</li>
+<li>Massive redesign of the map tile area on the right of the map editor.</li>
+<li>New functionlity in the map symbol editor.</li>
+<ul>
+	<li>Can change the graphics number for multiple items simultaneously.</li>
+	<li>Can change the name for multiple items simultaneously.</li>
+	<li>Can change the type for multiple items simultaneously.</li>
+	<li>Added an "Advanced" menu for changing item sequences of items.</li>
+	<li>Added Find to Edit menu
+Added more shapes: large cross, small plus, large plus</li>
+</ul>
+<li>Added ability to add multiple sound names at once.</li>
+<li>Combined and rearranged the Map Options and Map Tools menus.</li>
+<li>Exporting a picture now uses the selected palette. (Martin Eyre)</li>
+<li>Renamed Operation Body Count palette files. (Martin Eyre)</li>
+<li>Added C7 Map Load screen palette. (Martin Eyre)</li>
+<li>Various bug fixes. (Hair machine, agent87, blacklion, Martin Eyre)</li>
+<br><br>
+
+Version 1.15.374 - 09/28/2008
+<li>The map tile selection list on the right is now a homebrew image listbox control 
+for better displaying and it now gets taller as the window is resized. (B.J. Rowan 
+and others)</li>
+<LI>The map tiles list can now be ordered. (KyleRTCW, B.J. Rowan)</LI>
+<li>There's a new map symbol editing screen, which is also where you can change the 
+map tile list order.</li>
+<li>The map symbol editor, palette box, and selected color box is now from another 
+homebrew control: WDCColorBox.</li>
+<li>Fixed the direction for object codes 147 and 213 in the SDM, SOD, SOD2, SOD3, 
+WL1, and WL6 map definitions. (Maex)</li>
+<br><br>
+
+Version 1.14.372 - 04/17/2008
+<li>Added Wolf4SDL palette import and export support. (Ripper)</li>
+<li>Added Wolf4GW palette import support.</li>
+<li>Added the ability to ignore the MAXACTORS and MAXSTATS values when error checking 
+because ports don't have this limit. (AlumiuN)</li>
+<li>Added the ability to ignore the 64k maximum VGAGRAPH chunk size because ports 
+don't have this limit.  This is found in "Other Options" in "Project Information". 
+(AlumiuN)</li>
+<li>Fixed "Save As BMP" when the palette editor is run independently. (Andy_Nonymous)</LI>
+
+<br><br>
+
+Version 1.14.371 - 12/30/2007
+<li>Fixed a problem when compiling a VGAGRAPH with small images. (insurrectionman)</li>
+
+<li>Fixed compiling of maps that are 128x128 and have 8 planes. (AlumiuN)</li>
+<br><br>
+
+Version 1.14.370 - 12/16/2007
+<li>Fixed a sound loading bug. (agent87, Tricob)</li>
+<li>Disabled the graphics related menu items when on the third plane (and higher) 
+in the map symbol editor.  (agent87)</li>
+<li>WDC now notifies you if you appear to be converting a hi-res project to lo-res. 
+(Tricob)</li>
+<br><br>
+
+Version 1.14.369 - 11/21/2007
+<li>Removed the separate progress form so that all forms can be opened without having 
+to loop until closed.</li>
+<li>Fixed the random map generator position. (Cleveland Rock)</li>
+<br><br>
+
+Version 1.14.368 - 07/30/2007
+<li>Fixed a bug that would occur when using the Sound Wizard to import a sound while 
+open to a sound frame and then selecting the new sound. (BrotherTank)</li>
+<li>Added the ability to show ambush floors without showing allow floors.</li>
+<li>Fixed the door count shown in the map information screen.</li>
+<li>Made the map tool tip editor more flexible.  You can now set map tool tips for 
+any tile on the map.</li>
+<li>Added a map definition file for Catacomb Apocalypse (APC.wmc), courtesy of Ringman.</li>
+
+<br><br>
+
+Version 1.14.365 - 06/23/2007
+<li>Export palettes in Wolf4GW's Gamepal3d.cpp format should now work. (insurrectionman)</li>
+
+<li>You can now export signon BMPs to Wolf4GW's signon.cpp format. (insurrectionman)</li>
+
+<li>I also added the ability to export palettes to 256x256 palette square BMPs.</li>
+
+<br><br>
+
+Version 1.14.363 - 05/19/2007
+<li>Added playback support for large IMF files using Ripper's IMFLib.dll 1.7.</li>
+
+<li>IMFLib.dll is now used to play adlib sounds.</li>
+<li>Fixed the update checking code to work with the new site layout.</li>
+<br><br>
+
+Version 1.14.362 - 05/04/2007
+<li>You can now export palettes in Wolf4GW's Gamepal3d.cpp format. (insurrectionman)</li>
+
+<li>Changed the "Dead Guard" object type to "Other Actor", added it to "Map Information" 
+and made it count toward the actor total. (WSJ)</li>
+<li>Map Information now shows the total actor, static, and door count on the window 
+rather than as a tooltip. (WSJ)</li>
+<br><br>
+
+Version 1.14.359 - 09/07/2006
+<li>Symbol names did not load correctly when TILE16s were used. (James Robinson)</LI>
+
+<li>Updated the Catacomb 3D WMC and added one for Catacomb Abyss.</li>
+<br><br>
+
+Version 1.14.357 - 08/30/2006
+<li>Added Wall Shading checkbox</li>
+<li>Clicking empty map object item no longer causes an error. (wolfwhips)</li>
+<br><br>
+
+Version 1.14.355 - 07/21/2006
+<li>Now remembers the given font test string. (Tricob)</li>
+<li>Added a raw VSWAP data function for use with WinWolf3D.</li>
+<br><br>
+
+Version 1.14.354 - 05/23/2006
+<li>Redesigned the project information window so it has pseudo-tabs like the preferences 
+window.</li>
+<li>Added flag for having 'strafe' values in demos.</li>
+<li>Demo files now display correctly.</li>
+<br><br>
+
+Version 1.14.353 - 05/17/2006
+<li>It now handles palettes that contain values that aren't multiples of 4 better 
+than before. (insurrectionman)</li>
+<br><br>
+
+Version 1.14.351 - 03/30/2006
+<li>Map Difficulty Adjust is now called from teh Map Difficulty screen, not the main 
+screen.</li>
+<li>Map Difficulty can now show all maps at once.</li>
+<li>Fixed a map export bug introduced in the previous version. (TheTalentedMrLeo)</LI>
+
+<br><br>
+
+Version 1.14.350 - 03/21/2006
+<li>Can now change to extended map names (32 characters).</li>
+<br><br>
+
+Version 1.14.349 - 03/16/2006
+<LI>Move "Show Walls", "Show Floors" to a separate form accessible via Map Options-&gt;View 
+Options</LI>
+<LI>Several minor changes relating to how tile information is shown when in a byte 
+edit mode.</LI>
+<li>Fixed the Ctrl-Alt-1,2,3,I keyboard shortcuts.</LI>
+<LI>Fixed map shortcuts so they don't work when the map is not visible.</LI>
+<LI>Added shortcuts for byte modes: Ctrl-N/H/L.</LI>
+<LI>Fixed a bug with GAMEPAL.OBJ palette importing. (Spiritblade-inc)</LI>
+<LI>The palette editor can now same GAMEPAL.OBJ files directly.</LI>
+<LI>GAMEPAL.OBJ support moved inside of the WolfData.dll.</LI>
+<BR><BR>
+
+Version 1.14.347 - 02/05/2006
+<LI>Replacement palettes are now used when using alternative palettes for pictures. 
+(Haasboy)</LI>
+<LI>New palettes are now compiled correctly. (KyleRTCW and Haasboy)</LI>
+<LI>The alternative palette list is now built correctly. (Haasboy)</LI>
+<BR><BR>
+
+Version 1.14.346 - 01/06/2006
+<LI>Fixed a bug that allowed to edit maps in read only mode.</LI>
+<LI>Corrected the included WMC files. (Havoc)</LI>
+<LI>Convert replacement files to Hi-Res.  (Conner94)</LI>
+<BR><BR>
+
+Version 1.14.345 - 12/28/2005
+<LI>Fixed the wall scroll bar.</LI>
+<LI>Complete redesigned Map Tile Count screen.</LI>
+<LI>Find code is remembered when "Find" is used again.</LI>
+<BR><BR>
+
+Version 1.14.340 - 12/19/2005
+<LI>VGADICT now gets backed up to the correct spot (not the root of the drive).</LI>
+
+<LI>The map symbol editor's graphics selector works properly again. (KyleRTCW)</LI>
+
+<LI>Added map point calculation to the map difficulty screen.</LI>
+<LI>Fixed map difficulty calculation</LI>
+<LI>Added a demo*.* filter for demo selection.</LI>
+<LI>Added a demo viewer.</LI>
+<BR><BR>
+
+Version 1.14.333 - 12/05/2005
+<LI>Map colors can now be changed. (KyleRTCW)</LI>
+<LI>"Add chunk to end" now works with the AUDIOT sections.</LI>
+<LI>Fixed some other AUDIOT-related bugs</LI>
+<BR><BR>
+
+Version 1.14.330 - 11/07/2005
+<LI>The map tile tooltip screen works again.</LI>
+<LI>Added mass replace functionality to the map tools menu.</LI>
+<LI>The install package can now take you straight to the VB6 runtime files download 
+page if necessary.</LI>
+<LI>The updater menu item now works with the new web site.</LI>
+<BR><BR>
+
+
+Version 1.14.322 - 09/21/2005
+<LI>Fixed a map error checking/auto floor bug that would cause WDC to lock. (ack)</LI>
+
+<BR><BR>
+
+Version 1.14.321 - 08/23/2005
+<LI>Opening a palette file with WDC from explorer no longer raises an error. (Haasboy)</LI>
+
+<BR><BR>
+
+Version 1.14.320 - 08/19/2005
+<LI>Fixed several palette editor bugs. (Haasboy)</LI>
+<LI>Palette PSP3 files are now saved correctly again.</LI>
+<LI>Made some window icon adjustments.</LI>
+<BR><BR>
+
+Version 1.14.319 - 08/18/2005
+<LI>The GAMEPAL.OBJ file can now be built from additional palette file types. (Hair 
+Machine)</LI>
+<BR><BR>
+
+Version 1.14.318 - 08/15/2005
+<LI>Fixed several bugs that would stop WDC from working. (Conner94, Haasboy)</LI>
+
+<BR><BR>
+
+Version 1.14.313 - 08/10/2005
+<LI>Added the ability to convert all BMPs to the current palette. (Metal Overlord)</LI>
+
+<LI>The ENDART viewer no longer shows an additional line at the bottom. (Chris)</LI>
+
+<LI>You can now change the font height. (Haasboy)</LI>
+<BR><BR>
+
+Version 1.14.312 - 07/12/2005
+<LI>Going to the project information screen and clicking OK would cause all map changes 
+to be lost.  WDC now requires you to save your map changes before going to that screen.</LI>
+
+<LI>The manual entry tool works correctly in high-byte mode.</LI>
+<LI>Fixed the snap-to draw for PC/Adlib sounds when not looking at the start of the 
+sound.</LI>
+<BR><BR>
+
+Version 1.14.307 - 06/27/2005
+<LI>No more picMap_MouseMove area when starting WDC (again). (James Robinson)</LI>
+
+<LI>The AUDIOT file has been split into three screens for clarity.</LI>
+<LI>Several large GUI changes.</LI>
+<LI>Drastic changes to the menu arrangement.</LI>
+<LI>Added the "Sound Tools" menu.</LI>
+<LI>Added the "Picture Tools" menu.</LI>
+<LI>Added the "Import/Export" menu.</LI>
+<LI>Slight change to the sound chunk name edit screen. (You double-click to edit 
+now.)</LI>
+<LI>Added an "Add New Sound" wizard.</LI>
+<LI>Added a sound prioritizing screen.</LI>
+<LI>Added an automatic AUDIO*.H file generator.</LI>
+<LI>Added an automatic wolfdigimap enum generator.</LI>
+<LI>The map count now includes the entire map, not just the viewed area. (Chris)</LI>
+
+<LI>The map count now updates when using the pencil tool.</LI>
+<LI>No more falsely added "new palette" rows to the palette list when viewing VGAGRAPH 
+pictures.</LI>
+<LI>Added the ability to save palettes to other palette file formats.</LI>
+<LI>Added Help menu items that link to the homepage and forum.</LI>
+<LI>XWE's palette file structure is actually Photshop's palette file structure. (Metal 
+Overlord)</LI>
+<LI>Greatly improved the PC and adlib sound editors.  Now you simply draw the sound 
+on the screen.</LI>
+<LI>Added the ability to import PC to adlib sounds and adlib to PC sounds.</LI>
+<BR>
+
+Version 1.13.301 - 06/17/2005
+<LI>The map square now disappears again when the mouse is not over the map area.</LI>
+
+<LI>Adding maps works again. (ack)</LI>
+<LI>No more picMap_MouseMove area when starting WDC. (ack)</LI>
+<BR><BR>
+
+Version 1.13.300 - 06/14/2005
+<LI>Minor bug fix in the map code "find" dialog box.</LI>
+<LI>Now supports JASC8 palette files. (Hair Machine)</LI>
+<LI>Now supports XWE's palette files.</LI>
+<LI>Fixed a msgbox-related "view data files" bug.  The MsgBox did not recognize that 
+is was related to the main window.</LI>
+<LI>Switched to a different "MouseLeft" tracking method.</LI>
+<LI>The "Find Map Code" screen can now also replace codes. (ack)</LI>
+<LI>The BMP Editor now display the current pixel's color in the position area.</LI>
+
+<LI>Added "Save As" functionality to the BMP Editor.</LI>
+<BR><BR>
+
+Version 1.13.299 - 06/02/2005
+<LI>Fixed faulty "Bad backup file number" errors while compiling files other than 
+GAMEMAPS.</LI>
+<BR><BR>
+
+Version 1.13.298 - 05/31/2005
+<LI>GAMEMAPS/MAPHEAD backups are now multi-leveled for better map data protection. 
+(ack)</LI>
+<LI>Moved some map-related menu items from the Edit menu to the Map Options menu.</LI>
+
+<BR><BR>
+
+Version 1.13.297 - 05/12/2005
+<LI>A map draw bug when drawing objects with the pencil tool was fixed. (havoc)</LI>
+
+<BR><BR>
+
+Version 1.13.296 - 05/10/2005
+<LI>Can now search addition planes. (James Ingham)</LI>
+<LI>Importing maps with less planes than the current project contains will now clear 
+the other planes. (Ack)</LI>
+<LI>A small map draw bug was fixed.</LI>
+<LI>Moved the map draw options from the map info frame to the new Map Options menu.</LI>
+
+<BR><BR>
+
+Version 1.13.294 - 05/01/2005
+<LI>Removing walls and sprite actually reduces the number of VSWAP chunks.</LI>
+<LI>Switching edit planes will redraw the map to reflect the current edit byte mode 
+and edit plane.</LI>
+<BR><BR>
+
+Version 1.13.293 - 03/14/2005
+<LI>Fixes a map resizing bug. (Conner94)</LI>
+<BR><BR>
+
+Version 1.13.292 - 03/08/2005
+<LI>WDC will now actually show up for a fresh install. (andy3012)</LI>
+<LI>Tiles that have been toggled off are no longer drawn when drawing over a tile 
+that has one. (Conner94)</LI>
+<BR><BR>
+
+Version 1.13.291 - 03/03/2005
+<LI>Map drawing strangeness was fixed. (havoc, Conner94)</LI>
+<BR><BR>
+
+Version 1.13.290 - 03/02/2005
+<LI>No more Resouce 399 errors when the GAMEMAPS files is compiled for new projects. 
+(Haasboy)</LI>
+<LI>Plane 4+ symbols are now stored correctly in the WMC file.</LI>
+<BR><BR>
+
+Version 1.13.289 - 02/28/2005
+<LI>Fixed the ability to view EGA games.. again. (James Robinson)</LI>
+<LI>Added the ability to have up to 8 map planes.</LI>
+<LI>WDC now has a high- and low-byte editing mode.  (Idea from Ripper)</LI>
+<BR><BR>
+
+Version 1.12.285 - 02/18/2005
+<LI>File-&gt;Import Multiple Files now supports hi-res images. (For use with Ripper's 
+tutorial)</LI>
+<LI>WDC no longer offers to convert the textures to hi-res if hi-res output is checked 
+and no output folder is given.</LI>
+<BR><BR>
+
+Version 1.12.284 - 02/16/2005
+<LI>Added a map code search tool.</LI>
+<LI>Added Edit-&gt;Map Tile ToolTips for adding tooltips that appear when you hover 
+over a tile on the top row of a map.</LI>
+<LI>File-&gt;Test Project is no longer available when a test program has not been 
+specified. (Conner94)</LI>
+<BR><BR>
+
+Version 1.12.283 - 02/15/2005
+<LI>Fixed a bug that happened when you added maps.</LI>
+<LI>Added hi-res (128x128) texture/sprite support so that it can be used in conjunction 
+with Ripper's hi-res code tutorial.</LI>
+<BR><BR>
+
+Version 1.11.282 - 02/03/2005
+<LI>Several errors that occurred when WDC is first installed were fixed. (ack)</LI>
+
+<LI>The Error.log reports the error number and description again. (ack)</LI>
+<BR><BR>
+
+Version 1.11.281 - 02/02/2005
+<LI>A map symbol loading bug was fixed. (ack)</LI>
+<BR><BR>
+
+Version 1.11.280 - 02/02/2005
+<LI>Changed the plane cut selection screen to use a message box.</LI>
+<LI>Added the "Temporary Wall" object type so that object tiles can determine whether 
+or not a wall will stop an area.  Used by auto-flooring.</LI>
+<BR><BR>
+
+Version 1.11.279 Beta - 01/31/2005
+<LI>Fixes some compilation issues.</LI>
+<LI>Added a better VSWAP compression algorithm</LI>
+<LI>Other bug fixes.</LI>
+<BR><BR>
+
+Version 1.11.271 Beta - 01/06/2005
+<LI>The project file structure changed drastically.</LI>
+<LI>Fixed a bug that would cause some FloEdit-modified VGAGRAPH files to raise errors 
+when opened. (KyleRTCW)</LI>
+<LI>You can now make folders from the folder select view. (KyleRTCW)</LI>
+<LI>Added MAXACTORS, MAXSTATS, and MAXDOORS settings to the Project Information screen 
+so they can be adjusted.  Error checking maps will compare against these values.</LI>
+
+<LI>Fixed the ability to view EGA games. (James Robinson)</LI>
+<LI>Other bug fixes.</LI>
+<BR><BR>
+
+Version 1.10.265 - 11/23/2004
+<LI>Palette analysis will now actually look at your added files.</LI>
+<LI>Added the ability to fix doubled palettes to the palette analyzer - USE WITH 
+CAUTION.</LI>
+<BR><BR>
+
+Version 1.10.264 - 11/22/2004
+<LI>Added a screen that scans picture files to see how often palette colors are used 
+and informs you of repeated palette colors. View-&gt;Analyze Palette</LI>
+<LI>When editing a VGAGRAPH BMP, the palette grid tooltips show how many compression 
+bits the color needs.</LI>
+<LI>You can now rebuild the VGADICT file to match you data and make VGAGRAPH smaller. 
+File-&gt;Rebuild VGADICT</LI>
+<LI>Some minor bug fixes.</LI>
+<BR><BR>
+
+Version 1.10.263 - 11/19/2004
+<LI>EGA-based graphics are now exported to 16-color BMPs.</LI>
+<LI>Includes several other bug fixes.</LI>
+<BR><BR>
+
+Version 1.10.261 - 10/27/2004
+<LI>Added solid arrows and ASCII characters to the map symbol editor's shape menu.</LI>
+
+<LI>Error checking now looks for phantom door slot errors. (ZuljinRaynor)</LI>
+<LI>VSWAP compilation is disabled for EGA-based games because they don't have VSWAP 
+files. (James Robinson)</LI>
+<LI>Fixed a VSWAP sound compilation issue that would sometimes cause WAVs to become 
+clicking sounds. (XgThug)</LI>
+<LI>Fixed a VSWAP sound compilation issue caused by adding one sound that would raise 
+an error while compiling.</LI>
+<BR><BR>
+
+Version 1.10.260 - 10/18/2004
+<LI>Added the ability to insert multiple files.  Edit-&gt;Insert Multiple Files.</LI>
+
+<LI>No longer reloads the project after importing/inserting multiple chunks - just 
+reloads the current view.</LI>
+<LI>Changing sections in the multi-chunk importer will now ask if you want to save 
+your changes first instead of just clearing them.</LI>
+<LI>Adding a map to the end no longer causes an error. (Hair Machine)</LI>
+<LI>Other minor bug fixes.</LI>
+<BR><BR>
+
+Version 1.10.258 - 10/12/2004
+<LI>WDCMapData.* files are now *.wmc files and are found in the MapDefs sub folder. 
+(BrotherTank)</LI>
+<LI>MEDC was updated to reflect WMC change.</LI>
+<LI>A VSWAP compilation bug introduced in 1.9.256 was fixed.</LI>
+<LI>A shape menu was added to the map symbol editor for quicker symbol creation.</LI>
+
+<LI>File-&gt;Import multiple chunks is not available during read only mode.</LI>
+
+<BR><BR>
+
+Version 1.9.256 - 10/07/2004 (Beta version)
+<LI>Uses an update IMFLib.DLL for better IMF/adlib support. (BrotherTank, Ripper)</LI>
+
+<LI>Fixed a bug in CatBuster that occured when a folder was viewed, which extracts 
+the needed files from the EXE, and then edited.  The EXE was not being decompressed 
+in the output folder. (James Robinson)</LI>
+<LI>Fixed a HuffmanCompress error that would occur when compiling the AUDIO files 
+for Catacombs 3D and the trilogy.</LI>
+<LI>Can now compile wall/sprite/digital sound data for the Corridor 7 games and Operation 
+BodyCount.</LI>
+<LI>Fixed a bug that truncated the first external sound for the Corridor 7 games 
+and Operation BodyCount.</LI>
+<BR><BR>
+
+Version 1.9.254 - 09/30/2004
+<LI>Auto convert WAVs to Wolf3D format. (Hair Machine)</LI>
+<LI>Added VGAGRAPH pictures can now be show up in the ENDART viewer. (Majik Monkee)</LI>
+
+<LI>The ENDART viewer no longer tells you there's another page when there is text 
+after the ^E. (Majik Monkee)</LI>
+<BR><BR>
+
+Version 1.9.252 - 09/27/2004
+<LI>Fixes the WAV ouput lockup problem introduced in 1.9.245. (BrotherTank)</LI>
+
+<LI>Added a debug.log that can be turned out from the Preferences screen.</LI>
+<BR><BR>
+
+Version 1.9.245 - 09/27/2004
+<LI>Improved the font editor.  You can now DRAW the letter instead of clicking the 
+dots about times per character.</LI>
+<LI>Improved error handling so that WDC will hopefully not crash with a run-time 
+error.</LI>
+<LI>Hopefully made some improvements to the adlib player to hopefully stomp some 
+bugs here.</LI>
+<LI>Fixed a few graphics listings in some WDCMapData files. (TheTalentedMrLeo)</LI>
+
+<BR><BR>
+
+Version 1.9.244 - 09/23/2004
+<LI>Adding VSWAP Sounds works again.</LI>
+<LI>Running a user tool now calls the default action. (ie: VDMSound's VLP files will 
+now run.) (Merthsoft)</LI>
+<BR><BR>
+
+Version 1.9.243 - 09/20/2004
+<LI>The multi-file importer initial folder listing now matches the displayed path.</LI>
+
+<LI>Compiling the AUDIOT file when chunks were removed no longer raises a "subscript 
+out of range error".</LI>
+<LI>Compiling the VSWAP file when chunks were removed no longer raises a "subscript 
+out of range error".</LI>
+<LI>Corrected the tooltip text for the "insert at the end" button.</LI>
+<LI>Adding a font won't cause VGAGRAPH compilation to raise an error.  (Haasboy)</LI>
+
+<LI>The statistics window now subtracts removed chunks in the total.</LI>
+<LI>The compilation status window now includes the load progress in the overall completion 
+percentage so it's smoother.  It also tells you when it's loading and compiling.</LI>
+
+<LI>Adding a new way of detecting how many font chunks are in the VGAGRAPH.  Hopefully 
+this doesn't cause problems.</LI>
+<LI>The BMP edit screen won't bomb out when outside of the drawing region when drawing 
+rectangles.</LI>
+<BR><BR>
+
+Version 1.9.241 - 08/30/2004
+<LI>The Windows 98/IMFLib crash on exit bug has been fixed - removed event hooking.</LI>
+
+<LI>The installer no longer warns about the VB runtime DLLs being old. (ZuljinRaynor)</LI>
+
+<LI>Added a sprite index. (Haasboy).</LI>
+<LI>The standalone ENDART editor no longer tries to show a preview since it doesn't 
+know of a VGAGRAPH file. (The_EgAt)</LI>
+<LI>The rectangle tool in the BMP editor works better now when the button is released 
+while the pointer is not over the image. (The_EgAt)</LI>
+<BR><BR>
+
+Version 1.9.238 - 08/27/2004
+<LI>Another attempt at fixing the "Object not set" error which occured when typing 
+a new ENDART chunk. This one should do it. (The_EgAt)</LI>
+<LI>You can actually type in the ENDART editor now without it going back to the top 
+of the page.</LI>
+<BR><BR>
+
+Version 1.9.237 - 08/25/2004
+<LI>The ENDART editor now word wraps. (Sockman)</LI>
+<LI>The ENDART viewers now reposition the chunk text viewer/editor to the page location 
+when scrolling to a different page. (Sockman)</LI>
+<LI>Added a side-by-side viewer to the BMP editor for wall editing. (Sockman)</LI>
+
+<LI>Fixed an infinite loop that was locking up WDC when trying to play an imported 
+VSWAP sound. (Sockman)</LI>
+<LI>The Adlib Sound current position display updates again.</LI>
+<LI>Now uses the latest version of IMFLib.DLL in hopes of fixing the Windows 95/98 
+crash when WDC exits.</LI>
+<LI>Another attempt at fixing the "Object not set" error which occured when typing 
+a new ENDART chunk. (The_EgAt)</LI>
+<LI>No more "clsVGAGraph.ConvertTextToFont" errors for Operation BodyCount. (Haasboy)</LI>
+
+<LI>Now includes all the Operation BodyCount palettes from the EXE file. (Haasboy)</LI>
+
+<BR><BR>
+
+Version 1.9.236 - 08/18/2004
+<LI>WDC now checks for updates at startup. This can be disabled in File-&gt;Preferences.</LI>
+
+<LI>The ENDART viewer works with Commander Keen games.</LI>
+<LI>Better support for Blake Stone ENDART chunks, but still not even close to perfect.</LI>
+
+<LI>Fixed placement of the ENDART viewers when maximizing/restoring the window. (The_EgAt)</LI>
+
+<LI>Hopefully fixed the "Object not set" error which occured when typing a new ENDART 
+chunk. (The_EgAt)</LI>
+<LI>Added some error handling to the ENDART viewer code.</LI>
+<LI>Changed the ENDART draw routines so that they are faster.</LI>
+<LI>The ENDART viewer now does Blake Stone's palette-driven pulsing.</LI>
+<LI>Added a time out limit to the updater module to prevent potential lock ups.</LI>
+
+<LI>Changed the whole map difficulty screen and added a way to adjust the values 
+for each object.</LI>
+<LI>Updated the WL1, WL6, SDM, and SOD WDCMapData files.</LI>
+<LI>Included the WDCMapData files for SOD: The Lost Episodes (SOD2 and SOD3).</LI>
+
+<LI>Added a primitive random map maker.  Just click the "Rnd" button next to the 
+map plane selection buttons.</LI>
+<LI>Added the Elevator wall type to the map symbol editor.</LI>
+<BR><BR>
+
+Version 1.9.233 - 08/13/2004
+<LI>Added an 'All Map Files' filter to the map import dialog.</LI>
+<LI>Edit-&gt;Insert works for maps again.</LI>
+<LI>The reporting that the base and output folders are the same when they aren't 
+reappeared and was fixed (again).</LI>
+<LI>Added a note about playing edited versions of the CD version of Corridor 7 to 
+the help file.</LI>
+<LI>The Edit Data menu item is no longer enabled when a BMP editor has not been given.</LI>
+
+<LI>Added help menus to several edit screens and the project information screen.</LI>
+
+<LI>A simple graphics editor has been added. (James Ingham)</LI>
+<LI>Made another attempt at fixing the mystery IMF bug on Windows 98 machines.</LI>
+
+<LI>The Wolf3D/SOD Sound Guide was added to the help file. Thanks to Sockman for 
+typing up most of the descriptions. (Sockman)</LI>
+<LI>The AUDIO and AUDIOHED files can now be compiled for the EGA games.</LI>
+<LI>Added the following tools to the graphics editor: Unlimited Undo/Redo, Fill, 
+Rectangle, Rectangle Outline, Color Pick and Cut/Copy/Paste.</LI>
+<LI>Added an ENDART viewer. (James Ingham)</LI>
+<LI>Updated the ENDART page in the help file.</LI>
+<LI>The ENDART viewer partially works with Blake Stone.</LI>
+<BR><BR>
+
+Version 1.8.223 - 07/22/2004
+<LI>Fixed WAV file loading so that it supports various file structures.</LI>
+<LI>Added a "Show original position" preference.</LI>
+<LI>Fixed a bug in the sprite section of the multiple chunk importer. (ZuljinRaynor)</LI>
+
+<LI>The file graphic now shows up in the multiple chunk import screen.</LI>
+<LI>You can now check for updates by going to "Help-&gt;Update".</LI>
+<BR><BR>
+
+Version 1.8.222 - 06/25/2004
+<LI>BMP compiling was fixed. (The_EgAt)</LI>
+<LI>The FARTAG, ENDTAG, and RLEWTAG values are reset to their defaults when creating 
+a new project.</LI>
+<LI>Added a quick 'View Data' option to the file menu that allows you to view data 
+files without setting up a project.  It sets up a temporary project file for you. 
+(Sockman)</LI>
+<BR><BR>
+
+Version 1.8.221 - 06/22/2004
+<LI>No longer makes unnecessary file copies when the output extension is different 
+from the base data file extension.</LI>
+<LI>BMP loading was fixed. (The_EgAt)</LI>
+<LI>The FARTAG, ENDTAG, and RLEWTAG values can now be changed.</LI>
+<BR><BR>
+
+Version 1.8.220 - 06/11/2004
+<LI>Now catches when compressed VGAGRAPH chunks that are larger that 64K and gives 
+an error.</LI>
+<LI>Fixed the palette files so that they will actually work in Paint Shop Pro.</LI>
+
+<LI>The corridor 7 palette file has been corrected.</LI>
+<LI>The EXE selection dialog boxes work correctly again.</LI>
+<LI>You can now perform color-matching on BMPs with a different palette.  This is 
+at Edit-&gt;Save With Current Palette.</LI>
+<LI>WDC detects what game type are editing and sets compilation, map sizing, and 
+add/remove chunk options accordingly so you no longer have to guess.</LI>
+<LI>No more crappy grids.  Went back to using listboxes because I found out how to 
+set column sizes better.</LI>
+<LI>The sound drawing routine is a bit faster.</LI>
+<LI>Added a multiple file importer for VGAGRAPH pictures, all VSWAP chunk types, 
+and all AUDIOT chunk types. (ZuljinRaynor)</LI>
+<LI>You can now view the chunk compressed size in the program so that sizing issues 
+can be seen before compiling the data. (Ripper)</LI>
+<LI>No more "Path not found" errors when a project with a non-existent output folder 
+is opened. (Ripper)</LI>
+<LI>You can now preview you font by typing in some text.  Some other font code was 
+changed</LI>
+<LI>Fixed a problem loading FloEdit VGAGRAPH files.  Hopefully this doesn't break 
+something else.  (Mega Luigi)</LI>
+<LI>"Export to file" is no longer available when that chunk type does not exist.</LI>
+
+<LI>The text boxes on the "original" side of the "Area Names" frame are now locked 
+so they cannot be changed.  There will be some text boxes on the "replacement" side 
+eventually.</LI>
+<BR><BR>
+
+Version 1.8.219 - 05/20/2004
+<LI>The masked image for masked EGAGRAPH pictures now displays correctly.</LI>
+<LI>There is now a specific 'Clear' button on the map symbol editor.</LI>
+<LI>Map editing with Tile16s works correctly now.</LI>
+<LI>Editing the map while zoomed in looks correct again.</LI>
+<LI>Fixed some strange grid behavior when adding WAV sounds.</LI>
+<LI>The sound draw routine is faster now and is also called when a sound is added.</LI>
+
+<BR><BR>
+
+Version 1.8.218 - 05/19/2004
+<LI>Holding SHIFT down while clicking in the "export multiple chunks" screen now 
+selects a range.</LI>
+<LI>CatBuster now repackages extracted files back into the EXE.</LI>
+<LI>The game compatibility chart was updated.</LI>
+<BR><BR>
+
+Version 1.8.216 - 05/10/2004
+<LI>There are now three levels of graphics caching: Load on demand - stay in memory 
+(default), pre-cache, and Load on demand - remove from memory.</LI>
+<LI>Fixed a bug when save maps as BMPs.</LI>
+<LI>FIX: Edit-&gt;Map Zoom is no longer enabled when not looking at maps.</LI>
+<LI>Hopefully fixes automation errors that can sometimes occur when moving the mouse 
+around while the program loads. (Majik Monkee)</LI>
+<LI>Rotating a map by 180 degrees works again.</LI>
+<LI>You can now save map prefab structures. (Gex)</LI>
+<BR><BR>
+
+Version 1.8.212 - 05/01/2004
+<LI>Sprites can be flipped horizontally with one click.</LI>
+<LI>WAV sounds are now drawn onto the screen.</LI>
+<LI>Command line arguments can be used to open individual editors (palette, end screen, 
+etc).</LI>
+<LI>You can now choose to associate WDC with ADL, RSD, WSF, PAL, and PC file types.</LI>
+
+<LI>Double-clicking any file of an associated file type will open WDC to the correct 
+editor.</LI>
+<LI>Shortcuts were added to the install script for easy access to the individual 
+editors.</LI>
+<LI>Using internal VGAGRAPH palettes for viewing VGAGRAPH images works again.</LI>
+
+<LI>Internal VGAGRAPH palettes now change when graphics are precached.  NOTE: VGAGRAPH 
+images are not precached with the internal palette.  They will be reloaded with the 
+new palette upon viewing.</LI>
+<LI>Loading EGA data with graphics precaching enabled will no longer cause WDC to 
+lock up.</LI>
+<BR><BR>
+
+Version 1.8.208 - 04/16/2004
+<LI>Fixed the install script so that UNP is installed correctly.</LI>
+<BR><BR>
+
+Version 1.8.207 - 04/14/2004
+<LI>Restored Tile8s will no longer cause a runtime error when you return to the Tile8 
+screen. (ZuljinRaynor, Haasboy)</LI>
+<LI>Projects with restored Tile8s will now compile correctly. (ZuljinRaynor, Haasboy)</LI>
+
+<BR><BR>
+
+Version 1.8.206 - 04/13/2004
+<LI>Tile16s are loaded on-demand when used for maps.  This reduces the load time 
+when using this feature considerably!<LI>
+<LI>Made some code changes to saving maps as BMP, but I doubt there was any improvement.</LI>
+
+<LI>Hopefully fixed some grid problems. (Gex, Hair Machine)</LI>
+<LI>Hopefully fixed a sound playback issue that would cause WDC to go crazy. (Gex)</LI>
+
+<BR><BR>
+
+Version 1.8.202 - 04/08/2004
+<LI>All V/EGAGRAPH data is loaded: including Tile8M, sprite, Tile16, Tile16M, Area 
+Name, and Misc chunks. (Andrew Durdin, Sockman)</LI>
+<LI>All Operation BodyCount sounds load.  It has the original Wolf3D sounds in GFXTILES, 
+but uses the sounds in AUDIOMUS.  (WSJ)</LI>
+<LI>The map screen can also use the Tile16/Tile16Ms to draw the map and save it as 
+a BMP file.</LI>
+<LI>Non-64x64 maps now save to BMP correctly.</LI>
+<LI>The EGAGRAPH changes improve the read support for Catacomb 3D, the Catacomb Trilogy, 
+Commander Keen 4-6, and the Wolf3D Alpha.</LI>
+<LI>Some warnings can now be shut off from the Preferences screen. (WSJ)</LI>
+<LI>You can setup your map code view preference as decimal or hexadecimal in the 
+Preferences screen.</LI>
+<LI>CatBuster.ini has been updated to include Warning and Error messages for some 
+games that don't load properly.</LI>
+<LI>Added a "Manual Entry" map tool so that you can enter map codes on-the-fly.</LI>
+
+<LI>Added a "Misc chunk" viewer that's basically a hex viewer.</LI>
+<LI>Now includes a WDCMapData file for Super Noah's Ark 3-D, (Andy_Nonymous)</LI>
+
+<LI>Unknown chunks are now shown as hex numbers while in Tile16M view for maps.</LI>
+
+<BR><BR>
+
+Version 1.7.200 - 03/21/2004
+<LI>The Wolf3D Alpha loads correctly again. (Sockman)</LI>
+<LI>No more "Object variable or With block variable not set" when loading.  It was 
+trying to check the WAV player when it hadn't been created.(Sockman)</LI>
+<LI>Immediate IMF-switching should no longer hold notes from the previous song. (Hair 
+Machine)</LI>
+<LI>Corridor 7 sounds load now.</LI>
+<LI>Codetech84 made a cool splash screen for WDC. You can also see it in Help-&gt;About. 
+(Codetech84)</LI>
+<LI>WDC should no longer try to open non-existant projects upon startup.  The MRU 
+list has been modified.</LI>
+<LI>UNP is external again so that it can be used outside of WDC.</LI>
+<BR><BR>
+
+Version 1.7.199 - 03/13/2004
+<LI>FIX: Deleting a chunk and re-inserting a file over the chunk would cause the 
+chunk to still be deleted.</LI>
+<LI>FIX: The extra plane hover graphic is updated correctly when the mouse moves 
+over the map.</LI>
+<LI>The maximum map code is now 65535 instead of 512.  No more ERROR tiles for Blake 
+Stone, etc.  Map codes without a symbol are marked "UNKNOWN".</LI>
+<LI>It now warns if adding a 256 color BMP with a different palette. (Sockman)</LI>
+
+<LI>It now warns if adding a sprite with no transparent pixels. (Sockman)</LI>
+<LI>It now warns if adding a sprite that has pixels in the left- or right-most columns. 
+(Sockman)</LI>
+<LI>All graphics are now shown using the selected palette, or the Wolf3D palette 
+if none are selected.</LI>
+<LI>Now loads the AUDIOT list correctly for FloEdit-made files. (Hair Machine)</LI>
+
+<LI>Added PC Sound playback to the audio screen and the PC sound editor.</LI>
+<LI>Catacomb 3D's WDCMapData is now complete and included.</LI>
+<BR><BR>
+
+Version 1.7.198 - 03/12/2004
+<LI>Redesigned the map difficulty screen to give more useful information.</LI>
+<LI>Added an adlib sound editor.</LI>
+<LI>Added a PC speaker sound editor.</LI>
+<LI>Using the rectangle tools and releasing the mouse button off the left or top 
+of the map no longer causes WDC to bomb. (idclev)</LI>
+<BR><BR>
+
+Version 1.7.197 - 03/12/2004
+<LI>Beefed up compilation error handling... especially when backing up files.</LI>
+
+<LI>The output and base folders are not incorrectly called the same when they end 
+with the same subfolder name. (idclev)</LI>
+<BR><BR>
+
+Version 1.7.195 - 03/11/2004
+<LI>Adlib sound playback should now be correct.</LI>
+<LI>Adlib playback stops when you switch to a digi sound. (Sockman)</LI>
+<LI>Flipping map planes 3 and 1 works correctly.  (Ripper)</LI>
+<LI>More integration with the help file.  Pressing F1 takes you to more context-sensitive 
+help.</LI>
+<LI>Added better error handling for compiling GAMEMAPS and the adlib screen.</LI>
+
+<LI>Separated the Maps and Map Symbols sections in the help file.</LI>
+<LI>Clean up the rotate map code to use one main procedure instead of three very 
+similar procedures.</LI>
+<LI>Map rotation can now be performed on non-square maps.</LI>
+<BR><BR>
+
+Version 1.7.194 - 03/10/2004
+<LI>Adlib sounds are now played using an adlib sound to IMF file hack.</LI>
+<LI>GAMEMAPS compilation errors are now reported.</LI>
+<LI>Added error handling for adding chunks to the adlib table to track down a nasty 
+bug. (Hair Machine, Gex)</LI>
+<BR><BR>
+
+Version 1.7.193 - 03/10/2004
+<LI>Fixed a VSWAP Sound bug introduced in v1.7.192. (Sockman, Hair Machine)</LI>
+
+<LI>Added "Play IMF on Move" to the preferences screen. (Sockman)</LI>
+<LI>Rearranged the Preferences screen.</LI>
+<LI>IMF playback is more stable.</LI>
+<BR><BR>
+
+Version 1.7.192 - 03/09/2004
+<LI>Make the + and - keys zoom the map in and out. (Sockman)</LI>
+<LI>Added a button for Add Chunk at End. (Sockman)</LI>
+<LI>Added an "Other Tools" section in the help file for IMFConverter, WinTextract, 
+and RecolorBMP. (Sockman)</LI>
+<LI>The "Pick Tile" map tool now switches back to the previous map tool automatically. 
+ This could be made a setting in the preferences window.</LI>
+<LI>Map errors are now highlighted in the map.  You can adjust this in the preferences 
+screen.</LI>
+<LI>Fixed an auto-flooring/"multiple floors in a room" error checking bug.</LI>
+<LI>You can now clear clipboard selections (one-at-a-time or all-at-once).</LI>
+<LI>Fixed a bug with the multiple map export screen.</LI>
+<LI>There are now edit buttons beside the 'replacement file' name. (James Ingham)</LI>
+
+<LI>IMFs can now play!  Thanks to Ripper's IMFLib.dll.</LI>
+<LI>Added more graphical play/stop buttons.</LI>
+<LI>Export multiple maps to BMP.</LI>
+<BR><BR>
+
+Version 1.7.188 - 03/02/2004
+<LI>The AUDIOT and VSWAP Sound names are back again. (Sockman, Hair Machine)</LI>
+
+<LI>Added keys 5-8 to the Map Symbol editor. (Haasboy)</LI>
+<BR><BR>
+
+Version 1.7.187 - 02/26/2004
+<LI>Deleted Demo, AudioT, and VSWAP Sound chunks are now marked correctly when the 
+program loads.</LI>
+<BR><BR>
+
+Version 1.7.186 - 02/26/2004
+<LI>VSWAP and AUDIOT should compile correctly now. (Hair Machine)</LI>
+<BR><BR>
+
+Version 1.7.185 - 02/26/2004
+<LI>You can now remove any data chunk from any file. (KyleRTCW)</LI>
+<LI>FIX: You can no longer set up replacement files when in read only mode.</LI>
+
+<LI>Added: "Export" button in the upper right corner. (KyleRTCW, James Ingham) </LI>
+
+<LI>Added: "Add Chunk" button in the upper right corner. (James Ingham) </LI>
+<LI>Exporting AUDIOT chunks now defaults to the correct chunk type's file extension. 
+(Sockman)</LI>
+<LI>Smoother WAV playback. (Sockman)</LI>
+<LI>A "Play sound on move" checkbox on the preferences screen. (Sockman)</LI>
+<LI>You can also select what device to play the sound on.  The default is WAVE Mapper, 
+which will play sounds through your system's default device.</LI>
+<LI>Hopefully bypasses an "Unable to create AutoRedraw" error that was received on 
+a Windwos 98 machine with 128 MB RAM. (Mega Luigi)</LI>
+<LI>Sockman verified that Blake Stone 1 and 2 VSWAPs compiled correctly.</LI>
+<LI>Now loads the rest of the Blake Stone VGAGRAPH chunks. (Sockman)</LI>
+<LI>Noticed that Blake Stone was JAMP chunks... no clue what they do though.  They 
+are ignored for now.</LI>
+<LI>Ability to add VGAGRAPH chunks of a type that wasn't there previously (palette 
+chunks to WL6, Tile8 to Tile8-less files).</LI>
+<LI>One-click restoration of the Tile8 chunk. (ZuljinRaynor)</LI>
+<LI>Image and sound preview when inserting BMP or WAV files. (Hair Machine)</LI>
+
+<LI>Added the error message guide to the help file and WDC gives context-sensitive 
+help for error messages.</LI>
+<LI>Fixed a "LoadSymbols - Can't create AutoRedraw image" error. (MegaLuigi)</LI>
+
+<BR><BR>
+
+Version 1.6.179 - 01/28/2004
+<LI>The statistics screen now has the correct totals for non-picture VGAGRAPH data.</LI>
+
+<LI>FIX: No more weird graphics when drawing on the map with the pencil on a zoom 
+mode greater than 1. (Sockman)</LI>
+<LI>You can set up WDC to precache all the graphics when it loads your project so 
+graphics appear instantly while scrolling. (Sockman)</LI>
+<LI>Adlib and VSWAP sounds are given a more meaningful label.  To edit the labels, 
+go to Edit-&gt;Chunk Names.  These labels are stored in the WDCMapData files. (Sockman)</LI>
+
+<LI>View mode is now called "Read only" mode in the caption.</LI>
+<LI>Map Tools-&gt;Edit Map Symbols is now Edit-&gt;Map Symbols.  This means it can 
+now be accessed from read only mode.</LI>
+<BR><BR>
+
+Version 1.6.174 - 01/18/2004
+<LI>The Super Noah's Ark 3D palette is now included in the install package.</LI>
+
+<LI>The Tile8 chunk is now shown as a single picture.</LI>
+<LI>The Tile8 chunk can now be extracted and replaced.</LI>
+<BR><BR>
+
+Version 1.6.173 - 01/16/2004
+<LI>Cut Plane and Copy Plane now have shortcuts and pop up a selection window.</LI>
+
+<LI>Error checking won't bomb when map codes are higher than 512.</LI>
+<BR><BR>
+
+Version 1.6.171 - 01/16/2004
+<LI>CatBuster now works with the CD version of Corridor 7. (Vermil)</LI>
+<LI>Fix: CatBuster no longer checks for the existence of UNP.EXE since that file 
+is now compiled into CatBuster.exe. (Vermil)</LI>
+<LI>Added some advanced map tools: Flip Planes, Cut Plane, and Copy Plane.</LI>
+<LI>WDC now attempts to recover as much data as possible from corrupted GAMEMAPS 
+files.</LI>
+<LI>CatBuster is now incorporated inside of WDC so that it will automatically extract 
+files from the EXE files it recognizes.</LI>
+<LI>FIX: EndScreens compile correctly again.</LI>
+<LI>FIX: No more mysterious "Internal palette #0" in the palette list for VGAGRAPH 
+graphics.</LI>
+<BR><BR>
+
+Version 1.6.167 - 01/06/2004
+<LI>Tile8, EndArt and ReadThis chunk locations (in the top-right corner of the program) 
+were not displaying correctly.</LI>
+<LI>CatBuster now has UNP compiled right into it.</LI>
+<LI>Better support for FloEdit-altered VGAGRAPH files.</LI>
+<LI>Non-picture VGAGRAPH chunks no longer have to be grouped by type or in any particular 
+order. (Martin)</LI>
+<LI>ReadThis chunks are now shown together with EndArt chunks.  No more ReadThis 
+button or View menu.</LI>
+<LI>Added View-&gt;VGAGRAPH Chunks</LI>
+<LI>FIX: Ctrl+PageUp/PageDn no longer skips over the last view mode.</LI>
+<LI>Compiling VSWAP will no longer reports greater than 100% completion when adding 
+data chunks.</LI>
+<LI>Compiling VSWAP with wall graphics added at the end of the wall images now works.</LI>
+
+<LI>Unnecessary icons and other images were remove to reduce the EXE file size by 
+150k!</LI>
+<LI>Added VGAGRAPH chunks are now show as "VGAGRAPH: NEW" in the upper right instead 
+of their compiled location.</LI>
+<LI>To view compiled VGAGRAPH chunk locations, go to View-&gt;VGAGRAPH Chunks.</LI>
+
+<LI>The folder "C:\WDC Backup Folder" will no longer be created when opening a "View 
+Only" project.</LI>
+<LI>No more graphic debris when trying to load a corrupt GAMEMAPS file.</LI>
+<LI>Compiling VGAGRAPH now checks to make sure that the width of added BMPs are a 
+multiple of 4.</LI>
+<LI>Other minor bug fixes.</LI>
+<BR><BR>
+
+Version 1.5.159 - 12/30/2003
+<LI>Compiling the GAMEMAPS now uses CarmackCompression to make the file even smaller.</LI>
+
+<LI>No more CopyFileIfNoThere errors when adding an output folder to a previously-saved 
+read-only project.</LI>
+<LI>Now writes handled errors to 'Error.log'.  I thought I had done this before, 
+but somehow that code got lost.</LI>
+<BR><BR>
+
+Version 1.4.157 - 12/28/2003
+<LI>The SaveMapUndo error has hopefully been eliminated. (Hair Machine)</LI>
+<LI>The Map Tools menu no longer becomes enabled after compiling GAMEMAPS while not 
+viewing the maps.</LI>
+<BR><BR>
+
+Version 1.4.156 - 12/22/2003
+<LI>No more error 91 for first-time installations. (Loki)</LI>
+<BR><BR>
+
+Version 1.4.155 - 12/22/2003
+<LI>SaveMapUndo errors will now return a line number in hopes of tracking down exactly 
+what caused the error. (Hair Machine)</LI>
+<LI>You are no longer asked to create a project as soon as you start WDC for the 
+very first time.</LI>
+<LI>Things are enabled/disabled when they should be.</LI>
+<BR><BR>
+
+Version 1.4.154 - 12/18/2003
+<LI>Error handling has been improved in hopes of tracking down the pesky bug that 
+Hair Machine mentioned in the DieHard Wolfers Forums</LI>
+<BR><BR>
+
+Version 1.4.153 - 12/08/2003
+<LI>No longer constantly says 'base and output folders cannot be the same' on the 
+Project Information screen. (Hair Machine)</LI>
+<BR><BR>
+
+Version 1.4.152 - 12/08/2003
+<LI>BMPs that are converted to 8-bit can now be saved to a file (Edit-&gt;Save New 
+Image As 8-Bit).</LI>
+<BR><BR>
+
+Version 1.4.151 - 12/08/2003
+<LI>WAV files are now exported correctly.</LI>
+<LI>Added more AUDIOT export file types: *.pc, *.adl, and *.dgi.</LI>
+<LI>Added a multiple chunk export function to the file menu.</LI>
+<LI>Now handles file-related errors better. (Hair Machine).</LI>
+<LI>WDC can now convert 4- and 24-bit BMPs to 8-bit BMPs.  To turn off this feature, 
+go to File-&gt;Preferences. (Martin)</LI>
+<LI>WDC no longer directly opens the BMP editor for Signon.BMP.  Instead, you are 
+now allowed to simply export and import it.</LI>
+<LI>The map/object tile list now remembers where you were at for each list and remembers 
+your plane 3 selections correctly.</LI>
+<BR><BR>
+
+Version 1.4.144 - 12/03/2003
+<LI>Fixed a bug while compiling VGAGRAPH that was introduced in v1.4.142</LI>
+<LI>Fixed a bug that caused the program to bomb for people who just installed WDC. 
+(Ringman)</LI>
+<BR><BR>
+
+Version 1.4.143 - 12/02/2003
+<LI>WDC can now view Commander Keen 4-6 files (with CatBuster's help).</LI>
+<LI>CatBuster should now find UNP.EXE and no longer stay in memory if a problem occurs 
+while trying to run it.</LI>
+<LI>CatBuster now extracts AUDIODCT and AUDIOHED files.</LI>
+<LI>Catacomb and Commander Keen AUDIO files can now be read.</LI>
+<BR><BR>
+
+Version 1.4.142 - 12/01/2003
+<LI>Now supports Catacomb files (EGAGRAPH).  Special thanks to Andrew Durdin!  You 
+must first use the CatBuster on the game's EXE. (Ringman)</LI>
+<LI>EGAGRAPH compression is NOT currently supported.</LI>
+<LI>FIX: Ctrl-PageUp/PageDn will no longer try to go to disabled frames.</LI>
+<BR><BR>
+
+Version 1.4.140 - 11/17/2003
+<LI>If you insert a file when a replacement file already exists, the dialog will 
+start in the previous file's folder.</LI>
+<LI>"Export to File" is no longer enabled when on an added data chunk (one that does 
+not exist in the original data files).</LI>
+<BR><BR>
+
+Version 1.4.139 - 11/13/2003
+<LI>FIX: Importing to the map clipboard wasn't working.</LI>
+<LI>Some code cleaning with how pictures, walls, and sprites are displayed as well 
+as their replacement images.</LI>
+<LI>ADDED: Show Tile Objects to the map information screen so that turning points, 
+starting points, secrets, and end game levels can be toggled separate from the static 
+objects.</LI>
+<LI>The map information amounts will become red if you put too many of that type 
+on the map and orange if you're close to the maximum.</LI>
+<LI>Error handling is a bit better now.</LI>
+<BR><BR>
+
+Version 1.4.133 - 11/12/2003
+<LI>FIX: File-&gt;Save as BMP now works when the map contains unknown symbols.</LI>
+
+<LI>ADDED: Ctrl+G now toggles the tile graphics/information view.</LI>
+<LI>Shortcut keys for map information, walls, objects, and plane 3 are now Ctrl+Alt+I,1-3 
+instead Alt+Shift+I,1-3.</LI>
+<BR><BR>
+
+Version 1.4.130 - 11/10/2003
+<LI>FIX: Removing maps now completely removes the maps instead of leaving empty maps.</LI>
+
+<LI>FIX: Edit-&gt;Copy/Cut/Paste/Clipboard now appears only when it is valid.</LI>
+
+<LI>FIX: Edit-&gt;Add Chunk to End appears everytime it should.</LI>
+<LI>MEDC (MapEdit Data Comvertor) is now included in the install package so that 
+MapEdit MAPDATA and OBJDATA files can be converted to WDC's format.</LI>
+<BR><BR>
+
+Version 1.4.125 - 11/04/2003
+<LI>Added a most recently used list to the file menu.</LI>
+<LI>"TED5v1.0" is now written at the beginning of GAMEMAPS so that MapEdit can open 
+the files.</LI>
+<LI>Canceling the project information screen when some required data is missing no 
+longer exits the program.</LI>
+<LI>Map Data File selection was added to the Project Information screen to accommodate 
+multiple files for the same extension.  To set up a second map data file, follow 
+the example provided using the Corridor 7 Disk and CD map data files.</LI>
+<BR><BR>
+
+Version 1.4.122 - 11/03/2003
+<LI>Fixed a bug that caused digital sounds to be lost when adding walls and sprites.</LI>
+
+<LI>Can now view Tile8s.</LI>
+<LI>Wolf v1.0 map files (MAPTEMP.*) are now supported.</LI>
+<LI>Other games have limited support: Wolf3d Alpha, Operation BodyCount, Blake Stone 
+1 and 2, and Corridor 7.</LI>
+<LI>Can now set a default palette so that the graphics from the other games can be 
+viewed correctly even without their GAMEPAL.OBJ.</LI>
+<BR><BR>
+
+Version 1.3.120 - 10/28/2003
+<LI>Fixed a bug that caused the last sprite to be blank and a bunch of sparse sounds 
+to be loaded when loading from a FloEdit-extended VSWAP file.</LI>
+<LI>Fixed VGAGRAPH and VSWAP compilation bugs that would occur when there was a lot 
+of added data, such as with Spear Resurrection.</LI>
+<LI>Added buttons that clear entries on the Project Information screen.</LI>
+<LI>Changed a lot of icons on the Project Information screen.</LI>
+<LI>Added some icons to the program.</LI>
+<BR><BR>
+
+Version 1.3.117 - 10/27/2003
+<LI>Fixed a bug that would occur when compiling data files with added chunks.</LI>
+
+<BR><BR>
+
+Version 1.3.115 - 10/25/2003
+<LI>Added a user-definable tools menu.</LI>
+<LI>It now checks for a MAPTEMP file if GAMEMAPS is not found.  However, MAPTEMP 
+files do not work yet.</LI>
+<LI>It is now easier to browse data.  If now output folder is defined in the project 
+information screen, WDC will be in read-only mode.</LI>
+<BR><BR>
+
+Version 1.3.114 - 10/23/2003
+<LI>The map count screen now works with plane 3.  NOTE: The plane 3 list only appears 
+when it has something in it.</LI>
+<LI>Added the "Draw Plane 3" checkbox to the map information frame.</LI>
+<LI>File-&gt;Save Map as BMP can now save plane 3.</LI>
+<LI>VGAGRAPH.SOD and .SDM should load correctly now.</LI>
+<LI>Maps with a lot of unknown tile graphics are now drawn correctly.</LI>
+<LI>Corrected a few guard directions in WDCMapData.WL6.</LI>
+<LI>Corrected the guard graphic numbers in WDCMapData.SOD and WDCMapData.SDM.</LI>
+
+<LI>Other minor bug fixes.</LI>
+<BR><BR>
+
+Version 1.3.112 - 10/22/2003
+<LI>BUG FIX: Fixed a problem with non-FloEdit extended VGAGRAPH files caused by the 
+fix in 1.3.109.</LI>
+<BR><BR>
+
+Version 1.3.110 - 10/22/2003
+<LI>BUG FIX: An overflow error would sometimes occure while compiling the VSWAP Sounds.</LI>
+
+<BR><BR>
+
+Version 1.3.109 - 10/22/2003
+<LI>Major code rewriting in WolfData.DLL with regard to plane data. This rewrite 
+can easily be expanded to more than 3 map planes, if necessary.</LI>
+<LI>FIX: Now correctly loads picture information from heavily FloEdit-extended VGAGRAPH 
+files, such as Spear Resurrection. (MCS)</LI>
+<BR><BR>
+
+Version 1.3.106 - 10/20/2003
+<LI>Editing of the thrid plane.</LI>
+<LI>New export map format (2.0).  The older format still works.</LI>
+<LI>BUG FIX: Replacement EndScreen file names did not show.</LI>
+<LI>BUG FIX: Edit-&gt;Edit Data is enabled when it should be.</LI>
+<LI>BUG FIX: Edit-&gt;Use Original Data is enabled when it should be.</LI>
+<LI>No longer attempts to find the default BMP and WAV editor.  It can only find 
+the default viewer (not the editor).</LI>
+<BR><BR>
+
+Version 1.2.105 - 10/02/2003
+<LI>No more 'Path not found' errors when trying to edit SIGNON.OBJ. (GammaRay)</LI>
+
+<BR><BR>
+
+Version 1.2.104 - 10/02/2003
+<LI>Rotate and Flip now adjust guard, turning point, starting point, and door directions 
+if you have "Edit-&gt;Adjust Object / Door Directions" checked.</LI>
+<LI>The MapData file structure changed, so this is now 1.2.</LI>
+<LI>Old MapData files should work, but rotate and flip will not affect the standing 
+guards or starting points.</LI>
+<BR><BR>
+
+Version 1.1.103 - 10/01/2003
+<LI>Added: Rotate and Flip to the Map Tools menu.</LI>
+<LI>Replacement files with paths larger that the text boxes allow are no shown using 
+an ellipsis so that the filename can be seen.</LI>
+<BR><BR>
+
+Version 1.1.102 - 09/30/2003
+<LI>Added: SIGNON.OBJ editing capabilities.</LI>
+<BR><BR>
+
+Version 1.1.101 - 09/30/2003
+<LI>Added: GAMEPAL.OBJ editing capabilities.</LI>
+<LI>BUG FIX: Edit-&gt;Edit Data would be enabled when it shouldn't be. (Ripper, Chris)</LI>
+
+<LI>Silver key map definition fixed for WL6 files.  No more missing silver key errors 
+when it's on the map. (Chris)</LI>
+<LI>There are now 8 levels of map zoom.</LI>
+<BR><BR>
+
+Version 1.1.100 - 09/29/2003
+<LI>Added: Map Zoom - 4 levels (Chris)</LI>
+<LI>Added: Ability to set up your Code Editor.</LI>
+<LI>Added: Bosses can have keys so that "Key #1 missing" does not appear for Hans, 
+etc. (Chris)</LI>
+<LI>BUG FIX: No more "Run-time error 9: subscript out of range" errors when dragging 
+a wall below the last line. (Chris)</LI>
+<LI>"Help-&gt;Contents" works again. (Chris)</LI>
+<LI>Window is now sizeable. (Chris)</LI>
+<LI>"Edit-&gt;Export to File" added.  Same as "File-&gt;Export to File" (Chris)</LI>
+
+<LI>"Edit-&gt;Insert File" and "Edit-&gt;Use Original Data are now buttons beside 
+the replacement file name boxes (Chris)</LI>
+<BR><BR>
+
+Version 1.1.97 - 09/25/2003
+<LI>BUG FIX: Now creates the temp folder so that "Run-time error 76: Path not found" 
+errors are not thrown. (Ripper, Chris)</LI>
+<BR><BR>
+
+Version 1.1.96 - 09/25/2003
+<LI>Install package now detects the presence of the VB runtime DLLs.</LI>
+<BR><BR>
+
+Version 1.1.95 - 09/24/2003
+<LI>Added: Tile Graphics view.</LI>
+<LI>The MapData file structure changed, so this is now 1.1.</LI>
+<LI>Old MapData files should work.</LI>
+<BR><BR>
+
+Version 1.0.92 - 09/22/2003
+<LI>BUG FIX: Things such as drawing floors when floors weren't being shown would 
+cause the new floors to be shown.</LI>
+<LI>Added: Statistics page to show how many chunks of each type have been replaced 
+or added.</LI>
+<LI>Added: A BMP and WAV editor can be set up so that they can be called directly 
+from WDC.</LI>
+<BR><BR>
+
+Version 1.0.90 - 09/18/2003
+<LI>Added: Map dimensions can be anywhere from 32x32 to 128x128 (these limits can 
+probably be changed). (GammaRay)</LI>
+<LI>Added: WDC Map File format for multiple maps.  They store the name and the map 
+dimensions.</LI>
+<LI>BUG FIX: Object types of "Level 3 Guard (Standing)" and later were messed up.</LI>
+
+<LI>WolfData.dll has been cleaned up to reduce the file size tremendously.</LI>
+<BR><BR>
+
+Version 1.0.88 - 09/14/2003
+<LI>BUG FIX: "Save Map as BMP" now works again and writes to a 16 Color BMP file.</LI>
+
+<BR><BR>
+
+Version 1.0.87 - 09/13/2003
+<LI>BUG FIX: Would crash when creating the initial project after installing. (GammaRay)</LI>
+
+<BR><BR>
+
+Version 1.0.86 - 09/12/2003
+<LI>BUG FIX: Help file wouldn't load from help menu. (GammaRay)</LI>
+<LI>Added Map Tool: Clear Map (Random).</LI>
+<BR><BR>
+
+Version 1.0.85 - 09/12/2003
+<LI>Some more minor bug fixes and changes.</LI>
+<LI>Added Map Tools: 'Clear Map'.</LI>
+<LI>You get to choose which one to copy when the extension's WDCMapData does not 
+exists.</LI>
+<LI>I also made a correction to WDCMapData.WL6 and fixed the installer.</LI>
+<BR><BR>
+
+Version 1.0.77 - 09/12/2003
+<LI>Quick fix.</LI>
+<BR><BR>
+
+Version 1.0.75 - 09/12/2003
+<LI>The multiple map export screen now has a title.</LI>
+<LI>Other cosmetic changes and code cleaning.</LI>
+<BR><BR>
+
+Version 1.0.75 - 09/11/2003
+<LI>Can now export multiple maps into one file.</LI>
+<LI>Updated the help file with pictures.</LI>
+<LI>The font viewer and editor now show all 256 characters.</LI>
+<BR><BR>
+
+Version 0.9.69 - 09/10/2003
+<LI>BUG FIX: The wall and font screens had stopped working.</LI>
+<BR><BR>
+
+Version 0.9.68 - 09/10/2003
+<LI>The map edit has been beefed up.</LI>
+<LI>Can now cut/copy/paste and has a clipboard viewer.</LI>
+<LI>Undo/redo is now a map-per-map process.</LI>
+<LI>Symbol loading is much faster.</LI>
+<LI>Menu keys now work while the mouse is over the map.</LI>
+<BR><BR>
+
+Version 0.9.59 - 09/09/2003
+<LI>More stable than the last.</LI>
+<LI>Can easily change the number of maps.</LI>
+<BR><BR>
+
+Version 0.9.55 - 09/08/2003
+<LI>BUG FIX: Project files would become concatenated using File-Open.</LI>
+<LI>Added the ability to add new data chunks.  Not thoroughly tested.</LI>
+<BR><BR>
+
+Version 0.9.53 - 09/05/2003
+<LI>Added error checking for compiling sprites, inserting non-256 color BMPs and 
+incorrect WAVs.</LI>
+<BR><BR>
+
+Version 0.9.48 - 09/04/2003
+<LI>BUG FIX: VGADICT was not copied to the output folder.</LI>
+<BR><BR>
+
+Version 0.9.47 - 09/04/2003
+<LI>Now uses an NSIS install instead of WW3DInstall.</LI>
+<LI>First public release with editing capabilities.</LI>
+<BR><BR>
+
+09/03/2003
+<LI>Fixed a bug dealing with fonts.</LI>
+<BR><BR>
+
+09/02/2003
+<LI>Name changed from WinWolf3DEdit to WDC.</LI>
+<LI>Incorporates the whole project paradigm.</LI>
+<BR><BR>
+
+<HR><BR>
+
+Version 0.38 - Unreleased
+<LI>This version will include font viewer.  (No editing... yet.)</LI>
+<LI>Map names can be changed. (GammaRay)</LI>
+<BR><BR>
+
+Version 0.37 - 07/23/2003
+<LI>Corrects bug with setting turning point directions.</LI>
+<BR><BR>
+
+Version 0.36 - 07/23/2003
+<LI>Error checking now looks at:
+	<UL>
+	<LI>Checks moving guard paths to make sure that they are complete</LI>
+	<LI>Make sure locked doors have the proper keys and keys don't exist without the 
+locked door</LI>
+	<LI>Obj/Map data file structure changed.</LI>
+	</UL>
+</LI>
+
+Version 0.31 - 07/22/2003
+<LI>Added auto-flooring.</LI>
+<LI>Added error checking.</LI>
+<LI>Fixed a bug that caused the wrong floor code to be picked up while editing.</LI>
+
+<LI>Map/object list now shows the code number.</LI>
+<BR><BR>
+
+Version 0.29 - 07/21/2003
+<LI>Worked around a problem that caused WW3DEdit to think there were 100+ sounds 
+for some data files.</LI>
+<BR><BR>
+
+Version 0.28 - 07/21/2003
+<LI>Changed map/object data def files from {ext}.ini to WW3DEdit.{ext}.</LI>
+<LI>More easily integrates with non-standard extensions.</LI>
+<LI>Follows data files closely, so extra sprites, walls, maps, etc are shown automatically.</LI>
+
+<BR><BR>
+
+Version 0.20 - 4/23/2003
+<LI>Fixed a bug that caused the editor to crash if you edit a map after saving the 
+project.</LI>
+<BR><BR>
+
+Version 0.19 - 4/21/2003
+<LI>Added unlimited Undo/Redo.</LI>
+<LI>Added more map tools: Filled rectangle and flood fill.</LI>
+<BR><BR>
+
+Version 0.17 - 4/19/2003
+<LI>Added map editing capabilities.</LI>
+<LI>Map tools: draw pencil and rectangle.</LI>
+<BR><BR>
+
+Version 0.10 - 4/15/2003
+<LI>Now using WinWolf3DInstall.</LI>
+<BR><BR>
+
+Version 0.05 - 4/13/2003
+<LI>Improved support for longer sounds (in SOD2/3).</LI>
+<LI>No longer tries to look at the sparse data entries of WL1 and SDM files.</LI>
+
+<BR><BR>
+
+Version 0.02 - 4/8/2003 (First release.)
+<LI>Only a viewer.</LI>
+<LI>Works with WL6 and SOD files.</LI>
+
+</BODY>
+</HTML>

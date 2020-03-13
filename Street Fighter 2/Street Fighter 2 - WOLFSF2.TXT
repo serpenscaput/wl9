@@ -1,0 +1,90 @@
+			
+			Wolfenstien 3-d
+			Street fighter 2
+
+	Hello folks, Resistance here, I would like to formally (and
+may I add illegally) release this here copy of the shareware version
+of Wolfenstien 3-d. Try it, lots of gore, I promise!
+
+	All characters have been replaced with Ryu, Ken, and E. Honda.
+This is version 1.0, we are still working on a Bison. Relax, give us
+a few days. Greetz to Vanilla for really doing all the work. And special
+thanx to those low lifes at Capcom who we are presently exploiting.
+
+      L8r people (and pir8's)
+
+		Head Byterunner
+			---Resistance
+			Release date: Feb. 23, 1992
+
+-----------------------------------------------------------------------------
+
+       
+       This package is a version 1.4 update of WOLFSTF.ZIP.  Since the
+Byterunners only changed level 1, I have dredged up some different levels for 
+2 through 10. I've also added Street Fighter sounds and cleaned up some wall 
+panels. Below I've listed all the gory details. Enjoy!
+
+Andy Nonymous  3/2/99
+
+
+		  archive :  WOLFSTF.ZIP
+		  source  :  FIGHTER directory of Games People Play II CD-ROM
+		  author  :  The Byterunners (Resistance and Vanilla)
+		  notes   :  Graphics from Street Fighter 2, 1 new floor.
+			     No new sounds.
+		  edits   :  Converted from v1.0 to v1.4.
+			     Added VOC sounds from Street Fighter 2 for IBM 
+			     PC (from SF2 directory of Games People Play II 
+			     CD-ROM) and WAV sounds from Street Fighter 2 for 
+			     Nintendo (from America Online file search) :
+			     Guard sees you - ryu3.voc
+			     Guard dies 1   - death1.wav (cropped)   
+			     Guard dies 2   - guile2.voc
+			     SS sees you    - c1.voc
+			     SS dies        - death1.wav
+			     Boss sees you  - ehonda1.wav
+			     Boss dies      - blanka2.wav
+			     Guard shoots   - g1.voc
+			     SS shoots      - zang1.voc
+			     Boss shoots    - zang2.voc
+			     Made the wall images more consistent with the 
+			     proper light vs. shade scheme and improved the 
+			     orange vs. blue scheme too (no more mixed walls 
+			     or Nazi crosses in non-SF2 maps).
+			     On 1st floor, an immovable hidden door was 
+			     changed to a plain wall.
+		  
+		  archive :  SODDEMO2.ZIP    
+		  source  :  SOD directory of Games People Play II CD-ROM 
+		  author  :  id
+		  notes   :  Spear of Destiny demo map, floors 1 and 2.
+		  edits   :  Wall panels, objects edited for Wolfenstein 3-D
+			     and imported to floors 2 and 3.
+
+		  archive :  W3DXLV11.ZIP  
+		  source  :  NEWWOLF directory of Wolf 3-D Mania !!! CD-ROM
+		  author  :  
+		  notes   :  Only level 1 was new.
+		  edits   :  Converted from v1.0 to v1.4.
+			     Walk-through walls eliminated.
+			     Imported to floor 4.
+
+		  archive :  MAP1.ZIP  
+		  source  :  ftp.uwp.edu/pub/msdos/games/id/home-brew/wolf3d
+		  author  :  
+		  notes   :  Only level 1 was new.
+		  edits   :  Converted from v1.0 to v1.4.
+			     Walk-through walls and other bugs eliminated.
+			     Imported to floor 5.
+		  
+		  archive :  W3DVISIO.ZIP  
+		  source  :  ftp.uwp.edu/pub/msdos/games/id/home-brew/wolf3d
+		  author  :  
+		  notes   :  Only levels 1 through 5 were new.
+		  edits   :  Converted from v1.0 to v1.4.
+			     Walk-through walls and other bugs eliminated.
+			     Imported to floors 6 through 10.
+		  
+		  No secret floor on new Street Fighter 2 levels.
+		  (floor 1 through 10 is a straight progression)

@@ -1,0 +1,54 @@
+============================================================================
+Title                   : Twilight Nazi Chaos         (for SPEAR OF DESTINY)
+Filename                : tw_nc.zip
+Author                  : Eugene Sloupsky a.k.a. DarkJedi188
+Email Address           : darkjedi188@yahoo.com
+Website                 : http://www.geocities.com/darkjedi188/
+
+Other levels            : I love a bunch of other games, and I will definately 
+			  make levels for them as well. Keep checkin my site from 
+			  time to time.
+
+Description             : 5 brand new levels and a new uniform for the SS.
+			  Quite a challenge! Use frequent quicksaves and you'll survive!
+			  Trust me, it can be beaten without cheats. I've tested it over and over. 
+                        
+***FRIENDLY REMINDER*** : Be sure to create a backup copy of the following files 
+
+                          before unzipping this neat little package into your SPEAR 
+directory:
+	                  
+			  GAMEMAPS.SOD
+			  MAPHEAD.SOD		    
+    			  VSWAP.SOD
+
+			  If you don't create backups of these files then they will be owritten 
+			  by my beautiful work :)
+
+============================================================================
+
+* Play Information *
+
+Episode and Level #     : Levels 1-4 and also 21
+Secret Levels           : No
+Difficulty Settings     : Not Implemented
+New Graphics            : Yes
+New Sound Effects       : No
+New Music               : No
+New EXE File            : No
+
+* Construction *
+
+Base                    : Built from scratch. It was a fun experience :)
+
+Editor(s) used          : Mapedit 8.1 an FloEdit for the levels
+                          WolfEdit 2.1 for the graphics
+                         
+Construction time       : Many many many hours
+
+Known Bugs              : None that I'm aware of. But notify me if you find some.
+
+
+* Where to get this file *
+
+Website                 : http://www.geocities.com/darkjedi188/

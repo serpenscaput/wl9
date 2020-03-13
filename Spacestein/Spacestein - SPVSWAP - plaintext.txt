@@ -1,0 +1,55 @@
+ 
+Spacestein/Vswap Walls
+By Maxim Zhukov
+#	ORIGINAL	Spacestein North/South	Spacestein East/West
+0/1	Grey Stone 1	Dark Blue Starry	Dark Blue Starry
+2/3	Grey Stone 2	Dark Blue Starry	Dark Blue Starry
+4/5	Grey/Banner	Starry/Radiation	Starry/Radiation
+6/7	Grey/Hitler	Starry/Hitler	Starry/Hitler
+8/9	Cell	B/W Wanted Pic	B/W Wanted Pic
+10/11	Grey Stone/Eagle	Grey Display	Grey Display
+12/13	Occupied Cell	Auto Destruct	Auto Destruct
+14/15	Blue Stone 1	Starry/Light Strip	Starry/Light Strip
+16/17	Blue Stone 2	Brown/Grey Pic	Brown/Grey Pic
+18/19	Wood/Eagle	Brown Medieval	Brown Medieval
+20/21	Wood/Hitler	B/W Nazi Pic	B/W Nazi Pic
+22/23	Wood Panel	Steel/Red Blotches	Steel/Red Blotches
+24/25	Entrance To Level	Entrance	Entrance
+26/27	Steel/Sign	Port Window Half	Port Window Whole
+28/29	Steel	Port Window Half	Port Window Half
+30/31	Landscape	Landscape/Stripes	Landscape/Stripes
+32/33	Red Brick	Grey Chart	Grey Chart
+34/35	Red/Wreath	Grey Plain Square	Grey Plain Square
+36/37	Purple Wall	Grey Horiz Lines	Grey Horiz Lines
+38/39	Red/Shield	Grey Buttons	Grey Buttons
+40/41	Elevator/Normal	Elevator Side	Elevator
+42/43	Elevator 2/Normal	Elevator Side	Elevator 2
+44/45	Wood/Cross	Black/I Want Beer	Black/I Want Beer
+46/47	Grey Slime 1	Grey Skulls	Grey Skulls
+48/49	Purple/Blood	Grey/White Pattern	Grey/White Pattern
+50/51	Grey Slime 2	Grey/Green Stripes	Grey/Green Stripes
+52/53	Grey Stone 3	Grey/Green Stripes	Grey Stone 3 
+54/55	Grey/Signs	Grey Pattern	Grey Pattern
+56/57	Brown Weave	Brown Weave	Brown Weave
+58/59	Brown Weave/Blood 1	Brown Weave/Blood 1	Brown Weave/Blood 1
+60/61	Brown Weave/Blood 2	Brown Weave/Blood 2	Brown Weave/Blood 2
+62/63	Brown Weave/Blood 3	Brown Weave/Blood 3	Brown Weave/Blood 3
+64/65	Stained Glass	Grey Pics	Grey Pics
+66/67	Blue/Skull	Grey/Big Hazard	Grey/Big Hazard
+68/69	Grey Brick 1	Grey/Broken	Grey/Broken
+70/71	Blue/Swastika	Grey Pics	Grey/Pics
+72/73	Grey Brick/Vent	Grey/Alarm	Grey/Alarm
+74/75	Multicolour Brick	Red Pattern	Red Pattern
+76/77	Grey Brick 2	Grey Cupboard	Grey Cupboard
+78/79	Blue Wall	Brown Bookcase	Brown Bookcase
+80/81	Blue/Signs	Dopefish	Dopefish
+82/83	Brown Marble 1	Blue Pattern	Blue Pattern
+84/85	Grey Brick/Bap	Grey Pattern	Grey Pattern
+86/87	Brown Stone 1	Pink/Red Pattern	Grey Grill
+88/89	Brown Stone 2	Grey Grill	Pink/Red Pattern
+90/91	Brown Marble 2	Large Dopefish	Large Dopefish
+92/93	Marble/Banner	Grey Brick/Drainpipe 	Grey Brick
+94/95	Wood Blind	Wood Blind	Wood Blind
+96/97	Grey Brick/Hitler	Brown Pattern	Brown Pattern
+98/99	Unlocked Door	Unlocked Door	Unlocked Door
+

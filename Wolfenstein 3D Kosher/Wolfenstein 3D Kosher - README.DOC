@@ -1,0 +1,123 @@
+                     WOLFENSTEIN 3-D KOSHER
+              BY: PETER RINGERING (ringpe@wwc.edu)
+
+
+     This archive contains a file that will make your Wolfenstein
+3-D a more kosher game.  Instead of shooting at people, you shoot
+at objects which, like the original guards, will shoot at you.
+(If they didn't shoot at you, then the game wouldn't be Wolfen-
+stein.)  I also changed the skeletons, bones, and blood into
+objects.  However, in order to keep the original "spirit" of the
+game, I left the Nazi symbolism.  Another thing I couldn't change
+was Mr. Blazkowics's bloody face when he get's wounded.  In
+short, I changed the game from an "R-rated" game into a "PG-
+rated" game.  However, the incredible action is still intact.
+
+------------
+REQUIREMENTS
+------------
+
+     Wolf 3-D 1.4 (SHAREWARE VERSION ONLY)
+
+     1 meg free on your hard drive after you install Wolf 3-D for
+     the first time.
+
+------------------------------
+FILES INCLUDED IN THIS ARCHIVE
+------------------------------
+
+      VSWAP.KOS
+     README.DOC
+
+------------
+INSTALLATION
+------------
+
+     To install Wolf 3-D Kosher, you will need to do the follow-
+ing simple steps:  First, rename your original VSWAP.WL1 that's
+in your Wolf 3-D directory to VSWAP.ORG. Then copy the VSWAP.KOS
+to your Wolf 3-D directory as VSWAP.WL1 (ie: COPY VSWAP.KOS
+\[wolf3d dir]\ VSWAP.WL1)  Then start up Wolf 3-D and enjoy the
+game.
+
+     If you ever want to go back to the original Wolf 3-D charac-
+ters and objects, just rename VSWAP.WL1 to VSWAP.KOS.  Then
+rename VSWAP.ORG to VSWAP.WL1.
+
+------------------
+ENIGMA'S NIGHTMARE
+------------------
+
+     You can use this file with Enigma's Nightmare I, II, and
+III.  However, you will not be able to use the special walls that
+come with Enigma's Nightmare.  You will have to use the original
+Wolf 3-D walls.  So, if you wish to use this with Enigma's Night-
+mare, do not install the special graphics.
+
+---------------------------------
+CHANGES FROM THE ORIGINAL WOLF 3-D
+---------------------------------
+
+     The guards have been changed into "marbles".  The original
+brown guards are now brown marbles and the original SS blue offi-
+cers are now blue marbles.  The dogs are green marbles, and the
+big "boss" at the end is a gigantic blue marble.  These marbles
+will shoot at you too, therefore, I recommend using the "God
+Mode" when you first play this version of the game.  When you
+destroy a marble with your gun, the marble will fall apart and
+turn into a bunch of marble junk on the floor.  When a blue
+marble is killed, it will turn into blue junk on the floor, when
+a brown marble is killed, it will turn into brown junk, and when
+a green marble is killed, it will turn into green junk.
+
+     The blood that was on the purple wall was turned into tar
+and the hanging skeleton was changed into a hanging potted plant. 
+(To add a natural touch.)  I replaced the skeletons in the prison
+with smiley faces in the cells and most of the skeletons and
+piles of bones on the floor were changed into smiley faces.
+
+     Beyond these changes, the game is the same.  Have fun!
+
+-------
+UPDATES
+-------
+
+     As soon as I improve on my computer artistic abilities, I'll
+be working on making the marbles "roll" better and look more like
+marbles.  Then I'll upload updates.
+
+-------
+CREDITS
+-------
+
+     Id Software Inc. for the best shareware game around (I
+think.)
+     Bill Kirby for his editor program, Wolf Edit 1.4., which was
+my main tool for making Wolf 3-D Kosher
+     OSCS Software Development Inc. for their excellent paint
+program, Neopaint, which was used to create the marbles.
+
+---------
+DONATIONS
+---------
+
+     Please don't send any to me.  Eventhough a lot of work went
+into it, I enjoyed making this.  However, if you do feel "com-
+pelled" to make donations, send them to your local charity.  I'm
+sure they need it a lot more than I do.
+
+---------------------
+COMMENTS OR QUESTIONS
+---------------------
+
+Please direct all questions and comments to me (Peter Ringering) at:
+
+ringpe@wwc.edu (Internet)
+Sub Driver #137 @1503015 (VirtualNET)
+Peter Ringering 1:3407/201 (FidoNET)
+
+or through snail mail at:
+
+Peter Ringering
+210 Sittner Hall
+College Place, WA 99324

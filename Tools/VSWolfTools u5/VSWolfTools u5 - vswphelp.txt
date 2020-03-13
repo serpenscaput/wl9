@@ -1,0 +1,88 @@
+
+For viewing, extracting and replacing wall pictures, sprites and sounds
+     in any Wolfenstein3D/spear related VSWAP file. Also wolfenstein v1.
+
+*VSWAPED has all the features of the former Wolfenpack 3.8, plus:
+    Supports big graphics (128x128 pixels);
+    EDIT: You can replace any number of walls, sprites and sounds, as follows:
+                             - - -
+*Select an item in the list to view/hear or replace.
+*Animate any set of selected walls or sprites.
+*For walls and sprites, click the picture and see the figure against a
+   background with 'normal' ceiling colors of the level.
+*The current picture/sound is stored in the program directory as
+   wp.bmp/wp.wav from where it can be opened in an editor, such as Floedit,
+   or another opened VSWAPED program.
+                             - - -
+*    (My portrait): Read this helpfile.
+
+*LOG: A cumulative logfile with the changes you have made. It can be marked,
+      copied and deleted like any other text.
+
+*The multicolor button opens a new palette file (*.pal).
+
+*     The 'Palette tool' enables you to extract the color palette of a game
+      in a few minutes. See the tool's help file for how to do it.
+
+                             ---ooo---
+
+*Open a vswap file with 64x64 or 128x128 pixels graphics and if you like,
+   a textfile with standard descriptions. They start with the character {-}
+   for avoiding confusions with VSMAPED files. The program decides which
+   palette (wolfenstein or spear) will be used initially.
+   You can make your own descriptions for special games.
+   It is quite simple, see how to do it in R O M.txt.
+
+*Select any set of items and save them together. If the filename is 'default',
+   the items will be saved as 'wallxxxx.bmp', spritexxxx.bmp, soundxxxx.wav'.
+   If 'default' is replaced with a name, fex 'pp', the items will be saved as
+   'ppwallxxxx.bmp', 'ppspritexxxx.bmp', ppsoundxxxx.wav'.
+   Pictures will be saved with the palette in use.
+
+*Item DETAILs can be shown in decimal or hex. The true data size is shown,
+   not the allocated space. For sounds,  the duration in seconds is shown.
+
+*You can disable/enable image thumbnails in the list.
+
+*Shows picture coordinates, color index and the color itself.
+
+*EDIT: Open the EDIT panel.
+
+ ^ *Select the item to be replaced.
+ | *File> : Import from a file. 
+`| *App>  : First start a new VSWAPED program. Select an item in the new VSWAP
+ |          file. Click the APP button in the old, then the item is copied.
+ | *For a sprite, you may check 'Tight'and save some space, allowing for more
+ |    complicated sprites.
+ |_*Click USE to incorporate the new item into the vswap file.
+   *Repeat the steps above as much as you like.
+   *You can UNDO all replacements at once.
+   *Click X to close the EDIT panel.
+   *When finished, click SAVE to save the modified file to the game.
+      Optionally make a backup copy (name+'bk') of the original file.
+
+*Add item: Add walls, sprites, or sounds to the vswap file. Except for walls,
+      the game exe must usually be recompiled to use the additions.
+      Select in the category of the item to be added. Sprites and sounds will
+      be added at the end of their category but for walls: select the item just
+      ahead of the planned addition. Door images must always be the last, and
+      the vswap file contains no information of which walls are door images.
+
+*RESTORE: Restore the game's vswap file from the backup copy.
+
+     -Pictures must be in bmp format, but can be of any size. If needed,
+      the colors will be resampled to the nearest colors in the game palette,
+      and the picture will be resized to 64x64 or 128x128 pixels.
+
+     -the size of a compressed sprite must not exceed 4096 bytes
+      (or 16384 for 128x128 pixels graphics, I think).
+
+     -Sounds must be 8-bit mono in RIFF wav format and less than 65536 bytes
+      when resampled (if needed) to the standard 6896 Hz of the games
+      (using linear interpolation].
+
+This program does not rival Floedit, but it DOES run on 64-bit machines and
+    is better in some respects, such as in handling sprites and big graphics.
+
+                                                http://vincentius.dk
+                                                mail@vincentius.dk

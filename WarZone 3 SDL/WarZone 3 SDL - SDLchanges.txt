@@ -1,0 +1,29 @@
+WarZone III: Counter Attack by DTrade (wolf3d mod)
+original DOS release: 15 December 2001
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on WarZone III EXE:
+
+Episode screen altered
+
+Improvements in SDL version:
+
+Can't select episodes 2 through 6
+Demos disabled
+Hitler ghost replaced by Hitler on boss level
+Robot boss sprite sequence corrected
+
+
+
+
+
+
+

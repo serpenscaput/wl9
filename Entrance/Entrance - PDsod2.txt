@@ -1,0 +1,56 @@
+5/23/01
+=============================================================================
+Title                   : The Entrance
+Files			: gamemaps.sod maphead.sod PDsod2.txt
+Author                  : Pablo Dictter 
+Email Address           : pablodictter@hotmail.com
+Description             : A single map for SoD. I made this map hard for
+                          newbies and veterans. I used different textures to
+                          give this map a colorfull look.
+                                                                        
+Instalation		: Before unziping this file into you're Spear of
+                          Destiny folder, make a copy of the original
+                          gamemaps.wl6 and maphead.wl6. When you have done
+                          that, just unzip this file into the Spear of Destiny
+                          folder and play the game.
+
+How to Play             : Enter the game like this: WOLF3D.EXE -DEBUGMODE.
+                          When you have done that, choose the skill which you
+                          want to play the map. Then, when you are playing,
+                          press ALT+LSHIFT+BACKSPACE. A message will apear.
+                          Now, press TAB+W and choose the 4th map. You are
+                          ready to play.
+
+=============================================================================
+
+* Play Information *
+
+Game			: Spear Of Destiny
+Level #     		: FLOOR 04
+New Sounds              : No
+New Sprites		: No	
+New Textures		: No
+New Graphics		: No
+
+* Construction *
+
+Base                    : New
+Build Time              : about 18 minutes.
+Editor(s) used          : FloEdit
+Known Bugs              : None
+
+* Map Names *
+
+FLOOR04 - The Entrance
+ 
+=============================================================================
+
+* Copyright / Permissions *
+
+ Authors may not use these levels as a base to build additional
+ levels. 
+
+ You MAY distribute this WAD in any electronic format (BBS, Diskette, 
+ CD, etc) as long as you include this file intact. 
+
+http://pdictter.s5.com

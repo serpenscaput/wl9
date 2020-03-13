@@ -1,0 +1,32 @@
+WolfenDie v1.02
+
+Not your Ordinary Wolfenstien!
+
+Why?
+Play it and find out!
+
+Somethings look familiar, others only seem familiar
+Somethings are easy, others are not
+Somethings are tricky, others are deadly
+
+From the people that brought you   DIE WHERE YOU STAND 
+comes...
+
+WOLFENDIE v1.02
+
+
+How to Run:
+1.  run wolf3d
+2.  select episode 1 *
+3.  select whatever difficulty you feel comfortable dying in
+
+*: episode 2-6 are the "normal" episodes, only episode 1 contains WolfenDie
+
+Hints:
+You are supposed to kill everything and live
+If it seems too easy, you missed something fun
+If it seems too hard, play solitare!
+
+Modifications:
+1.01 : Corrected boss level error
+1.02 : Corrected secret level object errors

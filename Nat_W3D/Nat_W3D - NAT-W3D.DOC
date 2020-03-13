@@ -1,0 +1,46 @@
+To use these levels, just replace the files MAPTEMP.WL1 and MAPHEAD.WL1
+in your Wolf3D directory with the files in this archive, and then run
+Wolf3D.  Be sure to keep a backup copy of the two files that you replaced
+if you ever want to play the old levels again!
+
+If there is no file called MAPTEMP.WL1 in your Wolf3D directory, but
+there is a file called GAMEMAPS.WL1, then you have a later version of
+Wolf3D (1.1 or 1.2).  You'll have to get the old version (1.0) to play
+the levels.  (We may release these in version 1.1/1.2 format later, but
+be warned that some of the interesting "effects" don't work in versions
+after 1.0.)
+
+These levels are quite hard.  You'll have to expect the unexpected in
+order to win them.  For example, if you enter a seemingly empty room,
+don't be surprised if guards suddenly start coming out of the walls
+(literally!)
+
+If you need any hints, we can be reached at these email addresses:
+    Internet: rudiak@garnet.berkeley.edu
+              brudiakg@nyx.cs.du.edu
+    AOL:      BenjaminRG
+Here's one hint: all of the "bosses" except for one of the ones in 
+level 9 can (and should) be avoided.
+
+After you think you've completely explored all of the levels (but not
+before!), look at them with MapEdit.  We guarantee you that you'll find
+lots of hidden areas in places that you never even thought to look.
+
+These par times were chosen (somewhat arbitrarily) by the author:
+
+Level   Par
+-----  -----
+   1    2:00
+   2    2:00
+   3    5:00
+   4    7:00
+   5    5:30
+   6   12:30
+   7    2:00
+   8    4:00
+   9   [N/A]
+  10   [N/A]
+-----  -----
+Total: 40:00
+
+Email us and tell us what you think of the levels, and have fun!

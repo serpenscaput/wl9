@@ -1,0 +1,57 @@
+
+	As explained in OVERKILL.DOC, these are "tourist" maps: they 
+	show the basic floorplan of each level in Castle Schmenge, 
+	but they don't reveal the locations of guards, food, ammo, 
+	first aid kits, or treasure.  They also don't show secret rooms,
+	though by studying the maps closely you can usually spot likely
+	places to check; if you were designing a medieval Teutonic 
+	castle, would you put a secret room behind this wall?  Give it
+	a push and find out.
+
+	Legend:     * = Your starting position
+		  Í º = Door
+	
+	These maps were created using WOLFMAP v1.2, by David Lummis;
+	I customized them by deleting or replacing certain objects and 
+	symbols.  They can be printed on any printer that supports the 
+	IBM graphics character set; they look fine on my HP Deskjet 500.
+	WOLFMAP can be used to create maps that show the location of 
+	every important item in the game; it is available on many BBS's.
+
+	The new levels themselves were created using MAPEDIT (v4.1 by
+	Bill Kirby, v7.0 mod by Dave Huntoon, Bryan Baker, and Matt
+	Gruson).  To create the levels I used Wolfenstein 3-D registered
+	version v1.4; they _will not_ work with any version of the 
+	shareware game, and they _might_ not work with earlier versions
+	of the registered game, though some testing was done with v1.1.
+	The only problem I saw with registered v1.4 was occasional
+	re-sizing of the view window after your character gets killed;
+	if this happens, just press F5 to reset window size to your
+	preference.  No fatal crashes were seen with v1.4; in v1.1,
+	the game would sometimes dump me to DOS with an error message
+	saying "MM_GetPtr: Out of Memory!" after my character was  
+	killed.  I advise only using v1.4 if possible.
+
+	"Operation: Overkill" was created with the hardcore Wolf3D 
+	gamer in mind; it was intended to be played at maximum 
+	difficulty level (I Am Death Incarnate), and virtually all
+	of my playtesting was done at that level.  Although there
+	are many more guards and much less food/health/ammo than
+	in the original Wolf3D, I stayed true to the original in
+	one respect: both of the keys are in normal rooms, though
+	usually heavily guarded.  Theoretically, you can finish
+	"Overkill" without finding any of the secret rooms, though
+	I don't recommend trying.  My advice: be extremely cautious,
+	aim carefully, and if you find a chaingun, use it sparingly:
+	it uses up ammo at a rapid pace, and there's not that much 
+	of it around.  If your health and ammo are maxed out, be 
+	afraid: there's probably something heinous waiting around
+	the next corner.  If you find some food or bullets and can't
+	use them, remember where they are, because you'll probably
+	need to go back for them later.
+
+	Good luck, and happy hunting.
+
+	Randall Penn
+	June, 1994
+

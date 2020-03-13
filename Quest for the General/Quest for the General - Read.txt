@@ -1,0 +1,80 @@
+					           * QUEST FOR THE GENERAL *
+
+					- a Wolfenstein 3D mod by Thomas Weiling (c) 2006
+	
+INFORMATION
+
+Good morning/evening/night or whatever timezone you're in...
+
+This is a mod I did for another breakoff for ATAW, but it seemed to make more success.
+
+Its only inspiration is as Assassinate Hitler has the 20-levels, and then the big 
+project Schabbs 2000.
+
+I decided to make these maps more advanced than my other work... So I did my best 
+work. A little messy, but still something I think is good.
+
+EXE CHANGES:
+
+- 20 Seamless levels, plus 3 secret levels accessed from various levels in the game
+
+
+- Changed ceiling colours
+
+- Changed music orders
+
+- Ammobox from Spear of Destiny added
+
+This work was done by Dean Horton.
+
+STORY
+
+It's 1951, and six years since the Second World War ended. People still remember 
+it, but that chapter is finished.
+
+General Fettgesicht's brother has lived in an underground tunnel since 1944 when 
+the OSA had the information that he gassed 2000 jews for no reason. Also, he had 
+tortured five american soldiers and raped Eva Braun which Hitler never had known.
+
+He is a pure bandit, and has now comed to live up the nazi regime. USA has supported 
+the West of Germany the last six years and the USSR took care of the east (Check 
+map.bmp in the game folder for further info).
+In the middle of all this, Fettgesicht has ressurected nazi facilities again. This 
+must be closed down, defeating the headquarters located ten miles west of Hanover.
+
+
+So you, BJ Blazkowicz are flown to Hanover and taken fifteen miles west to a castle 
+by a brook, which seems to be a hard mission. You're going through this:
+
+LEVEL 1: Entrance. This is the entrance to the castle. A mix of compounded bunkers 
+and prison facilities, which isn't hard to get into.
+
+LEVELS 2-6: South Bunker Unit. Here you will meet the new guy; the SA guard. Hard 
+and very quiet. The levels are mostly plain bunkers, with a prison facility at level 
+4.
+
+LEVELS 7-12: Hideouts. Many, many guards here, and lots of treasure. Very hard, and 
+fairly sized levels.
+
+LEVELS 13-17: SA Headquarters. Fettgesicht had a love for SA's (!), which he hated 
+Hitler for, during the Night of the Long Knives. Fettgesicht started a new secret 
+SA force in 1936, and now it's out in public. They've appeared from the beginning, 
+but this unit is their own. These guys are quiet, and their hq's are very clean and 
+big. Not that there's much in them. Not so much treasure here, but lots of gunfights! 
+Also, level 17 is a border level back to the old castle site where you came from 
+back in level 12.
+
+LEVELS 18-19: North Bunker Unit. Well-guarded bunkers, designed as a shield for Fettgesicht's 
+palace at next level.
+
+LEVEL  20: Fettgesicht's residence. Guarded very well by Officer's and SA's letting 
+the Wehrmacht and SS guards doing the other work. This is a difficult place, but 
+when you've defeated him, you've saved the world again.
+
+LEVELS 21-23: Secret Levels. See if you can find 'em! Lots of treasure and other 
+goodies here.
+
+CREDITS:
+
+ID Software - Wolf 3D
+Dean Horton - Code

@@ -1,0 +1,26 @@
+The Greinholdt Covenant part 3 by John Bucksnort (wolf3d mod)
+original DOS release: 26 March 2001
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on 2nd.zip "On the Trail of Schabbs" EXE by BJ Rowan:
+
+Seamless levels (MCS, Chris Chokan tutorials)
+Music order changed
+Ceiling colors changed
+No secret levels
+
+Further improvements in SDL version:
+
+Allow warping to level 7
+Endgame ratios adjusted for 7 levels
+New par times on former boss and secret levels
+Endgame ratios restored in YOU WIN! screen
+Increased MAXACTORS and MAXSTATS slightly

@@ -1,0 +1,287 @@
+^P
+^C7d WELCOME TO PROJECT WELTUNTERGANG
+^G32,30,88
+^C10 
+
+
+
+
+
+Thanks for downloading ^C23 Project: Weltuntergang. ^C10 It's a Wolfenstein 3D add-on 
+with many new sounds, graphics and source code changes. In this readme file you'll 
+find the story, your orders and many other interesting features. 
+
+^P
+^C7d THE STORY
+
+^G32,16,3
+^C10 The war is ending. After General Fetgeischt's death allies think chemical war 
+is no longer a threat. But soon they get alarming news about soldiers around castle 
+Blutigbeil, where may be localized one of the old nazi chemical plants. Most of the 
+factories is now unused, but this one is special. Spies say about secret chemical 
+weapons transports guarded by nazi soldiers. 
+
+^P
+^C7d THE STORY
+^G90,150,5
+^C10 
+If it's true, the weapons will be surely used against allies, killing millions of 
+people. When first people from villages near the castle died after drinking the water 
+from river, allied commanders decided to send there their best man, who fought with 
+Arzt Schabss, killed Adolf Hitler and destroyed the plans of Giftkrieg - Captain 
+William J. Blazkowicz. 
+
+^P
+^C7d THE STORY
+^G32,16,4
+^C10 You are Captain Blazkowicz. You must get into the castle Blutigbeil and find 
+enemy plans. You will start from the ground level in not used south part of the castle 
+and get to the sewers, which lead to the higher levels of the castle, where you may 
+find some chemical labs and much more guards. At the highest level you'll probably 
+find one of fanatic German generals, Jens Grosse, who is ready to lose his life for 
+this plans. 
+
+^P
+^C7d THE STORY
+
+^C10 We don't say it'll be easy, but we know you'll do it. You did much tougher things 
+in the past. Remember, that your mission may safe humanity. Good luck !!!
+
+^P
+^C7d FEATURES
+
+^C10 What's new in ^C23 Project Weltuntergang? ^C10 I have added new graphics, changed 
+some sounds, made new maps and changes in the source code. It's my first add-on and 
+I'm not very experienced, so it maybe isn't very good, but I hope you'll like it.
+
+
+^P
+^C7d FEATURES
+
+^C10 Here are some of the changes:
+
++ 60 new maps
++ Changed ceiling and floor colors
++ New graphics 
++ New sounds
++ Changed music order
++ New door type
++ New key
++ Landmines
++ Armor
++ Help screens, end art
+
+^P
+^C7d
+^C10+ New enemies
++ Ladders and holes in the floor
++ Two new weapons
++ New ammo type
++ A motorbike
++ Big ammo boxes
++ Pools of poison
++ Stronger bosses
++ New story, of course
++ Much more...
+
+^P
+^C7d ENEMIES
+
+^G32,16,32 
+^C10 As I've already said there're some new enemies in my add-on. They're on the 
+picture. The white guy is a scientist. He shoots well and is not very easy to kill, 
+because he wears a bullet-proof vest. The guy in SS uniform is a Panzerfaust guard. 
+Hard to kill, but not very dangerous if you know how to fight him.
+
+^P
+^C7d ENEMIES
+^C10 There is also a tank, equipped with a chaingun and a flamethrower. When you 
+destroy this one an officer gets out of it. And there is a heavy machine gun guard 
+- dangerous if you don't have chaingun or an X-12 rifle. Of course there are new, 
+tougher bosses, but meet them yourself.
+
+^P
+^C7d ITEMS
+
+^G32,16,33 
+^C10 There are also some new items. The first one is a big ammo box. You have probably 
+seen it in Spear. It gives 25 ammo. Next there are landmines. They do random damage, 
+so be careful with them. There are also pools of toxic poison, which damage you when 
+you stand on them. I've added an armor. It gives 50 points. When you're hit, a random 
+amount of damage is taken by armor and the rest
+
+^P
+^C7d ITEMS
+
+^C10 is taken from your health. Sometimes it might be helpful. The brown key is used 
+to open locked doors. And there are two other interesting things: holes and ladders. 
+When you walk on them they take you to another room. Watch out: there may be some 
+holes without ladders to go back. I've also removed "bonus life" items. Now you can 
+drink blood and water if your health is lower than 20%. And at least I've added a 
+new gun - experimental Nazi rifle called X-12 "Totenmacher" using a special type 
+of ammo. It's a deadly and silent weapon, good
+
+^P
+^C7d ITEMS
+
+^C10for killing lone guards or fighting with small to medium groups of enemies at 
+long ranges. It's also great against the bosses and heavy guards but it's hard to 
+find. When you already have the rifle choose it with the "6" key. "5" is for selecting 
+two chainguns once you have found them. They're twice as deadly as one chaingun, 
+but they also "eat" ammo twice as fast.
+
+^P
+^C7d MOTORBIKE
+
+^C10 Yeah, you'll be riding a motorbike in two levels. You accelerate with the up 
+arrow, use brakes with the down arrow, turn with the left and right arrows. You can 
+also move back slowly, with your legs walking on the ground. With Shift you do everything 
+a little faster. If your're riding fast enough you can ride through a nazi killing 
+him. Watch out! If you're riding too fast and hit a wall or a static object you'll 
+bounce back and lose your health. And when you're riding a motorbike Panzerfaust 
+soldiers and mines are much more deadly.
+
+^P
+^C7d MOTORBIKE
+^C10 
+When you're riding it for the first time, memorize the level. The next time you'll 
+be riding it will be a race with time. Have fun!
+
+^P
+^C7d HOLOWALLS
+^C10 
+Holowalls are walls which you can move through. They appear in the last episode and 
+rare in the previous episodes, so don't be puzzled if a bunch of soldiers appears 
+from nowhere. Holowall is not counted as a secret passage. And some advice: don't 
+ever shoot when in a holowall-you'll alarm the whole level. And remember: don't let 
+the enemy soldiers to be in the both sides of you when you're in a holowall. You 
+won't be able to kill them, but they will quickly kill you!
+
+
+^P
+^C7d KNOWN BUGS
+
+^C10 Here are some bugs I know about:
+
+- Sometimes when you are killed border starts to flash. You just have to exit to 
+the menu and change the view.
+- There may be some language mistakes in the help/endart files
+- Game sometimes exits in high scores after being killed or completing an episode
+
+- Some of the guards sometimes may disappear, because there're too many objects in 
+view
+
+^P
+^C7d KNOWN BUGS
+^C10
+- You may sometimes get into a guard when using a ladder/hole, but it's rather rare
+
+
+- On some of the levels you can't get 100% ratios. It's not really a bug. That's 
+just more realistic - nobody could kill 50 armed guards shooting at him from all 
+sides. You don't have to collect all treasure, kill everyone and find all secrets.Your 
+mission only needs you to proceed to the next level.
+
+^P
+^C7d KNOWN BUGS
+^C10
+- There're no PAR times. Sorry for all quick-players. I'm really too lazy to check 
+how long it takes to complete all those levels. If there's anyone who could help 
+me with it, please e-mail me.
+
+- Dogs sometimes disappear when you're in an elevator and they also try to go in. 
+They bite you, but you can't kill them.
+
+- The demos are stupid. They looked nice when they were recorded, but mixed up after 
+some changes in the source.
+
+^P
+^C7d KNOWN BUGS
+^C10
+I'm trying to fix the bugs. If you know how to do it or if you find any others please 
+e-mail me: ^C93 kukimik@poczta.onet.pl
+
+^P
+^C7d EDITORS
+
+^C10 What did I use to make ^C23 Project Weltuntergang ^C10 ? Here are the editors:
+
+
+Mapedit v.8.4 - maps
+
+Floedit 1.1 - graphics, sounds
+
+Wolfedit 2.1 - graphics
+
+Borland C++ 3.1 - source code compilation
+
+Micrografx Picture Publisher 5.0 and 7.0 - graphics
+
+^P
+^C7d CREDITS
+
+^C22 BETA TESTING:
+^C10Pelas
+Myszaq
+
+^C22 GRAPHICS:
+^C10Macior
+Kuki
+Graphics Set 1&3 
+The wood-wall graphics is from the game: Unlimited Adventures AD&D
+Luke Strauman (machine gun graphics)
+
+^P
+^C7d CREDITS
+
+^C22 SOUNDS:
+^C10 Kuki
+
+^C22 MAPS:
+^C10 Kuki
+Kubus
+Pelas
+Macior
+KB
+
+^P
+^C7d CREDITS
+
+^C22 SOURCE CODE:
+^C10 Kuki
+Tutorials
+
+^C22 SPECIAL THANKS:
+^C10 James Ingham - for helping me with some memory problems
+
+Also thanks to the ID Software for creating Wolfenstein 3d and to all great guys 
+who make Wolfenstein editors.
+
+^P
+^C7d CONTACTING ME
+
+^C10 If you have any suggestions, ideas or something else you can contact me at my 
+e-mail address: ^C93 kukimik@poczta.onet.pl 
+
+^P
+^C7d SILENT ASSAULT
+
+^C10 I'm planning to make another addon, but this one will be something really new. 
+You'll have to be silent, crawl and hide from the nazis, you'll have to hide dead 
+guards, so the other won't notice them and start an alarm, you'll get many new weapons 
+and graphics... but I won't say anymore. Just wait for the demo to appear. 
+
+^P
+^C7d THANKS FOR PLAYING
+
+^G32,20,88
+^C10 
+
+
+
+
+
+Thanks for playing ^C23 Project: Weltuntergang ^C10 Now go to main menu, select new 
+game, choose first episode, select Killing Machine mode and start blasting Nazis!
+
+^E

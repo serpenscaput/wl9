@@ -1,0 +1,323 @@
+^PAGE 1
+^c27INTRODUCTION
+^c00
+  Thanks for downloading this game. It was made by us, Mario Maniac and Mega Luigi. 
+We've been out of Wolfenstein for the past year, with actually no wish to make any 
+other games. But, fortunately, time changes and we have now returned. We decided 
+to make this addon, a sequel to Operation Weltmeisterung, together, because working 
+alone wasn't as good.
+^PAGE 2
+^c27INTRODUCTION
+^c00
+We'd like to thank WSJ for making it possible to get this far in coding changes, 
+as well as contributing with several useful tutorials to give the game a new feeling. 
+We also want to thank him because one of his addons, Project Eisenritter, which was, 
+to both of us, the best game we've ever played. We don't know why, but it is.
+^PAGE 3
+^c27CONTACT US
+^c00
+If you would like to say anything, any criticism, doubt or questions, send an e-mail 
+to ^c85wolfmaniacbros@yahoo.com.br ^c00or ^c85wolfmegaluigi@yahoo.com.br. ^c00Have 
+fun!
+^PAGE 4
+^c27STORY
+^c00
+After you returned home from your last mission, you enjoyed a moment of peace. You've 
+been thinking about all your battles until now, and how things could have been different.
+
+
+Some days later, your commander sent you with a small group of soldiers to the now-abandoned 
+castle from where you found the SOD, with the mission of locating a few missing members 
+of your army.
+^PAGE 5
+^c27STORY
+^c00
+Searching inside the castle, you realized that your friends were no longer alive: 
+they got turned into the fat freaks you have met before. There was no way the Nazis 
+could have acquired the spear once more! No one and nothing could. Without answers, 
+you returned to your HQ to inform your commander.
+^PAGE 6
+^c27STORY
+^c00
+To avoid more trouble with that castle, your army has bombed the entire installation, 
+eliminating any experiments, researchers and weapons.
+A week after that, Allies discovered that Nazi troops found an old temple in the 
+north of Europe. There they have constructed their HQ while you were on your last 
+mission. More trouble for B.J. : A small group of Nazi scientists survived your encounter 
+and have continued the abomination process.
+^PAGE 7
+^c27STORY
+^c00
+Unfortunately, their experiments have let them make their army larger by using some 
+unknown tool of great energy. It somehow allowed the Nazis to control demonic creatures. 
+Even worse, they used one of the teleportation artefacts created by the SOD in order 
+to get access directly to Hell. Now more evil monsters will battle against you.
+^PAGE 8
+^c27STORY
+^c00
+To the Allies, there was no possibility of the Nazis being able to battle once more. 
+It is unknown what kind of creatures are commanding this operation and what this 
+energy tool is. Your mission will be to find your way to the temple by crossing the 
+Nazi installation, eliminate their leader, and find this object. Good luck.
+^PAGE 9
+^c27TREASURES
+^g150,55,30
+^g124,75,31
+^c00
+Here are the types of treasures you can find. Each of them has its own points, own 
+quantity and own difficulty to find. The rarest treasures are found mostly in secret 
+areas.
+^PAGE 10
+^g40,25,32
+^c27DEMONIC TREASURES
+
+
+^c00These are different treasures in the game. They all count as a treasure, but 
+in order to get one of them, you'll have to sacrifice something. Each object has 
+its own consequence and can only be found in the temple area.
+^PAGE 11
+^g40,25,32
+^c27DEMONIC TREASURES
+
+
+^c00Also, there is a secret orb on each level of the game (including secret levels 
+and bosses). If you collect them all, a special prize will be granted to you at the 
+end.
+^PAGE 12
+^g16,20,33
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69GUARD- ^c00The most common enemy and the most pathetic. They walk and shoot slowly 
+and won't be trouble unless more than 4 show up.
+^PAGE 13
+^g16,20,33
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69SS- ^c00They are also very common in many levels and are one of the regular enemies' 
+most effective soldiers. A small group could kill you.
+^PAGE 13
+^g16,20,33
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69MUTANT- ^c00Undead soldiers that live forever. They are quite dangerous opponents 
+and cannot be safely killed by using your knife.
+^PAGE 14
+^g16,20,33
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69OFFICER- ^c00Officers are the soldiers' commanders inside the Nazi complex. They 
+are slightly armored.
+^PAGE 15
+^g16,20,33
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69WAFFEN SS- ^C00SS's elite guards are tougher than ordinary Schutztaffels and 
+shoot with a deadly accuracy.
+^PAGE 16
+^g16,20,33
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69CLONE- ^c00They are deadly as mutants. Before killing one, keep a safe distance, 
+as they will activate their bomb device before dying.
+^PAGE 17
+^g16,20,34
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69VENOM GUARD- ^c00Skilled soldiers and heavily armored. They carry two machine 
+guns, which makes them capable of being as dangerous as a chain gunner.
+^PAGE 17
+^g16,20,34
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69FLAMETHROWER SS- ^c00Another member of the SS. This enemy replaces his machine 
+gun with a flame thrower. Also, he burns.
+^PAGE 17
+^g16,20,34
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69BARRICADE GUARD- ^c00Located in outdoor areas, they have mounted weapons using 
+rifle ammunition to kill you easily.
+^PAGE 17
+^g16,20,34
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69SCIENTIST- ^c00A few scientists escaped from your last assault. When encountered, 
+they will have to be considered targets that must be destroyed.
+^PAGE 18
+^g16,20,34
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69CEILING CHAIN GUN- ^c00Weapons placed in the ceiling to help the Nazis protect 
+their territory. They are not very resistant.
+^PAGE 19
+^g16,20,35
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^c69UNIT MNC88- ^C00The monsters you met before. Their weapons are weird fast-shooting 
+rocket launchers that can kill you with a single series of shots.
+^PAGE 19
+^g16,20,35
+^c27KNOWN ENEMIES
+
+
+
+
+
+
+^C69UNIT PNE00- ^c00Inside their bodies they carry pure energy enabling them to shoot 
+an unlimited quantity of projectiles. Watch out when they die!
+^PAGE 20
+^c27KNOWN ENEMIES
+^c00
+We are sure that there are many other creatures that you must face on your mission, 
+but those are the ones we have information about. Beware of the new abominations.
+
+^PAGE 21
+^g40,25,91
+^c27ARTEFACTS
+
+
+^C39Life Artefact- ^c00This sphere will fully recharge your health, grant you some 
+ammunition and some points also. It's a treasure, and you'll rarely find it out of 
+secret areas.
+^PAGE 22
+^g40,25,91
+^c27ARTEFACTS
+
+
+^c39Teleportation Artefact- ^c00You may use it to travel between the level areas 
+via teleportation. It won't disappear after you touch it.
+^PAGE 23
+^g40,25,91
+^c27ARTEFACTS
+
+
+^c39Invincibility Artefact- ^c00You'll be immune to any kind of attacks and any kind 
+of other possible damage. You'll have 30 seconds until its effects end. The remaining 
+time will be displayed.
+^PAGE 24
+^g40,25,91
+^c27ARTEFACTS
+
+
+^c39Fury Artefact- ^c00With it you'll be able to kill enemies with a single knife 
+stab; very useful along with invincibility. Lasts for 30 seconds, and the remaining 
+time will be displayed.
+^PAGE 25
+^g40,25,91
+^c27ARTEFACTS
+
+
+^c39Regeneration Artefact- ^c00While you keep close to it, your health will be regenerating. 
+It is an endless suply. Keep in mind that your health will stop recharging when your 
+health reaches 50%.
+^PAGE 25
+^g40,25,91
+^c27ARTEFACTS
+
+
+^c39Death Artefact- ^c00Made of concentrated evil essence. Will cause you instant 
+death if touched.
+^PAGE 26
+^c27INTERACTIVE OBJECTS
+^c00
+There are 3 interactive objects: the landmine, the destructible pillar and the explodable 
+drum. Landmines are found in outside areas in the green grass camps. Those pillars 
+can be found everywhere, revealing extra passages or secrets. The explodable drums 
+can kill your enemies as well as kill you. Watch what are you shooting.
+^PAGE 27
+^c28LEVELS
+^c00
+This addon contains 14 regular levels, 4 boss levels and 3 secret ones. It has 3 
+different scenarios: the outside levels, the castle, and the temple. Some of the 
+levels may have special tasks to complete them, without the use of the ordinary elevator 
+switch. Those tasks will be presented before the level starts. In harder difficulties, 
+health items will raise a bit more of health, to keep the game more enjoyable.
+^PAGE 28
+^c28SECRET LEVELS
+^c00
+There is one secret level for each type of scenario. They take as a base the original 
+levels from Wolf3D (with some modifications). They are all timed levels to present 
+an additional challenge.
+^PAGE 29
+^c28MAIN FEATURES
+^c00
+-Several new enemies;
+-Seamless levels;
+-Artefacts;
+-Extra keys;
+-Intermission screens;
+-New weapons;
+-Textured floor;
+-In Game messages;
+-Timer display;
+-Timed levels.
+There are many others, but let's not spoil things. It would ruin the fun.
+^PAGE 30
+^c28CREDITS
+^c00
+We'd like to thank the following people for their contributions: WSJ, Kuki, Adam 
+Biser, Majik Monkee, Brian Lowe, Deathwish, Ripper, Tristan van Putten, ID Software 
+and many others.
+And specially: Andy Nonymous, WolferCooker for their amazing good will.
+^E

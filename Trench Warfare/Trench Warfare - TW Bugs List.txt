@@ -1,0 +1,48 @@
+KNOWN BUGS AS OF 10/29/05
+by thejosh AKA Slyus
+
+=====================
+NOTE ABOUT SAVE GAMES - No extra objects will be saved in a save game. Uniforms, 
+bandoliers, and Adrenaline shots will dissapear from inventory when you load the 
+game. Keys, lives, health, ammo, and missiles however; will save properly.
+=====================
+=====================
+NOTE ABOUT RANDOM CRASHES - After thourough playtesting, I've noticed the game randomly 
+crashes from time to time. Therefor I recommend you save OFTEN. At least save at 
+the start, middle, and end of each level.
+=====================
+
+
+- Sometimes when you pick up a uniform object it immediately disappears from the 
+inventory. If you pick up another it will act normally. (Not fixed)
+
+- When the uniform time runs out the uniform goes away normally, but on the HUD the 
+image is garbled. This was a VSWAP error and does not affect gameplay. (Not fixed)
+
+
+- Between levels, bandolier, tablets, and adrenaline will dissappear from the hud. 
+They will still be usable, and in the inventory, however. Uniform disguises do NOT 
+carry over between levels. This does not affect gameplay. (Not fixed)
+
+
+
+
+
+==========
+NOT BUGS:
+==========
+
+- On level 11 you are supposed to be stuck behind the sandbags holding off numerous 
+enemies. After about 4-5 minutes an enemy will open the gold locked door on the left 
+and you'll be free to leave. YES the level is possible, I've beaten it several times 
+on all difficulties.
+
+- While driving, you CANNOT pick up weapons. Fortunately, you can't be hurt by barbed 
+wire in the car either.
+
+- In some secret areas, there are pushwall puzzles, that if done incorrectly, can 
+block off any entrance to the rest of the secret area. There are no pushwalls that 
+can stop you from finishing a level.
+
+- If your health is below 40, it slowly goes down lower automatically to simulate 
+bleeding to death. To stop the bleeding, raise your health above 45.

@@ -1,0 +1,27 @@
+"Operation: Kill BJ! - SDL Edition v1.11"
+
+Hello again, DHWs.  This is Tricob, known in the YouTube world as Tricob1974.
+
+Say hello to "Operation: Kill BJ! - The SDL Edition".  This is a Windows-compatible 
+version of "Operation: Kill BJ!".  It uses the source code of "Tricob's Base Of Operations" 
+as a base.
+
+This mod has 60 levels in all.  Most of these maps are hacks of the maps from "Operation: 
+Kill BJ!" and the Wolf3D Community Map Pack.
+
+Of the "Operation: Kill BJ!" maps, I took all the parts that were "too hard" and 
+either replaced them, or made them easier to beat.  Maps for E1L1, E6L7, and E6L8 
+are completely new.  Lastly, over half of E5L10 is redone.
+
+Feel free to use this game's files as a base to make your own mods, but please give 
+credit where credit's due.
+
+Thank you for reading this, and enjoy the mod.
+
+v1.11:  Numerous bugs - including the "Ready" animation bug - are now fixed.  Saved 
+games should not be affected.
+
+- Tricob.
+
+P.S.  Useless trivia:  This project was called "Kill BJ Revamped" in WIP versions.
+

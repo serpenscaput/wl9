@@ -1,0 +1,65 @@
+   
+O   P   E   R   A   T   I   O   N              L   O   N   E              E   A  
+ G   L   E
+
+
+
+SEPTEMBER 6th, 2007
+
+
+
+My greetings and salutations to Wolfenstein 3-D/Spear of Destiny fans everywhere!
+
+
+
+“Operation Lone Eagle” is my thid Wolf3D project and the longest one I’ve created 
+thus far. Some may remember that I completed both “Infiltration” and “Behind Enemy 
+Lines” in 2002 (although the second one was not released until sometime in July 2007. 
+If you enjoy playing this project, then I recommend you try them. Both can be found 
+at The Wolfenstein 3-D Dome (www.wolfenstein3d.co.uk).
+
+I couldn’t think of a backstory to this project so I just left that part alone and 
+focused solely on the creation aspects. I was never familiar with C++ and coding 
+of the source code (or had time for it anyway), so I made some unique environments 
+using various neat optical illusions.
+
+
+LEVELS:
+
+
+1.	ROAD TO CAEN
+2.	THE MANOR
+3.	CATACOMBS
+4.	FACILITY
+5.	EQUALIBRIUM
+6.	PORTRAIT OF DEATH
+7.	HEDGEROWS
+8.	TOWN STROLL 
+9.	NEW WARDEN
+10.	PSYCHO WARD
+
+TIP: Save often!
+
+
+CREDITS:
+
+I would also like to extend my sincere thanks to Majik Monkee (winwolf@fastmail.us) 
+ for creating the enemy and weapon sprites which I’ve used in this project. Without 
+Monkee’s Image World (www.mmimageworld.dugtrio17.com), many of the community’s excellent 
+sprites and other custom graphics would go unused and unnoticed!
+
+TOOLS USED:
+
+-ChaosEdit V1.25 preRelease
+-Paint Shop Pro 7.04
+-Sound Recorder
+-IMF Tools
+
+
+Project start date: July 2007
+Project completion: September 4th, 2007 
+
+
+
+
+

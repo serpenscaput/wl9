@@ -1,0 +1,44 @@
+37 1/2 Encounter
+by AstroCreep
+
+This is a map set for ECWolf/LZWolf, based on my earlier released resource
+pack EC_MacWolf (Look how easy it is to build mods with this - it took a few hours 
+of making new
+sprites and I was ready to make maps)  This is inspired by the MacWolf scenarios 
+released
+from the years of 1996-1999, especially the works of Laz Rojas, Clubey and YYR.  
+As such this
+is mainly built from stock MacWolf resources and a few select extras from Laz and 
+Clubey's archives,
+and while this uses minimal mapping features such as ROTT elevators and switches, 
+it still retains that
+old MacWolf feel.
+
+STORY:
+
+For the 37 1/2 time, BJ has been called in to investigate yet another fantastic and 
+weird Nazi
+experiment.  This time, rumors are that they are combining cat DNA with POWs to make 
+weird 
+psychotic cat creatures.  This sounds pretty far fetched, but after the zombie thing, 
+who knows?
+
+
+CREDITS:
+EC_MacWolf by AstroCreep
+New Maps by AstroCreep
+sprites from:
+Sprite Fix Project by PSTrooper
+Walls and sounds from Mac version of Wolf3D
+extra sounds by Clubey and iD Software (Doom)
+New sprites originally by iD Software, Laz Rojas, and Clubey, modified by AstroCreep
+
+Easter Egg sprites by AstroCreep, adapted from material by OMJ and that1guyfromtheforum
+
+all other resources by AstroCreep
+Mac Style Status Bar by DenisBelmondo
+Inspired by late 90's MacWolf scenarios
+
+
+
+

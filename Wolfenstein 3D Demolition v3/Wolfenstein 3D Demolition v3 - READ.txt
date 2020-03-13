@@ -1,0 +1,111 @@
+WOLF3D DEMOLITION v3
+
+CHANGES:
+Many new weapons
+Rockets and explosions gib enemies
+flames burn!  the flamethrower also drops flame actors that burn both you
+and enemies, you can do neat things like make a wall of flames protecting
+you
+Damagetype deaths!
+Randomized enemies: this includes the Rocket Guard,
+the Flame SS, 4 mutant variations and 5 officer variations!
+Kamikaze dogs! Come in explosive and gas
+Scenery reacts differently to whichever weapon you are using!
+Mutants and FlameSS are immune to gas
+Blood splatters! (from Extreme Wolfenstein)
+Multi game support!  Play this mod with Wolf3D, SOD, Super 3D Noah's ark and the 
+Mac version of Wolf3D!
+
+INSTRUCTIONS:
+
+PC Wolf / SOD: Load lzwolf from commandline with C:/blah/lzwolf.exe -file Wolf3D_Demolition.pk3,
+
+or drag and drop the file onto the EXE.  Choose the Wolfenstein 3D or Spear of Destiny 
+
+IWAD selection.  If you are playing with other mods, be sure to load the
+Demolition pk3 last, to avoid as much graphical interference as possible.
+
+Noah's Ark: Load lzwolf from commandline with C:/blah/lzwolf.exe -file Wolf3D_Demolition.pk3,
+
+or drag and drop the file onto the EXE.  It is highly recommended that you also
+load noah3d.wad (included with bought copies of S3DNA) which has OGG renditions
+of the game music.  The midi music is known to crash LZWolf.  If and when
+Noah mapsets are released, be sure to load the Demolition pk3 last to avoid
+as much graphical interference as possible.
+
+MacWolf: Load lzwolf from commandline with C:/blah/ecwolf.exe -file Mac_Shim.pk3 
+Wolf3D_Demolition.pk3,
+or drag and drop the file onto the EXE.  If running with 1st encounter, you must 
+use
+Mac_Shim_Demo.pk3 instead of Mac_Shim.pk3, to avoid palette errors.  This shim
+is required until MacWolf support in LZWolf is completed.  If playing with a
+MacWolf scenario, be sure to load the Demolition pk3 last to avoid as much
+graphical interference as possible.  Note that all Mac scenarios must be in
+a MacBinary (easiest way is through terminal on a modern Mac computer, type
+"macbinary encode" and then drag and drop file to terminal window) and also
+ECWolf only has support for 3rd encounter scenario files, so 1st and 2nd
+encounter scenarios (WolfEdit format) must be converted to a 3rd Encounter
+scenario with WolfEdit before it can be loaded with LZWolf.  The Demo shim included
+
+will also allow 2nd/3rd encounter mods to function correctly with the 1st encounter
+
+game files, so no need to search pirating websites for obscure files!  This specific
+
+shim file supplies the missing sounds and walls (no sprites since this mod makes 
+those
+unnecessary)
+
+
+CREDITS:
+Kamikaze Dog - Untrustable
+Effects - Rise of the Triad
+Gas Grenade Launcher - samvision
+Rocket Launcher / FlameThrower - ROTT Specs, SNES wolf
+Gas Deaths - SNES Wolf
+Blitzguard - Majik Monkee
+Flame SS - unknown (found in Wolfers for Wolfers pack)
+Chaingunner Mutant, MP40 officer - Zio McCall
+Chaingunner Officer - Laz Rojas
+XDeaths - Laz Rojas, AstroCreep
+Super Mutant - Majik Monkee
+Melee Mutant - Laz Rojas
+Breakable Shit - Sigma64, Zio McCall, AstroCreep
+Sounds - Rise of the Triad, Doom
+Elite SS - Wolfers for Wolfers pack
+FireProof Officer - ROTT Original Specs / Thandor
+Rifle - Turbo, modified by AstroCreep
+Shrink-Ray - Laz Rojas, Doom (sprites) , Duke Nukem 3D (sounds)
+Replacement Original Weapon Sprites and Dual Pistols - SOD Lost Episodes, ROTT Original 
+Specs, modified by AstroCreep
+Additional Scripting - Dunkelschwamm, LinuxWolf
+ECWolf by Blzut3
+LZWolf by LinuxWolf
+Demo-Mod by AstroCreep
+
+UPDATE 5/14/19 - fixed Pots and Pans actor, made column blocking again, made bosses 
+stronger and resistant to damagetypes
+
+
+VERSION 2 UPDATE 
+
+	*added Flamewall (projectile scripting by Dunkelschwamm)
+	*added Rifle (scripting by Executor, modified by LinuxWolf)
+	*added Heavy Chaingun (scripting by Executor)
+	*added Shrink Ray (scripting by AstroCreep)
+	*Gretel now shoots flames from left to right (scripting by LinuxWolf)
+	*Bosses more resistant to fire
+	*Removed breakable columns due to being bulletsuckers
+	*added Elite SS, FireProof Officer and Rifleman Guard
+	*More Breakable Shit!
+	
+VERSION 3 UPDATE
+
+	*added Chainsaw, Shotgun and Plasma Rifle
+	*Even More Breakable Shit! (TM)
+	*Randomized bosses!  Bosses now wield different weapons
+	*MacWolf support!  Supports both registered and demo, along with 3rd encounter compatible 
+scenarios.  1st and 2nd encounter scenarios can be converted with WolfEdit.
+	*Noah support!  Blast those misbehaving animals to smithereens!  Supports base mod 
+and all future map-only sets.
+	*Graphics converted to truecolor PNG for max compatibility
+	*The Fearsome Astro Knight!

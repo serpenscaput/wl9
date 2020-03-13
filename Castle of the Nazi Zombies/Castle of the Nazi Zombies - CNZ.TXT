@@ -1,0 +1,37 @@
+Castle of the Nazi Zombies! is a stand alone total conversion of
+Wolfenstien 3D. That right, stand alone.  That means you do not
+need have the original Wolf3D game to run it. (Although if you
+haven't played the original Wolf3D, we highly recommend it.)
+
+CNZ! is based on the Wolf3D source code created by ID software
+in 1991.  CNZ! runs DOS native. So, unless your running DOS 5.0
+on a 486, we recommend you get your self a copy of DOSBOX for
+your operating system.  With DOSBOX you can run CNZ! on
+Windows, MAC OS, and even Linux.
+
+Download DOSBOX - www.dosbox.xom
+
+Your mission: Infiltrate the Nazi castle that is overrun with the
+undead of the fascist kind, Destroy the Evil Lab, and Escape
+with your life! CNZ! is 10 exciting levels of Nazi Zombie killing
+fun for the whole family!
+
+Special thanks to the makers of Chaos-edit 
+
+and to M2 for lending me thier JASON graphic.
+
+
+*****************************************
+**                                     **
+**     Download More FREE GAMES at     **
+**				       **
+**        www.legendarypower.com       **
+**                                     **
+*****************************************
+
+Also included in this version is an SDL exe and associated files needed to run the 
+game on Vista and later Windows versions without using DOSBOX.
+
+Please note that 'saved games' made with a Dos exe are not compatible with the SDL 
+exe, and vice versa. Also, delete the Config.wl1 file first if changing from using 
+one exe to the other.

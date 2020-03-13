@@ -1,0 +1,260 @@
+PLAYING WOLFENDOOM
+==================
+
+     Playing "Wolfendoom" should be much the same as playing Wolfenstein,
+after all, "Wolfendoom" IS Wolfenstein, except with new graphics, levels
+and sounds. These changes do make a difference, though, so the following is
+provided for info.
+
+     As with the original Wolfenstein, I highly recommend that you play each
+episode in order, as some of the later episodes contain tougher levels, as
+well as the odd surprise or two! Each episode represents one of the six UAC
+sites referred to in the storyline. The first episode represents your former
+workplace, UAC1. Episode two represents the second UAC site (UAC2) and so
+on, with Episode six of course representing the final UAC site, UAC6.
+
+     Basically, each of the six episodes is divided into two distinctive
+areas: UAC factory, stores and office complexes, and the "Doom Dimension"
+areas. The first level or levels of each episode consist of the UAC areas,
+your aim being to find the "portal" in the Research Department, which will
+take you through to the "Doom Dimension". Once there, you'll have to proceed
+onwards to the final level (level 9) to face the final challenge.
+
+     Of course, you could use a mapeditor and graphics editor to view 
+everything before playing, but, that WOULD ruin the surprise element, and
+take away some of the challenge, wouldn't it? My challenge to you is to
+complete each episode without cheating! It is easier to do than you may
+think! If you do find it hard, play on the easier skill levels.
+
+     KEYS:
+     On most levels, you will be required to find a gold and/or blue access
+key to proceed beyond certain locked doors. All plain doors are unlocked;
+those with the brown UAC symbol on them are LOCKED. Some levels have locked
+doors that CANNOT be opened by yourself, even with both keys in your 
+possession. This is NOT a fault, it is deliberate. They are there for a
+reason, or for appearance only. You are not supposed to go through them. If,
+by chance, an enemy opens one for you, and you go through, be aware you may
+find yourself stuck on the other side. In the few situations this may
+happen, I've put secret pushwalls in so you can "push" your way out. But,
+rest assured, odds are EXTREMELY SLIM that you'll find yourself in such a
+predicament anyway. Most of these doors are there for appearance only, and
+have nothing on the other side at all. The others - well, you'll find out!
+
+     As a general rule, keys required to open doors are NOT hidden (keeping
+in tradition with the original Wolfenstein). Nothing is more annoying than
+gameplay being slowed down to a virtual halt because a key is hidden in some
+ridiculously difficult to find location. There are some exceptions to this
+rule in "Wolfendoom", but not too many. In these few cases, a "spare" key
+may be hidden somewhere, eliminating the need to kill a "boss" to obtain a
+key. Or, a necessary key may be visible to the player, but can only be
+accessed through pushing secret pushwalls somewhere.
+
+     COMPLETING A LEVEL:
+     Somewhere on each level is a computerized panel which will either open
+a door to the next level, or operate an elevator taking you to the next
+level. Yep, same as Wolf, stand in front of the panel, and press the space
+bar to proceed onwards.
+
+     PORTALS: 
+     These are the things you'll have to enter in order to cross into the
+"Doom Dimension". You'll know one when you see one. They have big signs on
+either side warning you not to enter!
+
+     WEAPONS AND FIRST AID:
+     Just as in Wolfenstein, you'll have to search for a lot of the ammo and
+first aid you'll need to survive (unless you're a wimp and use the MLI keys
+or god mode all the time!). In other words, you'll have to search for secret
+pushwalls that may conceal necessary goodies. UAC troopers have hidden heaps
+of ammo and first aid in all the UAC sites and the "Doom Dimensions", so
+that there is always a supply nearby in the event of emergency. Trouble is,
+you don't have their maps showing where they stashed it all.
+
+     Depending on the skill level you're playing, each level should contain 
+ample ammo\first aid to get you through without cheating. Don't worry, it's 
+not all hidden! Personally, I tend to think I've overdone it a bit with the 
+amount of first aid lying around the place. So, there's no excuse for you to
+cheat, is there? If you get killed, I guess you're just not good enough!
+
+     Remember in Wolf how, if a level was going to be a tough one, you'd
+nearly always find a chaingun and accessories hidden not too far from the
+start of the level? Well, the same applies to "Wolfendoom". Each level has
+been designed to allow for the fact that you may be starting off with no
+more than a pistol and eight rounds of ammo. You'll find that most levels
+have a chaingun hidden somewhere - the easier levels may have one hidden in
+a more remote location, though. Use your ammo wisely, and you should be 
+laughing!
+
+     Here's a run down of the "new" first aid and weapons items:
+                                           
+     First Aid:  
+     =========
+                 Blue vial        - These things boosted your health in Doom
+                                    by a meagre 1%, but in "Wolfendoom", 
+                                    they're even better, restoring 4%!
+                 Stimpak          - restores 10% health.
+                 Medikit          - restores 25% health 
+                 Blue Life Sphere - equivalent of 1 up in original Wolf.
+
+     Oh yeah! The good ol' blood drinking you may have done in Wolf still
+applies. Even puddles of water can help in this way in "Wolfendoom", ie: if 
+your health falls below 10%, running over a pool of blood or water will 
+refresh you marginally.
+
+     Weapons:    
+     =======
+     Nope, sorry, no big juicy BFG9000's in "Wolfendoom", or rocket launchers
+for that matter! Though I have seen add ons with a rocket launcher, I've kept the
+
+weapons in "Wolfendoom" much the same as in Wolfenstein.
+
+                 Your fist  - equivalent to the knife in original Wolf. 
+                              Sorry, but restrictions in image size gave a 
+                              smaller image than I'd have liked.
+                 Pistol     - same as in Wolf. Looks a little big, but I 
+                              wanted to retain graphical detail where 
+                              possible.
+                 PCU        - "What the hell is this?" I hear you ask! Well,
+                              what could I change the machine gun from Wolf
+                              into? Shotguns aren't rapid fire, chainsaws 
+                              aren't long range, plasma rifles fire streams
+                              of visible blue plasma into the distance, etc
+                              etc. None seemed suitable replacements for the
+                              ol' machine gun from Wolfenstein. So, forgive
+                              me, I adlibbed! Don't fret, I've tried to give
+                              it a "Doomish" look! PCU is short for "Plasma
+                              Conversion Unit" - my explanation for this is
+                              that UAC were developing a very crude plasma
+                              rifle to combat the creatures from the "Doom 
+                              Dimension". This weapon takes standard type
+                              ammunition, but converts each shot fired into 
+                              a quick burst of plasma energy! Primitive 
+                              compared to the plasma rifle in Doom, but, 
+                              then, this is supposed to be a prototype, OK?!
+                              As such, I made it look completely different
+                              to any other weapon you've encountered. 
+                              (Making it look like a plasma rifle would only 
+                              cause disappointment, as, when using it, you 
+                              wouldn't see any streams of blue plasma 
+                              shooting off into the distance).
+                              If you don't like it, stiff!
+                 Chaingun   - Same type of thing as original Wolf.
+
+     TREASURES:
+     Well, there was no treasure to collect in Doom, only artefacts.
+And, no artefacts to collect in Wolfenstein, only treasures. So, some of the 
+artefacts from Doom have been made into the treasures of "Wolfendoom"! If 
+you've read the complete storyline through (story.txt file, not the "shortened"
+storyline you see in the "Read This" option from the in-game menu), you'd know
+the bit about those mysterious skulls appearing around the place. Of course,
+these skulls act as keys in Doom, but, in "Wolfendoom", these skulls are
+valuable Doom collectables! And, those helmets that gave you a small armour
+boost are now only capable of giving you a small point score boost.
+
+     Treasures are as follows:
+                    Helmet     - 100 points
+                    Blue skull - 500 points
+                    Red skull  - 1000 points
+                    Gold skull - 5000 points
+
+     SECRET AREAS:
+     Just as in Wolfenstein, you will have to search for "pushwalls" that
+lead to secret areas. If you find yourself running low on health or ammo,
+these areas may be your final hope. Sometimes you won't need to search for
+them at all, unless you are curious, or wish to find some goodies (and maybe
+a few "baddies" as well...). Most levels have quite a few secret areas;
+please note that as such you may find it difficult to obtain a 100% secret
+ratio at the end of each level.
+
+     ENEMIES:
+     Of course, you can't expect to find all the enemies you'd find in Doom
+or Doom II. And those that you do find will behave somewhat differently to
+how they did in Doom. This IS Wolfenstein, after all! Some enemies, in fact,
+wouldn't even be found in Doom at all, but, I put them in to give an element
+of surprise. (Besides, it helps make "Wolfendoom" a little more like a new
+game rather than just an all out attempt to try and copy Doom using an
+inferior product). Don't worry, I've tried to give any new enemies a "Doom"
+flavour!
+
+     Here's a run down as to what you may or may not expect to find in
+"Wolfendoom":
+
+     UAC Troopers        - Remember what your human opponents look like when
+                           you play multiplayer Doom over a network or via a
+                           modem? Well, in "Wolfendoom", these guys are the
+                           UAC troopers. You'll find them guarding all the
+                           UAC sites. Be warned, they won't yell a warning!
+                           All you'll hear before they attack is the cocking
+                           of their rifles! By the way, the rifles they
+                           carry are no ordinary rifles. The UAC research
+                           team were working on a new weapon to combat the
+                           creatures from the Doom dimension. You'll know
+                           the difference when you hear them shoot at you!
+     Former humans       - Nope, they looked too shitty when reduced down to
+                           the size required for Wolfenstein.
+     Imps                - Plenty of 'em!
+     Lost Souls          - There's a few of these "flying" around.
+     Cacodemons          - Wouldn't be "Doomish" without them!
+     Demon Sergeants     - Sorry, I left these guys out in favour of their
+                           cousins, the spectres (below).
+     Spectres            - Those half invisible demon sergeants. Quite a few
+                           of these here and there.
+     Mancubus            - Those fat boys from Doom II. They might not shoot
+                           fireballs in "Wolfendoom", but they still pack a
+                           mean punch!
+     Heavy Weapon Dude   - Those chaingun wielding mongrels from Doom II. I
+                           remember putting a few of these around.
+     Baron of Hell       - You'll find him in "The Baron's Realm"...
+     Archvile            - C'mon, how could I put one of these in? Even if I
+                           did, it wouldn't bring things back to life. And
+                           what would I have it do? Shoot fireballs?
+     Pain Elemental      - As for the Archvile. What would I have it do?
+                           Shoot fireballs instead of Lost Souls?
+     Revenant            - Sorry, I left these out. Didn't look too crash
+                           hot when reduced down to the required size.
+     Cyberdemon          - Sorry, but reducing this down to the size
+                           required for Wolfenstein resulted in too much
+                           loss of graphic detail. I felt it was better to
+                           have no cyberdemon at all instead of having a
+                           shitty looking one.
+     Spider Demon        - Same as for the cyberdemon.
+     Arachnotron         - Hmmm, you won't find one of these. Well, at least
+                           not in the normal sense, anyway...
+     Surprise nasty      - You'll know what I mean when something unusual
+                           starts attacking you! This'll stop you from being
+                           too cocky in the future!!! But don't worry too
+                           much - these things are really just full of shit!
+                           (You'll know what I mean when you kill one!)
+     Invincible nasties  - Remember those pacman ghosts from the Episode 3
+                           secret level in Wolfenstein? Well, I won't say
+                           what they are now! With the exception of UAC6,
+                           you'll probably only find these things in a few
+                           of the secret levels, as they cannot be killed,
+                           and prevent the player from achieving a 100% kill
+                           ratio at the end of a normal level. Expect these
+                           things, where ever they are now, to come out of
+                           nowhere!
+
+     SKILL LEVELS:
+     Like the original Wolfenstein, "Wolfendoom" should be reasonably easy
+for those playing on skill levels "Grandma" and "Timid". "Confident" is the
+normal standard difficulty level, but I've made "I'm Soooo Good" a pretty
+tough challenge for those who like a bit of mayhem. Not that all you Doomheads
+will find it difficult! (Typical doomhead: "C'mon, that was EEEEZZIIEE!!")
+     
+     My challenge to you is; play through each episode without cheating!
+I've done it on "Im Soooo Good", but then, I know the layout of each
+level, don't I? 
+
+     SOUNDS: (This applies to soundblaster users)
+     Most enemies make similar sounds to what they would in Doom. But, due
+to some restrictions I had in changing some of the sounds, a few creatures
+may sound different. Some sounds (such as the sound of the enemy shooting at
+you) are intentional, mainly because I liked the effect it had. Anyway, just 
+remember, when you hear a particular growl, it might not be what you expect
+it to be!
+
+     Thanks id for such a classic game :)
+     AReyeP
+     (Steve Walley, Melbourne, Australia)
+     Email: areyep@iaa.com.au
+

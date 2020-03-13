@@ -1,0 +1,183 @@
+Spifferanous Heffner's Western Wall I - VERSION 1.0
+
+Game type:  Free-Standing
+Episode, Level #: One large episode, 29 levels and a secret level
+Single player:  Yes
+Difficulty settings:  1-4.
+New Sounds:  Yes
+New Graphics:  Yes
+New Music:  Yes (Sort of)
+
+*Construction*
+--------------
+
+Base:  29 levels split up into various "units" with thier own theme and 
+	goal. This is explained further in. The Manual.
+Editor(s) used: 
+	Graphics	-	Wolfedit, Paint Shop Pro 4, Wintex, FloEdit
+	Levels		-	WolfMap (Yeah, the really old one), Mapedit
+	Sound		-	Wolfaud, Wolfsnd, Goldwave, Wintex
+	Code		-	Borland C++ Turbo Compiler (v 3.0)
+Build time:  About a year and a half. Coding took a long time, my VSWAP 
+		crashed 3 times, maps had errors, and hard drive crashes
+		drug this project out but it's worth it.
+Known bugs:  Dissappearing objects error in places near trucks. This is
+		a necessity since the truck can only be viewed from 3 
+		angles at once. Trees and shrubs are grouped heavily to
+		obscure the side that cannot be viewed. 
+	     If you pick up a chaingun before any of the shell weapons
+             	and you run out of bullets, picking up a shell weapon will
+	     	not do anything. You will be stuck with the knife. I'm working
+	     	on fixing this.
+	     If your health is at 97% or something like that and you pick up 
+		a medkit, your health will shoot up to 115%. This is a minor 
+		inconvenience on my part.
+Code: Gerald Heffner
+	Nate Smith 
+	James Stopford
+Level designers:  Gerald Heffner
+Sound: Gerald Heffner
+	Nate Smith
+Graphics: Gerald Hefnner
+	   James Stopford
+Installation: James Stopford
+
+*Installation*
+--------------
+
+Unless somehow, the file was corrupted, this is what you
+should have in your folder.
+
+Game Files
+----------
+Wolf3d.exe
+Vgagraph.ww1
+Vgahead.ww1
+Vgadict.ww1
+Audiohead.ww1
+Audiot.ww1
+Gamemaps.ww1
+Maphead.ww1
+Vswap.ww1
+Config.ww1
+
+Documentation
+-------------
+Manual.html			- 	The Western Wall I manual explains all the
+					aspects of the game. Quite funny too.
+Western Wall Timeline.txt	-	A chronological listing of breakthroughs
+				 	in all the versions of WW1.
+Fun Things to Do.txt		-	Fun things to do before, while you are
+					and after playing the game!
+west_wall.txt			-	This file
+
+
+Just unzip these files to a new directory and type "Wolf3d" at the DOS 
+prompt.
+
+
+*Special Features*
+------------------
+
+Western Wall I has a host of new innovations. Some of the coolest ones are
+listed below:
+
+	-5 weapons (knife, pistol, shotgun, supershotgun, chaingun)
+	-New Menu (New colors and the new Hugh's Jukebox)
+	-Seamless level progression (30 continuous levels)
+	-4 Keys to find (gold, silver, iron, elevator)
+	-2 Ammo types (Shells and bullets)
+	-Ammo that can reach 200 (Both bullets and shells)
+	-Syringes that hurt or help you (Green fluid helps, red hurts)
+	-Lighting Effect (Walking under a light flashes your screen)
+	-"Animation"  (Ghosts used to fake animated lights, prisoners etc)
+	-Code Effect (codes flash the screen)
+	-New floor/celing colors (Just what it says)
+	-New VGAGRAPH images (including a new status bar)
+	-Unlimited Lives (A bug in the code gives you unlimited lives!)
+	-New "Eisen" Mutant (Really powerful mutants)
+	-Non-Shareware notice restored (Modified for this game)
+	-HUGH'S JUKEBOX *
+	-Health that can reach 115 **
+	-"Sitting" Guard ***
+	-The Scientist (TM) ****
+	-New Door Textures *****
+	-The TRUCK ******
+
+* Hugh's Jukebox - Yeah I know, it's Rob's but it's mine for this game. 
+One night while I was drinking Pepsi I figured I'd add the jukebox to the
+main menu. So I did. There's 3 lists of songs, ones that I picked, that
+range from songs in the game like "Ulitmate Challenge" to stuff like "Hitler
+Waltz." Who's Hugh? Hugh's me. You know, Heffner? Hugh Heffner? Owner of
+Playboy. Ah forget it.
+
+** Ok here's the deal: Syringes boost your health up past 100 to 115, BUT if
+your health is at 98 and you pick up a first aid kit, it will be skyrocketed
+up to 115. I'll figure it out one day.
+
+*** "Sitting" Guard - This is a pretty cool feature. Hamez and I were 
+conferring, conference-ing one day when he was trying to make the guards
+drop something when they go into Attack Mode. He figured it out at the same
+time I did but his compiler crashed and I did it first. So now all the guards
+are sitting when you first see them, when they see you they stand up and 
+leave their chairs behind.
+
+**** The Scientist - What's the deal with this guy? You meet him on the 3rd
+level. ON LEVEL 3 HE MUST BE KILLED!!!!!! SCIENTISTS ON LEVEL 3 DROP THE
+IRON KEY!!!! THIS GOES ONLY FOR LEVEL 3!!!!! Any other time you see him you
+can kill him but your score gets reduced 200 points every time. He won't notice 
+
+you unless you get in his way. All he does is yell at you. These guys will become 
+
+more plentiful in the Lab Unit of the game. They also drop syringes.
+
+***** New Door Textures - No, I just didn't change the picture. I know some 
+of you will ask that. Anyway, I figured it would be easy to do so I fiddled 
+around in WL_DRAW and figured it out. 
+
+THEN I READ PROJECT TOTENGRABER'S README AND FOUND OUT HE EXPLAINS IT IN 
+THERE AND IT WOULD HAVE SAVED ME A MINUTE'S WORK!!!!! 
+
+****** The TRUCK - Yes boys and girls, hailed by Nate and Hamez alike, the
+TRUCK is a pretty damn cool collection of wall patterns. This mother is
+unique to my game so if I see it in one of your addons, you will be hacked,
+cracked, and your hard drive will be fired into the stratosphere.
+
+Anyway, that's about all I can say for this chapter. Now on to bigger things.
+
+*Cheating*
+----------
+
+You wimp. Ok, here's all the cheats in my game:
+
+IDKFA - Hold all these keys down at once to get keys, guns, ammo, and health.
+MLS - Same as above but with godmode!
+BAT - Displays a funny message
+
+Debugging keys work the same way and have the same ALT, SHIFT, BACKSPACE uh,
+initiator I guess you could call it. I forget the correct term. Here are
+the cheats:
+
+TAB+D - Test debug key. Just to see if I could make the new cheats do what
+	I want.
+TAB+G - Godmode
+TAB+H - Hurt Yourself
+TAB+I - Guns, points, ammo, health
+TAB+K - All keys cheat
+TAB+N - No clipping mode
+TAB+P - Pause
+TAB+T - View the pics and sounds
+TAB+W - Level warp
+
+*Credits, Disclaimers, and Such*
+--------------------------------
+
+DON'T USE THIS GAME AS A BASE FOR YOUR OWN!!!! I WORKED TOO DAMN HARD ON THIS
+AND SUFFERED THROUGH VARIOUS VSWAP CRASHES!!!! AND IF I EVER SEE MY TRUCK IN
+YOUR ADDON, I DON'T CARE HOW I DO IT, I'LL FIND YOU AND FORCE YOUR MONITOR
+UP YOUR NOSE AND PLAY DIABLO WHILE LOOKING IN YOUR EAR!!!!
+
+Wolfenstein is a registered trademark of Id Software. All the editors listed
+abnve are copyright nf their respective owners. Copyright violations are the
+blah blah bla nf the legal blahs and their blah blah blah jobs. So don't
+do it!

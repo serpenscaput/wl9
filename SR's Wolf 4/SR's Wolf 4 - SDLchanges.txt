@@ -1,0 +1,44 @@
+SR's Wolf 4 by Harry Mass Senior (wolf3d mod)
+original DOS release: 7 June 2000
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on SR's Wolf 4 EXE:
+
+New episode title
+High scores names changed
+Maximum ammo is 200
+Don't clip status bar
+Full ammo boxes contain 25 bullets 
+Hitler, Schabbs behavior changed
+Ceiling colors changed
+Floors match ceilings
+Music order changed
+Secret elevator floor changed
+
+Further improvements in SDL version:
+
+Demos disabled
+Don't pick up ammo clips when you have 200
+MLI cheat ammo count corrected
+Ammo display in HUD centered
+Don't allow selection of episodes 2 to 6
+Out of sync BJ faces on HUD corrected
+show scores over 1 million on status bar (Chris Chokan)
+Minor VGA and VSWAP touch ups
+4th key now appears in extra key slot
+Weapon on status bar moved to make room for extra key slots
+
+Minor map fixes in levels 3,4,8
+
+
+
+
+
+

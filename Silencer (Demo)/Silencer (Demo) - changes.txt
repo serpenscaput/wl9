@@ -1,0 +1,17 @@
+Thanks for downloading version 2 of this demo. The first demo, I felt, was very incomplete 
+and almost featureless from a coding standpoint. This new version contains:
+
+*Gun Bobbing
+*Replaced Music
+*Ceiling and Floor Textures
+*Level fixes and changes
+*Other minor things
+
+One thing about this demo: The floor and ceiling textures take up a lot of memory, 
+and you should make sure to feed enough memory to your emulator before you try to 
+play the game.
+
+Thanks again for playing Silencer, and I hope you enjoy this demo! Any questions 
+or comments should be sent to skrathbun@earthlink.net
+
+-Redeemer 

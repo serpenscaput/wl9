@@ -1,0 +1,16 @@
+The Nazi's Ride Again: SDL Version
+
+The original 10 level shareware set was made by Spifferaneous (8th and secret levels 
+were made by Schabbs). 
+
+
+Running in DOS hints:
+
+The Dos exe has been included too but if this is used then delete the supplied config.wl1 
+file before playing. 
+
+Also, saved games made with the Dos version are not compatible with those made with 
+SDL.
+
+
+

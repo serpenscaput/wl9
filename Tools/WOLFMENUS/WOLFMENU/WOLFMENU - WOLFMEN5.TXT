@@ -1,0 +1,18 @@
+
+   Adding the standalone addons/TC's consists of three steps:
+
+   1. Enter a title for the addon
+   2. Enter a DOS path for where the addon is located
+   3. Enter the command you would use to launch the addon
+
+   NOTE: if the command is a batch file (.bat extension) you must precede
+the command with call (eg. "call chokage"). Otherwise, you will be dropped 
+at a DOS prompt in the particular add-on's directory when you leave the game.
+
+   Also, the documentation files must be named README.TXT (and README2.TXT
+and README3.TXT for successive files) for the browser to find them. So rename
+those MANUAL.TXT and HINTS.TXT files if you want to see them via WolfMenu.
+
+   BTW, you needn't limit yourself to Wolfenstein add-ons or even games. You
+can run any DOS application from this part of WolfMenu.
+

@@ -1,0 +1,284 @@
+^P
+^C7d WELCOME TO THE FINAL SOLUTION!
+^G30,15,5
+
+^C85 A journey to the outher parts of sanity...
+
+^C00 Thanks for downloading The Final Solution, the result of 1,5 years of hard work. 
+Graphics, sounds and coding took a long time. But, I believe, the result may be noted. 
+The game looks quite realistic, as far as Wolf 3-D's engine allows, either. The following 
+pages give you the info you need.
+
+^P
+^C7d THE STORY
+
+^G32,16,3
+^C00 Germany, Autumn 1942. As the German Army continues it's advance deep into Soviet 
+territories and the Ukraine, German U-boats have started the blockade of Britain. 
+Lots of convoys are intercepted by Germans and are taken over or destroyed. Britain 
+seems to get starved out. The Allied High Command has no retort; more and more British 
+freighters get destroyed by German U-boats.
+
+^P
+^C7d THE STORY
+
+^C00 The Gestapo (Geheime Staats-Polizei, Secret Police of State) is now patrolling 
+German occupied countries with even more effective escorts, inflicting heavy losses 
+on the Allies. Nevertheless, the Allied High Command orders more and more soldiers, 
+with even lower ages, into battle from their ports in various countries.
+
+^C2b The battle for control of the war is turning against the Allies.
+
+^P
+^C7d THE STORY
+
+^C00 Many Allied operations have failed due to many German spies in the Allied Command 
+and Allied Army. It seems that the Germans have infiltrated MI6. The Germans know 
+every move the Allies make. However, the Allies have received word of a secret operation 
+going on in a mountainious region in the mountains of Austria. This region is chosen 
+strategically because of the weather conditions in those mountains. It always snows 
+and the dawn comes at 1:00 PM. This means that nobody can see that there's anybody 
+here.
+
+^P
+^C7d THE STORY
+
+^C00 In the direct neighbourhood of an abandoned German airfield, Germans have made 
+a network of various bunkers and castles located in the mountains so that there will 
+be a pretty fast transport-possibility between the bunkers and castles. The main 
+installation of the network is a fortress called Festung Adler. This castle, originally 
+home of many Austrian monarchs, was restorated by the Third Reich's official architect 
+(Albert Speer) and converted to fortress.
+
+^P
+^C7d THE STORY
+^G32,192,4
+
+^C00 It's nickname is "The Eagle's Nest". It's well named, because you have to be 
+an eagle to reach it. It lies at 3000 meters above sea-level. There's no connection 
+with the valley below it, making it the perfect location for secret operations as 
+it is impregnable. Those who tried to get atop didn't return. The Allies are uncertain 
+if this was accomplished by the freezing temperature or any Nazi patrols...
+
+^P
+^C7d THE STORY
+
+^C00 The rumored operation currently running is called Endlosung(literally, Cleaning 
+Mission), led by the Gestapo's main leader, Werner Gelassen, and the Fuhrer himself. 
+This mission is going to be the biggest one yet. All Nazi weapons will be used for 
+this mission, including a brand-new technique manufactured by a mysterious scientist 
+by the name of Jurgen Schabbs. This man, who is not a Nazi but a scientist who gets 
+orders of Hitler, has found a way to make dead soldiers live again.
+
+^P
+^C7d THE STORY
+
+^C00 This option means that, if it would be used, the Third Reich will be unstoppable 
+and unbeatable. However, the soldiers who are revived do have one little bug in their 
+mechanical brain: they only obey Schabbs. The experiments of Schabbs are held inside 
+the walls of Festung Adler. No one can possibly enter it because of the Gestapo controlling 
+each nook and cranny of the neighbourhood areas and the SS stationed at every entrance 
+possible. However, there's one abandoned castle in the neighbourhood of the network. 
+
+
+^P
+^C7d THE STORY
+
+^C00 This castle called Hasselhoff, was used at the beginning of the network-laying, 
+but wasn't that strategical because of the many endless corridors leading to nowhere. 
+In the basement of that castle is a small weapon-storage area with only Hitlerjugend-soldiers 
+on duty. The entrance to this castle is quite hard to find, but crude maps drawn 
+by spies will give you the location of it.  Realising that this is the perfect way 
+to get inside the Endlosung-network, Allied High Command orders you to get in.
+
+^P
+^C7d NEW ITEMS
+
+^C2b The Rusty Key ^C00is usually used to unlock important areas.
+
+^C2b The Elevator Key ^C00is a keycard used to unlock some elevator doors. They have 
+their own door, don't worry.
+
+^C2b Codeine Syringes ^C00provide you with 10% extra health when you are hurt. These 
+helpful medicaments can be found in the creation areas, morgues and first aid rooms.
+
+
+^P
+^C7d YOUR WEAPONS
+
+^C00 When you are supposed to eliminate enemy forces, don't assume you can handle 
+it with candy. Your brothers-in-arms are listed here.
+
+^C2b Weapon #1: Knife
+^C00 This commando-knife was a gift from your superiors for your 29th birthday. It 
+can kill a Hitlerjugend-soldier with 2 or 3 stabs, but be advised not to use it against 
+the Schutzstaffel or the Gestapo, as they are stronger. 
+
+^P
+^C7d YOUR WEAPONS
+
+^C2b Weapon #2: Luger P08 Parabellum
+^C7f Length: 8.75 inch
+^C7f Weight: 0,85 kilograms
+^C7f Caliber: 7.65 mm
+^C7f Speed: 15 shots per minute
+
+^C00 This pistol is highly popular in Germany. The Luger was the logical sequel to 
+the Borchardt. In the beginning the pistol looked just like the Borchardt, but the 
+design was altered and improved by Georg Luger.This self-loading weapon was to replace 
+the standard gun.
+
+^P
+^C7d YOUR WEAPONS
+
+^C2b Weapon #3: Mauser 98
+^C7f Length: 11.75 inch
+^C7f Weight: 1,3 kilograms
+^C7f Caliber: 7.69 mm
+^C7f Speed: 24 shots per minute
+
+^C00 This machine-gun is one of the most famous guns in the world. It's efficient, 
+shoots fast and hits target with high accuracy. However, its maximum was in the beginning 
+pretty low(about 100 shots). Today that is 200 shots. It is the friend of the SS, 
+so watch out! 
+
+^P
+^C7d YOUR WEAPONS
+
+^C2b Weapon #4: MG34 GPMG
+^C7f Length: 14,22 inch
+^C7f Weight: 2,65 kilograms
+^C7f Caliber: 6,44 mm
+^C7f Speed: 48 shots per minute
+
+^C00 This so-called anti-assault weapon is another expensive product. Generally fitted 
+with a bipod, it could also be mounted on a heavy tripod for the sustained fire role, 
+and an anti-aircraft mount was also available. This weapon wasn't really popular 
+because of it's annoying round-boxes.
+
+^P
+^C7d THE LEVELS
+
+^C2a Levels 1-6: Castle Hasselhoff
+
+^C00 You begin your mission in an old Prussian castle called Hasselhoff. It was the 
+first installation in the network, mainly used for storage of Schabbs' equipment. 
+There are 2 mutant creation areas in this castle, but both are out of running. Note: 
+that does NOT mean you will not encounter mutants here! On floor 5 a boss named Werner 
+Gelassen is waiting for you. He is a Gestapo general with the duty of protecting 
+the network behind the castle.
+
+^P
+^C7d THE LEVELS
+
+^C2a Levels 7-10: Castle Felsendamm
+
+^C00 The cold wind howls in your ears when you enter the tunnel towards Castle Felsendamm, 
+the next installation of the network. Castle Felsendamm, built in 1643, officiates 
+as security central. In here completed mutants are working together with the Nazis. 
+The castle has some mutant creation areas, but not as big as at Hasselhoff. Here 
+you'll face the Ubermutant, Schabbs' biggest mutant. He's located on floor 10.
+
+^P
+^C7d THE LEVELS
+
+^C2a Levels 11-16: Festung Adler
+
+^C00 You finally reached "The Eagle's Nest". It lies atop of a mountain which is 
+unaccessable from the valley below. This stronghold belonged to German monarchs for 
+centuries, but now the Fuhrer has stamped it as the main installation for the operation. 
+It's your task to run enough amok here so the stronghold will need a renovation. 
+Be careful, this castle is heavily guarded! On floor 16 you'll face the Fuhrer himself. 
+Be careful!
+
+^P
+^C7d THE LEVELS
+
+^C2a Levels 17-20: Luftburg-bunker
+
+^C00 When the elevator stops after 7 minutes, you have reached Schabbs' laboratories. 
+Here you'll face the dreaded mutant scum of Schabbs at last. Watch what you are shooting 
+- there are many unfinished mutants too! After painstakingly crawling through the 
+bunker, you will reach Schabbs. Grinning diabolical you check your gear and open 
+the elevator door. It's time to send this maniac to the place where he belongs, and 
+that's certainly not heaven! Good luck!
+     
+^P
+^C7d THE FINAL SOLUTION CREDITS
+^G80,176,3
+
+^C2b This project could not have come together without the help of the following 
+people. That's why I would like to thank them from here.
+
+^C7c CODING HELP/MUSICIAN
+^C00 Martin Bonnet(MCS)
+
+^C7c BETA TESTING
+^C00 Kenny Riley
+^C00 Brian Lowe
+^C00 David Gebler
+^C00 Gregory Tingling
+
+^P
+^C7d THE FINAL SOLUTION CREDITS
+^G80,176,3
+
+^C7c UTILITIES 
+^C00 Bill Kirby
+^C00 Brian Baker
+^C00 Dave Huntoon
+^C00 Florian Stohr
+^C00 Warren Buss
+
+^C7c SPECIAL THANKS
+^C00 Ben Blaufarb
+^C00 Brian Rowan
+^C00 Gary Ragland
+
+^P
+^C7d EDITORS USED
+
+^C00 The following programs were used to create ^C6aThe Final Solution.
+
+^C7e Mapedit 8.0: ^C00Level creation
+^C7e FloEdit 2.0: ^C00Graphics replacement, sounds, VGAGRAPH editing
+^C7e Wolfedit 2.1: ^C00Graphics replacement
+^C7e Borland C++ 3.1: ^C00Code Compilation
+^C7e Help Screens/End Art: ^C00I'll tell you on my website!
+
+^P
+^C7d ATTENTION WOLFENSTEIN 3D EDITERS!
+
+^C00 If you need help on editing the sounds and source code, look no further! At 
+Tristan's Coding Homepage you'll get info not seen elsewhere: tutorials who explain 
+step-by-step what to do in simple English. Or if that's not enough, you can share 
+your thoughts with me and other editers in the Wolfenstein Community. Just take a 
+look and learn up a few things immediately by typing the following adress in your 
+Web Browser.
+
+^C86 http://www.geocities.com/tvanputten/main.htm
+
+^P
+^C7d COPYRIGHT & DISTRIBUTION PERMISSIONS
+
+^C00 Authors ^C2aMAY ^C00use this modification as a basis for other publically available, 
+not-for-profit work, provided they inform the author of any modifications which are 
+made and give the author credit where it is due. You ^C2aMAY ^C00distribute this 
+Wolfenstein 3-D modification in any electronic format. Authors ^C2aMAY ^C00use any 
+resources of this game(graphics, sounds, etc) for their own projects, provided they 
+give the author of this their project as soon as it's finished. If anyone else would 
+like to include this modification in a collection, contact me...
+
+^P
+^C7d THANKS FOR PLAYING!
+^G80,176,5
+
+^C00 I hope you enjoy playing this game! Now, if you find any bugs or incorrect spelling, 
+please contact me. Again, thanks for playing. I hope you enjoyed it and I also hope 
+you'll visit my site. Oh, you can download the source code of this game at my website 
+too.
+
+^C84 Tristan van Putten
+^C85 tvanputten@yahoo.com
+
+^E

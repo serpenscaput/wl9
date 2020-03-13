@@ -1,0 +1,141 @@
+
+WolfenMap v5.0 - Wolfenstein Map Editor                 (c) 1993 L. Shanker
+
+
+Please register your copies of Wolfenstein 3D with Apogee Software.  It is
+assumed that owners of "Spear of Destiny" have purchased their software
+from FormGen.
+
+WolfenMap v5.0 is disabled and can only edit the first two floors of a
+given game.  It is being made available on an evaluation basis.  Please use
+the REGISTER.DOC included in this version of MapEdit to receive the
+full-featured version of WolfenMap.  Registered users will receive the newest
+version of WolfenMap as well as the next release, when it becomes available.
+Planned features for a future release include: cut and paste within a level,
+cut and paste between levels, extract a level from a map to a separate file,
+inclusion of a separate level file into an episode file.  These enhances will
+only be made if there is sufficient support of the existing version.  Now
+here's the sob-story: there's no incentive to program without monetary rewards.
+
+WolfenMap is similar to MapEdit except it greatly reduces map development
+time through the following enhancements:
+
+  - Flood an entire map with a user-selected wall.  (It's much quicker to
+    cut floors into a solid wall than it is to draw walls around a floor.)
+
+  - Instantly add blocks of walls, floors or objects. (This eases the
+    tediousness of correcting mouse mistakes.)
+          
+
+To use WolfenMap, unpack the archive into the directory where your game
+is installed.  Type: WM50 to start the editor.
+
+Key funtions:
+
+     up & down arrows - select level to view or edit.
+     Q - Quit (you will be prompted to save).
+     C - Clear level (grey brick around the outside of an empty level).
+     O - Toggle object display.
+     F - Toggle floor display.
+     W - Flood an entire level with the last chosen wall, floor or object.
+     G - Display a count of things, actors and static objects.
+     2 through 9 - Instantly paste the current wall, floor or object in
+         block fashion by positioning the mouse at the top left corner of
+         the block, then pressing a number key.
+
+Map window:
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking the mouse
+will change either the map or object data to the currently selected item.
+
+
+Legend window:
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN scrolls through the list.  Clicking on MAP/OBJ switches
+between the map and object lists.  Clicking on an item in the list makes
+it the "current" item.
+
+After each guard, there is a 3 character description which specifies
+what level the guard is, whether they are moving or stationary, and
+what direction they are facing/walking.  For example, "1/S/E" means 
+a level 1 guard, stationary, facing east.
+
+
+WALLS.DAT, WALLSOD.DAT, THINGS.DAT and THINGSOD.DAT:
+
+If you figure out a new object or desire to customize WolfenMap, you can
+add or change it's description to the object/map list by editing the
+appropriate DAT file.
+
+Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.  Right now, even
+though there are 4 digits, you can only put objects from 0000-01ff in.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors.  The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered 
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c - 
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+
+ACKNOWLEDGMENTS
+
+   This program would not have been possible without Paul (Hosko) Hosken, 
+author of WMAP, who figured out the original map file formats.  This program
+is based on the work of Bill Kirby.
+
+Thanks Hosko and Bill!
+
+  "WOLFENSTEIN 3D" is copyrighted by Apogee Software Productions and ID.
+  "SPEAR OF DESTINY" is coyrighted FormGen and ID.
+
+DISCLAIMER
+
+   The intent of this program is for a dedicated gamer to enhance their own
+games for their personnal enjoyment.  The author of WolfenMap is not
+responsible for any actions taken by a WolfenMap user.  These actions may
+include, but are are not limited to, the distribution of altered map files.
+
+<EOF>

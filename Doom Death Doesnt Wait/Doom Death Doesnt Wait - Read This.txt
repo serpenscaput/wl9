@@ -1,0 +1,170 @@
+
+
+
+
+				+++DooM: Death Doesn't Wait+++
+
+
+
+
+Read this!
+This is a TC that follows the DooM original story.
+
++Weapons
+++Enemies
++++Items
+++++Keys
++++++Episodes
+++++++Credits
+
+
++Weapons+
+
+There are four weapons.
+
+Fist:
+Your fist. This is the only weapon 
+that you can use if you don't have ammo.
+Obliviously this is not too powerful.
+
+Pistol:
+Your sidearm, you begin the game bringing this one.
+Medium damage and range.
+I think you don't use this weapon if you have 
+more powerfuls weapons.
+
+Shotgun:
+A short range powerful weapon and my favourite.
+It take down in one hit also more enemies.
+It is not difficult to find.
+
+Chaingun:
+A very rapid fire weapon that can transform your 
+ammo from 99 to 0 in less than one minute.
+A weapon hard to find in the first episode.
+
+
+++Enemies++
+
+Zombies:
+Classics men transformed into zombies. 
+They have a pistol and delivers not too damage.
+They are easy to kill.
+Weapon recommended: Pistol, shotgun. 
+
+Shotgunguys:
+Like the zombie, but they have a shotgun.
+They can kill you in one hit.
+They are not too hard to kill: usually a 
+shot of shotgun take them down.
+Weapon recommended: Shotgun.
+
+Imps:
+Brown monsters that shot fireballs.
+They are very accurate and deadly.
+They are much strong than the zombies.
+Weapon recommended: Shotgun, chaingun.
+
+Pinky demons:
+Demons like bulls that try to eviscerate you.
+They are not too dangerous but normally you see
+theese guys in packs.
+Usually two shots of shotgun kills a Pinky demon.
+Weapon recommended: Chaingun.
+
+Cacodemons:
+Demons similar to cacos or melons.
+They fire fireballs very rapidly.
+They are hard to kill without get hit one time.
+Weapon recommended: Chaingun.
+
+Barons of Hell:
+Minotaurs'like creature that lanuch acid's spheres.
+Very hard to kill, they do a lot of damage.
+Weapon recommended: Chaingun.
+
+Mancubus:
+A fat and ugly creature equipped with two chainguns 
+fused with the arms.
+Weapon recommended: Chaingun, stay at distance.
+
+Cyberdemon:
+A cybernetic creature that fires rockets.
+This is the stronger enemy in the game.
+Weapon recommended: Chaingun.
+
+
++++Items+++
+
+Vial:
+It gives you 1% of health, better than nothing.
+
+Stimpack:
+It gives you 10% of health.
+
+Medikit:
+It gives you 25% of health.
+
+Supercharge:
+Full recov of health.
+
+Computer:
+Simply give you points, rare to find.
+
+Googles:
+Simply give you points, very rare to find.
+
+Clip:
+Give you 14 ammo.
+
+Used clip:
+Give you 7 ammo.
+
+Ammo box:
+Give you 30 ammo.
+
+++++Keys++++
+
+Yellow key:
+A card that open yellow's locked doors.
+
+Blue key:
+A card that open blue's locked doors.
+
+
++++++Episodes+++++
+
+There are three episodes:
+
+1st:Phobos
+The first is set on Phobos, a moon of Mars. 
+You must kill the Hell lord.
+
+2nd:Inferno!
+Set in the Hell, you must kill the Cyberdemon.
+
+3rd:Hell on Earth
+The hellspawn forces have invaded Earth. Kill 
+the Icon of Sin.
+
+
+++++++Credits++++++
+
+Thanks to Id Software for DooM.
+
+Thanks to:
+Lollo93
+Mr.Glue
+as beta-testers.
+
+Me for source code editing.
+
+Id software for wolfenstein 3d source code.
+
+DooM for ideas of levels.
+
+Mcs and Areyep for some code tips.
+
+Borland C++ Compiler
+
+Flo's wolfenstein 3d Editor.

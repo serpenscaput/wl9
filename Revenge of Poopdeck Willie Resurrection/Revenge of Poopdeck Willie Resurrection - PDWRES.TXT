@@ -1,0 +1,43 @@
+A NOTE FROM MAJIK MONKEE
+------------------------
+This mod was originally released under the false name "Elmer Fudd", and many aspects 
+of it were intended to be humorous and strange, while the mod itself is intentionally 
+extremely difficult. For those who enjoy a challenge, though, it's actually a very 
+playable mod. To preserve the "mystique" of the original release, below is the original 
+"help" documentation, and I've left the "endart" files exactly as they were upon 
+the mod's original release. Special thanks to Andy Nonymous for the SDL exe! Enjoy!
+
+------------------------
+
+
+REVENGE OF POOPDECK WILLIE: RESURRECTION info
+
+This is an 12 level Wolfenstein game.  It is a finished version, not a demo, but 
+only the first three episodes have any levels.  All new stuff is used with permission 
+from owners of original games.  Here is what came from what:
+
+new enemies - from Monkee's Image World site
+new levels - used with permission from Halls of Stonehenge game (with modifications 
+to make it more challenging)
+all else - from Wolfenstein 3D
+
+This game is hard sometimes but it can be won.  I know this is true because I suck 
+but I can still win it.  Your mission is simple, friend.  Destroy Poopdeck Willie, 
+or else!
+
+Episode 1 - Poopdeck Willie has a plan to destroy the world with his assassains and 
+Nazi troops.  If you lose, he will have revenge on the entire world!  Don't do it! 
+ Go in his castle and destroy him!
+
+Episode 2 - Dr Evel, Willie's partner, is making zombies and next generation super 
+soldiers to destroy the world.  Enter his underground lair and put a stop to it! 
+ The lair is huge, but you can do it!
+
+Episode 3 - It looks like Dr Evel brought Hitler back to life!  Go and get rid of 
+him!  Otherwise who knows the future of the world!  Hope none of Willie's officers 
+try to escape in a tank! :)
+
+If you like this game (or played it at all), I'd love to hear from you.  My email 
+is: elmerfreakinfudd2@yahoo.com
+
+Thanks for playing of course.

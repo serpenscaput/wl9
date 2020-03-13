@@ -1,0 +1,389 @@
+                                                          		                 The 
+               
+                    DEAD WORLD RISING 2
+			                                    Manual
+
+
+VERSION 1.1 (Episode 1-2)
+
+BEFORE YOU READ:  In order to view this document properly, you will need the Gunship 
+TrueType Windows font.  I have included the font file with this ZIP file (GFont.zip). 
+ Simply unzip and add the font using the Add Font program located in your Windows 
+Control Panel.  If you have a Macintosh, sorry, but you've lucked out.  
+
+BEFORE YOU PLAY THIS GAME:
+
+If you are reading this document, please pat yourself on the back.  You are a good, 
+smart person.  Let's move on then, shall we?  Oh yeah, and if you are sensitive to 
+violent stuff and coarse language, you might want to skip the Story part.  But it's 
+not real, so don't sweat it.  And if you can't stand violence, why are you playing 
+this game?  Go play a mellow game like "Pong" or something.  Geez.
+
+-THE GREAT WASABI
+
+	Oh yeah, and if you feel like you should borrow some stuff from this game, PLEASE 
+GIVE CREDIT WHERE CREDIT IS DUE!!!!!!!!!!  Just indicate that that particular piece 
+came from this game. Or else the Forces of Evil will be knocking at your door.  Thanks. 
+ 
+
+
+TABLE OF CONTENTS:
+
+Section 0- The Credits!
+
+Section 1 - The Story So Far...
+
+Section 2- New and Improved Tools of Ultimate Destruction
+	
+	SECTION 2.A- Stuff to Help You Along
+
+Section 3- Know Your Foe
+
+Section 4- New Features to DWR 2
+
+Section 5-Contacting the Authors
+
+                                              					
+
+SECTION 0: THE CREDITS
+
+	This game was made possible by the hard work of several other people besides myself. 
+ I wish to thank Mega Luigi and Mario Maniac, (Sorry for all the B.S. guys!) and 
+Majik Monkee, who, despite being overwhelmed by work, still found time to help with 
+the enemy sprites (like the Chaos Knight!).  Next to working on the game, they also 
+had the good patience to put up with my constant starts and stops prior to beginning 
+DWR 2.  Here's a list of the involved persons, and what they did...
+
+THE GUILTY PARTIES
+
+THE GREAT WASABI:  Ideas, Graphics, Levels, New Sounds, Music
+
+MEGA LUIGI: Graphics, Source Code Changes, New Sounds
+
+MARIO MANIAC: Graphics, Source Code Changes, New Sounds
+
+MAJIK MONKEE: Enemy Sprites
+
+WOLF SKEVOS JONES: Coding 
+
+This game also features music from DOOM and Duke Nukem 3-D, by both Robert Prince 
+and Lee Jackson (Who worked on a couple of the Duke 3-D tunes), as well as some other 
+MIDI tunes from other stuff (Midi creds are after these ones).  It also has plenty 
+of stuff from DOOM I and II, as well as the infamous Duke Nukem 3-D pistol, which 
+I borrowed using a clever method I developed. No, I didn't use a Duke 3-D graphics 
+editor.  Heh heh.  Hell, this game has stuff from Heretic (another quite fun FPS), 
+so thanks to the guys who made it. There's even a few sounds from Quake. I borrowed 
+the rifle The Alien Fan was putting in his "Colonial Marines" TC (with a few touches 
+of my own idea), in return for my stuff he used from my old DWR 1 demo. This game 
+also has plenty of stuff from DWR 1, so the credits from that game also pertain to 
+this one.  Thanks goes out to those great guys at both id Software and 3D Realms. 
+You guys rock my world!  Now I'm going to go play DOOM 3...
+
+MIDI MUSIC CREDITS
+
+DOOM, DOOM II, Final DOOM- Various Selections
+
+Duke Nukem 3-D- Various Selections
+
+Neon Genesis Evangelion (From the game "Girlfriend of Steel" I believe)
+			        (Composed by Katsumi Egashira)
+			       -"Asuka"
+			       -"Cruel Angel Thesis"
+			       -"Freedom"			
+
+Heretic- E1M1 "The Docks"
+	- E2M4 "The Ice Grotto"
+	- E3M2 "The Cesspool"
+
+Metallica- "For Whom the Bell Tolls"  (You first hear this one in E1M8!)
+
+Resident Evil 2- "Wreckage of the Mad Experiment" (Originally composed by Masami 
+Ueda)
+		 - "Ada's Theme" 
+		 - "Sanctuary (3)" (Originally composed by Masami Ueda)
+
+COPYRIGHT CREDITS
+
+"Neon Genesis Evangelion" © 1995 GAINAX.
+
+Wolfenstein 3D, DOOM, DOOM II, Final DOOM © 1992-1995 id Software.
+
+Heretic © 1994 id Software
+
+Duke Nukem 3-D © 1996 3D Realms Entertainment.
+
+Resident Evil 2 © 1996 Capcom Entertainment
+
+Metallica- "For Whom the Bell Tolls" from "Ride the Lightning" ( METALLICA RULES!)
+
+
+Quake- © 1996 id Software
+
+SECTION 1:  THE STORY SO FAR
+
+	ESCAPE.  Your escape.  From the hands of the terrible Legions of Hell.  You had 
+managed to survive where so many others had fallen into the creeping darkness.  Your 
+struggle had not been in vain; for you emerged from the ruins of the LR-304 colony. 
+ Alive.
+
+	LR-304 is hundreds of miles away now, as you speed towards the Marine Corps support 
+station high above the chaos on Mars.  You can't wait to see another human being 
+once again, and finally be at peace with yourself.  Frozen in your mind are the horrific 
+sights you have seen, of atrocities unspeakable, of the corpses of dozens of brave 
+Marines, killed in ways so sickening you find it hard to bear, their faces twisted 
+in agony from their hellish final moments.  Of the helpless colonists, their souls, 
+minds, and bodies shredded by the demonic onslaught.
+But it's over now, those demon bastards are now rotting away like overripe tomatoes, 
+
+their asses royally kicked for all time. They had it coming, and you didn't disappoint 
+them.	
+
+	As your drop pod nears the station, you have a weird feeling.  Something isn't right. 
+ The second the doors open, you realize why.  Your nostrils are instantly filled 
+with the nauseating stench of death, of rotting flesh and gore.  Looking about the 
+docking bay, you see not a welcoming party, but a scene like something out of Dante's 
+"Inferno".  Mutilated corpses litter the floor, and the walls are riddled with bullet 
+holes and pocked by scorch marks.  "They" were already here.  Looking at the screens 
+all around the room, you are alarmed to notice they say "UAC".  A wall in front of 
+you also bears that damnable acronym.  What gives?  Looks like Union Aerospace did 
+a bit of renovation to the old place.   Judging from the damage, and lack of control 
+personnel, it's a wonder the station is still in orbit.  Oh well.  Looks like the 
+end.  Or is it?
+
+	You are alerted to a flashing screen.  You whirl around to stare at it.
+
+	ATTENTION:  ALL SURVIVING MARINE PERSONNEL IN MARS/JOVIAN  	SYSTEM
+	
+	RENDEVOUS AT PHOBOS FOR IMMEDIATE EVACUATION	
+	
+	REPEAT, RENDEVOUS-
+
+	The screen goes blank.  The demons must be on to you.  A bloodcurdling scream echoes 
+from farther inside the base.  It's the same old song and dance.  It's time to get 
+the hell out of Dodge.  No pun intended.  You draw your trusty sidearm, and prepare 
+to confront the Hordes.  Good luck, Marine. Next stop; Phobos.
+
+SECTION 2- NEW AND IMROVED TOOLS OF ULTIMATE DESTRUCTION
+
+	Fortunately, this time around you have some more substantial firepower to combat 
+the demonic threat.  Here's your assorted tools of Death, and a little bio on each 
+one.
+
+COMBAT KNIFE- If this is your last weapon, consider yourself screwed.  It's best 
+to simply put your head between you legs and kiss your ass goodbye...but a real Marine 
+will press on for some real firepower!
+
+PISTOL- Your trusty sidearm.  Good for lesser enemies, but it just doesn't cut it 
+against the real bad guys.  Keep your eyes open for better armament.  Holds up to 
+200 shots, as does the Assault Rifle and MiniGun.
+
+ASSAULT RIFLE- Space Marine standard-issue.  A nice find, and it beats the hell out 
+of the pistol, and it makes the Knife look as primitive as a wooden club.  Quite 
+common.
+
+MINIGUN- The Grim Reaper has been re-incarnated as six barrels of lead-slinging, 
+death-dealing mass destruction.  This baby tears demons to itty bitty pieces, and 
+can make quick work of even the big baddies.  Somewhat common.
+
+ROCKET LAUNCHER- Ever seen a demon get turned inside out?  Want to?  This particularly 
+bad-ass weapon fires a nice high-explosive rocket into your adversaries.  Unfortunately, 
+it onlys holds 20 shots, and rocket ammo only gives you 1 rocket, so use them sparingly. 
+ It has good range though, and covers a large area with damage.  Just don't fire 
+it at close range.  If you feel so inclined to do so, you might as well be shooting 
+yourself! More common later on in the game, after about Episode 2.  Ammo is not so 
+common, so save this weapon for the real tough bad guys.
+
+PLASMA GUN- A nice experimental energy weapon, delivering a high-density plasma-ionic 
+blast.  Considerably slower than the Rocket Launcher, but packs almost just as much 
+of a punch.  Also covers a large area, and can effectively eliminate several enemies 
+at once.  A rare find, and the ammo is just as rare.  Holds 60 shots.  Only appears 
+in Episodes 4 through 6.
+
+SECTION 2.A- STUFF TO HELP YOU ALONG
+
+	Of course, as you progress through the game, you'll need the help of various items. 
+ Here's the ones you can expect to see...
+
+MEDICAL STUFF -  Even a tough hombre like you can get your ass grilled if you don't 
+try to evade most of the damage headed your way.   If you health drops to 0, you're 
+toast,  and have to start again.  Try harder next time!  To avoid your untimely demise, 
+collect these items to boost your health.
+
+HEALTH POTION- These small blue bottles give you a meager 4 points of health, but 
+can push your health beyond your normal 100%, to a maximum of 200%.  Quite common.
+
+
+STIMPACK- Known more commonly as Stims, these small packages contain a quick boost 
+of steroids and enzymes that give you 10 points of health.  Common.
+
+MEDPACK- These big boxes with straps contain everything you need to repair your wounds. 
+ Gives you a pleasing 25 health.  Not so common.
+
+OTHER STUFF- Like in Wolfenstein 3-D, you can drink some types of blood and gibs 
+for health.  There's no water this time around, though.
+
+AMMUNITION-  Like you, guns need stuff to make them work properly.  Some ammo is 
+much more common than other types.  Rockets are very rare, so save them for only 
+the most desperate situations.  Stick with Plasma or the MiniGun for a common-use 
+heavy weapon. Here's the "food" for your guns...
+
+AMMO CLIP- This small gray clip gives you 8 bullets if obtained from the level itself. 
+ If picked up from a downed enemy, Clips only give you a mere 4 bullets.  Very common.
+
+
+BOX OF AMMO- Looks like the MedPack, but has a picture of a bullet on it.  Gives 
+you a nice 25 bullets when you pick it up.  Slightly common.
+
+ROCKET- A small dark gray rocket.  Gives you 1 ammo for the Rocket Launcher.  If 
+you have it, that is.  Not very common.
+
+PLASMA CELL- A small light gray object with red and green coloured lights on it. 
+ Gives you 8 shots for the Plasma Gun. Like the Rocket, not very common.
+
+ASSORTED OTHER STUFF-  There's a couple of other items you should be aware of.
+
+KEYCARDS- Open doors.  'Nuff said.  Come in 2 varieties: blue and yellow.
+
+TREASURE- Yep, there's some nice items of value on your travels.  Grab 'em for a 
+nice quick boost to your score. 
+
+	Helmet- Gives 100 points.
+	Light-Amplification Goggles-Gives you 500 points.
+	Blue Skull- Gives you 1000 points!
+	Computer Map- Gives you 5000 points!
+
+1 UP- A blue sphere with a picture of the Marine's helmet in it.  Rewards you with 
+1 extra life (You can get another life every 40,000 points), as well as an ammo and 
+health boost, up to 200% (If your HP doesn't say 200% after obtaining a 1UP, simply 
+press the Esc key and then select "Back to Game" from the DWR 2 main menu).  Rare 
+as hen's teeth.
+
+INVULERABILITY ARTIFACT- A large, red upside-down cross with a picture of a Space 
+Marine's helmet on it.  When it is picked up, it endows you with 30 seconds of invincibility. 
+ Be careful...the only indication as to when it wears off is a strange chiming sound 
+(like the one when you receive an extra life), so keep your ears open!  Pops up every 
+once in a while.
+
+LAND MINES- You can't pick these up, but they can make your life miserable if you 
+don't watch out for them.  Sometimes, you may have no choice but to step on them...More 
+common later on in the game.
+
+SECTION 3- KNOW YOUR FOE
+
+	These are the guys whose main goal in life is to make yours a living Hell.  Some 
+have certain behaviours that you can base strategies around, while others are not 
+so predictable...
+
+FORMER HUMAN- Your good old Marine buddies gone bad.  That's bad in smell, and bad 
+in nature!  Still as weak as ever.  Makes you wonder how they ever got to be Marines...
+
+
+FORMER SERGEANT-  They've dropped their good old shotguns for shiny new Assault Rifles. 
+ Not nearly as weak as the Former Human, they can kill you very easily if you aren't 
+careful...Drops either an Assault Rifle (if you don't already have it) or an Ammo 
+Clip when killed.
+
+IMP-  These brown bastards just got bigger and meaner.  They enjoy running circles 
+around you and frying your ass with their toasty fireballs.  Give them a nice Plasma 
+enema.  Or sit back and chew them into doggy kibble with the MiniGun.  Due to the 
+flammable liquids contained inside their scaly hides, they explode violently when 
+killed.
+
+LOST SOUL-  This particularly dumb adversary flies headlong towards you, with the 
+intent of biting your head off.  Very weak, and usually not a threat except in numbers. 
+ And sometimes not even then.
+
+CACODEMON-  This demonic monstrosity belches long streams of white-hot plasma lightning 
+at you, in rapid succession, and will turn you into Marine-flambé if you aren't careful. 
+Note: does not like being hit by Rockets.  Keep your distance when confronting this 
+enemy.
+
+UAC ROBOT DRONES- Apparently, those bastards at UAC were expecting a demon welcome. 
+ They left their security drones active, and now the demons have turned them to their 
+own sinister wishes.  Be careful, Drones do not make a sound when they realize your 
+presence.  The only sound you hear is their guns tearing you to pieces...They don't 
+appear until Episode 2.
+
+BOSSES-  At the end of each episode, you'll have to face a member of the demonic 
+elite. Be on your guard, Marine! 
+
+Episode One: FORMER COMMANDO-  This S.O.B. enjoys taking pot-shots at you with his 
+huge Chaingun.  Very dumb, and doesn't try hard to find you.  Show him how much better 
+the Minigun is!
+
+Episode Two: BARON OF HELL-  Everybody's favourite DOOM baddie makes a re-appearance. 
+ Lobs green plasma at you, and is quite slick to chase you around a level.
+
+Episode Three: CHAOS KNIGHT-  A demonic automation forged in the deepest pits of 
+Hell.  Fires massive rocket and chaingun barrages at you.  You'll have to beat him 
+twice to totally vanquish this guy.  Expect to see him quite a few times in the game...
+
+
+Episode Four: PAIN ELEMENTAL-  That annoying bloated gasbag from DOOM II is back. 
+ Only he fires some nice shiny rockets at you instead of Lost Souls.  Still explodes 
+like an atomic bomb when killed.
+
+Episode Five: MANCUBUS-  Big 'ol fatty-butt awaits your arrival in Episode 5.  He 
+didn't take up that advice to phone Jenny Craig, and now he will pay the price...
+
+
+Episode Six: ABADDON- The lousy sonofabitch bastard behind all your troubles.  It 
+won't be easy to get to him, so brace yourself, Marine.  It's a tough battle ahead!
+
+
+
+SECTION 4- NEW FEATURES TO DWR 2
+
+	If you like to cheat your way through Wolf 3-D games, then this is something you 
+should know.  Permanent God Mode has been disabled, and the ILM and Tab-I codes don't 
+give you all the weapons or full ammo for the ones you already have.  However, if 
+you are a real, decent human being, you don't need codes, so this doesn't matter 
+to you, does it? Good!
+
+	If you should make it to a secret level, be on the look-out!  There are four indestructible 
+enemies (The Pac-Man ghosts) in each of the 6 secret levels, and the demons have 
+gotten into them as well!  In case you're wondering, the four new Pac-Man enemies 
+are characters from the anime series "Neon Genesis Evangelion", a personal favourite 
+of mine.  Just don't get too close to them, or you're kaput!
+
+	"Hey cool!  Anime Pac-Mans!"  BEERKRKKK!!! "AHGHH! I DIED!"
+
+	One more thing...
+
+	Keep your eyes peeled for a secret room in Episode One, Level One.  It contains 
+the first appearance of a rather amusing object related to Duke Nukem.  If you know 
+how much I love DOOM (Which is a lot!), and have heard of or seen the DOOM Marine 
+secret in Duke Nukem 3D, you will see why I made this object.  ^_^  Good luck!  
+
+
+KNOWN BUGS IN THE GAME
+
+	There's only one real bug in the game that I know of.  Sometimes when you enter 
+a level, you can hear the music fade out, and go silent.  If there is no music in 
+the level, simply press the Escape button, and select "Back to Game" in the DWR 2 
+main menu.  The music should resume playing. If you find any other bugs, please contact 
+me (the Great Wasabi) about them, and I will try my best to find a solution.
+
+SECTION 5- CONTACTING THE  AUTHORS
+
+	If you find a mistake or error, want to borrow some graphics/sounds etc., want to 
+give us some comments on the game, or just want to shoot the breeze, we can be reached 
+at the following e-mail addresses:
+
+THE GREAT WASABI-  wasabi_zero2002@yahoo.ca
+
+MEGA LUIGI-  wolfmegaluigi@yahoo.com.br
+
+MARIO MANIAC-  wolfmaniacbros@yahoo.com.br
+
+
+VISIT THE DOOM OASIS FORUM!
+http://greatwasabi.proboards24.com
+
+Keep the DOOM legacy alive!
+
+http://www.newdoom.com
+
+
+
+

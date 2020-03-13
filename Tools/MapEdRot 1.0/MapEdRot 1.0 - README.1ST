@@ -1,0 +1,68 @@
+                 ****************************
+                 *                          *
+                 *    MAPEDROT Version 1.0  *
+                 *                          *
+                 ****************************
+
+Welcome to MapEdRot (Map Editor for Rise of the Triad)! This editor
+comes to you from the same people who brought you MAPEDIT, the
+editor for Wolf3D, Spear of Destiny and related games.
+
+Unlike other editors of this genre, MapEdRot operates exclusively
+under DOS, but uses 32-bit processing for speed.  If you can play Rise
+of the Triad on your computer, then MapEdRot should work for you.
+
+Features:
+
+ Multiple Screen resolution
+ All 100 levels available for editing.
+ Level copying, exchanging.
+ Level Exporting/Importing
+ Online stats
+ Viewable WAD graphics.
+ Extensive online help.
+ Entire level viewable on one screen.
+ 197 levels of zooming
+ Much more...
+
+                 ****************************
+           ******* Installation Instructions *******
+                 ****************************
+MapEdRot has been setup to operate from a sub-directory of Rise of The Triad.
+We recommend that you create a sub-directory named MAPEDROT and unzip the
+files in PROGRAM.ZIP into it.  That is all you will have to do.  If
+you don't install it into a sub-directory of ROTT you will have to change
+the "Game path" parameter in the "Pref" menu.  Once you have changed this
+you should save it by selecting "Save Pref" also in the "Pref" menu.
+
+***********************************************************************
+***********************************************************************
+
+<<NOTE:>>
+  MapEdRot requires a VESA compliant video board.  If you experience
+problems displaying any of the different resolutions (640x480, 800x600,
+1024x768) check the drivers that came with your video board.  There
+may be a TSR VESA driver.  If you don't have one we recommend that you
+obtain the UNIVBE VESA driver which can be found on Compuserve and you
+can also obtain it at an FTP site:  FTP://FTP.SCITECH.COM/UVBE51A.ZIP.
+
+<<NOTE:>>
+  MAPEDROT will ONLY execute in a pure DOS environment.  It will
+NOT operate from within Windows, including WINDOWS 95.  Exception:  If
+you select SHUTDOWN in Win95 and elect to "Restart the Computer in
+MS-DOS mode", MapEdRot will operate in this manner.  We are using a
+freeware DOS extender.  There is a new version expected soon that will
+support running in Windows 3.x and Windows 95.
+
+***********************************************************************
+***********************************************************************
+
+Much help is available during editing, so start the editor and either
+read the documentation (ROTTDOC.DOC) or read the "Getting Started"
+help section within the editor.
+
+If you experience any problems, please do not contact Apogee Software.
+They are not responsible for MapEdRot. Contact one of the authors
+instead.
+
+

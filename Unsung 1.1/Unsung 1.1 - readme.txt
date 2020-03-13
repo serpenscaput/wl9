@@ -1,0 +1,127 @@
+====================================================
+Unsung (v1.1)
+By Nembo
+http://www.moddb.com/mods/unsung
+====================================================
+Disclaimer
+
+This mod is not endorsed or supported by ID software
+or anybody else. The files are downloaded and 
+installed at the user's own risk. The files are free 
+for download, but may not be sold, if you wish to mass
+distribute or host the files please ask for prior
+permission. Also you may not distribute a modified
+version without the authors prior permission. This
+game is not meant to glorify and/or justify war. All 
+files are property of their respective owner(s). 
+
+====================================================
+Introduction
+
+Unsung, is World War I adventure in Wolfenstein 3D,
+it lets you slog through the trenches in true pixelated
+FPS fashion. Along the way as you fight through the
+German trenches as an Allied trench raider in an attempt
+to disable a crucial German artillery bunker, you had
+better watch out for machine gun nests, flamethrowers,
+poison gas, and an army of soldiers out to kill you.
+
+Based off Wolf4SDL code, Unsung is a stand alone
+mod which does not require dosbox to run on Vista or
+Windows 7. With new graphics, sounds, levels, and
+weapons, prepare for a whole new Wolfenstein 3D
+experience. 
+
+====================================================
+Running/Installation
+
+Unzip the files to whatever file location you like,
+and run the file unsung.exe. So long as all the files
+are in the same directory everything should be fine.
+
+If you would like to run the game in windowed mode
+instead of full screen, create a shortcut and add the
+following to the target window in the shortcuts
+properties.
+
+--windowed
+
+For example so that it would look something like this.
+
+C:\Unsung\unsung.exe --windowed
+
+====================================================
+
+Controls
+
+Due to being based of an old game, Wolfenstein 3d, 
+Unusng does not have the same type of controls as many
+modern FPS games. Since some players may not like the
+older style controls, two sets of controls are set up.
+
+The Arrow keys are the traditional old style controls.
+Where the right and left arrows turn the player instead
+of strafing to the sides.
+
+The W, A, S, and D keys have been set up like many more
+modern FPS games. W and A move the player forward and
+back and S and D strafe the player side to side.
+
+In addition there are a few other keys controls.
+
+H = use health kit
+R = reload weapon
+1-4 = select weapon
+Ctrl = fire weapon
+Space = Open\Close door
+Shift = Run
+
+
+For further information select the manual option on the
+main menu in the game.
+
+====================================================
+
+Change Log
+
+
+Changes/Additions to v1.1
+
+-added new strafe keys and movement keys (i.e. ASDW can now be used in place of arrow 
+keys)
+-fixed gasmask aspect ratio problem
+-added hud marker for key
+-coded in see-through clouds
+-added new textures and changed some old ones
+-added crosshairs
+-small changes made to maps, mostly aesthetic in nature
+-changed some UI art
+-adjusted weapon damage and accuracy (now dependent on difficulty level)
+-health given by medkits changed, (now dependent on difficulty level)
+-edited the "disturbing" sign to try and make it less "disturbing"
+-player now has infinite lives on a skill levels
+-added difficulty explanation/warning messages on difficulty selection screens
+-changed some enemy walk and run speeds
+-cut scenes only play the first time a level is entered
+-replaced enemy voice cues
+-other minor changes that were not recorded and thus forgotten
+
+====================================================
+
+Credits
+
+Bjorn Lynne
+Dean
+Francisco Arias
+Josh Robertson
+John Susek
+Mortiz "Ripper" Kroll
+SHTUP
+Zombie_Plan
+
+Would also like to thank all the people who left
+comments or suggestions on Moddb, the Diehard Wolfers
+forum or anywhere else on the web.
+
+====================================================
+January 7, 2012

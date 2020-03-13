@@ -1,0 +1,26 @@
+
+WOLFMAP v1.0 by David Lummis.
+
+This program generates maps for Wolfenstein 3D mission 1.
+It looks in the current directory for the files MAPHEAD.WL1 and MAPTEMP.WL1.
+ 
+Output files are named WOLF1L<mm>.MAP, where <mm> is the level number.
+ 
+Syntax:  WOLFMAP [ option[ ...]]
+ 
+Valid options:
+ 
+   /L<n>  Level number (1-10 or * for all) (default=1).
+ 
+   /ET    Display enemy by type of enemy.
+   /EL    Display enemy by skill level of appearance (default).
+   /E-    Suppress display of enemies.
+ 
+   /O1    Display all objects.
+   /O2    Display non-trivial objects only (default).
+   /O-    Suppress all objects.
+ 
+   /F<n>  ASCII value for floors (default= 32 --  ).
+   /W<n>  ASCII value for walls  (default=176 -- °).
+ 
+   /?     Display this help screen.

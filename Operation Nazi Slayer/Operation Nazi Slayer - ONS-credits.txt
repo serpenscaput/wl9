@@ -1,0 +1,18 @@
+AReyeP (iron cross wall texture patch, guard sprites/sounds, Waffen SS sounds, officer 
+sprites/death sound, static object sprites), AstroCreep (high quality remixes of 
+my tracks, title screen, release trailer, a super secret wall texture, super secret 
+boss sounds), Captain J (akimbo mutant sprites [akimbo clone]), DoomJedi (rifle guard, 
+scientist, Hauptarzt Monokel, Mutant Hiedler, Death Stroke sprites [Max von Bumsental]), 
+Dunkelschwamm (stained glass walls of bosses from the original games [Max von Bumsental 
+stained glass], random generated boss [Klaus Friedhof]), Executor (locked door textures, 
+rifle code), Jayngoware (super secret walls), Mr Wolf (super secret guard, super 
+secret weapon), Parafriction (laboratory walls, SS with an armband (? - could also 
+be by Brian Lowe)), Spiritblade-Inc (Uberknight sprites), Turbo (rifle sprites), 
+WSJ (weapon sprites/sounds, boss sounds, ambient sounds), Zach Higgins (super secret 
+officer)
+
+ID Software, Remedy Entertainment (secret enemy sounds from Max Payne (1 and 2)), 
+Monolith Productions (super secret boss sounds from Shogo: M.A.D.), New World Computing 
+(super secret boss attack sounds from Heroes of Might and Magic)
+
+MIDI Music, super secret "SS", super secret boss, red wall textures made by me (Orka)

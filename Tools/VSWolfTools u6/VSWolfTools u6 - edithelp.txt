@@ -1,0 +1,141 @@
+                                    EDITOR
+
+You can use all features of the program in activated edit mode except tracing
+   and full item search.
+Both Wolfenstein v1.4 and v1.0, and Spear of Destiny-type mods can be edited.
+If a mod is not a standard wolf/spear mod, You will be better off by making
+   a special descriptions file for that mod ('just' edit the current file).
+
+  The controls are down from upper-left :
+    ______________________________________
+  *|                      |   |           |*
+  *|           v          | ? | from App  |*
+  *|______________________|___|___________|*
+  *|                          |           |*
+  *|     <Level title>        |from *.lvl |*
+  *|____________________ _ ___|___________|*
+   |   |   |   |   |$$$|  |$$$|           |
+   | C | K | P |   |$$$|LR|$$$|   UNDO    |
+   |---+---+---+---+---+--+---+---+-------|
+   | W | F | O |(f)|(c)| #| p | d | f | s |
+   '---'---'---'---'---'--'---'---'---'---'
+
+<v bar>   *Drag the edit panel down to reveal the graphics list underneath.
+
+ ?        *Read this helpfile.
+
+<Level..> *Edit level title (max 16 characters).
+
+from App  *Replace the level with a selected level from another gamemaps file.
+           (Start a new VSMAPED program, select the wanted level here,
+           then click the from-App button in the old program. The new level
+           is then copied to the current level here).
+           
+from*.lvl *Replace the selected level with one from a Floedit levelfile.
+
+-------------------------------------------------------------------------------
+   ______________________________________
+  |                      |   |           |
+  |           v          | ? | from App  |
+  |______________________|___|___________|
+  |                          |           |
+  |     <Level title>        |from *.lvl |
+  |____________________ _ ___|___________|
+ *|   |   |   |   |$$$|  |$$$|           |*
+ *| C | K | P |   |$$$|LR|$$$|   UNDO    |*
+ *|---+---+---+---+---+--+---+---+-------|*
+  | W | F | O |(f)|(c)| #| p | d | f | s |
+  '---'---'---'---'---'--'---'---'---'---'
+ C     *Cut  selection. All values inside the selection will become zero.
+
+ K     *Copy selection. The inside will be left unchanged.
+
+ P     *Paste selection.
+        For wall/Floorcode/sprite: pastes everything, for floor/ceiling:
+        just pastes the floor or ceiling from the selection. 
+
+$$$    *Shows content of left mousebutton for drawing/filling.
+ 
+LR     *Left-Right.
+        Click and 'LR' turns into '01'. Drawing/filling now alternates
+        between 'left'(x+y Even) and 'right'(x+y Odd) items.
+        Click again to return to LR.
+
+$$$    *Shows content of right mousebutton for drawing/filling.
+
+UNDO   *Undo the latest change in the current level.
+
+---Map mode (what to edit):----------------------------------------------------
+   ______________________________________
+  |                      |   |           |
+  |           v          | ? | from App  |
+  |______________________|___|___________|
+  |                          |           |
+  |     <Level title>        |from *.lvl |
+  |____________________ _ ___|___________|
+  |   |   |   |   |$$$|  |$$$|           |
+  | C | K | P |   |$$$|LR|$$$|   UNDO    |
+ *|---+---+---+---+---+--+---+---+-------|
+ *| W | F | O |(f)|(c)| #| p | d | f | s |
+ *'---'---'---'---'---'--'---'---'---'---'
+ **********************
+
+ W     *Walls (N/S + E/W faces shown) and Doors.
+ F     *Floor codes.
+ O     *Objects.
+(f)    *Floor   structures |-In some mods. If there are no structures, or you have
+
+(c)    *Ceiling structures | chosen to ignore floors+ceilings, the buttons read
+                           | 'ignore'. Click to open up the buttons.
+                           | If you toggle any key the picture is overlaid with
+                           | walls/floors and ojects, for facilitating
+                           | alignment of floor/ceiling structures.
+
+--Edit mode (what to do): trace and blink items in map are disabled if active--
+   ______________________________________
+  |                      |   |           |
+  |           v          | ? | from App  |
+  |______________________|___|___________|
+  |                          |           |
+  |     <Level title>        |from *.lvl |        Large numbers:
+  |____________________ _ ___|___________|      __________________
+  |   |   |   |   |$$$|  |$$$|           |     | ______   ______  |
+  | C | K | P |   |$$$|LR|$$$|   UNDO    |     ||____|_| |____|_| |
+  |---+---+---+---+---+--+---+---+-------|*    | / No.     ###    |
+  | W | F | O |(f)|(c)| #| p | d | f | s |*    |__________________|
+  '---'---'---'---'---'--'---'---'---'---'*
+                      *********************
+
+ #      Open the 'Number' panel. It shows the most and least significant byte
+        in a (large) number. You can pick it from the dropper symbol and insert
+        it into the map.
+        I have it because some mods have special information in corner cells
+        with quite large values. Use left or right mousebutton.
+
+ p     *Pick an item, fex. a wall with the left mousebutton and a floor code
+          with the right, from the map or the lists below or the graphics list.
+ d     *Draw the item,                         -use left or right mousebutton.
+ f     *Fill an area with the item,            -use left or right mousebutton.
+ s     *Select a rectangular area for copying, -use left          mousebutton.
+       *Rightclicking in select mode will show a menu (useful for BIG levels):
+          Cut   all: Copy and erase the whole level.
+          Copy  all: Copy  the whole level.
+          Paste all: Paste it to replace another level.
+
+A copied selection can be pasted to another level in the same or another game:
+   copy the selection, open a target gamemaps file and paste it to a level.
+   However, mixing levels from unrelated mods may produce strange results.
+
+Deactivating:  If you deactivate edit(click on the lowered edit mode tab),
+  you can do anything except editing. Click again and edit mode is reactivated.
+-------------------------------------------------------------------------------
+You can UNDO the latest change to the level but if you go to another level
+   you will be asked whether you want to keep the changes made or not.
+   If all goes awry, you can reopen the (unsaved) gamemaps
+   or restore them from backup and start anew.
+
+Below are 4 lists of items showing thumbnail, map index, (class) and name,
+   sorted by map index except objects that are sorted by class first.
+
+It is strongly recommended that you let the program make a backup 
+   when you save the maps to the game.

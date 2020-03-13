@@ -1,0 +1,201 @@
+^P
+^C8f The story
+
+^C00 1945: end of World War II.
+Hitler has dead, so a great person takes power: TexZK, who created a republic.
+With his policy, inspired by winners, he wants to destroy the Nazism.
+
+You, Dr.Gnegno, must help the President to killa all the Nazis.
+
+^P
+^G20,30,3
+^C00 
+They selected you, because you're a great spy.
+The government decided to include you in a plan divided in six missions (episodes). 
+Each episode has some objectives to reach.
+
+^P
+^C8f The episodes
+^C00 
+The episodes, selectable from the main menu, are:
+^C20 Infiltration in Nazis' Castle
+^C00 Infiltrate in this castle and give bullets  in Nazis' stomaches!
+^C20 The dark side of Wolfenstein Castle
+^C00 Recently we found that Nazis are making mutants with undead humans
+^C20 Intifada in Nazis' lagers
+^C00 Infiltrate in those lagers and meet the best Nazi rock-launcher!
+
+^P
+
+^C20 Operation: Snow-killing
+^C00 Kill Nazis on the Alpes
+^C20 The second D-Day
+^C00 Disembark on German beaches
+^C20 The true soul of Uber Soldat (NA)
+^C00 We know that Nazis want to make the UberSoldat, a cybronic human.
+We need to know who is in it!
+
+It's better if you play the episodes from the first to the last.
+
+^P
+^C8f How to complete a floor
+^C00
+You need some objects to go to the next floor:
+^C20 Medkit
+^C00 This is a first-aid kit or a meal. Attention: the bad food is a landmine!
+^C20 Treasures
+^C00 To grew up your points
+^C20 Keys
+^C00 To open locked doors
+^C20 Weapons
+^C00 To kill those dirty Nazis!!!
+
+^P
+^C8f Weapons
+
+^C00 The weapons to use are six:
+^C20 Punch
+^L50,90
+^C00 -> If you haven't got enough ammo
+^L60,110
+	you can give fist to Nazis!
+^C20 Luger
+^L70,90
+^C00 -> A simple german pistol
+^C20 MP40
+^L80,90
+^C00 -> When enemies are too much,
+^L90,110
+	this good weapon increases
+^L100,110
+	shooting speed
+^C20 VenomGun
+^L110,90
+^C00 -> A gatling. Foes drop like
+^L120,110
+	flies. But it eats ammo
+^L130,110
+	like popcorn. Be careful...
+^C20 Panzerfaust
+^L140,90
+^C00 -> German missile-launcher. Kills
+^L150,110
+	big groups of Nazis. but be
+^L160,110
+	careful: it hurts you, too!
+
+^P
+
+^C20 Flamethrower
+^L30,110
+^C00 -> A powerful weapon at
+^L40,120
+	short shooting range.
+
+Each weapon needs his type of ammo (but not the fist):
+^C81 Luger, MP40, VenomGun ^C00 -> normal ammo
+^C81 Panzerfaust
+^L90,170
+^C00 -> missiles
+^C81 lanciafiamme
+^L100,170
+^C00 -> gas cylinders
+
+^P
+^C8f Controls
+^C00
+These are default controls:
+^C20 Forward 		
+^L50,100
+^C00 ->     Up arrow
+^C20 Backward 		
+^L60,100
+^C00 ->     Down arrow
+^C20 Left 		
+^L70,100
+^C00 ->     Left arrow
+^C20 Right 		
+^L80,100
+^C00 ->     Right arrow
+^C20 Shoot 		
+^L90,100
+^C00 ->     Left mouse - Ctrl
+^C20 Open 		
+^L100,100
+^C00 ->     Middle mouse - Space
+^C20 Strafe 		
+^L110,100
+^C00 ->     Right mouse - Alt
+^C20 Weapons 		
+^L120,100
+^C00 ->     from 1 to 6
+
+^P
+^C8f Enemies
+^C00
+The enemies, in toughness order, are:
+^C20 Dogs
+^L50,80
+^C00 ->   Not so difficult to kill
+^L60,115
+     But they hurt you!
+^C20 Guards
+^L70,80
+^C00 ->   They have got only
+^L80,115
+     a simple pistol
+^C20 Officiers
+^L90,80
+^C00 ->   Faster guards
+^C20 SS
+^L100,80
+^C00 ->   Be careful with their MP40!
+^C20 Mutants
+^L110,80
+^C00 ->   You'll hate them!
+^C20 Demons
+^L120,80
+^C00 ->   Tough, but attack are
+^L130,115
+     evitable
+^C20 Bosses
+^L140,80
+^C00 ->   Each episode has got one
+^L150,115
+     And they've got big weapons
+^L160,115
+     and a lots of health points!
+
+^P
+^C8f Credits
+^C00 This TC wasn't completely created by me! there are a lot of people who contribuited 
+to do, particularly indirectly, to its completion.
+I don't rebember all theirs names, but I put here the most importants:
+^C20 Original team: ^C00 id Software
+^C20 Project leader: ^C00 TexZK
+^C20 Programmers: ^C00 ArEyeP & MCS, DarkOne, BJ Rowan, Chaos-software, Tristan van 
+Putten, Po&t & Tommy Olstad
+^C20 Tools: ^C00 DarkOne, Florian Stohr, BJ Rowan
+^C20 Graphic & sound: ^C00 Tristan van Putten, BJ Rowan, ArEyeP, Kuki, Zach Higgins
+
+
+^P
+^C8f Used tools
+^C00 To make this TC I used these tools:
+^C20 FloEdit: ^C00 maps, graphics and sounds adding
+^C20 Borland C++ 3.1: ^C00 C++ compiler (*.exe)
+^C20 LZexe: ^C00 *.exe compression
+^C20 MapEdit 8.4: ^C00 maps
+^C20 Return to Castle Wolfenstein: ^C00 weapons 6 sounds
+^C20 ImfTools & MicroLogic Fun: ^C00 musics
+^C20 BitEdit (Asymetrix): ^C00 graphics
+^C20 TexZK's brain: ^C00 ehehehehehe...
+
+^P
+^C8f Contacts
+^C00 You can contact me in these ways:
+^C20 E-mail: ^C00 gnegno88@libero.it
+^C20 ICQ: ^C00 131002159
+^C20 Webpage (+Guestbook): ^C00 http://www.geocities.com/gnegno88
+
+^E

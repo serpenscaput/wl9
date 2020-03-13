@@ -1,0 +1,7 @@
+Krankenstein II er en variant af Wolfenstein3D
+med ny grafik, lyde og baner.
+Hvis du har Krankenstein I, kan du kopiere VSWAP.WL1
+til Krankenstein I-mappen og få bedre grafik.
+Start med 'change view' for at tilpasse skærmen.
+
+Vincent (http://vincentius.dk)

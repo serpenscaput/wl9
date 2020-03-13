@@ -1,0 +1,43 @@
+
+
+
+             WOLF-SWE  --------   WOLFENSTEIN IN SWEDEN  !!!
+
+
+This is the Wolf-Swe version of the shareware edition of Wolfenstein (v1.4).
+This game has new graphics (with ghoast soldiers) and new sound.
+It also combines 4 different map versions.
+Use the the file map.bat to control the game.
+The map.bat file also controls the savegames.It will back up savegames from
+maps you are not currently using !!
+
+
+
+Programs I used creating Wlf-Swe were "Wolfedit" by Bill Kirby and "Wlfaud" by
+Bill Neisius.
+
+The commands:
+
+
+Map [1,2,3,4] :The different maps you may choose.
+
+The Wolfsweden game was created by Oeyvind Naeroe (THE GREAT NERO,YOU KNOW )
+Actually Øyvind Nærø.
+My e-mail address is onaro@sn.no (you may contact me by e-mail)
+
+
+Particularly I wish you folks from Sweden good luck while playing
+WolfSweden !!!
+
+====================================================================
+Just in case,read the legal stuff here :
+
+My real name                :: Øyvind Nærø
+E-mail address              :: onaro@sn.no
+Name of the file uploaded   :: wolf-Swe.zip
+Distribution status         :: Freely re-distributable 
+Name of the original author :: ID software
+Directory to place the file :: Games
+Why my file is suitable     :: It is great fun !!!
+====================================================================
+

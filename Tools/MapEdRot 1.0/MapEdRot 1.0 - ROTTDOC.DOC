@@ -1,0 +1,441 @@
+                            MapEdRot
+
+                           Version 1.0
+
+                           Map Editor
+                               for
+
+                        Rise Of The Triad
+         -----------------------------------------------
+
+                               by
+
+     David Huntoon - Jeff Hanzlik - Warren Buss - Rob Ciejek
+
+
+             *****NOTICE*****NOTICE*****NOTICE*****
+
+
+This Map Editor for Rise of the Triad should ONLY be used to
+create/edit levels for the registered version of the game. If you
+have problems with any floors produced using MAPEDROT, do NOT
+contact Apogee Software. They are not responsible for this editor
+or its products. Nor do they support them. Please contact one of
+the MapedRot authors if you have problems with MAPEDROT.
+
+Also, if you produce floors that you place in the public domain, be
+sure they carry a notice that users should not contact any of the
+above named companies for help.
+
+It is not unusual for "home-grown" floor designs to cause problems
+when played. That is, a game engine may produce an  error message
+if it finds something in the floor that it doesn't like. Most
+messages from the game urge the player to contact Apogee Software
+and report the problem. IGNORE all such messages and contact one of
+the authors of MAPEDIT if you receive any of these error messages.
+
+To avoid most problems, test all your floor designs thoroughly at
+all skill levels. If possible, have a friend test them also if you
+intend to release your designs into the public domain.
+
+Your cooperation is essential for continued support and
+availability of MAPEDROT. Thank you.
+
+                            ---------
+
+Rise of the Triad is Copyright by Apogee Software. All other
+trademarks are the property of their respective owners.
+
+                         FREEWARE NOTICE
+
+This program is Freeware. No part of the MAPEDROT program or the
+accompanying documentation may distributed for compensation (except
+for a copying cost and the price of a disk). MAPEDROT may only be
+distributed in its original form -- complete, intact, and
+unaltered.
+
+                       LIMITS OF LIABILITY
+
+The authors of MAPEDROT make no warranties, expressed or implied,
+as to the quality or performance of this program. Your use of this
+program constitutes your release of the authors from liability or
+litigation for any indirect or consequential damages arising from
+the use of the program or its associated files.
+
+                       *******************
+                           QUICK START
+                       *******************
+
+         !!!  IMPORTANT  WARNING  !!!  IMPORTANT WARNING
+         -----------------------------------------------
+           Be sure you have backup copies of your map
+                 files prior to using MAPEDROT.
+         -----------------------------------------------
+         !!!  IMPORTANT  WARNING  !!!  IMPORTANT WARNING
+
+MapEdRot has been setup to operate from a sub-directory of Rise of The
+Triad.  We recommend that you create a sub-directory named MAPEDROT
+and unzip the files in PROGRAM.ZIP into it.  That is all you will have
+to do.  If you don't install it into a sub-directory of ROTT you will
+have to change the "Game path" parameter in the "Pref" menu.  Once you
+have changed this you should save it by selecting "Save Pref" also in
+the "Pref" menu.
+
+NOTE:  MAPEDROT will ONLY execute in a pure DOS environment.  It will
+NOT operate from within Windows, including WINDOWS 95.  Exception:  If
+you select SHUTDOWN in Win95 and elect to "Restart the Computer in
+MS-DOS mode", MapEdRot will operate in this manner.  We are using a
+freeware DOS extender.  There is a new version expected soon that will
+support running in Windows 3.x and Windows 95.
+
+BASIC MAPEDIT REQUIREMENTS
+
+The system requirements for running MapEdRot are generally the same
+as for playing the game, in terms of the amount of memory required
+and the environment, which is pure DOS. However, MapEdRot will NOT
+execute from within Windows.
+
+During editing, MapEdRot will use up to 500K of hard disk space for
+temporary files.
+
+MapEdRot uses a number of files. These are listed below. All of
+these files should be placed in a directory other than the one
+where the game files reside. You will need to inform MapEdRot where
+the game's files are located. Use the MAPEDIT.INI file for this.
+
+MAPEDROT.EXE (map editor program)
+
+Data Definition Files
+
+MAPDATA.ROT
+OBJDATA.ROT
+INFODATA.ROT
+
+The above 3 files are used to equate the numeric codes within
+the game's Map files to graphic symbols for MAPEDROT to display in
+the Map window. It is recommended that you do NOT modify these
+files. If you do, then make backup copies before you make any
+changes. See HELP in the editor for an explanation of the codes in
+these files.
+
+MAPEDIT.INI (holds user Preferences)
+
+<anyname>.HHH (help files)
+
+<*>.FNT (font files)
+
+PALETTE.DEF (color palette)
+
+TITLE.BMP (color graphic title screen)
+
+GO32.EXE  (provides 32-bit processing)
+
+<*>.SAV (temporary files - may be erased at any time)
+
+Game Files
+
+MapEdRot works with 3 of the Rise of the Triad game files:
+
+*.RTL (levels for single player)
+*.RTC (levels for death match and modem play)
+*.WAD (game graphics)
+
+GAME FILES vs. LEVELS
+
+During editing, floors can be exchanged with one another, or
+replaced with other imported floors. Individual floors can also be
+exported to the hard disk - this is a COPY operation as the
+original floor being exported is not erased. When a copy of a floor
+is exported to hard disk it becomes independent of the original map
+file. An exported level cannot be edited or viewed again until it
+is imported to an existing game map file.
+
+Existing floors can be imported to a Current level in MapEdRot
+using the Import command for placement on any existing level within
+the game being edited. This causes the original floor on the target
+level to be overlaid.
+
+When you finish editing and are ready to quit MapEdRot, you will be
+prompted for whether you want to save any changes made during the
+edit operation. If you reply YES, all floors on all levels are
+rewritten to the game's map file. This replaces the original copy
+of the map file on disk.
+
+Saving is not the same as exporting individual floors; Saving saves
+all floors into one file; Exporting creates a single file
+consisting of one floor only.
+
+HELP
+
+Help while running MapEdRot is available online by pressing either
+F1 or Clicking on the Help button in the Menu Bar.
+
+                   *********IMPORTANT*********
+
+Much of what you need to know about running MAPEDROT and about
+designing levels for Rise of the Triad is contained in the HELP
+text. Be sure to review it as needed.
+
+It is also strongly recommended that you carefully study some of
+the levels in the registered version of Rise of the Triad. Most
+anything you want to do has been done in the official game levels.
+
+Loading MAPEDROT
+
+Upon loading MAPEDROT (by typing MAPEDROT on the DOS command line),
+you will first view an opening announcement. Press Enter and you
+will see a screen asking you to select a screen resolution. The
+highest resolution (1024x768) provides the smoothest texture. You
+must select one of the 3 resolutions. There is no default at the
+present time. The next screen will be the Title graphic. Press
+Enter once more and the editor screen will appear.  When this is
+complete, the screen will display the 1st floor in the first
+episode.
+
+Choosing a Game File to Edit
+
+To edit a game file other than the default (DARKWAR.RTL), you can
+supply the name of an existing game file by entering its name as a
+parameter on the command line when you invoke MapEdRot. The game
+file you choose must be in the directory pointed to by the
+MAPEDIT.INI file. You will set this up in the Preferences section
+of the editor.
+
+Example: mapedrot <name>.rtl
+
+Alternatively, after you load MapEdRot, you can pull down the File
+Menu and open the file of your choice from there.
+
+Getting Started
+
+After the Map Editor is loaded the first time, you should
+familiarize yourself with the layout of the screen (described
+below) and immediately select 'Pref' from the Menu bar in order to
+pull down the Pref menu. From here you can choose among several
+options. One of the first options you will probably want to select
+is the location of the game files. After you make a selection, be
+sure to Save your changes.
+
+Map Window Details
+
+A floor map is 128 by 128 squares (or cells), and as stated above,
+the map consists of 3 basic ingredients: Map data (floors, walls,
+and doors), Object data (almost everything else), and LHV or
+INFODATA (special hex values). All types of data can be displayed
+independently or all at once.
+
+By default, the floor codes are not visible when the editor is
+first loaded. (The default can be changed by use of the optional
+MAPEDIT.INI file - see below). In order to see them, you press the
+'F' hot-key which will toggle them on the screen. Since floor codes
+and object codes often exist together, you may want to turn off the
+object codes when viewing the floor codes. You can toggle the
+Object codes off by pressing the 'O' hot-key. (Walls and doors
+normally remain visible on the screen).
+
+Mouse Use in the Map Window
+
+Since there are at least 2 buttons on every mouse, you can use the
+left and right buttons to hold 2 different item codes for each of
+the 3 different Edit modes you are currently in - Object, Map, or
+LHV. As indicated above, both button values are displayed just
+beneath the Item List Window.
+
+Selecting a Definition For Either Mouse Button
+
+There are 2 ways to select a data definition for a mouse button.
+You can either move the mouse over to the Item List window and
+point to the symbol you want to select and click a mouse button, or
+you can point to an object, map, or LHV symbol in the Map window,
+hold down a Shift key and click a mouse button to pick up the
+desired item. You must be in EDIT mode (cursor is a pencil) to
+select an item from the Map Window.
+
+Inserting an Item on the Map
+
+After assigning an item to either mouse button, move the mouse to
+the location on the map where you want the item to be inserted,
+make sure you are in EDIT mode and click the appropriate mouse
+button to place the item on the map. This has the effect of erasing
+any object currently at the chosen location and inserting a new one
+in its place.
+
+Erasing an Item from the Map
+
+To erase (remove) an item anywhere on the map, select the
+appropriate "No Map Item, No Object Item, or No LHV Item from the
+Item List Window and insert it in the Map Window where you want to
+erase an item (or items).
+
+Clearing the Map Window
+
+When starting a fresh design, it is often desireable to clear out
+the current floor design. You do this by pulling down the Edit menu
+from the Menu Bar and selecting "neW level". Only locations 0,0
+thru 0,3 will contain their former codes.
+
+Drawing Mode - Freehand
+
+The mouse can be used to draw figures in the Map window in
+freehand. To draw freehand, simply hold down the chosen mouse
+button and "drag" the mouse in the direction you wish to go. This
+works in all 3 map modes.
+
+NOTE: Previously placed objects will remain in their original
+positions, so be careful not to end up with guards embedded in
+walls.
+
+The mouse can also be used to draw straight lines of map data that
+you want replicated. Just select the item with either mouse button.
+Position the mouse in the Map window where you want to start
+replicating the item and hold the appropriate button down while
+dragging the mouse vertically or horizontally.
+
+Item List Window
+
+To change Edit Modes, press the Space Bar. To scroll vertically,
+one screen full at a time, move the cursor to the Item List Window
+and use the PgUp/PgDn keys. Use the up/down arrow keys to scroll
+one item at a time. Use the Home and End keys to get to the top and
+bottom respectively.  Use the left/right arrows to scroll
+horizontally. Pressing HOME, END, or Space will return the window
+to the far left.
+
+Toggle Keys
+
+     F - Toggle floor codes display on/off
+     H - Toggle HEX mode on/off
+     L - Toggle LHV display on/off
+     O - Toggle objects on/off
+ Alt+S - Display count of items in Item List Window
+<Space>- Toggles round robin among Object, Map, and LHV list items.
+
+NOTE: Initial "toggle" settings are controlled by MAPEDIT.INI file.
+
+F Toggle (Toggle Floor data On and Off)
+
+Pressing the 'F' key will toggle the floor code display on and off
+in the Map Window. The default setting is set by MAPEDIT.INI.
+
+H Toggle (Toggle Hex Mode on/off)
+
+Use the 'H' key to cause data in the Information Window Center
+Panel to be displayed in hex or to toggle off the hex values and
+display values in decimal. The default setting for this is
+controlled by the MAPEDIT.INI file.
+
+L Toggle (Toggle LHV Display)
+
+The 'L' key toggles the LHV display graphics (green square with
+green cross inside) on/off. Having them toggled on will show where
+the LHV codes are. Toggling them off will display what is
+underneath the LHV codes. The default setting for this is
+controlled by MAPEDIT.INI.
+
+O Toggle (Toggle Object Data On/Off)
+
+Use the 'O' key to toggle Object data on and off. This operation is
+similar to the 'F' key above which toggles Floor codes on and off.
+It is often useful to have Object data removed from the Map Window
+when examining floor codes. The default setting for this toggle
+action is controlled by the MAPEDIT.INI file.
+
+Alt+S Toggle (Display Count of Items in Legend Window)
+
+Pressing Alt+S will toggle on and off a display of the count of the
+individual items listed in the Item List Window. The default
+setting for Alt+S is controlled by the MAPEDIT.INI file.
+
+Spacebar Toggle (Toggle between Map, Object, and LHV Item Lists)
+
+Pressing the Spacebar will toggle the Item List window to display
+either Map data, Object data, LHV Item data, the effect of which is
+to change Edit modes between Map, Object, and LHV data.
+
+Scrolling Keys
+
+<pgup/pgdn>          - Pages Item List up/down (cursor in Item List
+                       Window
+<up/down arrows>     - Scrolls Item list up or down one line at a
+                       time.
+<left/rt arrows>     - Scroll legend horizontally one column
+<Ctrl+lft/rt arrows> - Scroll legend horiz. 10 columns
+<Home/End>           - Top/Bottom of Legend
+<Pgup/Pgdn>          - Select level to view (cursor in Map Window)
+
+Statistics
+
+The statistics display, which is toggled on and off using the 'S'
+hot-key, keeps track of the following information:
+
+     Walls
+     Doors
+     Static Objects
+     Low Guards
+     High Guards
+     BOSSes
+     Weapons
+     Push Walls
+
+Besides the statistics displayed above, there are more available in
+each Legend window by using the Alt+S key. When this key
+combination is pressed, the count of any items presently displayed
+in the Item List window that exist in the current Map window will
+be displayed to the right of each item in the Legend window. The
+item counts can be toggled off by using Alt+S again. This feature
+can be quite useful when you are attempting to determine whether a
+particular object or map code is used in any given level. Any value
+other than zero means the code is being used.
+
+MAPEDIT.INI file
+
+An optional file included in the MAPEDIT package is a MAPEDIT.INI
+file. This file can be used to change defaults that are used by the
+editor.
+
+The file currently contains 12 variables that can be edited with
+any Ascii editor. Below are the variable names and their default
+values.
+                                       Default
+show_objects=true/false                 true
+show_floor=true/false                   false
+stats=true/false                        false
+count_all=true/false                    false
+show_large_hex=true/false               true
+hexvals=true/false                      false
+item_hex_codes=true/false               false
+mapitems_with_onlyobject=true/false     (not used)
+def_file_extension=xxx                  (not used)
+swap_drive=(any logical DOS drive)      none
+game_path=(any valid DOS path)          .\
+floorfile_path=any valid DOS path       .\
+rubber_band=true/false                  (not used)
+zap_thru_pushwall=true/false            (not used)
+
+Explanations in the order listed above:                 Hot-key
+                                                        Toggle
+Display Object symbols on map                             O
+Display Floor Code symbols on map                         F
+Display Object Counts                                     S
+Display Items Counts in Legend Window                     Alt+S
+Display LHV symbols                                       L
+Display column/row in hex                                 H
+Display Map and Object hex codes                          Alt+H
+Display map symbols when viewing only selected objects
+DOS file extension for map and object data def. files.
+Path to use to store temp files
+Directory containing game files.
+Path to read/write floor files.
+
+The MAPEDIT.INI file included is a sample of how these variables
+are coded. You can use the sample file by changing the definitions
+to suit your needs.
+
+To expand a bit on a couple of the variables in the list above,
+"game_path" can be used to define the name and location of the
+directory where the ROTT game files are located, if not in the
+current directory.
+
+All 3 data definition (.ROT) files must reside in the same
+directory as MAPEDROT.
+

@@ -1,0 +1,23 @@
+===============Credits=====================
+
+============Programming====================
+
+   Sigma64     Blzut3    John Carmack 
+ 
+ John Romero        Jason blochowiak
+
+===========Graphics========================
+
+Adrian Carmack   Kevin Cloud Sigma64
+
+Formgen Corporation     Apogee  ID software
+
+
+===============NOTICE===================
+ 
+Wolfenstein 3D is the property of ID 
+software, and ID software alone. Most of 
+the graphics used are based on those 
+created by them. 
+
+  

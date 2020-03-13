@@ -1,0 +1,17 @@
+   
+   Setting up WolfMenu to your tastes and needs can be done through
+the WolfMenu editor.
+
+   For starters, change the colors and border to your liking.
+Select WolfMenu Editor, then colors.  Once you have a satisfactory
+combination, select the Save changes entry. A message will appear that
+COLOR.CFG has been updated. If you had escaped back to the Editor menu
+without saving, the colors will have reverted back to those you started with.
+
+   Tip: the most conventional borders are 1, 2, 3, 4, 176, 177, 178, 219,
+and maybe 255, but feel free to experiment! 
+
+   All of the other items to edit work the same way: no changes will be kept
+until you actively save them. 
+
+   

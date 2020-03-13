@@ -1,0 +1,609 @@
+^BC12^SC00^ST1^LC14^DC11^HC67^FCa8
+;^FC36^FN1^CEBLAKE STONE: Aliens Of Gold^FN4
+;
+;-------------------------------------------------------------------------
+; QUICK REFERENCE - Function Keys F1 - F5
+;-------------------------------------------------------------------------
+;
+;^HO^CEQUICK REFERENCE - Function Keys^HF
+^HOQUICK REFERENCE^RJFunction Keys
+^HF^LJ
+
+      ^SH0c1 ^AYff^LMfff^HOHELP^HF^FN2
+^AY03DISPLAYS THIS HELP TEXT.^FN4^DM
+      ^SH0c2 ^AYff^LMfff^HOSAVE GAME^HF^FN2
+^AY03SAVE UP TO 10 GAMES.^FN4^DM
+      ^SH0c3 ^AYff^LMfff^HOLOAD GAME^HF^FN2
+^AY03RESTORE A PREVIOUSLY SAVED GAME.^FN4^DM
+      ^SH0c4 ^AYff^LMfff^HOSOUND OPTIONS^HF^FN2
+^AY03CHANGE YOUR SOUND OPTIONS.^FN4^DM
+      ^SH0c5 ^AYff^LMfff^HORESIZE VIEW^HF^FN2
+^AY03CHANGE THE SIZE OF YOUR VIEW^FN4^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; QUICK REFERENCE - Function Keys F6 - F10
+;-------------------------------------------------------------------------
+;
+;^FCa8^HO^CEQUICK REFERENCE - Function Keys^SX0s^HF
+^HOQUICK REFERENCE^RJFunction Keys
+^HF^LJ^SX1^PX0f0^RMfff
+;^SX1^RX0^RMfff
+
+      ^SH0c6 ^AYff^LMfff^HOCONTROLS^HF^FN2
+^AY04SET UP GAME CONTROL DEVICES.^FN4^RX1^LMfff
+      ^SH0c7 ^AYff^LMfff^HOEND GAME^HF^FN2
+^AY04ENDS THE CURRENT GAME.^FN4^RX1^LMfff
+      ^SH0c8 ^AYff^LMfff^HOQUICK SAVE^HF^FN2
+^AY04SAVES CURRENT GAME OVER THE PREVIOUSLY SAVED GAME.^FN4^RX1^LMfff
+      ^SH0c9 ^AYff^LMfff^HOQUICK LOAD^HF^FN2
+^AY04LOADS THE PREVIOUSLY LOADED GAME FROM DISK.^FN4^RX1^LMfff
+      ^SH0ca ^AYff^LMfff^HOQUICK EXIT^HF^FN2
+^AY04QUICK EXIT BACK TO DOS.^FN4^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; QUICK REFERENCE - Weapon Selection
+;-------------------------------------------------------------------------
+;
+;^HO^CEQUICK REFERENCE - Weapon Selection^HF
+^HOQUICK REFERENCE^RJWeapon Selection
+^HF^LJ
+^SB0
+
+^AYfd^SY0^SH0bc ^AYd2^SH022^RY0 ^AYfb^LMfff^HOAuto-Charge Pistol^HF^FN2
+^AY05FEATURES: ^LMfffSELF-POWERED UNIT
+SILENT ATTACK WEAPON^DM
+
+^FN4
+^AY02^SY0^SH0bd ^AYd2^SH007^RY0 ^AYfb^LMfff^HOSlow-Fire Protector^HF^FN2
+^AY05FEATURES: ^LMfffSLIGHT WAIT BETWEEN SHOTS
+USES STORED ENERGY^DM
+
+^FN4
+^AY02^SY0^SH0be ^AYd2^SH008^RY0 ^AYfb^LMfff^HORapid Assault Weapon^HF^FN2
+^AY05FEATURES: ^LMfffMEDIUM REPEAT-FIRE UNIT
+USES STORED ENERGY^DM
+
+^FN4
+^AY02^SY0^SH0bf ^AYd2^SH009^RY0 ^AYfb^LMfff^HODual Neutron Disrupter^HF^FN2
+^AY05FEATURES: ^LMfffHIGH-SPEED REPEAT-FIRE UNIT
+OSCILLATING BARREL MECHANISM^DM
+
+^FN4
+^AY02^SY0^SH0c0 ^AYd2^SH08a^RY0 ^AYfb^LMfff^HOPlasma Discharge Unit^HF^FN2
+^AY05FEATURES: ^LMfffWIDE RANGE OF DETONATION
+REPEAT-FIRE CAPABILITY^DM
+^FN4^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; QUICK REFERENCE - Other Keys
+;-------------------------------------------------------------------------
+;
+;^HO^CEQUICK REFERENCE - Other Keys^HF
+^HOQUICK REFERENCE^RJOther Keys
+^HF^LJ
+
+ ^AYfd^LMfff^SH0b7 ^AY02Quick 90 Degrees Left
+
+^AYfe^SH0b8 ^AY02^AX03^HOOR^HF^AYf4^SH0cb^AY0c Quick 180 Degrees
+
+^AYfe^SH0b9 ^AY02Quick 90 Degrees Right
+
+^AYfe^SH0ba ^AY02Attack Information^FN2^AY04 ON/OFF^FN4
+
+^AYfd^AYfe^SH0bb ^AY02Heartbeat^FN2^AY04 ON/OFF^FN4
+
+^AYfd^AYfe^SH0d6 ^AY02Lighting^FN2^AY04 ON/OFF^FN4^DM
+
+^EP
+;
+;-------------------------------------------------------------------------
+; QUICK REFERENCE - Other Keys
+;-------------------------------------------------------------------------
+;
+^HOQUICK REFERENCE^RJOther Keys
+^HF^LJ
+
+ ^AYfc^LMfff^SH036^HO ^AY02^AX02OR^HF^AXff^AYfe^SH0b1^AY02^AX02Pause Game^AYfe
+
+^AYfc^SH0b2^AY02 ^AX01Main Menu
+
+^AYfc^AYfe^SH0cd^AY02 Ceiling Texture^FN2^AY04 ON/OFF^FN4
+
+^AYf9^AYfe^SH0ce^AY02 Floor Texture^FN2^AY04 ON/OFF^FN4
+
+^AYf9^AYfe^SH087^AY02 Music^FN2^AY04 ON/OFF^FN4
+^AYfa^AY09^SH0cc^AY02 Displays Auto-Map/Stats^FN2^AY04 ROTATED^FN4
+^AYfa^AY09^SH0d7^HO ^AY02^AXff+^AYfe^AXfc^HF^SH0cc^AY02 ^AXffDisplays Auto-Map/Stats^FN2^AY04 
+NON ROTATED^FN4
+^DM
+
+^EP
+;
+;
+;-------------------------------------------------------------------------
+; QUICK REFERENCE - Default Controls
+;-------------------------------------------------------------------------
+;
+^HOQUICK REFERENCE^RJDefault Controls
+^HF^LJ
+
+^SY0
+
+
+^SH0b3^SX0^SH0b5^SH0b6   ^LMfff
+^RY0^RX0^AY04^SH0b4
+
+^RY0^AY04Use the arrow keys to move around the different floors of the S.T.A.R. buildings.^DM
+
+
+^AYfe^AYfe^SH0af ^AY02^AX04Shoot Weapon    ^AX04^AYfe^SH0ae ^AY02^AX00Strafe Mode
+
+
+^AYfc^AY04^SH0b0 ^AX03^AYfc^LMfff^HOMulti-Purpose Activation^HF^FN2
+^AY05USES: OPEN / CLOSE DOORS
+     ^AX02INTERROGATE THE BIO-TECHS
+     ^AX02OPERATE FOOD UNITS
+     ^AX02ELEVATOR PANEL SELECTION
+     ^AX02ACTIVATE BARRIER / ARC SWITCHES
+
+^FN4^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Controls
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJControls
+^HF^LJ^DM
+
+The keyboard is not the only means of playing Blake Stone. Players can also use a 
+^HOmouse^HF, ^HOjoystick^HF, or the ^HOGravis Gamepad^HF for control.
+
+  ^AYfd^SH037^AX08^SH071^AX08^AYfc^SH086
+
+^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Controls
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJControls
+^HF^LJ^DM
+
+The player can configure the buttons on each of these input devices through the^HO 
+GAME OPTIONS^HF selection from the^HO MAIN OPTIONS^HF menu.
+
+  ^AYfd^SH037^AX08^SH071^AX08^AYfc^SH086
+
+^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Objective
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJObjective
+^HF^LJ^SB0
+
+^AYfeThe Blake Stone six-pack consists of six missions -- each continues where the 
+previous one leaves off. The ^HOoverall^HF objective is to stop Dr. Goldfire before 
+he can release his mutant creations on the universe.
+
+^AYd0^AXf0^SH001^AY2a^AXec^LMfffYou'll start each mission on Floor 1 and ^HOmust 
+find the RED access key^HF before^DM
+proceeding to the next floor^HF. Once you've made it to Floor 9, you'll fight one-on-one 
+against the evil Dr. Goldfire. If you survive, you'll have to destroy one of his 
+most fierce creations!
+^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Floors
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJFloors
+^HF^LJ
+
+^AX03^SH025 ^AYfe^AXfd^LMfffTo move between floors, enter the elevator and move up 
+to the wall pictured at the left. Press^AYfe^SH0b0^AY02 to activate the floor selection 
+screen and use the keyboard to select a floor.^DM
+
+^AYfcWhile you must have the RED access key in order to move to the next floor, ^HOyou 
+can select floors you've already played^HF. The floor will be restored to the way 
+it was when you left -- ammo, aliens, mutants, guards ... everything!
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Auto-map Status Window
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06During game play, press the^AYfe^SH0cc^AY02^AX06key to display the auto-map 
+/ statistics window. The area on the left side of the window shows an overhead view 
+of where you have been on the floor you are currently playing.
+^EP
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ^DM
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06^HOGREEN^HF areas are non-hidden, ^HODARK GREEN^HF areas are hidden, ^HOFLASHING^HF 
+dot is the player, ^HOLIGHT GREEN^HF dots are unlocked doors, ^HORED^HF dots are 
+locked doors.
+^EP
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ^DM
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06^AX03The right side of the window shows current mission stats.
+^AX03^HOTOTAL POINTS:^HF percentage of total points available on current floor.
+^EP
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ^DM
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06^AX03^HOINFORMANTS ALIVE:^HF percentage of informants ^HOnot^HF killed on current 
+floor. Starts out at ^HO100^HF%.
+^AX03^HOENEMY DESTROYED:^HF percentage of enemy killed on current floor.
+^EP
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ^DM
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06^AX03^HOFLOOR RATING:^HF the average of total points, informants alive, and 
+enemy destroyed.
+^AX03^HOMISSION RATING:^HF based on percentages of all non-secret floors (1-9) played. 
+Secret floors aren't required to complete each mission.
+^EP
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ^DM
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06^HOFloor Rating^HF and^HO Mission Rating^HF start at ^HO33^HF% (because all 
+informants are alive at that point) and will decrease as informants are killed. So 
+ask before you shoot!
+^EP
+;
+^HOGAME PLAY^RJAuto-Map/Stats
+^HF^LJ^DM
+
+   ^AX03^AYfd^SH02f
+
+
+
+
+
+^AY06The information shown in the status area is useful for besting your score in 
+future replays or comparing scores with other Blake gamers.
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Food Units
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJFood Units
+^HF^LJ^SB0
+
+^AX03^SH023 ^AYfe^AXfd^LMfffFood units produce items that increase your health. Walk 
+up to the wall and press^AYfe^SH0b0^AY02  ^AXfdto activate the food unit. The REBA 
+interface will describe the item you received from the food unit.^DM
+
+^AYcc^AXee^SH020^AXda^SH021^AY2c^AXee^LMfffYou must have tokens in order to operate 
+these machines. Tokens can be^DM
+found on the floor or given to you when you interrogate informants.
+^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Barrier Switches
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJBarrier Switches
+^HF^LJ^SB0
+
+^AX03^SH026 ^AYfe^AXfd^LMfffBarrier Switches are used to toggle ARCS and POSTS on 
+and off. Walk up to the wall and press^AYfe^SH0b0^AY02  ^AXfdto activate the barrier 
+switch. The REBA interface will tell you the floor where the arc/post is located.^DM
+
+^AY03^SL^AN24^LMfff^RM0a0
+
+Posts simply obstruct your path.^DM
+^RL^PX0a0^AN25^LMfff
+
+Arcs ZAP you when you get too close.^DM
+^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - Teleports/Push Walls
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJWarps/Hidden Areas
+^HF^LJ^SB0
+
+^AX03^SH027 ^AYfe^AXfd^LMfffTeleporting units, or "warps," take the player from one 
+area of a floor to another, or out of one floor into another depending on the type 
+of warp you step into. To warp-out of an area, walk up to a warp wall.^DM Face the 
+wall and press the^AYfe^SH0b0^AY02^AX06bar. The player will rotate 180 degrees and 
+warp-out.^DM
+
+^AYfd^HOHIDDEN AREAS^HF may be found in any given area of a floor. To open a hidden 
+area, roam along the wall at an angle while depressing the space bar.
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - FLOATING BOMBS - VT'S
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJDrones/Transports
+^HF^LJ^SB0
+
+^SH076 ^LMfffActive PerScan (perimeter scanning) Drones chase the player and explode, 
+causing damage to the player's health and anything in the surrounding area.^DM
+
+
+^AYf7^AN26^AY09 ^LMfffVolatile Transports are used to carry toxic substances. They 
+explode when shot and will often drop "ooze" that can hurt you when touched.^DM
+^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - TURRETS/CRATES
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJTurrets/Crates
+^HF^LJ^SB0
+
+^AY1a^AN05^AYe6 ^LMfffCeiling mounted gun turrets "lock-on" and start firing when 
+the player is detected around them. They have massive firepower and unlimited ammo--approach 
+with caution!^DM
+
+
+^AY06^AYd8^SH0cf^AY28 ^LMfffWhen shot, some of the cargo crates explode to reveal 
+bonus items.^DM
+^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; GAME PLAY - AMMO/HEALTH
+;-------------------------------------------------------------------------
+;
+^HOGAME PLAY^RJAmmo/Health
+^HF^LJ^SB0
+
+^AYec^SH006^AY14 ^LMfffAmmo "charge units" power-up player weapons with 8 units of 
+charge each time one is picked up. A charge unit that has been dropped by killing 
+an actor contains what he did not expend while he was alive.^DM
+
+
+^AYd1^SH00a^AY2f ^LMfffFirst Aid bags contain the largest heal - 30 percent^DM
+^SB1
+^EP
+;
+^HOGAME PLAY^RJAmmo/Health
+^HF^LJ^SB0
+
+^AYc9^SH011^AY37 ^LMfffSteak       20 percent heal^DM
+
+^AX03^AYc9^SH010^AXfd^AY37 ^LMfffRaw Meat  ^AX0b 15 percent heal^DM
+
+^AX02^AYc9^SH089^AXfe^AY37 ^LMfffSandwich   ^AX07 10 percent heal^DM
+
+^AXfb^AYc9^SH088^AX05^AY37 ^LMfffCandy Bar   ^AX03 8 percent heal^DM
+
+^AX04^AYc9^SH012^AXfc^AY37 ^LMfffWater Bowl  ^AX05 5 percent heal^DM
+
+^SB1
+^EP
+;
+;-------------------------------------------------------------------------
+; BONUS ITEMS - Treasure
+;-------------------------------------------------------------------------
+;
+^HOBONUS ITEMS^RJTreasure
+^HF^LJ^SB0
+
+^AYfbDr. Goldfire's empire is filled with loot and treasure that he has plundered 
+from innocent civilizations throughout the known universe. Part of your mission is 
+to "grab" as much of this booty as you can and bring it back with you. Besides making 
+you look like a hero and a very "nice guy", it can give you a MEGA SCORE!^DM
+^HOSome of the goodies are:^HF
+^AX02^AYe9^SH00f   ^AXec^AYf7 ^SH00e   ^AXea^AY03 ^SH00d   ^AXe9^AY02 ^SH00c
+
+
+  ^FN2XYLAN ORB        GOLD           LOOT       MONEY BAG
+
+
+
+
+^AYfe ^AX04 ^AYfe ^FN25000 PTS  ^AX02 250 - 1000 PTS     ^AXfd 500 PTS      ^AXfb 
+100 PTS
+^FN4
+^DM
+^SB1
+^EP
+;-------------------------------------------------------------------------
+; CHARACTER PROFILE - Bio-Techs
+;-------------------------------------------------------------------------
+;
+^HOCHARACTER PROFILE^RJBio-Tech
+^HF^LJ
+
+^AYf8^AN09^LMfffBio-Technicians helped Dr. Goldfire create his mutated, alien creatures. 
+Many are loyal to Goldfire and will destroy anyone attempting to harm him -- especially 
+you, Blake!^DM
+
+However, some of the Bio-Techs are opposed to Goldfire's actions and are here to 
+help you. You can gain ^HOinformation^HF, ^HOammo^HF, and ^HOtokens^HF from these 
+^HOinformants^HF by pressing ^AYfe^SH0b0^AY02 when they are near. You'll instantly 
+receive a message through the REBA interface.
+^EP
+;
+;-------------------------------------------------------------------------
+; CHARACTER PROFILE - Sector Patrols
+;-------------------------------------------------------------------------
+;
+^HOCHARACTER PROFILE^RJSector Patrol
+^HF^LJ
+
+^AYf8^AN04^LMfffSector Patrols serve as Goldfire's front-line of defense against 
+intruders. While these inexperienced guards see little action, they're still a major 
+threat to your objective!^DM
+
+These guards carry the simplistic (but deadly) Slow-Fire Protector. It's faster than 
+the Auto-Charge Pistol that you start with so grab this weapon after defeating your 
+first Sector Patrol.
+^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; CHARACTER PROFILE - STAR Sentinel
+;-------------------------------------------------------------------------
+;
+^HOCHARACTER PROFILE^RJSTAR Sentinel
+^HF^LJ
+
+^AYf8^AN0d^LMfffSTAR Sentinels are professionally trained security guards that carry 
+the auto-repeating Rapid Assault Rifle. No doubt about it -- this weapon will solve 
+your multiple-enemy problems!^DM
+
+Pick it up after you defeat the first STAR Sentinel. Be prepared -- he won't give 
+it up easily!
+^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; CHARACTER PROFILE - STAR Trooper
+;-------------------------------------------------------------------------
+;
+^HOCHARACTER PROFILE^RJSTAR Trooper
+^HF^LJ
+
+^AYf8^AN18^LMfffSTAR Troopers are by far the toughest guards under Goldfire's control. 
+These guards wear a protective security vest that turns a deadly shot into a minor 
+wound.^DM
+
+In fact, these guards will fall to the ground when wounded, and after a slight rest 
+get back up and continue fighting. Best bet is to never leave an area with a STAR 
+Trooper down and wounded -- wait until he gets back up and finish him off!
+^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; CHARACTER PROFILE - Other Characters
+;-------------------------------------------------------------------------
+;
+^FN4^HOCHARACTER PROFILE^RJOther Characters
+^HF^LJ
+
+Dr. Goldfire and his Bio-Techs have created many other creatures to hinder you in 
+completing your missions. Instead of revealing every nuance about these creatures, 
+you'll have to play the game to discover their strengths and weaknesses! Good luck, 
+you're gonna need it!!!
+^DM
+^EP
+;
+;-------------------------------------------------------------------------
+; JAM CHEAT - cheat keys
+;-------------------------------------------------------------------------
+^FN4^HOJAM CHEAT^RJCheat Keys
+^HF^LJ
+
+^AYf8There is an optional cheat mode built into Blake Stone. Using this cheat will 
+give you full ^HOammo^HF, full ^HOhealth^HF, all ^HOweapons^HF, and all ^HOaccess 
+cards^HF.
+
+To activate this cheat mode, TYPE (one letter at a time) [^HOJ^HF] [^HOA^HF] [^HOM^HF] 
+and then press [^HOENTER^HF]. This cheat can be used as many times as you wish but 
+each time your score will drop to ^HO0^HF.
+
+This cheat only works in the ^HOregistered^HF version.
+
+^EP
+;
+;-------------------------------------------------------------------------
+; SPECIAL THANKS!
+;-------------------------------------------------------------------------
+;
+^HO^FN1^CESPECIAL THANKS TO^HF
+
+  ^FN2APOGEE SOFTWARE     ^SX1ID SOFTWARE        ^SX2BOBBY PRINCE
+
+   STEVE MAINES           ^RX1NOLAN MARTIN       ^RX2MARK DOCHTERMANN
+   JASON BLOCHOWIAK       ^RX1SCOTT HOST
+
+^HO^FN4^CEAPOGEE TECHNICAL SUPPORT^HF
+^FN2
+   KEVIN GREEN            ^RX1LEE JACKSON        ^RX2JOE SEIGLER
+   STEVE QUARRELLA
+
+^HO^FN4^CEBETA TESTERS^HF
+^FN2
+   BRAD ARNOLD            ^RX1TODD AUBIN         ^RX2MIKE BARTELT
+   NEIL BONNER            ^RX1GLENN BRENSINGER   ^RX2DOUGLAS BREWER
+   DAVID BUTLER           ^RX1MICHAEL CHAPMAN    ^RX2MICHAEL CHAVEZ
+   TODD CRAWFORD          ^RX1DANIEL CREERON     ^RX2SCOTT DARLING
+   BRIAN DHATT            ^RX1JASON EWASIUK      ^RX2BRYAN GILCHRIST
+   CRAIG HAMILTON         ^RX1TERRY HERRIN       ^RX2TIM HILL
+
+^EP
+^HO^FN1^CESPECIAL THANKS TO^HF
+
+  ^FN2GREG HIVELY         ^RX1JOHN HOWARD        ^RX2DOUGLAS HOWELL
+   ROBERT HUNLEY          ^RX1DENNIS KUREK       ^RX2ANDREW LEHRFIELD
+   HANK LEUKART           ^RX1JAMES LIETZAN      ^RX2KEN MAYER
+   WAYNE MILLARD          ^RX1PENNY PLANT        ^RX2BRIAN PRINNER
+   JEFFREY RAUSCH         ^RX1DENNIS RIVARD      ^RX2NEIL RUBENKING
+   JOE SELINSKE           ^RX1ANDREW STEGMAN     ^RX2NANCY WEINER
+   GARY WEINFURTHER       ^RX1CHRIS WHITE        ^RX2PHILLIP WRIGHT
+
+   BRYON BREWER           ^RX1DANNY DAUGHTRY     ^RX2MATT DODSON
+   DAVID DUNCAN           ^RX1CHARLES FAUST      ^RX2JOSEPH HODGE
+   JASON MASSEY           ^RX1JOHN MAYNARD       ^RX2CHRIS MELANCON
+   JAMES SCHMIDT          ^RX1MARJAN TRUTSCHL
+
+^CEMICHAEL REEVES OF DARK SIDE
+^CELAMAR TOWNSEND OF LUNATIC LABS
+^EP
+^XX...

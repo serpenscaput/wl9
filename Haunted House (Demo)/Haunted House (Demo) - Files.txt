@@ -1,0 +1,55 @@
+==============================================================================
+
+                      Haunted House Demo 1.0
+
+		 By: Codetech Software & Megabyte
+
+==============================================================================
+
+			      FILES:
+			      ======
+
+ Hh1Demo.zip: (Main archive)
+ 
+ Haunted.exe (Game executable)
+ 
+ Data1.hh1 
+ Data2.hh1
+ Data3.hh1
+ Data4.hh1
+ Data5.hh1
+ Data6.hh1
+ Data7.hh1
+ Data8.hh1
+ Data9.hh1 (Configuration file, if it doesn't exist it will be created)
+
+ E_Text1.hh1
+ E_Text2.hh1
+ E_Text2.hh1
+ E_Text3.hh1
+ E_Text4.hh1
+ E_Text5.hh1
+ H_Text.hh1
+ 
+ Demo0.hh1
+ Demo1.hh1
+ Demo2.hh1
+ Demo3.hh1
+
+ File_id.diz    (Info file)
+ Eng_Readme.txt (English readme)
+ Fin_Readme.txt (Finnish readme)
+
+ Mem_util.zip: (Additional archive)
+
+ Mem_util.bat (Memory utility)
+
+ Cursors.zip (Additional archive)
+
+ Hh_Cursor1.ani (Animated cursor -> normal)
+ Hh_Cursor2.ani       --- -> loading
+ Hh_Cursor3.ani       --- -> Help
+
+==============================================================================
+ Written by Codetech Software 2002
+==============================================================================

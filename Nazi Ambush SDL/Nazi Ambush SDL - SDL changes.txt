@@ -1,0 +1,18 @@
+Nazi Ambush! by Bobby Bucksnort (shareware mod)
+original DOS release: 2 July 2000
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for shareware
+Apogee version signon screen
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+Endgame ratios adjusted for 4 levels
+Allow warping to level 4
+
+Give player 100% treasure stats for treasure-less level 2
+
+SDL defective hollowalls fixed (Chris Chokan)

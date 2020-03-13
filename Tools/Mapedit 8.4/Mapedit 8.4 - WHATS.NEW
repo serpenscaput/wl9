@@ -1,0 +1,79 @@
+                        *****************************
+                        *                           *
+                        *    New in Version 8.4     *
+                        *       dated 4/08/95       *
+                        *****************************
+
+1.  This release of Mapedit does not contain any new functions. Instead, it
+    contains revisions that fix bugs reported that affect Operation: Body
+    Count and Corridor 7: Alien Invasion only. The other games supported by
+    Mapedit are unaffected by this release.
+
+2.  The documents for the above 2 games have been revised to include new
+    information about the games as well as how to enter Debug Mode in Body
+    Count.
+
+3.  A new Stat has been added for both BC and CO7. It counts the number of
+    animations. See the documentation for details.
+
+                        *****************************
+                        *                           *
+                        *    New in Version 8.3     *
+                        *       dated 3/08/95       *
+                        *****************************
+
+1.  MAPEDIT now supports the newest Blake Stone game "Planet Strike". Also
+    supported are 2 games by IntraCorp, Inc. (Capstone), Corridor 7: Alien
+    Invasion, and Operation: Body Count.
+
+2.  A new utility has been added to the package to support transferring new
+    game levels for Corridor 7 only. The Corridor 7 document explains how
+    this utility is used and why it is needed.
+
+3.  One file (EGAVGA.BGI) that is required with all MAPEDIT versions prior
+    to Vers. 8.3 has been eliminated. It is no longer required starting with
+    this latest version.
+
+                        *****************************
+                        *                           *
+                        *    New in Version 8.1     *
+                        *       dated 8/16/94       *
+                        *****************************
+
+1. Grab-and-Paste with optional Rotate and Mirror functions. Rectangular
+   segments of any floor can be copied to any other floor including the
+   current floor.
+
+2. Freehand drawing of Map data.
+
+3. Selective clearing of all Guards or complete clearing of all objects on
+   the current floor.
+
+4. ZAP command now protects guard block and autodoor hot spot codes in
+   addition to deaf guard codes. The former 2 codes are used only in Blake
+   Stone.
+
+5. Legend window text now appears in blue when selected by left mouse button;
+   in red when selected by right mouse button.
+
+6. ZAP command will now work through "pushwalls" when toggled to do so. The
+   initial toggle setting is controlled by MAPEDIT.INI. Ctrl+Z toggles this
+   feature on and off.
+
+7. On a 3-button mouse the middle button will now toggle between Map and
+   Object mode.
+
+8. The level you want to edit can now be selected as a numeric parameter on
+   the DOS Command line. MAPEDIT will immediately display the selected floor
+   after it has been loaded.
+
+9. A new MAPDATA.BS6 file for Blake Stone. You should view this file and
+   read the comments contained within to see what is new about it apart
+   from the reassignment of wall graphics to give a clearer picture of the
+   various walls used and the patterns that are created within the wall
+   groupings.
+
+10. A SETUP program has been added. This program can be used to create
+    and subsequently modify the MAPEDIT initialization file (MAPEDIT.INI)
+    which contains 13 of MAPEDIT's default values.
+

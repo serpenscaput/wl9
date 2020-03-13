@@ -1,0 +1,12 @@
+SPDemAC.doc
+
+This set SPDemAC.ZIP is a 4 level add-on to be used with Wolfenstein 3-D.  It contains 
+4 levels, the 2 Spear of Destiny demo levels, a secret and a Boss level.
+
+Although it can be played on the PC (with the 1.4 shareware version), its main purpose 
+is to 
+give Acorn and Archimedes users the option of playing the Spear  demo.
+
+Brian E.
+brian@brlowe.globalnet.co.uk
+April 6, 1999

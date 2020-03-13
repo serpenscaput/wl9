@@ -1,0 +1,515 @@
+^P
+^C[Green]QUICK COMMAND REFERENCE
+^c67
+Arrows move. Ctrl shoots. Alt strafes. 1-7 select weapons.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to Desktop
+,			 Strafe left
+.			 Strafe right
+
+^P
+^c[Green]										OPERATION SERPENT
+^c[Green]										TABLE OF CONTENTS
+^c67
+
+WELCOME															3
+STORY    														4
+FEATURES													13
+HOW TO PLAY											14
+ITEMS											 					26
+WEAPONS AND AMMO						29
+ENEMIES														33
+HAZARDS														39
+ALSO FROM EXECUTOR				42
+COMING SOON											49
+POSTSCRIPT											52
+
+^P
+^G16 75 [OSTITLE]
+
+
+
+
+
+^C67Thank you for downloading Operation Serpent First Encounter, an incredible new 
+mod for the ECWolf source port. While my tech demo had shown some of the capabilities 
+of the engine, Operation Serpent is far more ambitious and shows a glimpse of the 
+engine's true potential.
+^P
+^G16 16 [OSMAP]
+^C[Green]THE STORY
+
+^C67The year is 1989. Since its independence in 1976, the Central American republic 
+of San Salvacion had been in the grip of civil war, but now the war has ended with 
+the ascendancy of the "Partido de Liberacion Nacional" (PLN).
+
+The PLN are a militarist, quasi-fascist party representing the interests of the while 
+"creole"
+^P
+^G16 16 [COATARM1]
+^C[Green]THE STORY
+
+^C67elite of the country, led by the dictator Enrique Cruz. They rose to power on 
+platform of xenophobic paranoia and racial hatred, and by now have almost absolute 
+power within the country. However, their aggressive policies are not restricted to 
+mere words.
+
+On December 13, 1988, the PLN passed the "Revolutionary Defense and Relocation Act", 
+eliminating
+
+^P
+^G16 16 [OSBONES]
+^C[Green]THE STORY
+^C67the remaining human rights of the so-called "inferior races" of the country, 
+defined as anyone who is not a white ethnic Spaniard.
+
+The PLN immediately began widespread and brutal repressions against blacks, Indians, 
+and mestizos, up to and including rounding them up and
+^P
+^C[GREEN]THE STORY
+
+^C67deporting them to camps or plantations for use as slave labor. If the potential 
+for a repeat of the Holocaust in the Americas wasn't alarming enough, it is believed 
+that infamous Nazi war criminal Dr. Johann Moerder, has been hiding in the country. 
+Moerder has been implicated in heinous medical experiments conducted at the Chelmno 
+concentration camp in 1944.
+
+Intelligence has it that Dr. Moerder 
+
+^P
+^G16 16 [OSDNA]
+^C[Green]THE STORY
+^C67is working with President Cruz and numerous other scientists on new medical experiments 
+related to genetic and cybernetic modification of primates. At first the experiments 
+were done on native monkeys and apes imported from Africa, but now it is believed 
+that prisoners from the camps are being shipped to laboratories affiliated with Dr. 
+Moerder for experimentation, as well as civilians abducted from Mexico.
+^P
+^G16 16 [OSUN]
+^C[Green]THE STORY
+^C67The Mexican government brought evidence of the Cruz's crimes before the United 
+Nations Security Council in December 1988, showing images and written accounts of 
+atrocities taking place in San Salvacion. However, the United States had lucrative 
+arms deals and trade agreements with San Salvacion, and members of the Reagan cabinet 
+had ties to government and business leaders in the country.
+^P
+^C[Green]THE STORY
+
+^C67After nine days of debate and deliberation, the United States vetoed a UN security 
+council resolution authorizing the use of force in San Salvacion. There would be 
+no international intervention. Mexico then reached out to an armed antifa organization, 
+Accion Antifascista Mundial. Declared terrorists by many in the First World, AAM 
+uses armed resistance to subvert and destroy fascist regimes wherever they may spring 
+up.
+^P
+^C[Green]THE STORY
+
+^C67On March 13, 1989, the organization, with Mexican funding and support, commenced 
+a secret operation known as ^C[Green]Operation Serpent. ^C67You are Agent Maria Cortez, 
+an experienced AAM operative tasked with conducting Operation Serpent. You will be 
+dropped into San Salvacion by helicopter to investigate the activities of the PLN 
+and Dr. Morder and put a stop to them, by any means necessary.
+^P
+^C[Green]THE STORY
+
+^C67Secrecy is paramount. You will be sent in with an Austrian Glock 17 pistol to 
+avoid connection with the Mexican government; all other weapons must be procured 
+on site from the enemy. If you are captured, Mexico will disavow any knowledge of 
+you or your activities.
+
+While history may bever record your struggle, hundreds of thousands of innocent people 
+will owe their lives to you if you succeed. Good luck.
+^P
+^C[GREEN]FEATURES
+^C67* Enormous 180x180 levels--eight times the size of Wolfenstein 3-D levels!
+* 7 devastating new weapons.
+* A variety of powerful enemies, including towering monsters.
+* Deadly traps and environmental hazards, such as spikes, land mines, and lava.
+* Completely new palette for a unique look and feel.
+* Pulse-pounding heavy metal soundtrack.
+* Weapon bobbing, like in Doom.
+^P
+^C[GREEN]HOW TO PLAY
+^C67Your objective in Operation Serpent First Encounter is to make your way across 
+the country of San Salvacion to find Dr. Moerder's hidden laboratory and eliminate 
+him and his creations.
+
+Operation Serpent First Encounter consists of six levels plus one secret level. In 
+each level you must navigate the area, obtain the keycards needed to open locked 
+doors, and defeat your enemies to progress.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 40 [OSBAR]
+
+
+^c67 The ^c[GREEN]status bar ^c67at the bottom of the screen provides critical information 
+during gameplay. 
+
+The first indicator shows the current area you are in, from 1-6 (or 0 for the secret 
+level).
+
+The next one shows your current score. You gain score by defeating
+^P
+^C[GREEN]HOW TO PLAY
+^G32 40 [OSBAR]
+
+
+^c67enemies, collecting treasure, and gaining end-level bonuses. Score represents 
+how thoroughly you have explored the game.
+
+^c67The lives indicator shows your remaining extra lives. You lose a life every time 
+you die, and if you die with zero extra lives, it's game over.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 40 [OSBAR]
+
+
+^c67The mugshot provides a quick visual indicator of Agent Cortez's health. Her face 
+becomes bloodier as she takes damage.
+
+^c67The health indicator is more precise, and shows health as a numerical value. 
+Agent Cortez starts with 100 health and dies if her health reaches zero.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 40 [OSBAR]
+
+
+^c67The next indicator shows the ammunition for your current weapon. Different weapons 
+use different types of ammo, and the knife uses none at all.
+
+After that comes the key bar. It displays which keys you have collected via small 
+colored icons.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 40 [OSBAR]
+
+
+^c67The rightmost indicator shows an image of your current weapon and its hotkey 
+number. You will collect seven different weapons over the course of the game.
+
+You will receive an extra life for every 40,000 points you earn. A good player will 
+be able to complete the game with millions of points.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 16 [OSSKILL]
+
+
+
+
+
+^c67When you begin the game, you will have the choice of four skill levels. Operation 
+Serpent is intended to be slightly easier than Wolfenstein overall. Skill level affects 
+enemy numbers and strength.
+
+^P
+^C[GREEN]HOW TO PLAY
+^G32 16 [OSSKILL]
+
+^c[GREEN]Very Easy ^c67difficulty is for players who just want to experience the 
+game without being challenged much. Enemy damage is greatly reduced. This setting 
+is not representative of the game's true balance.
+
+^c[GREEN]Easy ^c67 difficulty is forgiving, but still provides a challenge. Enemies 
+are full strength, but appear in lower numbers.
+
+^P
+^C[GREEN]HOW TO PLAY
+^G32 16 [OSSKILL]
+
+^c[GREEN]Medium ^c67difficulty has an average number of enemies and tests a player's 
+skill without being too hard. Most players should start on Medium difficulty.
+
+^c[GREEN]Hard ^c67difficulty is very tough, with a large number of enemies and more 
+of the stronger types. Hard is intended for veteran Wolfenstein players.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 16 [OSKEYS]
+^G96 16 [ONWDORA1]
+^c67There are three colors of ^c[GREEN]keycards ^c67in Operation Serpent: blue, yellow, 
+and red. Locked doors are marked with the color of the keycard they require, and 
+cannot be opened by guards.
+
+^C[GREEN]One-way doors ^c67can be opened from one side but are sealed from the other 
+side. The side that is unlocked had a triangle and green lights on it, and the other 
+has an octagon.
+^P
+^C[GREEN]HOW TO PLAY
+^G32 16 [SWSHWNA1]
+^G96 16 [SWIDOOR1]
+^c[GREEN]Switches ^c67can trigger doors, pushwalls, and other effects remotely. However, 
+a switch can also trigger a trap or release enemies!
+
+
+^c[GREEN]Remote doors ^c67 require a switch to open them. They cannot be opened normally 
+and will remain open permanently when opened with the matching switch.
+^P
+^C[GREEN]HOW TO PLAY
+
+^C67At the end of each area you will find a passage or an elevator to take you to 
+the next area. Once you leave an area you cannot return.
+
+Bonuses will be calculated at the end of each area based on your time and the degree 
+to which you explored the level. Killing all the guards, finding all the secrets, 
+collecting all the treasure, or beating the ^c[GREEN]par time ^c67will add bonuses 
+to your score.
+^P
+^C[GREEN]ITEMS
+^G32 16 [OSHEALTH]
+^c67 Your health does not regenerate in Operation Serpent, so you will need to use 
+health items to replenish lost health. These items come in four varieties that provide 
+different levels of healing.
+
+^C[GREEN]Sandwiches ^c67replenish 4 health, tins of ^C[GREEN]Field Rations ^c67replenish 
+16 health, ^C[GREEN]Small Medpaks ^c67replenish 10 health, and ^C[GREEN]Large Medpaks 
+^c67give you 25. Large health items are usually stored in out-of-the-way locations.
+
+^P
+^C[GREEN]ITEMS
+^G32 16 [OSHEALT2]
+^c67In addition, there are special health items that can boost your health over the 
+normal maximum of 100. ^C[GREEN]Adrenaline Hypos ^c67replenish 2 health, up to a 
+maximum of 200. These items are rare at first but appear commonly in Dr. Moerder's 
+lab. 
+
+^c[GREEN]Adrenaline Injector Kits ^c67add a whopping 100 points of health (also up 
+to 200). These are extremely rare and found in very secluded areas.
+^P
+^C[GREEN]ITEMS
+^G32 16 [OSLOOT]
+^c67The Salvaciano government has amassed incredible amounts of wealth from the narcotics 
+trade, arms trade, and the theft of the property of non-creoles in San Salvacion. 
+Part of your mission is to recover as much of this loot as possible so the drug money 
+can be confiscated and the property returned to its rightful owners. Different treasure 
+items give different score bonuses depending on value.
+^P
+^C[GREEN]WEAPONS
+^G32 16 [OSWGLOCK]
+^G56 16 [OSWUZI]
+^G80 16 [OSWAKM]
+^G104 16 [OSWSHOT]
+^G128 16 [OSWM249]
+^G152 16 [OSWRPG]
+^P
+^C[GREEN]AMMO
+^G96 16 [OS9MM]
+^c67Naturally, Operation Serpent's guns need ammo to fire. Unlike Wolfenstein, Operation 
+Serpent has several different ammo types for different weapons.
+
+
+
+
+^c[GREEN]9mm Parabellum ^c67ammo is a pistol caliber used by the Glock 17 and Mini 
+Uzi. It comes in 12-round magazines and 50 round boxes.
+^P
+^C[GREEN]AMMO
+^G32 16 [OS762MM]
+^G96 16 [OS556MM]
+^c[GREEN]7.62mm M43 ^c67ammo is an intermediate-power cartridge used by the AKM assault 
+rifle. It comes in 10-round SKS stripper clips and 30 round AK magazines.
+
+^c[GREEN]5.56mm NATO ^c67 ammo is a high-velocity American round used by the FN Minimi 
+machine gun. It comes in 25-round belts and 100-round boxes.
+^P
+^C[GREEN]AMMO
+^G32 16 [OSSHELL]
+^G96 16 [OSROCKET]
+^C[GREEN]12 gauge shotgun shells ^c67 used by the San Salvacion Liberation Army are 
+loaded with 00 buckshot to do tremendous damage at close range in the Winchester 
+1300. They come in sets of four and in 12-round boxes.
+
+^C[GREEN]120mm rockets ^c67 equipped with HEAT anti-tank warheads are used in the 
+Mefisto rocket-propelled grenade launcher. They come singly or in crates of three.
+
+^P
+^C[GREEN]ENEMIES
+^G32 16 [HGRDA]
+
+SSLA Guards ^c67are rear-echelon, inexperienced troops armed with Browning Hi-Power 
+9mm pistols. They are slow to react and have limited firepower, but still pose a 
+considerable threat in groups.
+
+When killed, SSLA Guards will drop ammo for the Glock 17 and Mini Uzi. They wear 
+no armor and take very little damage to kill.
+^P
+^C[GREEN]ENEMIES
+^G32 16 [HNCOA]
+
+SSLA Sergeants ^c67 are more experienced soldiers who lead the Guards in combat. 
+While not armored, they do carry Uzis that can be deadly in close quarters.
+
+If you don't have an Uzi yourself, killing an SSLA Sergeant will make him drop his. 
+Otherwise they drop 9mm ammo just like the SSLA Guards.
+^P
+^C[GREEN]ENEMIES
+^G32 16 [HSLDA]
+
+SSLA Troopers ^c67are tough, well-trained regulars that form the backbone of the 
+San Salvacion Liberation Army. They take several hits to kill due to their body armor 
+and are usually armed with AK assault rifles, which can do a great deal of damage 
+even at long range. However, some carry shotguns or even heavy weapons like the Mefisto 
+RPG.
+^P
+^C[GREEN]ENEMIES
+^G32 16 [HELTA]
+
+SSLA Elites ^c67are the cream of the San Salvacion military, veteran soldiers with 
+an absolute faith in the National Liberation Party and its doctrines. They are far 
+more accurate with their assault rifles than other troops and can reliably hit targets 
+at extreme range. Their heavy armor vests can stop rifle rounds, and they can throw 
+hand grenades that can harm you even with a near miss.
+^P
+^C[GREEN]ENEMIES
+^G32 16 [HFLMA]
+
+SSLA Executioners ^c67carry out mass murder operations in San Salvacion. Their flamethrowers 
+are absolutely devastating in close quarters and can kill almost instantly, and they 
+have the strongest armor in the San Salvacion military, making them excellent ambushers 
+as well. When an Executioner is killed, his flamethrower will explode, causing blast 
+damage if you are nearby.
+^P
+^C[GREEN]ENEMIES
+^c67 In addition, there are several other types of human and nonhuman enemies to 
+encounter in Operation Serpent. We won't spoil the surprise--just be ready for a 
+serious fight!
+
+At the end of area 6 you will fight Dr. Moerder, the boss. You must defeat him to 
+complete the game. Beware--he is far more dangerous than any normal enemy!
+^P
+^C[GREEN]HAZARDS
+
+^G96 16 [OSMINE]
+^C67 Enemies aren't the only danger in Operation Serpent. San Salvacion is littered 
+with hazards and traps that can injure or kill you if you're not careful!
+
+^C[GREEN]Land mines ^c67are common throughout San Salvacion, planted in millions 
+since war broke out in the 1950s. Whatever their origin, they hurt--a lot. Look for 
+the telltale clump of dirt where a land mine may be buried.
+^P
+^C[GREEN]HAZARDS
+^G32 16 [OSBARREL]
+^G96 16 [OSFLAME]
+
+^c[GREEN]Explosive barrels ^c67are filled with noxious, unstable chemicals, and explode 
+when shot, damaging anything nearby--including other barrels.
+
+^c[GREEN]Flame traps ^c67 are vents in the floor that project gouts of flame up towards 
+the ceiling. Standing near a flame trap when it fires causes severe burns.
+^P
+^C[GREEN]HAZARDS
+^G32 16 [OSSPEAR]
+^G96 16 [LAVA1]
+
+^c[GREEN]Spear traps ^c67 project a bundle of spears from the ceiling to impale intruders. 
+Unlike flame traps, spear traps are invisible until they trigger.
+
+^c[GREEN]Lava ^c67is a natural hazard found underground. It is extremely hot and 
+will burn you even if you are several feet away. Give it a wide berth.
+^P
+^G16 16 [CBRKPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+^c67^c[GREEN]Coffee Break Episode 1: Castle Hasselhoff ^c67(2014) returns to the 
+visual style and atmosphere of the original Wolfenstein 3D while drastically expanding 
+the gameplay and features. True to the mod's name, the levels here are generally 
+short--but they're also my most devious yet! Only the Wolf gods will survive on Death 
+Incarnate!
+^P
+^G16 16 [TDEMPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+^c67The ^c[GREEN]ECWolf Tech Demo ^c67(2012) was developed to show the functionality 
+of ECWolf 1.0 and recreates the storyline of Wolfenstein episode 1 in 10 levels with 
+a huge array of new objects, guards, and weapons.
+
+It is not as advanced as Operation Serpent but really shows the flexibility and power 
+of the ECWolf engine compared to the original engine.
+^P
+^G 16 16 [WSPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+Wolfenstein Sextilogy 3 ^c67(2011) recreates the first three episodes of Wolfenstein 
+for an older build of ECWolf, merging the original storyline and atmosphere with 
+greatly enhanced graphics and features. 
+
+Wolfenstein Sextilogy was originally planned to be six episodes, but a hard drive 
+crash ended development of episodes 4-6.
+^P
+^G 16 16 [SRPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+^C[GREEN]Spear Revisited ^c67(2007) was my first serious test of the abilities of 
+limitless source ports using the Wolf4GW engine. The 21 levels of this game are vastly 
+more complex than any I had developed before, and still hold up well.
+
+An ECWolf port was released in 2015, bringing high resolutions and full Windows Vista/7/8/10 
+compatibility.
+^P
+^G 16 16 [E1RPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+^C[GREEN]Episode One Revisited ^c67(2006) was originally intended to be a drop-in 
+replacement for the original Episode 1 levels as I was tired of the TC-like direction 
+of the first mods. My levels were however too complex for the original engine and 
+I migrated to Wolf4GW.
+
+These ten maps are also available in Wolfenstein Sextilogy 3 as the first episode.
+
+^P
+^G 16 16 [TFAPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+^C[GREEN]The Final Assault ^c67(2004) was my second released mod for Wolfenstein, 
+running on a slightly modified Project Totengraeber engine. It is noticeably cruder 
+than my later works but was better than what I was making earlier.
+
+The only released version of this was an 8-level demo. Development ceased in late 
+2004 due to lack of interest.
+^P
+^G 16 16 [TRTDPIC]
+^C[GREEN]ALSO FROM EXECUTOR
+^C[GREEN]The Road to Despair ^c67(2003) was my first released mod, after a long and 
+tortuous development starting in December 2000 (the first map was written on Christmas 
+Day). I learned the fundamentals of modding in this project, and it shows.
+
+Everyone has to start somewhere, I guess. You should have seen the crap I made in 
+'99...
+^P
+^C[GREEN]COMING SOON
+^C[GREEN]Eisenfaust Unleashed
+^c67Finishing the story started in the ECWolf Tech Demo, Eisenfaust Unleashed pits 
+you against Dr. Schabbs and his mutant army. 24 levels filled with never-before-seen 
+terrors await you. Fight new and deadly mutants and four devastating bosses.
+^C[GREEN]Coffee Break Episode X
+^c67In which I team up with the infamous Doom legend Xaser for a bigger, bolder, 
+badder take on Coffee Break. Be afraid.
+
+^P
+^C[GREEN]COMING NOT SO SOON
+
+^C[GREEN]Astrostein Trilogy
+^C67Laz Rojas' classic reimagined from the ground up with entirely new maps and gameplay. 
+Having brought back advanced technology from the future through an ancient time portal, 
+the Nazis have won World War II and conquered Earth--and beyond. The year is 2043, 
+and B.J. Blazkowicz, just emerged from stasis aboard a Nazi prison vessel, is all 
+that stands between the Nazis and galactic domination.
+^P
+^C[GREEN]COMING NOT SO SOON
+
+^C[GREEN]Operation Serpent Second Encounter
+^c67If you enjoyed this mod, Second Encounter will blow your mind, with an incredible 
+array of new features, 30 enormous levels, and six deadly bosses! 
+
+Blow your enemies to pieces with a grenade launcher! Solve mind-twisting puzzles 
+and escape devious traps! Unleash utter devastation with your very own T-72 tank!
+
+^P
+^C[GREEN]POSTSCRIPT
+^C67I hope you enjoy playing Operation Serpent. This has been an ambitious and challenging 
+mod to develop, but there is much more to come. Expect more advanced and complex 
+mods as ECWolf improves and matures.
+
+Until then, go forth and kick ass!
+^C24	--Executor
+		spaceforce-temp@hotmail.com
+^E

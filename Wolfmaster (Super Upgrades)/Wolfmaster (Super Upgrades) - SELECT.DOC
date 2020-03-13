@@ -1,0 +1,40 @@
+
+                            Selecting new games
+
+Select new games by choosing menu item #4 from the Main Menu.  This will
+take you to the Select New Game Menu.  The new games are listed in this
+menu, including how many levels the new games include.  Selecting a new
+game also backs up your savegames for the game you were playing before, and
+restores your savegames for the new game you select, if they exist.  Each
+game you may select (A-Z, AA-VV, and your original WOLF3D game) can have
+up to 10 savegames each.
+
+!! IMPORTANT !!
+Take note of how many levels the game you are selecting contains from the
+select new game menu.
+
+Games that contain 1-10 levels are Episode 1 in WOLFENSTEIN.
+Games that contain 11-20 levels are Episodes 1 & 2.
+21-30 levels = Episodes 1-3.
+31-40 levels = Episodes 1-4
+41-50 levels = Episodes 1-5
+Some games have 60 levels, making all 6 Episodes active.
+
+If you load a game that has, for example, 2 Episodes and you try to play
+Episode 3, 4, 5 or 6, most likely YOUR COMPUTER WILL CRASH AND YOU WILL
+HAVE TO RESET YOUR MACHINE!
+
+The only exception to this rule is GAME CC, which contains 27 levels, but
+is spread out over Episodes 1, 2, 3 & 4.  This is another good reason to
+read the new game DOCs before you play the new game.
+
+Your registered copy of Wolfenstein expects all 6 episodes to be active.
+IF YOU SELECT INACTIVE EPISODES YOUR COMPUTER MAY CRASH, requiring you to
+reset it.  However in no case will Wolfmaster hurt your computer or the
+data stored on your hard drive(s).
+
+The "Show CURRENT Game" command located in the Main Menu is helpful here.
+If you run Wolfmaster and have forgotten which game you have loaded, you
+can check with the "show current game" command.  Then, by checking in the
+SELECT NEW GAME menu you will know how many Episodes are currently active.
+

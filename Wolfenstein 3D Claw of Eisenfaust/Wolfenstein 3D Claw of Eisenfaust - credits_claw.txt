@@ -1,0 +1,46 @@
+WOLFENSTEIN 3D: CLAW OF EISENFAUST
+Port of SNES Wolfenstein to ECWolf
+12/27/18 	AstroCreep
+v2 5/17/19
+
+This is a port of the SNES version of Wolfenstein 3D to
+ECWolf.  This uses Executor's Second Encounter port as a
+base, and then adds assets directly imported from the SNES
+version of Wolfenstein.
+
+This is not a complete experience, unfortunately.  Got a
+bit impatient with the status bar and how small it is, and
+did not feel like making a whole new one, so this includes
+a modified HUD from ECMac and a few placeholder sounds and
+HUD graphics left over from PC Wolf.  All sprites and textures
+have been replaced with SNES counterparts, censorship and 
+all.  Save the free world from Staatmeister and his Master
+State!
+
+VERSION 2
+This version has been completely rebuilt, based off of
+the actual extracted SNES maps and ec_snes/ec_macwolf.
+
+
+CREDITS:
+Assets ripped and modified from SNES Rom by AstroCreep (thanks to
+Adam Biser for his SNES ripping tool)
+HUD Graphics modified from ECMac 
+ECMac Credits
+	id Software
+	Macplay/Interplay
+	Logicware
+	Ninjaforce Entertainment
+	Gray Matter Interactive
+	Laz Rojas
+	DoomJedi
+	Captain J.
+	Flynn Taggart
+	osjclatchford
+	S.D.A. Team
+	Fox666
+	DenisBelmondo
+	Ringman
+	Pallin
+	LkMax
+	Wiw & HazeBandicoot

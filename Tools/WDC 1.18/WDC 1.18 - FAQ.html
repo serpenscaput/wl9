@@ -1,0 +1,67 @@
+<HTML>
+<HEAD><TITLE>FAQ</TITLE></HEAD>
+<link rel="StyleSheet" href="style.css" type="text/css">
+
+<BODY>
+<FONT class="title">
+FAQ
+</FONT><BR>
+<BR>
+<A HREF="#1">Auto floor adds more than just floors... what's going on?</A><BR>
+<A HREF="#2">I'm using the Tile16s to view the Wolf3D Alpha, but the guards face 
+the wrong directions. How can I fix this?</A><BR>
+<A HREF="#3">I'm trying to open Commander Keen 6 using Tile16s to view map, but they 
+look strange. Why?</A><BR>
+<A HREF="#4">How do I get out of READ ONLY mode?</A><BR>
+
+<BR><HR><BR>
+<A NAME="1"></A><B>Auto floor adds more than just floors... what's going on?</B>
+
+<BR>
+WDC relies heavily on how you define your map data codes.
+This probably means that that map code is defined as a floor instead of a wall.
+<BR><BR>
+To remedy the situation:<br>
+1) Go to the "Edit" menu and select "Map Symbols."<BR>
+2) Scroll until you find map code WDC mistakenly thinks is a floor.<BR>
+3) Now look at the "Type". Is it defined as "Floor"?<BR>
+4) If it is "Floor", set it to "Wall" or whatever it should be.
+<BR><BR>
+If it did not say "Floor", then there is a serious problem that needs to be addressed.
+
+Please let me know about it.
+<BR>
+
+<BR><HR><BR>
+
+<A NAME="2"></A><B>I'm using the Tile16s to view the Wolf3D Alpha, but the guards 
+face the wrong directions. How can I fix this?</B>
+<BR>
+The Wolf3D Alpha is the only game that has a Tile16M for object code 0.
+To get the objects to match the correct map codes:<BR>
+1) Go to the "File"menu and select "Project Information."<BR>
+2) Check the box that says "Tile16Ms start at map code 0."<BR>
+3) Click "OK" and the map tiles will be reloaded.
+<BR>
+
+<BR><HR><BR>
+
+<A NAME="3"></A><B>I'm trying to open Commander Keen 6 using Tile16s to view map, 
+but they look strange. Why?</B>
+<BR>
+For some reason I have not been able to successfully open Commander Keen 6 files.
+
+It looks as if some Tile16Ms were stored in the EXE, but I'm not sure.
+I'm still looking into this.
+<BR>
+
+<BR><HR><BR>
+<A NAME="#4"></A><B>How do I get out of READ ONLY mode?</B>
+<BR>
+You need to set up an output folder in the project information screen.
+This folder needs to be different from your base data folder.
+Keeping things separate like this helps insure that you won't lose any data.
+<BR>
+
+</BODY>
+</HTML>

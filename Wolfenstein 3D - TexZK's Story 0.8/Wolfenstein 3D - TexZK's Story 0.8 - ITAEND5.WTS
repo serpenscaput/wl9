@@ -1,0 +1,24 @@
+^P
+^C8f La fine del secondo D-Day
+^C00
+Uscito dalle spiagge tedesche, ti rechi nel bunker americano, dove il capo ti aspetta.
+
+
+^C67 "Finalmente, dopo tanta fatica sei riuscito a disinfestare le spiagge tedesche. 
+Il tuo lavoro e' stato enorme, ma non hai ancora finito."
+^Cf7 "Lo so, Signore. Dicono esista un certo SuperSoldato, ma non so bene di cosa 
+si tratti"
+^C67 "Rimane, infatti, ancora un gruppo di Nazi. Esso e' il piu' arduo da battere, 
+quindi tieni gli occhi bene aperti."
+
+^P
+^C67
+"E, inoltre, e' proprio quel gruppo che sta costruendo L'UberSoldat. Nella prossima 
+missione devi scoprire chi e' rinchiuso nello scafandro dell'Uber Soldat."
+^Cf7 "OK, TexZK. Ora mi preparo alla resa finale."
+^C67 "Cerca di essere pronto: non manca molto tempo!"
+^C00
+Dopo il colloquio vai direttamente nel prossimo bunker americano, in attesa di nuovi 
+ordini.
+
+^E

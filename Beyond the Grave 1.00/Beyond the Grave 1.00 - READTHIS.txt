@@ -1,0 +1,527 @@
+INTRODUCTION
+
+Welcome to Beyond the Grave! Beyond the Grave is my first mod/TC. I hope your playing 
+experience is enjoyable!
+
+KNOWN ISSUES
+
+I tried to make this game as glitch-free as possible, but nothing is perfect. Here 
+are some known issues with the game:
+
+QUICKSAVING/QUICKLOADING:Using quicksave and quickload (F8/F9) causes a lot of problems 
+(eg: inventory items are not saved correctly). Use F2 and F3 to save/load.
+
+SOUND ISSUES: Occasionally, the game is known to crash when a sound plays right at 
+the same time a MIDI track loops.     
+
+DISPLAY ISSUES: For some reason, minimizing the game causes the numbers on the HUD 
+dissapear. Try to avoid minimizing the game.
+
+OTHER ISSUES: Occasionally, the attack frames get messed up when restarting a level 
+after dying. Reloading the level or the game seems to fix the issue.
+
+If there are any other problems, please let me know about them so that I can address 
+them in future versions of this game. 
+
+GAME DIFFICULTIES
+
+When you start the game, you are prompted to choose between 4 difficulties. The harder 
+the difficulty, the stronger and more numerous the enemies. You will also notice 
+that the amount of wards (discussed in the items section) you start with differs 
+on each difficulty level.
+
+WHERE'S MY GRAVE?: This difficulty is only recommended for sissies and people with 
+no FPS/PC gaming experience. Note: there is no enemy spawning on this difficulty, 
+which eliminates a lot of the surprise/horror elements in the game.
+
+MAYBE JUST A SIP: This is a slightly better place for the inexperienced to start 
+than the previous (mainly because we won't make fun of you AS MUCH for playing on 
+this difficulty). Enemy spawning is left intact and certain enemies are stronger.
+
+
+RAVENOUS: This is the recommended difficulty setting. It provides a decent challenge 
+even for experienced players.
+
+EVEN DEATH WILL BLEED: If you are a veteran player, someone who likes a good challenge, 
+a masochist, or someone with suicidal tendencies, then this is a difficulty fit for 
+you. Note: you begin with no wards.       
+KEYBOARD CONTROLS
+
+ARROWS     Move/Turn
+W&S        Move Forward/Backpedal
+A&D	   Strafe Left/Right											
+ALT	   Strafe
+SHIFT	   Run
+SPACE	   Use door/switch/pushwall
+CTRL	   Shoot/Attack
+X	   Alternate Fire/Attack
+R	   Reload
+T	   Use Item
+F          Kick
+C          Cast Infernal Power
+
+
+1	   Fists/Machete
+2	   Single Action Revolvers
+3	   Double Action Revolvers
+4          High Capacity Revolvers
+5	   Shotguns
+6	   Repeating Rifles
+7	   Heavy Rifle
+9&0        Select Item
+I	   Use Indurating Amulet
+BSpace	   Use Healing Serum
+
+Tab	   Show items and current ratios
+U	   Toggle Crosshair
+M	   Show Level Map
+P	   Capture screenshot
+F1	   Help
+F2	   Save game
+F3	   Load game
+F4	   Sound menu
+F5	   Full Screen On/Off
+F6	   Controls menu
+F7	   End Game
+
+MOUSE CONTROLS
+
+Button 1      Fire/Attack
+Button 2      Alternate Attack
+Button 3      Infernal Power
+Mousewheel    Select Item
+
+NOTE ABOUT CONTROLS: If you want classic Wolfenstein 3D controls, change 'W' and 
+'S' in the controls menu to up and down arrows.
+
+THE STORY
+
+In a time and place where chaos, violence, and crime were rampant, two brothers, 
+Sartana and Pike, were renowned and feared. Born as twins in 1840, they had become 
+the most sought after hired guns in the west by the time they were 20. Eventually, 
+their reputation had earned the attention of civil war officers and between 1861 
+and 1865, they fought for the Union. Together, they racked up quite the body count 
+and both earned medals of honor for valor and devotion by the end of the war.
+
+After the war, the two brothers made their living as bounty hunters. As the two further 
+developed their reputation, Sartana noticed Pike slowly turning into someone he did 
+not recognize. Pike became cruel and ruthless. He didn't just simply kill the men 
+who had bounties on their heads; he would capture them, bind them, and torture them 
+over long periods of time. Eventually, Pike changed his name to Devil Eyes; it was 
+fitting given the fact that Pike enjoyed gazing deeply into the eyes of his victims 
+as the life slowly left their bodies. 
+
+Some years later, news about people being kidnapped in the dead of the night for 
+unknown reasons spread like wildfire. The kidnappings were committed by a mysterious 
+cult, led by a trio called The Unholy Trinity (Jilaiya: The Witch, Droge: The Warlock, 
+and Zagan: The Antipope). Bounties were put in place for various cult members. The 
+rewards were high, so high that Pike became greedy. He no longer wanted to split 
+the rewards, which caused a rift between the two brothers. One night, while Sartana 
+was sleeping, Pike went out on his own in search of the cult.Sartana awoke in shock, 
+knowing that his brother had abandoned him. He was alone. 
+
+After a couple more years of lone bounty hunting, Sartana yearned for the quiet life 
+and made way for North Carolina where much of his family lived at the time. During 
+his trek, an enigmatic hooded lady, seeming to appear from thin air, approached him, 
+claiming to have news of his brother's whereabouts. Sartana was convinced that the 
+woman was lying until she tossed him Pike's prized Colt 45. He knew it was Pike's 
+peacemaker because his initials were chiseled on the side of the gun. 
+
+Sartana asked the lady about Pike's location. She unraveled an ancient-looking map 
+and pointed to an island, uncharted on any conventional map at the time, near the 
+Bermuda Triangle. She called the place Isla de la Sombra (Island of the Shadow). 
+She then gave Sartana directions on where to acquire a boat to get to the island. 
+Sartana then asked the strange lady how she knew where to find him and how she knew 
+about Pike. An impish grin crawled on her pallid face as she said, "my master knows 
+everything; and you and your brother both bear the mark."
+
+Sartana, confused, inquired about the mark. The woman pointed to the birth mark on 
+the back of Sartana's neck and said, "You two were destined to be his left and right 
+hand." She then walked away. Sartana called for her, but his calls fell on deaf ears 
+as the hooded lady disappeared into the pitch black night.
+
+Against his better judgment, Sartana decided to go find his brother. He headed south, 
+amassing food and resources along the way, to the border of Georgia where he got 
+the boat to get to Shadow Island.
+
+After a few days of sailing, the boat crashed into a sandy shore in the middle of 
+the night, waking Sartana from his slumber. He wasn’t sure if he had arrived at his 
+destination or some random island. Regardless, he was weary from sailing and sought 
+rest. 
+
+Sartana moored his boat and stepped foot on the sandy shore, proceeding toward a 
+vast forest in search of a suitable place to camp. As Sartana set up camp, robed 
+hooligans emerged out of nowhere. He was surrounded. 
+
+Sartana instantly reached for his Colt, but before he could get a single shot off, 
+he was knocked out by a massive blow to the back of the head. Sartana awoke the next 
+night in a decrepit vacant room lit by candlelight, stripped of his weapons, bound 
+to an altar, and encircled by dark hooded figures decked out in long voluminous robes 
+as black as night. A tall handsome man in a dusty grey coat and an open crown hat 
+upon his head appeared in the distance, slowly making his way toward Sartana.  It 
+was Pike, except he was not the same.
+
+His skin had an uncanny pallor and his eyes glinted like emeralds frozen in ice. 
+Pike gazed upon his brother. A dire grin slowly formed on his face, revealing tiger-like 
+teeth. Sartana, in a weak voice, asked, "what happened to you Pike?
+
+Pike responded, "Call me Devil Eyes." After that, Devil Eyes unsheathed a silver 
+ritualistic blade and stabbed it deep into his brother's heart. Darkness cloaked 
+Sartana's eyes as death enveloped him in its abysmal grasp.  There was no telling 
+what lied ahead...  
+
+GAME BASICS
+
+COMBAT
+The enemies you face will stop at nothing to hurl you back into the grave whence 
+you came, so you'll need to familiarize yourself with your surroundings as well as 
+each weapon in your arsenal (including inventory items as they can be very useful 
+for getting you out of sticky situations). Hiding behind walls and knowing which 
+weapon to use in any given situation can save your unlife. 
+
+Helpful Advice: Using a weapon's alt fire indiscriminately can be fun, but also eats 
+through your ammo very quickly (especially with weapons where the alt fire makes 
+the weapon shoot faster). It is best to use a weapon's alt fire only in situations 
+that call for it.
+
+DOORS
+Some doors (such as locked doors) are imbued with magical properties that make them 
+shut automatically for inexplicable reasons. It is a good idea to shut doors as some 
+enemies (like zombies) are too stupid to open them. 
+
+EXPLORATION & SECRETS
+The Island of the Shadow is full of areas not easily found. Thorough exploration 
+can lead you to areas that contain treasures, useful trinkets, and weapons that you 
+would only find later in the game. There are also many walls that can be pushed back, 
+either manually or via switch, to reveal secret areas (press the 'use' key to push 
+a wall or access switches).
+
+Helpful Advice: Do you hate strafing against walls while holding the 'use' key to 
+find pushwall secrets? Crystal Balls can save you on time and trouble when it comes 
+to locating secrets. You won't be able to find all of the game's secrets with just 
+Crystal Balls, but you should at least be able to find some.
+
+INFERNAL POWER
+Returning from the dead not only made Sartana stronger than ever but also infused 
+within him infernal powers from the other side. These powers have granted him with 
+the ability to emit a fiery stream of death from the windows of his soul. As awesome 
+as this ability can be, it is wise to only use it sparingly as your energy supply 
+is very limited (being overwhelmed by hordes of cultists or boss battles are good 
+situations to use them).   
+
+ITEMS
+
+There are various items that will aid you on your quest. Some items can be used as 
+needed (inventory items) while others will be activated the moment you pick them 
+up and will wear off after an elapsed amount of time.
+
+LIFE ITEMS
+
+Blood Pools: Raises your life by 5 points, up to 100.
+
+Blood Vials: Raises your life by 10 points, up to 100.
+
+Entrails: Raises your life by 15 points, up to 100.
+
+Heart: Raises your life by 25 points, up to 100.
+
+ARMOR ITEMS
+
+Protection Runes: Gives you 5 points of armor, up to 100.
+
+Leather Armor: Gives you 50 points of armor, up 100.
+
+Plated Armor: Gives you 100 points of armor, up to 200 total.
+
+TREASURE
+
+Money Bag: Adds 100 points to your score.
+
+Silver Bullion: Adds 250 points to your score.
+
+Gold Bullion: Adds 500 points to your score.
+
+Treasure Chest: Adds 1000 points to your score.
+
+POWER UPS
+
+Wards: Gives you an additional ward. Wards revitalize you when your life falls to 
+0. Be warned... once you run out of wards and your life reaches 0, final death awaits 
+you.
+
+Cloak of Protection: Grants user with superhuman resistance to injury, lasts for 
+45 seconds.
+
+Rage Sphere: Enhances both movement speed and attack speed, lasts for 45 seconds. 
+  
+
+POWER UPS
+
+Baphomet: Makes you invulnerable, lasts for 30 seconds.
+
+Bloodstone: Gives you a 100 point boost to your life, up to 200 total.
+
+Imprisoned Soul: Gives you 300 life points. 
+
+Blaze Orb: Fuels your infernal power.
+
+Dybbuk Box: Maxes out your inventory supply of Poppets.  
+
+INVENTORY ITEMS
+
+Eyes of the Owl: Increases the user's perception by illuminating enemies, making 
+them easier to see. Lasts for 90 seconds.
+
+Life Serum: Gradually raises your life by 50, up to 100.
+
+Indurating Amulet: Gives you 25 points of armor per use, up to 200 armor points total. 
+ 
+
+Crystal Ball: Temporarily reveals secrets. 
+
+Book of the Dead: Summons hordes of wraiths that obliterate anything in your path.
+
+
+Poppet: This unique item temporarily paralyzes your foes. This item is especially 
+useful against fast-moving enemies (executioners, werewolves...)
+
+Infernal Scroll: Summons a ball of fire straight from the depths of hell. Good for 
+obliterating large clusters of lesser enemies or taking down a particularly tough 
+foe.
+
+Keys: Enemies aren't the only things hindering your progress. Apparatuses called 
+locked doors can be a major source of frustration. To conquer these foes, you need 
+keys. There are four different keys: Gold, Red, Blue, and Green.  
+
+WEAPONS
+
+The denizens of Shadow Island all have one common goal: to kill you. In order to 
+prevent them from succeeding, you will need to gather up an arsenal of death-dealing 
+instruments. Most weapons have a primary attack and a secondary attack.
+
+FISTS AND KICKS
+You begin your quest armed with only your fists. How could you not? They are attached 
+to you (for the moment). Once you acquire a more competent weapon, you won't be using 
+your fists much... unless you have a death wish. You can also kick your enemies (it 
+is much slower but it deals more damage than your fists). As an added bonus, you 
+can also kick while using other weapons. Press 'F' to kick.  
+
+MACHETE 
+A large heavy knife with a broad blade that can be very effective if you can get 
+it between you and your foes. The most wonderful thing about the machete is its ability 
+to maim and dismember. Enemies that fall to your blade almost always die with a part 
+(or parts) of their anatomy missing. 
+
+PEACEMAKER 
+An accurate single action revolver that packs a decent punch. It can shoot faster, 
+though less accurately, by fanning the hammer. The peacemaker is probably one of 
+the most versatile weapons in the game and is a favorite among many gunslingers. 
+The main drawback is its tedious reloading process as bullets have to be loaded individually.
+
+Accuracy: Very Good
+Power: Good
+Speed: Average
+
+FRONTIER 
+A double action revolver made by two close friends of yours: Smith and Wesson. This 
+quick-shooter might not be as powerful or as accurate as the peacemaker, but it makes 
+up for it with its speed. Additionally, the weapon's top break mechanism allows for 
+the utilization of a speed loader which makes reloading much quicker.
+Accuracy: Good
+Power: Average
+Speed: Very Good
+
+RAINMAKERS
+Incredibly fast-shooting swing-out-cylinder revolvers that have been modified to 
+carry double the ammo capacity of a regular revolver. The Rainmakers are very handy 
+in tight situations, and when used with a Rage Sphere activated you can easily clear 
+a room with these twin brothers.
+Accuracy: Average
+Power: Poor
+Speed: Excellent
+
+BOOMSTICK
+The Boomstick is a very reliable ally indeed. It may lack a lot of accuracy, but 
+you aren't using a double-barrel shotgun for accuracy now are you!? This weapon can 
+be fired either one barrel at a time or both at once for maximum damage.
+Accuracy: Ugly
+Power: Very Ugly
+Speed: Poor
+
+THE SAVAGE
+The Boomstick's bigger, badder brother. This semi-auto beast will hurl your foes 
+into an early grave with relative ease. Though it deals quite a wallop and can carry 
+more ammo than its double-barrelled brother, reloading this weapon is slow and cumbersome. 
+
+Accuracy: Poor
+Power: Excellent 
+Speed: Poor
+
+THE RECTIFIER
+This fast, high capacity repeater carbine is probably the most well-balanced firearm 
+in your arsenal. It is an ideal weapon for disposing of lesser enemies. 
+Accuracy: Very Good
+Power: Good
+Speed: Very Good
+
+THE REAPER
+A powerful repeater carbine that shoots high caliber silver bullets. It is more powerful 
+and slightly more accurate than The Rectifier. Great for wiping out more powerful 
+foes, especially those pesky werewolves.
+Accuracy: Excellent
+Power: Very Good
+Speed: Good
+
+DEVIL'S MULE
+This mule doesn't like it when people are laughing. He gets the funny feeling they 
+are laughing at him. Well... they won't be laughing very long when the trigger is 
+pulled. One shot from this monster turns even the hardiest beasts inside out.
+Accuracy: Excellent
+Power: Turns foes inside out
+Speed: Very Poor
+
+CREDITS
+		J. Nicholas Lewis(ThunderEnema)
+			Project Coordination
+			Story/Concept
+			Level Design
+			Programming
+			Sound Editing
+
+		Gerolf
+			Graphics
+			Sprite and Texture Editing
+			Sound Editing
+
+		Jesse Stevens
+			Promotional/Title Screen Artwork
+
+
+		Original Graphics
+			ID SOFTWARE
+			Raven Software
+			Monolith Productions
+			Capstone Software
+			Apogee Software/3D Realms
+			Bethesda Softworks
+
+		Additional Graphics
+			Realm667.com
+			zDoom forums
+			Majik Monkee
+			Madwolf
+			Reactor
+			AReyeP
+
+		Additional Code
+			Tricob
+			Wolf Skevos-Jones
+			AlumiuN
+			Chris
+			Adam Biser
+			Codetech84
+			MCS
+			Richter Belmont
+			Zombie_Plan
+			BrotherTank
+			WLHack
+
+		Original Sound Sources
+			Activision (VtM: Redemption)
+			Monolith Productions	
+			ID Software
+			Raven Software
+			Lobotomy Software
+			Realm667.com
+		
+		MIDI Music
+			Sierra Games (Phantasmagoria)
+			Monolith Productions (Blood)	
+			Apogee Software (ROTT)
+
+		OGG/MP3 Music
+			"Leader" by Outbreak	
+			"Iconoclast" by Icon
+			Zombie theme by Fabio Frizzi	
+
+		Additional Sounds
+			Wolf Skevos-Jones (TotenkopfSDL)
+			Various gun sound libraries
+
+		Additional Music
+			RonWolf
+			Rodney A. Brubaker
+			freemidi.org
+			Activision (VtM: Bloodlines)
+
+		Additional Level Design/Maps
+			Ack
+			Gerolf	
+			Richter Belmont
+		
+		Beta Testers
+			Cody Young
+			Gerolf	
+			Timothy George Wells
+			Military
+			Sigma64				 
+
+
+EDITING UTILITIES
+
+Havoc - Havoc's Wolf3d Editor
+
+Chaos Software - ChaosEdit
+
+Bloodshed Software - Dev-C++
+
+Simon Judd and Gez - Slade Doom Editor
+
+Anvil Studio
+
+FL Studio
+
+Sound Forge Audio Studio 10.0
+
+
+SPECIAL THANKS
+
+Id Software - for creating Wolfenstein 3D, Doom and other great games, and for releasing 
+the Wolf3D source code to the public.
+
+Raven Software - for making Shadow Caster, Heretic I/II, and Hexen I/II.
+
+Monolith Productions - for making the greatest FPS of all time: Blood. 
+
+Ripper and Chaos Software - for creating the Wolf4SDL source port.
+
+Realm667.com & zDoom forums - for providing an extensive supply of sprite/texture 
+resources to use for mods.
+
+BrotherTank, Dean, and RonWolf - for running the Diehard Wolfers Forums.
+
+Gerolf - for going above and beyond to help me create this game.
+
+WSJ - for the reloading code, and for releasing the Castle Totenkopf source code 
+which allowed me to implement enemy bullet tracing in this mod.
+
+AlumiuN - for his advanced sound code which made using higher quality sound effects 
+and music for mods possible.
+
+Tricob - for helping me implement various coding features. 
+
+Jesse Stevens - for making awesome promotional artwork and title screen art.
+
+You - for downloading and playing this game.
+
+If there is anyone I forgot to credit, please don't sue me! 
+
+CONTACTING THE AUTHOR
+
+If you have questions or comments about this game, you can send me an e-mail at one 
+of the following e-mail address: 
+
+chowpow13@aol.com
+
+Zeus024@live.com
+

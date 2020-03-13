@@ -1,0 +1,191 @@
+-------------------------------------------------------------------------------
+                              About VSMAPED
+
+VSMAPED is intended to be a general debugging and editing utility for
+  level creators. It works for all Wolfenstein/Spear related games I know of.
+  Both wolfenstein v1.0 and v1.4 can be edited.
+
+It uses fig.bmp with symbols for walls and objects, and a mapdata textfile,
+  starting with the character {_} for avoiding confusion with VSWAPED files.
+You can make changes to any of these files, fex. new mapdata files for some
+  code-changed game. You can write a comment in any mapdata line from col. 47.
+The program produces a visual map, somewhat like in Floedit.
+Floors are always supposed to have the same indices, other items may vary.
+The program can do all that wolfenmap could, + editing, and will replace it.
+-------------------------------------------------------------------------------
+                             Running the program
+                       At first you can use 4 buttons:
+
+(my portrait)  : Show these help instructions.
+
+ GAMEMAPS      : Open a 'gamemaps' file (or 'maptemp' for Wolfenstein v.1)
+                 and a corresponding maphead file. The maps can be edited.
+                 The program decides which palette to load (wolf or spear).
+
+ SAVED GAME    : Open a 'savegam' file. Its map contains less information than
+                 the other two, but it shows the game in action. Not to edit.
+                 There are many ways to save games so it does not always work.
+
+ FLOEDIT*.LVL  : Open a floedit level file. Not to edit.
+
+Then you must open a mapdata file containing the items' names and properties.
+  The program suggests wolfenstein or spear game type, and corresponding file.
+  You can override this by choosing another file. Old files will be converted.
+  (For some files a little post-editing is advised, fex. in R.O.M,
+  pacmen should be classified as ammo, not superguards.)
+
+Congratulations! You see a map of the first level and maybe a list of levels,
+  and these buttons, from top downwards:
+
+ SAVE  menu 1 : Save the decoded mapset, whatever you'll use THAT for.
+            2 : Save the current level picture.
+            3 : Save the list of level titles.
+            4 : Save statistics for the current level.
+            5 : Save the current level as a floedit levelfile.
+
+ TRACE        : Trace a path through the mod: Rightclick on a floor and all
+                floor tiles accessible from that point will be marked with
+               'deaf guard', avoiding hard objects, up to the next normal/
+                secret doors. Click TRACE again to show the normal map.
+
+ EDIT         : Opens or closes the editor panel. It has its own helpfile.
+                The EDIT panel can be dragged around .
+
+ SELECT       : In mark mode, you can mark whole classes, fex.'weapons',
+                various actors, Doors, 'object in wall' (not including common
+                pushwalls), 'not in list', or enter a search text for marking.
+                It is case-sensitive and all names start in upper case.
+
+ MARK         : Click and the buttontext lightens up. You are now in mark mode.
+                If you click the map, the items lists or the graphics list,
+                or SELECT a group, all of the chosen items will blink, on all
+                levels. The number of marked items is shown. In EDIT mode you
+                can only click the graphics list or select a group.
+                Click MARK again to leave mark mode.
+
+
+(multicolor)  : Open a new color palette. Useful for some mods.
+
+ VSWAP        : For 64x64 and 128x128 pixels graphics. Opens a vswap file with
+                game graphics. It need not be from the same game. You will see
+                wall miniatures in the map and real wall and object images.
+
+ 3D           : You will see miniatures of OBJECTS in the level map as well.
+
+ [N           : Pops up when there is more than zeros in the third array.
+                Click it and you can also see floors (F) and ceilings (C).
+                This may not work for all games of this sort.]
+
+
+                2 clicks on EDIT produces the graphics list with 3-4 buttons.
+ _              The main use of this list is for picking UNLISTED items.
+|     C       : Clears any markings in the graphics list. 
+|     ->      : A click will mark all items used in the level with squares in
+|               the graphics list, small ones for items not in the mapdata file.
+
+|               Hint: Change level and the markings will accumulate. 
+|    [=>      : The same goes for button '=>' if present (floors and ceilings).
+|               These markings come from 640 to 895 in the graphics list.]
+|_    <       : Hides the graphics list.
+
+ mapdata      : Allows you to edit the current mapdata file, or make a new one
+ _              for a special mod. You CAN of course use a text editor instead.
+| X           : Closes the mapdata panel.
+|              *Click an item in the map or items lists or graphics list.
+| Item index  : Item index as read from the map.                     Col  1-4.
+| Radiobuttons: Type of item, referred to as:' '(solid),'_'(object), 
+|               '*'(object in a saved game).                         Col  5.
+| Description : A short text (22 characters max). In line 0 col 19-you can type
+|               'spear'or'wolf' to force the graphics list settings. Col  6-27.
+|               For easier handling some item names start with a number:
+|
+|                                               5: Protection, fex. helmet.
+|                  1: Good Health, fex. food.   6: Bad Health, fex. poison pool
+|                  2: Weapons.                  7: -Free to use-
+|                  3: Ammo.                     8: Superguards.
+|                  4: Keys.                     9: Hard objects, for tracing.
+|                 
+|               Start, Guard, Dog, SS, Mutant, Officer items are searched by
+|               these names. If you change them, you must search them as text. 
+| Image #     : Number shown = the vswap wall or sprite index. Zero = none
+|               or an automatically generated image.                 Col 38-41.
+| Symbol image: Click and select a symbol from the list to represent the item
+|               in the map. Symbol zero=automatic. If you want to put symbols
+|               of your own make into fig.bmp, please do it in the cells with
+|               a white cross. I may use the cells with a red cross for my
+|               own additions. Click again to hide the symbol list.  Col 43-46.
+| Comment     : Any text, 32 characters max.                         Col 48-79.
+| (blue area) : Line 0 only. You can set the start of real wall structures and
+|               the start and end index of floor/ceiling structures found in
+|               the vswap file. Needed for 'Guns&Glory' and some other mods.
+|  ADD        : If the item already exists, it is updated, otherwise added.
+|  REMOVE     : Removes the selected item from the mapdata.
+|  UNDO       : Undoes the latest ADD or REMOVE.
+|  SAVE...    : Saves the updated mapdata file. Its name must start with
+|_              '_' (underline).
+
+ statistics   : Shows the contents of the current level, and the important
+                numbers of static objects, actors, doors and more.
+                If the doors don't have the normal indices, the number of
+                static objects and actors are not shown as this would be too
+                difficult (yet).
+          Note: Common pushwalls are not counted as'Object in wall' here.
+                ------------------------------------------------------  
+
+                These are the informations you get by moving the mouse over
+                the map or the graphics list og the edit lists:
+
+                *Number of static objects, actors and doors in the level.
+                 Works during editing too.
+
+                *In the graphics list: wall ID, s object ID, h additional ID.
+                *In the edit lists: wall/floor/object ID, class, and name.
+                *In the map: Wall/floor ID and name.
+                 Object ID (=sprite number+21) and name.
+                *Mouse X and Y map coordinates.
+                *Enlarged picture of the graphic symbol pointed to.
+                *An actual image from the vswap file (if opened).
+                *For floors and ceilings: The image index in the vswap file.
+
+-------------------------------------------------------------------------------
+                       A note on map statistics.
+
+A level map consists of three 64 by 64 arrays of 16 bit numbers,
+  one for 'solids' (including doors and floors), one for objects, and one
+  that normally contains zeros but is used by some code-changed games.
+If the doors are displaced, the mumber of static objects and actors are not
+   shown here, as it would be too difficult to calculate at present.
+In the gamemaps file these arrays are encoded with one or two coding layers.
+   VSMAPED can handle both, but saves only in 'light' encoding.
+In this program the array entry numbers are treated as follows:
+
+ID number in map vs type, for the original game:
+
+-----'solids'-----
+$01..$59 (  1- 89):  Walls
+$5A..$69 ( 90-105);  DOORS                   max  64
+$6A..$8F (106-143):  Floor codes
+$90...   (144-   ):  -not used-
+
+-----objects------
+$01..$12 (  1- 18):  -not used-
+$13..$16 ( 19- 22):  start positions
+$17..$59 ( 23- 89):  STATIC OBJECTS          max 399
+$5A..$69 ( 90-105):  Turning points  etc
+$6A..$119(106-281):  ACTORS                  max 149
+$11A...  (282-   ):  -not used-
+
+-----additional---
+$00...   (0-     ):  -not used- [=0] (floors and ceilings in some games).
+
+The number of doors, static objects and actors must obey the restrictions
+  above or the game will not run. Code-changed games may have wider limits.
+Walls with IDs larger than $3F (63) may not be rendered correctly in the game
+  unless they are doors.
+Actors include guards (alive or dead), exploding or animated objects, missiles.
+  A missile calls for 9 extra 'actors', a missile duel 18
+  so please watch the actor number.
+Turning points and secret doors do NOT count as static objects.
+I prefer the term 'actor' to 'guard' because it is more general.
+
+                                  mail@Vincentius.dk

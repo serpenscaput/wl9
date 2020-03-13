@@ -1,0 +1,221 @@
+Thank you for downloading The Cold War, my 3rd Wolfenstein addon, this is a sequal 
+to End
+of The Third Riech my first Wolfenstein addon, but it's inspired by and based around 
+Triston's or Parifriction's 
+Final Solution, so a big part of credit goes to Triston or Parifriction for the creation 
+of this mod. You may even
+think it's a rip off of The Final Solution twisted into what this mod is, especially 
+the storyline. In 2007 the idea behind this 
+mod was to be inspired by Final Solution but with better levels, which I hoped to 
+be more extensive, but also to twist
+the storyline, invent a way for this mod to take place after my first mod End of 
+the Third Riech. I hope I have succeded,
+but at least if anything, like all my Wolfenstein mods, creating it was worth my 
+time, unfortunatly I slipped back with creating
+ the levels, the levels may not be as good as in my previous mods, End of The Third 
+Riech and The Spear. The levels may not 
+be very extensive at times, I did my best to improve any levels that needed improving 
+but I hope it's not the worst Wolfenstein
+mod in a long time. If you like it good, if you don't like it it doesn't matter, 
+don't play it, just forget about it.   
+
+
+Storyline
+1946 
+A year after you BJ The One Man Army put an end to The Third Riech, you not only 
+killed Adolf
+Hitler and all his Nazi's, you also found Dr Scabb's giant layer, his
+laboratory where he performs his twisted experiments. You also
+defeated all his mutants and found his mutant habitat Caverns of
+the unknown to find a Hitler mutant!! which you managed kill too!! yes you are one 
+true
+legend!!!. But before that you also managed to retrieve The Spear from the hands
+
+of Hitler out of Castle Numenberg which let to your success so far.
+But now as if in one second we go back in time, it's 1945 again!!!! bizzarely your 
+
+memory is not wiped though, you can still remember 1945 the first time round, so 
+can the Allies.
+This is so strange, thougt the Allies, how the hell is it possible? we won't know 
+what exactly happened
+yet, so first we must send BJ out to bring an End to The Third Riech once again and 
+we will see
+where we go from there. But your mission BJ will take place in a different location, 
+it looks like
+the Nazi's were in a different facility, this facility is a series of castles connected 
+by a series of tunnels. 
+The main part of this instalation is a fortress called Festung Adler. It's also called 
+The Eagle's Nest because it's
+so high you have to be an eagle to reach it. It lies 3000 meatres above sea level. 
+Theres no connection with the valleys
+below it, making it the perfect location for arranging secret operations. The castles 
+within this network are interconnected 
+by a series of tunnels. This seems like a better facility than where the fight took 
+place last time in 1945, you must first enter
+Castle Hasslehoff via the first tunnel access, good luck BJ if you make it out alive 
+you will have something to later
+tell your grandkids.
+
+
+
+Level names
+
+Level 1 Tunnel 1
+You must go through a slimmy tunnel, the only to enter Castle Hasslehoff.
+
+Levels 2 - 5 Castle Hasslehoff
+You begin your mission in an old prussian castle called Hasslehoff, the first castle 
+in this instalation of networks.
+Some parts of it may be used for storage of Scabb's equipment. On level 5 you will 
+fight your first boss called Werner Gelassen, he 
+may remind you of a boss you perviously fought in Castle Numenberg on your quest 
+for the spear but he's a Gestapo General. 
+
+Level 6 Tunnel 2
+
+Levels 7 - 10 Festung Adler
+You finally reached The Eagle's Nest, it lies at the very top of a mountain which 
+makes it unaccessible from the valley below.
+This is the main part of the installation for the operation, it is very high on security 
+and can be well guarded at times. Level 10 you will 
+face your first Ubermutant.
+
+Level 11 Tunnel 3
+
+Levels 12 - 15 Felsebdam Dungeon
+The cold wind howells in your ears as you enter Felsebdam Dungeon, part of Fetung 
+Adler. Felsebdam built in 1643 officiates as a dungeon
+for catching spies, now used for capturing prisners that are part of Scabb's twisted 
+experiment. No wonder this place smells like death,
+blood, sweat and tears part of the main smell. On level 15 you will encounter a surprise 
+visit with Adolf Hitler himself, why would he live 
+in a dungeon?
+
+Level 16 Tunnel 4
+
+Levels 17 - 20 Festung office
+At the very top of The Eagle's Nest is a secret office facility, you have change 
+of more civillised scenery before taking 
+a tunnel to your last part of the installation, Festung office is where all the paperwork 
+is archived, also a place where
+secret conferences take place. On level 20 you will have to fight what looks like 
+Otto Giftmatcher but dressed in blueish
+greenish instead of white, mabye it is Otto, afterall time has turned back and altered 
+the course of future events. Be carefull 
+of his rocket launcher!!
+
+Level 21 Tunnel 5
+
+Levels 22 - 30 Luftberg bunker
+After you take the elevater from the tunnel, you end up in Luftberg bunker, you have 
+reached Scabb's laberatorys,
+where you will have to fight alot of mutants, there are also some unfinished mutans 
+lying on operating
+tables, at mid point on level 25 you will have to fight another Ubermutant, on level 
+30 you willface Dr Scabb's himself.
+If you kill Dr Scabb's you will have brought the cold war to an end once again.
+
+Secret levels
+In the early part of the the installation are 2 secret levels that are accessed within 
+2 of the early levels.
+
+Super Secret levels
+Hidden on the final level is access to a series of Super Secret levels, but if you 
+fing the first Super Secret level
+your mission has only just started, you will have to get through all the Super Secret 
+levels to end the game, but don't worry, 
+access to the next Super Secret level is never hidden. You have 2 choices on level 
+30, escape early, or be a real hero and 
+accept your Super Secret mission.
+
+
+
+
+
+
+
+The Cold War features
+41 seamless levels ( 30 normal levels, 2 secret levels and 9 super secret levels 
+)
+A mix of imported and original vswap graphics and sounds
+Some new music imported.
+25 ammo crate added.
+Landmines.
+Changed ceiling colours.
+Changed menu and screen background colours.
+Help art re enabled.
+Some new and modified VGA graphics.
+New demos recorded.
+
+
+Some bugs and errors
+There are several bugs and errors in this mod, one error is inorrect graphics in 
+the read this, I don't 
+know what went wrong but if some text is rendered unreadable then everything is explained 
+in this document.
+The landmines replaced the golden cross but they render you unable to get 100% treasure, 
+not sure if that's
+just if you avoid landmines.
+There may be other bugs that I'm unaware of but those are the known errors.
+
+
+
+Credits and acknolodgements
+First off I would like to thank id software for Wolfenstein 3D and Spear of destiny, 
+Form Gen corp for
+the 2 Spear mission packs.
+Secondly I would like to thank id software for the relese of the Wolfenstein Source 
+code, Florian Stohr for Floe edit, Chaos
+software for Chaos edit.
+I would now like to credit other people for use of their resources used in this mod 
+starting with Triston or Parfriction for Final Solution,
+it's storyline as a base for this mod's storyline, also use of vswap graphics and 
+sounds from Final Solution, id software for use of 
+original Wolfenstein and Spear vswap graphics and sounds, music, Form Gen corp for 
+use of vswap graphics from Spear mission packs,
+use of the grey x wall, check tiles credit goes to whoever designed them, there are 
+also a few wall textures that I designed namely 
+the blue stripped wood pannel, the grey stripped wood pannel from End of The Third 
+Riech, plus mabye a few wall textures
+I recoloured. 
+People like Reactor for use if music from the IMF pack, MCS and Areyep for use of 
+music from End of Destiny, possibly also for ripping 
+music from Blake Stone ans Planet Srtike, any other music, thanks to whoever converted 
+it to IMF format.
+
+I would now like to thank some people for Source code tutorials, MCS and Areeyep 
+mainly for the seamless 
+level shortcut, Luke Strauman, Martin Kryseic and anyone who posted source code totorials 
+on the Wolfenstein Dome, Paal Olstad.
+Without you guys many of the source code tutorials in this mod wouldn't have been 
+possible.
+
+Terms of fair use
+You may distribute this mod as freeware for non profit use as long as it's intact 
+and unaltered, you may use this mod as a base for 
+your own mod, you may use resources from this mod for your own mod, vswap graphics, 
+sounds that's fine by me ( credits
+mentioned as above ), you may also use the levels in this mod for your own mod. 
+
+
+
+More Wolfenstein mods from Penguindog55
+And if you like The Cold War, why not try my other mods, 1945 End of The Third Riech, 
+60 action packed levels,
+bring down the Third Riech and stop Scabb's twisted experiment, The Spear, 30 tough 
+levels, you have to 
+make your way to the top of castle Nuremberg and rescue The Spear so that you can 
+put an end 
+to The Third Reich.
+Also look out for other future Wolfenstein mods I may relese, my next mod is going 
+to be Quest for the unknown,
+now you have ended it all for the 2nd time you now have to go on a quest to find 
+the unknown that may have
+been behind the time travel.
+
+
+
+
+
+
+   

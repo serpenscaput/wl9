@@ -1,0 +1,40 @@
+^P^
+^C[Red]QUICK COMMAND REFERENCE
+^c[Black]
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10			Quit Game
+
+Read on for more information.
+^P
+^G 16 16 [DHW]
+^G 140 200 [WOLFSRCE]
+To download more mods, check out ^c[Blue]DieHard Wolfers Forum
+^c[Black]http://diehardwolfers.areyep.com
+
+OR
+
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^c[Black]website
+wolf3d.net
+^P
+
+
+
+^C[Blue]Mod ^C[Black]by Thomas Weiling 2019
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+Original mod for ^C[Green]Wolf4SDL ^C[Black]by Ripper
+	SDL EXE - AlumiuN
+	ECWolf Port - AstroCreep
+^C[Gold]ECWolf ^C[Black]by Blzut3
+^C[Green]LZWolf ^c[Black]by LinuxWolf
+
+
+
+^E

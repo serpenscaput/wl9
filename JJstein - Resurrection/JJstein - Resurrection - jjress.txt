@@ -1,0 +1,33 @@
+JJStein: Resurrection (Demo Version)
+By JJ Erickson
+
+Here are 3 new levels. They are episode one - levels 1, 2 and secret. Levels on the 
+other 5 episodes have been removed.
+
+There are some new graphics and sounds but overall the atmosphere of the original 
+game remains. 
+
+There are some basic source code changes such as increased ammo/health, ceiling colors 
+and changed episode names etc. The ILM cheat and debugmode have been changed too. 
+
+
+Beware of the crosses. They have changed color and are now landmines!!
+
+Enjoy!!
+
+3/2/2003
+
+Updated 4/9/2003
+Three more levels added.
+Some changed graphics, including the landmines which are no longer crosses.
+
+Updated 5/7/2003
+Now has 10 levels (first episode).
+Brand new boss (episode one boss level).
+Cheats batch file added.
+New title screen/status bar added.
+
+Updated 6/8/2003
+Some graphics changes, plus a few minor map changes.
+
+ 

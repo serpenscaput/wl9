@@ -1,0 +1,154 @@
+====================
+=GUIDE TO SWITCH 17=
+====================
+
+-INSTALLATION-
+Just paste over an existing REGISTERED copy of
+Wolf3D. Don't be cheap, buy one if you don't
+have one.
+UPDATE 1/5/05: I've been getting some reports
+of people having trouble with installing this
+mod, and the reason lies in the VGA files. If,
+and only IF you get a messed up screen when
+trying to play Switch 17 (like, right at the
+start), then you'll need the proper VGA files
+to play. Snag them at:
+http://www.dugtrio17.com/vga.zip
+
+-WEAPON SETS-
+
+Classic: You know these weapons quite well, I
+hope. The sounds are a bit different to mix
+things up a bit, but they're the same at heart.
+
+Go4it: Weapons from a coding experiment of mine
+a while back, dubbed "Go4it" because of the zip
+filename. Hint: Pushwalls have replaced the
+charge walls.
+
+Rayguns: Oooh boy. These are a bit strange, but
+hopefully fun. Their functions are noted by the
+symbol drawn on them.
+
+Mind Powers: BJ is one to dabble in a few extra
+bits of literature, or at least he is now, and
+he may have read a book on powers of the mind.
+If he did, he'd find therein information about
+throwing people, using mind bullets, and even
+shifting pain to others.
+
+Explosives: I'm going to be honest with you on
+this one. If you don't have god mode on, you
+WILL blow yourself up many, many times. Have
+fun figuring out what each weapon does, I'll
+leave that bit to you.
+
+Uberpowered: The cheese of cheeses. I think the
+cheese peaks at weapon three, and you'll see
+what I'm talking about. Weapon two is cursed;
+you CAN use it more than once per level, but it
+has to take a nap for a while after it kills
+something, union regulations or something. Be
+warned, using it improperly can lead to
+expulsion from reality. "Improperly" often
+happens in large crowds.
+
+Wizardry: Originally scheduled to appear in my
+NOT DEAD TC "The Mark", but I've since redone
+the whole game from scratch, and that includes
+weapons and even the weapons system, so instead
+you get 4 of the planned weapons for "The Mark".
+That last spell's a doozy; eats up power, but it
+does more than you'll probably ever figure out.
+
+Fireworks: You ever hear about that kid who blows
+his thumb off goofing off with fireworks? Now's
+your chance to be that kid! Will you play it safe
+with poppers? Or will you set off a spark volcano
+and hope you run away in time?
+
+-MODES-
+There's two at the moment. I never said this would
+be the last edition of this game, get off my back.
+Classic: I needn't explain this.
+Arcade: I need to explain this but... I won't.
+
+-OTHER STUFF-
+You'll have to figure it out on your own. Play on
+the right days and you may get goodies... or the
+shit scared out of you.
+
+-THANKS TO-
+Me, for getting off my ass and coding.
+Poet, for the radius function and the "adding new
+weapons" tutorial that I use as a checklist when
+adding every new weapon.
+Chris, for rocking on. And something to do with a
+sound bug, too.
+Sockman, for reminding me that this will come out
+before Wolfback.
+MCS, for various tutorials. The man's a genius.
+WSJ, for the in-game messages tutorial and the
+Heer sprites. Quit being on vacation, dammit!
+Barbara, for requesting a new bust and waking some
+voice in the back of my head saying "Photoshop!
+Photoshop!", which was then quieted by the voice of
+logic.
+Majik Monkee, for his image world site that saved
+me much trouble.
+TobiXY, for the Barney Calhoun sprite set.
+David, for the SS Variations sprite package.
+Conner94, for converting that blasted missile
+launcher.
+Ringman, for the fish.
+Tricob, for overseeing my growth and making sure I
+didn't burn down the house. Or maybe that was mom...
+Mom, for what I'm crediting Tricob for, I think.
+Dad, for... wait, you don't get any thanks until my
+application fee to State is paid for.
+My keyboard for I CAN'T TYPE ANYMORE.
+
+So yeah, basically this wouldn't be possible if it
+weren't for tons of cool people, especially those
+at the DHW forums. Rock on.
+If I forgot you or you want your name mentioned,
+dugtrio17@dugtrio17.com might be the guy to email.
+
+-ETC-
+I was going to include new music with this bad boy,
+but it's late and I'd rather stick with the regular
+music than make crappy selections that'll clash with
+gameplay.
+This thing's not going to be perfect, but eh, I've
+said before that I'm gonna update it in the future.
+If you've got any bugs to report, do so in the
+appropriate topic on DHW or drop me a line.
+There's no new maps, either. This is actually an
+interesting subject... see, I haven't mapped since
+I discovered something very, very, very strange
+about my mapping style. See, I map entirely for
+gameplay and challenge, so my maps seem to turn out
+pretty tough but pretty damn fun, even after playing
+them over and over again. Of course, they seriously
+lack in decorations, which is but one of the many
+quirks with them. Ever since I found out that
+something wasn't quite right with my mapping style,
+I decided to retire from mapmaking (well, at least
+from making maps by themselves).
+Then I played something called CHOKAGE. Chokage had
+tough maps, but they were fun as hell. Of course,
+Chokage had an edge since it's got a nice environment
+set by all its cool new graphics and sounds, but
+the fact that they seemed to have mostly the challenge
+and the gameplay in mind stuck in the back of my head
+until recently. I took breaks to goof off while making
+this thing, and when I did, I played Chokage. God, I
+loved it. I was INSPIRED! I MUST MAP!
+...wait, there's no maps with this thing. We'll chalk
+it up to time constraints for the moment, but be
+warned... some time in the future my maps shall strike...
+
+I'm probably forgetting some other shit, but oh well.
+In the end, all I care about this mod is whether or not
+you had fun with it. If you did, then my goal is
+accomplished.

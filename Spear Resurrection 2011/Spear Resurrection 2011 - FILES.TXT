@@ -1,0 +1,29 @@
+The following files should be in the "Spear Resurrection" zip file (SRSDL2.ZIP) you 
+downloaded. If any of them are missing you will most likely have problems running 
+the game. To play the game, make sure all these files are in the same folder, then 
+just double click the SOD2SDL2.EXE file to start the game.
+
+AUDIOHED.RIP
+AUDIOT.RIP
+DEMO0.RIP
+DEMO1.RIP
+DEMO2.RIP
+DEMO3.RIP
+ENDART1.RIP
+FILES.TXT
+GAMEMAPS.RIP
+HELPART.RIP
+INTRART1.RIP
+INTRART2.RIP
+INTRART3.RIP
+INTRART4.RIP
+INTRART5.RIP
+MAPHEAD.RIP
+README.TXT
+SDL.DLL
+SDL_MIXER.DLL
+SOD2SDL2.EXE
+VGADICT.RIP
+VGAGRAPH.RIP
+VGAHEAD.RIP
+VSWAP.RIP

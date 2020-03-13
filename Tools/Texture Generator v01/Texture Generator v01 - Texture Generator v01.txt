@@ -1,0 +1,20 @@
+"Tricob's Texture Generator"
+
+Howdy, folks.  It's Tricob again, as you might have guessed.  :-)
+
+I designed this program to decrease the time it would take to make professional-looking 
+textures for my games.  The program is DOS-based, and doesn't run in Windows 7 or 
+Windows Vista, unless you use the DOS Box program.  If you can getting the code running 
+in QB64 or FreeBASIC, please do so, and forward the source code and EXE to me.  Thanks! 
+ :-)
+
+To use this program, save a 320x200 pic from your mod into a BMP file, and call it 
+"1.BMP".  Then place the file in the same folder as this program.  Now run the program.
+
+
+The source code I provide is for QuickBASIC v4.5, another DOS-based program.  The 
+BMP Save/Load code was written by an outside QB user many years back.
+
+Hope this utility proves useful to you.  :-)
+
+- "Tricob".

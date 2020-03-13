@@ -1,0 +1,77 @@
+ATTENTION:  ENITE3FX.ZIP
+
+WELCOME TO THE SPECIAL INTERNET SCREWUP EDITION OF ENIGMA'S NIGHTMARE III.
+File:  ENITE3FX.ZIP  (Enigma's Nightmare 3 FIX).... Contains known good
+copies of the ENITE3F1.ZIP and ENITE3F2.ZIP archives to counteract the bad
+copies found at various ftp sites on the internet.
+
+
+HERE'S THE PROBLEM, FOLKS:  I have been informed that some jerk knowingly
+uploaded defective copies of ENITE3F1.ZIP & ENITE3F2.ZIP to various sites
+on the internet.  Allow me to thank him personally:
+
+HEY, RUBE, can't you read?  I asked (in the NM-III docs) that defective
+archives NOT be distributed.  Let me put it in little words for you... 
+"You-not-do-this-thing.  It-bad!"  Get it?
+
+The flaw was in one of the loader FLI files.  This is unacceptable, since
+much attention was given to the loader and knowingly uploading a damaged
+archive is unfair to other net users.  There are many known good copies
+floating around the BBS world.  Surely this person could have taken the
+time to acquire a good copy before sending the software to an international
+net?  
+
+In the text file describing the ENITE archives he sent to various ftp sites,
+the uploader asked for a fix to Enigma's Nightmare I level 5.  Once again,
+it appears he can't read.......
+
+AS STATED IN THE NM-III DOCS.... NIGHTMARE III contains all maps for all
+previous versions of the Nightmare series, and since all maps in ENM-III have
+been fixed already, such a fix is NOT NEEDED. 
+
+IN FACT, users are urged to dump all versions of Nightmare and Nightmare-II
+(as well as any known defective copies of EN-III) and use this special
+Internet Screwup version of ENIGMA'S NIGHTMARE III exclusively.  Everything
+you need to play all versions of NM are included in ALL versions of the
+ENM-III archives, and this file is no exception.
+
+Anyway, back to our uploading friend...........
+
+He then goes on to ask for the X-rated Enigma graphics, ENITE-X.ZIP.  Yup,
+he sure wants favors from others right enough...
+
+Yet this same guy knowingly uploaded a damaged copy of Enigma's Nightmare
+III to the following Internet ftp sites:
+
+ftp.cc.umanitoba.ca
+
+ftp.uwp.edu
+
+And Lord knows how many others...........
+
+So here's a flash for him: The Enigma X-rated graphics WILL NOT be released
+until this fixed version of ENM3 is uploaded to every site you sent the
+defective copy to.  I ask all users who find ftp sites which carry
+the damaged version (so stated in the text file which the uploader included
+with the archives) to upload this known-good INTERNET SCREWUP release.
+
+PLEASE, use the file ENITE3FX.TXT in the main archive as your internet
+descriptive text file when you upload the ENITE3FX.ZIP archive to an ftp
+site. 
+
+If you you wish to upload Enigma's Nightmare III to a BBS system, simply
+extract the 2 ZIP files inside the ENITE3FX archive and upload them, instead
+of the ENITE3FX.ZIP file itself (the ENITE3FX.ZIP archive is for internet use
+only).
+
+TO ALL USERS WHO HELP OUT BY UPLOADING KNOWN GOOD COPIES OF ENM-III TO FTP
+SITES AND BBS:  Thank you!  May the sun shine upon you for all your days!
+
+TO THOSE WHO INSIST UPON DISTRIBUTING DEFECTIVE COPIES:  May you get
+grasshoppers in your milk.
+
+Regards, 
+
+ENIGMA-13
+
+

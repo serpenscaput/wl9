@@ -1,0 +1,424 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Schabbs 3000, An add-on for Wolfenstein 3D, It was 
+created by me, Ling Yan Li. This is my first Wolfenstein TC, I've added some things 
+to the code, including 190 wall tiles! It's a little bit difficult, but not impossible 
+to beat. I'd recommend that you save your game often. 
+
+^P
+^C7d NEW VERSION UPDATES
+
+^C00 This is an improved version of Schabbs 3000. This is a slightly improved version 
+of my old Schabbs 3000 code, with several changed graphics, levels, sounds, code 
+changes, and bug fixes. There are still some known bugs in the mod, but the ones 
+I've noticed were that the game crashes on higher difficulty levels.
+
+^P
+^C7d THE STORY
+
+^C00 It's February 1940, World War II is at full force. The Germans are battling 
+a large battle against the allies. The Allied Intelligence has revealed the ultimate 
+Nazi plan called: Operation Eisenfaust.
+
+^P
+^C7d THE STORY
+^G32,16,31
+
+^C00 Dr Schabbs deadly fighting machines have been sent into battle to attack unyeildingly 
+until no other Allies are alive. Dr Schabbs has no sympathy for his killing machines 
+and if this experiment was to succeed, it would spell disaster to the rest of the 
+world and humanity.
+
+^P
+^C7d THE STORY
+
+^C00 As it stands, all of the mutants he has created are still located in his lab. 
+These evil experiments have been rumoured to be amoungst the mountains in Germany, 
+in several underground chambers and then leading to one of Dr Schabbs secret labs, 
+where the Evil doctor is creating his evil killing machines.
+
+^P
+^C7d THE STORY
+
+^C00 The Allies in desperate inspiration have acquired maps from a few ally spies 
+showing the locations of where these ingenious experiments are being held.
+
+^P
+^C7d THE STORY
+^G32,16,4
+
+^C00 You are B.J. Blazkowicz, and your commanding officers are sending you to stop 
+Operation: Eisenfaust from succeeding. Your target is infiltrate the Nazi Apartments, 
+which is lightly guarded and has been assigned as your entry point. You'll enter 
+the apartments through the sewers and work your way through four underground chambers 
+to secret lab, where the evil Dr Schabbs does all his experiments.
+
+^P
+^C7d THE STORY
+
+^C00 The O.S.A (Office of Secret Actions) tells you that you must stop Dr. Schabbs 
+evil mutants, In order to reach Operation: Eisenfaust, You must journey into the 
+Nuclear Reactor, The Bio Labs, and must stop Dr. Schabbs most evil creations before 
+he & the Nazis take control all of Europe!
+
+^P
+^C7d THE STORY
+^G32,16,3
+
+^C00 This is one of your toughest missions yet and you'll be fighting against some 
+of the toughest soldiers, so fight hard and remember to make use of the health and 
+ammunition that has been left behind to help you through out your mission. The Allies 
+and the rest of the world are counting on you, so do your best and try and win for 
+all humanity.
+
+^P
+^G10,150,5
+^C7d STORY
+
+^C00 If B.J. fail on this mission, Dr. Schabbs and his mutants and creations will 
+destroy the whole world, and the O.S.A can never stop this madness. Your hands has 
+the world's end of destiny! Good Luck, B.J.!
+
+^P
+^C7d FEATURES
+
+^C00 * 60 Consecutive levels 
+* New weapon - Missile Launcher
+* Crosshair
+* 4 New Keys
+* Hitler Boss Split into 2
+* Changed Ceiling Colors
+* Spear Music
+* Many New Graphics & sounds
+* 190 Wall Designs
+* New Static Objects
+* New Par Times
+* Seamless Level Flow
+* New Quit Remarks
+
+^P
+^C7d FEATURES
+
+^C00 * Increased allowed number of Static Objects for each level
+* Spear of Destiny added
+* Spear Palette
+* Some very weak Mini-Bosses 
+* Stronger Bosses
+* Increased Ammo/Health limit
+* Teleporter
+* God Mode/Death Artifact
+* Explosive objects
+* and much more.....
+
+^P
+^C7d ITEMS
+
+^C00 Throughout the game, you will find some supplies to help. There are health, 
+treasure, ammo, etc.
+
+^P
+^C7d ITEMS
+
+Treasure: ^C00There is treasure in the game. There are lots of them, and 8 are described 
+here. If you find enough treasure, you'll get an extra life.
+
+^C7d Cross: ^C00 100 points
+^C7d Tin Chalice: ^C00 200 points
+^C7d Gold Chalice: ^C00 500 points
+^C7d Chest ^C00 1000 points
+^C7d Black Diamond: ^C00 2000 points 
+^C7d Gold: ^C00 2500 points
+^C7d Crown: ^C00 5000 points
+^C7d Master Crown: ^C00 7500 points  
+
+^P
+^G140,50,135
+^c7dHEALTH ITEMS
+
+^c2dDog Food- ^c00Dr. Schabbs was dispenced any dogs, cause they are useless, but 
+the foods are still useful for others. Gives +4 health.
+
+^c2dNazi Dope- ^c00the Nazis was developed a new medicine type to healer the soldiers. 
+This gives only +5. Afterall, the medicine is powerfull. So don't get it if you have 
+100% health.
+
+^P
+^G140,50,135
+^c7dHEALTH ITEMS
+^
+^c2dFood- ^c00food has actually for the prisoners, but you can found this at many 
+places of the complex. Gives +10.
+
+^c2dFirst Aid Kit- ^c00many kits must be buyed because the battle against the Allies. 
+They are a little rare. This equipment gives +25 health.
+
+^P
+^G140,50,135
+^c7dHEALTH ITEMS
+
+^C2dSuper Aid Kit- ^c00this is really expensive kit. Can give you +50 health, but 
+it's not easy to find. Cause this great amount of health, you must know what is the 
+time to use it.
+
+^c2dField Surgeon Pack- ^c00the scientists's operation kit. This item is very rare 
+to find. You can use it to cure you. Recovers totally health.
+
+^P
+^G140,50,135
+^c7dHEALTH ITEMS
+
+^C2dSteroids- ^c00Dr. Schabbs puts steroids in this place so his Mutants & creations 
+are stronger, harder to beat. Gives +15.
+
+^P
+^c7dHARMFUL ITEMS
+
+^c00Dr. Schabbs puts some harmful objects to defeat, & kill any intruders who come 
+and foil his creations. He uses them everywhere. Avoid these items listed below:
+
+
+^C2dPools of poison: ^c00Very, very slimy. stepping on the light green pools of poison 
+can harm you and take away 20% health!
+^C2dEvil Cross: ^c00A silver cross with black jewels. This artifact is very dangerous, 
+If you touch it, you'll lose 50% health!
+^C2dSyringes: ^c00Kills anyone who moves over it, Including You!
+
+^P
+^c7dHARMFUL ITEMS
+
+^c00When the enemies move over the syringes, they will get killed and they also will 
+pick up the syringe. Then when you move over the tile when the enemy has already 
+touched the syringe, you will not die.
+
+^P
+^c7dPOWERUPS
+
+^c00These powerups are useful, but not easy to find! Both give you 10,000 points!
+
+
+^c7dLife Ball- ^c00this artfact will recovers your health, gives 25 bullets, 5 Missiles, 
+and a extra life! You can found main in secret areas, in hard times!
+^c7dArtifact of Invincibility- ^c00This artifact is yellow, and has your face in 
+the center. It is extremely rare. It can only be found on a few levels, but are hidden 
+in secret areas! When grabbed, you will be invincible for the remainder of the game.
+
+
+^P
+^c7dTELEPORTERS
+
+^c00These teleporters are found on a few levels, they take you somewhere else on 
+a level. So You'll never know where you'll land when you grab the teleporter! They 
+actually take you one area of a level into another area of a level, but not out of 
+1 level into another level. So don't expect that you'll get out of this level with 
+this artifact!
+
+^P
+^C7d ARSENAL
+^G32,16,137
+
+^C00 In your mission you'll be encounter 2 different types of ammunition, i.e the 
+ammunition clip for the Machine Gun and Chain Gun, of which you'll be able to carry 
+up to 200 ammo clips and then the missiles for the missile launcher, which you'll 
+be able to carry up to 60 Missiles.
+The ammunition clips which is suitable for the pistol, machine gun and chaingun.
+
+
+^P
+^C7d ARSENAL
+^G32,16,137
+
+^C00 The knife (the gun you first start off with) is real weak. The pistol is useful 
+when encountering single guards, while the Machine Gun and Chain Gun is useful and 
+suitable for taking big crowds or groups of guards. The Chaingun is useful when encounting 
+a large group of guards or even against the bosses you may encounter.
+
+^P
+^C7d ARSENAL
+^G32,16,138
+
+^C00 The second ammunition type is for a far more deadlier and even more dangerous 
+weapon the Missile launcher. The missiles that you'll encouter in your mission will 
+allow you to carry upto 60 Missiles. This weapon maybe great for going up against 
+bosses. The Missile Launcher you must use wisely as the missiles and the Missile 
+launcher are sarcely found. 
+^P
+^C7d ARSENAL
+^G32,16,138
+^G100,16,141
+
+^C00 The Missile Launcher itself may only be encounter in the upper regions of the 
+1st Underground Base.
+
+^C00 During your mission you may even encounter a backpack which gives you up to 
+50 Ammunition clips and 15 Missiles, these backpacks are also scarcely found throughout 
+your mission.
+
+^P
+^C7d KEYS
+^G32,16,136
+
+^C00 During this adventure you will encounter 6 kinds of keys, but 1 is a keycard.
+
+^C27 Keys: ^C00 The 4 keys that you'll be encountering during your mission are the 
+Gold key, Silver key, Bronze Key, and Nuclear key. On each level you may need more 
+than 1 key to complete the level. The Bronze & Elevator Key are not pictured. Most 
+of the levels require an elevator key to complete the level.
+
+^P
+^C7d KEYS
+^G31,16,136
+
+^C00 There's also a Factory card that is used on some levels, The Nuclear key is 
+mainly used in the reactor core. but It can also be found on some other levels. 
+
+
+^P
+^C7d ENEMIES
+
+Guard: ^C00The standard German soldier.  They are the most common enemy.
+
+^C7dOfficers: ^C00Though armed only with a Pistol, Officers are fast and furious.
+
+
+^P
+^C7d ENEMIES
+
+S.S.: ^C00Also known as Himmler's "Blueshirts," S.S. guards are brutal and will perforate 
+you with their MP40 machineguns.
+
+^C7dMutants: ^C00Those guys are created by the evil Dr. Schabbs so they can help 
+him rule the world. They have Pistols in their chests. They shoot fast! Beware!
+
+^P
+^C7d ENEMIES
+
+Troopers: ^C00These guys are very weak, looks like the officer but it wears a yellow 
+uniform. They have a rocket launcher instead of a pistol. If they see or hear any 
+intruders, they will burn them with their rocket launchers. These guys are parts 
+of Dr. Schabbs' soldiers. These guys are easy to find. Be careful when you see him!
+
+
+^P
+^C7d ENEMIES
+
+Snipers: ^C00These don't really look like snipers, but they're normally grey SS Guards. 
+But they have chainguns instead of machine guns. They are really weak, just like 
+the troopers. They'll nail any intruders who are attempting to stop Dr. Schabbs, 
+including YOU!
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,32
+
+Hans Grosse: ^C00Hans Grosse is a big, powerful Nazi enforcer. He is big, but not 
+very smart, but still can be dangerous. He is armed with two chainguns and wears 
+blue armor.  Beware! He can take you down to shreds if you get too close.
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,41
+
+Super SS: ^C00 This Super SS once was an SS and did greet deeds for Adolf Hitler 
+and was promoted to Super SS to protect the Evil Doctor Dr Schabbs. Equiped with 
+a rocket launcher, he protects the 1st Underground Base and would like nothing else 
+but to get rid of the man, known as B.J Blazkowicz.
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,33
+
+Robot: ^C00Dr. Schabbs built this robot to seek any intruders and torture them inside 
+the dungeon so nobody can foil Dr. Schabbs' most evil creations. They can be found 
+on many levels except levels 1-8.
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,34
+
+Himmler Fettgeischt: ^C00 Himmler Fettgeischt, a scientist and the brother of General 
+Fettgeischt has teamed up with Dr Schabbs in order to help create the evil mutations. 
+Himmler Guards the second underground Base and is equiped with Chain Gun and a Rocket 
+Launcher and would like nothing else to turn you into one of Dr Schabbs evil mutants.
+
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,30
+
+Urbermutant: ^C00The Urbermutant, one of Dr Schabbs creations, was a replica to the 
+mutants Dr Schabbs first created, but were removed by the man known as B.J. This 
+mutant guards the third Underground Base and armed with Chaingun in the middle of 
+his chest and four arms all with clevers would like nothing else but to slice you 
+up into little chunks of meat, then turning you into chunks of a dead body.
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,42
+
+Barnacle Wilberhelm: ^C00 Barnacle Wilberhelm, a high-rank Nazi officer armed with 
+a rocket launcher and a chaingun. He guards the factory core towards the factory 
+summit. Beware! His rockets can toast you into a crisp.
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,35
+
+Trans Grosse: ^C00 Hans Grosse's twin brother. He is another powerful Nazi enforcer. 
+Similar to his brother Hans, but wears green armor with spikes around them. He is 
+also armed with two chainguns and can tear you up with his dual chainguns.
+
+^P
+^C7d BOSS ENEMIES
+^G32,16,31
+
+^C7d Dr Schabbs: ^C00 Dr Schabbs, he's the master behind this evil plot, but with 
+no gun to kill you off with, he'll be throwing deadly syringes to kill, the only 
+thing he'd like is to turn you into one of his mutants. If this plot was to succeed, 
+he'd help Hitler rule the world
+
+^P
+^C7d EXPLOSIVE OBJECTS
+
+^C00 There are exploding barrels in this game, when shot, the will explode and hurt 
+nearby enemies, espically you! so stay far away when you shoot the exploding barrels.
+
+
+^P
+^c7dOTHER SUPER ITEMS
+
+^c7dAmmunition Stock- ^c00The better ammo-item from the game. If you grab this item, 
+you can get up to 100 bullets & 20 missiles! 
+
+^c7dTreasure Crate- ^c00This confidential box, with a crown painted, contains many 
+treasures inside. Can be harder found, it's a treasure and give you 16,600 points!
+
+
+^P
+^C24 EDITORS USED
+
+^C6c Do you want to know how I made this add-on?
+
+^C00 Floedit II v2.0: Grpahics, & Sound Replacement
+Chaosedit beta v.07: VGAGRAPH Image Replacement
+Borland C++ 3.1: Source Code Compilation
+Notepad, EditPad Pro: Help Screens, End Text
+Mapedit 8.4: Level Design
+
+^P
+^C24 CONTACTING LING YAN LI
+
+^C00 Comments?  Suggestions?  Questions? If you have any, you can send me some e-mail 
+at lingyan203@yahoo.com
+
+^C00 You can also contact me on Facebook, YouTube, or through the DHW Forums if you 
+have any questions regarding this TC.
+
+^P
+^C24 THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 Thanks for downloading and playing Schabbs 3000! Now go and attack and assassinate 
+Dr. Schabbs' most evil creations!
+
+^E

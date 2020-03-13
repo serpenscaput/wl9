@@ -1,0 +1,99 @@
+The story:
+
+Germans are on the fall, despite all their campaigns to turn the course of war... 
+
+Outcome has nearly allways been disastrous. 
+
+Eventhough the Soviets haven't started their march to Berlin, the outcome 
+of war has come clear in minds of many... There ain't any escape for 
+nazis any more, they will surely lose the war. 
+
+Events of the last months has been a preloque to this conclusion: 
+Assassination of the "genuine Aryan" family Grosses, Rommels defeat 
+in El Alamein and many more frightening failures of German battleunits. 
+
+But the most destructive loses has been caused by one man... 
+Captain William Blazkowicz who put end to the threat of chemical warfare 
+(may Otto Giftmacher and General Fetgesicht burn in peace) and captured 
+the Spear of Destiny from the cluthes of Adolf Hitler. 
+
+But once again humans are know to commit desperate acts for their survivalance 
+and nazis aren't an exception. 
+
+Somewhere under Rheinstaad, the order of Himmler (nazis of the round table) 
+has gathered to make the final solution to seal the glorious victory of the Third 
+Reich...
+
+
+The HQ of O.S.S, location: classified
+
+
+
+Features:
+
+- 64+ walls, 
+- ammo- and medicine racks, 
+- textured ceiling/floor 
+- lots of new objects, 
+- directional sprites,
+- animated objects, 
+- endlevel object, 
+- godmode artefact, 
+- hazardous items (mines, poison pools etc.), 
+- new treasure items,
+- backpack
+- disguise 
+- mutant's shoot now rockets, 
+- destructable objects (barrels, columns), 
+- one new weapon (with its own ammotype), 
+- gun bobbing, 
+- lots of new sounds, 
+- ambient sounds, 
+- heartbeat sound, 
+- shading, 
+- new palette, 
+- ingame messages, 
+- level name is now showed in the Get Psyched screen, 
+- full size view, 
+- changed secret cheat codes, 
+- Intermission screens,
+- Outside Atmosphere (Thanks KyleRTCW and Adam Biser)
+
+This is just a sort list.
+
+Known "bugs":
+
+- In some levels the digitized sounds stop playing, but
+  they allways appear in few ten seconds...
+- Sometimes when you pick up the Disguise... moving enemys
+  will suddenly jam (they will repeat their moving pattern,
+  but they won't move a square) 
+
+ 
+Credits:
+id-soft. (Thanks for making the Wolfenstein 3d and S.O.D)
+Lord Raffles & Noni (you're wall textures are "cool")
+GRPSites (Lot's of good wall ideas)
+Areyp.com (Awesome texture librarya and handy coding section)
+Dr. Chainsaw (Thanks for you help with the code)
+Dugtrio17
+Flamer46
+KyleRTCW
+DieHard wolfers - community (Thanks for all those "neat" tutorials)
+
+Tools used:
+
+Borland 3.1 C++: Source code editing
+Ms-Paint: Graphics/textures/sprites editing
+FloEdit: Importing graphics/textures/sprites/sounds/ and editing maps
+
+To those who propably open my VsWap with some editing tool (FloEdit,WDC,ChaosEdit...):
+
+
+VsWap ain't yet finished, some of the walls and floor/ceil. textures are still missing.
+
+Not all enemies and objects have been added (I changed my consept and start to "build"
+
+new VsWap)... and in the end of the file you might see some enemy sprites, but that 
+has
+the same reason I already mentioned (its the "rebuilding" of VsWap).

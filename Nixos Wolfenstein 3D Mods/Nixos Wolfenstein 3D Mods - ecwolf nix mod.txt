@@ -1,0 +1,5 @@
+medkit heals 50
+food heals 20
+dog food heals 10
+gibs heal 5 if life under 51%
+blood heals 1 if life under 51%

@@ -1,0 +1,17 @@
+This is a hopefully full list of the sprite, wall gfx, sound and music authors.
+
+
+TriplaK (me) - Some Sprites
+ID Software, FormGen, Apogee - Sprites, Sounds, Musics
+Capstone Software - Musics
+Ripper - Wolf4SDL port and it's source code
+Wolf-Skevos Jones - Sprites, Sounds, Wall gfx
+Ian-Skevos Jones - Sprites, Sounds, Wall gfx
+Monkee's Image world - Many sprites and gfx
+Areyep & MCS - Sounds, Musics, Sprites
+Wolfenstein 3D Fan - Sprites
+The Wolfenstein 3D Dome - Sprites, Wall gfx
+Xmas Wolf - Sprites, Wall gfx
+Executor - Sprites, Sounds, Musics
+
+....And also the others i've forgot to mention.

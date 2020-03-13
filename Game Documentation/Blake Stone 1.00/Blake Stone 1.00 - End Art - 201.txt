@@ -1,0 +1,5 @@
+  Calibrate Joystick
+
+Move joystick to the
+      lower-right
+and press a button.^XX

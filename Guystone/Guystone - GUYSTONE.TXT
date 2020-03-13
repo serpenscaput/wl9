@@ -1,0 +1,151 @@
+			*****************************
+
+				  GUYSTONE
+
+			     BLAKE STONE ADD-ON
+
+				By Guy Brys
+
+			   LAST UPDATE: 01-20-2002
+
+			*****************************
+
+What it is...
+--------------
+
+It is a full set of new levels for Blake Stone, Aliens of Gold, the
+REGISTERED version.  There are many guards on every floor, a lot of secret
+doors with a lot of bullets and food machines (sometimes you're out of
+food tokens).  I must admit I always have put in too many bullets, but
+it isn't that easy you know to be good for everyone.  Some people always
+shoot with the big pistol, others (like me) do also use the smallest
+pistol to spare bullets (not very necessary) and to make the game
+somewhat exciting (an ion comes flying towards you and you need to
+wait until your pistol is charged again).  If you dislike the number
+of bullets, you may freely delete some ammo packs.
+As people who played Guystein know, I do not like Super Bosses, so here
+there are also NO Super Bosses.  I have replaced him (or her) with 
+Generator Drones of level 6, floor 9 of the original set.  The secret rooms
+are easy to find, but you maybe need to shoot through pillars (if you want
+to succeed).  As I told, there are bullets to shoot, take them or you will
+be shooted.  Have great fun and please continu to read this text file,
+because there is a question in it.
+
+'Guystone.zip' consists of
+	* 'Maptemp.bs6'
+	* 'Maphead.bs6'
+	* 'Guystone.txt' (this file)
+To play, simply rename the original 'Maptemp.bs6' and 'Maphead.bs6' to some
+other extension and put the files above into your Blake Stone directory.
+
+
+It's for free, but...
+----------------------
+
+Yep, Yep, Yep.  I think this is a first real add-on for Blake Stone.
+I have nowhere else found a set of (p.e. 66) floors, so I made them myself.
+It takes time to produce them and I've only recently started to editing
+games like Wolfenstein 3D and Blake Stone (PS. today it is
+already more than recently).  It's very pleasant, you know.  I make people 
+happy with the levels, so I continue to do it.  Nowadays I know there are 
+still many people who like to play Blake Stone.  Because I like to know
+many people, you may always do the following
+
+	
+	PLEASE MAIL ME TO SAY YOU ARE SUCH A PERSON WHO STILL PLAYS 
+	BLAKE STONE, NEVERTHELESS THERE IS NOWADAYS DUKEM NUKEM, DOOM,
+	AND OUR LOVING LARA (TOMB RAIDER).  THE MORE MAILS ARRIVE, THE
+	MORE I LIKE IT TO EDIT THE GAME AND THE BETTER THE LEVELS WILL
+	BE.
+
+
+I have some questions...
+-------------------------
+
+When creating these floors I encountered some troubles and one of them
+is still present in Guystone (these problems aren't big, you know).
+
+* Floor and Ceiling Texture doesn't work properly.  Can someone tell me 
+  exactly what to do to make it work? (SOLVED!, The floor and ceiling
+  texture remains the same over the whole floor)
+
+* Starting in an elevator seems a little bit strange, but how can I solve 
+  this?  I put the start pointer in the right direction, but I always start
+  in that corner with the face to the wrong side. (SOLVED!, Just looking
+  to the originals)
+
+* A problem when testing some floors (p.e. floor 8 and 9 of level 3) was 
+  that a chest and a bed were walkable (or invisible).  I really do not know
+  how this could be a problem because on mapedit there was no problem.  So
+  the real reson of this bug is never been solved by me, but I have SOLVED it 
+  by deleting the problems and putting another guard somewhere else in the 
+  battlefield.  So I hope you will have no problems with these invisible
+  guards.
+
+* A strange thing on floor 10 of level 1 (if you ever reach this floor, hihi).  
+
+  You will hear in some rooms that some guards awake.  I know these guards
+  stand in little rooms (only one floor pixel) near to the room with the
+  electric barrier in the middle.  They stand on a non-secret floor, which
+  I nowhere else used.  So why they awaken? (BIG QUESTION and NOT SOLVED)
+
+Thanks for reading these questions and if you know some answer, please 
+MAIL it to me.  If you encountered still some bugs, turrets who seem to do
+no many harm, guards who sleep even when you have tried to awaken them, 
+invisible things...
+
+
+
+Future work...
+--------------
+
+Beside my job and beside all my other amusing things to do, I have some time
+to spend on editing games.  Today, I have created two 60 level sets of
+Wolfenstein 3D and a 66 level set of Blake Stone.  Tomorrow, there will be
+* A full set of Planet Strike (i.e. 24 floors).  They are already finished,
+but nowadays they are tested and I guess the release is planned in March
+2002.
+* A totally new project, kind of Larastone.  Oh yes, I do play Tomb Raider.
+Maybe I'm already old fashioned, because nowadays there are much heavier
+and innovative games than Tomb Raider, but please I have to do some other
+things than gaming.  The only games I play today are Tomb Raider and
+Sensible World of Soccer and a little bit apogee.  But something about the
+project.  Eidos (the inventors of Lara) released a level editor.  It is
+quite complex and time consuming, but the results seems great to me.
+Therefore I want to create a Blake Stone environment with Lara walking
+around, shooting through pillars, swimming in the dark (this wasn't possible
+with Blake), etcetera.  Let's call it Larastone.  So this is a very future
+plan.  Very future, because I first need to finish playing the add-ons of
+TR1 (unfinished business) and TR2 (golden mask).  This is just because I
+find it stupid to start TR4 when you haven't finished the previous ones.
+Oh ya, what about TR3.  Well, I'll need to start with it after TR4 (something
+I do not like, but ya, the editor is meant for TR4 and the best thing to do
+before editing a game is playing it first).  Very big explanation to say
+that Larastone is for the moment nothing more nothing less than an idea.
+
+
+
+Contact me...
+--------------
+
+If you like this game, or dislike some aspects, you may always e-mail it to
+me.  Or you may sign the guestbook.
+
+
+IMPORTANT!: DON'T COMPLAIN TO APOGEE IF YOU EXPERIENCE PROBLEMS WITH
+		THIS FREEWARE.  IF YOU HAVE PROBLEMS, MAIL TO ME (PLEASE
+		NOT TO OFTEN).  I'M NOT RESPONSIBLE IF YOUR COMPUTER START
+		TO CRASH OR TO DO THINGS YOU DON'T ASK HIM TO DO!
+
+
+Thanks to everybody who likes this add-on.
+
+Thanks for playing Guystone!
+
+Greetings
+
+Guy Brys
+
+e-mail: guy.wendy@yahoo.com
+
+http://users.fulladsl.be/spb9187/

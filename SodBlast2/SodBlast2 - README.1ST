@@ -1,0 +1,36 @@
+21 new levels for id's "Spear of Destiny".  Commercial game required - these
+floors will not work on the shareware demo versions.
+Level 1 is an add-on to the original floor design, and floors 2 through 21 
+are new, designed by The BLAST BROTHERS, Charlotte, NC
+Play these without the cheat keys - all levels are beatable and were 
+produced with the spirit of the original game in mind.  Save your game often
+and you will survive...  barely!  Don't miss the two secret floors - (one is
+off level 4, the other off level 12). 
+THANK YOU id software, for an incredible game!!!
+Thanks to Bill Kirby for the mapeditor!
+Special thanks to /\/\arian Prucha for all your assistance and help, and the
+time on the best BBS in the country!  NWS BBS (216)-237-0167
+Thanks also to Gil Bleau, Tim Piantanida, Marshall Tom, Butch Nordstrom,
+Alex Goben, *Stoney*, Joe Siegler from Apogee, for much needed answers to 
+all the small problems that cropped up when we were making these levels.
+216-237-0167  NWS BBS  (National Wolf Support)
+717-321-8457  Third Floor BBS
+818-767-5743  Severed Garden BBS
+508-663-9441  The Attic BBS
+We hope everyone enjoys these - these are free and will never cost you 
+anything - feel free to upload these anywhere, just don't change anything
+and leave this readme.1st file attached.  Thanks all!  Now, let's go smoke 
+some Nazis!!!!!!!    The BLAST BROTHERS  Chuck and Dave Archer
+                                         Charlotte, North Carolina
+
+If you don't know how to install these levels, read on:
+Go into your Spear directory, and rename your gamemaps.sod and your 
+maphead.sod to gamemaps.bak and maphead.bak - you can always rename them back
+to their original state later.
+Example - C:\SPEAR>rename gamemaps.sod gamemaps.bak  {enter}
+repeat for maphead.sod
+Go into the directory where these files are, and type at the prompt:
+copy gamemaps.sod c:\spear  {enter}
+copy maphead.sod c:\spear {enter}
+
+

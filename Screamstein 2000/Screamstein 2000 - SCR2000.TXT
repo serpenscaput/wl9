@@ -1,0 +1,13 @@
+Screamstein 2000
+
+Sequel to "Screamstein 3d"
+
+The zip file contains all the required wolf3d files
+
+* 5 new levels
+* some new walls
+* new objects
+* a new VGAGRAPH.WL1, changed with FloEdit
+
+for more information:
+www.geocities.com/m_heijnen/wolf3d.htm

@@ -1,0 +1,22 @@
+                                                                                 
+      SDMEDIT v1.0
+                                                                                 
+===========================
+
+Why  SDMEDIT?
+
+Simple, there was no editor for the Spear of Destiny demo.
+Only the original editor ID used: TED5
+This editor will let you edit the two levels of the demo.
+You can also edit all versions of  Wolfenstein 3D.
+This editor will NOT edit full versions of Spear of Destiny.
+My goal: an editor supporting ALL versions, demo and full for Wolfenstein 3D & Spear 
+of Destiny.
+MAPEDIT7 supports all versions of Wolfenstein 3D and full versions of Spear of Destiny.
+
+
+Thanks for using SDMEDIT v1.0
+
+K. van den Helm 
+© 1999
+

@@ -1,0 +1,185 @@
+BUG FIX REPORT FOR ENIGMA'S NIGHTMARE III version 3.
+
+Greetings.
+
+It has come to my attention that there have been several Enigma's Nightmare
+III bugs reported through internet.  Although I do not have internet access,
+these reports get to me sooner or later by various means.
+
+To all those who listed bugs on the net, THANK YOU!  It's nice to know people
+like the Nightmare episodes enough to document bugs.  It shows folks take an
+interest in our poor efforts, and helps us to find and fix errors.  We also
+want to thank everybody for sitting tight while we got things fixed!
+
+Before we get to the bugs, let's answer some problems & questions:
+
+CONCERNING THE VERSION OF WOLFENSTEIN 3D THAT WORKS WITH EN-III.....
+
+FIX....  You need the shareware version 1.4 of Wolf3D to run EN-III.  Yes,
+         we know we said it would work with other versions, but we were
+         wrong...ok?
+
+
+CONCERNING SOUND PROBLEMS WITH EN-III......
+
+Somebody in Helsinki calling themselves Henrikki writes:
+
+> "I try to run LOADNM03.EXE (or something) and everything is fine until
+> I press the appropriate number to load SB support ... It says something
+> about 'error initialising driver'!!!
+> I moved the CT-VOICE.DRV (or something) to both my SB directory and WOLF
+> directory with no luck..."
+
+FIX....  It's not enough to have the CT-VOICE driver in any directory.  The
+         driver must be loaded into memory in order to work.  Try to re-   
+         install your Sound Blaster software from your original software
+         disks using Creative Lab's own installer program.
+
+         Next, refer to your SB manual to see exactly how to install the
+         CT-VOICE driver when the machine is booted, from the AUTOEXEC.BAT
+         file.  I suspect if you have installed the software correctly to
+         begin with, it ought to be already set to do so.  Good luck.
+
+
+CONCERNING THE X-RATED GRAPHICS FOR EN-III.....
+
+Scott Patterson writes:
+
+> "I realize that the X-Rated graphics aren't out, BUT could someone tell
+> me if they ever are going to be released?"
+
+Ok, Scott, here it is from the horse's mouth....NO!  They will not be 
+released.  Due to a drive crash which nuked the graphics files I created, I
+would've had to start from scratch. 
+
+Also, since I can't find a sound editor which works with the shareware
+version of WOLF, (that's what held the release up before I lost my graphics),
+I cannot put in the correct sound effects that would've made the whole thing
+worthwhile.
+
+Lastly, we have decided not to create any more add-ons for the shareware
+version of WOLF.  See the end of this document for details.  Meanwhile, we
+have removed the X-graphics load option from EN-III version 3.  We may 
+consider doing x-graphics for the registered version of Wolfenstein in the
+future.
+
+CONCERNING EN-III EPISODE 2 (aka nightmare 2) LEVEL 4.....BLOW UP?
+
+Francis Bruening writes: 
+
+> "I have been running the enigma maps, and have been having a great time
+> with them."
+
+Thanks, Francis.  We aim to please!
+
+Message continues:
+
+> "In the second set of maps on level 4, I start the level and blow up....."
+> "..... Restarting didn't help....."
+
+
+By "blow up" I assume you mean die?  If so, be aware there is a niche to
+your right when you start the level which is crammed FULL of SS guards.
+They'll whack your butt in an instant if you don't get a move on and get
+out of their way!
+
+
+                          NOW ON TO OTHER THINGS......
+
+The bugs mentioned on the net were as follows:
+
+
+CONCERNING EN-III EPISODE 2 (aka nightmare 2) LEVEL 5.....
+
+Darcy Boese writes:
+
+> "In Enigma II on level 5 in Death Incarnate mode, it crashes back to DOS.
+> It looks like there are too many nasties on that level for the game to
+> handle."
+
+Well, Darcy, it looks that way to us too.  That's really a shame too, since
+this is the level in that episode which offers the most challenge!
+
+FIX....  Frank The Rabbit (creator of the level) cannot be reached for help
+         or comment.  However I went through and removed several dozen guards
+         and fixed an inaccessable key bug.  Then I played the level through
+         at death incarnate level with no problems.  It should work now.
+
+         We hope you like the level, BUT.... Hang onto your shorts!  You'll
+         need to be B-A-D to get through this in Death Incarnate mode!
+
+CONCERNING EN-III EPISODE 3 (aka nightmare 3) LEVEL 10.....
+(Which we assume to mean the "secret Level)................
+
+Continuing the above message, Darcy Boese adds:
+
+> "In Enigma III on level 10 there are locked doors, and after much
+> frustration I checked using "wmap" where the locations of the keys were,
+> and discovered that there is_no_way to get either key."
+
+To which Stanley Stasiak replies in the same post:
+
+> "Yeah, I tried that one too.  Looks like they put one more locked door
+> too many...unless it's a nasty joke."
+
+FIX....  You are correct as far as the bugs go.  We have moved the blue key
+         out in front of the locked elevator doors where it belongs.  We
+         have also replaced a blue locked door with an unlocked one so that
+         one can get to the maze in which the yellow key is hidden.  In
+         short, both keys may now be accessed (via different routes) from
+         the room in which you begin the level, though both are still hidden
+         behind secret panels.  
+
+         As for this being a "nasty joke" we have always tried to take pains
+         to make sure the game is playable to the bitter end.  This wasn't a
+         joke, simply a "test scenerio" to see if we could get guards to
+         open doors.  We simply forgot to fix it before release.  Sorry.
+ 
+
+LASTLY..... This is the final fix (and version) of ENIGMA'S NIGHTMARE III.
+            We have discontinued the NIGHTMARE series.  We have heard that
+            Apogee is at odds with such programs as this, because they feel
+            they are losing income as a result.  (Why should people pay
+            for commercial versions of Wolf, when programs such as this
+            give them new episodes for free?)
+
+            Thinking it over, we find we must agree.  Since our main goal
+            is to entertain and not to rob other's wallets, we will no
+            longer create add-ons for shareware versions of WOLF3D or SOD,
+            nor will we continue to update the Nightmare series.  NOTE:
+            this includes a halt on the release of the X-graphics for EN-III.
+            Users will just have to live with any bugs and exclusions found
+            in this version. 
+      
+            HOWEVER.... Look for release of new maps, graphics and x-graphics
+            for the registered version of Wolfenstein in the near future.  
+            Since only people who have already paid for the Wolfenstein will
+            be able to play these future add-ons, there is no loss of income
+            to anyone....unless you happen to be running a pirate version of
+            Wolf.  In which case we sincerely wish you a speedy and final
+            hard drive crash.
+
+Regards, ENIGMA-13
+9/1993
+
+SPECIAL GREETS:
+
+TO: Stanley Stasiak, author of WOLFENSTEIN-3D FAQ:
+
+We've been following your FAQ releases with great interest.  We feel this
+is the definitive how-to info text for WOLF!  GOOD WORK!
+
+We noticed with some pride that you awarded ENIGMA'S NIGHTMARE III with
+your 5 star (suicidal) rating, and that EN-III is the only add-on so rated,
+(as of this date 09/25/93).  Thank you!  
+
+We just hope it was due to playability and graphics originality, and not
+awarded on the basis of the level 5 or 10 "suicide bugs" mentioned above...........
+
+
+We look forward to seeing what you think of EN-III version 3 and hope some
+kind sole on the net is nice enough to shoot you a copy (hint-hint).  
+
+Regards, E-13
+
+

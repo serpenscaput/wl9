@@ -1,0 +1,43 @@
+Sokobanned
+
+Features that alter gameplay SIGNIFICANTLY:
+-BJ has no weapons
+-Barrels and Oil Drums are pushable objects. Press SPACE to push these. 
+-Pushable objects can only be pushed 3 times.
+-Pushable objects, like pushwalls, can't be pushed over dead guards.
+-Pushwalls kill live guards
+-Pushwalls can be pushed infinitely
+-Pushwalls destroy a doorway when they're pushed through them. Meaning the door is 
+gone when a pushwall is pushed through an OPEN door
+Other:
+-Star Sky
+-Rain
+-4 keys + displayed on statusbar
+-New colors for floors/ceilings
+-New Objects
+-Pushwalls go further and go faster
+-Multiple pushwalls can move at the same time
+
+Level list:
+1. The Basics
+2. Pushing It
+3. Careful Now
+4. Lock 'm In
+5. Two Guards
+6. More Than Once
+7. Three Guards
+8. Splattered
+
+tip: save often, especially in the beginning of the level, in case you get stuck
+
+
+Credits:
+Ronwolf1705 - Mapping, Graphics, Coding
+Linuxwolf - Coding
+ID Software - The original game
+AReyeP - Graphics from: http://www.areyep.com/RIPandMCS-TextureLibrary.html
+BrotherTank - Pushing objects code
+MCS - Read This! code
+Havoc - Log files
+Ripper - Wolf4SDL code
+AlumiuN - Multiple Moving Pushwall Code

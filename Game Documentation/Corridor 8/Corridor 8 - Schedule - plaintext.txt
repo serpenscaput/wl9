@@ -1,0 +1,74 @@
+
+Corridor 8: Galactic Wars
+
+CURRENT AS OF 06/11/96
+
+CODING SCHEDULE
+
+			Sound coding........................................	10 Days
+				Prioritizing..............................	3 Days
+				Ambient, Sector triggered...	3 Days
+				Caching..................................	4 Days
+
+			Controls coding....................................	14 Days
+				VR Headsets..........................	3 Days
+				Joysticks................................	4 Days
+				Spaceball................................	3 Days
+				Control configuration...........	4 Days
+
+			Network, Modem, Internet coding.....	13 Days
+				Network tweaking.................	5 Days
+				Internet...................................	5 Days
+				Modem utility........................	3 Days
+
+			Missions................................................	12 Days
+				Picking sides.........................	2 Days
+				Mission objectives...............	7 Days
+				Secondary objectives..........	3 Days
+
+			Icon Bar..................................................	12 Days
+				Health Level...........................	1 Day
+				Armor Level...........................	1 Day
+				Shield Level...........................	1 Day
+				Inventory................................	3 Days
+				Ammo/Energy Level.............	3 Days
+				Kills.........................................	1 Day
+				Score........................................	2 Days
+
+			Character Strengths............................	3 Days
+
+			Weapons.................................................	30 Days
+				Human.....................................	15 Days
+				Alien........................................	15 Days
+
+			Character Design.................................	5 Days
+
+			Characters.............................................	40 Days
+				Choosing to play...................	3 Days
+				Bosses+AI..............................	15 Days
+				Minions+AI............................	15 Days
+				AI Tweaking...........................	7 Days
+
+			Main Menu.............................................	19 Days
+				New Game...............................	2 Days
+				Load/Save Game....................	5 Days
+				Options...................................	5 Days
+				Order/Scores..........................	2 Days
+				Demo.......................................	5 Days
+
+			Programming Extras...........................	23 Days
+				Camera....................................	3 Days
+				Menu.......................................	4 Days
+				Flics in game...........................	4 Days
+				Diminished Lighting..............	2 Days
+				Camera Eye.............................	3 Days
+				Menu Effect............................	2 Days
+				Morph Arrow.........................	2 Days
+				Death Dynamics....................	3 Days
+
+			Items and Devices.................................	20 Days
+
+
+			Total Days of coding left........	189  (37.8 weeks)
+			Approximate completion date...	02/28/97
+

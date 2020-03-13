@@ -1,0 +1,31 @@
+Operation Achtliebe by Possum Trot (wolf3d mod)
+original DOS release: 20 December 2004
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on Brian Lowe's Achtliebe EXE:
+
+Episode names changed
+Ceiling colors changed
+Maximum ammo is 200
+Maximum health is 110%
+
+Improvements in SDL version:
+
+Demos disabled
+Fixed tile8's
+Disabled unavailable episodes
+Disabled end text
+Minor graphics touch up
+
+
+
+
+

@@ -1,0 +1,46 @@
+Credits
+
+Code Programming 
+
+JLB3 aka: Howling Wolf
+--------------------------------------------------------
+Code Helper 
+
+Add C/F Textures (TexZK's own codes to Source Code for me - TexZK
+--------------------------------------------------------
+Code Tutorials
+
+Outside Atmosphere,  Directional Sprite, and Screenshots - Ripper
+Ceiling/Floor Textures - TexZK (Not Darkone's)
+Add another Weapon  - Jamez, Poet, Martin
+Weapon bobbing - Dugtrio17
+Impossible to pass the items w/o item being pick up - Poet
+Change the weapon’s behavior - WSJ, BrotherTank
+KillActor Tips - Codetech84, Dugtrio17, Chris
+End game and Trap codes - Jamez
+Display kills status - KyleRTCW
+Other Tutorials (don’t remember them) - Martin Bonnet, Kenny, & Brain
+--------------------------------------------------------
+Graphics - MCS, Majik Monkee, AreyeP, WSJ, JLB3, & Others (Please send me PM or
+EMAIL if you are owner of graphics, then I will upgrade the Credits Information as 
+possible
+as I can). 
+--------------------------------------------------------
+Level Designers - JLB & Loki
+--------------------------------------------------------
+Graphics & Source Codes - ID Software (C) Wolfenstien 3D & Spear of Destiny
+--------------------------------------------------------
+Thanks goes to BritherTank for DieHard Wolfers Forum and Brain for Wolfenstein 3D
+
+Dome News Website. Without them it's impossibe making the Wolfenstein 3d &
+Spear of Destiny Addons for all ages to play them... 
+--------------------------------------------------------
+Specail Thanks goes to Tristan for Tips about Color Convertor for my project (miss 
+him
+alot, he been gone since December of 2004)
+--------------------------------------------------------
+Play the game - You
+
+Have any questions? Send me email to jlb3@walla.com OR leave the private message 
+at Diehard Wolfers Forum,
+my username is Howling_Wolf (log in or register at DieHard Wolfers Forum is required)

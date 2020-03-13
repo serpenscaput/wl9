@@ -1,0 +1,169 @@
+
+Text file accompanying the Wolf Hour add-on to Wolfenstein 3-D.
+
+Wolf Hour V2.50.
+
+Thank you for wanting to play my add-on to Wolfenstein 3-D, Wolf Hour.
+This Wolfenstein adventure has been made using:
+The Wolfenstein 3-D source code by Id Software.
+MapEdit by David Huntoon, Bryan Baker and Warren Buss.
+WolfEdit by Bill Kirby.
+FloEdit by Florian Støhr.
+Thanks to the Wolf3D Bunker by B J Rowan for supplying necessary files and info on 
+compiling.
+
+The graphics used in Wolf Hour are for the most part from the original Wolfenstein 
+3-D.
+Some images are imported from ”Spear” and a few from ”the Lost Episodes”.
+All additional graphics are by me, no third party graphics have been used.
+The VGAGRAPH.WL6 in Wolf Hour is edited by me. It is based on the one found at the 
+Wolf3D Bunker.
+After compiling the code and starting the game using the VGA files found on Mr Rowan’s 
+site,
+I noticed a new logo in the memory screen, where the Apogee logo used to be.
+If anyone has any knowledge of, or ownership to this logo, please let me know.
+
+For copyright reasons the set requires that the player owns a registered version 
+of Wolfenstein 3-D.
+(The source code has not been released for all game files.)
+The files included in the WOLFHOUR.ZIP are:
+WOLF3D.EXE
+GAMEMAPS.WL6
+MAPHEAD.WL6
+VGADICT.WL6
+VGAGRAPH.WL6
+VGAHEAD.WL6
+VSWAP.WL6
+and WOLFHOUR.TXT (this file).
+(The files AUDIOHED.WL6 and AUDIOT.WL6 are NOT included).
+
+How to install Wolf Hour.
+Create a new directory called Wolf Hour.
+Copy all files from your Wolfenstein 3-D directory to the new Wolf Hour directory.
+
+Unzip WOLFHOUR.ZIP in the Wolf Hour directory and replace all files that your are 
+asked to replace.
+Now you can play the original Wolfenstein 3-D from its directory and Wolf Hour from 
+the new directory.
+
+The Wolf Hour add-on includes the following new features:
+
+A new gun added, a Missile Launcher, using its own type of ammo, missiles.
+The Missile Launcher comes with 2 missiles, (additional missiles are picked up).
+
+A total of 10 missiles may be carried at the same time.
+”Pools of poison” included. Make BJ lose 20% health or die if health <= 20%.
+”Pools of water” add 3% to BJ’s health when health <= 20%.
+2 additional keys included. A bronze key and a silver key, (the original silver key 
+is now called a brass key).
+BJ starts with just a knife.
+The pistol included as an item to be picked up. Comes with 4 shots.
+The chaingun comes with 12 shots, (the machine gun comes with 6 shots as before).
+
+The 25 ammo clip included.
+”Sub” mutants included. These carry no gun. They are almost as hard to beat as officers. 
+Attack with knives.
+The Ubermutant included. Made faster than Grosse, and (on "Bring’em on" and "Death 
+Incarnate" ) harder to beat.
+Hitler, Fake Hitler, Fettgesicht and Giftmacher made harder to beat on "Bring’em on" 
+and "Death Incarnate".
+”Death Cams” disabled.
+Fettgesicht drops a Missile Launcher.
+Grosse drops a chaingun.
+The Ubermutant drops a 25 ammo clip.
+The SS always drops a machine gun.
+The mutant drops a full ammo clip (8 shots).
+The guard and the officer drop pistols.
+Some treasure values changed, the chalice also adds 25% to BJ’s health.
+Customized order of songs.
+Customized order of ceiling colors.
+Some new sounds and graphics, including a changed intro screen and some additional 
+info on the credits screen.
+1 new episode consisting of 10 big levels. (Episode 3 renamed to ”Wolf Hour” other 
+episodes empty).
+1 secret level, not (necessarily) accessed from level 7.
+New par times.
+(And more.)
+
+Notice on floor 9:
+There is a theoretical possibility that the final boss may wander beyond some poison 
+without comming back.
+This is very improbable, still it may happen.
+At this state you will most probably not have enough health to follow him.
+If it happens reload the game.
+
+All levels are tested on "Death Incarnate" starting with just a knife,
+and getting 100% in all three bonus categories.
+
+Notice that the chalice is both a treasure and a health powerup.
+You can pick it up even when you have full quota of health.
+
+Please notice. When you find a better gun for the first time it is automaticaly chosen.
+
+If you run out of ammo and come across a gun you already have or some ammo, no gun 
+is automaticaly chosen.
+Choose one by typing a number.
+
+Getting a Missile Launcher does not automaticaly give you any other gun.
+
+The total number of enemies in the levels is sufficiently low to avoid the
+"get new actor, no free spot in obj.list" error when missiles are used.
+However, exagerated launching in big rooms may result in this error.
+
+I hope players will find this set of levels for Wolfenstein 3-D interesting and fun 
+to play.
+Wolf Hour is freeware, all distribution must be free of charge. All 8 files must 
+be included and no others.
+The author of Wolf Hour kindly requests people not to modify Wolf Hour nor use parts 
+of it in other add-ons.
+
+
+Credits:
+
+
+Level design, additional art and source code changes: Paal Olstad.
+
+I did all the changes to the different features, the preliminary coding for adding 
+the new weapon,
+and the code for the new ammo type, the missile object.
+I had some problems with the counting of the ordinary ammo when the missile launcher 
+is used.
+The missile launcher does NOT use any ordinary ammo,
+but the first time you use it after having picked it up or chosen it
+the ordinary ammo amount will appear to be increased with one shot.
+This is immediately adjusted when you choose another gun.
+If you have almost full quota of ordinary ammo when you start using the missile launcher,
+
+you seem to lose some of it though.
+
+
+Additional programming: Tommy Olstad.
+
+My brother Tommy did all the more advanced extra programming
+to have the missile launcher function in every respect.
+
+
+The following files from the source code were edited:
+
+WL_DEF.H
+WL_ACT1.C
+WL_ACT2.C
+WL_AGENT.C
+WL_DRAW.C
+WL_GAME.C
+WL_INTER.C
+WL_MAIN.C
+WL_MENU.C
+WL_PLAY.C
+WL_STATE.C
+
+
+If you experiance any problems running Wolf Hour, contact me.
+Other comments are welcome too.
+
+p-olstad@online.no
+
+
+Paal Olstad.
+
+

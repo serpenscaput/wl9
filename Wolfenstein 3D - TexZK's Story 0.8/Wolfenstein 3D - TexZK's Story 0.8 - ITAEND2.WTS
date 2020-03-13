@@ -1,0 +1,56 @@
+^P
+^G20,20,5
+^C8f La morte e' morta!
+^C00
+Finalmente! Quel posto pieno di mutanti ti ha dato alla testa, ma adesso sei fuori 
+dai laboratori.
+E poi, che schifo quell'odore di cadavere che si sentiva per ogni centimetro quadrato!
+
+Fuori dall'edificio ti trovi in una strada con dei lampioni, in piena notte. In fondo 
+si vede un cancello.
+
+^P
+^C00
+Dall'altra parte ci sono i tuoi compagni americani.
+Dopo averli raggiunti, torni alla base. Qui, come al solito, ti aspetta il presidente 
+TexZK.
+^C67 "Allora, come procedono le ricerche sui mutanti?" ^C00 ti domanda.
+^Cf7 "Bhe, vede... hanno creato delle specie di... Frankenstein, solo che hanno una 
+pistola al posto dello stomaco"
+^C67 "Proprio come avevo intuito dalle foto scattate dalle spie!"
+
+^P
+^C00
+Il presidente, come se avesse un presentimento, vuole sapere qualcosa di piu'.
+^C67 "Mi dica, Dr.Gnegno... c'e' dell'altro riguardo le ricerche nei laboratori degli 
+ex-Nazi?"
+^C00 All'inizio non ti viene in mente niente. Ma poi...
+^Cf7 "Ehm... certo! Quegli sporchi nazisti hanno creato delle specie di demoni senza 
+gambe con la faccia di Hitler.
+Sembrano dei maghi con un mantello nero che sparano fuoco da un'apertura posta nel 
+collo.
+
+^P
+^Cf7
+E pensare che non obbediscono nemmeno ai loro padroni! Le racconto una scena che 
+ho visto in prima persona.
+Ero al terzo piano. Ho aperto una porta e mi sono trovato in una camera da letto 
+con una chiave rossa. Tutte le pareti fucsia erano insanguinate. In terra, cadaveri.
+
+In fondo alla stanza c'era uno di quei demoni. I soldati ancora vivi, pensando che 
+il loro demone obbedisse, sparavano a me.
+Io ho sparato all'impazzata, e ho ucciso sia i soldati che il demone, poi ho preso 
+la chiave."
+
+^P
+
+^C67 
+"Una scena commovente! Grazie per le informazioni! So che lei e' ancora scosso, quindi 
+le do' il permesso di smettere la conversazione."
+^Cf7 "Come Lei desidera"
+^C00 Quindi ti avvii verso la tua camera da letto della base.
+Ma un pensiero ti assilla: il nazismo non e' morto.
+Allora ti metti a dormire, aspettando la prossima missione.
+
+^E
+

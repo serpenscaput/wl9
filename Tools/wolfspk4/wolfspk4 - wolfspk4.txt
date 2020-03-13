@@ -1,0 +1,11 @@
+From: bert@dos-lan.cs.up.ac.za (Bert van Leeuwen)
+Subject: Wolf 3D 1 digitized sound on speaker! (REALLY)
+Date: Tue, 13 Apr 1993 10:35:21 GMT
+
+This EXE file will patch your config file so that Wolf 3D 1 will use 
+digitized sound on speaker. My original intent was to make it work with DAC 
+so if anyone knows how to do that, please write to me. I got it to think I 
+had a Sound Source, but even so it wouldn't give sound. Things like Modplay 
+recognize the DAC and work fine. My Internet address is 
+BERT@RKW-LAN.CS.UP.AC.ZA
+

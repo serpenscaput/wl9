@@ -1,0 +1,299 @@
+^P
+-=Warning=-
+-RUSSIAN-
+Автор плох в английском языке. Почему возможны ляпы и ошибки в тексте. 
+Прошу извинения. 
+-ENGLISH-
+The author is bad in English. Why are possible errors in the text.
+Excuse me for this.
+^P
+^G16 16 [hart0000]
+is modification for game WOLFENSTEIN 3D. Which works on port ECWOLF.
+
+The following pages will provide information about: store, characters and NPC (except 
+for the secret characters and NPC), item, etc.
+
+^P
+-=Сontent=-
+Story	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4
+Сharacters and NPC	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8
+Weapons	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16
+Items	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	19
+Authors	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	26
+Demo version	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	27
+
+^P
+-=Story=-
+2583 year
+Space already long ceased to be humans dreams. 
+But war, between nations, still here. 
+In humans world, left three nations.
+At everyone its conviction at the world and its war methods.
+^P
+-=Story=-
+^G16 16 [hkpa]
+-First-
+"First" want unite all humans, one in the nations. For destruction other possible 
+enemy from space.
+Introduce a long war with Hellki. 
+Main enemy - Hellki. 
+Have big territory.
+
+^P
+-=Story=-
+^G24 16 [hcnh]
+-Inkog-
+Not the most strong. For people this nation, god is 
+their 
+leader. Therefore, they are trying to protect him with all their strength.
+Not like all, but war not arrange.
+Have small territory.
+
+^P
+-=Story=-
+^G24 16 [h3el]
+-Hellki-
+They think, but this world is big prison. Their task is to find a way out from it. 
+But methods, for solve this task, very unusual and terrible. From experiments over 
+humans, to create portal in hell. 
+However, is very strong among others nations.
+After open portal in hell. Are at war with First. Sometimes attack Inkog territory, 
+for the production of the material for his experiments.
+Have territory is 5 times bigger than First.
+^P
+^G26 16 [hhero]
+-=Characters and NPC=-
+-Ergon-
+Ergon Bill Nikitich
+Former human.
+After failed. Will captive with 70% from everything squad, and after taken on experiment. 
+Where it successfully mutate in anthropomorphous reptile. Mutate process, took a 
+month and a half, all this time Ergon will in a coma, and was in special camera pervaded 
+liquid green color, which kept him alive until the end of the mutate. 
+After ending mutate, out of a coma, and break camera glass. Took a machete. And attacked 
+the worker.
+^P
+^G26 16 [hhero]
+-=Characters and NPC=-
+-Ergon-
+Height - 178 cm
+Weight - 74 kg
+Date of birth - 
+1 February 2560 year
+^P
+-=Characters and NPC=-
+^G26 16 [hsci]
+-Worker-
+Station staff. Have with them pistol PIS-8.
+Their main task is do one's work. The work is more concerned with maintaining the 
+normal operation of the complex. But there are also scientists, who have a completely 
+different job.
+^P
+-=Characters and NPC=-
+^G26 16 [hsolder]
+-Guard-
+Station staff. Have with them rifle ST-38. 
+Their main task to protect the staff and, in an accident, his evacuation.
+
+
+
+^G96 16 [hofficer]
+-Officer-
+Station staff. Have with them pistol PIS-8.
+Their main task to keep order on the station, and to provide work to station personnel. 
+
+Can walk together with 1-3 guards.
+^P
+-=Characters and NPC=-
+^G26 16 [hsupers]
+-Soldier-
+Military. Have with them rifle ST-38.
+Most ordinary soldier. 
+Their main feature from the usual guards is armor. Why their in a complicated way 
+kill.
+
+
+^G96 16 [hbazuker]
+-Solder with BG-80-
+Military. Have with them BG-80.
+Soldier with heavy weapon. Their main task quickly defuse a crowd of enemies or his 
+technique.
+Since they have heavy weapon, they do not have armor with them. Walking alone.
+^P
+-=Characters and NPC=-
+^G26 16 [hboss1]
+-Heavy soldier-
+Military. Have with them welded to suit BG-101-E. 
+Heavy type soldier. 
+Carry become heavy armour and weapon mass defeat. On small task their send from 1 
+before 5 units..
+^G96 16 [hboss2]
+-Robot EI-8-
+Special development. Have with them welded BG-100 and machine gun ST-48. 
+His task is to guard the main generator.
+On event if will remain without hands and legs, is armed blade and jetpack.
+^P
+-=Characters and NPC=-
+^G26 16 [hunknow]
+-Nik Zor [No in demo version]-
+Main administrator of the complex. Have two machine gun ST-48. But this his not main 
+weapon.
+Station staff, secretly his name the devil in the flesh, after one event. Event will 
+next, Nik Zor learned information about spy on territory complex. And in this day, 
+spy found dead. Spy blood and all organs were smudged over wall and floor he room. 
+In the middle room stand Nik Zor, which keep spy head in right hand.He hand had not 
+a human species, but slow transformation in typical human hand.
+To his meeting, be better prepared.
+^P
+-=Characters and NPC=-
+^G26 16 [hrat]
+-Rat-
+Typical rat. But she is very big for typical rat. 
+"Unknown why are found on complex", what has said one of the worker of the complex.
+
+^P
+-=Weapons=-
+^G26 16 [hmachete]
+-Machete-
+Used рабочими for cut thick skin at rat. 
+^G58 16 [hpistol]
+-PIS-8-
+Pistol. 
+Popular model of the pistol. It is used for weapons in Hellki and Inkog. Popular 
+because of lightness in production.
+Used bullet - ENERGYBUL-14
+^G120 16 [hrifle]
+-ST-38-
+Rifle. It is used for weapons in Hellki and Inkog.
+Used bullet - ENERGYBUL-14
+^P
+-=Weapons=-
+^G26 16 [hmgun]
+-ST-48-
+Machine gun. It is used for weapons in First and Hellki. Was created by First. But 
+after publication information, about his production, author himself, weapon became 
+for weapons in Hellki.
+Used bullet - ENERGYBUL-14
+^G90 16 [hshotgun]
+-SGH-12-
+Houston shotgun model #12. Is Not used for weapons no one. But very affordable.
+Used bullet - ENERGYBUL-14
+^P
+-=Weapons=-
+^G26 16 [hbazuka]
+-BG-80-
+Gun for mass destruction. It is used for weapons in Hellki. 
+Used bullet - ENERGYBUL-36TP
+Weapon very risky. During shot, it create fireball, which, in contact with anything, 
+explode.
+Do not give it hand novice and crazy man. 
+^P
+-=Items=-
+^G26 16 [hammo]
+-ENERGYBUL-14-
+Bullet type, which approaches to many weapon. 
+One energy box enough for 8 shot. But, there is guns, which this little.
+
+
+^G96 16 [hammob]
+-ENERGYBUL-36TP-
+Bullet type, which fits to: BG-80, BG-100 and to others. 
+One clip enough for 3 shot. ОBut, there is guns, which this little.
+^P
+-=Items=-
+^G26 16 [hfood]
+-Metal jar with food-
+Jar, and in it food. In jar unusual and tasty meat. 
+Meat so tasty, that worker and guards of the complex straight steal from the dining 
+room, to enjoy it alone.
+However, where is this meat and with what
+^G96 16 [hminimed]
+creature, unknown.
+-Small first aid kit-
+Small first aid kit. Used Hellki for quick help slightly wounded. 
+^P
+-=Items=-
+^G26 16 [hmed]
+-First Aid Kit-
+First Aid Kit. Used Hellki for help seriously wounded. 
+
+
+
+
+^G96 16 [heatrat]
+-Rat corpse-
+Rats are in themselves carriers of all bad things. But if you very hurt, then can 
+and eat rat. 
+^P
+-=Items=-
+^G26 16 [houp]
+-Object-1997-HELLKI-
+Very rare phenomenon. Appears in available, but in unpopulated places Represents 
+a flying and light naked body, like a human. Face and physique object, everyone sees 
+in his own way, but it always looks like that, who looks at it. If try touch his, 
+that body passes through the one who his touch, and disappears. The one who his touch, 
+heal all woundings. The Process of the healing by wounds occurs approximately 0.36 
+seconds. And, some of of one, touched Object-1997-HELLKI, predicted future, before 
+moment while their have not killed in that future.
+^P
+-=Items=-
+^G26 16 [houp]
+Object-1997-HELLKI reveals itself only on territory Hellki, namely on station and 
+on spaceship.
+
+
+
+
+^G96 16 [holdmny]
+-Old money with a nominal value of 10 rubles-
+The People have long ago left on electronic money. But they will always store old 
+money. After all this is past. Past, where money could touch.
+^P
+-=Items=-
+^G26 16 [hpda]
+-PDA-
+Someone's PDA. You can read and learn some information. Or sell on the black market.
+
+
+
+
+^G96 16 [hbox]
+-Black case-
+Case, cost of which is more expensive than what is in it.
+^P
+-=Items=-
+^G26 16 [hfleshka]
+-Flash drive-
+Keep information in network, not the most best idea. Especially if you have a high 
+rank. Why are any offline devices still used. But used only for those who has something 
+to hide..
+^G96 16 [hkeys]
+
+
+-Special key cards-
+Allow to open some closed doors.
+^P
+-=Authors=-
+Author this modification - Nikita Zotov <TEPA6ANT>
+-Content-
+Sprites and textures from the following games were used : 
+DooM (1993 year)
+DooM 2
+DooM RPG
+Wolfenstein 3D SNES version
+
+Music  : 
+from Final DooM (TNT Evilution)
+from Wolfenstein 3D Jaguar version
+Rammstein - Klavier
+<Welcome to castle Hollehammer.mid> by Reactor
+TSRh - Alpha72 Chromentumkg"
+^P
+-=Demo version=-
+Demo version, means not final. Final version is in development.
+In final version:
+-12 levels (7 of them, you can look in demo version)
+-3 bosses (2 of them, you can look in demo version)
+-5 weapons (all available in demo version)
+-11 enemies (7 of them, you can look in demo version)
+^E

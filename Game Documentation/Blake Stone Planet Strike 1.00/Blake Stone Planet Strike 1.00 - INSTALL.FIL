@@ -1,0 +1,94 @@
+BACKGROUND 64
+LANGUAGE ENGLISH
+BORDER 1         
+TELESCOPE OFF    
+SHADOW ON
+WINOPEN 18 2 95   
+"              PLANET STRIKE              "
+"
+"          INSTALLATION PROGRAM           "
+""
+PAUSE 10
+WINUPDATE +9 +5 94
+""
+PAUSE 10                  
+WINUPDATE +15 +6 95
+" "
+PAUSE 200                 
+TELESCOPE ON      
+SPACE 5500        
+DRIVE C 0 12 31 15 32 14 79
+PATH \PLANET 0 12 31 15 32 14 79
+UNPACK PLANET.PAK 0 12 31 32 14 79
+JUMP.FAIL INSTALL_FAILURE
+WINOPEN 0 12 31
+"Planet Strike has been installed on your hard drive."
+""
+"Press ENTER to continue.                     "
+WAIT +36 +4
+WINCLOSE                         
+
+:VIEW_INSTALL.TXT
+WINOPEN 0 12 31
+"Would you like to READ the Planet Strike Technical Support File? "
+""
+WINUPDATE +31 +2 30            
+"(Y or N)"
+ASK +39 +2                     
+WINCLOSE                       
+JUMP.NO PRINT_INSTALL.TXT      
+VIEW ~0\INSTALL.TXT 79 31
+:PRINT_INSTALL.TXT
+WINOPEN 0 12 31
+"Would you like to PRINT the Planet Strike Technical Support File?"
+""
+WINUPDATE +31 +2 30           
+"(Y or N)"
+ASK +39 +2                    
+WINCLOSE                      
+JUMP.NO EXIT
+PRINT ~0\INSTALL.TXT
+JUMP.FAIL PRINTER_ERROR       
+JUMP EXIT                     
+:PRINTER_ERROR                
+WINOPEN 0 12 79                
+"Your printer is not responding.  Possible problems:"
+"   -- Printer is not turned on"
+"   -- Printer is out of paper"
+"   -- Printer is not attached to LPT1 (parallel port 1)"
+""
+"Do you want to try to print again  (Y or N)?"
+ASK 57 18                     
+WINCLOSE                      
+JUMP.YES PRINT_INSTALL.TXT    
+:EXIT
+BORDER 2                                
+WINOPEN 0 12 110
+"The installation program will now start Planet Strike."
+""
+"To play Planet Strike without running the installation program,  "
+"change to the PLANET directory, then type PLANET and press ENTER."
+""
+"Press ENTER to continue."
+""
+WAIT +36 +8                                  
+RUN ~1~2\planet.bat
+END            
+:INSTALL_FAILURE
+WINOPEN 0 12 79
+"THE INSTALLATION PROGRAM FAILED PRIOR TO COMPLETION"
+""
+"Possible reasons:"
+"   -- The CD-ROM was removed prior to completion."
+"   -- You do not have enough free space on your hard disk."
+""
+"Press [Enter] to remove incomplete program files."
+WAIT 62 20
+DELETE ~1~2\*.* 0 0 31
+RD ~1~2
+WINCLOSE
+WINOPEN 0 12 31
+"Partially Installed Files are Now Deleted."
+""
+"      Press [Enter] to Quit."
+WAIT 47 15

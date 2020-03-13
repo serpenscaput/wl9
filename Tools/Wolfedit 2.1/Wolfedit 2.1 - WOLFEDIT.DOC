@@ -1,0 +1,203 @@
+WolfEdit 2.1                                         (c) 1992  Bill Kirby
+  
+                    Wolfenstein 3-D Graphics Editor
+
+CHANGES
+
+This version of WolfEdit should work with all currently available versions
+of Wolfenstein.
+
+INSTALLATION
+
+To install WolfEdit, simply unpack the zip file into the same directory
+the game is installed in. 
+
+To start the editor:
+
+WOLFEDIT [-ey]
+
+    -e  forces keyboard mouse emulation even if a mouse driver is
+        detected
+
+    -y  use mode Y (320x200) instead of mode X (320x240)
+	mode Y gives 72Hz refresh rate, where mode X gives 60Hz
+
+
+The screen is divided into several windows:
+
+EDIT WINDOW
+
+  This window displays the current image being edited.  Clicking the mouse 
+in this window performs different functions depending on which edit tool is
+selected.  The color used is dependent on which mouse button is pressed.
+Each mouse button has a different color associated with it.
+
+Currently there are only 3 edit tools:
+
+     Pencil     : draws a single pixel
+
+     Dropper    : "picks up" a color off the image and assigns it to
+                  whichever button is pressed
+
+     Paintbrush : fills an area
+
+
+PALETTE WINDOW
+
+  This window displays all 256 colors available to draw with.  It also
+has a picture of a mouse, which displays the colors currently associated
+with each button.  
+
+NOTE!  The last color (lower right corner of the palette) is a special 
+       color.  It is used to indicate "transparent", when editing object
+       images.
+
+
+STATUS WINDOW
+
+  This window displays information about the image in the edit window:
+
+    IMAGE          : image number
+    TYPE           : WALL or OBJECT 
+    LOCATION       : where the image is located (DISK, MEMORY, LOADING)
+    MODIFIED       : whether or not the image in memory has been modified
+                     since it was loaded
+    IMAGE SIZE/MAX : current size of the image, and the maximum size that
+                     the image can be
+    IMAGES LOADED  : number of images currently in memory
+    MEMORY LEFT    : amount of memory left
+
+The image size information is only usefull for object images.  The wall
+images are always 4096 bytes, and will have "4096/4096" displayed for
+the size/max information.  Object images vary in size depending on how
+much of the image is transparent.  The images are stored in the file in
+segments of 512 bytes each, so if the original image is only 513 bytes,
+there will be a 1024 byte section of the file allocated for the image.
+This is why the image size can be smaller than it's maximum size.  
+A modified image cannot be saved if it requires more space than the maximum
+allowed for that image (the maximum size is different for each image).
+
+
+SCROLL BAR 
+
+When WolfEdit starts, it loads the first image into memory.   You can use
+the scroll bar to select other images.  Clicking on the left and right
+arrow buttons scrolls through the images one at a time.  You can also click 
+anywhere on the bar to skip straight to a particular image.  When clicking
+on the left/right arrow buttons, the right mouse button scrolls continuously,
+while the left button scrolls one image, then waits for the mouse button
+to be released.
+
+If you select an image that is not currently in memory, WolfEdit will 
+attempt  to load it.  If there is not enough memory available to load the 
+image, WolfEdit will try to clear some memory by removing an image that 
+hasn't been modified.  If all the images in memory have been modified, 
+WolfEdit won't load the new image, and a message will be displayed in
+the edit window to this effect.
+
+
+EDIT BUTTONS
+
+Below the edit window, there are two rows of buttons.  The top row are
+for selecting the edit tool.  Initially, the "pencil" tool is selected.
+
+The second row of buttons are for selecting various file functions:
+
+GIF IMPORT:  (GIF with up arrow)
+
+   Load in a portion of a GIF file into the current image.  If the GIF
+   was created with the GIF EXPORT function, it will be loaded into the
+   current image automatically.  If it is not a GIF that was created by 
+   WolfEdit, it will be displayed on a separate screen, and you will 
+   select the 64x64 section to copy into the image.   If the GIF selected 
+   is larger than 320x200 or 320x240 (depending on which video mode WolfEdit 
+   is running in), only the upper-left 320x200 or 320x240 portion of the 
+   GIF will be displayed.
+
+   When loading a GIF, it must be converted to use the palette that Wolf3D 
+   uses.  This will cause some noticable differences in the GIF. 
+
+   When loading a GIF into an object image (guard, table, etc), you will have 
+   to paint the transparent parts yourself.  If you don't, the image will be
+   to big to save.
+
+
+GIF EXPORT:  (GIF with down arrow)
+
+   Saves the current image to a GIF file.
+
+SAVE CHANGES: (disk)
+
+   If no images are modified, clicking on this button will have no effect.
+   If the image currently displayed has not been modified, the display
+   will switch to the first modified image in the list.  Then the following
+   window will appear:
+
+      Save changes:
+      SAVE/SKIP/DONE
+
+          SAVE - save the current image.  If no more are modified, control
+                 returns to the editor, otherwise go to the next modified 
+                 image.
+          SKIP - go to the next modified image.  If there are no more
+                 modified images, this has no effect.
+          DONE - return to normal operation.
+   
+
+QUIT: (dos prompt)
+
+   Exit WolfEdit.  If there are any modified images in memory, you will
+   be prompted with:
+
+      Save changes?
+      YES/NO/CANCEL
+
+          YES    - identical to clicking on the "save changes" button,
+                   with the exception that after the last modified image 
+                   has been saved, the program will exit.  If you click 
+                   on "DONE" while there are still modified images, you 
+                   will be returned to the above prompt.
+          NO     - exits without saving the changed images.
+          CANCEL - returns to the editor.
+
+
+
+MOUSE EMULATION
+
+  If you do not have a mouse, WolfEdit will turn on the keyboard mouse
+emulator.  The emulator will let you use the arrow keys in place of the
+mouse.  Holding down more than one arrow key, or using the HOME, PGUP,
+PGDN, and END keys will move the mouse diagonally.
+
+Also, the keys Q,A,[, and ] will function as the UP,DOWN, LEFT, and RIGHT
+arrow keys.
+
+The emulator has three different button modes:
+
+       mode    left button    right button
+   ---------------------------------------
+        1      Left ALT       Right ALT
+        2      Left CTRL      Left ALT
+        3      Right ALT      Right CTRL
+
+WolfEdit starts in button mode 1, and can be switched to other modes
+by pressing F1, F2, or F3.
+
+
+
+--------------------------------------------------------------------------
+
+If you have comments, suggestions, or find any bugs, I can be reached
+via e-mail at:
+
+	bkirby@netcom.com
+
+If you find a GIF that WolfEdit can't load, I would appreciate it if you 
+send me a copy (uuencoded), or send e-mail telling me where I can find it
+via ftp.
+
+Thanks,
+Bill Kirby
+
+
+

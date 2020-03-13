@@ -1,0 +1,34 @@
+Mutantstein V: Gottspear by Bobby Bucksnort (wolf3d mod)
+original DOS release: 7 October 2002
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on 2nd.zip "On the Trail of Schabbs" EXE by BJ Rowan:
+
+Seamless levels (MCS, Chris Chokan tutorials)
+Music order changed
+Ceiling colors changed
+No secret levels
+
+Further improvements in SDL version:
+
+Endgame ratios adjusted for 13 levels
+Allow warping to level 13
+New par times on former boss and secret levels
+Endgame ratios restored in YOU WIN! screen
+Increased MAXACTORS and MAXSTATS
+Give 100% treasure result on levels which have none
+Adjust HUD when score goes over 1 million (SDL only)
+
+Removed inaccessible treasure from level 6
+Fixed small floor code errors on levels 10, 11, 13 (zombie enemies)
+Prevented pushwall from leaving edge of map on level 11
+
+

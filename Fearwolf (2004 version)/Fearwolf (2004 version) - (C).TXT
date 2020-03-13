@@ -1,0 +1,33 @@
+WOLFENSTEIN 3-D (C) ID SOFTWARE 1992.
+
+Fearwolf is not based on the source code, only some hexediting changes have
+been made with fearwolf.exe
+
+The following 5 files to be used for gameplay are included.
+
+go.exe
+
+Fearwolf.exe
+
+Gamemaps.wl6
+
+Maphead.wl6
+
+Vswap.wl6
+
+Most of the levels are based on wolf3d2.zip (C) Adam Chapman.
+
+The following 2 files to be used for level designing are included.
+
+Mapdata.wl6
+
+Objdata.wl6
+
+Both files are to be used with mapedit 8.4.
+
+The following 2 files may not be modified in any way, gamemaps.wl6, 
+maphead.wl6. Ppermission is given to modify vswap.wl6.
+
+Good luck to any game & level designers.
+
+Bernt "nova" Hansen. Bernt_e_hansen@yahoo.dk

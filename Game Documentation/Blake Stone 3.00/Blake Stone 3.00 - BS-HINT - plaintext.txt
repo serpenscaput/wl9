@@ -1,0 +1,228 @@
+ THE "BLAKE STONE: ALIENS OF GOLD" ON-DISK HINT SHEET ŰŰ˛˛±±°°
+
+                Copyright 1993/1994 Apogee Software Productions
+        P.O. Box 496389 ţ Garland, TX 75049 ţ Hints line: (214) 278-5655
+
+                     Game designed by JAM Productions, Inc.
+
+
+                          =======================
+                          VERSIONS OF BLAKE STONE
+                          =======================
+
+There are two versions of mission one of Blake Stone.  One is a shareware
+version, and the other is 'Commercial'.  The shareware version is the one
+Apogee releases to the public for review, and is the one you're free to pass
+around to friends.  The commercial version is not publicly available.
+
+Missions two through six of Blake Stone only have a commercial version, and
+therefore may never be passed around freely.  These other five missions can
+only be sold by Apogee or authorized dealers.  All versions are clearly marked.
+
+
+                    ==================================
+                    INSTALLING AND PLAYING BLAKE STONE
+                    ==================================
+
+Attempting to install the commercial version of the game on top of the
+shareware version will cause problems with the proper operation of the game.
+Please make sure to remove the shareware episode before installing the
+commercial version.  Please note that any save games you may have from the
+shareware version will not be compatible with the registered version.
+
+You must first install each of the six volumes before playing.  Place disk one
+in the appropriate disk drive.  Select that drive from the DOS prompt.  Type
+"INSTALL" and press the <ENTER> key.  The installation program will prompt for
+the drive and then for the directory into which the software will be copied.
+Press <ENTER> to accept the defaults or type the destination of your choice.
+The installation program for multiple disk sets will prompt for additional
+disks as needed.  After installation is complete, the six games may be played
+by typing BSTONE from the game directory the game has been installed in.  There
+is a game selecting menu inside Blake Stone to allow you to pick which episode
+you wish to play.  Typing BSTONE will run a batch file, which in turn will run
+the game for you.  We strongly recommend running the game from the batch file.
+The reason for that is because the batch file will run an error program in the
+unlikely event that you might have a problem with the game.  The error program
+will give you and Apogee much more information if you need to report a problem.
+
+If you experience any trouble playing Blake Stone, please consult the On-Disk
+Technical Support file.  This may be executed by entering BS-HELP from your
+game directory.  When you originally installed the game, this file was placed
+in your game directory.  If you have removed it, you can find it on Disk 1 of
+your original diskette(s) from Apogee.
+
+There are very detailed instructions on how to play the game and what keys
+you need to use in order to control the game in the Blake Stone Instruction
+Manual that comes with the game.  Please consult pages 16 through 18 of the
+manual for detailed information on the keys, or page 26 for just a summary.
+
+Note: The function keys that are used by the game (such as "M" for Music
+Toggle, and "L" for lighting on and off) are not selectable as user defined
+keys for such activities as run, strafe, or turn left, etc.
+
+NEW!  When Blake Stone v1.0 was released, there was one style of automapper.
+It was a static map, where it always faced the same direction.  Version 2.0
+added a new style of map; a rotating one.  The v2.0 map rotated in the map
+window, and changed depending on which direction you happened to be facing in
+the game.  Version 2.1 lets you define which of these styles of maps can be
+brought up with the TAB map key during game play.
+
+
+                               ==================
+                               GENERAL GAME HINTS
+                               ==================
+
+ ţ Use the save/load game feature often to get past the tough areas.
+
+ ţ Some characters in the game are rather large, and if you kill them in the
+   wrong place, it may not be possible to pass by them.  Be careful where you
+   kill!
+
+ ţ If you get lost, remember to use the built in automapping feature!  You
+   can activate the map by pressing [TAB] at any time during game play.  The
+   map will also show up if you enter the elevator and activate it's control
+   panel.  The legend for the map is in your Blake Stone Instruction Manual
+   that came with the game on Page 21.
+
+ ţ Shoot PerScan Drones and VT's from a distance.  If you are too close to them
+   when they explode, they can damage or even kill you.
+
+ ţ Use PerScan Drones and VT's to do damage to opponents that are near them.
+
+ ţ Don't blow-up PerScan Drones or VT's around hibernating aliens. The
+   explosion will release them.
+
+ ţ Don't use Plasma Discharge Unit around hibernating aliens.  This can be a
+   general wake-up call.
+
+ ţ Shoot at crates with the Slow Fire Protector to conserve ammo.
+
+ ţ When entering rooms through doors, a good strategy is to open the door,
+   quickly enter, and then back out.  This will "alert" any potential guard or
+   enemy, and will give you a chance to blast him first.
+
+ ţ Interrogate all Bio-Techs at least three times. The first time he'll give
+   you a clue; the second time he'll give you ammo; the third time he'll give
+   you a food token.  Please note that if you already have a maximum charge or
+   25 Food Tokens, the Bio-Tech will not give you any more.
+
+ ţ Use the Plasma Discharge Unit to kill opponents around corners, and in some
+   cases, on the other side of the wall!
+
+ ţ When shooting an opponent with one of the larger weapons, back away from him
+   while shooting. This will keep you at a safer distance and allow more hits
+   to wear him down.
+
+ ţ When fighting opponents that "spit" at you, keep moving side to side.  You
+   can avoid some of the shots from hitting you by dodging them.
+
+ ţ Try and destroy the ceiling turrets as quickly as possible when you see
+   them, before they can lock-on to you and start firing.  (They can only be
+   destroyed by using certain weapons.  They are all not effective against the
+   ceiling turrets.)
+
+ ţ Kill "spitting" aliens that are locked behind arcs or barriers before
+   switching the arc off.  The arc will provide you with protection.  You can
+   fire at what's behind them, but "spitting" aliens can't get you.
+
+ ţ Only shoot at the "Fluid Aliens" when they are standing up and attacking.
+   Shooting at them when they're in a liquid form on the floor will be a waste
+   of ammo, since you can't damage them in that state.
+
+ ţ Don't hang around in rooms with electric sockets on the walls. The Plasma
+   Aliens will just keep coming out and will not stop until you are dead.
+
+ ţ Don't shoot any informants and you will be well rewarded!
+
+ ţ Try and find ALL of the loot, high scores receive extra bonuses!!
+
+ ţ Some "pushable" areas may require more than one push.
+
+ ţ Watch out for "ooze" on the floor, it can do damage to you if you stand in
+   it for too long a period.
+
+ ţ If you get low on health and ammo and the end looks near, remember you can
+   always go back to previously played floors and retrieve items you may have
+   left there.
+
+ ţ Use the Slow Fire Protector to destroy Plasma Spheres.
+
+ ţ Barriers and Arcs can be used to destroy aliens.  If an alien is moving over
+   a barrier or an arc at the time you turn the power on, they will be caught
+   in the current and die.
+
+
+                             =================
+                             SECRET CHEAT KEYS
+                             =================
+
+There is an option cheat mode built into Blake Stone, which allows the game to
+be completed much easier.  To activate this cheat, TYPE the following sequence
+of letters.  You must do these one at a time.  [J] [A] [M] [Enter].  Once you
+have done this, you will receive full ammo, full health, all weapons, and all
+the access cards.  However, this cheating mode comes with a hefty price tag.
+Your score is taken to zero.
+
+This may be used as many times as you like.  However, this only works for the
+registered version.  The shareware episode has no cheats built into it at all.
+
+
+                      ====================================
+                      ADDITIONAL HINTS & TECHNICAL SUPPORT
+                      ====================================
+
+As a registered user of Blake Stone, you are welcome to contact our Technical
+Support and Hints Department for any assistance required. Technical support and
+hints may be received by phoning (214) 278-5655, Monday through Friday, between
+8:00 a.m. and 6:00 pm Central Standard Time or writing to Apogee Software at
+P.O. Box 496389, Garland, TX 75049-6389.  Technical Support can also be reached
+via fax at (214) 278-5655.  The fax machine is operational 24 hours a day, but
+Technical Support is only in the offices during the hours mentioned above.
+
+To assist us in providing you with faster service, please be at your computer
+system when calling.  Written inquiries should include your order number,
+system type and accessories, and any 'terminate and stay resident' (TSR)
+programs you happen to be running.
+
+Please do not call the 800 line for technical support or game hints as this
+information will not be given there.
+
+Furthermore, there is a file that was included with your Blake Stone game
+disks that contains some basic technical support.  This file is BS-HELP.EXE.
+If you are having difficulty executing Blake Stone once it has been installed,
+you might wish to consult this file before calling Apogee.  This file contains
+solutions to some of the most common problems that our customers encounter when
+executing our programs.
+
+
+                       =================================
+                       PLEASE DON'T PIRATE THIS SOFTWARE
+                       =================================
+
+The program you're using was produced through the efforts of many people.  It
+was created by talented artists, designers, programmers, and musicians.
+Everyone along the line, from the programmer to the distributor who sold you
+the program relies on sales of the program for their living.  This game is
+protected by federal and international copyright.
+
+Help preserve jobs by honoring the copyright of this program.  Don't make
+illegal copies for others who have not paid for the right to use this software.
+Please report copyright violations to the Software Publishers Association.
+Their toll-free anti-piracy phone number is 1-800-388-PIR8.  You can also write
+to them at:
+                        Software Publisher's Association
+                                   Suite 901
+                           1103 Connecticut Avenue NW
+                              Washington, DC 20036
+
+
+                               ==================
+                               THANKS FROM APOGEE
+                               ==================
+
+A sincere thanks for purchasing this software package.  Much time, effort, and
+expense goes into the development of our software, and your support helps
+ensure that we will be able to continue bringing you high quality, enjoyable
+software.   Enjoy the game!
+
+[ END OF FILE ]

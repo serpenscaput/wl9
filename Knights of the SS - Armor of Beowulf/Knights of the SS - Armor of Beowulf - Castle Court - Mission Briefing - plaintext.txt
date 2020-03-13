@@ -1,0 +1,187 @@
+Knights of the SS : Armour of Beowulf. 
+Mission 3 Castle Court   v 1.0
+
+____________________________________________________________________________________________________________________________________
+
+
+      * MISSION BRIEFING * 
+
+Location:      
+    Secret Catacombs that house the Grand Lodge of the Order of the Magi of the Radiant 
+Star. 
+Date:         
+  3rd of June 1937
+
+Brother Mueller I have something most serious to ask of you on behalf of our Order, 
+as a friend I would ask you not to go.. 
+for it is gravely dangerous, but I also know how important it is for the resistance.
+
+And I know you are the best agent for the mission.
+
+My Brother we need you to sneak into the Castle of DOSenstein. 
+We need you to investigate rumors that a newly formed division of the SS has refortified 
+the Castle...
+..And began working rites of dark magick, with powerful ancient relics.  
+Our intelligence gathering points to the Knights of the SS a new exclusive order 
+of elite SS officers, who are forging an Arayan warrior nobility of the Third Reich. 
+
+ SchutzStaffel der Ritter Schwarze Sonne ...   They are said to venerate the Black 
+Sun.
+We have heard rumors..
+That Knights of the SS leading Ahnenerbe recently recovered the mythical hero Beowulf's 
+Armor and Sword Hrunting.
+
+Our members in Allied Military and Intelligence report that an Allied spy BJ who 
+escaped from Castle Wolfenstein, has been dispatched to recover the Spear of Destiny. 
+
+We have also heard from connections in the French Resistance that the SS is now searching 
+for the Holy Grail.
+They have raided a catacomb under the Notre Dame Cathedral after translating some 
+stolen documents from another order.  
+They have also been said to be excavating Old Norse Runes. 
+
+As a Magi and a Knight of the Silver Cross you know that we must investigate these 
+claims and if they prove true..,
+That we must stop them. 
+If you choose to accept this mission we will use your code name Falcon 93 in all 
+correspondence to protect your identity. 
+
+Brother Mueller we have witnessed the Nazi Party take over our country, the Wermacht 
+has already swept across Europe,
+and with the power of these talismans the Knights of the SS could become an unstoppable 
+force of Fascism.
+I fear we may never again see liberty, but surely the power of the mighty Horus is 
+with you, you are our best agent Johannes,
+And yet should you fall in the sacred battle for freedom I will always remember you 
+as a friend, 
+and your sacrifice will not be in vain, this Aeon shall some day shine with freedom, 
+may our grandchildren see that day. 
+ 
+Do what thou wilt my Brother. 
+Agent Falcon 93 Do you accept this mission?  
+
+
+
+
+
+
+* Falcon 93 Studios * * 
+
+
+In the SOD TC Series ‘Knights of the SS’
+
+The mysterious order Magi of the Radiant Star has been building secret resistance 
+networks to fight against the Axis Regimes. Agent Falcon 93 sneaks into Castle DOSenstein 
+to discover the truth about K-SS in the ‘Armour of Beowulf’. 
+In other Episodes….
+Brothers and Sisters of the Magi Order use guns, magick, and guerilla tactics in 
+the fight against Fascism, from forests and groves, to the dark Castles of Wewelsburg 
+and DOSenstein, all the way to subterranean caverns and catacombs, as they take on 
+Special SS Knight Squads, battle the UnDead, and powerful SS Priests. 
+Recovering great artifacts from the Nazi’s such as Beowulf’s Armour and Sword Hrunting, 
+Old Norse Runes, and the Holy Grail. 
+
+
+In the yet to be named Wolf3d TC…
+6 Episodes of Special Operations and Intelligence Missions with Allied and Resistance 
+Forces…
+
+Including a Joint SS and Luftwaffe Bunker with advanced technology and bio-medical 
+research labs where mad scientists are rumored to have created mutants & cyborgs, 
+developed laser and plasmas weapons, and reverse engineered Extra-Terersestrial technology. 
+ 
+
+More planned including a multi installment series of TC’s spanning Wolfenstein 3D, 
+Spear Of Destiny, DooM, Heretic, and Hexen. This would involve porting Wolfenstein 
+into those games.
+Where the player uncovers a Nazi Portal and fights through Mars, Hell, and other 
+dimensions. 
+
+Including an Egyptian Episode using the DooM, Heretic, or Hexen engine, where the 
+Magi fight along side Egyptian Mummies(allies) against Rommel’s Afrika Corps and 
+the Knights of the SS. 
+ 
+_______________________________________________________________________________________________________________________
+
+
+* ABOUT *
+
+**        Knights of the SS : Armour of Beowulf.         **
+             Alpha Demo Featuring 
+             Mission 3 Castle Court (demo level 1)
+            and Elevator Lobby ([filler] demo level 2). 
+================================================
+
+This is a very rough Alpha Demo by Falcon 93 Studios. It is a modification of Spear 
+Of Destiny(TM - ID Software [see credits]).
+
+The First level is actually mission 3 of an upcoming TC of SOD called Armour of Beowulf, 
+from a planned series called Knights of the SS. 
+The second level is just a filler, it is merely a small elevator lobby. 
+The Demo version of Spear of Destiny has 2 levels. In the near future I will release 
+an updated version with a full second level.
+This may be done with engine I started to edit code for, it currently supports a 
+lighting effect and atmosphere i.e. rain. 
+
+Later Falcon 93 Studios will release a full length Spear of Destiny Total Conversion 
+with source code changes, more audio & graphical changes, new enemies and weapons, 
+and special features like reanimating corpses, treasure fueled manna as ammo for 
+magickal weapons, and more.
+
+This Alpha Demo runs on the Spear Of Destiny Demo version engine and game files, 
+it does not use any source code changes, or any original graphics. 
+It does however feature an original level designed by J Falcon, and several sprite 
+& texture graphics developed by members of the Wolf3d/SOD Modding community(see Credits) 
+and the order of music has been changed, with some music imported from Wolfenstein 
+3D. 
+
+
+
+* Alpha Demo V 1.0  Release Notes * And Trouble Shooting * 
+
+This demo show cases as much as possible without reprogramming, and within the limits 
+of the slimmed down SOD demo version,
+ the general atmosphere of Armour of Beowulf from my planned series, The Knights 
+of the SS. 
+
+The TC’s I have planned will feature much more extensive redesigning. 
+
+In v 1.0 
+
+The title screen is not satisfactory but it is suitable for an Alpha Demo. 
+The pallet used by SOD for the title screen causes great difficulty. 
+The issue is either that I could not get my image editors to work with the pallet, 
+
+or the Wolf3d/SOD editors do not have the title screen pallet configured correctly, 
+
+or something else is going on that I don’t understand yet. 
+Suffice to say I simply had to guess which colors to use and then test how it looked 
+after uploading the graphics. 
+
+The enemies and static objects are maxed out, this may cause issues,
+ but I have play tested it and I believe the common bugs are worked out. 
+
+Run Castle Court (EXE) to play the game. 
+It is a newer version of the Demo with some bugs patched.
+I have also included a folder with the Patched Demo EXE and the Older Demo EXE. 
+
+
+I suggest downloading VDM Sound and DOS Box. 
+Without running through VDM Sound I have no music on my machine. 
+Just download it(it is free), then right click Castle Court  (EXE) and select "Run 
+with VDMS". 
+
+_____________________________________________
+
+If you enjoyed this mod....
+More will come in time....
+Stay Tuned.
+
+
+Also I have now 4 Farcry(TM - From Ubisoft) Instincts(#1) X-Box (original) Multiplayer 
+Maps crafted. 
+Panu Ro Island, ZEBEZ River, ZaKek Ro Pass, and TonaKu RO Temple, They are based 
+on following from Island Coast, to a River through Mountains, to a grand water way 
+avenue of Shrines, to a Great Temple. There are multiple pyramids throught the levels. 
+
+I will find a way to make them available soon. 

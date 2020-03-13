@@ -1,0 +1,97 @@
+           °°±±²²ÛÛ BLAKE STONE PATCH FILE TECHNICAL SUPPORT ÛÛ²²±±°°
+
+                Copyright 1993/1994 Apogee Software Productions
+        P.O. Box 496389 þ Garland, TX 75049 þ Hints line: (972) 278-5655
+
+                     Game designed by JAM Productions, Inc.
+
+
+                          ============================
+                          BEFORE INSTALLING THIS PATCH
+                          ============================
+
+The operation of this patch file is fairly straightforward.  There are only a
+few operations that you need to follow.
+
+ þ Your copy of Blake Stone v2.0 is currently installed.  This patch file will
+   do nothing if you do not currently have your game installed.  If you do not,
+   you should make sure your registered copy is on your hard drive before
+   beginning the patch procedure.  If you only have Blake Stone v1.0, this
+   patch will do nothing for you; you will have to obtain the patch that will
+   convert v1.0 into v2.0 before applying this patch for v2.1.  The filename
+   for the patch from v1.0 to v2.0 is BSPATCH6.ZIP.
+
+ þ It is VITAL that you install the patch to exactly the same directory as the
+   registered copy is installed it.  It is strongly recommended that this patch
+   either be installed from a floppy disk, or from a subdirectory on your hard
+   drive that has nothing else in it besides these installation files.
+
+ þ To patch your copy of Blake Stone, you need to change to the drive and
+   directory that the patch files reside in and enter "INSTALL".
+
+ þ When the patch is finished running, it will delete itself, so you don't need
+   to worry about deleting the patch program and it's data file.
+
+ þ Your configuration file, and any save games you may have had with v2.0 of
+   Blake Stone are incompatible with v2.1 of Blake Stone.  If these exist in
+   your game directory, they will be deleted by the patch program.
+
+ þ If you have only the shareware episode, this patch will do nothing for you,
+   since this patch requires a registered copy of the game.
+
+ þ Apogee has discontinued the Episode 1-3 version of Blake Stone.  If you
+   have this version, or know someone who does, please contact Apogee on how
+   to obtain upgrade assistance.  Contact information as at the bottom of your
+   document.  If you are a registered owner, PLEASE include your order number
+   which came from the invoice when you received your software in all contact
+   with Apogee Software regarding your order.
+
+
+                                ===============
+                                HAVING TROUBLE?
+                                ===============
+
+If you experience trouble, you should follow these steps to correct the
+problem you are experiencing.
+
+  þ Remove all copies of Blake Stone from your computer, including these
+    patch files.
+
+  þ Install v2.0 from your original diskettes from Apogee.  If you only have
+    v1.0, install that, and then run the patch to make it v2.0 before
+    installing this v2.1 patch.
+
+  þ Unpack the patch files to a different directory on your computer.
+
+  þ Change to the directory you've unpacked the patch files to, and run
+    the install program there (INSTALL.EXE).
+
+
+                          ============================
+                          CONTACTING TECHNICAL SUPPORT
+                          ============================
+
+Apogee thanks you very much for playing our games.  Customer satisfaction is a
+high priority of Apogee's, and we strive to please everyone.  Our Technical
+Support staff is available to assist all of our customers in solving any
+technical problems that may be experienced.  Our Technical Support Department
+is available to answer your questions Monday through Friday during the hours of
+9:00 A.M. to 6:00 P.M. Central Standard Time.  The phone number for the Tech
+Support Department is (972) 278-5655.  Two other options are to contact us via
+fax at (972) 278-4670 24 hours a day or write to us at POB 496389, Garland TX
+75049.
+
+Apogee Technical Support can also be contacted via a variety of electronic
+medium.  Several major online services are monitored, and Apogee's E-Mail
+addresses are listed below.   Also, a variety of Bulletin Board networks are
+monitored as well, and those are also listed.
+
+If you do contact our Technical Support department, please be at your computer,
+and have it ready for assistance.  If you can't be at your computer, please
+have printouts of the following things available, so that we may assist you
+better.  It may be possible do provide technical support without these things,
+but it will be much more difficult.
+
+The needed files are CONFIG.SYS & AUTOEXEC.BAT.
+
+[ END OF FILE ]

@@ -1,0 +1,33 @@
+RISE OF THE TRIAD: "The HUNT Begins"
+Shareware version 1.0 (vS1.0)
+Copyright (c) 1994 Apogee Software, Ltd.  All rights reserved.
+Released worldwide December 20, 1994
+
+DISTRIBUTION OF RISE OF THE TRIAD (ROTT)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*** THIS VERSION MAY *ONLY* BE DISTRIBUTED ON-LINE OR VIA BULLETIN BOARDS AND
+    ON-LINE SERVICES.
+
+*** DO NOT DISTRIBUTE THIS VERSION IN A RETAIL LOCATION, ON DISKS, ON
+    CD-ROMS, AND DO NOT LIST IT IN SHAREWARE CATALOGS.
+
+NOTE TO VENDORS:  The next version of ROTT will be available for you
+to distribute non-electronically, and should be available by Feb. 1995.
+
+FUTURE ENHANCEMENTS TO ROTT VERSION 1.1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Note:  The following problems should be fixed in the next released version
+of ROTT, which should be available on-line by February 1995.
+
+[1] This version of ROTT does not properly support COM cards equipped with
+    the 8250 UART chip (it works, but not to our satisfaction yet).
+
+[2] You'll be able to play network ROTT games with needing a separate,
+    dedicated computer acting as the server.
+
+[3] The entire game will be better tweaked and fine-tuned.  We released
+    this version ASAP to get it out before Christmas (due to intense
+    pressure by the public), and we feel like we were not able to fully
+    and properly play-test the game, and make minute finishing touches.
+
+[END OF FILE]

@@ -1,0 +1,38 @@
+^BCe3^SCe1^ST1^SP1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 5 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^SL^PX0e6^PY025^SH094^RL^RM0e0
+Accessing......current location:
+
+^RJ^FCeb
+HABITAT II
+Crew Quarters
+^FCab
+
+^LJ^DMSir...informants have revealed that Goldfire is here, within the HABITAT environment. 
+He has been awaiting your arrival.
+^EP
+^FC3a^FN1^CEMISSION 5 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab^FC3aAssessment:^FCab I can extrapolate based on his past behavior with 
+a 97% probability. He has prepared many traps for you and is determined to stop you. 
+He will spare no cost to end your life and the threat you pose to his plan.....Incoming 
+transmission.....there are reports....of a secret transport facility near HABITAT 
+II. If he escapes, he will be free to use the facility to attack Earth. His genetic 
+experiments will be "shifted" en mass under Earth's planetary defenses. I deem the 
+situation to be most serious.
+^EP
+^FC3a^FN1^CEMISSION 5 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab^FC3aObjective:^FCab Blow away everything that tries to stop you from getting 
+to floor 9. When you get there, take out the Bio-Mech Guardian alien and hit the 
+tunnel!  You must get to the Satellite Defense Installation as quickly as possible 
+to prevent Goldfire from starting his mass alien teleportation to Earth.
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...

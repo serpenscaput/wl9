@@ -1,0 +1,28 @@
+
+VERSION 4.1a NOTES:
+
+ - This release of MapEdit should work with all versions of the game,
+   including the three, six and Spear of Destiny (SOD) episode editions.
+
+ - The map files may become a lot larger after using MapEdit, even
+   if you do not alter any levels.  This is because MapEdit does not
+   recompress the maps with the newer compression scheme used in
+   v1.1 of the game.  This doesn't cause a problem when playing the
+   game, it just makes the map files larger.
+
+ - The MAPDATA.DEF file contains information about the new wall images
+   used in the 6-episode and SOD games.  If you are editing the 1-episode
+   game, be carefull not to select any of the newer wall images.  The same
+   goes true in the 3 and 6-episode games, don't select SOD objects or walls.
+   You may want to create separate .DEF files, one set for each version of
+   the game.  The Walls and objects used in SOD are indicated in the .DEF
+   files and will show up in mapedit.
+
+ - The OBJDATA.DEF file has been updated with all objects and walls.
+   You may want to change the descriptions found there.
+
+ - In SOD the objects past 00FE are accessible.
+
+ - A minor fix was added to completely clear the text area below the
+   map display when the mouse pointer is moved off of the map area.
+

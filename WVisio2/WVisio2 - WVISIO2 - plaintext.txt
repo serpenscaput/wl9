@@ -1,0 +1,27 @@
+WVisio2. (information file).
+
+I changed these maps around from WolfSF2, because I felt that WlfVisio should be 
+given more prominence, and also because WlfVisio and the Spear demo looks better 
+with the original Wolf3D graphics.
+
+Anyways, thanks to A. Anonymous for converting these files so that they work on the 
+shareware 1.4 version.
+
+Wvisio2 is a real tough set (Hans Grosse makes many appearances). This is how I changed 
+the 
+levels around.
+
+Levels 1 thru 3 (Wvisio 1/3)
+Levels 4/5 (as previous)
+Levels 6/7 (Spear demo)
+Level 8 (Street Fighter)
+Boss Level (Wvsio 10)
+Secret Level (Wvisio 9)
+
+This sequence puts the WVisio secret level back where it was originally.
+
+This set should be played with the original shareware 1.4 Wolfenstein 3-D set.
+
+
+3/22/99
+Brian.

@@ -1,0 +1,243 @@
+These levels i have restored have been a real learning process for me, they
+have been underway in 12 - 15 months. I didn't want to compromise & send out 
+some crappy levels full of errors, thanks to my 2 friends & beta testers CRQ
+& Kenneth for coming up with some great ideas & suggestions.
+
+Here comes a short description of some of the levels.
+
+Note : * means new things added or small changes, to a level.
+
+                                 Episode 1.
+
+Level 1. Basically just level 1 heavily extended, you can get out on the par 
+         time if you know the way. Heheh.
+*        Widened a corridor & changed some wall patterns, corrections on a few 
+         floorcodes. Added 3 guards. Made a last minute change.
+
+Level 2. Short & (maybe) sweet.
+*        Changed the exit slightly, FINALLY it fixed that damn hole in the
+         stats screen. YES :=) Redecorated some walls and moved the silver key
+         out in plain sight, other small adjustments were made.
+
+Level 3. Amazing isn't it :) i think most of you will dislike this huge maze
+         there is however a way out. It is possible to get under the par time
+         if you know the right way.
+*        Tested the new blank elevator wall & it works fine. Haunted out 2
+         small floorcode bugs, put back the "deaf" marking on a guard.
+         Made it a bit more challenging. <g>
+
+Level 5.
+*        Fixed 1 floorcode, accidently 2 rooms were using the same floorcode.
+         It made me wonder why the ss guards were running around in the
+         corridors. Fixed the floorcode in a secret room where the guard
+         became non-reacting unless shot at. DO NOT use a "deaf" guard next to
+         doors locked or unlocked. It made all the guards, both moving and
+         standing non-reacting even when shot at. :(
+
+Level 6. First time you will meet Gretel Gr”sse, also be careful at the end
+         of the level.
+
+Level 7. This level is a bit chaotic it is stretched to the limit, reguarding
+         static objects so some places the guards won't drop their ammo.
+         Finally got to use the barbwire effectively.
+*        Fixed an elevator bug.
+
+Level 8. The place of many mystery doors ?
+*         Changed the elevator corridor wall pattern and a few other wall 
+          patterns.
+
+Level 10. A hard level with many secret doors, now where is that gold key ?
+*         Changed the wall patterns a bit, fixed the last floorcodes. Damn i
+          accidently used the 2 same floorcodes on 2 different locations, the
+          mutants shot me dead very quickly. 2 items were replaced. Changed a
+          secret slightly.
+          
+                                 Final note.
+
+At last these 10 levels are ready. After 1« years work in the last weeks time
+i have given them their last overhaul, checking everything 2 or 3 times but
+enough is enough. So here they are in their final version, enjoy.
+
+                                 Episode 2.
+
+10 levels are playable except for 1 level they are all finished. Here is a 
+status on them. 
+Note : Wiped out all the small floorcode bugs, otherwise you could get 104%
+       secret in the stats screen leaving the player somewhat baffled.
+
+Level 1. 100% finished, only small things are missing. On this level i made an
+         experiment with the elevator, by adding 2 different floorcodes there. 
+         1 for the secret level & 1 for level 2, you'll have to find out by
+         yourself what switch to push ;).
+*        All the small things are in place.
+
+Level 2. 100% finished, some guards needs to be added. 
+*        Added a lot of guards & obstacles.
+
+Level 3. 100% finished, the basic design of the level are nearly ready. Now a
+         lot of guards & obstacles needs to be placed.
+*        Guards added & redesigned some walls particullary 1 wall irritated 
+         me. Whoops removed a well that accidently blocked a door. 
+
+Level 4. 100% finished, more guards & obstacles needs to be placed.
+*        Some more food & ammo were added & removed, fixed the elevator added
+         a few doors. 
+
+Level 5. 100% finished, more guards & obstacles needs to be placed.
+*        Missing things are all in place.
+
+Level 6. 100% finished, needs a secret room or 2. As proofed before the Gr”sse
+         family is quite big, (see the original set episode 6 level 10) so 
+         now Gretels twin sister Helga have sworn to avenge her.
+*        Secret room added.
+
+Level 7. 100% finished, needs a lot of guards & obstacles.
+*        threw in a big bunch of guards added some lights & other small 
+         things. Decorated the big room and threw in some surprises.
+         Added some more guards to the ending and some treasure.
+
+Note :   In the big room the phenomenen "dissappearing bodies" will most 
+         likely occur, i have made some precautions to minimize the effect.
+         Email me if you still thinks it's a big nuisance.
+
+Level 8. 95% finished, needs everything.
+*        Added a bunch of guards, changed the wall pattern in a corridor. 
+         Still the level looks a little crude, so some more items will be
+         added.
+
+Level 9. 100% finished, only needs some guards.
+*        Made a new secret room.
+
+Level 10. 100% finished, only needs some guards, new walls & obstacles.
+*         Cleaned it up, added a few mew rooms. Corrected 1 secret.
+          Added the missing guards, some treasure and other goodies. 
+
+Note :    DO NOT try to get 100% secrets or you could be spending perhaps
+          hours trying. Don't think it's possible too.
+          Does anyone remember level 28 from wolf3d ? Again Adam had extended
+          it wery much, i softened it up a bit with some big and small rooms.
+          Still it can be very frustrating to complete. (You were WARNED).
+
+                                 Episode 3.
+
+Level 1. 100% finished.
+Note : This is going to be the only lonely level in this episode, unless 
+       anyone wants to contribute a level or 2. (Hint hint) :)
+       Take a look at the design at the level with a mapeditor & you'll know 
+       why it's named "That old hungry whale". (Hint try to remember an old 
+       fairy tale ;=) ). Now you should now what happened to The Dopefish at 
+       least in Fearwolf. This level is dedicated to the fine specimen of of 
+       the race Pisces Swimetus.
+*      Added some very small adjustements.
+
+                                 Episode 4.
+
+Added a small corridor with a small surprise.
+
+For those nosey people who can't resist to check out everything. :=)
+
+
+                                 Episode 5.
+
+Note : Level 1, 4, and the secret level is made by Rob. I found these levels
+       together with an old version of mapedit, i have made some adjustements
+       to them but have kept the basic design.
+
+Level 1. 100% finished. This is the smallest level in fearwolf, yet crammed
+         with angry soldiers high speed action all the way. Switched the keys 
+         around added 3 officers some more treasure & health.
+
+Level 2. 75% finished.
+
+Level 3. 100% finished. The big open area looks a lot like e4l2, which is 1
+         of my favorite levels. Take a step inside and it's more complicated
+         plus some tough action, i really enjoy it.
+*        Changed some of the guards in the open area.
+
+Level 4. 100% finished.
+
+Level 5.
+
+Level 6. 95% finished. This level comes from the shankenstein set. I removed 
+         the easy way out, redecorated almost the entire level added a few
+         surprises. Still some redecorating remains to be done, also some of
+         the personnel needs to be changed. :)
+
+Level 7.
+
+Level 8.
+
+Level 9. 100% finsished. Originally it was level 27 from wolf. Since Adam had 
+          extended it quite a bit, i decided to make to a boss level. Reduced 
+          1 area to make it more suitable for a boss. Good luck if you wants 
+          to find all the secrets. This is also the last level to be used from
+          the wolfenstein 3d fear of vengance set.
+
+Level 10.
+
+Note : More floorcode bug hunting for the whole episode. Let me know ASAP if
+       you find anything suspicious and i'll squash it promptly.
+
+                                 Episode 5.
+
+Added a small corridor with an endgame trigger.
+
+                                 Episode 6.
+
+Note : No levels have been added yet. So far only 4 levels are in the design
+       process. Unlike the rest of the episodes no keys will be kept in secret
+       areas but will be in plain sight, expect some guards though.
+
+Level 2. 90% finished, the design is finished, a lot of enemies have been
+         added a secret is now filled up. Still a lot of small items are
+         missing.
+
+Level 3. 95% finished, a secret needs to be added. Yes this level is a bit
+         inspired off e1l7, which is 1 of my favorite levels. I wanted to
+         make the right part of the level look like it was abandonded i think
+         i have achieved this by making it more filthy. It's possible to end
+         the level under par times.
+*        Added 2 secrets. Put in some more doors to minimize the 
+         "dissappearing guards" effect, more decoration and guards were added
+         too.
+
+Level ?. 25% finished, only the beginning of the level is ready so far.
+
+
+Level 5. 95% finished, this is a big action filled level, you can see right
+         away where to exit. I switched the keys around, otherwise the level
+         could be exited very early. Removed a couple of dogs, redecorated
+         the level a bit fixed a few floorcodes.
+Note :   In the secret area 1 of the secret blocks can be pushed the wrong way
+         i was somewhat inspired by the large secret area in e2l4 & wanted to
+         make 1 myself, so here it is.
+
+Level ?. 65% finished, The starting and ending areas are ready yet it needs
+         to be extended. A long corridor have been added so the level can be
+         finished.
+
+Level 8. 85% finished, changed some wall patterns, added a secret and fixed
+         some floorcodes.
+
+Level ? 75% finished, heh you don't want to know where i got the inspiration
+        for this level. It needs secrets, guards, items and floorcodes.
+
+Added a small corridor with a small surprise.
+
+For those nosey people who can't resist to check out everything. :=)
+
+                                 Demo levels.
+
+Level 32, 38, 44, 57, are all copies of exsisting levels they are only because 
+      Wolfenstein uses them, to show the level/game demos. Otherwise a strange 
+      wall would appear because there is no starting position, this will cause 
+      the game to slow down a lot. (command = set wolf3d.exe to snail mode).
+
+                                 Sneak Preview.
+
+If you warp to level 32 or 57 here's the chance to play a 2 of the upcoming 
+levels, they are fully playable.
+
+If you have any comments on Fearwolf, do email me on fraulein@ofir.dk any
+mail will be read and answered. Unless it contains something like this.
+Yer levels sux. 

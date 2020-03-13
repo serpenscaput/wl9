@@ -1,0 +1,27 @@
+Reinstaad by Bobby Bucksnort (spear mod)
+original DOS release: 4 June 2002
+
+Spear of Destiny (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+New EXE for DOS based on Wolf3d source by id Software
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Spear of Destiny
+Unique SDL config and saved game names
+
+Both SDL and DOS EXEs contain:
+
+Spear of Destiny signon screen
+Pushwalls always move 3 spaces
+Endgame ratios adjusted for 11 levels
+Increased actor and static object limits slightly
+Corrected Angel of Death level indicator
+No boss end level messages
+Tab+S to toggle hitwall/spacebar sounds
+
+Give 100% treasure result on level 2 which has none
+Adjust HUD when score goes over 1 million (SDL only)
+Increased MAXACTORS to avoid "No free spots in objlist" error on level 9
+
+Removed an SS from level 6 that blocked blue key access
+Moved a deaf officer away from a door on level 9 (blocked off treasures)

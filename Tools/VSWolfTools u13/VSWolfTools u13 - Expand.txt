@@ -1,0 +1,70 @@
+
+         Routine for unpacking a sprite from a Wolfenstein/spear-like game,
+                     written in delphi (a Pascal language).
+            The routine handles both 64x64 pixels and 128x128 pixels.
+
+//Global declarations:
+
+var gf        :integer = 64 or 128                //pixels graphics
+    vswap     :file of byte;                      //VSWAP.* file
+    outpic    :array[0..gf-1,0..gf-1] of byte;    //Pixels as color indices
+    baseadr   :integer;                           //Start address of the sprite
+-------------------------------------------------------------------------------
+                                     Routine
+
+procedure unpack(baseadr:integer);                     //Unpacks a sprite
+label skip;                                            //If empty line
+var   dataptr:                          array[0..gf-1]of integer;
+      f,x,y,i,k,linst,linend:           byte;          //unsigned  8 bit number
+      aa,bb,cc,partptr:                 word;          //unsigned 16 bit number
+      ofs:                              smallint;      //  signed 16 bit number
+begin
+   for i:=0 to gf-1 do for k:=0 to gf-1 do             //Initialize pixels.
+      outpic[i,k]:=255;                                //Background colorindex.
+
+   seek(vswap,baseadr);
+   read(vswap, x,y); linst :=x+y*256;
+   read(vswap, x,y); linend:=x+y*256;
+
+   for i:=0 to linend-linst do              begin
+      read(vswap, x,y); dataptr[i]:=x+y*256; end;
+
+   for i:=0 to linend-linst do                        begin
+      partptr:=dataptr[i];
+      repeat
+         seek(vswap,baseadr+partptr);
+         read(vswap, x,y); aa:=(x+y*256)div 2;
+             if aa=0 then goto skip;                     //If empty line
+         read(vswap, x,y); ofs:=x+y*256;
+         read(vswap, x,y); bb:=(x+y*256)div 2;
+         read(vswap, x,y); cc:=(x+y*256);
+        
+         seek(vswap,baseadr+ofs+bb);
+         for k:=bb to aa-1 do                    begin   //Set pixels
+            read(vswap, f); outpic[linst+i,k]:=f; end;
+         inc(partptr,6);
+      until cc=0;
+skip:                                                  end;
+end;
+
+
+
+                 --------------------------------------------
+                                     //Later:       (making the sprite picture)
+
+var   wolfpal   :array[0..255] of integer;            //The wolfenstein palette
+      i,k       :integer;
+
+   for i:=0 to gf-1 do
+      for k:=0 to gf-1 do
+         image1.canvas.pixels[i,k]:=wolfpal[outpic[i,k]];
+
+                 --------------------------------------------
+
+
+
+                                      Vincent
+
+                               http://vincentius.dk
+
+                                 mail@vincentius.dk

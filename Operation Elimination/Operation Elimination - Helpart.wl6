@@ -1,0 +1,118 @@
+^P
+^C7D Info
+^C00 I'm Kyle, I'm 13 years old and I made this addon: Operation: Elemination. Read 
+On...
+
+
+ID Software made the original game "Wolfenstein 3D" and Apogee distrubites it.  If 
+you are interesting in buying the "real" Wolfenstein 3D, go to ^C21 www.apogee1.com 
+^C00 for ordering infomation.  German Residents are not aloud to purchase.
+^P
+^C7D A Made up Stupid Story
+^G32,16,3
+^C00 You've been assigned a mission from you boss, he says you must not die at any 
+cost and make it out in one piece, we need to seize yet more plans from Hitler to 
+take over the earth. *** You begin to walk to the Castle were Hitler is waiting for 
+you. >:)
+Good Luck, B.J.! (I know the story sucks!) :)
+^P
+^C7D Source Code Changes
+^C00 - Seamless Level Progession (15 levels)
+(3 secert)
+- Ceiling Colors changed
+- Chaingun Jams at Random times
+- Spear Music Added
+- If an enemy shoots you, it alerts the whole room
+- New Semi Boss with Chaingun
+- Added 25 Ammo Box from Spear
+- Doors don't shut on their own
+- 2 new keys
+- Ammo 150, Health 200 (must get a special health item to go above 100)
+Many more...   
+^P
+^C7D Graphics and Sounds and SC
+^C21 The following people provided stuff and helped me to make my TC (in no order):
+
+^C00 Mr. Lowe, TVP, AReyeP, MCS, Ripper, B.J.Rowan, Paal Olstad, and of course, ID 
+Software.
+
+Sites:
+- Mr. Lowe's and TVP's Wolf3d Dome with lots of utilites and addons!
+^C21 www.wolfenstein3d.co.uk ^C00
+- AReyeP's and MCS' Site with Coding Tips and the Texture Library ^C68 * ^C00  at 
+^C21 www.areyep.com ^C00
+Continued...
+^P
+- Ripper's Site with ^C96 3D Directional Sprites ^C00 and ^C96 Outside Atmosphere 
+^C00 tutorials at ^C21 www.chaos-software.org ^C00
+- B.J. Rowan's Site no longer exists but check out his TC ^C21 Toten 2 ^C00
+- Paal Olstad's Site is listed in the readme.txt, check all of his TC's there including 
+^C21 The Tower ^C00
+- ID Software is the creators of Wolfenstein 3D, with out there game and source code 
+release, you wouldn't be playing right now. Check out their website at ^C21 www.idsoftware.com 
+^C00 and all of their other games!
+
+Continued ...
+^P
+^C67 * ^C00 The Texture Library has tutorials on making walls and wall decoration 
+and more!!! The Tutorials are by AReyeP! Find it at ^C21 www.areyep.com ^C00!
+
+^P
+^C7D My addon
+^C00 Feel free to use any graphics/sounds from my addon as long as you put my name 
+in the Read this! or Credits. (If it's one or two graphics, I can let it slip!)
+^P
+^C7D Important
+^C00 In a couple of levels you may open the brass locked doors and see a glass sheet 
+or a hanging skeleton. ^C21 There most likey is a end level trigger there! So just 
+don't open the door and think nothing is there!
+^P
+^C7D Cheats
+^C00 -MLI Removed
+-Debugging Cheats
+^C21 Activating the debugging cheats will not allow you get a score. Say if you had 
+0 points, for anything you collect, kill, etc. It will stay at 0 for the whole game.
+
+^C00
+Parameter code will be mentioned in the forums later.
+-Tab F: Current Position on Map.
+-Tab G: Makes you Invincible.
+-Tab I: Free Items (no score added)
+-Tab K: All Keys
+-Tab M: Debug Memory   continued>>>
+^P
+^C00
+-Tab N: No Clipping (It's back!)
+-Tab R: Current Level Ratio
+-Tab W: Wrap to any level (1-15) not the secert levels!
+-Tab X: Level Restart incase you are stuck or want to start over.
+^P
+^C7D One New Enemy!
+^C00 This new enemy has one chaingun.  He is extremely powerful in the hard mode, 
+If you run into him, stay behind a wall and shoot to take less damage.  He will NOT 
+drop his chaingun to collect. These enemies are usually found in key areas, secert 
+areas, or on boss/secert levels.
+^P
+^C7D New Drone Gun
+^C00 There is a new drone gun in this add-on. It is a rocket launcher controled by 
+secruity. Destroy these as soon as you see them or if you ignore them, they could 
+kill you! They sometimes guard keys, bosses, or secret areas and usually on upper 
+levels. They are hard to see from a distance so watch out! They are also silent and 
+make no noise until it shoots a rocket. 
+^P
+^C7D The Known Bugs
+^C00 - When you go up to a skull, bloody skull, light bulb, or a burnt light bulb, 
+and an enemy is under/over the object, you can walk right through the enemy! With 
+no clipping off too.
+
+- When Number Lock is off and Run is set to Right Shift or Left Shift, it doesn't 
+work right for some reason, Number Lock needs to be on. (This is a bug for me, maybe 
+not you)
+
+ If you find any bugs/errors email me at ^C21 K007auf@aol.com ^C00 and I'll fix it, 
+Thanks!
+^P
+^C7D Alright!
+^G 28 16 5
+^C00 Now get started on your mission!
+^E

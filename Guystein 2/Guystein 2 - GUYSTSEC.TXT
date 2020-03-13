@@ -1,0 +1,106 @@
+			****************************
+
+			    GUYSTEIN, THE SECOND
+
+			     WOLFENSTEIN ADD-ON
+
+				By Guy Brys
+
+			  Last Update : 12-11-2000
+
+			****************************
+
+Okay, here it is again, the one and only, the GUYSTEIN.
+My interest in Wolfenstein 3D isn't gone and by that reason I have
+made the last months some new levels for my favorite game.
+You now have the result in your hands.
+I'm afraid this is the final Wolfenstein set I have made.
+Though, I'm planning to make my two sets (I and II) better by adding
+new sounds and graphics, but this will not be for the near future.
+Despite this all, I hope you like this set.
+
+There is one adjustement in GUYSTEIN, THE SECOND, namely
+ ! No 149 guards in every round, 'only' 144 in every round (I have done
+ ! this to prevent the abnormal breakdown from the program with the message
+ ! 'Out of Memory'.  But it seems not to work properly.)
+But don't panic, the levels still are very exhausting and challenging.
+
+In GUYSTEIN, THE SECOND is level 1 and 3 and 5 playable (you still need the 
+registered version of Wolfenstein, but who hasn't?).
+Unzip the zip file 'Guystsec.zip' into your Wolfenstein directory (please
+rename first the original 'Gamemaps.wl6' and 'Maphead.wl6' into files
+with extension '*.old'.
+The other important file, namely 'Vswap.wl6' you will find in the original
+GUYSTEIN zip file (this is 'Guystein.zip').
+For level 2 and 4 and 6 (called 'The Four Towers' (2) and 'Spider Arms' 
+(4) and 'Back To The Past' (6), included in the file 'Guystse2.zip') 
+you need a code (see a little bit further).
+Open this zip file, put the code into Winzip-Options-Passwords and unzip
+the whole thing.
+Now you can play the entire 60 levels.
+
+I have received a lot of mail to get the code for GUYSTEIN and I
+thank everybody for it.
+Because I like the idea of Passwords in Zip files I gonna do this here again.
+The code (for playing level 2) is a number of 12 digits, like 121704100126.
+Now is this code not the right one, but it is easy to give an explanation
+with this example.
+The real code is that one that you get when you count all the secret
+doors from every round 8 in the original GUYSTEIN and put them in the code.
+So means the code above that
+ * level 1-8 has 12 secret doors
+ * level 2-8 has 17 secret doors
+ * level 3-8 has 04 secret doors
+ * level 4-8 has 10 secret doors
+ * level 5-8 has 01 secret doors (that's not much)
+ * level 6-8 has 26 secret doors
+There are many ways to find this code
+ * If you have the full version of GUYSTEIN (in other words the code 
+   for GUYSTEIN) and Mapedit, you easily can see it in the statistics screen.
+ * If you have the full version of GUYSTEIN, you can play it again and simply
+   count the secret rooms (you can also Warp some levels).
+ * You can simply mail me and ask the code.  I will give it without any 
+   problem.
+
+Oh, ya, another thing.
+Maybe the secret floor of level 6 is a bit too difficult.
+But it is possible!
+How?
+Or you find it out yourself, or I can tell it here.
+Because the last one is a bit stupid, I suggest the following.
+If you really do not know how to end that level (if you ever find the
+secret door that permits you the entry to it), you can mail me and
+simply ask a solution (because there are two, the easy one and the
+hard one).
+
+
+So this is it, hopefully you enjoy the whole thing.
+
+If you want to contact me, mail me or put something on my guestbook.
+
+
+IMPORTANT!: DON'T COMPLAIN TO APOGEE IF YOU EXPERIENCE PROBLEMS WITH
+                THIS FREEWARE.  IF YOU HAVE PROBLEMS, MAIL TO ME (PLEASE
+                NOT TO OFTEN).  I'M NOT RESPONSIBLE IF YOUR COMPUTER START
+                TO CRASH OR TO DO THINGS YOU DON'T ASK HIM TO DO!
+
+
+
+Thanks to everybody who likes this add-on.
+
+Thanks for playing Guystein, The Second!
+
+
+
+Greetings,
+
+Guy Brys
+
+e-mail: guy.wendy@yahoo.com
+
+http://users.fulladsl.be/spb9187/
+
+
+
+
+

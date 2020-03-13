@@ -1,0 +1,253 @@
+              "Operation: Kill BJ!" - the new Wolfenstein levels
+
+                                  Version 1.3
+
+                               By Richard Kelly
+
+NOTE: These levels have NOT been tested with the Acorn version of Wolfenstein
+3-D or under the Lunix operating system.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                Quick Reference
+
+     Unzip the files into your Wolfenstein directory (no files are
+overwritten).  Enter VSWAP to alternate between the new graphics and the old.
+Enter MAPS to alternate the new maps with the old ones.  Enter IDENTIFY to
+find out what maps and graphics the game's set up to play.  These files are
+for the 60-level version of Wolfenstein ONLY.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                 Installation
+
+     Thank you for downloading my files!  The archive should contain the
+following files:
+
+W3D-OKBJ.DOC - This documentation.  Duh!
+VSWAP.NEW    - The new graphics.
+MAPHEAD.NEW  - The first part of the new levels.
+GAMEMAPS.NEW - The second part of the new levels.
+IDENTIFY.COM - An executable file
+MAPS.COM     - Another executable file.
+VSWAP.COM    - Yet another executable file.
+SAVEGAM0.NEW - The first pre-saved game.
+SAVEGAM1.NEW - The second pre-saved game.
+SAVEGAM2.NEW - The third pre-saved game.
+SAVEGAM3.NEW - The fourth one.
+SAVEGAM4.NEW - The fifth one.
+SAVEGAM5.NEW - The SIXTH one.
+SAVEGAM6.NEW - Well ...
+SAVEGAM7.NEW - You get
+SAVEGAM8.NEW - the idea.
+
+These files should be extracted into the same directory the 60-level
+commercial version of Wolfenstein 3-D is located.  NO FILES WILL BE
+OVERWRITTEN, NOT EVEN WHEN THE GAME'S GRAPHICS OR LEVELS ARE ALTERNATED.
+Instead, the setup simply changes the names of the files ... nothing more.
+
+     You can alternate the new levels with the original levels by entering
+MAPS at the DOS prompt.  You have sixty new levels to enjoy.
+     You can alternate the new graphics with the old by entering VSWAP.  The
+new graphics have no new objects, but have several walls replaced:  Grey stone
+walls are replaced with silver stone walls.  Blue dungeon walls are replaced
+with semi-transparent blue stone walls.  The red bricks have a more
+interesting texture, they're a little bit bigger, they have a couple more
+"pictures" of mine, and have signs instead of Eagle Stickers;  I could put a
+new german phrase in now, since I could use a German/English dictionary and
+look up the German translation for "Stop!" (I ended up using a word that was
+more like "Halt!", since "Halten!" looked better than "Stoppen!").  Steel
+plated walls are replaced with green triangular walls.  I learned about
+shading in Art Class and graphical textures by examining the original graphics
+of Wolfenstein very closely.
+
+     NOTE: To those who might ask me where I ray-traced the picture of the
+potted flower (replacing the Eagle Statue wall image), no ray-tracing was used
+in any of my new graphics!  I did all the graphics MYSELF.  Though I don't
+mean to be vain, I just happen to be good at drawing plants.  I've only made
+this note so I won't be hounded with this same question by endless amounts of
+people, thank you very much.
+
+     You can run the old maps with the new graphics and the old graphics with
+the new maps.  Can't remember what levels and graphics that you have the game
+set up to run?  Enter IDENTIFY.  It will tell you itself.
+
+     You'll find a different set of saved games when you run my new levels.
+The saved game titles you weren't responsible for I did myself.  I put them
+there solely as a way for you to preview some of my favorite new levels, aside
+from Level 1 of Episodes One, Five, and Six (my favorite new episode as a
+whole is Two).  You needn't keep my saved games, so save over them as you
+wish.  When you re-enable the original levels, you'll find your saved games
+for the original levels are again available.
+
+     Some of the original boards have pushwalls that can be pushed the wrong
+way and cause you the loss of bonus items (or, in level 7 of Episode 4, the
+loss of your key).  I avoid this approach entirely because I feel it just
+simply isn't fun and is unfair to the player.
+
+     And the par times, you ask?  Well, I'll be perfectly honest with you.  I
+just simply haven't got around to figuring those out yet (I can only figure
+out par times the hard way, since the boards are my creation;  the "hard way"
+means playing a board from start to finish through only the rooms and halls
+you need to, pushing only the walls you need to, and starting the board out
+with a pistol, 100% health, and 8 ammo on the "I am death incarnate!"
+difficulty).  But here's the par times for the first episode.
+
+                               ÚÄÄÄÄÄÂÄÄÄÄÄÄÄÄ¿
+                               ³Level³Par Time³
+                               ÃÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+                               ³  1  ³  0:30  ³
+                               ³  2  ³  4:15  ³
+                               ³  3  ³  3:15  ³
+                               ³  4  ³  4:30  ³
+                               ³  5  ³  3:15  ³
+                               ³  6  ³  3:45  ³
+                               ³  7  ³  1:30  ³
+                               ³  8  ³  5:30  ³
+                               ÀÄÄÄÄÄÁÄÄÄÄÄÄÄÄÙ
+
+     I hate to be telling you what you should and shouldn't do, but the latest
+distribution policy requires me to ask this of you:  Please DON'T call Apogee
+for any reason concerning these new boards.  Id isn't responsible for the new
+boards' creation and doesn't support the levels in any way.  The batch files
+will remind you of this.
+
+The pre-saved games will send you to these areas:
+
+"E2/L2": Episode 2, Level 2.  Starts off with a unusual pushwall trick and
+then gets better.  Fun, fun, fun.  Hard, too!
+"E2/L7": Episode 2, Level 7.  Like the original, you have the option of
+finishing the level quickly or going through some hidden rooms for extra
+points and extra challenge.  Unlike the original, though, I actually LIKE this
+level.
+"E2/L0": Episode 2, Level 10.  There's a booby-trap somewhere around in this
+level.  Here's a hint to find the trap: "Fool's Gold".  There's a hidden
+locked door and a hidden world as well.  Good hunting.
+"E3/L0": Episode 3, Level 10.  Don't try to shoot these ghosts down;  they're
+invincible!  Professionals may try getting all the points they can before
+going to the elevator, but if you're anything less, it'll be all you can do
+simply to get to the elevator in one piece!
+"E3/L9": Episode 3, Level 9.  The Hitler board was never like this.
+Threatening officers are placed in new scenarios and professional level
+layout.  In the area with Hitler himself, most of the ammo is in a place where
+you're exposed to the enemy in four different directions.  That secret with
+the extra ammo is still around, accessed by pushing one of the walls with the
+Hitler picture.  I ain't tellin' ya whar.
+"E4/L3": Episode 4, Level 3.  Screw the original level (excuse my language) -
+any one room from this level tops it all hands down!  But don't take my word
+for it;  try the level out yourself.  Getting past this one is strictly trial
+and error - it'll be easier for you when you know where you're going (though
+it's still very challenging).  The largest hallway has several objects placed
+near doors - use the objects to determine what room to go to when.  This board
+challenges the player both physically and mentally.
+"E5/L3": Episode 5, Level 3.  Big, big level is nothing like the original, but
+you'll hardly mind.  The largest hallway has every turn marked in a specific
+way - learning how to use the marks will make the journey much easier.
+"E5/L0": Episode 5, Level 10.  There are two trails of treasure;  both lead to
+an elevator, but each one leads to different scenarios.  This idea was
+inspired by Blake Stone: Aliens of Gold.
+"E6/L6": Episode 6, Level 6.  There are two pushwalls;  pushing either will
+block your way to the other, but will allow you to proceed to the elevator.
+Each pushwall takes you to different scenarios, but no matter which way you
+go, the other side will eventually come back to haunt you!  There's a way to
+get to the other side, but I'm not going to tell you how or where.
+"E6/L8": Episode 6, Level 8.  This level has it all: a bit of treasure hidden
+behind an object, visual spectacles, a pushwall shortcut, and movie-style
+sequences.  There's also a pushwall you can push from one side to get more
+ammo or from another side to get more health;  you get three chests of jewels
+regardless of the direction you push.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                   Revisions
+
+The following modifications have been made:
+
+Version 1.3:
+Levels: I've redone Level 1 of Episode Five and Level 8 of Episode Six.  A
+*very* minor bug with pre-saved game #8 is fixed.
+Miscellaneous: Compiled .BAT files into .COM files with a utility called
+BAT2EXEC.EXE by Doug Boling.
+
+Version 1.2:
+Levels: One level of Episode Five had a bug.  This problem was located in a
+secret area.  A door and an extra Floor Code were all that was needed to fix
+the problem.  The only change the player will notice is an additional door.
+Also note that Level Nine of Episode Six is partly redone.  The level's new
+formula is to build up the suspense.
+Graphics: I remade the graphics of the steel plating (again), the red bricks
+(they're slightly bigger now, with a little more texture), the unlocked doors,
+and the door sides.  I made minor changes to other graphics I made.
+Miscellaneous: The wording of the documentation is somewhat more compact.
+Flawed reference to Episode Four is now corrected to Episode Five (in the Bugs
+section).  The game's new story has been altered slightly, though the plot is
+exactly the same.  The Bugs section has more information on the author's
+future plans.  The documentation has a quick-reference section added for those
+who don't want to read the lengthy documentation.
+
+Version 1.1:
+Graphics: In this version, the texture of the Silver Stone Walls is improved.
+I originally made a graphical mistake with one or more of these walls, but the
+mistake was in one of the places I added texture, so the problem was fixed
+automatically.  I made minor changes to a few other wall images.
+
+    If I release future versions, I'll probably make more new graphics and
+redo one or more levels.  I plan to replace the grey brick walls, the red
+bricks, the brown canyon walls, and the blue panelling.  Expect things like
+Brown Bricks, Diamond tiles, and so on.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                     Bugs
+
+     I have thoroughly beta-tested each and every one of these new levels on
+the highest difficulty.  None of them have given me any bugs - not even "Out
+of memory!" errors.
+     The only problems occur in the original levels as well.  They are
+problems in the game itself - the EXE files.  Some of these bugs are:  Dogs
+sometimes disappearing when stopping in a doorway to bite you, two sides of a
+particular block sometimes changing into a darkened Gray Stone wall (after
+loading a saved game before starting a new game), Flashing Screen Borders
+(elaborated in MapEdit's documentation), and a technical Moving Actors problem
+(the last bug also exists with the Pac-man ghosts and the sprite of B.J.
+running at the end of Episodes One and Five).
+     When I learn the language "C" better, I plan to dig into the source code
+and fix these bugs myself.  The "Out of Memory!" errors and flashing screen
+borders will be very easy to fix;  the problem can be fixed manually by the
+player without modification to the program, but I'd rather have the game fix
+the problem automatically - don't you?
+     The new EXE file MIGHT have the menus use two digitized sounds -
+including a new sound I'd record myself.  I also plan to have the game support
+more IRQ settings.  I would also like to add six extra door images;  the doors
+would change to an unlatched image when they are moving and "latch back" to
+their original image when they've completely closed.  I think that would be a
+nice effect.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                     Story
+
+     You come home from what you thought was a successful mission and plan
+many days with your movie-star wife.  However, the General calls you a day
+later with bad news: Neither Schabbs nor Hitler were killed - you annihilated
+simple clones.  After hearing this news, you are NOT happy.
+     Though your actions DID stop Operation Eisenfaust, an even more
+horrendous plot is underway to release clones all across the world, starting
+with the U.S..  The clones will cause such confusion that the world will
+become too vulnerable to Germany, and Hitler will conquer.
+     America's best spy learns that only Schabbs and Hitler know particular
+Top Secret information involving these clones.  Without that information, the
+plan can never be carried out.  You are ordered to go back and destroy Schabbs
+and Hitler.
+     You reach the entrance of Dr. Schabbs's castle and look all around you,
+but not above you.  Seconds later, you're tackled, and you awaken in a
+dungeon, miles away from where you want to be.
+     You wittingly break the neck of a Nazi guard and snatch his gun, only
+THIS TIME someone heard you.  You start to hear footsteps, and you're ready
+for action (you hope).  Assuming you survive the dungeon threat, you
+contemplate your duty ahead, and the odds against you.
+     One man.  Thousands of enemies.  Halls ahead that are purposely built to
+confuse the escapees.  Greater threats against you than ever before.  Fail,
+and the U.S. goes to Hitler.  Win, and ... well ... the U.S. goes to Clinton
+in 1992.
+     Man, it just doesn't pay to get up in the morning.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                               Acknowledgments
+
+     I'd like to thank Bill Kirby, Bryan Baker, David Huntoon, and Warren Buss
+for MapEdit, the utility I used to make the new boards in this archive (Mr.
+Kirby was the original author of version 4.1; the other gentlemen enhanced the
+utility from there).  Without MapEdit, I never would have experienced the joy
+of making my own boards for Spear of Destiny, nor would I have been able to
+make and release these boards.  Thank you very much, gentlemen!
+     Thanks also goes to Doug Boling, who did the BAT2EXEC utility.

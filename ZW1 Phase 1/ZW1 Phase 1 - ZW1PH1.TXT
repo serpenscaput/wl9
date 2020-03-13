@@ -1,0 +1,48 @@
+ZW1 Phase 1
+
+By De Zeurkous
+
+Copyright (C) Erik Bogeholt, 2004
+E-Mail: aWolfaZeura@zonanet.nl (remove all the ``a'' characters)
+
+Document last changed: 25-05-2004
+
+Frequently Asked Questions
+
+Who are you?
+
+I'm a Dutch male, 17 years old.
+
+What is ZW1?
+
+ZW1 is a project from me to create a 60 level pack
+for the original Wolfenstein 3-D. No new graphics,
+no funky source code changes, no new sounds, but
+just levels.
+
+What other episodes of ZW1 are avaiable at the time
+of writing?
+
+None :) This is the first one. But in a month or so,
+the next one will be released.
+
+How do i install these levels?
+
+1. Install a clean copy of Wolfenstein 3-D Full Version
+   in a new directory.
+2. Extract _and_ overwrite the contents of the
+   archive ``zw1ph1.zip'' into the new directory.
+3. Run the normal EXE, and have fun!
+
+How do i contact you about these levels?
+
+Send an E-Mail to the above adress, and put
+the text ``ZW1'' into the subject line. It
+helps me sort mails.
+
+What if i find a bug?
+
+Follow the above instructions and explain
+the bug to me, where it happened (episode and
+level #), and what version of Wolfenstein 3-D
+you're using.

@@ -1,0 +1,234 @@
+^P
+^C04 WELCOME TO FOXENSTEIN 3D
+^C00
+Welcome to Foxenstein 3D, a Wolfenstein- based action shooter designed by me, the 
+Silver Fox.
+
+Project started in June 2009, finished in December 2010. Version 1.0
+
+The storyline is just like that of original Wolfenstein's third episode.
+^P
+^C04 WELCOME TO FOXENSTEIN 3D
+^C00
+The game is based on the Wolfenstein 3D engine developed by ID Software. However, 
+some new features have been added to the game:
+
+* Seamless level progression
+* New enemies
+* Seven different weapons
+* Four keys
+* Destructable columns and barrels
+* Body armor
+* Many new bonus and decorative objects
+* And more...
+
+^P
+^C04 THE STORY
+^C00
+You are Captain B. J. Blazkowicz, the best covert agent of U.S. Army. You have been 
+ordered to kill Hitler at his bunker in Germany. This task is not an easy one - Hitler's 
+bunker is heavily guarded by legions of his SS troopers under leadership of some 
+extermely tough high-ranking officers. Nevertheless, Hitler must be stopped. You 
+are the only man who can do it.
+Good luck.
+
+^P
+^C04 GAME CONTROLS
+^C00
+Arrows move. Ctrl shoots. Alt strafes. Spacebar opens doors and activates elevators 
+to next level.
+
+^C02 F1 ^L80,48
+^C00 Help
+^C02 F2 ^L90,48
+^C00 Save game (F8 for quick save)
+^C02 F3 ^L100,48
+^C00 Load game (F9 for quick load)
+^C02 F4 ^L110,48
+^C00 Sound menu
+^C02 F5 ^L120,48
+^C00 Resize view window
+^C02 F6 ^L130,48
+^C00 Controls menu
+^C02 F7 ^L140,48
+^C00 End game
+^C02 F10 ^L150,48
+^C00 Quit to DOS/Windows/DosBox/etc.
+^C02 F11 ^L160,48
+^C00 Use protable medkit
+^P
+^C04 GAME WEAPONS
+
+^C02 Knife ^C00 is the only weapon that does not use any ammo. It only can be used 
+from close range and does very little damage. Note that it can be used to take out 
+enemies silently.
+
+^C02 Pistol ^C00 is your starting weapon, it is good to fight a single enemy, but 
+not recomended against large groups of enemies or bosses. It is used by guards and 
+officers.
+^P
+^C04 GAME WEAPONS (continued)
+
+^C02 Machine Gun ^C00 can fire bullets at a continuous rate. It can easy take out 
+a small group of enemies, but it is not recomended against supertough enemies. You 
+can get a machinegun be killing an infantry unit.
+
+^C02 Chaingun ^C00 uses same bullets with the Machinegun, but fires them much faster. 
+It is recomended to use it against bosses or enormous hordes of enemies.
+^P
+^C04 GAME WEAPONS (continued)
+
+^C02 Rifle ^C00 is a very powerful weapon if you use it wisely. It is twice as powerful 
+as Pistol at close range, but it also can cause massive damage from farther ranges. 
+Its disadvantage is slower reloading time the that of the Pistol.
+
+^C02 Pulse Rifle ^C00 can fire rifle bullets with almost the speed of Machinegun. 
+It is not as accurate as the Rifle on far ranges, but it is still much more powerful 
+then the Macinegun. You can get one by killing an SS.
+^P
+^C04 GAME WEAPONS (continued)
+
+^C02 Triangular Chaingun ^C00 is the most powerful weapon you will encounter. Its 
+fire rate is three times faster then that of Chaingun. It is called 'Triangular' 
+due to its ability to fire from three of its barrels at the same time. Note that 
+it uses its unique type of ammo that is very difficult to find, so do not waste it.
+
+^P
+^C04 INTERACTIVE OBJECTS
+^C00
+If you are low on health, you can pick up some ^C02 food ^C00 or ^C02 first aid kits 
+^C00 to raise it. There are many different health items in game, including ^C02 surgery 
+kits ^C00 that will lift your health to 100%. But don't expect to find them often.
+
+
+There are also ^C02 portable medkits ^C00 that can be picked up and used later. These 
+kits add you 25% health, and you can hold at maximum two of them.
+^P
+^C04 INTERACTIVE OBJECTS (continued)
+^C00
+^C02 Ammunition ^C00 can also be found in many areas of the castle. There are three 
+different types of ammo in the game. The first ammo type is used by the Pistol, Machinegun 
+and Chaingun. The second type is used by Rifle and Pulse Rifle. The third ammo type 
+is used only by the Triangular Chaingun.
+
+The ^C02 body armor ^C00 reduces damage you take from enemy shots. It adsorbs up 
+to 50% of all damage you take. Unfortunately, armor jackets are quite hard to find.
+
+^P
+^C04 INTERACTIVE OBJECTS (continued)
+^C00
+There are locked doors in the castle that require a ^C02 key ^C00 to open. There 
+are four different keys in the game: the Gold key, the Silver key, the Bronze Key 
+and the Brass key. Each key can only be used on the level you found it on.
+
+Some walls in the castle can be pushed down to reveal hidden rooms. To push the wall 
+in front of you, just press Spacebar. Finding a secret area may sometimes make your 
+way greatly easier.
+^P
+^C04 INTERACTIVE OBJECTS (continued)
+^C00
+Some ^C02 stone columns ^C00 are rather crumbly and can collapse if you shoot them 
+for enough. Just remember that not all the columns can be destroyed. Knife also can 
+be used to damage a column if you are low on ammo.
+
+Certain ^C02 green barrels ^C00 contain explosive vapours that trigger an explosion 
+if the barrel is damaged. Unlike columns, barrels should not be attacked from close 
+range because explosion will hurt all nearby characters, including you.
+^P
+^C04 INTERACTIVE OBJECTS (continued)
+^C00
+The ^C02 landmines ^C00 will kill anyone who step on them, including you. But with 
+a little practice they can be used creatively.
+^P
+^C04 GAME ENEMIES
+^C00
+^G35,16,4
+^L110,16
+^C02 Guards ^C00 are the most common inhabitants of lower levels. They are slow, 
+weak and equipped with only a pistol. They only can be dangerous if encountered in 
+very large numbers.
+^P
+^C04 GAME ENEMIES (continued)
+^C00
+^G35,16,4
+^L110,16
+^C02 Infantries ^C00 wear bullet resistant vests and machineguns making them tough 
+characters.
+^P
+^C04 GAME ENEMIES (continued)
+^C00
+^G35,16,4
+^L110,16
+^C02 Officers ^C00 are equipped with only a pistol and not as tough as infantries, 
+but they are faster and more accurate.
+^P
+^C04 GAME ENEMIES (continued)
+^C00
+^G35,16,4
+^L110,16
+^C02 SS ^C00 are very tough and equipped with deadly pulse rifles. Even one SS can 
+be the last character you see unless you take extreme care.
+^P
+^C04 GAME ENEMIES (continued)
+^C00
+Unfortunately, that's all we know. You should expect to discover much more enemy 
+characters on upper levels of the game.
+^P
+^C04 IMPORTANT NOTES
+
+^C00 If the game runs too slow on your machine, try to run it with ^C02 noshade ^C00 
+parameter. This will disable the shading, textured flats and ingame messages, returning 
+the classic Wolf3D feel.
+
+The bosses equipped with both rocket launchers and chainguns will sometimes shoot 
+only chainguns. It's not a bug. These guys are smart enough to avoid getting wounded 
+from their own rockets, if they explode too close.
+^P
+^C04 IMPORTANT NOTES (continued)
+
+^C00 You also should know that wounded enemies (except Mechanized Hitler and Guard 
+Transporters) can use health items.
+^P
+^C04 CREDITS
+
+^C00 Game designed by Alex aka The Silver Fox, based on Wolfenstein 3D created by 
+ID Software.
+
+^C00 Used tools:
+* Borland C++ 3.1 - source code compiling.
+* Mapedit 8.4 - maps creating.
+* ChaosEdit 1.25 - graphics replacement.
+* Audio file manager - sounds replacement.
+* Paint - graphics editing.
+* Notepad - helpart and endart.
+
+^P
+^C04 CREDITS (continued)
+
+^C00 Thanks to:
+
+^C02 MCS, WSJ, Chaos Software, DarkOne
+^C00 for coding tips.
+^C02 MCS
+^C00 for memory conserving patch.
+^C02 Brian Lowe
+^C00 for publishing the game.
+^C02 WSJ and Majik Monkee
+^C00 for pictures of Snipers.
+
+^P
+^C04 CREDITS (continued)
+
+^C02 Other members of Wolf Community
+^C00 for a number of add-ons I took some
+^C00 graphics and sounds from.
+^C02 You
+^C00 for playing the game.
+
+
+^P
+^C04 QUESTIONS?
+
+^C00 Email me at
+^C01 silverfox (at) fastmail (dot) fm
+^E

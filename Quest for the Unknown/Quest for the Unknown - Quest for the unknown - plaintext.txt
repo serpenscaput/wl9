@@ -1,0 +1,189 @@
+Thank you for downloading my 4th ( or 5th Wolfenstein mod if you count my PD Wolf 
+level set ), this mod takes place after my last mod The Cold War ( all will be revieled 
+in the storyline shortly ). Now this mod uses Ling yan li's ( AK Lingyan203 ) Schabb's 
+3000 EXE and source code from the revised version, I decided to use Lingyan's Schabb's 
+3000 because A to take advantage of the advanced coding and B code editing isn't 
+really my forte with the exception of being able to do basic stuff like change the 
+colour of the ceiling of course! but Schabb's 3000 uses alot of Paal Olstad's ( AK 
+Poet ) Source code changes from his Wolfenstein mods like The Tower and also being 
+able to have more than 90 wall textures and a huge selection of sprites, I thought 
+that would be cool to be able to make the Wolfenstein mod of my dreams. In a similar 
+way that Gary Ragland's Wolfenstein mod Schabb's 2000 inspired Lingyan to make Schabb's 
+3000 Quest for the unknown was inspired by Barry Christian's Wolfenstein mod Armageddon 
+one of my favourite Wolfenstein mods of all time. Even with the advanced Source code 
+changes like Schabb's 3000 Quest for the unknown still retains the original Wolfenstein 
+feel and style which is what I'm aiming for, I'm hoping this mod will still retain 
+the original Wolfenstein feel and style more than my previous mods did, it should 
+also have better levels.  If this goes well I might use the Schabb's 3000 EXE for 
+all my future Wolfenstein and Spear of destiny mods.
+
+Storyline
+1945 ( 2nd time round )
+Not long after you battled Dr Schabb's and got blown out of the exploding facility 
+you BJ  lie in hospital in a ward recalling both events of 1945, you soon feel you 
+have recuperated and feel ready and curious to get to the bottom of this and find 
+out what's happened once and for all. Immedietly you discharge yourself from the 
+hospital and get back to work to the Allies office and ask how to go about tracking 
+this thing down known as The unknown, " well we don't know for sure but we believe 
+there might be a fortress located somewhere in the mountains on the Border of Germany, 
+we have to get our facts straight before we proceed your mission. Our gut instinct 
+tells us that there are still Nazi's fighting to keep The Third Riech alive, the 
+war is far from over, heres what we will do, we will locate this fortress and when 
+we find it we will send in some spies as Nazi officer's, Guards and SSs in disguise". 
+So as if there was a spot of luck the Allies find a fortress located in the mountains 
+on the Border of Germany, they send in some spies disguised as Nazi's and sure enough 
+the place is infested! Well BJ today is your lucky day! we must leave you and you 
+have to go the mission alone, when we leave you must enter the castle via a secret 
+entrance at the bottom of the mountains, if you fail this mission Hitler will get 
+his wish and be ressurected without a duobt, plus Schabb's mutants and poison war 
+will spell Doomsday and the whole world could be wiped out!  good bye and good luck! 
+and try to come back alive and in one piece! 
+
+The Quest for the unknown features
+60 new levels done to the highest standard I could achieve.
+Lingyan's Schabb's 3000 EXE and Schabb's 3000 source code from the revised version.
+
+Ceiling colours changed to match the wall textures mostly used in the level.
+Multiple floor colours, some levels have a different floor colour to others.
+Changed music order.
+New music imported, yes the usual trademarks epic music very much like my previous 
+Wolfenstein mods. It still retains the original Wolfenstein feel.
+
+Known bugs
+On a higher difficulty level the game may crash if you use the rocket launcher or 
+if any enimies with rocket launchers fire their weapon. This is due to the nature 
+of how the EXE was modified, Lingyan did his very best to iron out any bugs that 
+cause the game to crash but it's because this EXE has so many modifications implemented 
+it could be due to memory.
+
+
+
+Level names
+In Quest for the unknown, your mission takes place in an old fortress located in 
+the mountains on the Border of Germany, the castle is split into several different 
+units a bit like the strongholds in your previous missions.
+Level 1 The Entrance
+It's night time and you have found a secret entrance into another Nazi stronghold, 
+the only way in is via a secret entrance in the lower part of the mountains on the 
+Border of Germany. You have to climb down a narrow burrow and crawl through some 
+vines.
+
+Levels 2 - 9 Bottom castle
+This unit is the lower floors in this castle still in the lower part of the mountain 
+so expect it to be rocky at times especially level 2 which consists mostly of brown 
+rock which is part of the mountain. There may also be mutants at times and some areas 
+infested with mutants, they like to hide especially in the cavern like areas which 
+could be their habitat.
+
+Level 10 Boss 1
+Here you fight your first boss an Ubermutant, you have seen quite a few of these 
+creatures, they may look big but they go down easily.
+Levels 11 - 13 Tunnels
+You now have to go through a series of tunnels that connect to the rest of the fortress.
+
+
+Levels 14 - 16 Pipelines
+Were going down a bit deeper into the pipeline that connects the warterworks to the 
+entire castle. You must penetrate the pipelines to proceed but beware there may be 
+giant spiders lurking down there!
+
+Levels 17 - 19 Underground
+You are now below the base of the mountain, the whole place is covered in thick green 
+slime everywhere. Lost of mutants live down there, it's another mutant habitat but 
+level 19 is still used a a Secret Nazi base.
+
+Level 20 Boss 2
+Still underground you fight another Ubermutant, this is too easy!
+
+Levels 21 - 25 Bio labs
+You find your way back to the base of the mountain and end up in a series of Bio 
+labs, your are now in the nuclear powerplant that drives electricity to the entire 
+castle. There is alot of radio active waste and nuclear drums around, this place 
+might have also been used as one of Schabb's laboratories. 
+
+Levels 26 - 29 Dungeons
+Just below the base of the mountains lies a secret dungeon used to take prisoners 
+and store human waste ( not toilet waste body parts ) this place might remind you 
+of episode 1 of Wolfenstein 3D and looks most similar to the original Wolfenstein 
+levels. The wholoe place is littered with bones, blood, you name it the entire floor 
+is covered, there is also alot of prison cells.
+
+Level 30 The tunnel
+After your escape from the vile dungeons to proceed you must travel through a very 
+long and winding series of tunnels to get to the next part of the Castle located 
+in Hamberg. It's a very long journey and you will face Tranz Gross guarding one of 
+the keys you need to escape.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits 
+First off I would like to thank Id Software for Wolfenstein 3D, Spear of destiny 
+and the Wolfenstein source code, without them you wouldn't be playing this mod right 
+now!
+Form Gen Corp for the 2 Spear addons Return to Danger and Ultimate challange.
+Ling yan li ( AK Lingyan203 ) for Schabb's 3000 which comes with a taloured MapEdit 
+as part of the package ( makes mapping much easier ) and for releasing the Schabb's 
+3000 Source code, it's because of that this mod is what it is, thank you so much, 
+I could never have achieved some of the major modifications like 90+ wall textures, 
+Paal Olstad's ( AK Poet ) tutorials like adding a rocket launcher, poison puddles. 
+
+Also the Wolfenstein community for additional Source code tutorials I might have 
+implemented.
+
+All content from the vswap graphics is from a variaty of different sources ( most 
+of which was already included in Schabb's 3000 ) all credit is given to rightfull 
+owners I do not claim anything that doesn't belong to me. I also did several recoloured 
+variations of certain wall textures from Wolfenstein and Spear of destiny.
+The new inported music is from a variaty of sources including a few songs from Rise 
+of the triad, all credit goes to rightfull owners and composers. 
+
+Hopefully this won't be my last Wolfenstein mod, stay tuned for future Wolfenstein 
+mods.
+
+And is you liked Quest for the unknown you may want to try my previous Wolfenstein 
+and Spear mods
+1945 End of the Third Riech My very first Wolfenstein mod which is what started it 
+all off. It's 1945 and your mission is to fight Hitler, locate Dr Schabb's Secret 
+Bunker and destroy The Third Riech
+The Spear My 2nd Wolfenstein mod, story takes place before End of the Third Riech. 
+Find the Spear at the top of Castle Numenberg and this will be your first step to 
+stopping Hitler.
+The Cold War My third Wolfenstein mod, in 1946 the surviving Nazi's were granted 
+access to a Time machine. It's 1945 once again but the cource of future events has 
+been changed.
+PD Wolf This doesn't really count as a Wolfenstein mod and has absolutly nothing 
+to do with the storyline to this mod. This is a level set for Wolfenstein 3D that 
+was done in connection with Wolfenstein's 20th anniversary, the emphasis is levels 
+plus there are some new wall textures included and basic EXE changes but the original 
+Wolfenstein feel and theme is still intact.
+I also have a new YouTube channel where I do video game commentaries mainly for Wolfenstein 
+addons but I also have a complete playthrough of Lingyan's Rise of the triad level 
+pack TNT.
+Heres the link to my YouTube channel <https://www.youtube.com/user/PDGamer2012?feature=guide>
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+

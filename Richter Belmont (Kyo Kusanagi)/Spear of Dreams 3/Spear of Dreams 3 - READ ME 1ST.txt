@@ -1,0 +1,16 @@
+"Weapons" 
+No ammo: Knife
+9mm ammo: Olg Magunm, Impactcannon, Hunter.
+.756 ammo: Buzzsaw.
+.50 ammo: Talon. (Note, Talon can be found only if u kil a Triad Officer ONLY!!!!! 
+and Its Ammo!!!)
+
+"Emenies"
+Triad Gruad
+Triad High Gruad
+Triad Strike Team
+Triad Officer
+Dog
+
+If u Pick up a weapon that need Diffrnet type of Ammo Change your weapon u will Find 
+Ammo.

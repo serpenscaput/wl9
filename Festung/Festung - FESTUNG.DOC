@@ -1,0 +1,91 @@
+
+Extra levels for Spear of Destiny Mission One Configuration
+From the imaginuity of Robert S. Bradbury @COMPSERVE 75561,1550
+
+This is FREEWARE and if you don't like it, you are free to change it to your
+tastes and I will not be insulted- you'll still be using my creativity as a
+foundation!
+
+These levels are in no way connected to Id or Apogee Software nor the
+FormGen Corporation. If I made a mistake don't call them! (Don't call me
+either- "Just deal with it trooper!")
+
+I really hope that FESTUNG is appreciated for it is not just random pieces
+thrown together. I followed the discipline that form is the result of proper
+planning and order. My levels are mainly linear in scope without being 
+overly "mazey," although I do have mazes in the levels. 
+
+Be especially careful in navigating the tighter areas though, for they are
+a bit more hazardous! Festungs or fortresses are not known for creature
+comforts or roominess. Remember during the Nazi scourge a favorite past time
+was confining as much of the populace as possible, hence all the detainment
+areas!
+
+I set my floor codes so my soldiers will answer some times with a shot 
+being fired, some will wait and some will run and hide to bushwhack you!
+You may have cleaned an area to only come back and find one in wait for you
+if you get too careless!  MAK SCHNELL SCHWEINE HUND!
+
+About finding secret areas, I have taken some of the pain out of it! I put
+a universal clue to all of the areas saying you are close. But just because
+you see the hint does not mean a secret area is nearby. Placement is the
+key! Okay, the universal hint item is what you can't squeeze from a rock!
+
+My keys follow a linear progression in the progress of the level, they are
+not placed in a niche in some dusty corner- remember the Nazis were orderly!
+
+Here is a suggestion that you can use to make changing your gamemaps and
+mapheads a lot less painful. Before you install my files in your Spear of
+Destiny, copy your GAMEMAPS.SOD and MAPHEAD.SOD to a floppy. Now is the neat
+trick. If you collect a lot of maps, as I do, copy them to their own sub-
+directories and add these two custom files to each subdirectory:
+
+ COPY *.SOD %1 <Y.TXT (Name and save this one liner as SWAP.BAT)
+ Y   (Name and save this one character as Y.TXT)
+
+If you placed these two files in every subdirectory that have maps, then
+all you have to do to change missions is to exit your game, put in the disk
+with your files in the appropriate floppy drive and log to the subdirectory
+with your desired mission files. Follow me so far!? Now let us assume that
+your Spear of Destiny is on your C:\ drive in \SPEAR or C:\SPEAR, you need
+to only type on the DOS command line  SWAP C:\SPEAR and your files are 
+copied to your Spear of Destiny game without any error or "do you want to
+overwrite" prompts because the Y.TXT file answers for you!
+
+If you really want to be slick and save space you can pkzip your two files,
+run the zip2exe program on the archive to make it self extracting and embed
+it in the SWAP.BAT instead. Let us say you named your self extracting file
+FESTUNG.EXE all you have to do to make a proper SWAP.BAT is:
+
+FESTUNG %1 <Y.TXT (Save as SWAP.BAT of course)
+
+When you run this, instead of the copy command, pkzip will still flash the
+"overwrite?" prompt but you don't have to answer- it will do the right stuff
+without any further input. You still use the SWAP C:\SPEAR entry though!
+
+Here is one much coveted "Cheat Code" that is not widely known. If you
+purchased the CD-ROM version of Spear of Destiny put out by FormGen you are
+undoubtedly ticked at being a victim of a documentation check as a form of
+copy protection. You know the routine! Apogee has released Spear of Destiny
+without the copy protection- for those that are possessors of the earlier
+FormGen version- just type SNOOPS at the documentation check and stop 
+fumbling for your manual. You can also make a simple batch file and call it
+BACKDOOR and have it load Spear for you and bypass all the opening screens!
+
+ECHO OFF
+CLS
+SPEAR -DEBUGMODE -NORMAL -TEDLEVEL
+
+Save as BACKDOOR.BAT and your Spear will bypass the documentation check
+altogether, put you in debugmode, have you in the bring 'em on skill level,
+and on floor one! (You still have to activate using the LEFT SHIFT, LEFT ALT
+and Backspace keys.)
+
+Look for the file WOLFMAP#2.zip on this BBS and if you have David Lummis'
+Wolfmap V1.2 this will give you some batch patches that will let you make
+maps of your Spear of Destiny levels! I know of no other routine that is
+capable of making maps for the Spear series of Wolfenstein 3D.
+
+
+Enjoy and happy hunting! GUT HEIL!
+Herr Bradbury saying Auf Wiedersen

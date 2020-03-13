@@ -1,0 +1,15 @@
+Az uj palyakat DobaySoft (dobaysft@freemail.hu) keszitette! Ha tetszik, szolj ide!
+
+
+Info:
+-----
+Ez a palyacsomag az elso epizod 1-5. palyajat, a masodik epizod 1-3. palyajat, es 
+a harmadik epizod 1. palyajat csereli le.
+
+Installalas:
+------------
+Masold be a gamemaps.wl6 ill. maphead.wl6 fileokat a wolf3d-d konyvtaraba, aztan 
+inditsd el. Ennyi.
+Ajanlom, hogy mentsd ki az eredeti gamemaps.wl6 es maphead.wl6 fileokat, mert kulonben 
+a regi palyak elvesznek!
+

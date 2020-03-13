@@ -1,0 +1,73 @@
+Título                    : El Rastro de Stteinger
+Autor                     : Juan Domingo Belmonte Medina (JDooM)
+E-Mail del autor          : jdoom@correoweb.com
+Página Web                : http://www.geocities.com/jdoom2k/jdoom.htm           
+                                                                                 
+                                                                                 
+                                                                                 
+           
+Información del autor     : Me encanta el Wolf3D!!!
+                            
+Información del mapa      : Se trata de un pequeño episodio para Wolfenstein 3D, 
+con 6 mapas.
+                            Te advierto, la dificultad es grande, así que no esperes una misión 
+                            sencilla ;). 
+
+Créditos Adicionales      : A el creador del MapEdit
+                            A ID SOFTWARE por el excelente Wolf3D :)
+                                      
+=============================================================================================
+
+*Información del mapa*
+
+Juego                     : Wolfenstein 3D
+Niveles                   : Del E1M1 al E1M6 
+Modos de Dificultad       : Sí
+Nueva Música              : No
+Nuevos Sonidos            : No 
+Nuevos Gráficos           : No
+
+=============================================================================================
+
+*Construcción*
+
+Base                      : Pequeño episodio para Wolfenstein 3D, diseñado y construido 
+por mí
+                            al 100%
+Tiempo Empleado           : Mmmmmm, alrederor de 5 o 6 horas                     
+       
+Editores Usados           : MapEdiT
+Errores Conocidos         : No se porque, pero algunos sonidos no se escuchan...el 
+más notorio
+                            es el de las puertas al cerrarse y abrirse (no se escucha). 
+
+
+=============================================================================================
+
+*Instalación*
+
+OJO; LEE ESTO DETENIDAMENTE: ES MUY IMPORTANTE QUE TENGAS UNA COPIA DE SEGURIDAD 
+DEL WOLFENSTEIN 
+O DE LOS ARCHIVOS "MAPHEAD" Y "GAMEMAPS" QUE SE ENCUENTRAN EN TU DIRECTORIO DEL WOLF3D 
+ANTES DE 
+PROCEDER, YA QUE SI NO LO HACES PERDERAS AL WOLF3D ORIGINAL!!! (y no aceptare ni 
+respondere mails
+en los que me digan que perdieron su Wolf3d :P)
+
+Descomprime todos los archivos de "rastjd" en tu directorio del Wolf3d. Ahora, ejecuta 
+el wolf
+como normalmente lo haces y comienza un juego en el primer episodio...y eso es todo, 
+a disfrutar!!
+
+Para desinstalarlo unicamente borra los archivos "maphead" y "gamemaps" 
+=============================================================================================
+
+*Copyright*
+
+Tú puedes distribuir este episodio vía e-mail, en disco de 3.5 o en un CD, siempre y cuando INCLUYA
+ESTE DOCUMENTO INTACTO.
+
+=============================================================================================
+
+JDOOMW@DS
+=============================================================================================

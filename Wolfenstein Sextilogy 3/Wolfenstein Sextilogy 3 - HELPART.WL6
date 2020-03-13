@@ -1,0 +1,119 @@
+^PAGE 1
+^c7eQUICK COMMAND REFERENCE
+^c00
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to DOS
+,			 Strafe left (Win32 only)
+.			 Strafe right (Win32 only)
+
+^PAGE 2
+^C7E WELCOME!
+
+^C00Thank you for download the Wolfenstein Sextilogy, a 60-level recreation of the 
+original Wolfenstein episodes in the vein of classics like Conflict in the Fatherland 
+and others.
+
+The Wolfenstein Sextilogy uses several source code changes, not to change gameplay 
+or add new features, but to grant more freedom to develop levels that would crash 
+the original game, and extend rather than change the game.
+^PAGE 3
+^c7E DOS FEATURES
+^C00* Protected-mode engine capable of using more memory than the original
+* Raised engine limits to allow more expansive and more challenging levels.
+* Over 70 music tracks provide each level with unique music.
+* New ceiling colors to fit with the levels.
+* New status bar and menu graphics
+* New HELPART and ENDART.
+* Level titles displayed on "Get Psyched!" screen.
+* 60 all-new levels in six episodes.
+
+^PAGE 4
+^c7E WIN32 FEATURES
+^c00* The DOS engine's features plus...
+* Light diminishing for darker, more realistic levels.
+* Full floor/ceiling textures like in Doom.
+* High resolution graphics with aspect ratio correction.
+* Doom-like controls with two button strafe.
+* Customizable volume levels.
+* Additional graphics and sounds not available in the DOS version.
+
+^PAGE 5
+^C7ESTORY
+
+^c00You are William J. "B.J." Blazkowicz, the favored heavy hitter of the OSS for 
+the toughest, messiest assignments. While investigating supposed biological experiments 
+being carried out in western Germany, you were surrounded by German soldiers and 
+imprisoned in nearby Castle Wolfenstein, awaiting execution.
+
+As the guard comes in to take you away to the interrogation room, you overpower him 
+and strangle him to death. His only weapon is a Luger P08 with eight rounds.
+^PAGE 6
+An SS soldier and two guards patrol outside your cell. It will be a tricky escape, 
+but you hope to catch the SS with his back turned, shoot the two guards, and then 
+gun the SS down and take his MP-40, which you'll certainly need. You must escape 
+from this place and get back to Castle Hollenhammer, the supposed headquarters of 
+the bioengineering program.
+
+There are over a thousand soldiers in Castle Wolfenstein, and now every one of them 
+will be on the lookout for you. Good luck, B.J. Blazkowicz!
+^PAGE 7
+^c7eEPISODES
+^c2eEpisode 1: Belly of the Beast
+^c00No mere prison will stop you! You must escape from the dungeons of Wolfenstein 
+and continue your investigation of Operation: Eisenfaust. Nine floors stand between 
+you and freedom.
+
+^C2eEpisode 2: Killer Instinct
+^c00In the bowels of Castle Hollenhammer lie creatures more terrible than any Nazi 
+soldier. Discover the horrible truth behind Operation: Eisenfaust and stop Dr. Schabbs 
+from carrying out his plans!
+
+^PAGE 8
+
+^c2eEpisode 3: Decapitation Strike
+^c00World War II is drawing to a close.As the iron fist of Russia hammers the gates 
+of Berlin, you are sent on a covert assignment into the heart of the Chancellery 
+building with one objective: Terminate Adolf Hitler!
+
+^c2eEpisode 4: Giftkrieg
+^c00The year: 1942. Dr. Heinrich Krist has developed new, deadly chemical weapons 
+to be used in "Giftkrieg"--poison war. Destroy Heinrich Krist and his weapons of 
+mass destruction before the world falls!
+
+^PAGE 9
+
+^c2eEpisode 5: Assault on Erlangen
+^c00Dr. Krist's dying words have led you to Erlangen, where the plans to Giftkrieg 
+are being held. Find the plans and track down General Fettgesicht, the mastermind 
+of Giftkrieg!
+
+^c2eEpisode 6: Critical Point
+^c00You descend into Fettgesicht's bunker with eight hours left before the beginning 
+of Giftkrieg. Defeat Fettgesicht and destroy the Giftkrieg program forever, or Hitler 
+will rule the world!
+^PAGE 10
+^C7eROME WASN'T BUILT IN A DAY...
+^c00Since 60 levels take time to make, only the first three episodes of The Wolfenstein 
+Sextilogy are included in this release. Spanning 30 levels, these three episodes 
+represent a formidable piece of work, but there is more to come. Further episodes 
+will be released as they are completed, each episode release containing all the previous 
+episodes as well. Check the news page at Wolfenstein 3-D Dome at http://www.wolfenstein3d.co.uk 
+for updates.
+^PAGE 11
+^C7eCASTLE WOLFENSTEIN AWAITS!
+
+^C0030 massive levels lie ready to be scoured clean by your guns, so what are you 
+waiting for? Go out there and give those Nazis a little what for!
+
+^C1a--Executor
+spaceforce-temp@hotmail.com
+^c00(ESC to return to menu.)
+^E

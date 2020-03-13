@@ -1,0 +1,365 @@
+
+
+-= ACHTUNG! =-
+
+     It's..
+
+
+
+      ..Lazy Jones'
+
+
+      U   U   L       TTTTT   RRRR     AAA    W   W    OOO    L       FFFFF
+      U   U   L         T     R   R   A   A   W   W   O   O   L       F
+      U   U   L         T     R   R   A   A   W   W   O   O   L       F
+      U   U   L         T     RRRR    AAAAA   W   W   O   O   L       FFF
+      U   U   L         T     R R     A   A   W W W   O   O   L       F
+      U   U   L         T     R  R    A   A   WW WW   O   O   L       F
+       UUU    LLLLL     T     R   R   A   A   W   W    OOO    LLLLL   F
+
+
+               -= Gravis Ultrasound Support for Wolfenstein3D =-
+
+				- Version 1.31 -
+
+
+
+Note for Distributors
+---------------------
+
+UltraWolf may be freely distributed (PD). It may and shall be copied via
+bulletin board systems, diskettes or other media without any restrictions.
+In other words:
+
+                           SPREAD IT or LEAVE IT :)
+
+
+
+READ THIS MANUAL FIRST!
+-----------------------
+
+If you have any devices that may conflict with the standard Ultrasound
+settings then read the manual completely! I will not feel responsible for any
+data loss you may encounter due to the use of this program!
+
+
+
+What is UltraWolf?
+------------------
+
+If you like Wolfenstein3D and are not too impressed by that (IMHO f*cking)
+SB, SBPro, SBPro++, SBPro16ý (ahem) and compatible cards, you will (hopefully)
+love the UltraWolf package: It will redirect Wolfenstein's digital audio
+output (say: samples) to your Ultrasound card. (Sounds not too exciting, eh?
+But there's more: ) Using the UltraWolf software, you will be able to hear up
+to 14 screams, eh, samples ;) at the same time. That means, you will no longer
+be forced to release the trigger when shooting that bad guy >:-> You will also
+be able to make out the distance and location of your enemies. Furthermore,
+you can modify any of the samples to your like. And as if that is not enough,
+you can listen to your favourite mods during gameplay. UltraWolf uses your
+Ultrasound card's capabilities directly, that means you won't need SBOS or
+similar drivers.
+
+
+
+Memory requirements
+-------------------
+So far, UltraWolf needs about 80k of memory (16k program, 64k songbuffer).
+The songbuffer will not be allocated when disabling the modplayer (opt /DM).
+
+
+
+Installing UltraWolf
+--------------------
+
+First of all you should enter Wolfenstein and disable all sound output in
+the options menu. I don't know if this is necessary but you may encounter
+problems if you have any other soundcard besides the Ultrasound installed.
+Copy all UltraWolf files to your Wolfenstein directory or create a new dir
+where you put all UltraWolf files (see 'commandline parameters'). The files
+UWINS1.EXE and UWINS16.EXE should reside in your Wolfenstein3D directory
+(they can be deleted later on). I also suggest that you put ULTRAWLF.EXE in
+your Wolf3D directory. Make a backup of your WOLF.EXE or WOLF3D.EXE files
+since once they have been patched they will only run in conjunction with
+UltraWolf. If you have the shareware game then run UWINS1.EXE (you may have
+to rename WOLF3D.EXE to WOLF.EXE first), if you have the commercial version
+1.1 (hope you paid for your copy) run UWINS16.EXE.
+
+UWINS will patch the WOLF (shareware) or WOLF3D (commercial) executables to
+make them work with the UltraWolf device. I have tested UltraWolf with the
+shareware version 1.0 and the commercial version 1.1 (parts 1-6), and it's
+highly unlikely that UltraWolf will run with other versions. If your version
+is not compatible with UltraWolf try to get the shareware version 1.0.
+
+Once UWINS has patched your Wolfenstein copy you may delete the UWINS*.EXE
+files. From now on, every time you want to play Wolfenstein3D you'll have to
+install the memory resident UltraWolf driver first. The batchfile GO.BAT will
+do that for you but you may have to modify it first. UltraWolf will not check
+the DOS environment variables so if you don't want UltraWolf to use the
+standard Irq (11) you must tell UltraWolf which interrupt to use. In addition,
+you may have to tell UltraWolf where to search for the sound files.
+
+If all UltraWolf files reside in your Wolfenstein3D directory and your
+Ultrasound card configuration is standard you may run GO.BAT now. If not,
+read on and change the batchfile to suit your needs.
+
+
+
+Commandline parameters
+----------------------
+
+There are a few options you can give UltraWolf on the way:
+
+/Bn	-> n indicates the baseportaddress of your Ultrasound card. You can
+	   use this option if your computer locks up when executing UltraWolf.
+	   Valid values for n are: 210, 220, 230, 240, 250, 260.
+
+/In	-> n indicates the Ultrasound interrupt you want UltraWolf to use.
+	   The default IRQ is 11.
+	   Valid values for n are: 2, 3, 5, 7, 11, 12, 15.
+
+/DS	-> disable sound fx. This way you get a chance of checking out the
+           modplayer even if your card has only the standard amount of 256K
+           onboard memory.
+
+/DM	-> disable modplayer.
+
+PATH	-> a commandline parameter not beginning with '/' will be interpreted
+	   as a path to an UltraWolf directory. UltraWolf will search all the
+	   needed files in the indicated directory instead of the current
+	   directory.
+
+Calling ULTRAWLF when installed already will remove it from memory.
+
+
+
+Modifying samples
+-----------------
+
+Included with this package are a number of files which end with .SND. These
+are (did you think?) the samples that are cached to the GUS-DRAM by UltraWolf
+The samples have been ripped from the VSWAP.WL? data file and, to make them
+fit into 256K, some of them have been slightly modified (I haven't figured out
+yet how to rip them automatically). If your card's onboard memory has been
+extended you may use larger samples, of course. To use your own samples simply
+copy them over the corresponding WOLF??.SND files (see below) and change the
+frequency and basevolume for these samples in the UWOLFSMP.INF file.
+
+The UWOLFSMP.INF file may look like this:
+
+------------------------------------ BoF --------------------------------------
+8000, 65535		; WOLF00.SND - 'halt stop'
+8000, 65535		; WOLF01.SND - 'achtung'
+4000, 30000		; WOLF02.SND - 'swinehunt'
+...
+8000, 20000		; WOLF2D.SND - 'mein leben!'
+------------------------------------ EoF --------------------------------------
+
+
+Explanation:
+
+
+8000, 65535		; WOLF2D.SND - 'mein leben!'
+
+^     ^			^
+|     |			|
+|     |			+--- this character indicates that a comment is
+|     |			     following (optional)
+|     |
+|     +--------------------- (decimal) basevolume for the sample. The sample
+|			     will be played with this volume when the player's
+|			     location is equal to the sound source.
+|
++--------------------------- (decimal) sample frequency
+
+
+The infofile must contain 46 entries like the above.
+
+If you i.e. wanted to change the third sample you would have to copy your
+sample over WOLF02.SND (counting from 00) and then change the parameters in
+the third line of the info file. Note that if you wanted to change the 11th
+sample you would have to overwrite WOLF0A.SND, not WOLF10.SND, but you already
+knew that, right? BTW: There may be no empty lines or pure comment lines in
+the info file.
+
+Note: The samples are stored as raw unsigned 8-bit data. You can directly use
+samples you recorded with USS8.
+
+
+
+How to install your personal combat tunes
+-----------------------------------------
+
+If you have extended your GUS' onboard memory to at least 512KB then you can
+listen to your favourite MODs during gameplay. Just like the UWOLFSMP.INF
+infofile you can easily manipulate the UWOLFMOD.INF info file.
+
+The UWOLFMOD.INF file may look like this:
+
+------------------------------------ BoF --------------------------------------
+nowwhat3.mod,	40,	 3,12,12, 3, 7, 7, 7, 7		; Levels 1.1 & 4.1
+covergir.mod,	30,	 3,12,12, 3, 7, 7, 7, 7		; Hiscore
+...
+------------------------------------ EoF --------------------------------------
+
+
+Explanation:
+
+nowwhat3.mod,	40,	 3,12,12, 3, 7, 7, 7, 7		; levels 1.1 & 4.1
+
+^		 ^	 ^  ^  ^  ^  ^  ^  ^  ^ 	^
+|		 |	 |  |  |  |  |	|  |  |		|
+|		 |	 |  |  |  |  |	|  |  |	 	+- comment following
+|		 |	 |  |  |  |  |	|  |  |		   (optional)
+|		 |	 |  |  |  |  |	|  |  |
+|		 |	 +--+--+--+--+--+--+--+----------- (decimal) pan
+|		 |				   	   positions for
+|		 |					   channels 1 to 8
+|		 |
+|		 +---------------------------------------- (decimal) song's
+|							   mastervolume
+|							   percentage
+|
++--------------------------------------------------------- filename of your
+							   favourite MOD
+
+
+The infofile must contain 28 lines like the above describing 28 different (or
+not) songs. So far as I know only 25 or 26 of them will be played, but I'm not
+sure about this.
+
+The modplayer is not perfect but supports most of the commonly used Protracker
+functions and 4-8 channels mods (M.K., FLT4, ?FLT8, 6CHN, ?8CHN, ?M!K!). It's
+also able to play UltraTracker(1.3) songs (limits: 64k songsize; 8 bit samples
+only; up to 10 channels).
+
+(? = not tested)
+
+Unimplemented functions so far:
+
+- All functions that affect the finetuning of samples are ignored.
+- Inverted loop
+- samples > 64K
+- all UltraTracker-specific commands except balance sweeping
+
+However, the player does quite well with the all mods I've tested it with
+(now what 3, space debris, human target, umgah, comandr, bloood ...), although
+vibrato & tremolo sound a bit distorted... underworld sounds a bit funny, too.
+
+
+
+Aaaarrrggh... that shitty little program doesn't work!
+------------------------------------------------------
+
+Q:	When I run Wolfenstein3D there's only silence.
+A:	- Have you patched the WOLF/WOLF3D executables? (Silly question but
+	  there are people who don't RTFM...). If not do it now.
+	- Your copy of Wolfenstein3D may not be compatible. Better don't run
+	  the patched game anymore, strange things may happen. Try to get the
+	  shareware version 1.0 for now. Future versions of UltraWolf (if any)
+	  may support your version of Wolfenstein.
+	- It may be due to a bug (see below). Simply uninstall UltraWolf and
+	  run it again.
+
+Q:	When I run Wolfenstein3D I hear only noise.
+A:	- If you have loaded SBOS, MEGAEM or any other resident programs that
+	  deal with the Ultrasound card -> throw them out!
+
+Q:	Wolfenstein locks up as soon as it's started.
+A:	- Try using the command line parameters for setting the Ultrasound
+	  baseport and irq. UltraWolf won't check the DOS environment vars.
+	- If that fails, your copy of Wolfenstein3D may not be compatible with
+	  UltraWolf. Again, try to get the shareware version 1.0.
+	- If you have the shareware version 1.0 then maybe someone has tampered
+	  with it. Try to get a clean copy without trainer and such stuff.
+
+Q:	My Ultrasound card has more than 256K of onboard memory but none of
+	the mods will be played.
+A:	- Check the path you've started UltraWolf with. If you i.e. started
+	  UltraWolf in it's own directory without a pathstatement and then
+	  switched to the Wolf3D directory, UltraWolf won't be able to locate
+	  the mods you're refering to. Specify a full path to your UltraWolf
+	  directory in that case.
+	- If also no sound effects are played it may be due to a bug (see
+	  below). Simply uninstall UltraWolf and run it again.
+
+Q:	A particular mod won't be played.
+A:	- Check the UWOLFMOD.INF infofile for spelling of filenames. The
+	  suffix (.MOD or whatsoever) must be appended to the filename.	The
+	  filename may not consist of a path plus a filename. Also check the
+	  mastervolume setings.
+	- The modfile is not one UltraWolf recognizes. Try any other.
+
+
+
+Known bugs
+----------
+
+- Some samples (attacking dogs, elevator) will not be played in the shareware
+  version.
+- not yet clickfree (SHAME!ý) but I'm working on it.
+
+
+
+Fixed bugs
+----------
+
+Version 1.2
+- version 1.1 enabled irq11 whenever the sampleupdateroutine was called. This
+  may have caused trouble on some machines.
+- haven't had the 'silence'-bug for a long time now. It seems the irq-handler
+  is now initialized correctly.
+- removed some clicks (Underworld sounds a bit better now...)
+- tremolo & vibrato fixed (hope so)
+- arpeggio fixed (subtracted halfnotes ;)
+- delay_note & retrig_note fixed (missed 1 VB)
+
+Version 1.3
+- volslide fixed (A11 slides up now)
+- set_sampleoffset fixed (didn't check boundaries)
+
+Version 1.31
+- fixed nasty nasty nasty bug... UltraWolf hanged when entering levels 2 or 6.
+  should work now.
+
+
+
+Extensions
+---------
+
+Version 1.2
+- implemented the set_bpm command
+- accepts UltraTracker modules now
+- effect E8x (0-F) sets the pan position of a voice
+
+
+
+What else?
+----------
+
+Hope I didn't forget anything. Thanks and greetings go to:
+
+- Renaissance for the UltraDox (and great PC demos of course)
+
+- Gravis & Forte for creating the best PC-soundcard at a fair price.
+  (Got a priceless daughterboard left? ;)
+
+- ID & Apogee for the technically best PC-Game I've ever seen (Wolfenstein3D
+  was the reason why I bought my 386)
+
+- All groups and programmers who support the GUS
+
+
+
+Hope you enjoy my little hack. Now go and GET PSYCHED! And watch your back!
+
+
+
+					----------------
+					Lazy Jones, 1993
+					----------------
+
+					If you, for any reason want to
+					contact me, leave me a mail:
+					MEDIA-BBS (+49-40-6779553)
+

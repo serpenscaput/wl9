@@ -1,0 +1,510 @@
+"Operation: Hundscheisse" (DOS and SDL version) help/mini manual 
+
+Greetings!  Thanks for downloading Operation Hundscheisse!  There is an online web 
+site devoted to this game, but in case you don't have access to the net, or just 
+want some quick help or reference material, this mini manual will save you a visit 
+to the site.  Just in case you don't know the site address, it's:  http://www.angelfire.com/droid/majikmonkee/OHSpage.html
+
+
+
+
+Known Problems:
+
+OHS was designed to be as "glitch free" as possible.  Of course, nobody is perfect, 
+and neither is any program I know of, so here's the known problems with OHS.
+
+DISPLAY ISSUES - Occasionally, after completing certain levels, a small gray box 
+will appear in a certain area of the score tally screen.  This won't affect gameplay 
+in any way, and only appears at menu screens.  Saving your game and restarting the 
+program usually gets rid of it.  Like I said, it doesn't affect game play in any 
+known way, it's just slightly annoying.  Likewise, after extended playing, certain 
+wall textures will appear differently than intended, usually as plain gray brick 
+walls here and there.  It will usually be obvious, and they will look out of place. 
+ This is a problem inherent in the SOD engine, and restarting the program will take 
+care of this.
+
+OTHER ISSUES - I don't know of any other problems currently. If your PC does not 
+want to run OHS, check out some of the troubleshooting tips on the web for running 
+Wolfenstein 3D in general. I don't really want to get into all of that here. Wolfenstein 
+doesn't seem to like Windows, so try running it in DOS mode if you are not already.
+
+
+If you discover any other issues or glitches, let me know, and I'll add them to future 
+versions of this document.
+
+
+
+Story: 
+
+The full story is pretty long, so this is just going to be a shortened version with 
+the important details included in it.  By the way, sooner or later, someone is going 
+to notice the similarity anyway, so I must give credit for the inspiration for this 
+game's plot to the "Medal of Honor: Underground" secret level called "Where Beagles 
+Dare".  If you've never seen it before, it's hilarious, and an absolute must.  Anyway, 
+here's the story...
+
+During WWII, there was an officer named Fett Schwanz, who none of the other Germans 
+liked, because he was a bit rough around the edges, and a little...well...crazy. 
+ They didn't want him leading troops on the front lines, but they couldn't get rid 
+of him either, so they stuck him in a remote castle on the German countryside where 
+he was ordered to "guard" some important German treasures (including the remains 
+of the Angel of Death), and await further orders.
+
+Well, the war ended, and the Nazis were defeated, and Fett Schwanz was totally forgotten. 
+ It wasn't until a delivery man came by one day and let it slip that Schwanz discovered 
+the Fuhrer was defeated, and he'd been wasting away in Castle Schwanz for years for 
+nothing.  This made him a little angry, and he resolved to get revenge for the fall 
+of the Nazi party one way or the other.
+
+It wasn't hard for Schwanz to find out who had defeated Hitler...BJ's name was pretty 
+much a household word by the time Schwanz first heard it.  He discovered that BJ 
+had retired a long time ago, and was currently a farmer in Mississippi, trying to 
+spend his last years in quiet seclusion, free from both the fame from his war accomplishments 
+and the ghosts that haunted  him from all the battles he'd fought.  Well, he wasn't 
+finished fighting yet, he just didn't know it.
+
+Even though, through scientific methods, Fett hadn't aged much since the days of 
+the war, his men had all grown old and retired, so Fett set about recruiting a new 
+"army" of next generation militant Nazi sympathizers, and made his way to America. 
+ His men were able to forge the necessary papers to move through immigration, and 
+before long, Schwanz had established himself in an abandoned prison, Deedend Penitentiary, 
+not far from BJ's farm in Mississippi.
+
+Schwanz spent several months preparing his forces to not only destroy BJ, but eventually 
+spread across the face of the country that sent BJ in the first place, the USA.  
+Being that he was very fond of dogs and trusted them more than humans, he bred genetically 
+enhanced dog troopers to strengthen his army.  In addition, he used a variety of 
+scientific knowledge and equipment to create a host of other creatures and freaks 
+to guard the Deedend stronghold.  With an almost endless supply of money (from the 
+treasures he'd been protecting at Castle Schwanz), Fett was able to purchase large 
+quantities of illegally supplied weapons to outfit his troops.  It seemed there was 
+nothing to stand in the way of him and his plans for conquest...and revenge.
+
+Anyway, one night, while BJ was out tending to farm buisness, Fett decided to make 
+his move.  A horde of dog troops appeared out of nowhere and tried to kill BJ, and 
+burned his farm down.  BJ managed to escape, and ran in the direction of the supposedly 
+abandoned Deedend Penitentiary.  Seeing lights on inside, he snuck in through a forgotten 
+back entrance, but realized right away that the inhabitants were not friendly.  BJ 
+was able to determine that Penitentiary was the source of the dog troopers, and whoever 
+was behind the assault on his property and life.  Even though BJ was well into his 
+70's, and carrying nothing but a slingshot he used to scare off wild animals, he 
+decided it was time for one last battle with the Nazis...and this time, it was personal!
+
+
+
+
+Controls: 
+
+The standard controls are whatever you set them up to be.   There are a couple of 
+features in OHS though that you won't find in other Wolf3D games (most of the time).
+
+
+"F11" key - This will hide your weapon from your view.  This is useful if you are 
+using a weapon that takes up a lot of the screen (like the #3 slingshot), and want 
+to see better what's in front of you.  You can bring your weapon back up by pressing 
+F11 again, or by pressing the "fire" key twice.
+
+"X" key - Having trouble aiming accurately with your slingshot?  No problem.  Pressing 
+the "x" key will bring up a state of the art laser sight you can use to achieve pinpoint 
+accuracy when firing.  If it gets too annoying, you can make it go away by pressing 
+"x" again.
+
+
+
+Difficulty Settings:
+
+Even though there will be four different difficulty settings to choose from when 
+playing OHS, they are actually very similar.  The only difference between them will 
+be the amount of damage enemies dish out, and how much they can take.  Unlike a lot 
+of other Wolfenstein based games, choosing an easier or more difficult game setting 
+will not affect placement or number of enemies you will face.  Still, if you are 
+having trouble with bosses, choosing an easier setting will make the boss battles 
+easier for you, just as a harder setting will boost he challenge if things are too 
+easy.
+
+
+
+Enemies: 
+
+There are lots of enemies in OHS, some of which appear in the original Spear of Destiny. 
+ The good news though is that if you know what enemy each OHS enemy is based on from 
+the original game, you should be prepared for the challenges you'll face.
+
+Dog - Exactly the same as the dogs from the original Wolfenstein games.  They only 
+take one shot most of the time, and are easy to take out with the pitchfork if need 
+be.  Being a dog lover, Fett will have more than a couple of these around guarding 
+the prison.  You wish all dogs were this easy to get rid of.
+
+Guard - The same  boring brown uniformed Nazis from SOD.  The most common enemy you'll 
+face in OHS.  These guys were recruited by Fett for their loyalty to the Nazi party, 
+even decades after the end of WWII.  Luckily for BJ, their training isn't that great, 
+so it's easy to get the drop on them most of the time.  They drop ammo clips if you 
+take them out.
+
+Dog Soldier - These "guys" replace the SS soldiers from the original SOD.  Fett has 
+always trusted dogs more than humans for their great sense of loyalty, and ability 
+to track their prey.  Using genetics and scientific knowledge, he was able to breed 
+these dangerous dog troops that walk (and kind of talk) and use weapons like men. 
+ Beware!  If one gets the drop on you, there's a good chance your game is up!  If 
+you defeat one, you get a weapons boost that gives you the #2 slingshot.
+
+Death Angel - These creatures replace the SOD officers.  One of the many "treasures" 
+Fett was called on to guard during his time at Castle Schwanz was the remains of 
+the Angel of Death that BJ destroyed in SOD.  Fett was able to use high tech cloning 
+chambers to produce less powerful but still dangerous clones of the Angel of Death 
+to serve as guards for the halls of Deedend.  They are pretty fast, but not too tough. 
+ If BJ has the good fortune to kill one of them, he will get an ammo clip as a reward.
+
+
+Mutant - Replaces...what else?...the mutants from SOD.  Not all of Fett's experiments 
+work out that great.  These creatures are a mixture of human, reptile, and mammal 
+DNA, designed to create creatures with excellent hunting senses and powerful natural 
+defenses.  They attack silently and without warning, so be very wary if you think 
+there might be mutants around!  The good news is they are fairly large, making it 
+easier to spot them.  You'll get an ammo clip if you destroy one.
+
+Ghost - Um...ghosts?  What ghosts?  :)
+
+Hans Scheissekopf - Replaces Trans Grosse from SOD.  Hans has been the unfortunate 
+voluntary subject of a variety of hormone and chemical tests by Schwanz that were 
+supposed to enhance his physical abilities.  Instead, they've just kind of screwed 
+him up and confused him, causing him to hate all humanity, with the exception of 
+Schwanz.  He keeps to himself, and guards the lowest level of Deedend Penitentiary. 
+ Don't expect him to be happy to see a 70+ year old man wandering around his floor 
+making a mess of things.
+
+Mini Mutant Bros. (mutant twins) - These "guys" replace Ubermutant from SOD.  Using 
+previously undiscovered methods, Schwanz succeeded in miniaturizing dead bodies (to 
+increase their stealth), fitting them with guns, and reanimating them, much as Dr. 
+Schabbs had once done.  They work in perfect syncronization to hunt down and destroy 
+intruders with deadly efficiency.  Don't let their size fool you...they are no laughing 
+matter.  They guard the second floor of Deedend, so be on the lookout for them.  
+Rumor has it that other pairs of these nasty little freaks may lurk elsewhere in 
+the facility!
+
+Esel Gross (cyber dog) - Replaces Death Knight from SOD.  Fett did his initial canine 
+ehancement experiments not on unborn dogs, but on his existing pets, his favorite 
+of which was Esel.  Encased in a powerful armored suit Esel posesses the intelligence 
+to seek out and destroy intruders, and the firepower to ensure he succeeds once he's 
+found them.  He serves as the commander of Fett's dog army, and he guards the third 
+floor armory where Fett keeps most of his weapons.  Be especially wary of his missiles, 
+which can level you in a single shot!  Rumors persist that somewhere in the facility 
+there are others like Esel...beware!
+
+Fett Schwanz - Replaces Barnacle Wilhelm from SOD.  Fett is one messed up dude.  
+He started out as a semi normal officer near the beginning of WWII, until a shell 
+exploded in his fox hole one day and made him a bit crazy.  After that, he let his 
+appearance go, and had less regard for orders than he once did,  preferring to try 
+to do things his own way whenever possible.  With the help of a scientist named Dr. 
+Cyclops, he began trying to come up with ways to win the war through the use of genetically 
+enhanced soldiers and mutants, rather than standard warfare.  Because of his apparant 
+inability to age, thanks to a special serum Dr. Cyclops gave him, rumors abound that 
+Schwanz is immortal, though it's never been proven.  As part of his craziness, Fett 
+has transformed Deedend Penitentiary into what he believes to be his grand castle, 
+over which he is the supreme ruler.  It is from this "castle" that he leads what 
+he believes to be a righteous crusade to avenge the death of Hitler and the Third 
+Reich by destroying BJ Blazkowicz, and eventually, the entire United States of America. 
+ He attacks with a modified hand-held rocket launcher that fires both rockets and 
+bullets.  Be careful when facing him...he's very sneaky.
+
+(Angel of Death replacement) - What?  Who said there was an enemy to replace the 
+Angel of Death?  Oh, yeah...I guess the game doesn't end if there's not one.  Well, 
+I'm not telling you what it is, then.  You'll just have to figure it out on your 
+own.  Sorry!  :)
+
+
+
+Weapons: 
+
+BJ has four different weapons available in OHS.  Two you begin with, the rest you'll 
+have to gain by finding weapon power-ups, either hidden or acquired from dead enemies.
+
+
+Pitchfork - As a farmer, it's not unusual for BJ to own one of these.  It's lucky 
+for him that he happened to be carrying it when he was run out of his home by the 
+dog troopers.  Slightly more powerful than the knife from the original SOD, but crappy 
+against tougher enemies.
+
+Slingshot - This weapon behaves like the pistol in SOD, but you'll find that it is 
+slightly more powerful.  Thanks to years of practice, BJ is deadly  with the slingshot, 
+and can take out an enemy with lethal accuracy from a hundred feet away.  It's not 
+that great against boss enemies, though, or when you're surrounded by multiple foes.
+
+
+Rapid Slingshot - This is the primary automatic weapon of OHS.  With this upgrade, 
+BJ can fire several pellets in rapid succession rather than just one at a time, making 
+it more useful for crowd control.  Unfortunately, it's a little less powerful than 
+the standard slingshot due to less time spent aiming, but the increased firing speed 
+kind of makes up for that in the long run.
+
+Mega Slingshot - The same as a chaingun in the original Wolf3D games, only in slingshot 
+form.  With this upgrade, BJ's slingshot virtually spews shots at the enemy, leveling 
+regular dopes, and giving boss enemies a run for their money.  Just like ALL other 
+chaingun type weapons, though, it will waste your ammo if you use it all the time, 
+so it's best called upon when you're severely outnumbered, or facing particularly 
+tough bosses.
+
+
+Treasure:
+
+I don't really feel like talking too much about the treasure.  It's the same as with 
+all other Wolfenstein games, just a different color. In a nutshell, here are the 
+treasure types, and what each is worth, just in case you are new to this still:
+
+cross - 100 points
+
+chalice - 500 points
+
+treasure chest - 1000 points
+
+crown - 5000 points
+
+
+Health and Ammo:
+
+Another section I don't want to waste words on. Sorry, but this is the boring part, 
+quoting numbers and values, etc.  Here are the basic pickups and what you get from 
+them, though:
+
+ammo clip - 8 bullets for a fresh one, 4 from a dead enemy
+
+ammo crate - 25 bullets per crate
+
+green and red keys - opens doors...what else?
+
+dog food - +5 health
+
+chicken dinner - +10 health
+
+first aid kit - +25 health
+
+extra life - extra life and full health + bullet bonus
+
+
+Missions and Hints:
+
+This is a summary of what to expect from each level, as well as a description of 
+what each area is supposed to be.  Warning...there are tips after each level description 
+that you may not want to see, depending on how determined you are to finish the game 
+on your own without help.  They may also include plot spoilers, even though there's 
+not a huge amount of plot development during the game.  Nonetheless, you've been 
+warned.  Anyway, here it is...
+
+
+MISSION 1 - Eliminate Hans Scheissekopf 
+
+BJ enters Deedend Penitentiary through the basement level, which opens to the outside 
+in a forgotten overgrown area. His mission is to take out the guards of the lower 
+level, and find it's guardian, Hans Scheissekopf. Hans will most likely be in a bad 
+mood when encountered. You would be to if you were kept in a basement, with a room 
+the size of a closet as your "lair". Defeating Hans will allow BJ access to the elevator, 
+and the upper levels of the prison. Look out for dog troopers that will be hunting 
+BJ after his confrontation with Hans.
+
+HINTS:
+
+If you go to through the first door to the right instead of the left, you'll come 
+across a weapon that will help mike life easier later in the level.
+
+In some areas, it's better to run to a safer area than confront enemies in an open 
+environment.  Don't underestimate the value of picking off enemies one at a time 
+in a doorway.
+
+Conserve ammo when you face Hans.  You should know his lair when you find it.  If 
+you've gathered max health and ammo, you shouldn't have to leave his room during 
+the battle.
+
+
+MISSION 2 - Terminate the Mini Mutant brothers
+
+This floor doubles as the lowest prison level, as well as a loading dock for incoming 
+supplies. Fett Schwanz is smuggling stolen US Army weaponry and equipment into his 
+facility, and some of it can be found here, though most is in the upper level storage. 
+You will find the remains of many of Scwhanz's enemies, either imprisoned or scattered 
+about on this floor. The Mini-Mutant brothers guard this floor, waiting to silenty 
+ambush any intruders foolish enough to visit the floor. Eliminate them, and move 
+on to the next area. Beware...they are not the only freaks BJ will encounter on this 
+floor.
+
+HINTS:
+
+There are a lot of rooms in this area with walls and obstacles out in the middle 
+of the room.  Guards like to hide behind these.  Don't relax in a room until you're 
+sure there are no more guards.
+Keep an eye out for hints about where secret areas are.  Sometimes you can see a 
+secret that you can't reach until later.  There is always a way into them somehow.
+
+
+Look for a suspicous blank wall to find the slingshot #3 in this level.  This is 
+the first place you can find it, and it will make the going a lot easier, especially 
+with the boss.
+
+When battling the Mini Mutant Bros, don't lose them in the maze of blocks.  Try to 
+get them into a pattern of circling a single set of walls where there's health nearby 
+just in case.
+
+There are some death angels that may or may not take an interest in you after you've 
+dealt with the Mini Mutant bros.  Be prepared either way in case you stumble across 
+them.
+
+
+MISSION 3 - Destroy Esel Gross
+
+The third floor BJ will discover used to be another prison level, but most of the 
+cells are empty or used to store stolen weapons and goods. Most of Schwanz's stash 
+of US equipment is located here, not that it will help BJ any. BJ must keep an eye 
+out for a growing number of nasty creatures on this floor, as well as the usual dog 
+troopers and standard guards. The real threat will come in the form of Esel Gross, 
+the "commander" of the hound troopers, and top dog around these parts. If BJ can 
+open enough "whoopass" on Esel, it's on to the final floor...the private quarters 
+of Fett Schwanz himself!
+
+HINTS:
+
+There is a lot of junk scattered about and a lot of boxes obscuring your view in 
+this area.  In other words, there are a million places for enemies to hide, so really 
+watch your back!
+
+Walls aren't the only place where secrets can be hidden.  Some of the larger boxes 
+may be moveable, and may reveal rewards if you push them around just right.
+
+There are a couple areas where there are objects big enough for enemies to hide behind, 
+but they can still shoot through them.  Use these to your advantage whenever you 
+can.
+
+Conserve your ammo when you fight Esel.  If you run out, you may be forced to run 
+in his room to get more, which is risky when he's taking rocket shots at you in tight 
+quarters.
+
+Some soldiers elsewhere in the level will take in interest in you when you begin 
+to battle Esel.  Watch your back once the battle has begun, or you may be sorry.
+
+
+
+MISSION 4 - Die, Schwanz, Die!! 
+
+Yes, you read that right...Fett Schwanz lurks somewhere on this floor. Of all the 
+areas in the prison, this is by far the nicest BJ will come across (which isn't saying 
+very much). Once BJ destroys Schwanz, the heart of Operation: Hundscheisse will be 
+shut down, but it's not time to rest yet...heck will surely break loose as BJ tries 
+to escape with his life to the final elevator. But wait...that was the final floor, 
+right?
+
+HINTS:
+
+You're sorely outnumbered when the mission begins.  Try not to alert enemies of your 
+presence when you're in a spot where you are at a disadvantage in a firefight.
+
+Remember where the storage rooms are in this level.  Health and ammo can be scarce 
+in some areas, and you'll want to have access to these supplies of them later on.
+
+
+Try not to let enemy soldiers who are alerted to your presence run through doors 
+that haven't been opened yet.  In some areas, this will summon hordes of troops you're 
+not ready to face yet.
+
+Fett may not be where you expect him to be when you battle him.  Stay alert as things 
+appear to look more and more like what you'd expect his inner sanctum to look like.
+
+
+When you defeat Fett, the level isn't over yet.  In fact, the greatest challenge 
+may yet remain.  Proceed with caution through his escape tunnels, and conserve health 
+and ammo.
+
+
+MISSION 5 - The Laboratory
+
+BJ finds something he wasn't expecting...a lab area, accessible only from the elevator 
+in Schwanz's quarters. It is from within this lab that the freakish minions serving 
+Scwhanz are born, and there are sure to be plenty of them still wandering around 
+(right?). BJ lays waste to the creeps guarding the lab, to ensure the minions of 
+Schwanz are stamped out. There doesn't seem to be anymore elevators, but wait a second...who 
+put those remains of Fett Schwanz on this floor? Better grab them and get rid of 
+them before someone tries some crazy reanimation stunt...
+
+HINTS  (SPOILER WARNING!!):
+
+Surprise!  There are very few enemies you actually have to battle on this floor. 
+ There are a total of five pairs of mutant twins guarding this floor, but if you 
+are careful, you will probably only have to deal with three of them.  Don't wander 
+around among the dog soldier incubation chambers in the rooms adjacent to the first 
+main room any more than you need to.
+
+If you enter a room and alert a pair of mutant twins, don't battle them in the room 
+they originated in, or you may alert a second pair.  Draw them elsewhere and defeat 
+them.  If you're careful, you should never alert more than one pair of mutants at 
+a time (you'll be sorry if you do!).
+
+Don't be afraid to take advantage of the health and ammo around the level.  It will 
+all be replenished before you face the final boss.  It sounds strange, but it's true.
+
+
+Before you touch the remains of Schwanz in the reanimation room, make SURE you are 
+at full health and ammunition.  If not, you may meet a miserable end.
+
+
+MISSION 5*- The Laboratory??
+
+(SPOILER WARNING!!)  BJ destroyed Fett, but it was only a matter of time before Fett 
+would be reanimated by the special serum in his bloodstream.  Well, BJ disrupts the 
+reanimation process when he messes with Fett's remains, and retribution is swift 
+and brutal!  The laboratory is set to alert mode, and monsters begin pouring out 
+of the woodwork in an effort to prevent BJ from ever making it out alive.  If you're 
+not VERY careful, they just might too!  Good luck, BJ!  This is it!!
+
+HINTS  (SPOILER WARNING!!):
+
+When you first start this side of the level, you'll be in a dangerous situation. 
+ Plan carefully how to get yourself out of the mess you're in,  but do it quickly...the 
+enemies are coming for you!
+
+Every monster in the level is seeking BJ out at this point (remember where the statues 
+and mutant lockers were?), and they will find you sooner or later.  Make sure you 
+revisit areas where health and ammo were abundant before (it's all replenished now), 
+because you'll need a lot of it to survive!  (NOTE:  The mutant twins won't be around 
+anymore after you grab Fett's remains).
+
+You don't need to revisit the entire level...there's no bonus if you do.  Just finish 
+off the last boss, and the game will end.  That's easier said than done with all 
+the monsters around...
+
+
+
+Well, that's about it!  There's really nothing more to cover, and playing the game 
+is more fun than reading this manual anyway, right?  For questions or comments about 
+the game, for either the creator of the game, Majik Monkee, send an email to:
+
+matthewmdmerrill@yahoo.com
+
+Well, that's all, folks!  Have fun!!
+
+
+OHS KREDITS:
+
+BIG fat thanks to the following people who have made OHS a reality. 
+
+
+Concept: Dumscheissekopf
+
+Graphics:  Majik Monkee, some original grahics from Spear of Destiny by ID Software
+
+
+Sound: voices by Majik Monkee, The Incredible Pete, Sam "Bubba" Merrill
+
+Music:  Original scores from Spear of Destiny by ID Software 
+
+Level Design:  Majik Monkee
+
+Coding Requests:  "The Choksta"
+
+SDL Version: Andy Nonymous
+
+Testing:  ack, Majik Monkee, The Incredible Pete
+
+Caffeine:  "Convenience Barn" 32 oz Diet Pepsis
+
+Special thanks to everyone for all their hard work and contributions, and to the 
+Diehard Wolfers community for some valuable (and otherwise) feedback.
+
+
+~Majik Monkee~

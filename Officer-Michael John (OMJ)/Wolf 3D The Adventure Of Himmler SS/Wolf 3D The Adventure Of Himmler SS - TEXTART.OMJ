@@ -1,0 +1,290 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading The Adventure Of Himmler SS, an add-on for Wolfenstein 
+3D. This game is just a homenage to Wolf Skevos-Jones and Ling Yan Li, becuase it 
+uses most of his graphics, sounds, & Music. It was created by me, Officer-Michael 
+John. This project is my Third Wolfenstein TC, while Wolf 3D Funny April 1st day 
+mode was my second. Chris Chokan provided many hex edit tutorials. The game is difficult, 
+but not impossible to win. I hope you enjoy it. 
+
+^P
+^C7d THE STORY
+
+^C00 Germany, 1956--Are you tired of Blazkowicz as John is already in the from nazi. 
+We are able to move on and say:  ^C1a"Dear Officer partner! I go to a lot of you. 
+Therefore, I join you and BJ was quitting. I think this is the thing you are not 
+angry. Report to Hitler and then John Blazkowicz emerged from the nazi. Good Bye!"
+
+
+^P
+^C7d THE STORY
+
+^C6c"Hitler Sir!" ^C08"Yes, please what do you want?" ^C6c   "The problem is that 
+John has left us!" ^C08"What?! You have to kill the traitor! Everyone has to report 
+that John must kill!" Meanwhile, you're not even guess to see what happens. But later 
+you came from his former comrades and this has been communicated to you: ^C06"If 
+you're not going to come back to us, then we kill BJ! Good Bye John!" 
+
+^P
+^C7d THE STORY
+
+^C00 You are nervous and this decide this site: ^C29"If you do this you will get 
+revenge I will stand upon you. Life and also I will avenge his blood my death you!" 
+^C00 Meanwhile, leaders of the Nazis: Hitler, Himmler and Schwartzensturm gathered 
+to guess how am I supposed to kill BJ's team has been drawn up. May not be able to 
+succeed in the vengeance? So that Good luck John officer!
+
+^P
+^C7d FEATURES
+
+^C00 * One seamless episode
+* 38 levels, 3 secret
+* 7 Weapons
+* New graphics
+* New sound effects, many from RTCW and Wolf 3D!
+* New enemies
+* New music (Thanks to WSJ,AreYeP,Id Software,...)
+* New Static Objects
+* Fullscreen Mode 
+* Armor
+* Changed color palette 
+* Motorcycle! (levels 37 & 38)
+
+^P
+^C7d FEATURES
+
+^C00 * Hex edits
+* and MORE...
+
+^P
+^C7d HEALTH
+^G48,16,30
+
+^C00 These items heal you.  (Max: 100%)
+
+^C7d Schnapps: ^C00 4%
+
+^C7d Cold meal: ^C00 10%
+
+^C7d Hot meal: ^C00 20%
+
+^C7d First aid, small: ^C00 15%
+
+^C7d First aid, large: ^C00 30%
+
+^C7d Pill: ^C00 100% (extra life)
+
+^P
+^C7d HEALTH
+
+^C00 In Outdoor Areas, there are raspberry and blueberry bushes that can heal you. 
+even mushrooms. The Raspberry bushes heal you 10% health, the blueberry bushes heal 
+you 20%, and the mushrooms heal you 5%. But beware, some berry bushes are poisonous 
+and they can take away 16% health.
+
+^P
+^C7d TREASURE
+^G48,16,31
+
+^C00 These items add points to your score.
+
+^C7d Gold bar: ^C00 +100
+
+^C7d Chalice: ^C00 +500
+
+^C7d Jewel chest: ^C00 +1000
+
+^C7d Golden helmet: ^C00 +5000
+
+^P
+^C7d ARMOR
+^G72,16,32
+
+^C00 These items add points to your armor.  The more armor you have, the less damage 
+you take.  (Max: 100)
+
+^C7d Helmet: ^C00 25
+
+^C7d Flak jacket: ^C00 75
+
+^C7d Bullet-proof vest: ^C00 100
+
+^P
+^C7d AMMUNITION
+^G48,16,33
+
+^C00 These items give you bullets.  (Max: 400)
+
+^C7d Clip: ^C00 32
+
+^C7d Ammo crate: ^C00 64
+
+^P
+^C7d SPECIAL ITEMS
+
+^C00 There is also a red power orb, with your face in the centre, with grey diagonal 
+lines circling it. It is really hard to find, If you grab it, you'll get 17,800 big 
+points!
+
+^P
+^C7d WEAPONS
+
+Knife: ^C00Though used only for close combat, enemies won't hear you if you use it.
+
+
+^C7d Luger: ^C00The standard German pistol. It's also the weapon you start the game 
+with. It cannot shoot rapidly, but you'll find other weapons better than this one.
+
+
+^C7d MP40: ^C00This is the submachine gun used by the infantries. It can also shoot 
+more rapidly than the Luger.
+
+^C7d Venom Chaingun: ^C00Named for its deadliness, 
+
+^P
+^C7d WEAPONS
+
+^C00the Venom Chaingun is the fastest firing weapon in the game!
+ 
+^C7d Silenced Sten: ^C00Originally developed by the British, this submachinegun has 
+been fitted with a silencer and is more powerful than the MP40. Great for stealth 
+attacks.
+
+^C7d Assult Rifle: ^C00 This assault rifle is accurate and has a high firing rate. 
+It is a little bit stronger than the submachine gun.
+
+^P
+^C7d WEAPONS
+
+^C7d MCS Mk3: ^C00This is a 3 barrelled prototype weapon that packs a similar punch 
+to a chaingun - ideal for large enemy groups.                                    
+      
+
+^P
+^C7d HARMFUL OBJECTS
+
+^C00 The Nazis are very good at setting traps for you.  Look out for these objects 
+-- they'll get you in trouble.
+
+^C7d Land mines: ^C00 They are difficult to see, but if you step on one, it will 
+explode and you'll take massive damage!
+
+^P
+^C7d THE ENEMY
+
+^C00 Each enemy listed on the next page comes in 2 different uniforms:  Wehrmacht 
+and SS.  Wehrmacht troops are the common German soldiers.  They wear greenish-grey 
+uniforms.  SS troops are less common, but they are tougher and better trained.  They 
+wear black uniforms with red swastika armbands.
+
+^P
+^C7d THE ENEMY
+
+Guards: ^C00These guys are armed only with the Luger, but they often come in groups. 
+
+
+^C7d Infantry: ^C00Same as above, but they use MP40 submachineguns. They can be very 
+dangerous, especially in droves.
+
+^C7d Officers: ^C00These high-ranking soldiers command the German Army. They usually 
+have only a Luger, but they are fast and intelligent. Some Officers of even higher 
+ranks hold important items.
+
+^P
+^C7d THE ENEMY
+
+^C7d Proffesor: ^C00You will find these guys in the Nazi laboratories where they're 
+conducting with pistol.
+
+^P
+^C7d OTHER ENEMIES
+
+Machinegunner: ^C00You will sometimes find a German soldier using a mounted MG42 
+heavy machinegun.  Run for cover!
+
+^C7d Venom Soldier: ^C00There are 2 types of Venom Soldier:  one with a Venom Gun 
+(of course), and one with a flamethrower.  Both are deadly.
+  
+^C7d Panzer: ^C00The tank used by the German Army.  You're in trouble now!
+
+^P
+^C7d NAZI LEADERS
+
+Adolf Hitler: ^C00With two chainguns, he's the ultimate enemy. 
+The Adolf Hitler is well, a regular boss. The main difference is that Hitler did 
+not have a normal form, rather than armored outfit and are easier to kill.
+
+^C7d Heinrich Himmler: ^C00This German officer is a friend to Adolf Hitler (better 
+known as the Fuhrer),General Schwartzensturm and is involved in getting the Germany. 
+He is armed with a rocket launcher and a chaingun!
+
+^C7d Robotic Hans (Hans Grosse): ^C00Very powerful 
+
+^P
+^C7d NAZI LEADERS
+
+^C7d Robotic Hans (Hans Grosse): ^C00Very powerful and cruel, is equipped with two 
+a rocket launcher and with a chaingun. The Robotic:Hans Grosse. Evil of Robotic! 
+
+
+^C7d General Schwartzensturm: ^C00A fanatic devoted to Hitler, General Schwartzensturm 
+will stop at nothing to ensure the success of The Adventure Of Himmler SS.  In order 
+to win, you must kill him and steal the plans for The Adventure Of Himmler SS!  But 
+be careful.  He's ready to destroy you with extreme prejudice! 
+
+^P
+^C7d NAZI LEADERS
+
+^C7d Doktor Schabbs: ^C00The Maniacal Dr. Schabbs. Watch out, because the laser shoot 
+deadly laser spheres in a with sphere shooter.
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d Chaosedit: ^C00Adding and edit levels,sounds,graphics
+^C7d Hex Editor: ^C00Code compilation and hex edits
+^C7d Wordpad: ^C00HELPART & ENDART
+^C7d WDC: ^C00Music & Adlib Sounds
+^C7d Microsoft Paint: ^C00Graphics
+^C7d Sound Forge 5.0: ^C00Sounds (Robotic Hans)
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+Ling Yan Li: ^C00ROH exe make
+^C7d Chris Chokan: ^C00hex edit tutorials
+^C7d Ripper: ^C00Chaosedit
+^C7d Adam Biser: ^C00WDC
+^C7d Kuki: ^C00Motorcycle graphics,statics objects
+^C7d Mario Maniac: ^C00Graphics
+^C7d Pendugion55: ^C00Level 17, Music
+^C7d Wolf Skevos-Jones and Ling Yan Li: ^C00Homenage use
+^C7d AreYeP: ^C00Graphics, Music
+(more...)
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+^C7d James Shain: ^C00Gray skins guard
+^C7d Ipank7000: ^C00Doktor Schabbs
+^C7d id Software: ^C00Wolfenstein 3d and Return to Castle Wolfenstein,Adolf Hitler,level 
+11, Musics 
+^C7d You: ^C00playing my game!
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 Do you have any questions, comments? If you do, you can send me e-mail at catekoprotokol@gmail.com
+
+ 
+^P
+^C7d THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 I hope you enjoy The Adventure Of Himmler SS!  Now go get 'em, man!
+
+^E
+

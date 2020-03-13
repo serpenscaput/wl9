@@ -1,0 +1,63 @@
+﻿--------------------------------------------------------------------------
+-- The False Spear 2.0 (SDL)                                            --
+--------------------------------------------------------------------------
+What is this all about:
+- This is the polished release of the False Spear SDL, that should get
+  rid of the nastiest bugs found from the game after its initial release.
+ 
+What is included:
+- Source code, updated game and mapping definitions
+
+What has changed:
+- Several sprites have been updated and weapon balance is now better 
+ (thanks to DoomJedi for his assistance). 
+- Flamethrower now has a radius and the rifle has a scope (press 'V' to zoom).
+- Levels has been changed a bit to give every weapon more usage.
+- Added "Wolf4SDL_flash.exe" to the game folder. This is a test executable 
+  for The_Fish's advanced shading (press 'B' for flashlight).
+- Screen resolution has been restricted: 
+  320x200 - 640x480 with --res and 320x200 - 1280x720 with --resf
+- Other small fixes and edits here and there
+
+--------------------------------------------------------------------------
+-- About mapping                                                        --
+--------------------------------------------------------------------------
+NOTE: In these instructions I assume you have not changed the games code.
+To include the mapping definitions in ChaosEdit, simply copy the content
+of "ChaosEdit files"-folder to your ChaosEdit folder and replace everything
+if prompt.
+
+- Gate control-object has to be placed on top of the switch wall (id 2/3).
+  When operated, it will open/close all gates and black columns in the level.
+
+- Special pushwall switches should also be placed on the top of the switch wall.
+
+  NOTE: placing more than one of switch of the same type will cause strange
+  errors with the wall pictures. Also even though you can add two different
+  switches for one pushwall - this should be avoided as it might break the game.
+
+
+- Detonator will "break" every single directional concrete wall in the level and
+
+  in the last level the earthquake-tile will work as the same.
+
+- Both campfire and poison will hurt player when stepped on.
+
+- SS-Gruppenleiter will drop a key (rusty) only in level 3 and ÜberMutant drops
+  a key (bronze) only in level 9. Bryson will always drop a silver key and Kippling
+
+  will drop a golden key.
+
+- Golden key door will not work in the last level (number 24).
+
+- Player can access secret levels from levels 6, 12 and 17.
+ 
+- Wallnum 225/226 should be left alone as the code places them over/under of each 
+door. 
+  Also when placing floor/ceiling if you want to use texture with wallnum greater 
+than 255,
+  you should place texture with wallnum 9 - 203 instead (wallnum 9 = 256 and 203 
+= 449).
+
+
+

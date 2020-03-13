@@ -1,0 +1,57 @@
+WolfEdit v1.0			            Wolfenstein 3-D Graphics Editor
+
+Unpack the .ZIP file into the subdirectory where you have Wolf3D installed.
+
+WolfEdit allows you to modify the VSWAP.WL1 file, which contains the images
+used by Wolfenstein 3-D from Apogee.  Before running WolfEdit, you need to 
+make a backup of the VSWAP.WL1 file.  The backup should be called VSWAP.BAK.  
+WolfEdit uses this file for restoring wall images to their original state.
+
+The upper left corner of the screen contains the wall images.  Use the 
+mouse to draw in this area.  To change the color the mouse draws with, 
+click in the palette area.  A diffent color is associated with each mouse 
+button.
+
+Key definitions:
+
+UP/DOWN: scroll between the 64 different wall images
+
+  Q: quits (changes are saved automatically)
+  L: load a previously saved wall image
+  S: save the current wall image to a .WAL file
+  R: restore the current wall image (using VSWAP.BAK)
+  C: clear the current wall image to the current left mouse color
+  G: import a GIF file into the current wall image 
+
+The L and S keys allow you to save/load .WAL files.  A .WAL file is
+simply a binary file containing the data for a wall image.  It is not
+in any standard format that another program could use.  If you don't
+include an extension on the filename you type, .WAL is added.
+
+The R key replaces the current image with the corresponding image from
+the VSWAP.BAK file.
+
+The C key clears the wall image using the color that is currently 
+associated with the left mouse button.
+
+The G key allows you to load a GIF image, select a 64x64 section of it, 
+and copy it to the current wall image.  I included this feature so you 
+can use the paint/draw program of your choice to design the graphics. 
+It is important to note that the palette of Wolf3d is fixed, and any  
+GIF you import will have to be converted to the Wolf3d palette.  This 
+is done automatically by WolfEdit, but it sometimes results in a noticable 
+change between the GIF and the wall image.  Also, if the GIF you select 
+is bigger than 320x200, only the upper-leftmost 320x200 will be loaded. 
+
+I have included several .WAL files, and the GIFs that they were made from:
+
+BOB.WAL    - Bob!
+CANDY.WAL  - little girl
+LYAP.WAL   - lyapunov fractal
+
+If you find any bugs, or have suggestions about improvements, please let 
+me know.  I can be reached via e-mail at the following addresses:
+
+	bkirby@cs.umr.edu
+	s088536@umrvmb.bitnet
+

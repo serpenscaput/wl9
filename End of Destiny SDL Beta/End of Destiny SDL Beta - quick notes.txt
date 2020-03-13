@@ -1,0 +1,59 @@
+I'm going to make more formal notes later, these are just some notes to anyone who 
+is testing.
+
+* Core gameplay is very similar to the original game *
+* Debugmode parameter is the same as the original game (--noss) and there are no 
+activation keys
+* Xmas levels from 2007-2010 are spread across level 39-49 - they can be accessed 
+from a new secret in level 1 or warped to
+
+______________________________________________________________
+In addition to bug finding, I'm looking for feedback on the game
+
+Difficulty compared to the original
+Suggestions for improvment
+1920x1080 support - if you have a 1080p monitor, please try and run the game in this 
+mode by adding "--resf 1920 1080"
+______________________________________________________________
+There are some new features for better playability/asethetics:
+
+***New options menu in the control menu
+	This is still a WIP, but you can change various game features in this menu.
+	Visual aspects can be toggled as well as control style.
+	One-button strafing turns the set left and right keys into side-step keys and sets 
+the mouse so it can only rotate the view (not move the player)
+	Always run is for one button strafing mode, I may add to the classic style later
+
+	Can be accessed in game by pressing F11
+	
+-New smart automap (press M to access it)
+	While viewing a map, you can use the direction controls or the mouse to scroll around 
+the map and press -/+ to zoom the map
+	The map only shows spots that the player has seen within a certain range.  Only 
+enemies that are dead or are on the player's screen are visible on the map,
+	so the automap cannot be used for cheating that way
+	The debug cheat auto map (Tab + M) is a fully exposed map with an additional feature: 
+hold the tab button to highlight pushwalls, treasure, keys
+	Press ESC or Enter to leave the map
+
+-New fullscreen HUD
+	Complete HUD for fullscreen mode
+	Because the face is missing, the health font changes color based on state. (green 
+is godmode)
+	
+-Backspace + [Key] toggles
+	- Backspace + T 		toggles textures (this also turns off weather and clouds)
+	- Backspace + W         toggles weather (sky/snow/rain/parallax)
+	- Backspace + C         toggles clouds
+	- Backspace + B         displays # of times game was saved and if cheats were used
+
+	- Backspace + F         toggles FPS counter
+	- Backspace + N			toggles notifications
+	
+-Mouse wheel is supported for changing weapons
+
+-Some new debug keys
+	-I'm not going to list them all, but try them out if you get the chance [except 
+Q, that still quits ;)]
+	
+	

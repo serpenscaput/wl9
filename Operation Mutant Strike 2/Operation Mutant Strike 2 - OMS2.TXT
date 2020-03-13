@@ -1,0 +1,302 @@
+OPERATION: MUTANT STRIKE 2 (DOS & SDL versions)
+
+INTRODUCTION:
+
+"Operation: Mutant Strike 2" Prologue/Story
+
+
+MISSION BRIEFING (from Assistant OSS chief Donald Dickerson):
+
+Welcome back, Agent Hunter...
+
+Sorry to call you back on such short notice, but we have little choice.  This mission 
+is of a critical nature, and have very little time to complete it.
+
+As you may have heard already, one of your fellow OSS members, BJ Blazkowicz, has 
+been kidnapped by terrorists.  We need to get him back as quickly as possible.  The 
+leader of the terrorists, a man known as "The Silver Fox", has contacted us regarding 
+the kidnapping, and has made some demands.
+
+It seems that "The Silver Fox" is the leader and mastermind behind "Regenschirm Corporation", 
+the biological weapons corporation that assisted the Nazis during their "Operation: 
+Mutant Strike".  The Fox himself is of Russian descent, but apparantly he sympathized 
+with the Nazis during WWII, and has been trying to help them get revenge through 
+biological weapons ever since.
+
+To make a long story short, The Silver Fox assumed that BJ was the OSS agent responsible 
+for foiling Muller's plans, and kidnapped him in order to get revenge.  BJ must have 
+told him he had the wrong man, because The Silver Fox is demanding that the real 
+agent behind the Mutant Strike counter strike be turned over to him to be dealt with.
+
+
+In an effort to perform another counter strike, we're going to give him what he wants, 
+just not the way he wants it.  We're sending you back into action to destroy the 
+Silver Fox and rescue BJ before it's too late.  We've pinpointed the location of 
+"Regenschirm Corporation"... disturbingly enough, its headquarters is on American 
+soil.
+
+The terrorist hideout seems to be a company called "Biotech Corp", located on the 
+Alaskan coast.  The company seems legitimate on the outside, but strange occurances 
+in the vicinity of the facility have lead us to believe it is anything but.  Over 
+the past several months, a strange virus has been killing off locals in nearby settlements, 
+and nearly all of the victims' bodies have vanished without a trace.  Add to that 
+the fact that the broadcasts we've received from the Silver Fox have come from that 
+region, and the facility looks very suspicious.
+
+One thing we found strange about the whole matter...The Silver Fox said that the 
+agent who stopped "Operation: Mutant Strike" had destroyed many of his "biological 
+weapons", and he wanted to know what all you knew about them.  That makes two of 
+us, since your debriefing mentioned only SS soldiers as opposition.  Witholding information 
+about a possible biological weapons threat is a very serious violation of OSS protocol, 
+and will need to be investigated at a later date, but right now, whatever knowledge 
+you have that you gained on your previous mission makes you the most suitable candidate 
+for this mission as well.
+
+We're not sure what sort of opposition you'll face when infiltrating "Biotech Corp". 
+ Intelligence tells us that there seems to be a large force of security officers 
+on the premesis at all times, and we're assuming they're the Fox's terrorists in 
+disguise.  If this is true, they won't hesitate to kill you, so don't be afraid to 
+shoot back.  As for any other opposition you face, we would prefer that you leave 
+some of the Silver Fox's "biological weapons" intact so we can collect them for research 
+later.  Burning all the bodies after your last mission possibly robbed us of some 
+valuable data we could have used against the enemy, and was a very poor decision.
+
+
+We'll be air dropping you outside the "Biotech Corp" facility a few hours from now, 
+so get your things ready.  The weather this time of year is pretty mild, so your 
+stealth suit should provide sufficient protection from the elements, especially since 
+you won't be spending much time outside.  Once outside the facility, you'll be going 
+right through the front entrance...intelligence tells us it's the only way for a 
+human to enter the facility.  It will be heavily guarded, but we have faith in you. 
+ Once inside, your objectives are the following:
+
+
+1 - Locate evidence to confirm Biotech is actually the biological weapons company 
+known as "Regenschirm Corporation".
+
+2 - Locate and terminate The Silver Fox with extreme prejudice.
+
+3 - Obtain and preserve evidence of biological weapons to be returned to OSS headquarters 
+for examination.
+
+4 - Locate and rescue BJ Blazkowicz, and help him escape the facility alive.
+
+5 - Escape the facility and contact us for extraction arrangements.
+
+
+We have very little time before The Silver Fox figures out what we're doing.  It's 
+possible he'll execute BJ if he discovers our operation, so work as quickly as possible. 
+ Once you've returned safely, we will discuss your continued service to the OSS, 
+based on our findings regarding information you witheld from your last mission.  
+Don't worry about that right now, though...you need to stay focused and complete 
+this mission.  Good luck, Agent Hunter...failure is not an option...
+
+
+
+MISSION INFO:
+
+Unlike a lot of the other manuals for our projects, this one will be very brief. 
+ You will have to discover pretty much everything about the game yourself, and from 
+the moment you begin, you're on your own for ten whole levels.  At the end of certain 
+levels, however, you will be rewarded with a bit of the story as it progresses, and, 
+if you encountered any new enemies in the previous levels, you will receive information 
+about these enemies as well.
+
+
+CHANGES:
+
+There are a few noticeable changes in OMS2, but for the most part, things have been 
+kept as true to the original Wolfenstein formula as possible.  As was the goal with 
+Majik Monkee's "Operation: Lezterschutz", and OMS1, OMS2 is meant to feel like a 
+legitimate progression of the Wolfenstein story.  Here are the changes in the game:
+
+
+- the rifle (pistol replacement) is almost twice as strong as the pistol is in the 
+original Wolfenstein, making it a useful weapon for dealing with individual enemies, 
+even when you have plenty of ammo.  This was meant to be the case in OMS1 also, but 
+the code wasn't quite in the right place.  Consider the rifle to always be an alternative 
+to the machine gun, especially when facing individual tougher enemies (like scientists 
+in the beginning).
+
+- ammo limit has been set to a max of 250 bullets instead of 99.  This is useful, 
+since you will face a lot of tough enemies, and won't always have time to run around 
+picking up bullets after you start fighting.  Be conservative, though...the chaingun 
+can still go through 250 rounds pretty quickly.
+
+- some of the boss behavior etc has been changed.  The result is that there are several 
+"mini boss" type enemies you may encounter throughout the game, who will drop various 
+items.  The ghosts have been made stationary, and now serve another purpose in the 
+game...
+
+- levels are now seamless.  There are only ten of them, but you don't have to pick 
+which episode you want to play.  This is good, since there are no levels after the 
+first ten...trust me.  Oh...and there is no secret level... sorry, but secrets don't 
+make friends... :)
+
+- shading has been added to the game to create a greater sense of atmosphere.  This 
+was considered for the first game, but never actually implemented.  Be warned that 
+there is a slight pause at the start of shaded levels as the shading table loads, 
+but this is normal.  The first couple levels won't do this, because they are not 
+shaded.
+
+- there are some other changes, but they are classified in nature.  Sorry, but to 
+reveal much more about them would be to spoil some surprises, and where's the fun 
+in that?
+
+
+GENERAL TIPS:
+
+I'm not going to cover Wolfenstein basics.  If you've never played the original, 
+you really ought to go play it first...at very least, the shareware version.  For 
+those of you who have played the originals, though, you already know the basics, 
+so this will just cover stuff that is a little different in OMS2.  If you've played 
+OMS1 already, you can probably skip this section. Here goes...
+
+- Keep your eyes open for enemies at all times.  You might be staring right at a 
+potential threat and not know it.  You'll see what I mean after the first few minutes 
+of the game (if you played OMS, you probably already know a little what I'm talking 
+about).
+
+- Security is very tight around "Biotech Corp".  Keys are almost never found just 
+lying around. They will almost always be in the care of an enemy you must defeat, 
+so don't run from battles...even the tough ones...nothing would suck more than to 
+have an enemy with a key you really need wander off where you can't find them because 
+you ran away from a fight (certain types of enemies that drop other things will never 
+by carrying keys).
+
+- There are a few different kinds of harmful objects that should be obvious to you. 
+ If you are having trouble passing them without getting hurt, try facing away from 
+them as you pass by.  This will reduce the chance that you get injured, or at very 
+least, reduce the damage you take.
+
+- Expect the unexpected.  That's what this game is about...keeping things a surprise 
+until you come across them.  You may have seen some of the enemies in other games 
+before, but until you come across them, there's always the fear and the excitement 
+of the unknown.  Plus, there's some stuff you've probably never had to fight before 
+to look forward to.
+
+- Don't forget your knife.  It's not a silenced weapon in this game, but in a pinch, 
+it can be used to kill most of the weaker enemies fairly easily, including mutants. 
+ Be warned, though, that this only works on the mutants that lie around until they 
+see you.  The other kind will finish you off quickly in close quarters.
+
+- Keep trying.  This mod is difficult, but by no means impossible.  There is always 
+a way to overcome every obstacle.  If direct confrontation isn't working for you, 
+try something else.  You can do it...it's all worth it to reach the final confrontation... 
+:)
+
+
+GETTING STARTED:
+
+The difficulty level of this game is a little higher to begin with than that of the 
+original Wolfenstein.  If you've played OMS1, you'll be familiar with some of the 
+tougher enemies near the start, but if you're new to Wolfenstein games, you might 
+find it to be a little difficult.  Here are some more in-depth tips for those of 
+you having trouble getting started (those of you who want things to remain a secret, 
+ignore this section...it might spoil some stuff for you).
+
+1 - Stick with your rifle at the start of the game.  You will get a machine gun very 
+early on, but it's best used when you have a healthy supply of ammo already.  The 
+rifle puts your bullets to much better use, especially at close range.
+
+2 - It's best to draw enemies out of the room they are in and force them to come 
+through the door into your room so you can pick them off easily where you have the 
+advantage.  At the beginning of the game, there is a spot where shooting a certain 
+security guard will trigger a horde of other guards to come running into your area. 
+ Stay alert!
+
+3 - While it's wise to eliminate as many enemies as you can, there are some that 
+may be smarter to avoid early on.  The scientists can be challenging to defeat sometimes, 
+but the medkits they drop can be invaluable, so consider waiting to fight them until 
+you need a health boost (unless they are blocking your path).
+
+4 - Be careful about picking up machine guns in store rooms and other areas.  Ammo 
+clips can only be picked up if you have room to hold more bullets, but if you touch 
+a machine gun, you will pick it up even if your ammo is full and get nothing for 
+it.  The same is true of chainguns and other weapons you may come across later, so 
+be careful.
+
+5 - Be prepared to face a "boss" enemy at the end of the level.  It's not nearly 
+as tough as the actual bosses of the game, but you'll still need to be careful.  
+The first level is a good place to observe enemy behavior,  because you're guaranteed 
+to face a lot more of all enemy types as the game goes on.
+
+That's all the tips you get!  If you're still having trouble, send an email, and 
+I'll try to help.  The game does get easier after the first couple levels, but then 
+it gets tougher again...hang in there!
+
+
+KREDITS:
+
+HUGE thanks go out to everyone who helped with this project.  Even if you helped 
+indirectly, your contributions are appreciated greatly!  Thanks to:
+
+ - Adam Biser - for code changes and for converting the music to the proper format 
+for the game, as well as composing the tunes for level 5, the victory screens, and 
+the final victory screen.  Also, thanks for the graphics you contributed from other 
+games.  Your help is invaluable!
+
+- Andy Nonymous - for putting lots of hard work into bringing OMS2 into the modern 
+era by converting it to SDL format. =)
+
+- WSJ - because I borrowed the following graphics with either minor or no modifications: 
+ rifle, machine gun, security guard (used with permission), and some walls and sprites 
+that came from your mod.  Your graphics kick butt, and your mods are excellent!
+
+- ack - for designing levels 7, 8 and 9, and doing an excellent job of making them 
+fit the theme and feel of the rest of the game.  Your maps are still some of the 
+best ever!
+
+- Arielus - for agreeing to do the excellent map for level 5, even with a bunch of 
+other stuff you had going on, and for helping recruit...
+
+- Brian Lowe - for volunteering to do an awesome map for level 6, as well as for 
+hosting this mod on the Dome!  Your contribution to the Wolf community is invaluable!
+
+
+- Majik Monkee - for the story idea, the rest of the graphics changes, the sounds, 
+and for creating the maps for levels 1, 2, 4 and 10.  Also for doing the title screen 
+and the VGAGRAPH artwork.
+
+- Dumscheissekopf - for the basic concept, putting some of the project material together, 
+suggesting some code changes, and for developing level 3.
+
+- Squaresoft - for the kick-arse music I took from "Final Fantasy Tactics",  "Final 
+Fantasy 3", and "Final Fantasy 8" that you will find in most of the levels.
+
+- the original Wolfenstein crew (ID Software) for making the original Wolfenstein, 
+releasing the source code, and for the graphics from the original game I kept and 
+either changed very little or not at all.  Also, credit goes to ID for characters 
+or material taken from Blake Stone.
+
+- Raven Software for some graphic material used as a base for some of the characters 
+in the game.
+
+
+"Wow!  That's a lot of credits for a mod with only ten levels in it!"  :)
+
+
+
+MUTANT STRIKE 2
+
+STARRING:
+
+Security Guard - Majik Monkee
+Mutants - ID Software (Wolf3D)
+Dirt Devil - ID Software (Doom)
+Special Agent - Majik Monkee
+Balrog - Majik Monkee
+Mutant "X" - ID Software (Wolf3D)
+Mad Scientist - Dumscheissekopf
+Nemesis - Majik Monkee
+Battle Droid - ID Software (Doom)
+Omega Mutant - Majik Monkee
+The Silver Fox - Majik Monkee
+Final Boss - ID Software (Doom)
+
+
+That's all, folks!  Enough reading!  Go play!  If you like this game, and want to 
+shoot Dumscheissekopf or Majik an email, the addresses are:  samueliams@yahoo.com, 
+and Majik's is dhw_majik_monkee@yahoo.com.  Thanks for playing!
+
+- Majik Monkee and Dumscheissekopf-

@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          EDITING/CREATING NEW FLOORS
+                                      for
+                             Operation: Body Count
+                                      by
+                                  Warren Buss
+       
+                   ************IMPORTANT NOTICE*************
+
+       Operation: Body Count(tm) is a Copyrighted game. As such you are
+       cautioned NOT to distribute any files except the modified
+       MAPTEMP.BC and MAPHEAD.BC files.
+
+       If you experience any problems with floors you develop for Body
+       Count using Mapedit, you are requested NOT to contact IntraCorp,
+       Inc. Tech Support. They will not provide help. Instead, contact one
+       of the authors of Mapedit. Please include this entire notice with
+       any floors you distribute to others.
+
+                   *************IMPORTANT NOTICE************
+
+
+
+
+
+
+       * Operation: Body Count is a trademark of IntraCorp, Inc. All other
+       trademarks are acknowledged.
+       
+                             Table of Contents
+
+
+       Introduction . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+       DATA DEFINITION FILES  . . . . . . . . . . . . . . . . . . . .  4
+
+       New Features in Body Count . . . . . . . . . . . . . . . . . .  4
+
+       Body Count Design Considerations . . . . . . . . . . . . . . .  5
+
+       More Body Count Design Considerations. . . . . . . . . . . . .  6
+
+       Hidden Areas, Push Walls . . . . . . . . . . . . . . . . . . .  6
+
+       Locked Doors . . . . . . . . . . . . . . . . . . . . . . . . .  6
+
+       Special Trigger Codes. . . . . . . . . . . . . . . . . . . . .  6
+
+       How Animation Works. . . . . . . . . . . . . . . . . . . . . .  7
+
+       Non-Sliding Doors. . . . . . . . . . . . . . . . . . . . . . .  7
+
+       NETWORKING & Deathmatch Play . . . . . . . . . . . . . . . . .  8
+
+       Debugging Your Levels. . . . . . . . . . . . . . . . . . . . .  8
+
+       
+       Introduction
+
+       Operation: Body Count is the 2nd game from IntraCorp, Inc. that
+       uses an engine licensed from id Software. The first was Corridor 7.
+       Body Count utilizes many of the same features developed especially
+       for Corridor 7. (See the Corridor 7 document in this package for a
+       list of features new to these two games from IntraCorp. Inc.
+
+       As far as creating floors for Body Count is concerned, the approach
+       does not differ markedly from creating floors for Wolf3D, Spear of
+       Destiny, Blake Stone, or Corridor 7. If you have never created a
+       floor for any of these games before, it is recommended that you
+       read through "Tips for Creating/Editing Wolf3D and Spear of Destiny
+       Designs". This document is included in the Mapedit package. The
+       above document will give you a flavor for what is involved.
+
+       DATA DEFINITION FILES
+
+       MAPEDIT provides data definition files for all games it supports.
+       One of these is the MAPDATA file which incorporates graphic symbols
+       for all the walls and doors that appear in Body Count. The other
+       file is the OBJDATA file which contains graphics symbols that
+       represent everything else in the game. The descriptions that appear
+       in the MAPEDIT legend window are mostly too long to fit in the
+       limited space so you must scroll the legend window horizontally to
+       read the entire description. The descriptions are lengthy due to
+       the complex graphic designs.
+
+       New Features in Body Count
+
+       To those of you who have played previous 3-D games, the most
+       obvious new feature that is immediately apparent in Body Count (as
+       well as in its predecessor Corridor 7) is the use of solid "glass"
+       walls through which one can clearly see what is on the other side.
+       This "see-through" feature is extended to certain types of doors as
+       well as other wall types that partition off the floor space.
+
+       Note: Enemies cannot see through any type of wall. If they can be
+       seen moving rapidly about on the other side of a "see-thru" wall,
+       it is because they have shifted to Attack Mode for some reason not
+       related to the "see-through" feature.
+
+       Another interesting feature is the use of "pseudo" animation. Much
+       of the movement is inherent and controlled by the engine. Some of
+       it needs to be overtly triggered by the floor designer with the use
+       of certain triggering object codes. A set of triggering object
+       codes is also used to activate the "see-through" feature mentioned
+       in the previous paragraph.
+
+
+
+
+
+                                       -4-
+       
+       Body Count Design Considerations
+
+       Several features, which may not be obvious at first when playing
+       the game, are included to make play more interesting and difficult.
+       One of these is how the use of certain types of doors will prevent
+       the player's shots from passing through an open doorway.
+
+       Essentially, two types of doors are used in Body Count. The
+       traditional sliding door (mostly elevator doors) is recognized by
+       the game's engine as a real door and when the player shoots through
+       an open sliding door, the shots will pass through and hit their
+       target. Both the player and the actor can see one another.
+
+       The other type of door used (non-sliding) is really a wall with a
+       special object code on it that makes it appear to be a door. It
+       opens and closes using special animation techniques. Both the player
+       and actors can move back and forth unhindered through these doors.
+       But ammunition will not penetrate the open doorway. The player is
+       forced to wait until an enemy has come through such a door before
+       any ammo will hit the target. Alternatively, the player can move
+       to the other side of the door. As a result, if enemies are seen
+       unmoving on the other side of such a door, the player is forced to
+       go in after them rather than waiting for them to come out. Further,
+       if enemies are moving towards the doorway, they will not start
+       shooting until they pass completely through the doorway.
+
+       Another element over which you as a designer will have no control
+       and which makes for more difficult play, mostly occurs when the
+       game is played at skill levels 3 and R (random). At these higher
+       skill levels, the player will occasionally find an enemy actor that
+       will not be killed easily. This includes rats, humans, and the
+       flying turrets. The player, if not careful, can use up a lot of
+       ammo when trying to dispose of these actors. (The player needs to
+       switch to the flame-thrower for rats and humans. The flying turrets
+       are a challenge, but can be destroyed with rocket grenades (flames
+       cannot touch them). To reduce the number of instances where a
+       player has to engage a super-enemy, the player must be more
+       aggressive and not hang back waiting for the enemy to come to
+       him/her.)
+
+       A final element over which you will have no control as you design
+       floors for Body Count occurs when the game is played at the random
+       level of difficulty. This degree of difficulty is similar to level
+       3 except that the player will see many more floor mines (booby
+       traps) scattered throughout most floors, that do not exist on the
+       floor as it was originally designed. On the other hand, during
+       random play, many of the items that were previously hidden from
+       view such as Health Packs, Weapons, etc., will usually be much
+       easier to find because most of them will appear out in the open.
+       Also, enemies will occasionally show up within hidden rooms that
+       are accessible via a pushwall.
+                                      -5-
+       
+       More Body Count Design Considerations
+
+       Wolf3D and Spear of Destiny are prison and castle environments. As
+       such, the use of narrow corridors is in keeping with the spirit of
+       the game (although many wide halls and corridors were used too).
+       Hidden rooms entered through pushwalls contained treasure and
+       caches of ammo and weapons, but sometimes pushwalls were used as
+       shortcuts to other areas.
+
+       Blake Stone occurs in a futuristic sci-fi environment. While there
+       were many alien type creatures created by Dr. Goldfire, there were
+       also humans. The floor designs were not generally dungeon-like in
+       appearance. Hidden rooms were used in virtually the same manner as
+       in Wolf3d and SoD.
+
+       Corridor 7 suggests an entirely different environment: a modern
+       office and lab complex on earth, which is being slowly converted to
+       an out-of-world environment suitable for supporting the alien life
+       that is occupying it. Aside from our Space Marine, there are no
+       other live humans. Narrow halls are the exception rather than the
+       rule.
+
+       Operation: Body Count takes place in twin UN Buildings plus 5 sewer
+       levels. There are only humans, rats, and flying turrets. The
+       environment is modern and graphics have been designed with this in
+       mind.
+
+       Hidden Areas, Push Walls
+
+       Body Count, like its predecessor Corridor 7, contains no treasure.
+       Hidden areas normally contain weapons, ammo, flak jackets, heat
+       sensors, health packs, and other devices helpful to the survival of
+       the player. Many pushwalls can and must be pushed more than once in
+       order to reach what is hidden. Pushwalls move 2 squares (or cells)
+       at a time. To move the wall again, it must stop on another push
+       wall object code.
+
+       Locked Doors
+
+       There are no locked doors in Body Count. If a door doesn't open, it
+       was not intended to open. These are doors that have not had a
+       special object code placed on them to force the animation of a door
+       opening/closing.
+
+       Special Trigger Codes
+
+       As indicated above, Body Count uses special object codes to cause
+       certain walls/doors to appear animated or to be able to see through
+       different wall and door types. These are listed below together with
+       where and how each code is used.
+
+
+
+                                       -6-
+       
+       Object
+       Code     Description
+       ----     -----------
+       0056     Slow Speed Animation
+       0057     Normal Speed Animation
+       0058     High Speed Animation
+       0067     Sliding Door "see thru" and open/close activator
+       0068     Glass "see thru" activator
+       0069     Wall "see thru" activator (incl. fences)
+       006a     Non-sliding door activator with "see thru"
+       006b     No Clipping activated for single map cell
+
+       The above codes are inserted in the same cell on the map as the
+       wall/door that is to be activated.
+
+       How Animation Works
+
+       Animation is implemented in the following way. When the program
+       detects any wall type with an Animation code on it, the program
+       displays the wall represented by that code and the following 3
+       codes in rapid sequence. This causes the wall graphic to be
+       animated. Any one of the 4 wall types used in the animation
+       sequence could be used by itself without an Animation code, thus
+       eliminating any movement.
+
+       Animation speed codes are not used in conjunction with doors.
+       These are reserved for certain wall graphics.  The speed is
+       determined by which animation code you select.  Choose the one
+       you think gives the effect you desire.
+
+       There is a special type of animation that occurs for certain wall
+       types when they are hit by the player's bullets. This animation
+       occurs automatically without any overt action required by the
+       designer.
+
+       Non-Sliding Doors
+
+       As mentioned above, there are 2 basic types of doors used in Body
+       Count. The conventional doors slide left or right when opening.
+       Such doors require no special triggering to make them operate.
+       However, non-sliding doors do require special triggering.
+
+       Because unconventional doors cannot be handled the same as the
+       sliding doors, the animation effect must be applied so that four
+       separate door codes are cycled through one time to see the door
+       open and in reverse to see the door close. Object code '6a' is used
+       for this purpose. It is inserted on the map in the same cell as the
+       door that is to be operated.
+
+       If you want to have one of these doors in the open position and not
+       allow it to be closed, then choose the fully opened door code for
+
+
+
+
+                                       -7-
+       
+       the door type you want and then use object code '6b' so that the
+       door can be walked through. Code '6b' does 2 things. It makes a
+       wall or door appear as a thin partition and then applies "no
+       clipping" logic so that it can be walked through.
+
+       To help you determine which doors/walls can be animated, the
+       Mapdata legend window in Mapedit will provide one added piece of
+       information: the trigger object code needed to animate the action.
+
+       NETWORKING & Deathmatch Play
+
+       There are 10 additional levels available for this purpose. They are
+       levels 51 through 60. They have large open areas and lots of
+       available ammo, weapons, health items, etc. There are no enemy
+       actors in these levels.
+
+       While starting locations are in each Network level, the game will
+       assign random starting locations for each player at the start of
+       the game.
+
+       Debugging Your Levels
+
+       Debugging codes do exist for this game, but it has not been learned
+       how to implement them. If you know, or find out how, please notify
+       one of the authors so the information can be added to this
+       document.
+
+       When you desire to test a floor, you can transfer the floor to
+       level 1 so you don't have to work your way through other levels to
+       get to your test floor. Be sure to save the original 1st floor so
+       you can restore it later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -8-
+

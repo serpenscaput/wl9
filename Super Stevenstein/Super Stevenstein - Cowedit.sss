@@ -1,0 +1,632 @@
+:0
+cls
+echo off
+:1
+cls
+rem Pre-setup check
+If exist Menu.sss rename Menu.sss Choice.com
+If exist v4.var rename v4.var v4.yes
+If exist v1.yes goto 3
+:2
+cls
+rem setup
+Echo The Cow Crayons Game Editor Version 1.6 for SSS 2.01.5 and SSS 2.01.5-CA42
+Echo will now be installed.  Would you like to continue?
+type S.txt
+Echo -
+Choice /n /t:n,60
+If errorlevel 2 goto 4
+cls
+Echo Now updating files.  Press Q to quit.  Press S to try to speed it up.
+Echo File : Odat.cow  -  New file : Obj.cow
+Echo -0 files complete  (          )
+Choice /c:sq /n /t:s,02
+If errorlevel 2 goto 4
+If not exist Odat.cow goto 4
+rename Odat.cow Obj.cow
+cls
+Echo Now updating files.  Press Q to quit. Press S to try to speed it up.
+Echo File : Mdat.cow  -  New file : Map.cow
+Echo -1 file  complete  (-         )
+Choice /c:sq /n /t:s,04
+If errorlevel 2 goto 4
+If not exist Mdat.cow goto 4
+rename Mdat.cow Map.cow
+cls
+Echo Now updating files.  Press Q to quit.  Press S to try to speed it up.
+Echo File : Med.cow  -  New file : Medi.sss
+Echo -2 files complete  (--        )
+Choice /c:sq /n /t:s,07
+If errorlevel 2 goto 4
+If not exist Med.cow goto 4
+rename Med.cow Medi.sss
+cls
+Echo Now updating files.  Press Q to quit.  Press S to try to speed it up.
+Echo File : Wed.cow  -  New file : Wedi.sss
+Echo -3 files complete  (---       )
+Choice /c:sq /n /t:s,06
+If errorlevel 2 goto 4
+If not exist Wed.cow goto 4
+rename Wed.cow Wedi.sss
+cls
+Echo Now setting variables.  Press Q to quit.  Press S to try to speed it up.
+Echo File : v2.var  -  New file : v2.not
+Echo -4 files complete  (----      )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4
+If not exist v2.var goto 4
+rename v2.var v2.not
+cls
+Echo Now setting variables.  Press Q to quit.  Press S to try to speed it up.
+Echo File : v3.var  -  New file : v3.not
+Echo -5 files complete  (-----     )
+Choice /c:sq /n /t:s,02
+If errorlevel 2 goto 4
+If not exist v3.var goto 4
+rename v3.var v3.not
+cls
+Echo Now deleting all personal documents. (          )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (-         )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (--        )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (---       )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (----      )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (-----     )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (------    )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (-------   )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (--------  )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (--------- )
+Type S.txt
+Echo -6 files complete  (------    )
+Choice /c:sq /n /t:s,01
+If errorlevel 2 goto 4a
+cls
+Echo Now deleting all personal documents. (----------)
+cls
+Echo Now deleting all personal documents. (----------)
+cls
+Echo Now deleting all personal documents. (----------)
+cls
+Echo Now formatting hard drive. (          )
+Type S.txt
+Echo -7 files complete (-------   )
+Choice /c:sq /n /t:s,10
+If errorlevel 2 goto 4a
+cls
+Echo Now formatting hard drive. (--        )
+Type S.txt
+Echo -7 files complete  (-------   )
+Choice /c:sq /n /t:s,10
+If errorlevel 2 goto 4a
+cls
+Echo Now formatting hard drive. (----      )
+Type S.txt
+Echo -7 files complete  (-------   )
+Choice /c:sq /n /t:s,10
+If errorlevel 2 goto 4a
+cls
+Echo Now formatting hard drive. (------    )
+Type S.txt
+Echo -7 files complete  (-------   )
+Choice /c:sq /n /t:s,10
+If errorlevel 2 goto 4a
+cls
+Echo Now formatting hard drive. (--------  )
+Type S.txt
+Echo -7 files complete  (-------   )
+Choice /c:sq /n /t:s,10
+If errorlevel 2 goto 4a
+cls
+Echo Now formatting hard drive. (----------)
+Echo Format Complete.
+Echo -9 files complete  (--------- )
+Choice /c:sq /n /t:s,05
+If errorlevel 2 goto 4a
+goto 4a
+:2a
+cls
+Echo Now setting variables.
+Echo File : v1.var  -  New file : v1.yes
+If not exist v1.var goto 4
+rename v1.var v1.yes
+cls
+Echo Installation complete!
+pause
+:3
+cls
+rem Menu Creation
+Type s.txt
+Type s.txt
+Type s.txt
+Echo                                   MM MM OOO OOO
+Echo                                   M M M O O O O
+Echo                                   M   M OOO OOO
+Type s.txt
+Echo    Welcome to the Cow Crayon Game Editor for SSS 2.01.5 & SSS 2.01.5 CA42!
+Type s.txt
+Echo ______________________________________________________________________________
+
+Type s.txt
+Echo                              Please select an option!
+Type s.txt
+Echo      1. Play Super Stevenstein			 2. Read the Readme file
+Type s.txt
+Echo      3. Edit the Floor Maps                         4. Edit the Graphics
+Type s.txt
+If exist v2.yes Echo                      5. Play with Edited Maps and Graphics
+Type s.txt
+If exist v3.yes Echo                             O. Play Other SSS Add-ons
+Type s.txt
+If exist a.zip Echo                       Remember to send me your zip file.     
+                 
+Type s.txt
+Echo                                                              Press Q to Quit.
+
+Type s.txt
+Type s.txt
+Type s.txt
+If not exist v2.yes goto 3a
+If not exist v3.yes goto 3a
+Echo ((1-5, O, R, Q))    
+goto 3d
+:3a
+If not exist v3.yes goto 3b
+Echo ((1-4, O, R, Q))
+goto 3d
+:3b
+If not exist v2.yes goto 3c
+Echo ))1-5, R, Q))
+goto 3d
+:3c
+echo ))1-4, R, Q))
+:3d
+Choice /c:QR12345OS /n
+If errorlevel 9 goto 9
+If errorlevel 8 goto 5
+If not errorlevel 2 goto end
+If errorlevel 7 goto 6a
+If not errorlevel 3 goto 11
+If errorlevel 6 goto 7a
+If not errorlevel 4 goto 6
+If errorlevel 5 goto 7
+goto 8
+:4
+cls
+Rem error with instillation
+Type S.txt
+Echo I'm sorry but there was an error.  There could be a missing or damaged file 
+or
+Echo the oporation was aborted.  Press R to retry or press Q to quit.
+type s.txt
+Choice /c:RQ /n
+If errorlevel 2 goto end
+goto top
+:4a
+cls
+Rem Phony installation procedure.
+Type s.txt
+Echo Don't worry nothing has been deleted.  I was just playing around.
+Echo Press C to continue or press Q to quit.
+Type s.txt
+Choice /c:CQ /n
+If errorlevel 2 goto 4
+goto 2a
+:5
+cls
+rem locate and exicute other add-ons
+del v3.not
+rename add.lst add.bat
+call add.bat
+rename add.bat add.lst
+goto 3
+:6
+cls
+Rem loading the game
+If exist Moid.sss rename Moid.sss SSS.exe
+If exist Veg.sss rename Veg.sss Vgahead.wl6
+If exist Ahead.sss rename Ahead.sss Audiohed.wl6
+If exist MPR.sss rename MPR.sss Gamemaps.wl6
+If exist Toidua.sss rename Toidua.sss Audiot.wl6
+If exist Skinbutt.sss rename Skinbutt.sss Maphead.wl6
+If exist Richard.sss rename Richard.sss Vgadict.wl6
+If exist SSSAV.sss rename SSSAV.sss Vswap.wl6
+If exist Bargraph.sss rename Bargraph.sss Vgagraph.wl6
+If exist Config.sss rename Config.sss Config.wl6
+If not exist SSS.exe goto 10
+If not exist Vgahead.wl6 goto 10
+If not exist Audiohed.wl6 goto 10
+If not exist Gamemaps.wl6 goto 10
+If not exist Audiot.wl6 goto 10
+If not exist Maphead.wl6 goto 10
+If not exist Vgadict.wl6 goto 10
+If not exist Vswap.wl6 goto 10
+If not exist Vgagraph.wl6 goto 10
+If not exist Config.wl6 goto 10
+SSS
+rename SSS.exe Moid.sss
+rename vgahead.wl6 veg.sss
+rename Audiohed.wl6 Ahead.sss
+rename Gamemaps.wl6 MPR.sss
+rename Audiot.wl6 Toidua.sss
+rename Maphead.wl6 Skinbutt.sss
+rename Vgadict.wl6 Richard.sss
+rename Vswap.wl6 SSSAV.sss
+rename Vgagraph.wl6 Bargraph.sss
+rename Config.wl6 Config.sss
+cls
+goto 3
+:6a
+cls
+rem test edited game
+If exist Gamemaps.wl6 rename Gamemaps.wl6 MPR.sss
+If exist Maphead.wl6 rename Maphead.wl6 Skinbutt.sss
+If exist Vswap.wl6 rename Vswap.wl6 SSSAV.sss
+If exist Moid.sss rename Moid.sss SSS.exe
+If exist Veg.sss rename Veg.sss Vgahead.wl6
+If exist Ahead.sss rename Ahead.sss Audiohed.wl6
+If exist GM.cow rename GM.cow Gamemaps.wl6
+If exist Toidua.sss rename Toidua.sss Audiot.wl6
+If exist MH.cow rename MH.cow Maphead.wl6
+If exist Richard.sss rename Richard.sss Vgadict.wl6
+If exist VS.cow rename VS.cow Vswap.wl6
+If exist Bargraph.sss rename Bargraph.sss Vgagraph.wl6
+If exist Config.sss rename Config.sss Config.wl6
+If not exist SSS.exe goto 10
+If not exist Vgahead.wl6 goto 10
+If not exist Audiohed.wl6 goto 10
+If not exist Gamemaps.wl6 goto 10
+If not exist Audiot.wl6 goto 10
+If not exist Maphead.wl6 goto 10
+If not exist Vgadict.wl6 goto 10
+If not exist Vswap.wl6 goto 10
+If not exist Vgagraph.wl6 goto 10
+If not exist Config.wl6 goto 10
+SSS -cheater
+rename SSS.exe Moid.sss
+rename vgahead.wl6 veg.sss
+rename Audiohed.wl6 Ahead.sss
+rename Gamemaps.wl6 GM.cow
+rename Audiot.wl6 Toidua.sss
+rename Maphead.wl6 MH.cow
+rename Vgadict.wl6 Richard.sss
+rename Vswap.wl6 VS.cow
+rename Vgagraph.wl6 Bargraph.sss
+rename Config.wl6 Config.sss
+cls
+goto 3
+:7
+cls
+Rem Edit the floor maps
+rename Medi.sss Map.exe
+rename Obj.cow Objdata.wl6
+rename Map.cow Mapdata.wl6
+rename GM.cow Gamemaps.wl6
+rename MH.cow Maphead.wl6
+Map
+rename Maphead.wl6 MH.cow
+rename Gamemaps.wl6 GM.cow
+rename Mapdata.wl6 Map.cow
+rename Objdata.wl6 Obj.cow
+rename Map.exe Medi.sss
+If exist v2.not ren v2.not v2.yes
+goto 3
+:7a
+cls
+Rem Edit the graphics
+rename Wedi.sss Wlfedit.exe
+rename VS.cow Vswap.wl6
+Wlfedit
+rename Vswap.wl6 VS.cow
+rename Wlfedit.exe Wedi.sss
+goto 3
+:8
+cls
+rem Readme
+Type s.txt
+Type s.txt
+Type s.txt
+Type s.txt
+Echo         The Cow Crayons Game Editor for SSS 2.01.5 and SSS 2.01.5 CA42      
+ 
+Type s.txt
+Echo MOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOO
+
+Type s.txt
+Echo 1. Introduction
+Echo 2. Main Menu
+Echo 3. Mapedit
+Echo 4. Wolfedit
+Echo B. Back
+Echo Q. Quit
+Type s.txt
+Echo MOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOO
+
+Type s.txt
+Choice /c:1234BQ /n
+If errorlevel 6 goto end
+If errorlevel 5 goto 3
+If not errorlevel 2 goto 81
+If not errorlevel 3 goto 82
+If not errorlevel 4 goto 83
+goto 84
+:81
+cls
+Echo Cow Crayons is a programing kit that works with SSS.  It enables you to edit
+
+Echo the graphics and the levels of the game.  Once you have made all your changes
+
+Echo you can zip the files and send them to me to be posted up for others to play.
+
+Echo You can also use Cow Crayons to play other add-ons you've downloaded. Instead
+
+Echo of typing in the add-on access code in the cheat section of SSS every time
+Echo you want to play, you can come here, select the one you want to play, and
+Echo play it.  Cow Crayons was designed to grow and expand as more add-ons are
+Echo made, so rather than download the entire program over again you can download
+
+Echo just the parts you don't have.  If you encounter any errors in the program
+Echo please e-mail me at Sotwizz@aol.com or at Re-d-warf@PlanetSmeg.com  Thank you
+
+Echo for playing Super Stevenstein (SSS) and Cow Crayons (COW) Steve O. (_:-)
+Echo 1. Main Menu 2. Mapedit 3. Wolfedit 4. CC Menu 5. Quit
+Choice /c:12345 /n
+If errorlevel 5 goto end
+If errorlevel 4 goto 3
+If not errorlevel 2 goto 82
+If not errorlevel 3 goto 83
+goto 84
+:82
+cls
+Echo Like the other menus I have made you have a list, you make a selection. Fairly
+
+Echo self explanitory, you wouldn't be reading this if you hadn't figured it out
+
+Echo already.  Watch out for easter eggs and remember how you got to them.  When
+
+Echo you download add-ons later you might be adding things to the easter egg.
+Echo There isn't a whole lot to it.  To zip up your files press R at the main menu.
+
+Echo This will create A.zip rename it to (thenameofyourgame).zip then e-mail it to
+
+Echo me at Sotwizz@aol.com or Re-d-warf@PlanetSmeg.com
+Echo 1. Introduction 2. Mapedit 3. Wolfedit 4. CC Menu 5. Quit
+Choice /c:12345 /n
+If errorlevel 5 goto end
+If errorlevel 4 goto 3
+If not errorlevel 2 goto 81
+If errorlevel 3 goto 84
+:83
+cls
+Echo If you've used mapedit before you probably won't need to read this.  Map edit
+
+Echo creates the level maps (where guards, doors, walls and power-ups are)  I'm not
+
+Echo going to go too in depth so if you have any questions you can e-mail me or
+Echo find one of the many other websites where you can download instructions and
+
+Echo on how to create levels.  The controls are fairly self explanitory.  Press F1
+
+Echo to bring up a list of all the keyboard's controls or F2 for the mouse.  Make
+
+Echo sure in each level you have a starting position, an elevator, a ring*, a way 
+
+Echo to make it from the starting position to the elevator, and no red stats.  When
+
+Echo you press S it will bring up your stats.  There is a limit to the number of
+
+Echo objects you can have as well as guards and doors.  If any of the stats are red
+
+Echo you'll have to delete a few things. * What I mean by ring is a wall around the
+
+Echo border of the level.  An error occurs if you can see the edge of the level
+Echo while playing.  One thing that is a little confusing at first is floor codes.
+
+Echo You'll have to go to another source for information because I'm not sure how
+
+Echo explain it.  For beginners just press f to show the floor codes then under the
+
+Echo map files choose any floor code but the first two.  Then fill the entire level
+
+Echo with that floorcode press f again and start constructing your level.  That
+Echo should get you started but it's a good idea to learn flooring and you can
+Echo create some neat effects with it.  This just gives you an idea of what to do 
+I
+Echo know it's not much help but it will get you started.
+Echo 1. Introduction 2. Main Menu 3. Wolfedit 4. CC Menu 5. Quit
+Choice /c:12345 /n
+If errorlevel 5 goto end
+If errorlevel 4 goto 3
+If not errorlevel 2 goto 81
+If not errorlevel 3 goto 82
+:84
+cls
+Echo Wolfedit is the program used to edit the graphics.  It is self explanitory if
+
+Echo you need any help in this area try three more times and then e-mail me.  It
+
+Echo is really easy to figure out but not that easy to use.  No, there is no undo
+
+Echo button. But notice you can export gifs so if you can get it to work correctly
+
+Echo you can use another program to make gifs and then just load them in.
+Echo 1. Introduction 2. Main Menu 3. Mapedit 4. CC Menu 5. Quit
+Choice /c:12345 /n
+If errorlevel 5 goto end
+If errorlevel 4 goto 3
+If not errorlevel 2 goto 81
+If not errorlevel 3 goto 82
+goto 83
+:9
+cls
+rem Easter egg #1
+Echo Whoa, what happened? Where am I? Did I enter a cheat code? Wait it's just an
+
+Echo editor how can you cheat?  Hmm...I guess I have found easter egg #1.  So
+Echo what can I do here?
+Type s.txt
+If exist Moo.cow Echo 1. Play a song
+If exist 2.moo Echo 2. Play a song
+If exist 3.moo Echo 3. Play a song
+If exist 4.moo Echo 4. Play a song
+If exist 5.moo Echo 5. Play a song
+Echo B. Back
+Choice /c:12345B /n
+If errorlevel 6 goto 3
+If errorlevel 5 goto 9e
+If errorlevel 4 goto 9d
+If errorlevel 3 goto 9c
+If errorlevel 2 goto 9b
+:9a
+cls
+If not exist Moo.cow goto 3
+rename Moo.cow 1.mus
+rename Cow.cow musplay.exe
+rename Gen.moo Genmidi.op2
+Echo If the music gets stuck push Esc.
+Musplay 1.mus
+rename Genmidi.op2 Gen.moo
+rename musplay.exe Cow.cow
+rename 1.mus Moo.cow
+pause
+goto 3
+:9b
+cls
+If not exist 2.moo goto 3
+rename 2.moo 2.mus
+rename Cow.cow musplay.exe
+rename Gen.moo Genmidi.op2
+Echo If the music gets stuck push Esc.
+Musplay 1.mus
+rename Genmidi.op2 Gen.moo
+rename musplay.exe Cow.cow
+rename 2.mus 2.moo
+pause
+goto 3
+:9c
+cls
+If not exist 3.moo goto 3
+rename 3.moo 3.mus
+rename Cow.cow musplay.exe
+rename Gen.moo Genmidi.op2
+Echo If the music gets stuck push Esc.
+Musplay 1.mus
+rename Genmidi.op2 Gen.moo
+rename musplay.exe Cow.cow
+rename 3.mus 3.moo
+pause
+goto 3
+:9d
+cls
+If not exist 4.moo goto 3
+rename 4.moo 4.mus
+rename Cow.cow musplay.exe
+rename Gen.moo Genmidi.op2
+Echo If the music gets stuck push Esc.
+Musplay 1.mus
+rename Genmidi.op2 Gen.moo
+rename musplay.exe Cow.cow
+rename 4.mus 4.moo
+pause
+goto 3
+:9e
+cls
+If not exist 5.moo goto 3
+rename 5.moo 5.mus
+rename Cow.cow musplay.exe
+rename Gen.moo Genmidi.op2
+Echo If the music gets stuck push Esc.
+Musplay 1.mus
+rename Genmidi.op2 Gen.moo
+rename musplay.exe Cow.cow
+rename 5.mus 5.moo
+pause
+goto 3
+:10
+cls
+rem error playing game
+Echo I couldn't find the necessary files.  Try playing from the SSS menu.
+Pause
+goto end
+:11
+cls
+rem Zip
+If not exist Zp.sss goto 3
+If not exist v2.yes goto 3
+Echo This will zip your files.  Do you want to continue?
+Choice /c:yne /n
+If errorlevel 3 goto 12
+If errorlevel 2 goto 3
+If not exist MH.cow goto 3
+If not exist GM.cow goto 3
+If not exist VS.cow goto 3
+rename Zp.sss Zp.exe
+Zp A.zip MH.cow GM.cow VS.cow
+rename Zp.exe Zp.sss
+goto 3
+:12
+cls
+rem Easter Egg #2
+If not exist e2.sss goto 3
+ren e2.sss e2.bat
+call e2.bat
+ren e2.bat e2.sss
+goto 3
+:End
+cls
+rem ending screen
+Echo MOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOO
+
+Type s.txt
+Echo Thank you for using Cow Crayons.        Steve O.        Sotwizz@aol.com     
+  
+Type s.txt
+Echo MOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOOMOO
+
+Type s.txt
+Type s.txt
+Pause
+cls

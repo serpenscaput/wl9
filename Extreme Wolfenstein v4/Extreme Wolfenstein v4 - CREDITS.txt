@@ -1,0 +1,34 @@
+===============Credits=====================
+
+============Programming====================
+
+   Sigma64     Blzut3    John Carmack 
+ 
+ John Romero        Jason blochowiak
+
+===========Graphics========================
+
+Adrian Carmack   Kevin Cloud  Sigma64
+
+Formgen Corporation   Apogee ID software
+
+Monolith Productions   Netsoftware
+
+Lobotomy Software  Laz Rojas - Rat
+
+==============Sounds======================
+
+Wolfenstein 3D    Return to Castle Wolfenstein
+Quake     Duke Nukem    Rise of the Triad
+DOOM DOOM ][ 
+and, oddly enough, The Yellow Avenger, a 
+Spongebob game (For the bubble sound.)
+
+===============NOTICE===================
+ 
+Wolfenstein 3D is the property of ID 
+software, and ID software alone. Most of 
+the graphics used are based on those 
+created by them. 
+
+  

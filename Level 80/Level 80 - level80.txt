@@ -1,0 +1,29 @@
+Level 80 4SDL
+
+
+Thank you for wanting to play Level 80.
+
+In order to play Level 80 you need to own a registered version of Spear of Destiny 
+by ID Software. Copy the AUDIOHED and AUDIOT files from Spear of Destiny to Level 
+80 and change the extensions accordingly:
+
+audiohed.l80
+audiot.l80
+
+
+Level 80 consists of one special level
+The "Death Incarnate" difficulty level is designed to be as difficult as possible 
+without being impossible!
+It is possible to get the 100% ratio in all three categories.
+Level 80 has been tested and won on "Death Incarnate" with total ratios of 100% in 
+all three categories.
+
+Remember to leave saved games in different slots so that you may go back to different 
+stages of the level you are on if you need to.
+
+
+
+Paal Olstad (Poet).
+
+
+p-olstad@online.no

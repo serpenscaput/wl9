@@ -1,0 +1,42 @@
+FINAL FIGHT MISSION PACK 1: OPERATION PHOENIX CREDITS
+
+LEVELS:
+1/20 - TheSaiyanHog/SSJKlonoa
+
+GRAPHICS: 
+Various walls, etc - WLHack
+Status Bar - Richard Kelly
+Super Mutant, Dr. Betruger, Demon Betruger, Wolfenstein Font - Ian Summerfield
+SS Variations: red color - David
+Pistol Guard - Wolf Skevos-Jones
+Black Hans Grosse by Laz Rojas
+Schabbs, Knife by Zach Higgans
+Spirit by Luke Strauman
+MP-60 Weapon - Airslide
+Black Hans Grosse Boss - Laz Rojas
+Hitler Armor - Formgen, Inc
+UberMutant Prototype Boss - General BlitzKanonier
+Blue Trans Grosse Boss - KyleRTCW
+BJ Blazkowicz Artwork - D-SM
+Red HUD - Richter Belmont, Zach Higgans
+
+OTHER:
+HKMS-940 sound - WLHack
+Guard/Door/SS/Officer/Hans/Mutant/Dog/Remington .45/MP-60 Sounds - BJ Rowan & Zach 
+Higgans
+Dr. Betruger Sounds - Zach Higgans & Formgen, Inc
+UberMutant Prototype Sounds - KFH Games
+Music selection - James Shain (vgmusic.com) & TheSaiyanHog/SSJKlonoa (Corridor 7 
+Alien Invasion)
+Source code Changes - Mr. Brian Lowe
+
+Thanks to Eric Lin for hosting the Wolf3D Haven forum, which brought so many people 
+together to work on this mod.
+
+Thanks to id Software for making Wolfenstein 3D and for providing the source code. 
+Without them and their game, we'd have no addons.
+
+And for last, thanks to James Shain for creating The Final Fight, without it, this 
+mission pack would never exist.
+
+-SSJKlonoa

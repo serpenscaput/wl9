@@ -1,0 +1,34 @@
+Hi ;D
+
+Thank you for downloading the testversion of our wolfenstein 3d engine!
+As the name "testversion" suggests, it still contains many bugs, so don't think you'll 
+see a perfect programm!
+The maps delivered in this package were NOT REALLY written for this engine *gg* They've 
+been built up when there was only fog, fullscreen and respawning! This package is 
+only released to show you the things possible to do with our wolf3d engine!
+Make sure that you have plenty of free main memory or you won't be able to see the 
+fullscreen mode. Also you should disable sound coz it also takes much memory.
+Here an overview of the map specific features (or something like that ;) ) :
+
+   1. level: sky+snow+floor
+   2. level: sky+rain+floor
+   3. level: sky+floor
+   4. level: ceiling+floor
+
+Of course you will also notice, that the textures aren't that good for this features, 
+but it's just a testversion to show you, what is possible!
+
+For those who don't want to go through those levels to see other feature sets start 
+the programm with "wolf chaos" at the command line.
+With the normal <SHIFT>+<ALT>+<BACKSPACE> you get into debug mode and then you can 
+warp with <TAB>+W into the levels. Don't warp into levels after level 6 (or 7??), 
+because I'm not sure what will happen because of the floor and ceiling sets which 
+aren't available for later maps.
+
+So, have fun while staring at your monitor and don't forget to sign our guestbook 
+;)
+
+Visit www.chaos-software.org !!
+
+Greets
+Ripper

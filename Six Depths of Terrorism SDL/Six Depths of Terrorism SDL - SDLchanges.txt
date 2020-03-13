@@ -1,0 +1,31 @@
+TSDT by Barry Christian (wolf3d mod)
+original DOS release: 8 October 1998 (v1.2 17 June 1999)
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 2 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+Apogee 1.1 signon screen
+TSDT hex edits reproduced (ceilings, music, par times, etc.)
+
+Further improvements in SDL version:
+
+Levels 9 through 59 now get full "level completed" and are added to final ratios
+
+Show episode 2 Schabbs endart after victory
+Minor mapping bugs fixed on levels 2,6,17,18,24,26,31,38,39
+Added some health, ammo and 1-ups to level 29, it was truly impossible to beat
+--mapnames parameter shows map names on get psyched
+Extend Tab+L level ratios to 60 levels
+Show scores over 10 million on status bar
+No zombies in consecutive deaf guards in a channel
+Some cheat messages reverted to original (warp to level 11 not necessary anymore)
+
+Level 49 secret elevator does not throw you back to level 10
+
+
+

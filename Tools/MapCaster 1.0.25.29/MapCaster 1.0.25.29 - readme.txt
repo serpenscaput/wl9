@@ -1,0 +1,39 @@
+MapCaster 1.0.25.29
+==================================================
+MapCaster does not currently support anything more than editing walls
+and should be considered a proof of concept. It is buggy - expect it
+to crash and save often. It might even crash while saving, I make no
+guarantees - so don't do anything super important with it just yet.
+
+...But if you do make something cool with it, be sure to contact me!
+I'd love to hear about it.
+
+For bug reports, contact me (Diema#6969) on Discord. Be sure to let me
+know which version of MapCaster you're using and try to describe how to
+replicate the problem. If it crashes with specific maps, please include
+it with your bug report.
+
+To use the editor, first, make sure you load any custom graphics first.
+These can be supplied in your own pk3. Go to "File > Open pk3" to do this.
+Then, load a project. "wl6.caster" is supplied for you, which should
+correctly map all vanilla Wolf3D tiles, sans floorcodes.
+Finally, load or start a new map.
+
+Controls
+==================================================
+Up/Dn/Left/Right = Traditional movement
+W/S/A/D          = Modern movement
+M                = Mouselook toggle
+T                = Iso view toggle
+Left click       = Place tile
+Mousewheel       = Zoom in/out in iso view.
+                   Hold Ctrl to scroll available tiles.
+F                = Free selected tile. Resets it to zero.
+R                = Manually input tile ID to paint.
+U                = Manually update world.
+V                = Print version information.
+F1               = Screenshot. Writes to %LOCALAPPDATA%/MapCaster.
+
+Open wl6.caster in Notepad to see how to write your
+own project files. In the future, these will be
+editable directly in the editor.

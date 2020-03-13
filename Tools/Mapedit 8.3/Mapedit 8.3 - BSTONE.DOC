@@ -1,0 +1,1489 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           BLAKE STONE FLOOR EDITING
+                                      by
+                                  Warren Buss
+
+                 Essential Information Required to Understand
+                                   Features
+                                      of
+                          Blake Stone: Aliens of Gold
+                                      and
+                          Blake Stone: Planet Strike
+       
+                             Table of Contents
+
+       Introduction . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+       Blake Stone: Aliens of Gold Floor Design Assumption  . . . . .  4
+
+       Floor Codes. . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+       Special Floor Code '6a'. . . . . . . . . . . . . . . . . . . .  6
+
+       Hidden Doors (or Push Walls) and Floor Codes '6c' and 'a2' . .  6
+
+       "Moving" Human Guards. . . . . . . . . . . . . . . . . . . . .  7
+
+       Actions of the Enemy in Attack Mode. . . . . . . . . . . . . .  7
+
+       Other Uses for "Blocking" Floor Codes. . . . . . . . . . . . .  8
+
+       Access Card Placement. . . . . . . . . . . . . . . . . . . . .  8
+
+       Red & Gold Access Cards and Mission Endings. . . . . . . . . .  8
+
+       Special Large Hex Value (LHV) Object Codes . . . . . . . . . .  8
+
+       Food Units . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+
+       Automatic Doors. . . . . . . . . . . . . . . . . . . . . . . .  9
+
+       Door Linkages. . . . . . . . . . . . . . . . . . . . . . . . .  9
+
+       Teleporters. . . . . . . . . . . . . . . . . . . . . . . . . . 10
+            Local Teleporting . . . . . . . . . . . . . . . . . . . . 10
+            Distant Teleporting . . . . . . . . . . . . . . . . . . . 10
+            Teleporting to Non-Secret Floors. . . . . . . . . . . . . 10
+                 Teleporting Ahead. . . . . . . . . . . . . . . . . . 10
+                 Use of Access Cards. . . . . . . . . . . . . . . . . 11
+
+       Barriers and Barrier Switches. . . . . . . . . . . . . . . . . 11
+
+       Random Behavior of Aliens & Mutants (Time Delays). . . . . . . 11
+
+       BIO-Techs and Messages . . . . . . . . . . . . . . . . . . . . 12
+
+       Floor & Ceiling Texture Selection. . . . . . . . . . . . . . . 12
+
+       Floor & Ceiling Colors . . . . . . . . . . . . . . . . . . . . 12
+
+       Secret Floors. . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+       Elevators. . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+       Positioning GoldFire . . . . . . . . . . . . . . . . . . . . . 14
+
+       Balance. . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+       
+       Weapons. . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+       MAPDATA (Choosing Walls) . . . . . . . . . . . . . . . . . . . 16
+
+       OBJECT DATA Types. . . . . . . . . . . . . . . . . . . . . . . 17
+
+       The Automap & Leaking Walls. . . . . . . . . . . . . . . . . . 17
+
+       New Features of Blake Stone: Planet Strike . . . . . . . . . . 18
+            Invisibility Cloaks . . . . . . . . . . . . . . . . . . . 18
+            Morphing. . . . . . . . . . . . . . . . . . . . . . . . . 19
+            Activating Guards Early . . . . . . . . . . . . . . . . . 19
+            Barrier Activation. . . . . . . . . . . . . . . . . . . . 19
+            Fission Detonator . . . . . . . . . . . . . . . . . . . . 20
+            LHV Use . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+       APPENDIX . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+            Bio-Tech Message Codes  . . . . . . . . . . . . . . . . . 21
+                 Informant Message (F1) numbers . . . . . . . . . . . 21
+                 Loyalist Warning (F2) numbers. . . . . . . . . . . . 22
+                 Loyalist Alarm (F3) numbers. . . . . . . . . . . . . 22
+            Teleporters . . . . . . . . . . . . . . . . . . . . . . . 23
+            Barriers and Barrier Switches . . . . . . . . . . . . . . 23
+            Time Delays . . . . . . . . . . . . . . . . . . . . . . . 23
+            Ceiling and Floor Texture Codes . . . . . . . . . . . . . 24
+            Food Units. . . . . . . . . . . . . . . . . . . . . . . . 25
+            Ceiling and Floor Color Codes . . . . . . . . . . . . . . 25
+            Debugging Codes . . . . . . . . . . . . . . . . . . . . . 27
+            Normal Command Line Parameters. . . . . . . . . . . . . . 28
+       
+       Introduction
+
+       For the many who enjoyed creating new floors for Wolfenstein 3D(tm)
+       and Spear of Destiny(tm), you will be even more delighted with what
+       Blake Stone(tm) has to offer over the previous games.
+
+       At this writing there is only one known editor (MAPEDIT Vers. 8 or
+       later) that lets you create new floors for either Blake Stone game.
+       Since many of you may have already used MAPEDIT to create Wolf and
+       SoD levels, you should be able to begin your designs with only a
+       relatively small amount of your time invested in learning the
+       special features required for Blake Stone levels.
+
+       The editor aside, the Blake Stone engine offers a number of
+       improvements over its predecessor.  Areas of design that often
+       caused problems in Wolf3D and SoD floors have been eliminated in
+       Blake Stone. Some of the features make it much easier to create
+       floors that don't lead to the inevitable "turkey shoots" which were
+       a hallmark of the earlier games. MAPEDIT makes it very easy to
+       implement these new features. The implementation by MAPEDIT of the
+       Blake Stone features described below is explained in MAPEDIT.DOC.
+
+       There is a separate section below devoted to the features of Blake
+       Stone: Planet Strike.
+
+       Blake Stone: Aliens of Gold Floor Design Assumption
+
+       Aliens of Gold has one major design assumption. The commercial game
+       uses 11 floors in each mission (although there are more available -
+       see Appendix for details). All floors are assumed to be part of the
+       same structure (which is square). All but floor #0, (the
+       basement/1st secret floor) must have an elevator.
+
+       There's a single elevator shaft which connects all floors, hence
+       the ELEVATOR MUST BE IN THE SAME RELATIVE POSITION ON EACH FLOOR.
+       (The design of the elevator controls enable Stone to return to any
+       previously completed level without having to stop at all the floors
+       between the floor he is on and the one where he wants to go).
+
+       Further, Blake Stone must start each floor from an elevator except
+       Floor #1 where his starting position is designated by a Start
+       Position code. NOTE: If more than one Start Position code appears
+       on the 1st floor, the last one sensed by Mapedit is used.
+
+       Floor Codes
+
+       Designers of Wolf3D and SoD levels frequently had problems
+       understanding the use of floor codes and how to assign them. Those
+       problems have been virtually eliminated in the Blake Stone engine.
+       In WOLF3D and SoD it was a no-no to mix different floor codes in
+       the same open area, which often resulted in having guards standing
+       around as statues and taking no action. All floor codes had to be
+                                      -4-
+       
+       isolated from one another by walls and doors. The opening of a door
+       was a signal for guards to become active if a shot were heard or
+       the enemy was seen (unless a guard was marked as being "deaf" -
+       more on this later).
+
+       With the new engine, guards immediately swing into action as soon
+       as Blake moves onto the same floor code they are on (and they can
+       either see him or hear him) without needing a door to open.
+       (Opening a door and firing a shot into an area with a different
+       floor code still alerts guards within).
+
+       However, since you probably don't want to alert an entire floor on
+       the first shot, the level should be broken down into unique
+       "codes".  Floor codes (for those of you who don't know) are used to
+       isolate areas of the overall floor from one another such that enemy
+       guards can be made to engage in a fight or not, depending on how
+       you assign floor codes. This does not mean, for example, that in an
+       area that is 5 squares by 5 squares, you would use 25 different
+       codes - a single floor code for the entire 25 squares would be the
+       norm. And every square that is not a wall or door should have a
+       floor code - never leave any squares unassigned.
+
+       In Blake Stone, there are more than enough unique floor codes to
+       handle the most complex designs. In fact there are 2 complete sets
+       of nearly identical floor codes. One set (codes 6c through 98) are
+       to be used in all the exposed areas of the floor and the remainder
+       (a2 through ce) are to be used in all the hidden areas. This
+       ensures that the Automap will display the correct shades of green
+       in the appropriate areas.
+
+       The overlapping function of the 2 sets of floor codes refers
+       to the fact that except for Automap concerns, any guard that
+       becomes aware of Stone while on floor code 6d, for example, will
+       cause any guards on floor code a3 to go into Attack mode the same
+       as if they were standing on floor code 6d.
+
+       In general there are 3 approaches to assigning floor codes:
+
+       1) Assign a single floor code to all floor space. Unless you take
+       other measures, this will have the singular effect of alerting
+       every guard on the floor as soon as the first shot is fired. This
+       can lead to some interesting confrontations, but such a design is
+       considered undesireable as the action will usually end quickly and
+       not favorably for Blake. Even if he survives, there's nothing left
+       to do except go from one empty room to another.
+
+       2) Assign a unique code to each individual room. In this scenario
+       guards in the next room are unaware of any carnage in the current
+       room  - unless something causes the door between the rooms to open.
+
+       3) Assign unique codes to contiguous or non-contiguous groups of
+       rooms. This offers a microcosm of approach number 1) above, but is
+                                      -5-
+       
+       more controlled and often the most interesting and suspenseful
+       strategy.
+
+       Special Floor Code '6a'
+
+       There are a few floor codes that produce a special effect on the
+       enemy characters. One of these is code '6a', called the "deaf-
+       guard" code.  Such a designation means 2 things: the guard will not
+       react to shots being fired in the area until and unless he sees
+       Blake, then he responds just like any other guard. But his eyesight
+       is much better than other guards as he can see in every direction
+       (that isn't blocked by something) including one square behind. A
+       "deaf" guard can even see between the cracks of wall cubes that are
+       joined only at the corners. (It's kind of eerie to hear a guard
+       sound off that can't be seen anywhere). By contrast, guards on all
+       other floor codes can only see straight ahead but will be alerted
+       regardless of their impaired vision after the first shot is fired
+       on the same floor code.
+
+       Hidden Doors (or Push Walls) and Floor Codes '6c' and 'a2'
+
+       There are a some restrictions concerning hidden doors (or push
+       walls if you prefer). A push wall must have a regular wall on both
+       sides of it. Neither side can be open or the game will abort. And
+       neither of the walls on either side of the push wall can be another
+       push wall. The error codes at abort time are 83:09 and 83:0C.
+
+       It has been a common practice in WOLF3D and SoD to use one push-
+       wall next to another to create a "one-way" push wall. You can
+       accomplish the same thing in Blake Stone by using a dripping
+       ceiling vent in place of a blocking push wall.
+
+       Next, enemies on the other side of the wall should not be allowed
+       to block the path of the sliding wall. (No game abort here).
+
+       In Wolf3D and SoD, if enemies are in the room behind a push wall,
+       they must be made "deaf" guards so they don't react before the door
+       is opened. This isn't necessary in Blake Stone. There are a couple
+       of special floor codes that can be used to keep the actors away
+       from the area where the wall will slide open. These are codes
+       '6c' and 'a2' - they both do the same thing. An enemy will not move
+       directly across one of the "blocking codes" and therefore will not
+       be able to impede the hidden door's progress as it slides open.
+
+       All push walls move a maximum of 2 cells and stop. If a push wall
+       fails to move, or moves only one cell, then something is blocking
+       it. Besides the obvious, "dripping" ceiling vents will block push
+       walls. (If push walls stop on another hidden door code, they can be
+       pushed another 2 cells in any direction open to them). "Blocking"
+       codes are placed along the path of the sliding wall, as needed.
+
+
+
+                                       -6-
+       
+       IMPORTANT NOTE: Even though there is a "blocking code" on the floor
+       leading into and out of the room, any guard within will still be
+       able to exit unless there's also a blocking code outside the door
+       or on either side of the path used by the push wall.
+
+       There are several other uses for the "blocking" floor codes which
+       are discussed later on.
+
+       "Moving" Human Guards
+
+       If you place a "moving" guard on a floor, he will move by himself
+       in the assigned direction until he comes to a solid object. He will
+       then turn and continue to move in another direction. He will never
+       be stopped even if he has to turn 180 degrees and retrace his path.
+
+       Since it is generally unpredictable where a guard will be who moves
+       by himself, it is sometimes useful to provide direction and a
+       predetermined path. If a moving guard is provided with a path and
+       a direction, but runs into something such as another guard, he will
+       move off on his own and be directionless unless he moves across a
+       directional arrow somewhere. Then he will function as he did before
+       he veered off the path. Guards can be made to move through doors to
+       adjoining rooms with or without the same floor codes. This can
+       provide a measure of surprise.
+
+       Actions of the Enemy in Attack Mode
+
+       Aliens and Mutants never move about until they switch to Attack
+       mode.
+
+       Attacking enemies will mostly move to the vector where Stone is
+       currently located. They can go through any door - locked or not -
+       except hidden doors. They will often choose an alternate route, if
+       one is available and come at Stone from another direction. Their
+       progress in locating him can be slowed and often stopped by
+       complicated room patterns; by putting solid objects (tables, etc.)
+       in their way that they have to move around; or by sheer distance.
+       They can be absolutely stopped by the strategic placement of
+       blocking codes on the floor. This, of course, forces Stone to go TO
+       the enemy and engage him on his home ground, so to speak.
+
+       Human guards on the attack will sometimes move away from an
+       immediate threat by going into other rooms. Often they will return,
+       but sometimes not. Those who do not will wait to ambush Stone if he
+       comes looking for them.
+
+       Non-human enemies never run from Stone.
+
+       The other thing about guards moving from room to room while
+       searching is that they will sometimes open a door into an unrelated
+       floor code and if a shot is fired at the time the door is open,
+       even more enemies can switch to Attack mode.
+                                      -7-
+       
+       Other Uses for "Blocking" Floor Codes
+
+       In addition to the uses for Blocking floor codes mentioned earlier
+       in this text, it is sometimes desireable to restrict the random
+       movement of some types of "enemies". The Electro Spheres are one
+       example.  You can select spheres that either move E/W, N/S or
+       diagonally. Spheres that move diagonally appear to move in a random
+       pattern as they bounce off walls and other solid objects.
+
+       You can limit the apparent random movement of these spheres by
+       placing blocking codes on both sides of them, in effect creating a
+       transparent corridor in which their movement is restricted. One
+       example of usage is the placement of spheres on the other side of
+       a door that Stone will eventually open. By putting blocking codes
+       on both sides of the diagonal spheres, they cannot move freely
+       until the door is opened, at which time they are released through
+       the open doorway. If you place an Electro Sphere directly on a
+       blocking code, it will not move at all. When used sparingly, this
+       will cause Stone to hesitate when he encounters one.
+
+       You can also place "moving" Perscan Drones and Volatile Tranports
+       on blocking codes. This has the effect of causing the object to
+       spin in one spot without being able to move away.
+
+       Access Card Placement
+
+       An Access card object code must be placed in 2 locations. First,
+       place it on a door that is to be locked. (Doors are normally
+       unlocked unless an Access card is placed on them). Second, place
+       the same Access code elsewhere where Stone can find the card.
+
+       Red & Gold Access Cards and Mission Endings
+
+       The Red Access Card is used to unlock the elevator on each floor so
+       the next floor becomes accessible. In the commercial game, Gold
+       access cards must be obtained from both Dr. Goldfire and the Super
+       Boss on level 9 of each mission before Blake can end the mission.
+       The super bosses from mission 1 to 6, respectively, are the Spider
+       Mutant, Acid Dragon, Breather Beast, Cyborg Warrior, Bio-Mech
+       Guardian and the Reptilian Warrior. A mission then ends when Blake
+       walks toward the Shuttle Bay and crosses a Terminate Mission floor
+       code. Mission 6 is different. Stone must destroy 10 Projection
+       Generators in level 9. When the 10th generator is destroyed, the
+       mission and game will be complete.
+
+       Special Large Hex Value (LHV) Object Codes
+
+       Blake Stone has a number of new features (see list below). These
+       features are implemented using Large Hex Value (LHV) OBJECT codes
+       that all begin with Fxxx. It isn't normally necessary to know what
+       all the individual codes mean when designing/debugging a floor.
+
+
+                                      -8-
+       
+       However, they are all listed in the Appendix of this document for
+       you to reference as required.
+
+       MAPEDIT provides the means to implement all the special features of
+       Blake Stone without having to know what the LHV Object codes are.
+
+       All graphic objects that are viewable when playing the game are the
+       result of object codes ranging from 0001 to 0255. The new LHV
+       object codes do not produce anything visible on the game screen but
+       are used for controlling a number of useful features.  MAPEDIT.DOC
+       explains how to implement each feature. This document explains only
+       what the features are. They are used to control:
+
+       Food Units
+       Automatic opening doors
+       Teleporter destinations
+       Raising & lowering barriers
+       Bio-tech message assignments
+       Time delays
+       Ceiling and floor textures
+       Ceiling and floor colors
+
+       Each of these features are explained below.
+
+       Food Units
+
+       Food Units come in 2 types, depending on what they dispense. One
+       type (Food Unit 1) dispenses beverages and the other (Food Unit 2),
+       solid food. (The latter improves Stone's health slightly more than
+       the former). Also, a Food Unit can have varying amounts of food in
+       it, including none at all, or it can be "out of order".
+
+       Automatic Doors
+
+       Any door, including locked doors, can be made to open automatically
+       by creating "hot spots" or sensors on the floor. And several doors
+       can be made to appear to open at the same time. It takes 2 things
+       to accomplish this: a special floor code and a map coordinate which
+       must rest on the special floor code.
+
+       Door Linkages
+
+       Whether a door opens automatically or not, any door can be linked
+       to another door in such a way that all linked doors appear to open
+       at the same time.
+
+       NOTE: Where a door appears on the map, there is no need for a floor
+       code; the two codes are mutually exclusive.
+
+
+
+
+
+                                      -9-
+       
+       Teleporters
+
+       There are two classes of Teleporters: those which transport Stone
+       to another location within the same (local) floor and those which
+       transport him to the secret floor at level 0 and back (in the
+       commercial game).
+
+       Local Teleporting
+
+       Both the sending Teleporter and the receiving location (not
+       necessarily another Teleporter) should be located in walls that
+       face the same direction. For example, if a sending Teleporter is in
+       a West wall, then the receiving location should also be at a West
+       wall. This is to ensure that Stone will always be facing out when
+       he arrives at the receiving location.
+
+       Distant Teleporting
+
+       In general, the same rules apply for Teleporting to distant levels
+       as to the current floor, as far as position of the Teleporter and
+       receiving location is concerned. Beyond this the receiving location
+       must be located at the same absolute coordinates in the distant
+       floor as in the "sending" floor. In addition you must use a Start
+       Position object code at the receiving end and place it on the
+       receiving position. (If you omit the Start Position code, Stone
+       will end up at X/Y coordinate 0:0).
+
+       Teleporting to Non-Secret Floors
+
+       Teleporting to a distant floor in the commercial game is limited to
+       going to a secret floor (the basement) in each mission. Being able
+       to teleport to any other floor is possible when using MAPEDIT. But
+       you should be aware of the consequences of doing this.
+
+       Teleporting Ahead or Back
+
+       Each non-secret floor has a Red Access card somewhere that is used
+       to unlock the next floor above the current one after Stone enters
+       the elevator and is ready to ascend. If you install a Teleporter to
+       take Stone to a distant floor ahead (or back) of the one he is in
+       AND he is allowed to access the entire floor, it defeats the
+       purpose of locating and using the Red Access card to unlock the
+       target floor.  (It should be noted that using the elevator to
+       ascend to the next floor also causes the score for the current
+       floor to be recorded).
+
+       Having stated the above, if you want to design a floor that has 2
+       or more individual and inaccessible (to each other) sections, then
+       using a Teleporter to enter these individual sections from a
+       distant floor would probably be an interesting design. Designs of
+       this nature may be slightly more difficult to assemble because of
+
+
+                                     -10-
+       
+       the rule that Teleporters and receiving locations have to be at the
+       same absolute coordinates in the sending and receiving floors.
+
+       Use of Access Cards
+
+       You need to remember that any Access card that Stone picks up is
+       retained until he uses it somewhere. If you teleport Stone to a
+       distant floor and have him use an Access Card that he obtained
+       before he got to the distant floor, be sure there's a way to
+       replace it if it will be needed back on the sending floor. Also
+       remember that only one Access card of any color can be retained.
+
+       Barriers and Barrier Switches
+
+       This section applies to both types of barriers (Post and Arc) used
+       in the game. Whenever you set up a barrier, you would normally
+       place a barrier switch somewhere to raise (turn on) or lower (turn
+       off) the barrier.
+
+       Switches can operate barriers on either the current floor, or on a
+       distant floor in the same mission.
+
+       NOTE: All adjacent barrier objects will switch on or off along with
+       the targeted object of the switch. Also note that you are limited
+       to 5 unique barrier coordinates per floor. This doesn't preclude
+       having multiple barrier switches pointing to the same coordinates.
+       Some of you may have noticed that in the original Blake Stone game,
+       all barrier switches are positioned in such a way that the player
+       can never see the target barrier going up or down. There is no
+       technical reason for this, only a design decision.
+
+       Random Behavior of Aliens & Mutants (Time Delays)
+
+       A few of the non-human creatures in Blake Stone can be controlled
+       to some extent by adding delay times to influence their behavior.
+
+       The first of these is the Pod Alien. Without any action taken by
+       the floor designer, Pods normally start "hatching" in a sequential
+       manner controlled by the engine and the skill level at which the
+       game is being played (skill level 4 Pods will not activate when
+       playing the game at a lesser skill level, for example). To speed up
+       the activation process (or delay it), an LHV delay code can be
+       used.
+
+       The same type of delaying action can also be applied to the Mutant
+       Guards (the ones lying under bloody sheets on tables).
+
+       Finally, the time delay code can be used to control the release
+       rate of the Plasma Aliens out of the High Energy Plasma Alien wall
+       socket.
+
+
+
+                                     -11-
+       
+       BIO-Techs and Messages
+
+       There are two kinds of Bio-Techs: Informants who want to help
+       Stone, and Loyalists (loyal to Goldfire) who are enemies of Stone.
+       Each type of Bio-Tech is capable of delivering a message to Stone.
+       Which Bio-Tech is an Informant, and which is not, is determined by
+       the game at runtime. The messages they will deliver are assigned at
+       this time also. (When Stone is killed, and restarts the level, all
+       Bio-techs are reassigned).
+
+       The messages each type of Bio-Tech delivers is controlled by an LHV
+       code. Some messages are delivered only by Informants. Others are
+       delivered by Loyalists. Loyalist Bio-techs deliver 2 types of
+       messages: Warnings and Alarms. The difference between the 2 types
+       is what happens when Stone tries to interrogate an unfriendly Bio-
+       tech. If the Loyalist issues a Warning message upon being
+       interrogated by Stone, Stone will have one chance to kill him right
+       away. If Stone attempts to interrogate the same guy a 2nd time, the
+       Bio-Tech will enter "Attack Mode".
+
+       When a Bio-Tech issues an "alarm" type message, the guy delivering
+       it will immediately go into Attack mode. There will be no 2nd
+       chance. A list of all the codes and the messages associated with
+       them appears in an Appendix at the end of this document.
+
+       Floor & Ceiling Texture Selection
+
+       Every floor can have a different set of floor and ceiling textures.
+       There are currently 32 different textures from which to select.
+       Once selected, they remain the same over the entire floor and
+       cannot be modified.
+
+       Floor & Ceiling Colors
+
+       Make sure you always assign default floor and ceiling colors even
+       if you never turn the textures off yourself. If you distribute your
+       levels, someone else may try to use them without having the
+       textures turned on. This will result in all levels having black
+       floors and ceilings.
+
+       If ceiling and/or floor textures are turned off, the colors that
+       appear in their place can be controlled beyond the default
+       selection. The selection of colors can be changed while a floor is
+       being played by placing appropriate codes at selected locations
+       around the floor. In general, any color changes made should have a
+       pair of codes inserted together in such a way that as Stone moves
+       from room to room, for example, a ceiling color would change to a
+       different color going in one direction and change back to the
+       original color when returning to the original room. A short hallway
+       inserted between 2 rooms is a good spot to insert color changes.
+
+
+
+                                     -12-
+       
+       Secret Floors
+
+       There are 2 secret floors per mission in the commercial version of
+       Blake Stone. One of the floors is always level 0 (or the basement)
+       and can only be entered via a teleporter - usually hidden somewhere
+       - from any other floor in the same mission. After completing this
+       secret floor, the teleporter must always return Stone to the floor
+       from which he was originally teleported (see Teleporters).
+
+       The other "secret" floor is the 10th floor and is always entered
+       via the elevator from the 9th floor (after a Red Access Card is
+       located by Stone. This card is usually hidden somewhere on the 9th
+       level). When the 10th floor is completed, Stone must return to the
+       9th floor to complete the mission.
+
+       Elevators
+
+       Apart from the need for all elevators to be located in the same
+       relative position on all floors of the same mission, it is a good
+       idea to fill the elevator with "blocking codes" ('6c') as well as
+       one square outside the elevator door. This provides the one safe
+       haven on the whole floor for Stone. He won't be safe from shots
+       fired into the elevator when the door is open, but when the door is
+       closed he will be.
+
+       Another aspect of elevators is that one of the walls that makes up
+       an elevator has the elevator controls on it, but ONLY on the
+       East/West sides of the wall. The North/South side of the same wall
+       carries the "S" insignia.  This means that the placement of the
+       wall with the controls on it is important. In the commercial game
+       all elevators are oriented East/West so the controls will be in the
+       standard location within the elevator where you would normally
+       expect to see them. There are also "elevator facades" available
+       which are used to hide the elevator controls on the outside of the
+       elevator room.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -13-
+       
+       Positioning GoldFire
+
+       Goldfire's appearance is triggered when Stone moves onto the same
+       floor code as a Goldfire site AND Stone comes into the line-of-
+       sight of Goldfire AND crosses his line-of-site at an angle
+       (approaching and leaving a Goldfire site from the major compass
+       points of North, East, South or West will not trigger his
+       appearance). If there are places in a room where Stone can
+       potentially get by Goldfire without coming into his line-of-sight,
+       and you don't want Stone to get out of the room without Goldfire
+       appearing, then place other Goldfire sites at strategic locations
+       in the same room (only one Goldfire appearance will occur at a time
+       on a floor with multiple sites laid out).
+
+       Floor 9 of Mission 6 in the original game provides an example of
+       how Stone can enter a room where a Goldfire site is and not trigger
+       his appearance.  If Stone walks straight ahead to the opposite end
+       of the room from the door and turns back around and walks straight
+       out without veering more than one square to the left or right,
+       Goldfire will not appear.
+
+       Floor 9 of Mission 5 is another example. If Stone enters through
+       the south door of the room where Goldfire will appear and walks
+       straight ahead (after dealing with any ceiling turrets and other
+       enemies first) as far as he can go, then turns directly to the west
+       and leaves through the west door, Goldfire will not appear (the
+       Goldfire site in this room is located just one square away from
+       Stone's path). On the other hand, if Stone should be tempted to
+       enter the room via the Teleporter, Goldfire will appear almost
+       immediately.
+
+       Goldfire, when he appears, always starts to walk east if there
+       isn't a wall directly in front of him (if so, he immediately turns
+       south).
+
+       Goldfire will not cross any blocking codes, but will shoot across
+       them if Stone is visible (the same as any other enemy).
+
+       NOTE: You are limited to a maximum of 10 Goldfire sites per floor.
+
+       Balance
+
+       When designing a floor, you should strive to achieve a balance
+       among the various skill levels. For example, don't overload with
+       skill 1 & 2 guards, nor fail to add skill level 4 guards. MAPEDIT
+       allows you to quickly see not only what the balance looks like from
+       the STATS, but you can individually view the placement of all skill
+       level guards. Plus you can isolate the display of treasure, ammo,
+       and health items, and Super guards (bosses).
+
+
+
+
+                                     -14-
+       
+       Weapons
+
+       Stone begins each mission with only an Auto Charge Pistol (ACP).
+       For him to get more powerful weapons he needs to either find one
+       somewhere that has been left for his use by a kindly designer, or
+       he must kill to get one. Sector Patrol guards carry Slow Fire
+       Protector (SFP) pistols. Each such guard who is killed will drop
+       his to be picked up by Stone. After he picks one up, no more
+       pistols will be dropped. (Extra weapons translate to extra ammo).
+
+       Star Sentinels and Star Troopers carry Rapid Assault Weapons (RAW).
+       The first guard of the above type who is killed will drop his RAW
+       and Stone can pick it up.
+
+       The only way for Stone to obtain either the Dual Neutron Disruptor
+       (DND) or the Plasma Discharge Unit (PDU) is for the designer to
+       leave these here and there. (All weapons except the ACP can be
+       distributed in explodable cargo crates, as well as being left out
+       in the open).
+
+       Since Stone can be killed on any floor in any mission, it's usually
+       a good idea to place the more powerful weapons on each floor. (Some
+       people simply fail to remember to Save their game at the start of
+       each level).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -15-
+       
+       MAPDATA (Choosing Walls)
+
+       Blake Stone has many walls and doors to choose from when creating
+       a design. Many of these are difficult to describe. To aid you in
+       choosing a wall or door type, there's a way to view each one
+       individually, then cross-reference it to the symbol used in the
+       Mapdata Legend Window.
+
+       To view the graphic of each wall/door type, you must start Blake
+       Stone in Debug Mode. See the Appendix below for the how to do this.
+       Start any Mission and when you are ready to play, use Bksp+D to
+       make Blake invisible so he won't be bothered by the actors. Then
+       press Bksp+T to view the first graphic image.
+
+       Each image has a Page # associated with it (top line). Use the
+       right and left arrow keys to scroll forward/backward through the
+       images. If the first several images do not display then press Esc
+       to erase the graphic and Warp (Bksp+W) to the next level. After
+       getting there, press Bksp+T once again and all pages should have an
+       image on them. Every image has two views: N/S (even page number)
+       and E/W (odd page number). The E/W view is also shaded.
+
+       Now scroll through all the images and select the one(s) you want to
+       use. Write down the page number with a brief description of what
+       the image looks like to you.
+
+       Now quit the game and start Mapedit. The Legend Window with Mapdata
+       will be visible when Mapedit is ready. Scroll the Legend window to
+       the right until you see a column of number pairs. Each pair of
+       numbers represents the page numbers (even/odd) of the images of
+       walls and doors. Check the list you made and find the number(s)
+       you're looking for in the list on the screen. The symbol to the
+       left of the number (at the beginning of the line) together with the
+       brief description on the same line represents the wall/door you
+       want to use.
+
+       Alternatively, you can print a copy of MAPDATA.XXX to have in front
+       of you so you won't have to scroll the Legend window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -16-
+       
+       OBJECT DATA Types
+
+       Any floor used in Blake Stone consists of 2 types of data: Map data
+       (which is floors, walls, and doors) and Object data (everything
+       else). Object data is further defined as being either Static (it
+       doesn't move) or Active (it does move). Active Objects (Actives)
+       consist mainly of the actors (guards). However, there are a few
+       other objects that are considered active:
+
+       Barriers (each barrier object equals one Active object)
+       Bio Toxic Waste
+       Dripping Ceiling Vents
+       Failing Lights
+       Plasma Balls* (from PDU) and their explosions*
+       Smoking Floor Grates
+       Projection Generators
+       Toxic Sludge
+       Weapon Sensor Warning Lights
+
+       Blake Stone permits a maximum of 149 Active Objects on one floor.
+       The MAPEDIT program monitors this and will alert the designer if
+       the maximum of 149 is exceeded. (399 is the maximum Static Objects
+       permitted).
+
+       *Plasma balls are the result of firing the PDU. As the balls fly
+       toward their target and ultimately explode, both the balls and
+       explosions become temporary Actives. If the number of Actives is
+       already 149 or close to it, the PDU will begin to malfunction (it
+       won't fire). The player will be alerted to this condition by a
+       warning message appearing in the lower left corner of the game
+       screen.
+
+       This is a condition that can occur when playing the game at Skill
+       level 4 (Veteran Agent) when all available guards are on the floor.
+       (It presents an extra challenge for the Skill level 4 player).
+
+       The only way to relieve this condition when the game is in action
+       is for Stone to dispose of some guards (actors) using other weapons
+       in his inventory until the number of Actives is reduced enough for
+       the PDU to function normally again.
+
+       The Automap & Leaking Walls
+
+       When testing a floor that you've created, it is recommended that
+       you view the Automap closely as you go from room to room. The
+       Automap should display only the rooms (or parts of rooms) that
+       Stone has viewed. If you should see a splash of color that has
+       apparently "leaked" off into an adjoining area of the floor that
+       Stone hasn't entered, it is probably caused by the joining of walls
+       at their corners to make an angled wall. To eliminate the color
+       leakage, the walls joined at corners must have the corners filled
+
+
+                                     -17-
+       
+       in on one side or the other with added wall cubes so there are no
+       "leaking" corners.
+
+       New Features of Blake Stone: Planet Strike
+
+       Planet Strike is similar in most aspects to Aliens of Gold.
+       However, a number of new features, both cosmetic and active, have
+       been added. These are listed below.
+
+       1)  1 episode: 20 regular floors (0-19), 4 bonus floors (20-23)
+       2)  No elevators are used; just transporters
+       3)  New uniforms and language for all actors
+       4)  Some new Aliens
+       5)  One new weapon (most powerful)
+       6)  Morphing capability for some actors
+       7)  Automap zoom to help locate pushwalls
+       8)  Fewer access key cards
+       9)  Ability to activate guards before Blake gets to them
+       10) Invisibility cloaks for guards and aliens
+       11) Switches, Doors, and Guards activated when guards/aliens killed
+       12) Easier to enable Debug Mode
+       13) Most features of Aliens of Gold are available in Planet Strike
+       14) Planet Strike features are not available in Aliens of Gold
+       15) Floor sensors to activate switches
+       16) Fission Detonator required to destroy Security Cube
+       17) New types of "barriers".
+
+       Invisibility Cloaks
+
+       Virtually any guard or alien can be made nearly invisible by the
+       application of one of two map data codes - '4E' or '50'. These
+       codes are inserted at the spot where the guard is placed on the
+       map. The actor can be stationary or moving.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -18-
+       
+       Morphing
+
+       Several Aliens are capable of morphing from an inanimate object to
+       their true form. These are shown in the Object data Legend as
+       "Morphing" creatures. NOTE: Dr. Goldfire is a morphing creature
+       ONLY in the final level (19). There is a special Goldfire code for
+       this. Use of this code in any other level will not produce a
+       morphing Goldfire.
+
+       Activating Guards Early
+
+       Normally, all actors become activated - go into "Attack Mode" -
+       when one or two conditions are met. First, Stone would have to be
+       standing or moving on the same floor code as an actor AND the actor
+       would have to see him or hear a shot fired by Stone. Some actors
+       are declared "deaf" by the use of floor code '6A'. So-called "deaf"
+       actors do not react to shots being fired by Stone. They react only
+       when they actually see Stone. This allows them to hide somewhere
+       and ambush Stone unexpectedly.
+
+       In Planet Strike, guards can have their status switched to Attack
+       Mode by the use of a floor sensor. This sensor is the same one used
+       to cause doors to open automatically and was named the "Auto-Door
+       Hot-Spot" code (its name has been modified to reflect the change in
+       its used in Planet Strike). When the sensor is pointed at a guard
+       instead of a door, the guard switches to "Attack Mode" if he is
+       non-deaf. If he is a "deaf" guard, his deafness is "cured" and he
+       becomes a normal guard. Neither guard/alien is required to be on
+       the same floor code as Blake.
+
+       Barrier Activation
+
+       All operable barriers (non-operable barriers are called Barricades)
+       are activated by a switch somewhere. The switch can be turned on or
+       turned off. (In Planet Strike, while most switches are placed in
+       inaccessible locations, they don't have to be hidden). The switch
+       is activated remotely in one of two ways: use of a floor sensor or
+       the killing of a selected guard.
+
+       Using the floor sensor method, you use a special floor code as the
+       sensor and place an LHV (map coordinate) on top of each sensor that
+       points to the switch. The switch can be located anywhere on the
+       floor, but is usually imbedded in a wall close by or some other
+       inaccessible location. The chosen floor code (009F for switch "on"
+       or 00A0 for switch "off") then operates the switch when Blake walks
+       over it. The switch has another LHV placed on top of it and points
+       to the barrier that it (the switch) controls.
+
+       The second method for operating a switch is to mark any actor with
+       a map code (004F) that designates the actor as the "holder" of the
+       switch "key". An LHV (map coordinate) that points to the barrier
+
+                                     -19-
+       
+       switch, must be located adjacent to the actor (to his right).
+       Again, the barrier switch has another LHV coordinate placed on it
+       which points to the barrier to be activated. When the selected
+       actor is killed, the switch position is changed and the target
+       barrier is operated.
+
+       NOTE: this feature can also be used to open doors or activate
+       enemies. Mapedit will handle proper placement of the LHV in each
+       situation.
+
+       Fission Detonator
+
+       A Fission Detonator (along with a Security Cube) must be used on
+       every floor (except the last or a bonus floor). In addition to
+       being positioned as a discrete object somewhere on a level, the
+       detonator can alternately be carried by an actor by using map code
+       004D where the actor is standing. When the actor is killed, he will
+       drop the detonator for Blake to retrieve.
+
+       LHV Use
+
+       There's change with respect to where LHV's are inserted in Planet
+       Strike. This change was mentioned above in the explanation of
+       barrier switches. That is, an LHV coordinate is placed is the same
+       cell as the switch; there is no need to have 'F8FF' placed on top
+       of the switch, as in Aliens of Gold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -20-
+       
+                                    APPENDIX
+
+       This Appendix provides other information about Blake Stone that may
+       help you while creating/editing/debugging floors. You will also
+       find the meanings of all the LHV (Large Hex Value) codes and what
+       all the Debug codes mean.
+
+       As you know, there are 6 missions in Blake Stone: Aliens of Gold,
+       with 11 playable levels per mission in the commercial game.
+       However, in reality, there are a total of 90 levels in the entire
+       game. The first 11 levels (0 to 10) of each mission are the ones
+       you can play. Levels 11 thru 14 are hidden and may be used as extra
+       secret levels that Stone can teleport to and from. The commercial
+       Blake Stone game does provide access to these levels during play.
+       If you don't wish to use one or more of them as secret floors, you
+       can use them as a place to put untested levels. MAPEDIT will let
+       you get to them if you want. To test them, you will have to
+       exchange them with one of the levels marked 0 to 10, or treat them
+       as secret floors to which you teleport to from any of the regular
+       eleven floors. They cannot be warped to in Debug mode.
+
+       Bio-Tech Message Codes
+
+       The following codes are used in conjunction with an 'F1' code.
+       These LHV codes provide the messages used by INFORMANTS only. The
+       format of the code is: F1xx where 'xx' is one of the codes listed
+       below.
+
+       Please note that the message content itself cannot be modified.
+       Also note that if you choose not to use any Bio-tech messages,
+       Stone will not be able to separate informants from enemies.
+       (Killing all Bio-techs to be on the "safe side" deprives a player
+       of several bonuses!)
+
+       Informant Message (F1) numbers:
+
+       01 - Electro spheres can be a nuisance.
+       02 - Doors with red lights are locked.
+       03 - Doors with green lights are unlocked.
+       04 - Don't let Goldfire catch you in here.
+       05 - Your AutoCharge pistol is silent. Use it wisely.
+       06 - Hidden arenas can be accessed from this room.
+       07 - Be careful, Stone. Goldfire watches everyone.
+       08 - Informants are working to unlock all floors.
+       09 - To destroy Goldfire, shoot him when he initiates warp-out.
+       0A - Some Food Units are out of order.
+       0B - A Dual Neutron Disruptor is stored on this floor.
+       0C - Be careful, Blake! Dr. Goldfire is executing all informants.
+       0D - Some food is stored in crates.
+       0E - Search all walls for hidden passages.
+       0F - Some weapons are stored in crates -- blast all crates!
+       10 - All weapons are stored on this floor. Get 'em!
+
+                                     -21-
+       
+       11 - Food Units require tokens.
+       12 - Some ammo is stored in crates.
+       13 - The AutoCharge pistol is silent.
+       14 - Beware of the genetic guards!
+       15 - Ask other informants for their Food Unit tokens.
+       16 - Spilled toxic waste will hurt you if you stand in it.
+       17 - The access key is well-guarded! Be prepared to fight!
+       18 - A Plasma Discharge Unit and ammo is here in a hidden area.
+       19 - Ask the informants for their energy packs.
+       1A - You're protected from the Pods in the observation areas.
+       1B - Follow the stacks of gold and you'll find the room of gold!
+       1C - Be careful when deactivating barrier switches.
+       1D - Beware of the Perscan Drones.
+       1E - Some secret passages are hidden behind blastable objects.
+       1F - Be careful, Stone. Some experiments have broken free!
+       20 - The turrets cannot be damaged with the Plasma Discharge Unit.
+       21 - The turrets cannot be damaged with the pistols.
+       22 - Blake, some barrier switches deactivate barriers on different
+            floors.
+
+       Loyalist Warning (F2) numbers:
+
+       The following codes are used with the 'F2' code and are used as a
+       warning message by Goldfire Loyalists (not informants).
+
+       01 - Hey, buddy, leave me alone.
+       02 - I don't have time for your gibberish.
+       03 - Have you seen a mutant running around here?
+       04 - It's after hours. You'd better be leaving.
+       05 - You must be new here.
+       06 - Uh-huh, Uh-huh, anyway...
+       07 - Don't I know you?
+       08 - Do you know what time it is?
+       09 - You must be with the tourist group.
+       0A - If you're not supposed to be here -- leave!
+       0B - This is a restricted area. Leave!
+       0C - Bother me again and I'll kill you!
+       0D - Get away from me, buddy!
+       0E - I outta' hit you with my notepad!
+       0F - Is that thing loaded?
+       10 - Ever been told you look like a guy named Blake!?
+       11 - Are you any relation to Jake?
+
+       Loyalist Alarm (F3) numbers:
+
+       The following codes are used as an Alarm message by Goldfire
+       Loyalists (not informants).
+
+       01 - Hey, where's your access badge?
+       02 - Goldfire's gonna' hear about this!
+       03 - Talk to the guards about that.
+       04 - Have you ever been mutated?
+
+                                     -22-
+       
+       05 - Hey! You're no scientist!
+       06 - Oh no! It's Stone!
+       07 - Only guards should have weapons! You're a bad man!
+       08 - Alright, Stone! Hand over your weapons!
+       09 - Ha! I've never mutated a Stone before!
+       0A - Stone ... You're not that tough!
+       0B - Better start shootin'!
+       0C - I don't think I like you!
+       0D - Boss says to kill informants ... and Stone!
+       0E - I bet I can get blood from a Stone!
+       0F - You wouldn't know a guy named . . ..Stone!
+       10 - Better duck!
+
+
+       Teleporters
+
+       F4nn - 'nn' is the level to teleport to.
+
+       F400 - teleports to level 0 or basement (1st secret floor)
+
+       F500 ccrr  - used to teleport within the same floor.
+
+       F500 2114
+       ---- ^^^^ =  Column, Row coordinates of square in front of
+                    receiving teleporter.
+
+       Barriers and Barrier Switches
+
+       F8FF ccrr - used to control a barrier on the same floor. (AOG only)
+       -----^^^^ = col,row coordinate of a barrier object.
+
+       F8nn ccrr - used to control a barrier on a different floor.
+       --^^ ^^^^ = level and col/row coordinates of barrier object.
+
+       Time Delays
+
+       FAtt - used to delay or speed up the release of Pod Aliens, Mutant
+              Guards and High Energy Plasma Aliens. 'tt' is a number from
+              00 to ??. The smaller the number, the smaller the delay. A
+              value of '00' equals virtually zero delay. Place this LHV
+              code immediately following the Pods or Mutant Guard tables.
+              For High Energy Plasma Aliens, place code on Wall Socket.
+
+
+
+
+
+
+
+
+
+
+
+                                     -23-
+              
+       Ceiling and Floor Texture Codes
+
+       To assign ceiling and floor texture codes you use FB00 xxxx:
+
+       FB00 04 01
+       -----^^       =  Ceiling value
+
+       FB00 04 01
+       --------^^    =  Floor value
+
+       FB00 0401     =  Small brown squares on ceiling and large dark
+                        squares on floor.
+
+       Codes:
+
+       01 - Large dark squares (default if FB00 code is omitted)
+       02 - Small medium grey squares
+       03 - Small dark grey squares
+       04 - Small brown squares
+       05 - Small blue squares
+       06 - Circles (black)
+       07 - Small squares with Cyan outline
+       08 - Stone blocks
+       09 - Circle with connecting lines
+       0A - Rectangles
+       0B - Large dark hexagonal pattern
+       0C - Square with an X
+       0D - Rectangle (light grey)
+       0E - Square with X and blue lines
+       0F - Square with Olive center
+       10 - Square pattern with connecting lines
+       11 - Large square with Cyan corners
+       12 - Large dark squares w/magenta corner lines
+       13 - Magenta squares
+       14 - Grey brick pattern
+       15 - Small squares with brown outline
+       16 - Small squares with red outline
+       17 - Grey recessed hex pattern
+       18 - Small hex w/green outline & connecting lines
+       19 - Cyan squares
+       1A - Small Olive squares
+       1B - Small Cyan squares
+       1C - Large blue circles
+       1D - Large Cyan circles
+       1E - Blue brick pattern
+       1F - Olive brick pattern
+       20 - Red recessed hex pattern
+
+       Any codes used above number 20 will result in the use of wall
+       texture patterns being placed on the floor and/or ceiling. The
+       highest number you an legally use without incurring an error is
+
+
+                                     -24-
+       
+       '4C'. There are Debug codes which can help you assess all the
+       textures that are available. See Debug codes below.
+
+       Food Units
+
+       FCnn - used to denote an operating Food Unit.
+       --^^ = # of items to be dispensed. 00 = empty.
+
+       FDnn - used to denote an out-of-order Food Unit
+              'nn' can be any value.
+
+       Note: No more than 15 Food Unit can be used per floor.
+
+       Ceiling and Floor Color Codes
+
+       To assign ceiling and floor colors (textures disabled), use the
+       codes listed below. The list is a guideline of color shades
+       associated with a category number.  The higher the number in each
+       category, the brighter the shade. For example, in category 10, the
+       numbers 11, 12, and 13 represent darker shades of red. The lowest
+       number in each category almost always looks black, while the
+       highest number looks white. The names of the shades listed are a
+       best guess. In the commercial game, in almost every case the lower
+       numbers in each category have been used to avoid harsh and brightly
+       colored ceilings and floors. In fact, all floor colors used some
+       shade of gray (09, 0A, and 0B).
+
+       It should be noted that not all numbers (0 thru F) in each category
+       produce something other than black.
+
+       To get a better idea of what shades you are dealing with and which
+       ones you might wish to use, start the game in Debug Mode and use
+       Bksp+M to display the Memory window. At the bottom of the memory
+       window is one line which displays the ceiling and floor texture
+       numbers (in decimal) - or color numbers if textures are turned off
+       - for the current level. Look at the ceilings and floors of several
+       different levels to locate something that you might want to use in
+       your game. Jot down the decimal numbers and convert them to
+       hexadecimal so they can be assigned on the floor you're creating.
+
+       NOTE: If you place FE00 ccff anywhere on the floor except the
+       initial location at [0,0], then Stone must walk over the code
+       before it takes effect.
+
+       Category    Color Shades
+       00          Gray
+       10          Reds
+       20          Browns/Golds
+       30          Olive Greens
+       40          Light Greens
+       50          Yellow Greens
+
+
+                                     -25-
+       
+       60          Cyan shades
+       70          Light Blues
+       80          Medium Blues
+       90          Deep Blues
+       A0          Gray
+       B0          Browns
+       C0          Magentas
+       D0          Vanillas
+       E0          Sky and Slate Blues
+       F0          Mixture of Bright colors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -26-
+       
+       Debugging Codes
+
+       Often referred to as Cheat codes by those who will probably never
+       use them for any other purpose, these codes can help you when
+       debugging any level in any mission. To enter Debug Mode, you must
+       be using Version 2.0 (Version 1.0 does not have this capability)
+       and start the game with the command BSTONE POWERBALL. At the screen
+       where the JAM PRODUCTIONS logo comes up, wait for the white
+       lettering to start to come up underneath the logo, then press and
+       hold down both Shift keys until you hear a Ka-ching sound which
+       indicates that Debug mode is now in force.
+
+       All the following debug keys require the use of the backspace key
+       being held down while one of the debug keys is pressed.
+
+       6+7 - Collect all bonus items (gold, loot, Xylan Orbs, $ bags)
+       7+8 - Kill all actors
+       6+8 - Collect all bonus items AND kill all actors.
+
+       A - Add actors to Automap (tiny spots are not recognizable)
+       B - Border Color
+       C - Stats
+       D - Player Invisible     (Some actors will sense Stone's presence,
+                                 but will not shoot). Toggles on/off.
+       E - End Mission with Win
+       F - Facing Spot          (row/col coordinates of where Stone is)
+       G - God mode             (Toggles on/off)
+       H - Hurt yourself        (if not in God mode - deducts 1 health pt)
+       I - Item                 (Each use provides the next powerful gun)
+       M - Memory Info          (Provides ceiling/floor texture/color #'s)
+       Q - Fast Quit            (Returns to DOS right now)
+       O - Show Push Walls on Automapper
+       U - Unlocks all floors   (Access Key cards are not needed)
+       S - Slow Motion          (toggles on/off)
+       T -  (Pops up a window which displays graphics and sounds from the
+            game. Use the left/right arrow keys to page through the
+            entries.  Don't stop at blank entries. ESC exits. Images
+            include all walls, doors, sprites [objects], and sounds.
+            Each entry  displayed has a unique page number).
+       V - Extra VBLS           (????)
+       W - Warp to level        (Shift+W warps to next default level)
+
+       HOME - Decrement sky shading (if ceiling texture off)
+              Decrement ceiling choice (if texture on)
+       PGUP - Increment sky shading (if ceiling texture off)
+              Increment ceiling choice (if texture on)
+        END - Decrement ground color (if floor texture is off)
+              Decrement floor choice (if texture is on)
+       PGDN - Increment ground color (if floor texture is off)
+            - Increment floor choice (if texture is on)
+
+
+
+                                    -27-
+       
+       The following four debug selections affect the amount and depth of
+       light source diminishing. There are currently no LHV's available to
+       control shading when creating/editing a floor.
+
+       +    - Incr shading depth
+       -    - Decr shading depth
+       ]    - Incr shading drop off
+       [    - Decr shading drop off
+
+       Normal Command Line Parameters
+
+       BSTONE parameters
+
+          VERSION - Display version information
+           SYSTEM - Display System Information
+       HIDDENCARD - Disable checking for video card
+           NOJOYS - Disable checking for Joysticks
+          NOMOUSE - Disable checking for Mouse
+           NOMAIN - Disable checking for main memory
+            NOEMS - Disable checking for EMS memory
+            NOXMS - Disable checking for XMS memory
+             NOAL - Disable checking for Adlib sound card
+             NOSB - Disable checking for Sound Blaster
+            NOPRO - Disable checking for Sound Blaster Pro
+             NOSS - Disable checking for Sound Source
+              SST - Disable checking for Tandy Sound Source
+              SS1 - Disable checking for Sound Source on LPT1
+              SS2 - Disable checking for Sound Source on LPT2
+              SS3 - Disable checking for Sound Source on LPT3
+            NO386 - Disable checking for 386
+         ENABLEGP - Enables Notebook Gameport checking
+             TICS - Display TIC INFO in score area
+            MUSIC - Enable music test mode (Backspace + arrows changes
+                    music selection.
+            RADAR - Displays a rotating overhead view during gameplay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -28-
+

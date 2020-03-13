@@ -1,0 +1,32 @@
+Boesenstein SDL Version
+
+The Dos exe has been included too but if this is used then delete the supplied config.wl1 
+file.
+
+This variant of Wolfenstein v1.4 was made with Floedit 2, Paint Shop Pro 7 and my 
+own Seefiles program.
+
+Graphics and sounds (some are modified) come from...
+
+Wolfenstein3D
+Christmas Wolf
+Lost Episodes
+Hotel Romanstein
+Duke Does Deutschland
+No Place to hide
+Halloween
+Barney
+-and a few Doom graphics and some of my own make.
+The statue is by Arno Breker, Hitler's favorite sculptor.
+
+About this game...
+
+The levels are of medium difficulty.
+No keys are behind secret doors.
+Some (but not all) locked doors are there for logical reasons and need not be opened.
+
+The bloody skeleton has been replaced by a red-eyed rat.
+Always watch your back!
+
+Vincent  (http://vincentius.dk)
+

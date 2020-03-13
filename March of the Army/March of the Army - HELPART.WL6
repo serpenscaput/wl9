@@ -1,0 +1,577 @@
+^PAGE 1
+^G68,112,88
+^c4a M A R C H   O F   T H E   A R M Y
+
+^c0 A ^c21Wolfenstein 3d ^c00mod by ^c8fMilitary
+
+^c0 
+    
+
+
+
+
+
+
+
+
+Thanks for playing and for any feedback!
+
+^PAGE 1
+^c05        --- Table of Contents ---
+
+^cE1The Story ^c16................................................................... 
+^c213
+^cE1Enemy overviews ^c16.................................................... ^c217
+
+^cE1Collectible overviews ^c16........................................... ^c2119
+
+^cE1Level overviews - Urban Uprising ^c16................ ^c2121
+^cE1Level overviews - Military Meddling ^c16............ ^c2125
+^cE1Level overviews - Hierarchy Hacking ^c16........ ^c2130
+^cE1Level overviews - Cellar Crawling ^c16.............. ^c2134
+^cE1Level overviews - Lurking in the Labs ^c16.... ^c2138
+^cE1Level overviews - Surely Sane ^c16..................... ^c2142
+^cE1Credits ^c16....................................................................... 
+^c2146
+^cE1Graphics Credits ^c16................................................... ^c2147
+
+^cE1Audio Credits ^c16.......................................................... 
+^c2148
+^cE1Miscellaneous Credits ^c16.......................................... ^c2150
+
+
+^PAGE 2
+^c05           --- The Story ---
+^c00A strong agreement among the world's leading countries was established, resulting 
+in creation of the greatest global ^c3Farmy: ^c00 ^c3FMilitary Union of Peace Eternal. 
+^c00And then it went downhill. The newly appointed General began a random draft of 
+healthy male civilians for obligatory service in the Army, and used the newly acquired 
+power to further his agenda. The draft began if a few countries at first, and it 
+wasn't much later until the ^c3FArmy ^c00service became obligatory in all ^c3FMUPE 
+^c00- allied countries. The ^c3FArmy ^c00soon gained more influence than any country 
+ever had. 
+^PAGE 3
+^c05           --- The Story ---
+^G32,16,88
+
+^c3FLennon Solanas ^c00was an average guy, working to earn himself a good future 
+and not paying much attention to politics. After a really promising job interview 
+at a prestigious workplace, he was excited to see that he had just received new mail. 
+His mood abruptly changed, though, when instead of the expected company logo he saw 
+the foreboding stylized Aleph signifying the ^c3FArmy. ^c00 
+^PAGE 4
+^c05           --- The Story ---
+^c00Call of duty. Non-negotiable. No opting out unless literally incapable of holding 
+a gun. Carried away to some boot camp in the middle of nowhere to follow orders for 
+a non-specific amount of years.
+
+For ^c3FLennon Solanas, ^c00this was unimaginable. Too dreadful to even think about. 
+And so he tried not to, and in all the stress, he ended up missing the scheduled 
+appointment date. He only realized it once the ^c3FMUPE's ^c00lackeys were already 
+on their way to forcefully drag him to the destination like a common criminal.
+^PAGE 5
+^c05           --- The Story ---
+
+^c00Full-time service for the corrupt organisation was out of question. Not that 
+Lennon knew what to do instead. He decided to leave the house before someone pays 
+him a visit. While getting himself ready to depart, he laid his eyes on a handgun 
+- an old souvenir from his grandfather.
+
+What will the future bring? Lennon didn't know. The only things inevitable were leaving 
+his home for a long amount of time, and learning how to shoot.
+^PAGE 6
+^c05           --- The Enemies ---
+
+^c3FArmy Lieutenant ^c00- the Army officials
+in blue overalls patrol around towns, controlling everything. They also come
+to pick up any of the "pre-emptive deserters", and they're looking for you right 
+now. Luckily for you, it's been a really long time since any of them actually used 
+their handgun. They react slowly, but can still pose a threat when they ambush you. 
+
+
+^c3F(+100) ^c00
+
+^PAGE7
+^c05           --- The Enemies ---
+
+^c3FElite Soldier ^c00- true aces of the battlefield who were allowed by the Army 
+to never retire. They dual-wield pistols and have lightning fast reflexes. They're 
+also fast and silent. Fellow Army members are advised to keep away from them when 
+possible to avoid injuries.
+
+^c3F(+700) ^c00
+
+^c16 (Hint: the elite soldiers are always well-prepared for combat and carry 
+plenty of ammo around!)
+^PAGE 8
+^c05           --- The Enemies ---
+
+^c3FBattle Dog ^c00- the dogs are trained by
+the Army to ensure maximum combat efficiency. All visitors are required to
+wear official overalls of the Army before entering an area guarded by the battle 
+dogs.
+
+^c3F(+50) ^c00
+^PAGE 9
+^c05           --- The Enemies ---
+
+^c3FMecha Armor Unit ^c00- the units in mechanized combat armor are designated to 
+guard strategic locations. Their mechanical armor is capable of withstanding dozens 
+of bullets and carrying tons of ammo for their quadruple gatling guns.
+
+^c3F(+2500) ^c00
+
+^PAGE 10
+^c05           --- The Enemies ---
+
+^c3FArmy Private ^c00- the Privates are rookies, but they train all the time. They're 
+more agile than the Officers. Privates are not allowed to speak unless asked to by 
+a superior. There is no rule against developing a language of grunts and growls, 
+though.
+
+^c3F(+375) ^c00
+
+^PAGE 11
+^c05           --- The Enemies ---
+
+^c3FImmolation Unit ^c00- the Army is not in favor of paper shredders, instead preferring 
+this fast and efficient method of preventing large amounts of data from being captured 
+by enemies. This is either done by remote destruction buttons, or by the Immolation 
+Units. The latter have fireproof suits and, if necessary, can set people on fire 
+too.
+
+^c3F(+1000) ^c00
+
+^c16 (Hint: the immolators are the strongest of soldiers, but MUCH weaker than mechas)
+
+^PAGE 12
+^c05           --- The Enemies ---
+
+^c3FSecurity Guard ^c00- The Guards' sole duty is to protect the well-being of essential 
+Army officials. They are equipped with bulletproof vests and machine guns.
+
+^c3F(+500) ^c00
+
+^c16 (Hint: unlike SS soldiers in Wolfenstein 3d, the Security Guards always drop 
+machine guns, which translates to 50% more ammo)
+
+^PAGE 13
+^c05           --- The Enemies ---
+
+^c3FThe General ^c00- the General isn't seen around often anymore. Being the absolute 
+core of the Army, he prefers to stay hidden despite being highly skilled in combat. 
+The urban legends say that any assassin capable of making it past his guards would 
+have to fight the man himself and his heat-seeking missile launcher. Or was that 
+a gatling gun? Or maybe both? Some even say he posesses syringes containing liquified 
+ideology. One is unlikely to ever find out the truth...
+^c3F(+5000) ^c00
+^PAGE 14
+^c05           --- The Enemies ---
+
+^c3FStealth Mecha Armor Unit ^c00- you read that right. They're pretty big for something 
+almost invisible! Your death would be inevitable if they could only keep their mouths 
+shut when they notice you...
+
+^c3F(+4500) ^c00
+
+^c16 (Hint: better keep your eyes trained on the floor. Their feet still block light, 
+and that's your only chance to notice them!)
+^PAGE 15
+^c05           --- The Enemies ---
+
+^c3FThe Turret ^c00- the laboratory's murderous appendage is equipped with a very 
+rapidly firing gun, powerful flamethrower, and lots and lots of armor.
+
+^c3F(+5000) ^c00
+^PAGE 16
+^c05           --- The Enemies ---
+
+^c3FCommand Controller ^c00- the Dove yearns nothing but peace, but the only way 
+to achieve it is getting rid of degeneracy. That means you.
+
+^c3F(+2500) ^c00
+
+^c16 (Hint: the dove is not a mere projectile, you will need more than a little bit 
+of dodging!)
+^PAGE 17
+^c05           --- The Enemies ---
+
+^c3FThe Enemy ^c00- the enemy thinks that you are evil and they are good. Little 
+do they know that as a matter of fact, you are good and they are evil. It's kind 
+of weird that they didn't realize it, really, considering how obvious it is.
+
+^c3F(+5000) ^c00
+
+^c16 (Hint: instant confrontation is not the way to go!)
+^PAGE 18
+^c05          --- The Collectibles ---
+
+^c00 Most of the original Wolfenstein 3d items can also be found here. Here are the 
+typical collectibles:
+
+^c3FMoney        ^c00- adds 75 points.
+^c3FMoney Stack  ^c00- adds 250 points.
+^c3FIridium Bar   ^c00- adds 75 points.
+^c3FGold Bar      ^c00- adds 2500 points.
+^c3FIron Key      ^c00- opens wooden doors.
+^c3FKey Card      ^c00- opens tech doors.
+
+^PAGE 19
+^c05          --- The Collectibles ---
+
+^c00 The newest version introduces some items different from what you usually find 
+in Wolfenstein 3d:
+
+^c3FAmmo Box: ^c00adds 32 bullets (up to 120 without backpacks)
+
+^c3FBackpack: ^c00adds 16 bullets, and increases your storage capacity by 30, up 
+to 300.
+
+^c3F1up: ^c00sets your health to 100% if it's below 50%, otherwise it raises your 
+health by 50% all the way to 500%.
+^PAGE 20
+^c05            --- The Levels ---
+
+^c3FE1L1 - Leaving Home ^c00
+Better dive into the back alleys right away! And then you'll have to visit the Army's 
+buildings...
+
+^c3FE1L10 - Another World ^c00
+Two exits. Everything blue. Lots of rewarding exploration!
+
+^c3FE1L2 - Local Unit ^c00
+A fairly casual level, but the metal room kicks it up a notch!
+^PAGE 21
+^c05            --- The Levels ---
+
+^c3FE1L3 - Downtown Streets ^c00
+Back on the streets, with a tight spot or two! First non-secret machine gun.
+
+^c3FE1L4 - City HQ ^c00
+It's all about the center structure, with its trap and a set of convoluted but really 
+rewarding secrets!
+
+^c3FE1L5 - Intersection ^c00
+Another area burned... awaiting more streets, as well as some non-linearity!
+
+^PAGE 22
+^c05            --- The Levels ---
+
+^c3FE1L6 - Get Lost ^c00
+Dirty confusing mazes... or maybe not that confusing. The enemies in town may be 
+a bigger worry!
+
+^c3FE1L7 - Climbing Up ^c00
+A pretty huge red level, with a lot to shoot! Many sidepaths, and one considerably 
+tricky secret!
+
+^c3FE1L8 - High Pressure ^c00
+See above, but more unforgiving! And with more outside atmosphere.
+^PAGE 23
+^c05            --- The Levels ---
+
+^c3FE1L9 - The Peak ^c00
+A rooftop level, with a classic boss fight coupled with a surprise. A free gatling 
+gun is available... behind the boss!
+^PAGE 24
+^c05            --- The Levels ---
+
+^c3FE2L1 - Break Out ^c00
+Find someone to get you out of jail! And say hello to the Privates.
+
+^c3FE2L10 - Mama, I Killed a Man ^c00
+Anything familiar? Well, THEY are not familiar for sure. No no no no no. You came 
+here for the secret library, but maybe you'd rather get out as quickly as possible?
+
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE2L2 - Barracks Brawl ^c00
+A shooting range sounds like a good place to get shot. Will you manage to access 
+the kitchen?
+
+^c3FE2L3 - Among the Crates ^c00
+Plenty of purples and blues, sprinkled with crates! That's something new.
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE2L4 - Subterranean ^c00
+One of my favorite levels. Underground caverns, and a big buried blue building. Said 
+building contains two keys, but getting them both is gonna take a while!
+
+^c3FE2L5 - Old Tricks ^c00
+Classic level tributes! The knowledge of Wolfenstein 3d may be helpful, most of the 
+time.
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE2L6 - Potato Disposal ^c00
+Such a big kitchen could've used more food! But what you really need to visit is, 
+again, the warehouse.
+
+^c3FE2L7 - Justly Detained ^c00
+A big prison with as much as three different paths to take! Either short or easy.
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE2L8 - The Corridors ^c00
+Those corridors just keep on coming! The prison battle is the toughest part for sure, 
+but there's still a lot to do afterwards...
+
+^c3FE2L9 - Redoubt of Glory ^c00
+Your second boss meeting will be somewhat less conventional this time! And then there 
+will be the third one...
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE3L1 - A Field Trip ^c00
+A short stroll through the forest will progress into a painful plow through the fancy 
+entryway.
+
+^c3FE3L2 - White And Red ^c00
+Excitement and pain! A fairly short level, but with plenty of things to discover. 
+Especially if you find the keycard.
+
+^c3FE3L3 - AU Meets RH+ ^c00
+The last March Of The Army level I made. It's a pretty sizeable one!
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE3L4 - Bad Choices Only ^c00
+Every door will make you face enemies,
+and so will standing still! Better find a safe place to stay.
+
+^c3FE3L5 - A Pattern ^c00
+It's gimmick time! With two puzzles in a row. Or three, if you want to get something 
+extra!
+
+^c3FE3L6 - Fireproof Wood ^c00
+Another short level, with a fair amount
+of flames! And more convoluted secrets.
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE3L7 - Army and a Half ^c00
+The secret level is easy to render inaccessible! And the difficulty gets really serious 
+from now on.
+
+^c3FE3L10 - Hot Mess ^c00
+Plenty of keys, but only one exit! This chaotic level is without doubt the least 
+linear one. You can find some very new and unexpected things, too...
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE3L8 - Forest Hideout ^c00
+There are some particularly useful secrets here, to match the particularly difficult 
+areas. You need two keys to unlock the exit passage through the patio.
+
+^c3FE3L9 - Might Makes Right ^c00
+Can you take on the General? In any
+case, there's a lot of obstacles to face beforehand, starting with three locked doors 
+and no other way out of the room!
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE4L1 - Go Green ^c00
+Will you take the long way, the hard way, or choose the sneak attack? You will face 
+some immolation units either way.
+
+^c3FE4L2 - Dirty Dealings ^c00
+Just a few tight spots... and more immolation units. The metal structure will not 
+be the hardest part this time.
+
+^c3FE4L3 - Watch Your Back ^c00
+More warehouses! And one more secret level you can lock yourself out of.
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE4L10 - Waters of Zgopo ^c00
+One big puzzle! Surviving will be good enough, but maybe you could get the gatling 
+gun or even more?
+
+^c3FE4L4 - Metro Madness ^c00
+Reach the other end of the twisty corridor to win, but beware the numerous enemies 
+behind windows! They may deplete your ammo, but you can reach them all... eventually, 
+you'll have to leave the tunnel anyway.
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE4L5 - Loud in Library ^c00
+The library level may be less demanding than the previous one, but you'll need to 
+watch your once more! On the other hand, you can find a non-secret gatling gun.
+
+^c3FE4L6 - The Armory ^c00
+How about a secret that blocks your enemies instead of providing goodies?
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE4L7 - Deathly Riddle ^c00
+One puzzle can help you make the main fight only mildly unbearable, so pay attention 
+to clues!
+
+^c3FE4L8 - Restless ^c00
+Four paths, all leading straight into danger! It's difficult and stays this way. 
+The iron key is optional, but really helpful.
+
+^c3FE4L9 - Hidden Danger ^c00
+After some preliminary obstacles, it will be time to see the boss... probably?
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE5L1 - Warm Welcome ^c00
+A powerful beginning! With the gatling on the first level. And some tough opposition 
+to match it.
+
+^c3FE5L2 - Purple Passages ^c00
+Almost nothing but corridors all the way! With little supplies.
+
+^c3FE5L3 - Kick Some Aleph ^c00
+Calm before the storm, a non-linear sprawling area to explore.
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE5L4 - Heavy Load ^c00
+Time for something more powerful! Quadruple minigun is the new normal.
+
+^c3FE5L5 - From Bad To Worse ^c00
+The secret exit is easy to locate. Accessing it is quite the puzzle though, and pushing 
+everything you can won't suffice!
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE5L10 - Survival ^c00
+Option one: Take the easy way out, refilling your health and ammo. Option two: Get 
+maximum equipment, and survive the level with no extra health from then on!
+
+^c3FE5L6 - Paranoia ^c00
+Was that the stealth mecha? Here's a much better question: where did he go? 
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE5L7 - Too Small for the Three of Us ^c00
+If you're not starting well equipped, the purple room is your best bet, even though 
+it's got a good amount of opposition too!
+
+^c3FE5L9 - Insides Inside Insides ^c00
+Make sure you're prepared before entering the cracked gray wall structure.
+
+^c3FE5L9 - Human VS Machine ^c00
+It's time to take on the heavily armed turret... but can anything match the power 
+of the army?
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE6L1 - Inner Censors ^c00
+To contrast the heavyweight labs episode, let's have a pistol-only map! Starting 
+with a flamethrower guy in your face.
+
+^c3FE6L2 - Midnight Borough ^c00
+Yes! It's time to face the dove who's been stalking you from pictures the whole time. 
+Once it's done, there's a whole town  waiting to be liberated from its talons...
+
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE6L3 - Goat Simulator ^c00
+And now for something completely different! No health kits or food plates here, but 
+maybe it won't be so baaad?
+
+^c3FE6L10 - Ivor Elton ^c00
+Peek cautiously around the corners, that's the only way! Even if you look for secrets.
+
+
+^c3FE6L4 - Roof Roof Roof ^c00
+. . . get it? GET IT?!
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE6L5 - Tactical Retreat ^c00
+The standard way to complete the level is to RUN. There may a few different paths, 
+though...
+
+^c3FE6L6 - Breathing Space ^c00
+There's something off about those outdoors, but you can't quite put your finger on 
+it.
+
+^c3FE6L7 - Feeling Small ^c00
+At first because of the walls, then because of the enemies...
+
+^PAGE 25
+^c05            --- The Levels ---
+
+^c3FE6L8 - Jungle Outpost ^c00
+It's just a normal outpost with normal furnaces and heavy defenses!
+
+^c3FE6L9 - Strife ^c00
+You need to fight a they. As prescribed by genes, you would experience extreme sadness 
+otherwise but note what let you continue the fun.
+^PAGE 99
+^c05              --- Credits ---
+
+^c00March of the Army: Gala Attire Edition is a Wolfenstein 3d mod by Military.
+
+If anything could be fixed or improved on the credits list, let me know in the March 
+of the Army thread
+^c3Fdiehardwolfers.areyep.com
+/viewtopic.php?t=7370 ^c00
+or
+^c3Fhttp://wolf3d.darkbb.com/
+t3431-march-of-the-army ^c00
+(Also, leave feedback and share your impressions there!)
+^PAGE 14
+^c05          --- Graphics Credits ---
+
+^c3FThomas Weiling ^c00(scrapped soldier designs)
+^c3FAdrian Carmack, Kevin Cloud ^c00(Wolfenstein 3d, Spear of Destiny, Doom graphics)
+
+^c3FMr. Wolf ^c00(Immolation Unit sprites)
+^c3FScott Nixon, Ernesto Roque ^c00(Witchhaven graphics)
+^c3FVictoria Samorodkina ^c00(Sky Maze graphics)
+^c3FMegabyte, Noni, Westwood ^c00(misc. textures)
+^c3FArEyeP, FormGen, James Storey ^c00(misc. sprites)
+
+Misc. free photos and images
+
+^PAGE 15
+^c05            --- Audio Credits ---
+
+^c3FId Software ^c00(Wolfenstein 3d, Doom SFX)
+^c3FRogue Entertainment ^c00(Strife SFX)
+^c3FValve Corporation ^c00(Half-Life SFX)
+^c3FXatrix Entertainment ^c00(Redneck Rampage SFX)
+
+Misc. free sound effects
+
+^PAGE 16
+^c05            --- Audio Credits ---
+
+^c3FNine Inch Nails ^c00
+^c3FRammstein ^c00
+^c3FSmashing Pumpkins ^c00
+^c3FMarilyn Manson ^c00
+^c3FBolland & Bolland ^c00
+
+^c3FMorey Goldstein ^c00(Strife music)
+^c3FBobby Prince ^c00(Duke Nukem 3d music)
+^c3FSpencer Nilsen ^c00(Ecco the Dolphin music)
+^PAGE 18
+^c05           --- Extra Credits ---
+
+^c3FGerolf ^c00for help, sprite tweaks and playtesting
+^c3FMoritz "Ripper" Kroll ^c00and ^c3FId Software ^c00for the engine
+
+^c05           --- Special Thanks ---
+
+
+^c3FMoritz "Ripper" Kroll, Adam Biser, Christian Maas, Rick Brewster ^c00for the 
+software used
+^c3FWolfenstein 3d modding community ^c00for the resources and support
+^E
+

@@ -1,0 +1,29 @@
+
+@(#)	SOD_CC1  (new levels) - Notes on Statics/Doors/Actors
+
+Level/	Total 	Total	Total	Active
+Floor	Statics	Doors	Actors	Actors	Description/Notes
+-----	-------	-----	------	------	---------------------------------
+  1	398	20	70	20	Tunnels 1
+  2	290	22	97	16	Tunnels 2
+  3	353	45	113	6	Tunnels 3
+  4	382	37	102	4	Tunnels 4
+  5	285	23	62	0	Tunnel Boss (Trans Grosse)
+  6	364	41	115	56	Dungeons 1
+  7	337	28	81	22	Dungeons 2
+  8	335	35	109	22	Dungeons 3
+  9	301	29	61	19	Dungeons 4
+ 10	329	15	61	14	Dungeons Boss (Barnacle Wilhelm )
+ 11	336	36	147	0	Castle 1
+ 12	340	23	107	8	Castle 2
+ 13	252	20	80	24	Castle 3
+ 14	374	40	121	30	Castle 4
+ 15	356	21	128	58	Castle 5
+ 16	327	32	147	44	Castle Boss (UberMutant)
+ 17	198	28	94	0	Ramparts
+ 18	141	31	85	26	Death Knight
+ 19	390	37	143	10	Secret 1
+ 20	393	40	122	9	Secret 2
+ 21	333	1	31	0	Angel of Death
+
+

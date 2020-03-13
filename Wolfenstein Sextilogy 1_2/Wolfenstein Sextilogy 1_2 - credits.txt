@@ -1,0 +1,123 @@
+WOLFENSTEIN SEXTILOGY CREDITS LIST
+
+-WALLS-
+
+Gray stone 1: Tristan van Putten
+Gray stone 2: Tristan van Putten
+Gray Stone w/ Flag: Wall by Tristan van Putten, flag by WLHack
+Gray Stone w/ Hitler: Wall by Tristan Van Putten, painting by DHW TC team
+Gray Stone 3: BJ Rowan
+Gray Stone w/ Sign: Tristan van Putten
+Blue Stone: MacPlay Entertainment, sign by Tristan van Putten, cells by Id Software
+
+Wood: BJ Rowan
+Doors: Tristan Van Putten/BJ Rowan
+Steel: Tristan Van Putten
+Red Brick: MacPlay Entertainment, with editing by Executor
+Elevator: Megabyte
+Gray Stone w/ Slime: BJ Rowan
+Stained glass: WLHack
+Blue Wall: MacPlay Entertainment, with spliced pieces by Id Software
+Gray Brick: MacPlay Entertainment, with spliced pieces by Id Software
+Panel Wall: Laz Rojas
+Brown Marble: Ben Blaufarb
+
+-SPRITES-
+
+Demo sign: Wolf Skevos-Jones
+Water pool: AREyeP
+Oil drum: AREyeP, recolored by Executor
+Table w/ chairs: AREyeP
+Floor lamp: Ben Blaufarb
+Chandelier: WLHack
+Dog Food: Megabyte
+Column: Wolf Skevos-JOnes
+Green plant: Spliced and recolored from parts of the original and Laz Rojas' recoloring 
+of the Mac version, with additional editing by Executor
+Sink: JaM Productions
+Ceiling light: Ben Blaufarb
+Table: Megabyte
+Suit of armor: Wolf Skevos-Jones
+Cages: BJ Rowan
+Keys: Laz Rojas
+Food: Wolf Skevos-Jones
+Clip: Id Software (from Doom 0.4 alpha)
+MP-40: Pickup by Apogee Software (from ROTT original specs). in-hand sprites compiled 
+from graphics by BJ Rowan and WSJ, with additional editing by Executor
+Chaingun: Pickup by Wolf Skevos-Jones, in-hand sprites by ChiefRebelAngel with minor 
+editing by Executor
+Treasure: Tristan van Putten
+Barrel: Megabyte
+Well w/water: Id Software, water recolored by Executor
+Nazi flag: Wolf SKevos-Jones
+Utensils: BJ Rowan
+Stove: Wolf Skevos-Jones
+Spear rack: WLHack
+Bones and blood: AREyeP
+Guard: Wolf Skevos-Jones
+Dog: Tricob
+Officer: Architect
+SS: Wolf Skevos-Jones
+Mutant: WLHack
+Hans Grosse: Majik Monkee, with weapon muzzle flash by Megabyte and additional editing 
+by Executor
+Dr. Schabbs: Thejosh
+Fake Hitler fire: WSJ
+Hitler: Id Software, edited by Megabyte and Executor
+Heinrich Krist (Otto Giftmacher): Majik Monkee, with weapon muzzle flash by Megabyte 
+and additional editing by Executor
+SS-Oberstgruppenfuhrer Lukas Jaeger (Gretel Grosse): Majik Monkee, with minor editing 
+by Executor
+General Fettgesicht: Id Software, edited by Megabyte and Executor
+Knife: Mr. Wolf
+Pistol: Thejosh, with muzzle flash by Mr. Wolf and editing by Executor
+
+-VGAGRAPH-
+Menu assets by Id Software with editing by WSJ and Executor
+High Score screen by Tristan van Putten, with editing by Executor
+Intermission letters by Id Software, recolored by Executor
+Status bar by Tristan van Putten, recolored by Executor
+Title screen is a stock photo of Castle Neuschwanstein in Germany, with editing by 
+Executor
+
+-MUSIC (listed as authors because 71 songs is too much to catalogue one by one)-
+
+Origin Systems (from Wing Commander II: Vengeance of the Kilrathi)
+Lee Jackson (from Duke Nukem 3D)
+Robert Prince (from Spear of Destiny, Blake Stone, Planet Strike, and Duke Nukem 
+3D)
+WSJ
+Mark Klem
+David Shaw
+Paul Corfiatis
+
+-SOUNDS-
+
+Guard: WSJ
+Dog: WSJ
+Door: BJ Rowan
+MP-40: WSJ
+Pistol: WSJ
+Chaingun: WSJ
+SS: Wolf Skevos-Jones
+Hans Grosse: MacPlay Entertainment
+Secret door: Wolf Skevos-Jones
+Hitler: MacPlay Entertainment
+Blood gurgling: FormGen Corporation
+Dr. Schabbs: FormGen Corporation
+Officer: Wolf Skevos-Jones
+Elevator: FormGen Corporation
+Otto Giftmacher: Wolf Skevos-Jones
+General Fettgesicht: Id Software
+Gretel Grosse: Wolf Skevos-Jones
+
+-CODING-
+WOLF4GW engine by Ripper (www.chaos-software.de.vu)
+Tutorials from the Wolfenstein 3D Dome (www.wolfenstein3d.co.uk), DieHard Wolfers 
+(diehardwolfers.areyep.com) and MCS Coding Tips (www.areyep.com). A big "GUTEN TAG!" 
+to everyone who helped me with the source code.
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this 
+TC.

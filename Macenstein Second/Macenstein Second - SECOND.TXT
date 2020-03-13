@@ -1,0 +1,68 @@
+
+Mac-enstein Second Encounter SDL 2.01    December 15, 2010
+                                 2.02     January 24, 2011 
+
+Wolfenstein 3D (c) 1992 id Software, Inc.
+Second Encounter levels, artwork, sounds and music (c) 1994 InterPlay Productions
+
+
+
+This game requires the Mac-enstein First Encounter SDL 2.0 files, which are
+available at www.wolfensteingoodies.com. Just add and overwrite these files
+to the same folder as the First Encounter's and then run SECOND.BAT. If you
+prefer making your own shortcut, you have to use "--encounter 2" as a
+parameter to run the Second Encounter. This is because the EXE supports
+multiple Encounters.
+
+The EXE with this release contains some performance enhancements for a better
+frame rate - smoother movement! It also corrects some enemy behavior behind
+pushwalls ... so replace that old EXE!
+
+The volumes of the boss sounds have been increased, so the files in the 
+sounds folder should be replaced with the new ones.
+
+One obscure bug: if you ctl+esc (minimize) from fullscreen (monitor) mode, 
+returning to the game corrupts the VGA graphics, so the status bar (and get 
+psyched) is garbled. Either don't do that, or if you must, add "--nodblbuf"
+to the command line.
+
+Tab-M toggles the player speed between Mac and PC, Tab-F toggles the
+damage flash, and Tab-B toggles between the original (buggy) dog attack sound 
+and the corrected one. All default to the Mac Wolfenstein behavior, and your
+preference will be saved in the config file.
+
+All Wolf3d v1.4 cheats are now available to use, though I would advise
+against using tedlevel because that messes up the HUD level numbers. Warping
+is better.
+
+For this release, many thanks go to AlumiuN for his Advanced Sound Manager
+code, and to Havoc for a code tweak that helped me keep this incremental 
+release very small. Thank you ponz for finding some potentially embarassing 
+bugs, and props to Brian Lowe (Schabbs) for hosting this on the Wolf3D Dome!
+
+Improvements from the first version of Mac-enstein Second Encounter SDL:
+
+- It uses AlumiuN's Advanced Sound Manager, which allows use of OGG music 
+  files of the original Mac Wolfenstein music. There are also separate 
+  volume controls for music and sounds.
+- All screen resolutions supported by Wolf4SDL and your monitor are possible: 
+  320x200, 320x240, or any multiple of either. Defaults to 640x400. So now
+  you can play in the Mac's original 640x480 mode.
+- Macintosh Wolfenstein color palette is used. I took the liberty of changing 
+  the duplicate (unused) colors at the end of the palette to support the PC 
+  Wolf3d menus, though.
+- Mechahitler death sounds and points awarded corrected
+- Four pushwalls in level 6-4 needed guard blockers 2 spaces behind them to
+  avoid potentially trapping enemies behind them. This matches the Mac
+  Wolfenstein gameplay now.
+- All levels are included in final ratios, including secret levels. So if 
+  you want to get 100% across the board when the game ends, better find those 
+  secret levels!
+
+The credits and notes from the previous SDL version, most of which still apply, 
+
+can be read in FIRST.TXT, along with the coding timelines.
+
+
+Andy
+

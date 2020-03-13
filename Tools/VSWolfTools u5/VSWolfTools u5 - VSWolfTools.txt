@@ -1,0 +1,27 @@
+This packet lets you edit all of the normal datafiles in a wolfenstein- 
+or spear mod, also in mods with code changes.
+
+The packet consists of the following programs:
+
+VSWAPED  edits vswap.*    (wall and sprite images, digital sounds).
+VSMAPED  edits gamemaps.*/maptemp.*.
+VSMUSED  edits audiot.*   (PC and AdLib sounds, IMF music).
+VSVGAED  edits vgagraph.* (Fonts, pictures, endscreens, palettes,
+                           demos, endart/texts).
+
+In all programs you can undo changes and save to the mod with backup.
+
+You can add walls, sprites, digital sounds, IMF music, images,
+    endscreens and endart/texts. Except for walls, all additions
+    call for recompilation of the exe file.
+
+If you have my old programs wolfenpack, wolfenmap or single VSWAPED
+or VSMAPED you may uninstall them and install this packet, possibly
+after copying home-made descriptions files.
+
+                                Vincent
+                         http://vincentius.dk
+                           mail@vincentius.dk
+
+     If you encounter problems using this packet please let me know.
+                       (Also if you like them).

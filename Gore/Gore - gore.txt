@@ -1,0 +1,59 @@
+WEAPONS
+
+Malkyren Death Tazer: The original "stun" tazer was invented on Earth hundreds of 
+years ago. Colonists on Malkyr have found
+a metal capable of conducting enough charge to kill someone without the tiny metal 
+wires burning out. Buzzes guards to
+death quickly and it's electric charge can flow around the armor of Mech suits.
+
+Microwave Gun: Rather than make a weapon that discharges rays of solid tipped heat 
+rays, this actually shoots a high energy
+ray that gives the cells of whatever it touches enough energy to produce a concentrated 
+amount of heat capable of burning
+through flesh causing minimal pain. Can heat straight through Mech suit armor except 
+for Magma Soldier suits (these are
+super expensive).
+
+Plasma Rifle: A compact weapon with deadly accuracy, high damage but slow rate of 
+fire.
+
+Support Machine Gun: A projectile weapon that fires the antique but reliable 7.62mm 
+round. Requires power cells to run the
+moving parts and cool the barrel. A deadly weapon with high damage and rate of fire.
+
+
+ENEMIES
+
+GORE Army Soldiers: The basic infantryman. They are well trained, common soldiers 
+armed with a Microwave Wrist gun.
+They go down easily and their uniforms offer little protection againts Tazer blasts.
+
+
+GORE Marines: People volunteer directly into the Marines and undergo 15 grueling 
+weeks of training. They wear Mech suits
+that make them go faster and move in hazardous environments. The mass is their downfall 
+as they are huge targets. They are
+so huge that when they die the force of the shot that kills them isin't enough to 
+knock them down so they die standing.
+They may be huge looking and pack heavy firepower but they die easily.
+
+Gore: The leader of the GORE Faction, this crazed scientist wishes to take over the 
+whole Beta sector, the section of planets
+where the GORE Faction came from but is ruled by the United Planets. He carries 2 
+projectile pistols and carries an
+experimental serum with him that regenerates damage caused to whatever it is injected 
+to until the nanites (microscopic
+robots) inside run out of regenerating power and self destruct (taking the user with 
+it).
+
+HEALTH
+Health can be increased by using syringes (walk over them). Green syringes contain 
+adrenaline (heal some health) and red
+syringes contain weak regenerative nanites (heal a lot of health).
+
+On the left of the health indicator is a heartbeat indicator. When you are healthy 
+the heart has a high pitch and low
+frequency (the heart pumps a lot of blood slowly, this is normal if you aren't doing 
+much). If you are very hurt, there is a
+low pitch and high frequency (the heart pumps overtime to get enough blood to the 
+body.

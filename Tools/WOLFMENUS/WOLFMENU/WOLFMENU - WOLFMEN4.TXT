@@ -1,0 +1,86 @@
+These files are associated with the original, full WOLFMENU system:
+
+WOLF.BAT        batch file for launching WOLFMENU
+WOLFMENU.EXE    executable for bringing up menus and making selections
+WOLFMENU.BAS    source code for WOLFMENU.EXE
+WOLFMENU.CFG    config file with swapper locations, commands, browser, title
+ADDON.CFG       config file with add-on locations and commands
+COLOR.CFG       config file with menu colors
+MENUFLAG.WLF    config file that lets bat & exe talk, remembers last add-on
+LIST.COM        readme file browser, also saves browser colors
+GRAPHICS.WL0    Wolf shareware v1.0 graphics patches with their 3-digit ids
+GRAPHICS.WL1    Wolf shareware v1.4 graphics patches with their 3-digit ids
+GRAPHICS.WL6    Wolf registered graphics patches with their 3-digit ids
+GRAPHICS.SOD    Spear registered graphics patches with their 3-digit ids
+GRAPHICS.SDM    Spear demo graphics patches with their 3-digit ids
+GRAPHICS.BS6    Blake Stone graphics patches with their 3-digit ids
+GRAPHICS.VSI    Planet Strike graphics patches with their 3-digit ids
+LEVELS.WL0      Wolf shareware v1.0 levels patches with their 3-digit ids
+LEVELS.WL1      Wolf shareware v1.4 levels patches with their 3-digit ids
+LEVELS.WL6      Wolf registered levels patches with their 3-digit ids
+LEVELS.SOD      Spear registered levels patches with their 3-digit ids
+LEVELS.SDM      Spear demo levels patches with their 3-digit ids
+LEVELS.BS6      Blake Stone levels patches with their 3-digit ids
+LEVELS.VSI      Planet Strike levels patches with their 3-digit ids
+WOLF3D.FAQ      the Wolfenstein 3-D and Spear of Destiny FAQ
+TIPS.TXT        tips for the player by Warren Buss
+CHEAT.TXT       cheat keys
+WOLFMEN1.TXT    optional text file for main menu (unused)
+WOLFMEN2.TXT    optional text file for main menu (unused)
+WOLFMEN3.TXT    optional text file for main menu (unused)
+WOLFMEN4.TXT    optional text file for main menu (unused)
+WOLFMEN5.TXT    optional text file for main menu (unused)
+WOLFMEN6.TXT    WOLFMENU directory listing               
+WOLFMEN7.TXT    WOLFMENU file listing (this file)
+WOLFMEN8.TXT    Miscellaneous notes on add-ons
+WOLFMEN9.TXT    Spear of Destiny answer key
+
+These files are associated with the add-ons that share a common EXE. These
+add-ons are located in subdirectories with the same name as the batch files:
+
+BJFUNK.BAT      Mostly bucksnort mods, these all use BJ Rowan's 2ND.ZIP EXE
+SPEARRES.BAT    Spear Resurrection by AReyeP and MCS
+WARZONE.BAT     Warzone series by DTrade
+TOTEN2.BAT      Project Totengraeber by BJ Rowan
+TKOPF.BAT       Castle Totenkopf by Wolf Skevos-Jones
+WOLFCOL.BAT     Wolfenstein Collection by MCS
+FINAL3.BAT      The Final Solution 3.0 by Tristan Van Putten
+METEO.BAT       METEO by Wes Desjardins
+DANGERZ.BAT     Danger Zone series by Joe M
+WOV3.BAT        Weapons of Vengeance 3 by Sandy
+WBROWSE.BAT     Allows browsing of readme files in these "semi-swap" folders
+
+These files are associated with the best-of menu:
+
+BEST.BAT        batch file for launching BESTMENU
+BESTMENU.EXE    executable for bringing up menus and making selections
+BESTMENU.BAS    source code for BESTMENU.EXE (modified DOSMENU code)
+BESTMENU.CFG    config file with browser, title
+APPSBEST.CFG    config file with add-on locations and commands
+COLORBST.CFG    config file with menu colors
+MENUBEST.DOS    config file that lets bat & exe talk, remembers last add-on
+LISTBEST.COM    readme file browser, also saves browser colors
+SHRBEST.BAT     "semi-swap" batch/folder for Wolf shareware
+REGBEST.BAT     "semi-swap" batch/folder for Wolf registered
+SODBEST.BAT     "semi-swap" batch/folder for Spear registered
+SDMBEST.BAT     "semi-swap" batch/folder for Spear demo
+WBROWSEB.BAT    Allows browsing of readme files in these "semi-swap" folders
+BSTONE.BAT      batch to play Blake Stone registered regardless of swap state
+PLANET.BAT      batch to play Planet Strike regardless of swap state
+
+These files are associated with the spotlight menus:
+
+SPOT.BAT        batch file for launching SPOTMENU
+SPOTMENU.EXE    executable for bringing up menus and making selections
+SPOTMENU.BAS    source code for SPOTMENU.EXE (modified DOSMENU code)
+SPOTMENU.CFG    config file with browser, title
+APPSSPOT.CFG    config file with add-on locations and commands
+COLORSPT.CFG    config file with menu colors
+MENUSPOT.DOS    config file that lets bat & exe talk, remembers last add-on
+LISTSPOT.COM    readme file browser, also saves browser colors
+SHRBEST.BAT     "semi-swap" batch/folder for Wolf shareware
+REGBEST.BAT     "semi-swap" batch/folder for Wolf registered
+SODBEST.BAT     "semi-swap" batch/folder for Spear registered
+SDMBEST.BAT     "semi-swap" batch/folder for Spear demo
+WBROWSES.BAT    Allows browsing of readme files in these "semi-swap" folders
+

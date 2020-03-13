@@ -1,0 +1,154 @@
+WOLFENSTEIN MISSIONS SECOND ENCOUNTER CREDITS LIST
+
+-WALLS-
+Spear of Destiny walls: Id Software
+Cellar walls: Ken O'Brien
+Cyan bricks: Id Software, JackaL
+Yellow bricks: Ken O'Brien, ArEyeP, Raven Software, Megabyte
+Plaster w/ picture: Id Software, B.J. Rowan
+Gray stone w/ purple slime: Thomas Weiling
+Locked doors: Xaser
+Rusty door: Id Software, B.J. Rowan, Barry Christian
+Gray Stone 3 w/ slime: Thomas Weiling
+Wood w/ shield: Ben Blaufarb
+Concrete: B.J. Rowan, JackaL, FormGen, Ben Blaufarb
+Checkerboard marble: Gary Ragland, ArEyeP, Raven Software, Id Software
+Hedgerow: Xaser
+Freezer door: Doomjedi
+Lab walls: Xaser
+Freezer walls: Doomjedi
+Dark stone: ArEyeP
+Lab metal: Xaser
+Gothic walls: Xaser
+Blue hellwall: Xaser
+Red hellwall: Id Software, Xaser
+Black steel: Xaser
+Crackle wall: Xaser
+Boulders w/ blood: Id Software
+Crates: Id Software, FuzzballFox
+
+-SPRITES-
+
+Rifle: Turbo
+Rocket Launcher: Apogee Software, ammo pickup by WSJ
+Heavy Machine Gun: B.J. Rowan, ammo pickup by Id Software
+Flamer: Gerolf, based on SNES Wolf3D, ammo pickup by WSJ
+Rocket Launcher: Gerolf, ammo pickup by Laz Rojas based on original by Id Software
+
+Trooper: Original sprite by FormGen, rifle and firing animation by WSJ, assembled 
+by Executor
+Grenadier: Grenade frames by Laz Rojas, main frames by ArEyeP, recolored and assembled 
+by Executor
+Kommando: Original sprite by doomjedi, edited by Captain J
+Heavy Trooper: Captain J, expanding on original frontal frames by WSJ
+Rocketeer: UnTrustable
+Miniboss: UnTrustable
+Gottlieb Totenauge: Majik Monkee
+Melee mutant: WSJ
+Torch: AREyeP
+Brazier: AREyeP
+Dog sitting frames: UnTrustable
+Dog: Tobbè
+Light bulb: B.J. Rowan
+Spear of Destiny column: Id Software
+Red lamp: Id Software
+Gold helmet: WSJ
+Toilet: AREyeP
+Square banner: AREyeP
+Fountain: Thomas Weiling
+Eagle statue: Thomas Weiling
+Bushes: ArEyeP
+Trees: Doomjedi
+Guard uniform: Ben Blaufarb
+Fluorescent ceiling light: Doomjedi
+Dome light: Xaser
+Lab tables: FormGen, Xaser
+Biohazard bin: Doomjedi
+Blood machine: Doomjedi
+Cryo tubes: Doomjedi
+Mutant blood: Thomas Weiling
+Hanging flame: Ryan de Haast
+Gurneys: Blake Stone, B.J. Rowan, Doomjedi
+Potted palm on table: Laz Rojas
+Table with vase: Laz Rojas
+Brown vase: Laz Rojas
+Shaded floor lamp: Laz Rojas
+Graves: Raven Software, Xaser
+Spikes: Xaser
+Bloody skeleton: ArEyeP
+Dead tree: Id Software, ArEyeP
+Gore: ArEyeP
+Tech lamp: Id Software, Gerolf, assembled and edited by Executor
+Lifeblood: Eriance
+Hell treasure: Id Software
+Gargoyle: WSJ
+Hitler statue: Nate Smith
+Flaming skulls: Id Software
+Red floor lamp: Thomas Weiling
+SoD gore cages: id Software
+Explosive barrel: AREyeP
+Pool of slime: FormGen
+Square banner: AREyeP
+Blue lamp: AREyeP
+Fences: Xaser (based on GothicTX stuff)
+Glass: Xaser / Banjo (based on Hacx stuff)
+Cell bars: Doomjedi
+Large wood window: Shape by Laz Rojas, base texture by Apogee Software, edited and 
+assembled by Executor
+Wood base texture for gray stone and gray brick windows: Apogee Software
+Barred window for red bricks and steel: AREyeP 
+Trees: Doomjedi
+Lamps: Doomjedi
+Teleport sphere: ArEyeP
+Teleport effect: Id Softwware
+Eyeclaws: Raven Software, Xaser
+Biter: Raven Software, Xaser
+Jumpy: Raven Software, Xaser
+Blob: Raven Software, Xaser
+Nightshade: Eriance
+Balor: Raven Software, Rolls, edited heavily by Executor
+Spear of Destiny: ArEyeP
+
+-SOUNDS-
+Rifle: Raven Software
+Enemy rifle: Megabyte
+Explosion: JaM Productions
+Rocket launcher: MacPlay Entertainment
+Minigun sound: Digital illusions CE
+Minigun start/stop: WildWeasel
+Flamer: MacPlay Entertainment
+Flamer impact: Per Kristian
+Knife: MacPlay Entertainment
+Heavy Machine Gun: B.J. Rowan
+Trooper: MacPlay Entertainment
+Additional AdLib sounds: Id Software, JaM Entertainment
+Player death: MacPlay Entertainment
+Switch: Apogee Software
+Kommando: Laz Rojas
+Enemy HMG: WSJ
+Eyeclaws: Xaser
+Jumpy: Xaser
+Biter: Xaser
+Blob: Xaser
+Nightshade: Eriance
+Balor: Raven Software
+Geist: Id Software
+Grenadier: Laz Rojas
+Rocketeer: MacPlay Entertainment (sight), Id Software (death)
+Sounds converted to 22 KHz with linear interpretation by DenisBelmondo
+
+-MUSIC-
+Spear of Destiny and Planet Strike music by Bobby Prince
+All remixes of Wolf3D music rearranged by AstroCreep
+"Industrial Impact" by Paul Corfiatis, arranged by AstroCreep
+"Faultline" by James Paddock, arranged by AstroCreep
+"Evinrude" by Lee Jackson, arranged by AstroCreep
+"Incubutter" by James Paddock and Xaser, arranged by AstroCreep
+"Great Hall" by James Paddock, rearranged by AstroCreep
+"How'd I Do?" by Lee Jackson, arranged by AstroCreep
+"Mist Ache" by Lee Jackson, arranged by AstroCreep
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this 
+TC.

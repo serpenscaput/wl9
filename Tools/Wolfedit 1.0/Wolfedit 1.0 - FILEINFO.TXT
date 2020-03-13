@@ -1,0 +1,42 @@
+
+Various file formats:
+
+.WAL file:
+
+The first two bytes of this file are the width and height.  These 
+values can range between 1 and 64.
+
+The rest of the file is width*height bytes of image data, stored in 
+row major order.  These bytes reference the Wolf3d palette.
+
+---------------------------------------------------------------------
+
+PALETTE.BIN:
+
+This file contains the palette for Wolf3d.  It contains 256 sets of
+r,g,b color values.  These color values are stored as a byte each,
+ranging from 0-63.
+
+Important note: 
+
+This file is NOT used by Wolf3d.  I created this file because I 
+couldn't find the palette in any of the game files.  Changing it will 
+not have any result when playing the game, but it will mess up the 
+editor quite nicely.
+
+--------------------------------------------------------------------
+
+VSWAP.WL1:
+
+This is the graphics file for Wolf3d.  The first 6 bytes in the file
+are a header.  I don't know what the header contains.  Following this, 
+there are 64 pointers (long int; 4 bytes each) which point to a 4096
+byte section of the file that contains image data.  This image data
+is stored in column major order.
+
+There are actually more than 64 pointers at the start of the file. 
+The pointers past the 64th point to the guards and other images.  
+I haven't figured out the format of these images yet.  They probably 
+contain a mask as well as image data.
+
+

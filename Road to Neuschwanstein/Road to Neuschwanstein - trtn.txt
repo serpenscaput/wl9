@@ -1,0 +1,261 @@
+!!!TURN WORD WRAP ON!!!
+
+The Road to Neuschwanstein - A Wolfenstein adventure by Barry Christian
+
+	Thanks for downloading The Road to Neuschwanstein.  The Road to Neuschwanstein is 
+the final chapter in the long saga that began in 1998 with Wolf3d-60 and The Lost 
+Fortress.  The Road to Neuschwanstein is a next generation Wolfenstein add-on that 
+changes the source code.
+
+	The Road to Neuschwanstein was designed to be hard.  Only the expert Wolfers will 
+be able to solve the puzzles in the boss levels.  They are next to impossible on 
+Death Incarnate.  So don't feel bad if you don't make it to the end.
+
+	The Road to Neuschwanstein was not originally planned to be a next-generation Wolfenstein 
+add-on, but I discovered some things and decided to compile the source code.  With 
+the source code, I've tried to limit the changes I do, because I still want it to 
+feel like Wolfenstein, with that atmosphere and everything.  Here is what has been 
+done.
+
+
+Complete list of changes:
+
+-60 new levels with ratio reporting at the end of each level
+-Episode structure removed
+-New sound selections from Spear of Destiny
+-Modifications to existing VSWAP file.
+-Many new walls added to the VSWAP file.
+-Two new keys added with status bar icons
+-New title screen
+-New credits screen
+-Level end and game end pictures changed.
+-Spear icon replaces gun icon in main menu.
+-regular SS drops 8 bullets instead of 4
+-New guard added: SS with chaingun.  He drops a chaingun if you don't already have 
+one and drops 8 bullets if you do.
+-New guard added: Scientist.  He will kill you with deadly hypos, but he is not hard 
+to kill.  These are the offspring of the maniacal Dr. Schabbs.
+-Weapons come with 10 bullets instead of 6
+-Hans Grosse's strength increased the final time you fight him.
+-MLI cheat now reduces your health and bullets by far.  It also takes away all keys 
+you may have gotten.  The lower your health and ammo when you push MLI, the more 
+it will reduce.
+-Debugging keys removed(Your going to play these levels for real!)
+-New Item added: 25 ammo box from Spear
+-1-Up removed
+-Officers shoot more accurately
+-Messenger guards added, if you don't kill them right away, they will go and alert 
+as many guards as possible in other rooms.  That means you may be in over your head. 
+ 
+
+KNOWN BUGS:
+
+- There are several cases where the digital sounds may cut off short or even quit. 
+ I am not sure what causes this, but it happens occasionally in any Wolfenstein game 
+you play.  The problem is that it seems to happen more in The Road to Neuschwanstein 
+than in other Wolfenstein add-ons, so if it happens to you, press the B+A+T keys 
+to reset the digital sounds.  If they still don't restore to normal, then the only 
+thing I might suggest is to save your game, then quit and restart.
+
+- Sometimes, the SS with chaingun guards will not respond right away.  This is a 
+source bug I couldn't fix.
+
+Storyline:
+
+	As Death Knight falls, you prepare to enter the portal back to your time.  You gather 
+as much ammunition and treasure from the future as you can, and then step through 
+the portal.
+	When you get back, you notice the volcano in it's normal state.  The tunnels are 
+there, but the factory controls are not.  This means Death Knight is no more.  Destroying 
+Death Knight removed him from time, restoring peace to the world, or so you think.
+
+	When you go back to Berlin, you notice everything has been burned.  Castle Wolfenstein, 
+on the outskirts was no more than a pile of ashes.  This stuns you, as lightning 
+strikes.
+	You make your way back to London and you find it burned too.  Something fishy is 
+going on.  The only building standing is St. Paul's Cathedral, which is covered in 
+soot.  You walk up to the entrance when a man stops you.  You asked what year it 
+was.  He said it was 2000, which was 25 years later than the year you were supposed 
+to return to.  You recall that you saw Death Knight punching buttons on his computer 
+before you killed him, so you know why you returned to 2000 instead of 1975.
+	You then ask the man what happened to this place, and he said it was a story that 
+was passed down since World War II.  He then told you this story:
+
+	"The Grosse Family had been given an artifact called the Spear.  They said some 
+futuristic looking being gave it to them.  They then figured out they could do some 
+mysterious things with it.  As the weeks passed, they used the Spear to make their 
+greedy dreams come true.  Hans Grosse received the Spear around 1943.  He killed 
+B.J. Blazcowicz, who would have been able to stop this empire we're under now.  Hitler 
+had ordered Hans to take the body of B.J. Blazcowicz to him and when he did, he killed 
+Hitler, and burned Berlin.  He told the world that he was now king of all. 
+	As the years passed, he destroyed everything, killed billions, and created his fortress 
+with what used to be Castle Neuschwanstein, the most beautiful castle in all Germany. 
+ And Hans Grosse still rules with the Spear within Castle Neuschwanstein."
+
+	Stunned by this story, you learned that you were supposed to be dead, and you also 
+know that Death Knight gave Hans Grosse the Spear that he used to rule the world. 
+ You began to think about how you were going to stop Hans Grosse and also how you 
+were going to return the Spear to the Lost Fortress, where it belongs, out of the 
+reach of evil characters.
+	Then suddenly, a great fireball fills the sky, and a wave of electricity kills the 
+man that told you the story.  Then an evil laugh fills the air, then the voice of 
+Hans Grosse says "If you want a piece of me, come to Neuschwanstein", and that's 
+just what you did.
+
+THE "BOSS" LEVELS:
+
+	I've desinged the boss levels so that only the expert Wolfer could beat them.  Don't 
+feel bad if you can't brake the barrier, for it's next to impossible on Death Incarnate. 
+ You will have better luck with these levels if youv'e played and beaten Wolf3d-60. 
+ It's availible at my site,  bchristi.tripod.com.  If you haven't yet played and 
+beaten that add-on, now would be the time to do it (It's in the My Add-ons section). 
+  Only the extreme Wolfer will be able to beat the final level of the Road to Neuschwanstein, 
+so if you make it to level 58 and can't get any further, consider yourself a winner, 
+although you didn't really beat the game.
+
+Level 58: Barrier
+
+	The final barrier between you and Hans Grosse awaits you.  Heavily guarded, and 
+some puzzles for you to solve toward the end.  If you make it, you'll have free access 
+to Hans Grosse.
+
+Level 59: Chamber of Hans Grosse
+
+	The palace of Hans Grosse.  You will be doing a little key hunting before you can 
+enter the room where he is staying.  The thick walls and officer filled halls are 
+yet another chance for Hans Grosse to destroy you.  Hans Grosse awaits for you in 
+a suite in which the greatest king of Germany stayed in, centuries ago.  Destroy 
+Hans Grosse and bring honor back to Castle Neuschwanstein.
+
+Level 60: Realm of the Spear
+
+	Actually the basement of Castle Neuschwanstein.  This area was built by Hans Grosse 
+so nobody would have access to the Spear.  It is a huge puzzle.  Only the lucky few 
+can solve the puzzles built by Hans Grosse himself, and even fewer would even have 
+a chance at taking the Spear from the clutches of Hans Grosse.
+
+INTRODUCTION TO THE NEW ITEMS AND GUARDS
+
+Copper Key - The third key for you to find.  Most levels have it.
+
+Steel Key - The last key for you to find.  Not all levels have it.  It is always 
+used to lock a door between you and the elevator.
+
+25 Ammo Box - From Spear of Destiny.  It will give you 25 ammo.
+
+Spear of Destiny - Hans Grosse's prized relic, and what your out to get!
+
+Scientist - The offspring of the Maniacal Dr. Schabbs.  Watch out, because they are 
+performing hideous experiments, and they want you dead!
+
+LEVELS OF INTEREST
+
+Level 1:  Here is where you enter Castle Neuschwanstein.  From inside the castle, 
+you notice that this mission is not too much different from missions you've done 
+in the past, as far as the layout and such.  But don't be fooled, you are in store 
+for a completely new Wolfenstein 3-D adventure!  You will be going up against the 
+finest of Hans Grosse's personnel, exploring many areas within the castle from musty 
+dungeons to fine dining areas, and you will fight to the bitter end to put the Nazis 
+in the history books for good. 
+
+Level 7:  This is an uninhabited level.  Very gross, lots of mutants.  Some guards 
+recently sent by Hans Grosse.  Be prepared to wipe the slime off yourself when you 
+get finished with this floor.
+
+Level 14:  A very confusing level.  You must find your way through the maze of steel 
+hallways and rooms.
+
+Level 31: The oldest level in the castle.  It has not been renovated at all since 
+the castle was built. 
+
+Level 57:  This level is a palace.  Beautiful gold walls and cobblestone parlors. 
+ Rich tapestries and crystal chandeliers.  Seems like a paradise, but you never know 
+what is hidded within the gold plated walls.
+
+Level 58 - THE BARRIER:  This is Hans Grosse's shield against you.  It is the most 
+heavily guarded level.  Although it is not large, it is very difficult to stay alive. 
+ In part two of the level, you have to find a way to gain access to the Chamber of 
+Hans Grosse, and it won't be easy.
+
+IMPORTANT - A TIP FOR THE BOSS LEVELS!
+
+- Be careful where you save.  There are many places in levels 59 and 60 that you 
+can get stuck with no way out. 
+
+Level 59 - CHAMBER OF HANS GROSSE:  You final confrontation with Hans Grosse himself 
+awaits you.  Hans Grosse is amazed that you've come this far, and is going to unleash 
+another little trick on you as a last chance to try to stop you.  You must wade your 
+way through the officer-filled halls until you meet up with Hans Grosse in the center 
+of the castle.  Hans Grosse has two SS w/chainguns guarding him.  These SS your greatest 
+threat.  Finish them off before you take on Hans.  If you finally are able to defeat 
+Hans Grosse, you will be given a key so you can eventually make your way into the 
+secret realm, where the Spear awaits you.
+
+Level 60 - REALM OF THE SPEAR:  You have made it into the secret realm of the Spear 
+of Destiny, that relic that has been the source of Nazi power for almost 60 years 
+now.  As you walk out of the elevator, you notice an steel key behind a barrel.  
+That key is the final steel key that unlocks the room where Hans Grosse hid the Spear. 
+ You think you could just walk over the barrel and get it, but you can't.  You are 
+about to begin an adventure all in itself.  You must get that steel key, no matter 
+how hard it gets.  On your journey,  you will encounter the sons of Hans Grosse, 
+who pack chainguns just as powerful has he did.  You will encounter countless puzzles 
+and mazes, but even if you struggle in to the end, do you actually think that even 
+in death,  Hans Grosse himself would let you have his most valuable possession that 
+easily?
+
+
+A FEW GENERAL HITS AND TIPS:  Beating the Road to Neuschwanstein is no skip through 
+the daisies.  The levels here were designed to be hard.  It will take a very skilled 
+Wolfenstein player to conquer Hans Grosse's ultimate puzzle.  You will be going against 
+Hans Grosse's finest personell, and conquering one of Germany's most famous castles. 
+ Here are some tips to help you get through.
+
+- Defend yourself.  When engaged in combat, hide behind a wall or something that 
+would protect you.  Or, you could wait outside the door for the personell to charge 
+toward you, then take them out.  Most rooms have multiple guards, officers, and SS, 
+so you won't survive if you charge into the heat unprotected.  You have to play it 
+smart.
+
+- Check for secrets!  There are many secret passages in The Road to Neuschwanstein 
+that contain things you need.  As you get closer to Hans Grosse, many things you 
+can't beat the game without, such as keys and elevators will be found in secret passages.
+
+
+- Destroy the guards as fast as possible!  You can't tell if a guard is a messenger 
+guard, and if you kill them all fast, the less chance you have of a messenger guard 
+sneaking away and alerting the entire level to your presence.
+
+EPILOGUE (After the game ends):
+
+	With the Spear clutched in your hands, you escape Neuschwanstein ready to conclude 
+your final mission.  You have no trouble gaining access to the Lost Fortress.  Because 
+you now have control of the Spear, you use it to break in electric current guarding 
+the fortress, therefore, you don't have to gain access to the never-ending tunnel 
+to get in. 
+	Once your in, you seal the never-ending tunnel closed with the Spear, so once you 
+leave, nobody will ever have access to the Spear again.  You then descend to the 
+bottom of the fortress using the elevator you remember from 55 years ago.
+	You then find the thin hall that the Spear had once rested, this was the place the 
+Spear was meant to be, for it was hidden here because centuries ago,  some people 
+with no evil intentions once accidentally misused the Spear, causing chaos in the 
+world, so they hid it here for safekeeping.
+	You slowly walk up to the casing, covered with dust. You then make that final decision 
+to relinquish the Spear.  Once you put the Spear back in it's casing,  you are immediately 
+transported back to 1945, the way you were when you first set your hands on the Spear 
+in a mission to race Hitler to it.  You are home, the way you are supposed to be, 
+the age you are supposed to be, as if you had never touched the Spear.  As V-DAY 
+had come, Peace was returning to the world. Although you remember the your four post-W.W.II 
+missions, you no longer bear the scars of the four incredible missions that you almost 
+died trying to keep the Spear in Allied hands..... 
+
+
+IF YOU ENJOYED THE ROAD TO NEUSCHWANSTEIN, YOU ALSO ENJOY MY OTHER ADD-ONS, AVAILIBLE 
+AT BCHRISTI.TRIPOD.COM.
+
+1. WOLF3D-60
+2. THE LOST FORTRESS
+3. DOMINATION
+4. 6 DEPTHS OF TERRORISM
+5. ARMAGEDDON
+6. THE ROAD TO NEUSCHWANSTEIN
+

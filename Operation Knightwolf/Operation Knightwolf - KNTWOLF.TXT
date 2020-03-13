@@ -1,0 +1,65 @@
+                  ****************************************** 
+                  *         Operation: KnightWolf          *
+                  *               v. 1.9                   *
+                  *           by Paul Gibson               *
+                  ******************************************
+
+          Welcome to the add-on! Thanks for taking the time to download 
+     and play this 10 level set for the registered version of Wolfenstein 3D! 
+     
+          This set was created using the DOS utilities Wolfedit, Wolfsnd, and
+     Mapedit 8.4. Graphics were modified using PaintShop 4.0 and Adobe
+     PhotoShop 5.0. Sound editing was accomplished with CoolEdit 95 and
+     Voxkit from Creative Labs. Many significant changes have been made to 
+     the VSWAP file to create the atmosphere I wanted, but this is not a
+     "total conversion" as such. I took the direction that not many seem to 
+     go- retro scenery as opposed to "futuristic" or "mech" story lines. 
+     I did, however, feel it was fair to make all the sound changes, since 
+     it helps to enhance this levels-only gameset.
+
+          All graphics and sprite changes are originals by me, with the 
+     exception of the nice red brick and toilet gifs, which came from an
+     earlier set by B.J. Rowan. I have tried very hard not to simply "copy"
+     other peoples level layouts, but to present original ideas here.
+
+          As others have said before me, you may use any images or sounds
+     from this, as long as credit goes where it is due. Thanks to Brian Lowe
+     for the German translation help.
+
+          The story is: you are being held in an old castle; very old, with
+     some ghostly inhabitants still lurking. Some soldiers went missing when
+     the Germans took it over, presumably while on recons into the reaches of
+     the castle treasure and ball rooms. You will, as always, attempt to 
+     escape, and while doing so you will discover these secrets.
+
+          There are 10 levels, 9 regular and a secret one. Many levels have
+     hidden keys. Some have "arsenals", medical areas, dining halls, etc.
+     The zombies are used here to...grow those green plants?!! (They are 
+     subjects of the greenhouse areas).
+
+          The levels are:
+                          1. "Initial Escape"
+                          2. "The Mines"
+                          3. "The Hub"
+                          4. "Hidden Spectres"
+                          5. "Force of Will"
+                          6. "Confrontation"
+                          7. "Beer Halls"
+                          8. "Upper Caches"
+                          9. "The Throne"
+                     Secret. "Greenhouse"
+
+           I have designed this set with the old v.1.1 registered set. This 
+      has been done because I run into fewer problems with audio editing 
+      than the GT CDROM v 1.4. I have play tested these levels on a DOS
+      platform 486 DX66 and a Pentium 233MMX with Win98- They seem to be bug-
+      -free. If you run in to problems, please email me. I would consider it
+      a real pleasure to hear from you regarding what you did or didn't like
+      about the levels. Anyway...go, shoot'em up, rip'em a new one...just 
+      have fun. And Thanks.
+
+      Paul Gibson
+      artgum@aol.com
+      5/26/2000
+
+

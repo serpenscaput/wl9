@@ -1,0 +1,91 @@
+*** Wolf11 Ed ***   " mTed5 v1.0 "
+
+Map Editor for Castle Wolfenstein 3D v1.1
+=========================================
+
+
+Notice how when the new version of Wolf3D came out there were a
+few little bux fixes, but the biggest bummer was the map editor/readers
+made for the 1.0 version mysteriously stopped working.
+
+After a lot of thought and quite a bit of head scratching, a friend and
+myself managed to decipher what the guys at Apogee had done to neatly
+encrypt & compress their mapfiles, and supsequently we did a few
+modifications on the source to MAPEDIT4 (by someone - I had a HD crash and
+lost all my source etc so I cant remember who originally wrote it) and came
+up with a new editor that was slightly easier to use, and as a big bonus
+can edit all 6 episodes of the registered WOLF-3D.  (I was going to allow
+for it to edit the non registered version, but like I said my HD crashed
+and all my source was zapped {sniff})
+
+So here it is:
+
+You need a mouse to use mTed.
+
+Files needed to run mTed:
+
+mTed.exe    - the main program
+egavga.bgi  - graphics library
+mapdata.def - legend for map items
+objdata.def - legend for objects
+the wolf3d map files "gamemaps.wl6" & "maphead.wl6" should be in the same
+directory as mTed (ie: you shuld plonk mTed in your wolf3d directory)
+
+**note** this program will only work with Wolf3d (v1.1 and possibly above)
+         registered to include episodes 1-6.
+          (ie: if you havent got any .wl6 files it won't work)
+
+How to use it:
+
+keys:
+
+up/down       : go to next/prev level of the current episode
+left/right    : go to next/prev episode (you will be asked if you
+                want any changes saved before going to the next
+                episode)
+F             : toggle displaying of floor hearing zones
+O             : toggle displaying of objects
+C             : clear the current level
+Q / ESC       : quit (asks you if you want to save any changes)
+
+The basic idea is to select an object/map item from the legend on the right
+of the screen by pointing to it and pressing either the left or right
+mouse button.  (You can have different things in either button)  Then go and
+put them on the map wherever you want by pressing that button.  (on the
+lower right is an indicator showing what each button is currently holding).
+
+{note: they arent initialised by default so its a good idea to go and
+       put something in each button before you start or you might get
+       some strange results - this was on my list of bugfixes before
+       the source got chewed up}
+
+For those lucky enough to have a 3 button mouse, you can pick up an
+object/map-item directly from the map (saves a lot of time) by pointing at
+the thing you want to pick up, pressing and holding the middle button and
+then pressing the left/right button.  What you were pointing at gets
+transferred into the appropriate button.
+
+And thats about it as far as using the editor goes.. Getting the levels to
+work as you want is another story, but you'll get the hang of it sooner or
+later.  I was going to include a level that I had created, but it got
+blasted along with the source and about 100 other megs of stuff... such is
+life I suppose.
+
+
+        The Programmers: The original person who wrote MAPEDIT4
+                         Me (Simon Ferrett)
+                         Dave Leonard (good friend and brains behind
+                                       the eventual code deciphering)
+
+if you have any feedback whatsoever on mTed then please feel free to
+email me (or send a postcard - money if you like!)
+
+       By Email:
+                c9108932@frey.newcastle.edu.au
+
+        By post:
+                Simon Ferrett
+                19 Coronation Avenue
+                Pottsville Beach
+                NSW 2489
+                AUSTRALIA

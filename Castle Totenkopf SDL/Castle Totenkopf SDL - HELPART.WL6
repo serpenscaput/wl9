@@ -1,0 +1,169 @@
+^P
+^C7eINTRODUCTION
+
+		^C00Welcome to ^C6eCastle Totenkopf SDL Edition! ^C00This game is a mod/TC of Id 
+Software's classic computer game, Wolfenstein 3D. Castle Totenkopf was my first Wolf3D 
+mod, and this is a revamp/reboot of it. Now based on the Wolf4SDL source port, it 
+is more playable on recent Windows systems and has many new features which weren't 
+available to the DOS version. Almost all the graphics and audio have been replaced 
+to give new life to the mod. The levels, while mostly the same, have all been altered 
+and a few have been completely redone. Enjoy!
+
+^P
+^C7eTABLE OF CONTENTS
+^C00
+INTRODUCTION	.	.	.	.	.	.	.	.	.	.	1
+KEYBOARD CONTROLS	.	.	.	.	.	3
+THE STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	5
+HEALTH AND ARMOR	.	.	.	.	.	.	11
+WEAPONS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12
+SECRET LEVELS	.	.	.	.	.	.	.	.	.	13
+CREDIT	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	14
+CONTACTING THE AUTHOR	.	.	15
+
+^P
+^C7eKEYBOARD CONTROLS
+^C00
+Arrows		Move/Turn
+Alt					Strafe
+Shift				Run
+Ctrl				Shoot/Attack
+Space			Use door, switch, or mounted gun
+1							Knife
+2							Pistol
+3							Rifle/Sniper Scope
+4						Submachine Gun
+5							Assault Rifle
+6							Flamethrower
+7							Heavy Machine Gun
+8							Rocket Launcher
+
+^P
+^C7eKEYBOARD CONTROLS
+^C00
+Tab					Show status (in fullscreen mode)
+F1						Help
+F2						Save game
+F3						Load game
+F4						Sound menu
+F5						Resize view window
+F6						Controls menu
+F7						End Game
+F8						Quick Save
+F9						Quick Load
+F10					Exit to Windows
+
+^P
+^C7eTHE STORY
+
+		^C00Dr. Schabbs is dead, but the war goes on as Hitler commands his armies to wreak 
+death and suffering on the world. Allied intelligence has already caught wind of 
+new insidious projects being developed by the Nazis that could change the tide of 
+the war in their favor... unless somebody can stop them. As William "BJ" Blazkowicz, 
+the best American agent the Allies have, you're the man for the job.
+		Except for one little problem...
+		You're imprisoned in a Nazi dungeon.
+		Again.
+
+^P
+^C7eTHE STORY
+
+		^C00It all started two weeks ago. You were working undercover with a resistance 
+group in Germany. They had been spying on the Nazis and managed to obtain some information 
+on a secret SS project that involved "iron knights" or something. There wasn't much 
+of a lead, but you knew it had to be important because the Nazis were going to a 
+lot of trouble for it.
+		You were supposed to meet up with another resistance contact to learn more. But 
+when you arrived at the safe house, the Nazis were waiting for you.
+
+^P
+^C7eTHE STORY
+
+		^C00You had fallen into a trap set by the Gestapo. They caught you off-guard and 
+beat you unconscious. The young resistance fighters who had accompanied you were 
+all rounded up and shot by the SS. But as a spy who knew a lot about their operations, 
+you were too valuable to kill... yet.
+		They took you to Castle Totenkopf, a notorious prison fortress run by the SS. None 
+of the prisoners sent here have ever come out alive. What's worse is that the Kommandant 
+is Colonel Panz Grosse, whose brutality rivals even that of his brothers.
+
+^P
+^C7eTHE STORY
+
+		^C00For the past several days, you've been questioned and tortured by SS Captain 
+Narbengesicht, the chief interrogator at Castle Totenkopf. His methods are sadistic 
+and cruel. The man is so evil that even other Nazis are afraid of him. He assured 
+you that before he was done with you, your previous imprisonment in Castle Wolfenstein 
+would seem like "well-spent R&R" in comparison. So far, you've managed to resist 
+the interrogation and not give Narbengesicht any useful information. But how long 
+could you keep it up?
+
+^P
+^C7eTHE STORY
+
+		^C00When you're not being interrogated, you are thrown back into your little cell. 
+The screams of other unfortunate prisoners being tortured keep you from getting much 
+sleep. Sometimes a prisoner is dragged away by the guards and never seen again. The 
+rumor is that when prisoners are no longer needed for interrogation, they're either 
+executed or taken to the labs to "volunteer" in the Nazis' experiments.
+		Not wanting to suffer the same fate, you decide it's time to make your daring escape 
+and kick Nazi butt, like old times.
+
+^P
+^C7eTHE STORY
+
+		^C00As the guard comes to your cell to take you away for more interrogation, you 
+quickly use your handcuffed hands to drag him into the cell and garrote him to death. 
+Then you fumble in his pockets until you find the key to unlock the cuffs. But you 
+also find a note that reads: "To Blazkowicz. If you're reading this, then I'm going 
+to take great pleasure in painting the walls with your blood. See you soon. --P. 
+Grosse"
+So Panz expected you'd try to escape.
+		No one has ever escaped from Castle Totenkopf. Will you be the first?
+
+^P
+^C7eHEALTH AND ARMOR
+
+		^C00Health works the same way as in the original Wolfenstein 3D (ie: when your 
+health goes to 0, you lose a life and have to the level start over.) However, now 
+you can collect armor to reduce the amount of damage you take. The more armor you 
+have, the less health you'll lose. So keep an eye out for helmets and flak jackets.
+
+
+^P
+^C7eWEAPONS
+
+		^C00Once you've picked up a weapon and have enough ammo for it, you can select 
+it by pressing its number key. To select another firing mode or weapon of the same 
+class, press its number key again. You will always have at least one pistol and a 
+knife.
+		To use a mounted weapon, get close to it and press ^C6eSpace. ^C00To stop using 
+it, press ^C6eSpace ^C00again. When using a mounted weapon, you'll have unlimited 
+ammo, but you can't move around with it.
+		Be warned, as some weapons are ineffective against certain enemies.
+
+^P
+^C7eSECRET LEVELS
+
+		^C00There are three secret levels in the game, each accessible from a different 
+level. While you don't have to find them to win the game, you will be rewarded for 
+doing so. In addition to a bonus of 15,000 points, there are special items found 
+only on secret levels. Once picked up, they will permanently enhance your ability 
+to survive in the game. There is also an experimental weapon which has been divided 
+into three separate parts. To obtain this powerful weapon you must find all the secret 
+levels.
+
+^P
+^C7eCREDIT
+
+		^C00For a list of people (besides myself) whose work was used in the creation of 
+this mod, see the "credits.txt" file.
+
+^P
+^C7eCONTACTING THE AUTHOR
+
+		^C00If you have questions or comments about this game, you can send me an e-mail. 
+But please keep it polite. :) My current e-mail address is: ^C6ewolf@shadaux.com
+
+
+^E

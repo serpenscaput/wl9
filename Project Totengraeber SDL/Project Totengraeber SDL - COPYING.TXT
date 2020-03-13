@@ -1,0 +1,27 @@
+PROJECT TOTENGRAEBER Copyright and Distribution Permissions:
+---------------------------------------------------------------------------
+
+Authors MAY use this modification as a basis for other publically
+available, not-for-profit work, provided they inform the author of any
+modifications which are made and give the author credit where it is due.
+
+Authors may NOT use any of the resources in Project Totengraeber (graphics,
+sounds, etc.) in their own projects without the express permission of the
+author of Project Totengraeber.
+
+You may distribute this Wolfenstein modification in any electronic
+format as long as this description file remains intact and unmodified,
+and is retained along with all of the files.
+
+If anyone else would like to include this modification in a collection
+of Wolf3D modifications, whether for sale or otherwise, please inform me
+of this intention.
+
+You can contact me, B.J. Rowan, author of Project Totengraber, at
+bj@bjrowan.com.
+
+---------------------------------------------------------------------------
+Thanks,
+
+-B.J. Rowan
+http://www.wolf3dbunker.com/

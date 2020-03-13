@@ -1,0 +1,17 @@
+In order to run Passage to Hollenteufel at your preferred screen resolution, simply 
+run the game from the Windows "Run" dialogue box or the command line and add the 
+"--res [width][height]" parameter after PTH.exe.  For instance, to run the game at 
+960x600, type "PTH.exe --res 960 600".
+
+I have included a batch file, PTH.bat, set to run Wolf4SDL at 960x600.  If you prefer 
+a different resolution, simply edit the batch file to run the game at your preferred 
+resolution.  Note that because Wolfenstein 3D was originally displayed in 320x200 
+resolution, you will get the best results in Wolf4SDL if you choose a resolution 
+that is a multiple of 320x200.
+
+I have personally had the best results with the following resolutions.
+
+960x600
+1280x800
+1600x1000
+1920x1200

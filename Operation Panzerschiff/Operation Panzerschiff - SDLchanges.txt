@@ -1,0 +1,39 @@
+Operation: Panzerschiff by Ben Blaufarb (wolf3d mod)
+original DOS release: 25 August 1999
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Panzerschiff EXE changes:
+
+changed menu colors
+changed episode names
+changed difficulty names
+changed quit messages
+changed music order
+ILM cheat changed
+changed ceiling colors 
+4 keys
+boss behavior changed
+new sounds
+blood splatters
+and more! 
+
+Further improvements in SDL version:
+
+menu fade matches menu color
+--mapnames parameter shows map names on get psyched (with AlumiuN enhancement)
+episodes 3-6 ratios corrected
+correct key dropped in episodes 5 and 6
+
+minor mapping bugs fixed on E1M8, E2M2, E3M6
+
+Many thanks to WolfForever for beta testing this!
+
+
+

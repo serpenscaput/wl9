@@ -1,0 +1,804 @@
+<HTML>
+<HEAD>
+<TITLE>Spear "End of Destiny" Game Manual - Troubleshooting</TITLE>
+<META NAME="description" CONTENT="Spear End of Destiny">
+<META NAME="keywords" CONTENT="Cool Page,3Dize">
+<META NAME="Generator" CONTENT="Cool Page version 2.72 Free, Sep 15 2002 for Windows">
+
+<BASE TARGET="_top">
+<STYLE TYPE="text/css">BODY {margin-left:0; margin-right:0; margin-top:0;}</STYLE>
+
+<STYLE TYPE="text/css">
+	.Arial-11px0080C0n {font:normal 11px Arial, sans-serif; color:#0080C0}
+	.Arial-13pxFFFFFFb {font:bold 13px Arial, sans-serif; color:#FFFFFF}
+	.Arial-13pxFFFFFFn {font:normal 13px Arial, sans-serif; color:#FFFFFF}
+	.Arial-18pxFFFFFFb {font:bold 18px Arial, sans-serif; color:#FFFFFF}
+	.Arial-13px8080FFn {font:normal 13px Arial, sans-serif; color:#8080FF}
+	.Arial-13px8080FFb {font:bold 13px Arial, sans-serif; color:#8080FF}
+	.Arial-16pxn {font:normal 16px Arial, sans-serif}
+	.Arial-13pxb {font:bold 13px Arial, sans-serif}
+	.Arial-13pxn {font:normal 13px Arial, sans-serif}
+	.Arial-13pxC0C0C0n {font:normal 13px Arial, sans-serif; color:#C0C0C0}
+</STYLE>
+</HEAD>
+
+<BODY SCROLL="auto" onResize="DoReposition();" onLoad="DoReposition();" BGCOLOR="#FFFFFF" 
+TEXT="#C0C0C0" BACKGROUND="z60.jpg" TOPMARGIN=0 LEFTMARGIN=0>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var agt=navigator.userAgent.toLowerCase();
+var is_major=parseInt(navigator.appVersion);
+var is_minor=parseFloat(navigator.appVersion);
+var is_nav=((agt.indexOf('mozilla')!=-1)&&(agt.indexOf('spoofer')==-1)&&(agt.indexOf('compatible')==-1) 
+&& (agt.indexOf('opera')==-1)&&(agt.indexOf('webtv')==-1));
+var is_ie=(agt.indexOf('msie')!=-1);
+if(is_ie){var agt_ie=agt.substring(agt.indexOf('msie')+5); is_major=parseInt(agt_ie); 
+is_minor=parseFloat(agt_ie);}
+var is_dom2=(document.getElementById);
+var is_http=(window.location.protocol.indexOf('http')==0);
+function jsStop( o ) { if(is_ie&&is_major>=4&&eval('document.'+o)){var e=eval('document.'+o);if(e.src&&e.src!=''&&e.ReadyState&&e.ReadyState>=4){e.stop();}}else{if(is_nav&&is_major>=3&&(is_major<4||eval('document.'+o))){eval('document.'+o+'.stop()');}} 
+}
+function jsPlay( o ) { if(is_ie&&is_major>=4&&eval('document.'+o)){var e=eval('document.'+o);if(e.src&&e.src!=''&&e.ReadyState&&e.ReadyState>=4){if(is_major>=5){e.play();}else{e.run();}}}else{if(is_nav&&is_major>=3&&(is_major<4||eval('document.'+o))){eval('document.'+o+'.play(false)');}} 
+}
+
+// Browser detect
+if( is_minor < 3.5 )
+   alert( "This page will not function properly in your browser.\n\nYour browser 
+is very old.  Please upgrade your browser to version 4 or later.\n\nOr request the 
+webmaster (of this page) to change their browser compatibility setting in Cool Page 
+to version 3 browsers." );
+else
+{
+   if( is_nav && is_minor < 5.0 )
+      window.location.replace( 'j_nn4.html' + window.location.search );
+}
+
+function Link3Dize()
+{
+   if( confirm( "This page created with FREE version Cool Page.\n\nDownload your 
+own FREE copy of Cool Page?\n\nClick Cancel to follow the link instead.  Note FREE 
+version of Cool Page shows this popup message after 30 days of use.  Buy Cool Page 
+to make this popup go away." ) )
+      window.open( "http://www.coolpage.com/?aid=PgMadeWithCP", "3Dize" );
+   return true;
+}
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function HOffset()
+{
+   var window_width = window.innerWidth ? window.innerWidth : (document.body.clientWidth 
+? document.body.clientWidth : 0);
+   return Math.max( 0, Math.floor( (window_width - 790) / 2 ) - 0 ).toString();
+}
+
+function VOffset()
+{
+   var window_height = window.innerHeight ? window.innerHeight : (document.body.clientHeight 
+? document.body.clientHeight : 0);
+   return 0;
+}
+
+document.write( "<DIV ID='IDAlignPage' style='position:absolute; top:" + VOffset() 
++ "px; left:" + HOffset() + "px;'>&nbsp;" );
+function DoReposition() {var o='IDAlignPage';if(is_dom2&&document.getElementById(o)){var 
+e=document.getElementById(o);e.style.left=HOffset()+'px';e.style.top=VOffset()+'px';}else 
+if(is_ie&&is_major>=4&&eval('document.all.'+o)){var e=eval('document.all.'+o);e.style.left=HOffset()+'px';e.style.top=VOffset()+'px';}else 
+if(is_nav&&is_major>=4&&eval('document.'+o)){var e=eval('document.'+o);e.left=HOffset();e.top=VOffset();}}
+
+window.onresize=DoReposition;
+window.onload=DoReposition;
+//-->
+</SCRIPT>
+
+<DIV ID="idElement1" style="position:absolute; top:0px; left:0px; width:790px; height:100px;"><A 
+NAME="Top"><IMG SRC="z71.gif" NAME="idElement1Img" ID="idElement1Img" WIDTH=790 HEIGHT=100 
+BORDER=0></A></DIV>
+
+<DIV style="position:absolute; top:0px; left:0px; width:1px; height:1px;"><A HREF="http://www.coolpage.com/"><IMG 
+SRC="t.gif" ALT="" WIDTH=1 HEIGHT=1 BORDER=0></A></DIV>
+<DIV ID="idCoolxPagexButton" style="position:absolute; top:0px; left:0px; width:1px; 
+height:1px;"><A HREF="javascript:;" onMouseOver="javascript:jsPlay('ididCoolPagexwavEmbed');window.status='This 
+page created with Cool Page.  Click to get your own FREE copy of Cool Page!';return 
+true" onClick="javascript:Link3Dize();return true" onMouseOut="javascript:jsStop('ididCoolPagexwavEmbed');window.status='';return 
+true"><IMG SRC="Cool_Page_Button.gif" NAME="idCoolxPagexButtonImg" ID="idCoolxPagexButtonImg" 
+ALT="This page created with Cool Page.  Click to get your own FREE copy of Cool Page!" 
+WIDTH=1 HEIGHT=1 BORDER=0></A></DIV>
+
+<DIV ID="idElement3" style="position:absolute; top:110px; left:180px; width:121px; 
+height:18px;"><A HREF="h.html"><IMG SRC="z64.gif" NAME="idElement3Img" ID="idElement3Img" 
+WIDTH=121 HEIGHT=18 BORDER=0></A></DIV>
+
+<DIV ID="idElement4" style="position:absolute; top:110px; left:330px; width:121px; 
+height:18px;"><A HREF="i.html"><IMG SRC="z66.gif" NAME="idElement4Img" ID="idElement4Img" 
+WIDTH=121 HEIGHT=18 BORDER=0></A></DIV>
+
+<DIV ID="idElement6" style="position:absolute; top:110px; left:630px; width:121px; 
+height:18px;"><A HREF="k.html"><IMG SRC="z70.gif" NAME="idElement6Img" ID="idElement6Img" 
+WIDTH=121 HEIGHT=18 BORDER=0></A></DIV>
+
+<DIV ID="idElement7" style="position:absolute; top:160px; left:320px; width:340px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=340><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb>Troubleshooting</FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement14" style="position:absolute; top:110px; left:30px; width:121px; 
+height:18px;"><A HREF="Game_Manual.html"><IMG SRC="z62.gif" NAME="idElement14Img" 
+ID="idElement14Img" WIDTH=121 HEIGHT=18 BORDER=0></A></DIV>
+
+<DIV ID="idElement15" style="position:absolute; top:110px; left:480px; width:121px; 
+height:18px;"><IMG SRC="z67.gif" NAME="idElement15Img" ID="idElement15Img" WIDTH=121 
+HEIGHT=18 BORDER=0></DIV>
+
+<DIV ID="idElement17" style="position:absolute; top:180px; left:100px; width:208px; 
+height:176px;"><IMG SRC="z05.jpg" NAME="idElement17Img" ID="idElement17Img" WIDTH=208 
+HEIGHT=176 BORDER=0></DIV>
+
+<DIV ID="idElement16" style="position:absolute; top:200px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>1.&nbsp; </FONT><A HREF="#General" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>General</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement18" style="position:absolute; top:220px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>2.&nbsp; </FONT><A HREF="#VDM" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>VDMSound/Dosbox</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement19" style="position:absolute; top:260px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>4.&nbsp; </FONT><A HREF="#Memory" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>Memory</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement20" style="position:absolute; top:280px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>5.&nbsp; </FONT><A HREF="#Crashes" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>Game Crashes</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement21" style="position:absolute; top:300px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>6.&nbsp; </FONT><A HREF="#Sound" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>Sound Problems</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement22" style="position:absolute; top:320px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>7.&nbsp; </FONT><A HREF="#Bugs" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>Known Bugs</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement23" style="position:absolute; top:340px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>8.&nbsp; </FONT><A HREF="#Disclaimer" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>Disclaimer</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement2" style="position:absolute; top:420px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="General">General</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement5" style="position:absolute; top:420px; left:670px; width:100px; 
+height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR VALIGN=top><TD><DIV 
+align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back to 
+Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement11" style="position:absolute; top:450px; left:20px; width:750px; 
+height:304px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn><I> </I>Spear "End of Destiny" is a DOS based 
+program that uses the same game engine technology
+as the original Wolfenstein 3D. It should be able to run on any IBM compatible
+system, but depending on your system configuration there may be certain
+steps you have to take in order to run the game properly. Many of the problems
+associated with running the game are as a result of certain requirements needed
+by the game not being met due to newer operating systems and hardware and/or the
+
+way some people have their system configured.<BR>
+<BR>
+Windows 2000/XP do
+not support sound in old DOS based games as well as Windows 95/98/Me. Likewise,
+soundcard hardware released in recent years often isn’t totally compatible with
+older soundcard standards that existed when Wolfenstein 3D was first released
+in 1992. If you use Windows 2000/XP then you will most likely find you have no
+music or sound at all, and as such we recommend you use either the utility "VDMSound"
+
+or "Dosbox" (see next section) to easily solve this problem. If you use
+Windows 95/98/Me and experience sound problems in the game (such as music sounding
+
+"offkey", or no music or sound at all), then the problem is most likely related
+to your soundcard settings (see the "Sound Problems" section).<BR>
+<BR>
+Other
+problems you may experience with running the game are often memory related.
+In the old pre Windows days of DOS, gamers were quite adept at tweaking their
+systems to maximise their system memory in order to meet the demands of many
+games of the day. Unfortunately, with the advent of Windows 95 and beyond, this
+has become somewhat of a lost art, and should you experience problems with running
+
+the game we've suggested some steps you can take to resolve this in the "Memory"
+
+section further below.<I> </I>Although the troubleshooting advice offered in the 
+sections below is based on a system
+running either Windows 95/98, much of the information offered is relevant
+to other operating systems also. Good luck, and have fun!</FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement511" style="position:absolute; top:780px; left:670px; width:100px; 
+height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR VALIGN=top><TD><DIV 
+align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back to 
+Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement24" style="position:absolute; top:780px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="VDM">VDMSound/Dosbox</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement25" style="position:absolute; top:810px; left:20px; width:750px; 
+height:336px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>If you use Windows 2000/XP, then a handy little 
+utility program called "VDMSound"
+(freely available off the internet) is often all you'll need to solve any sound
+problems you may experience with the game. As mentioned above, Windows 2000/XP
+do not offer old DOS based games the same level of sound support that earlier
+versions of Windows offered. VDMSound is a program that emulates soundcard settings
+
+that were common in 1992 and as such should help you to hear sound and music
+in the game the way it was meant to be heard. A quick search of the web should
+enable you to easily find this utility program (make sure you get the latest
+version. The version of VDMSound we tested was version 2.0.1, and only runs on
+systems using Windows NT/2000/XP, so if you use Windows 95/98/Me then you may
+have no choice but to either use "Dosbox", or follow the suggestions outlined
+in the "Sound Problems" section further below). Should you use VDMSound then you
+
+MUST </FONT><FONT CLASS=Arial-13pxb><I>disable</I></FONT><FONT CLASS=Arial-13pxn> 
+both "DPMI support (DOSX)" and the "CLI/POPF workaround" options (both of which
+are enabled by default). Failure to do so may result in wrong colours being displayed
+
+in game, and will likely lead to the game crashing with an "out of memory"
+error message. These options can be found by right clicking on the VDMSound
+shortcut you create for the game, then clicking the "Advanced" button, and selecting
+
+the "Compatibility" tab (if you're not sure about this kind of thing, then
+ask a friend who knows a little about computers).<BR>
+<BR>
+Alternatively you
+can try using the DOS emulator "Dosbox". Like VDMSound, this utility is freely
+available off the internet, and should help you overcome any sound related problems
+
+you're likely to experience with the game. Please note that Spear "End of
+Destiny" will not work with earlier versions of Dosbox<I> - </I>you'll need version 
+0.61 or later (note also that you'll probably need at least a
+Pentium 3 or equivalent in order to achieve decent framerates using Dosbox).<I><BR>
+
+<BR>
+</I></FONT><FONT CLASS=Arial-13pxb><I>NOTE:</I></FONT><FONT CLASS=Arial-13pxn><I> 
+Problems often occur simply because people fail to read the documentation that comes
+
+with a program. Should you decide to use either of these two utilities, please
+thoroughly read the documentation that comes with them! If you still experience
+problems running, or attempting to run, either of these programs, please
+contact their creators.</I></FONT></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement51111" style="position:absolute; top:1550px; left:670px; width:100px; 
+height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR VALIGN=top><TD><DIV 
+align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back to 
+Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement26" style="position:absolute; top:1550px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="Memory">Memory</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement12" style="position:absolute; top:1580px; left:20px; width:750px; 
+height:96px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>It doesn’t matter if your system has 1 gigabyte 
+of RAM, the most important thing
+as far as the game is concerned is how much "conventional" memory your system has.
+
+If Spear "End of Destiny" won't run on your system, it could be due to your
+system having insufficient conventional memory available. You require at least
+560 kb of such memory in order for Spear "End of Destiny" to run reliably. If
+you have less than 560 kb, you may experience problems such as the game refusing
+
+to run with the maximum view size, or even "dumping out" altogether. The more
+conventional memory you have free, the better. If you have less than 560kb of
+conventional memory free, there are ways of freeing up more (as decribed below).</FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement10" style="position:absolute; top:1680px; left:20px; width:320px; 
+height:200px;"><IMG SRC="z58.jpg" NAME="idElement10Img" ID="idElement10Img" WIDTH=320 
+HEIGHT=200 BORDER=0></DIV>
+
+<DIV ID="idElement8" style="position:absolute; top:1720px; left:350px; width:420px; 
+height:128px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=420><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>Although the game will also use available "expanded" 
+(EMS) and/or "extended" (XMS)
+memory, the conventional memory is the most critical. If the game doesn’t start
+at all, it may be that you have less than 560kb conventional memory free. If
+the game starts up, you'll see 3 memory indicators under the title "Available
+Memory". The one on the far left listed as "Main" is the most important. If the
+yellow indicators are only as high as the red 224 (or lower), then you may need
+to free up more conventional memory for reliable performance.</FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement13" style="position:absolute; top:1890px; left:20px; width:750px; 
+height:1266px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>The following is straight from Microsoft Windows 
+98’s help database:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13px8080FFb>To determine whether Windows 98 is configured 
+to provide enough conventional memory
+for a DOS based program:</FONT><FONT CLASS=Arial-13px8080FFn><BR>
+1. Right-click the program's icon or shortcut, and then click </FONT><FONT CLASS=Arial-13px8080FFb>Properties</FONT><FONT 
+CLASS=Arial-13px8080FFn>. <BR>
+2. Click the </FONT><FONT CLASS=Arial-13px8080FFb>Memory</FONT><FONT CLASS=Arial-13px8080FFn> 
+tab. <BR>
+3. In the </FONT><FONT CLASS=Arial-13px8080FFb>Conventional memory</FONT><FONT CLASS=Arial-13px8080FFn> 
+area, if a specific value is selected in </FONT><FONT CLASS=Arial-13px8080FFb>Total</FONT><FONT 
+CLASS=Arial-13px8080FFn> or in</FONT><FONT CLASS=Arial-13px8080FFb> Initial environment</FONT><FONT 
+CLASS=Arial-13px8080FFn>, verify that the value is high enough. If the value is high 
+enough but the problem
+persists, in </FONT><FONT CLASS=Arial-13px8080FFb>Total</FONT><FONT CLASS=Arial-13px8080FFn> 
+and in </FONT><FONT CLASS=Arial-13px8080FFb>Initial environment</FONT><FONT CLASS=Arial-13px8080FFn>, 
+select</FONT><FONT CLASS=Arial-13px8080FFb> Auto</FONT><FONT CLASS=Arial-13px8080FFn> 
+instead of a specific value. <BR>
+4. Click </FONT><FONT CLASS=Arial-13px8080FFb>OK</FONT><FONT CLASS=Arial-13px8080FFn>. 
+</FONT><FONT CLASS=Arial-13pxn><BR>
+<BR>
+If following this advice doesn’t help get the game running, then further
+steps as detailed below may be required.<BR>
+<BR>
+To find out how much conventional
+memory your system has, open a DOS command prompt window, and type:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>mem</FONT><FONT CLASS=Arial-13pxn><BR>
+<BR>
+then press the Enter key. At the bottom of the readout, you should see
+a line that says:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>Largest executable program size 608K (623,008 
+bytes)</FONT><FONT CLASS=Arial-13pxn><BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxb><I>NOTE:</I></FONT><FONT CLASS=Arial-13pxn><I> Typing 
+mem/c instead of mem will report exactly what programs are running in the
+background and how much conventional memory each program is using.</I><BR>
+<BR>
+The 608K indicates you have 608kb of conventional memory free. Anything
+higher than 560 should give you reliable game performance. If you have less
+than 560kb free, the game may still run, but we can’t guarantee anything!<BR>
+<BR>
+If
+you have insufficient conventional memory free, you will have to stop
+some of those programs running in the background from starting when you start your
+
+computer. To do this, open your config.sys file (located in your C drive’s
+root directory – open it from within "Notepad" or some similar text editor) and,
+
+if they're not already there, try inserting the following lines at the top:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>DEVICE=C:\WINDOWS\HIMEM.SYS<BR>
+DOS=HIGH<BR>
+DOS=UMB<BR>
+DEVICEHIGH=C:\WINDOWS\EMM386.EXE
+AUTO RAM</FONT><FONT CLASS=Arial-13pxn><BR>
+<BR>
+Or alternatively try:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>DEVICE=C:\WINDOWS\HIMEM.SYS<BR>
+DOS=HIGH<BR>
+DOS=UMB<BR>
+DEVICEHIGH=C:\WINDOWS\EMM386.EXE
+AUTO NOEMS</FONT><FONT CLASS=Arial-13pxn><BR>
+<BR>
+The first option enables "expanded" memory on your system. If the first
+option still fails to provide enough conventional memory after you restart your
+system, try the second option. The second option disables expanded memory but
+should provide more free conventional memory. It's quite possible your config.sys
+
+file has other "DEVICE=" lines. In addition to inserting the lines above,
+try changing those to "DEVICEHIGH=" and it's possible these "devices" may be loaded
+
+into upper memory areas thus freeing up conventional memory. Of course you'll
+need to restart your computer again for these new settings to take effect.<BR>
+<BR>
+Or,
+if you're certain you don't need particular device drivers loaded
+from your config.sys, just put the letters "rem" in front of the line you don't
+need eg:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>rem DEVICE=C:\ATACR\ATAPIMGR.SYS</FONT><FONT 
+CLASS=Arial-13pxn><BR>
+<BR>
+The "rem" will stop that particular driver loading and hogging precious
+conventional memory. Of course, if you later find you really do need to have
+that particular line loaded, you can just remove the "rem" and restart your computer.<BR>
+
+<BR>
+If
+all this is too confusing, we’ve included a sample "config.sys"
+file in with the game files. Copy this file to the root directory of your
+C drive (don’t forget to back up your existing config.sys file first!) and then
+restart your computer. If you're lucky it may help.<BR>
+<BR>
+Another file
+that may need attention is the "autoexec.bat" file (located in your C drive’s root
+
+directory). This file automatically runs certain programs each time you start
+your computer, such as virus checking programs etc. It could be that these programs
+
+are hogging precious conventional memory you need for Spear "End of Destiny"
+to run. Open the autoexec.bat file from within a text editor such as Notepad,
+and use the "rem" command in the same way as described above to prevent certain
+programs loading the next time you start your computer. You can just remove
+the "rem" commands and restart your computer again should you find a program
+you absolutely need is not running.<BR>
+<BR>
+If you have no luck with any of
+the above, try moving the config.sys and the autoexec.bat files to another location
+
+temporarily, then restart your computer. This may or may not free up the
+conventional memory you require to run the game. Don’t forget to move the files
+back to their original location afterwards.<BR>
+<BR>
+Remember that any changes
+you make to the config.sys and/or autoexec.bat files won’t take effect until
+after you’ve restarted your computer. After restarting, go to the DOS command
+prompt once again, type<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>mem</FONT><FONT CLASS=Arial-13pxn><BR>
+<BR>
+and press the Enter key. If your "Largest executable program size" is
+now above 560kb, then you should be able to run Spear "End of Destiny" with few
+problems.<BR>
+<BR>
+If you’re still having problems, then we suggest you get
+a computer savvy friend who knows a little about this kind of thing to help</FONT><FONT 
+CLASS=Arial-16pxn>.</FONT></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement5111111" style="position:absolute; top:3190px; left:670px; width:100px; 
+height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR VALIGN=top><TD><DIV 
+align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back to 
+Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement27" style="position:absolute; top:3190px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="Crashes">Game Crashes</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement28" style="position:absolute; top:3220px; left:20px; width:750px; 
+height:208px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>If for some reason your system decides it doesn't 
+like something the game is doing,
+then the game will most likely just "dump out" with an error message. This won't
+
+harm your system, but it will mean that you'll lose whatever progress you'd
+made in the game after your last save.<BR>
+<BR>
+If you've got a standard type
+of computer with an adequate amount of conventional memory (see above), you
+shouldn't experience any crashes at all, but there is one possible exception…<BR>
+
+<BR>
+If
+you play the game for extended periods making lots of saves and reloads
+as you play, the game may "dump out" with an error message. This same kind
+of thing used to happen with the original Wolfenstein 3D games. It could be due
+to a "memory leak" of some sort - whatever, it was a part of the original Wolfenstein
+
+3D that we couldn’t rectify. Having said that, you’re unlikely to encounter
+the problem unless you play for hours on end and you save/reload a lot.<BR>
+<BR>
+If
+it does happen, well, it's no major problem. Just restart the game,
+load from your last save, and away you go again!</FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement511111111" style="position:absolute; top:3460px; left:670px; width:100px; 
+height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR VALIGN=top><TD><DIV 
+align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back to 
+Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement29" style="position:absolute; top:3460px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="Sound">Sound Problems</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement30" style="position:absolute; top:3490px; left:20px; width:750px; 
+height:1216px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>In order to hear sound and/or music in the game, 
+your computer will require an Adlib
+or Soundblaster compatible sound card. When you start the game, it should automatically
+
+detect the presence of such a soundcard. If it doesn't, there are
+a few things that may be the cause. The most common causes will hopefully be solved
+
+by checking the following:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>1.</FONT><FONT CLASS=Arial-13pxn> If you're 
+not getting any sound at all, or the music in the game sounds "off key",
+then one possible cause is due to your soundcard's "interrupt" setting. To check
+
+this, from Windows 95 or 98, click "Start", "Settings", "Control Panel", then
+double click on the "System" icon. Click the "Device Manager" tab, and you
+should see a list of various hardware components installed in your computer. Look
+
+for "Sound, video and game controllers". To the left of this there should be
+a + sign; click on this to open the sub tree. You should see your soundcard listed
+
+in there. Click on it, and then click on the "Properties" button. Now, click
+the "Resources" tab, and you will see a number of settings assigned to your
+soundcard.<BR>
+<BR>
+If the "Interrupt Request" setting is higher than 7, then
+that's most likely your problem. You'll need to change this, as the old Wolfenstein
+
+3D engine didn't recognize soundcard interrupt values of greater than 7.
+To do so, deselect the "use automatic settings" option, then highlight the "Interrupt
+
+Request" option and click on "Change Setting" (you may have to change the
+Basic Configuration Setting if Windows won't allow you to change it). Now, click
+
+on the arrows until you find a number lower than 8 that isn't being used by
+any other system component (Windows will list what components are using each interrupt).
+
+If there's one lower than 8 that's free, select it! If there's not,
+you'll have to assign something else that's using one of these lower interrupts
+a higher figure so as to free up the lower one for your soundcard.<BR>
+<BR>
+Some
+soundcards will not allow you to change their "Interrupt Request" setting.
+In this case, you could try "VDMSound" or "Dosbox" (as described earlier), or
+just play the game without music if the other "in-game" sound effects work OK.
+You could always play the game with PC speaker support, but all you’ll hear are
+strange bleeps and bloops as you play (which may be a real nostalgia trip for
+some computer game buffs but certainly not for us)!<BR>
+<BR>
+Please bear in mind
+that the above procedure is from within Windows 95 or 98. The procedure to
+follow from Windows Me/2000/XP may be slightly different to this. And if all this
+
+hardware setting stuff is a little confusing, well, you'd be best to get a friend
+
+who knows a little about computers (or a computer technician) to help out
+rather than attempt to fiddle around with things yourself!<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>2. </FONT><FONT CLASS=Arial-13pxn>Another possible 
+cause of sound problems may be found in your autoexec.bat file.
+Although you may still get in-game sound without the following, it's certainly
+worth trying this if step 1 above doesn't seem to be your problem.<BR>
+<BR>
+In
+your autoexec.bat file, you may have a SET BLASTER line that looks like this:<BR>
+
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>SET BLASTER=A220 I5 D1 H5 P330 T6</FONT><FONT 
+CLASS=Arial-13pxn><BR>
+<BR>
+or<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFn>SET BLASTER=A220 I5 D1 T4</FONT><FONT CLASS=Arial-13pxn><BR>
+
+<BR>
+This tells your computer to set your Soundblaster (or compatible) so
+that DOS based programs will be able to detect it. Without trying to get too technical,
+
+the "A" points to the hex IO address, The "I" indicates the interrupt
+request, the "D" the low DMA, the "H" the high DMA, the "P" the MPU-401 UART address,
+
+and the "T" the soundcard type (refer to your soundcard manual).<BR>
+<BR>
+Generally,
+A220 , D1, H5 and P330 are pretty much standard for most soundblaster
+type cards. Often, the number 5 is a common setting for the "I" value, but
+other figures can be used. You'll have to ensure the "I" setting matches that
+listed for the soundcard's interrupt request as explained in step 1.<BR>
+<BR>
+Don't
+forget, you’ll need to restart your computer in order for altered settings
+to take effect. <BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxb><I>NOTE:</I></FONT><FONT CLASS=Arial-13pxn><I> If 
+your autoexec.bat file doesn’t have such a line in it, try inserting a "set blaster"
+
+line into it that reflects your current soundcard settings and restart
+your computer. This may not work, but it’s worth a try.</I><BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>3.</FONT><FONT CLASS=Arial-13pxn> If you've 
+accounted for the possible problems as per steps 1 and 2 above, and are
+still having no luck, then look for a file named "config.eod" in the folder where
+
+you installed Spear "End of Destiny" to. This file contains information pertaining
+
+to your soundcard. It's possible it may have incorrect settings in it.
+Delete it, and then try running the game (the game will create a new copy of the
+
+file with updated information in it).<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>4. </FONT><FONT CLASS=Arial-13pxn>Although unlikely, 
+if the sound engine should "lock up" for some reason during the
+game, try pressing the keys "BAT" simultaneously to reset it.<BR>
+<BR>
+If none
+of the above help with sound problems, and you haven’t tried "VDMSound" or
+"Dosbox", then we can only suggest you ask someone who may understand your particular
+
+computer setup.<BR>
+<BR>
+We (AReyeP & MCS) have run the game on a number
+of different systems, each with different setups and different soundcard types.
+Problems we have encountered with sound on various computer configurations
+include the following:<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>1.</FONT><FONT CLASS=Arial-13pxn> If you have 
+a Soundblaster AWE64 soundcard, you may sometimes find in-game sound
+effects "drop out" eg: you may not hear a door open, or your weapon firing on
+some occasions. The other systems have different soundcards (one has a Crystal
+3D Soundblaster clone, another a Soundblaster 16 clone built on to the motherboard,
+
+another a genuine Soundblaster 16, and yet another a very early model Soundblaster
+
+card), and none of these systems experienced these "drop outs". Could
+just be an issue with the AWE series of Soundblaster soundcards.<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>2.</FONT><FONT CLASS=Arial-13pxn> On the system 
+with the "on board" Soundblaster 16 clone, the soundcard’s "Interrupt
+Request" (IRQ) value is 10 (this setting cannot be changed on this particular
+soundcard). The in-game sound effects work, but the in-game music sounds "off
+key". If you experience this problem, follow the steps as outlined above, or
+just go to the "Options" menu in the game, select the "Sound" option, and in the
+
+"Music" section select the "None" option. Better a game with no music than crappy
+
+sounding stuff!</FONT></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement51111111111" style="position:absolute; top:4740px; left:670px; 
+width:100px; height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR 
+VALIGN=top><TD><DIV align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back 
+to Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement31" style="position:absolute; top:4740px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="Bugs">Known Bugs</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement32" style="position:absolute; top:4770px; left:20px; width:750px; 
+height:448px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxC0C0C0n>We wish we could say there were no bugs! 
+But there are a few which, thankfully, are
+very rare. Hopefully you shouldn't even encounter these at all whilst playing
+the game (unless you deliberately go looking for them)!</FONT><FONT CLASS=Arial-13pxFFFFFFb><BR>
+
+<BR>
+1.</FONT><FONT CLASS=Arial-13pxn> One bug we are aware of was present in the original 
+Wolfenstein 3D game also. After
+playing for extended periods and saving/loading games on a frequent basis,
+you may find some wall tiles display the incorrect textures. If this happens, it
+
+most likely will occur on a large complex level. We could have made the levels
+smaller and less challenging to avoid the likelihood of this ever happening,
+but we didn't wish to sacrifice features in levels just so as to try to avoid a
+bug that is very rare anyway.<BR>
+<BR>
+If you do find that some wall graphics
+look decidedly out of place whilst playing, then save your game, quit the game
+altogether, and restart the game. After loading the game you just saved, all
+should be OK.<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>2.</FONT><FONT CLASS=Arial-13pxn> Rocket Launcher: 
+If you fire a rocket whilst standing in an open doorway, or whilst
+standing in front of an open doorway, you may not see the rocket you've just
+fired. Likewise, if you fire a rocket and then "chase" it, it'll appear to "disappear".<BR>
+
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>3.</FONT><FONT CLASS=Arial-13pxn> On very rare 
+occasions when you stand face to face with an enemy who's in the middle
+of a doorway, the enemy may appear to "disappear" (or be "invisible"). If
+this happens, just back up a fraction and the enemy will become visible again.<BR>
+
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>4.</FONT><FONT CLASS=Arial-13pxn> On rare occasions 
+when opening a doorway and encountering an enemy directly on the
+other side, the enemy may appear to "jump" a space as they move towards you
+through the doorway. Thankfully though, as stated, this is a rare occurrence.<BR>
+
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>5.</FONT><FONT CLASS=Arial-13pxn> Occasionally, 
+if you run into an "Artefact of Displacement" while firing your weapon,
+the weapon will still appear to be firing (even though it isn't) when you
+arrive at the teleport destination. This will be reset when you next fire the
+weapon (or select another weapon).<BR>
+<BR>
+</FONT><FONT CLASS=Arial-13pxFFFFFFb>6.</FONT><FONT CLASS=Arial-13pxn> "Gliding" 
+guards! This problem occurred from time to time in the original Wolfenstein
+3D also. Patrolling guards may sometimes appear to be "gliding" as they move
+instead of displaying the normal walking animation. This behaviour ceases once
+the guard becomes alerted to your presence. If this fault really annoys you,
+then we suggest you play a little Michael Jackson music in the background to
+make the behaviour seem quite normal :)</FONT></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement33" style="position:absolute; top:5250px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="Disclaimer">Disclaimer</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement5111111111111" style="position:absolute; top:5250px; left:670px; 
+width:100px; height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR 
+VALIGN=top><TD><DIV align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back 
+to Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement34" style="position:absolute; top:5280px; left:20px; width:750px; 
+height:96px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>AReyeP and MCS take no responsibility for problems 
+encountered as a result of running
+Spear "End of Destiny", or as a result of following or attempting to follow
+suggested courses of action as per the above "Trouble Shooting" section.<BR>
+<BR>
+<BR>
+<BR>
+</FONT></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement9" style="position:absolute; top:240px; left:430px; width:250px; 
+height:16px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=250><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>3.&nbsp; </FONT><A HREF="#Brightness" TARGET="_self"><FONT 
+CLASS=Arial-13pxn>Brightness</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement35" style="position:absolute; top:1180px; left:210px; width:370px; 
+height:21px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=370><TR VALIGN=top><TD><DIV 
+align=center><FONT CLASS=Arial-18pxFFFFFFb><A NAME="Brightness">Brightness</A></FONT></DIV></TD></TR></TABLE></DIV>
+
+
+<DIV ID="idElement5111112" style="position:absolute; top:1180px; left:670px; width:100px; 
+height:14px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100><TR VALIGN=top><TD><DIV 
+align=center><A HREF="#Top" TARGET="_self"><FONT CLASS=Arial-11px0080C0n>Back to 
+Top</FONT></A></DIV></TD></TR></TABLE></DIV>
+
+<DIV ID="idElement37" style="position:absolute; top:1210px; left:20px; width:750px; 
+height:304px;"><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=750><TR VALIGN=top><TD><DIV 
+align=left><FONT CLASS=Arial-13pxn>Many early DOS games didn't offer the option to 
+adjust their brightness levels. Wolfenstein
+3D was one of these, and being that Spear "End of Destiny" uses the
+Wolfenstein 3D source code as a base, it too lacks such an option. In the early
+days of DOS gaming, gamers mostly just adjusted their monitor's brightness and/or
+
+contrast settings if a game appeared too light or dark. If Spear "End of Destiny"
+
+appears too dark, we suggest you do likewise.<BR>
+<BR>
+Unfortunately,
+many monitors lose their ability to display at their maximum brightness over time,
+
+with some getting so dark you can suffer eyestrain continuing to use them!
+With most games these days offering gamma and brightness adjustment, and Windows
+
+software that can enable you to adjust the gamma levels of your display, you
+may not even notice any such deterioration. If your monitor is affected this way
+
+however, then Spear "End of Destiny" may appear quite dark even with your monitor
+
+set to maximum brightness.<BR>
+<BR>
+Some levels in the game have darker
+shading than others. The first level in the game is one of these "dark" levels
+being that it set outdoors during night. However you should still be able to see
+
+distant walls and objects quite clearly in this level (although they will of
+course appear darker). If not, and adjusting your monitor to maximum brightness
+settings doesn't help, then you can turn the game's shading feature off by holding
+
+down the "Backspace" key and pressing the "S" key. Not all levels are this
+dark though, so when the next level starts, use the Backspace-S combination again
+
+to turn shading back on to check if the shading for the new level is acceptable
+or not. You can turn shading off or on at any time during the game should
+the need arise.<BR>
+<BR>
+Alternatively you could always buy a new monitor (for
+an old DOS game? "Like - yeah!" :)</FONT></DIV></TD></TR></TABLE></DIV>
+
+
+
+</DIV>
+
+<EMBED name="ididCoolPagexwavEmbed" src="CoolPage.wav" autostart="false" mastersound 
+hidden="true" volume=100 width=0 height=0></EMBED>
+
+</BODY>
+</HTML>

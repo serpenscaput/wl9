@@ -1,0 +1,113 @@
+IMPRISONED version 1.0 FULL VERSION
+TC BY REDWOLF GAMES
+E-mail: Tornado198883990@aol.com
+Build Time: About a month, all told...
+Version History:
+0.1- Early Stages of GFX, VGAGRAPH, GAMEMAPS
+0.2- Maps (E1M1-3 + secret), GFX(several), early code completed
+0.3- Coding compiled and prerelease version to come (E1M4 unmapped)
+0.4- E1M4 mapped, discovered E1 secret crashed system... LOTS of bug fixing
+0.5- More GFX editing done, all of E1 mapped, various touchups to maps (further fixing 
+of maps), E1 bug testing, writing of readme file, ENDART began, recompiled code (praying 
+it doesn't crash)
+0.6- Both ENDART's done, HELPART done, more mapping
+0.7- More maps done (E2M1-2 + secret)
+0.8- Schabbs replaced, map touchups
+0.9- More maps finished, rejected maps from my other projects ported
+1.0- Uber-long map testing session
+
+Advertisement:
+Are you tired of downloading a whole set just for 4 or 5 levels? Tired of levels 
+that present little challenge on a high difficulty? Tired of levels that are so hard 
+you break your own keyboard in agony? Of course you are. Too bad we can't do anything 
+about it. At least you can escape through 20 levels of Nazi prison mayhem in hopes 
+of freedom. Some of you will make it, others will become casualties in this war we 
+fight. Nobody ever said this was an easy task. IMPRISONED... 1 man can escape, but 
+can he make it all the way?
+
+Story:
+Jan 15, 1948
+You have been captured and taken to a Nazi POW camp. The camp is several floors underground 
+and houses a large regiment of Nazi soldiers. Now you must escape the camp at ALL 
+costs. You call out to an officer in a sick wounded voice. He walks in to beat you 
+down and keep you quiet but as he does you punch him in the stomach. He gasps for 
+breath and screams aloud as you snap his neck. Footsteps approach from down the hallway. 
+You decide it's now or never and grab the dead man's knife and gun. (Yes it's simple 
+but what do you expect?)
+
+Nazi Killing Utensils:
+KNIFE-
+This is a simple knife. It's good for stabbing and not much else. Only use this if 
+you're sneaking up on a soldier or out of ammunition.
+HANDGUN-
+A standard German handgun. This is a high caliber pistol capable of killing a standard 
+soldier quickly.
+MACHINE GUN-
+You haven't seen one in prison here, but you've heard in your mission briefing that 
+these can completely rip a human apart.
+GATLING GUN-
+This is a secret, well-hidden prototype designed for maximum damage. This gun is 
+made to fire at an unbelievably fast rate.
+
+Rumors:
+While staying in prison, you've overheard a few conversations and rumors. Some of 
+these may be true, others are useless.
+
+"I hear that on the ground floor of the prison, there's an elite soldier directly 
+from Hitler's personal army."
+
+"There's a hidden elevator somewhere that leads to a hedgemaze. Gotta have something 
+to keep the soldiers entertained."
+
+"It's been said that at the prison's outside checkpoint, there's the prison leader, 
+Fritz Schliemann. He patrols the only way out of the prison."
+
+"Hitler plans to execute all prisoners within a week or so. The only way to free 
+them all is to kill Schliemann."
+
+"Hitler's elite soldier keeps a prototype Gatling Gun hidden on his floor. He uses 
+it to kill soldiers for target practice."
+
+
+Featuring:
+20 New Levels by Redwolf
+"1337" Source Code Hacking by Redwolf (if you don't understand you aren't a hacking 
+type of person!)
+Hilarious Exit Messages (Look for 'em all!)
+BLACK Warning Screen
+ILM code changed (you can figure it out.... HINT: The letters are in the title AND 
+it's a monster in DooM!)
+Gray/Red/Black Statbar
+Statbar and Face Carried Over From OSII by ME!
+New Graphics
+Other Special Fun Stuff
+
+My Magical Editors:
+Mapedit (Oh yes, thank you God for this tool!)
+Wolfedit (Absolutely necessary)
+Notepad (HELPART/ENDART)
+Borland Compiler (Forgot the version but still... ahh yes!)
+Floedit (Only to mod the menu/startup gfx or insert sprites too friggin big for Wolfedit 
+to save)
+XWE (Taking images from Duke3d/Doom/Blood, all of which were not used, so i'm just 
+advertising a utility)
+Giffy (.BMP to .GIF and back, ESSENTIAL for Wolfedit and Floedit to work together 
+quickly and easily!)
+Windows Wordpad (Compilation of IMPRISONED readme)
+
+Acknowledgements:
+MCS- Master code hacker who wrote some of the community's best source code tutes...
+
+Brian Lowe- Poster of my amazing TC's to the page you got Imprisoned from.
+Wolf3d Dome Source Code Tutes- These little things helped me immensely.
+Waterdog- He left Sniper Studios, forcing much change, and as bad karma type punishment 
+for his becoming burnt out on Wolf3d, HIS EMAIL CRASHED! (mwahahahaha cruel ironic 
+retribution is mine!)
+You- But of course. You play my TC of questionable quality and hopefully enjoy it. 
+Thanks much one and all!
+Fontfreak.com and other font pages- Here I got all those SWEET fonts I so enjoy using 
+on all my TC's.
+And finally Tornado would like to thank... Tornado. Of the 3 (currently) TC's I have 
+done, I feel like this one is one of the most fun. This whole thing began as a side 
+project between working on OS2 and OS3's release dates (I try to do at least one 
+TC a year). 

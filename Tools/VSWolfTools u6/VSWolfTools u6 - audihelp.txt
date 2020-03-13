@@ -1,0 +1,70 @@
+  VSMUSED is for replacing sound and music chunks in the AUDIOT.* file
+  in a wolf3D or Spear of Destiny related game.
+  I am no musician so you can REPLACE but not edit sounds and music.
+
+There must be an AUDIOHED.* file present as well, containing the catalog.
+
+Upper buttons:
+
+Open Audio file          AUDIOT and AUDIOHED files which are to be changed.
+
+LOG                      See a log of changes and saves.
+
+<My portrait>            See this helpfile.
+
+Save to game             -the AUDIOT and AUDIOHED files.  Maybe make a backup.
+
+Restore game             Copy backup (files+'bk') to game files.
+                         Maybe delete the backup.
+
+Export selected          -chunk. Can be saved as *.imf.
+
+Save chunks list         -from the display as a textfile.
+
+<The Professor>          Permits you to alter the audiot file. Risky.
+   INSERT (number)       dummy lines following after   the selection.
+   DELETE (number)       lines following and including the selection.
+                         To make use of all this you must recompile the engine!
+Lower buttons:
+
+Import<-Audiot file      Please don't import from the same AUDIOT file. Messy!
+
+Import<-chunk  file      -from a valid file consisting of a single chunk.
+
+Replace selected         -chunk in the upper display with the selected chunk
+                            in the lower display.
+
+UNDO                     -the latest replacement or alteration.
+
+The displays show chunk number, chunk size in Bytes, and maybe a title text.
+   The text is the chunk's name (if any), else this information from VSMUSED:
+   <dummy>        :Chunk too small to contain usable data.
+   <extra>        :No audiohed entry above this chunk (filesize is supposed).
+   <outside file> :The audiohed entry points past the end of the audiot file.
+   < 2+ chunks>   :I saw this in one mod where there were 2 or more chunks
+                   before the next audiohed entry. Not handled by VSMUSED.
+
+You CAN put a chunk into the '<extra>' entry, at your own risk.
+
+   -I will cite from the Floedit helpfile which explains things nicely:-
+
+<The audio file contains PC-sounds, AdLib sounds and IMF-music.
+To play your own MIDI-files in Wolf3D, you have to convert the MIDI music
+to IMF music by using the tools "midi2mus" and "mus2imf".
+They're available as package "imftools2" by DarkOne. Download from
+http://wolfgl.narod.ru or search the internet for the package.
+
+After you downloaded the package, read the file README.TXT that comes with it.
+I have NOTHING to do with this package, so DON'T send your questions to me!
+
+After you created your own .IMF files from your midis (Note: rename them!, 
+The extension MUST be ".MID" or the converter will fail!), click the button
+labeled "Import from chunk file". Then select the IMF file.
+
+Please understand that music is stored in the last chunks in the file. WL1 has
+the same number of chunks as WL6, but some are dummies (88 bytes, 13 bytes,..).
+A valid music chunk is usually LARGER THAN 7000 BYTES ! Don't import anything
+onto other locations unless you change the engine!>
+
+
+                 http://vincentius.dk  mail@vincentius.dk

@@ -1,0 +1,149 @@
+12\24\95
+
+Extra levels for Spear of Destiny Mission One Configuration
+From the imaginuity of Robert S. Bradbury @COMPSERVE 75561,1550
+
+                             FOREWARD
+It is now 1995, and late into it for that matter, so you may not see the
+value of having any new Spear of Destiny levels! Why should anyone spend 
+time making any new ones when we now have DOOM, DOOM II, HERETIC, Rise of
+The Triad and Dark Forces!? I have all of those too! I decided to have some
+fun with the forgotten classic because I am tired of spending money for
+every new game that comes along and as an experiment I decided to see
+if Spear could be as much fun as it originally was- it is! I have used all
+the undocumented features that I could to make this set of levels different 
+from any of the originals and all others in existence! You will see ghost
+dogs in one of the secret levels. Force fields exist that you can see 
+through but not walk through. My NAZIS are not static therefore they are
+unpredicatable! Have you noticed how the "better" games still have enemies
+that you know exactly where they will appear? You won't get the repeat play
+with my new Spear levels as you experience in the more "advanced" games! I
+do have guards that still stay and mind their posts but many patrols are
+loose too! Those doors you hear slamming aren't hollow sound effects but
+actual guards seeking the invading schweinehund! I made the levels compact
+and not overly wandering BUT still challenging! You will notice that some
+locked doors exist that you can't open with either key- these are guards
+that wish to be left alone and they will make their appearance in all due
+time! If you set the skill level for one then even your kid sister should
+even be able to play. Skill level one has no dogs to kill nor assaulting
+mutants but edge up to skill level three and you will have an ordeal that
+the neo-phyte will not be able to handle. Go to skill level four and you
+will see that I pulled out all the stops- you had better become a miser of
+chicken dinners and ammunition if you expect to make it through! These 
+levels are my ninth configuration in working out bugs such as hard to see
+guards or things blocking your view (such as ammo). By the way did I mention
+that one must watch their back while playing at higher skill levels- this
+would probably be a good idea also on skill level one in some areas!
+ 
+
+This is FREEWARE. If you don't like the levels, you are free to change them
+to your tastes and I will not be insulted- you'll still be using my 
+creativity as a foundation! I have downloaded other levels that are totally
+un-realistic and most important- un-playable! I do not have 50 mutants 
+assaulting you or have less ammo available than there are enemies- I am
+even speaking of the ammo you get from the recipients of your marksmanship!
+You will still need to watch yourself on the higher skill levels and be
+very resourceful to get through- this is the realistic challenge!
+
+As I have said, I have tried to make the levels play different every time.
+The game actually responds to how you play and how you time your assaults!
+You may notice sometimes you think you'll be overwhelmed and the next
+time you play (using the same skill level) the enemy will probably assault
+you in a different way! On some levels you may even notice that your kill
+level percentage even exceeds 100%. You may shoot ghosts to get some easy
+points and they come back again just to get shot again and again- this adds
+to your kill ratio BUT burns up your ammo too!
+
+These levels are in no way connected to Id or Apogee Software nor the
+FormGen Corporation. If I made a mistake don't call them! (Don't call me
+either- "Just deal with it trooper!")
+
+Here is a suggestion that you can use to make changing your gamemaps and
+mapheads a lot less painful. Before you install my files in your Spear of
+Destiny, copy your GAMEMAPS.SOD and MAPHEAD.SOD to a floppy. Now is 
+the neat trick. If you collect a lot of maps, as I do, copy them to their
+own sub-directories and add these two custom files to each subdirectory:
+
+ COPY *.SOD %1 <Y.TXT (Name and save this one liner as SWAP.BAT)
+ Y   (Name and save this one character as Y.TXT)
+
+If you placed these two files in every subdirectory that have maps, then
+all you have to do to change missions is to exit your game, put in the disk
+with your files in the appropriate floppy drive and log to the subdirectory
+with your desired mission files. Follow me so far!? Now let us assume that
+your Spear of Destiny is on your C:\ drive in \SPEAR or C:\SPEAR, you need
+to only type on the DOS command line  SWAP C:\SPEAR and your files are 
+copied to your Spear of Destiny game without any error or "do you want to
+overwrite" prompts because the Y.TXT file answers for you!
+
+If you really want to be slick and save space you can pkzip your two files,
+run the zip2exe program on the archive to make it self extracting and embed
+it in the SWAP.BAT instead. Let us say you named your self extracting file
+FORTRESS.EXE all you have to do to make a proper SWAP.BAT is:
+
+FORTRESS.EXE -O -D %1  (Save as SWAP.BAT of course) The -O is the letter O
+not the numeral 0. 
+
+When you run this, instead of the copy command, pkzip will do the right 
+stuff without any further input. You still use the SWAP C:\SPEAR entry 
+though!
+
+Here is one much coveted "Cheat Code" that is not widely known. If you
+purchased the CD-ROM version of Spear of Destiny put out by FormGen you are
+undoubtedly ticked at being a victim of a documentation check as a form of
+copy protection. You know the routine! Apogee has released Spear of Destiny
+without the copy protection- for those that are possessors of the earlier
+FormGen version- just type SNOOPS at the documentation check and stop 
+fumbling for your manual. If you have seen the movie War Games then you 
+might type JOSHUA at the documentation check just for the fun of it! 
+You can also make a simple batch file and call it BACKDOOR and have it load
+Spear for you and bypass all the opening screens!
+
+ECHO OFF
+CLS
+SPEAR -DEBUGMODE -NORMAL -TEDLEVEL
+
+Save as BACKDOOR.BAT and your Spear will bypass the documentation check
+altogether, put you in debugmode, have you in the bring 'em on skill level,
+and on floor one! (You still have to activate using the LEFT SHIFT, LEFT ALT
+and Backspace keys.)
+
+Look for the file WMAP12.zip in this archive it has David Lummis' Wolfmap
+V1.2- I have included some batch patches that will let you make maps of your
+Spear of Destiny levels! I know of no other routine that is capable of 
+making maps for the Spear series of Wolfenstein 3D. The stock Wolfmap V1.2
+only maps Wolfenstein 3D.
+
+Enjoy and happy hunting! Did I mention you should watch your back!? 
+GUT HEIL!
+Herr Bradbury saying Auf Wiedersen
+
+P.S. I deliberately made the Bosses into half awake zombies that just
+stand there in a trance. Fire one shot in their direction and see how
+hacked off they get for you disturbing their slumber- you had better be
+quick on your feet as in "feets don't fail me now!"
+Some of the exit elevators can be reached by secret passageways and in
+"config9" they aren't marked with blood spots on the floor as always the
+case in my previous releases. You can also find the Spear on the first
+floor, but it is very well hidden! If you find it you'll go to the final
+showdown with the Death Angel and bypassing all other levels. You will be
+credited points for your actions on floor 1 but any victories on the final
+showdown will show all zeroes! I guess the game engine can't handle the
+quantum leap so the challenge is to find the Spear and then play all the
+other levels by starting anew. If you don't want to get shot to pieces at
+higher skill levels don't run like a chicken with its head cut off- you will
+only alert more guards to join in the assault! Save often in suspicious
+areas and don't follow my advice always against running- trust your 
+instincts and run like hell if you have to! I put more hours into these
+levels than some have put in their DOOM wads! If these levels are accepted
+favorably then I will upload more- if NOT I have some other irons in the 
+fire! I also intend to make levels for the other Apogee (id) masterpieces
+also and the Spear of Destiny adventure lets me get my feet wet without the
+tediousness of dealing with linedefs! If it took me hours to get the Spear 
+of Destiny done, then what would be the case of DOOM or Rise Of The Triad? 
+I still like my SOD and my original 60 level Wolfenstein 3D too!
+Any thing seen behind "windows" can be had but you must find the secret
+passageway to the treasures! By the way- did I mention that you should watch
+your back while playing my levels? Turn about is fair play and you should
+consider becoming a skillful back stabber yourself- save some ammo, use your
+knife and don't alert other guards! rsb

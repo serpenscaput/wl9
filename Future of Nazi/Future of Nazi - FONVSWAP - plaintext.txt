@@ -1,0 +1,54 @@
+Fall Of Nazi/Vswap Walls
+By Maxim Zhukov
+#	ORIGINAL	FON North/South	FON East/West
+0/1	Grey Stone 1	Grey Stone 1	Grey Stone 1
+2/3	Grey Stone 2	Grey Stone 2	Red Meter /Sign
+4/5	Grey/Banner	Grey Banner	Grey/Brown Skulls
+6/7	Grey/Hitler	Waterfall	Waterfall
+8/9	Cell	Blue UAC	Blue UAC
+10/11	Grey Stone/Eagle	Grey Display	Grey/Brown Skulls
+12/13	Occupied Cell	New Cell	New Cell
+14/15	Blue Stone 1	Blue Stone 1	Blue Stone 2
+16/17	Blue Stone 2	Dark Pic	Red GPF
+18/19	Wood/Eagle	Wood/Eagle	Wood/Hitler
+20/21	Wood/Hitler	Red Meter/No Sign	Brown/Red Streak
+22/23	Wood Panel	Wood Panel	Wood Panel
+24/25	Entrance To Level	Entrance	Entrance
+26/27	Steel/Sign	Verboten	Achtung
+28/29	Steel	Searchlight	Searchlight
+30/31	Landscape	Landscape/Night	Landscape/Night
+32/33	Red Brick	Red Brick	Red Brick
+34/35	Red/Wreath	Red Wreath	Sphere
+36/37	Purple Wall	Light Grey/Achtung	Light Grey/Achtung
+38/39	Red/Shield	Pop Art	LE Blue Sign
+40/41	Elevator/Normal	Brown Art	Elevator
+42/43	Elevator 2/Normal	Blue/Pattern	Elevator 2
+44/45	Wood/Cross	LE Blue Lighting	LE Blue Lighting
+46/47	Grey Slime 1	Grey Slime 1	Grey Slime 2
+48/49	Purple/Blood	Grey/Diamonds	Grey/Diamonds
+50/51	Grey Slime 2	Blue/Stick	Mickey Mouse
+52/53	Grey Stone 3	Grey/Mushy	White House 
+54/55	Grey/Signs	Game Screen Shot	Brown/Grey Pattern
+56/57	Brown Weave	Grey Brick New	Grey Brick New
+58/59	Brown Weave/Blood 1	Brown/Grey Diamonds	Brown/Grey Sml Patt
+60/61	Brown Weave/Blood 2	Grey/Display	Dopefish
+62/63	Brown Weave/Blood 3	Grey/Blue Display	Sphere
+64/65	Stained Glass	Grey/Small Pattern	Grey/Small Pattern
+66/67	Blue/Skull	Dopefish (lower)	Blue Pop Art
+68/69	Grey Brick 1	Angle	Brown/Grey Merge
+70/71	Blue/Swastika	Grey/Green Corridor	Grey/Green Corridor
+72/73	Grey Brick/Vent	Multi Colour Pop Art	Grey/Plane
+74/75	Multicolour Brick	Blue Pattern	Blue Pattern
+76/77	Grey Brick 2	Blue UAC	Brown/Skull 
+78/79	Blue Wall	Grey Pattern	Grey Pattern
+80/81	Blue/Signs	Brown/Blue Sml Patt	Grey Sun
+82/83	Brown Marble 1	Grey/Bars	Grey/Red Crest
+84/85	Grey Brick/Bap	Cartoon	Dopefish (enlarged)
+86/87	Brown Stone 1	Landscape/Red Edge	Grey Display
+88/89	Brown Stone 2	Brown Stone 1	Brown Stone 2
+90/91	Brown Marble 2	Red Design	Red Design
+92/93	Marble/Banner	Girl Athlete/Black 	Blue Design
+94/95	Wood Blind	Light Brown Brick	Light Brown Brick
+96/97	Grey Brick/Hitler	Girl Athlete/Red	Dopefish
+98/99	Unlocked Door	Achtung	Achtung
+

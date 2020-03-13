@@ -1,0 +1,82 @@
+			  "ASSASSINATE HITLER"
+		       Version 1.11+ (edited by C.C.)
+			    By: Gary Ragland
+
+Thank you for downloading "Assassinate Hitler". This is unlike any other
+Wolfenstein add-on episode in that it contains 20 consecutive levels. 
+
+First off, the storyline: As you can tell from the title of the game, the 
+object is obviously to search for and terminate Adolf Hitler as the Third 
+Reich crumbles around him. He fled to his secret bunker when Allied forces 
+marched into Berlin, and until now the location of this bunker was unknown. 
+Intellegence has discovered that he is hiding in a bomb-proof bunker located 
+underneath an ancient castle. The first 10 levels of the game constitute the 
+castle portion of the game, and the last 10 levels represent the bunker.
+
+From the menu where it asks which episode to play, select the only choice, 
+the fifth one down which says "Assassinate Hitler". You can select the 
+others, but they wont work right.
+
+You can play the first 10 levels as you normally would for any Wolfenstein 
+levels. At this juncture is where you have to do the one thing which will 
+allow the game to run 20 levels consecutively. Instead of a switch in the 
+elevator on Level 10, there is a red sign with a password at the bottom. 
+Make sure you remember this password, write it down if you have to, and SAVE 
+your game from Level 10 in the LAST SLOT  (the last slot should only be used 
+for this purpose). A new option will appear in the A.H. Menu once you leave.
+
+Don't e-mail me if you have problems with getting the NEXT LEVELS, this
+version has been modified to fit the Chokage Menu Environment. Ask C.C.
+if you have problems with it.
+
+Overall, this game has 20 levels. They're similar in style to the regular
+Wolfenstein/Spear of Desitny levels, except that they are more difficult in 
+most cases. The music has been changed around a little too. Level 20 has a 
+new song which is in the original Wolfenstein program, but is never actually
+used in the game.  
+
+Also, only the first 8 levels have par times, but those par times are correct 
+for those levels. Each level from Level 9 on, will give you a 15,000 point 
+bonus when it is completed.
+
+Some levels of interest:
+
+  Level 4 - Very castly design. You can see outside all the way around. One of 
+	    the first levels I ever designed for Wolf.
+  Level 8 - "The Dog Pound" FULL of dogs and just dogs. You'll have to use 
+	     your knife a lot.
+Level 14 - First room is kinda tough on Death Incarnate!
+Level 15 - The drain network of the bunker. Twisting tunnels and oil drums 
+	   blocking your way.
+Level 20 - Hitler is waiting for you here. A very dramatic and difficult 
+	   climax! You're in for a fight!!!
+
+The only known bug I've found in the game is that sometimes when you die, the 
+game ceases with an "Out of Memory" message. As long as you saved your game 
+(highly recommended!), just re-enter the program and load your game. This 
+doesn't happen too often though. If you do find any other bugs in the levels
+themselves, please e-mail me.
+
+Well, that's about it. This is different from other add-ons, so if you do 
+have questions or problems, just e-mail me and I will try to help you out.
+
+      Website:  http://members.tripod.com/~gdr2/index.html
+      E-mail:  gragland@ix.netcom.com
+
+Please send ANY comments you have about the game as well.
+
+ARNOLD: "Okay Gary, how you do beat level one?"
+BUFF:   "Shutup Arnold you stupid Moron!"
+
+Coming next....
+  A similar add-on with about 50 levels where you will battle the
+  Ubermutant and Dr. Schabbs! (maybe C.C. will make both A.H. and the
+  Schabbs one in a Double Pack to save room and for twice the fun!!!)
+
+Also Check out the Highscores contest on Gary's page. Press "4" at the 
+'Assasinate Hitler Menu' to make and send your Best Scores and Times 
+to Gary Ragland.
+
+Good Luck.
+
+Now go fry Hitler!

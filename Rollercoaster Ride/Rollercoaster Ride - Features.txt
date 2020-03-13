@@ -1,0 +1,8 @@
+FEATURES
+
+If you touch the wall or any blocking object, you will die
+You constantly move forward (big thanks to Tricob for figuring this out)
+Don't give 0% ratios for level designer omissions 
+End level tile
+No extra scores for ratios or par times, you can only get points in the levels
+Running is still available to you, as is strafing

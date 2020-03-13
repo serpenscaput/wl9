@@ -1,0 +1,370 @@
+"BLAKE STONE: ALIENS OF GOLD" ON-DISK TECHNICAL SUPPORT ŰŰ˛˛±±°°
+
+                   Copyright 1993 Apogee Software Productions
+        P.O. Box 496389 ţ Garland, TX 75049 ţ Hints line: (214) 278-5655
+
+                     Game designed by JAM Productions, Inc.
+
+
+                            ========================
+                            BEFORE RUNNING THIS GAME
+                            ========================
+
+ţ This game is not designed to be run under MicroSoft Windows.  Windows takes
+  up far too many system resources that our programs require for efficient and
+  proper operation.  When running this program, DO NOT LAUNCH FROM WINDOWS.
+  Run it directly from DOS.  If you are in the Windows environment, quit
+  Windows and then run the program.  (NOTE: Using the MS/DOS Icon does not exit
+  you from Windows.  That is a shell from Windows.)
+
+ţ Any kind of menu program such as Dos Shell will most likely cause problems.
+  We recommend running our programs completely from the DOS prompt.
+
+ţ Blake Stone: Aliens of Gold requires MS/DOS 5.0 or greater.  Any previous
+  version of DOS will not be sufficient in order to run the game.  The chief
+  reason behind this requirement is that these older versions of DOS are
+  incapable of providing enough conventional memory in order to execute Blake
+  Stone.
+
+ţ Blake Stone REQUIRES 605,000 bytes of free conventional memory in order to
+  execute properly.  See General Problem 2 for more detailed information on how
+  to make more conventional memory available.
+
+
+                         =========================
+                         BLAKE STONE SPECIFIC HELP
+                         =========================
+
+ţ If, when you start the game, you get the error screen saying that you have
+  insufficient memory in order to play the game, go to General Problem 2.
+  There is detailed help for this issue there.
+
+ţ If you're playing the game, and it locks up when loading a level, try running
+  the game using the NOEMS NOXMS parameters.  See the section on "Command Line
+  Parameters" for more detailed information on how to use these.
+
+ţ Not all clone sound cards properly emulate the Creative Labs Sound Card.
+  This program was written for a Creative Labs Sound card, and functions
+  properly on all Creative Labs cards.  During the testing of this game, it
+  was made to work on these following cards with very little effort.  They are:
+  Pro Audio Spectrum 16 and the Gravis UltraSound Card.  Other clone cards
+  should work, but if you're having problems, please check General Problem 1,
+  Solution 3 for more information on solving your problem.
+
+ţ The music in this game is Adlib music, and all game play sounds are Sound
+  Blaster digitized effects.  An example of the digitized effects are the door
+  noises, your weapons firing, and the various speech from the people you'll
+  meet in the game.
+
+ţ If your IRQ is set to 10, you will not get proper sound performance, and your
+  computer may also lock up.  Blake Stone requires that your IRQ be set at 7
+  or less.  IRQ10 is a 16 bit sound IRQ, and since the sounds that Blake Stone
+  makes are 8 bit, IRQ10 is unusable.
+
+ţ If you notice the game running slowly on your system, here are a few
+  suggestions on improving game performance.
+
+  Ż Try disabling the ceiling and floor textures during game play.  This can
+    be done by using the [C] & [F] keys respectively.
+
+  Ż Reduce the window size.  You can do this during game play by pressing F5 or
+    from the OPTIONS menu under CONTROL.
+
+  Ż Increase the amount of free memory your system has before running the game.
+    See General Problem #1, solutions 3 & 4 for help.
+
+  Ż If you are a Sound Blaster or compatible sound card user, try disabling
+    the Digitized sounds.  Press F4 during game play to bring up the sound
+    menu, or use the "SOUND" menu under "GAME OPTIONS" when in the menu system.
+
+  Ż If you are an AdLib or compatible sound card user, try disabling the
+    Background Music.  Press F4 during game play to bring up the sound menu, or
+    use the "SOUND" menu under "GAME OPTIONS" when in the menu system.
+
+
+                      ===================================
+                      BLAKE STONE COMMAND LINE PARAMETERS
+                      ===================================
+
+ţ There are a few command line parameters you can try to use to help other
+  things that might turn up when playing the game.  A command line parameter
+  is something that you type on the command line after the name of the program
+  you're running.  The /NOJOYS switch will be used as an example.  To use
+  that one, you would need to start the game like this...
+
+  BSTONE /NOJOYS  (or BSTONE -NOJOYS, or BSTONE NOJOYS)
+
+  The command line parameters for Blake Stone are stackable, which means
+  that you can use more than one at a time, if you need to.  An example of
+  a stacked set of command line parameters would look like this...
+
+  BSTONE /NOJOYS /NOMOUSE
+
+  Here is a list of the common command line parameters you can use with
+  Blake Stone, and what they are used for.
+
+
+  VERSION    Ż Displays the compile date and version of your copy of Blake
+               Stone: Aliens of Gold
+
+  SYSTEM     Ż Displays and other information technical information about
+               your system.  This is primarily used if you would need to
+               contact Technical Support.  If you do contact Technical
+               Support, please have this information ready.  This shows such
+               information as if the game detects a mouse, a joystick, etc.
+
+  NOEMS      Ż Used to disable checking for EMS memory.  Useful in helping
+               to solve memory manager conflicts.  Is almost always used
+               in tandem with the NOXMS switch.
+
+  NOXMS      Ż Used to disable checking for XMS memory.  Useful in helping
+               to solve memory manager conflicts.  Is almost always used
+               in tandem with the NOEMS switch.
+
+  NOJOYS     Ż Disable Joystick detection.   If for some reason the game is
+               moving you in one direction, and you can't get it to go any
+               other way, it might mean the game thinks you have a joystick,
+               when you don't. When using the "SYSTEM" parameter, if the
+               program detects a joystick and you don't have one, use this
+               parameter.
+
+  NOMOUSE    Ż Disable mouse detection.  This will disable the use of your
+               system's mouse during game play.
+
+  HIDDENCARD Ż This switch overrides the video card detection routines if the
+               program seems to be improperly detecting your video card and not
+               letting you play the game.
+
+
+                               ==================
+                               GENERAL PROBLEM #1
+                               ==================
+
+ţ Problem
+
+The game locks up either during game play, or during the loading process.
+
+ţ Explanation 1
+
+This can be any number of things, but is usually a conflict with a memory
+manager, or a TSR(s) in your system.  It can also be a DMA conflict if you have
+a Sound Blaster Sound card.  Apogee only directly supports the Sound Blaster
+and AdLib family of cards, and any other card has to have 100% compatibility in
+order to function properly.  Many other sound cards out claim to be 100%
+compatible with the Sound Blaster standard, but in reality they are not.
+
+ţ Solution 1
+
+Try running the game with the NOEMS NOXMS command line parameters.  See the
+section on "COMMAND LINE PARAMETERS" for more information on how to properly
+use these.
+
+ţ Solution 2
+
+Turn off the digitized sounds completely.  If the game plays normally, a DMA
+conflict most likely exists between your sound card and some other piece of
+hardware in your computer.  You will need to change the DMA channel in order to
+solve the DMA conflict.  Consult your sound card manual for instructions on how
+to do this.  If you do indeed change the DMA channel, you must reflect said
+change in the SET BLASTER line mentioned in the next solution.
+
+ţ Solution 3
+
+Check your AUTOEXEC.BAT file to see if the SET BLASTER line is present.  If it
+is not, this could be the source of the problem.  Even if you don't have a
+Sound Blaster card, this line needs to be there.  The reason for this is that
+the game expects your sound card to be at a certain default setting.  If it
+isn't, the game looks for the environment variable BLASTER, and redirects the
+sound output to those settings.  If you are not on the default settings, and
+you don't have the proper SET BLASTER line, or it isn't there at all, a system
+lockup may occur.
+
+  SET BLASTER=Aw Ix Dy Tz
+
+  Where w is the Address Number. (It's almost always 220)
+  Where y is the DMA Channel (Almost always is 1)
+  Where x is the Interrupt Number (it must be 7, 5, or 2.)
+  Where z is the type of card.
+
+  z should be either 1 or 3 if it's a Sound Blaster (1 for an old card)
+  z should be either 2 or 4 if it's a Sound Blaster Pro (2 for an old card)
+  z should be 6 if it's a Sound Blaster 16
+  z should be 1 if it's a sound card other than a Creative Labs card
+    (if 1 doesn't work, try 3)
+
+  If you have a Sound Blaster 16, the D refers to the 8-bit DMA channel, not
+  the 16 Bit DMA channel.  That's stored under a different variable, and is
+  not used in any Apogee game.
+
+Please note that at this time, no Apogee game supports an interrupt higher than
+7.  If you do have the SET BLASTER line present, and the interrupt is higher
+than 7, you MUST change it to 7 or lower, or you will continue to experience
+problems.   Once you have made this change to the AUTOEXEC.BAT file, you'll
+need to reboot your computer for these changes to take effect.  After
+rebooting, go to the directory the game is installed in, and delete the config
+file for this game.  (For the shareware episode, it's CONFIG.BS1; for the
+registered versions, it's either CONFIG.BS3, or CONFIG.BS6 depending on how
+many episodes you have.)  The config file stores the configuration information
+for your system, and if you delete this file, it will force the game to rescan
+your computer, and get the new information.  The new information will then be
+placed in a newly created configuration file.  Any settings such as keyboard
+reassignments, or control device selections will be lost when the configuration file 
+is
+deleted, and will need to be reselected.
+
+
+                               ==================
+                               GENERAL PROBLEM #2
+                               ==================
+
+ţ Problem
+
+The program returns a message that says you do not have enough memory to run
+the game, or the program behaves erratically when it is executed.
+
+ţ Explanation
+
+There is not enough conventional memory available to execute the game you are
+attempting to run.  When MicroSoft first made DOS 1.0, 640 kilobytes (KB) was
+set aside as the highest amount of memory that a computer could have.  The
+640KB of memory is what is called "conventional memory".  To maintain
+compatibility with older versions, this was never changed.  Advances in memory
+management have made access to memory beyond 640KB, but this memory can only
+hold data; the program actually has to run in the first 640KB.  It is this
+memory that you are running out of.
+
+Conventional memory is used by DOS as well as device drivers and TSR's
+(Terminate and Stay Resident Programs).  A TSR is a program that is loaded into
+your computer's memory (usually from the CONFIG.SYS or AUTOEXEC.BAT files) and
+stays there.  Most programs remove themselves from memory after execution, a
+TSR does not.  Device drivers and TSR's are programs that enable the computer to
+
+use additional hardware such as a mouse, scanner, CD-ROM, expanded or extended
+memory, etc.  When you first start up your computer, there are two files that
+your computer looks at: CONFIG.SYS and AUTOEXEC.BAT.  These two files contain
+lists of device drivers and TSR's that are loaded into memory.
+
+NOTE: It is possible that Apogee games may run with a figure of available
+conventional memory that is less than the recommended amount.  It is very
+likely, however that the program will behave erratically under these
+conditions.  Even if the game appears to run with less than the recommended
+amount of conventional memory, we recommend that you raise your amount of
+conventional memory to ensure proper program execution.
+
+ţ Solution 1
+
+Try removing some of your TSR's.
+
+ţ Solution 2
+
+Make sure "DOS=HIGH" is in your CONFIG.SYS file.  This will load your DOS into
+high memory, and will make more room available in the first 640k of memory
+mentioned in the explanation above.  This alone usually isn't enough to solve
+the problem, but sometimes it will work.
+
+ţ Solution 3
+
+If you are running MS/DOS 6+, skip directly to Solution 4.
+
+a) If you are running a version of Stacker before v3.1, or some similar disk
+   compression program that loads after your CONFIG.SYS file, copy our product
+   to a section of your hard drive that is not compressed.  Stacker v3.1+, or
+   similar compression programs that load before CONFIG.SYS do not need their
+   files moved.
+b) Place a diskette in drive A:.  (If A: is a High Density Drive, you'll need
+   a high density diskette).
+c) Switch to the C: prompt.
+d) Type FORMAT A: /S
+e) If necessary, press enter for the question about Volume Label.
+f) Enter N to "Format another?"
+g) LEAVE THIS DISKETTE IN YOUR A: DRIVE, and reboot your computer.
+h) The computer should ask you for the date and the time.  Just press enter to
+   these questions.  At this point, you will be at the A: prompt.  Now, switch
+   to the C: drive, then change to the directory in which the game is installed
+   and start the game.  You should no longer have this problem.  Please note
+   that if this solution solves the problem, you will need to do this every
+   time you wish to play the game.
+
+ţ Solution 4
+
+This Solution is for MS/DOS 6.0+ users only.
+ 
+a) If you are running a version of Stacker before v3.1, or some similar disk
+   compression program that loads after your CONFIG.SYS file, copy our product
+   to a section of your hard drive that is not compressed.  Stacker v3.1+, or
+   similar compression programs that load before CONFIG.SYS do not need their
+   files moved.
+b) Reboot your computer.
+c) When the message "Starting MS/DOS" appears, hold down the F5 key.  This
+   does the same thing as steps 2 through 7 in Solution 3.  If your system
+   boots normally, you waited too long to hit the F5 key. Reboot and try again.
+d) If you are running MicroSoft DOS v6.2 and also are using DoubleSpace, you
+   can press Ctrl-F5, and this will also bypass loading your DoubleSpace
+   driver.  However, if you do this, you won't be able to get at your
+   compressed drive.  If you use this step, please make sure that you've copied
+   the game to an uncompressed drive on your computer.  Please note that this
+   step is ONLY for DoubleSpace users who are using MS/DOS 6.2.  This will not
+   work if you're using Stacker or any other disk compression program besides
+   DoubleSpace.
+d) You should see a message that says "MS/DOS is bypassing your CONFIG.SYS and
+   AUTOEXEC.BAT files".  (If your system boots normally, you waited too long.
+   Reboot, and try again.)
+e) Switch to the C: drive, then change to the directory in which the game is
+   installed and start the game.  Please note that if this solution solves the
+   problem, then you will need to do this every time you wish to play the game.
+
+NOTE: If you have a PS/1, and these steps do not work for you, please contact
+IBM's Technical Support Department in order to find out how to boot from a
+System Disk, since the procedure is extremely different and much more
+complicated than what is described above.
+
+
+
+                          ============================
+                          CONTACTING TECHNICAL SUPPORT
+                          ============================
+
+Apogee thanks you very much for playing our games.  Customer satisfaction is a
+high priority of Apogee's, and we strive to please everyone.  Our Technical
+Support staff is available to assist all of our customers in solving any
+technical problems that may be experienced.  Our Technical Support Department
+is available to answer your questions Monday through Friday during the hours of
+8:00 A.M. to 6:00 P.M. Central Standard Time.  The phone number for the Tech
+Support Department is (214) 278-5655.  Two other options are to contact us via
+fax at (214) 278-4670 24 hours a day or write to us at POB 496389, Garland TX
+75049.
+
+Apogee Technical Support can also be contacted via a variety of electronic
+medium.  Several major online services are monitored, and Apogee's E-Mail
+addresses are listed below.   Also, a variety of Bulletin Board networks are
+monitored as well, and those are also listed.
+
+If you do contact our Technical Support department, please be at your computer,
+and have it ready for assistance.  If you can't be at your computer, please
+have printouts of the following things available, so that we may assist you
+better.  It may be possible do provide technical support without these things,
+but it will be much more difficult.
+
+The needed files are CONFIG.SYS & AUTOEXEC.BAT.
+
+ţ Major Online Services
+
+Internet       -> apogee@delphi.com   Internet       -> joe.siegler@swcbbs.com
+America Online -> APOGEE              CompuServe     -> 74200,553
+Delphi         -> APOGEE              Genie          -> APOGEE
+Prodigy        -> CXVP94A             NVN            -> JSIEGLER
+FidoNet        -> 1:124/9006          Portal         -> COMING SOON
+
+ţ Bulletin Board Networks
+
+There are several BBS networks that are monitored for Apogee messages.  Our
+Online Support Representative monitors all of the following BBS networks.
+
+Fidonet, Relaynet (Rime), Intelec, Ilink, U'NI-Net, Smartnet, & City2City.
+
+All of these BBS networks have Games and Shareware conferences.  In addition to
+those, all but Fidonet also have an Apogee Vendor Support Conference.
+
+And of course, we can be reached on Software Creations, the Apogee BBS!
+
+[ END OF FILE ]

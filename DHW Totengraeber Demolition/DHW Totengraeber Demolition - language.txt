@@ -1,0 +1,21 @@
+STR_HOWTOUGH = "How tough are you?";
+STR_DADDY = "It's nap time.";
+STR_HURTME = "Is that gun real?";
+STR_BRINGEM = "Ready for action.";
+STR_DEATH = "Engage and destroy!";
+
+ENDSTR10 = "You can't really mean to tell\nme that you're leaving?";
+ENDSTR11 = "DOS blows, man. C'mon.";
+ENDSTR12 = "Only lamers bug out on the job!";
+ENDSTR13 = "Your C.O.'s gonna be\nreal happy to see\nyou back so soon.";
+ENDSTR14 = "Just leave. When you come\nback, I'll be waiting for\nyou with a bat.";
+
+ENDSTR15 = "To get out, press Y.\nTo waste Schabbs' evil Nazi flesh,\npress N.";
+
+ENDSTR16 = "And I suppose you think\nWindows is better than this?";
+ENDSTR17 = "Lives hang in the balance,\nand you think you can walk\nright out that 
+door!";
+ENDSTR18 = "The operating system is a drag.\nDon't say I didn't warn you.";
+
+REGNOTICE_MESSAGE = "This game is freeware.\nYou may distribute it freely.\nThanks.\n\n 
+       B.J. Rowan\n";

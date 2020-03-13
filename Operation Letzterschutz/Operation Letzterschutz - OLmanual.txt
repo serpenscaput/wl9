@@ -1,0 +1,708 @@
+"Operation: Letzterschutz"  v1.2  help/mini manual 
+
+Greetings!  Thanks for downloading Operation: Letzterschutz!  There is an online 
+web site devoted to this game, but in case you don't have access to the net, or just 
+want some quick help or reference material, this mini manual will save you a visit 
+to the site.  Just in case you don't know the site address, it's:  http://www.angelfire.com/droid/majikmonkee/OLsite2.html
+
+
+
+Introduction:
+
+In 1992, the gaming industry was turned upside down by the release of one of the 
+first and best known first-person-shooter games ever, Wolfenstein 3D.  The game was 
+revolutionary for it's time, and was responsible for ushering in a whole new genre 
+of gamplay, the era of the first-person-shooters.  I first encountered it during 
+college back in 1993, when I discovered the shareware version of it on a friend's 
+computer.  From the initial escape from the cell on the first floor, to the climactic 
+battle with the gigantic Hans Grosse, I was hooked, and would remain so for years 
+to come.
+
+There were many who remained faithful Wolfenstein fans for the many long years after 
+the game came out.  Sad to say, I wasn't one of the faithful ones.  Like many other 
+people, I moved on to more advanced FPS games as the engines got more complex, and 
+quickly forgot about my roots and my initial love of Wolf3D.  Luckily for me, there 
+came a point when my crappy eight year old PC wouldn't handle newer games anymore, 
+and stopped running the ones it run just fine initially, casting me into a funk where 
+I played no FPS games for a long time, and thought little about them for several 
+years.
+
+In late 2002, I had progressed to writing reviews for outdated NES and SNES games 
+that I still had a love for, because the ROM craze was in full swing around this 
+time.  Some of my more negative reviews were discovered by a publication that made 
+a living trashing just about everything it could find, and I was recruited to become 
+a writer of biting reviews of not just video games, but anything else that I found 
+worthy of a cheap shot.
+
+It was about this time that I came across a negative review the publication had made 
+years back about the atrocious SNES conversion of Wolf3D.  I realized the review 
+wasn't very in depth, and I hated that conversion so much that I decided to do a 
+more elaborate piece on it.  It was during this time that I came across AReyeP's 
+homepage and "Spear Resurrection" for the first time.
+
+In my current state of bitterness when I first read the storyline for SR (clones 
+made of crap?), I thought it was a prime target for a slanderous and degrading review. 
+ However, like all good journalists, I decided to make sure I knew my material first 
+before writing the review.  I downloaded the game and gave it a whirl.  Little did 
+I know just what it was that I was up against.
+
+My first thought was "What the...THIS is Wolfenstein?  No way...it's too good to 
+be Wolfenstein!"  It only took me a matter of hours to start doing more research 
+on the web and to stumble across the Dome and Mr Lowe's old homepage.  When I saw 
+some of the other great mods out there, I knew I was hooked.  My negativity vanished, 
+and the old love I once had for the original Wolfenstein returned with a vengeance...I 
+was hooked all over again!
+
+Since then, with the help of a LOT of talented  people, I've done a total of three 
+mods:  Halls of Stonehenge, HOS: Special Edition, and Operation: Hundscheisse (released 
+under my brother Dumscheissekopf's name, because it was his initial idea).  While 
+there has been positive response to most of those mods, I always felt like something 
+was missing from my contribution to the Wolfenstein mod scene.  My greatest achievement 
+chronicled the story of BJ fighting lunatic Nazi fanatics alongside zombies and monsters...I 
+love HOS, but it wasn't quite the mod I wanted to be known for.
+
+Ever since I first played some of the great historically accurate type mods out there, 
+I've always wanted to do one of my own...one that would make people say, "Yeah...this 
+could happen".  My vision for this mod is that it be one that people feel could actually 
+be a legitimate chapter of the original Wolfenstein saga (I know there are those 
+out there with whom HOS just doesn't quite feel right).  When designing the story, 
+characters, and locations for the game, I tried hard to make sure that they all had 
+a grain of historical realism to them whenever possible.  Sure, there's some fanciful 
+stuff in the game, but for the most part, it could all have happened (I think!).
+
+
+So, that having been said, I hope you enjoy this game, and that it feels like what 
+it was intended to be:  not another arbitrarily thrown together shoot em' up, but 
+a solid and enjoyable continuation of the great and classic original Wolfenstein. 
+ Whether or not it achieves that is, of course, up to you...the player.  :)
+
+
+~Majik Monkee~
+
+
+Dedications:
+
+This game is dedicated to my wife, Branson, who even though she isn't a big Wolfenstein 
+fan, has always supported me in the things that matter.  Also, it's dedicated to 
+my brother John, who helped me win the full version of Wolfenstein the first time 
+by alternating episodes.  Finally, I'd like to dedicate it to all those who helped 
+create it and make it great...I couldn't have done it without you all!  Okay...enough 
+of the mushy stuff...*sniff*
+
+
+
+Version 1.2 Update Differences:
+
+- some incendiary soldiers have been replaced with phantom menaces in certain maps 
+
+
+- some levels have had a couple of incendiary soldiers removed (to avoid crashes 
+from too many actors...better safe than sorry) 
+
+- E3L4 has had some significant changes made to it (a gas can that should have been 
+a throwing knife has been changed, the exit has been expanded because soldiers opened 
+the locked exit prematurely, making the boss fight unnecessary) 
+
+- some other minor changes have been made to the later episodes 
+
+
+
+Known Problems:
+
+OL was designed to be as "glitch free" as possible.  Of course, nobody is perfect, 
+and neither is any program I know of, so here's the known problems with OL.
+
+DISPLAY ISSUES - Every now and then, when you die and the game restarts, the screen 
+will have shrunken by one size, and the border will be flashing red.  This isn't 
+the first Wolf mod I've seen that does this, and I'm not sure if there is any way 
+to correct it permenantly (it doesn't happen all the time).  To fix it, simply resize 
+your screen, and it will return to normal.
+
+SOUND ISSUES - Sometimes, when you are spotted by multiple enemies at once, the sound 
+will cut out after they shout out their warnings.  This is easily fixed by going 
+into the sound menu and selecting "no sound", then immediately reselecting your original 
+sound source.  The problem also occurs occasionally with the use of certain special 
+weapons, resulting in silence from either the weapon or enemies you defeat.  Again, 
+this problem isn't unique to OL, but for those of you less familiar with the Wolfenstein 
+engine, I'm including this solution here.
+
+OTHER ISSUES - I don't know of any other problems currently. If your PC does not 
+want to run OL, check out some of the troubleshooting tips on the web for running 
+Wolfenstein 3D in general. I don't really want to get into all of that here. Wolfenstein 
+doesn't seem to like Windows, so try running it in DOS mode if you are not already.
+
+
+If you discover any other issues or glitches, let me know, and I'll add them to future 
+versions of this document.
+
+
+
+Story: 
+
+Usually, I write a shortened version of the story for my mods in these mini manuals, 
+which is more or less what I've done here (this is the original story that appeared 
+as part of the promotion for the mod at modDB).  For those of you who are avid readers, 
+I would still recommend giving the web site a visit and reading the full story.  
+It includes a lot more detail, and explains some stuff that the story below doesn't 
+quite cover.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+Hitler has fallen...Japan has surrendered...WWII is officially over...for most people...however, 
+for BJ, the man who never rests, the end is actually the beginning of a slew of trials 
+he has yet to face. 
+
+Prior to the imminent fall of the Nazis, a plan was secretly developed by a secret 
+group of high ranking Nazi officers, and their leaders, Wolfgang Eisenkreiger and 
+Emmet Von Braun. The plan involved loading up several German U-boats with a horde 
+of stolen Nazi treaures, and heading for South America, where the Nazi forces would 
+rebuild and plan a new war against humanity. 
+
+The plan was launched, and Eisenkreiger and Von Braun were successful in establishing 
+an alliance with a corrupt South American dictator, known as "El Presidente". Eisenkreiger 
+agreed to use their incredible stores of wealth to support El Presidente and his 
+army of thugs if they in turn would provide protection for the weakened Nazi remnants 
+while they rebuilt. The alliance of Eisenkreiger, El Presidente, and Emmet Von Braun 
+was dubbed "The Triumvirate". Eisenkreiger was the tactical genius, El Presidente 
+was a master of corrupt politics, and Von Braun was a genius far beyond his time. 
+
+
+While Eisenkreiger and El Presidente built their army and developed a fortified stronghold, 
+Emmet Von Braun worked feverishly to use their abundant capital in a more creative 
+fashion. Using technology well advanced for his time, he developed a prototype vehicle 
+called a "gyropanzer", a machine that could hover through the use of spinning propellor 
+technology, rather than flying like a jet. This machine would prove devastating if 
+perfected, allowing the pilot to accurately target and attack ground troops, while 
+still utilizing the mobility of flight. 
+
+The gyropanzer was almost perfected when the Nazi's fortune began to dwindle. The 
+project was costly, and outfitting the Triumvirate army while padding El Presidente's 
+pockets was a costly venture. Against their better judgement, Eisenkreiger decided 
+it was time for the fall back plan. The Nazis had taken some but not all of their 
+treasure store in Germany, and though it was a risky venture, they could return to 
+the Fatherland and reclaim it under cover of darkness. It was the Triumvirate's decision 
+that this was the course of action that would be taken. And so, a single U-boat departed 
+from it's hidden port in South America, bound once more for Germany and it's hidden 
+fortune. 
+
+Little did the Triumvirate know that American agents had learned of the operation, 
+codenamed "Operation: Letzterschutz", and an unexpected piece of cargo was going 
+to be making the return trip with the sub...an American operative named BJ Blazkowicz. 
+And so the story begins...
+
+GOOD LUCK, BJ!! 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+Controls: 
+
+The standard controls are whatever you set them up to be.   Most of my previous mods 
+had special controls like weapon holstering and a crosshair you could turn on and 
+off.  Sorry, but there's nothing like that in this game.  I just didn't feel those 
+features were necessary this time around...hope you weren't expecting to use them 
+in this game.
+
+
+
+Difficulty Settings:
+
+There are four different difficulty settings in "Operation: Letzterschutz", ranging 
+from very easy to obnoxiously difficult. The strength and number of enemies you will 
+face is determined by which difficulty setting you choose. Here are the four different 
+difficulty settings:
+
+Chicken - This setting is strictly for newbies and people who are afraid of the toilet. 
+Challenge is minimal, as there are very few enemies, and the ones that you will face 
+have very low hit points. Not a suitable challenge for serious gamers. 
+
+Average Joe - A little bit tougher than "chicken" mode, but not by much. The enemies 
+can take more damage, but their location and number is the same. This difficulty 
+still won't present much of a challenge for people who are experienced first person 
+shooter fans. 
+
+One Man Army - This setting most accurately reflects the level of challenge "Operation: 
+Letzterschutz" is meant to have. The enemy count is much higher than in the first 
+two settings, and bosses and standard enemies can take more hits before going down. 
+This is the preferred setting for folks who have had some experience in the world 
+of Wolfenstein. 
+
+Total Maniac! - If you like abuse (and who doesn't?), then this is the setting for 
+you. There are lots of enemies in this setting (the same as in "One Man Army"), but 
+they take the most damage of any difficulty level. You'll need to look for health 
+and ammo more than ever to stay alive on this setting. A suitable challenge for seasoned 
+Wolfers who find the other settings to be too easy.
+
+
+Enemies: 
+
+There are lots of enemies in OL, some of which you will recognize as variations of 
+enemies from the original Wolfenstein, and others that are more or less completely 
+new.  If you are having problems dealing with the enemies you are facing, the descriptions 
+below might give you some helpful tipes on how to defeat them.
+
+Dog - Pretty easy to defeat.  They run at you and try to take a bite out of you, 
+but a single shot or jab from your knife will put them away.  They are pretty fast, 
+though, so make sure you don't get surrounded by them, or allow one to sneak up on 
+you.
+
+Soldier - The standard ground troops of El Presidente's army.  By themselves, they 
+are only a minor threat, and can usually be dispatched by a couple of well placed 
+rounds.  It's when you face several of them at once that you need to start worrying. 
+ Their pistols do moderate damage, but a single shot at point blank range can put 
+an end to your mission.  They leave a used ammo clip when defeated.
+
+Triumvirate Guard - These guys used to be SS soldiers when they served under Hitler 
+back in Germany.  When the Triumvirate was formed, they shed the trademark uniforms 
+and took on jungle training and fatigues.  They wear body armor, and can take a lot 
+of abuse, and they are pretty good at dishing it out too.  If they catch you off 
+guard, you'll be seeing red in a terminal way.  You can acquire their machine gun 
+if you dispatch these guys.
+
+Officer - Former Nazi officers, they continue to serve as leaders of the Triumvirate 
+forces.  They are less common than most other types of soldiers, but for BJ, that's 
+a good thing.  They move very quickly, and their shots frequently find their marks. 
+ To make matters worse, they wear body armor, and can take a fair amount of punishment 
+before they go down.  For your trouble, they leave behind a partially spent ammo 
+clip.
+
+Guerrilla Soldier - These are the worst of El Presidente's thugs you'll encounter. 
+ They are tough to kill, and attack silently and without warning with their twin 
+pistols.  Most of the time they can be found hiding out in jungle areas, but occasionally 
+serve as body guards inside some installations.  You are awarded some ammo if you 
+survive their attack long enough to defeat them.
+
+
+Super Enemies:
+
+Incendiary Soldier - At first glance, these appear to be ordinary soldiers, but they 
+are actually much more dangerous.  They carry flamethrowers that spew balls of fire 
+at you, and they wear protective gear that allows them to pass through the fire unharmed. 
+ The gear also offers them considerable protection from bullets, so it will take 
+a lot of shooting to bring them down.  They move slowly, and so do the fire balls, 
+but whatever you do, don't let them corner you.
+
+Phantom Menace - There are some places you won't find incendiary soldiers, but that's 
+no reason to relax...there's always the phantom menace!  These strange foes resemble 
+a floating ghost that approaches you silently.  Once they stop moving, though, they 
+release a volley of blazing fireballs, similar to the incendiary soldiers'.  Are 
+they real, or a clever device to scare intruders?  No time to decide...blow them 
+away before they fry you!
+
+Jeep Soldier - Talk about uneven odds!  These guys are standard South American soldiers, 
+but they carry sub machine guns and drive heavily armored, bullet proof jeeps.  If 
+you're caught in the open when they start firing, chances are you won't survive. 
+ They move faster than any other enemy you'll encounter, and the jeep will take a 
+lot of damage before it falls apart.  Unless you have no other choice (or you're 
+going for a high kill ratio), you might be better off running than sticking around 
+and fighting these dangerous enemies.
+
+Enforcer Droid - These robotic menaces were invented by Von Braun to protect key 
+areas of the Triumvirate occupation.  They are like heavily armored walking battle 
+tanks, and have only one objective:  Terminate intruders mercilessly.  Battling them 
+with anything less than a machine gun is foolish, but even with a heavy machine gun, 
+they'll still give you a run for your money.  The good news is they don't appear 
+until the later episodes.  Second only to bosses in strength and ability to destroy 
+you.
+
+
+Boss Enemies:
+
+La Cucaracha - Originally an American from Texas, La Cucaracha fled the country to 
+avoid excecution for crimes he'd committed.  He passed through Mexico, and eventually 
+found his way to South America, where he met up El Presidente.  For years now he's 
+served as El Presidente's chief thug, but he never dreamt he'd be serving former 
+Nazis as part of his dirty work.  He battles with a huge chain gun as well as a machine 
+gun (in case the chain gun doesn't do the trick).  BJ will meet him on the final 
+submarine level in Episode 1.
+
+Hon Fu - A professional assassain, Hon Fu is currently selling his skills to the 
+Triumvirate, guarding the jungle around their camp with a band of deadly guerrilla 
+soldiers.  Not even the leaders of the Triumvirate knows his true identity, nor do 
+they care, as long as he continues to do his job well.  He carries a katana instead 
+of a gun, and shuns the weapons of modern war, preferring instead to eliminate his 
+opponents with razor sharp throwing knives.  He guards the fourth jungle area, and 
+BJ must locate and destroy him to complete his jungle mission.
+
+The Schwarzritter -  This guy combines mean, ugly, and deadly in a very efficient 
+package.  Ever since his childhood, when him and his family were driven from their 
+home in Russia, he's been in a permenant bad mood.  At some point in his life, he 
+made his way to Germany, and pledged his loyalty to the Nazis, taking on the role 
+of Eisenkreiger's personal body guard.  He's not the brightest, but he knows how 
+to handle a chaingun, and he's built like a tank.  He guards the Nazis' central camp, 
+and BJ will encounter him at the end of Episode 3.
+
+El Presidente - An illegitimate South American dictator, El Presidente was the one 
+who originally harbored Eisenkreiger and the Nazi refugees, and later, became a third 
+of the leadership of the Triumvirate.  He really doesn't care much about Hitler's 
+dream or the Nazi ideals, though...all he really cares about is the steady supply 
+of gold the Nazis provide in exchange for the use of his land and his private army. 
+ El Presidente is a notorious coward, and if anyone manages to infiltrate his villa, 
+they can be sure he'll send out every soldier he can find before he actually does 
+any fighting himself.  BJ must face him at the end of the fourth episode.
+
+Emmet Von Braun - A brilliant scientist from Germany, Von Braun is the brains behind 
+Operation: Lezterschutz.  Although he dislikes war and destruction, he has vowed 
+to avenge Germany's bitter defeat during the second World War.  He cares very little 
+for the actual leadership aspect of his role as one third of the Triumvirate headship, 
+and prefers to work in isolation on his various technological developments.  Rumors 
+abound of his most recent project - a deadly hovering attack machine called the "gyropanzer". 
+ Even though Von Braun dislikes fighting, he carries a rocket launcher, which he 
+used to defend himself if attacked.  BJ must face him to complete Episode 5.
+
+Wolfgang Eisenkreiger - The brave and intelligent leader of Operation: Lezterschutz, 
+Eisenkreiger is every bit the soldier that BJ is - he just happens to be fighting 
+for the other side.  It was Eisenkreiger who developed the plan to flee Germany before 
+it was too late, and he dreams of building up the strength of the Triumvirate army 
+to the point where they can exact revenge on the nations that brought about Germany's 
+defeat.  He dislikes modern "smart" weapons, and prefers to do his fighting man to 
+man instead of from a distance.  BJ will face his toughest challenge if he manages 
+to locate and confront Eisenkreiger at the end of Episode 6.  
+
+Other foes - There may be other "enemies" you encounter on your mission.  Most of 
+them can't be destroyed, so don't bother trying.  You'll know them when you see them...trust 
+me...all enemies that attack you from a distance can be destroyed.  If it looks like 
+an enemy only uses two frames of animation, it can't be killed.  Get the idea?
+
+
+Standard Weapons: 
+
+BJ has four standard weapons available in OL.  Two you begin with, the rest you'll 
+have to gain by finding weapon power-ups, either hidden or acquired from dead enemies.
+
+
+Boot Knife - BJ begins the mission with this small but useful weapon.  It may not 
+have the attacking power of firing weapons, but when used to dispatch unsuspecting 
+guards, it will not alert other enemies (unless you are seen, of course).  Keep an 
+eye open for situations where it might be useful...you never know what kind of trouble 
+you might be saving yourself.
+
+Pistol - BJ swipes this from an officer in the first episode, and then a standard 
+guard in the third.  It fires single shots, and functions just like the luger in 
+the original Wolfenstein. It's a good weapon to fall back on if your ammo is running 
+low.  BJ is usually pretty heavily outnumbered, though, so automatic weapons will 
+become important early on in each episode.
+
+Machine Gun - The Triumvirate guards carry these automatic rifles, and you'll want 
+to get your hands on one as well.  The machine gun is ideal for most combat situations, 
+as it can dispatch multiple enemies, but doesn't use up ammo too quickly.  It can 
+be used against bosses also, though you'll probably prefer a heavy machine gun in 
+those situations (assuming you can find one).
+
+Heavy Machine Gun - A large, powerful weapon, with a very high rate of fire.  It's 
+the preferred method of dealing with bosses and super enemies, assuming you can locate 
+one before such encounters.  It handles crowds better than the machine gun, but it's 
+rate of ammo usage make it less practical against smaller groups of enemies.  The 
+heavy machine gun does not appear at all in the first episode.
+
+
+Secret Weapons:
+
+These weapons are almost always hidden, so you'll have to search hard to locate them. 
+ It will be worth it if you find them, though, as each has special characteristics 
+that make them especially useful when dealing with the opposition.  There are three 
+of them in all, and each has it's own unique kind of ammunition.
+
+Throwing Knife - This weapon can be used to attack silently, like the standard knife, 
+but you throw it instead of stabbing with it.  It's great for dispatching enemies 
+from a distance without alerting other foes.  Once you've thrown a knife, though, 
+it's gone...you can't retrieve them if you miss.  You can replenish your ammo supply 
+by picking up additional knives.  Keep in mind that the knife can't be thrown through 
+objects you can't walk through, so make sure there's nothing in the way before throwing 
+one.
+
+**NOTE:  The knife can be lethal when used properly.  Don't underestimate the destructive 
+power of an accurately thrown knife.  Use them wisely!
+
+Cobra Gun - A prototype anti-tank type rifle, complete with a laser sight.  This 
+weapon packs a punch, and will destroy most standard guards with a single shot, sometimes 
+even certain super enemies.  It's rate of fire is about the same as the pistol, so 
+it's more useful for long range sniping of single enemies than for crowd control. 
+ It's a handy weapon to hang on to for encounters with jeeps, incendiary soldiers, 
+and even bosses, so don't waste your bullets on standard guards.  Requires armor 
+piercing bullets to replenish your ammo supply.
+
+Napalm Launcher - This ultra-powerful weapon of mass destruction launches flaming 
+balls of burning gas that explode on impact.  Any enemy caught in the blast radius 
+will take damage, usually in a critical way.  It can do the same to BJ if he's too 
+close to the blast too, so look out.  This weapon is best used in large open areas, 
+or places where you're sure the projectile will travel some distance from you before 
+it explodes.  An excellent tool for destroying super enemies and bosses.  Refuel 
+the launcher by collecting the red gas cans you may find lying around.
+
+**NOTE:  Most of the time, if you score a direct hit on an enemy with the napalm 
+launcher, he will absorb most of the impact from the blast (though it will still 
+harm you).  To affect more enemies with the blast radius, try striking walls or objects 
+near the enemies rather than the enemies themselves.  Also, be careful firing will 
+standing in a doorway.  If an enemy is just to the left or the right of the door 
+on the other side, the projectile will explode instantly, and probably kill you in 
+the process.
+
+
+Treasure:
+
+I don't really feel like talking too much about the treasure.  It's the same as with 
+all other Wolfenstein games, it just looks a little different. In a nutshell, here 
+are the treasure types, and what each is worth, just in case you are new to this 
+still:
+
+cross - 100 points
+
+chalice - 500 points
+
+treasure chest - 1000 points
+
+crown - 5000 points
+
+
+Health and Ammo:
+
+Another section I don't want to waste words on. Sorry, but this is the boring part, 
+quoting numbers and values, etc.  Here are the basic pickups and what you get from 
+them, though:
+
+ammo clip - 8 bullets for a fresh one, 4 from a dead enemy
+
+special ammo (includes knife) - 4 rounds
+
+green and red keys - opens doors...what else?
+
+small medkit - +5 health
+
+bowl of food - +10 health
+
+first aid kit - +25 health
+
+extra life - extra life and full health + bullet bonus
+
+
+Missions and Hints:
+
+This is a summary of what to expect from each level, as well as a description of 
+what each episode is supposed to be.  The text at the end of each episode will sort 
+of give you an idea of what the next episode will be all about, but in case there's 
+any confusion, these descriptions should help you out.  Note that there may be some 
+plot spoilers in the level descriptions, so don't read ahead any further than you're 
+willing to have things revealed to you. :)
+
+
+EPISODE 1 : "Deep Trouble"
+
+BJ begins his mission by infiltrating the "Wolfram", a giant German u-boat.  The 
+mission begins right after BJ has knocked out an officer, and tried to steal his 
+uniform, alerting several guards in the outside halls.  You will face a lot of German 
+officers right off the bat, so don't expect a warm (or easy) welcome.  Most of the 
+sub levels involve cramped quarters and tight passages, so be careful about where 
+you start up trouble.  Beware also of the occasional incendiary soldier - they will 
+be the toughest non-boss enemies you face in this area, and are dangerous in narrow 
+passages.  In order to complete the mission, you must defeat La Cucaracha and locate 
+the heavily guarded map room that will reveal the location of the Triumvirate camp. 
+ Good luck!
+
+
+EPISODE 2 - "Jungle Fever"
+
+After discovering the location of the Triumvirate camp using the maps on board the 
+"Wolfram", BJ hides in one of the cargo containers on the sub and stays hidden for 
+the rest of the trip.  Unable to locate BJ, the Nazis finish the voyage to South 
+America, and unload the cargo crates from the sub, including the one BJ is stashed 
+inside.  Unfortunately, the crate doesn't go very far before one of the guards hears 
+a noise inside, and makes the mistake of checking it out.  BJ eliminates the guard, 
+and prepares to make the dangerous journey into the jungle.  This episode is crawling 
+with guerrilla soldiers, who attack quickly and silently.  Much of the action takes 
+place outdoors, though you will run across the occasional enemy camp or isolated 
+shack.  You will face jeeps for the first time in this episode, so be prepared to 
+take cover if you're spotted by one.  The goal of this mission is to make it through 
+the jungle in search of the enemy camp, but you won't be able to do so without facing 
+the leader of the guerrilla solders, the assassain, Hon Fu.  Defeating him will end 
+the episode (though probably not in the way you were expecting).
+
+
+EPISODE 3 - "Camp Deadly"
+
+After defeating Hon Fu, BJ is knocked out from behind by a guerrilla soldier he missed 
+during the commotion.  The good news is he makes it to the heart of the Triumvirate 
+camp.  The bad news is he's taken there as a prisoner, and tossed in a dirty old 
+cell to await execution (sound familiar?).  However, the cells are also used as dog 
+pens, and days after BJ's capture, a hapless guard checking on the dogs mistakenly 
+opens BJ's cell, and is immediately dispatched by the desperate prisoner.  Grabbing 
+the guard's pistol and knife, BJ prepares for his most dangerous mission yet: make 
+a mess of the enemy camp, and escape with his life.  The various buildings of the 
+camp are crawling with enemies, and making it through will easily be the toughest 
+challenge BJ faces to this point.  Should he make it to the final area, he will have 
+to contend with the Schwarzritter, Wolfgang Eisenkreiger's giant of a bodyguard, 
+if he wants to acquire the gold key and his freedom.  It won't be an easy battle, 
+though...the final area is guarded by some of the tougher enemies BJ will face during 
+his mission.
+
+
+MISSION 4 - "Honcho's Villa"
+
+Using the information he acquired on board the "Wolfram", BJ makes his way to his 
+next target: the heavily guarded villa of the notorious El Presidente.  Destroying 
+the dastardly dictator will strike a serious blow to the Trimvirate by preventing 
+the recruiting of more South American soldiers for the Triumvirate army, and eliminating 
+their ability to deal "legitimately" with local government and suppliers.  However, 
+the villa is more like a fortress than a luxurious mansion, and BJ will find himself 
+facing some massive opposition from El Presidente's forces.  BJ will encounter a 
+large number of the Presidente's deadly guerilla soldiers, so he'll need to rely 
+on his ability to spot enemies early on rather than just listening for them, or he 
+may experience an untimely death.  The Presidente is a notorious coward, and he's 
+sure to have a few of his cronies helping him out if he's forced to fight.  Destroying 
+him will liberate the oppressed people of the region, but it's just the beginning 
+of the most important part of BJ's assignment!
+
+
+MISSION 5 - "No Pain, No Gain"
+
+In a desperate effort to stop the "gyropanzer" project before it can be completed, 
+BJ makes his way to a once abandoned monastery, which now serves as a laboratory 
+and fortified stronghold of the Triumvirate genius, Emmet Von Braun.  Von Braun isn't 
+stupid by any stretch, and he's got more than his share of well armed guards patrolling 
+the gloomy passages of the ancient fortress.  To make matters worse, BJ will have 
+his first encounter with the deadly "enforcer droid", Von Braun's mechanized and 
+heavily armored watch dogs.  Destroying Von Braun is critical...it will not only 
+eliminate all but one of the Triumvirate leaders, but it will give BJ an opportunity 
+to seek out and destroy all of Von Braun's notes and plans for the "gyropanzer". 
+ Will BJ accomplish his mission before it's too late?  There's only one way to find 
+out...
+
+MISSION 6 - "Showdown!"
+
+BJ's worst fears are realized as Von Braun's notes reveal that a prototype of the 
+"gyropanzer" has already been completed, and that it has been moved to a nearby airfield 
+in preparation for it's first attack flight!  BJ must make his way to the airfield 
+and destroy the "gyropanzer" before it can test it's destructive powers on the world! 
+ Sound easy?  It's anything but!  A horde of the Triumvirate's most powerful opposition 
+has assembled at the airfield and surrounding jungle, and only the strongest could 
+hope to penetrate these deadly defenses.  Should BJ make it to the "gyropanzer", 
+it will take some extremely heavy firepower to bring down the armored attack vehicle 
+before it makes worm food out of him!  But what of the Triumvirate's third member, 
+Wolfgang Eisenkreiger?  Will BJ locate the mastermind behind "Operation: Letzterschutz" 
+before he can escape and begin a new scheme to revive the Nazi war machine?  We can 
+only hope...
+
+
+A NOTE ABOUT SECRET LEVELS:
+
+In a lot of mods, secret levels are pretty much just an enjoyable little sidestop 
+for folks who spend a lot of time exploring their environment and looking for secrets. 
+ However, in O:L, they can have a profound affect on how difficult each episode actually 
+winds up being.  There are several cool "super weapons" in O:L, waiting to be found 
+(see the "weapons" section above), but they  won't be just handed out to you.  Throughout 
+most of the game, the secret weapons can be found only at the secret levels, and 
+if you miss them once, you won't get another chance to get them in that episode. 
+ Want a little hint?  Okay...the secret levels are ALWAYS found in the first level 
+of each episode.  Be thorough in your exploration, and examine everything that looks 
+like it might be pushable.  If you come across a locked door that you can't open 
+with a key, and you're sure it's a secret entrance, try having someone open it for 
+you...sometimes it's easier said than done!  The bottom line is that if you want 
+to have a definite edge, FIND THE SECRET LEVELS!  The rewards are ALWAYS worth it... 
+:)
+
+
+
+Well, that's about it!  There's really nothing more to cover, and playing the game 
+is more fun than reading this manual anyway, right?  For questions or comments about 
+the game, send an email to:
+
+dhw_majik_monkee@yahoo.com
+
+We welcome all comments, both good and bad.  Of course, I'll print out the bad ones, 
+shred them, and use them as confetti at my next big party, while framing the good 
+ones and hanging them over the mantle.  If you liked OL, and want to check out some 
+of my other projects, look for the following:
+
+"Halls of Stonehenge"
+"HOS: Special Edition"
+"Operation: Hundscheisse"
+
+Well, that's all, folks!  Have fun!!
+
+
+OL KREDITS:
+
+BIG fat thanks to the following people who have made OL a reality.   My apologies 
+if I've forgotten anyone or anything...please don't sue me!
+
+
+Concept: 
+
+Majik Monkee
+
+
+Graphics:  
+
+- Majik Monkee  (bosses, some of the enemies sprites and scenery, title screens)
+
+- Mr Wolf (guard, SS, guerilla soldier, jeep, flame soldier, weapons)
+- WSJ  (many walls and sprites taken from Operation: Heimzahlung*)
+- some graphics taken from the Lost Episodes
+- some of the graphics from the game were taken from the ROTT original artwork specs 
+from the 3D Realms website (mainly the monastery textures and the animated torch)
+
+
+*  Also, WSJ informs me that some of the sprites I requested from Heimzahlung originated 
+in Spear Resurrection.  I got AReyeP's permission to use sprites from the game, but 
+I'm sorry...I don't know which came from which, but special thanks to both of you!
+
+
+**Special thanks to the graphics team for all your fantastic contributions, and to 
+Mr Wolf for fulfilling my ever growing list of requests.
+
+
+Sound: 
+
+- Majik Monkee  (some German voices)
+- Mr Wolf (South American enemy voices)
+- WSJ (pistol sounds)
+- some other sounds taken from original Wolf3D
+- a couple of the sounds were taken from Half Life (special thanks to WSJ for getting 
+and modifying those for me) 
+
+
+Music:  
+
+- Adam Biser (for converting music to useable Wolf format)
+- Majik Monkee (selecting and inserting tunes)
+- some original scores from Wolf3D by ID Software
+- other music taken from Final Fantasy 7 by Squaresoft
+
+
+Level Design: 
+
+- Majik Monkee (E1: 1,2,3,4  E2: 1,2,3,4,0  E3: 1,2,4)
+- ack (E1: 0  E3: 3,0  E4: 1,2,3,4,0  E5: 1,2,3,4,0  E6: 2,3,4)
+- Arielus (E6: 1,0)
+
+**Special thanks to the level design team for coming through with such great maps 
+on very little notice!
+
+
+Coding Requests:
+
+- Adam Biser (enemy coding, various other modifictions)
+- WSJ (weapon coding and various other modifications)
+
+**Special thanks to the coders for enduring over a dozen different request updates 
+from me throughout the O:L creative process...you guys are great!
+
+
+Editing Tools:
+
+- special thanks to Adam Biser for his WDC program, which I used for the first time 
+to make this mod (Floedit was getting too buggy for me). 
+
+
+Caffeine:  
+
+- "Convenience Barn" 44 oz Diet Pepsis
+- my job, for that crappy but free coffee I live off of
+
+Special thanks again to everyone for all their hard work and contributions, and to 
+the Diehard Wolfers community for some valuable (and otherwise) feedback.  If I've 
+forgotten anyone, let me know, and I'll stick your name in here in an updated release. 
+ Peace!
+
+
+~Majik Monkee~
+

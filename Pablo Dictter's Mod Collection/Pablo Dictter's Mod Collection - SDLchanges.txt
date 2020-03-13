@@ -1,0 +1,42 @@
+Pablo Dictter Mapset Collection (wolf3d mod)
+original DOS releases:
+
+Chemical Reaction        05/24/01   PDsod1.zip     SoD Floor 1 to 4
+The 19th Floor           05/20/01   PDsod2.zip     SoD Floor 4, 19
+The Entrance             05/23/01   PDsod3.zip     SoD Floor 4
+From Schabb's Hand       06/13/01   PDwolf1.zip    EP2 Floor 1 to 3 + secret
+Escape! V1.3             10/19/01   PDwolf2.zip    EP1 Floor 1 to 9 + secret
+Fifth                    08/15/01   PDwolf3.zip    EP3 Floor 1 to 5
+The Last Floor           08/30/01   PDwolf4.zip    EP2 Floor 1
+The SS Gonna Get You     11/21/01   PDwolf5.zip    EP1 Floor 1 to 4 + secret  
+
+Note: requires wolf3d (.wl6) VGA files to run
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Customized SDL and DOS EXEs:
+
+Episode names changed
+Ceiling colors changed
+Music changed
+Secret level return floors changed
+Final ratios adjusted
+Spear sprites, textures and sounds added
+Episode ratios include final level ratios in episodes 1,2,4,and 5
+E1M1 secret ratio adjusted to use possible rather than total pushwalls
+--mapnames parameter shows known map names on Get Psyched screen 
+
+Minor mapping bugs fixed on E1M1, E1M3, E1M4, E3M10, E3M6
+
+
+Many thanks to WolfForever for the project concept, invaluable input, and beta testing!
+
+
+

@@ -1,0 +1,15 @@
+The Inner Circle: SDL Version
+
+The original 2 level Spear demo set was made by Philipp Luy (NeXuS). 
+
+
+Running in DOS hints:
+
+The Dos exe has been included too but if this is used then delete the supplied config.sdm 
+file before playing. 
+
+Also, saved games made with the Dos version are not compatible with those made with 
+SDL.
+
+
+

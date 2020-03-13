@@ -1,0 +1,38 @@
+NITEMARE: Hugo's Revenge
+an ECWolf mod by Sam Feichter (AstroCreep)
+based off of NITEMARE 3D by David P. Gray
+
+THE STORY (somewhat)
+
+Once again, the evil Dr. Hammerstein has kidnapped
+your sweet Penelope! This time, he is ready for you!
+Enter his new mansion of ghouls and twisted experiments,
+and rescue your love!
+
+CREDITS
+
+NITEMARE 3D by David P. Gray
+Wolfenstein 3D by id Software
+ECWolf by Blzut3
+
+Special thanks to Adam Biser for his ripping utility and IMF converter
+Also thanks to Sigma64 for helping on switches and stuff
+Mook sprites and sounds from Nitemare 3D Doom mod by MetroidJunkie
+all graphics and stuff originally by David P. Gray and modified by AstroCreep
+Scripting and mapping by AstroCreep
+
+
+HINTS:
+
+EXPLORE EVERYTHING!  Some things are behind pushwalls.  Some things
+are behind doors that can be only opened by switches.  Sometimes, walls
+and objects that can be destroyed are blocking the path.  Just because
+it seems like you're stuck, doesn't mean there isn't a way out!  It 
+may be behind a switch or a touchplate....
+
+SWITCH WEAPONS OFTEN!  Conserve your ammunition by using the lower
+powered weapons on the weaker enemies!  You don't wanna face off against
+Dracula with a tiny little Plasma Pistol!
+
+USE THE AUTOMAP!!!!  It's easy to get lost!  These maps are huge!!!
+

@@ -1,0 +1,379 @@
+December 2006 - 2 years since the release of End of Destiny ... time for the editor's 
+version don't you think? :)
+
+PLEASE NOTE: These instructions will probably not answer all your questions regards 
+editing End of Destiny. I've tried to include as much as possible, but for anything 
+I've overlooked, please just play with the levels in Mapedit and you'll soon pick 
+things up.
+
+Editing End of Destiny with Mapedit is much the same as editing any other Wolf game, 
+although there are a few new things you should be aware of. If you've edited Spear 
+Resurrection before, then it is very similar, although some of the new features added 
+to End of Destiny (such as floor and ceiling textures and switch walls etc) require 
+you to know a few additional things.
+
+I'll try to keep these instructions brief and simple. If there's anything you're 
+still not totally sure of, play around with the game using Mapedit (required files 
+included with the End of Destiny editor's version) and try different things - you'll 
+soon pick it up. And for those that may ask whether you can use Floedit to make new 
+maps, well, I've never used Floedit for map editing so I can't answer that one I'm 
+afraid. Please bear in mind the objdata.def and mapdata.def files containing all 
+the objects and map features are made for Mapedit, so if you're hellbent on using 
+another editor then you'll have to figure things out for yourself.
+
+Please note that this is the "editor's version" of EoD, and although this version 
+of the game has been tested by Andy_Nonymous for us (many thanks to him for doing 
+this), it wasn't given the same rigorous testing as the version originally released 
+two years ago. There is a glitch I noticed with the menu screen, but MCS has gone 
+to great lengths to iron out the errors that were found in the initial release of 
+EoD two years ago.
+
+The first thing you may notice after opening the maps is that the top row of each 
+map (co-ords 0,0 to 63,0) are never used in the map itself. This row is reserved 
+for special data, and in this case it's the 16 co-ords (0,0 - 15,0) at the top left 
+of the map which effect EoD. The co-ords 16,0 - 63,0 are not used. In case you're 
+confused, co-ord 0,0 means the upper left hand corner of the map, 0,1 means one square 
+to the right, and so on. To play things safe, your level designs will have to be 
+64 x 63 instead of the usual 64 x 64 (I repeat once more that the top row of co-ords 
+in a map should not be used as it may lead to undesirable results. Of course if for 
+some odd reason you're into making levels with intentional glitches then try it if 
+you so wish).
+
+There are a number of extra textures included in the vswap file that are marked with 
+an asterisk - these can be used in walls, but cannot be used on pushwalls, or placed 
+adjacent to pushwalls or doors, otherwise the wrong texture will be displayed in 
+game. There are also a number of extra textures that cannot be used as walls at all 
+- these are reserved for use with floors or ceilings. You'll see them included in 
+the mapdata.def file of Mapedit, and they show up in the Mapedit menu in map mode 
+(as opposed to object mode) - ceiling textures are indicated in the list with a "c", 
+whilst floor textures have an "f". You can use designated floor textures as ceiling 
+textures and vice versa if you wish. If none of this is making sense yet, then I 
+suggest you open Mapedit and then use the down arrow key to scroll down the menu 
+(where wall types are displayed) until you get past all the walls and floor codes, 
+and then you'll see the ceiling and floor types available.
+
+NOTE: You can't use these floor and ceiling textures as walls by popping them into 
+a level design - it won't work! They are only to be used in certain spots among those 
+16 special map co-ords (0,0 - 15,0). You can however use most wall textures as ceiling 
+or floor textures if you so wish, although they may not look the best.
+
+Here's how to use those 16 special co-ords using MCS' "EoD FlexDesign system (TM)" 
+:)  Once again, study the existing EoD maps as you read this to get a better understanding.
+
+
+Co-ordinate 0,0 - PRIMARY FLOOR TEXTURE:
+At this position you'll put the code for the floor texture to use in the "primary" 
+area of the level. "Primary" means "non-warped" - ie: what the floor texture looks 
+like when you start the level. When you jump into a teleporter (Artefact of Displacement) 
+you "warp" to another location, and the floor texture (and ceiling texture) can then 
+change.
+
+Co-ordinate 1,0 - PRIMARY CEILING TEXTURE:
+Same as for co-ord 0,0, but read "ceiling" instead of "floor". Same rules apply.
+
+
+Co-ordinate 2,0 - SECONDARY FLOOR TEXTURE:
+This co-ord needs the code for the floor texture to use in "secondary" or "warped" 
+areas, ie: what the floor texture looks like after you first jump into a teleporter 
+in a level. If the level doesn't contain any teleporter, this field is ignored by 
+the game engine, so you can put whatever you like here if you don't plan on using 
+teleporters.
+
+Co-ordinate 3,0 - SECONDARY CEILING TEXTURE:
+Same as for co-ord 2,0, but read "ceiling" instead of "floor". Same rules apply.
+
+
+Co-ordinates 3,0 - 7,0 REDUNDANT (Previously used for weather effects - this was 
+later hard coded into the game for the levels where there are outdoors areas to allow 
+for gradual weather transitions as opposed to sudden changes - apologies for this).
+
+
+Co-ordinate 8,0 - PRIMARY SOLID FLOOR COLOUR:
+If no floor textures are used (ie: whilst playing the game you turn off in game floor 
+and ceiling textures using the Backspace-T option) then you use this co-ord to select 
+the solid floor colour that will be displayed in "primary" areas. Use the value corresponding 
+to the palette code of the desired floor colour (or just try anything here and see 
+what colour you get if you don't like looking up palette codes :)
+
+Co-ordinate 9,0 - SECONDARY SOLID FLOOR COLOUR:
+Same as co-ord 8,0, but for secondary ("warped") areas.
+
+Co-ordinate 10,0 - PRIMARY SOLID CEILING COLOUR:
+Same as co-ord 8,0, but for primary ceiling areas.
+
+Co-ordinate 11,0 - SECONDARY SOLID CEILING COLOUR:
+Same as co-ord 8,0, but for secondary ceiling areas.
+
+Co-ordinates 12,0 - 15,0  SHADING:
+The textures you insert here effect the shading in the level, from how dark it is 
+to the colour of shading. Play around with these and you'll soon see what effects 
+you can get.
+
+
+
+SWITCHES:
+
+These are used for controlling/activating fire shooting walls and remote pushwalls 
+in EoD. You can only have 2 fireshooting walls (active or inactive - both count) 
+and 2 remote pushwalls per level. You can however have more than one switch controlling 
+each of these things, but bear in mind that once a remote pushwall has been "activated", 
+it is no longer in it's original position, and so the switch (or switches) controlling 
+it will have no effect (there are special exceptions to this - see levels 15 and 
+16 for examples of how remote pushwalls can be used more than once. There are other 
+levels that use similar features - use your imagination and you can do quite a bit 
+with the remote pushwalls).
+
+In the Object layer in Mapedit you will see switch objects - they are named:
+Sw1 Firewal Overlay
+Sw2 Firewal Overlay
+Sw1 Pushwal Overlay
+Sw2 Pushwal Overlay
+
+You must place these "objects" on a floor space (as Mapedit won't allow you to place 
+it on top of a wall), and then place the "Switch On" or "Switch Off" wall texture 
+over the top of the object to make it an active switch. Placing some other texture 
+over the switch object will likely cause game crashes or some other undesirable effect 
+(but like a "wet paint" sign, I wonder how many will still try it anyway? :)
+
+Each switch type controls the actions of certain other "objects" you'll see listed 
+in the list of available objects in Mapedit. These objects are:
+
+Shootwal1 Inactve/E
+Shootwal1 Inactve/N
+Shootwal1 Inactve/W
+Shootwal1 Inactve/S
+Shootwall1 Active/E
+Shootwall1 Active/N
+Shootwall1 Active/W
+Shootwall1 Active/S
+Shootwal2 Inactve/E
+Shootwal2 Inactve/N
+Shootwal2 Inactve/W
+Shootwal2 Inactve/S
+Shootwall2 Active/E
+Shootwall2 Active/N
+Shootwall2 Active/W
+Shootwall2 Active/S
+Pushwall 1 East
+Pushwall 1 North
+Pushwall 1 West
+Pushwall 1 South
+Pushwall 2 East
+Pushwall 2 North
+Pushwall 2 West
+Pushwall 2 South
+
+As with the switch objects, you must place these objects on an empty floor space, 
+and then place the relevant wall texture on top of it. In the case of the Shootwalls, 
+you MUST use the "*shooting wall" texture, otherwise problems may occur. In the case 
+of the pushwalls, use any wall texture of your choice not marked with an asterisk.
+
+
+Now, say you want to make a fire shooting wall that shoots south along a passage. 
+You want the firewall shooting fireballs as soon as the player starts the level. 
+To achieve this, just place either the "Shootwall1 Active/S" or "Shootwall2 Active/S" 
+object where you want the firewall, and then place the "*shooting wall" texture over 
+the top of it. Now you can place a switch object somewhere to turn off the fireballs. 
+Just place the "Sw1 Firewal Overlay" (if you're using "Shootwall1 Active/S") or "Sw2 
+Firewal Overlay" (if you're using "Shootwall2 Active/S") in the location where you 
+want the switch to be. Then place the "Switch On" or "Switch Off" texture ("Switch 
+On" would be the aesthetic choice as the firewall is switched on) on top of the switch 
+object. Please note that it's not necessary to place a switch to turn it off, but 
+I feel that in most cases doing so adds a certain "something" to the depth of the 
+gameplay.
+
+Say you want an inactive firewall that shoots west. Suppose you've already assigned 
+one of the "Shootwall1" objects somewhere else, this leaves you with only the "Shootwall2" 
+objects. You'd use "Shootwal2 Inactve/W", and place the "*shooting wall" texture 
+over the top of it. You'd then place a switch somewhere to turn on the fireballs. 
+You'd have to place the "Sw2 Firewal Overlay" object where you want the switch to 
+be, and then place the "Switch On" or "Switch Off" texture over the top of it. If 
+you want a second switch to activate/deactivate the firewall, you'd place a second 
+"Sw2 Firewal Overlay" object where you want the second switch located, and of course 
+put the "Switch On" or "Switch Off" texture over the top of it.
+
+Repeatedly throwing switches linked to a fire shooting wall will toggle the fireballs 
+on and off. Please bear in mind that each fireball counts as an active "enemy" and 
+therefore, if you have too many enemies in your level (note that animated objects 
+such as breakable columns, flickering lights and fires count towards the number of 
+"active" objects) then you may find the wall only produces fireballs intermittently. 
+MCS coded the game so that when the maximum number of active objects allowed is reached, 
+no more such objects can be created (as opposed to the game just bombing out with 
+an error message). As a result you can make fire shooting walls that shoot less frequently 
+if you play with such options, however this is bordering on unpredictable behaviour 
+so be careful if you try this kind of thing.
+
+Now for the remote pushwalls. They work the same as a normal pushwall, except you 
+activate them via a wall switch rather than "pushing" on them face on. Say you want 
+a remote pushwall that moves south to reveal a secret area. You'd place "Pushwall 
+1 South" on a floor space where you want the pushwall to be located, and then put 
+the wall texture of your choice on top of it. You'd then put the "Sw1 Pushwal Overlay" 
+object on a floor space where you want the switch located, and then put the "Switch 
+On" or "Switch Off" texture on top of it. Throwing this switch will now activate 
+the pushwall. Of course once the pushwall has been activated the wall switch will 
+now be useless (unless you try tricks like used in levels 15 and 16 and some other 
+levels in the game for example).
+
+Please bear in mind that your remote pushwall may not work as intended if enemies 
+can block it!!! For this reason it's a wise idea to place "blocking" codes strategically 
+so that enemies cannot move into the path of a pushwall. Pushwalls will however move 
+through fireballs, so this does not present a problem (and can actually make for 
+some interesting scenarios whereby you can make remote pushwalls block off fireballs 
+etc).
+
+NOTE: In level 35 there was a special "lighting" feature that MCS coded in so that 
+a player could switch the blue ceiling lights "on" or "off" and thus effect the shading 
+in the level. The "Sw2 Lightsw Overlay" in the object listing is used for this with 
+a "Switch On" or "Switch Off" wall texture placed over it. This was just a novelty 
+thing we toyed with and didn't feature much in the game except for this level. Play 
+level 35 to see how it works. It only works for this level as I recall. However there 
+is a second "Blue Ceiling Light" object in the object listing that was used in this 
+level so it may work wherever you use this light combined with the light switch - 
+to be honest I can't recall, so just play with the feature yourself to see how it 
+works.
+
+
+BLOCKING CODES:
+
+Another new feature in EoD was of course the "blocking codes", which is basically 
+an object that an enemy cannot pass through, but the player can. I found these to 
+be one of the best features in the game! This "object" can be found in the object 
+listing in Mapedit. It is invisible in game and does NOT count towards the static 
+object count, so you can use them freely. Place one on the floor and then put a door 
+on top of it to stop enemies opening a particular door - great if you don't want 
+enemies opening a locked door for a player! Place them around a teleporter to stop 
+enemies using the teleporter, along areas where there are fireballs to stop enemies 
+frying themselves, or around mines to stop enemies walking into them (or to guide 
+them into a mine for a nice effect :)  Create a "pathway" that forces enemies to 
+follow a certain path to get towards you - it helps the simple AI of the game to 
+send enemies along a more intelligent path that down some dead end passage to get 
+closer to the player. Check the existing EoD levels to see how it's been used - level 
+31 uses them heavily!
+
+
+SPAWNING ENEMIES:
+
+You can spawn active guards, SS and Officers in EoD (by active we mean that the enemy 
+is actively on the hunt for the player). To do this, you need a "trigger", and a 
+corresponding "target". In the object listing you'll see a number of "spawn" objects:
+
+
+Spawn grd trig1
+Spawn grd targ1
+Spawn grd trig2
+Spawn grd targ2
+Spawn SS trig1
+Spawn SS targ1
+Spawn SS trig2
+Spawn SS targ2
+Spawn off trig1
+Spawn off targ1
+Spawn off trig2
+Spawn off targ2
+
+For example, "Spawn grd trig 1" is a trigger that you place on the floor - when the 
+player crosses it, it will spawn one guard into every location you place a "Spawn 
+grd targ 1" object. If you placed a "Spawn off trig1" trigger at a certain point, 
+then it will spawn an officer wherever you have a "Spawn off targ1" object located. 
+Say for example you have one trigger, and 12 "targets" corresponding to that trigger 
+- this means that when the player crosses that trigger, 12 enemies will be warped 
+into the level (one at each "target" location). Or, you may have 12 triggers and 
+only one corresponding target - this will mean that one enemy will be warped into 
+the level at that single target point every time the player crosses one of the corresponding 
+triggers. You can even have multiple triggers and targets. But don't overdo it!!! 
+It's good for creating the illusion that reinforcements are being sent in, and can 
+keep a player on his/her toes, but players can grow tired of it if you use it too 
+much. It can also be put to good use for triggering a certain event (see level 25 
+where a spawn SS trigger is placed in the doorway leading to the blood key - this 
+warps in an SS that opens the door to the rear of the player, resulting in Heinrich 
+Haufmann seeing the player and yelling his ominous greeting. The player has his eyes 
+on the key of course and this type of thing can be used to catch the player off guard).
+
+
+It's a wise idea to place a trigger's corresponding "target" out of line of sight 
+from the trigger itself, otherwise the player will see the enemy just appear out 
+of thin air - not a nice effect (unless you want to change the enemies into something 
+like a ghostly spectre or whatever). In fact sometimes it's nice to have the target 
+located far away from the trigger, as this can lead to active enemies roaming randomly 
+in the level and the player will not know where to expect the next enemy to appear 
+from. 
+
+Now if you want you can place 100 targets all linked to one particular trigger, and 
+you'll have 100 enemies warp into the level when the player crosses that trigger 
+(provided you have 100 free active object spots that is, otherwise it'll just fill 
+what free active spots there are available). Personally I think this is complete 
+overkill and can lead to a whole host of problems, but there's bound to be someone 
+out there who will do this!!! Just remember - balanced gameplay is your aim in making 
+a good level. Anyone can create overkill and it can turn a player off completely.
+
+
+NOTE: Triggers and targets are invisible in play, but triggers are "picked up" by 
+the player when crossed, so they only work once and are then gone. Note also that 
+enemies warped in only count towards the final kill count ratio if they have been 
+warped in - if a player doesn't cross a trigger then the extra enemies that haven't 
+participated will be not be counted towards the ratio.
+
+
+EXIT LEVEL TRIGGERS:
+
+As an alternative to having to throw the traditional elevator switch to exit a level, 
+you can use an "EndLevel trigger" to end a level. Just place the trigger where you 
+want, and the level will end when the player crosses it. See level 1 for an example.
+
+
+
+SECRETS:
+
+In EoD, pushing a pushwall does not count as finding a secret area. The player must 
+actually cross a "Secret trigger" or a "Super secret trig" to have a secret count 
+towards the ratio of secrets found at level's end. These triggers are actually invisible 
+objects that a player "picks up" as he/she walks over it, which results in a "You 
+have found a secret area" message displaying on screen (or "You have found a super 
+secret area" in the case of the "Super Secret trig") should you walk over one. It's 
+a wise idea to place such a trigger behind every pushwall you want to count as a 
+secret. This has the advantage that when the player accesses the secret area, then, 
+and only then, has he/she actually "found" the secret. It also means you can have 
+other hard to get to areas not accessed by pushwalls count as secrets - see the heavily 
+mined pathway in level 1 for an example, or the far end of the long passage where 
+fireballs travel in level 3 for another.
+
+If you have a particularly hard to find area, then you can use the "Super secret 
+trig" object instead. This gives the player something to be excited about when they 
+find one (hopefully anyway :)  Both super secret and normal secret triggers count 
+as one secret found in the end of level ratios.
+
+And of course if you have a pushwall that is so damned obvious that you feel it shouldn't 
+be a secret at all, then you can leave out the trigger.
+
+
+FINALLY:
+
+There are a few animated walls in EoD - these are the fireplace and the wall texture 
+used in the final level. These are listed in the wall map listings as "*fireplace" 
+and "*hellwall" textures. These textures "burn" the player ie: the player will slowly 
+lose health if they stand up against the wall. Please note that the two "Reserved 
+for Hellwall" textures in the wall listing are there for our references only - they 
+should not be used in game unless you want a non animated version of the hellwall 
+texture.
+
+There are also doors that open automatically as the player approaches them - these 
+are listed as "Automatic door" in the Mapedit menu (in map mode).
+
+And of course there are some new objects in EoD that weren't in Spear Resurrection 
+- rockets turrets, the clone sitting on a toilet, non rotating objects such as windows, 
+signs, spider webs, barricades etc, new artefacts and so on. These are pretty straight 
+forward, a quick study of the levels should show you plenty of examples of these 
+things so I won't go into depth about them here.
+
+I hope this covers most aspects of editing the newer features in EoD. Other than 
+all these new features the rest of the level editing is much the same as with Spear 
+Resurrection.
+
+Have fun with it, and if you should wish to make any level add ons for EoD, feel 
+free to, but please make mention that they are indeed just add ons by yourself, and 
+not "sequels" to EoD itself. If you wish to use it as a base for a new mod altogether, 
+feel free to, but once again please make mention that you have used EoD as a base 
+for your game.
+
+All the best,
+AReyeP and MCS

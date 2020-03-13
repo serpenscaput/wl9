@@ -1,0 +1,33 @@
+   
+   Another old shareware set from the early years...
+Although this set of levels has been preserved on CD-ROMs, the author's
+notes are not included. I remember once downloading these same levels from
+a (now defunct) ftp site (ftp.wustl.edu ?) with the documentation file...but 
+I didn't keep the file. :-(
+   What I do remember was that the author had an Asian name, and that he
+expressed concern about the elevators working correctly, hoping to better
+his design with a future update.
+  Anyways, I fixed his elevator problems and corrected some start positions
+(which he apparently changed to test his elevators, but forgot to move back).
+And, of course, converted to version 1.4, keeping the false door images
+intact.
+  These levels require some thought, patience, and trial & error to get 
+through them, since they are quite "puzzly". I'll leave you with a hint for
+level one: be ready to RUN through the start and if you care to get the 100% 
+bonus for kills, return MUCH later with a full chaingun. As usual, save your
+game often!
+
+Andy Nonymous  3/22/99
+
+		  
+		  archive :  WOLFMM.ZIP
+		  source  :  NEWWOLF directory of Wolf 3-D Mania !!! CD-ROM
+		  author  :  ?
+		  notes   :  Very puzzly set of maps.
+		  edits   :  Converted from v1.0 to v1.4.
+			     Corrected secret elevator.
+			     First 5 floors had misplaced start positions. 
+			     This was evident after a careful inspection of 
+			     things like elevator location, push wall 
+			     destinations, key location, etc. Changed the 
+			     start locations to more appropriate places.

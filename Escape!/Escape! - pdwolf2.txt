@@ -1,0 +1,60 @@
+================================================================
+  GENERAL INFORMATION
+================================================================
+
+Title       : Escape! V1.3
+
+Author      : Pablo Dictter
+              email - pablodictter@hotmail.com
+              web   - http://pablod.8m.com
+
+Files 	    : gamemaps.wl6 maphead.wl6 PDwolf2.txt
+
+Description : A 10 level episode for the original wolf.
+	      This project doesn't use any new graphics or
+	      crappy looking sprites, new graphics and sounds
+	      ruin the game atmosphere. True wolf fans should
+	      undestand that. = )
+	      I took out the exe file, there was no need for that.
+
+Beta Testers : Tobias Münch
+
+================================================================
+  PLAY INFORMATION
+================================================================
+
+Game		        : Wolfenstein 3D 1.4 (No Shareware, must be 1.4)
+Episode			: Episode 1
+FLoor's			: FLOOR 01 through 10
+Single Player           : Yes
+Difficulty Settings     : Yes
+New Sounds              : Nah
+New Graphics            : Nah
+New Exe			: Nah
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : Mapedit42
+Known Bugs              : None
+
+
+================================================================
+  Copyright / Permissions
+================================================================
+
+Authors MAY not use these levels as bases for additional ones.
+Authors MAY not change anything from the TXT file or from the 
+levels itself.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+========================
+ Where to get this
+========================
+
+http://www.users.globalnet.co.uk/~brlowe/
+http://pablod.8m.com

@@ -1,0 +1,9 @@
+Wolfenstein 3D Fear of Vengance final version.
+
+I have been getting some emails about fearwolf.exe is crashing, i have tested
+it under W95, W98, W98-SE, W-ME, with no problems. I have only hexedited the
+fearwolf.exe file to to add some new text. If anyone can come up with a
+plausible explanation on why it crashes you're welcome. If it crashes just run
+the game with the usual wolf3d.exe.
+
+bernt_e_hansen@yahoo.dk.

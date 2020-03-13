@@ -1,0 +1,181 @@
+Spear of Destiny, Haven Style
+This game is version: v0.1
+Distribute Freely. You may edit this game as many times you want, or even publish 
+it, but please do say where the levels game from.
+CHECK THE FEATURE LIST/ CHEAT LIST!!! [ Page 2 - 3]
+Contact Wolf3d Haven at: www.wolf3d.darkbb.com 
+========================================================================	
+	Well, well. Here we are, at the second mapset of Wolf3d Haven. For those who do 
+not know about the Super Haven Mapset, it is a 60 level mapset with SDL and Dos compatibility, 
+along with some sweet features. (Try out Tab-O on cheats!) This should not be confused 
+with Haven Mapset, a partial, earlier version of the Super Haven Mapset.
+	Anyways… Here we go again, another mapset. I’m just going to keep building levels 
+until I run out of ideas. Wolf3d has drained my creativity for a little bit, but 
+seeing the new stuff on Sod, I can see some new levels I could create.
+	This time the theme of my levels (and maybe some levels contributed by other Haven 
+Members) is to present you with only High Quality levels. (On Super Haven Mapset, 
+I kindda grabbed all of the levels I could’ve get) Also, treasures are a little scarcer, 
+meaning that finding that cross or finding that treasure chest should mean something. 
+One other theme I want to be under while making this game (along with others, of 
+course) is to bring this game and readme to a whole new level of editing and bug 
+checking. I want no bugs or typos at all when this set is said and done.
+	This time, this Sod Mapset Mod will only use SDL. Sorry, folks. 149 Guards just 
+aren’t enough. I almost blew past Ronwolf’s 699 static object limits, also. 
+	Without further ado (other than this readme), please go play the Sod, Haven Style, 
+abbreviated SHS. Thank you!
+
+
+
+Cheats/New Features:
+Not many, to keep original atmosphere but...
+
+-SDL
+-250 ammo max, 200 hp max
+-No damage flash in God Mode 
+-Start Boss Levels with only 100% Hp and a pistol with eight rounds.
+-Able to see near infinite objects at once
+-Able to hold near infinite static objects 
+-Seemingly infinite channels of sound... No need for B-A-T?
+-Do nothing and space bar sound taken off.
+-Surprise(s) to those who find the very hardest to find secrets in the mapset.
+-Ability to change view size to ultra full screen, full screen, etc.
+To activate cheats: Use the “Cheat” exe. Press Shift-Alt-Backspace at the same time.
+
+-Tab B - Pick a border color
+-Tab k - Give keys. You can pick the key you want.
+-Tab S - Allows modification of how much of a slow - motion effect you want.
+-Tab N - No Clipping - Note that when using this near the edge of a map, no clipping 
+would sometimes not work. 
+-Tab P - Take screenshot - Screenshot will appear in the same folder with the exe.
+
+-Tab - Show HP/ammo, etc when in ultra full screen
+-Tab G - God Mode - Press it again for God Mode no damage flash. Note that actually 
+both modes have no damage flash.
+-Tab D - FPS Counter
+-Tab W - Warp Level - Warp to any level on the episode.
+-Tab E - Instant Level Finish
+-Tab Q - Instant Exit Game - Instantly exits the game without warning or saving.
+
+-Tab X - "Extra Stuff"
+-Tab V - Extra VBLs - Want to lag? Put down more VBLs...Other than that, it doesn't 
+do much.
+-Tab C - Shows statistics of the current level...like the number enemies/static objects 
+in the level.
+-Tab I - Gives free weapons/ammo/hp/lives/score
+-Tab O - Shows map of the level. It also shows where the enemies roughly are in the 
+level as well. Great for levels with lots of secrets. The one the left hand side 
+of the map shown, the bright yellow squares are where the enemies are. A blob of 
+yellow means there’s a lot of enemies in that one area. A purple block on the map 
+means a push-wall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Level List:
+E1L1: First Sight – Dark_wizzie
+E1L2: 1-800 Mutants – Dark_wizzie – Under Construction
+E1L3: Spear Worship – Dark_wizzie
+E1L4: The Night Room – Dark_wizzie
+E1L5: Zealot Temple – Dark_wizzie
+E1L6:
+E1L7:
+E1L8:
+E1L9:
+E1L10: The Tunnels – Dark_wizzie
+E1L11:
+E1L12:
+E1L13: Mutant grotto – Dark_wizzie
+E1L14:
+E1L15:
+E1L16: Faith in Science – Dark_wizzie
+E1L17: Ramparts – Dark_wizzie
+E1L18: Omniscient – Dark_wizzie – [Very Difficult]
+E1L19: Banhammer!!! – Dark_wizze – [Very Strange]
+E1L20: Marchin’ Madness – Dark_wizzie – Under Construction
+E1L21: Final Cessation – Dark_wizzie – Under Construction
+
+Top contributors:
+Dark_wizzie (10 levels)
+
+
+
+
+Difficulty:
+	The game gets more difficult (in general) as you progress through the levels. 
+Can I Play, Daddy?
+Easiest, obviously. Anyone with a little bit of skill should be able to beat this 
+game on this difficulty. Also known as the sissy difficulty level. 
+
+Don’t Hurt Me!
+This difficulty is for those who want the game to be more difficult without having 
+more guards. Running around going berserk won’t be enough to win anymore.
+
+Bring em’ On!
+Now it starts to get difficult. And when I say difficult, I mean difficult. This 
+difficulty is for those who want a challenge, yet don’t want a nightmare scenario 
+of having to find every secret for ammo.
+
+I am Death Incarnate
+Only for those who have too much free time on their hands, and want to blast it all 
+away. In this difficulty level you will die many times. Push walls are sometimes 
+a must in order to survive the level. A knife is required to beat the game on a few 
+specific levels. I won’t pay for any psycho-counseling required after you try to 
+beat level 18. I just won’t. Of course, do not forget to save, save, save in this 
+difficulty level. Sometimes I save after every guard I kill. I assure you, this game 
+can be beat on this difficulty. The question is whether you are ninja enough to beat 
+it. :)
+Until next time, everyone! Auf Wiedersehen!
+
+Compilation Notes:
+This mapset is archived in 7zip with the highest archive compression, for compatibility 
+and space reasons. 7zip is supported by WinRar.
+V0.1 Level 3 done.
+V0.09 Level 4 done. Level 18 glitch fixed, and made easier to beat on easiest difficulty 
+mode. Level 19 made even more obvious to finish.
+V0.085 Level 19 edited. Made more obvious to finish.
+V0.08 Level 19 done. Level 17 edited.
+V0.07 Level 16 done.
+V0.0655 Level 1 Edited. One odd wall texture fixed. Deaf guard errors fixed. Level 
+18 changed. It is now more difficult to beat it, but just barely possible to beat.
+
+V0.065 has Spear room turned into 3 blocks length.  Level 17 ammo rechecked.  Level 
+18 ammo/ health rechecked up till’ last room.
+V0.6 Level 17 done.
+V0.05 Level 18 done. Archived in 7zip.
+V0.04 Level 13 done. Readme included.
+V0.035 Level 10 done. Bug checked.
+V0.03 Level 10 done.
+V0.02 Level 5 done.
+V0.015 Level 1 re-edited. Less ghosts, etc. SDL incorporated.
+V0.01 Level 1 done.
+
+
+
+
+
+
+
+
+E1L1: 81 Bosses
+E1L13: 943 Static Objects, 2764 Ammo
+E1L18: 1339 Objects, 115 Direction Marks, 150 Extra Guards on Medium, Total: 509 
+Enemies
+E1L20: 229 Guards on Easiest, 127 Extra Guards on Hardest, 205 Doors, 54 Secret Doors
+
+
+

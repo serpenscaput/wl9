@@ -1,0 +1,58 @@
+Astrostein Demo
+
+Game type:  Wolfenstein 3D (Registered version)
+Episode, Level #:  Episode 1, Maps 1-3.
+Single player:  Yes
+Difficulty settings:  1-3.
+New Sounds:  Yes
+New Graphics:  Yes
+New Music:  No
+
+*Construction*
+
+Base:  New levels from scratch (based on Macintosh version)
+Editor(s) used:  MapEdit8.3, Wolfedit, Wolfsnd, and WaveStudio
+Build time:  Six months for Mac version.  One month to convert to PC.
+Known bugs:  Occasional crash on the third level after you die.
+Level designers:  Laz Rojas (Mac Version).  Bruce Ryder (PC Version).
+Sound:  Laz Rojas (Mac).  Bruce Ryder (PC).
+Graphics:  Laz Rojas (Mac).  Bruce Ryder (PC).
+
+*Installation*
+
+You should have unzipped the following files from the archive:
+
+        ASTRO.DOC  <----This file.
+        ASTROIN.BAT    \____
+        ASTROOUT.BAT   /    The install and uninstall files.
+        VSWAP.AST     <----The new Astrostein Graphics and Sounds.
+        GAMEMAPS.AST  <----The Astrostein game maps.
+        MAPHEAD.AST   <----The modified maphead file.
+
+Just copy these files to a working Wolf 3-D registered directory and type
+ASTROIN to install Astrostein and ASTROOUT to restore the original graphics.
+
+*Order Info*
+
+If you enjoyed playing the first three levels and would like to purchase the 
+complete 30 level version, send $15.00 and the following info to:
+
+WolfAddict Software
+RR#1 Box 80-5
+Greene, NY  13778-9630
+
+Your name (First and Last)
+Your address (Street, City, State, and Zip Code)
+Your email address (if you want the complete scenario shipped electronically)
+
+If you send a check or money order make it payable to WolfAddict Software.  Cash
+
+gladly accepted for payment.  Please indicate whether you want the complete
+version shipped via US Mail (no extra charge) or electronically.
+
+PLEASE NOTE THE COMPLETE VERSION WILL NOT BE READY UNTIL DECEMBER '96.
+
+Thank-you
+
+The WolfAddict Software Team.
+

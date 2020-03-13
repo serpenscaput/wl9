@@ -1,0 +1,30 @@
+ECWolf Classics Collection presents
+Wolfenstein 3D: Second Encounter for PC
+
+Original levels made for the Super Nintendo by Id Software
+Macintosh port by MacPlay Entertainment
+Maps converted by Andy_Nonymous
+Ported to ECWolf by Executor based on an earlier conversion by Sam Feichter
+
+Music: Andy_Nonymous, based on original Mac/3DO music
+Dog sitting frames: UnTrustable
+Flamer sprites: Gerolf, based on SNES Wolf3D, ammo pickup by WSJ
+Rocket Launcher sprites: SamVision, based on ROTT Original Specs, ammo pickup by 
+WSJ
+Explosion sprites: Id Software
+Explosion sound: JaM Productions
+Rocket launcher sound: MacPlay Entertainment
+Backpack sprite: Doomjedi
+Flamer sound: MacPlay Entertainment
+Flamer impact sound: Per Kristian
+Knife sounds: MacPlay Entertainment
+Status bar hyphen: Laz Rojas
+Title screen: MacPlay Entertainment
+Episode graphics conversion: Fox666
+Boulder wall with blood: Fox666
+Locked doors: Xaser
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992/1994 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this 
+conversion.

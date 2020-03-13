@@ -1,0 +1,6 @@
+^P^
+^C[Brown]"Well done, BJ! You're almost there. I don't know what the scientists are 
+up to but stop them whatever they're doing.
+Their leader is ^C[DarkRed]Hauptarzt Monokel. ^C[Brown]Eliminate him and proceed 
+to find the artifact." ^C00
+^E

@@ -1,0 +1,50 @@
+^P
+^C20> Recieving communication link request from frequency 093.9...
+
+>
+
+^P
+^G16,16,5
+^G16,48,30
+^C20Hello again Azrael. 
+
+^P
+^G16,16,3
+^G16,48,30
+^C20Nice to see you again Kitty. 
+
+^P
+^G16,16,5
+^G16,48,30
+^C20You're now in the warehouse section of the MegaCorp complex.  Here you'll find 
+lot's of boxes, crates and terrorists!  Quickly find a weapon.
+
+^P
+^G16,16,3
+^G16,48,30
+^C20Don't worry about me, I got my priorities straight.
+
+^P
+^G16,16,5
+^G16,48,30
+^C20Glad to hear it!  Now, you'll have to fight your way through this area.  Somewhere 
+on the floor is an elevator to the next floor.  Find it.
+
+^P
+^G16,16,3
+^G16,48,30
+^C20Will do.
+
+^P
+^G16,16,5
+^G16,48,30
+^C20Good luck.
+
+^P
+^C20> Recieving communication link request from frequency 093.9...
+
+> Communication link terminated.
+
+>
+
+^E

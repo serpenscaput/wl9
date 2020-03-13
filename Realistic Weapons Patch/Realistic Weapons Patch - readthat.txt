@@ -1,0 +1,28 @@
+		R E A L I S T I C  weapons patch
+
+Ever noticed how pathetically unrealistic are the in-game weapons in
+Wolfenstein 3D? Well here you have a patch that fixes it all smooth
+as it should be - replaced weapons with real WW2 stuff:
+
+Pistol      = Luger "Parabellum"
+Chaingun    = "Schmeisser" MP40
+Machine gun = Browning M1917 .30 Cal.
+
+			How to install:
+
+First of all, it's for shareware version of Wolfenstein 3D.
+You can get it here: ftp://ftp.3drealms.com/share/1wolf14.zip
+
+Unzip VSWAP.WL1 from the package and put it in your WOLF3D folder.
+You will be asked to overwrite the old one. Select "Yes".
+Run the game and enjoy the feeling or reality brought to you by
+the modding community!
+
+	Note:
+
+Yes, you MAY use this patch in with any other TC of yours, if
+you credit the whole Wolfer/modding community. It is very
+important that you do so, because expect some large changes
+in your life otherwise..
+
+

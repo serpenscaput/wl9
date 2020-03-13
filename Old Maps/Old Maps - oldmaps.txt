@@ -1,0 +1,17 @@
+YE OLDE MAPS by Hacksaw
+
+These are a couple of old maps (not the first) that I did.
+
+The first map was meant to have an outdoorsy feel (even though you can't get
+anything but grey ceilings in the original Wolf3d...) There are a lot of open spaces 
+in the map.
+
+The second was made to be like a bunker.
+
+These maps were made not too long after I got the registered copy of Wolf3d. They 
+were made with an older version of WDC. 
+
+For this distribution, I removed the other maps in the file (that were from the original 
+registered version of Wolf3D) from the files with ChaosEdit.
+
+-- Hacksaw

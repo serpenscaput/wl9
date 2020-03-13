@@ -1,0 +1,59 @@
+ 
+
+THE STORY:
+Thank you for downloading "The Ultimate Revenge", the Wolfenstein 3-D's add-on.
+It's the year 1959, fourteen years after the Second World War. People think the war 
+is over for good. However, they aren't aware of incoming danger. The former Hitler's 
+co-workers established an underground formation, which objective is to continue Führer's 
+totalitarian plan. They organize some terrorist attacks, which make citizens more 
+and more anxious. Pentagon tries to locate the hideout of the group, and after a 
+few weeks they succeed. But the truth turns out to be even more anxious. Experts 
+find out that in the Neo-Nazists' headquarters there are conducted some terrifying 
+experiments that are about to revive Hilter and his worst allies. The US army must 
+intervene immediately and stop the Nazis before it's too late. But who will manage 
+to do it? Who will infiltrate the fearful corridors and rooms? The answer is simple 
+- someone who already knows who his enemies are. Captain B.J. Blazkowicz!
+So there you go, Captain. You are sent to Castle Wolfenstein again for the ultimate 
+revenge. You go for six completely new missions. It's not going to be easy, but remember, 
+the world counts on you. Its future is in your hands now. Good luck!
+
+WHAT'S NEW?
+	difficulty level names
+	items (e.g. healthblood and landmines)
+	maps (54)
+	menu names
+	mission names
+	typeface
+
+DEFAULT CONTROLS:
+1-4 - toggle weapons:
+	1 - knife
+	2 - pistol
+	3 - machine gun
+	4 - chaingun
+ALT - strafe
+ARROWS - move
+CTRL - shoot
+SHIFT - run
+SPACE - open doors and pushwalls
+
+PROGRAMS USED:
+•	Borland C++ 3.1 by Borland International (for the source code)
+•	ChaosEdit 1.27 by Andi (for graphics & screens)
+•	Dev C++ 4.9.9.2 by Free Software Foundation (for the source code)
+•	Flo's Wolfenstein Editor 2.0.0.5 by Florian Stöhr (for fonts, graphics, sounds 
+& sprites)
+•	MapEdit 8.4 by David Huntoon, Bryan Baker & Warren Buss (for maps)
+•	Microsoft Paint by Microsoft Corporation (for graphics, sprites & walls)
+•	Microsoft Word 2000 by Microsoft Corporation (for this file)
+•	Nero Wave Editor 1.0 by Ahead Software (for sounds)
+•	Wolfedit 2.1 by Bill Kirby (for sprites & walls)
+•	Wolfenstein 3-D by Id Software (the game)
+•	WSF Font Editor 1.0.0.2 by Stöhr Software (for fonts)
+
+MAPS AND MOST OF THE GRAPHICS BY:
+Sebastian Dudko
+cjblacklime@gmail.com
+
+ 1992 by Id Software
+ 2009-2010 by Blacklime Industry

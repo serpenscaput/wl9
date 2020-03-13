@@ -1,0 +1,66 @@
+WOLFPAK 2 (LowRes Version)
+compiled by Sam Feichter (AstroCreep)
+
+This is a compilation of many levels, all taken from vanilla Shareware and
+Registered Wolfenstein 3D mods, created from the years of 1993-2002 or so.
+This version has the hi-res textures and sprites, plus sprite fix taken out, for
+
+authenticity purposes and for better compatibility with external graphics packs.
+
+
+
+[Changes from originals]
+Edited exits, as some caused errors due to the location of the triggers
+Edited a few walls, for some reason some of these had unknown wall types, which is 
+odd since none of these had source hacks.  The unknown walls would crash the game
+
+Added Spear bosses, to add a bit of variety (IDs replace pacman ghosts)
+Various fixes
+Cows
+
+[List of Maps]
+
+All of these can be found at:
+http://www.users.globalnet.co.uk/~brlowe/index.html
+or
+http://http://www.wolfenstein3d.co.uk/index.htm
+
+Thanks to Brian (Schabbs) for hosting all these mods, and an extra thanks
+to him for hosting all of my shitty mods for so long, it has officially been
+17 years!
+
+Registered MapSets:
+
+Misja Jakuba Hierowskiego by Jakub Hierowski
+Operation Overkill by Randall Penn
+Terror Returns by rdk Software
+Wlf_3d by unknown
+WolfNDie by unknown
+ZW1 Phase One by De Zeurkous
+
+Shareware Mapsets 
+
+10levels by unknown
+Castlestein by Daniel Patterson
+CMapset1 by unknown
+Nazi Invasion by Jonathan Wiseman
+New11 by Ideas from the Deep
+Raid on Wolfenstein by Bryan Banfield
+SGE by N. Korroveen
+
+[Music]
+The Addams Family (SNES), Super Metroid (SNES), Blake Stone (PC), Doom (PC), Doom 
+II (PC),
+Spear of Destiny (PC), Zombies Ate My Neighbors (PC), The Tick (SNES), originals 
+by
+Sam Feichter (AstroCreep), Hexen (PC)
+
+[Other Sources]
+
+Walls and Item Sprites - Wolfenstein 3D (Mac)
+All other sprites - Wolfenstein 3D Sprite Fix for ECWolf by PSTrooper
+Extra bosses from Spear of Destiny
+Some menu graphics edited from Tech Demo, others edited from Spear of Destiny
+
+
+

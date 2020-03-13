@@ -1,0 +1,116 @@
+--- LEVEL OVERVIEW ---
+
+Levels  1-10 - Lower Castle/Start
+Levels 11-20 - Lower Mansion
+Levels 21-30 - Lower Security
+Levels 31-40 - Laboratories
+Levels 41-50 - Upper Castle
+Levels 51-60 - Upper Mansion
+Levels 61-70 - Upper Security/End
+
+--- MUSIC FILES OVERVIEW ---
+
+CORNER_MUS (E1L10)
+DUNGEON_MUS (E2L10)
+WARMARCH_MUS (E1L9)
+GETTHEM_MUS (E1L1)
+HEADACHE_MUS (E2L4)
+INTROCW3_MUS (E3L1)
+NAZI_NOR_MUS (Intro)
+NAZI_OMI_MUS (E2L1)
+POW_MUS (E1L3)
+SEARCHN_MUS (E1L2)
+SUSPENSE_MUS (E1L4)
+WONDERIN_MUS (Menu)
+FUNKYOU_MUS (E6L10)
+ENDLEVEL_MUS (Elevator)
+GOINGAFT_MUS (E2L3)
+PREGNANT_MUS (E2L2)
+ULTIMATE_MUS (E3L9)
+NAZI_RAP_MUS (E3L2)
+ZEROHOUR_MUS (E3L4)
+TWELFTH_MUS (E3L3)
+ROSTER_MUS (High Scores)
+URAHERO_MUS (End Screens)
+
+--- NEW MUSIC FILES OVERVIEW ---
+
+HITLWLTZ_MUS = XJAZNAZI_MUS (Sod level 19)
+PACMAN_MUS = XGETYOU_MUS (Sod level 4)
+SALUTE_MUS = XDEATH_MUS (Sod level 3)
+ULTIMATE_MUS = XEVIL_MUS (Sod level 21)
+VICMARCH_MUS = XFUNKIE_MUS (Sod level 2)
+VICTORS_MUS = XTIPTOE_MUS (Sod level 1)
+
+--- THE MAP LIST ---
+
+1 - Fortress Entrance (Startout) - VICTORS_MUS
+2 - Define Sewers (Basement) - SALUTE_MUS
+3 - SS Shield (SS Rendezvous) - GETTHEM_MUS
+4 - L_Castle 1 (Bunker 666) - SEARCHIN_MUS
+5 - L_Castle 2 (Secrecies) - FUNKYOU_MUS
+6 - L_Castle 3 (Bunker 999) - CORNER_MUS
+7 - L_Castle 4 (Prisonality) - NAZI_OMI_MUS
+8 - L_Castle 5 (Bunker Compound) - POW_MUS
+9 - 1st Castle Mouth (Mutant City) - PREGNANT_MUS
+10 - Hans Grosse (El Grosse) - WARMARCH_MUS
+11 - Hall (Officers Lounge) - INTROCW3_MUS
+12 - Tunnel (Soddy Galore) - DUNGEONS_MUS
+13 - L_Mansion Entrance (Castly Complex) - TWELFTH_MUS
+14 - L_Mansion 1 (Czech Residence) - VICMARCH_MUS
+15 - L_Mansion 2 (Strongholded) - HEADACHE_MUS
+16 - L_Mansion 3 (The Prison) - SUSPENSE_MUS
+17 - L_Mansion 4 (Purple Rain) - GOINGAFT_MUS
+18 - L_Mansion 5 (Brick House) - VICTORS_MUS
+19 - Officer's Outpost (Officer Down!) - PACMAN_MUS
+20 - General Fettgesicht (Fatman Returns) - WARMARCH_MUS
+21 - Bridge Unit (La Concresia) - NAZI_RAP_MUS
+22 - L_Security Entrance (Czychoslovakia) - ZEROHOUR_MUS
+23 - L_Security 1 (Soft Dogs) - SALUTE_MUS
+24 - L_Security 2 (Castlemania) - SEARCHIN_MUS
+25 - L_Security 3 (Stoned) - FUNKYOU_MUS
+26 - L_Security 4 (Rotten Bottom) - NAZI_OMI_MUS
+27 - L_Security 5 (Dead Simple) - HITLWLTZ_MUS
+28 - L_Security 6 (Romanova) - POW_MUS
+29 - L_Security Summit (Safe n' Sound) - CORNER_MUS
+30 - Otto von Giftmacher (Saint Otto) - WARMARCH_MUS
+31 - Waste Lair
+32 - Mutant Outpost 
+33 - Lab Entrance
+34 - Lab 1 
+35 - Lab 2 
+36 - Lab 3
+37 - Lab 4 
+38 - Lab 5 
+39 - Lab 6/mouth 
+40 - Doctor Schabbs 
+41 - Bunker Tunnel (Mashed Tater) - PREGNANT_MUS
+42 - U_Castle Entrance (Dark Dungeon) - VICMARCH_MUS
+43 - U_Castle Cellar (The Crunge) - GETTHEM_MUS
+44 - U_Castle 1 (Lock n' Load!) - SEARCHIN_MUS
+45 - U_Castle 2 (All Snook Up) - NAZI_OMI_MUS 
+46 - U_Castle 3 (Fowty-Sixth) - SALUTE_MUS
+47 - U_Castle 4 (The Cave-in) - HITLWLTZ_MUS
+48 - U_Castle Summit
+49 - U_Castle 5
+50 - Trans Grosse
+51 - Tunnel
+52 - U_Mansion 1
+53 - U_Mansion 2
+54 - U_Mansion 3
+55 - U_Mansion 4
+56 - U_Mansion 5
+57 - U_Mansion Summit
+58 - 2nd Castle Mouth
+59 - Tunnel
+60 - Gretel Grosse
+61 - U_Security 1 
+62 - U_Security 2
+63 - U_Security 3
+64 - U_Security 4
+65 - U_Security 5
+66 - U_Security 6
+67 - U_Security 7
+68 - U_Security Summit
+69 - West Wing
+70 - Hitler's Madhouse (-||-) - ULTIMATE_MUS

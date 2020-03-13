@@ -1,0 +1,478 @@
+^P^
+^C[Red]QUICK COMMAND REFERENCE
+^c[Black]
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Pussy Mode
+
+Read on for more information.
+^P^
+^G 16 110 [DEMOLIT]
+^c[Black]
+
+
+
+
+Wolf3D Demolition is a gameplay mod for Wolfenstein 3D and Spear of Destiny, as well 
+as MacWolf and S3DNA, using LZWolf.  This mod adds damage types, as well as new weapons 
+and death frames to demonstrate them.  In this new updated version, there are even 
+more dangerous and destructive weaponry, as well as even more types of Nazis to blow 
+up!
+^P
+^C[Red]VERSION 3 INFO
+
+
+^c[Black]Wolf3D Demolition V3 introduces a few more changes compared to the last 
+version.  As well as new weapons to mess around with and more stuff to destroy, there 
+are also a few more key differences (read on for more info)
+^P
+^C[Red]MACWOLF/S3DNA SUPPORT
+
+^c[Black]It was pretty easy to extend support to MacWolf - only required a few double 
+actors and some compatibility stuff.  However, the more
+interesting part is support for Super 3D Noah's Ark!  Completely new death frames
+
+for all enemies, most objects can be destroyed, enemies are rebalanced for
+extra difficulty, and not only that, now your slingshots are replaced with your
+arsenal for Wolf3D Demolition.  Time to cull the herd!
+^P
+^C[Red]MACWOLF/S3DNA SUPPORT
+
+
+
+^c[Black]To run this with S3DNA, simply run this just like with Wolf3D or SOD,
+and select Super Noah's Ark 3D from the IWAD Selector instead!  The ogg music
+included with the Steam release is highly recommended as the MIDI causes 
+crashes.
+^P
+^C[Red]MACWOLF/S3DNA SUPPORT
+
+
+
+^c[Black]To run with MacWolf, you will need MacWolf (obviously) and the shim file 
+included.  Note that 1st and 2nd Encounter scenarios are incompatible with LZWolf 
+and will need converted to 3rd Encounter format to be able to be used with LZWolf. 
+ To make MacWolf appear in the IWAD selector, edit "iwadinfo.txt" within your lzwolf.pk3 
+and remove the "Preview" flags from the MacWolf entries.
+^P
+^C[Red]MACWOLF/S3DNA SUPPORT
+
+
+
+ ^c[Black]The shim file also supplies missing walls and sounds, so you will be able 
+to play 2nd and 3rd Encounter scenarios with just this mod and the 1st Encounter 
+base files.  No need for searching shady websites! (Unless you wanna play the actual 
+30 level 2nd Encounter set, you're on your own for that!)
+^P
+^C[Red]OTHER NEW STUFF
+
+^c[Black]*Bosses randomly spawn with different weapons!  Maybe Hans will have a chaingun. 
+ Or maybe a flamethrower.  Who knows?
+
+*New weapons and Nazis!  Even more cool stuff to break!
+
+*Fixed cross compatibility issues by including sprites missing between games (modified 
+to my liking)
+^P
+^C[Red]COMPATIBILITY
+
+^c[Black]This aims to be the first LZWolf mod to achieve cross compatibility
+between the different base games, making hundreds of mods available to play
+with the enhanced Demolition features.  
+^P
+^C[Red]COMPATIBILE WITH (Vanilla)
+
+^c[Black]*Wolfenstein 3D, shareware or registered, and all DOS mods without significant 
+VSWAP changes or any code changes
+
+*Spear of Destiny, demo or commercial, and all DOS mods without significant VSWAP 
+changes or any code changes
+
+*Super 3D Noah's Ark and any future map-only sets
+
+*MacWolf, all Encounters, and all scenarios without significant graphic changes.
+
+^P
+^C[Red]COMPATIBILE WITH (ECWolf/LZWolf)
+
+^c[Black]*Wolf3D MegaMap
+*The Renovation ECWolf Port
+*Conflict in the Fatherland ECWolf Port
+*WOLFBEL Collection for ECWolf
+*WOLFPAK
+*SPEARPAK
+*Assassinate Hitler ECWolf Port
+*Countdown to Disaster ECWolf Port
+*WOLFPAK 2 (some bosses are weaker than normal)
+^P
+^C[Red]COMPATIBILITY
+
+^c[Black]Other mods are technically compatible with Demolition, but depending on 
+changes in the original mod there may be graphical inconsistencies.  Make sure you 
+load Demolition last to avoid as many as possible.  Other ECWolf mods are also partially 
+compatible, but custom decorate actors WILL break functionality somewhere or another.
+
+^P
+^C[Red]THE WEAPONRY
+
+^c[Black]Aside from your normal Wolfenstein armory (with new sprites, adapted from 
+the ROTT specs and the lost episodes), there are many new weapons that will randomly 
+spawn in the spots where weapons used to spawn. You can also find these randomly 
+scattered in barrels. 
+^P^
+^C[Red]THE WEAPONRY
+
+
+^C[DarkRed]Dual Pistols ^c[Black]- 2 pistols are better than one. Nothing makes you 
+look like a pure badass like wielding 2 pistols and charging head-on into a room 
+full of Nazis.
+
+^C[DarkRed]Mega Chaingun ^c[Black]- Maybe that room had a bit too many. Never fear 
+with this thing. Eats ammo at a crazy fast rate, but will clear a room faster than 
+you can say Gesundheit!
+^P^
+^C[Red]THE WEAPONRY
+
+
+^C[DarkRed]Chainsaw ^c[Black]- Meat.  Fresh meat everywhere.  Just need to cut it 
+up into manageable pieces.  You gotta get in close for this one, but not much is 
+more satisfying than chopping Nazis.
+
+^C[DarkRed]Shotgun ^c[Black]- Nothing can handle crowd control like a good ol'fashioned 
+shotty.  Quickly put down your enemies with your trusty 12-gauge.
+^P^
+^C[Red]THE WEAPONRY
+
+
+^C[DarkRed]Bazooka ^c[Black]- Your standard missile launcher. Pummel your enemy with 
+destructive rockets and make them smush like a watermelon!
+
+
+^C[DarkRed]FlameThrower ^c[Black]- Who wants barbecue? These will make sure you get 
+your Nazi served extra crispy.
+^P
+^C[Red]THE WEAPONRY
+
+
+^C[DarkRed]Gas Grenade Launcher ^c[Black]- Launches grenades filled with deadly toxic 
+gas. Perfect for launching at a group of unsuspecting Nazis. Careful - gas hurts 
+you too, and some enemies are unaffected!
+
+^C[DarkRed]Sniper Rifle ^c[Black]- Enemies at far distances are no longer a problem 
+with your fancy scope. Zoom in and BOOM! HEADSHOT!
+^P
+^C[Red]THE WEAPONRY
+
+
+^C[DarkRed]Flamewall ^c[Black]- What's scarier than a giant wall of flames moving 
+toward you? Nothing, that's what. Not many can withstand the terrible scorching power 
+of the Flamewall.
+
+^C[DarkRed]FlameBazooka ^c[Black]- Think Flamewall, but opposite. Shoots a giant 
+destructive fireball that sears straight through enemies, leaving a burning trail 
+of destruction. Careful around this one, or else you'll barbecue yourself.
+^P
+^C[Red]THE WEAPONRY
+
+
+^C[DarkRed]Shrink Ray ^c[Black]- Pretty self explanatory; Aim, Shoot, Shrink, Smash. 
+Shrink your enemies to 1/10th of their size, and then all of a sudden you're the 
+big man in the castle.
+
+^C[DarkRed]Plasma Rifle ^c[Black]- Barrage your enemy with bright balls of plasma 
+energy!  The Nazis will be pretty much DOOMed with a thing like this on your side.
+
+^P
+^C[Red]THE NAZIS
+
+^c[Black]All of your old friends from Wolfenstein have come back, but they have also 
+called in MAJOR reinforcements to battle you and your upgraded weaponry!
+(Note: S3DNA has no alternate enemies as of yet, maybe in a future version!)
+
+Here are a few of the new denizens of Wolfenstein:
+^P^
+^C[Red]THE NAZIS
+
+^C[DarkRed]Guards ^c[Black]- Your standard brownshirt not only has a pistol now, 
+but some of them carry deadly sniper rifles. Still just as weak as before.
+
+^C[DarkRed]Blitzguard ^c[Black]- Who decided to give these dumbasses rocket launchers?! 
+You can tell these guys apart from their normal guard counterparts by their bright 
+purple uniform, however you may want to think twice about running blindly into a 
+room.
+^P^
+^C[Red]THE NAZIS
+
+^C[DarkRed]Kamikaze Dogs ^c[Black]- As if the Nazis weren't mean enough, they strapped 
+explosives to some of their poor dogs! Unfortunately when they're running at you, 
+you really don't have time to think about being kind to animals. Beware, some explode 
+with gas!
+
+^C[DarkRed]Elite SS ^c[Black]- These stormtroopers are ready for battle. Armed to 
+the teeth, and sporting gas masks along with fire-resistant armor, there's not much 
+to do beside chuck a rocket down their throat.
+^P^
+^C[Red]THE NAZIS
+
+^C[DarkRed]Officers ^c[Black]- Officers now wield many of the same weapons you do, 
+like flamethrowers and bazookas. At least you'll get a cool weapon when you pop one. 
+The red ones are fire resistant.
+
+^c[DarkRed]Mutants ^c[Black]- There's now many varieties of these undead monstrosities. 
+Some will tear you up with cleavers, some will blast you with guns, and some have 
+giant flamethrowers attached to their hands. Not only that, but they're immune to 
+gas and feel no pain. 
+^P^
+^C[RED]OTHER FEATURES
+
+^c[Black]*Breakable Scenery! Almost everything is able to be destroyed! 
+
+*Enhanced bosses! Some now wield flamethrowers and other weapons! (Beware the Pacman 
+secret level. Just run.)
+
+*New sprite, sounds and other changes and fixes (without straying too far from the 
+original Wolf3D style)
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkRed]All mods (except VINTAGE) require the latest dev version of ECWolf
+
+^C[Red]COMPILATIONS
+
+^C[DarkBlue]WOLFPAK 1 ^c[Black]- a compilation of my early levels, made from 1996-2006
+
+
+^C[DarkBlue]WOLFPAK 2 ^c[Black]- a compilation of vanilla Wolf3D mods, made from 
+1993-2001 (hi-res)
+
+^C[DarkBlue]SPEARPAK ^c[Black]- Like "WOLFPAK 2", this is a compilation of old school 
+Spear mapsets.
+^P
+^C[Red]VINTAGE
+
+^C[DarkBlue]Gorenstein 3D (1999) ^c[Black]- My very first mod ever!  From wayyyyy 
+back in 1999, and filled with terrible modified graphics, once again defeat Hitler 
+and save the day!  Replaces Episode 3 in registered Wolf3D.
+
+^C[DarkBlue]Hodge Podge 3D (2000) ^c[Black]- A VSWAP replacement, made up of even 
+more terrible graphics!
+
+^C[DarkBlue]Technostein SSD (2000) ^c[Black]- Another VSWAP replacement made up of 
+yet even MORE terrible graphics!
+^P
+^C[Red]VINTAGE
+
+^C[DarkBlue]Gorenstein II: The Gore Spear (2000) ^c[Black]- Another VSWAP replacement?! 
+ This time for SOD, and was meant for a project that never started.  Idea recycled 
+in next mod.
+
+^C[DarkBlue]Gorenstein 2: The Attack of Josef Hitler (2001) ^c[Black]- An episode 
+1 replacement, meant to be much bigger, but was eventually halted.  Has a few code 
+changes by Brian Lowe and many new graphics from various sources.
+^P
+^C[Red]VINTAGE
+
+^C[DarkBlue]Heil Hitler!!! (2001) ^c[Black]- A 4 level demo of a mod that never came 
+to be.  Features a modified source code by Brian Lowe and many new sprites and textures, 
+mostly from WolfenDOOM mods.
+
+^C[DarkBlue]The Nuremburg Projects (2001) ^c[Black]- 60 Wolf Creator-generated levels. 
+ I don't like claiming this one.  Let's forget this ever existed.
+^P
+^C[Red]VINTAGE
+
+
+
+^C[DarkBlue]SamWolf 3D (2006) ^c[Black]- the culmination of my vintage Wolf3D modding 
+experiences (which wasn't great).  30 new levels and a new source code by Brian Lowe. 
+ This represents the end of my first era of Wolf3D modding, in which I wouldn't return 
+for 8 years.
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ASTROSTEIN (Spifferaneous) ^c[Black]- A conversion of Spiff's version 
+of Astrostein.(now available in Special Edition)
+
+^C[DarkBlue]DIE HIMMLER DIE! ^c[Black]- A conversion of the Mac scenario, PC Compatible 
+ 
+
+^C[DarkBlue]THE RENOVATION ^c[Black]- A conversion of BJ Rowan's 1994 level set to 
+ECWolf
+
+^C[DarkBlue]HALTEN SIE! ^c[Black]- A conversion of Halten Sie to ECWolf, available 
+in low or hi-res
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]SECOND ENCOUNTER ^c[Black]- A hi-res version of Executor's port of the 
+Mac Family levels
+
+^C[DarkBlue]CONFLICT IN THE FATHERLAND ^c[Black]- A conversion of BJ Rowan's 1999 
+level set to ECWolf
+
+^C[DarkBlue]AMERIKA THE BEAUTIFUL ^c[Black]- A fix for the original Mac scenario, 
+PC Compatible
+
+^C[DarkBlue]WOLFBEL ^c[Black]- A conversion of Brian Lowe's level sets to ECWolf
+
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ASTROSTEIN ^c[Black]- A conversion of Laz's original Mac scenario (now 
+available in Special Edition)
+
+^C[DarkBlue]ASTROSTEIN 2 ^c[Black]- A conversion of Laz's original Mac scenario
+
+^C[DarkBlue]ASTROSTEIN 3 ^c[Black]- A conversion of Laz's original Mac scenario
+
+^C[DarkBlue]HITLER'S GRAVEYARD ^c[Black]- A conversion of Laz's original Mac scenario
+
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ESCAPE FROM TOTENHAUS ^c[Black]- This is actually 4 different conversions. 
+ 2 for the PC version, one original and one Hi-Res, and also a port of both the original 
+Mac version and the remastered Mac version!
+
+^C[DarkBlue]CLAW OF EISENFAUST ^c[Black]- A conversion of the SNES version of Wolf3D, 
+complete with shitty censorship!  Featured on PCGAMER.COM!
+^P
+^C[Red]RESOURCE PACKS
+
+^C[DarkBlue]EC_WL6 ^c[Black]- A base project for ECWolf, containing extra stuff from 
+Spear of Destiny, DECORATE weapons, and ECWolf specific features already enabled, 
+such as remote controlled doors and ROTT elevators! Also available in a LITE version 
+without the DECORATE stuff.  Includes a PK3 and a WDC map definition.
+
+^C[DarkBlue]EC_NOAH ^c[Black]- A similar project for S3DNA, including a base PK3 
+and a WDC map def.  Also includes flats from NOAHPAK.
+^P
+^C[Red]RESOURCE PACKS
+
+
+^C[DarkBlue]EC_MACWOLF ^c[Black]- A base project for ECWolf like EC_WL6, this time 
+using MacWolf as a base.  Also includes an extra pk3 containing the assets for use 
+with the PC base files.
+
+^C[DarkBlue]EC_SNES ^c[Black]- Yet another base project, this time using the SNES 
+assets.  WDC def is identical to EC_MACWOLF, but is 100% compatible.
+^P
+^C[Red]RESOURCE PACKS
+
+^C[DarkBlue]ECWolf DECORATE Pack ^c[Black]- Quite a few DECORATE actors and other 
+odds and ends, free for use by anyone for their projects.
+
+^C[DarkBlue]IMF Mega Collection ^c[Black]- All official ID/Apogee IMFS converted 
+to Wolfenstein's frequency, plus a few extras
+
+^C[DarkBlue]AstroCreep's Original IMF Tracks, Vol. 1 ^c[Black]- Original music by 
+AstroCreep, free to use by anyone for their projects (credit provided of course). 
+ Some were used for SPICY.
+^P
+^C[Red]ODDS AND ENDS
+
+^C[DarkBlue]Wolf3D MegaMap ^c[Black]- The first 3 episodes, slightly condensed and 
+smashed into 3 super-huge maps!  Can you finish an entire episode in one go?  Be 
+mindful of the side objective!
+
+^C[DarkBlue]WOLFROTT Gameplay Mod ^c[Black]- Based on the ROTT original specs, this 
+replaces weapons, decorations and enemies with ROTT counterparts, keeping to the 
+style originally planned for ROTT.
+
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 8 32 [NPSMALL1]
+
+
+
+
+
+
+
+
+
+^c[Black]A mod for "Super 3D Noah's Ark", aliens have come to Earth to rape its resources! 
+ Only Noah can stop them!  16 levels of alien-blasting action!
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 32 32 [NTSMALL1]
+
+
+
+
+
+
+
+
+^c[Black]Based off of Nitemare 3D, defeat Dr. Hammerstein and once again rescue your 
+sweet Penelope!  Explore a haunted house, a subterranean labyrinth, and even an alternate 
+dimension!
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 32 32 [SPICY]
+
+
+
+
+
+
+^c[Black]10 super-difficult levels in the original Wolf3D style, enhanced with ECWolf 
+specific features and a rockin' new IMF soundtrack!  Brave the dangers of Castle 
+Furzsaugen and retrieve your stolen hot sauce from the undeserving tastebuds of the 
+Nazis!  Also available in a DEMOLITION edition!
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^c[Black]Sam Feichter, known as AstroCreep, Wolf3D conversion and port doing, Keeper 
+of the Seven Daves, IMF ninja and master of the photoshop arts. Grows hair on his 
+head. Potentially extremely dangerous. Run away before he converts you. 
+
+-serpens, 2019, 
+https://wl6.fandom.com/wiki/AstroCreep
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^c[Black]I've been making mods for Wolfenstein 3D off and on
+since around 1996.  After a long hiatus, I discovered
+ECWolf, and have been making mods for it ever since.
+^P
+^G 16 16 [ASTROCRP]
+^c[Black]Aside from modding Wolf, I also enjoy making music and
+editing/creating images in Photoshop.  My GFX work is
+mostly done in these games, but you can check out my music
+at soundcloud.com/aquafiend.
+^P
+^G 16 16 [MODDB]
+^G 140 200 [WOLFSRCE]
+To download more of my mods, check my ModDB page
+www.moddb.com/company/astrocreep
+
+OR
+
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^c[Black]website
+wolf3d.net
+^P
+
+
+
+^C[Blue]Mod ^C[Black]by Sam Feichter (AstroCreep) 2019
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+^C[Gold]ECWolf ^C[Black]by Blzut3
+^C[Green]LZWolf ^c[Black]by LinuxWolf
+
+^C[RED]Special thanks to Dunkelschwamm and LinuxWolf for additional DECORATE scripting
+
+See READ.txt within the pk3 for a more detailed credits listing.
+
+
+^E
+

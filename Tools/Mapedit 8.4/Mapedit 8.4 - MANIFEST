@@ -1,0 +1,81 @@
+*********************************************************
+*                                                       *
+*        MAPEDIT.ZIP contains the following files:      *
+*                                                       *
+*********************************************************
+
+**   Game Dependent Mini-Zip Files
+
+WOLF.ZIP     - Files unique to WOLF3D
+SOD.ZIP      - Files unique to Spear of Destiny
+BS.ZIP       - Files unique to Blake Stone: Aliens of Gold
+BSPS.ZIP     - Files unique to Blake Stone: Planet Strike
+C7DISK.ZIP   - Files unique to Corridor 7 (Disk version)*
+C7CDROM.ZIP  - Files unique to Corridor 7 (CD-ROM version)*
+BC.ZIP       - Files unique to Operation: Body Count
+
+**   Documentation
+
+README        - Important information to get you started.
+MAPEDIT  DOC  - Main program documentation (47 pages)
+WOLFSOD  DOC  - Specific information for Wolfenstein 3-D and Spear of Destiny
+                map construction (14 pages)
+BSTONE   DOC  - Specific information for Blake Stone map construction
+                (26 pages)
+C7       DOC  - Specific information for Corridor 7 map construction
+BC       DOC  - Specific information for Operation: Body Count map construction
+MANIFEST      - This file
+WHATS    NEW  - List of latest changes to MAPEDIT.
+FILE_ID1 DIZ  - BBS Description File
+
+**   Files Required During Execution
+
+MAPEDIT.EXE  - Main program
+
+(One pair of the following map/object data definition files per game)
+
+MAPDATA.WL6  - Map definition file for Wolf3D
+OBJDATA.WL6  - Object definition file for Wolf3D
+
+MAPDATA.SOD  - Map definition file for Spear of Destiny (original game)
+OBJDATA.SOD  - Object definition file for Spear of Destiny (original game)
+
+MAPDATA.SD2  - Map definition file for Mission 2 of Spear of Destiny
+MAPDATA.SD3  - Map definition file for Mission 3 of Spear of Destiny
+OBJDATA.S23  - Object definition file for Missions 2 and 3 of Spear of Destiny
+
+(Note - The extensions of the data definition files for Missions 2 and 3 of
+        Spear of Destiny must be changed to SOD before they can be used).
+
+MAPDATA.BS6  - Map definition file for Blake Stone: Aliens of Gold
+OBJDATA.BS6  - Object definition file for Blake Stone: Aliens of Gold
+
+MAPDATA.VSI  - Map definition file for Blake Stone: Planet Strike
+OBJDATA.VSI  - Object definition file for Blake Stone: Planet Strike
+
+MAPDATA.CO7  - Map definition file for Corridor 7 games*
+OBJDATA.CO7  - Object definition file for Corridor 7 games*
+
+MAPDATA.BC   - Map definition file for Operation: Body Count
+OBJDATA.BC   - Object definition file for Operation: Body Count
+
+(Note - Read the MAPEDIT.DOC file for a description of
+        the data definition files and their proper use. )
+
+**   Optional initialization file to allow for customization of operating
+     parameters and various directory paths
+
+MAPEDIT.INI  - Optional Initialization sample file.
+SETUP.EXE    - Used to create/modify MAPEDIT.INI
+
+SAMPLE.FLR   - Sample Blake Stone floor highlighting the use of LHV's
+SAMPLE.DOC   - Explanation of Sample floor
+SAMPLE.PRT   - Map of Sample floor
+
+C7_UTIL.EXE  - Used to create transportable Corridor 7 floors.
+
+*Since there are 2 versions of Corridor 7 (Disk and CD-ROM) and they are
+incompatible with each other, there are 2 sets of data definition files
+for the 2 games. Each set is contained within a separate mini-zip file
+for the game being edited.
+

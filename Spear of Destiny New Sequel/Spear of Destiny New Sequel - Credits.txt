@@ -1,0 +1,22 @@
+Spear of Destiny: New Sequel
+
+Copy the 8 files and paste into your full version Spear of Destiny directory.
+This mod is based on Megabyte's SOD Mappack. It brings 21 levels, music from Blake 
+Stone, and some minor graphic changes. Most of the levels are from Megabyte's mappack, 
+but they have been slightly modified. The Blake Stone music is arranged on dungeon 
+and castle levels. The mod retains the original Spear of Destiny feel.
+
+Programs used:
+MapEdit 8.4
+ChaosEdit v1.27
+IMF Tools v2.0
+WolfReColor v1.0
+
+Thanks to:
+Chaos-Software
+DieHard Wolfers
+The Wolfenstein 3D Dome
+AReyeP and MCS' Wolf3D Page
+
+Sam Yu Geng
+April 2012

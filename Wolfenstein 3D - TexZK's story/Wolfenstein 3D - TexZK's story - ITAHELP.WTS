@@ -1,0 +1,210 @@
+^P
+^C8f La storia
+
+^C00 1945: fine della II Guerra Mondiale.
+Hitler muore, facendo salire al potere una grande persona: TexZK, creando una repubblica.
+
+Con la sua politica, ispirata agli ideali delle potenze vincitrici, decide di eliminare 
+i rimanenti gruppi nazisti.
+
+Tu, Dr.Gnegno, hai il compito di aiutare il tuo presidente ad eliminare tutti i Nazi 
+rimanenti.
+
+^P
+^G20,30,3
+^C00 
+Hanno scelto te, poiche' sei una spia dalle grandi doti.
+Il governo, stupefatto dalle tue capacita', ha deciso di inserirti in un programma 
+diviso in 6 missioni (detti anche episodi). Ognuna di queste ha un tema principale 
+e degli obiettivi da raggiungere.
+
+^P
+^C8f Gli episodi
+^C00 
+Gli episodi presenti in questo gioco, selezionabili dal menu, sono:
+^C20 Infiltrazione nel castello Nazi
+^C00 Infiltrati in questa roccaforte e fai assaggiare piombo ai Nazi!
+^C20 Il lato oscuro di Wolfenstein Castle
+^C00 Recentemente, abbiamo scoperto che in questa fortezza si svolgono ricerche su 
+uomini mutanti
+^C20 Intifada nei campi di concentramento!
+^C00 Infiltrati negli accampamenti Nazi e scopri il miglior lanciatore di pietre!
+
+
+^P
+
+^C20 Operazione: Snow-killing
+^C00 Uccidi i Nazi sulle Alpi tedesche
+^C20 Il secondo D-Day
+^C00 Sbarca sulle coste tedesche
+^C20 La vera anima dell' Uber Soldat (NA)
+^C00 Da tempo si sa che i Nazi vogliano costruire il maledetto Uber Soldat, un guerriero 
+meccanico.
+Avremmo bisogno di sapere chi e' in quello scafandro!
+
+E' consigliato seguire l'ordine degli episodi, per ottenere una storia.
+
+^P
+^C8f Completare un livello
+^C00 Servono alcuni oggetti per poter accedere a quello successivo:
+^C20 Medkit
+^C00 Per recuperare l'energia persa nelle sparatorie. Attenzione! Uno e' cibo avariato: 
+abbassa la salute!
+^C20 Tesori
+^C00 Per accumulare punti
+^C20 Chiavi
+^C00 Per aprire le porte bloccate
+^C20 Armi
+^C00 Per ammazzare meglio quegli sporchi Nazi!!!
+
+^P
+^C8f Armi
+
+^C00 Principalmente, le armi sono 6:
+^C20 Pugno
+^L50,90
+^C00 -> Quando non hai piu' munizioni
+^L60,110
+	non ti resta che dare pugni!
+^C20 Luger
+^L70,90
+^C00 -> Una semplice pistola tedesca
+^C20 MP40
+^L80,90
+^C00 -> Quando i nemici si fanno
+^L90,110
+	tanti, e' meglio sparare con
+^L100,110
+	piu' rapidita'
+^C20 VenomGun
+^L110,90
+^C00 -> Mitragliatore gatling. Uccide i
+^L120,110
+	nemici in un batter d'occhio.
+^L130,110
+	Occhio pero' alle munizioni...
+^C20 Panzerfaust
+^L140,90
+^C00 -> Lanciarazzi tedesco. Ammazza
+^L150,110
+	grossi gruppi di Nazi.
+^L160,110
+	Stai attento anche tu, pero'!
+
+^P
+
+^C20 Lanciafiamme
+^L30,110
+^C00 -> Arma potentissima a cor-
+^L40,120
+	to raggio
+
+Ogni arma ha bisogno delle proprie munizioni (tranne il pugno):
+^C81 Luger, MP40, VenomGun ^C00 -> munizioni normali
+^C81 Panzerfaust
+^L90,170
+^C00 -> missili
+^C81 lanciafiamme
+^L100,170
+^C00 -> bombole di gas
+
+^P
+^C8f Controlli
+^C00
+Questi sono i controlli di default:
+^C20 Avanti 		
+^L50,100
+^C00 ->     Freccia su
+^C20 Indietro 		
+^L60,100
+^C00 ->     Freccia giu'
+^C20 Sinistra 		
+^L70,100
+^C00 ->     Freccia sx
+^C20 Destra 		
+^L80,100
+^C00 ->     Freccia dx
+^C20 Spara 		
+^L90,100
+^C00 ->     Mouse sx - Control
+^C20 Apri 		
+^L100,100
+^C00 ->     Mouse centrale - Spazio
+^C20 Scansati 		
+^L110,100
+^C00 ->     Mouse dx - Alt
+^C20 Armi 		
+^L120,100
+^C00 ->     da 1 a 6
+
+^P
+^C8f Nemici
+^C00
+I nemici, dal piu' debole al piu' forte, sono:
+^C20 Cani
+^L50,80
+^C00 ->   Non molto ostili e difficili da
+^L60,115
+     uccidere
+^C20 Guardie
+^L70,80
+^C00 ->   Sono dotate solo di un
+^L80,115
+     semplice fucile
+^C20 Ufficiali
+^L90,80
+^C00 ->   Guardie piu' veloci
+^C20 SS
+^L100,80
+^C00 ->   Attenzione alle mitragliate!
+^C20 Mutanti
+^L110,80
+^C00 ->   Dopo un po' li odierete!
+^C20 Demoni
+^L120,80
+^C00 ->   Resistenti, ma gli attacchi
+^L130,115
+     sono evitabili
+^C20 Boss
+^L140,80
+^C00 ->   Cambiano ad ogni episodio.
+^L150,115
+     In piu', hanno armi molto
+^L160,115
+     potenti e tanta salute!
+
+^P
+^C8f Crediti
+^C00 C'e' tantissima gente che dovrei ringraziare, ma non mi ricordo tutti i nomi!
+
+Queste persone hanno collaborato soprattutto indirettamente. Grazie! Bisogna aiutarsi 
+nei progetti quotidiani!
+Comunque, ecco qua i nomi piu' importanti:
+^C20 Team originale: ^C00 id Software
+^C20 Project leader: ^C00 TexZK
+^C20 Programmatori: ^C00 ArEyeP & MCS, DarkOne, BJ Rowan, Chaos-software, Tristan 
+van Putten, Po&t & Tommy Olstad, Florian Stohr
+^C20 Tools: ^C00 DarkOne, Florian Stohr, BJ Rowan
+^C20 Grafica & suoni: ^C00 Tristan van Putten, BJ Rowan, ArEyeP, Kuki, Zach Higgins
+
+
+^P
+^C8f Realizzazione
+^C00 Per creare questa TC ho utilizzato i seguenti programmi:
+^C20 FloEdit: ^C00 mappe, aggiunta di grafica e suoni
+^C20 Borland C++ 3.1: ^C00 compilazione C++ (*.exe)
+^C20 LZexe: ^C00 compressione *.exe
+^C20 MapEdit 8.4: ^C00 mappe
+^C20 Return to Castle Wolfenstein: ^C00 armi e suoni
+^C20 ImfTools & MicroLogic Fun: ^C00 musiche
+^C20 BitEdit (Asymetrix): ^C00 grafica
+^C20 TexZK's brain: ^C00 ehehehehehe...
+
+^P
+^C8f Contatti
+^C00 Per contattarmi hai varie opzioni tra cui scegliere:
+^C20 E-mail: ^C00 gnegno88@libero.it
+^C20 ICQ: ^C00 131002159
+^C20 Sito (+Guestbook): ^C00 http://texzk.gameprog.it
+
+^E

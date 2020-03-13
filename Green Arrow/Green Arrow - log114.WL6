@@ -1,0 +1,12 @@
+^P
+^C7d Remote Arrows
+
+^C00 These sticky arrows have three functions:
+
+-Remote detonation: shoot an arrow against a wall, detonate it when it's most convenient.
+
+-Timed detonation: will explode after a couple of seconds
+-Proximity detonation: can sense when an enemy is nearby, will explode when the enemy 
+is close enough.
+
+^E

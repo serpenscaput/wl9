@@ -1,0 +1,114 @@
+Hitlers Revenge
+Version 4.1
+
+By Joey Main
+
+	1.Story
+
+	Many many months after Hitlers death. Allied forces said that they say a man with 
+an
+uncanny resemblence of Hitler.This man who was said to be hitler was actully him. 
+It seems before
+snabbs died he cloned himself and Hitler. Using pods that made clones of anything.You 
+were send 
+in to stop this. Now its all up to you!
+
+
+ 
+	2.Description 
+this demo of HR has ten complete levels
+When the complete game is done I expect it to have...
+
+60 new levels
+New sounds
+Some new enemies
+New bosses
+New objects and wall panels
+and a new executable
+
+	3.Enemies
+	* means not in the demo version
+
+1.Marine-Marines are pretty easy to kill. They need to come right up to you since 
+they only carry
+Tazer pistols
+
+2.Guard-Guards carry the reguler pistol and take 2-3 shots to kill
+
+3.Officer-Officers carry a couger magnum and pack a punch.they dodge your shots.3-5 
+shots to kill.
+
+4.Mutants-Mutants are one of the strongest enemy youll face they shoot faster then 
+you ever could
+
+5.SS-The SS carry Machineguns and they dont give up very quickly. 5-7 shots.
+
+6.NSF-The Nazi Special Forces carry Flamethrowers and they look like an average SS 
+so dont be fooled
+
+7.Hans Grosse-Hans is back and he still has the scar from the first battle.This time 
+its personal
+
+8.*Ubermutant- Snabbs prize mutant is stronger then most mutants. You will find many 
+of these out
+there so be careful.
+
+9.*Snabbs-I guess we can say its all his fault Hitlers back so give him his reward.
+
+
+10.*General Fettagist-The good general is back and he wants Revenge.So give him the 
+chance.
+
+11.*Otto giffmacher-Now you must kill this man before he starts another chemical 
+war.
+
+12.Hitler-This is it now kill him again and this time do it right.
+
+
+
+	4.Equipment
+
+1.Knife-this weapon is only needed when out of ammo.Dont count on it when fighting 
+a boss.power*
+
+2.Pistol-okay this thing does minamal damage and it does waste much ammo.power**
+
+
+3.Machinegun-This is the perfict weapon it does a fair damage and takes only one 
+bullet per shot.power****
+
+4.Chaingun-This onebarreled death machine is best for Bosses and rooms of baddies.power*******
+
+
+	5.Items 
+Food- The nazis cant cook anymore(but who said they could)this item gives you 6% 
+health.
+
+Mini Health kit-This adds 10% health.
+
+First aid kit-Adds 25% health.
+
+Servivel kit-This a very handy find it gives you Full health,25 bullets and an extra 
+life!
+
+Clip-This is ammo gives 4-8 bullets.
+
+Treasure-Come on what do you think this does.
+
+
+6.Levels of intrest.
+
+level 10 is actully a demo of the second level of episode two.Its called the Express 
+line.
+
+
+7.credits
+
+Game design-Joey Main.
+Graphics-Joey Main and Zoey Syncrude.
+Levels-Joey Main, Zoey Syncrude and Cyrus Maccen.
+Programming-Joey main and Zoey Syncrude.
+Tests-Zoey syncrude.
+Special thanks-Zoey Syncrude(again).
+
+Please send any questions or comments,to joeymain@microsoft.com

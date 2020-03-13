@@ -1,0 +1,74 @@
+Nazis With Attitude
+by Dr. Chainsaw Studios
+
+//Story;//
+
+As the war is starting to look pretty grim for the nazis Hitler comes up with a new 
+plan to appeal to the kids.
+By being 'Hip'. They are also producing the most funkyiest mutants to take over the 
+world.
+
+Your mission is to assasinate Schabbs in order to hault production of mutants and 
+of course assasinate Hitler.
+
+//Features;//
+
+20 seamless levels (2 secret)
+Extra Keys
+Extra Objects
+Gun Bobbing
+Intermission Screens
+etc...
+
+//Credits;//
+
+Graphics;
+Most by Id Software
+Lot's of new walls textures by Ken O'Brien + Giorgio
+Amo, food & health by Areyep
+Guard by Triston Van Putten (edited)
+Hurricane Winslow + Raven by Majik Monkee
+Pinhead by Mäx (Edited)
+
+Sounds;
+Id Software
+Public Enemy
+NWA
+
+Music;
+Public Enemy
+Run DMC
+MC Hammer
+Survivor
+Beasty Boys
+Ghost Busters
+Will Smith
+vanilla ice
+Chamillionaire
+Coolio
+Eminem
+
+Code Tutorials;
+Adding new enemy, helpart/endart, Seamless levels by MCS
+Easy Automated Intermission Screens by BrotherTank
+Ingame Screenshots, Removing Scalers by Ripper
+Gun Bobble by Dugtrio 17
+Removing Intro Screens by Chris
+
+Ideas;
+Thomas
+Lozer_42
+
+And Thanks to Id Software for Creating the legendary Wolf3d and Spear of Destiny
+
+
+//Conclusion//
+
+Thanks for playing Nazis With Attitude. If you like it then you may be interested 
+in my other mods Nazi Panic! 
+and Castle Hasselhoff. If you wish to comment on the game feel free to drop me an 
+email.
+
+Michael Collin'07
+
+mikecollin@btinternet.com

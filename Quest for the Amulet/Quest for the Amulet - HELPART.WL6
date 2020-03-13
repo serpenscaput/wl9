@@ -1,0 +1,247 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Quest for the Amulet, an add-on for Spear of Destiny. 
+It was created by me, Ian Skevos-Jones. My brother, Wolf, helped with many of the 
+source code changes. MCS also contributed to the source code by enabling the in-game 
+story text.
+
+Quest for the Amulet was done in a style similar Laz Rojas' spectacular WolfenDOOM 
+games.
+
+^P
+^C7d A NOTE TO OTHER ADD-ON MAKERS
+
+^C00 Since this game was intended to be similar to Laz Rojas' WolfenDOOM, many of 
+the graphics and sound effects were taken from WolfenDOOM games under Laz's permission. 
+Please do not use parts of this add-on for your own add-ons. Thanks.
+
+^P
+^C7d THE STORY
+
+^C00 Bavaria, Germany - 1942. You are William J. "B.J." Blazkowicz, Agent of the 
+O.S.A (Office of Secret Actions). You were sent to retrieve plans from Castle Huellenburg. 
+According to the plans you found, the Germans are making a special plan involving 
+occult powers: the Afrika Korps troops are going to search for an ancient Egyptian 
+artifact known as the Amulet of Anubis.
+
+^P
+^C7d THE STORY
+
+^C00 The Amulet is located in Cairo, Egypt. It is supposed to have some kind of magical 
+power. The Nazi men who are involved in this operation are Franz and Karl Grosse 
+(two super soldiers), and Major Wustenwolf of the Afrika Korps. The Allies have decided 
+that the Amulet of Anubis must be retrieved before the Nazis find it. So the O.S.A 
+has chosen you to retrieve the Amulet. Unfortunately, you were captured by the Nazis. 
+You were taken in a truck that was headed for a prisoner of war camp.
+
+^P
+^C7d THE STORY
+
+^C00 A few hours later, you arrived at the prisoner of war camp. Then you and the 
+other prisoners were moved out of the trucks. All the other prisoners were sent to 
+their huts, while you were taken to the office for questioning.
+
+^P
+^C7d THE STORY
+^G32,16,10
+
+^C00 After being questioned by a Nazi officer, you were sentenced to be shot the 
+next day. They proved that you were a spy. The guard then took you to the cooler 
+and locked you in.
+
+^P
+^C7d THE STORY
+^G32,16,11
+
+^C00 The next day, you heard footsteps coming your way. You stood next to the door. 
+As the guard came in, you grabbed him from behind and back-stabbed him with his own 
+knife. As he fell dead, you took his gun. The quest for the Amulet of Anubis begins!
+
+
+^P
+^C7d FEATURES
+
+^C00* 21 new levels 
+* New enemies
+* WolfenDOOM graphics and sounds
+* German and Egyptian environments
+* Changed help screen and end screen
+* Intermission text
+* Changed ceiling and floor colors
+* New music
+* New demos
+
+^P
+^C7d ITEMS
+
+^C00 Throughout the game, you will find some supplies to help. There are health, 
+treasure, ammo, etc.
+
+^P
+^C7d ITEMS
+
+Treasure: ^C00There is Egyptian treasure in the game. You'll find more of it once 
+you get to Egypt. Some in Germany are being studied by Nazis. Enough treasure can 
+give you an extra life.
+
+^C7d Canopic Jar: ^C00 100 points
+
+^C7d Chalice: ^C00 500 points
+
+^C7d Chest: ^C00 1000 points
+
+^C7d Crown: ^C00 5000 points  
+
+^P
+^C7d ITEMS 
+
+Health: ^C00Around the game, there are three kinds of health items. One is a bottle, 
+one is a plate of food, and one is a first aid kit.
+
+^C7d Bottle of Schnapps: ^C00 5%
+
+^C7d Food: ^C00 10%
+
+^C7d First Aid Kit: ^C00 25%
+
+^P
+^C7d ITEMS
+^G96,16,153
+
+Keys: ^C00If you can't open a door, you can find a key hidden in the area. There 
+are two kinds of keys: one is silver, the other is gold.
+
+^P
+^C7d ITEMS
+
+Extra Life: ^C00If you see a floating sphere that has your face on it, it can give 
+you an extra life. It also gives full health and 25 of your ammunition.
+
+^P
+^C7d ARSENAL
+
+^C00 There are four weapons to use in the game going from weakest to the most powerful. 
+All weapons use ammunition except your knife.
+
+^P
+^C7d ARSENAL
+
+Knife: ^C00This weapon requires no ammo and is used for close-range.
+
+^C7d Luger: ^C00The standard German pistol. It's also the weapon you start the game 
+with. It cannot shoot rapidly, but you'll find other weapons better than this one.
+
+
+^P
+^C7d ARSENAL
+
+MP40: ^C00This is the submachine gun used by the infantries. It can also shoot more 
+rapidly than the Luger.
+
+^C7d Chaingun: ^C00The ultimate weapon of killing things. It has six barrels and 
+can shoot more rapidly than the others.
+
+^P
+^C7d ARSENAL
+
+Ammo: ^C00All your weapons except for your knife use 9mm bullets. You will find ammo 
+in clips and in boxes.
+
+^C7d Clip: ^C00 8/4
+
+^C7d Box: ^C00 25
+
+^P
+^C7d THE ENEMY
+
+^C00 Your enemies are the Third Reich. In the game, there are the Wehrmacht and the 
+Afrika Korps. The Wehrmacht is in Germany and the Afrika Korps will be found in Egypt. 
+You will also face other things...
+
+^P
+^C7d THE ENEMY
+^G32,16,150
+
+Guards: ^C00The guards are especially weak, but they are also dangerous. They are 
+armed with the Luger. Stay away from them if you're too close to them, and kill them.
+
+
+^C7d Infantries: ^C00The infantries are more dangerous than the guards. They are 
+more tough and use the MP40. They can cause serious damage.
+
+^P
+^C7d THE ENEMY
+^G32,16,151
+
+Officers: ^C00The officers are armed with the Luger, but they are also tough and 
+aggressive. If you don't kill them quickly enough, they will show you no mercy.
+
+^C7d Scorpions: ^C00When you approach the Egyptian tomb, you will also face giant, 
+black scorpions. They will attack any human being alive and sting them and eat them. 
+They are fast and dangerous, but they're not that tough to kill.
+
+^P
+^C7d THE ENEMY
+^G32,16,152
+
+^C7d Mummies: ^C00Besides the scorpions, you will also face mummies resurrected from 
+the dead. They are slow moving, but are very dangerous when you're close to them. 
+Not only will they try to smack you, but also the Nazis.
+
+^P
+^C7d THE ENEMY
+^G32,16,100
+
+Franz Grosse: ^C00This German super-soldier of the Grosse family is forming an assembly 
+for his brother Karl, who is heading for Egypt. He is extremely tough and carries 
+two chainguns!
+
+^P
+^C7d THE ENEMY
+^G32,16,98
+
+Major Wustenwolf: ^C00This German officer is a friend to General Erwin Rommel (better 
+known as the Desert Fox) and is involved in getting the Amulet of Anubis. He is armed 
+with a rocket launcher and a chaingun!
+
+^P
+^C7d THE ENEMY
+^G32,16,99
+
+The Mummy Lord: ^C00The Mummy Lord will be found in the Egyptian temple. He can shoot 
+flames to burn his enemies. Be careful!
+
+^P
+^C7d THE ENEMY
+^G32,16,97
+
+Karl Grosse: ^C00Although he is tougher than his brother Franz; but in fact, he has 
+two chainguns and two rocket launchers! He is another leader involved in the Amulet.
+
+
+^P
+^C7d HOW WAS THIS ADD-ON CREATED?
+
+Floedit: ^C00Mapediting/importing
+^C7d Jasc Paint Shop Pro 7: ^C00Graphics
+^C7d Sound Forge: ^C00Sound effects
+^C7d Borland: ^C00Source code
+^C7d IMF Tools: ^C00Importing music
+^C7d BMP2C: ^C00Signon screen
+
+^P
+^C7d CONTACTING ME
+
+^C00 If you have any trouble playing this game, you may send me some e-mail and I 
+will try to help. My e-mail address is ^C7dian@shadaux.com
+
+^C00 If my e-mail address doesn't work, try ^C7dwolfsj@bellsouth.net
+
+^P
+^C7d ENJOY PLAYING
+
+^C00 I hope you enjoy playing Quest for the Amulet! Now it's time to save the world 
+from tyranny!
+
+^E

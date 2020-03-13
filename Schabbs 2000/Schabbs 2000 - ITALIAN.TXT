@@ -1,0 +1,145 @@
+ SCHABBS 2000                                                                    
+                      
+creato da Gary Ragland                                                           
+                                                                                 
+               Creato da: Gary Ragland
+
+Grazie per aver scaricato Schabbs 2000. Questo file leggimi spiegherÖ come
+installare il gioco con alcuni suggerimenti utili e informazioni sui livelli. 
+Come il mio precedente add-on, Assassina Hitler,  Schabbs 2000  ha livelli
+consecutivi.  Ci sono inoltre anche miglioramenti e include delle sorprese.
+
+--- INSTALLAZIONE
+Occorre semplicemente decomprimere il pacchetto nella tua directory WOLF3D.
+Schabbs 2000 non corrompe i  files originali, cosç puoi giocare ancora con
+esso. Basta digitare schabbs.exe, premere Invio e sarai in gioco. 
+Una volta nel gioco, scegliere SCHABBS 2000 dal Menu New Game.
+
+--- TRAMA DEL GIOCO
+Lo spionaggio alleato ha scoperto il  progetto segreto dei Nazisti  chiamato
+Operazione Eisenfaust. Molto semplicemente, riguarda la creazione di un 
+mutante-soldato dai corpi dei morti. Dietro a questo esperimento c'ä lo 
+scienziato pazzo Dott.Schabbs. I mutanti da esso creati sono ancora nel suo 
+laboratorio.
+Devi distruggerli prima che possano essere messi in circolazione, il che
+assicurerebbe la vittoria certa ai Nazisti. Si dice che esista anche un 
+mutante speciale creato da Schabbs, chiamato il "Ubermutant." Se lo trovi, 
+deve essere eliminato. Il tuo tempo ä limitato, cosç esci in fretta dal 
+Castello Hollehammer.
+
+--- CAMBIAMENTI NEL FILE EXE
+	*  Livelli di gioco consecutivi senza bisogno di passwords
+	*  Cambiati i colori del soffitto 
+	*  Cambiato l'ordine delle musiche (incluse alcune da Spear of Destiny)
+	*  Tempi parziali per i primi otto livelli
+	*  Rimossi i codici segreti (almeno per la maggior parte)
+	*  E il pió significativo ---  una nuova chiave (vedere sotto)
+
+- Ci sono anche alcune novitÖ grafiche, soprattutto dei pannelli del muro. 
+Molti sono tratti da Spear of Destiny, ma altri sono originali.
+
+--- LE UNITA'
+Il gioco consiste di 50 livelli, ed ä concepito in "unitÖ", ciascuna con un
+tema ed obiettivo diverso. Questa ä una sezione molto importante da leggere
+perchÇ assai utile per capire il gioco:
+
+   UNITA 1--- Il Castello Vecchio (livelli 1-8)
+Questa prima sezione ä abbastanza normale ed ä simile ai livelli originali di
+Wolf (ma probabilmente pió duro) Questi livelli rappresentano il Vecchio
+Castello, il cui aspetto massiccio, visibile dall'esterno, che nasconde parte 
+del laboratorio di Schabbs. Il laboratorio si estende sul dorso della 
+montagna, dietro e sotto l'ingresso del castello.  Questi livelli presentano 
+un numero moderato di mutanti, ma molte guardie regolari.  
+Per le prime versioni di questo add-on, questi sono i soli livelli che hanno  
+tempi parziali propri.
+
+   UNITA' 2--- Il Reattore (livelli 10-19)
+Questa ä la sezione che probabilmente necessita di spiegazioni maggiori, ed ä il
+prima dove si deve trovare ed usare una chiave nuova. 
+Primo, la disposizione:
+Il Reattore ä la parte del laboratorio di Schabbs' dove tutta l'energia ä
+creata per alimentare l'apparato e l'equipaggiamento per produrre mutanti.
+Perciï, ä probabile vedere molti barili di materiale nucleare e disordine 
+tutto intorno.
+Nel primo dei 9 livelli di questa unitÖ, come giÖ detto, ä necessario qualche
+volta trovare, oltre le chiavi oro ed argento, la CHIAVE NUCLEARE. Vale a 
+dire che per uscire da alcuni livelli si richiedono tre chiavi. Il livello 19
+non ä niente male. Questo livello ä il CENTRO del reattore volatile. Ci sono
+pochissime guardie, perchÇ il reattore sta fondendo e deve essere chiuso per
+sempre. Se tu non esci fuori in tempo, ti troverai fuso nell'esplosione di
+fanghiglia nucleare. Devi destreggiarti dentro labirinto mentre a distanza si
+sentono i rumori strani del reattore. Se lo fai correttamente ti troverai
+davanti ad una porta chiusa (per aprire la quale non c'ä bisogno di alcuna
+chiave), con due simboli di attenzione (AUCHTUNG) nucleare. Qui devi aspettare
+una guardia nazista che verrÖ nel reattore attraverso la porta. Sparagli e ti
+lascerÖ la porta d'accesso aperta. Vedrai l'elevatore d'uscita a sinistra. Se
+non sarai veloce la guardia lascerÖ l'area e sarai bruciato. La guardia, DI
+SOLITO, appare alla porta circa 2 minuti e 10 secondi dopo l'inizio del 
+livello.
+SUGGERIMENTO: Per trovare il percorso che conduce all'uscita, segui la 
+"colata dei barili nucleari."
+
+   UNITA' 3--- Il Bio-Labs (livelli 20-24)
+Dopo il disordine del reattore, devi penetrare i bio-laboratori che sono
+sporchi e misteriosi. Questa ä l'area dove il dottore pazzo furioso compie
+esperimenti inumani, cercando nuove conquiste nella tecnologia del mutante.
+Troverai in questa area mutanti in abbondanza, molti morti e scheletri.
+
+   UNITA' 4--- Sicurezza Centrale (livelli 25-30)
+Sicurezza Centrale ä situato a circa metÖ strada dentro la cima della montagna,
+ed il suo scopo principale ä difendere le aree retrostanti. I comandanti
+nazisti hanno pensato che le spie se fossero sopravvissute al Reattore sarebbero
+
+state fermate in questo punto. Siccome questa unitÖ ä molto ben vigilata, non
+troverai mutanti ma tante guardie naziste.
+
+   UNITA' 5--- La Fabbrica (livelli 31-38)
+La Fabbrica ä dove c'ä una catena montaggio di tutti i mutanti sono
+equipaggiati con le loro mannaie ed il torace che spara. Questa unitÖ, 
+come il Reattore, richiede l'uso di una terza chiave. In questo caso ä la 
+Fabbrica Passcard. I precedenti due livelli dell'unitÖ, non appartengono realmente 
+
+alla fabbrica, ma ä una sorta di magazzino di stoccaggio. Il Livello 37 ä un
+enorme dormitorio per tutti i soldati nazisti. Livello 38, Caverne
+Raccapriccianti, ä un livello-tunnel che connette la fabbrica al castello,
+passando attraverso la montagna.
+
+   UNITA' 6--- Il Castello (livelli 39-48)
+Il Castello ä costruito sui resti di un antico castello tedesco, situato 
+proprio sul picco della montagna. Questi dieci livelli sono simile alla prima
+unitÖ del castello, solo leggermente pió difficili. Pió ti avvicini alla fine 
+e pió mutanti saranno presenti.
+
+   UNITA' 7--- I Livelli del Comandante (livelli 49-50)
+Non c'ä molto spiegare qui. L'Ubermutant si trova nel livello 49 mentre Schabbs
+ä nel livello 50. Ambedue i livelli sono difficili  ma certamente superabili.
+
+--- Il livello 9 ä un livello segreto raggiungibile dal livello 8. La sue
+caratteristiche principali sono il senso di mistero, di essere molto bizzarro
+ed il suo inizio difficile. Fai attenzione ai rischi che potresti
+incontrare(non si puï pió ritornare indietro ai livelli originali)
+
+--- RINGRAZIAMENTI
+
+Uno speciale ringraziamento a:
+	  Chris Chokan
+          Warren Buss, Bill Kirby, e tutti gli altri che hanno lavorato su 
+	  Mapedit/ Wolfedit
+
+E' possibile distribuire liberamente questi livelli aggiuntivi, a condizione
+che sia incluso integralmente questo file di testo.
+
+c 1998-1999
+
+In futuro, controlla il mio sito Web per nuovi  progetti di livelli aggiuntivi,
+insieme a molti altri:
+			http:// members.tripod.com/~ gdr2
+
+Oppure scrivimi via e-mail a:    gragland@ ix.netcom.com
+
+Se vuoi, puoi inviarmi domande o commenti su Schabbs 2000     
+
+Buona fortuna----
+
+Gary Ragland
+

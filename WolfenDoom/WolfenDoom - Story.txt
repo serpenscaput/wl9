@@ -1,0 +1,973 @@
+Wow, sorry about the LONG storyline that follows. I guess I got a
+bit carried away! Oh well, I hope id software don't mind me doing all
+this. Hell, without id software, we wouldn't have classic games like
+Wolfenstein and Doom to stuff around with! But, I figure that as they
+turn a blind eye to the thousands of Doom add ons, editors etc etc
+freely available on the shareware scene, that hopefully they won't mind
+this add on storyline for "Wolfendoom". After all, the only thing I'm
+getting out of this is a bit of fun, but, hopefully for id software, it
+may entice a few more people to purchase the registered version of the
+original classic, Wolfenstein 3D.
+
+     Well, a game without a background story is a bit like a novel 
+without a plot; meaningless. So here's a background story to give
+"Wolfendoom" some meaning!
+
+                           W O L F E N D O O M
+                           ===================
+
+     "Doom", as we all know it, is set in the future. Let's go back in
+time, to the present, when a fledgling company known as the Union 
+Aerospace Corporation (UAC) was in the process of establishing itself
+in the business world.
+
+     It's a cold and rainy Sunday morning, and you find yourself standing
+outside the main entrance to UAC1, one of the 6 UAC sites in existence.
+You were recently employed here, and, as you pace back and forth, 
+contemplating the enormity of the task you are about to undertake, you
+think to yourself; "Is it worth it?"
+
+     Maybe it would just be easier to forget this whole idea and go back
+home. Let UAC go to hell. After all, they'd brought their problems on
+themselves. And they'd hardly treated you well, either! But there was
+more at stake than just UAC. You realised the coward's way out was not
+an option, after all, you were no coward!
+
+     Your name, of course, is none other than B.J. Blazkowicz Jnr, son
+of the famous World War II veteran. You've heard all your dad's war
+stories, and have always hungered for the opportunity to emulate his
+feats.
+
+     You pondered the events that had led to you being here outside
+UAC1. You'd spent many years working for the military, occupying
+senior officer positions. That's what led to UAC snapping you up when
+you applied for a job with them a few years ago as a senior military
+consultant. With UAC's heavy involvement in military related projects,
+you were their ideal choice for the position. And so, for the past few
+years or so, you had excelled in your position at the fledgling UAC.
+Things couldn't have been better, or so you had thought until just a 
+few short months ago...
+
+     It all started when you attended the UAC1 General Manager's office
+one day to present a report on a project you were involved with. On
+entering his office, you couldn't help but notice the eye catching
+object sitting prominently on his desktop. It was in the shape of a life
+size human skull, but crafted from what appeared to be a dazzling blue
+sapphire like material. The General Manager had immediately acknowledged
+your obvious interest in the skull.
+
+     "Oh, I see you're quite taken by my new `paperweight', B.J." he had
+laughed.
+
+     "Paperweight?" you had replied. "It looks like a damned expensive
+type of paperweight!" you'd exclaimed.
+
+     It was the General Manager's delayed response that aroused your
+curiosity. 
+     "Oh, it's nothing, really. Just a gift from the boys down in
+Research, actually. Ahh, the report, B.J., let's see it, I've got a
+busy schedule, you know."
+
+     Well, he'd dropped that subject like a hot potato! Boys down at
+Research? You left the General Manager's office shortly after, wondering
+what the hell the UAC Research team guys were doing sucking up to the
+General Manager in such a seemingly extravagant, if not unusual, fashion.
+Ahh, what the hell, you had work to do, so you quickly put the skull out
+of your mind. But it didn't stay there long.
+
+     The following week you visited a colleague's office to check on a
+business matter, only to find him out. Grabbing a notepad from his desk
+to leave him a message, you noticed a shimmering red object on the floor
+behind an indoor plant. Leaning sideways, you positioned yourself to get
+a better look.
+
+     Another skull. Except this time, the most intoxicating ruby red.
+Intrigued, you picked the skull up off the floor and closely examined it.
+     
+     The craftsmanship was flawless. It was as if an actual human skull
+had been somehow crystallized, such was the detail etched into it. As
+you carefully turned the skull over in your hands, you all of a sudden
+became aware of someone watching you. Turning around, you saw your
+colleague standing at the entrance to his office.
+
+     "Not bad, is it?" he smiled, looking at the skull in your hands.
+
+     "A gift from the boys at Research, eh?" you quipped.
+
+     "Yeah! Dead on. You got one too, eh?" he replied. But before you
+could reply, your colleague closed his office door and continued
+rambling on, albeit in a lowered voice.
+     "I've been told the red ones are special. I've done a few favours
+for the Research boys in the past, and they gave me that as a way of
+saying thanks. Most of the others they've given away are the blue 
+sapphire variety. Doesn't matter much, anyway; their real value is highly
+questionable as no one can tell us what they're really made from. Looks
+like gemstone, but apparently just an imitation of sorts."
+
+     You still couldn't understand any of this "skull" business.
+
+     "Well, why the skulls? Where are they getting these things from?"
+you asked.
+
+     Your friend pondered for a moment before replying.
+     "Who knows, B.J., who knows. All I know is that there's been a lot
+of excitement down in the Research department lately. I know a few of
+the fellows down there pretty well, and although they won't say anything
+to me about it, I expect they're toying with some new experimental
+material. Those skulls are probably just a bit of a joke, but you try
+smashing one, B.J.! Almost impossible to even dent the things! And I
+back it in that they're made from this new experimental material. Well,
+at least that's my guess, anyway."
+
+     Well, so much for that. Although all of this remained a bit of a
+mystery, it seemed somewhat more trivial now. Perhaps your friend was
+right about the development of a new material. But in the weeks to come,
+other odd things were to occur that would make you curious as to what
+was really going on down in the UAC Research Department.
+     
+     Firstly, there was the increase in UAC armed personnel patrolling
+the site. Normally, due to UAC's involvment in military projects, many
+of which you were personally involved with, there were always a number
+of armed troopers, employed by UAC, patrolling the site. But no military
+projects you were involved with warranted this dramatic increase in the
+number of UAC troopers on site. Security had more than doubled in the
+space of a few weeks, and on the spot I.D. checks of UAC staff by 
+troopers had become a daily occurrence rather than just a random event.
+
+     And something else had caught your attention. Due to your executive
+position, you had ready access to information regarding freight movements
+to and from the UAC site. On checking whether a consignment of parts for
+a project you were involved with had arrived the previous day, you 
+couldn't help but notice the dramatic increase in freight movement in and
+out of the site. Incoming freight had almost doubled, and outgoing
+freight had more than tripled! Just in the space of a couple of months!
+
+     Something decidedly fishy was going on. Your thoughts kept returning
+to the sudden appearance of those unusual skulls. Damn it, in your
+position, you should know what the hell was going on! And so you made
+that fateful decision to investigate just what it was. 
+
+     Obviously, the Research Department seemed to be the centre of all
+this odd activity. However, there was no way you were going to be able
+to access that area unless special security clearance was given. Fat
+chance of that! It seemed the next most logical way of gathering clues,
+though, was to investigate the increase in freight consignments entering
+and leaving the place. So that would be where you started your
+investigation.
+
+     Working back late one evening, you decided the time was right. 
+Leaving your office, you strolled down to the secured entrance leading
+to the main freight containment areas. Inserting your key into the
+computerized access panel, you heard an audible "click" followed by
+the sound of the steel security door sliding sideways. "ACCESS GRANTED",
+so you were informed by the access panel. Ha! You'd feared that your
+access rights to this area may have been changed what with all this
+increase in security, but such was not the case! This may be easier
+than you thought! But, as you neared the loading bay entrance to
+the main stores, two UAC troopers approached you.
+
+     "I'm sorry, sir, but this is a restricted area" exclaimed one.
+
+     "Since when have the stores been restricted to the likes of me?"
+you queried.
+
+     "Orders from the General Management, sir. No one to enter the 
+stores outside of working hours unless proper authorisation is given."
+replied the trooper.
+
+     "I've got news for you, sonny!" you retorted. "I've got a damned
+important freight consignment sitting down here. I'm personally
+responsible to ensure nothing happens to it."
+     
+     You were stunned when the trooper cocked his rifle and aimed it
+directly at your chest. "I'm sorry, sir, but I have strict orders!"
+
+     Your response was quick. "How dare you point that thing in my
+direction! Do you know who I am? I'll have your head on a platter for
+this!"
+
+     It worked! The trooper lowered his weapon slightly, and replied:
+     "Sir, I'm sorry, but, my orders were to stop anyone coming in here
+after hours..."
+
+     You decided to continue with the overbearing tone. The stories your
+father had told you of those SS officers at Castle Wolfenstein had taught
+you a trick or two, after all!
+
+     Look here, young man," you replied, "I'm working back late tonight
+to make sure this project is ready to go first thing tomorrow morning.
+If that consignment isn't ready, it'll jeopardise everything." Pointing
+your finger at the troopers chest, you added "and if that happens, I'll
+hold you personally responsible!"
+
+     The two troopers looked at each other. The one that had been doing
+the talking turned towards you, and, motioning with his rifle for you to
+enter the main store, said, "Ten minutes only, sir. That's all I can
+allow."
+
+     Deciding not to overdo the arrogance, you replied "Ten minutes is
+all I need, thankyou", and with that you headed into the large main
+storage area.
+
+     Out of sight of the guards, you quickly scanned the interior of the
+store for other guards or cameras. You were in luck - none in sight!
+Hidden cameras may be a possibility, but, hell, you knew risks would
+have to be taken. Besides, your gut instinct told you something nasty
+was being covered up here. Time was precious - you moved quickly.
+
+     You headed over to a corner where a new consignment of incoming
+freight containers had been stacked against a wall. A quick check of the
+consignment numbers indicated that these containers all had the same
+contents. Taking one more cursory glance around yourself, you used a
+steel bar you'd found against a wall to pry the top off one of the
+containers and reveal the contents.
+
+     Automatic rifle ammunition! So, all these containers, and there 
+were hundreds of them, contained ammunition! OK, you could understand
+that a certain amount of ammo was needed for the UAC troopers on site,
+but hundreds of containers of the stuff? C'mon, this was overkill!
+
+     Quickly, you headed to another area loaded with incoming freight
+containers. Once again, all labelled with identical consignment numbers.
+A quick jerk of the steel bar and the top of one was off, allowing you
+to peek inside.
+
+     First aid kits! What was all of this? Stockpiles of ammo, and now
+stockpiles of first aid kits! It was as if UAC were preparing for all
+out war! Something very strange was going on, of that you were now
+certain. And you were determined now, more than ever, to get to the
+bottom of this.
+
+     The outgoing freight. That had to yield the key to this whole
+business. What could UAC be shipping out of this place in such large
+quantities? Well, you were about to find out. Having moved over to the
+outgoing freight containment area, you found yourself confronted with
+hundreds of large crates all with similar consignment numbers. And all
+marked with highly classified government or military research 
+institutions as their destinations. This would be interesting. Acting
+quickly, you forced the top off one of the crates to reveal...
+                                                        
+     Skulls! Hundreds and hundreds, indeed, thousands of those damned
+skulls that had been appearing around the place. And blue vials 
+containing some sort of fluorescant liquid. What was this stuff? And
+then something caught your attention. A few containers, stacked 
+seperately from the rest, in a remote corner. The outside of some of
+these containers were slightly frosted over with ice, indicating
+something cold inside. You'd already used your ten minutes - you had to
+act very quickly now. 
+     
+     Forcing the lid off one of these crates, you found the inside to be
+filled with crushed dry ice. Carefully brushing aside the top centimetre
+layer of ice, you found that something was being stored in what appeared
+to be...
+
+     You brushed aside some more of the ice, careful not to burn your
+fingers with the intense cold it generated. It couldn't be? Or was it?
+It was! A body bag! A chill ran up your spine. Finding the zipper, you
+carefully unzipped the bag to peer in at what lay within.
+
+     You'd never seen anything like it before. It was a body, no doubt,
+but of what? The creature resembled a gorilla of sorts, but with what
+appeared to be spikes or small ivory like tusks protruding from its
+body. But before you could examine it further, the cocking of an automatic
+rifle from behind made you spin around.
+
+     "I'm afraid your ten minutes is up, sir!"
+
+     Before you could react, a rifle butt from another trooper standing
+to your side came crashing down on the back of your head, and all went
+black...
+
+     You regained conciousness in what appeared to be a hospital room.
+Your head throbbed, and it was no surprise to find a large lump on the
+back of your cranium. After what seemed like hours, the door to your room
+opened, and a familiar face appeared at the door. It was none other than
+the UAC General Manager! Well, a visit from the top boy himself. Seems
+your actions may have stirred up a bit of an ant's nest.
+
+     "B.J., good to see you've come to. How are you feeling?" he asked.
+
+     "I've felt better", came your cool reply. The General Manager
+gave a wry smile and continued.
+
+     "Mmmm, that was a nasty fall you had. Should be more careful going
+down those stairs, you know, B.J."
+
+     Nasty fall? You shot an angry glance at the General Manager. "I'd
+hardly call a rifle butt blow to the back of my head a nasty fall" you
+snapped.
+
+     "Rifle butt blow? Now, now, B.J., I think your time in the military
+must be catching up with you! You had a nasty fall, that's all. Must have
+affected your memory, by the look of it. Falls like that can do that kind
+of thing, you know!"
+
+     You didn't like the condescending manner in which he spoke. You gave
+him an icy stare. 
+     "I stuck my nose in where it wasn't welcome, granted, but in my
+position here at UAC, I should bloody well know what's going on here!
+Judging by what's being "exported" out of this place and the quantity of
+ammunition and first aid coming in, something big is going on, and seems
+to be getting covered up for some reason."
+
+     The General Manager shook his head in dismay.
+     "I'm disappointed, B.J.! For one thing, there is no such freight
+movement taking place at all. Your imagination again, I'm afraid. But, if
+I were you, B.J., I wouldn't go talking to everyone about the tricks your
+imagination has been playing on you. After all, your credibility is at
+stake here."
+
+     "Absolute crap!" you replied. "My credibility has nothing to do with
+this! Come on, tell me. What is going on here? Really?!!!"
+
+     The General Manager hung his head momentarily, then looked back at
+you.
+     "You'd better get better, B.J. - and you'd better be more careful,
+too, my friend. After all, we can't have you being careless and falling
+down any more steps, can we? Another nasty fall could kill you..."
+
+     The message sank in. Shut up or be silenced. Well, you'd play their
+game for now, but, you were determined not to let the matter rest.
+
+     After a few days recuperating, you returned to work, knowing things
+were not going to be quite the same. You were not surprised then, within
+an hour of returning, you were summoned to attend the General Manager's
+office.
+
+     On entering the office, you found yourself confronted by not only
+the General Manager, but the Personnel Manager and another UAC bigwig.
+     "Take a seat, B.J." beckoned the General Manager. After a moment's
+silence, he continued.
+     "I'm not sure whether you know it or not, B.J., but there's been a
+bit of a structural shake up within UAC. Unfortunately, your position
+within the company has been made redundant, so I'm afraid that we will
+no longer have need of your services."
+
+     Somehow, this didn't surprise you one iota. Stuff it, let them play
+their little games down in the Research Department, you couldn't be
+bothered with the likes of these fools anymore. The General Manager
+seemed surprised when you smiled and accepted the redundancy package
+without offering any further comment. You even shook his hand before
+departing!
+
+     And so it was that you departed UAC for what you thought was the
+last time. You looked forward to an early retirement from all this 
+bullshit. Let's enjoy life for once!
+
+[I warned you - this is a bloody long storyline! Yes, I know, I can
+waffle on! And guess what? We're almost a half of the way there! WHAT??? 
+I hear you say - only a bloody HALF of the way? ALMOST??? OK, I'm sorry. 
+Bear with me, we're getting there - albeit slowly!]
+
+     Three months passed. Then one day, while relaxing over a drink at
+your favourite hotel, you felt a hand touch your shoulder. 
+     "B.J. Blazkowicz!" a voice exclaimed. "I was told I'd find you
+here!"
+
+     Swinging around in your chair, you recognised a familiar face.
+     "Why, I know your face!" you exclaimed. "UAC Research Department,
+right?"
+
+     The man smiled. 
+     "Dead on! Or, well, at least I used to be part of the UAC Research
+team, that is, until I resigned last week." His smile had died as he
+finished the sentence. Before you could offer a reply, he continued in a
+hushed tone.
+     "So, I believe you saw a little too much for UAC's liking down in
+the main stores area, eh? Let me tell you, what you saw was nothing, but
+still your actions caused quite a bit of concern among the top boys!"
+
+     "How do you know all of this?" you asked.
+      
+     "I worked in the Research Department, B.J., the centre of all the
+strange activity that's been going on at UAC. There's not much we didn't
+hear about."
+
+     "Well, that's history now," you lamented. "Why'd you come looking
+for me?"
+
+     The man shot a cautious glance around the bar before answering.
+     "Well, B.J., firstly, let me explain some things to you. Things
+are getting pretty bad down at UAC, it won't be long before things get
+totally out of control. That's the reason I resigned. I sincerely
+believe my life is on the line just through coming here to talk to you.
+If anyone at UAC finds out I'm talking to you about this, I'm a goner.
+But, I have to take the risk."
+
+     Your interest had been aroused.
+     "What the hell are you on about?" you asked.
+
+     "I'll tell it from the beginning," he replied, "then you'll know
+exactly what's been going on." The man took a seat opposite you, and
+drew in a deep breath of air before continuing.
+
+     "It all started two years ago at UAC Plant 6. The Research team
+there were working on a project involving some form of teleportation
+technology. The military got wind of it, and were so keen on developing
+the idea as quickly as possible that they poured millions into funding
+the project. As far as the military were concerned, the benefits of such
+technology were obvious. Imagine, teleporting squads of troops and
+supplies in behind enemy lines. Infiltrating enemy headquarters. The
+possibilities were endless. Anyway, with the unlimited budget allocated
+to researching this teleportation business, the Research team at UAC6
+decided to go full hog on the project. Within a year, they found 
+themselves on the verge of a breakthrough. Then, through sheer chance,
+they created something totally unexpected. Somehow, they had artificially
+created some kind of a void, or a portal of sorts, inside the actual
+Research Lab itself. Not knowing exactly what it was, they threw some
+objects into the thing, only to see them swallowed up and seemingly
+gone without a trace. A tracking device was thrown into the "portal" to
+try to ascertain where the things were going, but as soon as the thing
+disappeared, so too did the signal it transmitted. No one dared entering
+the thing in person, as it was considered a possible lethal course of
+action. That's when the military stepped in and used their political
+muscle to provide a "volunteer". This "volunteer" was a military prisoner
+sentenced to be executed the following day for murder. The offer they
+made to him was, volunteer for the experiment, and, if he survived, his
+sentence would be commuted to life imprisonment. With nothing to lose,
+the prisoner had accepted the proposal willingly. And so the first human
+entered this "portal". One hour or so after after he'd gone in, fears
+grew that he'd been killed as soon as he had entered, as there had still
+been no sign of him. But, then, all of a sudden, he had emerged from the
+portal, totally unharmed. His only comments were that, compared to the
+place he'd just been, prison would seem a much brighter place than he'd
+ever known it to be!
+     And so, after this, teams of UAC research personnel entered the
+portal to see what lay beyond. What they found was a kind of "gothic
+mirror" of our own world. Test after test revealed that, where ever this
+place was, it was not really of this world though. It was as if the portal
+was a gateway to another world altogether, or alternative dimension,
+perhaps even another time plane. Whatever, exploration of the place
+revealed a number of unusual artefacts. The skulls you're so familiar with
+by now, are from this "new world". So too are those blue vials you may
+have seen down in the main storage areas. They contain some kind of
+unusual liquid that reportedly has healing properties. Anyway, orders from
+the top boys required that we collect as many of these artefacts as
+possible so they could be distributed to various top secret research
+institutions for thorough examination and testing.
+     Whilst all this had been going on, instructions had been issued to 
+the other five UAC sites in this country to have their research 
+departments attempt to duplicate the creation of this "portal". 
+Fortunately, or on hindsight, maybe not so fortunately at all, the 
+research team at UAC6 had documented all steps they had taken towards the
+creation of the portal. Following these exact same procedures, and with
+funding from the military, the research teams at the other five UAC sites
+were able to achieve the exact same result as UAC6 - a portal to another
+"dimension".
+     At first it was assumed that each portal would be a doorway to the
+exact same area as that found beyond the original portal at UAC6, but
+this was not the case. The portals obviously seemed to lead to the same
+"other worldly" dimension, but each portal opened a doorway to a
+completely new area within this dimension. Anyway, once these portals
+had been created, the orders from the UAC hierarchy was the same; explore
+the new "dimension" as thoroughly as possible, and retrieve as many
+artefacts as possible for research purposes."
+
+     The man finally paused for a second to quaff a beer he'd bought
+earlier. His incredible story had you engrossed, although you still
+wondered what his motivation in telling you was. He continued.
+     "Anyway, things went without incident for a short while, but then,
+something happened over at UAC6, the location of the first portal. A
+research team had been passing through a previously explored area of the
+new dimension, when all of a sudden, they encountered a foreign life form.
+Before they had a chance to react, the creature attacked with an evil
+ferocity, killing three of the team and sending the others scurrying back
+to the portal. A team of UAC troopers was sent into the portal to tackle
+the creature. Apparently it put up quite a fight, killing one of the
+troopers in the process, but a few well aimed shots brought the thing
+down."
+
+     You were fascinated. 
+     "What did this creature look like?" you asked.
+
+     "I believe you already know the answer to that question." the man
+replied. You remembered the creature on ice down in the main stores area
+at UAC1. 
+
+     "Don't tell me," you said, "an ape like creature with ivory like
+spikes protruding from its body."
+
+     "That's the one," the man replied, "think yourself lucky the one you
+saw was dead. I've only ever seen these things once when they were alive,
+believe me, you want to have some heavy artillery on hand before taking 
+those bastards on. But, back to what I was saying.
+     After this initial incident at UAC6, encounters with these creatures
+gradually became more and more commonplace. They started appearing in the
+areas beyond the portals at the other five UAC sites, also. Some of us in
+the Research Department had a theory that, the more we exploited the new
+dimensions for artefacts and so forth, the more these creatures multiplied.
+But, of course, that was only a theory, and the military weren't interested
+in our theories. Before long, it was a standard practice to send a team of
+heavily armed UAC troopers along with any research personnel entering the
+new areas. And it was entirely due to the appearance of these hostile
+creatures that UAC more than doubled the number of troopers at each UAC
+site. Added security measures were also being taken, as UAC feared news of 
+this business would somehow be leaked to the press."
+                                       
+     As you listened to the man's story, the pieces of the jigsaw all
+began falling into place. The skulls, the sudden increase in UAC troop
+numbers, the outgoing freight movement. But you were still somewhat
+mystified by the dramatic influx of ammunition and first aid supplies
+to the UAC sites. 
+
+     "One thing puzzles me," you said. "Down in the main storage area, I
+found mass quantities of ammunition and first aid crated up. I mean, I can
+understand the need for extra ammunition and first aid supplies given the
+appearance of these creatures, but, with the amount I saw down in the main
+storage area, it was as if UAC were preparing for all out war!"
+
+     A grim look came over the man's face. "They are, my friend, they are.
+The UAC management are starting to get edgy, but now that the military are
+in control of things, UAC are powerless to do anything about it. The
+military just can't seem to realise the true seriousness of the situation.
+You see, the problem over at UAC6 is more advanced than at the other UAC
+sites, I suppose due to the fact that the portal there has been in
+existence for longer than the others. What happens through the portal 
+there seems to happen soon after with the portals at the other sites. It's
+got to the stage where new hostile creatures are starting to appear. On
+one of my brief visits to this other dimension at our own site, UAC1, I
+encountered a spectre like creature, half invisible and very fast. Luckily
+the troopers with me brought it down with one shot. I believe other more
+dangerous creatures have been appearing beyond the other portals.
+Basically, the situation, especially at UAC6, is getting totally out of
+control. No longer do we encounter the odd creature or two in the other
+dimensions, but hordes of them all over the place. They're multiplying.
+And as I stated earlier, I believe it's all due to this continual removal
+of those damned artefacts from this new dimension. It's like we've
+violated their world, and now it's time to pay. And that, B.J., is why
+UAC have huge stockpiles of ammunition and first aid - the new dimensions
+have become a veritable battlefield!"
+
+     "Well," you asked, "why don't UAC just stop removing artefacts from
+these other dimensions? Leave sleeping dogs lie, if you like?"
+
+     "But as I explained, B.J., our theories in why these problems are
+worsening don't interest the military, and as UAC are now virtually under
+military control, approaching the UAC hierarchy with our ideas won't make
+any difference. The military head honchos just want to exploit the new
+dimensions for all their worth. Hell, if some of the rumours I've heard
+are true, and I have strong reason to believe they are, this whole world
+of ours could be in dire trouble if the military get their way."
+
+     "The whole world?!!" you laughed. "Look, I hardly see how these
+creatures, as nasty as they may be, could pose a threat of that nature!"
+
+     The man frowned at your response. "You don't, do you? Well, you may
+just change your mind after you've heard out the rest of my story."
+
+     "Alright, then," you replied. "I'm listening."
+
+     The man paused before continuing, checking no doubt to see he had
+your complete attention before doing so.
+     "What I've told you so far is only the beginning. A couple of months
+ago, just before the military took effective control of UAC, the UAC
+management, concerned over the attacks being made on our people by these
+vile creatures, decided to close off the portals due to the danger
+associated with the new dimension. Listen to this - the portals COULDN'T
+be closed! This was contrary to all research department predictions; 
+somehow, something was preventing their closure. More accurately, our
+research on the problem indicated something on the other side of the 
+portals was keeping them open. Question was, what? The UAC management
+decided to act quickly. At each of the 6 UAC sites, a crack squad of UAC
+troopers was prepared, and then sent into the portals with orders to 
+penetrate the new dimensions as far as possible in an effort to determine
+where and what the problem was preventing the closure of the portals. Some 
+of these troops were armed with rapid fire assault weapons, even chainguns, 
+such was the firepower deemed necessary to combat these creatures. A few 
+troopers were left near the portal entrances in the new dimension areas 
+to maintain communications with the main groups, as communications could 
+not be maintained from the UAC side of the portals. Results and reports
+varied at each location, but I'll cite some examples for you.
+     At UAC6, the main squad of troopers made excellent progress, with
+only few casualties, and penetrated several levels into the new dimension
+before encountering a level that seemed to lead no further, a "dead end",
+or so it seemed. However, they hadn't explored the central area of this
+level. Last communication received from them was that they were moving in
+towards the central hub of this level. No more was heard after that. A
+backup squad of troopers was sent in to investigate; they found only one
+bloodied survivor trying to make his way back to the portal entrance.
+Apparently his only words were; "don't go on - danger - invisible!" He was
+led back to the UAC side of the portal by two other troopers, but died
+soon after. As for the rest of the backup squad, they didn't heed his
+advice, and went on to investigate. They were never seen again. Something
+had to have stopped them, B.J., something extremely powerful. And it is
+this "something" that we believe must be eliminated in order to effect the
+closure of the portal at UAC6.
+     The squads at UAC2, 4 and 5 reported similar findings to those 
+reported by the squad at UAC6 - but were lucky to have some survivors to
+give a more accurate account of what the problem regarding portal closure
+could be. The common denominator between these four UAC sites was that the 
+final levels within these new dimensions have no apparent exit, and that
+these levels are being controlled by some "supreme" creature of immense 
+strength. Our research indicates that these "supreme" creatures have an
+"energy signature" that is somehow linked to the portals, preventing us
+from closing them. It's as if these ungodly beasts are the "rulers" of
+these new dimension areas, and somehow have a degree of control over the
+portal leading to and from their particular dimensional area. I firmly
+believe that, if these creatures can be destroyed, then the portals will
+close down automatically."
+
+     "You stated that the "assault" squads sent in reported similar
+findings at UAC sites 2, 4, 5 and 6. What about those at our own site here,
+UAC1, and those at UAC3?" you asked.
+
+     "Yes, well, they're a different kettle of fish altogether, or so it
+seems at the moment. The "assault" squads, as you call them, reported
+different findings in the "final" levels they'd penetrated. At UAC1, the
+troopers transmitted a message that they had located what appeared to be
+an "exit" portal, or void, in the final level. Although they could see it,
+they couldn't access the area it was in, and it soon became obvious that
+to do so, they were going to have to find a key to open a particular door
+they believed sealed off the area leading to this portal. We don't know if
+they were able to find such a key or not - they were never heard from 
+again.
+     As for the situation at UAC3, well, that's a bit of a mystery. The
+squad that penetrated the final level were elated when they reported
+killing some huge creatures they'd encountered in this level. One of these
+creatures possessed a key that apparently opened a previously inaccessable 
+area. The troopers reported finding another key in this area, and the last
+transmission received from them indicated they were heading towards an
+"exit" from the level. We believe this "exit" may lead to another "portal",
+like that reported in the new dimension at UAC1. The research teams have
+a theory that, if someone were to pass through one of these "exit" portals,
+it would return that person back to the UAC side of the original portal,
+and both portals would then destabilize and close."
+
+     "Well, if that's the case," you queried, "why didn't the portal at
+UAC1 close when the assault squad passed through the "exit" portal? I mean,
+they DID find an exit portal, didn't they?"
+
+     A distressed look fell upon the man's face.
+     "No, unfortunately, tragedy struck before they could make it to the
+assumed exit point. Their last transmission ended with the sound of muffled
+screams and gunshots. Something stopped them. We don't know what."
+
+     The man paused momentarily, and muttered to himself "little wonder
+the new dimensions have been given a new collective nickname..."
+
+     "What's that?" you enquired.
+
+     The man looked you squarely in the face, and replied, "the Doom
+Dimension, my friend, the Doom Dimension. For the research teams at all UAC
+sites believe these new dimensions could, ultimately, spell the doom of all
+mankind, unless, of course, something is done to close these portals
+immediately."
+
+     "There you go again," you remarked. "End of the world stuff. I don't
+get it. If the military have now taken control of UAC, why don't they send
+in a whole bloody army of crack troops to solve things?"
+
+     "As I said earlier, the military have their own ideas. Let me explain.
+Once the military learned of UAC's failed attempts to close off the portals
+by sending in troopers, they went apeshit. Apparently they were furious
+that the UAC management had even considered closing the portals! That's 
+when they moved in to take over all UAC operations relating to the portals, 
+citing that the portals were vital to "national security"! Of course, the
+boys in the Research department didn't buy that! A bit of risky prying was
+done, and we believe we know the REAL reason for the military's interest
+in keeping these portals open."
+
+     "Why doesn't anything relating to the military head honchos surprise
+me?" you asked, with a wry grin on your face. "So tell me, what is their
+motive?"
+
+     "Listen to this. The military have plans to send in their own squads
+of troopers, not to eliminate these ungodly creatures, but to capture as
+many as possible. Capture ALIVE, that is! The only thing stopping them 
+from attempting this right away is that they're still in the process of
+building a fortified holding place in which to keep these creatures. From
+what I have heard, I believe such a place is not far from completion. And 
+do you know what the fools plan to use these creatures for? They plan to 
+use them in warfare, unleashing hordes of the beasts into enemy locations 
+as a kind of "terror" weapon. Bloody military, they have no idea what 
+they're dabbling with here!"
+
+     "Why don't you go to the press with all of this?" you asked, "make it
+public!" you added.
+
+     "Are you kidding?!!" the man exclaimed. "One of my colleagues in the
+Research department did just that, and UAC, acting strictly under orders
+from the military, just dismissed my colleagues allegations as the ravings
+of a lunatic. Needless to say, the press bought it, and my poor friend has
+never been seen or heard from again. I fear the worst for him, B.J."
+
+     "I can understand your concern," you said, "but, surely, there must be
+some other way of tackling this whole situation, don't you agree?"
+
+     "I'm afraid there isn't time to think of alternative ways to handle
+this, B.J., for there's been a frightening new development over at UAC6 in
+the past two weeks. Up to that point, no creatures from the "Doom Dimension"
+had ever crossed through the portals to our own world. As such, the UAC side
+of the portals were considered a "safe haven". But all that changed when,
+on Monday last week, as I recall, UAC6 reported creatures coming through
+the portal into the UAC site. I know the same will soon happen at UAC1, and
+indeed the other UAC complexes, as generally, what happens at UAC6 happens 
+soon after at the other UAC sites. That's why I resigned, B.J., I just 
+didn't want to be around when these things started pouring through."
+
+     "What was the military's reaction to this turn of events?" you asked.
+
+     "A patchwork solution, I'm afraid. All they've done is quadruple the
+number of troopers at the site. In fact, I believe the troopers are in
+reality members of the military's own forces, but disguised as UAC troopers
+so as not to arouse suspicion from the public."
+
+     You sighed. "Look," you said, "I know that the military are up to no
+good with all of this, but, I still fail to see how all of this is of any
+real threat to the entire world! I mean, the military have more than enough
+hardware to destroy anything that comes through these portals!"
+
+     The man gave you a slightly puzzled look. "You almost sound like the
+military, B.J.!"
+
+     "Don't forget, I was with the military up to the time I joined UAC!"
+you laughed.
+
+     "Well, consider this. What I'm about to tell you would be denied
+totally by the military hierarchy; they don't want to know about this
+latest development - they're too obssessed with their plans to capture and
+use these creatures in future warfare. Some new hostile entities have been
+encountered within the "Doom Dimensions" recently. It's almost as if the
+creatures controlling these dimensions are starting to recognise that the
+human intruders to their world are more of a match than what they had 
+initially expected, and are starting to evolve new creatures capable of
+withstanding the type of physical attack we rely upon to bring down an
+enemy. These new entities vary - some rumours I've heard speak of them as
+looking like something from your worst nightmare. Others rumours I've heard 
+indicate some of them are totally invisible. Whatever the case, all reports
+regarding these new entities have one common thread; these new "beings"
+CANNOT BE HARMED! Well, at least, not through any known methods of attack,
+anyway. In addition, these "entities" have only to touch you to kill you, 
+unlike with the other creatures encountered in the "Doom Dimension", who
+seem to rely on a more conventional style of attack.
+     Thankfully, reports of these things have been extremely rare to date,
+with one exception. Last week, just prior to my resignation, a colleague of 
+mine from the Research department over at UAC6 was telling me that 
+encounters with these things in their own "Doom Dimension" were starting to 
+become a little too common for comfort. He told me of a team of crack 
+military supplied troopers that had been caught completely by surprise when 
+some form of invisible "entity" had attacked, decimating their ranks in a 
+matter of seconds. Every possible attempt to defeat this thing was made, but
+it soon became evident that nothing was going to work. The fact that this 
+thing was virtually invisible certainly didn't help, but, the troopers were 
+able to make out its presence through a light diffusion pattern created on 
+the floor just below it. This at least gave them the advantage of being able
+to identify the thing's location, although only just before the thing was
+upon them. But it helped them to isolate its position within the "Doom
+Dimension", and a movable section of wall in the vicinity was pushed by the
+troopers to trap the thing in an enclosed area. But there's no telling how 
+long this thing will stay trapped.
+     And that's what concerns me about these portals being left open. It's
+only a matter of time before one of these invincible entities makes its
+way through to a portal and into our world. And once that happens, B.J.,
+what will we do then? How does the human race deal with an extremely hostile
+entity that can't be stopped? As you can imagine, things may soon start to 
+get way out of control to the point where even the military can't help us. 
+We could find ourselves with not just one, but several, perhaps hundreds or
+even more of these things let loose upon our world. We can't afford to sit 
+back and wait until that happens."
+     
+     "I understand the gravity of the situation, now that you've explained
+it to me in depth," you responded. Somehow, you knew what was coming next.
+Was it really that predictable?
+
+     "Well," he continued, "only myself, my Research department colleagues,
+and now you, understand the true seriousness of the situation. Something has
+to be done immediately in order to close off these portals. Neither myself
+or my colleagues are capable of the type of feat required to pull something
+like this off. But, you, B.J., you may just be our last hope. What with
+your background, I firmly believe you could be the only one capable of
+helping us."
+
+     Yep. You knew he was going to pop the big question. You mulled over
+the idea for a few seconds before responding.
+     "Why me?" you asked. "Surely there has to be someone other than me
+who'd be more capable of helping you?"
+
+     "But you, B.J., are the only one who would believe the story I have
+just told you today. You've seen enough to get yourself a nasty hit on the
+head down in the main storage area. I figured that, after seeing what you
+had seen, you'd be more receptive to my story than anyone else I may have
+approached. Not only that, but your "stick it to 'em" attitude with the
+UAC hierarchy back then earned you quite a bit of respect down in the
+Research department. You're not the type to tow the line merely because
+the hierarchy tell you to. I think you can make the right decisions
+irrespective of what others try to make you believe, and, I hope you make
+the right decision here, and quickly, as time is a critical factor..."
+
+     You weren't going to accept his proposal immediately. You were a hero,
+of that there was no doubt, but even heroes had to know exactly what it was
+they were getting themselves in for! (who ever said B.J. was modest?!!)
+
+     "OK," you asked, "what is it exactly you're hoping I can achieve?"
+
+     "It's a big ask, I realise, B.J., but, as I said, I don't know who else
+I can turn to. We need you to infiltrate each of the six UAC sites around 
+the country, enter the "Doom Dimensions" via the portals at each site, and
+work your way through to the final areas within each "Doom Dimension". Your
+objective then would be to either eliminate the "supreme" creature that
+seems to rule over that dimension, or, find an "exit" portal as described
+earlier, and pass through it to the other side. Of course, each time one of
+these objectives is successfully carried out, it would result in the portal
+from that particular UAC site closing once and for all. Don't ask me how
+I know this will happen, just accept that a lot of work has been done by
+the research teams at all sites to figure this out. If the military knew
+we'd been working on this stuff behind their backs, all hell would have
+broken loose..."
+
+     "OK, what happens to the poor bum who's "lucky" enough to destroy one
+of these "supreme" creatures, as you call them? I suppose they get lost
+within this "Doom Dimension" for all eternity, eh?"
+     
+     "No, no!" exclaimed the man. "Our research has been thorough. Not just
+the portal, but, the whole "Doom Dimension" that that particular portal
+leads to, would collapse, and in effect, cease to exist. All creatures or
+items belonging to that dimensional area, other than those that have come 
+through the portal into our world, would cease to exist also. But any 
+living thing from our world currently in that dimensional area would 
+rematerialise back in our world, at or near the location of where the portal 
+had existed within the UAC Research department.
+     As for those "Doom Dimensions" with an "exit" portal located somewhere
+within their final level, we have very strong reason to believe that, by 
+passing through one of these portals, you would be teleported back to the
+location of the entry portal within the research area. Both portals, and
+their associated "Doom Dimension", would then cease to exist. As I stated 
+earlier, we believe only the dimensions accessable from UAC1 and UAC3 fit 
+this category.
+     But, I have to be honest. As certain as we are that this is how things 
+would work, I cannot guarantee your safety. The process by which you would
+be "rematerialised" back in our world is an unknown one. Hopefully, it 
+should not be a harmful process, but, I suppose risks are a big part of
+this mission."
+
+     "Alright, then,"  you said. "Suppose I do agree to your proposal. 
+How do I get into the UAC sites? I don't have security clearance anymore, 
+you know!"
+
+     "Unfortunately, I can't help you with any site other than UAC1. Just
+before leaving UAC1 for the last time, I managed to steal a security key
+for the main entrance. After departing through the main entrance, I was
+unnerved to notice a UAC trooper following me. Fearing he was suspicious,
+and knowing what could happen if I was caught with the key, I panicked, and
+threw the thing into a small clump of bushes. Unfortunately, it was a
+needless action, as the trooper just walked on past me without so much as
+even saying hello. I haven't been game enough to go back and retrieve the
+key, but, hopefully, it should still be there among the shrubs outside the
+main entrance to UAC1. Find that key, and you'd be able to access the main
+entrance.
+     As for the other five UAC sites, well, I'm afraid you'd have to find
+your own way in. I'm sure you'd be able to find an out of the way entrance
+to these places, or perhaps just climb a fence somewhere! I trust your
+resourcefulness would see you through, B.J.!"
+
+     "Fine. Tell me, what could I expect once I got in?" you asked.
+
+     "I'll be honest - trouble! Heaps of it. All UAC troopers are acting 
+under strict orders from the military to shoot any intruders found on site 
+without hesitation  - no pussyfooting around, just shoot to KILL. As for the
+"Doom Dimension", well, its layout is on a par with the UAC side of things.
+You'll find doors and computerized access panels installed all through the
+"Doom Dimension" to control access to the various areas. You'll need to find
+keys to access certain areas, just as you would in the actual UAC sites. As
+I stated earlier, it's almost a "mirror" of our own world, but with a "gothic"
+theme. Trouble is, the security systems in the "Doom Dimensions" don't stop
+the creatures!
+     There is one more thing you must understand, B.J. The military want to
+keep the portals open for their own insane reasons, but they don't want hard
+evidence of this leaking out to the press. An intruder, if not dealt with
+immediately, could provide the press with such evidence. Unfortunately,
+B.J., you would be viewed as an intruder if found on the UAC sites. It would
+be best to make an attempt on a Sunday, as the sites would be at their
+quietest - no innocent UAC office workers to get in your way. Once on site,
+you'd have to make your way through the UAC complex directly towards its
+Research Department - these areas are where you'll find the portals that
+will take you through to the "Doom Dimension". Of course, you'd have to make
+it a priority to find some heavy artillery before entering a portal. The UAC
+troopers will do anything to stop you, B.J., you'd have no choice but to
+shoot them, or be shot yourself. I wouldn't feel bad about having to do
+this, though, B.J., as most of the decent UAC troopers you may have known
+from the early days of UAC have either resigned or been killed inside the
+"Doom Dimension". The ones that patrol the UAC sites now are mostly thugs
+supplied by the military; hard headed cowboy types that the military feel
+are keen to take on the creatures within the "Doom Dimension", while at the
+same time following any types of orders without question."
+
+     You nodded your head knowingly. "Yep! I think I know the type. Good
+SS material! I had one of those idiots almost bash my brains out when I
+was caught snooping down in the main storage area. They could've just
+escorted me upstairs to see a higher UAC authority regarding my actions,
+but, no; bash the poor bastard over the head instead! Somehow, I don't think
+I'd feel any remorse in taking those bastards on if they tried to kill me!
+     Tell me though. Why couldn't I just do what the military fear the most?
+In other words, go in to steal hard evidence and take it to the press. It
+would certainly save me from having to take on the "Doom Dimension."
+
+     "Two reasons, B.J. - firstly, you'd have to be extremely lucky to find
+enough evidence to present a solid, believable case to the press. Even if 
+you did, the military would probably manage a cover up job like they did on
+my friend. Secondly, as I have already said, time is a crucial factor here.
+Going through the press etc etc would probably get positive results in the
+longrun, but by then, it would no doubt be too late! We have to act NOW,
+B.J.! So tell me. Will you do it? Will you help us close these portals for
+good?"
+
+     What the hell, you thought. Retirement was proving to be a bore, and
+the stories your father had related to you as a boy had always inspired you
+to some day do the same. B.J. Blazkowicz Senior had single handedly given the
+denizens of Wolfenstein a licking, so why shouldn't B.J. Blazkowicz Junior
+find the denizens of Doom any different?
+     "Tell you what," you said, "buy me a beer, and you've got a deal!"
+
+     The man was elated. In his eyes, you had just become something of a
+saviour. A few more final details were discussed, and your newly acquired
+"friend" gave you some documentation relating to the earlier incursions by
+UAC troopers into the "Doom Dimensions". These you would read later in an
+effort to better prepare yourself for what lay ahead.
+
+     Finally, the time came to bid farewell. As the man shook your hand, and
+wished you good luck, one question popped into your mind.
+     "Tell me," you asked, "if I should succeed in closing down all these 
+portals, what's to guarantee that UAC won't go fiddling with this telepor-
+tation stuff again in the future?"
+
+     "Don't worry," the man reassured you. "I think UAC have learnt their
+lesson. Teleportation technology is obviously in its infancy, and after our
+experience with this "Doom Dimension", I think any further experimentation
+with teleportation would have to be carried out in a place where Earth could
+not be threatened. In fact, UAC have plans to set up a radioactive waste
+operation on Mars some time in the near future. Maybe that would be the
+ideal location to continue the research on teleportation. Better still, they
+could use Mars' remote moons Phobos or Deimos to set up a teleportation
+research centre. If you succeed in your mission, I may try to get my old job
+back at UAC, and I'll suggest this idea to them. One thing is certain, they
+would never be so careless as to allow something like this "Doom Dimension"
+to occur again!"
+
+     And pigs might fly, you thought!
+
+     And so it is that you find yourself standing outside the main entrance
+to UAC1 on this cold and miserable Sunday morning. You ponder what lays
+ahead once you go through that front door. There were many areas you would
+have to pass through to accomplish the first stage of your mission; office
+blocks, freight containment and storage areas, the Research Department, and,
+finally, the "Doom Dimension" itself!
+
+     Armed with only a pistol and your bare hands, you wonder if you can 
+accomplish this mammoth task. You'd never faced anything like the creatures 
+your friend had described. But wait! Didn't you spend hours in your office 
+at UAC1 playing a computer game called "Doom" when you should have been 
+doing more important things? And you skipped through the levels! (Although 
+with just a little difficulty on the "Nightmare" level...) Yes! You were 
+ready after all! Time to save UAC and possibly the world! Time for the son
+of the hero of Wolfenstein to take on the denizens of Doom! With the
+adrenalin pumping, you head off to find the security key your friend had
+"deposited" among the bushes. Look out, Doom, here comes B.J.!!!
+
+     Whew! So there! Now you have your background story! You could have done
+the same in just a few paragraphs? Well, maybe some reading will do you some
+good for a change, instead of playing computer games all the time!
+
+     Have fun :)
+     AReyeP
+     (Steve Walley, Melbourne, Australia)
+     Email: areyep@iaa.com.au

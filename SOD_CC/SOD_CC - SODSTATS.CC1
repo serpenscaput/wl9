@@ -1,0 +1,24 @@
+Map #   Title              Door Lock Secr Elev Trea Lvl1 Lvl3 Lvl4 Huge
+=====   ================   ==== ==== ==== ==== ==== ==== ==== ==== ====
+
+    0   Tunnels 1            16    2    4    1   42   22   46   70    0
+    1   Tunnels 2            14    5    8    3   49   26   55   97    0
+    2   Tunnels 3            40    3    5    2   68   29   67  113    0
+    3   Tunnels 4            29    3   13    5   85   21   53  102    0
+    4   Tunnel Boss          20    2    9    1   46    8   31   61    0
+    5   Dungeons 1           36    3   14    2   39   38   71  115    0
+    6   Dungeons 2           22    2    3    4   33   23   50   81    0
+    7   Dungeons 3           29    2    9    4   67   42   78  109    0
+    8   Dungeons 4           24    3    4    2   64   20   39   61    0
+    9   Dungeon Boss          9    4   11    2   76   12   31   60    0
+   10   Castle 1             29    5   21    2   86   33   82  147    0
+   11   Castle 2             17    3   10    3   42   26   57  107    0
+   12   Castle 3             10    6    4    4   46   19   46   80    0
+   13   Castle 4             36    2   10    2   74   37   85  121    0
+   14   Castle 5             13    6    9    2   72   41   89  128    0
+   15   Castle Boss          29    1    9    2   67   40   88  146    0
+   16   Ramparts             21    4    4    3   44   25   53   94    0
+   17   Death Knight         28    1    4    2    0   20   51   84    0
+   18   Secret 1             33    2   10    2  110   38   82  143    0
+   19   Secret 2             37    2    5    1   70   35   73  121    0
+   20   Angel of Death        0    1    5    0   13    0    0    0    0

@@ -1,0 +1,47 @@
+* * * Wolfenstein 3-D: The Deluxe Edition v1.10 (Two-level demo) * * *
+
+Here's the status of the mod's features in this ZIP file:
+
+In-game messages - Done.
+8 new treasure sprites - 3 out of 8 are graphically done, but all are fully functional. 
+ The pack of cigarettes will not be in the final version, thank goodness.
+Hint bubbles - Complete.
+Ammo crates - These function with the press of the Spacebar.
+Tables with items - 100% complete.  Press the Spacebar when you're against a table 
+to pick up what's on top of it.
+New treasure sounds - Complete, though I might add more later.
+Hi-res Static Objects - About 80% complete.
+New Static Objects - Graphically, these are all complete, but more may be added later.
+
+Wall textures - About 50% complete.  Check out the hi-res version of the grey brick 
+Hitler poster!  :-D
+Standard enemies (SS, Mutant, etc.) - 100% complete.  They're just enlarged 64x64 
+duplicates of the original.
+Bosses and other enemies - Not even *close* to done.
+Sign-on screen - Far from complete.  It still shows up, but trust me when I say this 
+screen is an eyesore.
+New title screen - Done.
+New music - Two new tunes from Yours Truly are included.
+Animated objects - Enabled.
+Directional sprites - Enabled.
+Additional enemies - Not done.  One enemy is added, though (as of v1.10).
+Read This! text - Not updated.
+
+If I'm not mistaken, all shareware levels run the way they should, aside from the 
+purple walls, which - again - are enlarged 64x64 duplicates of the original.
+
+To run the original 60 levels with the hi-res features of this EXE, compile the "WolfDX" 
+project instead of "WDX-Demo" in the source code.
+
+Credits:
+
+Original code: Id Software
+Wolf4SDL version: Ripper
+Additional coding: Merthsoft, WLHack, Tricob, BT, and various code tutorials from 
+the Wolf3D Dome and the DHWs message boards
+Graphics: Adrian Carmack, Julian Ridley, Chris Benson, Todd Camasta, Sporb, Laz Rojas, 
+Tricob, ChaosEdit, WDC, ReColorBMP, MS Paint
+
+Enjoy your Wolf levels in hi-res!  :-)
+
+- "Tricob".

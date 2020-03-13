@@ -1,0 +1,340 @@
+ENIGMA'S NIGHTMARE III (The FINAL nightmare!) ver. 2  DOCUMENTATION. 6/15/93
+
+READ THIS THROUGH, OR DON'T BLAME ME IF THINGS GO HORRIBLY WRONG!  Contains
+all the things you NEED to know to get full enjoyment from NIGHTMARE III!
+Printing this out for future reference is highly recommended!!!!!!!!!!!!!!!
+
+If you're too stubborn (or stupid) to read this through at least once, then
+you richly deserve whatever problems you run into.....
+
+=============================================================================
+ NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE 
+=============================================================================
+WHAT YOU HAVE HERE, is ENIGMA'S NIGHTMARE III version number TWO.  This is a
+correction release which fixes all known bugs we found in the original NM-III
+The original was released in the following archives:
+
+ENITE-3A.ZIP
+
+ENITE-3B.ZIP
+
+If you still have copies of the original archives mentioned above, please see
+that they are DESTROYED and DO NOT distribute them.  They are flawed.  ALSO,
+please inform any BBS sysop or INTERNET ftp site which you know is carrying
+the above archives to dump them at soonest and get this new version.
+
+This version will need to be installed in a fresh, empty subdirectory.  See
+the install instructions below.
+
+Thank you.  ENIGMA-13
+=============================================================================
+ NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE * NOTE 
+=============================================================================
+
+****************************************************************************
+OVERVIEW:  ENIGMA'S NIGHTMARE III is the complete set of new playing levels 
+and graphics for the SHAREWARE VERSION of ID Software's incredible game of
+WOLFENSTEIN 3D. 
+
+NM-III levels are very hard, with more treasure, more guards, more guns, MORE
+ACTION than you've ever seen in WOLF 3D!  You'll need to be NASTY to get 
+through these in one piece!  These are without a doubt some of the roughest,
+toughest, most harrowing WOLFENSTEIN levels you'll EVER see!  It's almost an
+"Impossible Mission"!  (Well, not really.  But it'll FEEL like it.)
+
+The NIGHTMARE graphics are more colorful and much more bloody (shoot a guard
+and he either goes down in a spray of gore or gets his head completely blown
+away).  We've also included some new graphical effects and wall patterns
+never seen in earlier versions of NIGHTMARE. 
+
+ENIGMA'S NIGHTMARE III is created in eager anticipation of DOOM, the newest
+adventure from ID.  DOOM is due sometime in 1993 and NM-III was designed to
+hold avid WOLF fans until its release.
+
+So, throw out that original NIGHTMARE, pitch that copy of NIGHTMARE II, (AS
+WELL AS THAT OLD COPY OF NIGHTMARE-III V.1, IF YOU HAVE IT....).  Here it is!
+The BEST, the BADDEST, (the FINAL) version of the ENIGMA'S NIGHTMARE series,
+E-V-E-R!  Good luck!
+
+----------------------------------------------------------------------------
+WHAT'S NEW?:  ENIGMA'S NIGHTMARE III not only contains all new maps and play
+levels, but it also includes all (corrected) maps and levels from the first,
+original NIGHTMARE and NIGHTMARE II.  Now users can select whatever NIGHTMARE
+episode they wish to play from a simple, menu driven loader.
+
+NIGHTMARE graphics may also be loaded or unloaded independently from the
+actual games, via menu driven loader.
+
+Matter of fact, one of the menu options is for loading the new ENIGMA-X
+edition adult graphics.  But this option will not work unless you HAVE
+the X-rated edition library.  (plug-plug).  See announcement at the end of
+this file.......
+
+----------------------------------------------------------------------------
+CREDITS:  I wish to thank both Ix and FRANK THE RABBIT for their kind help
+and hard work in making ENIGMA'S NIGHTMARE III possible.
+
+FRANK THE RABBIT (our resident maze-master) did 2 levels and placed most   
+guards for EN Episode 2, and did ALL maps and guards for EN Episode 3. (Give
+him a great big hand, folks.  SMACK!  No!  I didn't mean up-side the head!)
+
+Ix created our loaders and install modules for us.  Plus he's now cross-
+eyed from testing EVERY level of EVERY episode, time after time.  (Hey, Icky,
+ya missed that guard!  WHAM!  Oooops!  Too late!)
+
+As for me, I did the complete NM Episode 1, most maps and a few guards for
+Episode 2, and graphical effects & wall & door patterns, plus all other
+graphics for all episodes & loaders. (The lynching's tonight, out back of
+the barn.)
+
+BY THE WAY.... This program (and all NIGHTMARE versions) are distributed
+               for free.  They cost nothing.  Zero, zip, ziltch.  So if
+               you were unfortunate enough to pay for this, frankly, you
+               were screwed.  Demand your money back!
+
+WHEN YOU GET YOUR MONEY BACK, why not spend it on registering your shareware
+version of WOLFENSTEIN?  You won't regret it!
+
+----------------------------------------------------------------------------
+FILES LIST: the NIGHTMARE III archives should be named the following: 
+ENITE3F1
+ENITE3F2
+If they're called anything else, I wouldn't trust 'em!  Best to search the
+INTERNET or various BBS until you find the originals!
+
+These are the files included in the original ENITE3F1 and ENITE3F2 archives.
+If any are missing, you have a defective copy:
+                   
+archive ENITE3F1 ------------------
+INSTRUCT.TXT   NM3SND.EXE   NM3INSTL.EXE   READ-1ST.BAT   FILE_ID.DIZ 
+
+archive ENITE3F2 ------------------
+NM3GRA.EXE   FILE_ID.DIZ
+
+----------------------------------------------------------------------------
+WARNINGS:  All files in these archives (and the offspring files created upon
+installation), are needed in order that NIGHTMARE III will work correctly. 
+Don't delete files just because you cannot see how they fit into things.
+They are NEEDED, believe me!   
+
+BE CAREFUL and DO NOT try to re-archive these offspring files!  If you want
+to upload or distribute NIGHTMARE III, do so in the original archives only.
+
+Keep in mind that the installer will delete some files which are no longer
+needed after NM-III is installed, in order to help you save disk space. 
+Therefore, be sure to keep a backup of the original archives in case you need
+to install again.
+
+NOTE:  If you try to run NM-III with a commercial version of WOLF 3D, you'll
+destroy both programs.  Run with SHAREWARE WOLFENSTEIN ONLY. (v. 1.2 & above)
+
+If you try to run the Sound Blaster supported version of the loader without
+a Sound Blaster card installed, you'll screw the loader (and maybe even your
+system).
+
+Lastly, DO NOT attempt to install or run NIGHTMARE III under Windows.  The
+results may not be what you hoped for.  NIGHTMARE was created to run from the
+DOS prompt because we HATE Windows!  Windows is big, slow, sloppy and nasty
+ol' Microsoft is cramming it down everyone's throat no matter if it's really
+needed or not. Is there a better reason for hating it?
+
+----------------------------------------------------------------------------
+SYSTEM CONSIDERATIONS:  If you can play WOLFENSTEIN 3D on your system, then
+you can play the NIGHTMARE series.  If you can't play WOLF on your hardware,
+then what are you messing with this for?
+
+You need VGA (a VGA card with 1 meg of memory is best, especially if you run
+the fancy graphical loader), and DOS 3.3 or above.  While a 286 is ok for
+playing Wolfenstein, a 386 is even better and highly recommended.  We're not
+sure how the loader will act on anything less than a 386.  NO MATTER WHAT 
+YOU'RE RUNNING, ANSI.SYS MUST BE ENABLED IN YOUR CONFIGURATION FILE.  If 
+you're unsure how to do this, see your DOS manual.
+
+A Sound Blaster, while not a must, is VERY nice.  You should get one if you
+don't have one already.  
+
+You will most definitely need a hard drive for NIGHTMARE III.  All of its
+files (plus the Wolfenstein files) will take up around 5 to 6 megabytes of
+hard drive space.  No "fast fingered floppy flippers" need apply......
+
+NIGHTMARE III was developed on a machine with 4 megs of memory.  That's not
+to say less RAM makes the NIGHTMARE games unplayable, but the more memory you
+have, the better.  Also, the faster your machine, the better the play (but
+isn't that true of most game software)?
+
+----------------------------------------------------------------------------
+INSTALLATION INSTRUCTIONS:  Create a BRAND NEW, EMPTY directory (maybe call
+it NM-III) and install a SHAREWARE version (we recommend version 1.4) of
+WOLFENSTEIN 3D in it.  Run WOLF and set your game configurations any way you
+wish, then exit.
+
+Next, move the NIGHTMARE III archives into that directory and open them.
+
+Now that You've unpacked the NIGHTMARE III archives in the same directory as
+your SHAREWARE VERSION of WOLFENSTEIN 3D, the first thing you'll need to
+do is run the file NM3INSTL.EXE.  This is a one time only procedure that
+unpacks the NIGHTMARE III support files and gets them ready for loading into
+the game.  Once again, ALL FILES INSTALLED BY NM3INSTL.EXE ARE NEEDED. 
+DO NOT DELETE ANY OF THEM FROM YOUR DIRECTORY!!!!!
+
+After this is done, simply run the file LOADNM03.EXE.  This file allows you
+to load or unload NIGHTMARE III episodes or graphics into your shareware WOLF
+game at will.  Follow the prompts and that's all there is to it!  HAVE FUN!
+
+----------------------------------------------------------------------------
+LOADER PROBLEMS?:  We're going for a simple, more direct loader this time. 
+Folks with lower-end equipment had trouble with the other two. 
+
+To assist these people, we have designed a straight, menu driven loader that
+will work with ANY system.  (Provided ANSI.SYS is enabled.)  Of course, you
+can still select the fancy loader too if you wish.
+
+ONCE AGAIN, IF THE LOADER DOESN'T WORK, BE SURE YOU HAVE ANSI.SYS LOADED.
+YOUR DOS MANUAL WILL TELL YOU HOW........................................
+
+If you use a Sound Blaster, BE SURE you have the CT-VOICE driver loaded, or
+the loader will not work.  Refer to your SB manual to see how this is done.
+It's easiest to set it up to load when you boot the machine.  If you run the
+loader with Sound Blaster option enabled and you hear no voices or sound 
+effects or get a driver failure error, then you do not have CT-COICE loaded
+and will need to fix the situation.
+
+----------------------------------------------------------------------------
+TROUBLESHOOTING:  The main problem with NIGHTMARE III (and with WOLF itself
+for that matter), is memory considerations.  Make sure all TSRs are unloaded
+to make room for the game.
+
+This is because NM-III maps & levels are not packed the same way the original
+maps are, and the NM-III maps are more complex with more guards than the WOLF
+originals.
+
+Again, because of map size and complexity, you may see odd screen effects,
+colors and characters from time to time, (especially when saving a Wolf
+game).  If these artifacts become too annoying, simply exit WOLF and reload
+it and the problems should clear.  If not, exit WOLF, reboot and reload it.
+
+----------------------------------------------------------------------------
+PLAYING HINTS:  Most keys and some elevators are hidden.  There are some
+levels in which you'll be rushed by gobs of dogs & guards.  When that
+happens, it's a good idea to hunt for a secret way out before you get
+yourself waxed.
+
+You also may find walk-through walls (walls you can go through as if they
+are not there).  These are screwups on our part because the maps are too
+complex to be sure of fixing all bugs.  At times, guards fire at you with
+no effect.  We're not sure why this happens.
+
+But if you find these things to be helpful, USE THEM!  You'd be a fool not
+to try taking every advantage you can, considering what you're up against!
+
+While playing, SAVE THE GAME OFTEN.  If you get killed go back to the last
+saved point.  If you are killed and allow the game to start you again at
+the beginning of the level, keep in mind that WOLF keeps your previous
+moves on that level in memory.  You'll probably run out of memory shortly
+after you restart the level.
+
+When you reload from a saved point however, all memory is freed and you can
+go on playing with no memory problems.
+
+ALSO, because NM-III maps are bigger, the WOLF game may freeze (very rarely)
+when loading a NIGHTMARE level.  (That's why it's best to save the game
+just before you enter an elevator to go to the next level).  Just reboot
+and load it again.  Problems should clear instantly.
+
+NEVER try to play a game you saved while in one episode while playing in
+another, different episode.  You'll screw both NM-III and your shareware
+Wolfenstein programs amd need to reinstall both to unsnarl things.
+
+It's a good idea not to play with full sized screen window.  I always go to
+the largest window, then step back two sizes.
+
+Other than that, you're on your own!  :)
+
+----------------------------------------------------------------------------
+PROGRAM SUPPORT:  ENIGMA'S NIGHTMARE III (and all Nightmare versions) are
+distributed throughout Internet and the BBS world by WOLFENSTEIN fans.
+This means that any BBS banners or ads you see in the archives are merely
+places the archive has been while on its way to wherever you got it.  
+
+SO, if you're having problems, DO NOT call these BBSs or Internet sites
+asking for help!!!  There is no support site for this program.  So don't
+pester people about it.
+
+If you can't get NIGHTMARE III to work, this means that:
+
+1. You have a bad copy.
+2. Your equipment won't support it.
+3. NM-III may have conflicts with certain EMM or TSR programs.  Unload them.
+4. You did not read these instructions and follow them.
+5. You are dumb!  Dumb as a post!  (And if this is the case, give up now.
+   EN-III is unforgiving & was designed to whack dummies with gleeful
+   abandon.) **grin**
+
+-----------------------------------------------------------------------------
+DISTRIBUTION:  These files are big enough without adding such bullshit as BBS
+ads to 'em. This is a practice I DO NOT approve of.  I hope those BBS A-holes
+Rusty-n-Edie's can read and understand this!!!  This program WAS NOT created
+to promote your damned board!  So stop peeing in every archive you see (and
+that includes NM-III archives). GOT IT?  (I doubt it, stupidity cannot read).
+
+There is certainly one way for users to keep down tranfer costs inflicted on
+them by jerks such as those mentioned above:
+
+If you find any files other than those mentioned in the FILES LIST section
+when you open these NM3 archives, remove those extra files before you try to
+distribute NM-III to other people, Internet or BBSs.  
+
+Also, PLEASE, PLEASE, PLEASE DO NOT distribute these archives in a single,
+huge file or under a different name, DO NOT pass around incomplete versions,
+and distribute only ORIGINAL ARCHIVES which you know are in good working
+order!  
+
+Remember, these files are BIG and the next guy in line would like a working
+copy after going to the trouble of downloading this program.  So only
+distribute the original, intact, working archives!
+
+Please spread NM3 around so many can enjoy it.  And by the way, if anybody
+out there has a high speed modem, please see that the original archives are
+uploaded to SOFTWARE CREATIONS BBS (if you know who I'm talking about, you
+have the numbers already).   I'd really like them to have a copy. :)
+
+Also, for those of you on Internet, please put NM3 up on every ftp site you
+know of that accepts uploads.
+
+Blanket the world!
+
+-----------------------------------------------------------------------------
+A FINAL WORD (at last)
+
+Have seen some concerns voiced by users on various nets.  Since they've never
+considered that programs such as this can exist, some users have expressed
+fears that this program might be a virus or trojan or something.
+
+IT IS NOT (unless it's been infected or hacked between our distribution point
+and the end user).
+
+Perhaps due to loader problems in previous NIGHTMARE versions, some folks got
+a bit scared but these were BUGS, not killer-code.
+
+This program was created with various utilities available on many BBSs around
+the USA and Internet.  Unlike most WOLFENSTEIN alternates we've seen by other
+people, we tried to take a bit of time to create maps and graphics which are
+detailed and smooth, with a high entertainment value.  NIGHTMARE-III may not
+be quite as slick as original WOLFENSTEIN, but we feel the quality is pretty
+good considering the utilities we had to work with.  And it will do no harm
+to your system either.
+
+-----------------------------------------------------------------------------
+
+Thanks, and enjoy ENIGMA'S NIGHTMARE III!
+
+E-13 1993
+
+*****************************************************************************
+COMING SOON:  ENIGMA'S X-RATED WOLF GRAPHICS!  (yup, I'm a sexist pig).
+              You've seen the rest, now try the BEST.  All new walls,
+              doors, pictures and "weapons" (spatter, yech!).
+
+              Coming to an adult BBS or ftp site near you!
+*****************************************************************************
+

@@ -1,0 +1,62 @@
+================================================================
+Title                   : The SS Gonna Get You  
+Filenames               : pdwolf5.txt - gamemaps.wl6 - maphead.wl6
+Date Released		: Nov 21st 2001
+Author                  : Pablo Dictter
+Email Address           : pablo@doomcenter.com
+Description             : a 5 level episode for Wolfenstein 3d.
+			  There is no boring story or fancy new
+			  graphics, just play the maps and have
+			  fun. These are my best wolf maps yet.
+			  This is my 6th wolf episode.
+			  ..RTCW is out today!
+
+Credits to   		: Nobody in special, just to:
+			  - iD for making Wolf.
+		          - Florian Stöhr for making Flo's Edit.
+================================================================
+* Play Information *
+
+Game          		: Wolfenstein 3D v1.4
+Level(s) Replaced	: e1m1 through e1m4 & e1m10
+Difficulty Settings     : Yes
+New Sounds              : Nah
+New Graphics            : Nah
+New Music               : Nah
+
+* Construction *
+
+Base                    : New Levels from Scratch
+Editor			: Flo's Edit v1.1
+Other Editors		: Nah
+Known Bugs              : e1m6 through e1m9 can't be played.
+			  don't try them unless you are stupid
+		          enough to do so.
+================================================================
+* Other Works by me *
+
+PDsod1	: Chemical Reaction
+PDwolf1	: From Schabb's Hand
+PDwolf2	: Escape!
+PDwolf3	: 5th
+PDwolf4	: The Last Floor
+Pdwolf5 : The SS Gonna Get You
+
+Made a level for TFS 3.0 and Chase
+================================================================
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this level, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this level *
+
+http://pablod.8m.com
+
+http://www.users.globalnet.co.uk/~brlowe/
+================================================================

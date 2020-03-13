@@ -1,0 +1,24 @@
+=================================================================
+Title                       : Wolfenstein 3D : The Old School
+Filename                    : WolfTOS.zip
+Author(s)                   : Steven Johnson (Open Maw/Commando Nukem)
+Email Address               : openmaw@gmail.com
+Description                 : "A five level replacement pack for Wolfenstein 3D Shareware."
+
+Build Time                  : Several hours spread across a few sleepless nights. 
+
+Misc Author Info            : Tested with DOSBox 0.74
+=================================================================
+Play Information
+Episode and level           : Duke gets shot down again. And has to make his
+                              way through the airport. 
+Single Player               : Yes 
+Difficulty settings         : Yes
+
+Web Site                    : https://www.facebook.com/openmawproduction/
+                            : http://www.youtube.com/user/OpenMawProductions
+                            : https://twitter.com/OpenMawTwitting
+
+Thanks to
+                            : id Software for creating some of the greast FPS games 
+of all time.

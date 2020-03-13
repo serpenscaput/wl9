@@ -1,0 +1,91 @@
+                  ***   ALIENwolf Graphic Set v1.0  ***
+                  -------------------------------------
+
+This file contains a complete revamp of the original Wolf3D graphic
+set fashioned after the Alien series.  Nearly all of the walls and
+objects have been changed to look like the bowels of a drifting
+space station, the treasures are now the ships crew to rescue, and
+all of the enemy have been repainted to look (somewhat) like the
+nasty clawed alien creature things from the movies.
+
+Along with the new graphic set are 8 sample levels to show off the
+new graphics a bit.  Bear in mind that I am not the best map maker,
+and I didn't really playtest each level as much as I should've, but
+the maps are somewhat fun and definetly cover all of the graphics.
+I also included my .DEF files to help in creating your own maps.
+
+Here's what you need to do.  Go out and find the 1WOLF14.ZIP
+file and install ver1.4 of Wolf3D in a directory somewhere.  Then
+simply unzip ALIENW01.ZIP over top of the vanilla Wolf3D game, and
+you're set to pop some bugs.  Tracking down MAPED6.ZIP will let
+you create your own maps with the Alien graphic set.
+
+==================================================================
+
+Here's the scenario:  After loosing all communication with the 
+station, The Corp has sent you as a one-gun army aboard the station 
+to discover the whereabouts of the crew, and rescue as many as 
+possible.  Simply "tagging" a crew member will provide the transfer
+coordinates for immediate extraction.  Remember to tag everyone, even
+those who are unconscious/dead.  Those distant family members will be
+quick to pursue legal action if you should leave someone simply 
+because they "looked" dead.
+
+You will meet up against three type of aliens: Runners (Fast and Clawed),
+Preditors (Cloaked and Armed), and Officers (Uncloaked and Really Armed).
+You will start at the air lock of your ship and make your way across
+the gerbil tube to the stations air lock.  Once you have secured each
+level of the station, make your way to the base of the station 
+(Sublevel 8).  There you will find three escape pods to return you to 
+your ship, and almost certain promotion.  If you feel The Corp may not
+adequately compensate you for your mental and physical punishments, be
+sure to pocket as much Gold Credits as possible along the way.  (Gotta
+have some kind of Real treasure in there.)
+
+======================================================================
+
+This graphic and map set are essentially freeware, so please distribute
+it as freely as you like.  All that I ask is that you keep the entire
+archive intact.  Do not add anything or alter the graphic set in any way
+for redistribution.  Though it may not look like it, a great deal of the
+new graphics were handpainted, which took a rather long time, so please
+respect the archive.  If you come up with some neat new pictures, by all
+means use them in your maps, but don't repost the set with your pictures.
+I do intend to update the graphic set (Change the guns, improve the 
+aliens, etc...) so if you'd like to see your pictures in the complete
+set let me know and I may put them in and give you credit.  If you post
+your own maps, do not include the graphic set.  Just point to where it
+can be found.  Thanks.
+
+Also, I haven't really tried using the Wol3D sound editors yet, so 
+if someone feels creative, knock yourself out.  And let me know, I'd
+like to hear what you've done.
+
+Incedently, if you are the overtly generous type who feels obligated
+to encourage stuff like this, here is what you can do:
+
+1) If you like the artwork and would like to possibly see more in the
+   future (Maybe changing all the creatures in DOOM to Nazis.) feel
+   free to send donations, loose change, or just a postcard to the 
+   address below.  You'll make a guy in the mid-west all happy-like.
+
+2)  If you like the fact that the new artwork and maps were possible,
+    thank your local creators of Wolf3D hack-tools (Thanks guys!),
+    and possibly encourage them to repeat the good effort for future
+    games.
+
+3)  Finally, if you liked anything else about this, register a game with
+    Id or Apogee.  After all, they Literally did all the hard stuff.
+   
+
+=======================================================================
+The usuals:  This graphic and map set are used at your own risk.  
+I don't see how they could harm anything, but to use them is to 
+absolve myself or Id or Apogee or anyone else of responsability 
+with the exception of possibly yourself.  Enjoy.
+
+-M. Fleig
+ 5409 University Park Dr. 
+ Mishawaka, IN 46545
+
+

@@ -1,0 +1,269 @@
+Hi,
+        This is an FAQ for Wolfenstein-3D a game by ID Software
+        Any comments, suggestions & additions welcome.
+        Please include appropriate
+        mailer heading when replying to this article.
+
+Any of the following addresses should be correct for e-mail.
+
+Stanley.
+
+sta...@uniwa.uwa.edu.au
+sta...@tartarus.uwa.edu.au
+sta...@swanee.ee.uwa.oz.au
+sta...@swanee.uwa.edu.au
+
+===============================================================================
+1. What is WolfenStein-3D?
+2. Where can I get it from?
+3. How do I install it to HD?
+4. What's with the version numbers?
+5. Where can I get map/graphics editors?
+6. What are the WolfenStein-3D cheats?
+
+Note: All specific names included herein are trademarks and are so acknowledged:
+
+        Id, Apogee, WolfenStein-3D, Spear of Destiny.
+-------------------------------------------------------------------------------
+
+1. WolfenStein-3D is a 3 dimensional action game from Id Software.
+        (distributed by Apogee)
+        
+Objective: survival/exploration
+Type: action
+Features: first person perspective view.
+Smooth scrolling, gameplay and character animation.
+VGA graphics (300x200x256), SB/SB-Pro/Adlib/Sound Src support
+Mouse/Joystick/Gravis pad/Keyboard interface.
+Hardware Req: 80286 or better with 256k VGA (or better)
+640k RAM (also supports EMS XMS)
+~1.4 Mb of HD space
+Runs under?: OS/2: Yes
+             Windows: Yes (Note if you've got a SB device driver
+                           installed under windows or a windows TSR
+                           like an hour chime running it may interfere
+                           with some of Wolfensteins digitized sounds)
+             DR DOS 6: Yes
+             Compatible with: stacker: Yes (2.0 & 3.0)
+                              superstor: Yes
+Difficulty levels: 4
+Number of stages: 10 (shareware), 30 or 60 if $ registered
+                 (1 episode (part) = 10 stages)
+Violence rating: PC-13 (profound carnage)
+Availability: First part is shareware. Extra parts
+can be ordered from the distributor (more later)
+Comments: Highly addictive.
+
+Storyline:
+Basically you're a WWII allied spy imprisoned in Germany
+and you're trying to escape
+(full story included with the game)
+
+2. You can ftp it from ccu.umanitoba.ca
+in /pub/wolf3d/ as wolf3d14.zip or wolf3d14.exe (self extracting)
+or from ftp.uwp.edu in /pub/msdos/games/id as wolf3d14.zip.
+(note: ziped with pkzip v2.04g)
+The archive size is ~ 750Kb
+There is an unpacking installation with this latest version (1.4)
+so there should be no problem with getting started.
+
+You can also get a full version from Apogee (Id's distributor)
+Info on ordering included in the shareware version.
+
+3. You simply unzip the program (if you obtained the zip archive)
+   or run it (if you have the self-extract archive).
+   It will place an INSTALLATION copy of the game in the current
+   directory. Just run INSTALL program supplied to install a RUNABLE
+   copy on your HD.
+   You can delete the INSTALLATION copy once a runable copy has been made
+   (to save disk space of course).
+   Note though that initially you'll need ~4Mb of HD space to unpack the game.
+   You also should be able to run the game from a 3.5" HD floppy
+   since the RUNABLE copy only takes ~1.38Mb. That though is unconfirmed.
+        (Hey, I didn't try it!)
+   
+
+4. The most current version of Wolfstein 3D is 1.4
+The newest version fixes all known bugfixes (as did 1.1 etc.)
+Apart from that there is not much of a difference unless
+it comes to map/graphics editors -> See 5.
+
+5. Map/Graphics editors can be obtained from the same site as the game.
+
+No, they are not written by Id or supported by them.
+Yes, they will probably be ok for your own use (anyone from Id read this??)
+No, you are not allowed to distribute modified art from the game
+Nor anything from the game for $$$ unless selling the game to third party
+(Legitimate registration transfer)
+
+The editors have been obtained by reverse engineering the map/graphics
+files and producing program that changed those files in a manner
+consistent with the game requirements of them.
+
+The editor archives are:
+maped41.zip        map viewer/editor
+wolfed21.zip       graphics viewer/editor
+wolfm160.arj       map viewer/editor version convertor
+
+The last one will let you convert between versions of wolfenstein
+since the map encryption for 1.0 is not compatible with 1.1 and upwards
+(and you may feel left out if you designed maps before with 1.0
+ and now have 1.1 or 1.4 etc. Not so!)
+
+Also maped41/wolfm160 will automatically detect what version of
+wolfenstein you have installed so you need not worry if you don't want
+to convert maps (upgrade/downgrade (!) them).
+
+All of these files include ample docs with them, so I'm NOT
+describing them here.
+
+6. There is a document on ccu.umanitoba.ca in /pub/wolf3d/
+called wolfdbug.txt that describes the various cheat options
+in wolfenstein and how to access them.
+I have reproduced it here.
+WARNING: SPOILER ALERT!!! SPOILER ALERT!!! SPOILER ALERT!!! SPOILER ALERT!!!
+
+
+-------------------------------------------------------------------
+From be...@ocf.Berkeley.EDU Sun Jan 31 19:12:45 1993
+Date: Sun, 31 Jan 1993 03:07:14 -0800
+From: Ben Rudiak-Gould <be...@ocf.Berkeley.EDU>
+To: sta...@uniwa.uwa.edu.au
+Subject: Re: WolfenStein-3D FAQ
+Newsgroups: comp.sys.ibm.pc.games
+Organization: U.C. Berkeley Open Computing Facility
+Content-Length: 6411
+X-Lines: 139
+Status: RO
+
+---------------------- CHOP HERE ----------------------
+
+(v1.0 means Wolf3D version 1.0 and v1.1 means Wolf3D version 1.1.
+The other versions are the same as v1.1 except as noted.)
+
+To enter the mode, do the following:
+
+1.  Invoke Wolfenstein 3-D with the "next" parameter (wolf3d -next)
+    for v1.0, or the "goobers" parameter for v1.1.  You can also use
+    whatever other command-line parameters you want.
+
+2.  Begin or restore a game.  While in the game, hold down the TAB,
+    CONTROL, and ENTER keys simultaneously for v1.0, or the LEFT SHIFT,
+    ALT, and BACKSPACE keys for v1.1.  You should get a message stating
+    that debugging keys are now available.
+
+That's it!
+
+To use debugging mode commands, hold down the TAB key and one of the
+letter keys listed below simultaneously:
+
+B   Changes the screen border color.  Don't ask me why it's here, but
+    it's here.
+
+C   Displays the number of statics, doors, and actors in the level.
+    Statics are things like food, ammo, pools of blood, etc., and
+    actors are the bad guys.  Doors should be self-explanatory.
+
+E   Moves you ahead two levels.  That's right, not one level, but two.
+    Unlike the W command (see below), this also takes you to the "level
+    completed" screen and gives you percentages, bonuses, etc.
+
+F   Displays your current position on the level (X,Y) and orientation (A).
+    To convert the X and Y values to coordinates that can be used in
+    MapEdit, divide them by 65,536 and round down.  A is in degrees
+    ranging counterclockwise from right.  ("Right" refers to the top view
+    as seen in MapEdit.)
+
+G   Turns what Id calls "GOD mode" on and off.  Basically it just means
+    that you're invincible.  The screen still turns red when you would
+    normally be hurt, though.  This can get very annoying if you want to
+    do something fun like kill the episode's boss with your knife.
+
+H   Hurts you (-16% health).  Not much use to us, but I guess Id had
+    to debug their damage code just like everything else.
+
+I   "Free items."  Ups your health, ammo, and score, and gives you the
+    next most powerful weapon.  (Machine gun if you didn't have it,
+    Gatling gun if you did.)
+
+M   Displays memory usage.  Loads of fun.
+
+N   Turns "No clipping" on or off.  This lets you walk through walls.
+    Wall-walking does STRANGE things to the graphics (try approaching a
+    door from the side and opening it).  It also does strange things
+    to the bad guys.  If you walk into a room through the wall, often
+    they won't notice you at all, even if you walk right in front of
+    them or fire your machine gun (in some direction besides at them,
+    of course).  This command is not available in the registered
+    version of the game.  (I guess we should be glad that ANY of the
+    commands are available.)
+
+O   Changes the main viewscreen to a map of the current level, which
+    you can scroll through using the movement keys or the mouse.  It's
+    neat, but I wish that it weren't so ugly.  Those numbers are from
+    the internal level format.  ESC will get you out.  Unfortunately
+    this command doesn't work in v1.1.
+
+P   Pauses the game, without putting up the little "Paused" window.
+    I guess this makes it nice for taking a screen shot, although in
+    v1.1 it changes the screen border to an ugly bright white.
+
+Q   Bombs the machine in v1.0.  Exits the game in v1.1.  Both of these
+    functions are about equally useless.
+
+S   Turns slow motion on or off.  If you have a slow computer you
+    don't need this.
+
+T   Pops up a window which displays graphics and sounds from the game.
+    Use the left and right arrow keys to page through the entries.
+    If you come to a blank entry, keep going.  You'll know when you've
+    reached the end (500-something) because you won't be able to go
+    any higher.  ESC exits.  v1.1 has some interesting graphics that
+    v1.0 lacks, including one sprite which is particularly intriguing.
+    (Don't bother doing what it says; you won't win anything.)
+
+V   Asks you how many extra VBLs you want.  High values seem to make
+    the game sluggish and not much else.
+
+W   Warps to any level.  Although it prompts for a value from 1 to 10,
+    you can actually enter any number up to 20 in the registered
+    version.  Eleven through twenty correspond to levels one through
+    ten in the episode following the one you're currently playing.
+
+X   "Extra stuff."  Doesn't appear to do anything.  If you can amend
+    this, let me know.
+
+Miscellaneous notes:
+
+TEDLEVEL - You can use the "-tedlevel" command-line parameter to
+quickly start Wolf3d and warp to any level.  The parameter is
+followed by a two-digit number.  The tens digit is the episode number
+minus one, and the ones digit is the level number minus one.  For
+example, to go to level 10 of episode three, type:
+    wolf3d -tedlevel 29
+and to go to the first episode, level 2, type:
+    wolf3d -tedlevel 1
+Using this parameter also gives you an infinite number of lives.
+Combine it with "-goobers" (or "-next") for even more fun.
+
+DEMO RECORDING MODE - This "debugging" feature is not accessed in the
+same way as the other commands, and it is available only in v1.0.  To
+record a demo, follow step one from the beginning of this file, and
+then hold down TAB at the title screen (the one with B.J. hiding from
+a guard).  Unfortunately, there doesn't seem to be any way to display
+these demos after they've been recorded, but if you've ever had a
+secret desire to play Wolfenstein 3-D with a big "DEMO" sign at the
+top of the screen, this is how to do it.
+
+SPEAR OF DESTINY - Strictly speaking, this file isn't about SOD, but
+SOD's debugging mode is quite similar to Wolf3d's.  Just use the
+command-line parameter "-debugmode" and the same key combo as v1.1.
+Oh, and be sure to check out what happens to B.J. when you turn on
+God mode...
+
+-- Ben Rudiak-Gould
+AOL: BenjaminRG
+Internet: be...@ocf.berkeley.edu
+"I really need to work on my Total Time of 0:01 for Episode One.  I was
+messing around too much in those rooms." -- Me, with debugging mode
+-------------------------------------------------------------------------

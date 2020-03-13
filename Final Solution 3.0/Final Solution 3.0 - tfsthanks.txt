@@ -1,0 +1,32 @@
+I tried to complete this list of sources, but if I forgot anyone or you find any 
+incorrect information, please contact me at tvanputten@yahoo.com. so I can update 
+this section. I'd like to thank the following people for being a contributor to The 
+Final Solution, be it directly or in-directly. Thanks.
+
+Martin Bonnet(MCS) -- Much code help, AUDIOT files, testing
+Brian Rowan -- Graphics, sounds, chaingun jamming, seamless gameflow, new keys
+Brian Lowe -- Adding more guards to the levels, comments, suggestions
+Pablo Dictter -- Bugfixing the game's levels, comments, suggestions
+Kenny Riley -- Comments, suggestions
+Laz Rojas -- Graphics, sounds
+FormGen Incorporated -- graphics, sounds
+Steve Walley -- Twin-chaingun graphics, mental support, testing
+Ben Blaufarb -- original Basic Guard graphics, some sprites/walls
+Chris Chokan -- Level 21 Music Score, comments
+Scott Croneberger -- TFS Logo, comments, suggestions
+Barry Christian -- Testing, comments
+Ken O'Brien -- Comments, suggestions, testing, story re-writing
+Paal Olstad -- Code help, comments, testing
+John Bucksnort -- Comments, suggestions
+Gregory Yingling -- Comments, suggestions, testing
+~Chad~ -- Comments, suggestions, testing 2.0
+Ian Franken -- Comments, suggestions, testing, code help
+Clubey Japan -- Converting the Mac Wolfenstein GFX to GIF format
+Migchiel Faber -- Comments/suggestions, testing
+DarkOne -- enabling me to add new music to the AUDIOT files
+Florian Stohr -- enabling me to add VGA graphics and what not else
+Bill Kirby -- enabling me to add new VSWAP graphics and create levels
+Robert Prince -- Music Score of this game
+ID Software -- Wolfenstein, Spear of Destiny and it's source code
+Jasc Software -- enabling me to create and edit graphics
+Corel Corporation -- enabling me to create and edit graphics

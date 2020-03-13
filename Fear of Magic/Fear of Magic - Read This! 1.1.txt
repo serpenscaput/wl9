@@ -1,0 +1,29 @@
+Welcome to BLF's episode of Wolfenstein 3D!
+-------------------------------------------
+ver. 1.1
+
+What is new in THIS version of "The Fear of Magic"?
+
+* More new pics at the menu.
+* New sprites & wall images!
+* The game is now a own game to. (like SOD, etc.)
+* Some more guards, and more food.
+
+<IDEA>
+
+Instead, of being the _usual_ wolf 3d addons that has to do with WWII, this is a 
+Heretic/Hexen type of a game! You are in the old middle ages, as you fight your way 
+forward, and being attacked by skelletons, wolfes warlocks, and zombies...!
+
+Use yor weapons; the knife, the fire magic, the light magic, and the wizard wand!
+
+
+<CREDITS>
+
+New Art, Level Design, Sound Editing, and Testing: Fredrik Stjernholm 
+Some Testing: IceMan
+
+BlastFire Entertainment - 2002.
+Homepage: HTTP://clik.to/blf
+
+Note: You have to ask for permission if you want to use some of my art in your projects.

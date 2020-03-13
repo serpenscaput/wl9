@@ -1,0 +1,78 @@
+Beyond Wolfenstein
+Version 1.00
+
+by Nate Smith
+
+
+1.  Description
+2.  Enemies
+3.  Items
+4.  Credits
+5.  Other Information
+
+
+1.  Description
+
+Beyond Wolfenstein is a one episode game based on Wolfenstein 3d.  Here is a short 
+summary of its features:
+
+        9 new levels
+	some new sounds 
+	some new graphics
+	some new items	
+	new executable
+	other suprises 
+
+
+2.  Enemies
+
+1.  Dog  -  easy to take down
+
+2.  Brown Guard  -  these guys are the most common enemies you'll come across.  One 
+shot from the shotgun should bring them down.
+
+3.  Officer  -  these guys are quick and smarter than the average guard, but one 
+or two shells will take them out.
+
+4.  Green Guard  -  these guys are lethal.  They shoot faster than you can say "achtung," 
+ but  one shell will bring them down too.
+
+5.  SS  -  alone, these machine-gun toting goons should be no problem.  But I wouldn't 
+recommend using the shotgun against groups of 'em.
+
+6.  Flame-thrower  -  these thugs are the toughest of the regular guards, launching 
+volleys of deadly flames with their flame-throwers.  
+
+7.  SS Commander  -  bigger, tougher, and heavier armed, SS commanders are a challenge.
+
+
+8.  Otto Giftmacher  -  ??
+
+9.  The General  -  ?? 
+
+
+3.  Items
+
+There are a couple new items in Beyond Wolfenstein.
+
+1.  Health Bonus:  Syringe  -  These syringes are scattered throughout the castle. 
+ They give 1% health.
+
+2.  Shells  -  Four shotgun shells to kill four bad guys.  Not bad.
+
+3.  Shotgun  -  Four more shells.
+
+
+4.  Credits
+
+Game Design  -  Nate Smith
+Graphics  -  Nate Smith
+Level Design  -  Nate Smith
+Programming  -  Nate Smith
+
+
+5.  Other Information
+
+If you have questions or comments, please e-mail me at Nayt1@usa.net.  Check Wolf3d 
+World at http://members.xoom.com/wolf3d_world for information on my other projects 
+and/or updates/add-ons to this game.

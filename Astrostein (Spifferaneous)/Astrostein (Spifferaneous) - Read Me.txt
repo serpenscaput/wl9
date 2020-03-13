@@ -1,0 +1,70 @@
+=============================================================================
+Title                   : The Astrostein Saga Version 1.0
+Author                  : Gerald "Spifferaneous" Heffner
+Description             : A futuristic Wolfenstein addon that takes place
+			  in a future where the Nazis rule and the world's
+			  only hope is B. J. Blazcowicz III.
+Additional Credits to   : Id Software and the creators of the editors listed.
+			  * SPECIAL THANKS TO BRUCE RYDER *
+=============================================================================
+
+* Play Information *
+
+Game Type               : Wolfenstein 3d Full Registered Version
+Episode and Level #     : Episodes 1-6, Levels 1-10 
+Single Player           : Yes
+Difficulty Settings     : 1-4
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+
+* Information About Future Versions *
+
+As indicated in the title, this is the first version of Astrostein. I would
+like you to report any and all problems with this version so they can be 
+fixed in future versions. In future versions of Astrostein I hope to include:
+
+An edited EXE file
+Consecutive Levels (Possibly)
+6 Episodes split into 2 sets of 3
+
+* Construction *
+
+Base:  New levels from scratch (based on Macintosh version)
+Editor(s) used:  MapEdit 7, MapEdit 8, Wolfedit, Wlfaud, Wolfsnd, PSP, 
+                 Goldwave, and Microsoft's Paint Program
+Build time:  About 5 Months
+Known bugs:  Flashing screen border on some levels, invisible guards on one 
+             level
+Level designers:  Spifferaneous J. Heffner
+Sound:  Laz Rojas (Mac)  Spifferaneous (My Version) and Bruce Ryder
+Graphics:  Laz Rojas (Mac)  Spifferaneous (My Version) and Bruce Ryder
+
+* Installation *
+
+Unless somehow the file was corrupted, this is what you should have in your
+Wolfenstein directory:
+
+Astroin.bat             : Install file
+Astroout.bat            : Uninstall file
+Read Me.txt             : This document
+Information.txt         : Info on Astrostein Itself
+Vswap.ast               : Graphics/Sound
+Gamemaps.ast            : New Maps
+Maphead.ast             : New Maphead File
+
+* Copyright / Permissions *
+
+Wolfenstein is a registered trademark of id Software, id Software logo is 
+copyrighted, yadda yadda, yadda. PSP and Goldwave are copyrighted. Wolfedit, 
+Wolfsnd and all those other programs are property of the creators.
+
+Authors may use this level as a base to build additional levels.  Please
+include this document in anything you create and decide to distribute. (I'd
+like credit for creating MOST of the graphics.)
+
+You MAY distribute this Wolfenstein addon, provided you include this file,
+with no modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+=============================================================================

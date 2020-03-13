@@ -1,0 +1,99 @@
+\
+
+
+ 
+
+TS README
+	Welcome to my second real mapset! The name is “This Spear”. I’m going to make a 
+Sod called “This Spear”, and a Wolf3d mapset called “That Wolf3d”.
+	With easier levels, less mutants, and way fewer bosses, the player can finally beat 
+the game without raging at the difficulty. (The bosses can only be found in their 
+respective levels, excluding secret levels, which contain a boss each.)
+	Following the tradition of Haven mapsets, Aardwolf signs will be hidden in the hardest 
+to find secret areas.
+	The cheats are the same as the default. If you can’t find the secret elevators, 
+warp to the levels, just to play it. It’s lame to make levels that nobody plays.
+
+	Bring up any and all comments for this mapset. It is due to the comments I got from 
+SHS that helped me realize the flood of mutants in my levels.
+	All levels in this mapset you may use, manipulate, butcher, and do whatever. Credit 
+for using my level is appreciated, but not mandatory. Now, get out there and bust 
+some heads! (Preferably Nazi heads…) Good hunting!
+
+This is Dark_wizzie, signing out, 3/7/2011
+www.Wolf3d.Darkbb.com 
+
+LEVEL LIST
+Level 1: Wasteland 3
+Level 2: Wasteland 1 – Made easier, no bosses, newly edited.
+Level 3: Grey Area – Pun *might* be intended.
+Level 4: Brownies
+Level 5: Trans Fat – See what I did with the level name there? HAHAHAHA!
+Level 6: Treasure Trove
+Level 7: Master Key
+Level 8: Super Symmetry
+Level 9: WNE RIP – Tribute to Wolfenstein Never Ending
+Level 10: The Wilhelms – Meet the Wilhelms!
+Level 11: Snarky 
+Level 12: More Brownies
+Level 13: Concrete
+Level 14: Round n’ About – (This is a new level, not recycled from SHS)
+Level 15: Scavenger Hunt
+Level 16: Mutant Master
+Level 17: Ramparts Cont
+Level 18: Death Awaits!
+Level 19: This Secret
+Level 20: The Extra Level
+Level 21: Window Pain – Made by ack 
+
+CREDITS LIST
+Instead of being cool and saying that “the credits are listed in no particular order”, 
+go ahead and figure out what order they are listed in. :-)
+
+Ack – For level inspiration, his funny readmes, and level 21.
+Adam Biser – For error checking utility from WDC. I like!
+Andi – For making Chaosedit editor, which I use.
+Brian Lowe – For posting this on the Dome, and agreeing to beta testing this monster 
+of a mapset after multiple attempts at persuasion…
+iD Software – For making Spear of Destiny!
+Me – Jury’s out on the reason. :D
+Ripper – For making Chaosedit (with Andi) and SDL. Without SDL, I probably wouldn’t 
+be making mapsets anymore. 
+Wlhack – For making an exe to allow Wolf3d objects in Sod. And his altered “wood 
+panel” wall that fits a bit better with the wooden walls.
+WolfForever – For playtesting and suggestions on level design, and to make sure nothing 
+incredibly dumb pops up.
+Wolf3d Haven – You know a forum is awesome when it has its own spam thread!!!
+
+
+You, for playing this mapset. You are awesome!
+
+
+Until next time, everyone! Auf Wiedersehen!
+RELEASE NOTES
+V1 – All levels double-checked to prevent dumb stuff. Final Release? 
+V0.4 – 21 levels done. Just waiting for beta-testers… (Hurry up!)
+V0.3 – Second beta release. 16 levels done.
+V0.2 – First and only demo release. 10 levels done.
+V0.1 – First beta release. 6 levels done, made for playtesting.
+ 
+
+1.	Wutscape? How’d you manage to find my secret hiding spot? Well, my friend, I guess 
+I have to tell you what levels the aardwolf signs are on. That would be levels 1, 
+2, 12, 19, 20. Now go find them!!!
+
+2.	Oh. BTW gaise, what do you think of my new mapset, This Spear? I think it’s great. 
+:-) Less mutants and almost no Ubermutants, ja?
+
+3.	Hey, it *might* take half an hour to play a mapset, but it takes 5 hours per level 
+to make it! Learn to appreciate the tears and sweat put in all of my mapsets! Dark_wizzie 
+rules to roost!
+
+4.	Honestly, I’m running out of things to say. Uhm. Join Wolf3d Haven, because the 
+forum is cool. Check out my WNE story at Wolf3d Haven. Check out my Wolf3d for Dummies 
+guide to mapping, (new version is under construction, albeit slowly), check out SHS 
+and marvel at how much better my mapping has become since then, do a waltz, and whoop-de-doo. 
+Look at all this stuff I just wrote. Better shut up now.
+
+Don’t do what I wouldn’t do. Byebye! 
+Nobody is perfect. I am nobody.

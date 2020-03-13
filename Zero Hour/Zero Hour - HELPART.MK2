@@ -1,0 +1,250 @@
+^P
+^C87 ZERO HOUR STORY
+
+^C00 You are a proud member of USTF - United States Task Force, sent for watching 
+the 3-kilometers area of ocean near the Germany. It is height of World War II, and 
+Allied soldiers started to win in many tactical battles. You perform the standard 
+reconnaissance mission near Rugen island. Your group trace the ocultist activity 
+in the old church.
+
+^P
+^C87 ZERO HOUR STORY - PART 2
+
+^C00 Next second, everybody jumps off the boat into the water! You see the big explosion 
+of your boat. One second before explosion you hear terrified reporter that describes 
+the attack of German army to the Great Britain. Escaping prisoner informs you that 
+two mad Germans reached their power with strange Teutonic Knights sect. There isn't 
+other way...
+
+^P
+^C87 ZERO HOUR STORY - PART 3
+
+^G32,16,3
+^C00 United States Task Force members decide one thing: their need to get into the 
+sect hideout and wipe out all of the mad sect members... or die in battle like heroes. 
+After first fight with sector patrol your friends die... Help our hero!
+
+^P
+^C87 USING THE MENU
+
+^C00 The menu of ^C84 Zero Hour ^C00 is built for intuitive use and functionality. 
+You can adjust game parameters before starting the game.
+
+^C01 New Game
+^C00 If you will choose New Game, you will be asked for skill level (see ^C84 Skills 
+^C00) and start new game immadietly.
+
+^P
+^C87 USING THE MENU - PART 2
+
+^C01 Sound
+^C00 The Sound menu will let you adjust your sounds. Here you can choose the source 
+of digitized sounds, normal sounds and music.
+
+^C01 Controls
+^C00 You can choose the game controller that you will use in the game and configure 
+it. Also you can change mouse sensitivity and rebind your control keys.
+
+^P
+^C87 USING THE MENU - PART 3
+
+^C01 Load & Save Game
+^C00 You can save your game in any level. If you didn't started the game, this option 
+will be disabled. Your saved game will be described with your own text. Load game 
+will let you load the game that was saved before.
+
+^C01 Size View
+^C00 Here you can incerase or decerase the size of game screen. Lower setting will 
+incerase game speed.
+
+^P
+^C87 USING THE MENU - PART 4
+
+^C01 Help Me!
+^C00 You just read this. Really.
+
+^C01 High Scores
+^C00 This option will let you see the best scores in the game.
+
+^C01 Back to Demo/Back to Game
+^C00 If you don't play the game and want to see Demo again, choose this option. If 
+you play and want to back, choose this option too :)
+
+^P
+^C87 USING THE MENU - PART 5 (LAST ONE!)
+^G80,176,5
+
+^C01 Quit
+^C00 If you just get your daily part of AD&D (Advanced Death & Dismemberent) choose 
+this option and go back to boring reality. Remember that real heroes aren't a cowards.
+
+
+^P
+^C87 STARTING NEW GAME
+^G92,192,4
+
+^C00 After choosing ^C01 New Game ^C00 from main menu, you need to set your difficulty 
+before starting the game. There are four skill levels. Skills change your hit points, 
+number of enemies and strength of opponents. After that, the game will start... or 
+your fail.
+
+^P
+^C87 YOUR ULTIMATE GOAL
+
+^C00 Well... you don't have your boat now, and you don't have any good way of escape. 
+Now you understood that the routine patrol mission changed to bad way and you are 
+in terrifying situation. You don't have much time, and fate of free world is in your 
+hands now - you can do one thing. You can burn out your way and wipe the bad bastards 
+to the hell. You must search and destroy the mad ocultists... maybe you will free 
+the world. Hmm... maybe you will live and start to write a book?
+
+^P
+^C87 STATUS BAR
+
+^C00 Status bar informs you about your current situation. There are placed your points, 
+keys, amount of lives, current life status, ammunition and your face. Remember - 
+when your life gets to zero, you are dead. When your ammo gets to zero, everything 
+you have got is a knife. Remember - Himmler's Teutonic Knights won't wait for your 
+move and will attack without any questions.
+
+^P
+^C87 WEAPONS
+
+^C84 Knife
+^C00 The best friend of alone commando, Combat Knife is deadly in face-to-face fight. 
+I reccomend to play hide & seek with Nazis and jab the edge of knife to their backs.
+
+
+^C84 Pistol
+^C00 The Pistol uses standard Nazi ammunition. Your start with 8 bullets. To incerase 
+level of ammo, find clips or 16-bullet packs.
+
+^P
+^C87 WEAPONS - PART 2
+
+^C84 Rifle
+^C00 MP40 - crusty automatic weapon, now in use of heavy-weaponed Schutzstaffel guards.
+
+
+^C84 Minigun
+^C00 The last weapon. It shoots a deadly burst which rips out a lot of inside-things 
+from bad guys. Look out for these weapon - it's effective and deadly... but look 
+out for ammunition bar.
+
+^P
+^C87 NEW HEALTH ITEMS IN ZH!
+^G25,16,34
+
+^C01 Adrenaline Hypo ^C00 gives you 2% health boost, up to 200 percent of health. 
+There are popular in sect - they incerase strength, dexterity and speed in Teutonic 
+Knights army.
+
+^G85,16,35
+^C01 Adrenaline Health Kit ^C00 gives you one life or one death - it depends on you 
+are a optimist or an pesimist. These packets contains experimental dosage of adrenaline 
+which incerase the level of adrenaline in the organism.
+
+^P
+^C87 NEW ITEMS IN ZH!
+
+^C01 Land Mine
+^C00 Activated Land Mines damages you for 50 percent of life.
+
+^C01 Weapons Crate
+^C00 Gives you 50 bullets and machinegun. This crates are rarely in the bunker, but 
+get more often in progress.
+
+^P
+^C87 YOUR ENEMIES
+
+^C01 Sector Patrol
+^C00 The base of Teutonic Knights army. They shoot, and if there's time for questions, 
+they shoot more and more. 
+
+^C01 Schutzstaffel Guard
+^C00 These blue guys like to make these lovely holes in their opponents bodies by 
+using MP40 machineguns.
+
+^C01 Dogs
+^C00 Specially trained, brown and red-eyed hellhounds.
+
+^P
+^C87 YOUR ENEMIES - PART 2
+
+^C01 Speed Reaction Force
+^C00 Trained in making speed manevuers, they run to you and kill you with their pocket 
+pistol. Dangerous.
+
+^C01 Flame Infantry
+^C00 Walking dead for you. They are extremely strengthful. Big, bad, black. They 
+will burn you up with their flamers. God!
+
+^C01 Sect Members
+
+^P
+^C87 BOSSES
+
+^C85 Trans Grosse 
+^C00 General of Teutonic Knights army. Be patient - this guy is just whole of mad 
+and heavy-weaponed. 
+
+^C85 Hans Grosse
+^C00 Trans' brother, Hans is just more bad and mad than his brother. Extremely dangerous.
+
+
+^C85 Mr. Black
+^C00 Sect leader. Devil, mad and bad. You will die two times before you will see 
+that your body just vaporized.
+
+^P
+^C87 CREDITS
+^G32,16,85
+
+^C00 Game produced by ^C84 Martin Krysiak
+
+^C00 On engine by ^C84 iD Software
+
+^C00 Beta-tests by ^C84 Brian Lowe, Kuki and Wolf Community!
+
+^C00 Additional art by ^C84 AReyeP, B.J. Rowan
+
+^C00 Thanks to ^C84 Brian Lowe, Kuki, Zach Higgins ;)
+^P
+^C87 TOOLS
+
+^C00 You want to know how I did something in this game? Here is the list:
+
+^C01 Mapedit 8.4 ^C00 - Map editing
+^C01 Wolfedit ^C00 - Replacing and editing images
+^C01 Floedit ^C00 - Replacing sounds, images
+^C01 Borland C 3.1 ^C00 - Code compile
+^C01 NCEdit ^C00 - Code edit, help art, end art
+^P
+^C87 ABOUT MARTIN
+
+^C00 OK... just a routine interrogation for you. My name is Martin, I'm twelve and 
+I live in Wroclaw, Poland (a small country in central-east Europe). I started to 
+play Wolf when I was six, and my dream was making maps; now this dream is on my way. 
+I made two add-ons for Wolfenstein: Zero Hour (TC) and Operation Verschieben (maybe 
+I'll release it? It was just a test!). You can send me an e-mail with your opinion 
+about my work, if you want.
+^P
+^C87 HOW TO CONTACT M.K.?
+
+^C00 You like my work and want to contact me? Well, you can do it by my e-mail address: 
+^C85 muad.dib1@wp.pl ^C00. Also you can visit my and Kuki's website (first Wolfy 
+center in Poland!): ^C84 WolfManiac ^C00. Also look up there for latest patches, 
+new add-ons, source help and lots more! Find it at ^C84 http://wolfmaniac.w.interia.pl!
+
+^P
+^C87 THANKS FOR PLAYING!
+
+^G80,176,5
+^C00 Thanks for playing Wolfenstein 3D: Zero Hour. Watch out for new Wolfenstein 
+modifications by Tristan Van Putten, Brian Lowe and me. Thanks for interest!
+
+^C84 Martin Krysiak
+^C85 muad.dib1@wp.pl
+
+^E
+

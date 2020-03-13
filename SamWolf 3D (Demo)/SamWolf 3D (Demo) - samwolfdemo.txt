@@ -1,0 +1,5 @@
+
+This is the first episode of a 60-level map-set. Only changes are the
+maps, the music, and the title screen.  Maps included.
+
+(Tested with both original Wolf and NewWolf)

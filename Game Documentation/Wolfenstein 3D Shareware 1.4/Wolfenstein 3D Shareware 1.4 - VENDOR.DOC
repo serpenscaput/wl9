@@ -1,0 +1,32 @@
+Dear Vendor,
+
+First, everyone at Id Software would like to thank you for
+distributing our product.
+
+Adrian Carmack: "Thank you" 
+John Carmack: "Thank you"
+Kevin Cloud: "Thank you"
+Tom Hall: "Thank you"
+John Romero: "Thank you"
+Jay Wilbur: "Thank you"
+
+Second, in order to make your life easier we are providing our
+games in a format that is easy for you to divide amongst several
+disks and still be easy for the user to install.  You may use
+disks of any size!  To do this simply copy the files,
+"INSTALL.BAT, DEICE.EXE, FILE_ID.DIZ, DESC.SDI, *.DAT & VENDOR.DOC
+onto disk one along with the file *.1.  After that all you have
+to do is move the files *.2, *.3....*.n onto their own disks.
+
+We've broken the *.n files down into 360k chunks so you can
+easily distribute them on 360k disks.  If you are using larger
+capacity disks simply put as many *.n files as will fit on each
+disk.  You wouldn't want to charge people for unused space when
+all you had to do was copy another *.n file onto a disk already
+being used?  At least you wouldn't want us to find out about it!
+
+Again thanks for helping us get the game into the hands of those
+who will enjoy playing it!
+
+Jay Wilbur, Id Software
+

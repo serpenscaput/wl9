@@ -1,0 +1,111 @@
+Spear of Destiny Demo (tm id) Fusion Patch/Mod By Colonel Bill (Mike G)
+
+v1.1 (Update from v1 - added gun bobbing and fixed when running in windowed mode 
+- game will start in center of screen)
+
+Source code used: Wolf4SDL v1.9R (rolling Github release)
+
+Released 2019
+
+This is the first "mod" for Wolf3D that I have made in over 15 years.
+I started this "patch" thinking I would only make 2 levels for the Spear of Destiny 
+Demo version.
+After doing 2 floors, I found myself wanting to do more. So I increased the levels 
+in the source.
+The Demo version only has two actors in it (guard and SS man). I wanted more - so 
+one thing led
+to another and I ended up adding all of the actors from SOD. I wish I would have 
+started with the
+full version in the 1st place.
+
+Anyway - Thank you for playing. I hope you enjoy it - if not, oh well.
+
+------------------------------------------------------------------------------------------------- 
+
+
+GAME PLAY NOTES:
+
+LEVELS: 11 straight levels (No secret floors)
+
+MAZES: No frustrating mazes. You probably won't get lost (not for long anyway).
+
+DOOR KEYS: There's just two (Silver and Gold). If you get to a locked door with no 
+key, you won't
+have to back track too far to find it (unless a Boss has it). Make sure to look in 
+all of the rooms.
+Sometimes, to get a key requires entry through a secret push wall (easy to find).
+
+
+SECRET PUSH WALLS: They aren't really secret. Just look for a puddle of something 
+next to a wall. You
+don't have to scoot against the walls like a drunk to find them.
+
+HEALTH POWER UP: There's the regular chicken/turkey platter, first aid kit, pool 
+of blood, dog food,
+but there's also beer to drink (yeah!). Also, if your health is below 80 percent, 
+you can earn more
+by cleaning up the messes in the restrooms (somebody has to do it - yeah?).
+
+HEALTH POWER DOWN: Walking next to the elctrified fence/wall will take 2-10 health 
+points away.
+
+CELL DOOR SPRITES: Green flashing light = Open (you can walk through it). Red flashing 
+= Blocked
+
+---------------------------------------------------------------------------------------------------
+
+
+Any way - blah blah blah - Included is my modified source code. It's OK to use it 
+to make your own
+levels/mods if you want to. If you use any of my original sprites, just give me a 
+nod/credit.
+This mod shall not be sold for profit. All rights belong to id Software.
+id can sell it if they want.
+
+
+Original and modified walls and sprites from Wolfenstein 3D and Spear of Destiny 
+1 (id Software).
+Spear of Destiny Missions 2 & 3 (FormGen, Inc). Some of my own sprites. Took a few 
+death sounds
+from Doom (id).
+
+
+Peter Gunn theme song by Henry Mancini
+
+All other songs by Robert C. Prince III
+
+Source code mods thanks to: WSJ, BrotherTank, DarkOne, Tricob, Chris C., AlumiuN, 
+insurrectionman,
+Adam Biser, AReyeP, and others?
+
+
+Torch animated gif:  http://bestanimations.com/Fantasy/Fantasy3.html
+
+Some Ceiling and floor textures:  https://opengameart.org/textures/
+
+Wolf4SDL source: https://github.com/AlumiuN/Wolf4SDL
+
+Wolf4SDL code mods: http://diehardwolfers.areyep.com/
+
+Source compiler: Code::Blocks http://www.codeblocks.org/
+
+Wolfenstein editor: WDC http://winwolf3d.dugtrio17.com/
+
+Grapics editor: Neopaint https://www.neosoftware.com
+
+Sound editor: Goldwave https://www.goldwave.com/
+
+Easy Gif Animator https://www.easygifanimator.net/
+
+Text editor: GetDiz https://www.outertech.com/en/notepad-replacement
+
+----------------------------------------------------------------------
+
+VirusTotal results of SpearDemo4SDL.exe
+
+0 / 67
+No engines detected this file
+SHA-256	38d96b5bd1bc5de64ba40724569719897ca2b144ed3665a001afc40cc5217d60
+File name	SpearDemo4SDL.exe
+File size	399.09 KB
+Last analysis	2019-04-15 19:53:58 UTC

@@ -1,0 +1,49 @@
+Wolfenstein 3D - Mekova verzia.
+
+Tato verzia hry obsahuje celych 6 epizod NOVYCH levelov.
+Autor levelov: Matej Kurpel
+Datum: 20.4.2003
+
+Upozornenia:
+- Vsetky levely boli testovane a chyby opravene. Aj tak
+  sa mozu vyskytnut nasledujuce chyby:
+
+1) Na mieste, kde mali byt dvere nie je nic, ale
+   tadial sa neda prejst. Jednoducho, vidis
+   do miestnosti, do ktorej nemozes ist.
+   Mozes aj pocut ako sa tieto neviditelne dvere otvaraju,
+   ked cez ne prechadza vojak. Ak vojaka zabijes vo dverach,
+   ostanu otvorene a ty budes moct cez ne prejst ;) odporucam.
+   Nastastie to neovplyvni vyhratelnost levelu.
+2) Ak hra nahle skonci s hlasenim "Bad sound number"
+   skus to znova, malo by to fungovat.
+3) Vo velkych priestoroch (vid E2L10) sa niektore
+   predmety stracaju a znova objavuju. Je to chyba hry,
+   ze nedokaze zobrazit viac ako urcity pocet (64?) sprite-ov.
+4) Ak vojdes do tajnej chodby, ked sa odtlaceny mur este
+   nezasunul, uvidis ho zboku na koncovom mieste a on
+   sa bude (nevedno kam) posuvat od teba.
+5) Bocna textura dveri sa niekedy straca pri ich otvoreni.
+6) Duchovia nesposobuju ziadnu ujmu na zdravi (niekedy...)
+7) Nezabudaj si priebezne ukladat hru (F8).
+   Pozor najma na tajnu chodbu v E6L2 (ta je tu zamerne) :)
+8) Cez niektore steny sa da prechadzat.
+9) V tejto hre sa NACHADZAJU tajne levely, ale tie
+   su VELMI DOBRE ukryte. Vseobecne plati, ze su tazsie
+   ako normalne levely.
+10)Tajne chodby su skoro vsade, ale su ukryte tam, kde by si ich
+   nikdy nehladal :) S tajnymi chodbami sa miestami da nahrat
+   skore aj okolo 2 milionov...
+11)V tychto leveloch je len jedna uroven obtiaznosti.
+   Ta najtazsia...
+
+Mnohe tieto a dalsie chyby, ktore som sem zabudol napisat,
+som sa pokusal opravit, bohuzial neuspesne.
+Tuto verziu mozes sirit, nakolko hra ako taka je abandonware.
+Tuto verziu sir v nezmenenom tvare (tj. aj s tymto readme suborom).
+Levely si mozes pre seba upravovat, ale nesmies ich upravene sirit
+bez mojho suhlasu. Dakujem za pochopenie.
+
+Akekolvek otazky, pripomienky a navrhy posli na moj e-mail:
+mkurpel@gmail.com
+WWW: http://www.mk7.wz.sk

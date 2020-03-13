@@ -1,0 +1,21 @@
+^P 
+^C[Gold]MOVING UP IN THE WORLD
+^c[White]You race up the stairs to the next floor, Fallschirmjaeger paratroopers 
+in hot pursuit. All of Totenhaus is alerted to your escape now, and the Nazis will 
+make every effort to apprehend or kill you.
+
+You can hear foosteps approaching as you reach the fourth floor. Things just don't 
+get any easier, do they?
+
+^P
+^G16 16[LUKABOSS]
+^C[Gold]THE MOST DANGEROUS GAME
+^c[White]The fourth floor is guarded by General Lukas Jaeger, the finest hunter and 
+marksman in the Third Reich. His twin match-grade Lugers might seem unimpressive, 
+but his accuracy more than makes up for it--he'll put a bullet in your head no matter 
+the distance!
+
+To get the key needed to reach the upper levels of Totenhaus, you'll need to kill 
+him--but who will be the hunter, and who will be the prey?
+
+^E

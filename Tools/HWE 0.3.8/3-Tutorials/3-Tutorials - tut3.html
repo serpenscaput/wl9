@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<title>Adding extended map names</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+<h1>Adding extended map names</h1>
+<p>If you want to display map names during the "Get Psyched" screen, 16 characters 
+for a map name might
+not be enough. In order to use longer map names you need to make a small code change:</p>
+
+
+<p>Open your id_ca.h and change "name[16]" to "name[32]" in the struct called "maptype":</p>
+
+		
+<table border="1">
+<tr>
+	<td><b>Wolfenstein 3D DOS (16-bit):</b></td>
+	<td><b>Wolf4SDL:</b></td>
+</tr>
+<tr>
+	<td>
+		<pre>typedef	struct
+{
+	long		planestart[3];
+	unsigned	planelength[3];
+	unsigned	width,height;
+	<span style="color: #ff0000">char		name[32]; // Changed</span>
+} maptype;</pre>
+			</td>
+			<td>
+				<pre>typedef struct
+{
+    int32_t planestart[3];
+    word    planelength[3];
+    word    width,height;
+    <span style="color: #ff0000">char    name[32]; // Changed</span>
+} maptype;</pre>
+	</td>
+	</tr>
+</table>
+
+<p><b>Additional code changes, when you're using the WDC file format:</b></p>
+
+<p>Open your id_ca.c (16-bit) / id_ca.cpp (Wolf4SDL) file and scroll down, until 
+you find a struct
+called "mapfiletype" and change it like this:</p>
+
+<table border="1">
+<tr>
+	<td><b>Wolfenstein 3D DOS (16-bit):</b></td>
+	<td><b>Wolf4SDL:</b></td>
+</tr>
+<tr>
+	<td>
+		<pre>typedef	struct
+{
+	unsigned	RLEWtag;
+	<span style="color: #ff0000">int		numplanes; // Changed
+	int		mapnamesize; // Changed</span>
+	long		headeroffsets[100];
+	byte		tileinfo[];
+} mapfiletype;</pre>
+	</td>
+	<td>
+		<pre>typedef	struct
+{
+	word		RLEWtag;
+	<span style="color: #ff0000">int		numplanes; // Changed
+	int		mapnamesize; // Changed</span>
+	int32_t		headeroffsets[100];
+} mapfiletype;</pre>
+	</td>
+</tr>
+</table>
+
+<p>This concludes all necessary code changes.</p>
+
+<p>Now, the only other thing left to do is to enable the "Use 32 character map names" 
+option, inside the
+<a href="../2-Editing/mapconfigurations.html">map configurations</a> dialog of HWE, 
+and to click on "OK"
+afterwards. After that you're all set. Have fun with your extended map names!</p>
+
+</body>
+</html>

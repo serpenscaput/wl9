@@ -1,0 +1,33 @@
+TIME TO KILL - Eisenfaust Edition (2019)
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CREDITS:
+===============
+
+Mapping: Thomas (original mod), LinuxWolf (eisefaust edition)
+Coding: LinuxWolf
+Additional Art: DoomJedi
+New Music: RonWolf
+Testing: GarrettChan (main tester), DoomJedi, WLHack, WolferCooker
+
+Additional credits:
+======================
+
+BigDaveHadSomeToo (Prisoner base, Flamer enemies)
+
+Iwan 'qubodup' Gabovitch (Armored Knight audio effects)
+- https://opengameart.org/content/impact
+- https://opengameart.org/content/wind-hit-time-morph
+
+WSJ (Armored Knight and Prisoner audio effects)
+- Project Eisenritter
+
+Additional Art used:
+==========================
+
+ShadowCaster (carpets)
+Strife (explosion effects)
+In Pursuit of Greed (explosion effects)
+ROTT (burning animations, fire trap)
+
+Please report more credits we might have --unintentionally-- missed.

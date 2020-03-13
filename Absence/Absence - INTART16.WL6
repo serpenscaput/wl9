@@ -1,0 +1,51 @@
+^P
+^C02 LEVEL 16 - The Reactor
+
+^G36,16,163
+^C01 Briefing:
+^C04 You're now entering the Reactor Area. If the records in Professor Tom Baker's 
+diaries are correct, be prepared to face probably the toughest enemy you ever tried 
+to defeat. Don't forget that you need to destroy the reactor so that nothing in this 
+complex survives. If the reactor goes into meltdown, you had better be a safe distance 
+away! We know that there's an emergency exit and getaway vehicle in the
+
+^P
+^C02 LEVEL 16 - The Reactor
+
+^C04 upper levels of the Reactor Area. Use the vehicle to flee. Good luck, soldier!
+
+
+^C01 Primary objective:
+^C04 - Destroy the reactor
+
+^C01 Secondary objective:
+^C04 - Flee before the reactor goes into meltdown
+
+^P
+^C02 GENERAL INFORMATION ABOUT THIS AREA
+
+^C04 The Reactor Area contains a toxic waste facility, a cooling system and a reactor 
+which provides most of the power for the complex. There are also some labs, dormitories 
+and offices in this area. The labs here form part of Delta Labs Sector 4.
+
+^P
+^C02 BESTIARY: ^C01 Mineworker
+
+^G36,16,164
+^C04 The mineworkers work in the caverns area, excavating it for the coming Gamma 
+Labs. They aren't infected with the "X-13" virus, because they wear special gas masks.
+
+
+^P
+^C02 BESTIARY: ^C01 Ubersoldier
+
+^G36,16,165
+^C04 This information was compiled from entries in Professor Tom Baker's diaries:
+
+
+He was the most secret project in the whole complex. Only the scientists in Delta 
+Labs Sectors 3 and 4 knew about it. The scientists' goal was to create the ultimate 
+killing machine with the strength of a tank and the intelligence of a real human. 
+Unfortunately it seems he was a bit too smart and decided to be his own boss.
+
+^E

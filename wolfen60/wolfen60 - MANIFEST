@@ -1,0 +1,25 @@
+WLF60 contains the following files:
+
+GAMEMAPS.WL6 - The maps (floors) that are used by the game.
+
+MAPHEAD.WL6  - Index to GAMEMAPS.WL6
+
+MANUAL.DOC   - Instructions on using the new game floors.
+
+MINIMAPS.ZIP - 60 Ascii floor maps in "mini" form
+
+MAXIMAPS.ZIP - 60 Ascii floor maps in "maxi" form
+
+WOLFMAP.CFG  - Configuration file used with WOLFMAP program to produce
+               more maps.
+
+README.1ST   - Initial instructions
+
+WMAPALL.LEG  - Keys to symbols in Ascii maps
+
+WOLFTIPS.DOC - Tips on how to create your own maps.
+
+PLAYER.DOC   - Tips for playing the game.
+
+MANIFEST     - This file.
+

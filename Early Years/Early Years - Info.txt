@@ -1,0 +1,29 @@
+some information...
+
+This is the first complete set of levels I did (well, the boss & secret levels are 
+still original) and it was originally called  as "Fearless 3D"
+
+Those days I wasn't really on coding so this game doesn't have any changes made to 
+the source. I also trusted myself as artist less than these days so the graphics 
+are mostly borrowed from other mods (I knoW I took graphics from Vertilgung and Spear 
+Resurrection but other sources I have already forgotten... If anyone recognizes
+them, please e-mail me so I can give the true artists some credits...). 
+
+The levels might be hard because I used to make levels with "Kill the Player" - method 
+so don't worry If you can't finish the game...
+
+
+BTW: Also, some levels might remind you from original spear levels and that is so 
+because I didn't always have such a patience as nowadays (I was 12 when I did this, 
+so forgive me) so I simply used original spear level as a base...
+
+Installing instructions: Because there are no code changes, only the changed files 
+are included in the zip. They need to be extracted to a folder containing a copy 
+of the full Spear Of Destiny game files. 
+
+Tools used:
+
+MapEdit,  (for maps of course)
+WolfEdit, (inporting and changing graphics)
+FloEdit,  (later "tough-ups")
+

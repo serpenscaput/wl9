@@ -1,0 +1,51 @@
+
+                    Map Legend for Wolfenstein 3D Episodes
+
+SYM             DESCRIPTION            
+=== ===================================
+ $  Treasure                            
+ %  Secret passage                      
+ *  Your starting location              
+ +  First aid                           
+ 1  Dog      (skill lvl 1 & 2)          
+ 1  Guard    (skill lvl 1 & 2)          
+ 1  SS Guard (skill lvl 1 & 2)          
+ 1  White clad Officer (skill lvl 1 & 2 
+ 1  Zombie - Mutant (skill lvl 1 & 2)   
+ 3  Dog      (skill lvl 3)              
+ 3  Guard    (skill lvl 3)              
+ 3  SS Guard (skill lvl 3)              
+ 3  White clad Officer (skill lvl 3)    
+ 3  Zombie - Mutant (skill lvl 3)       
+ 4  Dog      (skill lvl 4)              
+ 4  Guard    (skill lvl 4)              
+ 4  SS Guard (skill lvl 4)              
+ 4  White clad Officer (skill lvl 4)    
+ 4  Zombie - Mutant (skill lvl 4)       
+ ?  Unknown/Invalid/Unrecognized        
+ @  Outdoors scenery                    
+ a  Ammunition                          
+ B  Boss Arnold (Hans)                  
+ D  Door (horizontal)                   
+ D  Door (vertical)                     
+ E  Elevator door                       
+ F  Boss Herr General Fettgesicht       
+ f  Food                                
+ G  Boss Otto GiftMacher                
+ H  Hitler                              
+ K  Gold Key                            
+ K  Silver Key                          
+ L  Locked door                         
+ m  Mirror                              
+ o  Misc object (trivial)               
+ P  Black priest (Hitler's Ghost)       
+ p  Pacman Ghost (invincible)           
+ S  Boss Dr. Schabbs                    
+ T  Boss Gretel (Hans Sister)           
+ w  Weapon 3 (machine gun)              
+ W  Weapon 4 (chain gun)                
+ x  Dead Guard                          
+ X  Ends game (eXit)                    
+ °  Wall                                
+ ²  Wall with sign                      
+

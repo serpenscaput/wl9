@@ -1,0 +1,54 @@
+				Get Psyched!
+	Hi Wolfers!  My name is NJ Sinnott and I'm behind it all.  even behind Gerolf Stein 
+--the man himself.  Thanks mainly go out to the players, who have come to enjoy my 
+Wolf 3-D sequel.  My goal was to make a Wolfenstein mod (modification) that had a 
+slight touch to the coding, but would also have a glance at the classic Wolf 3-D. 
+ I hope I succeeded, because to me, it's anything for the players.  
+
+	And now, a message for the fellow 				           "editors" out there...
+	There is no trademark on anything but my dignity, so therefore,  feel free to do 
+anything to my game, i.e. edit or use my levels, take sprites from the game, (it's 
+a classic, so you probably won't find too much) use the sounds, (apply to last parenthesis) 
+whatever you guys want to do.  Just remember to mention the credit if you use this 
+game in anyway.  PS:  I will hopefully be releasing the source code sometime soon. 
+
+
+
+	Now go kill some nazis, soldiers!
+
+	Sincerely,
+
+	NJ Sinnott (Wolf-Einstein)
+
+				
+ 
+
+
+
+	
+	Utilities used to make House of Wolf:
+
+•	Mapedit
+•	Chaosedit
+•	Floedit
+•	MS Paint
+•	Borland C++ Compiler
+Thanks to:
+Wolfenstein 3D Dome --Coding tutorials, utilities and fun and inspirational TC's 
+from other wolfers.
+
+Mr. Lowe's Wolf 3D page --Coding tutorials and again: add-ons.
+
+Die-Hard Wolfers Forum:  Tutorials from more experienced wolfers than me.
+
+And id software for DooM (Which somehow lead me to discovering wolfenstein.) 
+
+But most of all, thanks to you for downloading my add-on.  I hope you enjoy it.
+
+A Request to all players:  Please contact me if you find bugs, problems or if you 
+have questions and/or comments (But please be nice).  If you want to help me with 
+my next project, I'd be glad to have you aboard with the next TC.
+Thanks again.  NJ Sinnott  A.K.A.  
+Wolf-Einstein.
+
+  

@@ -1,0 +1,809 @@
+BEYOND THE GRAVE INSTRUCTION MANUAL
+BY
+J. NICHOLAS LEWISPage | 2
+TABLES OF CONTENTS
+The Story…………………………………......3
+Installation/Troubleshooting………….......6
+Game Difficulties............................................8
+Game Controls................................................9
+Status Bar Info.................................................11
+Game Basics.....................................................12
+Weapons...........................................................13
+Items..................................................................17
+Enemies.............................................................23
+Hints/Strategies...............................................31
+Credits................................................................35
+Contacting the Author.....................................38Page | 3
+STORY
+In a time and place where chaos, violence, and crime were rampant, two
+brothers, Sartana and Pike, were renowned and feared. Born as twins in
+1840, they had become the most sought after hired guns in the west by the
+time they were 20. Eventually, their reputation had earned the attention of
+civil war officers and between 1861 and 1865, they fought for the Union.
+Together, they racked up quite the body count and both earned medals of
+honor for valor and devotion by the end of the war.
+After the war, the two brothers made their living as bounty hunters. As the
+two further developed their reputation, Sartana noticed Pike slowly
+turning into someone he did not recognize. Pike became cruel and ruthless.
+He didn't just simply kill the men who had bounties on their heads; he
+would capture them, bind them, and torture them over long periods of
+time. Eventually, Pike changed his name to Devil Eyes; it was fitting given
+the fact that Pike enjoyed gazing deeply into the eyes of his victims as the
+life slowly left their bodies.
+Some years later, news about people being kidnapped in the dead of the
+night for unknown reasons spread like wildfire. The kidnappings were
+committed by a mysterious cult, led by a trio called the Unholy Trinity.
+Bounties were put in place for various cult members. The rewards were
+high, so high that Pike became greedy. He no longer wanted to split the
+rewards, which caused a rift between the two brothers. One night, while
+Sartana was sleeping, Pike went out on his own in search of the cult.
+Sartana awoke in shock, knowing that his brother had abandoned him. He
+was alone.
+After a couple more years of lone bounty hunting, Sartana yearned for the
+quiet life and made way for North Carolina where much of his family lived
+at the time. During his trek, an enigmatic hooded lady, seeming to appear
+from thin air, approached him, claiming to have news of his brother's
+whereabouts. Sartana was convinced that the woman was lying until shePage | 4
+tossed him Pike's prized Colt 45. He knew it was Pike's peacemaker
+because his initials were chiseled on the side of the gun.
+Sartana asked the lady about Pike's location. She unraveled an ancientlooking map 
+and pointed to an island, uncharted on any conventional map
+at the time, near the Bermuda Triangle. She called the place Isla de la
+Sombra (Island of the Shadow). She then gave Sartana directions on where
+to acquire a boat to get to the island. Sartana then asked the strange lady
+how she knew where to find him and how she knew about Pike. An impish
+grin crawled on her pallid face as she said, "my master knows everything…
+and you and your brother both bear the mark."
+Sartana, confused, inquired about the mark. The woman pointed to the
+birth mark on the back of Sartana's neck and said, "You two were destined
+to be his left and right hand." She then walked away. Sartana called for her,
+but his calls fell on deaf ears as the hooded lady disappeared into the pitch
+black night.
+Against his better judgment, Sartana decided to go find his brother. He
+headed south, amassing food and resources along the way, to the border of
+Georgia where he acquired the boat to get to Shadow Island.
+After a few days of sailing, the boat crashed into a sandy shore in the
+middle of the night, waking Sartana from his slumber. He wasn’t sure if he
+had arrived at his destination or some random island. Regardless, he was
+weary from sailing and sought rest.
+Sartana moored his boat and stepped foot on the sandy shore, proceeding
+toward a vast forest in search of a suitable place to camp. As Sartana set up
+camp, robed hooligans emerged out of nowhere. He was surrounded.
+Sartana instantly reached for his Colt, but before he could get a single shot
+off, he was knocked out by a massive blow to the back of the head. Sartana
+awoke the next night in a decrepit vacant room lit by candlelight, stripped
+of his weapons, bound to an altar, and encircled by dark hooded figuresPage | 5
+decked out in long voluminous robes as black as night. A tall handsome
+man in a dusty grey coat and an open crown hat upon his head appeared
+in the distance, slowly making his way toward Sartana. It was Pike, except
+he was not the same.
+His skin had an uncanny pallor and his eyes glinted like emeralds frozen in
+ice. Pike gazed upon his brother. A dire grin slowly formed on his face,
+revealing tiger-like teeth. Sartana, in a weak voice, asked, "what happened
+to you Pike?"
+Pike responded, "call me Devil Eyes." After that, Devil Eyes unsheathed a
+silver ritualistic blade and stabbed it deep into his brother's heart. Darkness
+cloaked Sartana's eyes as death enveloped him in its abysmal grasp. There
+was no telling what lied ahead…Page | 6
+INSTALLATION
+SYSTEM REQUIREMENTS
+Beyond the Grave is compatible with Windows XP/Vista/7/8/8.1/10 (the
+game works best with Windows Vista and Windows 7 operating systems).
+To play the game, you just need to double click on the GRAVE.exe file after
+unzipping the files. This mod is standalone, so no additional files or
+software is needed to play it. This game can be distributed free of charge.
+Please share with your friends!
+TROUBLESHOOTING
+I tried to make this game as glitch-free as possible, but nothing is perfect.
+Here are some known issues with the game:
+QUICKSAVING/QUICKLOADING: Using quicksave and quickload
+(F8/F9) causes a lot of problems (eg: inventory items are not saved
+correctly). Use F2 and F3 to save/load.
+DISPLAY ISSUES: Minimizing the game causes the numbers on the HUD
+to disappear. Try to avoid minimizing the game and don't play the game in
+windowed mode.
+SCREEN RESOLUTION: Using resolutions larger than the game's native
+resolution (640x480) is known to cause the game to crash. It's best to play
+the game in its native resolution.
+SOUND ISSUES: Occasionally, the game is known to crash when a sound
+plays right at the same time a MIDI track loops. Reload the game if this
+happens. Most levels in the game use the OGG format for music, so this
+should not be much of an issue.
+COMPATIBILITY: Some older computers (running on XP or below) and
+some newer computers (running on windows 8.1 or windows 10) havePage | 7
+issues with running the game (IE: the game crashing upon startup). Here
+are some things you can do to fix these issues:
+-For Windows 10 users: try running the game using Windows 7 or 8.1
+compatibility mode.
+-For Windows 8.1 users: try running the game in Windows 7 compatibility
+mode. Windows 8/8.1 does not seem to have as much of an issue running
+the game as some newer computers using Windows 10.
+-For Windows XP users: try running the game under Windows 98/ME in
+256 color mode and the resolution setting marked.
+OTHER ISSUES: Occasionally, the attack frames get messed up when
+restarting a level after dying. Reloading a saved game or reloading the
+game seems to fix the issue.
+If you find any other issues, please let me know (see Contacting the Author
+section).Page | 8
+GAME DIFFICULTIES
+When you start the game, you are prompted to choose between four
+difficulties; the harder the difficulty, the stronger and more numerous the
+enemies. You will also notice that the amount of starting wards and
+maximum wards you can have differs on each difficulty level (wards are
+discussed in greater detail in the Items sections under Power-Ups).
+Where’s my grave? - This difficulty is only recommended for sissies
+and people with no FPS/PC gaming experience. Note: there is no enemy
+spawning on this difficulty, which eliminates a lot of the surprise/horror
+elements in the game. Starting Wards -- 2; Maximum Wards –- 5
+Maybe just a sip - This is a slightly better place for the inexperienced to
+start than the previous (mainly because we won't make fun of you AS
+MUCH for playing on this difficulty). Enemy spawning is left intact and
+certain enemies are stronger. Starting Wards -- 2; Maximum Wards -- 5
+Ravenous - This is the recommended difficulty setting to play the
+game on. It provides a decent challenge even for experienced players.
+Starting Wards -- 1; Maximum Wards -- 4
+Even death will bleed - If you are a veteran player, someone who likes a
+good challenge, a masochist, or someone with suicidal tendencies, then this
+is a difficulty fit for you. Bosses are harder, the hordes of the undead are
+larger, and cultists are faster moving on this difficulty. Starting Wards -- 0;
+Maximum Wards -- 3Page | 9
+GAME CONTROLS
+Note: If you want classic Wolfenstein 3D controls, change 'W' and 'S' in the
+Customize Controls menu to up and down arrows.
+KEYBOARD CONTROLS
+Arrows…………………………..Move/Turn
+W&S…………………………......Move Forward/Backpedal
+A&D……………………………..Strafe Left/Right
+Alt………………………………..Strafe
+Shift………………………………Run
+Space……………………………..Use door/switch/pushwall
+Ctrl……………………………….Primary Fire/Attack
+X………………………………….Alternate Fire/Attack
+R…………………………………..Reload
+F…………………………………..Kick
+C…………………………………..Infernal Power
+1…………………………………...Melee Weapons
+2…………………………………...Single Action Revolvers
+3…………………………………...Double Action Revolvers
+4…………………………………...High Capacity Revolvers
+5…………………………………...Shotguns
+6…………………………………...Repeating Rifles
+7…………………………….……..Heavy Rifle
+8......................................................Secret WeaponPage | 10
+9 & 0……………………………....Cycle through inventory items
+T…………………………………...Use selected inventory item
+I…………………………………....Use Indurating Amulet
+Backspace………………………...Use Healing Serum
+Tab………………………………...Show time, current ratios, and level #
+U…………………………………...Toggle Crosshair
+M…………………………………..Show Level Map
+P…………………………………...Capture screenshot
+F1………………………………….Help
+F2………………………………….Save game
+F3………………………………….Load game
+F4………………………………….Sound menu
+F5………………………………….Full Screen On/Off
+F6………………………………….Controls menu
+F7………………………………….End Game
+F10..................................................Quit
+MOUSE CONTROLS
+Direction………………………...Movement
+Button 1………………………….Primary Fire
+Button 2………………………….Secondary Fire
+Button 3………………………….Infernal Power
+Mousewheel…………………….Cycle through inventory itemsPage | 11
+STATUS BAR
+1. The amount of wards you have.
+2. This is your score. Collecting treasure and killing enemies increases
+your score.
+3. This where your armor points are displayed.
+4. These eyes glow whenever you are a using a vision-enhancing item (owl
+eyes and crystal ball).
+5. This is where your current life points are displayed.
+6. Your ammo. Left side shows how much ammo you have left before
+needing to reload. Right side is how much ammo you have in reserve.
+7. Indicates what door keys you have and don’t have.
+8. Your current weapon.
+9. The amount of indurating amulets you have.
+10. Your inventory items.
+11. The amount of healing serums you have.
+12. The amount of energy you have to use your infernal power.
+ADDITIONAL INFO: Holding the ‘tab’ key down gives you access to
+other pertinent information: time, treasure ratio, secret ratio, kill ratio,
+treasure chests collected, and level name/number.Page | 12
+GAME BASICS
+PICKING THINGS UP
+Even in the midst of all the darkness and turmoil, there's always time to
+grab a few trinkets or helpful items. To pick up an item, simply walk over
+it. Some items (power-ups and new weapons) will require you to press the
+'use' key to pick up.
+DOORS
+Some doors (such as locked doors) are imbued with magical properties that
+make them shut automatically shortly after being opened for inexplicable
+reasons. Other doors stay opened; for these doors, it is a good idea to shut
+them as some enemies (like zombies) are too stupid to open them. Press the
+'use' key to open and shut doors.
+SWITCHES
+Throughout your adventure, you will notice walls with rune-powered
+switches. These switches open up areas of the map that would not be
+accessible otherwise. Some switches open up secret areas of the map where
+as some switches are necessary to activate in order to move on to a new
+area of the map or exit a level.
+INFERNAL POWER
+Returning from the dead not only made Sartana stronger than ever but also
+infused within him infernal powers from the other side. These powers have
+granted him with the ability to emit a fiery stream of death from the
+windows of his soul. Press 'C' to use Sartana's infernal power.Page | 13
+WEAPONS
+The denizens of Shadow Island all have one common goal: to kill you. In
+order to prevent them from succeeding, you will need to gather up an
+arsenal of death-dealing instruments. Most weapons have a primary attack
+and a secondary attack.
+PUNCHING & KICKING
+You begin your quest armed with only your fists and a damaged machete.
+Once you acquire a more competent weapon, you won't be using your fists
+much... unless you have a death wish. You can also kick your enemies (it is
+a much slower attack but it deals more damage than your fists). As an
+added bonus, you can also kick while using other weapons. Press 'F' to
+kick.
+MACHETE
+Accuracy: -
+Power: Average
+Speed: Average
+Ammo: None, but can be broken
+A large knife with a broad blade that can be very effective if you are able to
+get it between you and your foes. The most wonderful thing about the
+machete is its ability to maim and dismember. Enemies that fall to your
+blade almost always die with a part (or parts) of their anatomy missing.
+Note: the machete deals less damage when damaged. It can also be broken,
+so use it wisely. The machete also has the capability of surprise attacking
+enemies. If there's an enemy with his back turned, try sneaking up on him.
+Sneak attacks kill most enemies in one hit, but not all enemies are
+susceptible to it.Page | 14
+PEACEMAKER
+Accuracy: Very Good
+Power: Good
+Speed: Average
+Ammo: 45 caliber
+An accurate single action revolver that packs a decent punch. It can shoot
+faster, though less accurately, by fanning the hammer. The peacemaker is
+probably one of the most versatile weapons in the game and is a favorite
+among many gunslingers. The main drawback is its tedious reloading
+process as bullets have to be loaded individually.
+FRONTIER
+Accuracy: Good
+Power: Average
+Speed: Very Good
+Ammo: 38 caliber
+A double action revolver made by two close friends of yours: Smith and
+Wesson. This quick-shooter might not be as powerful or as accurate as the
+peacemaker, but it makes up for it with its speed. Additionally, the
+weapon's top break mechanism allows for the utilization of a speed loader
+which makes reloading quicker.
+RAINMAKERS
+Accuracy: Average
+Power: Poor
+Speed: Excellent
+Ammo: 22 caliber
+Incredibly fast-shooting swing-out-cylinder revolvers that have been
+modified to carry double the ammo capacity of a regular revolver. The
+Rainmakers are very handy in tight situations, and when used with a Rage
+Sphere activated you can easily clear a room with these twin brothers.Page | 15
+BOOMSTICK
+Accuracy: Ugly
+Power: Very Ugly
+Speed: Poor
+Ammo: Shells
+The Boomstick is a very reliable ally indeed. It may lack a lot of accuracy,
+but you aren't using a double-barrel shotgun for accuracy now are you!?
+This weapon can be fired either one barrel at a time or both at once for
+maximum damage.
+THE SAVAGE
+Accuracy: Poor
+Power: Excellent
+Speed: Poor
+Ammo: Slugs
+The Boomstick's bigger, badder brother. This semi-auto beast will hurl
+your foes into an early grave with relative ease. Though it deals quite a
+punch and can carry more ammo than its double-barreled brother,
+reloading this weapon is slow and cumbersome.
+THE RECTIFIER
+Accuracy: Very Good
+Power: Good
+Speed: Very Good
+Ammo: 44-40 WCF
+This fast, high capacity repeater carbine is probably the most well-balanced
+firearm in your arsenal. It is an ideal weapon for killing groups of lesser
+enemies.Page | 16
+THE REAPER
+Accuracy: Excellent
+Power: Very Good
+Speed: Good
+Ammo: Silver Bullets
+A powerful repeater carbine that shoots high caliber silver bullets. It is
+more powerful and slightly more accurate than The Rectifier. Great for
+wiping out more powerful foes, especially those pesky werewolves.
+THE DEVIL'S MULE
+Accuracy: Excellent
+Power: Enemy will not be recognizable
+Speed: Very Poor
+Ammo: Incendiary
+This mule doesn't like it when people are laughing. He gets the funny
+feeling they are laughing at him. Well... they won't be laughing very long
+when the trigger is pulled. One shot from this monster turns even the
+hardiest beasts inside out.Page | 17
+ITEMS
+There are various items that will aid you on your quest. Some items can be
+used as needed while others will be activated the moment you pick them
+up and will wear off after an elapsed amount of time.
+LIFE & ARMOR
+Life and armor are a must have. You'll need them if you want to survive.
+BLOOD POOLS
+Raises your life by 5 points, up to 100.
+ENTRAILS
+Raises your life by 15 points, up to 100. Entrails can usually
+be found in areas scattered with dead bodies and gore.
+BLOOD VILES
+Raises your life by 10 points, up to 100.
+HEART
+Raises your life by 25 points, up to 100. Hearts are rich and
+nourishing; they are a great find for when you are low on
+life.
+PROTECTION RUNE
+Gives you 5 points of armor, up to 100. Cultist often drop
+these.Page | 18
+BASIC ARMOR
+Gives you 50 points of armor, up to 100.
+SUPER ARMOR
+Gives you 100 points of armor, up to 200.
+TREASURE
+The Unholy Trinity's cult has amassed quite the assortment of stolen
+treasure. You may as well steal it back from them.
+GOLD BAG
+Adds 100 points to your score.
+SILVER BULLION
+Adds 250 points to your score.
+GOLD BULLION
+Adds 500 points to your score.
+TREASURE CHEST
+Adds 1000 points to your score. Note: collecting 10 treasure
+chests gives you additional bonuses.Page | 19
+POWER-UPS & ARTIFACTS
+You'll notice a lot of trinkets and unusual items scattered throughout
+Shadow Island. These items have special powers that will help you.
+BLOODSTONE
+Boosts your life by 100 points, up to 200 total.
+IMPRISONED SOUL
+Gives you 300 points of life!
+WARD
+Gives you an additional ward. Wards revitalize you when
+your life falls to 0, saving you from final death. Note: Once
+you run out of wards and your life reaches 0, you die and
+have to start the area you are on all over again, losing all your items and
+weapons.
+BLAZE ORB
+Fuels your infernal power.
+CLOAK OF PROTECTION
+Grants user with superhuman resistance to injury, lasts for 45
+seconds.Page | 20
+BERSERK MASK
+Quadruples the damage of all melee based attacks, last for 90
+seconds.
+RAGE SPHERE
+Enhances both movement speed and attack speed, lasts for
+45 seconds.
+BEACON OF THE UNHOLY
+Makes you invulnerable, lasts for 30 seconds.
+INVENTORY ITEMS
+Inventory items are different from power-ups in the sense that you can
+keep a certain amount of them to use whenever you want. You can select
+inventory items by using the mousewheel or the '9' and '0' keys. Note:
+healing serums and indurating amulets are not selectable inventory items.
+They have their own designated hotkeys to allow the player to quickly heal
+or boost armor as needed
+EYES OF THE OWL
+Increases the user's perception by illuminating enemies,
+making them easier to see, lasts for 90 seconds.
+CRYSTAL BALL
+Temporarily reveals secrets, lasts for 20 seconds.Page | 21
+POPPET
+This unique item temporarily paralyzes your foes.
+INFERNAL SCROLL
+Summons a ball of fire straight from the depths of hell.
+BOOK OF THE DEAD
+Summons hordes of wraiths that destroy anything in your
+path.
+OTHER ITEMS
+INDURATING AMULET
+Gives you 25 points of armor per use, up to 200 armor points
+total. Press 'I' to use.
+LIFE SERUM
+Gradually raises your life by 50, up to 100. Press 'Backspace'
+to use.
+TELEPORTATION ARTIFACT
+These mystical orbs have the power to transport you to
+distant areas with ease.Page | 22
+TOME OF KNOWLEDGE
+Tomes contain bits of helpful wisdom. Read them to gain
+valuable insight.
+DYBBUK BOX
+Maxes out your inventory supply of poppets.
+RITUAL KNIFE
+A very rare and unique artifact that gives your melee attacks
+the power to steal life; once acquired, the effect is permanent.
+However, keep in mind that you will lose the knife and its
+power if you die.
+KEYS
+Enemies aren't the only things hindering your progress.
+Apparatuses called locked doors can be a major source of
+frustration. To conquer these foes, you need keys. There are
+four different keys: Gold, Red, Blue, and Green.Page | 23
+ENEMIES
+The Island of the Shadow features a wide assortment of adversaries with
+unique abilities. This section will tell you all you need to know about them.
+CULTISTS
+The Unholy Trinity's cult army is ruled by a strict chain of command
+divided into three groups: Followers, the Low Order, and the High Order.
+THE FOLLOWERS
+General followers make up the bulk of the cult and consist mostly of young
+boys and girls raised within the Shadow Cult community from the time of
+birth.
+MARTYRS
+Martyrs are prepubescent children who have either been
+possessed or subjugated to rigorous brainwashing. They are
+often on the frontlines mindlessly sacrificing themselves for
+their unholy masters. Though they are easy to take down, they are quick
+moving and can easily overwhelm you in numbers.
+ACOLYTE
+Gifted martyrs that manage to survive well into their teen
+years become acolytes. They are more disciplined and have
+better control over the firearms given to them.
+FANATIC
+Only the hardiest of followers become fanatics. These
+shotgun toting baddies are fast and deadly, and each of them
+hopes to earn a position in the Low Order by blowing your
+head clean off.Page | 24
+THE LOW ORDER
+The Low Order consists of cult members with a great deal of talent and/or
+experience. They are often seen fighting alongside the followers they
+command. Members of the Low Order are given better firearms which
+makes them more difficult adversaries.
+DEACON
+Two fast-firing friends accompany these entry level Low
+Order members and they won't hesitate to mow you down
+with them.
+ARCHDEACON
+These silent assassins are not to be trifled with. They are
+armed with three different firearms and they know how to
+use them well. The fact that you won't hear them coming
+makes them even more dangerous. Be very careful not to get too close to
+them or else they will gladly introduce you to their buckshot-filled little
+brother.
+PRIEST
+Once members of the Low Order make it to priesthood, they
+are adorned with more elaborate garments and given a shiny
+new companion named Winchester. Priests are lightly
+armored and often keep to the back, preferring to pick their targets off from
+behind friendly lines. This makes them tougher to take down.
+HIGH PRIEST
+High priests are some of the most formidable foes you will
+encounter. These fleet-footed bastards can either blast you
+into oblivion with their high capacity revolvers or use their
+scepters to summon forth a hammer from hell to hurl at you.Page | 25
+THE HIGH ORDER
+Only a select number of cult members are allowed to join the ranks of the
+High Order. High Order leaders are often so old that they have an almost
+corpse-like appearance and are often frail of limb. Nonetheless, they are
+still very powerful. They have abandoned the use of firearms and prefer to
+use dark sorcery as their main weapon. Rumor has it that the source of
+their power comes from the blood of the living.
+BISHOP
+These keepers of the dark faith want nothing more than to
+have your corpse for the main course at their next dinner gettogether. Avoid their 
+barrage of fiery projectiles. Getting hit
+by them will surely make their future dinner plans a reality.
+ARCHBISHOP
+If you thought the bishops were bad, these vile entities put
+them to shame. They move quicker and can take more
+damage than their bishop brethren. Also, their red lightning
+projectiles are fast and sometimes hard to avoid. They also aren't afraid to
+rip your face off if you get too close to them.
+CARDINAL
+Anyone who has lived long enough to become a Cardinal of
+the High Order is both revered and greatly feared. Cardinals
+possess the ability to summon swarms of bats to protect them
+and they can also launch a ghastly ball of fire at you. The robe that they
+wear also makes them resistant to most weapons in your arsenal.Page | 26
+THE ELITE GUARD
+The Elite Guard was created for the singular purpose of protecting the
+Unholy Trinity at all costs. They are a group of highly specialized soldiers
+(think of them as like Special Ops). No one knows how they are chosen or
+where they come from. All you need to know is that they are dangerous.
+ROGUE
+Armed with a Devil Mule's rifle, rogues hide, sit back, and
+wait patiently for an opportunity to snipe you from a
+distance. Tread carefully in forested areas or places where
+there are a lot of nooks and crannies to hide in.
+ENFORCER
+These heavily armored brutes can take more punishment
+than the average cultist. Not to mention, their silver-bullet
+hurling companion packs quite the punch. It is no wonder
+that one of the enforcer's main roles is keep the Shadow Cult's werewolf
+pets in check.
+BARON
+These peacemaker packin' gunslingers will put one bullet in
+each of your eyes quicker than you can say your name. They
+are speedy and fast to the draw, so you'll want to dispatch of
+them quickly.
+DARK HUNTER
+Not much is known about these mysterious soldiers except
+that they harbor a dark bestial secret, which few have lived
+to see and report about.Page | 27
+ANTI-PALADINS
+Though they are slower than other elite guards, these dualshotgun wielding lords 
+of the dark are much tougher to take
+down. You will have to deal out a lot of abuse to kill them
+and you will definitely want to stay out of their line of fire.
+THE UNDEAD
+The undead hordes make up much of the Shadow Cult's frontline of
+defense. Most of them do not pose too much of a threat, but they can be
+quite a nuisance in large numbers.
+ZOMBIE
+Slow, clumsy, and stupid. These stiffs mostly just get in the
+way. Just try not to get swarmed for they often attack in big
+groups.
+UNDEAD HOUND
+These hounds go down easily, but their speed gives them a
+slight edge over their bipedal piers. Their speed and fast bite
+also make them more formidable foes in groups than
+zombies.
+SKELLY
+Something carved this poor SOB's face out and turned it into
+a toothed vagina that's going through one hell of a menstrual
+cycle. These things launch acidic balls of blood at you from a
+distance and have no qualms with administering an almighty haymaker
+square in your face if you get too close to them.Page | 28
+UNDEAD GUNMAN
+Slow, easy to take down, but slightly smarter than other
+zombies as they can open doors and operate a firearm (albeit
+very crudely--these guys couldn't hit the broad side of a barn
+if they were standing three feet in front of it).
+UNDEAD BOUNTY HUNTER
+Like the undead gunman, except more dangerous as their
+preferred firearm, a semi-auto shotgun, doesn't require much
+accuracy to hit you.
+UNDEAD HEADSMAN
+Fast, deadly, and hard to take down. Be careful not to get
+blocked in by them when they attack in groups.
+ASWANG
+These floating legless entities are made from the dead bodies
+of fallen bishops. They are on a constant quest to drain the
+life force from anything with a pulse. Luckily, they have to
+get close to in order to drain life and they go down relatively easy. One
+well-placed shotgun blast makes short order of these flying torsos.
+RED DEATH
+The unholy trinity created these undead goliaths from the
+bone, sinew, and tissue of innocent people (many of these
+innocent people include children). These walking tanks
+might be slo-moving, but they take quite a beating before going down. Not
+to mention, their long bony talons pack quite the wallop (DON'T get close
+to them). Even from a distance, you are not safe from these red behemoths
+as they have been given the ability to summon spectral balls of energy,
+which they launch at their foes from afar.Page | 29
+SPECTRE
+Little is known about these phantom figures other than they
+are said to be found roaming about cemeteries late at night.
+Some say they cannot be killed.
+OTHER ENEMIES
+BAT
+While they don't pose very much of a threat, these little
+winged pests have an irritating habit of getting in the way.
+Kill them all as soon as possible.
+WEREWOLF
+These hulking brainwashed monstrosities are prized pets of
+the Shadow Cult. They are the fastest enemies you will
+encounter and fighting them toe-to-toe is downright suicidal.
+They'll tear you to pieces with tooth and claw in a matter of seconds. The
+fact that they usually attack in packs doesn't help matters.
+INFERNAL TURRENT
+These stationary hell cubes were designed by Zagan to
+pummel any hostile target with a flurry of fire. Destroy them
+quickly before they destroy you.
+WRAITH
+These fiery fiends are eager to see what you would look like
+immersed in flames. Put them down before they render you
+to dust.Page | 30
+THE UNHOLY TRINITY
+The leaders of the Shadow Cult are master practioners of the dark arts.
+They each come armed with special powers and they will use those powers
+to their fullest extent in order to annihilate you.
+JILIAYA: THE WITCH
+It has been said that Jiliaya was responsible for summoning
+the wraiths from their infernal abodes below. If this is true,
+then you can only imagine what powers she wields.
+DROGE: THE WARLOCK
+The supreme commander of the High Order has such sights
+to show you. Being both a master pistoleer and a master
+deceptor, Droge will be one of your greatest challenges
+ZAGAN: THE ANTIPOPE
+Legend has it that Zagan is a reincarnation of Pope Benedict
+IX, a cruel and dissolute 11th century Pope who has been
+described as "a demon from hell in the disguise of a priest."
+Considering the catholic-style hierarchy of the Shadow Cult and Zagan's
+title, the legend may not be such a far-fetched theory.Page | 31
+HINTS & STRATEGIES
+THE ART OF COMBAT
+THE BASICS: The enemies you face will stop at nothing to hurl you back
+into the grave whence you came, so you'll need to familiarize yourself with
+your surroundings as well as each weapon in your arsenal (including
+inventory items as they can be very useful for getting you out of sticky
+situations). Hiding behind walls and knowing which weapon to use in any
+given situation can save your unlife.
+It is also important to know which weapon works best against certain
+enemies. General cultists and zombies can be easily dispatched with pistol
+type weapons, but won't be as effective against stronger enemies, such as
+High Order cult members, elite guards, and bosses. (Helpful Hint -
+Werewolves are immune to anything that isn't silver or fire).
+MELEE COMBAT: When it comes to melee combat, sticking and moving is
+the best strategy as your kick and machete attacks stun most lower end
+enemies. Dispatching of dogs and bats with your machete or a well-placed
+kick is a good way of preserving ammo as these enemies go down easily.
+Avoid using your fists unless it is absolutely necessary. Without a Berserk
+Mask in use, fighting with your fists will usually result in getting seriously
+hurt or killed.
+DON'T WASTE AMMO: Using a weapon's secondary fire indiscriminately
+can be fun, but also eats through your ammo very quickly. It is best to only
+use a weapon's secondary fire in situations that call for it.Page | 32
+PLAYING WITH FIRE: As awesome as Sartana's infernal power can be, it
+is wise to only use it sparingly as your energy supply is very limited. Being
+overwhelmed by hordes of cultists or major boss battles are good situations
+to use it.
+Note about wraiths - don't bother wasting Devil's Mule ammo, infernal
+scrolls or your infernal power on them--they will have no effect on them.
+Gun the flaming bastards down.
+USE INVENTORY ITEMS WISELY: It's wise not to waste inventory items.
+Use them only when certain situations call for them.
+Eyes of the Owl - You'll want to use these often as Beyond the Grave is a
+world of darkness. There are usually plenty of these around. Owl Eyes
+make your enemies easier to see, therefore making it easier to dispatch of
+them.
+Poppets - Good for immobilizing groups of enemies or fast moving enemies
+like executioners, werewolves, and certain cultists. Keep in mind: the more
+powerful the foe, the less effective poppets become.
+Infernal scrolls - Use these for obliterating large clusters of lesser enemies or
+
+taking down a particularly tough foe.
+Book of the Dead - Save these for areas that are flooded with enemies. It'll
+make your life easier. It is helpful to note that these books are usually
+placed close to areas where they might be advantageous to use.
+IMPORTANT NOTE: The number of Crystal Balls and Books of the Dead
+you have do not carry on to the next level. For example: let's say you
+collected two crystal balls on level 2; if you don't use them on that level,
+you will lose them once you reach next level.Page | 33
+FINDING SECRETS
+Some secrets are marked. If you notice an oddball item (like an out of place
+candle) placed in front of a wall, there is a chance that it could be a secret.
+Crystal Balls - Crystal Balls can save you on time and trouble when it comes
+to locating secrets. You won't be able to find all of the game's secrets with
+just Crystal Balls, but you should at least be able to find some.
+WHAT DOESN'T KILL YOU MAKES YOU STRONGER
+Most enemies you kill leave behind trinkets, guns/ammo, armor, and
+blood for you to loot. The more powerful the foe, the better the loot. Note:
+the hearts dropped by Archbishops and Cardinals are especially nutritious.
+Consuming them gives you life above the 100 point mark (by the time you
+get to the later levels, you will want them).
+GREED PAYS OFF
+Don't overlook collecting treasure, especially treasure chests. Collecting
+treasure is a great way to boost your score. For every 100,000 points you
+earn, your life jumps up to 300. Also, you are given bonuses for every 10
+treasure chests you collect. A particularly special bonus awaits you if you
+find all the treasure chests in the game.
+TREASURE CHEST BONUS BREAK-DOWN:
+10 Treasure Chests -- +10,000 points, maximum wards given, +1 to
+treasure chest count
+20 Treasure Chests -- +25,000 points, maximum wards increased by 2, +1
+to treasure chest count
+30 Treasure Chests -- +50,000 points, maximum wards given, +1 to
+treasure chest count, 600 points of life!Page | 34
+SECRET LEVELS
+There are 2 secret levels in the game. For those wanting the complete
+playing experience for Beyond the Grave, it is recommended to find and
+complete these levels. Note: You won’t be able to acquire all the treasure
+chests without completing these levels. Also, one of these levels has a secret
+weapon not mentioned in this manual.
+VIEWING MAPS
+If you want to view the level maps for Beyond the Grave (not in game), you
+will have to download Havoc's Wolf3d Editor (just google it if you don't
+have it already). ChaosEdit or MapEdit won't work since Beyond the Grave
+uses a 128x128 map grid.
+WANT MORE HINTS?
+Are you stuck on a level? Are you having difficulties defeating a certain
+boss? If so, feel free to e-mail me (see Contacting the Author section). Don't
+ask me for cheats. There aren't any and I don't plan on releasing any.Page | 35
+CREDITS
+TEAM
+J. Nicholas Lewis(ThunderEnema)
+Project Coordination
+Story/Concept
+Level Design
+Programming
+Sound & Music Editing
+Gerolf
+Graphics
+Sound & Music Editing
+Jesse Stevens
+Promotional & Manual Artwork
+Opening Title Screen/Credits Screen Artwork
+BETA TESTERS
+Cody Young
+Timothy George Wells
+Military
+Sigma64
+GerolfPage | 36
+ORIGINAL GRAPHIC SOURCES
+ID Software, Raven Software, Monolith Productions, Capstone Software,
+Apogee Software/3D Realms, Bethesda Softworks, Lobotomy Software
+ADDITIONAL GRAPHIC SOURCES
+AReyeP, Majik Monkee, Madwolf, Reactor, Eriance, idGamer, Gothic,
+ZygoInferior, Gali, DeVloek, MagicWazard, HorrorMovieGuy, Icytux,
+Captain Toenail, David G, Realm667, ZDoom Forums
+ORIGINAL SOUND SOURCES
+Activision (VtM: Redemption), Monolith Productions, ID Software, Raven
+Software, Lobotomy Software, Realm667.com
+ADDITIONAL SOUNDS
+Wolf Skevos-Jones (TotenkopfSDL), Various gun sound libraries
+MIDI MUSIC
+Sierra Games (Phantasmagoria), Monolith Productions (Blood), Capstone
+Software (Witchaven), Apogee Software (ROTT), Jaleco (Astyanax)
+OGG/MP3 MUSIC
+"Leader" by Outbreak, "Iconoclast" and "Out for Blood" by Icon, Fabio
+Frizzi (Zombie theme), Walter Rizzati (House by the Cemetery theme),
+ZygoInferior ("Possest" Doom Mod), Activision (VtM: Bloodlines &
+Redemption), William Kidd (Kolobos theme)
+ADDITIONAL MUSIC
+RonWolf, Rodney A. Brubaker, freemidi.org ("Sear Me" and "Deep Red"
+midi)Page | 37
+ADDITIONAL LEVEL DESIGN
+Ack, Gerolf,Richter Belmont
+ADDITIONAL CODE
+Tricob, Wolf Skevos-Jones, AlumiuN, Chris, Adam Biser, Codetech84,
+MCS, Richter Belmont, Zombie_Plan, BrotherTank, WLHack
+ADDITIONAL MANUAL ART
+Avelina de Moray, assorted cover art from the spaghetti western Django:
+Prepare a Coffin and the Dollars Trilogy with edits made by Gerolf.
+EDITING UTILITIES
+Havoc - Havoc's Wolf3d Editor
+Chaos Software - ChaosEdit
+Bloodshed Software - Dev-C++,
+Simon Judd and Gez - Slade Doom Editor
+Anvil Studio
+FL Studio
+Sound Forge Audio Studio 10.0
+Microsoft Paint
+SPECIAL THANKS
+Id Software - for creating Wolfenstein 3D, Doom and other great games,
+and for releasing the Wolf3D source code to the public.
+Raven Software - for making Shadow Caster, Heretic I/II, and Hexen I/II.
+Monolith Productions - for making the greatest FPS of all time: Blood.Page | 38
+Ripper and Chaos Software - for creating the Wolf4SDL source port.
+Realm667.com & zDoom forums - for providing an extensive supply of
+sprite/texture resources to use for mods.
+BrotherTank, Dean, and RonWolf - for running the Diehard Wolfers
+Forums.
+Gerolf - for going above and beyond to help me create this game.
+WSJ - for the reloading code, and for releasing the Castle Totenkopf source
+code which allowed me to implement enemy bullet tracing in this mod.
+AlumiuN - for his advanced sound code which made using higher quality
+sound effects and music for mods possible.
+Tricob - for helping me implement various coding features.
+Jesse Stevens - for his awesome artwork.
+You - for downloading and playing this game.
+If there is anyone I forgot to credit, please don't sue me!
+CONTACTING THE AUTHOR
+If you have questions or comments about this game, you can send me an email at one 
+of the following e-mail address:
+chowpow13@aol.com
+Zeus024@live.com
+If you liked this game, be sure to follow Beyond the Grave on facebook for
+updates and news:
+https://www.facebook.com/BTG666/Page | 39

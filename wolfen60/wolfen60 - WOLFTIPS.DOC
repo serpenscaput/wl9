@@ -1,0 +1,505 @@
+
+Tips for Creating/Editing Wolf3D Floor Designs
+
+The following information must not be considered a definitive work
+on this subject, but should help most people avoid some of the
+pitfalls associated with translating their floor design ideas into
+a working, error free floor.
+
+This short manual does not explain the workings of any particular
+editing program used to transfer your design to the computer.
+Mapedit Version 7.0 (c) 1992 as Version 4.1, by Bill Kirby as
+modified by David Huntoon, Bryan Baker, and Matt Gruson, was the
+tool of choice for this writer.
+
+The information was gleaned from many hours spent playing and
+editing the custom floors. Some designers may have lacked this
+knowledge or their editing program wasn't full-featured and the
+results may have been disappointing to them. But it didn't effect
+the quality of their floor layouts, only the action.
+
+Floor Codes
+
+Design problems seem to center around a misunderstanding of the
+relationship of floor "codes", doors (locked and unlocked variety),
+and hidden doors. First, an explanation of the use of floor codes.
+
+There are a number of unique "codes" to use when mapping out a
+floor. These codes are used to isolate areas of the overall floor
+from one another such that enemy guards can be made to engage in a
+fight or not, depending on how you assign floor codes. One of the
+more common problems is failing to assign floor codes in all floor
+space, or assigning them haphazardly. The results of either
+practise are unpredictable, but some of the effects are:
+
+- Certain sound effects may be missing.
+- Hidden doors won't always open all the way.
+- Stationary guards become living statues and won't fight.
+  (This includes Super Guards - or Bosses, but these guys have an 
+  advantage).
+- Moving guards won't fight either and will move in place or in
+  crazy ways.
+
+Unless your floor design has a very large number of rooms, there
+are usually sufficient unique floor codes to assign each room its
+own code, although this isn't really necessary. In general there
+are 3 approaches to assigning floor codes, according to what you
+want to accomplish.
+
+1) Assign a single floor code to all floor space. Unless you take 
+other measures, this will have the singular effect of alerting
+every guard on the floor as soon as the first shot is fired. This
+can lead to some interesting fire-fights, but it isn't always the
+most desired approach because the action usually (not always) ends
+quickly (either they're all dead or the player is) and he's left to
+wander through a bunch of empty rooms that offer no further
+challenges (or restart the level).
+
+2) Assign a unique code to each individual room. In this scenario
+guards in the next room are unaware of any carnage in the current
+room  - unless something causes the door between the rooms to open.
+
+3) Assign unique codes to contiguous or non-contiguous groups of
+rooms. This offers a microcosm of approach number 1) above, but is
+more controlled and often the most interesting and suspenseful
+strategy.
+
+Special Floor Code and Enemy Guard Eyesight
+
+There is one floor code that has a different effect from all the
+rest. This is floor code '6a', or the code which designates a guard
+as being "deaf" or "steadfast". Such a designation means 2 things:
+the guard will not react to other guards shouting or shots being
+fired in the area until and unless he sees the player, then he
+responds just like any other guard. But his eyesight is much better
+than other guards as he can see in every direction (that isn't
+blocked by something) including one square behind. These guys can
+even see between the cracks of wall cubes that are joined only at
+the corners. (It's kind of eerie to hear a guard sound off that
+can't be seen anywhere). By contrast, guards on all other floor
+codes can only see straight ahead but will be alerted regardless of
+their impaired vision when other guards on the same floor code are
+alerted.
+
+Changing Floor Codes
+
+Another common error in floor design is to change floor codes when
+going from one area to another but not separating the 2 areas with
+a door. Doors are used as "switches". When the player moves from an
+area of one floor code to another with a different floor code,
+without having to open a door, the guards in the moved-into area
+will not be "armed", i.e., they appear to be in a trance, until 
+fired at. This may be an interesting effect to create for
+approaching a Super Guard, but as soon as the first shot is fired,
+the player better move out of the way fast, because the "statue"
+just came to life and he doesn't like having his sleep interrupted.
+
+Hidden Doors and Rooms
+
+Hidden door design is critical. In case you don't remember, the
+official version of Wolf3D places no guards in a room entered
+through a hidden door. This is because a hidden door, unlike a
+regular door, is not used as a "switch" to arm any guards on the
+other side. But the problem is a bit more complicated than that.
+
+If guards in a hidden room are somehow set in motion, they can
+block the movement of the sliding door. This condition is
+detectable by the sound of 2 notes for each push of the space key,
+as opposed to the normal sound of trying to open a door that
+doesn't exist. (These 2 notes also sound if you try to push a
+hidden door from the wrong direction). 
+
+The guard(s) can be made to move away from the door and it will
+open, particularly when the player moves far enough away and can
+get back in a hurry before the guard does. But often, when the door
+does move, it only moves part way. As you will soon see, there is
+a way to get a hidden door to move more than once. (Personally, I
+wish the Wolf3D engine had been designed to cause a sliding door to
+crush anything on the other side, with appropriate sound effects of
+course. This would be more like real life).
+
+The first rule of thumb when dealing with guards in secret rooms is
+to be sure the secret room has the same floor code as the room from
+which it is entered. In addition, the room outside the secret room
+must have a normal door (locked or unlocked).
+
+To resolve the problem of guards getting in the way of a sliding
+hidden door, choose one of the following three methods.
+
+One way is to design the hidden door entrance so the door slides
+side-to-side. Such a design will also permit the door to slide
+forward, which an unsuspecting player may try to do first. This
+approach has the advantage of not having to be concerned about
+guards moving about in the secret room. Its main disadvantage is
+that if it is used too often, players will start to recognize the
+existence of this type of hidden door configuration unless you add
+many such configurations that don't have hidden doors and the one
+door then is disguised by being only one among a crowd.
+
+Another way is to use multiple hidden door object codes such that
+a sliding wall will move into another hidden object code and can
+thus be moved again, in any direction you choose. The hidden door
+object code can exist in open space as well as in a wall. This
+opens up all sorts of possibilities. However, there's one drawback.
+Extra hidden door object codes, which are often not used, prevent
+the player from getting the bonus for finding all secret areas.
+
+The other way to use guards effectively in a hidden room, and you
+want the sliding door to move inwards only, is to make sure the
+guards are standing on a "steadfast" floor code so they won't be
+moving around the room.
+
+If you want more rooms beyond the hidden room, and you want them to
+have normal doors, then the floor codes of these additional rooms
+must either be different from the hidden room (and not be used
+elsewhere on the floor), or the guards in these added rooms must be
+made "steadfast" if you want to use the same floor code as the
+hidden room.
+
+One more word about hidden doors. There appears to be a problem in
+version 1.4 of Wolf3D in that sometimes a door will move 3 squares
+and the next time, only 2 squares, even when there's unrestricted
+space in which to move. What this means is: to avoid intermittent
+problems, use one of the methods described above to circumvent it.
+
+Moving vs. Stationary Guards
+
+All guards except the Super Bosses can be made to move in a
+predetermined direction. This device is quite useful in creating
+unpredictable action upon entering a room with one or more moving
+guards. Since a room is never entered at exactly the same instant
+each time the floor is played, the guards will be in a different
+position and may or may not see the player right away.
+
+In addition, guards can be made to move through doors to adjoining
+rooms with or without the same floor codes. This is always
+interesting. While you are busy teaching manners to the guys in one
+room, in walks an oaf from another, which sets off alarms in the
+next room or rooms with a different floor code as they will hear
+the fighting and become concerned. Lesson #1: Always try to keep
+your back away from all doors (including the one you entered!). By
+the way, Guard Dogs are always on the move - there are no
+stationary dogs. (I guess Id didn't want to design a graphic of a
+dog sitting and panting for water or food - ever notice how many
+rooms dogs are in that have no food or water in them? - It's a
+wonder the animal rights activists haven't been on their case <g>).
+
+It's generally a waste of time to place moving guards in a room and
+not lay out a path for them to follow, although there is a trick or
+two that you can use with a moving guard who has no assigned path.
+(Tricks are discussed, but not explained, in this section). Also,
+unless you assign the "deaf" guard floor code to an entire room, it
+doesn't do any good to put a moving guard on the deaf guard code.
+
+The Effect of and on Activated Guards Moving About the Floor
+
+Activated guards will mostly move to the point where the player is
+currently located. Their progress in locating him can be slowed and
+often stopped by complicated room patterns, by putting solid
+objects (barrels, etc.) in their way that they have to move around,
+or by sheer distance.
+
+Some activated guards have a tendency to move away from an
+immediate threat by going into other rooms and waiting at a door in
+ambush or simply refusing to come out, waiting instead for the
+player to come in. All this means is if a large body of
+"overheated" guards is encountered, one way to counter their threat
+is for the player to move off in some other direction. This will
+often cause them to begin to scatter, but may make it easier for
+them to be engaged in ones and twos later on. Of course the main
+disadvantage to this tactic is it is not known where they'll be
+when next seen,  unless they're in a bounded area. Always good for
+a laugh though!
+
+The other thing about guards moving from room to room while
+searching is that they will often open a door into an unrelated
+floor code and if a shot is fired at the time the door is open,
+even more guards can become involved in the search. Heh, heh! I
+love finding dogs in rooms where they shouldn't be. Took me a while
+to figure out how they learned to open doors.
+
+Effect on Play of Guard Choices vs. Design Decisions
+
+While sitting at your computer testing a floor design, you
+may not always recognize what the effect of your choice of guard
+types will have on game play when viewed against your design
+decisions. 
+
+As you already know, the tan guards move slowly and react the same
+way.  The blue SS guards are a bit quicker and more deadly (takes
+3 or more shots to bring them down, depending on distance between
+player and guard). 
+
+The white uniformed "officers" move much more rapidly, will swerve
+to make a player miss and are more intelligent acting. Finally, the
+mutants are the greatest threat of all (except for the Super
+guards).  The mutants move silently and shoot more quickly than all
+other guards.
+
+The effect on design of using officers and mutants is important
+because of how quickly these latter guards can react.
+
+When your floor design is played, the player must be given a way to
+defend himself, especially from officers and mutants, or be
+provided a way to attack without being totally overwhelmed. A niche
+in a wall, a narrow room with no cover, or no way to back off, is
+inadequate in those cases where the player will have to defend
+against a host of attackers.  Conversely, a medium to large room
+with enemies everywhere, no cover afforded, and with nowhere
+else to go, should also be avoided.
+
+The most critical example is designing an opening sequence which
+has the player standing in a room 1 or 2 squares deep and 1 square
+wide with the a door immediately in front.  As soon as the door is
+opened, and a shot is fired which alerts numerous guards, the
+player will be overwhelmed.  Particularly if the guards are
+officers or mutants and a better defensive position cannot be taken
+by moving out into a larger area.
+ 
+The problem is exascerbated by how doors are programmed to open. As
+far as the program is concerned, the door is considered open the
+instant someone (the player or a guard) signals it to open. The
+program does not wait for the door to physically move far enough so
+actor and player are visible to each other.  The mutant guard
+shoots so fast that the player won't even see the door start to
+move before the mutant's shot arrives to kill or maim. There's no
+defense except to try and kill a guard in the doorway so the door
+will stay open. But if nothing but officers and mutants arrive
+first, there is little hope of doing this. Besides, guards don't
+usually try to enter the room before shooting unless the player is
+out of sight.
+
+Review your designs carefully and take this information into
+consideration. The game is played to be ultimately won by the player,
+not by the game's designers.
+
+Elevators
+
+I don't know if most people notice it, but all elevators in the
+official game are oriented east/west. No elevators are entered from
+the south or north. This is to ensure that when an elevator is
+entered, the control will always be directly in front of the
+player. (When you're hurrying, you don't want to have to stop and
+look for the switch!) Entering from the north or south will provide
+two controls on the left and right as the player enters - one of
+these can be safely eliminated in your designs.
+
+Also, if you place an elevator control in a wall with a single
+thickness, the control will be available for use on both sides! 
+You need to put something on the outside to prevent use of the
+outside control if you don't want it used, or else put a second
+thickness of wall behind the elevator.
+
+Finally, when you create an elevator to go to the Secret floor,
+don't forget to use the floor code inside the elevator that
+signifies you want the player to go to the secret floor when the
+switch is thrown.
+Secret Floors
+
+Two things about secret floors: 1) you don't have to have one in an
+episode and 2) if you do have one, you need to place the elevator
+to the secret floor on designated floors in each episode if you
+want to come back to the correct floor.
+
+If you decide not to have a secret floor, when tahe ninth floor is
+exited (the so-called "boss" floor) the player will find out it was
+really the secret floor, which only means the 10th floor becomes
+the "boss" floor. So you need to lay out your floors accordingly.
+
+It is possible to place an elevator to the secret floor on every
+floor in an episode. However, if you did this for episode one, each
+time, upon return from the secret floor, the player would be back
+on floor #2 (which would get a bit tiresome after a while).
+Elevators to secret floors for all episodes should be placed on the
+following floors within episodes 1 to 6, respectively: Floors 1, 1,
+7, 3, 5, and 3. This way the normal progression of floors will work
+right.
+
+Inaccessibility of Objects and Acquiring Bonus Points
+
+There are, obviously, 2 approaches to playing Wolf3D. One approach
+is for the player to get through a floor quickly enough to beat the
+Par time so as to get some bonus points. Such an approach
+automatically ignores the need to kill all guards, find all hidden
+doors, and get all the treasure. These last three items constitute
+the other approach, i.e., taking time to kill everyone, open all
+doors and get all the treasure, which also earns bonus points.
+(Once in a great while, a player might be able to do both!)
+
+If you design a floor that makes it impossible to award bonuses for
+using the latter approach, then you have chosen to award only those
+who use the former approach of getting in and out as quickly as
+possible. How do you do this? By making treasure, guards and hidden
+doors inaccessible. One other way is to use the Pacman ghost on any
+level except the secret floor. The "ghost" is considered to be a
+guard, but is invincible. No matter what guards are used on the
+secret floor, the player will be awarded 15,000 bonus points just
+for getting there and out. There is nothing wrong with denying
+bonus points in chosen situations. This is just to make you aware
+when designing a floor what the effects of your choice will be.
+
+Trickery
+
+The official version of Wolf3D employs no "tricks" to fool you.
+However, if you design and edit enough floors, you'll soon learn
+about the "tricks of the trade". Guards can be made to walk through
+walls (which the player can then walk through). Objects can be made
+transparent, and so forth. Although Wolf3D purists will probably
+argue the point, I personally think a trick or two adds a new, and
+interesting element to the game as long as it's done sparingly.
+It's probably fair to warn the potential user of your custom floor
+that you've added a trick or two without telling them what or
+where.
+
+I began this section by stating the official version has no tricks.
+This is true if you discount built-in "errors". The distributor of
+the official version of Wolf3D insists that some floors are not
+completely playable on purpose.  I.e., hidden doors were
+deliberately misplaced so you can never enter the area behind.
+There are one or two more "impossible" situations built in. This
+explanation fails to account for why so much design work went into
+an area that you can't get into if no one was ever intended to see
+a map of the area. Or why the official hint book urges you to enter
+an area that is unenterable.
+
+Balance
+
+When designing a floor, you should strive to achieve a balance
+among the various skill levels. For example, don't overload with
+skill 1 & 2 guards, nor fail to add skill level 4 guards. With the
+latest additions to Mapedit Version 7.0 by David Huntoon, Brian
+Baker, and Matt Gruson, it is now possible to quickly see not only
+what the balance looks like from the STATS, but you can
+individually view the placement of all skill level guards. Plus you
+can isolate the display of treasure, ammo, and health items, and
+Super guards (bosses).
+
+Narrow vs. Wide passages.
+
+This'll seem obvious to you old hands. But for those just creating
+their first floor(s), it is probably worth reminding you that
+creating narrow passages slows the player who wants to set a record
+for going from entrance to exit. Of course, every player who uses
+that same hallway will have the same problem, but it's worth
+considering. Interestingly enough, a narrow passageway seems to
+make it a bit easier to nail "Arnold" if he's forced to follow the
+player down the passage. The reason is, a narrow passage creates an
+environment for a better aim and actors that are hit squarely will
+not be able to shoot back if they can't move out of the way.
+
+Why do narrow passages slow progress of the player? Any enemies
+hidden in niches off a narrow hallway will impede movement by just
+being there. The player won't be able rush by them without engaging
+them in battle. If you want to hide someone off a long hallway,
+place him at least two squares deep or widen the hallway, if
+possible.
+
+Weapons
+
+If you design a series of floors, be sure to leave a machine gun on
+several of the floors (also a chain gun). Don't assume that all
+your floors will remain together.  Also, when someone has to start
+a floor over after being killed, they need to find a machine gun in
+a hurry. (I know, they should've remembered to save their game at
+the start of each level, but....)
+
+You can either hide a machine gun somewhere, or else place an SS
+guard near the start. When he's killed, he'll drop his machine gun
+for the player to pickup.
+
+Over Designing - or Too Much of a Good Thing.
+
+While there's a limit on the number of static objects (anything on
+the floor except walls and guards) that can be placed on 1 floor
+(400), if you try to place too many in one room/area, the game will
+suffer from screen background clutter. This means that actors that
+are in a room with too many other objects, will literally be
+invisible, as will some of the objects, depending on the angle of
+vision of the player. This is also true if too many actors come
+streaming out of room. You'll lose 1 or more as your display screen
+will not be able to refresh quickly enough to catch all of them
+moving through the door.
+
+The secret floor of Episode 4 of the official game is a perfect
+example of this. When the player waits in the hidden room on this
+floor for all 74 officers to come for a visit, they'll arrive too
+fast for the screen to keep up and before you know it they're shot
+from behind and they didn't see anyone go by.
+
+There is a tendency for designers to load up a room or rooms near
+one of the Super Bosses with ammo and first aid so the player has
+a chance of surviving. As long as the player keeps these objects to
+his/her back, there usually won't be a problem. But if the player
+backs up too far and exposes lots of objects on the floor between
+himself and the actor, the actor may flicker on and off the screen.
+Not good!
+
+One other example worth mentioning is a room filled with barrels
+that are placed so as to provide an intricate pathway through the
+area. Depending once again on the angle of view, many of the
+barrels will disappear from view. As you turn they will reappear.
+Any actors on the other side of the room will be invisible until
+the player can get closer (if he/she survives that long).
+
+So if you find you've got a room like those described above,
+redesign it to limit the objects to a smaller area of view. Use
+walls for partitioning off parts of the room or use smaller rooms,
+or just eliminate some of the objects by placing some of them
+elsewhere if you think you need them all.
+
+Wrapping it up
+
+It is hoped the above tips will help you design your floors with
+greater confidence and fewer errors. At least you should be able to
+recognize the symptoms when, for example, you come across a guard
+in a trance, or doors open and close without sound.
+
+Floor designing isn't difficult, only time consuming. Just get out
+a large sheet of graph paper and grow your design. Then use the
+Mapedit program to transfer your design to the screen. Next, test
+it, fix it, test it, fix it, etc., etc., until you're satisfied
+with the results. This is obviously an oversimplified explanation.
+Your floor has to be saved to disk, then merged into the GAMEMAPS
+file of a running game to test it.
+
+All floors occupy an area 62 x 62 squares in which to layout your
+designs. (The actual area is 64 x 64; the extra 2 squares in either
+direction are the peripheral wall which has to be there. You can
+add designs to it and change its color if you want). Try to leave
+some space for your name to be added somewhere, and a floor title,
+if you want one.
+
+What To Do With Your Designs
+
+If you already have 1 or more floor designs or would like to try
+your hand at creating them, I would like to include your designs in
+another episode of another package like this. You will get full
+credit for your work by having your name placed in the floor design
+(if it isn't already there) as well as listed in the credits
+section of the manual. If you want to include any hints, put them
+in a small file for inclusion in the manual.
+
+Your designs will not normally be tampered with unless something in
+them presents a problem. You will be contacted to see what you want
+to do, or you can trust me to resolve the problem for you. Actual
+inclusion into an episode will depend on, among other things,
+factors such as complexity and originality, as judged by myself.
+You will be informed if your design needs more work before being
+included. The current 60 floor package did not always meet the
+above criteria, but it was a start.
+
+All designs remain the property of their designer, but cannot be
+withdrawn after distribution. You're free to include your designs
+in any other form, but I reserve the right to exclude them from my
+package, if appropriate.
+
+Cost of transmitting or mailing the file to me will be borne by
+you. Diskettes will be returned if you include sufficient postage
+(usually two 29 cent stamps are enough for one diskette). Contact
+me in advance for my mailing address.
+
+Warren Buss
+
+Compuserve ID: 71044,3477
+Prodigy ID: HNHM14A
+

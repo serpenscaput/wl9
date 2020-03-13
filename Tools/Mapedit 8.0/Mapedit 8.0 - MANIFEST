@@ -1,0 +1,52 @@
+*********************************************************
+*                                                       *
+*        MAPEDIT.ZIP contains the following files:      *
+*                                                       *
+*********************************************************
+
+**   Documentation
+
+MAPEDIT  DOC  - Main program documentation (40 pages)
+WOLFSOD  DOC  - Specific information for Wolfenstein 3-D and Spear of Destiny
+                map construction (14 pages)
+BSTONE   DOC  - Specific information for Blake Stone map construction
+                (25 pages)
+README        - Important information to get you started.
+MANIFEST      - This file
+FILE_ID  DIZ  - BBS Description File
+
+**   Files Required During Execution
+
+MAPEDIT.EXE  - Main program
+EGAVGA.BGI   - Borland BGI driver
+
+(One pair of the following map/object data definition files)
+
+MAPDATA.WL6  - Map definition file for Wolf 3-D
+OBJDATA.WL6  - Object definition file for Wolf 3-D
+
+MAPDATA.SOD  - Map definition file for Spear of Destiny (original game)
+OBJDATA.SOD  - Object definition file for Spear of Destiny (original game)
+
+MAPDATA.SD2  - Map definition file for Mission 2 of Spear of Destiny
+MAPDATA.SD3  - Map definition file for Mission 3 of Spear of Destiny
+OBJDATA.S23  - Object definition file for Missions 2 and 3 of Spear of Destiny
+
+(Note - The extensions of the data definition files for Missions 2 and 3 of
+        Spear of Destiny must be changed to SOD before they can be used).
+
+MAPDATA.BS6  - Map definition file for Blake Stone
+OBJDATA.BS6  - Object definition file for Blake Stone
+
+(Note - Read the MAPEDIT.DOC file for a description of
+        the data definition files and their proper use. )
+
+**   Optional initialization file to allow for customization of operating
+     parameters and various directory paths
+
+MAPEDIT.INI  - Optional Initialization file
+
+SAMPLE.FLR   - Sample Blake Stone floor highlighting the use of LHV's
+SAMPLE.DOC   - Explanation of Sample floor
+SAMPLE.PRT   - Map of Sample floor
+

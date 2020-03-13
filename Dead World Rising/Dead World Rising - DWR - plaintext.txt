@@ -1,0 +1,339 @@
+
+"DEAD WORLD RISING" MANUAL
+
+CONTENTS
+0- Credits!
+1- The Story
+2-Your Arsenal
+3- Your Enemies
+4- Your Pick-ups
+5- Things You Should Know (AKA Read this or you'll be sorry later!)
+
+0-CREDITS!
+
+"Dead World Rising" A new "DOOM" Adventure by R.S. DuHamel (AKA The Great Wasabi)
+
+A Wolfenstein 3-D Mod using the "Final Solution" Version 3.0
+Using content from "WolfenDoom", "TRAGEDY AT ISTANBUL III- EVIL IN IRON: Special 
+'DOOM' Version", and "Schabbs 9000" 
+
+Mod by R. DuHamel  (wasabi_zero2002@yahoo.ca)
+-"Final Solution"(Ver.1.0, 2.0, 3.0) by Tristan Van Putten (tvanputten@yahoo.com)
+
+-"Wolfendoom" by AReyeP (Steve Walley) (areyep@iaa.com.au)
+-"TRAGEDY AT ISTANBUL III- EVIL IN IRON: Special 'DOOM' Version"  By John Bucksnort 
+(john_bucksnort@yahoo.com)
+-"Schabbs 9000" by Kyle Fisher (?)
+-"Wolfenstein 3-D", "Spear of Destiny", and "DOOM" by id Software
+
+
+BEFORE YOU PLAY:  I chose "The Final Solution" as the platform to build my mod on, 
+as it had many interesting features that I couldn't find in any other port of "Wolfenstein" 
+or "Spear of Destiny".  I congratulate Mr. Van Putten for his excellent work on "The 
+Final Solution", and I hope he doesn't mind me using it.  I also wish to congratulate 
+AReyep for his work on "Wolfendoom".  It was a great experience, and felt true to 
+DOOM's nature.  Schabbs 9000 by Kyle Fisher was also quite good, and quite challenging, 
+a feature I hoped I could generate in my own game.  Next, to Mr. Bucksnort.  The 
+Special DOOM Edition of your "Evil In Iron" was every bit as good as "Wolfendoom" 
+(I thought), and also true to DOOM itself, a game of which I am a major fan of. And 
+last, but not least, those great guys at id Software, for creating Wolfenstein and 
+DOOM in the first place.  Without them, this mod (and much of video game history) 
+might not have been possible.  Rock on dudes!  
+
+	Many things I borrowed and such, because I've only recently gotten into modding, 
+and haven't yet got the hang of editing source codes (I'm only 16, I'm working on 
+it!).  I have listed (hopefully) all the games I borrowed DOOM content from (and 
+the game used for the base of the mod), but if you play this game, and see something 
+that you yourself have created (please be honest), and you are not listed, please 
+feel free to e-mail me at wasabi_zero2002yahoo .ca, and tell me.  I will try my best 
+to see that you have credit for it.  And please enjoy the game!  
+
+	Oh yeah, and unfortunately, due to the fact that I neither had access to a Boland 
+C++ Compiler, nor the skills to operate one, I was unable to change the first sign-on 
+screen, as well as the text after each level, and some other things I may have missed. 
+ If anyone could help me with that, please feel free to e-mail me about it.  I would 
+be very grateful.
+
+ -R. DuHamel (The Great Wasabi!) 
+
+PLEASE SEND ME FEEDBACK!!! E-mail the Great Wasabi! wasabi_zero2002@yahoo.ca
+
+
+
+1-THE STORY-
+
+	There you were, fresh out of high school, looking for an exciting, and yet practical 
+job.  A friend jokes to you about joining the military.  You briefly consider it, 
+but the idea is quickly pushed aside for much more attainable goals.
+
+	Then it happened.  By chance, or simply an act of fate, you just happened to notice 
+an advertisement near your apartment.  
+
+	     JOIN THE SPACE MARINES!  WE WANT YOU!
+
+	That's it!  You'd always heard how great the Space Marines were, and of all the 
+cool things they always got to do.  You finally decide to sign up. Why not?  Go places 
+for free, be fed and clothed, and get rich quick.  And all you have to do is enlist 
+part time. There's no wars or problems to worry about, all you have to do is take 
+it easy.  Or so you thought.
+
+	Five gruelling months later, your training is done.  They throw a uniform on you, 
+slap an SMG in your hand, and before you know it, you find yourself being put on 
+the first shuttle to the remote space colony LR-304, located on the recently terra-formed 
+planet Mars.  You don't even get a chance to tell your folks good-bye.  On the trip 
+there, you overhear what's going on:  supposedly there have been some odd goings-on 
+at LR-304.  You hear something about "infestation", but think nothing of it.  You 
+do remember something about the base being operated by UAC, that aerospace company. 
+Was it United Aerospace Company?  Or Corparation?  It quickly leaves your mind.  
+It's probably just a false alarm.  There couldn't REALLY be anything wrong, could 
+there? 
+
+	Days later (Boy that was sure quick!), the shuttle lands at  LR-304, and there is 
+a rude awakening.  The second the airlock opens, the alarm sounds.  The other Marines 
+go into a panic, and they all shove off their shoulder restraints, grab their guns, 
+and bolt into the colony entrance at the order of the sergeant.  Except you.  Your 
+shoulder restraints jam, and you find yourself trapped in your seat.  No one takes 
+notice of you, and quickly you are alone on the shuttle.  Minutes later, you manage 
+to pry the restraints off with the butt of your rifle.  The rifle cracks in your 
+hand, and you discover you've broken part of the firing mechanism.  It's totally 
+useless now.  You swear you'll kill the idiot who made those damn shoulder restraints. 
+  
+
+	You rush out the join your comrades, when you see a horrifying sight.  All of your 
+comrades are dead. You see dozens of dead colonists, and upon examining them closer, 
+you realize they've been dead for weeks.  No one is left except you.  You take back 
+what you said about killing the idiot who made the shoulder restraints.  He (or she) 
+saved your life.  For the time being at least.
+
+	Well, here you are.  A Space Marine.  Alone in a place you've never heard of, and 
+know nothing about.  As you turn to go back to the shuttle, the door inexplicably 
+closes.  You try to open it, but the wiring for the button to open it is shot. You 
+pull out your pistol, and brace yourself.  You'll just have to get through this damn 
+hell-hole, and whatever is here is going to get a face full of lead if they decide 
+to show themselves.  You have no idea what you are doing, but what the hell.  It 
+can't be much worse than sitting around starving to death before anyone realizes 
+something's gone terribly wrong.  Right?!  Nothing could be that terrible...You must 
+now travel across a world corrupted by the greatest evil imaginable, to an uncertain 
+fate...
+
+	Good luck.  Believe me, you'll need it.    
+
+2- YOUR ARSENAL-
+
+	You only have your pistol and your bloody bare hands (complete with nice sharp knife) 
+to start with, but some other weapons appear that will definitely help you.  Here's 
+a complete list of your weapons.
+
+ #1-Combat Knife:  You're advised not to use this is if you can.  It'll take out 
+weak enemies, but others it won't even scratch.  If this is your last resort, you're 
+in BIG trouble.
+
+
+  #2-Pistol:  Your pistol is much better than the knife, but still isn't that great. 
+ 
+
+
+ #3-SMG (Sub-Machine Gun):  You may find this is the weapon you might use most.  
+It's pretty good on ammo, and packs a punch that stops most enemies in their tracks. 
+It pops up all the time.
+
+  #4-PCU (Plasma Conversion Unit) Rifle:  An energy rifle that will make short work 
+of almost any enemy.  It works by converting conventional ammunition into quick bursts 
+of plasma.  This weapon is the final version of the one UAC was developing in "Wolfendoom" 
+(Nod to AReyeP!).   It has become standard issue for most Space Marines.  However, 
+it ploughs through ammo very rapidly. Be warned; this weapon may jam and disappear 
+for no reason if you keep firing it too much.  If it does, you'll just have to find 
+it again...which sucks, because on LR-304, this weapon is quite rare.
+
+#5-Chaingun:  Ah, yes.  Your good friend from DOOM.  It will shred any enemy, and 
+when you have it, it just makes you feel so invincible.  For added effect, when firing 
+it, laugh maniacally.  HAHAHAHA!!!! Er, sorry.  Unfortunately, continuous repeated 
+firing of this weapon will cause it to vanish like the PCU Rifle.  A very rare find!
+
+
+3-YOUR ENEMIES-
+
+	Well, if a game gives you guns, that means there's stuff to kill.  Here's the hapless 
+SOBs that you'll encounter on your journey.  (Some of them aren't so hapless...)
+
+
+ 
+
+FORMER HUMAN (MARINE)-  Most of the time, these guys can't cause you a lot of trouble. 
+ In groups, or in your face, they can do some serious damage, however...Drop a clip 
+of ammo when toasted.
+
+ 
+
+FORMER SERGEANT-  These badasses now pack a SMG instead of the good old Shotgun. 
+ Toast this guy to get either his SMG or a clip of ammo.
+
+ 
+
+LOST SOUL-  Hardly worth wasting ammo on.  One shot will send this dude back where 
+he belongs.  Only a problem in massive groups, or if you have no ammo.
+
+ 
+
+IMP-  Move fast, and search you out in seconds after realizing your presence.  Drops 
+ammo when killed.  
+
+Keep your eyes open.  Enemies cause much more damage at close range, so check those 
+corners!
+
+BOSSES
+
+	These are the big meanies you'll encounter every 5 levels, which means there are 
+4.  Ha-ha.  Here they are in order you'll face them...
+
+ 
+
+FORMER COMMANDO-  Once a proud Space Marine, now a putrescent putz packing a powerful 
+perforator (Whoa! Alliteration overload!).  He's not the sharpest knife in the drawer, 
+so he won't try hard to find you.  Just dance around him, and shred him like there's 
+no tomorrow!  Appears on level 5.
+
+ 
+
+BARON OF HELL-  Well, well, well, if it isn't Mr. Baron O' Hell?  Nasty as ever. 
+ Tougher and slightly brighter than the Former Commando.  Appears on level 10.
+
+ 
+
+ARCH-VILE-   This goddamn pain in the you-know-what appears on level 15.  A challenge 
+to take out.  
+
+THE DAEMONITE-  Nothing is known about this strange new enemy.  Take caution when 
+you find him, he's bound to be really tricky.  Appears at the end on level 20.  Good 
+luck!
+
+
+4- YOUR PICKUPS-
+
+	Of course, the Space Marines and the colonists left behind plenty of ammunition 
+and items before they met a fateful end.  Here are the ones you'll find:
+
+ 
+Blue Vial (Health Bonus)-  In DOOM, they gave you 1 health, and pushed the normal 
+100 health beyond 100.  In "Dead World Rising", each restores 10 health, and they 
+will push your normal HP (Health Points) beyond the normal 100 percent.  You have 
+a max HP of 200.
+											
+
+ 
+Stimpack-  A small package with a red cross.  It contains steroids that give you 
+a quick boost of health.  Each one restores 10 health.
+											
+
+ 
+MedPack-  A large package that has straps on the front of it, and a big red cross. 
+ Each one of these babies restores 25 health.
+											
+
+ 
+Armour Vest-  These will protect you from enemy shots, but they will only withstand 
+a few hits.  They're the blue vests.  When you get hit after picking up one of these, 
+you may notice that on occasion your health jumps up.
+											
+
+ 
+
+Ammo Clip-  If you find one just lying around, these give you 8 shots.  If you collect 
+one from a downed foe, they only replenish 4 ammo.  You have a max ammo count of 
+200.
+
+											
+
+ 
+
+Ammo Box-  Looks like the MedPack, but has a picture of a bullet on it.  Gives 25 
+bullets.
+											
+
+ 
+1Up-  You'll know these when you see them, because they say '1Up' right on them. 
+ They're blue.  Gives you 
+1 extra life.
+											
+
+Keys-  There are four keys.  You need them to open locked doors throughout the LR-304 
+colony.
+
+  Yellow KeyCard
+
+ Blue KeyCard
+
+ Red Skull Key
+
+ Blue Skull Key
+
+
+"Treasure"-  There is no treasure in the traditional sense.  But there are items 
+that you can collect of value that give points. They're mainly valuable Space Marine 
+equipment that lays scattered around the facilities at LR-304.  Here are some of 
+the things you should look for:
+
+Armour Helmet-  It gave you 1% armour in DOOM.  It now gives you 100 points.
+
+Light-Amplification Goggles- In DOOM, they let you see perfectly in darkened places. 
+ They now provide you with 500 points.
+
+Red Skull- In DOOM, was a special key.  Now a mysterious demon object that rewards 
+you with 1000 points.
+
+Yellow Skull- In DOOM, was a special key.  Now a mysterious demon object that rewards 
+you with a whopping 5000 points! 
+
+THINGS YOU SHOULD KNOW...   (AKA Read this or you'll be sorry later!)
+
+-The barrels in this game can be exploded.  However, they cause no damage (good thing!). 
+ If you see barrels blocking your way, blast 'em!
+
+-The secret areas are really well hidden for the most part.  Good luck finding them! 
+ If it's hard to find, it must have some really good stuff in it...You'll recognize 
+a secret area when you see this wall inside it...
+
+   
+
+It has an anime girl on it! KAWAII! (Which means "cute!") Anywho, the vertical scribbles 
+on the right-hand side are the Japanese characters for "konnichi wa", which means 
+"good afternoon", or more commonly, "hello".  There, you just learned some Japanese. 
+ E-mail me for some nice embarrassing Japanese insults to mock your arch-enemies 
+and annoying relatives!  Hee hee.  Some secrets also have another anime wall, too.
+
+
+-Keep and eye out for doors accompanied by signs saying "MedLab" and "Armoury".  
+They contain valuable items, and are usually free of enemies.  They look like this...
+
+
+     
+
+-This is sort of a mistake, but if your health falls below 40%, walk over dead Marines, 
+candles, and some other stuff on the floor to gain health!
+
+-The exit to Level 8 is hidden.  If you couldn't find it, stop beating yourself over 
+the head with that frozen salmon.  I'm a tricky SOB, okay?  }:)
+
+-To get the most from the DWR experience, play with no codes, and in hard or super-hard. 
+ Hee hee.
+
+
+I busted my lazy ass for almost five months straight, working with a brain-dead computer, 
+compiling cool textures, and trying hard to make my own, to produce this masterpiece. 
+ Well, I think of it as a masterpiece.  My friend told me "Roger! It's just really 
+f***ing hard!".  I'll bet that Tristian spent much longer on "The Final Solution", 
+and for that, I thank him, and all  the guys I borrowed stuff from.  Keep up the 
+good work, guys!   ^_^  Anywho, this is my first half-decent Wolf3D mod, and I hope 
+you'll enjoy it.  Hope to hear from you!  Later!
+
+-THE GREAT WASABI 
+
+Thanks for reading this super-important document.   Tell me what you thought about 
+the 
+game or anything you like...   wasabi_zero2002@yahoo.ca
+
+VISIT THE DOOM OASIS!  http://www.angelfire.com/de3/doom_oasis/ 
+Don't forget to stop by the DOOM II: The Wrath of Abaddon section!
+
+And keep your eyes open for the upcoming DOOM mod, DOOM II: The Wrath of Abaddon! 
+ Brought to you by Team Armageddon.  

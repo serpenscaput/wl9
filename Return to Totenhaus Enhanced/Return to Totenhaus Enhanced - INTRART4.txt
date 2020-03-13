@@ -1,0 +1,20 @@
+^P 
+^C[Gold]A SECRET PLACE
+^c[White]The elevator shudders to a halt after a long, long descent. The air is thick 
+and musty, and eerily silent.
+
+You open the elevator door, and in the guttering light of torches you can see the 
+glinting of hundreds of gold artifacts. It seems like half the gold in Europe is 
+stored here!
+
+^P
+^C[Gold]DESERTED
+^c[White]The vaults are all locked, so you'll have to find a key. But where are the 
+guards? You can't hear a single sound aside from your own breathing.
+
+Gingerly you step forward into the dark halls of Totenhaus' underground catacombs 
+to find a way into the vaults. Your footsteps echo like thunder in the empty labyrinth, 
+but no one seems to hear you. Are you really alone?
+
+Only one way to find out...
+^E

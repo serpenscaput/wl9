@@ -1,0 +1,21 @@
+Return to Death Castle by Bobby Bucksnort (wolf3d mod)
+original DOS release: 2 August 2000
+
+Wolfenstein 3D (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+New EXE for DOS based on Wolf3d source by id Software
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+
+Both SDL and DOS EXEs contain:
+
+Activision signon screen
+Pushwalls always move 3 spaces
+Increased actor and static object limits slightly
+Tab+S to toggle hitwall/spacebar sounds
+Endgame ratios adjusted for 5 levels
+Allow warping to level 5
+
+Corrected map error on level 4: stray pushwall marker removed

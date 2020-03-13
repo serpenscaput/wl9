@@ -1,0 +1,67 @@
+Wolf-Extra Epilogue 21 4SDL
+
+
+Thank you for wanting to play Wolf-Extra Epilogue 21.
+
+
+Wolf-Extra Epilogue 21 marks the 20th. anniversary of my fist Wolf-Extra and consists 
+of 21 complex levels!
+
+
+Wolf-Extra Epilogue 21 is not as puzzle heavy as some of my previous mods.
+It is all the same recommended to leave a saved game at the beginning of the level 
+you are currently on.
+This will enable you to start anew on the level without losing lives in case you 
+get into serious trouble after a quick save, or in case you feel stuck somewhere.
+
+
+The zip includes the ChaosEdit definition files for Wolf-Extra Epilogue 21.
+Be adviced that looking at the maps, and the content of the vswap, will spoil surprises 
+in the game.
+
+Wolf-Extra Epilogue 21 must be played with the supplied audio files.
+
+
+You start each level with 100% health and a knife.
+
+Wolf-Extra Epilogue 21 includes both new special features, and special features introduced 
+in my previous mods.
+
+I will leave most of the special features, new and old, as surprises for new players, 
+but will hereby also explain a few.
+
+The water puddle will destroy your standard ammunition unless your health is 20% 
+or lower, in which case the water puddle will instead add 3 points to your health.
+
+
+Some of the treasure items have special qualities. Do not take more of them than 
+you actually need at any time, this will allow you to go back for more when you need 
+them. Remaining ones can be collected before exiting the level for 100% treasure 
+bonus.
+
+Neccessary items are sometimes found in secret areas. Secret doors (pushwalls) are 
+always marked/suggested in some way, OR they may be localized geografically (rooms 
+you can see into or determine are there but where the entrance is a secret door).
+
+
+Finding all secrets is not supposed to be unreasonably difficult.
+
+In some of the levels you find pushwalls which block your retreat, somtimes leaving 
+you with no ammunition. The areas you leave when passing such a pushwall may be accessible 
+again later in the level, or not. In case of the latter make sure you have found 
+all the treasures and secrets, and killed all enemies, in the area you leave behind, 
+for 100% ratios.
+
+Pacman ghosts are only found in some of the secret levels (not in standard levels). 
+They are unkillable but this does not affect your 'kill' bonus.
+
+For all levels, including boss- and secret levels, it is possible to get 100% ratio 
+in all three bonus categories.
+
+Have fun!
+
+
+Paal Olstad (Poet).
+
+
+p-olstad@online.no

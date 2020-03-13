@@ -1,0 +1,54 @@
+
+                           Main Menu Instructions
+
+Main Menu Choices:
+
+1 Instructions
+2 Original WOLF Games
+3 Read new game DOCs
+4 SELECT NEW GAME
+5 Show Current Game
+6 Play WOLF3D
+7 Exit
+
+1 Instructions
+Takes you to the Instructions menu where you can read the instructions for
+WOLFMASTER.
+
+2 Original WOLF Games
+When WOLFMASTER is installed, it backs up (saves) a copy of the original
+WOLFENSTEIN games that came with your copy of WOLFENSTEIN.  It also backs
+up all the savegames you may have had with those original games. Choose
+this selection when you want to restore and play those original
+WOLFENSTEIN games.  This command is also repeated under the SELECT NEW
+GAMES menu for your convenience.
+
+3 Read new game DOCs
+Many of the new game authors have something to say about their games.
+Select this option to go to the new DOCs menu where you can read about the
+new games.  It is highly recommended that you read these DOCs before you
+play a new game.  Some authors have quite a bit to say about their games,
+including mission briefings and hints.
+
+4 SELECT NEW GAME
+This option takes you to the NEW GAME menu where you can select a new game
+to play.  Once a new game is selected you are ready to play the game by
+selecting Play WOLF3D from the main menu.
+
+5 Show CURRENT Game
+This option displays the currently selected game.  The display will show
+that, for example, GAME A or GAME BB is currently selected.  Note that GAME
+APG = the original WOLF Games.  Read the INSTRUCTIONS for SELECT NEW GAME
+for more about this command.
+
+6 Play WOLF3D
+This option runs WOLFENSTEIN with the selected game, or with the original
+WOLFENSTEIN game if that has been restored with the Original WOLF3D Games
+selection.  This option takes you directly to the main menu of WOLF3D
+without having to view it's startup screens.  It also enables the -goobers
+command so that you can enter the DEBUG mode if you desire. (See "How To
+Cheat")
+
+7 Exit
+Exits WOLFMASTER.
+

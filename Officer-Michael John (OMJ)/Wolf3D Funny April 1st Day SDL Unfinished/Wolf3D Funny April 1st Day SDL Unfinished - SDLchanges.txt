@@ -1,0 +1,61 @@
+Wolf 3D Funny April 1st day (beta version) by Officer-Michael John (Me) (wolf3d mod)
+
+original DOS release: 1 April 2015
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Changes based on OMJ's Wolf3D EXE:
+
+Re-written WL6 to WL1
+
+Further improvements in SDL version:
+
+Show scores over 1 million on status bar
+Added a 2 weapons with own ammo
+New enemies
+Changed floor/ceiling color
+Music Order changes
+SOD musics/graphic/sound
+3 episode
+New sounds/musics
+Pushwall fast move 33 space
+New weapon pic
+Zooming for Assault rifle (In bad work)
+Read This! and EndArt
+SOD's Godmode (Crazy)
+Invincibility (Not timed)
+Starting with knife on Episode 3 level 7
+SS,guard and officer drop an Ammo clip or weapon
+Strenght enemies
+Strenght weapons
+New doors
+Multiple floor/ceiling texture
+Display map name,etc.
+
+Credits to in SDL (beta version):
+
+Chris Chokan: MAXWALLTILES/MAXDOORTILES 64+ wall,Chokage graphic with sound and helping
+
+TexZK:Zooming for Assault Rifle
+Adam Biser:Display map name and End level object
+Havoc:Read This!
+Tricob:Source code helping
+MCS Asterdam:Enemy blocking
+Mega Luigi:Enemy blocked on given level,music
+WSJ (wolf-Skevos Jones):In-Game Messages,graphics,sounds
+Ariel Castnares Norberto:Pistol sprite with sound
+Andy Nonymous:Source code tutorials
+Ripper:More door as 4 door
+KKK911XD:Learn a Me for SDL coding
+Thomas Weiling:Episode 3 Level 1 map
+Ripper & Andy Nonymous:Wolf4SDL
+Id Software.Wolf 3D/SOD graphics,sound,musics
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+Map controls:
+
+X:1,Y:0:Music controls (0-35)
+X:2,Y:0:Floor colors controls
+X:3,Y:0:Ceiling colors controls

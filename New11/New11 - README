@@ -1,0 +1,76 @@
+/////////////////////////////////////////////////////
+//                                                 //
+// WOLFENSTEIN 3-D LEVELS FROM Ideas From the Deep //
+//                                                 //
+/////////////////////////////////////////////////////
+
+
+		%%% NOTICE %%%
+
+	THESE LEVELS ARE _NOT_ FROM ID Software or Apogee.
+	Neither company endorses these levels, nor will
+	they answer questions about them or in any other
+	manner support these levels. So please don't call
+	them! Send questions to the address below! THANKS!
+
+
+		%%% SHAREWARE %%%
+
+	These levels are ShareWare! You are free to play
+	around with them, but if you decide to keep them
+	after 15 days, you need to register!
+
+	REGISTERING not only legitimizes these levels for
+	you, but you also get another 20 levels sent to you!
+	These levels require v1.1 or later of Wolfenstein,
+	so don't bother ordering them if you have not already
+	paid your money for the legitimate copy of Wolfenstein!
+
+	These 20 new levels use all the new features, creatures,
+	and so forth found in the later scenarios of Wolfenstein
+	for many additional hours of play value.
+
+
+	The registration fee is $15, and can be sent to:
+
+		ATTN: LEVELS
+		Ideas From the Deep
+		P.O.Box 1025
+		Campbell, CA  95009-1025
+
+	THANK YOU IN ADVANCE FOR REGISTERING YOUR LEVELS!
+
+DISTRIBUTION
+
+You are free to distribute this set of 10 new files as long as you observe
+the following restrictions:
+
+	1. Insure that all files, including this README, are included.
+	2. State that these levels are not affilated with ID or Apogee.
+
+USING THE LEVELS
+
+Using these alternate levels is easy. The first thing you have to do is make
+sure that you have the correct version to go with your Wolfenstein program.
+If you have v1.0 of Wolfenstein, you will have the file "MAPTEMP.WL1" in your
+directory. If this file doesn't exist, you have v1.1 or later. Be sure you
+have downloaded (or otherwise received) the correct version. You can be sure
+you have the correct version if you have the file "MAPTEMP.IF1" for v1.0 or
+the file "GAMEMAPS.IF1" for v1.1 or later.
+
+Once you are sure you have the correct version, simply copy the new levels
+into your Wolfenstein directory. These files are:
+
+MAPHEAD.IF1
+MAPTEMP.IF1 (GAMEMAPS.IF1 for v1.1 or later)
+SWAP.BAT
+README
+
+To play, just type "SWAP" and press Enter at the DOS prompt. This will rename
+files so that Wolfenstein loads and plays the new levels. If you wish to play
+the original levels, simply type "SWAP" again and the files will be returned
+to their normal state. Saved games are also swapped. NOTE: The files may not
+retain their suffix (IF1) if you have purchased additional levels from Apogee.
+Instead, if you have the WL3 or WL6 files, you will get IF3 or IF6 suffixes.
+
+Thanks, and we hope you enjoy your time in these levels!

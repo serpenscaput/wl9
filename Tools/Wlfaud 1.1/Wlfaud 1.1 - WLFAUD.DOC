@@ -1,0 +1,57 @@
+Wolfenstein Audio Editor - version 1.1 October 1993
+
+SUMMARY:
+
+    WLFAUD sound_number [-s sound_file] [-e sound_file] [-l] [-q]
+
+    sound_number: 1-20, select and play sound from VSWAP.WL1
+    -s          : Store sound_file into VSWAP.WL1 at position sound_number
+		  Input files can be any sound format; they will automatically
+		  be converted to 6896 samples/sec
+    -e          : Extract sound from VSWAP.WL1 at position sound_number
+		  and store into sound_file in raw format.  Will not
+		  overwrite existing file
+    -l          : List samples
+    -q          : Quiet; no SoundBlaster output
+
+
+DESCRIPTION:
+
+	WLFAUD will store sounds into or extract sounds from VSWAP.WL1
+	files distributed with Wolfenstein shareware version 1.0 - 1.4.  
+	In addition, WLFAUD will play the sound if a SoundBlaster compatible
+	sound card is present.
+
+	Please be sure to make a backup copy of the original VSWAP.WL1 file.
+	This program is not designed to work with VSWAP.WL6 files.
+
+	Input files can be any format (.AU, .VOC, .WAV, .SND, etc) and
+	any sample rate; they will be converted as necessary.
+
+	Some examples:
+
+	Play sound #1:
+
+		WLFAUD 1
+
+
+	Replace sound #1:
+
+		WLFAUD 1 -s foo.wav
+
+
+	Extract sound #1:
+
+		WLFAUD 1 -e foo.raw
+
+
+	Replace sound quietly:
+
+		WLFAUD 1 -s foo.wav -q
+
+
+
+COMMENTS/SUGGESTIONS:
+	
+	Bill Neisius
+	bill@solaria.hac.com

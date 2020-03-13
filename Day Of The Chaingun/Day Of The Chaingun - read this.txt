@@ -1,0 +1,78 @@
+Day Of The Chaingun v1.00
+
+To run Day Of The Chaingun, place the files in a folder (preferably by itself) and 
+run the
+file Wolf3d.
+
+Day Of The Chaingun is Wolfenstein 3d, with new levels replacing the old ones and 
+edited
+graphics. Unlike the previous Wolfenstein games, DOTC is set in a secret Nazi troop
+
+fortress, not a secret Nazi dungeon. I know those stupid freak people liked to torture
+
+people, but this is strictly a troop fortress only, so no cells or hanging skeletons.
+
+Before Castle Wolfenstein was purged of all Nazis, Germany made plans for the ultra
+
+chaingun. The Venom Gun. You must get those plans.
+
+Wolf3d and Spear of Destiny are great, but some of the levels are tedious maze crawling
+
+levels. I tried to make my levels as maze-like less as possible without making a
+
+simple, boring game. Tell me what you think of my levels by e-mailing me at my e-mail
+
+adress: bullpup2000@hotmail.com
+DOTC offers roughly 10-20 minutes of gameplay with a total of 6 levels. It is small, 
+but
+at least it is not full of mazes like the boring Wolf3-Map7 or Wolf6-Map2 and every 
+other
+Episode 6 map.
+Using FloEdit, I made new levels and changed some of the skeleton and blood sprites 
+into
+other things, like toilets, chairs and bathtubs. FloEdit is an excellent program 
+for
+making Wolf3d and SOD levels. You should download it now.
+
+The levels have different themes
+
+Level 1: The eating area
+Level 2: The barracks
+Level 3: Weapons storage
+Level 4: Hospital
+Level 5: Officer's Quarters
+Level 6: Commando's Quarters
+
+MISSION BRIEFING
+27 December 1944
+Germany is starting to show signs of defeat. Before his death, German scientist Otto
+
+Giftmacher designed a destructive weapon, the phase-pulse chaingun. Originally intended 
+
+for the mutants, the plans were recently discovered by Germans, and they plan to 
+send
+it by telegram from one of their troop fortresses to Berlin for mass production.
+
+The phase-pulse chaingun is capable of piercing 10 inches of steel and can be latched
+
+onto vehicles and walls, thus being the ultimate troop weapon. A chaingun is in the 
+hands
+of a German commando, who was videotaped by spies while test-firing it. Find those 
+plans
+before they are transmitted, and if possible, eliminate the commando. He probably 
+knows
+how the weapon works.
+
+Weapons
+1. Fist: the last resort. Good for killing lone guards.
+2. Semi-automatic shotgun: Good against lone guards and SS.
+3. Sub-machine gun: An excellent weapon, but not as good as the......
+4. Chaingun: Not as popular as the SMG, but is simply better.
+
+When you play the game, you should notice that all the weapons animations were changed.
+
+I love playing Doom, so the fist and chaingun animations come from Doom.
+I made the sub machine gun animations.
+The shotgun comes from Duke Nukem 3d.
+
+Enjoy!!!!!!!

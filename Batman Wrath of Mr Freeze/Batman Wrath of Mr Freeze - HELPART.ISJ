@@ -1,0 +1,417 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading ^C90Batman: Wrath of Mr. Freeze. ^C00This TC (total 
+conversion) is based on the DC Comic book character with the same name, but I've 
+altered the story a bit. It's also a sequel to my first Batman add-on. In the first 
+adventure, Batman battled the Joker. This time, it's a more chilling foe -- Mr. Freeze. 
+This project is also my third Wolfenstein add-on, with the help of my brother, Wolf, 
+who worked on the source code. 
+
+^P
+^C7d THE STORY
+
+^C00 Gotham City -- Present day. You are Bruce Wayne (also known as Batman). Your 
+previous battle was with your arch-enemy, the Joker. You also fought other villains, 
+such as the Penguin, Harley Quinn, the Scarecrow, Catwoman, and the nightmarish Death 
+Knight, the Joker's prize creation.
+
+^P
+^C7d THE STORY
+
+^C00 One night while you were working at Wayne Enterprises, you sat at your desk, 
+remembering your fight with the Death Knight. It seemed as though you weren't the 
+only bat in the belfry. Suddenly, the Bat-signal gleamed brightly out the window. 
+You looked out the window and thought, ^C01"I wonder what crime has been committed 
+tonight."
+
+^P
+^C7d THE STORY
+
+^C00 A few minutes later, you had left Wayne Enterprises and put on your Batman costume. 
+You swung over to Police headquarters where Commissioner Gordon was standing by the 
+Bat-signal.
+
+Commissioner Gordon said, ^C08"I knew you'd come."
+
+^C00 You asked, ^C01"What is it this time, Commissioner?"
+
+^P
+^C7d THE STORY
+
+^C00 He answered, ^C08"A new criminal has broken into the WayneTech laboratory. He's 
+creating blocks of ice and stealing technology. He calls himself Mr. Freeze."
+
+^C01 "Thanks, Commissioner. That's all the information I need."
+
+^C00 You fired your grappel and swung away.
+
+^P
+^C7d THE STORY
+
+^C00 As you were swinging from building to building, you thought, ^C01"Mr. Freeze, 
+huh? What's he doing in my laboratories?! And how is he creating blocks of ice?!?"
+
+
+^C00 You've now reached the WayneTech building and gone inside. Will you be able 
+to survive this test?
+
+^P
+^C7d FEATURES
+
+^C00 * 25 new levels
+* One seamless episode
+* New graphics 
+* New sounds
+* New music
+* New enemies
+* New environments
+* New weapons
+* New keys
+* Armor
+* Destructible objects
+* Ambient sound effects
+* Text after some levels
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 BATMAN
+
+Real Name: Bruce Wayne 
+Occupation: Scientist/Crimefighter
+Base of Operations: Gotham City
+Age: 28
+Height: 6' 2"
+Weight: 210 lbs
+Eyes: Blue
+Hair: Black
+First Appearance: DETECTIVE COMICS #27 (1939)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 BATMAN
+
+^C00 As we know, Batman is the hero of this game. First of all, he encountered the 
+Joker and his associates. Now he battles Mr. Freeze.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 ALFRED
+
+Full Name: Alfred Pennyworth
+Occupation: Valet
+Base of Operations: Gotham City
+Age: 55
+Height: 6 ft
+Weight: 160 lbs
+Eyes: Blue
+Hair: Black
+First Appearance: BATMAN #16 (1943)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 ALFRED
+
+^C00 Alfred Pennyworth is the Wayne family butler. He was also there in the beginning. 
+He aided Bruce Wayne as a father figure when his beloved parents were murdered; and 
+also, he regrets Bruce's secret of Batman.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 COMMISSIONER GORDON
+
+Full Name: James W. Gordon
+Occupation: Police Commissioner
+Base of Operations: Gotham City
+Age: 57
+Height: 5' 9"
+Weight: 168 lbs
+Eyes: Blue
+Hair: White
+First Appearance: DETECTIVE COMICS #27 (1939)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 COMMISSIONER GORDON
+
+^C00 Commissioner Gordon believes in Batman when they first met. Gordon knows that 
+Batman would do anything to keep Gotham City from crime. James also has a wife named 
+Sarah and a daughter named Barbara.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 KILLER CROC
+
+Real Name: Waylon Jones
+Occupation: Murderer
+Base of Operations: Gotham City
+Age: Unknown
+Height: 6' 3"
+Weight: 225 lbs
+Eyes: Red
+Hair: None
+First Appearance: BATMAN #357 (1983)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 KILLER CROC
+
+^C00 Waylon Jones is more crocodile than man. He enjoys lurking in the sewers and 
+attacking innocent people. You would have to be careful while fighting him, because 
+he'll hurl heavy rocks at you.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 VENTRILOQUIST AND SCARFACE
+
+Real Name: Arnold Wesker
+Occupation: Professional Criminal
+Base of Operations: Gotham City
+Age: 55
+Height: 5' 7"
+Weight: 142 lbs
+Eyes: Blue
+Hair: Gray
+First Appearance: DETECTIVE COMICS #583 (1988)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 VENTRILOQUIST AND SCARFACE
+
+^C00 Wesker might be no dummy, but his alter-ego, Scarface, really is! This man is 
+being ordered by his dummy, Scarface, who is armed with a deadly machinegun.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 FIREFLY
+
+Real Name: Garfield Lynns
+Occupation: Pyromaniac
+Base of Operations: Gotham City
+Age: 28
+Height: 6' 2"
+Weight: 210 lbs
+Eyes: Brown
+Hair: Brown
+First Appearance: DETECTIVE COMICS #184 (1952)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 FIREFLY
+
+^C00 Garfield Lynns is a man with a fascination for fire. As the Firefly, he deploys 
+a fire-resistant costume and a flame-thrower. Don't let his looks fool you, this 
+guy isn't the Rocketeer.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 POISON IVY
+
+Real Name: Unknown
+Occupation: Unknown
+Base of Operations: Hawaii/Gotham City
+Age: Unknown
+Height: Unknown
+Weight: Unknown
+Eyes: Unknown
+Hair: Unknown
+First Appearance: BATMAN #181 (1966)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 POISON IVY
+
+^C00 We have no further information on this character. All data will be revealed 
+when level 18 is completed.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 MR. FREEZE
+
+Real Name: Victor Fries
+Occupation: Scientist/Criminal Mastermind
+Base of Operations: Gotham City
+Age: Unknown
+Height: 6 ft
+Weight: 190 lbs
+Eyes: Red
+Hair: None
+First Appearance: BATMAN #121 (1959)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 MR. FREEZE
+
+^C00 Mr. Freeze is the game's final boss. He has vowed revenge on the CEO of Gothcorp, 
+Ferris Boyle. Freeze intends to steal technology in order to find a cure for his 
+wife, Nora Fries, who is left in suspended animation.
+
+^P
+^C7d ARSENAL
+
+^C00 Batman would never use pistols, machineguns, or anything like that. He prefers 
+to use his own weapons to keep the bodycount low.
+
+^C7d Fist: ^C00 Batman sometimes dukes it out with criminals the old-fashioned way. 
+You can punch your opponent near corners and that could be helpful.
+
+^P
+^C7d ARSENAL
+
+Batarangs: ^C00 The Batarangs are Batman's signature weapon. They are razor-sharp 
+throwing devices that can give a concussion to Batman's enemies. Be sure to use them 
+wisely, they are powerful.
+
+^C7d Shuriken Launcher: ^C00 This weapon can fire a rapid stream of Batarangs. It 
+is capable of knocking out enemies in groups.
+
+^C7d Tazer: ^C00 It can electrify the Batarangs and shoot them more rapidly than 
+the Shuriken Launcher. 
+
+^P
+^C7d ARSENAL
+
+Pepper Spray: ^C00 Unlike the Shuriken Launcher and the Tazer, this one shoots out 
+clouds of pepper spray. This weapon is capable of hurting enemies in groups.
+
+^C7d Blow Pipe: ^C00 This weapon is similar to what the natives use. It shoots out 
+tranquilizer darts. It is a silent weapon, so enemies won't hear you when it's used.
+
+
+^C7d Smoke Bombs: ^C00 These grenades can release a cloud of gas on enemies. If you 
+use them on close-range, you could hurt yourself.
+
+^P
+^C7d ARSENAL
+
+Ammo
+
+^C00 Batarangs: 8
+
+Spray Ammo: 8
+
+Darts: 8
+
+Smoke Bombs: 6
+
+^P
+^C7d ITEMS
+
+^C00 Besides weapons, you'll find other items in each level, such as health, keys, 
+etc.
+
+^C7d Health: ^C00 Throughout the game you will need health to stay alive, and there 
+are three kinds of health to find.
+
+Health Potion: 5%
+
+Stimpack: 10%
+
+First Aid Kit: 25%
+
+^P
+^C7d ITEMS
+
+Armor: ^C00 Batman has modified his costume with triple-weave kevlar and fire-resistant 
+nomex to protect himself from most kinds of damage.
+
+Cowl: 25%
+
+Nomex Armor: 50%
+
+^P
+^C7d ITEMS
+
+Keys: ^C00 If you find a door that's locked, it would need a key. There are four 
+flavors of key: Gold, Silver, Bronze, and Ice.
+
+^C7d Extra Life: ^C00 If you see a yellow sphere with the Bat Symbol on it, pick 
+it up and it will give you full health and armor, plus some ammo. It will also keep 
+you fighting enemies.
+
+^C7d Hostages: ^C00 The criminals are taking people captive. If you see any hostages, 
+you have to save them from danger.
+
+^P
+^C7d OTHER ENEMIES
+
+^C00 Before you encounter the super-villains, you'll be fighting their minions.
+
+^C7d Henchmen: ^C00 The goons in ski-masks aren't that tough, but they can be dangerous 
+up close.
+
+^C7d Thugs: ^C00 These crooks are much stronger than the henchmen. They wear black 
+and are armed with laser-sighted weapons.
+
+^P
+^C7d OTHER ENEMIES
+
+Ice Maidens: ^C00 These girls work for Mr. Freeze. Don't find them attractive; they 
+are quick, aggressive, and armed with icicle guns!
+
+^C7d Feraks: ^C00 These vile creatures are left-overs from Poison Ivy's experiments. 
+They may appear human, but they are actually mutant plants with human DNA. Poison 
+Ivy uses them as minions.
+
+^P
+^C7d OTHER ENEMIES
+
+Ice Maiden Leader: ^C00 Unlike the others, she has an ice-blasting cold gun like 
+the one Mr. Freeze carries. She is also very tough!
+
+^C7d Super-Ferak: ^C00 This Ferak is more powerful than the others. He also has a 
+machinegun!
+
+^P
+^C7d HOW DID I CREATE THIS TC?
+
+FloEdit 1.1: ^C00 Maps, importing things
+^C7d Notepad: ^C00 Text
+^C7d Borland 3.1: ^C00 Source code
+^C7d Sound Forge 5.0: ^C00 Sound effects
+^C7d IMF Tools: ^C00 Importing music
+^C7d Paint Shop Pro 7: ^C00 Graphics
+^C7d BMP2C: ^C00 Signon screen
+
+^P
+^C7d SPECIAL THANKS TO:
+
+Florian Stohr: ^C00 FloEdit
+^C7d Brian Lowe: ^C00 Wolfenstein 3D Dome
+^C7d Wolf (WSJ): ^C00 Source code changes
+^C7d DarkOne: ^C00 IMF Tools
+^C7d Ripper: ^C00 BMP2C
+^C7d Id Software: ^C00 Wolfenstein 3D
+^C7d DC Comics: ^C00 Batman
+^C7d You: ^C00 Playing the game!
+
+^P
+^C7d CONTACTING IAN SKEVOS-JONES
+
+^C00 If you have any questions, you can send me email at ^C7d ian@shadaux.com
+
+^P
+^C7d THANKS FOR PLAYING
+
+^C00 I hope you enjoy playing ^C90Batman: Wrath of Mr. Freeze! ^C00You must save 
+Gotham City once again. Now go get Mr. Freeze!
+
+^E
+
+

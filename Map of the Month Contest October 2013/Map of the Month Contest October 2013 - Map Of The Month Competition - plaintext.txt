@@ -1,0 +1,264 @@
+Map of the Month Club Contest - SDL Version
+
+You can make 1 or 2 maps per month for submittal to the contest, and each month all 
+the maps collected will be released as a package that anyone can play, and the members 
+of the forums can vote on.  The winners generally receive a graphic plaquard (signature 
+graphic) that they can display in the forums or saved for your own posterity.  I 
+know it's just a graphic, but hey, it's all in fun and that's it really.  We hope 
+that in participating that it will help you with your mapping skills and allows you 
+to try and do things that you normally wouldn't do in a map for your own project. 
+ It gives you the chance to take chances, and if others really like what you've done, 
+it could add other options to your own mapping ideas.  
+
+Anyhow..  Here's how you control the game from within your own map.
+First, give your map a name (or when you are done) but give it a name so that way 
+when 
+the others play it they can play it with you keeping annonymity.  Noone needs to 
+know 
+(other than that months co-ordinator) who created what map.  So if it really bombs, 
+you 
+don't have to say, yeah that was mine.  The co-ordinators only post the names of 
+the 
+creators of the top 3 maps.  Although, you can (after the voting period is over) 
+step up and let everyone know which map was yours.  
+
+Next, you have to make your map with 1 limitation - That is that the top row of the 
+map is used for controlling the features you want for your map.  You set the atmosphere. 
+ You can have up to 700 static objects on the map, 250 enemies or actors, and of 
+that 250 will be displayable on the screen at any one time.  Hopefully that will 
+allow you plenty of options to really decorate your map and make it have the atmosphere 
+that you are looking for. Now back to the top row of the map... You control the games 
+features by placing wall tiles in specific spots on the map to enable or disable 
+things.  
+
+GENERAL FEATURES: 
+[0,0] = Song to be played for your episode (Songs 0 to 37)
+[1,0] = The Ceiling Colour for your Map
+[2,0] = Floor Colour for your Map
+[3,0] = Starry Sky Toggle (0 = Off 1 = Starry Sky 2=CloudySky) 
+[4,0] = Moon Colour (only if 3,0 is enabled) 1=White, 2=Red, 3=Blue 
+[5,0] = Rain-Snow Toggle (2=Rain, 3=Snow, anything else = No Rain/Snow) 
+
+TELEPORTING: 
+[8,0] = Ceiling Colour Warped  
+[9,0] = Floor Colour Warped
+[10,0] = Starry Sky Warped (0 = Off 1 = Starry Sky 2=CloudySky) 
+[11,0] = Moon Colour Warped (only if 10,0 is enabled) 1=White, 2=Red, 3=Blue 
+[12,0] = Rain-Snow Toggle (2=Rain, 3=Snow, anything else = No Rain/Snow) 
+
+For both settings normal and warped/teleported
+[6,0] = Shading Off (1=Turn Off shading, 0 or anything else turns shading on) 
+[7,0] = Crosshair Off (1=Turn Off crosshair, 0 or anything else turns crosshair on) 
+
+
+
+BLOCKING TILES: 
+Coordinates [15,0] to [26,0] determine which enemies can cross a blocking tile object. 
+
+A value  of "0" = Not able to cross; “1+” = they CAN cross. 
+
+[15,0] = Dogs Cross	[16,0] = Guards Cross
+[17,0] = SS Cross	[18,0] = Officer Cross
+[19,0] = Mutant Cross	[20,0] = Hans Cross
+[21,0] = Gretel Cross	[22,0] = Gift Cross
+[23,0] = Fat Cross	[24,0] = Schabbs Cross
+[25,0] = Mecha Hitler Cross	[26,0] = Real Hitler Cross
+
+LOCKED DOOR SETTINGS: 
+You can now tell who can open the locked door by minimum enemy type... e.g.: if you 
+don't 
+want Guards or SS to open those doors, but you want the Officers or better to use 
+the door... 
+then you put the proper wall value on that coordinate... 
+
+[27,0] = Gold/Yellow Locked Doors	[28,0] = Silver/Blue Locked Doors
+[29,0] = White Locked Doors	[30,0] = Red Locked Doors
+
+The values are: 
+0 = All can open,            1 = Guard can open,        2 = SS can open,         
+  3 = Officer can open, 
+4 = Mutant can open,    5 = Hans can open,         6 = Gretel can open,      7 = 
+Gift can open, 
+8 = FatFace can open,   9 = Schabbs can open, 10 = MechaHitler, and  11 = Real Hitler 
+can open, 
+12 = No one  can open
+NOTE: Ghosts and Dogs can't open doors so there is no setting for them.
+
+HEALTH ITEM SETTINGS:
+The wall value placed on these spots equals the amount of health or healing points 
+that the player will
+receive when they pick the item up.  
+[31][0] First Aid Kit Value	[32][0] Food Plate Value 
+[33][0] Dog Food Value	[34][0] Gibs Value
+
+
+
+
+AMMO/WEAPON SETTINGS: 
+The value of the walls placed on these locations will give the player that amount 
+of ammo when they
+pick up that item.
+[35][0] AmmoBox Value	[36][0] Full Clip Value
+[37][0] Used Clip Value	[38][0] Ammo for Weapon Pickup
+
+ENEMY HEALTH SETTINGS:
+Yes, you read that right.  You can set it so that when an enemy is hit, if they walk 
+across a health item,
+they can pick it up to repair their health points.  They will not pick up health 
+points until their health is
+less than 40% to 50% of their original full health.  
+[39][0] - 0 = Enemies can't pick up Health; 1+ = They can pick up Health if needed
+
+
+
+
+
+BONUS ITEM SETTINGS (Wall value times 100):
+These spots help you decide how many points the player will get for picking up each 
+one of these
+treasures.  You can play with these to make it so that a player might be better off 
+to find everything on
+your map to get full points or you can make these lower and have them race for speed 
+to beat the par 
+time and get a higher bonus score.
+[40][0] 1Up Bonus Points	[41][0] Cross Value  (Wall 1 = 100 points)
+[42][0] Chalice (Wall 5 = 500points)	[43][0] Chest/Bible (Wall 10 = 1000points)
+[44][0] Crown (Wall 50 = 5000points)	
+
+Controlling Weapon Jamming:
+[50][0] 0 = Disable Weapon Jam; 1 = Enable Weapon Jam 
+[51][0] if Weapon Jam Enabled 0 = Weapon Jam Only; 1 = Loose Weapon on Jam
+
+Things the Enemies Drop:
+[48][0] = 0 Guards Drop Ammo; 1+ Guards drop Pistol... 
+[49][0] = 0 SS Drops Ammo; 1+ SS drops the Machinegun...
+
+WHAT THE BOSSES DROP:  
+[54,0] = Hans Drop Value	[55,0] = Gretel Drop Value
+[56,0] = Giftmacher Drop Value	[57,0] = Fatface Drop Value
+[58,0] = Schabbs Drop Value	[59,0] = Mecha Hitler Drop Value
+[60,0] = Real Hitler Drop Value	
+
+Drop Values 
+0= drop nothing?, 
+1=Gold key, 
+2=Silver key,
+3=White key, 
+4=Red key, 
+5=Master key, 
+6=1up?
+
+OTHER VARIABLES: 
+[61,0] = Starting Weapon (0 = Player will start with Knife, anything else = pistol 
+start) 
+[62,0] = Par time Minutes (1 = 1 min, 2 = 2 min, etc) 
+[63,0] = Par time Seconds (0 = 0 secs, 1 = 15secs, 2 = 30secs, 3 = 45secs) 
+
+
+
+
+
+
+
+
+
+
+
+THE LEFT SIDE OF THE MAP VARIABLES:
+[0,1] = Red Shading Level 
+[0,2] = Green Shading Level 
+[0,3] = Blue Shading Level 
+[0,4] = Fog Level (0 = No fog, 1 = fog on) 
+The Red, Green, Blue Levels can be adjusted using wall values just as you can for 
+
+the other game settings. Rippers Normal shading examples had the following 
+values: Red = Green = Blue in all the settings 
+And he used 3 different values for those settings... 0, 10, & 15. Now you can play
+
+with them, as you like to get the specific look that you want. One thing to remember 
+
+though is that depending on the age and type of your monitor, or the other people 
+
+playing your map, the colours that you see may be different to someone else’s 
+machine. So play with them carefully. Additionally, the fog level is adjustable, 
+in Ripper's original settings a value of 5 was considered fog, values over 20 are 
+extremely foggy.
+[0,5] = Crosshair Colour (again using palette values - 0 to 15 are usual values, 
+but you can 
+            use any colour from the wolfenstein palette) 
+[0,6] = In-Game Messages Shadow Colour (background)
+[0,7] = In-Game Messages Main Colour (foreground)
+[0,8] = Shading Cutoff Value
+	This determines the strength of the shading with respect to the furthest shade. 
+	A value of 0 will make the furthest shade exactly the colour specified above, a
+
+	value of 8 is the default setting, and higher values will make the shading less
+
+	pronounced overall. You can use this in combination with the fog value to
+	to create a very dark or foggy environment (although be aware lights, etc. will 
+	show through the fog).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTHER GENERAL INFO
+250 Enemies; 700 Static Sprites; 250 Visible items in any one view.
+
+Debugging Commands - Use the line option "--diehard"  (without the quotes)
+
+BackSpace-A = Automap Toggle
+BackSpace-I = Level Obejcts Inventory
+BackSpace-T = Total Score for Level
+BackSpace-F = Direction BJ is facing
+BackSpace-G = God Mode Toggle
+BackSpace-B = Free Items
+BackSpace-K = Give Key
+BackSpace-M = Automap Toggle
+BackSpace-Q = Full Map
+BackSpace-N = No Clipping
+BackSpace-C = Count Objects
+
+In-game Commands using TAB-?? Key Sequence
+TAB - U = FPS Counter Toggle On/Off	TAB - C = Toggle Weapon Change On/Off
+TAB - M Toggles Messages On/Off	
+TAB - X  Toggles the Crosshair On/Off	
+TAB - W Warp to a Level	
+TAB - R = Display Current Ratios	
+TAB - S = Shading Toggle On/Off 	
+TAB - B = Toggle Weapon Bobble On/Off	
+
+THIS IS FOR MOD PURPOSES ONLY - If you wish to use this exe as the base for 
+your own game, you can use the following mapspot to tell the game not to reset the 
+players
+values when they start each new level.  To avoid this happening, Just place A Blank 
+or 
+Undefined (0) walltile on mapspot [63][63] = no reset between levels. Also setting 
+this to 
+0 will disable the TAB-W warp command.  They will have to cheat to warp. 
+
+CREDITS
+
+Original MMC exe - BrotherTank
+New SDL MMC exe – AlumiuN
+
+With thanks to:
+ 
+MCS				AreYeP			Ripper
+Adam Biser			Tricob				Chris
+Tek-Zk				Hair Machine			Darkone
+Dugtrio17			Andy_Nonymous
+
+

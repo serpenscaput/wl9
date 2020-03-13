@@ -1,0 +1,1851 @@
+This game manual will guide you through Tristania3D,
+describing the game in full length, including frequently
+asked questions, troubleshooting, technical support, and
+special thanks to everyone who took part creating this
+computer game. First, let us see a little history.
+The Project Tristania3D was started back in 2003,
+when I had a dark-gothic girlfriend. She was the one, who
+revealed Tristania’s beautiful music for me, as well as
+militarists and dark-goths are allies, and as such, I made a
+promise to her of creating a PC game about her favourite
+band. Unfortunately, we were not meant to be together
+forever, but I always keep my promises – so I did not
+stop working on the game. And finally, after six years of
+hard work, Tristania3D finally came to life. After Vibeke
+Stene had left the band, I decided to finish working on the
+game as soon as possible – this game will serve as a
+memento for Vibeke Stene for all her fans, and of course,
+a great entertainment for all Tristania fans about their
+favourite band.Tristania3D is completely freeware, it can be
+distributed freely, copied, or shared everywhere without
+altering the game files, including the documents. You may
+not sell or ask money for this game, the emulator, or the
+songs – Tristania3D is a copyrighted property of
+Tristania and Lambda Team.
+Tristania3D was released in two different versions.
+The standard version consist the game, the emulators and
+the manual. The Collector’s CD-ROM edition includes
+the full-length original soundtrack album of the game (the
+songs which are not made by Tristania of course). There
+is no in-game difference between the standard or the
+Collector’s CD-ROM edition of the game If someone
+would want to have a Collector’s CD-ROM edition of
+the game, he should get in contact with me.
+Reactor 
+Lambda Team Contents
+[1] Technical information
+[2] Running the game
+[3] The world of Tristania3D
+[4] Hints and strategies
+[5] Troubleshooting
+[6] Frequently asked questions
+[7] Appendix
+[1] Technical information
+Official name: Tristania3D
+Developer: Lambda Team
+Publisher: Lambda Team
+Build time: 6 years
+Version: Freeware (both Standard and Collector’s CD-ROM)
+Type: Portable
+Operating systems: DOS/Windows 95/98/Millenium/2000/XP
+(The game runs on all operating systems with the emulator)
+Tools used:
+- EoD engine
+- WDC (Wolfenstein Data Compiler)
+- IMFCreator
+- AtomixMP3
+- Audio Playback Recorder 3.6
+- Microsoft Paint
+- Text-Osterone
+- MapEdit 8.4
+- Notepad
+- Anvil StudioGAME DETAILS: 
+Program: Reactor
+Graphics: Reactor
+Story: Reactor
+Sound and music: Reactor
+Levels: Reactor
+Beta testers: Tassadar, feketemacskusz, TaMáS, gaboca1222
+[2] Running the game
+Tristania3D runs flawlessly on DOS, Windows 95/98/ME/2000
+without the necessity of an emulator, and it also runs on Windows XP
+with some performance restrictions (music and AdLib sounds can not be
+heard under Windows XP, and the surround effect of sounds will not
+work either). Tristania3D can not be started under Windows Vista,
+Windows 7, and more upcoming Windows systems without an emulator.
+Along with Tristania3D, an emulator program is included to play
+Tristania3D under Windows 7 and Vista – DosBox. DosBox is also
+freely downloadable from the web.
+Tristania3D is a portable software, which means, you do not need to
+install the game itself – you can play it without installing. However,
+both emulators require installation, so if you wish to run Tristania3D
+with an emulator, you will need to install DosBox on your hard drive.
+Running the game with DosBox:
+If you want to run Tristania3D with DosBox emulator, follow these easy
+steps:1: Install DosBox on your hard drive
+2: Overwrite the DOSBOX.CONF file with the one that came with
+Tristania3D! This is extremely important, as the original
+DOSBOX.CONF file does not have Tristania3D specified, and will crash
+the game!!!
+2: Copy the Tristania3D folder on your hard drive, where the
+“Windows” “Program files” “Documents and settings” etc. are sitting
+– so directly to the root of your hard disk.
+(You can also put Tristania3D in another folder, but then you will need
+to tell DosBox where to look for it – I will tell this later.)
+3: Regardless where you put the Tristania3D folder, rename it to
+“T3D”. You can also give a different name to the Tristania3D folder,
+which I will tell later, but make sure it is under 8 characters!
+4: Create a shortcut of the DosBox main executable!
+5: Copy this shortcut into the game’s folder!
+6: Using your mouse, drag and drop T3D.EXE onto the DosBox
+shortcut you just copied.
+7: Play the game!
+Alternatively, you can run DosBox, and type “T3D” to start the game.
+How to modify Tristania3D’s folder settings:
+If someone would like to put the Tristania3D folder elsewhere, or give a
+different name to it than T3D, he shall need to open the
+DOSBOX.CONF file and modify a little bit. You don’t need to be a
+computer expert for this, but make sure you create a copy ofDOSBOX.CONF, in case 
+you mess up something you really don’t want
+to.
+Double-click on DOSBOX.CONF, and when prompted, select
+“Notepad” from the list of programs. Notepad will open
+DOSBOX.CONF.
+You will see all kinds of words and values – don’t touch them, or you
+will regret it. Instead, scroll down to the VERY BOTTOM of the file.
+You should see this:
+mount c C:\T3D
+C:
+Do not touch the “C:” at all – the interesting line is the first one. As
+you can see, DosBox is told to look for Tristania3D on the C:\T3D
+path. If you want to put the folder elsewhere, you shall need to modify
+C:\T3D.
+Here is an example. If you have a “Games” folder in your C: drive, and
+you renamed the game folder into “Tristani”, you will need to modify
+the line to look like this:
+mount c C:\GAMES\TRISTANI
+If you put Tristania3D elsewhere, than your C: drive, you will need to
+modify the “C:\” part to “D:\” or “E:\” – it depends on, where the
+game folder is.
+This might sound confusing, and difficult at first, but you will see – it is
+easy as 1-2-3! You also don’t need to configure DosBox, we already did
+it for you. In case you still experience game problems, look for the
+Troubleshooting section!
+You can close the emulator with the EXIT command![3] The world of Tristania3D
+So you made it inside the game at last – much better, ye? It is high
+time to get familiarized with Tristania3D itself. You might have seen
+official game trailers on video portals, but in case you didn’t, this part of
+the game manual will give you full description about what awaits you
+inside Tristania3D…
+I would not go into deep details about the main menu – this is
+Tristania3D’s crossroads junction. You can set the sounds, the controls,
+the screen size here, and view the help of the game. The “Read this!”
+option is a brief overview about this section of the Tristania3D manual,
+with the game’s prologue, and the most important aspects of the game,
+in case you are in a hurry, and don’t want to stroll through this entire
+manual.
+You can always access the main menu during playing by pressing ESC.
+New game
+When you start a new game, you're prompted to choose a difficulty
+level. Tristania3D offers 5 difficulty levels alltogether, which you can
+choose from. Each difficulty level has more and more enemies appearing
+on the levels, right up to the fifth - and final - difficulty level, which
+even effects thy game saving possibilities.
+Novice - The easiest skill. This is for kids and grandmas only.
+Officer - A little bit harder than the previous one, but it's far from
+being a challenge.Veteran - Average difficulty, with average amount of enemies.
+Newcomers should try this one.
+Ace - Relentless difficulty with the most enemies! If you're a true goth,
+you'll definitively choose this one!!!
+Top Ace - This one is the hardest possible difficulty, a special challenge
+for ya!!! It's similar to "Ace", except you have unlimited lives, but
+limited save game possibilities!
+Once you complete the game on an easier skill level, you might want
+to check out the ultimate challenge too. Well, hear this: so far, when
+you got killed, you just shrugged and loaded a previously saved game.
+You could, since you had the ability to save thy game in every 5th
+second. But what happens, if you lose this ability?
+At "Top Ace" difficulty level, thy limited lives are replaced with
+limited savegames. Which means, you can't save as many times as you
+would want - instead, you may start the level over unlimited times.
+Looks too hard, eh? Don't worry overly too much - you'll get a new
+savegame every time you enter a new level. Also a savegame is awarded
+after every 100000 points you collect. Above all this, picking up an
+Artifact of Salvation will give you a savegame ability as well (See this
+later). You may have 9 spare savegames alltogether. If you see you're
+about to exceed this amount when coming across an Artifact of
+Salvation, save thy game immediately, thus you'll have a "free save".
+Controls
+Tristania3D offers four methods of controlling Einar Moen -
+keyboard, joystick, gamepad, and mouse. You may configure the
+behavior or assign different keys to each of these under the “Controls”
+option, the favorized controlling method in Tristania3D should bekeyboard. The default 
+factory keyboard settings for Tristania3D are the
+following:
+Enter: Confirm
+Space: Action (Open door, activate switch etc.)
+Ctrl: Attack
+Up arrow: Move forward
+Down arrow: Backpedal
+Left arrow: Turn left
+Right arrow: Turn right
+Alt: Sidestep (must be used with left or right arrows)
+Shift: Quickness (must be used with arrows to run, and quickly look
+around)
+1: Select dagger
+2: Select PCV
+3: Select Suomi machinegun
+4: Select Sabrine MK3
+5: Select SmartGun
+6: Select Stealth rifle
+7: Select Bazooka
+9: Select bottles of absinthe
+F1: Displays the Tristania3D help
+F2: Jumps to Save game
+F3: Jumps to Load game
+F4: Jumps to sound configuration
+F5: Jumps to screen resizing
+F6: Jumps to control configuarion
+F7: End game
+F8: Jumps to Save game
+F9: Jumps to Load game
+F10: Quit game
+F11: Turns messages on or off
+Pause: Pause the game
+ESC: Quit to main menuLevels
+The game's levels - regardless of their location - will constantly
+change, as your progress is going on. While you may find the first few
+levels quite easy, or perhaps even boring, the situation will change
+dramatically in later stages. Don't you expect that a strategy which have
+worked on level 2 will also get you out of trouble in level 23. Of
+course, there are lots of useful strategies exist, which will always be
+effective during your journey, be well prepared for the increasing size
+and difficulty. Do not underestimate your enemy - they can outsmart
+you if you're not aware.
+Main types are indoor and outdoor levels. The great outdoors are
+merely different from the indoor areas. The night sky and the full moon
+may cause warmth inside you, plants are growing everywhere, and there
+are a lot less hostile entities in sight. Outdoor areas also provide
+different ways of healing yourself, yet, they also have their own hazards.
+Compared to indoor areas, they are much larger, there are very few
+doors, less secret areas, and the level exit is usually an archway or a
+seemingly locked door.
+Secret areas
+Hidden areas are an essential part of every location you visit. There
+are a number of secret areas hidden in each level. Sometimes the
+entrance to such an area may appear obvious, but often it is not! Finding
+such areas can be time consuming, but it may be well worth the while,
+after all, you can't expect the Courbée Dominate to just leave all the
+goodies lying around in the open for you! Moreover, findig hidden items
+and equipment is one thing - taking possession of them is another! It can
+be really frustating if you notice a SmartGun, or an Artifact of Life
+behind a fence, you desperately need it, but no matter how hard you tryto find a 
+way to get them, it seems to be impossible. Before you would
+start to worry, let me remind you that it's absolutely not necessary to
+look for secrets. If you find yourself really low on ammo, or your soul
+strength is lower than Marianas Trench, spend thy time looking for
+secret areas which will hold the badly needed munitions and health
+restores. Fighting off hordes of enemies with a dagger may be very
+heroic, but pointless nonetheless. It's no good bravely wielding only thy
+knife against dozens of enemies, when there may be a SmartGun hidden
+behind the wall next to you!
+Some levels may have a "super secret" area that is especially difficult
+or tricky to find. These areas generally contain something special, such
+as a huge load of treasure, a variety of artifacts, or perhaps access to
+some other kind of special area such as a secret level.
+Also keep in mind that necessary items are never hidden at secret
+areas. Hallways and rooms which are mandatory to complete the stage
+can be reached through normal routes. This does NOT mean that it will
+always be crystal clear where should you go next, the increasing
+difficulty of the game will surely effect the levels, but the necessary
+route to finish the level shall never be hidden so well that you're going
+to stuck on that location forever. However, if you do happen to find a
+key in a hidden area, it may be worthwhile trying to find the bonus area
+it opens!
+Small short-cuts between two points of the level may be also hidden,
+and since these are considered as secret areas, you may expect that they
+shall not be empty.Secret levels
+Some secret areas hold ammunition. Some other secret areas has
+treasure, edibles, or perhaps even artifacts for you to acquire. However,
+the best secret areas are those, which contain a hidden exit for you,
+leading to a secret level! Sometimes it shall be quite easy to find one,
+especially if you enjoy finding every hidden nook in the area, but
+sometimes it'll be unimaginibly hard to locate them, because it's that
+well-hidden.
+Tristania3D has 12 secret levels alltogether, twelve extra courses for
+you to enjoy! That should be more than enough. And don't think the
+secret levels are all the same! No, Sir! There are 3 different types of
+secret levels, each type has its own unique characteristics.
+Normal secret levels
+These are similar to the regular levels of the game, but are generally a
+LOT more interesting.
+Super secret levels
+Super secret levels are extremely well-hidden, and they usually have
+some crazy unique theme. Expect something different!
+Challenge levels
+If you think the other levels are tough, then you're in for a shock!!!
+Challenge levels contain our nastiest traps, the most fiendish riddles and
+hardest puzzles you ever imagined!!! You start every Challenge level with
+only your dagger and possible bottles of absinthe, every other firearms
+and ammunition is taken away from you. At the end of the Challenge,
+wonderful prizes and glorious weapons await you to reward thy
+persistence. However, if you find the level too tough, there shall be anemergency 
+exit for you near the start of the level to evacuate and
+proceed with thy task. Of course, such cowardice has its own
+punishment: You will start the next level with only a dagger!!!
+Don't be ashamed, if you can't pass the Challenges at first, they're far
+from impossible to complete. But don't get me wrong, it will NOT be
+easy!
+Tristania3D has 4 secret levels, 5 super secret levels, and 3 Challenges
+altogether. Good luck finding them!
+Armaments
+Although many goths refuse violence and weaponry as an irrelevant
+thing to dark-goth sub-culture, many of them seem to familiarize
+themselves, and come along well with weapons and firearms. Or perhaps
+not firearms, just close combat weapons. Existence and usage of
+medieval weapons are a part of the dark-goth sub-culture, such as
+swords, blades, spears and so on. Whilst these weapons surely look
+menacing, and were commonly used everywhere to rid people of their
+lives, technological advancement made all these killing tools abundant,
+and uneffective. Sure thing that their role was great in the history of
+weapons, but nowadays, in the age of long-distance guns and firearms,
+swords and spears became quite useless against machine guns and rocket
+launchers. Therefore, to achieve victory above thy enemies, you'll just
+have to get a little "modern", and use the firearms, which are at your
+disposal. Alltogether you will have 7 different weapons, which you can
+carry, and use against the odds.1: Dagger
+The dagger isn't just there as a fallback weapon for when you run out
+of ammunition. It can be used as a "silent" weapon when you want to
+dispatch an enemy without alerting others nearby. It worths mentioning
+that against certain enemies - such as Suicide Drones, the dagger is
+virtually useless. Same goes for distant enemies shooting at you, or many
+enemies attacking you at the same time.
+It goes without saying that the dagger is the weakest weapon among
+all. It's excellent to do the stealth jobs, but when you're forced to
+respond to 3-4 attacks at the same time, a dagger is less than
+insufficient. There is, however, a solution for this problem: if you could
+take possess of a special Artifact of Fury during thy journey, it shall
+effectively power up thy dagger, you will be able to kill ALL hostile
+entities with one knife thurst! See "Artifacts" section for more detailed
+information.2: PCV
+This semi-automatic 9mm pistol will be thy first firearm. It has light
+firepower and low rate of fire. While this light handgun has reasonable
+rate of fire to assassinate sole and unsuspecting enemies, it's strongly
+recommended for you to use something more powerful. The PCV uses
+standard 9mm bullets, which you can store 100 piece of - or 200, if
+you wear a backpack. In case of ammunition shortage, PCV can be a
+valuable help against Suicide Drones.
+3: Suomi machinegun
+Having successfully proved its reliability in the Soviet-Finn war, the
+Suomi machine gun is the most frequently used firearm. It has medium
+rate of fire, and consumes the same 9mm caliber ammunition the PCV
+does. This machinegun type is widely distributed along this region, many
+of thy adversaries also bear this firearm. While its firepower is effective
+for close and medium ranges, the Suomi is really inaccurate for greater
+distances.
+4: Sabrine MK3
+Sabrine MK3 assault rifles are considered an effective anti-infantry
+tool, which is only slightly weaker against heavily armored targets. The
+Sabrine MK3 uses 12,6mm rounds, which makes it stronger than
+original assault rifle types, not to mention machineguns. Ammunition is
+received through a bandolier, increasing its fire rate twice as fast as the
+Suomi. You may carry 100 bullets with you for this gun, or 200 if you
+obtain a backpack.
+5: SmartGun
+Unlike the former weapon projects, the SmartGun is a fully modern
+high caliber cannon - the strongest possible armament you will ever find.
+Its special construction ensures incredible fire rate for the cannon,double bandoliers 
+allow constant and fluent ammunition supply. The
+firepower of this gun is simply devastating, and nothing could compare
+with its great accuracy even for big distances. Originally designed against
+incoming air assaults, the SmartGun can cause terrible massacre among
+the enemy, being equally effective against infantry and heavily armored
+targets too. Just like the Sabrine MK3, the SmartGun uses the high
+caliber 12,6mm ammunition.
+6: Stealth rifle
+Rare, but extremely effective silent weapon. This sniper rifle may be
+thy primary weapon in stealth approach situations, when you need to
+assassinate an enemy without alerting everyone around with the sound
+of gunfire carnage. The Stealth rifle has a built-in advanced silencer
+along in the barrel, ensuring no sound during the "wet work". The
+rifle's firepower is strong enough to immediately mince a smaller enemy.
+One shot - one kill. It is perfect for quick-shots at incoming large enemy
+group, or taking out enemies from cover. The stealth rifle is capable all
+of that, without causing a total alert in the area you're exploring. The
+Stealth rifle uses very specialized 14mm ammunition, so I don't advise
+you to waste thy bullets on a couple of pesky guards, since you'll never
+know when can you find more. Also note that the Stealth rifle may kill
+common enemies in one shot, it's dramatically useless against boss
+enemies or heavily armored targets.
+7: Bazooka
+This bulkly weapon can be the strongest and the weakest in the same
+time. Launching armor-piercing rockets to the longest ranges for massive
+damage, the bazooka should be thy choice when fighting against multiple
+hostile entities in the same time, or encountering large groups of heavily
+armored targets, like boss enemies. A direct rocket hit will immediately
+tear smaller enemies to shreds, and thanks to the explosion radius
+damage, also wounds other enemies near the rocket's impact area. Since
+this is the only weapon, which uses explosive ammunition, it isfrequently used for 
+shooting from beyond a corner, killing anyone who
+gets near the corner's area, or setting off explosive barrels, which
+couldn't be blown away by other means. Bazooka should be thy
+favorized tool against boss enemies, especially because they are
+vulnerable for missiles and high caliber guns. Of course, even bazooka
+has downsides. Its reload time is mighty long, and it's unable to hit and
+destroy targets hiding behind a cover - like a chair, or a counter.
+Rockets cannot out-maneuver objects in their way, so make sure you
+have a clear view before attacking. It's also not advised to use the
+bazooka for small terms of combat at close ranges. The rocket explosion
+may happily damage YOU also, not only thy enemies. Technically, the
+firepower of the Bazooka can be stronger than the SmartGun, but it's
+completely useless against targets behind a cover, and in close conflicts.
+Ammunition
+Once you have some great weapons, you shall also need ammunition
+for them, which you can collect on your way from here and there. To
+create effective battle plans, it might be wise to learn about the
+ammunition, it might effect your chances greatly if you know what you
+can expect, if you happen to come across a stash of bullets. Once you
+recognize and get familiar with the different kinds of ammunition, you
+shall have no problems with firearms.
+9mm bullets
+This small pile of bullets has bright brass colour. If you pick 9mm
+bullets from a dead enemy, it will increase your grand total with 4. If
+you collect 9mm bullets pile from elsewhere, you will get 8 shots. The
+majority of the hostile entities are using 9mm caliber firearms, so they
+will drop this kind of ammunition once you bring them to their knees.9mm clip
+This dark gray loading clip has 25 pieces of 9mm bullets inside – used
+by the PCV and the Suomi.
+12,6mm bullets
+Unlike 9mm ammo, this pile of bullets has bright blue colour, and
+they are also bigger. Each pile of 12,6mm will give you 8 more bullets
+for the Sabrine MK3 and the SmartGun.
+12,6mm box
+A whole supply of 12,6mm ammunition in a box. It shall give 25
+bullets for the Sabrine MK3 and SmartGun.
+14mm bullets
+This black loading-clip has four 14mm bullets in it, which is used by
+the Stealth rifle.
+Rocket grenades
+A pair of rocket grenades for the bazooka, which will increase your
+supply of rockets with 2.Backpack full of ammo
+This heavy leather backpack contains a whole supply of various
+ammunition to all thy weapons, plus you may carry TWICE as many
+bullets as before. You may have only one backpack, so you can't triple
+thy ammunition capacity by finding a second one, although if you find
+another backpack, you still get a whole motherload of bullets!
+Also do not forget about if you die, you will lose your backpack as
+well, this means, you shall need to find a new one to increase your
+ammunition carrying capacity again!
+Soul strength
+While wandering through a level, thy biggest concern will be your
+own life. This indicates how many health you have left. Every time you
+get hit, or step somewhere you shouldn't, you lose some of thy soul
+strength. Smaller damages will take away less amount, devastating hits
+will take away a lot more. If it reaches zero, you die, and you start the
+current stage over, unless you have a saved game on that level. Never
+turn thy attention away from the SOUL marker located at the status
+bar, toying around with thy life is a really dumb thing to do. Wherever
+you go, be extremely careful - if you lose all your lives, thy adventure is
+over.
+Keeping my advice in thy mind is a good idea, but it's still inevitable
+to suffer smaller-bigger wounds, especially during firefights, and lose
+some of thy soul strength, which you should regain as soon as possible.
+The nominal amount of soul strength is always 100%, although there
+are chances to increase it beyond this value, right up to 200%! While
+wandering through areas, you will probably found certain items, which
+are capable restoring thy lost soul strength.Vial of holy water - A few drips of 
+holy water in a blue vial, picking it
+up shall raise thy soul strength with 5%. Not much, but unquestionably
+better than nothing.
+Wormwood - This type of plant is often found under this climate,
+particulary at outdoor areas. Consume fresh and plucky wormwood to
+gain 10% soul strength and feel better, right to the maximum of
+100%.
+Lord's supper - Traditional Lord's supper meal with fresh bread, and
+red wine. Taking this sacrament will restore 10% soul strength up to the
+maximum of 100%.
+Glass of absinthe - Ahh, yes, the world-famous "green fairy". Every
+goth's favourite drink is at thy service! Sipping thy absinthe will make
+you feel many times stronger, and better, restoring 25% of thy lost soul
+strength, but not beyond 100%.
+Bottle of absinthe - Drinking some absinthe to regain lost energy is a
+very nice thing. A bottle of absinthe allows you to refresh yourself
+anywhere you wish! Just like the glass of absinthe, a bottle will restore
+25% soul strength as well. Moreover, you can take the bottle with you,
+and drink it in the time of need. Just press the "9" digit button to
+select the bottle of absinthe, and the "attack" key shall commence the
+drinking procedure :) Make sure the land is clear of enemies before you
+start to drink! You may carry the maximum of 2 bottles with you, even
+if you have a backpack.Artifacts
+These holy icons can only seen and used by a true goth - such as
+yourself. Upon finding and possessing, they ensure thy personal power's
+increasement temporarily. Try very hard to get hold on them! They can
+be a key to thy success...or more often, they may mean the difference
+between life and death...
+Artifact of Life - Getting hold of this holy symbol will reward its
+owner with the wonderful gift of instant healing, boosting his soul
+strength to 125%! Moreover, if you happen to collect another Artifact
+of Life while you're on 125% soul strength, it'll give another 25% up
+to the astronomical amount of 200%!!! You would need 4 Artifacts of
+Life to reach this amount of health. Above all this, every Artifact of Life
+worths 10000 points!
+Artifact of Fury - Touching this mystical glowing red artifact will
+temporarily turn you into a knife-wielding maniac,changing thy dagger
+into an ultimate weapon of destruction. For every Artifact of Fury, you
+will get 30 seconds of carnage, when you can finish off ANY enemy
+with one dagger thurst!!! If you happen to pick up more Artifacts of
+Fury, the lifetime of Knife Fury gets extended! Very useful against
+bosses, if you can figure out how to get close enough...
+Artifact of Invulnerability - You can easily recognize this artifact. It
+emits a slight golden light, alluring you to obtain it. Doing so will make
+you totally invulnerable against all possible harms for 30 seconds, even
+traps, sludge or mugwort. Picking up multiple artifacts will extend theinvulnerability's 
+lifetime of course. Extremely useful when combined
+with the Artifact of Fury.
+Artifact of Regeneration - This holy artifact cannot be picked up, you
+must stand on it to work. While you're taking a rest at this regenerating
+artifact, thy soul strength will increase with 2% in every second, up to
+the desired 100%. You may use this artifact unlimited times.
+Artifact of Salvation - You may find these only if you're playing on
+"Top Ace" difficulty level. Grabbing this artifact will grant an extra
+savegame to thee. At other skill levels, these artifacts are replaced with
+glasses of absinthe.
+Doors and keys
+The interior design of all buildings - including gothic ones, such as
+cathedrals - involve quite a lot of doors, but you might encounter some
+doors at outside areas, too. The majority of the doors can be opened
+without any problems, others may be locked and require a specific key
+to open. There are 5 major types of doors:
+- Wooden door with iron support
+- Rusty old iron door
+- Shiny steel door
+- Automatic shiny steel door
+- Locked steel door
+Apart from locked steel doors, all of these can be opened without any
+keys. Automatic steel doors will open by itself without a late when you
+approach it, that's because the door opening mechanism is hidden in the
+floor right in front of the door. These automatic doors are identical to
+ordinary shiny steel doors, so it's impossible to tell from a distance
+whether or not that shiny steel door opens automatically or manually.
+Automatic doors may hold unpleasant surprises behind'em - perhaps anambush - so always 
+ready thy weapon just in case the door would open
+to a room full of Acolytes and such. Wooden doors, rusted iron doors
+and locked doors will never open automatically.
+Opened doors will automatically close in 3-4 seconds, if there is no
+obstacle present between the door frames. In other words, if something
+is in the door, it shall never close back again, no matter what kind of
+door it is. This information might be useful, since it's always safer to
+shoot from the doorway rather than going inside or stepping outside and
+opening the door over and over again. As long as you stay between the
+door frames, it won't close back - the same thing happens if an enemy is
+in the doorway. If you want to keep a certain door opened forever,
+shoot down someone between the frames, thus blocking the door and
+leaving you a quick escapeway open.
+Many or your enemies are also capable of (and willing to) open doors,
+EVEN locked ones. Of course, not all enemies has the key for particular
+locked doors, but sometimes they can open locked doors if you allure
+them nearby. Use this at thy own advantage: shoot the enemy between
+the door frames, so the locked door will never close back, and you will
+not have to look for the key. Note that enemies can't open all locked
+doors, and smarter ones also will not leave their safe spot either if they
+suspect you're trying to get them one by one!
+At special cases, boss enemies will drop a key after they die, so search
+their carcass if you can't seem to find the key elsewhere.
+There are 4 keys in the game alltogether, which will open 4 different
+doors. These are all made of hardened steel, and are impossible to
+penetrate with brute force, so you'll need to obtain the corresponding
+key for them. One key can be used to all doors with the same lock. At
+every new level, you'll need to find new keys though. It would be a
+little too dumb to have a same lock for ALL locked doors, don't you
+think?Gold key is bright yellow, and opens doors with bright orange locks.
+Blood key is dark red, has a skull ornament at the end, and opens doors
+with dark red locks.
+Bronze key has bright brownish bronze colour, and will open doors with
+brownish locks.
+Gate key is large, pale rusty brown-coloured, and will open the black
+obsidian gates, such as elevator doors.
+Not all elevators are locked. Sometimes you don't need an elevator
+key to access the next stage. If you don't see a keyhole on the exit
+door, you don't need to worry about finding a key for it. However if
+you find an elevator key in a secret area, this could very easily mean
+there is a secret exit somewhere in the level, which takes you to an
+extra level!!!
+Locked doors without a keyhole are sealed tight, and are impossible to
+open, so don't even bother.
+Treasure
+Seasons changed, decades and centuries came to pass since the
+formation of the first fissure gates, and the Courbée Dominate remained
+hermetically sealed from the world, silently growing and expanding in
+secrecy. The only proof of their existence was indirect and insignificant -
+appearance of mysterious hooded figures, who shortly vanished in thin
+air along with certain amounts of provisions, household equipment, raw
+material...and gold. Waiting in a state of sleep until the time was right,
+having the ability to reach anywhere through the fissures, the CourbéeDominate collected 
+a gigantic amount of gold, jewels, gemstones,and
+devotional articles, slowly but constantly. This enormous mass of
+treasure is hidden well inside the bowels of the falanster away from
+prying eyes. Depriving them of their ill-gotten wealth (and lining thy
+own pockets during the process) will give smaller-bigger increasements
+to your score, as I will tell you shortly. Although none of the treasures
+own any obvious magic, extra lives are granted after every 40000,
+60000, 75000 or 100000 points, depending on the difficulty level
+you're playing, except the fifth difficulty level, where you get a new
+savegame possibility after every 100000 points.
+Purse of coins - 100 points
+Gold chalice - 500 points
+Chest of jewels - 1000 points
+Gold crucifix - 2500 points
+Crown - 5000 pointsEnemy profiles
+1: Acolyte
+Class: Human
+Speed: Very slow
+Armor: Very light
+Weapon: PCV
+Firepower: Light
+Referred simply as "initiates" by the Alliance, Acolytes are regular
+members of the Courbée Dominate. They wear identical hooded brown
+robes with pale golden belt, like executioners. Although their
+appearance might be quite menacing, they don't possess any
+supernatural powers - each one owns a PCV handgun, this is all they
+need to accomplish their duties. Recent reports have stated that the
+Courbée Dominate has hundreds of Acolytes, which means, they could
+appear simply anywhere. Yet, even these great number of Acolytes can't
+compete with you or the Alliance operatives. There might be hundreds
+of them - maybe thousands - but their firearm handling skills and
+accuracy are mighty low, except if an Acolyte fires his gun directly in
+your face. Usually, they mean considerable threat only in large attacking
+groups.Acolytes have access to most of the places inside the falanster, they
+can open doors, sometimes even locked doors, and if you wound them,
+they can benefit from the provisions lying around – they can collect
+health restore items, and heal themselves. The only exception is
+wormwood, as they don’t seem to know this type of plant.
+2: Black Apostle
+Class: Human
+Speed: Slow
+Armor: Medium
+Weapon: Suomi machinegun
+Firepower: Heavy
+Black Apostles are higher-class majesties in Courbée Dominate,
+malevolent prayers of evil with only one goal: Serve the Courbée in
+every possible way and spread the dogma everywhere. Like the lowerclass Acolytes, 
+they also wear hooded robes, however, their robe is
+coloured all black. Instead of PCV handguns, all of them has a Suomi
+machinegun. Unlike Acolytes, Black Apostles are smart, ruthless, and
+very dangerous. Their weapon can riddle you with bullets in matter of
+seconds, killing you almost instantly! In addition, the black robe they
+wear has an enchantment. This powerful defensive spell HALVES every
+damage they take - which means, it takes more than just a couple of
+direct hits to bring them to their knees. Should you encounter a bigger
+group of Black Apostles unsuspectingly, and you will pay dearly - with
+thy life!!!
+Black Apostles, however, are similar to Acolytes in the aspect that
+they can open most doors, even locked ones, and they can collect
+edibles, if wounded – take this into account, and don’t let them snatch
+the goodies away from you (the only exception is wormwood).3: Priestess
+Class: Human
+Speed: Fast
+Armor: Medium
+Weapon: PCV
+Firepower: Medium
+As harmless and cute they look, do not be fooled by their seemingly
+innocent appearance - the Priestesses are considered the highest class
+majesties in the Courbée Dominate's hierarchy structure. Opposing the
+Catholic Church in this aspect as well, these women are the real leaders,
+whilst Black Apostles, Acolytes, and other Courbée Dominate members
+are inferior, and as such, they are the possessors of both conventional
+and supernatural powers (it's commonly whispered that their role of
+keeping authorities away from this incident was unquestionable). Their
+duties tie them to certain places, such as temples, abbeys, shrines, so
+they're expected to be common at higher stages of the falanster, almost
+never appearing at lower-class areas. Their duty does not involve
+patrolling or protection, therefore their sole armament is a PCV pistol
+for self-defense purposes. Still, this does not mean you can take them
+lightly. Like Black Apostles, their black robe is also infused with
+defensive spells, halving every damage they take, and ensuring them
+bigger "durability". Never EVER let them live, just because they're
+women. When you see one, ready thy weapon and FIRE!
+Priestesses also can open doors, and collect provisions if you wound
+them, except wormwood.4: Drone
+Class: Subhuman
+Speed: Slow
+Armor: Medium
+Weapon: Twin PCV
+Firepower: Heavy
+These hostile entities have two different names, not just one. The
+Courbée Dominate calls them Rokkinoks, and the Alliance named them
+as Drones. And what are they? Gather a couple of unbaptisted people,
+burn them alive, collect their ashes, and add a pinch of black magic - this
+is what you get. A mindless, bipedal abomination created for simple,
+small tasks even they could accomplish. Never eating, never sleeping,
+never question anything, they're ideal serveants for solving small issues.
+Killing someone is simple enough. Despite their sheer dumbness, Drones
+are extremely dangerous hostile entities. Can you hear them? Can you
+feel them? No. Not having the ability to talk at all, they will not
+produce a sound. To spot them before it is too late, you'll need to rely
+purely on thy eyes. And just in case this is not enough, Drones are
+armed with dual PCV pistols, capable of dealing TWICE the damage as
+an Acolyte. Luckily, the spell which keeps them alive is not particulary
+strong...a few hits, and they revert back to their original form. Ashes.
+Although the Drones are extremely dumb, they managed to learn,
+how doors work, so they could open the doors, maybe even locked
+ones, but – they can not heal themselves! Since they’re brought to life
+by an evil spell, and have no “health” of their own, they totally ignore
+all health restoring items. If they can not heal themselves, it is only a
+matter of time, when they receive enough hits to break the evil spell,
+and make them die…again.5: Suicide Drone
+Class: Subhuman
+Speed: Very fast
+Armor: Very light
+Weapon: Satchel
+Firepower: Very heavy
+Suicide Drones don't bear any firearms. Instead, they have a high
+explosive satchel charge strapped on their body - with strict orders
+telling them if they spot a stranger, they'll need to use them! Moving
+around VERY quickly, and not making a sound makes these Suicide
+Drones unimaginibly dangerous. Once they got near the target, they set
+off the detonator, killing or severely wounding anyone nearby (this
+includes rickety columns and flammable barrels as well). ALWAYS keep
+a good distance away from these walking bombs. Suicide Drones do have
+a weakness though. Thanks to their lack of logical thinking, they will
+immediately stop before setting off the explosives (their so-called
+"brain" can focus only on one thing at once), giving you a second to
+quickly retreat and shoot him down. Suicide Drones also can't think
+about how much havoc they wreak by wandering around in a flock of
+enemies, giving you a nice opportunity to cause an overkill by attacking
+the Suicide Drone.
+Drones are pathetic and stupid beyond belief, but Suicide Drones
+unquestionably stand out – they can’t even open doors, and like
+standard Drones, they also can’t regain lost health by consuming
+provisions.6: Tasoth
+Class: Unknown
+Speed: None
+Armor: Heavy
+Weapon: Longbow
+Firepower: Very heavy
+Although we do have information regarding to the whereabouts of the
+Tasoths, it's still inconclusive what are they. Their appearance shows that
+Tasoths are gargoyle statues which were brought to life by an evil spell,
+though some other people say they are also Drones, dressed in a
+resistant armor suit. It's not easy to study something which explodes to
+particles upon dying, and kills you in seconds when alive. What we DO
+know is that Tasoths are entirely different from every other enemy:
+their lower portion forms some kind of pulpit or dais, which makes them
+a static enemy - they can't move to anywhere. The upper portion of
+theirs is obviously humanoid, wearing a thick armor and a helmet as
+well. The behavior of the Tasoths suggests that they're definitively not
+human, as they constantly rotate in their pulpit like an automata, with
+their wide longbow raised - this is their weapon. Fighting a Tasoth can
+be pretty easy sometimes, as if they're turned away from thy direction,
+you have the opportunity to blast him with everything you got - but
+once he start to rotate back to your direction, you BETTER get out of
+his sight...and FAST. Instead of arrows, they shoot extremely powerful
+armor-piercing rockets continuously, once they spot an enemy. If you're
+happen to be right in view when this happens, say a quick farewell to
+this cruel world. Taking down a Tasoth requires heavy firepower, lots of
+direct hits, and a good hiding place.Boss enemies
+Superdrone
+Class: Subhuman
+Speed: Medium
+Armor: Very heavy
+Weapon: Twin bazooka
+Firepower: Very heavy
+Just in case original Drones are unable to successfully stop you, quite
+a few Superdrones were also created solely for the same purpose. These
+disgusting life entities has twice of the size of a standard Drone, and
+instead of pistols, it bears two bazookas...bad news. Superdrones'
+firepower is far enough to send anyone to the graveyard in two shots,
+even if you have full soul strength. Lucky for you, the Superdrone is just
+as dumb as powerful, so with a little finesse, you have a great chance of
+fighting them and survive. First of all, their accuraccy is deplorable for
+greater distances, giving you many opportunities to outmaneuver his
+rockets. Secondly, since the Superdrone doesn't possess a brain which
+would worth mentioning, he doesn't care whether or not there is
+something in a way when he sees you - he'll keep attacking regardless he
+can actually hit you or not. Hiding behind objects, a grate or a
+balustrade will ensure 100% safety for you against Superdrones. His
+rockets harmlessly impact on the obstacle in the way, while you can
+engage him full time.
+Suffice to say that Superdrones are many times stronger than standard
+Drones. They can open doors, but even more strange is that they can
+consume provisions, like absinthe or Lord's supper, which standard
+Drones can't. It is yet unknown how the Superdrone benefits from
+consuming foodstuffs, but seeing their superior nature compared to
+standard Drones, it is not impossible that these advanced forms can
+actually heal themselves by consuming provisions, much like human
+beings.Ultradrone
+Class: Subhuman
+Speed: Medium
+Armor: Very heavy
+Weapon: Sabrine MK2
+Firepower: Heavy
+The most powerful and fearsome among all these disgusting creatures
+is the Ultradrone. He looks an awful lot alike the Superdrone - he has
+the size of a phone booth, and makes no noise when he spots you.
+Seemingly, the Ultradrone is weaker, as it has only a Sabrine MK2
+instead of twin bazookas. The difference only becomes obvious after you
+bring an Ultradrone to his knees. A slightly different evil spell was being
+used upon these slobs, meaning that it may stay dead...but it may NOT!
+Capable of regenerating himself quite a few times, it will take more
+ammunition to eventually break the Ultradrones' spell. You'll soon learn
+to fear even their lifeless grotesque face staring at you!
+It is needless to state that Ultradrones are capable of everything what
+a Superdrone can do - they can open doors, and consume foodstuffs. At
+their case, eating and drinking seems to be logical and parallel to their
+reanimating behaviour.
+Unstoppable
+Class: Human
+Speed: Medium
+Armor: Very heavy
+Weapon: Twin Sabrine MK2
+Firepower: Heavy
+Nomen est omen. These intrepid elite guardians are protecting the inner
+falanster against anyone who turned out to be so lucky to survive theSuperdrones 
+AND the Ultradrones and somehow gain access to the
+higher regions of the fortress complexes. Unstoppables are the mightiest
+warriors the Courbée Dominate could offer - their menacing red armor
+protects them extremely well, and they are all equipped with modified
+Sabrine MK2 assault rifles - not just one, but TWO. The only thing
+which could make them stop is death - which, judging from their
+abilities, will not come easy for them. They can also open doors,
+however, they can not consume any foodstuffs or provisions, because of
+the armorsuit, therefore they do not heal themselves.
+Scoring
+As you previously read, Tristania3D has a built-in scoring system.
+Points are awarded for collecting treasure, striking down on the sinful,
+and maybe after completing a level. The scoring system is pretty easy to
+understand.
+Collecting thy score may be very useful, as extra lives is awarded for
+certain amounts of score, as it was described earlier. It shall be really
+important for you to score as many points as you can, especially if you
+are playing on “Top Ace” difficulty level, where you may get a new
+save game after every 100000 points! Upon collecting towering amount
+of points, you also have a fair chance to earn a place at the High Scores
+board.
+A death of enemy = points for Einar Moen!!! Once you get rid of a
+hostile entity, you shall be awarded with various amounts of points for
+thy efforts. It does not matter if you killed them with thy own hands, or
+lured them into a trap…for every enemy that dies, you shall get
+different amount of points.
+♦ 200 points for an Acolyte
+♦ 200 points for a Suicide Drone
+♦ 500 points for a Black Apostle
+♦ 500 points for a Drone♦ 400 points for a Priestess
+♦ 800 points for a Tasoth
+♦ 1000 – 10000 points for boss enemies (Superdrones, Ultradrones,
+Unstoppables etc.) The tougher they are, the more points you will get!
+The third method of obtaining score is connected to level completion.
+Usually, at the end of the levels, you will get an evaluation of thy
+efforts:
+- Level completion time
+- Kill ratio
+- Secret ratio
+- Treasure ratio
+The level completion time shows, how quick you were, how soon you
+have found the exit. If you can beat the par time, that is shown, you
+can get various bonus points for thy quickness. This might be pretty
+simple on the first few levels, but on later, it will be MUCH wiser to
+walk through the death-infested zones carefully and cognizantly rather
+than just rushing to the exit “dead on time”.
+The kill ratio indicates how great percentage of enemies you’ve
+managed to assassinate on thy way through the area. If you’ve killed
+every enemy, you shall get 100% percentage, and 10000 bonus points
+as well!
+The secret ratio shows how many secret areas could you find. Should
+you be so skillful to find every secret on the level, you will get 100%
+for secret ratio, and another 10000 bonus points!
+The treasure ratio works pretty the same – how much valuables could
+you collect on the area. Bags of gold, chalice, box of jewels, crucifix,
+and crowns. If you could find every little bit of gold in the level, there
+goes a third 100% for thy persistence, and another 10000 points! Sowe can say, if 
+you receive 30000 bonus points at the end of the level,
+you did a perfect run!
+Certain levels – such as secret levels, and boss fight levels – does not
+have any evaluation at the end, as the ratios do not count against thy
+grand total upon completing Tristania3D. Instead of par time-kill-secrettreasure 
+ratios, you will get a fixed amount of various extra points at the
+end of these special levels. This does NOT mean there are no secrets or
+treasure on these special floors, but they will not get added to thy grand
+total. Still, you should look for these…it will effect thy score, not to
+mention the ammo and soul strength…
+Environment & hazards
+During your journey through the land of unknown, you will have to
+watch out not only for the Courbée Dominate serveants, but the
+environment as well. As it is written in the story, the Courbée Dominate
+has its very own method and security measurements to remain isolated
+from the rest of the world, and keep away any unwanted visitors. The
+frequent patrols of Acolytes, Drones, the Unstoppables are just one of
+these security methods. Quite frequently, your greatest adversaries may
+be the various lethal traps, and hazards you will come across. This
+section will give you a brief instruction about the interior design of the
+falanster, the various security devices, and traps.
+Mugwort
+You may easily stumble upon small clumps of mugwort at the great
+outdoors just as well as wormwood. Unlike wormwood however,
+mugwort is quite poisonous, and will take away 16% of thy soul
+strength! Since mugwort is somewhat similar to wormwood, always
+examine both before you decide on consuming something which growsin the wild, as 
+being poisoned by mugwort wouldn't be pleasant
+experience.
+Stone coloumns
+Wandering around the fortresses and indoor areas, you'll soon come
+across dark stone columns, which may block thy way, and may even
+seem to hold something behind them. Some of these columns are very
+rickety, and may be easily knocked down by gunfire or explosions.
+Should you run too low on ammunition, you may prefer to use your
+dagger for knocking down these pillars, and see if there is anything lies
+behind to collect. If you have secured the area, you might want to
+spend some minutes to check out whether or not some of these pillars
+can be destroyed, there might be secret areas behind them. Also don't
+forget that not all pillars can be knocked down.
+Sludge pools
+These green spills of disease are commonly seen at storage areas, dark
+abandoned corridors, and aqueduct lines. This green sludge is extremely
+poisonous and acidic, it can eat through leather and flesh, causing
+serious injuries. Avoid these puddles of sludge – strolling through will
+heavily decrease thy soul strength.
+Explosive barrels
+The lack of electricity and the frequent usage of torches requires
+many fuel. These petrochemicals are stored in red barrels until the time
+of need. Judging from their colour, it's pretty obvious that these oil
+drums are highly explosive, and should be kept away from heat,
+including gunfire. Walking around them is perfectly safe as long as you
+don't shoot them. Once they get hit by bullets or get in contact with
+explosions, they shall blow up, killing or heavily damaging anything
+nearby - including YOU! Being at 100% soul strength, you can survive
+ONE explosion, and not more. For thy own sake, stay away from the oildrums, and always 
+keep a safe distance if you intend to blow them up
+anyways.
+Exploding oil drums are well-known of their destructive property, and
+they can be used very frequently as an advantage by alluring enemies
+nearby, and then shooting the barrel. The explosion is powerful enough
+to tear smaller enemies to shreds, and even seriously damage the bigger
+ones too. An exploding oil drum can also smash down rickety columns,
+and set off all barrels nearby in a chain reaction, causing a HUGE
+explosion. Never forget about this when setting off the fireworks! Oil
+drums can be your friends, but also your enemies. Mind that not all oil
+drums will explode, as some of them are probably emptied, and will not
+participate in causing some havoc. You cannot destroy these.
+The second thing why these explosive barrels considered dangerous is
+the aftermath of their destruction. Many drums start a huge fire which
+can not be extinguished, and will also not go off by itself. Some barrels
+will leak dangerous toxic fluids upon exploding, stepping in these
+puddles will cause major damage to your health. While you can safely
+run through the fire, and will not burn yourself too seriously even in
+you stand in there for a few seconds, you will suffer a lot, if you decide
+to step onto a toxic spill. Avoid these hazards,if possible.
+Tripmines
+Another less obvious traps are the tripmines, planted mostly at
+outdoor areas, although some floors may have indoor tripmines as well.
+When wandering outside under dark skies, keep your eyes extremely
+peeled for them. Stepping on these will set off the explosion trigger,
+causing GREAT damage on ya. This must not be. Maybe with careful
+looking you can track the tripmines down, and thus, you can avoid themonce you spot 
+the suspicious-looking lumps on the ground. Never pass
+over one, unless you've obtained an Invulnerability Artifact.
+Spike traps
+At indoor areas, tripmines are usually replaced with spear traps. These
+huge needle-sharp spikes are installed in the ceiling and the floor,
+moving up and down, stabbing the unfortunate victim to death. And if
+that's not enough, the spears are treated with quick killing poison too.
+No chance for you to get through these, except if you've found an
+Invulnerability icon, avoid these at all costs.
+Incinerators
+Incinerators – or fireball launchers – are widely used at both indoor
+and outdoor areas, and proved to be extremely effective. A system in
+the wall constantly fires fireball projectiles in a straight line, creating a
+deadly obstacle, which is difficult to pass (or at least it requires good
+timing). These wall systems can be easily recognized, and sometimes you
+can turn them off with certain wall switches, putting an end to a lifethreathening 
+device. However, sometimes the fireball launcher cannot
+be turned off, and I can tell you all about it, you'll need quick
+movements and finesse to avoid being toasted! Training makes the
+master!Switches
+These contraptions are also installed in walls – they control many of
+the Courbée Dominate’s security systems. They have two different state:
+ON and OFF. Although all switches look similar, there are two different
+kind of them (apart from the elevator switch of course), controlling
+different mechanisms.
+The first type of switches controls various pushwalls. Just like secret
+doors, it is not marked, which portion of which wall can be moved away
+by that switch, but sometimes, it will be quite obvious. These pushwalls
+can be only opened by that particular switch, pushing it with bare hands
+will not start the mechanism. Once you pull the switch, it will pull or
+push that particular wall portion, which the system is assigned to, and
+the way to somewhere will open.
+Most of the time the consequences of throwing a switch on a wall will
+be immediately evident. But sometimes it won’t! If you activate a wall
+switch and nothing seems to happen, then perhaps it’s because the
+action triggered takes place elsewhere in the level. Who knows, maybe
+it’s the first step on your way to finding a Super Secret area?
+Always be very cautious, when activating a suspicious-looking switch.
+It may seem pretty harmless, but an unknown switch can activate a
+lethal trap just as it can open a vault full of treasure!!!
+The second type of switches are installed to incinerators. With them,
+you can turn certain fireball launchers on, or off.
+Fissure gates
+These time-space anomalies are one of the Courbée Dominate’s most
+advanced magic spells and weapons – even if it does not like a weapon.
+This is that otherworldly-looking, squirming red vortex hovering in mid
+air you came through at the beginning of the game. Stepping inside
+them will instantly teleport you some place else.
+Every fissure gate is a one-way trip to a location unknown, which
+means, if you want to return to the previous area, you just have tolocate another 
+fissure gate, which - probably - leads you back. If you're
+unlucky, you'll choose a gate taking you to a death-trap, or some place
+where you DEFINITIVELY don't want to be. Enemy reinforcements
+from distant areas also coming through these fissure gates, which means,
+most of thy adversaries can use them too.
+Wormholes
+A slight modification of the visible fissure gates – but unlike fissure
+gates, these anomalies are completely invisible, so it is absolutely
+impossible to tell where a wormhole is – you will only know it is there,
+when you already stumbled upon one. The purpose of these wormholes
+are quite the same with every other trap. It is not used by none of thy
+enemies, the role of wormholes is keeping unwanted visitors away by
+teleporting them somewhere. Wormholes are not necessarily dangerous
+themselves, but they often teleport you to a trap, hence, they are
+considered as traps.[4] Hints and strategies
+Friendly fire
+Spikes, tripmines, incinerators - getting through these hazards is no
+doubt very difficult, if not impossible. Tangled in the web of deathtraps, and being 
+encircled by dozens of enemies - it seems no one will be
+able to rescue Vibeke...
+Wrong!!! Treating these death-traps as mere hazards is just too simple.
+Why wouldn't you use these for your own advantage? If a horde of
+enemies is after you, just lure them into a nearby spike trap, fireball
+stream, or a couple of tripmines - and there. Problem solved. Give them
+a taste of their own medicine! It'll save you a LOT of trouble, soul
+strength, and will provide you with fresh ammunition too! Possibilities
+are limitless; if your firepower is just not enough to handle the odds,
+retreat into the safety of a nearby death-trap. Those freaks will blindly
+march into their doom, while you laugh at them in your safe hidey hole,
+and the score of yours constantly increase. But beware!!! Some hostile
+entities may anticipate your movements, and will avoid these traps,
+knowing what you're thinking about!
+Brains, not brawn!
+Having your soul strength at 100%, bearing a SmartGun with a
+truckload of ammo is an extremely good thing, try to keep this state up.
+However, studying your environment, learning what surrounds you, and
+what could you expect proved to be much more effective. You may win
+battles with brute force, but sooner or later you shall find yourself in a
+situation, where weapons and full health seem to be insufficient. This is
+when you must use your most powerful and most underestimated
+weapon: your own brain.If you come across a puzzle which does not seem to make any 
+sense,
+try harder. Every button, every lever has its own effect. Obviously,
+none of the logical riddles and puzzles are frustatingly difficult, but if
+you had a hard day behind you, and you keep failing to cross that big
+chamber with lots of enemies, try something else. If the regular tactics
+fail, look around a little. Maybe that switch on the wall shall activate a
+fireball launcher, and you can cross the walkway without fear?
+One thing is sure: Every sticky situation has its own solution. Just use
+thy brain, create some plans, and you will figure it out sooner than you
+think!
+Allure of darkness
+If there is only one entrance to a certain area, try to lure the guards
+to come out to you. This will make it easy to pick them off one by one.
+However, don’t expect this tactic to always work. Some guards are
+clever enough to use the same strategy and will wait for you to come in
+to them!
+Stack up supplies!
+Apart from the soul strength, and protection I just mentioned, you
+will also need to worry about the ammunition. Should you run out of
+ammo, and stronger enemies will finish you off in matter of seconds,
+even if you own Knife Fury. Lucky for you, many locations hold supplies
+for you...sometimes a whole truckload of supply, much more than you
+could carry. Do not waste them! If you cannot pick up a crate of
+ammunition, or a glass of absinthe, just leave it there, memorize its
+location, and proceed with your task. Trust me, if you carelessly fall in a
+death-trap, or the exit chamber is stuffed with enemies, you will
+REALLY need that ammo crate or glass of absinthe!
+Keep in mind that thy soul strength will not just recharge between
+two levels all by itself! In other words: if you take the exit with 12%soul strength, 
+you shall begin the next level with 12% soul strength!
+And who knows - maybe there will be no restoring opportunity in sight!
+Perhaps a quick sweep through the emptied level could solve this
+problem - obtain the supplies you left behind, and your chances of
+survival will increase astronomically!
+But that room was empty!
+Many areas are subjects to roaming enemy patrols, and if initiates are
+being attacked in a certain area then reinforcements could be sent in to
+investigate. So never assume that just because you’ve cleared an area of
+enemies that it will stay that way. A number of thy enemies may be used
+to seeing death and thus may be stupid enough to dismiss a dead
+comrade’s body, thinking that a faulty Suicide Drone mishap happened
+there, but some enemies patrolling through areas you’ve already visited
+will notice the carnage you’ve wreaked on their buddies and will come
+looking for you, no matter where you are! There might be also
+reinforcements pouring through fissure gates to the location, where you
+are. In short, learn to watch thy back if you wish to stay alive.
+Find the going too tough?
+There is a hidden cheat installed in the game in case you're in a
+hopeless situation. Pressing the H A C keys simultaneously will
+immediately boost your health to 100%, and increase your ammunition
+to the maximum for all guns. But before you'd get too fulfilled with
+joy, let me tell you that this cheat will NOT give you backpack, guns, or
+keys! Only soul strength, and ammunition. If you can't find the gold key
+for the locked door, this cheat will not help you...at all.
+Also take into account that cheating through the game has its own
+punishment. Enabling this cheat will make your score go down to zero,
+and will stay that way, no matter what. If you cheat, you cannot get a
+high score, or any benefits coming with earning high score. You mayrestore your scoring 
+ability by loading a previously saved game BEFORE
+you applied the cheat, or starting a new game.
+At the fifth – “Top Ace” – skill level, this cheat shall not activate.
+[5] Troubleshooting
+I wish I could say Tristania3D is free of any errors and glitches. The
+reality is, however, Tristania3D also has a small collection of bugs which
+could not be tracked, or its correction method is yet unknown. None of
+these glitches are particulary severe, nor will they smash your operating
+system, but in rare cases, they may disturb gameplay, and interfere with
+your progress, therefore I need to mention a few things about them.
+Tristania3D abruptly freezes during gameplay or crashes with "Divide
+error"
+It is unknown what causes this error, and it's extremely rare indeed -
+mostly you will meet this happening after long, extensive hours of
+gameplay with a lot of saving and reloading. Most likely this error is
+caused by some "memory leak" deep inside the core. We could not
+determine what causes the crash exactly, but it's commonly whispered
+that some data fragments are starting to leak out of the player's data,
+eventually reaching critical mass, and crashing the game. Notably, this
+event never happens when Tristania3D is ran directly under Windows
+XP, so it seems the DosBox emulator doesn't like something the game
+would like to execute.
+Another possible reason is that the DosBox emulator configuration is
+not met with Tristania3D's system requirements. It's HIGHLY
+recommended that you use the DOSBOX.CONF file included with the
+game, since it is set to the requirements of the game, those are the failproof configurations. 
+All you need to do is overwrite the oldDOSBOX.CONF file with the included one after 
+installing DosBox. If
+the DosBox configuration is not correct for Tristania3D, the movement
+will be choppy, and Tristania3D will crash quite frequently. Just
+overwrite the DOSBOX.CONF file with the one I put in the game
+folder, and this should fix the problem.
+Tristania3D will not start under Windows Vista
+This is a major error in Windows Vista - it's not Tristania3D's fault.
+Windows Vista is one of the worst operating systems in the known
+universe, it can't run the great majority of the programs, Tristania3D is
+just one of them. If you have Windows Vista, you should install DosBox
+emulator or Microsoft Virtual PC to run Tristania3D. Or better, get rid
+of Windows Vista for all eternity - I say it, as a computer professional.
+Tristania3D will not start under Windows 7
+Similar to the problem I mentioned earlier. Windows 7 is far from being
+perfect (although it's unquestionably better than Windows Vista), but it
+can run Tristania3D flawlessy, if you install one of the emulators.
+DosBox or Microsoft Virtual Machine - your choice.
+Tristania3D has no music and certain sounds are missing under Windows
+XP
+Tristania3D uses an own audio device which is not clearly recognized by
+Windows XP. Windows XP can run Tristania3D, but with only these
+restrictions. If you run Tristania3D using the emulator, this problem will
+never appear (Tristania3D uses digitized sound, but the music is from its
+own sound source, and therefore, Windows XP can't use it).Tristania3D crashes at 
+level 24
+This error have been corrected, and should not appear at all. It was
+caused by a malfunctioning Sabrine MK3 and two Superdrones outside
+the falanster's courtyard. Once I got rid of them, the game was working
+fine.
+Tristania3D's sounds get messed up at level 11, and the game freezes at
+quitting
+This error only happens, if you're running Tristania3D from directly
+under Windows XP, not using an emulator. It is yet unknown, what
+causes this error, but it messes up something at the sounds structure,
+and will eventually crash the program upon quitting. If you meet this
+error, just save the game, quit with Alt+Enter, and externally close the
+program. Upon restarting, Tristania3D should work just fine.
+Enemies display the wrong graphics when killed
+Also a quite mysterious glitch - and also a very minor glitch. Drones and
+Priestesses could show weird graphics upon killing, if you kill them
+unalerted with Knife Fury power. I don't have the slightest idea about
+why they turn into weird glitched graphics when you stab them to death
+unalerted, but it happens when it happens.
+Another occassion is, when Suicide Drones are not killed right away - it
+happens with the Suomi machinegun. Since the sole shots of the Suomi
+are weaker than PCV shots, at very rare occassions, they won't kill the
+Suicide Drone, only wound it. However, Suicide Drones doesn't have
+any "wounded state", so they'll show the wounded state of an Acolyte.
+Very minor glitch.As for Ultradrones, they also can show weird graphics, when they 
+step
+onto a tripmine and then, respawn. This particular glitch is caused by an
+exception, since Ultradrones were not set to walk on tripmines. So when
+it happens and they respawn, they will show distored graphics. If these
+minor bugs really disturb you, just save and reload the game, and it will
+work fine.
+Spear traps disappear after many enemies walk on it
+This is not a bug, it's a feature of realism. Sooner or later, spear traps
+will "overload" and break, thanks to the many corpses, you ought to be
+ready for this when you lure the bad guys into "used" spear traps.
+Suicide Drones can wreck spear traps quite soon. Shiny new spear traps
+will work just fine, used ones will become out of gear much easier.
+My bazooka will not fire anything
+Also not a bug. Heavy weapons often tend to get jammed, especially if
+they are frequently used, so you should never rely your life on one
+armor-piercing rocket - your bazooka can get jammed, or perhaps the
+ammunition you've picked up was a fake/blank shot. As a compensation,
+Tasoths and Superdrones could also have malfunctioning weapons.
+Rockets seem to disappear when flying through doors
+They don't disappear, only the image - so don't you worry. Doors was
+set to stay open once a rocket flies through them, somehow this causes
+the image of the rocket to disappear. This does not happen with the
+enemy's launched rockets.Rockets pass through boss enemies
+This only happens with enemy rockets, not yours. Superdrones' and
+Tasoths' weapons are slightly different - they are more powerful, so they
+can blast a hole through Ultradrones, who are made of ashes, and
+Unstoppables, who have very thin armor at their back (a rocket into the
+Unstoppables' back can kill them instantly). We could make their rockets
+explode upon colliding with a body, but in this case, they would be
+much more resistant to rockets, so we decided that let the enemy
+rockets pass through their body, causing them more severe wounds.
+Enemies are dying for no reason
+Also not necessarily a bug. If you hear explosions and death screams in
+the background, it usually means Twirl and his friends are in the area,
+and are fighting the Courbée Dominate's flunkies, and this is what you
+hear. They might be also dying from their cleverly set up traps, while
+rushing towards you. Every enemy death has its own reason...
+At early stages of development, this glitch - called Sudden Death
+Syndrome - was quite frequent, particulary at outdoor areas. The reason
+was the great number of alerted enemies. If too many enemies were
+alerted, some of them died suddenly, often with incorrect graphics. This
+has been fixed, so no more Sudden Death Syndrome.
+Objects and enemies start to blink
+This very minor glitch only happens, when there are many objects and
+corpses are in Einar's field of vision, and the program is unable to draw
+all of them. Supposedly, this error was corrected, but if it happens, just
+change position, and you'll be fine.My gun freezes at shooting state
+Don't worry, only the graphics freeze, not the gun. It happens,when
+you teleport with your weapons blasting. Just fire a shot, and it'll go
+away.
+Tristania3D crashes with "Too many static objects!" error message
+Ahh, yeeeees, the world-infamous "Too many static objects!" error,
+everyone's favourite. How I LOVED this error (sarcasm alert!)...this
+particular error is called the "511 error". It was corrected alright, and
+it's only known to happen at level "Greed", where if you destroy too
+many barrels, they might leave too many toxic sludge pools. 511 is the
+maximum amount for objects on a level, and if this limit is exceeded,
+the 511 error will happen. You should not meet this error at all, but if
+you do, don't blow too many barrels up.
+Tristania3D crashes with "PM25" error message
+Another "phantom error" - we know absolutely nothing about what
+causes this, and why. My experience tells that this is a sort of "joker
+error", when the program can't figure out any good reason, why should
+it crash, but it wants to crash just to give me headache, it does - with
+this PM25 error message. Very annoying, but it also shouldn't happen
+at all.
+The only known occassion for PM25 error was the fissure gate's
+chamber with the Unstoppables and Ultradrones, but I suppose it was
+only a compile error with our test program. Once we re-compiled the
+game, the PM25 error was gone. If it happens anyway, just restart the
+game, and the PM25 error should be gone.Tristania3D behaves odd
+Not sure, but it might have been a compile error, which was very rare
+even in the early stages of the game development, and (I hope) it's
+completely gone now. Upon dying, or blowing up an explosive barrel,
+the game started to do mindless things...like I couldn't switch weapons,
+the level restarted, Suicide Drones became invulnerable and stuff like
+this. It was a really undefinable error, but it should be gone now. If not,
+just restart the game, and it should work fine.
+Walls become gray stonewalls
+This kind of glitch was also present in the old Wolf3D engine, and could
+not corrected, because no one knew what triggers it. It happens very
+rarely, mostly at large and complex levels, with many enemies, and many
+fierce action. It is a very small and harmless bug, except when switches
+turn into gray stonewalls. If this bug really bothers you, just restart the
+game, and then it will be back to normal. We could make the levels
+smaller, but we really did not want to sacrifice so much hard work, and
+so many great plans regarding the levels just to avoid a bug, which is
+extremely rare anyways.
+[6] Frequently asked questions
+Question: Why is Tristania3D so "retro" and "oldschool", why didn't
+you create a modern game instead of this pixelized, twenty-year old
+obsolete one?
+Answer: This question is my personal favourite - heard at least a billion
+times so far. The answer for this is pretty simple indeed - because
+creating this game under a fully modern environment is simply
+IMPOSSIBLE. I have several very good reasons why we created
+Tristania3D to be so old and obsolete, let me explain to you.1) First of all, every 
+coin has two sides. I'm very well aware that
+Tristania3D's technology level is at least twenty years behind today's
+standard, however...the more advanced the game engine is, the more
+problems it will raise, the bigger its size will be. Take a fully modern and
+up-to-date game as an example - its size is so gigantic that it requires a
+DVD, perhaps even more than one DVD. Downloading such great
+amounts of data requires significant time, even with a decent internet
+connection. Originated from the size, a modern game engine consists
+millions of program parts (code lines). Now, suppose that there is a
+malfunction somewhere within this enormous data structure, which will
+either cause the game to crash, or will not run at all. To fix this error,
+the programmers must browse through the ENTIRE program structure
+to find that one particular module which isn't working - this could take
+months, even whole years. And since we're talking about a very
+advanced program here with millions of program parts, there may be
+more than one malfunctioning or errorneous modules inside, which
+means, the programmers must repeat this treasure hunt ALL OVER
+again if something fails to work. It's like searching a pin in millions of
+haystacks. No, thank you. Not that we're lazy, we just don't want to do
+this in the rest of our lives. The second half of this problem is that a
+fully modern program requires SERIOUS programming knowledge, 3D
+modelling, installing physics and all the features you can see in a modern
+game. This prodecure takes years even for an experienced programmer,
+and we're already years late with the development of Tristania3D.
+2) The first thing the game creator needs is the source code. I wouldn't
+want to get too technical here, so I just tell that the source code is the
+heart of the program - it defines the systematics and the mechanisms of
+the game in a "simplified" text form. If you want to add a new feature
+to the game - such as new enemies, new weapons, new songs, timed
+levels etc. - you can't just tell the program to behave that way. You
+need to implement these changes into the source code, THEN compile
+the source code to a program. Get the picture? Now then...there is
+absolutely no possibility of downloading or purchasing the source code
+for these fully modern and advanced games (such as Doom 3, Half-lifeseries), and 
+also no chance for stealing it. Creating a new source code
+from the start would require tremendous amounts of programming
+knowledge, which we don't have. EoD engine is, however, completely
+free, a LOT easier to edit, and has several nice features, which are quite
+admirable and satisfactory for a freely downloadable fan made game.
+3) These highly advanced and up-to-date game engines are NOT
+freeware. Therefore, even if we would somehow get hold of their
+source codes, the original authors would charge us for money because
+we're using their property (and charge YOU for money as well!). This is
+something which we must avoid at all costs.
+4) Tristania is a gothic band, so it's best to create a game about them
+under an old game engine. It seems so fitting, don't you think?
+Well, folks,there you have it. I certainly hope these reasons are good
+enough for you. Besides, the game engine is not everything. I've seen
+modern and advanced games from around 2010 which are horrible and
+unplayable as can be. If you don't believe me, do a search for Patriots:
+A Nation under fire, Airborne Hero, Power of Destruction, Dark
+Vampires, Chronicles of the Vampire, or Velocity Prologue.
+Question: Why about Tristania?
+Answer: This game serves as a memento for Vibeke Stene, the woman
+with the most beautiful voice, who left the band years ago...and we miss
+her very much. Tristania3D will ensure that nobody will EVER forget
+her, and her essential role in this band. Besides, Tristania is one of my
+favourites.
+Question: Why did you choose Einar Moen, and why couldn't I select
+another character?Answer: When we started to design Tristania3D here at the Lambda
+
+Team headquarters, we all agreed about Einar Moen would be perfect as
+the main character of the game, not just for graphical reasons, but many
+forum members on the Tristania Message Board have agreed in that
+Einar Moen should be the main character. About the other Tristania
+members...well, EoD game engine doesn't support multiple players or
+player selection. Trust us, we tried the concept of choosing a band
+member, and each one would have their own unique characteristics, but
+this required too many resources, and reserved too much memory (not
+to mention it'd require own images and scenes for every band member).
+The point is, every program has limits. We can't just stuff it with
+everything in mind, a program is not a bottomless hole. Sooner or later
+the program will reach a point where it consumes more memory than it
+actually has - this leads to the world-famous "Abnormal program
+termination" error, when the game crashes right after the start
+displaying this message, showing that we exceeded the memory limit
+available. It doesn't matter if our machine has 100 GB RAM memory -
+the game can only handle the amount which was programmed inside it
+through the source code. And in 1992, when this source code was
+composed, the maximum memory available for every personal computer
+was around 4 MB RAM. See how it works?
+Question: Why didn't you program Tristania3D under Windows, so we
+wouldn't need an emulator?
+Answer: The source code of Tristania3D is originated back to 1992,
+when no Windows were in sight. We aren't Windows programmers, we
+did what we could, but if the source code won't recognize Windows as
+an operating system, we're left with DOS. Besides, Tristania3D works
+under Windows XP without an emulator, but in this case, no music can
+be heard, and certain sounds will be also missing. As for Windows Vista
+or Windows 7, I'd recommend you to uninstall them immediately, as
+both of these systems are gigantic piles of turd.We also tried to ask MCS (the writer 
+of the EoD engine) for the source
+code, so we could create a Windows port out of it, but MCS did not
+give it to us. A million thanks…
+Question: What took you so long to create this game?
+Answer: We had a lot of disagreements about how should we create the
+game. We didn't have the EoD engine for years. First, we tried to write
+our own source code, and as you can expect, it didn't work at all. Then,
+one of our friends had an idea developing Tristania3D under Doom
+environment. The problem was, we didn't have the Doom source code
+either, therefore many of the features would be missing from the game -
+not to mention that working under Doom engine is a LOT harder in
+every aspect. We only have the EoD engine for 2 years, and since then,
+we're constantly working on it. Seeing the fact that this game will be
+developed by mostly one man, it will be a decent one.
+Question: Why do the songs sound so distorted and poor?
+Answer: The EoD engine only recognizes IMF files. This gave us lots of
+work,as we needed to convert the MIDI files into IMF songs, and test
+them countless times whether or not their quality is acceptable.
+Moreover, only 8 notes can be played simultaneously, which sometimes
+resulted in tune losses and "phantom notes", when the game plays a
+note which is actually not there. I'd be most happy with an MP3
+support, or at least MIDI support, but we had to keep the memory limit
+in mind. Inserting digital song files would eat all game memory for
+breakfast and "Abnormal program termination" would occur.Question: Why are the songs 
+so short?
+Answer: The maximum song size limit is 64 kilobytes for each song. I
+don't really know what determines the size of the song...sometimes a
+song can last more than 3 minutes and is still under 64 kilobytes, whilst
+other songs will knock down the roof after 1 minute or even sooner.
+There was no possibility for this game to implant songs whose size is
+larger than 64 kilobytes. If we do it anyways, the song simply breaks
+when the 64th kilobyte is read, and starts over.
+Question: If this game is about Tristania, why didn't you use more of
+their songs?
+Answer: I had only 7 Tristania MIDI files. The main problem is, Tristania
+MP3 files are extremely difficult to convert into a good quality MIDI.
+Besides, there is the 64K limit I was talking about. I thought it would be
+the best option to cut these MIDI files in two, so you can enjoy the
+missing song parts at other levels as well.
+Question: What is this "Courbée Dominate" exactly?
+Answer: Very little is known about the Courbée Dominate, but from
+what the Annihilation Taskforce revealed, this is some kind of secret
+congregation or society of cultists, rather than religious fanatics. Its
+origin is yet unknown, although their name suggests French roots, or the
+title of their fortress - "falanster". However, the Courbée Dominate
+initiates use Latin words to different sectors or districts, and it is also
+suggested that they speak Latin among themselves, so it is pretty hard to
+decide where is this secret society is originated from.
+Seeing that the Courbée Dominate is clearly hostile against the darkgothic subculture, 
+it is also suggested that it may be originated from
+Philip IV of France, the king who single-handedly devastated the
+Templar knights' union - but only if we accept the theory that the darkgothic subculture 
+is a descendant of the extinct templar knights. There is
+no solid proof for any of these theories.Question: If the Courbée Dominate is after 
+dark-goths, why did they
+kidnap Vibeke? Wouldn't anyone else do it?
+Answer: It is hard to answer, as none of us know about the hierarchy,
+the motivations and the system of Courbée Dominate. It is believed,
+however, that Vibeke conceals supernatural powers, which she does not
+know about, but the Courbée Dominate rulers somehow sniffed it out.
+Their goal may be to conquer that dark-gothic reality the true goths
+know about, or perhaps to be able to manifest and use those special
+artifacts, which would make any single person unstoppable and
+immortal. For this, they need a true goth with a hidden enchantment.
+Since we don't have the grimorie the Courbée Dominate uses, we can't
+make any direct statements, but it is clear that they need Vibeke,
+because some conditions of certain spells could not met with anyone
+else. Anyways, if this game is about Tristania and Vibeke Stene, who else
+could be the unfortunate victim?
+Question: Why don't the Courbée Dominate modernize the falanster
+with water pipe system, electricity and such?
+Answer: The Courbée Dominate could only prevail through the past
+decades by isolating itself from the rest of the world. Having a modern
+water system, power lines, telecommunication systems and computers
+would attract too much attention on them, not to mention the huge
+numbers of outsiders, who would work inside the falanster. It is safer
+not to be dependant from the state (it is also cheaper).
+Question: If the Courbée Dominate does not use power lines, how can
+the elevators and the subway lights work?Answer: Yes, well...many of the fans consider 
+this as a major plothole,
+but the explaination is pretty simple. There are small, portable power
+generators, which are capable of generating electricity from fuel. This
+energy is sufficient to power elevators, and small basement lights, and
+the Courbée Dominate has plenty of fuel (barrels of gasoline are easy to
+steal through fissure gates). In case of power outage, elevators can still
+work by man-operated cranes, or smaller-bigger weights pushed and
+pulled at the shafts.
+Question: So the Courbée Dominate consists satanists?
+Answer: This was never confirmed in the story, or during the events.
+The Courbée Dominate is gathered around a demonic entity named
+Baphomet (this may also suggest that the Courbée Dominate was
+founded by Philip IV of France, as he was the one who accused the
+templar knights by worshipping Baphomet, thus, Philip KNEW about
+Baphomet). Opinions differ whether Baphomet is part of Hell's (and
+Satan's) hierarchy or not.
+Question: What's up with those "Drones" or "Rokkinoks"?
+Answer: If you read the story, it should all make sense to you. Do not
+confuse them with zombies. Zombies are rotten corpses brought back
+alive. The Rokkinoks are different. They are walking ash piles morphed
+into a humanoid shape by an evil spell. This gave a lot more possibilites
+to the Courbée Dominate than just resurrecting the dead. Zombies
+proved to be unworthy fighters, whilst Rokkinoks are far more lethal -
+they're dumb, yet quick, agile, and absolutely silent.
+Question: If this game supposed to be a gothic-themed or medievalthemed game, why 
+did you put firearms in it?Answer: First of all, swordfights would be pretty dumb 
+in a 3D shooter
+game. This gamestyle might look awesome and spectacular in a sidescroller or a third 
+person adventure game (Prince of Persia, World of
+Warcraft), but in a first person view, a melee attack-based game simply
+wouldn't be the same. Secondly, there is only one attack method for
+Einar Moen, so even if we would make Tristania3D without any guns,
+there could be only type of attack (for each weapon). And thirdly, the
+attacking method of the enemies is hard coded inside the program.
+Namely, most of them must use a distance weapon which produces
+sound (except the Suicide Drones). And since all of them need to drop
+ammunition when killed, we were also unable to create enemies who are
+performing magic attacks, as they couldn't drop ammo when killed.
+Besides, there are archers in the game. If you really want to get
+medieval, use your dagger only.
+Question: Where are the secret doors in the game?
+Answer: I don't want to spoil all the fun for you, therefore I will not
+write a full detailed secrets guide. Although I CAN help you finding
+them. Most secret doors are hidden at solid, flat walls, others are hidden
+behind ornamented walls. Use your pure logic when looking for secrets!
+Never look for secret pushwalls at door frames, windows, and naturemade walls (rockpiles, 
+earth wall). There will be, however, secret doors
+at diagonal "staircase-walled" corridors, if you seek the right spot of the
+particular wall to find the hidden trigger. Also note that certain
+previously activated pushwalls can be pushed again, maybe from
+different directions.
+Question: Why didn't you put a level map feature inside the game?
+Answer: Most unfortunately, the EoD game engine doesn't have a "level
+map" function implemented inside (mainly because the ancestor of this
+engine didn't had a programmed-in map feature either). Maybe wecould have come up 
+with something, but we were already years behind
+the schelude, I wouldn't want to delay the development of Tristania3D
+any further just because this game doesn't have a map feature. Anyways,
+let's get realistic - Einar Moen would't have the time to draw a map
+while lurking, fighting the Courbée Dominate, he has to find Vibeke,
+before it is too late. Last, but not least, there are certain levels, whose
+concept would be screwed if you had a map, and therefore you could
+view the entire area with just one button push - you'll see these special
+levels VERY soon.
+Question: Why can't I get kill-secret-treasure evaluation at the end of
+boss levels/secret levels?
+Answer: That's because you don't need to. The kill ratio, secret ratio
+and treasure ratio doesn't count towards your grand total at these
+special levels. However, it's STILL highly recommeded for you to look
+for hidden areas at special levels, as it will still effect your score and
+your progress.
+Question: How come that switch controlled pushwalls will not slide back
+if I pull the switch again?
+Answer: The answer here is more technical, rather than supernatural.
+The switch control is zone-related, not wall-related. In short, after the
+switch is pulled, the program checks whether or not there's a wall at
+that very zone where the pushwall trigger is placed. If there is one, it'll
+be moved to a particular direction. After this, the zone with the
+pushwall trigger becomes empty. Once a switch controlled pushwall gets
+moved away, it can't be returned to its original location (or any other
+location for that matter) unless there is a second switch which inspects
+the zone where the moved wall arrived.Question: Why can't I get 100% secret ratio, 
+even if I find every secret
+in the level?
+Answer: Are you REALLY that sure you found ALL of them? If I were
+you, I would double-check it before giving up. Keep in mind that you'll
+ONLY get credit for a secret area (and percentage), if you receive a
+message on the top of the screen, not for finding pushwalls. At the
+great outdoors, there may not be any pushwalls, yet, secret areas still
+exist. You should have the "messages" feature turned on (F11 button).
+There is also a VERY slight chance of missing the "secret trigger". This
+may occur,when a secret area has a wide entrance, and you accidentally
+slip past the secret trigger. To avoid this, make sure you surround the
+entrance of the hidden area pretty well (this doesn't mean you should
+get shot by doing this).
+Question: Why can't I see the remaining time of my invulnerability and
+Knife fury?
+Answer: You might have turned the "messages" feature off by pressing
+the F11 key. Press it again, so it will show the timer as it should. The
+factory settings include the messages turned on, so as long as you don't
+push the F11 button accidentally, you will be fine.
+Question: How come that sometimes, I need 20-25 shots to kill an
+enemy, and some other times, it dies after 3 shots?
+Answer: Hits are heavily influenced by distance and weapon type.
+Shooting from short ranges will cause much greater damage than just
+blindly blasting from the other end of the corridor. The bigger the
+distance is, the more inaccurate your shots will be (this works vice versa
+of course). Note that certain weapons - Sabrine MK3 and SmartGun -
+has wide gunfire spread, and therefore a few misguided bullets will findtheir target, 
+whilst precision weapons, such as the PCV or the Stealth
+rifle will require you to aim perfectly.
+Question: Couldn't you implement a crosshair in Tristania3D?
+Answer: Well, yes and no. We COULD implement a crosshair, but we
+couldn't render a button for it to make it go away. Which means, that
+annoying crosshair would stick around at the center of the screen
+throughout the whole game. It might seem useful first, but later, it'll
+just annoy you and turn your attention away from the beautiful level
+design and awesome graphics we made (har har har!). We thought it'll
+be better to leave the crosshair out. Besides, you will not have a
+crosshair hovering in mid-air in front of you, if you grab a pistol or an
+assault rifle!
+Question: Why can't I get a sniper scope to my rifle?
+Answer: EoD engine doesn't have a "secondary" function for weapons
+(e.g. there is no secondary fire for weapons), which have prevented us
+from creating a zoom effect for the guns...or a sniper scope for that
+matter. Also, most of the levels are taking place inside the falanster with
+shorter (relatively) distances, which makes the sniper scope abundant.
+Question: What determines the behavior of the Ultradrones?
+Answer: It's TOTALLY randomized whether or not an Ultradrone shall
+rise from its ashes, and continues its rampage on you. It's not influenced
+by the chosen skill level either, so even if you pick the mildest skill level,
+Ultradrones can still respawn countless times.Question: What determines the behavior 
+of the explosive barrels?
+Answer: Unlike Ultradrones, explosive barrels work differently. Mainly,
+there are 3 types of them: Exploding barrel, Exploding & flaming
+barrel, and empty barrel. However, it's totally randomized whether or
+not the first two will leave a puddle of sludge. Empty barrels will not be
+changed at all however - they will remain empty in every possible case.
+Question: Why don't boss enemies stagger when they get hit?
+Answer: There are multiple answers for this question. The technical
+answer is: because there aren't any "wounded" state for the boss
+enemies, only walking, attacking, and dying (they're not programmed to
+tatter when they receive a hit). Other reasons include utter toughness,
+magical protection, and the lack of feeling the pain (for Drones and
+ghosts).
+Question: How can Einar Moen run so quickly?
+Answer: Didn't you read the story? He needs to hurry!
+Question: How can Einar Moen carry so many treasures?
+Answer: Many people have asked this question, mostly about treasure,
+as your treasure holding capacity is not influenced by your ammunition
+carrying capacity. Well, the only explaination is when Einar Moen steps
+on some treasure, an inter-dimensional transmitter portal opens between
+space and time (this causes the "blinking sound"), and the treasures
+travel through the entire universe to finally arrive to the mysterious
+Sanctuary of Stolen Goods! So easy that is.Question: How come Twirl doesn't send 
+more radio-communication
+messages to Einar Moen?
+Answer: Since the Alliance's task is to draw the attention away from
+Einar Moen, they're under heavy fire most of the time, and don't have
+the time for babbling. I would also like to add that the the fissure gates
+have a tendency of creating heavy interference around themselves - this
+is the main reason why don't the Courbée Dominate use radios or
+mobile phones, and thus, alerting the entire falanster.
+Question: If these fissure gates "create heavy interference" around, how
+could Einar Moen still transmit radio messages to the Alliance team, and
+vice versa?
+Answer: The fissure gates are quite numerous, but this doesn't
+automatically mean they're everywhere. Suppose there is an imaginary
+line between Einar Moen's transmitter and Twirl's receiver. If there is
+not fissure gate anywhere near this line, the message comes through
+without problems. I bet Twirl sent more messages to Einar Moen when
+he stumbled upon fissure gates with his team, but he was not aware that
+there are fissure gates around, which have blocked the radio signals.
+Question: How can Einar Moen open doors if he holds his gun with
+both hands?
+Answer: Who said Einar Moen doesn't possess magic powers??? ;D
+Question: If a level has multiple exits, and none of them is a secret exit,
+which one should I take?
+Answer: Your choice.Question: How come I can spend 99 hours at a level, and Vibeke 
+is still
+alive?
+Answer: The fissure gates distort time as well as reality, y'know...
+Question: Is there a difference between "normal" secret and super
+secret area?
+Answer: Technically no.
+Question: Why aren't any curved/diagonal walls in the game?
+Answer: I was kicked out of secondary school, and rectangle was the
+only geometrical shape I could remember. ;) Engine restrictions, I'm
+afraid.
+Question: How come enemies are immune to mugwort and sludge?
+Answer: They ignore all wild grown plants, wormwood as well, not just
+mugwort. As for the poisonous sludge, both your enemies and the
+sludge are evil, thus they are friends.
+Question: Why don't Tasoths and Superdrones kill each other?
+Answer: It's part of their protective spell. Enemies using the same
+weaponry are invulnerable for their own projectiles.Question: Why won't enemies open 
+up secret doors?
+Answer: If you spy carefully, you will notice some "pre-opened" secret
+doors during the levels, which were obviously opened by Courbée
+Dominate members (or perhaps Alliance members). Otherwise, they
+don't open any secret doors because they don't need to. And of course,
+not all Courbée Dominate members know about every secret on every
+level...
+Question: Why can't I interrogate enemies?
+Answer: They know very well that you or they will die during a
+firefight, why would they divulge any information to you?
+Question: Why won't the enemies use the weapons (Sabrine MK3,
+SmartGun etc.) against me instead of their pathetic pistols?
+Answer: Perhaps they don't know how to handle them, or they're too
+busy fighting you off, and don't want to grab those weapons. Or
+perhaps because they only contain very tiny amount of ammo.
+Question: The help document states that the Stealth rifle uses 14mm
+ammunition, so its firepower should be stronger than the SmartGun's.
+How come I can't kill Tasoths and boss enemies with it then?
+Answer: Simple. Sure the Steatlh rifle may alltogether be stronger than
+the SmartGun, but you can only carry 36 bullets maximum (if you have
+a backpack), and the Stealth rifle is not a rapid fire weapon either. Thus,
+while sole shots are technically stronger than the SmartGun's, 36 bullets
+are mighty few to final a boss enemy, although you can kill Tasoths far
+more easily.Question: Why are the Priestess' hands gray?
+Answer: Gloves.
+Question: How can there be tripmines under the floor at indoor levels?
+Answer: It's really not that hard to poke a hole in the floor, hide a
+tripmine, and bury it with the rubble, except maybe if the floor would
+be made of steel or diamond. But otherwise, it's plausible, especially if
+the floor is made of wood or has carpet covering.
+Question: Why can't I pick up the killed boss enemies' weapons?
+Answer: During the fight, they may be damaged, and became unusable.
+Or perhaps because you're already stuffed with weapons, and those are
+too heavy to carry. Or perhaps because you detest to use something
+which was used against you.
+Question: How come that enemies will never run out of ammunition?
+Answer: Ever heard of the purse, which never ran out of gold coins?
+They might have some black magic-effected sidebag or backbag which
+never runs out of bullets. Unfortunately, the spell breaks when the
+enemy dies.
+Question: Why can't I pick up ammunition from dead boss enemies?
+Answer: By the time you kill them, they run out of ammo.
+Question: Why don't the Courbée Dominate just put a curse on Einar
+Moen to kill him instantly instead of sacrificing hundreds of initiates?Answer: I'm 
+no expert in magicks, but from what I heard, you can't just
+walk around cursing people everywhere. Curses have a nasty habit to
+reverse back on the curser, and even if they don't, there are serious side
+effects of putting a maleficium on someone. On top of that, every curse
+requires preparation, spiritual connection and a strict ritual. While
+smaller magicks can be applied any time, stronger ones, such as curses
+require a specific date and time. Maybe these conditions didn't meet for
+them to put a curse on Einar Moen. Also don't forget that he has the
+Holy Bible, and he is picking up quite a few crucifixes on his journey.
+Question: After Einar Moen finds the falanster, why doesn't he just
+alert the police?
+Answer:
+- Because he is disappointed and disgusted by the incompetency he came
+across with.
+- Secondly, there were several outlaws among the Alliance operatives, so
+technically, if Einar phones up the cops, he would betray his friends with
+this.
+- Telephones bound to fail near fissure gates.
+- Einar knew that even if the police could rescue Vibeke, this case would
+turn into a global uproar, perhaps a new world war. With the secret of
+the fissure gates solved, the unworthy may enter the goths' reality,
+expose and colonize it. Einar agreed with the Alliance that no outsiders
+should be involved.
+Question: Why do the enemies walk into the spear traps when they
+clearly see it's there?
+Answer: They have too much confidence in their protective spell I
+assume. As for Drones and Unstoppables, they don't know the meaningof the word "fear". 
+Of course, many of the initiates are smart enough
+not to fall into their own traps...
+Question: How can the enemies pick up the holy water vials? Wouldn't
+it kill them?
+Answer: Holy water would only kill vampires and fiends, human beings
+are uneffected, it's just water to them. Drones ignore food and water.
+As for Superdrones and Ultradrones, it'd take a LOT more than just a
+few drops of holy water to finish them off!
+Question: If I can break down stone coloumns, why can't I break
+windows?
+Answer: Suppose you could break the windows. And how would you
+squeeze yourself through the grate? It would've been pointless, so we
+ditched the idea of breakable windows.
+Question: How can enemies pass through locked doors without a key?
+Answer: They know the magic word.
+Question: Why didn't the Courbée Dominate tried to flee instead of
+fighting?
+Answer: The existence of the fissure gates knocked out all telephones,
+so if something happened at the complex, someone has to tell it
+personally to the higher-class members, which means, communication is
+mighty slow between the falanster's estates. After Einar Moen and the
+Alliance operatives arrived and started to infiltrate the complex, most of
+them didn't had the time to warn the others, and the Empress clearlyunderestimated 
+the approaching threat. By the time they realize this is
+no joke, it was too late to turn back.
+Question: How big the falanster is in real?
+Answer: The falanster is divided into seven districts, each one bears a
+name of a capital sin (in Latin). It's like seven fortresses in one - quite
+big.
+Question: Is Tristania3D connected to, or influenced by the Twilight
+series?
+Answer: Absolutely not. Tristania3D is completely unrelated to Twilight
+or any other movies.
+Question: Why aren't boss enemies and Tasoths effected by the
+difficulty level?
+Answer: "Small" enemies can be allocated into 3 level groups. Level 1
+enemies appear at all difficulties, level 3 enemies appear only at the
+third skill level, and level 4 enemies only appear at the fourth. Boss
+enemies doesn't have a "level" property, because there aren't that many
+bosses which would worth creating a leveling allocation for them
+(primarily because there are compulsory bossfights, which should't be
+skipped by playing on the lowest difficulty), therefore every boss enemy
+will appear at the lowest difficulty level also. As for the Tasoth...well,
+the Tasoth has the characteristics of a static object (like a table or a
+torch), and objects are uneffected by difficulty level settings.
+Question: Why didn't you create more sounds for Black Apostles,
+Priestesses and object pickups?Answer: At first, each enemy had multiple death screams 
+(except
+Drones) and each object had digital sounds, but when we actually tested
+the game to see how it works, Tristania3D crashed with the worldfamous "Abnormal 
+program termination" message, showing that the
+game successfully ran out of memory. We didn't have any other choice
+than deleting the extra sounds. All that hard work...
+Question: Why do the characters have errors in their speech?
+Answer: The Annihilation Taskforce's members speak some sort of
+ghetto-slang amongst them, so these errors - including grammatical ones
+- were done deliberately. For any other spelling and grammatical
+mistakes or typos, I apologize, English is not my native language, so I
+might make some mistakes...but rarely.
+Question: You suck, this game sucks, other games are many times better
+etc...
+Answer: Well, if you don't like Tristania3D, nobody forces you to play
+it. After all, we all live in a free country, no? It's really hard to write
+constructive criticism, many of you don't seem to have any talents for
+that, except the four-letter biological organic waste (sh*t)...so I accept
+negative critics as well as positive ones, as long as you are able to keep it
+in a mannerful way.
+Question: How can snow fall if the sky is totally clear and starry?
+Answer: During night, snow clouds are also dark, thus, you can't see
+them. This is why there are so few stars visible on the sky. And the
+moon...nothing in the world could make me to leave out the moon!Question: How come 
+Einar Moen does not lose his receiver or the Bible
+when he loses all his weapons?
+Answer: The Bible was small enough to fit in his flak jacket, just like the
+radio receiver. And the flak jacket has zipped pockets, so things can't
+just fall out of them so easily.
+Question: If the Drones are unholy creatures, why can't be the Bible
+used against them?
+Answer: By the time Einar Moen would read the correct psalm on them,
+he would become sieve. It is quicker, and easier to shoot them.
+Question: If the Black Apostles and the priestesses wear these special
+robes which "halve every damage they take", why do they die instantly
+when shot with sniper rifle or bazooka?
+Answer: These weapons are extremely high caliber guns with destructive
+firepower, which means, HALF of the firepower is enough to kill them.
+Also note that these enchanted robes are not some kind of deflector
+shields - they don't deflect damage, they absorb it, at least they try, so
+the human still takes damage under them. Otherwise, it'd be impossible
+to kill anyone wearing these robes.
+Quesion: Why do Drones sit on toilets if they are just ashes, and thus,
+never take a shit?
+Answer: Apart from the fact that this is a nice, elaborate trap, Drones
+doesn't seem to like bright lights, that is one of the reasons why they
+rarely appear in wide, luxury areas. Therefore, they retreat to a dimly lit
+place, where they can await until the time of need. Since they can't talk,they might 
+see no reason hanging out with their superiors, or fellow
+Drones - they're just puppets, why would they mingle?
+[7] Appendix
+Contacts
+You may get in contact with me through my e-mail address or on my
+homepage (registration required – use temporary E-mail service, if you
+REALLY want to register). You can ask questions, post feedbacks,
+comments, or suggestions regarding Tristania3D.
+E-mail: lambdasecorder@gmail.com
+Home page address: http://lambdateam.blog.hu
+Note that all viruses, spywares, spam will return to the sender.
+Special thanks
+I would like to say a few kind words for those people, who have
+helped me a lot with Tristania3D in smaller-bigger degrees, and saved
+me a lot of trouble, a lot of headache, and encouraged me to start, and
+finish creating this game.
+h To Deviator Adel, for showing me the dark-gothic lifestyle, the
+alliance between dark-goths and militarists, and for spending 1 month
+with me. I am still thankful for the time we spent together.h To Chris, from DieHard 
+Wolfers forums, helping me with the
+signon screen, and the ingame text editing – this help was extremely
+valuable at the final stage of development, after MCS messed up the
+whole engine, with the help I got, I could finish the project with MUCH
+less bugs and quirks.
+h To my loyal and patient testers – Tassadar, feketemacskusz,
+TaMáS, Chris, Selator, and various other temporary Lambda teamers.
+h To ScarletGothica for her wonderful artworks which was quite an
+inspiration for me, not to mention she gave me permission to use some
+of her artworks. She deserves a Collector’s CD-ROM edition for that!
+h To Adam Biser, for helping me with WDC.
+h To Jay Reichard, and dauqS, for giving me LOTS of assistance with
+the Tristania3D Original Soundtrack album. Thank you, boys – thank
+you for everything!
+h To EmperorKonny from the Tristania Message Board – a lot of
+thanks for the Tristania MIDI files!
+Disclaimer
+Tristania3D is a completely virus/adware/spyware-free software, I shall
+not be liable for any claims or damages whatsoever, including property
+damage, personal injury, intellectual property infringement, loss of
+profits, or interruption of business, or for any special, consequential or
+incidental damages however caused, whether from the use of this
+software or any files created with it.
+Lambda Team can’t help you if you have missing, damaged or
+altered game files! We shall take no responsibility of systemcrashes or game malfunctions 
+because of game hackings! If your
+downloaded game is damaged or non-functional, try downloading
+the game from somewhere else! Closure
+So you have reached the end of the official Tristania3D manual. I
+tried to write things down in an understandable and simple way, so
+everyone can understand how this game works, and can play it without
+any flaws, and hold-ups. You have all the knowledge about the game
+you need to know as a fresh beginner.
+Nowgo,and
+rescueVibeke!!!
+     

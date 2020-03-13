@@ -1,0 +1,58 @@
+This is a set of definition files for the Wolfmap and WMap programs, map
+editor/dump utilities for the games Wolfenstein-3D and Spear of Destiny
+by id Software.
+
+The definition files for the Wolfmap v1.6 editor have been extensively updated
+from their original versions (see the Credit below) to include missing walls
+and objects, correct and extend legends to comply with standard naming as
+defined in the games and manuals themselves, add Spear of Destiny definitions
+and improve a few color definitions.
+There are a number of objects that differ between Wolf3D and SoD, in these
+cases the legend for the SoD object is given after an exclamation mark (!).
+These files also work with the Mapedit v4.1 and v6.0 programs (sorry, not v4.2;
+and I didn't check v7.0 'cause I don't have it :)
+
+The definition files for the WMap v4.1 dump utility are directly derived from
+the Wolfmap definition files and specify plain-ASCII characters (ie. not 8-bit
+PC characters) for the walls and objects, such that the resulting maps can
+printed on any simple printer (eg. from Unix).
+There are a number of wall definitions whose legend (which is nothing more
+than a comment in these files) is given after an exclamation mark. They were
+added to avoid error messages of undefined walls when dumping a few home-brew
+map sets available from the Wolf3D ftp sites.
+
+A complete set of pre-generated plain-ASCII maps for Wolf3D and SoD may be
+available at the same place where you found this stuff, and is also available
+from me upon request.
+
+This zip file should contain the following files:
+
+MAPDATA  DEF      6169 11-18-93   3:03p
+OBJDATA  DEF      8868 11-18-93   3:33p
+WMAPOBJ  DAT      5632 11-18-93   2:55p
+WMAPWALL DAT      3590 11-18-93   2:53p
+LEGEND   MAP      1455 12-03-93   2:40p
+README            2943 12-06-93   5:14p
+        8 file(s)      28657 bytes
+
+This (pretty obviously :) is the README file and the LEGEND.MAP file supplies
+the symbols used in the ASCII maps. MAPDATA.DEF and OBJDATA.DEF are the
+Wolfmap definition files and WMAPWALL.DAT and WMAPOBJ.DAT are the related ones
+for WMap. You may want to backup your original files before loading these into
+your Wolfmap or WMap directory.
+
+All files are in PC file format (ie. carriage returns/newlines).  To remove
+the carriage returns such that the files can be properly viewed on a Unix
+workstation, try the SunOS command dos2unix or the vi command :1,$s/\^M$//
+(where ^M is ctrl-M, entered using ^V-return).
+
+Credit: The Wolfmap (v1.6) program is by Jan Peter Dijkstra, available
+	as file /wolf3d/wolfm160.arj and the WMap (v4.1) program is by
+	Paul Hosken (Hosko), available as file /wolf3d/wmap41.zip, both
+	at ftp.cc.umanitoba.ca .
+	The map definition files were derived from an earlier set by
+	Eric A. Meyer, available as file /wolf3d/wmapdefs.zip at the
+	same ftp site.
+
+Wolf' on, Frans P. de Vries (fpv@xymph.iaf.nl)
+

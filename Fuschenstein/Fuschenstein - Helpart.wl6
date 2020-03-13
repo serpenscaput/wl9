@@ -1,0 +1,211 @@
+
+^P
+^G15,75,145
+^C00 Willkommen auf der Burg der Verdammten!
+^G80,115,136
+
+^P
+^C7d DIE GESCHICHTE
+
+^C00 Es ist 1944. Auf einer Burg namens Fuchsenstein haben die Nazis ein geheimes 
+Basislager eingerichtet. Sie wollen dort ueber den weiteren Kriegsverlauf entscheiden. 
+Die Allierten haben davon Wind bekommen und einen Profi in die Burg eingeschleust 
+um rauszubekommen was dort vor sich geht. Dieser Profi ist 
+^C28 Captain William J. Blazkowicz (kurz: B.J.) 
+^C00 Er hat dann im geheimen Archiv Informationen aus Akten ueber geplante Aktionen 
+der Nazis gestohlen. Sie koennten ueber das sofortige Kriegsende entscheiden! 
+
+^P
+^C7d DIE GESCHICHTE
+
+^G37,20,4
+^C00 Leider wurde er dabei erwischt und sofort inhaftiert. Nun soll er in einem Verhoer 
+alles gestehen. Allerdings hat B.J. keine Lust den Nazis irgendwas zu gestehen. Er 
+plant bei naechster Gelegenheit abzuhauen. Vor dem Verhoehr wittert er seine Chance. 
+Er sticht den Wachmann nieder klaut ihm die Schluessel und begibt sich auf die Flucht.
+
+
+^P
+^C7d DIE GESCHICHTE
+
+^C00 Der Ausbruch hat nun begonnen...
+
+Auf der Flucht durchforschst du die Gemaeuer nach geheimen Raeumen, Schaezten und 
+Liften. Finde den Lift, der dich in die naechste Etage befoerdert. Bahn dir deinen 
+Weg in die Freiheit und bring deinen Gegnern das Fuerchten bei!
+
+Bedenke: Wenn du versagst wird die Welt bald in ewige Dunkelheit versinken!  
+
+
+^P
+^G37,20,137
+^C7d DIE STEUERUNG
+
+^C00 Das Spiel laesst sich mit Tastatur, Maus, Gamepad und Joystick steuern. 
+Um die Geraete anzuwaehlen und zu konfigurieren im Hauptmenu das Menu STEUERUNG waehlen.
+
+
+^C00 Allgemein gilt: Mit ENTER annehmen. Mit ESC verlassen.
+
+^C00 Man kann das Spiel auch mit Maus und Tastatur kombiniert spielen.
+
+^P
+^C7d DIE STEUERUNG
+
+^C00 Die Spielsteuerung mit der Tastatur:
+^G50,85,138
+
+
+
+
+^C00 Mit Pfeiltasten: bewegen. Leertaste: Tueren oeffnen, Lift betaetigen. Ctrl: 
+schiessen.
+
+^C00 Die Spielsteuerung mit der Maus:
+
+^C00 Mit Maus bewegen. Maustasten fuer Tueren oeffnen und schiessen. Einstellungen 
+fuer Maus im Hauptmenu unter STEUERUNG.
+
+^P
+^C7d KURZWAHLTASTEN
+
+^C00 Fuer Schnellwahl folgende Funktionstasten:
+
+^C00 F1
+^L60,60 
+Spielanleitung
+^C00 F2
+^L70,60
+Spiel speichern
+^C00 F3
+^L80,60
+Spiel laden
+^C00 F4
+^L90,60
+Soundeinstellungen
+^C00 F5
+^L100,60
+Spielansicht anpassen
+^C00 F6
+^L110,60
+Spielsteuerung
+^C00 F7
+^L120,60
+Aktuelles Spiel beenden
+^C00 F10
+^L130,60
+Spiel beenden
+
+^C00 Mit Esc gelangt man waehrend des Spiels ins Hauptmenu.
+
+
+^P
+^C7d DIE PICK-UPS
+
+^C00 Um deine Gesundheit wiederherzustellen findest du diese Items.
+^G60,120,140
+
+
+
+
+
+
+^C00 Hundefutter:     
+^L120,140
+4 % Gesundheit
+^C00 Essen:
+^L130,135
+10 % Gesundheit
+^C00 Erste Hilfe:
+^L140,134
+25 % Gesundheit
+^C00 Kugel:
+^L150,127
+100 % und ein Leben
+
+
+^P
+^C7d DIE PICK-UPS
+
+^G37,20,141
+^C00 Diese Items geben dir Munition, ein Sturmgewehr, ein MG.
+Eine Pistole gehoert schon zu deiner Standartausruestung.
+
+^C00 Getoetete Soldaten hinterlassen ihre Munition und SS-Soldaten sogar ihr Sturmgewehr. 
+
+
+^P
+^C9b DIE WAFFEN
+
+^G37,20,139
+^C00 Es gibt vier verschiedene Waffentypen.
+^C00 1: Messer 2: Pistole
+3: Sturmgewehr 4: MG
+
+
+^C00 Um die Waffe zu wechseln einfach die Nummer auf der Tastatur waehlen.
+
+^C00 Verballere nicht immer gleich deine ganze Munition, sonst musst du dich mit 
+dem Messer durchschlagen!
+
+
+^P
+^C4e KEIN DURCHKOMMEN?
+
+^C00 Manche Tueren sind verschlossen und du benoetigst einen Schluessel.
+^G60,110,142
+
+
+
+^C00 Es gibt einen goldenen und silbernen Schluessel. Sie sind meistens gut versteckt 
+oder bewacht. Begib dich auf die Suche und hol sie dir.
+
+^P
+^C7f GELDPUNKTE SAMMELN
+
+^G37,20,143
+^C00 Halte Ausschau nach den Schaetzen der Nazis. Sie geben dir Punkte und ermoeglichen 
+dir damit einen Eintrag im Highscore. Manche Schaetze sind gut versteckt. (Tip: Suche 
+nach geheimen Raeumen in den Gemaeuern).
+
+^C00 Kreuze:       
+^L120,110
+100 Punkte 
+^C00 Kelche:
+^L130,108
+500 Punkte
+^C00 Truhen:
+^L140,102
+1000 Punkte 
+^C00 Kronen:
+^L150,100
+5000 Punkte
+
+^P
+^Cad DIE SPIELKAPITEL
+
+^C00 Es stehen drei Spielkapitel zur Auswahl:
+
+^Caa Kapitel 1: Flucht aus Fuchsenstein
+^C00 Flucht in die Freiheit zu den Allierten. Ueberbringe ihnen wichtige Informationen.
+
+
+^Caa Kapitel 2: Grafikausstellung
+^C00 Kein Auftrag. Eine begehbare Ausstellung von allen Objekten und Wandgrafiken.
+
+
+^Caa Kapitel 3: Auftritt der Endgegner
+^C00 Hitler ruft seine Generaele und Monster zusammen. Verhindere deren Eroberungszug.
+
+
+^P
+^C7d UEBER FUCHSENSTEIN
+
+^C00 Die Orginalversion ist Wolfenstein von ID Software von 1992. 
+Fuchsenstein wurde erstellt und bearbeitet durch Patrick Hadorn im Oktober 2003.
+
+^G85,195,85
+
+^C00 Und nun viel Glueck auf deinem Weg aus dieser Hoelle!
+
+^E

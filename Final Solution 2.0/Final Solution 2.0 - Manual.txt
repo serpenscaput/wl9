@@ -1,0 +1,639 @@
+ 
+ Introduction  
+
+After the release of the Source Code and the numerous editors, the game seems to 
+become more and more popular.
+Add-ons with even better graphics and cooler levels and amazing code alterations 
+come out.
+And with the editor's dream, FloEdit, the Wolfenstein fanatic can get even more out 
+of little Wolfy.
+These new options gave me the opportunity to create my project and release it on 
+the 'Net.
+This took about 2 years. I worked very hard on my project. You've just downloaded 
+the result.
+
+Thanks for downloading The Final Solution, a new game for Wolfenstein 3D. This manual 
+will 
+introduce you to the story and many new features of this game, as well as other helpful 
+
+things to survive in this serious and deadly mission in the cold mountains of Austria 
+with
+its many castles. Good luck and enjoy the game!
+
+Also, please DO NOT contact ID Software and/or Apogee Software when coming
+across problems, they will NOT provide you with support for modified games.
+
+ The Story 
+
+Germany, Autumn 1942. As the German Army continues it's advance deep
+into Soviet territories and the Ukraine, German U-boats have started
+the blockade of Britain. Lots of convoys are intercepted by Germans and
+are taken over or destroyed. Britain seems to get starved out. 
+The Allied High Command has no retort; more and more British
+freighters get destroyed by German U-boats. The Gestapo
+(Geheime Staats-Polizei, Secret Police of State) is now patrolling
+German occupied countries with even more effective escorts,
+inflicting heavy losses on the Allies. Nevertheless, the Allied
+High Command orders more and more soldiers, with even lower ages,
+into battle from their ports in various countries.
+
+The battle for control of the war is turning against the Allies.
+
+Many Allied operations have failed due to many German spies in the Allied
+Command and Allied Army. It seems that the Germans have infiltrated MI6.
+The Germans know every move the Allies make.
+
+However, the Allies have received word of a secret operation going on in
+a mountainious region in the mountains of Austria. This region is chosen
+strategically because of the weather conditions in those mountains. It
+always snows and the dawn comes at 1:00 PM. This means that nobody can
+see that there's anybody here. In the direct neighbourhood of an
+abandoned German airfield, Germans have made a network of various
+bunkers and castles located in the mountains so that there will be a
+pretty fast transport-possibility between the bunkers and castles.
+The main installation of the network is a fortress called Festung Adler.
+This castle, originally home of many Austrian monarchs, was restorated by
+the Third Reich's official architect (Albert Speer) and converted to fortress.
+It's nickname is "The Eagle's Nest". It's well named, because you have to
+be an eagle to reach it. It lies at 3000 meters above sea-level. There's
+no connection with the valley below it, making it the perfect location for
+secret operations as it is impregnable. Those who tried to get atop didn't
+return. The Allies are uncertain if this was accomplished by the freezing
+temperature or any Nazi patrols.
+
+The castles within the network are interconnected by a system of tunnels. Originally 
+
+officiated as airstrike cover, these tunnels connect the various castles with each 
+other. 
+To eliminate any spies, the entrances of these tunnels are protected by various SS 
+and 
+Gestapo. To get through these slimey, gooey tunnels, you'll need a few bullets and 
+a 
+good memory. Various parts of the tunnels look equal, but they are NOT.
+
+The rumored operation currently running is called Endlosung(literally,
+Cleaning Mission), led by the Gestapo's main leader, Werner Gelassen, and
+the Fuhrer himself. This mission is going to be the biggest one yet. All
+Nazi weapons will be used for this mission, including a brand-new
+technique manufactured by a mysterious scientist by the name of
+Jurgen Schabbs. This man, who is not a Nazi but a scientist who gets
+orders of Hitler, has found a way to make dead soldiers live again.
+This option means that, if it would be used, the Third Reich will
+be unstoppable and unbeatable. However, the soldiers who are revived
+do have one little bug in their mechanical brain: they only obey Schabbs.
+
+The experiments of Schabbs are held inside the walls of Festung Adler. No
+one can possibly enter it because of the Gestapo controlling each nook and
+cranny of the neighbourhood areas and the SS stationed at every entrance
+possible. However, there's one abandoned castle in the neighbourhood of the
+network. This castle called Hasselhoff, was used at the beginning of the
+network-laying, but wasn't that strategical because of the many endless
+corridors leading to nowhere. In the basement of that castle is a small
+weapon-storage area with only Hitlerjugend-soldiers on duty. The entrance
+to this castle is quite hard to find, but crude maps drawn by spies will
+give you the location of it. 
+
+Realising that this is the perfect way to get inside The Final Solution-network,
+
+Allied High Command orders you to get in. Your mission includes:
+
+A. The destruction of The Final Solution-Network;
+B. The elimination of Schabbs dead minions;
+C. The liquidation of Schabbs, Gelassen and perhaps the Fuhrer himself.
+
+And in case you run into other high-ranked officers, liquidate them too.
+Be warned that only points A,B and C are neccessary, so don't do anything
+stupid. Fight hard in there! Good luck soldier. You'll need it.
+
+
+Description of the game's levels
+
+The game's levels are divided up in "units", groups of levels with a certain
+theme. All the levels in an unit have something to do with each other. 
+You don't have to do anything special to end an unit, by the way.
+
+
+Levels 1-5: Castle Hasselhoff
+
+You begin your mission in an old Prussian castle called Hasselhoff. It is the first 
+
+installation in the network, mainly used for storage of Schabbs' equipment. On floor 
+5 a 
+boss named Werner Gelassen is waiting for you. He is a Gestapo general with the duty 
+of 
+protecting the network behind the castle.
+
+Level 6: Tunnel 1
+
+Levels 7-10: Festung Adler
+
+You finally reached "The Eagle's Nest". It lies atop of a mountain which is unaccessable 
+from 
+the valley below. This stronghold belonged to German monarchs for centuries, but 
+now the Fuhrer 
+has stamped it as the main installation for the operation. It's your task to run 
+enough amok 
+here so the stronghold will need a renovation. Be careful, this castle is heavily 
+guarded! On 
+floor 10 you'll face the Ubermutant, Schabbs' biggest and boldest mutant. Be careful!
+
+
+Level 11: Tunnel 2
+
+Levels 12-15: Felsendamm Dungeon
+
+The cold wind howls in your ears when you enter the dungeon system Felsendamm, part 
+of  Festung 
+Adler. Felsendamm, built in 1643, officiates as dungeon for captured spies. While 
+being starved 
+and tortured, the Gestapo pulls the info out of them. No wonder this place smells 
+like death: 
+blood, sweat and tears are part of the main smell. These cold, damp floors are protected 
+by 
+guards and SS. It also covers the Luftburg-bunker, the next installation of the network. 
+The 
+closer you get to the end, the less humane guards you will encounter...
+
+Level 16: Tunnel 3
+
+Levels 17-20: Luftburg-bunker
+
+When you climb out of the tunnel, you have reached Schabbs' laboratories. Here you'll 
+face the 
+dreaded mutant scum of Schabbs at last. Watch what you are shooting - there are many 
+unarmed 
+mutants too! After painstakingly crawling through the bunker, you will reach Schabbs. 
+Grinning 
+diabolical you check your gear and open the door. It's time to send this maniac to 
+the place 
+where he belongs, and that's certainly not heaven! Good luck!
+
+Level 0: Contemporary Insanity
+
+In case you'll ever find the secret elevator leading to this level, you can already 
+consider 
+yourself a winner. I bet, however, that you'll never end the level. I even have trouble 
+
+completing it(believe me, it's really tough without cheating). To end the level, 
+you'll have 
+to blast down a rather special person...
+
+
+System Requirements
+
+Since The Final Solution uses it's own graphics and music, there's no need to
+own Wolfenstein 3-D. All you need is(minimally) this:
+
+ Processor: 80286 or better;
+ Graphics : 256Kb VGA or better;
+ Memory   : 580Kb Conventional;
+ Hard Disk: Approx. 2.40Mb;
+ Sound    : PC Speaker, Sound Blaster or ADLIB.
+
+To Run
+
+1. Log on to your hard drive by pressing C: (where C is the letter of your
+hard drive) and press ENTER.
+2.  Type CD\TFS3D and press ENTER.
+3.  Type TFS3D and press ENTER.
+
+Getting Started
+
+After the title sequence, you'll be presented with the Options Menu. Use
+the arrow keys, mouse, or joystick to highlight a desired selection.  
+Press the ENTER key, left mouse button, or Fire button to activate that 
+option.  The following is a list of options available to you.
+
+ 
+
+New Game
+You can choose from four different skill levels.
+
+Sound
+There are three types of sounds in this game. The program will  automatically
+detect if your system is equipped with the appropriate sound board and
+default to the best settings.  To activate or deactivate a particular sound,
+highlight the appropriate selection and press the ENTER key.
+
+Control
+The Control Menu allows you to select and modify an input device for 
+playing the game.  In conjunction with the keyboard you may use a mouse,
+joystick or a Gravis PC GamePad.
+
+Load Game
+Use this to load a saved game.  If you're in a game, you will be asked to 
+confirm your choice.
+
+Save Game 
+The Final Solution's Save screen provides the Save game slots.  To save 
+a game, move to an empty slot (or one you don't mind writing over), type 
+in a name and press the ENTER key.  This option will not be available 
+unless you are playing a game.
+
+Change View
+Depending on the speed of your computer, you may wish to change the 
+view area of The Final Solution. For example, reducing the view will increase
+the speed of the game.
+
+Read This!
+Select this option to read all about this game.
+
+Quit
+Select this to quit from The Final Solution and return to DOS.  A prompt 
+will appear, asking you to confirm your choice.
+
+
+ Controlling the Action  
+
+The following is a list of controls and commands for moving and fighting 
+within The Final Solution.
+
+Travelling 
+The key to playing is learning how to effectively maneuver through the 
+castles and their passages.  Once in the game, you'll need to move quickly in 
+order to surprise guards and avoid others.
+
+Walking
+Use the up and down arrow keys to walk backwards and forwards 
+through the various castles.
+
+Run
+Hold down the right shift key and the up or down arrow key to run.
+
+Turning
+Use the left and right arrow keys to turn.
+
+
+Fast Turn
+Hold down the right Shift key and the left or right arrow key for fast turns.
+
+Strafe
+Press the Alt key and the left or right Arrow key to move from side to 
+side instead of turning left or right.
+
+Arming Yourself
+Once you have more than one gun, you'll want to choose between 
+firearms.  The numeric keys 1-4 select a particular weapon.  You cannot 
+use the numeric keypad keys for this selection.
+
+1=Knife, 2=Pistol, 3=Machine Gun, 4=Chaingun
+
+You start the game with only a knife and a pistol.  Until you discover 
+other weapons, pressing "3" or "4" will have no effect.
+
+Killing the Enemy
+To use your weapon, point it toward your adversary and press the Ctrl 
+key.  If you are using a machine gun or chaingun, you can hold down 
+the Ctrl key for rapid fire.
+
+Doors &  Pushwalls
+To open a door, move in front of it and press the spacebar.  It is not 
+necessary to actually touch a door before opening it.
+
+Locked Doors
+Several doors are locked and will require keys.  The key that opens a 
+particular door can be found somewhere on the same floor as the 
+locked door.  Using a key requires no additional commands other than 
+the spacebar to open a door.
+
+Pushwalls
+The installation is full of secret passages that are concealed behind 
+pushwalls. To reveal a pushwall, move against a wall and press the 
+spacebar. The pushwall will then slide backwards, revealing the 
+passage.
+
+Picking Up Stuff
+Though the fighting is fierce, there's always time to grab a few trinkets 
+or helpful items.  To pick up an item simply walk over it. You're smart 
+and will know if you need to take it.  For example, if you're carrying the 
+max. ammunition of 200 bullets, you can't pick up more ammunition by 
+walking over it.
+
+Getting to the Next Floor
+Each floor contains at least one elevator.  Once you find an elevator, 
+press the spacebar to open its door.  Then walk into the elevator and 
+press the spacebar once again to activate the knife switch and move to 
+the next floor.
+
+Key Commands and Shortcuts
+The following is a list of key commands used for playing The Final Solution. 
+
+ 
+Action			Key	
+Pause			Pause Key
+Read This!               F1
+Save			F2
+Load			F3
+Sound			F4
+Change View		F5
+Control		F6
+End Game		F7
+Quick Save		F8
+Quick Load		F9
+Quit			F10
+
+Weapon Selection
+Action			Key
+Knife			1
+Pistol                      2
+Machine Gun		3
+Chaingun		4
+Fire			Ctrl 
+Open door		Spacebar
+
+Movement Keys
+Action			Key
+Forward		Up arrow
+Backward		Down arrow
+Left                         Left arrow
+Right                       Right arrow
+Run                         Shift + any of the keys above
+Strafe left		Alt + left arrow
+Strafe right		Alt + right arrow
+
+Your Current Status
+
+ 
+
+At the bottom of the play screen is a status bar which provides 
+information important to the play of The Final Solution.
+
+Floors
+There are at least 20 known floors.  The current floor is always indicated 
+at the far left of the status bar.
+
+Score
+You can gain points by picking up treasure or killing. Every 40,000 
+points provide an extra life, so collect those treasures!
+
+Lives
+You start the game with three lives.   If you die, you'll restart the current 
+floor with a pistol and 12 shots.  You'll also lose the points you earned 
+on that floor.
+
+Health 
+When you start The Final Solution your Health is 110%.  Each time you 
+are hit, your Health will be reduced.  Health is indicated not only in 
+percentages, but also in a visual representation located on the status 
+bar.  You begin to look increasingly unheathly the more damage you 
+take.  If you Health is dropping, you can increase it by grabbing food or 
+first aid.
+
+Ammo
+Your amount of ammunition is indicated on the status bar.   You can 
+carry a total of 200 bullets.  Be sure to pick up the ammo left behind 
+when you toast someone.  Run out of ammo and you'll be stuck using 
+your knife.
+
+Keys
+When you find a key, a representation of that key will be shown in one 
+of the four small slots located to the right of the ammo count.
+Weapon
+A representation of the currently active weapon will be shown at the far 
+right of the status bar.
+
+Getting Rewarded
+
+ 
+
+When you go to a new floor, a Bonus Screen will tally your performance.  
+Hidden rooms located, ratio of kills, and percentage of treasure found 
+will be calculated.  Each 100% ratio provides 10,000 extra points.  Also, 
+if you beat the PAR times for completing a floor, you'll receive extra bonus 
+points.
+
+Items To Pick Up
+The Final Solution is packed with items that you'll want and need.  These 
+items fall within four major categories:  Healing, Killing and Special Items.
+
+Healing:  Dinners = +10%, First Aid = +25%, Hypos = +10%.
+
+Killing:  Ammo = 4, 8;
+
+Keys:	 Open locked doors and can be found on the same floor as they 
+         are needed.
+
+Special Items: One-Ups and treasure.
+One Ups: (ball with image of face inside) = Full Health and One Life.
+Within secret rooms of the castle are items that give you the extra urge
+to keep fighting!
+
+Hints & Strategies
+
+If you are going to survive The Final Solution, you'll need more than a 
+trigger finger.
+
+Speak softly and carry a Luger
+If you encounter weaker enemies, use your pistol to conserve ammo. 
+This method also helps you to keep walking around unnoticed(well, almost).
+
+Don't Rush Into the Room!
+If there is only one entrance, let the Nazi guards come out at you.  
+They'll often be nice enough to open the doors for you.
+
+
+Get at an Angle.
+It's never smart to run into a room.  Guards are sometimes posted near 
+the entrances and stay hidden until you move close to the door.  Go up 
+to the door, slide to the side at an angle, and pick the enemy off with 
+less danger to you.
+
+Use the Keyboard and the Mouse!
+Once you have the game down, try using the mouse and keyboard at 
+the same time.  The mouse provides better control for shooting and 
+turning.  Also, the Strafe mode is much easier using the second mouse 
+button.
+
+Charge!
+If you run at someone and shoot them point blank, you are more likely to 
+wound them.  Plus, this will provide less time for them to shoot you.
+
+Every Floor Has Hidden Stuff!
+If you explore carefully, you'll find extra health and ammo hidden 
+everywhere!  Be sure to collect as much treasure as possible.  
+Remember that every 40,000 points will provide you with an extra life.  
+You'll need it!
+
+Necessary Items Aren't Hidden!
+The Nazis may be rude hosts, but they would never hide anything 
+necessary to escaping.  Elevators to the next floor can be reached 
+through the normal passages. However, this does NOT mean that you don't
+need keys to get there! And in addition to reach TOP-FUNCTIONAL floors,
+you'll need key 3 or 4 to get into the elevator. 
+
+Don't Be Too Proud to Use Schabbs' medicaments!
+After taking too many bullets, it's a wise idea to get help from anywhere.  
+Taking Nazi medicaments may be humiliating, but it will provide a small boost to 
+
+your health. 
+
+Use the QuickSave!
+The QuickSave!, (F8 key) and QuickLoad, (F9 key) is an easy method of 
+improving your survival rate.
+
+Conserve Your Ammo!
+Although it's fun to hold down the Crtl key to spit bullets everywhere, you 
+should try to restrain yourself.  Conserve ammunition and make your 
+shots count.
+
+Don't Attack with a Knife
+If armed with only a knife, don't rush into a room that is full of guards 
+and expect to come out alive. Spend your time looking for hidden rooms 
+which may provide more ammo. The only thing that separates a brave 
+man and a dead man is a well-placed bullet.
+
+Secret Floors
+Within the castle are secret floors which can only be reached from 
+hidden elevators.  Be sure to examine every possible hidden passage 
+for the location of these elevators.  Secret floors are extremely 
+dangerous, but yield tremendous reward.
+
+
+
+Troubleshooting
+
+Memory Problems
+If you run The Final Solution and get an "Out of Memory" window, there 
+are few things you can do.
+
+Remove TSR (resident) Programs
+If you change your AUTOEXEC.BAT to not load TSRs, they won't take 
+up memory that The Final Solution needs to run.  We recommend 
+temporarily renaming your AUTOEXEC.BAT to AUTO, and your 
+CONFIG.SYS to CONFIG.  Then re-boot your computer and restart the 
+game.
+
+Load DOS High
+If you have at least a 286 computer and extended memory, plus DOS 
+5.0, you can load DOS into high memory.  Simply put "DOS=HIGH" in 
+your CONFIG.SYS file.  Refer to your DOS Manual for further details.
+
+Other Ideas
+The Final Solution will use XMS (extended memory) and EMS (expanded 
+memory) if available.  If you have and EMS card or a 386 computer, 
+check your system manual for information on how to make this 
+available.
+
+Sound Problems
+A sound board is not required, but is recommended for playing The
+Final Solution. If you are having sound problems here are a few ideas that 
+may assist you!
+
+Sound Blaster Address
+When you installed your Sound Blaster or Sound Blaster Pro, you may 
+have needed to change the default addresses in order to resolve 
+possible hardware conflicts.  The Final Solution can work with non-
+standard Sound Blaster settings.  However, the program needs to know 
+these settings.
+
+To enable the program to obtain your settings, set the "BLASTER" 
+environment variable to contain the appropriate information.  To do this 
+either include the following in your AUTOEXEC.BAT file or type it on the 
+command-line before running The Final Solution:  SET 
+BLASTER=AxxxIxDx.
+
+Axxx represents the address of the Sound Blaster/Sound Blaster Pro.  
+For the Sounds Blaster, it's either A210, A220, A230, A240, A250 or 
+A260.  For the Sound Blaster Pro, it's A220 or A240.  Default is A220.
+
+Ix represents the DMA channel used by the Sound Blaster/Sound 
+Blaster Pro.  D0, D1 or D3 are acceptable values.  Default is D1.
+
+Try the default values first.  If one of the values is out of the acceptable 
+range, the program will Quit, indicating which of the values wasn't 
+acceptable.  Please refer to your Sound Blaster manual for details.
+
+Sound Blaster Pro Volume
+You may need to adjust the volume coming from the Sound Blaster Pro.  
+You can do this by adjusting the volume wheel or adjusting the volume 
+on whatever you have the Sound Blaster Pro attached to, or by using the 
+SBP-SET program that came with the Sound Blaster Pro.  If you use the 
+SBP-SET program, see the SB Pro User's Manual for details on how to 
+use SBP-SET.
+
+Sound Blaster and Gravis PC GamePad Problems
+If you have a Gravis PC Gamepad, a second joystick card and a Sound 
+Blaster, it is necessary to set the jumper on the Sound Blaster card to 
+"On" so that you are using the joystick port on the Sound Blaster.  Refer 
+to your Sound Blaster manual for details.
+
+Technical Support
+If you require further assistance in running The Final Solution, mail to 
+me at tvanputten@yahoo.com . 
+
+How to...
+
+When you'd like to know how I did particular things with the source code, visit my 
+Website to 
+find out. I will provide you with many in-depth tutorials on my website, besides 
+the basical 
+things you can read at every site(changing ceiling colors and other basic things). 
+It's also a 
+good starter for reaching other Wolfenstein 3D pages. Just go take a look!
+
+Sources of this game
+
+I tried to complete this list of sources, but it may be incomplete or give
+incorrect information. When you are the author of something I couldn't trace,
+please contact me so I can update this section.
+
+I used graphics from :
+
+"WolfenDoom : Spear of Destiny" by Laz Rojas
+"Operation : Panzerschiff" by Necrodog Industries
+"Return to Danger" by FormGen, Inc.
+"Basic Guard" by Necrodog Industries
+"Super Walls" by Necrodog Industries
+"Doom II" by iD Software
+"Conflict in the Fatherland" by B.J. Rowan
+"Project Totengraeber" by B.J. Rowan
+
+I used sounds from:
+
+"WolfenDoom : Operation Arctic Wolf" by Laz Rojas
+"WolfenDoom: Operation Rheingold" by Laz Rojas
+"Doom II" by iD Software
+"Operation: Panzerschiff" by Necrodog Industries
+"Return to Danger" by FormGen, Inc.
+"Conflict in the Fatherland" by B.J. Rowan
+
+I got my documentation from:
+
+"Adolf Hitler" by Christian Zentner
+"Das Boot" by Lothar-Gunther Buchheim
+"The Rise and Fall of the Third Reich" by William Shirer
+"The last days of Adolf Hitler" by H. Trevor-Roper
+"De Tweede Wereldoorlog van dag tot dag" by Heideland Orbis
+
+ Copyright Permissions 
+
+Authors MAY use parts of this game(Graphics, sounds, etc.) for their own projects. 
+
+Just give me credit where this is due and let me know about your add-on as soon as 
+
+it's finished and/or uploaded.
+
+You MAY distribute this game in any electronic format as long as it remains
+intact and UNALTERED. 
+
+When you want to include this Wolfenstein modification in a collection of
+Wolfenstein modifications, wether for sale or otherwise, contact me and
+inform me of this intention.
+
+A FINAL WORD
+
+Again, I'd like to thank you for downloading and trying my game. I worked very hard 
+
+on this. I'd like to thank all people who helped me out with this game. 
+
+Special TVP thanx to(not in order of appreciatement):
+
+Martin Bonnet(MCS)
+Brian Rowan
+Brian Lowe
+Kenny Riley
+
+Please let me know what you think wether via email or via my website. I'd appreciate 
+it.
+
+Tristan van Putten, author of The Final Solution.

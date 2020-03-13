@@ -1,0 +1,22 @@
+
+   Editing the main menu allows you to activate the various patch swappers
+and to access the standalone addons/TC's. If these items are not activated,
+they will not appear on the main menu. This is done via the add entry.
+Note that after you add/activate an entry, it will appear last on the menu;
+you will want to save the changes then move it to where you would like it.
+And save again.
+
+   The move and delete entries are self-explanatory. If you delete an entry,
+it can always be re-activated again. The WolfMenu Editor entry cannot be
+deleted, to always allow access to the Editor.
+
+   The edit titles entry lets you change the wording of each entry on the main
+menu.
+
+   The edit paths and command lines entry is used to let WolfMenu know
+where on your computer to find an item and what command to issue to launch
+that item. Usually not needed unless you made an error when adding, or if
+you moved something on your machine.
+
+
+    

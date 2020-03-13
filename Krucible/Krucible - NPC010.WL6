@@ -1,0 +1,61 @@
+^P
+^C6c KRUCIBLE
+^C6c
+^G100,250,146 
+^C55There was a middle aged man standing in the shadows of the cell. He stepped forward 
+and showed his face...
+
+^C59"You there, girl, you want to get out of here? What's your name?"
+^P
+^C6c KRUCIBLE
+^C6c
+^G100,250,146
+^G30,10,152
+^C55The young woman thought hard before replying.
+
+^C14"... Al... Ice... My name is Alice."
+
+^C59"Alice, turn left and take the small corridor to the left. You'll find a shotgun 
+I put in one of the chambers, you'll need it. Then come back to this cell, take the 
+path to the right until you reach a fence, then take another right..."
+^P
+^C6c KRUCIBLE
+^C6c
+^G100,250,146
+^G30,10,152
+^C59"There's a secret passage at the end with the fence blocking the nuclear waste. 
+Go inside, go through the first unlocked door to your left, there's another secret 
+passage in that chamber. You'll find a key inside."
+
+^C14"You're a strange man locked behind bars, why should I trust you?"
+^P
+^C6c KRUCIBLE
+^C6c
+^G100,250,146
+^G30,10,152
+^C59"Listen, the Government of Order are the real villains of Krucible. I know as 
+I used to work for them. Used to. As far as me being a prisoner, you were locked 
+up just as I am in this sub-terranean prison that is Wonderland. You really want 
+to throw away a chance to escape?"
+
+^C14"Point taken... Okay, what's next?"
+^P
+^C6c KRUCIBLE
+^C6c
+^G100,250,146
+^C59"To the left are 2 locked doors. Past them is a river of nuclear waste, follow 
+it through the locked doors with the key you just got... The river'll take you to 
+another key. From there I can't remember, but maybe you'll see someone who can point 
+you in the right direction."
+^P
+^C6c KRUCIBLE
+^C6c
+^G100,250,146
+^G30,10,152
+^C14"What about you?  How do I get you out?"
+
+^C59"You can't. But don't worry, kid. I got my own plan of escape. With luck, it'll 
+work flawlessly. Perhaps we'll meet again on the overworld."
+
+^C55And the man went back hiding in the shadows...
+^E

@@ -1,0 +1,34 @@
+                        THE LOST FORTRESS (SOD_21)
+                            Spear of Destiny
+
+     The Lost Fortress is a set I designed as a sequel to WLF3D_60. 
+It is a competely unique and redesigned set of levels of Spear of Destiny.
+I have used some of my better portions of WOLF3D_60 in it.  Most levels
+are completely unique.
+
+
+STORY
+	You have been assigned on a mission to capture the Spear of Destiny
+out of the forbidden fortress behind Castle Hollehammer.  Nobody has ever
+entered this fortress because when they open the door, they mysteriosly
+electricuted.  How could a fortress that dates back to prehistoric times
+have electricity? The Spear is the answer.
+	You are on a mission that nobody except Hitler himself has done.
+You will have to travel to the Neverending Tunnel within the heart of Castle
+Hollehammer to reach tho fortress.  The only way to make it through the gates
+of the Fortress, is to travel through the neverending tunnel.  Good Luck!
+
+LEVEL NAMES
+
+1-5 Tunnels
+6-10 Dungeons
+11-15 Castle
+16 Neverending Tunnel
+17-18 Fortress
+19 SuperTunnels
+20 Castle Tower
+
+
+Thanks for Playing the LOST FORTRESS,
+Creator of WOLF3D_60
+

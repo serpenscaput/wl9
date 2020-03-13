@@ -1,0 +1,261 @@
+
+PROJECT: 
+VERTILGUNG
+================ demo =================
+BY: ZACH HIGGINS
+
+Story:
+=======================================================================
+
+	Slowly and stealthily Army Ranger Captain B.J. Blaskowicz creeps down the silent 
+and empty hall. The walls have the smell of death. He doesn't know if it's just him 
+or if someone's watching him. He turns the corner when out of the corner of his eye 
+something moves.  CLICK! He turns and pulls the hammer on his P-08 Luger. A rat scurries 
+by. Sighing a heavy relieved sigh, he lowers his gun. "Damn these halls!" He mutters. 
+He turns around to keep moving when suddenly, "Halte!" screams a gray shirted soldier. 
+Quickly he rolls to the cover of a nearby alcove. Cocking his weapon he jumps out, 
+aims at the surprised German and fires. The Nazi crumples and blood begins to slowly 
+pour out of the man. With much frustration B.J. kicks the dead soldier yelling,"Piece 
+of SHIT!" He turns around only to find himself looking down the barrel of a pistol. 
+BANG!
+	AHHHHHHHHHHHHH! B.J. sits up, looks around and realizes he's in his Army quarters. 
+Sweat pouring from his body, he gets up. It's been 6 months since he retrieved the 
+Spear of Destiny from the nazis' clutches. He fought the Angel of Death and is still 
+recovering from the injuries. Ever since then he's had nightmares about the whole 
+ordeal. It always ends the same though. He gets shot through the head. He looks over 
+at the clock. 5:00 a.m. Aw shit. He knows he can't go back to sleep though. Out of 
+nowhere his cell phone starts ringing. Scrambling around in the dark, he finds it 
+sitting on his dresser. He was decorated greatly for his bravery in defeating General 
+Fettergheist and capturing the Spear of Destiny. As a result he got some of best 
+quarters around. He frantically answers the phone. "Hello?" It was General Eisenhower 
+himself. "I need you to report to my office immediately. Understood?" "Yes Sir!" 
+B.J. replied.
+	
+***
+
+	"We have reports of a large amassing of German troops and munitions at a remote 
+area in South Austria. I hate to tell you this but you'll be returning to Castle 
+Wolfenstein". A wave of horrible memories swept through B.J.'s mind. "As far as we 
+know there are only standard Wehrmacht and some S.S. There may be some high  ranking 
+officers though. You're the best of the best soldier. That's why we're sending you 
+in." Before the Wolfenstein ops I was labeled "a terminal action seeker." I'm not 
+so sure about that anymore sir." B.J. replied. "Come with me B.J." said the general. 
+He led him into a huge room full of people working on maps, weapons, and all sorts 
+of things. "This is very confidential B.J! If this info got to the public there would 
+be mass panic. You remember Dr. Artz Schabbs?"asked Eisenhower. "I'd rather not, 
+but yes sir I do," answered Blascowicz. "Head of the S.S., Goering, has recruited 
+him for a very strange task. His task is to find a way to ressurect Hitler. He doesn't 
+want him to reincarnate as near mindless zombie like Schabbs' previous creations. 
+He also wants him to actually look like he did before he was assassinated. A perilous 
+task. If he succeeded it would spell doom for us Allies.  He could create an army 
+of soldiers that aren't just brainless robots but planning, thinking killing machines. 
+So you're not just being asked to do this you're being ordered. Any questions?" " 
+No sir!"
+
+***
+
+	"Jump time is in less than a minute." reminded the pilot from the cockpit of this 
+tiny, inconspicuous plane. "Gotcha," B.J. told him. Strapping on his parachute he 
+readied to jump. He was dressed in an all black jumpsuit. Then the pilot yelled,"OK 
+go ahead." He leaped from the plane. He knew exactly when to pull his chute. He had 
+been a paratrooper before being recriuted for the O.S.S. It was deep in the night 
+so he didn't worry about anyone spotting him. What he did worry about was landing 
+in a tree or some other obstacle. Then he saw it. A huge, familiar castle loomed 
+ahead of him. He landed with a thud. He pulled off his parachute and ran behind a 
+tree. He had heard some steps. All they had given him was a knife. He saw a guard 
+walking. He was only standard infantry thank God. It would have been tough to take 
+on a machine-gun toting S.S. with just a knife. It was obvious he'd heard something. 
+When the guard's back was in full view B.J. jumped out, grabbed the guard and pushed 
+the knife into his lower back. He gurgled for a moment then lost conciousness and 
+slowly slid down. "Still got it!" said B.J. He picked up the guard's pistol. It was 
+a P-08 German Luger. He checked the clip. It had 8 rounds. Walking around the installation 
+he found a small room behind many vines and a row of white pillars. There were three 
+guards standing together talking. Stealthily B.J. slid between the pillars. Here 
+we go!
+
+
+Features:
+================================================================
+
+Brand new Status Bar
+New title screen and "PC-13" screen
+Tons of new graphics many done by me
+New, more realistic actors. (The brown-shirted guys, which I'm assuming were supposed 
+to be the S.A., had disbanded many years before U.S. involvement in the war. So I 
+made them into standard Wehrmacht soldiers with gray shirts. B.J. Rowan made some 
+extremely excellent S.S. Before they were blue suited. I figured that it was some 
+way of making a cartoonish black. Much thanks goes to B.J. Rowan for the black-suited 
+S.S!
+Some new wall textures
+
+Getting Started:
+================================================================
+
+1. Unzip into a new directory labeled something like, ProjVert or something you'll 
+remember. It doesn't matter. Just make sure it's new.
+2. Run Wolf3d.exe
+3. To start a new game select "New Game". Choose episode. Pick difficulty setting. 
+There ya go.
+
+Controls(for keyboard) :
+================================================================
+
+Fire: Ctrl
+Move: Arrow keys
+Run: Hold right shift + arrow keys
+Strafe: Alt + arrow keys 
+
+ 
+
+The Mission:
+----------------------------------------------------------------------------------------------------------------------
+
+Note: With the exception of episode 6 these are meant to be played in order.
+
+Episode 1: Infiltrate Wolfenstein
+In this episode your mission begins. Upon arrival at Castle Wolfenstein you are to 
+work your way to top floor where you will most likely find the maps that will lead 
+the Allied Forces to Schabbs and his Ongoing task to ressurect Hitler.
+
+IMPORTANT: Episodes 2 through 6 will not appear in the demo version.
+
+Episode 2: Operation: Ressurection
+After retrieving the maps we find that Schabbs plan is working. He has already manufactured 
+half an army of super-soldiers. Get in there and take out Schabbs and his creations. 
+If you get there in time perhaps you will be able to destroy his Hitler creation 
+as well.
+
+Episode 3: Die Mutant Clone Die!
+Upon eliminating Schabbs and Hitler Mutant you find some very surprising news. While 
+researching a way to ressurect Hitler Schabbs stumbled upon a method for cloning. 
+You found that he has created a clone of Hitler in case something like this happened. 
+It's location was included in a letter as well. Your mission is to destroy the Hitler 
+clone and any evidence that might exist.
+
+Episode 4: Assasinate Goering
+Now that the real threats are disposed of you must destroy the head of the operation, 
+Herman Goering. You must infiltrate his personal bunker and take him and his body 
+guards. This is your toughest mission yet. Good luck!
+
+Episode 5: Assasinate the Heinrich
+We have evidence to prove that the Heinrich Himmler is alive and in hiding. Find 
+his ass and destroy him. If you take out the head of the S.S. that'd be it for the 
+Nazi vision. This is your most important mission yet. Keep your senses active . The 
+installation is sure to be packed with elite guards.
+
+Episode 6: Training levels
+These are some recreations of the levels you fought bosses in, in the original Wolfenstein 
+game. Good for practice.
+
+Weapons:
+----------------------------------------------------------------------------------------------------------------------
+
+Here are the weapons found in the game. 
+
+
+ Combat Knife
+Basically this is a last resort. It can be used to spare ammo. Be careful when trying.
+
+
+    P-08 parrebellum.
+This was the German standard pistol in WW2(I know it wasn't in use while the U.S. 
+was in the war but I like it better!). This is the weapon you start the game with.
+
+
+  MP-40
+A very reliable weapon, This sub-machinegun was used throughout the war. The deadly 
+S.S. utilize it so be careful.
+
+ Chaingun
+This is the ultimate in WW2 weaponry. Developed by the Germans it was rarely used 
+in combat since it tended to jam frequently.(jk)
+
+  Ammo clip
+This ammo fits all the guns. Found nearly everywhere. You just have to look hard 
+enough. If you get it off a fallen man you get 4 bullets. If you get it off the ground(unused) 
+you get 8 bullets.
+
+
+
+
+
+
+Pickups:
+----------------------------------------------------------------------------------------------------------------------
+
+Here are the items you will pickup as you progress through the game.
+
+Health Items:
+
+
+  Dog Food.
+Self explanatory. It's dog food. Increases life by 2%. Usually found in kennel areas.
+
+
+  Chicken Dinner
+Last time I ate a a big chicken dinner I felt pretty good. So why shouldn't B.J.? 
+Increases health by 10%. Yummy! Found in kitchen areas mostly.
+
+  Med-kit
+German first-aid kits. Really good for you! Increases health by 25%.  Found in a 
+lot of secret areas.
+
+
+Treasure
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+This is treasure stolen from people(usually Jews)by the Germans and stored in the 
+castles. They go in order from least point worth to greatest point worth.
+
+ Cross
+These are found frequently and are not worth very much.
+
+  Chalace
+Found pretty often. These cups are pure gold and were once drank from by Austrian 
+royalty.
+
+  Treasure Chest
+These babies are pretty rare. Good money(and points).
+  Candle Stand
+Popular table decorations. Solid gold with high quality candles. These jackpots are 
+worth a LOT. Very rare. (If you think this is supposed to be a Chanukah candle dealie 
+its not. It was going to be but it would be huge and hard to fit. If you're a Jew 
+and are offended by me calling it a Chanukah candle deelie don't be. I just can't 
+remember what it's called.)
+ Life, 1up, whatever you want to call it
+This awesome and EXTREMELY rare pick-up gives you 100% health, 1 life, and 25 bullets.
+
+ 
+Silver Key: A key for opening some locked doors.
+
+ 
+Gold Key: Another key for opening locked doors.
+
+
+Tools used:
+----------------------------------------------------------------------------------------------------------------------
+
+
+Flo-Edit by Florian Stohr: Graphics replacements and maps.
+Wolf-edit by Bill Kirby: Graphics replacements.
+
+
+Thanks to:
+----------------------------------------------------------------------------------------------------------------------
+
+
+B.J. Rowan for: Project: Totengraeber graphics
+Tristan van Putten for: The Final Solution graphics
+Necro-Dog Industries for: Operation: Panzerschiff graphics
+AReyeP (pronounced ARE-EYE-P) for: WolfenDoom graphics
+Nayt Smith for: Beyond Wolfenstein 2: Special Edition
+Brian Lowe for: Helping with my constant problems!
+Florian Stohr for: Creating the best Wolf3d editing tool ever!!!! (can't wait for 
+2.0)
+
+Contact:
+----------------------------------------------------------------------------------------------------------------------
+
+
+You can contact me at Grindmachinezh@aol.com

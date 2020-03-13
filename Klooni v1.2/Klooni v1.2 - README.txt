@@ -1,0 +1,194 @@
+Klooni - A Doom Clone
+
+Version:  1.2
+Released: 8.12.2007
+Date:     23.5.2008
+
+
+Notes:
+
+Do not delete any included file, well you can delete this file,
+but all other files are needed by the game!
+
+There's a WAD authentication system that requires either
+DOOM2.WAD, PLUTONIA.WAD or TNT.WAD from your original Doom II or
+Final Doom.
+
+
+Version history:
+
+Version 1.2 (23.5.2008):
+
+- Fixed Cacodemon respawning and resurrection.
+- Fixed bug when Arch-Vile would turn to face another target while it's attacking 
+another.
+- Lost soul attack can now be stopped by shooting at it (Doom).
+- Fixed entry to secret level using shootable switch.
+- If player has walk/run/strafe momentum as he dies, that momentum is not lost.
+- Teleporting enemies should now appear every time (with less delay).
+- Added an enemy blocking floorcode.
+- Fixed some sounds blocking player death sound.
+- Fixed bug with switches in rooms with 1x1 floorspace.
+- Fixed modifications with title length 8 generated invalid savegame names.
+- Pain Elemental attack and death routines reworked.
+- Added secret walls that open with use key.
+- Increased maps per episode limit to 60.
+- Now possible to have multiple secret levels, or none at all.
+- Added a map option to take away players equipment at level start (sets health to 
+100).
+- Episode 5 secret level is now accessible.
+- Various stability improvements.
+
+Version 1.1 (16.12.2007):
+
+- Weapons are a little lower with statusbar than in the fullscreen display.
+- The shotgun is now less "obtrusive" as the player cocks it.
+- Hit detection for bullets is now more accurate.
+- Blood and cacodemons should now drop at equal speed on any fps.
+- Blood splat also now varies in size with damage caused by the bullet, like in Doom.
+
+- Pathfinding, (more like pathguessing since no true pathfinding is implemented) 
+is improved.
+- Partial invulnerability fixed.
+- Various smaller improvements.
+
+Version 1.0 (8.12.2007):
+
+- Initial release.
+
+
+About Klooni:
+
+Why make another Doom-to-Wolf conversion?
+
+The answer is simple, we could not use those fancy Doom editors and
+so we decided to bring as much of Doom gameplay to Wolfenstein-3D,
+a game we are very familiar with.
+
+Since the reason we started with Klooni was modding, we decided to
+make the engine support modding from ground-up so as little as
+possible is hard-coded to the game exe.
+
+Klooni is currently the most advanced engine available. It features
+vertically opening doors , variable player eye-level, trigger system,
+etc...
+
+Klooni contains all the enemies from DoomII except Spider Mastermind,
+enemies act and think like their Doom counterparts.
+
+Klooni also features all Doom II weapons, including the devastating
+BFG9000, behavior of each weapon has been modeled as closely as
+possible.
+
+Since Klooni is based on Doom graphics, it is required to own a
+copy of Doom II or Final Doom to play the game, fortunately still
+available at a reasonable price.
+
+
+Directories/files required for game to run:
+
+  root directory:
+
+    - DOOM2.WAD, PLUTONIA.WAD or TNT.WAD (not provided)
+    - KLOONI.exe
+    - AUDIOHED.WAD
+    - AUDIOT.WAD
+    - VGADICT.WAD
+    - VGAGRAPH.WAD
+    - VGAHEAD.WAD
+    - VSWAP.WAD
+    - songs.txt
+
+    main directory:
+
+       Ep* directory: (* Ep1-Ep6)
+
+       - GAMEMAPS.WAD
+       - MAPHEAD.WAD
+       - episode.ini
+       - partimes.ini
+       - secrets.ini
+       - songs.ini
+       - text9.ini
+
+
+Basic controls:
+
+Arrows  - Move
+Shift   - Run
+Alt     - Strafemode
+,.      - Strafe Left/Right
+Space   - Activate switches and open doors
+Control - Attack
+Tab     - Open map
+
+-       - Reduce view size
++       - Increase view size
+F1      - Help
+F2      - Open save menu
+F3      - Open load menu
+F6      - Quicksave
+F9      - Quickload
+F10     - Quit
+F11     - Gamma correction
+F12     - Take screenshots
+
+
+Credits:
+
+
+Main engine coding and testing:
+
+- Codetech84
+
+
+Mapping, graphics conversion:
+
+- Megabyte85
+
+
+Code help:
+
+- Ripper:
+
+  * Variable eye-level
+  * Variable enemy height
+  * Hi-res sprites
+  * Directional 3D-sprites
+  * Vertically opening doors
+  * Screen melting
+  * Bug fixing assistance...
+
+
+Dieharwolfers community:
+
+- For coding tutorials such as the multiple textured ceiling and floors (DarkOne, 
+Adam Biser)
+- Memory saving tips
+- Thank you for a nice community :)
+
+
+Beta testing:
+
+- Andy_Nonymous
+- WLHack
+- ronwolf1705
+- Doomjedi
+
+
+iD software:
+
+- Wolfenstein-3D engine
+- Doom series
+- Doom source code (used for reference)
+
+
+Doom Wiki (http://doom.wikia.com/wiki/Entryway):
+
+- Valuable source of information
+
+
+
+Homepage: http://koti.mbnet.fi/kfh/
+
+-KFH Games

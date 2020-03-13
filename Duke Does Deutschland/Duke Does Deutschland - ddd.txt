@@ -1,0 +1,9 @@
+			Duke Does Deutchland
+	For use with Wolfenstein shareware version 1.4
+
+Graphics, sounds from Duke Nukem.
+
+This patch replaces these 3 files from the original game:
+VSWAP.WL1   GAMEMAPS.WL1   MAPHEAD.WL1
+
+Be sure to back up the original files before copying these in.

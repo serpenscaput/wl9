@@ -1,0 +1,62 @@
+================================================================
+Title                   : The Last Floor 
+Filename                : PDwolf4.ZIP
+Date Released		: August 30, 2001
+Author                  : Pablo Dictter
+Email Address           : pablo@doomcenter.com
+Description             : One level that is worth playing.
+			  This has a ep2 theme, and I tried to make it w/
+			  much detailed as I could, but since that is imposible in
+			  wolf...
+			  No crappy looking new textures or fucked up new sounds.
+			  Just the good ol' original Wolf Stuff.
+			  This is my final wolf map, won't make any more wolf stuff.
+
+Credits to   		: Lindsey Crawford for ideas and testing.
+			  Tristan van Putten for Testing.
+
+================================================================
+* Play Information *
+
+Game          		: Wolfenstein v1.4
+Level(s) Replaced	: E2F1
+Dificulty Settings	: Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : New level from scratch
+Level Editor		: Flo's v1.1
+Graphic Editor(s) used  : None
+Other Editors		: None
+Known Bugs              : None
+
+================================================================
+
+* Other Works by me *
+
+PDsod1  - Chemical Reaction (my first wolf set ever, 4 maps)
+PDwolf1 - From Schabb's Hand (second set, 4 maps)
+PDwolf2 - Escape! (3rd wolf set, 10 maps)
+PDwolf3 - Fifth (4th wolf set ever, 5 maps)
+PDwolf4 - (my 25th wolf map)
+
+The Final Solution v3.0 - The Schabb's level (or boss map) for the TC
+Chase - A Level for this great episode.
+
+================================================================
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this level, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+http://pablosky.doomcenter.com
+================================================================

@@ -1,0 +1,11 @@
+TP.zip
+
+The Portal - an addon for Spear Of Destiny (14 levels)
+
+by Sandy
+
+
+Requires the full version of Spear Of Destiny to play.
+
+To install: Make a copy of Spear Of Destiny (full version). Name the folder TP. Overwrite 
+the files in the folder with those from Tp.zip. 

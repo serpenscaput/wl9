@@ -1,0 +1,82 @@
+"Wolf3d Community Map Pack" version 2.20
+
+Important note: If you've a version older than 2.10, delete the
+     CONFIG.WL6 file before running!  Saved games should still
+     work, though.
+
+This game runs in the 640x400 resolution.  If you want to run in
+     the 640x480 resolution in Windows XP, right-click the EXE,
+     select "Properties", click the "Compatibility" tab, and
+     check-mark the "Run in 640 x 480 screen resolution" option.
+     Then click the "Apply" button.
+
+Title screen, VSWAP, and source code are hacked by
+     Tricob.  Same goes for the demos and VSWAP, not
+     to mention that "Scaremare" tune you hear on the
+     title screen.
+
+This contains 6 maps for each episode, and is done by
+     the following DHW members:
+
+Episode 1 - Tricob
+Episode 2 - Levels 1, 2, 3, 4, and 10 by Thomas;
+            Level 5 by WLHack
+Episode 3 - Dean
+Episode 4 - Levels 1, 2, 3, 4, and 5 by Tricob;
+            Level 6 by Dean
+Episode 5 - WLHack
+EPisode 6 - Level 1 by Thomas, Level 2 by Brian Lowe,
+            Level 3 by Dean, Levels 4 and 5 by
+            Tricob, and Level 6 by RonWOlf
+
+Most of my levels are updates from my older add-on
+     "Operation: Kill BJ!", aside from E1L1, E1L5,
+     and E6L5, which are newer.
+
+This release is ported using the Wolf4SDL engine, which
+     was originally coded by Ripper.  It should run on
+     most MS Windows operating systems, but Windows 2000
+     compatibility has *not* been tested.
+
+Font #2 as well as the Locked Door sound were corrected
+     using WDC and its Font Editor.
+
+I also credit the "5000 Free Sound Effects" CD for
+  supplying the "dog death" sound I used, and the
+  "Goldwave" utility for applying my correction to
+  the "Spion!" alert sound.
+
+Note that I've included a batch file that enables the
+     Debug Keys when you run it.  It's called
+     "GoForIt.BAT".
+
+My sincere apologies to all of you whose names in the
+   DOS EXE were replaced by someone else's.  I don't
+   really know how the mistake happened in the first
+   place, but I try hard to give credit where credit
+   is due.  All proper credit (AFAIK) is given in this
+   SDL version.  If it isn't, please let me know.
+   Thanks!  :-)
+
+Version info:
+
+1.00: DOS-based version.
+2.00: Windows-based version released, with numerous problems
+     corrected.
+2.10: Bug in raycastor is corrected, and the Controls (a.k.a.
+     "Options") menu is expanded.  Also corrected the "player
+     rotates to non-existent enemy" bug when selecting "End
+     Game".
+2.20: Save Game option after "You Win!" is corrected, all ratios at
+     the Level Complete screen now run the same speed, and all
+     Adlib sounds should now function 100% correctly.
+
+Thanks to everyone who made this mapset possible.
+       You've all done good levels here, and that's
+       one of the reasons I wanted this collection to
+       be released;  good maps are useless if no one
+       ever gets to play them.
+
+Enjoy the SDL port, folks.  :-)
+
+- Tricob.

@@ -1,0 +1,20 @@
+^BCe3^SCe1^ST1^FN1^BX1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 5 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+Good work, Blake! You've knocked out his living base on the moon.
+^EP
+^FC3a^FN1^CEMISSION 5 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+The end is near ... Goldfire is desperate and will do anything to get his alien legion 
+to earth. You must stop him now...
+
+Move quickly to the defense building to receive your final orders to destroy Goldfire's 
+creations forever.
+
+<End Transmission>
+^EP
+^XX...

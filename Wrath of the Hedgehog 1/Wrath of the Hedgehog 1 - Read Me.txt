@@ -1,0 +1,72 @@
+
+
+***Wrath Of The Hedgehog: Milly F. Fox Saves John The Hedgehog (a new Wolfenstein 
+3D total conversion) by John Hedgehog***
+
+Revised version: jhedge3c.zip
+Dated 4/15/01
+
+
+It's 3235 and people are still quite shaken at what The War Of The World has done. 
+The Nazi's plan to attack villages. John Hedgehog was captured and needs to be set 
+free. He's at a Camp in the village. You are Milly F Fox, and you have to save John.
+
+
+Episode 1: The Journey Begins
+Levels: 1-10: Village Quarters-
+This is where your journey Begins. Milly comes to find a note signed by John. She 
+goes off to the village to see that it's guarded by SS, Officers And Guards. She 
+will have to try to get past them. Good Luck!
+
+Episode 2: Operation: Get Milly
+Levels 11-20 :Underground-
+This is where you have to find The Boss in this episode. But the Zombie Soldiers 
+will try to stop you at all costs.
+
+Episode 3: More News
+Levels 21-30: Castle Hollehammer-
+You made it to the castle. You'll defeat the evil that created this war.
+
+Episode 4: Milly's Reckoning
+Levels 31-40: Hidden Palace-
+You find a Hidden Palace that was inhabited, and now is habited by the SS and Officers. 
+You'll have to defeat them.
+
+Episode 5: Time Is Running Out
+Levels 41-50: Floating Island-
+You made it to the island. Still you have to take out the First General. You get 
+more info on John's whereabouts.
+
+Episode 6: Last Resort
+Levels 51-60: Village Camp-
+You made it. But you need to get into the camp where you'll find John tied up. And 
+the Second General won't give up without a fight. Good Luck.
+
+- These levels were previously used in Wrath Of The Hedgehog Part II, but they've 
+since been heavily edited. In this latest version, large parts of episode 2 - levels 
+7 and 8 have been changed. Several other levels have had more minor changes, including 
+the opening level. A saved game from episode 2 - level 6 is included.
+
+- Some changes have been made to the source code, such as ammo, health, ceiling and 
+floor colors, cheats etc. The ILM cheat still works, but with different letters. 
+
+
+- Some graphics have been changed. 
+
+  
+by John Hedgehog (email: john_hedgehog3k@yahoo.ca)
+
+Thanks also to:
+Brian Lowe (email: brian@brlowe.globalnet.co.uk) - who helped with the levels and 
+source code 
+Tristan van Putten - source code help
+	
+
+Special thanks to:
+
+Bill Kirby
+Id Software
+Robert Prince
+ 
+
+©2001 ID Software/W.O.T.H. all rights reserved

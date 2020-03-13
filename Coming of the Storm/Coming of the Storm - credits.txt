@@ -1,0 +1,84 @@
+CREDITS
+
+This is a list of other people who have helped, in one way or another, in the making 
+of this add-on.  I apologize if there's anyone I forgot to mention here.
+
+
+* Source Code Tutorials/Advice:
+
+
+Martin Bonnet (MCS) - ambient sounds, enemy-blocking tile, seamless level progression
+
+
+DarkOne - sprite bug fix
+
+Ripper - directional 3D sprites, outdoor atmosphere, multiple door frames
+
+Paal Olstad (Poet) - code for explosions, some of the weapon code
+
+Luke Strauman - some of the weapon code
+
+
+* Graphics/Sound effects:
+
+
+Id Software - all modified/unmodified graphics and sound effects taken from Wolfenstein 
+3D, Spear of Destiny, and Doom
+
+FormGen Corporation - all modified/unmodified graphics taken from Spear Lost Episodes
+
+
+Raven Software - all modified graphics and sounds taken from Heretic and Hexen
+
+Gray Matter Studios - sounds from Return to Castle Wolfenstein
+
+Valve - sounds from Half-Life
+
+Steve Wally (AReyeP) - table w/ chairs, desk, some of the bones, flag on pole, green 
+barrel (originally red), death frames for the Gestapo Officer (modified)
+
+Laz Rojas - black SS trooper (originally without armband), rifle pickup, assault 
+rifle pickup, gray crates, a few other modified graphics from the WolfenDOOM games
+
+
+Brian J. Rowan - red armband on black SS trooper
+
+Apogee/3D Realms - operating tables, toilet
+
+Ben Blaufarb - flame thrower fireballs
+
+Ian Skevos-Jones (my younger brother) - treasure graphics
+
+
+* Editing Utilities:
+
+
+Florian Stöhr - FloEdit 1.1
+
+Adam Biser - Wolfenstein Data Compiler (WDC)
+
+Borland - Borland C Compiler 3.1
+
+DarkOne - IMFtools
+
+Ripper - Bitmap-to-C Convertor
+
+Jasc Software - Paint Shop Pro 7
+
+Sonic Foundry - SoundForge XP 5.0
+
+
+* Special Thanks:
+
+
+Id Software - for creating Wolfenstein 3D and other great games, and for releasing 
+the Wolf3D source code to the public
+
+Brian Lowe - for running the Wolfenstein 3D Dome, for posting this add-on as well 
+as many others, and most importantly, for bringing the Wolfenstein community together
+
+
+Ripper - for correcting my German
+
+You - for playing this game :)
+

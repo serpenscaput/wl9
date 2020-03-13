@@ -1,0 +1,109 @@
+<HTML>
+<HEAD><TITLE>Map Errors</TITLE></HEAD>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<body>
+<font class="title">
+Error Message Guide :: Map Errors
+</font><br>
+<br>
+<table>
+    <td class="title">Error Description</td>
+    <td class="title">Resolution</td>
+</tr>
+<tr>
+    <td class="item"><a name="0">Map has no player start position.
+    <td>The player needs to start somewhere.
+</tr>
+<tr>
+    <td class="item"><a name="1">Additional start position found at x,y.
+    <td>You only need one start position.  Choose the correct one and get rid of 
+the others.
+</tr>
+<tr>
+    <td class="item"><a name="2">Player start position is in a wall at x,y.
+    <td>The player shouldn't be inside of a wall.
+</tr>
+<tr>
+    <td class="item"><a name="3">Secret door at x,y is not on a wall.
+    <td>Secrets only work when placed on a wall.
+</tr>
+<tr>
+    <td class="item"><a name="4">Turning point at x,y should not be inside a wall.
+
+    <td>Turning points should be placed on floors.
+</tr>
+<tr>
+    <td class="item"><a name="5">Turning point at x,y should not be inside a door.
+
+    <td>Turning points should be placed on floors.
+</tr>
+<tr>
+    <td class="item"><a name="6">[objectname] at x,y should not be inside a wall.
+
+    <td>Objects should be placed on floors.
+</tr>
+<tr>
+    <td class="item"><a name="7">[objectname] at x,y should not be inside a door.
+
+    <td>Objects should be placed on floors.
+</tr>
+<tr>
+    <td class="item"><a name="8">Incomplete path for moving guard at x,y.  Collision 
+occured at cx,cy.  Last turning point was at lx,ly.
+    <td>You need to set up some more turning points for the moving guard found at 
+lx,ly.
+</tr>
+<tr>
+    <td class="item"><a name="9">The deaf guard at x,y is blocking a door.
+    <td>Deaf guards directly in front of doors can cause the door to be invisible 
+and unopenable as well as just causing everything around there to act funny.
+</tr>
+<tr>
+    <td class="item"><a name="10">Map code 0 is used at x,y.
+    <td>Wall code 0 does not mean anything
+</tr>
+<tr>
+    <td class="item"><a name="11">Non-wall map code used on map border at x,y.
+    <td>This is not necessarily a huge error.  Just check to make sure the player 
+cannot leave the map.
+</tr>
+<tr>
+    <td class="item"><a name="12">Locked door requires key #n, which is not in the 
+map.
+    <td>You have a locked door, but no key and no guard which drops that key.
+</tr>
+<tr>
+    <td class="item"><a name="13">Key #x does not unlock any doors.
+    <td>You have a key, but no door for that key.
+</tr>
+<tr>
+    <td class="item"><a name="14">Too many guards: n, max: 149.
+    <td>Unless you have made source code changes, you can only have 149 guards per 
+map.
+</tr>
+<tr>
+    <td class="item"><a name="15">Too many static objects: n, max: 399.
+    <td>Unless you have made source code changes, you can only have 399 static objects 
+per map.
+</tr>
+<tr>
+    <td class="item"><a name="16">Too many doors: n, max: 63
+    <td>Unless you have made source code changes, you can only have 63 doors per 
+map.
+</tr>
+<tr>
+    <td class="item"><a name="17">Map has no guards.
+    <td>Not having any guards used to cause "divide by 0" errors.
+</tr>
+<tr>
+    <td class="item"><a name="18">Map has no secrets.
+    <td>Not having any secrets used to cause "divide by 0" errors.
+</tr>
+<tr>
+    <td class="item"><a name="19">Map has no treasure.
+    <td>Not having any treasure used to cause "divide by 0" errors.
+</tr>
+
+</BODY>
+</HTML>

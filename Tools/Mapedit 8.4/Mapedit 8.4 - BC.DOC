@@ -1,0 +1,451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          EDITING/CREATING NEW FLOORS
+                                      for
+                             Operation: Body Count
+                                      by
+                                  Warren Buss
+       
+                   ************IMPORTANT NOTICE*************
+
+       Operation: Body Count (tm) - is a Copyrighted game. As such you are
+       cautioned NOT to distribute any files except the modified
+       MAPTEMP.BC and MAPHEAD.BC files.
+
+       If you experience any problems with floors you develop for Body
+       Count using Mapedit, you are requested NOT to contact IntraCorp,
+       Inc. Tech Support. They will not provide help. Instead, contact one
+       of the authors of Mapedit. Please include this entire notice with
+       any floors you distribute to others.
+
+                   *************IMPORTANT NOTICE************
+
+
+
+
+
+
+       * Operation: Body Count is a trademark of IntraCorp, Inc. All other
+       trademarks are acknowledged.
+       
+                                Table of Contents
+
+
+       Introduction . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+       DATA DEFINITION FILES  . . . . . . . . . . . . . . . . . . . .  4
+
+       New Features in Body Count . . . . . . . . . . . . . . . . . .  4
+
+       Wall Destruction . . . . . . . . . . . . . . . . . . . . . . .  5
+
+       Body Count Design Considerations . . . . . . . . . . . . . . .  5
+
+       More Body Count Design Considerations. . . . . . . . . . . . .  8
+
+       Hidden Areas, Push Walls . . . . . . . . . . . . . . . . . . .  8
+
+       Locked Doors . . . . . . . . . . . . . . . . . . . . . . . . .  8
+
+       Special Trigger Codes. . . . . . . . . . . . . . . . . . . . .  9
+
+       How Animation Works. . . . . . . . . . . . . . . . . . . . . .  9
+
+       Non-Sliding Doors. . . . . . . . . . . . . . . . . . . . . . .  9
+
+       NETWORKING & Deathmatch Play . . . . . . . . . . . . . . . . . 10
+
+       Debugging Your Levels. . . . . . . . . . . . . . . . . . . . . 11
+       
+       Introduction
+
+       Operation: Body Count is the 2nd game from IntraCorp, Inc. that
+       uses an engine licensed from id Software. The first was Corridor 7.
+       Body Count utilizes many of the same features developed especially
+       for Corridor 7. (See the Corridor 7 document in this package for a
+       list of features new to these two games from IntraCorp. Inc.
+
+       As far as creating floors for Body Count is concerned, the approach
+       does not differ markedly from creating floors for Wolf3D, Spear of
+       Destiny, Blake Stone, or Corridor 7. If you have never created a
+       floor for any of these games before, it is recommended that you
+       read through "Tips for Creating/Editing Wolf3D and Spear of Destiny
+       Designs". This document is included in the Mapedit package. The
+       above document will give you a flavor for what is involved.
+
+       DATA DEFINITION FILES
+
+       MAPEDIT provides data definition files for all games it supports.
+       One of these is the MAPDATA file which incorporates graphic symbols
+       for all the walls and doors that appear in Body Count. The other
+       file is the OBJDATA file which contains graphics symbols that
+       represent everything else in the game. The descriptions that appear
+       in the MAPEDIT legend window are mostly too long to fit in the
+       limited space so you must scroll the legend window horizontally to
+       read the entire description. The descriptions are lengthy due to
+       the complexity of the graphic designs.
+
+       New Features in Body Count
+
+       To those of you who have played previous 3-D games, the most
+       obvious new feature that is immediately apparent in Body Count (as
+       well as in its predecessor Corridor 7) is the use of "glass" walls
+       through which one can clearly see what is on the other side. This
+       "see-through" feature is extended to certain types of doors as well
+       as other wall types that partition off the floor space.
+
+       Note: Enemies cannot see through any type of wall. If they can be
+       seen moving rapidly about on the other side of a "see-thru" wall,
+       it is because they have shifted to Attack Mode for some reason not
+
+                                      -4-
+       
+       related to the "see-through" feature.
+
+       Another interesting feature is the use of "pseudo" animation. Much
+       of the movement in Body Count is inherent and controlled by the
+       engine. Some of it needs to be overtly triggered by the floor
+       designer with the use of certain triggering object codes. A set of
+       triggering object codes is also used to activate the "see-through"
+       feature mentioned in the previous paragraph.
+
+       Still another feature is the appearance of bullet holes in some
+       walls after shots are fired. Also glass breaking when bullets hit
+       it.
+
+       Wall Destruction
+
+       One important feature is the use of the most powerful weapon
+       available in this game. This is the Grenade Launcher which fires
+       40mm shells and can destroy any wall or room. To avoid problems
+       when using such a weapon, it is necessary to protect certain walls
+       from being destroyed or damaged. Particularly the outer perimeter
+       walls must be protected so that they won't disappear when hit by a
+       shell. This would allow exit from the map and cause problems.
+
+       Object code 0059 is used for this purpose. When this code is placed
+       in the same cell as any map code, whatever map code is in that cell
+       cannot be damaged by a 40mm round. The map codes on either side of
+       a door are also protected as are all elevators and entry and exit
+       ways so the player will be able to get out when it's time.
+
+       You are advised to study the original levels to see how this code
+       is used. Mapedit displays this code in the map window as a yellow
+       open square. There are literally hundreds of them in every level.
+
+       Body Count Design Considerations
+
+       Several features, which may not be obvious at first when playing
+       the game, are included to make play more interesting and difficult.
+       One of these is how the use of certain types of doors will prevent
+       the player's shots from passing through an open doorway.
+
+       Essentially, two types of doors are used in Body Count. The
+       traditional sliding door (mostly elevator doors) is recognized by
+       the game's engine as a real door and when the player shoots through
+       an open sliding door, the shots will pass through and hit their
+       target. Both the player and the actor can see one another.
+
+       The other type of door used (non-sliding) is really a wall with a
+       special object code on it that makes it appear to be a door that
+       opens and closes (by the use of animation). Both the player and
+       actors can move back and forth unhindered through these doors. But
+       ammunition will not penetrate the open doorway. The player is
+       forced to wait until an enemy has come through such a door before
+
+                                      -5-
+       
+       his/her ammo will hit the target, or the player, alternatively,
+       must move to the other side of the door. As a result, if enemies
+       are seen unmoving on the other side of such a door, the player is
+       forced to go in after them rather than waiting for them to come
+       out. Further, if enemies are moving towards the doorway, they will
+       not attempt to shoot until they pass completely through the
+       doorway.
+
+       Another element over which you as a designer will have no control
+       and which makes for more difficult play, mostly occurs when the
+       game is played at skill levels 3 and R (random). At these higher
+       skill levels, the player will occasionally find an enemy actor that
+       will not be killed easily. This includes rats, humans, and the
+       flying turrets. The player, if not careful, can use up a lot of
+       ammo when trying to dispose of these actors. (The player needs to
+       switch to the flame-thrower for rats and humans. The flying turrets
+       are a challenge, but can be destroyed with rocket grenades (flames
+       cannot touch them). To reduce the number of instances where a
+       player has to engage a super-enemy, the player must be more
+       aggressive and not hang back waiting for the enemy to come to
+       him/her.)
+
+       A final element over which you will have no control as you design
+       floors for Body Count occurs when the game is played at the random
+       level of difficulty. This degree of difficulty is similar to level
+       3 except that the player will see many more floor mines (booby
+       traps) scattered throughout most floors, that do not exist on the
+       floor as it was originally designed. On the other hand, during
+       random play, many of the items that were previously hidden from
+       view such as Health Packs, Weapons, etc., will usually be much
+       easier to find because most of them will appear out in the open.
+       Also, enemies will occasionally show up within hidden rooms that
+       are accessible via a pushwall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -6-
+       
+       More Body Count Design Considerations
+
+       Wolf3D and Spear of Destiny are prison and castle environments. As
+       such, the use of narrow corridors is in keeping with the spirit of
+       the game (although many wide halls and corridors were used too).
+       Hidden rooms entered through pushwalls contained treasure and
+       caches of ammo and weapons, but sometimes pushwalls were used as
+       shortcuts to other areas.
+
+       Blake Stone occurs in a futuristic sci-fi environment. While there
+       were many alien type creatures created by Dr. Goldfire, there were
+       also humans. The floor designs were not generally dungeon-like in
+       appearance. Hidden rooms were used in virtually the same manner as
+       in Wolf3d and SoD.
+
+       Corridor 7 suggests an entirely different environment: a modern
+       office and lab complex on earth, which is being slowly converted to
+       an out-of-world environment suitable for supporting the alien life
+       that is occupying it. Aside from our Space Marine, there are no
+       other live humans. Narrow halls are the exception rather than the
+       rule.
+
+       Operation: Body Count takes place in twin UN Buildings plus 5 sewer
+       levels. There are only humans, rats, and flying turrets. The
+       environment is modern and graphics have been designed with this in
+       mind.
+
+       Hidden Areas, Push Walls
+
+       Body Count, like its predecessor Corridor 7, contains no treasure.
+       Hidden areas normally contain weapons, ammo, flak jackets, heat
+       sensors, health packs, and other devices helpful to the survival of
+       the player. Many pushwalls must be pushed more than once in order
+       to reach what is hidden. Pushwalls move 2 squares (or cells) at a
+       time. To move the wall again, it must stop on another push wall
+       object code.
+
+       Locked Doors
+
+       There are no locked doors in Body Count. If a door doesn't open, it
+       was not intended to open. These are doors that have not had a
+       special object code placed on them to force the animation of a door
+       opening/closing.
+
+
+
+
+
+
+
+
+
+
+                                       -7-
+       
+       Special Trigger Codes
+
+       As indicated above, Body Count uses special object codes to cause
+       certain walls/doors to appear animated or to be able to see through
+       different wall and door types. These are listed below together with
+       where and how each code is used.
+
+       Object
+       Code     Description
+       ----     -----------
+       0056     Slow Speed Animation
+       0057     Normal Speed Animation
+       0058     High Speed Animation
+       0067     Sliding Door "see thru" and open/close activator
+       0068     Glass "see thru" activator
+       0069     Wall "see thru" activator (incl. fences)
+       006a     Non-sliding door activator with "see thru"
+       006b     No Clipping activated for single map cell
+
+       The above codes are inserted in the same cell on the map as the
+       wall/door that is to be activated.
+
+       How Animation Works
+
+       Animation is implemented in the following way. When the program
+       detects any wall type with an Animation code on it, the program
+       displays the wall represented by that code and the following 3
+       codes in rapid sequence. This causes the wall graphic to be
+       animated. Any one of the 4 wall types used in the animation
+       sequence could be used by itself without an Animation code, thus
+       eliminating any movement. Animation speed codes are not used in
+       conjunction with doors. These are reserved for certain wall
+       graphics. The speed is determined by which animation code you
+       select. Choose the one you think gives the effect you desire.
+
+       There is a special type of animation that occurs for certain wall
+       types when they are hit by the player's bullets. This animation
+       occurs automatically without any overt action required by the
+       designer.
+
+       Non-Sliding Doors
+
+       As mentioned above, there are 2 basic types of doors used in Body
+       Count. The conventional doors slide left or right when opening. You
+       are limited to 63 of this type of door per level. Such doors
+       require no special triggering to make them operate. However, non-
+       sliding doors do require special triggering.
+
+       Because unconventional doors cannot be handled the same as the
+       sliding doors, the animation effect must be applied so that four
+
+
+
+                                       -8-
+       
+       separate door codes are cycled through one time to see the door
+       open and in reverse to see the door close. Object codes '67' and
+       '6a' are used for this purpose. Each is inserted on the map in the
+       same cell as the door that is to be operated.
+
+       If you want to have one of these doors in the open position and not
+       allow it to be closed, then choose the fully opened door code for
+       the door type you want and then use object code '6b' so that the
+       door can be walked through. Code '6b' does 2 things. It makes a
+       wall or door appear as a thin partition and then applies "no
+       clipping" logic so that it can be walked through.
+
+       To help you determine which doors/walls can be animated, the
+       Mapdata legend window in Mapedit will provide some added
+       information: the trigger object code needed to animate the action
+       at the end of the description and a small letter 'a' in parenthesis
+       at the start of the description identifies a map code as being one
+       that may be animated.
+
+       NOTE: In the aggregate, you cannot use codes 56-58, 67, 6a, and 6b
+       more than 32 times per level. If you exceed 32, Mapedit will
+       highlight the Stat "Total Animates" in RED to alert you. If you
+       ignore this or do not see it and attempt to execute the level with
+       more than 32 "animation" codes, the game will abort with the
+       message "BC Aborted". Before restarting the game, take a look at
+       the contents of a file in the game directory named "BC.LOG". This
+       will contain an error code on the first line. If the code is 703,
+       then you've exceeded 32 animation codes for one level.
+
+       NETWORKING & Deathmatch Play
+
+       There are 10 additional levels available for this purpose. They are
+       levels 51 through 60. They have large open areas and lots of
+       available ammo, weapons, health items, etc. There are no enemy
+       actors in these levels.
+
+       While there are starting locations are in each Network level, the
+       game will assign random starting locations for each player at the
+       start of the game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -9-
+       
+       Debugging Your Levels
+
+       To assist you in debugging any levels you create or modify, you can
+       run the game in Debugging Mode. To set this up, you start the game
+       in the normal way EXCEPT you add a parameter on the command line:
+
+       BC vfr750hondarc45
+
+       You can add other command line parameters before or after the one
+       above.
+
+       You can start the game as a "new game" and when you get to the
+       first level, to enable the Debugging Keys, hold down and press
+       Alt+LeftShift+D. The word "DIAGNOSTICS" will appear on screen.
+       Since you're in diagnostic mode and not trying to play the game for
+       real, the first thing you may want to do is press  ALT+W, then type
+       the level number you want to test and press Enter. You will be
+       "warped" directly to that level. After you get there, you can then
+       select any of the key combinations below to invoke other debugging
+       functions.
+
+       ALT+I          Invincibility/Vulnerability Toggle (God Mode)
+       Backspace+G    (Same as above)
+       ALT+W          Warp to a different level
+       ALT+R          Restock all weapons and ammo
+       ALT+T (or T)   Abort to DOS (w/o going through main menu)
+       ALT+D          Diminished Light Source toggle
+       TAB+D          (same as above)
+       TAB+E          Alter floor color
+       TAB+Q          Alter ceiling color
+       ALT+H          Health
+       Backspace+C    Stats
+       Backspace+F    Displays current position on screen
+       Backspace+I    Increase Score
+       Backspace+M    Memory Stats
+       Backspace+N    Toggle Gumby Mode (no-clipping)
+
+       NOTE: If for any reason you end up at the game's main menu while in
+       Debug mode, you will lose debugging capability.  You will have to
+       exit to DOS and restart the game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -10-
+       
+

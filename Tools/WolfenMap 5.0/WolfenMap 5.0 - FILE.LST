@@ -1,0 +1,20 @@
+
+The WM50.ZIP file should have contained the following files:
+
+
+README  .1ST  - Version 5.0 notes
+WM      .DOC  - Documentation
+FILE    .LST  - This file
+
+WM      .EXE  - WolfenMap v5.0
+
+WALLS   .DAT  - Map items file for "Wolfenstein 3D"
+THINGS  .DAT  - Things file for "Wolfenstein 3D"
+WALLSSOD.DAT  - Map items for "Spear of Destiny"
+THINGSOD.DAT  - Things file for "Speaar of Destiny"
+
+EGAVGA  .BGI  - Borland's Graphic Interface runtime module
+
+
+Note: All products mentioned are copyrighted property of their respective owners.
+

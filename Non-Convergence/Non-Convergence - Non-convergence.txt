@@ -1,0 +1,31 @@
+"Tricob's Non-convergence 1-level demo"
+
+Hello again from Tricob.  This is a one-level demo of a new map I made.  To challenge 
+myself as a map designer, I decided to go beyond my comfort zone and create a map 
+that took the difficult way towards design ... every step of the way.  This map was 
+supposed to be nothing more than an experiment, and I didn't even expect it to be 
+any good.  But when it was done, it had come out a lot better than I expected it 
+to.
+
+This map is called "Non-convergence" for a reason - for over half of the level, the 
+left wall has a different texture than the right one, and the player never sees those 
+two textures join together.
+
+This new level uses the Base Of Operations source, and many of the features you saw 
+in the one-level demo also appear here, including the "keys on shelves".  But there 
+are no floor/ceiling textures this time around.
+
+Of all the maps I've ever done, this one is my personal favorite.  Oddly enough, 
+it falls well below the original Wolf3D requirements;  there's less than 350 Static 
+Objects, less than 100 Actors, and less than 20 doors!  I still don't see how that 
+happened.
+
+Anyway, enjoy the map, but be forewarned - once you play through this level, you'll 
+never look at my maps the same ever again.
+
+Ubuntu users:  I could not get "Code Blocks" to work, so I've included a Ubuntu shortcut 
+that'll run the game in the WINE emulator.
+
+Enjoy the demo.  :-)
+
+- Tricob.

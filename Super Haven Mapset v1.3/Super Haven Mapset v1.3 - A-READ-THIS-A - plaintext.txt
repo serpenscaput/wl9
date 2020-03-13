@@ -1,0 +1,315 @@
+'Super Haven Mapset'
+By Dark_wizzie, Schabbs, and Ack, and members of Wolf3d Haven
+This game is version: 1a
+'Read This' version: 1a
+Distribute freely!
+You may edit this game to your liking and publish it, but do say where you got the 
+levels from. 
+Contact Wolf3d Haven at: www.wolf3d.darkbb.com 
+-
+This Read Me is meant to be viewed with a WordPad. If you cannot use that software, 
+try opening it with Word.
+-
+There is a surprise for those who find the most difficult secrets in each episode. 
+The surprise is on each episode, and could be in any level of the episode. And on 
+the first episode, there are two of the surprises. (Good luck finding either!)
+-
+YOU CANNOT GET 100% ALL RATIOS WITHOUT PLAYING ON HARDEST MODE.
+Some levels are EXTREMELY difficult to get 100% all ratios.
+=========
+= INTRO =
+=========
+What is the Super Haven Mapset?
+
+For most Wolf3d Haven members, this is obvious, but not everyone is a Wolf3d Haven 
+member. Well, quite a while ago (say, two years ago) I started my first serious wolf3d 
+map. I wanted to make a 60 level mapset called “Bones Alert ", admit tingly similar 
+to the “Red Alert " wolf3d add-on. Since then, I realized there is no way I could 
+have completed 60 levels. And I saw the Haven Mapset, with only 20 levels, and thought 
+--- well, "What better way to solve my problem then to make a new version of the 
+Mapset?" It would complete the Haven mapset, it would serve the mapset some dignity...I 
+would finally complete a whole 60 level mapset. 
+
+Since my initial call for levels, many Forum Members have stepped up to complete 
+the mapset. (Listed right after level list)
+Well, I hope you enjoy the Super Haven Mapset --- the new, greater, version of the 
+Haven Mapset. Cheers! ~~~ Dark_wizzie (Aka, Eric Lin)
+================
+= NEW FEATURES =
+================
+Not many, to keep original atmosphere but...
+
+-250 ammo max, 200 hp max, new graphics (most of them are minor) 
+-No damage flash in God Mode
+-Changed Episode names
+-Start E3L9 and E6L9 with pistol/8 rounds and 100hp only.
+-Able to see near infinite objects at once (100 on the dos exe)
+-Able to hold near infinite static objects (699 objects on dos exe)
+-Seemingly infinite channels of sound... No need for B-A-T?
+-Do nothing and space bar sound taken off.
+-Surprise(s) to those who find the very hardest to find secrets in the mapset.
+-Ability to change view size to ultra full screen, full screen, etc.
+-Tab B - Pick a border color
+-Tab k - Give keys. You can pick the key you want.
+-Tab S - Allows modification of how much of a slow - motion effect you want.
+-Tab N - No Clipping
+-Tab P - Take screenshot
+-Tab - Show HP/ammo, etc when in ultra full screen
+-Tab G - God Mode - Press it again for God Mode no damage flash. Note that actually 
+both modes have no damage flash.
+-Tab D - FPS Counter
+-Tab W - Warp Level - Warp to any level on the episode.
+-Tab E - Instant Level Finish
+-Tab Q - Instant Exit Game - Instantly exits the game without warning or saving.
+
+-Tab X - "Extra Stuff"
+-Tab V - Extra VBLs - Want to lag? Put down more VBLs...other than that, it doesn't 
+do much.
+-Tab c - Shows statistics of the current level...such as the number enemies/static 
+objects in the level.
+-Tab I - Gives free weapons/ammo/hp/lives/score
+-Tab O - Shows map of the level. It also shows where the enemies roughly are in the 
+level as well. Great for levels with lots of secrets. (Episode 1, Level 8, *cough* 
+*cough*) One the left hand side of the map shown, the bright yellow squares are where 
+the enemies are. A blob of yellow means theres a lot of enemies in that one area.
+
+
+
+
+
+
+
+========== 
+= LEVELS =
+==========
+Episode 1: The Blastin' Fortress
+E1L1 - Meldar's Maze - Dark_wizzie
+E1L2 - Round n' About - Dark_wizzie
+E1L3 - Bastille - Ack	
+E1L4 - Sewers - Dark_wizzie - Not the same as level "Sewers Revisited"
+E1L5 - Boundary - Ack
+E1L6 - Cell Block - Jayngo
+E1L7 - Target Practice! - Dark_wizzie - Stuck on this level? Done right, no guards 
+need to be fought.
+E1L8 - Nazi Base - Dark_wizzie - 80+ Secret Pushwalls
+E1L9 - The Last Stand - Dark_wizzie
+E1L10 - Very Hidden - Dark_wizzie
+
+Episode 2: Mutant Knowledge
+E2L1 - Get It On! -Schabbs
+E2L2 - Fortress - Ack
+E2L3 - Patience - Dr. Chainsaw, Edited by Dark_wizzie
+E2L4 - Underground - Dark_wizzie
+E2L5 - Codename Grey - Valts - Req some pushwalls to finish.
+E2L6 - Hidden Vault - Dark_wizzie
+E2L7 - Elevator Crash - Dark_wizzie
+E2L8 - Heft - Ack
+E2L9 - The Boss - Schabbs
+E2L10 - House of FUN!!! - Dark_wizzie - One very odd and whacky level. (If you find 
+the secrets!)
+
+
+Episode 3: Sewer Unrest
+E3L1 - Loss - Valts - Req. a pushwall to finish. - Loss means The Castle in Estonian
+
+E3L2 - Murgatroyd - Ack
+E3L3 - Run Around - Ack
+E3L4 - Secret Love - Schabbs
+E3L5 - Startin' Over - Schabbs
+E3L6 - Stayin' Alive - Schabbs
+E3L7 - Almost There - Dark_wizzie [Difficult]
+E3L8 - Storage - Dark_wizzie
+E3L9 - Sewers Revisited - Dark_wizzie/Schabbs [Difficult]
+E3L10 - Blue Skies - Schabbs
+
+Episode 4: Undieing
+E4L1 - Undieing - Dark_wizzie
+E4L2 - Blue Velvet - Schabbs
+E4L3 - Double X - Ack
+E4L4 - Marsh Grotto - Dark_wizzie 
+E4L5 - Colonnade - Dark_wizzie
+E4L6 - Return - Wlhack
+E4L7 - Red House - Schabbs
+E4L8 - Bits and Pieces - Schabbs
+E4L9 - Stormy - Schabbs
+E4L10 - Night Fever - Schabbs
+
+Episode 5: Route of all Evil
+E5L1 - Alloy - Dark_wizzie
+E5L2 - Desolated - Dark_wizzie
+E5L3 - Red Red Wine - Schabbs
+E5L4 - Patch It Up - Thomas
+E5L5 - Tragedy - Schabbs
+E5L6 - Brown Sugar - Thomas
+E5L7 - Incense and Peppermints - Ack
+E5L8 - Path Finding - Wlhack
+E5L9 - Lebkuchenhaus - Havoc
+E5L10 - Crossfire - Schabbs
+
+Episode 6: Confrontation
+E6L1 - The Start - Thomas 
+E6L2 - Blue Morning - Ack
+E6L3 - Front Door - Thomas 
+E6L4 - The Cooler - Wlhack
+E6L5 - Wooden Heart - Schabbs
+E6L6 - Mystery - Valts
+E6L7 - Harmony - Thomas
+E6L8 - Brownstone Shuffle - Thomas
+E6L9 - Showdown - Wlhack [Difficult]
+E6L10 - Final Secret - Schabbs
+
+Level Contributors:
+Dark_wizzie: 20 Levels - I took out one of my levels for Jpb's ;)
+Schabbs: 16 Levels
+Ack: 9 Levels
+Thomas: 5 levels
+Wlhack: 4 Levels
+Valts: 3 levels
+Dr. Chainsaw: 1 Level
+Jayngo: 1 Level
+Jpb6891: 1 Level
+Havoc: 1 Level
+
+==========
+= CHEATS =
+==========
+Tab/Alt/Backspace.  Use the cheat exe. I recommend SDLL cheat exe. For list of the 
+new cheats, check the "Features" section.
+==============
+=KNOWN BUGS=
+==============
+None known at this time. Check release notes.
+=========
+= STORY =
+=========
+The story of the mapset is something I (Dark_wizzie) made up because I got bored. 
+Please don't judge it. :(	
+	You are BJ. Well, duh, who else can you be? Anyways....after Hitler died, his huge 
+army of SS hid underground. That's why the US was able to destroy 'The Third Reich'. 
+Or so they thought. No one suspected any army in hiding. Well, after the time comes, 
+they would start launching the new Reich: The Fourth Reich, started by some unknown 
+character.
+Episode 1: Teh Blastin' Fortress
+	Anyways, you, BJ, is on a mission to find the purpose of this huge Nazi fortress 
+near Hitler's Bunker. Or so it was planned. You were told to come back as soon as 
+you find out. But you couldn't leave. As soon as you came in, you realized that you 
+were followed. The mutants and guards sealed your entrance. You can actually see 
+that on level 1. Turn around and see the sealed door. Only one way out. To go on 
+top of this blasting fortress, come out alive, and climb down off the fortress. 
+
+...Good Luck ^^
+
+
+Episode 2: Mutant Knowledge
+	Somehow, the mutants developed the ability to think. Already they are more powerful 
+and fearsome than any normal foot soldier. You must enter the Mutant Knowledge Development 
+Center, aka MKDC. Start from a small isle that leads into a fortress. This fortress 
+guards many places, and one of them includes a secret sewer tunnel connection to 
+the MKDC.
+Don't let the world down! 
+
+Episode 3: Sewer Unrest
+	Sure, you took down the MKDC. Great job. But is this just the tip of the iceberg? 
+Who started this facility? And where are the mutants coming from? Schabbs is dead, 
+but it seems as if nothing has changed. What is going on here? Unrest builds up again 
+at the old Sewer Facility you already cleared...
+Episode 4: Undieing
+	Seems like Schabbs wasn't really quite dead. But that begs the question: How did 
+he relive? Who is behind all of this? How will you stop the creation of all mutants? 
+After you climb out of the Sewers (Hellhole!), you quickly realize that something 
+is a wee bit off... The things don't add up... What is going on here?
+Episode 5: Route of all Evil
+	Far away in a remote island, there is a village mounting in steel blocks for no 
+reason. Upon entering, you find out that there are mutants here. Could this place 
+help explain how to stop all mutants?
+
+Episode 6: Confrontation
+	After finding out that the "island" is really a gigantic Nazi Base, you prepare 
+to confront the undead General F. again. There seems to be mounting resistance, though, 
+and killing him this time is not quite as easy. You see, since the last time he died; 
+he had some time to think about how to place his guards to guard his whole base effectively. 
+Good luck. And it will be a Showdown, indeed.
+
+
+
+
+
+
+
+
+Other Stuff
+
+I will be making a new Spear Of Destiny mapset eventually. Keep an eye out for it!
+
+Go to Wolf3d Haven at  www.wolf3d.darkbb.com and tell us what you think of the mapset!
+
+Vote for your favorite map!
+===========
+= CREDITS =
+===========
+Dark_wizzie - Well. I kindda started/revived the Super Haven Mapset. I did 20 levels.
+
+Brian Lowe - Second best level contributor...helped make the set come together...Thanks!!!
+
+Jayngo - Still posting news on his blog.
+Valts - Awesome in his own silent way.
+Thomas - Last minute level contributor. But some good levels indeed!
+Ack - For the godly levels and some level inspiration.
+WLHack - Awesome last level, Showdown. - Showed me the AWESOME SDL EXE!!
+Chris - MADE the AWSOME SDL EXE!!
+Lilmanjames - Yup.
+Jpb8691 - Filled in for my level.
+Mr. Choi - For the title screen.
+Dr. Chainsaw - Made a level. 
+Ronwolf - For all the crazy coding! Some levels really do need all 699 static objects. 
+
+Flo-Edit - A "fossil" as Wlhack puts it. Still good for some tasks.
+Chaosedit - Nice editor.
+Wolf3d Haven members (Rest of members at Wolf3d Haven) - Because you guys are cool.
+
+Die Hard Wolf3d People - Worked with the Sdll exe.
+Id Software - Um...they made Wolf3d.
+Forumotion - Hosting Wolf3d Haven! May it last forever n' ever!!! 
+
+…and you obviously, for playing!
+
+
+=================
+= RELEASE NOTES =
+=================
+About Episode 3 Level 9:
+This is perhaps the most difficult level in the entire mapset. Look around for secret 
+areas and such.
+
+December 17, 2009
+Lots of levels done. Just 2 more open levels left. Hopefully I can push this out 
+by X-mas.
+New title screen coming!
+
+November 19, 2009
+Edited Very Hidden and Elevator Crash levels a lot. Working on rebuilding "Alloy" 
+level.
+
+October 4, 2009
+Finished the level "Almost There". Edited "Sewers Revisited". Edited House of FUN!!! 
+And on
+Very Hidden level, changes to remove crashing bugs/premature death cam.
+
+September 30, 2009 
+Merged Bones Alert with Haven Mapset. 
+
+September 27 2009 
+Changed Level 14. Edited level 1, 4, 5, 8, 9, and 13.
+
+September 25 2009 
+E2 L4 Bug free and re-done.
+
+September 19 2009
+Finally I can make wolf3d levels again. I released my most difficult map yet, "Underground"
+
+Episode 2 level 4.
+
+August 24 2008
+Finally I'm back on wolf3d train. Started working on level 24! (Re-doing it)
+Level 7,9,10 re-done…Deleted Corrupt Files
+Until next time, everyone! Auf Wiedersehen!

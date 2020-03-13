@@ -1,0 +1,131 @@
+^P^
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkRed]All mods require a dev version of ECWolf
+
+^C[Red]COMPILATIONS
+
+^C[DarkBlue]WOLFPAK 1 ^C00- a compilation of my early levels, made from 1996-2006
+
+
+^C[DarkBlue]WOLFPAK 2 ^C00- a compilation of vanilla Wolf3D mods, made from 1993-2001 
+(hi-res)
+
+^C[DarkBlue]SPEARPAK ^C00- Like "WOLFPAK 2", this is a compilation of old school 
+Spear scenarios.
+
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ASTROSTEIN (Spifferaneous) ^C00- A conversion of Spiff's version of Astrostein.(now 
+available in Special Edition)
+
+^C[DarkBlue]DIE HIMMLER DIE! ^C00- A conversion of the Mac scenario, PC Compatible 
+ 
+
+^C[DarkBlue]THE RENOVATION ^C00- A conversion of BJ Rowan's 1994 level set to ECWolf
+
+
+^C[DarkBlue]HALTEN SIE! ^C00- A conversion of Halten Sie to ECWolf, available in 
+low or hi-res
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]SECOND ENCOUNTER ^C00- A hi-res version of Executor's port of the Mac 
+Family levels
+
+^C[DarkBlue]CONFLICT IN THE FATHERLAND ^C00- A conversion of BJ Rowan's 1999 level 
+set to ECWolf
+
+^C[DarkBlue]AMERIKA THE BEAUTIFUL ^C00- A fix for the original Mac scenario, PC Compatible
+
+
+^C[DarkBlue]WOLFBEL ^C00- A conversion of Brian Lowe's level sets to ECWolf
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ASTROSTEIN ^C00- A conversion of Laz's original Mac scenario (now available 
+in Special Edition)
+
+^C[DarkBlue]ASTROSTEIN 2 ^C00- A conversion of Laz's original Mac scenario
+
+^C[DarkBlue]ASTROSTEIN 3 ^C00- A conversion of Laz's original Mac scenario
+
+^C[DarkBlue]HITLER'S GRAVEYARD ^C00- A conversion of Laz's original Mac scenario
+
+
+^
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 8 32 [NPSMALL1]
+
+
+
+
+
+
+
+
+
+^C00A mod for "Super 3D Noah's Ark", aliens have come to Earth to rape its resources! 
+ Only Noah can stop them!
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 32 32 [NTSMALL1]
+
+
+
+
+
+
+
+
+^C00Based off of Nitemare 3D, defeat Dr. Hammerstein and once again rescure your 
+sweet Penelope!
+^P
+^C[Red]COMING (not so) SOON!
+^G 16 16 [ASTROST]
+
+
+
+
+
+
+
+
+^C00 A remake of Laz Rojas' classic mod Astrostein.  Escape a prison ship, infiltrate 
+a moon base, and then kill Hitler once and for all!  
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^C00I've been making mods for Wolfenstein 3D off and on
+since around 1996.  After a long hiatus, I discovered
+ECWolf, and have been making mods for it ever since.
+^P
+^G 16 16 [ASTROCRP]
+^C00Aside from modding Wolf, I also enjoy making music and
+editing/creating images in Photoshop.  My GFX work is
+mostly done in these games, but you can check out my music
+at soundcloud.com/aquafiend.
+^P
+^G 16 16 [MODDB]
+^G 140 200 [WOLFSRCE]
+To download more of my mods, check my ModDB page
+www.moddb.com/company/astrocreep
+
+OR
+
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^C00website
+wolf3d.morezombies.net
+^P
+
+
+
+^C[Blue]Mod ^C[Black]by Sam Feichter (AstroCreep) 2019
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+^C[Gold]ECWolf ^C[Black]by Braden Obrzut (Blzut3)
+
+
+^E
+

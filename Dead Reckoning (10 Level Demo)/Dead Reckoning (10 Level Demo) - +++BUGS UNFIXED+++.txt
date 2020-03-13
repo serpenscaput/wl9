@@ -1,0 +1,20 @@
+There are many bugs in this game as my debugger bailed on the project.
+As i can no longer install my compiler , they will not be fixed at this 
+time.
+
+-Roof texture is repeated on floor
+-Multiple ammunitions dont work
+-Ambiant sound does not work
+-problems with menus
+-extremely out of date debug messages
+
+This is the only version of the game to be released for the time 
+being as the project is shelved until furthur code assistance is 
+found. 
+
+Comments suggestions etc to: sporb2000@yahoo.co.nz
+
+Please do not send me a list of bugs. Wait until another version is 
+released in the future
+
+i do hope you enjoy this rather tatty package.

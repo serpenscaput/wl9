@@ -1,0 +1,346 @@
+^P
+^C7d WELCOME TO PROJECT TOTENGRAEBER
+^G 32 175 [TOTNTITL]
+
+^C26 One Evil Nazi Scheme. One Momentous Mission. One Last Chance to Save Humanity.
+
+
+^C00 Thanks for downloading Project Totengraeber, a revolutionary add-on for Wolfenstein 
+3D. The following pages will introduce you to the story and many new features of 
+this project, as well as describing the mission at hand. Good luck and enjoy!
+
+^P
+^C7d THE STORY
+
+^G32,16,3
+^C00 It is 1942, at the height of the Second World War, and the Allies are fighting 
+a fierce battle against the Axis Powers in Europe. The conflict looks far from over. 
+Worse, the Allies have reason to believe that the Nazis may be amassing a new army 
+of undead soldiers to do battle for them - a horrifying prospect.
+
+^P
+^C7d THE STORY
+
+^C00 It is rumored that a top Nazi scientist, one Arzt Schabbs, has found a way to 
+resurrect soldiers who have been killed in battle and send them back to the front 
+lines -- in a macabre experiment known as "Project Totengraeber" (effectively, "Gravedigger"). 
+With no concern for their own lives, only a bitter desire to kill, Schabbs' zombies 
+would have nothing to lose in a firefight, attacking relentlessly and with unimaginable 
+determination.
+
+^P
+^C7d THE STORY
+
+^C00 The appalling Project Totengraeber could spell doom for the Allies, and it appears 
+to be very real indeed. Recon reports a suspicious amassing of soldiers and top Nazi 
+generals in a localized area of Germany. This mountainous region, home to several 
+ancient castles, was originally thought to hold no strategic importance, but apparently 
+the Nazis now have some sort of secret operation underway in that sector...
+
+^P
+^C7d THE STORY
+
+^C00 Desperately seeking a means to combat the potential execution of Project Totengraber, 
+Allied Intelligence has brought to the table several recently-acquired maps showing 
+the locations of 6 German castles in this region of Nazi territory, each of which 
+is suspected to play a key role in the Project. The Allies believe that a concise 
+plan of systematic elimination of these installations, including Arzt Schabbs and 
+his undead army, is an immediate necessity.
+
+^P
+^C7d THE STORY
+
+^G32,192,4
+^C00 The 6 castles are interconnected via a system of old tunnels, which can also 
+serve as bomb shelters - and, depending on their magnitude, possibly one or more 
+secret bunkers or labs. The Nazis are apparently using these tunnels as a secret 
+transportation route between their key bases of operation. They are, however, relatively 
+lightly guarded at one particular position.
+
+^P
+^C7d THE STORY
+
+^G80 176 [BJGUNS]
+^C00 Considering this position a perfect "back door" by which a one-man strike force 
+might gain access to the castles and destroy Project Totengraeber from the inside 
+out, the Allies decide to recruit their most effective one-man strike force for the 
+job - a man by the name of Captain William J. Blazkowicz.
+
+^P
+^C7d THE STORY
+
+^C00 You are B.J. Blazkowicz, and your commanding officers are sending you deep into 
+the heart of Nazi Germany to stop Project Totengraeber. You will enter Castle Sturmwind, 
+the first installation, from the adjacent sewers and work your way through the cellars 
+to the tunnel system beneath. From there, follow the tunnels as they wind northeastward. 
+They apparently connect with several other castles, and you will most likely find 
+it necessary to work your way through them and back into the tunnels at some other 
+location.
+
+^P
+^C7d THE STORY
+
+^C00 Allied Intelligence believes the tunnels will eventually end up beneath Castle 
+Dolchteufel, where it is believed the entire Totengraeber project is being spearheaded. 
+Your orders are to eliminate as much Nazi resistance as you see fit, but remember 
+that your primary objective is the assassination of Arzt Schabbs and his legion of 
+mutated walking dead. Schabbs may be holed up in a secret lab in Castle Dolchteufel, 
+at the center of the secret tunnel system.
+
+^P
+^C7d THE STORY
+
+^C00 Captain Blazkowicz, this is your toughest assignment yet, and you will be up 
+against some of Hitler's finest. There's lots of ground to cover out there, so fight 
+hard, keep your wits about you, and remember to make use of the Nazis' first aid 
+and munitions to keep you going. The Allies are counting on you, B.J.! Go win one 
+for humanity...and try to come back alive!
+
+^P
+^C7d FEATURES
+
+^G22 175 [TOTNTITL]
+^C2b Project Totengraeber ^C00is one of a new generation of Wolfenstein add-ons. 
+Since the release of the game's source code and monumental editors like FloEdit, 
+designing new levels no longer seemed to be enough for me, and many other designers 
+as well. As a result, ^C2bProject Totengraeber ^C00 has several new features in the 
+game engine, a modified VGAGRAPH file, and lots of new art and sound effects.
+
+^P
+^C7d FEATURES
+
+^C00 * Over 40 brand new levels
+* One massive episode with seamless level flow
+* Changed ceiling colors & music
+* Two new keys with icons on the status bar
+* Chainguns that occasionally jam and require you to find a new one
+* New help screens, end art, demos, and lots more
+
+^P
+^C7d NEW KEYS
+
+^G25 16 [BRNZKEY]
+^C2b The Bronze Key ^C00is usually used to hide secret areas or elevators to secret 
+levels. In the depths of Schabbs' secret bunker, you may need this key just to escape 
+to the next floor.
+
+^G86 16 [ELEVKEY]
+^C2b The Elevator Key ^C00is a special keycard used to unlock certain elevator doors 
+themselves. You can easily recognize elevator doors locked by the elevator key, as 
+they have a yellow knob with a card slot directly beneath it.
+
+^P
+^C7d NEW HEALTH ITEMS
+
+^G25 16 [HYPOPIC]
+^C2b Adrenaline Hypos ^C00give you a 2% health boost, up to 200% health. Developed 
+by Arzt Schabbs, these become more plentiful as you get closer to Schabbs' bunker 
+and laboratories.
+
+^G86 16 [KITPIC]
+^C00 The ^C2bAdrenaline Health Kit ^C00contains an experimental dosage of adrenaline 
+and other pharmaceuticals which give you an instant health boost to 125%, or 25% 
+additional if you are already above 100%. They also give you an extra life.
+
+^P
+^C7d THE CASTLES
+
+^C2b Levels 1-2: Sewer Entrance
+^C00 You enter Castle Sturmwind via an underground sewer system. The sewers are only 
+lightly guarded and are an easily penetrated weakness.
+
+^C2b Levels 3-5: Castle Sturmwind
+^C00 The lower levels of this castle need to be traversed in order for you to again 
+access to the underground tunnels that connect the rest of the castles involved in 
+Schabbs' private experiment.
+
+^P
+^C7d THE CASTLES
+
+^C2b Level 6: Tunnel 1
+
+^C2b Levels 7-11: Castle Shattenspender
+^C00 The first tunnel dead-ends in the dungeons of this castle. You'll need to work 
+your way through five floors of the castle to reach the secret elevator providing 
+access to the next tunnel.
+
+^C2b Level 12: Tunnel 2
+
+^P
+^C7d THE CASTLES
+
+^C2b Levels 13-18: Castle Daemmerung
+^C00 This castle is old and hasn't been inhabited in decades. It has since been turned 
+into a Nazi storage facility, primarily for equipment pertaining to the Nazi medical 
+experiments. Rumors tell of a secret medical lab area in this castle which was used 
+at the onset of Project Totengraeber, but has since been abandoned. Be careful - 
+some early versions of Schabbs' experiments may have been abandoned with it...
+
+^C2b Level 19: Tunnel 3
+
+^P
+^C7d THE CASTLES
+
+^C2b Levels 20-24: Castle Eisenschwert
+^C00 An official Nazi stronghold, this is now a waypoint for operations pertaining 
+to the Project. High-ranking officers and SS inhabit its walls.
+
+^C2b Level 25: Tunnel 4
+
+^C2b Levels 26-29: Castle Hollenhammer
+^C00 Arzt Schabbs' former post, you'll have to make your way through its cold, dark 
+floors to get to the next tunnel on the other side.
+
+^P
+^C7d THE CASTLES
+
+^C2b Level 30: Tunnel 5
+
+^C2b Levels 31-33: Castle Dolchteufel
+^C00 This is the place the Allies believe is the center of operations for Project 
+Totengraeber. If reports are correct, there will be a serious amassing of troops 
+at this location. Somewhere in the depths of the castle is the entrance to Schabbs' 
+secret bunker, where all of his experiments are being performed.
+
+^P
+^C7d THE CASTLES
+
+^C2b Levels 34-39: The Bunker
+^C00 Arzt Schabbs' secret bunker resides beneath Castle Dolchteufel. You'll need 
+to traverse several floors of laboratories, medical areas, and offices. At the bottom 
+level of the bunker is Schabbs' private office, where your arch-nemesis awaits!
+
+^P
+^C7d THE CASTLES
+
+^C2b Level 40: Schabbs' Office Level
+^C00 This is it - you've got a confrontation in store for Schabbs, that monstrosity. 
+You'll need to use all your wits and firepower to send him and his mutant army on 
+an express elevator to hell!
+
+^C2b Level 41: Dolchteufel Executive Level
+^C00 On the surface level above Schabbs' bunker, you've got one last fight ahead 
+of you. If you can make it out alive, you'll have won, and the free world will be 
+saved!
+
+^P
+^C7d THE CASTLES
+
+^C2b Secret Levels
+^C00 These secret areas are accessed from various floors of the many castles you 
+will explore. They are always hidden. Some are kept under lock and key. You'll need 
+to do some serious searching to find the secret elevators in any case. Secret levels 
+are prime areas for storage of stolen gold and treasure, but be careful - they may 
+also be heavily guarded!
+
+^P
+^C7d PROJECT TOTENGRAEBER CREDITS
+
+^C2b Thanks for playing Project Totengraeber! ^C00 This project could not have come 
+together without the expert help of the following fine people.
+
+^C7d CODE COMPILE HELP
+^C00 Per Sundbeck
+
+^C7d BETA TESTING
+^C00 Corey Teitsma (Phase 1)
+^C00 Gary Ragland (Phase 2)
+
+^P
+^C7d PROJECT TOTENGRAEBER CREDITS
+
+^C7d UTILITIES & SUPPORT
+^C00 Florian Stohr
+^C00 Nate Smith
+
+^C7d SPECIAL THANKS
+^C00 Gary Ragland
+^C00 Chris Chokan (supplied custom AUDIOT file)
+^C00 Nate Smith
+
+^C7d DEDICATED TO
+^C00 My wife, Nantana
+
+^P
+^C7d EDITORS USED
+
+^C00 Curious how I did something? This might help...
+
+^C7d Mapedit 8.4: ^C00Level creation
+^C7d FloEdit 0.99b: ^C00Levels, graphics addition, sounds, VGAGRAPH editing
+^C7d Wolfedit 2.1: ^C00Graphics replacement
+^C7d Wolfsnd 1.0: ^C00Sound replacement
+^C7d Borland C++ 3.1: ^C00Code Compilation
+^C7d Help Screens/End Art: ^C00Heh heh...
+
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 You can contact me at my e-mail address, webmaster@wolf3dbunker.com. You can 
+also visit my website, B.J. Rowan's Wolfenstein Bunker, to get the latest updates 
+to ^C2bProject Totengraeber, ^C00lots of other add-ons, and help for you other source 
+code writers!
+^G112 32 [WOLFBUNK]
+^C00 Find it here: ^C84http://www.wolf3dbunker.com
+
+^P
+^C7d AND IF YOU LIKE PROJECT TOTENGRAEBER...
+
+^C00 ...Then you might enjoy the other Wolfenstein add-ons I've created in the past.
+
+
+^C2bTHE RENOVATION (BJ1)
+^C00My first add-on, a 60-level collection of 6 episodes of good introductory quality. 
+Originally distributed by Apogee Software, they are now available exclusively on 
+my website.
+
+^P
+^C7d AND IF YOU LIKE PROJECT TOTENGRAEBER...
+
+^G27 182 [FATRLAND]
+^C2bCONFLICT IN THE FATHERLAND (BJ2)
+^C00 My second add-on, a second 60-level set of masterfully designed levels that 
+feel as close to the originals as you can get. If you're looking for that classic 
+atmosphere, you'll find it here. Some new graphics and sounds, too.
+
+^P
+^C7d AND IF YOU LIKE PROJECT TOTENGRAEBER...
+
+^C00 Keep an eye out for future Wolfenstein mods by B.J. Rowan. Next in my series 
+of add-ons is a collection of episodes (to be released one at a time), which together 
+form an intricate storyline of espionage and assassination. Our hero B.J. Blazkowicz 
+returns, on assignment to track down the new Fuhrer of Nazi Germany, and stop him 
+from revitalizing the Nazi War Machine.
+
+Watch for these new episodes to start appearing in 2000!
+
+^P
+^C7d THANKS FOR PLAYING!
+
+^C00 I hope you enjoy the game! Now get in there and start mowing down those Nazis 
+- remember, the free world is in your hands! Good luck, Captain Blazkowicz!
+
+
+
+
+^C17 -Brian J. Rowan
+webmaster@wolf3dbunker.com
+http://www.wolf3dbunker.com
+^P
+^C7d EXTRA - DHW COMMUNITY MAP PACK
+^G 16 16 [M_EPIS1]
+^C00 As an added bonus, this includes the DHW Totengraeber Community Map Pack as 
+an extra episode!  This features maps from community mainstays such as Serpens, Gerolf, 
+Ack, Chris Chokan, Dunkelschwamm, AstroCreep, Wolf3DGuy and more!  (Special thanks 
+to AlumiuN for allowing these maps to be ported)
+^P
+^G 16 16 [M_EPIS1]
+^G 140 200 [WOLFSRCE]
+To download more great mods, check out
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^C00website
+^c[GREEN]wolf3d.net
+^c00Or, keep up with the Wolf3D Community and join
+^c[GOLD]DieHard Wolfers Forum
+^c[RED]http://diehardwolfers.areyep.com
+^E

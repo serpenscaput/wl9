@@ -1,0 +1,74 @@
+EPISODE 1 REVISITED OPTIONAL VSWAP
+CREDITS LIST
+
+-WALLS-
+
+Gray Stone: BJ Rowan
+Dark Gray Stone (Blue Stone): Wolf Skevos Jones/FormGen Corporation
+Wood: Wolf Skevos-Jones
+Doors: Tristan Van Putten/BJ Rowan
+Steel: Tristan Van Putten
+Red Brick: Wolf Skevos-Jones
+Elevator: BJ Rowan
+Blue Wall: BJ Rowan/Brian Lowe
+Gray Brick: FormGen Corporation/BJ Rowan/Wolf Skevos-Jones
+Brown Marble: Ben Blaufarb
+
+-SPRITES-
+
+Demo sign: Wolf Skevos-Jones
+Water pool: Majik Monkee
+Oil drum: BJ Rowan
+Table w/ chairs: BJ Rowan
+Floor lamp: Ben Blaufarb
+Chandelier: Wolf Skevos-Jones
+Column: Wolf Skevos-JOnes
+Green plant: BJ Rowan
+Ceiling light: Ben Blaufarb
+Suit of armor: Wolf Skevos-Jones
+Cages: BJ Rowan
+Silver key: BJ Rowan
+Food: Wolf Skevos-Jones
+Clip: BJ Rowan
+MP-40: BJ Rowan/Wolf Skevos-Jones
+Chaingun: Wolf Skevos-Jones/Ben Blaufarb
+Barrel: Wolf Skevos-Jones
+Well w/water: Majik Monkee
+Nazi flag: Wolf SKevos-Jones
+Utensils: BJ Rowan
+Stove: Wolf Skevos-Jones
+Gun rack (rack of spears): Wolf Skevos-Jones
+Guard: Wolf Skevos-Jones
+Dog: Wolf Skevos-Jones
+Officer: Wolf Skevos-Jones
+SS: Wolf Skevos-Jones
+Hans Grosse: Majik Monkee
+Heinrich Krist (Otto Giftmacher): Majik Monkee
+SS-Obergruppenfuhrer Lukas Jaeger (Gretel Grosse): Majik Monkee
+General Muller (General Fettgesicht): Majik Monkee
+Knife: Nate Smith
+Pistol: Apogee Software, scaled down by Executor
+
+-SOUNDS-
+
+Guard: Wolf Skevos-Jones
+Dog: Wolf Skevos-Jones
+Door: BJ Rowan
+MP-40: Wolf Skevos-Jones
+Pistol: BJ Rowan
+SS: Wolf Skevos-Jones
+Hans Grosse: Laz Rojas
+Secret door: Wolf Skevos-Jones
+Hitler: MacPlay Entertainment
+Blood gurgling: FormGen Corporation
+Dr. Schabbs: Wolf Skevos-Jones
+Officer: Wolf Skevos-Jones
+Elevator: FormGen Corporation
+Otto Giftmacher: Wolf Skevos-Jones
+General Fettgesicht: Wolf Skevos-Jones
+Gretel Grosse: Wolf Skevos-Jones
+
+-CODING-
+WOLF4GW by Ripper (www.chaos-software.de.vu)
+Tutorials from the Wolfenstein 3D Dome (www.wolfenstein3d.co.uk) and MCS Coding Tips 
+(www.areyep.com)

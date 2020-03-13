@@ -1,0 +1,16 @@
+GLOOM: An add-on made by Commander Keen for the full version of Spear Of Destiny
+
+
+
+Commander Keen made this add-on in 2001 when he was 10 years old. It was recently 
+found again and is being released because he is working on a sequel called 'Gloomy 
+World'.
+
+There are 16 levels in 'Gloom'. Most of the levels are quite small though many are 
+well detailed. Two levels (including the first) have 'invisible objects' at times. 
+There are several graphics changes but the original Spear feel remains.
+
+To play the game, the gamemaps, maphead and vswap files from this addon need to overwrite 
+the original files in a copy of the full version of Spear Of Destiny.
+
+Schabbs                    

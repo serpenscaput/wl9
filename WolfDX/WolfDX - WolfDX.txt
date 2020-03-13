@@ -1,0 +1,48 @@
+* * * Wolfenstein 3-D: The Deluxe Edition v1.99z (Four-level demo) * * *
+
+My plan is for this to be my last update before re-writing the game's code from the 
+beginning.  The game engine has bugs galore, most of which I can't resolve in its 
+current form.  It's easier just to start the code over.
+
+Story:
+
+The seeds of evil are planted.  And what they grow is both bleak and horrific.
+
+Adolf Hitler commands Germany, and does so with mad, twisted inhibitions.  He strives 
+to rule the world, and rumors say he's done more than break the laws of man - he's 
+breaking the rules of nature as well.  He has hired a Doctor Schabbs to resurrect 
+dead, mutated soldiers to overrun the world, calling the plan "Operation: Eisenfaust".
+
+
+Are the rumors true?  You do some spying to find out.  You sneak into a German camp 
+and easedrop on some chatting Nazis from a distance.  But while you've checked behind 
+you, in front of you, and from side to side, you haven't checked above you.  And 
+from above is where an Officer jumps you.
+
+You awaken later to find yourself in Castle Wolfenstein, miles away from where you're 
+supposed to be.  You pull the old "sick ploy" to coax a guard in, cut his throat, 
+and grab his gun.  As you hear other Nazis coming to investigate, you ready yourself 
+for action.
+
+The dungeon has swallowed you whole.  You plan to give it massive indigestion.
+
+Bugs:
+
+The self-running demos don't work right, so they're currently disabled.  If you can 
+fix this bug, please upload the source code with the correction(s).  Thanks!  :-)
+
+
+Credits:
+
+Original code: Id Software
+Wolf4SDL version: Ripper
+Additional coding: Merthsoft, WLHack, Tricob, BT, and various code tutorials from 
+the Wolf3D Dome and the DHWs message boards
+Graphics: Adrian Carmack, Julian Ridley, Chris Benson, Todd Camasta, Sporb, Laz Rojas, 
+Tricob, ChaosEdit, WDC, graphical extractions from TekWar (care of DoomJedi), ReColorBMP, 
+Spritemaker, MS Paint
+
+Disclaimer: Tricob is not associated with the ESRB, nor assumes any liability for 
+damages related to WolfDX or its tools.  End of legal mumbo-jumbo.
+
+- "Tricob".

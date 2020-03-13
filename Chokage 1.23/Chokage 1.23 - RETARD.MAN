@@ -1,0 +1,3467 @@
+@Echo Off
+cls
+if exist menu.com rename menu.com stupid.com
+if exist wicked.man copy wicked.man cookie.man
+cls
+
+:STUPIDNESS 
+cls
+Echo                            =======================
+Echo ***************************** THE STUPID CHOICE ******************************
+
+Echo                            =======================
+Echo.
+Echo.
+Echo Welcome to the stupidest game to ever exist on the face of the planet.
+Echo.
+Echo Directions:
+Echo              For every person, there is a story behind them.  The rest isn't
+
+Echo              too complicating.
+Echo.
+Echo.
+Echo   Who would you like to be?
+Echo.
+Echo.
+Echo                   1. Mr. Buff
+Echo                   2. Bell-Bottom Jenny
+Echo                   3. Horny George
+Echo                   4. Super Dave
+Echo.
+Echo.
+Echo                                                              "Q" to Quit
+STUPID /C:123456ecq /n
+cls
+if errorlevel 9 goto END
+if errorlevel 8 goto CREDITS
+if errorlevel 7 goto EDIT
+if errorlevel 6 goto CREDITS
+if errorlevel 5 goto SECRET
+if errorlevel 4 goto E0
+if errorlevel 3 goto D0
+if errorlevel 2 goto C0
+if errorlevel 1 goto B0
+goto END
+
+:SECRET
+Echo                           =========================
+Echo *************************** THE NOT STUPID CHOICE ****************************
+
+Echo                           =========================
+Echo.
+Echo                 Explore the EXCITING parts of Mr. Buff's life.
+Echo.
+Echo.
+Echo Options:
+Echo.
+Echo          1. Commit Suicide
+Echo          2. Get Aggravated by WONG 
+Echo          3. Hang around with the cool Dudes
+Echo          4. Fall asleep and wake up "LOADED"
+Echo          5. Dream of being a mosquito
+Echo          6. Steal MORE Chocolate with Onion Dip Man         
+Echo          7. Hide In the Garbage Can
+Echo.
+Echo.
+Echo.      
+Echo                                                              "Q" to Quit
+STUPID /C:1234567q /n
+cls
+if errorlevel 8 goto END
+if errorlevel 7 goto B25
+if errorlevel 6 goto B77b
+if errorlevel 5 goto B49
+if errorlevel 4 goto B58b
+if errorlevel 3 goto B46
+if errorlevel 2 goto B44
+if errorlevel 1 goto B30
+goto A
+
+:CREDITS
+cls
+Echo.
+Echo The Authors:
+Echo.
+Echo Mr. Buff                - By Chris Chokan
+Echo Bell-Bottom Jenny       - By Jenny Chokan
+Echo Horny George            - By Hommy G, Brent B. & Chris Chokan
+Echo Super Dave              - By David LaCasse & Chris Chokan
+Echo Blood Thirsty Mosquito  - By Jenny Chokan & Chris Chokan
+Echo. 
+Echo   If you have any ideas for your own section to 'Stupid Choice' and would
+Echo like to see it on 'Stupid Choice', inform me (Chris Chokan; at
+Echo [705] 969-3520 or E-mail me: chokan@sympatico).
+Echo.
+pause
+goto STUPIDNESS
+
+:EDIT
+edit stupid.bat
+goto STUPIDNESS
+goto STUPIDNESS
+goto STUPIDNESS
+
+:B
+cls
+Echo ************************(((Under Construction!)))*****************************
+
+Echo. 
+Echo  --- This part of "The Advenures of Mr. Buff" has not been finished, yet! ---
+
+Echo.
+Echo.
+pause
+goto STUPIDNESS
+
+:B0
+if exist buff-***.man goto B0b
+Echo   One day, you and Arnold Schwartzanegar are walking down the road looking 
+
+Echo for chicks when suddenly... the ice cream man comes (Woohoo!). You look 
+Echo through your pockets and find Nothing. "Don't worry Mr. Buff," says Arnold 
+
+Echo "I'll pay for the ice cream!". You walk up to the ice cream man & ask for 
+Echo a Super Huge Chocolate filled Drumstick. "Buff, that thing costs six bucks!" 
+
+Echo yells Arnold. You laugh at him "Ha, Sucker!". Later, the ice cream man trips
+
+Echo and falls in a culvert. The PERFECT oppertunity to pig out. You and Arnold
+Echo grab all the popsicles in his bike-box combo thing and run away. The ice
+Echo cream man recovers from the fall and starts running after you guys. Your
+Echo popsicles melt, so much for pigging out. You guys go back to your original
+Echo plan, walk down the road and look for chicks.
+Echo. 
+pause
+cls
+Echo Hours later, you guys are still walking down the streets. 
+Echo.
+:B0b
+Echo "I'm tired of walking down the street" says Arnold
+Echo.
+Echo.
+Echo   What do you do?
+Echo.
+Echo                    1. Go to the GYM and pump some iron
+Echo                    2. Tell Arnold to Shutup or you'll beat the crap out of him
+
+Echo                  * 3. Keep walking and ignore 'Cry Baby'
+Echo.
+Echo.
+Echo.
+Echo.
+Echo.
+Echo.
+Echo                                                    * Best Choice
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B3
+if errorlevel 2 goto B2
+if errorlevel 1 goto B1
+goto STUPIDNESS
+
+:B1
+Echo - On your way to the Gym, you guys see that wimp "Sylvester Stalone"
+Echo.
+Echo   What do you say?
+Echo                    1. "Stalone, want to come pump some iron with us?"
+Echo                    2. "Still Chokin' your Chicken Stalone?"
+Echo                    3. "Let's not talk to Stalone, I heard he's GAY"
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B22
+if errorlevel 2 goto B8
+if errorlevel 1 goto B16
+goto STUPIDNESS
+
+:B2
+Echo "Shutup Arnold or I'll beat the crap out of you!!"
+Echo.
+Echo Arnold think for a minute about what you said then takes a big swing at
+Echo your head with his fist.  You dodge his fist of course.
+Echo.
+Echo "You want to take this outside Fast Eddie?"
+Echo.
+Echo    1. "My name's Mr. Buff, not "Fast Eddie" stupid!"
+Echo    2. "Were already outside Moron!"
+Echo    3. "Ya! Gimme your best shot"
+Echo    4. "Take WHAT outside?"
+Echo    5. "No! Let's be friends forever" (Only Retards pick this one)
+STUPID /C:12345q /n
+cls
+if errorlevel 6 goto STUPIDNESS
+if errorlevel 5 goto B39
+if errorlevel 4 goto B52
+if errorlevel 3 goto B53
+if errorlevel 2 goto B7b
+if errorlevel 1 goto B7
+goto STUPIDNESS
+
+:B2b
+Echo "Shutup Arnold or I'll beat the crap out of you!!"
+Echo.
+Echo Arnold think for a minute about what you said then takes a big swing at
+Echo your head with his fist.  You dodge his fist of course.
+Echo.
+Echo "You want to take this outside Fast Eddie?"
+Echo.
+Echo    1. "My name's Mr. Buff, not "Fast Eddie" stupid!"
+Echo    2. "Were already outside Moron!"
+Echo    3. "Ya! Gimme your best shot"
+Echo    4. "Take WHAT outside?"
+Echo    5. "No! Let's be friends forever" (Only Retards pick this one)
+STUPID /C:12345q /n
+cls
+if errorlevel 6 goto STUPIDNESS
+if errorlevel 5 goto B7
+if errorlevel 4 goto B52
+if errorlevel 3 goto B53
+if errorlevel 2 goto B7b
+if errorlevel 1 cls
+Echo Hey, didn't I just say NOT to pick this answer, Jesus Christ!
+Echo.
+pause
+goto B2c
+
+:B2c
+cls
+Echo "Shutup Arnold or I'll beat the crap out of you!!"
+Echo.
+Echo Arnold think for a minute about what you said then takes a big swing at
+Echo your head with his fist.  You dodge his fist of course.
+Echo.
+Echo "You want to take this outside Fast Eddie?"
+Echo.
+Echo    1. "My name's Mr. Buff, not "Fast Eddie" stupid!"
+Echo    2. "Were already outside Moron!"
+Echo    3. "Ya! Gimme your best shot"
+Echo    4. "Take WHAT outside?"
+Echo    5. "No! Let's be friends forever" (Only Retards pick this one)
+STUPID /C:52341q /n
+cls
+if errorlevel 6 goto STUPIDNESS
+if errorlevel 5 goto B7
+if errorlevel 4 goto B52
+if errorlevel 3 goto B53
+if errorlevel 2 goto B7b
+if errorlevel 1 cls
+Echo Hey, didn't I just say NOT to pick this answer, Jesus Christ Almighty Lord
+Echo                                                 of Heaven and Earth!
+Echo.
+pause
+goto B2b
+
+:B3
+Echo As you're walking down the highway, you trip over your "Exhaust jeans"
+Echo (Because they're so damm Big and Baggy). You get up and find out that
+Echo all your money fell in the sewers.
+Echo.
+Echo BUFF:    "Arnold, you got any money?"
+Echo ARNOLD:  "What DO YOU think Sherlock?"
+Echo BUFF:    "That's just great, so what can we do without money?"
+Echo ARNOLD:  "I don't know."
+Echo.
+Echo After hours of thinking about what you guys could do (with no money), you
+Echo guys get hungry.
+Echo.
+Echo What do you do?
+Echo                 1. Go to sleep
+Echo                 2. Read the "Help Wanted" Section in the Newspaper
+Echo                 3. Shoplift some chocolate bars from the Quik-E Mart
+Echo                 4. Walk to your Bank and Withdrawl some money 
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B75
+if errorlevel 3 goto B56
+if errorlevel 2 goto B27
+if errorlevel 1 goto B58
+goto STUPIDNESS
+
+:B4
+Echo "You've got SOME NERVE!!!" you say to the manager as you give him a knuckle
+
+Echo  sandwich.
+Echo.
+Echo "What's a knuckle sandwich?" asks Arnold.
+Echo.
+pause
+cls
+Echo BUFF:   "Arnold, What the Hell are you Talking About? I never 
+Echo          said nothing about a Knuckle Sandwich."
+Echo ARNOLD: "Yes you did, you said you gave the manager a knuckle sandwich."
+Echo BUFF:   "No stupid, the narrator said that, I'm just doing what 
+Echo          the story is telling me to do."
+Echo ARNOLD: "???"
+Echo BUFF:   "???"
+Echo ARNOLD: "?????"
+Echo BUFF:   "Okay Moron, stop it with the '???', I'll explain. There is a person
+
+Echo          making this story of me and you up, his name is Chris Chokan, he
+Echo          is the one who said that I gave the manager the knuckle sandwich...
+
+Echo.
+pause
+cls
+Echo ARNOLD:       "???"
+Echo CHRIS CHOKAN: "???"
+Echo BUFF:         "???"
+Echo ARNOLD:       "You STILL didn't answer my question, 
+Echo                what does a knuckle sandwich mean?"
+Echo BUFF:         "It means umm... pickles and mustard on a sesame seed bun!"
+Echo ARNOLD:       "Oh, I see. Then let's go to Harveys 
+Echo                and get a Knuckle Sandwich!"
+Echo BUFF:         "Umm... we can't... because they're only 
+Echo                available in United States!"
+Echo ARNOLD:       "Then how did you give the Manager a knuckle sandwich?" 
+Echo BUFF:         "Grrr... because I went down to New York 
+Echo                Last Night AND STILL HAD IT ON ME!!!"
+Echo ARNOLD:       "Why did you give him the knuckle sandwich, 
+Echo                I'm your best friend!"
+Echo BUFF:         "YOU WANT A KNUCKLE SANDWICH, I'LL GIVE YOU A KNUCKLE SANDWICH!"
+
+Echo.
+pause
+cls
+Echo ARNOLD:       "No thanks, I just ate!"
+Echo.
+pause
+goto B
+
+:B5
+Echo   They don't reply, they just start following you to the Quik-E Mart.
+Echo.
+Echo BUFF:  "So, introduce yourselves guys!"
+Echo JAMES: "I'm the paper boy, duh! And this funny haired man is Phil"
+Echo PHIL:  "Ya, me and James go way back... back even further than when 
+Echo         YOU wrecked our Grade 8 trip!"
+Echo BUFF:  "Hahaha... (fake laugh)"
+Echo.
+pause
+:B5b
+cls
+Echo   You look at the other one, the nerd with glasses...
+Echo.
+Echo BUFF: "WHO THE HELL ARE YOU???"
+Echo NERD: "Uhh... people call me STUPID, but my real name is George!" 
+Echo.
+Echo  Obviously George is a looser, so you decide not to socialize with him.
+Echo.
+pause
+cls
+Echo   "Can I help you guys with anything?" asks the Cashier.
+Echo.
+Echo   "No, were fine!" you say as you're walking towards the 'Ice Cream 
+Echo    Section'. You open the freezer to the Mr. Freezies, trying slip a 
+Echo    few Mr. Freezies down your sleeve, you look over to see if anyone 
+Echo    is watching you, and you see George staring Gayly at you.
+Echo.
+Echo   "You Know What This Looks Like???" questions George in a loud voice, "it
+Echo  Looks Like On Those Movies, You Know, Where THE GUY SHOVES MR. FREEZIES UP 
+
+Echo  HIS SLEEVE AND RUNS OUT OF THE STORE WITHOUT THE CASHIER KNOWING HE STOLE
+Echo  THE MR. FREEZIE, That's What This Looks Like!!!"
+Echo.
+Echo    You're about to give George a Good 'Kick in the Groin' for that STUPID
+Echo  Comment, but you notice James and Phil waving the SIGNAL meaning 'time to 
+
+Echo  slip out of this joint'.
+Echo. 
+pause
+cls
+Echo   While the cashier's looking the other way, you slowly but quietly creep out 
+
+Echo  of store knowing you will be able escape without getting caught... 
+Echo.
+Echo   "DARN! COULDN'T FIND WHAT I WAS LOOKING FOR!" exclaims George happily.
+Echo.
+Echo   The cashier looks over, and you JUST make it out of the store in time. 
+Echo   James and Phil act very relieved that you made it.  
+Echo.
+Echo    No second chances for George, you immediately decide to...
+Echo.
+Echo     1. Kick him in the groin
+Echo     2. Punch him in the head
+Echo     3. Get your friends to kick his ass
+Echo     4. All of the above
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B6c
+if errorlevel 3 goto B6b
+if errorlevel 2 goto B6
+if errorlevel 1 cls
+Echo ...when George least expects it you kick him in the groin until his balls are
+
+Echo all screwed up, he seems very confused and in pain at the same time... 
+goto B6d
+
+:B6
+Echo ...you punch Nerd Boy in the head, he feels no pain, yet your hand seems to 
+
+Echo be injured from hitting his thick ROCK HARD skull... 
+goto B6d
+:B6b
+Echo ...you stand impatiently watching that looser get beat up by your old buddies, 
+ 
+Echo George seems to be crying for help, hahaha....
+goto B6d
+:B6c
+Echo  ...you give him a good 'Kick in the Groin', punch him in the head... 
+Echo  then you and your fellow Shoplifters pound the crap out of George until 
+Echo  he's BLACK and BLUE (and a big spot of RED where his nose used to be.)
+:B6d
+Echo.  
+pause
+cls
+Echo  While George is in laying in his corner, you guys start talking about what
+
+Echo great things you achieved by going into the store...
+Echo.
+Echo JAMES:  "Hey hey, I got enough Onion Dip to last me a lifetime!"
+Echo BUFF:   "ONION DIP??? YOU DON'T EVEN HAVE CHIPS!!!"
+Echo JAMES:  "SO???"
+Echo PHIL:   "I Stole A Can Of V-8!!!"
+Echo BUFF:   "THAT CRAP IS DISCUSTING!!!"
+Echo PHIL:   "Oh, NOW YOU TELL ME!!!"
+Echo BUFF:   "Can I have some?"
+Echo PHIL:   "k..."
+Echo BUFF:   "George, what did you get?"
+Echo GEORGE: "..."
+Echo.
+pause
+cls
+Echo EVERYONE: "WELL???"
+Echo GEORGE:   "heheh... you'll never guess what i got!"
+Echo JAMES:    "hmm... let me guess, NOTHING!!!"
+Echo GEORGE:   "WAY BETTER! I GOT A COUPON FOR 10 CENTS OF MY 
+Echo            NEXT PURCHASE OF MINI WHEATS!!!"
+Echo PHIL:     "???... and we hang around with this kid???"
+Echo GEORGE:   "Wait, that's not all. I also stole a Sunny D bottle!"
+Echo BUFF:     "A... 'FULL' SUNNY D BOTTLE???"
+Echo GEORGE:   "Nope, from the recycling bin; but it's 
+Echo            still cool for making noises"
+Echo JAMES:    "We'll, it's getting late... i gotta do my 
+Echo            papers by the crack of midnight...."
+Echo.
+pause
+cls
+Echo   While George is singing BAD HABIT in a computer voice tone into his Sunny 
+D 
+Echo Bottle, you decide to help James with his papers. Unfortuately, George starts 
+
+Echo following you guys...
+Echo.
+Echo  What do you say?
+Echo.
+Echo            1. "Later Masterbater, you can't come with us..."
+Echo            2. "So James, how's your new band coming along?" 
+Echo            3. "Cha ChaCha Cha Cha Cha... Meow Baby!"
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B11
+if errorlevel 2 goto B10
+if errorlevel 1 cls
+Echo "Why not," says George in a stupid Woman Tone voice.
+Echo "Because, nightime is scary and theres lots of sickos..." James replies.
+Echo "James... George and Sickos makes a PERFECT COMBINATION, we need to give
+Echo  George a reason to leave, not stay" you explain.
+Echo.
+Echo   Well, you guys couldn't think of anything so George stays....
+goto B23
+
+:B7
+Echo ARNOLD: "Good point... Hey, did you call me STUPID?"
+Echo BUFF:   "No, that's your imagination!"
+Echo ARNOLD: "Oh, so I'm not stupid, RIGHT?"
+goto B7c
+
+:B7b
+Echo ARNOLD: "Good point... Hey, did you call me a MORON?"
+Echo BUFF:   "Me... no, why would I ever say something like that?"
+Echo ARNOLD: "Oh, so I'm not a Moron; RIGHT?"
+goto B7c
+
+:B7c
+Echo.
+Echo What do you say:
+Echo                   1  "I didn't say that!"
+Echo                   2  "No Arnold, you're the smartest living
+Echo                       creature on this planet!"
+Echo                   3.  Ignore Arnold 
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B38
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B8
+Echo "You're dead BUFF!"
+Echo.
+Echo He gives you a shot in the gut then later tries for a kick to the head...
+Echo.
+pause
+cls
+Echo "I Don't think so NumSkull!" you say as block your head then give him a DDT
+
+Echo  & shove him in the City Garbage Can. "Finish him off Arnold!"
+Echo.
+Echo "My pleasure!" Arnold shoots the garbage can in the middle of
+Echo  the road and some guy in a transport runs him over (Accidentaly)
+Echo  & Sylvester Dies, "Iced that one" Arnold says (That saying was 
+Echo  from his cheap 'Last Action Hero' movie that really sucked).
+Echo.
+pause
+cls
+Echo "Shit!" yells Arnold, "The cops are coming!"
+Echo.
+Echo What do you do?
+Echo                  1. Hide in the garbage can
+Echo                  2. RUN LIKE HELL!!!
+Echo                  3. Wait for the police to come 
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B12
+if errorlevel 2 goto B44
+if errorlevel 1 goto B9
+goto STUPIDNESS
+
+:B9
+Echo It's in the middle of the road, remember!
+Echo.
+pause
+cls
+Echo What do you do?
+Echo                  1. Hide in the garbage can
+Echo                  2. RUN LIKE HELL!!!
+Echo                  3. Wait for the police to come 
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B12
+if errorlevel 2 goto B44
+if errorlevel 1 goto B25
+goto STUPIDNESS
+
+:B10
+Echo JAMES: "AWESOME, WE'RE GONNA NAME THE BAND... E.T.P."
+Echo BUFF:  "Perhaps you could tell me what that means."
+Echo JAMES: "Guess...."
+Echo BUFF:  "pff... Easy to Puke? Elephant Tornado Platypus? Electric Triangular 
+
+Echo         Placemats???"
+Echo JAMES: "nope... darn, I forgot. Oh well."
+Echo BUFF:  "hey... I WANT TO KNOW WHAT IT MEANS!!!"
+Echo JAMES: "I don't know, something about shampoo."
+Echo.
+pause
+cls
+Echo    You rumage through CHEZ SIMONE looking for shampoo bottles. There are 
+Echo many things that startle you.
+Echo.
+Echo BUFF:   "What in blazes, they use plants in shampoo???"
+Echo JAMES:  "Umm... (gets cut off by you)"
+Echo BUFF:   "Never tested on --- ANIMALS? Why the hell would they want to test
+Echo          this crap on animals anyway?" 
+Echo GEORGE: "I don't trust shampoos that aren't tested on animals"
+Echo BUFF:   "That's STUPID!!! Animals don't have HUMAN hair! 
+Echo          Why don't they just test it on humans... we use the shampoo 
+Echo          for our hair anyway... WHY DOESN'T THIS SAY TESTED ON HUMANS?"
+Echo JAMES:  "I haven't the faintest clue..."
+Echo.
+Echo   You guys walk out of the store (with the bottle of shampoo) 
+Echo and head for James's house.
+Echo.
+pause
+cls
+Echo   "Hey look, a dog.... we can test the shampoo on him!" says George 
+Echo anxiously.
+Echo.
+Echo   "...Oh yeah, great idea... you do that!" says James sarcasticly as you
+Echo and James are running the other way cause the dog is a killer German 
+Echo Shephard and he looks hungry.
+Echo.
+Echo   You hear a loud knock and look to your right, no one. You look to your
+Echo left. AAAAAA!!! Granny is waving you guys to come over and eat. Looking
+Echo back at George viciously trying to shampoo the german shephard... you
+Echo decide to go over to Grannys house.
+Echo.
+pause
+cls
+Echo    George walks in two minutes later with only one arm and one leg and a 
+Echo broken bottle of shampoo. You and James are very disappointed to see 
+Echo him alive...
+Echo.
+goto B23b
+
+:B11
+Echo GEORGE: "That song rules, CHA CHACHA CHA CHA CHA..."
+Echo JAMES:  "Look what you started Buff!"
+Echo BUFF:   "Haha! That STREET CAT just Growled a George"
+Echo GEORGE: "... CHA CHA CHACHA CHA..."
+Echo JAMES:  "Hey, look... the cat is shreading Georges Balls off..."
+Echo GEORGE: "...CHA CHA CHA CHOOOOWWW! FUCK!!!!..."
+Echo.
+pause
+cls
+Echo    You and James laugh your heads off at George and then realize you've 
+Echo  attracted most of the cats in the neighbourhood with the CHA CHAing. Along
+
+Echo  with the cats you've attracted Phil's retarded twin brother Dave.
+Echo.
+Echo  DAVE: "Can I play with you guys?"
+Echo.
+pause
+cls
+Echo   Before George could answer, Phil comes running by with a drum mallet 
+Echo screaming:
+Echo            "NOOOOO! DAVE IS A HOMOSEXUALLLL, NOOOO!!!"
+Echo.
+Echo   You and James just stand there looking at Phil stupidly.
+Echo.
+Echo JAMES:  "I didn't know you had a twin brother"
+Echo GEORGE: "I didn't know he was gay (smiling look)"
+Echo BUFF:   "I know Phil's brother, he talks so gay on the phone"
+Echo PHIL:   "Hey shutup, his voice is the same as mine..."
+Echo.
+Echo  Nobody answers. Later, Phil realizes his brother has disappeared...
+Echo.
+pause
+cls
+Echo  ....AND SO HAS GEORGE!!!!
+Echo.
+Echo    Strange thoughts fill your mind. You decide to brush those thoughts away
+
+Echo and daydream about being B.J. in Wolfenstein and trying to squease Gretal's 
+
+Echo breasts. James decides to deliver his two week old newspapers that are sitting 
+
+Echo in his driveway before he gets fired.
+Echo.
+Echo  PHIL: "I don't feel like walking home, let's get your bike Buff"
+Echo  BUFF: "That doesn't sound like a good idea."
+Echo  PHIL: "Why?"
+Echo  BUFF: "BECAUSE I LEFT MY BIKE AT.... 
+Echo.
+pause
+cls
+Echo         ....GRANNYS HOUSE!"
+Echo.
+Echo  PHIL: "oh god, not... GRANNYS HOUSE! (sarcastic tone)." 
+Echo  BUFF: "don't you know what could happen at grannys house???"
+Echo  PHIL: "We're getting your bike or you're out of E.T.P."
+Echo.
+Echo   Unfortunately Phil doesn't know much about GRANNY'S HOUSE. You dumbly,
+Echo without thinking, go to Granny's House and silently attempt to take your 
+Echo bike out of the driveway, hoping Granny won't hear you...
+Echo.
+pause
+cls
+Echo "HUN???? WHERE'A YOU GO WITH BIKE???" shouts the GIANT GRANNY OF 
+Echo  GROSSNESS, "come in... EAT!!! YOU TOO SKINNY!!"
+Echo. 
+Echo  "ok" Phil replies, not knowing what devious Spells lie inside. 
+Echo.
+Echo  You try to get Phil to come back... but it's no use. You decide to
+Echo  come in and watch.
+Echo.
+Echo  BUFF:   "See this Orange Juice..."
+Echo  PHIL:   "ya... Extra Pulp! mmmm"
+Echo  BUFF:   "it's made with ughhh... Old woman skin and gray--" 
+Echo  GRANNY: "---WANNA ORANGE JUICE???"
+Echo  PHIL:   "ya sure!"
+Echo.
+Echo    ACK!!! Confused and defencless, you WATCH Phil clumsily drink the liquid. 
+He
+Echo  starts eating some food as if it were Normal food. What an idiot, or course
+
+Echo  it's old and modly, open up your eyes dummy. If the sight won't get you
+Echo  the taste will. DON'T YOU HAVE A TONGUE???
+Echo. 
+pause
+cls
+Echo   Twenty minutes later...
+Echo.
+pause
+goto B
+
+:B12
+Echo The police arrive on the scene. They block off the road & do an
+Echo investigation. One of them askes you a question.
+Echo.
+Echo "Alright, what happend here?"
+Echo.
+Echo   1. "I don't know, I was in Daydream land the whole time"
+Echo   2. "I saw everything, Stalone went into the Garbage can, felt like Chokin'
+
+Echo       his Chicken, got a little carried away, the Garbage can rolled onto the
+
+Echo       road, transport dude never noticed him, ran over him, end of story!"
+Echo   3. "It was the Crazy Transport Driver, he pushed Stalone into the garbage
+
+Echo       can, went into his transport, & then ran over Stalone!"
+Echo   4. "I don't know, I might have killed him, I don't remember; I've got...
+Echo       alsymers disease... ya... that's what I've got... so... I could have
+Echo       killed him... but... the odd are... I didn't kill him"
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B14
+if errorlevel 3 goto B41
+if errorlevel 2 goto B13
+if errorlevel 1 goto B57
+goto STUPIDNESS
+
+:B13
+Echo "I suppose that's why that's why yours & Arnold's fingerprints are all over
+
+Echo  the garbage can eh?"
+Echo.
+Echo  1  "Yep! I guess thats why... What???"
+Echo  2. "You know what I think he did? I think he made some special gloves that
+
+Echo      had our fingerprints on them and was wearing them while he went into the
+
+Echo      garbage can & did that so he could frame us for his suicide attempt"
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B15
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B14
+Echo "@#!#@!@@#!" screamed the police.
+Echo "This guy belongs in the mental institution, he's a total NUT!" screamed the
+
+Echo  police to another police.
+Echo.
+Echo  "Get in the car Mr. BLUFF & we'll discuss which "rehab" centre you're
+Echo   going to be in after we go to court!"
+Echo.
+pause
+cls
+Echo   After court you were assigned to a
+Echo   Rehab Center in New Jersey, FOREVER.
+Echo.
+pause
+goto BZ1
+
+:B15
+Echo "Sorry to mention this "Oh Bright One", but we found no sign of these
+Echo  so called 'gloves' at the crime scene, or anywhere else for that matter."
+Echo.
+Echo  1  "We'll look again Idiot, they've got to be around here somewhere!"
+Echo  2  "They must be invisable, that Stalone's a clever one!"
+Echo.
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B16
+Echo "Sorry man, I don't do that kind of stuff; I'm on Steroids!"
+Echo.
+Echo What a loser, you and Arnold must feel stupid you even thought of talking to
+
+Echo that low life, non iron pumping steriod freak.
+Echo.
+pause
+cls
+goto B17
+
+:B17
+Echo When you finally get to the gym, you see Mr. Massive pumpin' iron.  He gives
+
+Echo you a mean look & then goes to do some workouts on the bench press.
+Echo.
+Echo What to say?
+Echo              1. "Hey, Massive Lard Ass, How's life at 500 pounds!"
+Echo              2.  Nothing, let's get to some iron pumping
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B18
+if errorlevel 1 goto B19
+goto STUPIDNESS
+
+:B18
+Echo You & Arnold get BUFF; have a few arm wrestling competitions 
+Echo (Of course, you won them all). Then you guys decide to do some real workouts: 
+
+Echo.
+Echo "Come on, put some more weight on that thing Arnold!" you shout.
+Echo "No way, 5,600 pounds is my limit!"
+Echo "Move over & let a real man handle the job!"
+Echo.
+Echo You were always the strongest of the two, lifting over 10,000 lbs. in
+Echo your workout and pumpin' every day.  After about six hours of pumping iron, 
+
+Echo Arnold felt tired.
+Echo.
+Echo "Lets get some rest!" cried Arnold.
+Echo.
+Echo    What do you say? 
+Echo.
+Echo                 1  "Just a few more hours, I not Buff enough yet!"
+Echo                 2  "Okay, and we'll get ready for the big day tomorrow!"
+Echo                 3. "Yep! That's a good idea!"
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B64
+if errorlevel 2 goto B54
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B19
+Echo MASSIVE: "Great! Glad you asked, you should know the feeling!" 
+Echo BUFF:    "WHAT???"
+Echo MASSIVE: "I'm sure with all that muscle you probably weight over 1000 lbs."
+
+Echo BUFF:    "Oh! Ya, 6,275 pounds to be exact!"
+Echo MASSIVE: "Now that we're on the subject, I'm not a Lard Ass, I'm 'Big Boned'."
+
+Echo BUFF:    "Whatever you say, Lard Ass!"
+Echo MASSIVE: "Say, let's do like old times; Arm wrestle?"
+Echo.
+Echo       1. "Ya, just like old times; I'll beat you before you can 
+Echo           say "Your Mom is fat piece of Shit!!!", let's do it!
+Echo       2. "Nah! I wouldn't want to injure you too bad!"
+STUPID /C:123q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B20
+if errorlevel 1 goto B21
+goto STUPIDNESS
+
+:B20
+Echo MASSIVE: "Ya, like the last time; remember they had implant a new arm on my 
+
+Echo           shoulder because you broke mine completely and my arm flew across 
+
+Echo           the room and hit Elvis Stoyko in the nuts!"
+Echo.
+Echo BUFF:    "Or the time before, you're arm turn so RED that the blood 
+Echo           sqirted out into Van Damme's face and he pissed his pants!"
+Echo.
+Echo MASSIVE:  "Yep! those were the days; oh well, I'll let 
+Echo            you get back to your iron pumping!" 
+Echo.
+pause
+cls
+goto B18
+
+:B21
+Echo MASSIVE:  "My mom is a... OW! OW! OUCH! OWWWWWWW!!!!!"
+Echo BUFF:     "I told I could beat you before you could say that your mom is a..."
+
+Echo MASSIVE:  "GET ME TO THE HOSPITAL!!! THE PAIN!!! I THINK I'M GOING TO DIE!!!"
+
+Echo BUFF:     "Hey, you asked for it!"
+Echo OWNER:    "What the Hells' going on around here?"
+Echo BUFF:     "This guy needs to get to the hospital, NOW!"
+Echo.
+pause
+cls
+Echo Later, the news came out that Mr. Massive is presumed dead. Oh well, 
+Echo no big loss, I bet he's happy in Heaven with all the other guys who lost to
+
+Echo you in arm wrestling competitons. Plus, now you can get BUFFED up with Arnold
+
+Echo in the gym with no interuptions.
+Echo.
+pause
+cls
+goto B18
+
+:B22
+Echo ARNOLD: "Really? That's so sick, I heard Rock Voisine is Gay too."
+Echo BUFF:   "Ya, and that David LaCasse kid!"
+Echo ARNOLD: "What's this world coming to anyway?"
+Echo BUFF:   "Pff! Coming to Hell; look, here comes your Mom!!!"
+Echo ARNOLD: "Where?"
+Echo BUFF:   "Sigh, I was just joking."
+Echo ARNOLD: "Don't ever play those kind of jokes on me again, I could have gotten
+
+Echo          a heart attack; I thought Mom was actually coming!!!"
+Echo.
+pause
+cls
+goto B18
+
+:B23
+Echo.
+pause
+cls
+Echo    There is a loud knock in the distance, you look and see that it is your
+Echo  grandma luring you in to her house to eat... AAAAA!!!
+Echo.
+Echo  JAMES:  "HOLY SHIT! THE GERMAN SHEPHARD NEXT DOOR IS LOOSE!"
+Echo  GEORGE: "AAAAAAAAAA!!!!!"
+Echo.
+Echo    You give the Killer Dog George.... but the dog is fininshed with George
+Echo  in a small amount of time. James jumps through the window of Grandma's house
+
+Echo  and lands on the Kitchen Sink. You, still vigorusly running... open your 
+Echo  Grandmas back door... YOU'VE MADE IT, ALIVE!
+Echo.
+pause
+cls
+Echo    George walks in two minutes with only one arm and one leg. You and James
+
+Echo  are very disappointed to see him alive...
+Echo.
+:B23b
+Echo   "Eat, all of you, Eat, you're too skinny." shrieks your grandmother. James
+
+Echo  has this really discusted look on his face...
+Echo.
+Echo  JAMES:  "Gross... this meat is three YEARS expired!"
+Echo  BUFF:   "...and the Froot Loops are so old they only have three colours!"
+Echo  GEORGE: "..ya..and this light bulb is WHITE!!!"
+Echo  BOTH:   "SHUTUP GEORGE!!!!"
+Echo.
+Echo     You look at your Hamburger and realize it is all moldly and Green.
+Echo.
+Echo   What do you say:
+Echo.
+Echo            1. "Are you trying to Poison us?"
+Echo            2. "Umm.. i like to eat my Hamburgers in the Bathroom!"
+Echo            3. "What is this Crap, some new form of relish?
+STUPID /C:312q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B37
+if errorlevel 2 goto B24
+if errorlevel 1 cls
+Echo GRANNY: "No, I am merely trying to.... to..."
+Echo JAMES:  "POISON US?"
+Echo GRANNY: "Yes, precisely!"
+goto B24b
+
+:B24
+Echo GRANNY: "Yes! It's all part of the Weakening Phase..."
+Echo BUFF:   "Weakening Phase?"
+Echo GRANNY: "First you eat it, and then you slowly die off"
+Echo.
+:B24b
+Echo   What do you say:
+Echo. 
+Echo            1. "May I be Excused"
+Echo            2.  The Old Vanishing Method: 
+Echo               "I like to eat my hamburgers in the Washroom!"
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B37
+if errorlevel 1 cls
+Echo "Of course, child!" she says.
+Echo.
+Echo   You walk out of her house and back home very calmly. 'Hmm..' you think 'I 
+
+Echo wonder how James and George are hangin in right now'. Obviously dead, you
+Echo presume.
+Echo.
+pause
+cls
+Echo   Someone knocks at your door. It's the paper boy wanting money...
+Echo.
+Echo  BUFF:  "Hey man, how'd you do it... save yourself from Grannys house that is?"
+
+Echo  JAMES: "Same thing I do at my house, throw the food down the toilet!"
+Echo  BUFF:  "What about GeekFace?"
+Echo  JAMES: "You could say... he didn't have the same bright idea!"
+Echo  BUFF:  "That kid was Gay anyway..."
+Echo  JAMES: "Well... where's my money?"
+Echo  BUFF:  "Oh, you'll have to come back tomorrow, my parents aren't home..."
+Echo  JAMES: "Gee, haven't heard that excuse before (false expression)..."
+Echo.
+Echo   Well, mom and dad should get home soon so you go to bed and pretend that
+Echo your sleeping... but you fall asleep in the process...
+Echo.
+pause
+cls
+goto B49
+
+:B25
+Echo Fine, I'll let you hide in the stupid garbage can.
+Echo.
+pause
+cls
+Echo You go to the middle of the road, you can't really hide IN the garbage can
+Echo because its broken in about twenty thousand pieces so you hide underneath
+Echo the pieces of the garbage can. Unfortunately, the road is a main highway and
+
+Echo hundreds of vehicles are coming your way as the traffic light infront of you
+
+Echo turns green while you're hiding UNDER the garbage can pieces (and the first
+
+Echo vehicle is a transport). You run back to the sidewalk, you live, you see the 
+
+Echo police coming, decide to jump onto the...
+Echo.
+pause
+cls
+goto B80
+
+:B26
+Echo "We'll, it all started while I was in my chamber. I was plotting ways how to
+
+Echo  escape from Hell for months, finally I figured out a way, steal Satan's
+Echo  'pitchfork' and that way he'd be helpless.  Then I could kill Satan and all
+
+Echo  Hell would be mine...
+Echo.
+Echo The next night, while Satan was sleeping; Jason went into his chamber stole
+
+Echo the pitchfork.
+Echo.
+Echo "Ha, Satan will be defenseless against me now, I can already feel the power!"
+
+Echo "What! What's all the racket," cried Satan "Jason,
+Echo  what the hell are you doing?"
+Echo "Say goodbye Satan!" said Jason as he was shoving the
+Echo  pitchfork through Satan's heart...
+Echo.
+pause
+cls
+Echo "Jason, you idiot! That's my plastic model pitchfork, you wouldn't be able
+Echo  to hurt a fly with that junky old thing, go back to your chamber and get
+Echo  some rest before I get Mad!" said Satan.
+Echo.
+Echo Back to the drawing board, Jason was trying to figure out another way how to
+
+Echo get out of hell. After many more months of thinking, he had a plan. He would
+
+Echo make an eraser that could ERASE SATAN. A few months later, Jason had made the
+
+Echo "Eraser". As he stood in the firehall, Satan approaced him.
+Echo.
+Echo "Get that smile off your face Jason, this isn't suppose a place for joy."
+Echo "Asta la Vista Satan!" said Jason as he pulled the magic Eraser from his
+Echo  pocket and started to Erase Satan...
+Echo.
+pause
+cls
+Echo "Jason, what the Hell are you doing?" yelled Satan.
+Echo "In a few seconds, you will disappear!" said Jason.
+Echo.
+Echo Five minutes later, Jason was still erasing...
+Echo "Works like a charm," said Satan "Maybe next time you should ACTUALLY TEST
+Echo  THAT STUPID ERASER OF YOURS ON SOMETHING BEFORE TRYING TO ERASE MY HEAD!!!
+
+Echo  Give me it, NOW!!!"
+Echo.
+Echo Jason hands the eraser to Satan. 
+Echo.
+Echo "I could use this for my paperwork, what the...
+Echo  This DAMM THING DOESN'T EVEN WORK FOR ERASING PENCIL MARKS!!!" shouted Satan.
+
+Echo.
+Echo JASON: "Then later I took out my..."
+Echo BUFF:  "Uh, Jason?"
+Echo JASON: "WHAT?"
+Echo BUFF:  "Nature Calls."
+Echo.
+pause
+goto B
+
+:B27
+Echo You look through the paper at the store. The only jobs left were:
+Echo  - Garbage Man, $8.50\hr.
+Echo  - Volunteer FireFighter
+Echo.
+Echo "This isn't a library," yells the librarian "this is a place to BUY things"
+
+Echo  You give the librarian-- I mean "The Owner" back the paper.
+Echo.
+Echo   What do you do now?
+Echo                       1. Tell the owner: "Your Mom is Fat!"
+Echo                       2  Be the "Garbage Man"
+Echo                       3  Go for the Volunteer FireFighter
+Echo                       4. Leave this crummy store
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B29
+if errorlevel 3 goto B
+if errorlevel 2 goto B
+if errorlevel 1 goto B28
+goto STUPIDNESS
+
+:B28
+Echo "I know, she's about as big as they come, Ha Ha!" yells the owner.
+Echo.
+Echo  Then the owner's mom comes running down the
+Echo  road with a butcher knife in her hand.
+Echo.
+Echo "I HEARD THAT!!!" she screams as she's running after the owner, then she
+Echo  trips over her own blubber, falls to the floor and starts yelling "YOU'RE
+Echo  GONNA PAY DEARLY FOR THAT ONE!!!"
+Echo.
+pause
+cls
+goto B29b
+
+:B29
+Echo Wow, now you're outside. What a difference...
+Echo.
+:B29b
+Echo   What do you do now?
+Echo                       1  Be the "Garbage Man"
+Echo                       2  Go for the Volunteer FireFighter
+Echo                       3. Decide life isn't worth living & Commit Suicide
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B30
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B30
+Echo How do you wish to Commit Suicide?
+Echo.
+Echo      1. Jump off a Cliff
+Echo      2. Carbon Dioxide Poisoning
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B60
+if errorlevel 1 goto B31
+goto STUPIDNESS
+
+:B31
+Echo You jump off a Cliff...
+Echo "Bye!" screams Arnold as he's standing on the top of the cliff.
+Echo.
+Echo  WAHOO! You're falling, falling, falling, OW!!!!
+Echo.
+pause
+cls
+Echo Your fowl suicide attempt has failed!  You are still alive at the bottom of 
+
+Echo the cliff (All that muscle on your body must of cushioned your fall). But now
+
+Echo you have a broken leg and your head is sore.
+Echo.
+Echo  What do you do?
+Echo                  1. Call the Ambulance
+Echo                  2. Go back to the top of the cliff & try again
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B32
+if errorlevel 1 goto B33
+
+:B32
+Echo You hop on one foot to the top of cliff. As you finally get to the top of the
+
+Echo you accidentaly trip over a rock, start falling forward, hang on to Arnold,
+
+Echo and fall backwards into the sand.
+Echo.
+Echo Arnold, however, can't keep his balance and falls down the cliff head first...
+
+Echo.
+pause
+cls
+goto B
+
+:B33
+Echo "AMBULANCE... AMBULANCE... AMBULANCE, I NEED HELP... AMBULANCE..."
+Echo "I don't think they can hear you!" yells Arnold from the top of the cliff.
+Echo "Oh, maybe you're right!" you scream to Arnold...
+Echo.
+Echo Ten minutes later, you're still laying at the bottom of the cliff.  Isn't
+Echo Arnold going to come down and help you?  Of course he's going to come...
+Echo.
+Echo An hour later, you're still laying on the ground, what do you do?
+Echo.
+Echo          1. Call the Ambulance again
+Echo          2. Play solitaire in the sand
+Echo          3. Wait for Arnold to come
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B34
+if errorlevel 2 goto B35
+if errorlevel 1 goto B36
+
+:B34
+Echo Waiting... 
+Echo Waiting...
+Echo Hmm.... 11:30am....
+Echo Waiting...
+Echo Grr.... 7:00pm....
+Echo "Arnold..."
+Echo "Ya?"
+Echo "WHAT THE HELL ARE YOU DOING???"
+Echo "Staring at the sun, it's interesting; it's starting to turn blue!"
+Echo "ARNOLD, YOU IDIOT!  HOW LONG HAVE YOU BEEN STARING AT THE SUN?"
+Echo "Only a few hours."
+Echo "WOULD YOU MIND HELPING ME UP???"
+Echo "Where are you?  I can't see anything! I think I'm going blind..."
+Echo.
+pause
+cls
+Echo Looks like you'll have to get up on your own, not that it would be hard or
+Echo anything, especially since you have ONLY ONE LEG FUNCTIONAL!
+Echo.
+Echo "I can't see anything!" Arnold screams "I get this weird feeling I'm falling!"
+
+Echo "No, it's just the wind," you tell Arnold as he's falling off the cliff.
+Echo  SPLAT!
+Echo "It was nice knowing you Arnold" you say as Arnold lands on a 60 point Blade.
+
+Echo.
+Echo You get up, hop on one foot to the hospital (Without Arnold because he is
+Echo presently dead anyway) and two weeks later...
+Echo.
+pause
+cls
+goto B
+
+:B35
+Echo Oops!  Forgot your "Harley Davidson" cards at home.
+Echo.
+pause
+cls
+Echo "Arnold, you got any Cards?"
+Echo "Nope!" Arnold yells from the top of the cliff.
+Echo.
+Echo Great, no cards, now what?
+Echo                            1. Talk to God
+Echo                            2. Sing the Oscar-Meyer Weiner Song
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B42
+if errorlevel 1 goto B59
+goto STUPIDNESS
+
+:B36
+Echo AMBULANCE... AMBULANCE... AMBULANCE... HELLO...
+Echo "Hello!" screams Arnold.
+Echo "Shutup Arnold, I'm trying to contact the Ambulance!"
+Echo AMBULANCE... AMBULANCE... AMBULANCE.....
+Echo.
+pause
+cls
+goto B
+
+:B37
+Echo "Yes yes... go on, my husband was like that too" she replies.
+Echo.
+Echo    You and James immediately flush your Hamburgers down the toilet and leave
+
+Echo  the washroom. George doesn't come....
+Echo.
+Echo  GRANNY: "SOME CRAP-A-LA-STICK, CHILDREN???"
+Echo  BUFF:   "Uh... no thanks, I'm full"
+Echo  JAMES:  "Hey, what happened to George (In a scared tone)"
+Echo.
+Echo   No one answers..... 
+Echo.
+pause
+cls
+Echo "Oh George," says Granny suprised "the geeky kid with glasses, 
+Echo  he's just masterbating in the corner!"
+Echo.
+Echo  JANET:  "(whispers to you) sure he is!"
+Echo  BUNNY:  "OH MY GOD! HE IS MASTERBATING IN THE CORNER!"
+Echo  JAMES:  "AW... I THOUGHT HE WAS DEAD!!! BOOOOO!!!"
+Echo  BUFF:   "Granny, why didn't you poison him???"
+Echo  GRANNY: "..all part of the Weakening Phase child!"
+Echo.
+Echo   George tumbles over in a matter of time... you and James are busy watch
+Echo  reruns of Bugs Bunny on Gramas NON CABLE, 3 CHANNEL T.V. and are too 
+Echo  involved in Yo Sammedy Sams jumping act to care about George...
+Echo.
+pause
+cls
+Echo  "Thanks for everything..." you say to Granny as you head home and James
+Echo  finishes off his newspapers.
+Echo.
+Echo   When you finally get home, you realize that it's past 2am so decide to watch
+
+Echo the Canadian National Anthem on the channels that are still in service, then 
+
+Echo you realize thats REALLY boring so you head for the sack...
+Echo.
+pause
+cls
+goto B49
+
+:B38
+Echo "HELLO! Earth to Mr. Buff, is anybody home?"
+Echo.
+Echo         1  "No, everyone's gone fishing!"
+Echo         2  "I'M HERE STUPID--- NOT AT HOME!"
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B39
+Echo "WHAT THE HELL ARE YOU? SOME KIND OF GAYLORD? 'friends forever'
+Echo  Don't you have a life?"
+Echo.
+Echo        1. "No, I'm still working on that!"
+Echo        2. "Oops, did I say 'friends forever'.
+Echo            I meant to say friends for NEVER!"
+Echo        3. Can I go back into the past so we can forget about this?
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B40
+if errorlevel 2 goto B46
+if errorlevel 1 goto B78
+goto STUPIDNESS
+
+:B40
+Echo I warned you that only retards pick this option but you didn't listen, next
+
+Echo time take the advise your computer has to offer. I'll bring you to the past,
+
+Echo just this once.
+Echo.
+pause
+cls
+goto B2b
+
+:B41
+Echo "Ya, and the fact that there are no tire marks on the sidewalk mean anything
+
+Echo  to you Muscle Man?"
+Echo.
+Echo   1  "Ya, that means that the Transport Driver erased the marks from the
+Echo       sidewalk with his special paint that was the exact same colour as
+Echo       the sidewalk and the paint dries after two seconds."
+Echo   2  "The driver pushed the garbage can onto the
+Echo       road and then ran him over, Duh!"
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B42
+Echo You don't know the words to that song, so you sing the "Barney Song" instead.
+
+Echo.
+Echo "I love you, you love me, we're one big happy family with a..."
+Echo "Buff, are taking to ME, GAYLORD???" Arnold screams.
+Echo "No, I was just sing this stupid song that I, wait a minute... I hate you,
+Echo  you hate me, lets go out and kill Barney, with a gun to his head, Boom!
+Echo  Barney's Dead..."
+Echo "That's a good idea Mr. Buff, lets get rid of Barney. Then we'll be
+Echo  worshipped by all mankind... why, we'll be heros!" exclaims Arnold.
+Echo "That's a great idea, lets do it; before someone else thinks of it!"
+Echo.
+pause
+cls
+Echo Arnold helps you up and you guys go out to find Barney. Arnold says Barney's
+
+Echo probably in Hollywood spending his $840,000,000 he made in '94; you guys 
+Echo decide to go to Hollywood (by plane). On your way to Hollywood, you meet 
+Echo Jason in the plane.
+Echo.
+Echo "Aren't you suppose to be in HELL Jason?" you say.
+Echo "Ya, but HELL isn't too complicating to escape from!" mumbles Jason.
+Echo.
+Echo   What do you say:
+Echo                     1. "Really, tell me more..."
+Echo                     2  "You want to help us kill Barney?"
+Echo                     3. "It was nice talking to you."
+Echo                     4. "Shutup, you're a retard Jason!"
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B43
+if errorlevel 3 goto B43b
+if errorlevel 2 goto B
+if errorlevel 1 goto B26
+goto STUPIDNESS
+
+:B43
+Echo "That's what my Mom said too, then I killed her!"
+Echo.
+pause
+cls
+Echo "But I won't kill you because my chainsaw isn't working!"
+Echo.
+pause
+cls
+Echo You got lucky this time Buff. You decide never to talk to Jason again.
+goto B43b
+
+:B43b
+Echo Your leg is fully healed now, thank god! Now it won't be so damm hard to walk.
+
+Echo As the plane stops (in Hollywood) you & Arnold find $1000 on the ground.
+Echo.
+Echo What do you wish to do?
+Echo.
+Echo          1  Buy some guns and ammuntion
+Echo          2. Forget about killing Barney and spend the money on Junk Food
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B47
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B44
+Echo You run like hell... wait a minute, hell doesn't run, Oh well! You & Arnold 
+
+Echo run down the street and hide in Yok Yok's China Shop.  The police don't 
+Echo suspect a thing.
+Echo.
+Echo "Wing Wong! Fu fi fong!" yells Walter Wong (The owner of the store)
+Echo "Put a sock in it Tofu Ninja!" says Arnold. 
+Echo "You wing my ding dong?" questions Wong.
+Echo "Look wise guy, I don't care what you do with yourself in your spare time 
+Echo  but I don't want to be involved, OKAY?" yells Arnold.
+Echo "Wing wong ching chong dong ping pong a diduley dong...
+Echo.
+pause
+cls
+Echo "SHUT THE HELL UP YOU FREAKIN' CHINESSE BLABBER MOUTH OR I'LL TEAR OUT YOUR 
+
+Echo  LIVER AND FEED IT TO MY PET LION!!!" you scream.
+Echo "Wing wong! Didduley ding dong..." 
+Echo "Arnold, this guy deserves a beating."
+Echo "That's exactly what I'm thinking."
+Echo "Good, I'm glad me agree on something."
+Echo.
+Echo Arnold shoots Wong into the "Fortune Cookie Machine", ten seconds later Wong
+
+Echo is in twenty pieces with a Fortune up his ass: "OW, Wong wing, ding...
+Echo.
+Echo "Why the Hell is this bastard still alive?" says Arnold.
+Echo "I think he's asking for more..."
+Echo.
+Echo You shoot Wong on the roof of the building, stuff him down the chimney (May
+
+Echo I also mention that the fire in the woodstove is going).
+Echo.
+Echo "What do you have to say about that?"
+Echo "I think he's dead!" Arnold says.
+Echo.
+Echo You take a glance down the chimney to see if Wong's 
+Echo body has turned into ashes yet...
+Echo.
+pause
+cls
+Echo "Wing wong, freakon ashon hurton button, Wong inko tong...
+Echo "WHAT THE..." you scream "THIS GUY IS GONNA PAY DEARLY FOR THIS!!!"
+Echo.
+Echo You go back in the store, water down the fireplace, go in the fireplace, go 
+
+Echo up the chimney, grab Wong, pull him down the chimney (which is really hard
+Echo to do since the chimney is so DAMM skinny.  After that you shove some 
+Echo chopsticks down Wong's throat, grab Wong by his hair, shoot him in a box,
+Echo mail it to Hong Kong and then you & Arnold go to your house and order some 
+
+Echo pizza.
+Echo.
+pause
+cls
+Echo The next morning the MailMan comes by,
+Echo.
+Echo "Package for Mr. Buff!"
+Echo "Right here!" you yell, "Maybe it's that Offspring T-Shirt 
+Echo                          I ordered last week".
+Echo "Or maybe it's those two 5,000 lbs. weights you ordered because your 2000 lbs.
+
+Echo  ones were getting too light." Arnold says.
+Echo "I'm SO excited..."
+Echo.
+Echo You decide to open it up...
+Echo.
+pause
+cls
+Echo "Wing wong back to dingaling dong fie foe fing fong..."
+Echo "NO!!!!!!!!!!!!!!!!!!!!!!!!!!!" YOU SCREAM.
+Echo "WONG'S COME BACK FOR REVENGE" screams Arnold "AAAAAA!!!!!!"
+Echo.
+Echo You & Arnold run to the airport and take the next plane to Hawaii. Ten hours
+
+Echo later you get there.
+Echo.
+Echo "At last, were away from that CHINESSE PSYCHO." you feel so relieved "I could 
+
+Echo  get used to living here!"
+Echo "Where's the Weight Lifting Gyms?" mentions Arnold.
+Echo "That's right, we need to pump some iron once in a while!"
+Echo.
+pause
+cls
+Echo You guys look for a Gym.  During your search, you see this guy with 
+Echo suspenders on with a mexican hat covering his face. You decide to ask 
+Echo him where the Gym is.
+Echo.
+Echo "Yo, you with the suspenders, where's the Exercise Gym?"
+Echo.
+Echo He walks towards you then takes off his hat.
+Echo.
+pause
+cls
+Echo "Wing wong need song helpong?"
+Echo "AAAAAAAAAAAAAA, IT'S WONG!!!!!!!!!!!" you and Arnold scream.
+Echo.
+Echo What do you do?
+Echo                  1. Ask him if he'd like to Commit Suicide
+Echo                  2. Do it yourself (Die, that is)
+Echo                  3  Bring him out for Hot Dogs
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B
+if errorlevel 2 goto B45
+if errorlevel 1 goto B55
+goto STUPIDNESS
+
+:B45
+Echo You see a really tall cliff, jump off it...
+Echo.
+Echo "YES!" you're thinking in your head "I'm finally away from that "WONG" freak!"
+
+Echo.
+pause 
+cls
+Echo You land (Alive). "My, that was a nice fall" you think in your head...
+Echo.
+pause
+cls
+Echo "Wing wong chong be dong if ong no song Bong..."
+Echo.
+Echo You look back and see that Wong has caught you and is holding you in his arms.
+
+Echo.
+Echo "NO, THIS CAN'T BE HAPPENING!!!" you scream as you start running for the 
+Echo  Pacific Ocean. "If drowning is the only way to get away from Wong, then
+Echo  so be it". You swim ten miles into sea and then let yourself fall down the
+
+Echo  water, wait a minute, you're floating back to the top. You try to swim down 
+
+Echo  to the bottom of the Ocean but this mysterious figure pulls you up... 
+Echo.
+pause
+cls
+Echo Oh no, it's........ an old lady in a sailboat??? 
+Echo "Thanks for saving me!" you say to her as she gives you some... 
+Echo                                                              Chicken Balls???
+
+Echo.
+pause
+cls
+Echo "Eat wong wing!" cries the lady as rings the bell for supper...
+Echo "Wong wong mother!" says the son as he climbs down the sail of the boat.
+Echo.
+pause
+cls
+Echo "It's WONG!" you scream. (the son of the old lady is Wong)
+Echo  Then all WONG's relatives come sailing from another boat 
+Echo  to get some food.
+Echo.
+Echo "Wong?" yells the uncle.
+Echo "Wing ching." yells the daughter.
+Echo "AAAAAAA!!!!!!" yells Mr. Buff.
+Echo.
+Echo You jump off the boat, back into the ocean, swim to New York...
+Echo.
+pause
+cls
+Echo 'The city looks different, for some reason there are only chineese people,
+Echo  and the statue of liberty is now... THE STATUE OF WONG???'
+Echo.
+pause
+cls
+Echo   You start hitting pans across your head wishing this Horrible Nighmare 
+Echo would end.  A few minutes later, you're uncontious on the floor.
+Echo.
+pause
+cls
+Echo The next thing you know, your in the doctor's office...
+Echo.
+Echo DOCTOR: "He's been hilusonating again!"
+Echo ARNOLD: "We'll, what are you going to do?"
+Echo DOCTOR: "I'll preform Open Heart Surgury!"
+Echo ARNOLD:  ???
+Echo.
+pause
+cls
+Echo You wake up, you're eyes trying to adjust to the bright light, BRIGHT LIGHT??? 
+ 
+Echo Next thing you know, there's a hole in your stomach, and beside you stands... 
+
+Echo.
+pause
+cls
+Echo DR. NICK???
+Echo.
+Echo "Hi everybody!" yells Dr. Nick.
+Echo "Hi Dr. Nick!" yells the audience that's watching you.
+Echo.
+Echo "Just great," you think "Dr. Nick is making a hole in your stomach, 
+Echo  what next? Krusty the Clown making you go on live tv as Side Show Buff?" 
+Echo.
+pause
+goto B
+
+:B46
+Echo "Okay, see ya, it was nice knowing you... wait a minute, I just lost my best
+
+Echo  friend." says Arnold as he's walking down the street all alone. "Maybe I
+Echo  was a little too hard on Mr. Buff.
+Echo.
+Echo Meanwhile, you've made a whole new gang of friends: Mr. Massive, MC Drew, 
+Echo "Mike" James (Paul Woodstock), Curly Fry (Now he's BUZZ), Super Dave, Bert,
+
+Echo BenWa & Bolio, Jesse & Bubba, That Red Shrimp With The Sick Mind, Hemi Kid,
+
+Echo BIG Ken, ZIM-MAN, Bad Mouth Frank, 'Hypo'potamus Computer Nut "Mr. Bean 2",
+
+Echo "Dumb Ass" Roger, 'Cheap Rolley Dealer' Kevin, "Venus is the Moon!" Waldo, 
+
+Echo 'Stroke It' Derek (from the great white South), Dan (George Clooney haircut), 
+
+Echo Biker Mike from Martha, the guy who calls me "Jolly Fellow", Denis Die, 
+Echo Mike of the Island, Vege Swipper James, Dragon Nelson "Knuckles!", 
+Echo Homie G (German Death), and we can't forget Larry & Ray (Foxes on the Prowl).
+
+Echo.
+pause
+cls
+Echo What do you want to do?
+Echo.
+Echo                    1  HAVE A HUGE PARTY!!!
+Echo                    2  Go fishing with Mr. Massive
+Echo                    3  Watch Drag Racing with Hemi Kid (ZZZ!)
+Echo                    4  Listen to Q92 with Mr. Bean 2
+Echo                    5  Play 'Paper Football' with Slacker Josh
+Echo                    6  Smoke a dube with Kev
+Echo                    7  Talk DIRTY with Bad Mouth Frank
+Echo                    8  Play 'Hangman' with Waldo
+Echo                    9  Lose to that DUMB ASS Roger In Cards
+Echo.
+STUPID /C:123456789q /n
+cls
+if errorlevel 10 goto STUPIDNESS
+if errorlevel 9 goto B
+if errorlevel 8 goto B
+if errorlevel 7 goto B
+if errorlevel 6 goto B
+if errorlevel 5 goto B
+if errorlevel 4 goto B
+if errorlevel 3 goto B
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B47
+cls
+Echo You and Arnold go to 'Smith's Mini Mart' and get $1,000 worth of junk food. 
+
+Echo.
+Echo "But I don't like candy worms!" Arnold complains, "Let's get some peaches!"
+
+Echo.
+Echo BUFF:   "Good idea, and some of those candy bananas too!"
+Echo ARNOLD: "I can't wait to eat...
+Echo.
+pause
+cls
+Echo "Ah, this is the life," you say as you're scarfing down a bunch of Starburst
+
+Echo  Jelly beans, "Eating candy day and night, what could possibly be better than
+
+Echo  this?"
+Echo.
+Echo ARNOLD: "I know what could be better!"
+Echo BUFF:   "WHAT??? What in the WORLD could be better than this?"
+Echo ARNOLD: "Watching chicks on the beach!"
+Echo BUFF:   "Ouch, ou mama, that would be great!"
+Echo ARNOLD: "Well, let's go...
+Echo.
+pause
+cls
+Echo   You guys take a cab to the beach, after the driver asks you for ten bucks.
+
+Echo 'Shoot' you think 'we spent all our money on junk food.'
+Echo.
+Echo DRIVER: "Well, you DO have money, don't you?"
+Echo BUFF:   "Huh? Do you think I'M MADE OF MONEY!!!"
+Echo DRIVER: "???"
+Echo ARNOLD: "Umm... would you accept Jellybeans!"
+Echo DRIVER: "What do you take me for, AN IDIOT???"
+Echo ARNOLD: "I hope that was a retorical question!"
+Echo BUFF:   "Arnold? Let me handle this... Driver, you seem like an intelligent
+
+Echo          human bean!"
+Echo DRIVER: "Ya, So?"
+Echo BUFF:   "If you let us go for FREE, no one gets hurt!" 
+Echo DRIVER: "Did you just call me a HUMAN BEAN???"
+Echo BUFF:   "So what's your point, now Arnold and I are gonna leave, you try to
+
+Echo          stop up and... OFF WITH YOUR HEAD!!!"
+Echo ARNOLD: "Ha, look what you got yourself into, TAXI MORON, you could of had it 
+
+Echo          all, Jellybeans, the safety of driving away alive, but no, you had 
+to 
+Echo          be a baby about everything, you blew it!"
+Echo BUFF:   "Arnold, let's go watch the beautiful babes do what they do best!"
+Echo DRIVER: "You won't get away with this, I'll report this to the police and
+Echo          they'll come and bla bla bla...
+Echo.
+pause
+goto B
+
+:B48
+cls
+Echo   Boogy Man looks at you then growls. He seems to be making some kind of hand 
+
+Echo signal. Arnold seems to have followed you.
+Echo.
+Echo ARNOLD: "I think he's trying to tell you something!" 
+Echo BUFF:   "No, really??? (Sigh)"
+Echo ARNOLD: "Maybe he's hungry!"
+Echo BUFF:   "No stupid, he needs a pen so he can 
+Echo          sign his autograph on my notepad!"
+Echo ARNOLD: "I don't think so."
+Echo.
+Echo   Boogy Man takes Arnold's pen out of his pocket and signs your notepad.
+Echo.
+pause
+cls
+Echo ARNOLD:       "Okay okay, so you were right Mr. Buff, but how'd you know?"
+Echo BUFF:         "I play 'Charades' alot!"
+Echo FRANKENSTEIN: "Ha!"
+Echo BOOGY MAN:    "You lose, Sucker!"
+Echo BUFF:         "You guys can SPEAK???"
+Echo BOOGY MAN:    "Ya, we were playing 'the Quiet Game' and Frank lost!"
+Echo ARNOLD:       "Cool, can we play!"
+Echo BUFF:         "No Arnold, that game sucks!"
+Echo FRANKENSTEIN: "You guys want to hang out?"
+Echo BUFF:         "Let's go to my house and scare my parents!"
+Echo BOOGY MAN:    "That's a GREAT idea, me and Frank are GOOD at that!"
+Echo FRANKENSTEIN: "Actually, that's one of our specialties!"
+Echo ARNOLD:       "Cool, I want to be just like you guys when I grow up!"
+Echo BUFF:         "Arnold, you ARE grown up!"
+Echo ARNOLD:       "Ohh... ya, right!"
+Echo.
+Echo "Hey guys, are you coming?" says Boogy Man as him and Frankenstein are walking 
+
+Echo  to your house to teriffy your parents.
+Echo.
+pause
+cls
+goto B
+
+:B49
+cls
+Echo ZZZZZZZZZZZ!!!!
+Echo.
+pause
+cls
+Echo You start having dreams about Being a Mosquito...
+Echo.
+pause
+Echo   All but yourself, you were getting ready to have dinner, then you see a 
+Echo delicious meal. You swoop in, ready to sink your blood sucking tube into your 
+
+Echo first victim. Then, suddenly, WHAP!!! You've been swatted. Next thing you 
+Echo know, you're in Heaven and you try to suck God's blood. Unfortunately, God 
+
+Echo doesn't have any blood, he is a spirit, so God banished you from Heaven and 
+
+Echo sentenced you to eternal life in Hell. 
+Echo.
+pause
+cls
+Echo 'THIS IS THE STUPIDEST DREAM IN THE HISTORY OF DREAMS!!!' you think
+Echo.
+pause
+cls
+Echo   In hell, you see Satan so you try to suck his blood. But unfortunately, 
+Echo Satan is made of fire, so your 'blood sucking tube' burned off of your face 
+
+Echo as you were attempting to suck his blood. Satan was so furious about your
+Echo bad behavior that he told you to go back to Earth and never return.
+Echo.
+pause
+cls
+Echo   At Earth, you see a friend of yours who is a doctor. You ask him if he
+Echo could give you a 'blood sucking tube' implant. The friend did, and you 
+Echo went on to suck blood.
+Echo.
+pause
+:B49b
+cls
+Echo You see three superstars in the park.
+Echo Whose blood would you like to suck?
+Echo.
+Echo 1. Sylvester Stalone
+Echo 2. Forrest Gump (Yes, Forrest Gump)
+Echo 3. Ben Johnson
+Echo 4. None DAMMIT! Wake me up!
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B50
+if errorlevel 3 goto B50b
+if errorlevel 2 goto B51
+if errorlevel 1 goto B50b
+goto STUPIDNESS
+
+:B50
+Echo Sorry but THIS dream doesn't work that way!
+Echo.
+pause
+goto B49b
+
+:B50b
+Echo Mmmm, that was good. Now you go on to suck your next victim. You search
+Echo the streets and all you could see was a dog. Kinda figures, it's 4 am,
+Echo who's gonna be out now. Oh well, the dog it is. You go for the dog's teeth,
+
+Echo how dumb can you get, the dog bites down hard, you die.
+Echo.
+pause
+cls
+Echo   You're banished from Heaven, you're banished from Hell. 
+Echo Where do you go from here?
+Echo.
+pause
+cls
+Echo   No where, You're Dead. On the other hand, the dog has recieved steroids
+Echo from your blood. He has ubtained meraculous powers and is now really muscular. 
+
+Echo He plans to take over the world... (use your imagination; if this is a problem,
+
+Echo                                     watch Barney and learn how to use your 
+
+Echo                                     imagination)
+Echo.
+pause
+goto B63
+
+:B51
+Echo Mmmm, that was good. You feel tired and don't feel the need to suck blood.
+Echo You feel very queesy so you go see your family doctor. The doctor's secretary
+
+Echo tells you he's on vacation. Your bummed for a while, then you remember your
+
+Echo friend is a doctor. You go see him. He takes some tests and x-rays. After the 
+
+Echo survey he begins to talk to you: "I didn't want you to hear this from me, 
+Echo but I have no choice..."
+Echo.
+pause
+cls
+Echo ...or do I?"
+Echo.
+Echo "Do you want to hear the horrible news?"
+STUPID /C:ynq /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B51b
+if errorlevel 1 cls
+Echo   "I have to tell you something serious," he begins "You have, AIDS!!!"
+Echo   "Who was your last victim?" he asks.
+Echo.
+Echo   "Let's see, I haven't sucked anyone lately, umm..... ah.... umm.....
+Echo    Oh My God, Forrest Gump??? Aaaaa!!!!! No!!!!! This can't be happening!"
+Echo.
+pause
+cls
+Echo   The next day, you lay in your coffin, DEAD. At your funeral, your Great
+Echo Aunt arrives and peers into your coffin.
+Echo.
+Echo   "Wahhh, he was such a good boy. It's a shame he died so sudden. It's 
+Echo Forrest Gump's fault, all his fault, Wahhhh. I swear if it's the last thing
+
+Echo I do, I'll kill him, or try."
+Echo.
+pause
+cls
+goto B63
+
+:B51b
+Echo    You walk out of his office and you colapse and die in the hall. You 
+Echo have no clue how you died or what caused it. Oh well.
+Echo.
+pause
+cls
+goto B63
+
+:B52
+Echo "Duh, The Fight!"
+Echo.
+pause
+cls
+goto B2
+
+:B53
+Echo "No, you'll dodge it and then hurt me back... like always!"
+Echo "I'm glad you came to your senses Arnold!"
+Echo "I'll never annoy you again Mr. Buff!"
+Echo "That's Good, because if you ever annoy me again, you're gonna have one hell
+
+Echo  of a broken leg!"
+Echo.
+pause
+cls
+goto B
+
+:B54
+Echo "Big Day tomorrow?" 
+Echo "Ya! We're gonna 'Pump Iron' twice as much tomorrow."
+Echo "Oh great... double." says Arnold sadly.
+Echo.
+pause
+goto B
+
+:B55
+Echo "Wong wing!" says Wong...
+Echo.
+Echo "What the Hell does that mean?" you ask Arnold.
+Echo "Beats me!" Arnold says.
+Echo.
+pause
+cls
+Echo Later, you guys see Wong falling off a cliff onto sharp rocks.  He dies.
+Echo.
+Echo "I guess that means Yes!" you point out to Arnold.
+Echo "What means Yes?" says Arnold in confusion.
+Echo "Wong Wing stupid!"
+Echo "Oh.. okay.......... What?"
+Echo "Nevermind, you're hopeless!"
+Echo.
+pause
+cls
+goto B
+
+:B56
+Echo You just did that last week, 
+Echo aren't you getting sick of chocolate bars?
+Echo.
+Echo 1. No, I happen to LOVE chocolate bars
+Echo 2. Yes, I AM, I AM REALLY SICK OF CHOCOLATE BARS!!!
+STUPID /C:21 /n
+cls
+if errorlevel 2 goto B77
+if errorlevel 1 
+Echo Good, then let's do something worthwhile for a change like...
+:B56b
+Echo.
+Echo                 1  Steal that BUM down the streets' fish sticks
+Echo                 2. Go to sleep
+Echo                 3. Look in the garbage for food
+Echo                 4. Read the "Help Wanted" Section in the Newspaper
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B27
+if errorlevel 3 goto B76
+if errorlevel 2 goto B58
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B57
+Echo "Okay, that's a VERY good story, you're free to go...... but this guy..."
+Echo "Who me?" says Arnold
+Echo "Ya you, what's your story?" shouts the police.
+Echo "Oh, he was with me in daydream land the whole time!" you shout.
+Echo "Oh I see, alright then, you're free to go too."
+Echo.
+pause
+cls
+Echo ARNOLD: "That was a close one Buff!"
+Echo BUFF:   "What are you smokin' Arnold, that was a piece of cake, you just have
+
+Echo          to know what to say."
+Echo ARNOLD: "I wish I was as smart as you Mr. Buff"
+Echo BUFF:   "I bet you do."
+Echo.
+pause
+goto B
+
+:B58
+Echo ZZZ!!!
+Echo.
+pause
+:B58b
+cls
+Echo    You wake up the next morning and find $1,000,000 IN YOUR POCKET!!!  
+Echo Arnold looks in his pocket and he finds...
+Echo. 
+pause
+cls
+Echo He finds out that he has no pockets.
+Echo.
+pause
+cls
+Echo "Oh wait a minute," says Arnold "I forgot about my 
+Echo  super secret pocket inside my leather coat!"
+Echo.
+Echo  Arnold looks in his secret pocket and finds...
+Echo.
+pause
+cls
+Echo "27 Cents??? What a Rip Off!!!"  
+Echo.
+pause
+cls
+Echo.
+Echo "27 Cents??? Arnold, that's all you've got!!!"
+Echo "Ya, unless you consider this Pepsi Point valuable!" 
+Echo.
+Echo    You slowly walk away from Arnold and then start running away from him
+Echo until you can't see him.
+Echo.
+Echo "27 Cents..." you think, "Who needs that Welfare Bum!"
+Echo.
+pause
+cls
+Echo   After about two hours of running away from Arnold, you realize that you 
+Echo don't have a clue where you are. It's getting dark out and you feel scared.
+
+Echo.
+Echo   What do you do?
+Echo                 1. Scream out "Mommy!!!"
+Echo                 2. Fall asleep (Again)
+Echo                 3. Go to the Bar across the street
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B65
+if errorlevel 2 goto B71
+if errorlevel 1 goto B70
+goto STUPIDNESS
+
+:B59
+Echo "How's it going GOD?.... GOD?.... HELLO, MORON... GOD?... AND PEOPLE ACTUALLY
+
+Echo  WORSHIP YOU, YOUR A DISCRACE TO MANKIND... YA, THAT'S RIGHT... WE'LL?... 
+Echo  GOD?... YOU'RE JUST A BARREL OF LAUGHS (Sigh!)... GOD?..."
+Echo.
+Echo "It helps to put your hands together!" screams Arnold from the 
+Echo  top of the cliff.
+Echo.
+Echo "Oh ya, by the way Arnold, it's called PRAYING!" you scream to Arnold.
+Echo "OKAY GOD, I'M PRAYING... HELLO... GOD?... YOU'RE A FREAKIN' RETARD GOD...
+Echo  ... TALK TO ME... SHOW ME A SIGN THAT YOU'RE ALIVE... I'D BE BETTER AT YOUR
+
+Echo  JOB THAN YOU COULD EVER BE... GOD?..."
+Echo.
+Echo  So much for talking to God.
+Echo.
+pause
+cls
+goto B
+
+:B60
+Echo You fill up a tank with Carbon Dioxide in it, attach a pipe to your mouth
+Echo and breath the Carbon Dioxide (from the tank)...
+Echo.
+pause
+cls
+Echo    Ten minutes later... noting happens. 'Isn't this suppose to be the most
+Echo pleasant way to die' you think as you feel NOTHING. Later, you see Arnold 
+Echo running towards you: "Don't do it!" arnold screams. You tell Arnold to Shutup 
+
+Echo because he's bothering you.  Arnold tries desperately to unscrew the pipe from
+
+Echo the tank, but what he doesn't know is that you super-glued the pipe to the 
+
+Echo tank. "Only I, the almighty Mr. Buff is strong enough to rip off the pipe from
+
+Echo the tank!" you say...
+Echo.
+pause
+cls
+Echo Two seconds later, Arnold Succesfully unscrews the pipe from the tank.
+Echo.
+Echo "How'd you do that?" you ask arnold.
+Echo "It's all in the force Man!" Arnold explains as he's looking inside the 
+Echo                              tank to find out why you didn't die from the 
+Echo                              Poisoning Air.
+Echo.
+pause
+cls
+Echo "Buff, you moron!" screams Arnold, "You're suppose to use Carbon MONOXIDE,
+Echo  not Carbon DIOXIDE!". "Oh, so that's why it's not working!" you say happily, 
+
+Echo  knowing that NOW you can kill yourself. 'If only I can find some Carbon 
+Echo  MONOXIDE, that would be wonderful' you think in your head, 'Oh! I know how...
+
+Echo.
+pause
+cls
+Echo "Arnold, can you get me some Carbon Monoxide so I can Kill myself?"
+Echo "Umm... sure old buddy, just wait a minute!" Arnold says as he's staring at
+
+Echo  Stacey Harper and Kristy Pitura walking down the road and not even paying 
+
+Echo  attention to you.
+Echo.
+Echo   Later, Arnold gets a tank of Carbon Monoxide from the store and, before he 
+
+Echo realizes what he's doing, gives it to you so you can kill yourself...
+Echo.
+pause
+cls
+Echo "Finally, I can DIE!" you say as you hook up the pipe to your mouth. 
+Echo  Meanwhile, Arnold (who is off in dream land thinking about those hot chicks)
+
+Echo  still doesn't even realize your trying to kill yourself.
+Echo  Later, you feel like your flying, and next thing you know...
+Echo.
+pause
+cls
+Echo   You're in HEAVEN.  Some stupid Angel signs your name on a sheet of paper and 
+
+Echo tells you "You're free to explore the place, as long as you're not violant!".
+
+Echo.
+Echo   What do you want to do?
+Echo                           1. Look for God
+Echo                           2  Threaten to kill the Angel
+Echo                           3. See if Heaven owns any Computers
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B62
+if errorlevel 2 goto B
+if errorlevel 1 goto B61
+goto STUPIDNESS
+
+:B61
+Echo  You see God hanging his clothes on a cloud. It's starts to rain & all his
+Echo clothes fall off the cloud.
+Echo.
+Echo What do you say?
+Echo                   1  "Haven't you ever heard of a Clothes Line?"
+Echo                   2  "Haven't you ever heard of a Dryer?"
+Echo                   3  "And they call you God?"
+Echo                   4   Nothing, just watch him attempt to pick up his clothes
+
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B
+if errorlevel 3 goto B
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B62
+Echo    Right infront of you, you see the Arcade room, and... Computers!  You go
+
+Echo to check them out and see what cool games they have...
+Echo.
+pause
+cls
+Echo MINESWEEPER??? IN BLACK & WHITE???
+Echo "It's taking you long enough to load you stupid piece of Crap!!!" you scream
+
+Echo  to the computer. The manager of the arcade runs to see what's going on. 
+Echo "What the problem here?" asks the Manager.
+Echo.
+Echo  What do you say?
+Echo                   1  "This computer Sucks Shit!"
+Echo                   2  "Nothing. mind your own business!"
+Echo                   3  "Shutup Wise Guy, no one asked you to Talk!"
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B63
+cls
+Echo "YES! Glad that stupid dream is over" you think, "time for breakfast..."
+Echo.
+pause
+goto B
+
+:B64
+Echo Arnold falls asleep right away.  About two minutes later, you daze off too.
+
+Echo.
+Echo "You guys think this is a motel?" screams the Manager of the Gym, "Get the hell
+
+Echo  out of here before I call security!"
+Echo.
+Echo   What do you do?
+Echo           1  Leave the Gym, the Manager looks ticked off
+Echo           2  Go back to sleep
+Echo           3. Beat the crap out of him, he woke you up
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B4
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B65
+Echo   Even though you're only 15 yrs. old, you decide to go to the-- "Oh, cool
+Echo someone's ID card" you say in your head, "Gerry Lougheed, Age 46, COOL!!!" 
+
+Echo You go in the Bar. "Got any ID???" yells the bartender.
+Echo.
+Echo    What do you do?
+Echo               1. Show him Gerry's ID
+Echo               2. Tell him to SHUTUP or you'll beat the CRAP out of him
+Echo               3. Say "I'm too young to have ID, I'm only 15!"
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B66
+if errorlevel 2 goto B69
+if errorlevel 1 goto B68
+goto STUPIDNESS
+
+:B66
+Echo "No ID??? I guess that's alright!"
+Echo.
+Echo   The bartender gives you a drink on the house, but what he didn't tell you
+
+Echo is that it's 150 proof...
+Echo.
+pause
+cls
+Echo "Yum! That was a pretty good drink!" you tell the man.
+Echo "You're A Strong boy!" the man says.
+Echo "Are you trying to say that you just noticed that now???" you ask him.
+Echo.
+pause
+goto B
+
+:B68
+Echo BARTENDER: "That's funny, you don't LOOK like the man in the picture!"
+Echo BUFF:      "I had plastic surgery!"
+Echo BARTENDER: "Oh, then you must be MY DAD!"
+Echo BUFF:      "What???"
+Echo BARTENDER: "Hi, let me introduce myself, I'm Gerry Lougheed Jr."
+Echo BUFF:      "Shit!"
+Echo.
+Echo   The bartender kicks you out of the store onto the streets. "Ow, that 
+Echo hurt!" you say as your Butt lands on a cement.
+Echo.
+pause
+goto B
+
+:B69
+Echo "Shutup Bartender Bastard or I'll Beat the Crap out you, and your MOM!"
+Echo "Okay, I'll shutup!" says the bartender, "But that doesn't mean you can come
+
+Echo  in my store with no ID!"
+Echo "Oh??? I understand!" you tell the bartender as you leave the Bar.
+Echo.
+pause
+goto B
+
+:B70
+Echo "Mommy!!!"
+Echo "I'm coming son!" says an old lady that look like... YOUR MOM!!!!
+Echo "AAAAAAAAAA!!!!!" you scream as you run away faster than a speeding bullet.
+
+Echo.
+pause
+cls
+Echo   Later, the old lady that LOOKS like your mom leaves because she has to take
+
+Echo care of her real son.
+Echo.
+Echo "Thank god that woman wasn't really my mom!" you say, gasping for breath.
+Echo.
+pause
+goto B
+
+:B71
+Echo   You fall asleep, then a few minutes later you wake up in a Trash Can and
+Echo you see 'Boogy Man' and 'Frankenstein' coming to eat you up.
+Echo.
+Echo    What do you do?
+Echo               1. Tell them to Shutup or you'll beat the CRAP out of them
+Echo               2. Pinch yourself (Obviously you're dreaming)
+Echo               3. Ask 'Boogy Man' if you could have his autograph
+Echo               4. Run for your Life
+STUPID /C:1234q /n
+cls
+if errorlevel 5 goto STUPIDNESS
+if errorlevel 4 goto B72
+if errorlevel 3 goto B48
+if errorlevel 2 goto B73
+if errorlevel 1 goto B74
+goto STUPIDNESS
+
+:B72
+Echo    You jump out of the Trash Can and run into a dark corridor. You find out
+
+Echo it's a dead end and you see 'Godzilla' falling from the tall building that's
+
+Echo right beside you. You attempt to run inbetween Boogy Man's legs but he 
+Echo picks you up and tries to eat you...
+:B72b
+Echo.
+pause
+cls
+Echo   You shoot Pepperspray in Boogy Man's eyes and he drops you accidentally. 
+
+Echo There's a GIANT car in the parking lot so you try to steal it.  You get in 
+
+Echo the car and find out 'King Kong' is in the back seat sleeping. You run away
+
+Echo but 'King Kong' hears you and he gets out of the car and tries to squash
+Echo you with his foot. "Oh no, I'm doomed!" you scream...
+Echo.
+pause
+cls
+Echo "I'll save you!" says Super Dave as he kills King Kong with his Lazer Tongue.
+
+Echo "My work here is done!" says Super Dave, then two seconds later, Godzilla 
+Echo  comes and eats him up...
+Echo.
+pause
+cls
+Echo   Godzilla dies from the horrible taste of Super Dave.  Now it's just you &
+
+Echo Boogy Man.  He's coming... coming... going... going... still walking away...
+
+Echo "Hello! STUPID! I'm over here!" you say as Boogy Man falls into a pit of lava 
+ 
+Echo  and dies. "Woohoo! I killed them all!" you say joyfully...
+Echo.
+pause
+cls
+Echo   Then Super Dave's Angel comes down to Earth saying "You didn't kill 
+Echo them all, I killed King Kong!". "Put a sock in it Winged Moron!" you tell
+Echo Super Dave. All of a sudden, you feel like your being lifted...
+Echo.
+pause
+cls
+Echo   You look down... Frankenstein?  "Oh shoot, I forgot about him!". You look
+
+Echo through your pocket and pull out... a Screwdriver? 
+Echo.
+Echo   You undo Frankenstein's bolt that keep him together and then, his head blows
+
+Echo it blows bigtime. Oops! I mean his head blows up, he is now DESTROYED!!!
+Echo.
+pause
+cls
+Echo   After all that hard work, you fall asleep. You wake up the next morning
+Echo happy as ever. "What a lovely dream!" you say. For some reason, you woke up
+
+Echo in a trash can again. The next thing you know, Arnold's back and he looks in 
+
+Echo panic, you and him go for a walk and he tells you 'how awesome it was to meet
+
+Echo Frankenstein last night'.
+Echo.
+Echo "Oh, you had that dream too, pretty cool eh?"
+Echo.
+Echo    Arnold looks at you in confusion. 
+Echo.
+Echo ARNOLD: "Oh maybe it WAS a dream!"
+Echo BUFF:   "No Arnold, things like that always happen in real life!"
+Echo ARNOLD: "Really? Cool!"
+Echo BUFF:   "I was joking Stupid!" 
+Echo ARNOLD: "I knew you were joking, Stupid!"
+Echo BUFF:   "You're the Stupid one, you actually thought that dream was real!"
+Echo.
+Echo    As you guys are arguing, you trip over some nuts and bolts, it's 
+Echo Frankenstein's body.  You faint.
+Echo.
+pause
+goto B
+
+:B73
+Echo "Wake up... wake up... hello, I'm pinching my butt... I should be awake now...
+
+Echo  Pinch... Pinch, OUCH! That hurts!"
+Echo.
+pause
+cls
+Echo    As you are constantly pinching your butt, the Boogy Man eats you up,
+Echo and now you are DEAD.
+Echo.
+pause
+Echo                                                   THE END 
+Echo.
+pause
+cls
+Echo BUFF:        "Hello, that was just a dream, I'm not suppose to be dead!"
+Echo STORYTELLER: "It wasn't a dream."
+Echo BUFF:        "That kind of stuff doesn't happen in real life MORON!"
+Echo STORYTELLER: "It wasn't a dream, you're dead!"
+Echo BUFF:        "Look, It's suppose to be a dream, now wake me up!"
+Echo STORYTELLER: "It's not a dream, you're dead, END OF STORY!"
+Echo.
+pause
+cls
+goto BZ2
+
+:B74
+Echo  Frankenstein looks at you in confusion. 
+Echo.
+Echo "Maybe he doesn't understand english," Arnold says "I mean, what if his First 
+
+Echo  Language is Spanish, or French, or something..."
+Echo.
+Echo "Arnold, you sound even dumber than they do, they are NOT talking Spanish, 
+
+Echo  or French, or any language known to man, they're just making STUPID GROWLING
+
+Echo  NOISES!!!"
+Echo.
+Echo "Maybe it's Dog Talk!" Arnold exclaims.
+Echo.
+Echo "Arnold, you Idiot! What kind of monster talks DOG TALK???"
+Echo.
+Echo "We'll, I just thought maybe..." says Arnold.
+Echo.
+Echo  You decide that it's no use talking to Arnold. What is he doing here anyway?
+
+Echo.
+pause
+cls
+Echo   A few minutes later Arnold's disappeared. Frankenstein's gone too. Then an
+
+Echo idea pops in your mind, maybe Frankenstein isn't hungry anymore because...
+Echo he ate Arnold. 'Yes!' you think, no more Arnold, no more Frankenstein.
+Echo.
+Echo   You start hearing footsteps, they're coming closer...
+Echo.
+pause
+cls
+Echo  "Hey Mr. Buff!" excalims Arnold as he's walking beside Frankenstein and
+Echo   drinking beer, "I figured it out, Frankenstein speaks German!"
+Echo.
+Echo  "German??? You're kidding, right?"
+Echo  "No. Say a few words Franky!" Arnold says to Frankenstein.
+Echo  "Tod ist mein leben!" says Frankenstein, looking at you happily.
+Echo  "See. Now do you believe me." says Arnold.
+Echo.
+pause
+cls
+Echo  "Arnold, you idiot, that means 'Death is my life', he's saying that he 
+Echo   enjoys Killing People!"
+Echo.
+Echo   You run away as fast as you can, Arnold on the other hand, goes to 
+Echo McDonald's and orders a Big Mac. 'What an idiot' you think. 
+Echo.
+Echo    Out of nowhere, 'Godzilla' starts running to McDonalds, "The human has 
+Echo figured out our plan!" yells Boogy Man to Godzilla. "You're kidding," says 
+
+Echo Godzilla "Frankenstein, did you mess up again?". "All I said was 'Tod ist 
+Echo mein leben'" cried Frankenstein. "The human's escaping!" yells out Boogy 
+Echo Man, "After him, before he tells the world!".
+Echo.
+pause
+cls
+Echo   You see all three of them coming after you, but before you can do anything,
+
+Echo Boogy Man picks you up and attempts to gobble you up...
+goto B72b
+
+:B75
+Echo You don't have a Bank, all your money is in 
+Echo those stupid 'Safety Bond' things and you 
+Echo can't take 'em out for another nine years.
+Echo.
+pause
+cls
+Echo What do you do now?
+goto B56b
+
+:B76
+Echo   You search and search, "Help me out Arnold!". Hours go by, nothing, days
+Echo go by, weeks, months, nothing, absolutely nothing, which brings up the 
+Echo question, WHY ARE YOU DOING THIS???. 
+Echo.
+pause
+cls
+Echo "I found something!" Arnold screams out "It's ABC's & 123's". 
+Echo.
+Echo   'Yuck' you think in your head. You always hated ABC's & 123's, mom always 
+
+Echo used to buy it, AND MAKE YOU EAT IT... DISCUSTING!!! You told her to buy you 
+
+Echo the stuff with the UFO's, but she never did. You start remebering; the puking, 
+
+Echo the barfing from the HORRIBLE TASTE of that dreaded canned nightmare, ABC's 
+& 
+Echo 123's. "Well, are you coming," said Arnold, "Yum, they're delicious, and fresh!"
+
+Echo.
+Echo  'Oh my God' you think, what if Arnold makes you eat them, "AAAA!!!!".
+Echo.
+Echo  "Come on Mr. Buff, we haven't eaten anything for months, try it, IT'S GOOD!"
+
+Echo.
+Echo  'No, I can't, never... never, not if it was the only thing that could keep 
+me
+Echo   alive... never again, never again must I feel the aggonising pain of that
+
+Echo   wreched, awful food!'
+Echo.
+pause
+cls
+Echo    The next day, you lie on the ground, DEAD!!! 
+Echo.
+Echo   Beside you stands Arnold, & his new pet Llama that he saved in the bush 
+Echo while it was being attacked by a bear. An undertaker comes and places you
+Echo in a coffin and buries you. 'Hey, I wanted to be creamated!' you're spirit 
+
+Echo yells out, but no humans can hear it. "Yep, definately died of starvation!"
+
+Echo says one of the doctors.
+Echo.
+pause
+Echo.
+Echo                                       THE END (You're Dead!)
+pause
+goto BZ3
+
+:B77
+Echo   You and Arnold try to figure out a 'Chocolate Swipping' plan...
+Echo.
+pause
+cls
+Echo BUFF:    "Arnold, you distract the cashier while I steal the Chocolate Bars!"
+
+Echo ARNOLD:  "Sure. Hello Mister Cashier Sir, I am wondering if you would like to 
+
+Echo           sponsor the... umm... goverment tax collection service, they're goal 
+
+Echo           is 10 billion dollars, and they need it by..."
+Echo BUFF:    "Arnold, that's enough talk, I got 20 bags of chocolate bars, 
+Echo           let's go!" 
+Echo ARNOLD:  "...and if you sponsor us today, you get a free gummi bear, courtesy
+
+Echo           of Mike Harris, and that's not..."
+Echo BUFF:    "Arnold, let's go! Are you hard of hearing or something... move it!"
+
+Echo ARNOLD:  "...and this will help goverment employees become even wealthier, 
+
+Echo           richer people than they already are, any donation will do, $5000,
+
+Echo           $10,000..."
+Echo BUFF:    "Arnold, HELLO???"
+Echo CASHIER: "Hello, can I help you?"
+Echo BUFF:    "uh... no, I'm just saying hello to my old buddy Arnold, can you
+Echo           give him a message?"
+Echo CASHIER: "Sure, what message?"
+Echo.
+pause
+cls
+Echo BUFF:    "Tell him 'the Goverment already reached their 10 billion dollar goal
+
+Echo           so Arnold can SHUTUP AND STOP CANVASSING FOR MONEY!!!"
+Echo CASHIER: "I'll tell him!"
+Echo ARNOLD:  "...and I'm also sponsoring the Telephone company because they need
+
+Echo           money cause they're rates are too low & they can't afford it and..."
+
+Echo CASHIER: "Oh, the Telephone Company, my brother works there, I'll sponsor!"
+
+Echo BUFF:    "Arnold, you're hopeless, I guess I'll have to eat these chocolate
+
+Echo           bars all by myself!"
+Echo ARNOLD:  "What???"
+Echo BUFF:    "I said: I'LL HAVE TO EAT ALL THESE CHOCOLATE BARS BY... Hey! You
+Echo           aren't Deaf, let's go outside and eat these chocolate bars!"
+Echo ARNOLD:  "Okay!"
+Echo CASHIER: "CHOCOLATE BARS?.........
+Echo.
+pause
+cls
+Echo CASHIER: "...can I have some?"
+Echo BUFF:    "Umm... ya... Sure!"
+Echo CASHIER: "Yum... delicious, where'd you get them from?"
+Echo ARNOLD:  "We got them from your store!"
+Echo BUFF:    "Arnold, you Idiot, you're not suppose to TELL HIM THAT!!!"
+Echo ARNOLD:  "Oops!"
+Echo CASHIER: "My store, hmm... I never really noticed THESE chocolate bars in
+Echo           there, maybe I'll buy a few!"
+Echo ARNOLD:  "That's not possible, there are no more!"
+Echo CASHIER: "Really, why not!"
+Echo BUFF:    "Arnold, shhhhhhh!!!"
+Echo ARNOLD:  "Because we stolMMM.MMMMM...MMMMMMMM...
+Echo.
+pause
+cls
+Echo "Shutup Arnold!" you say as you place duct tape on Arnold's mouth so he can't
+
+Echo  talk, "I think we better leave."
+Echo.
+Echo   Arnold shakes his head from side to side, meaning NO. You shake your head, 
+
+Echo meaning YES. Arnold shakes his head again from side to side, meaning NO. You
+
+Echo grab Arnold's head and force it to move up and down. The cashier gets 
+Echo suspicious and asks "What are doing to his head???". You wave goodbye to the
+
+Echo cashier as you are dragging Arnold and the 19 bags of chocolate bars that
+Echo were left away from the store. 
+Echo.
+Echo "What the Hell are you trying to do!!!" you yell to Arnold as you rip the
+Echo  duct tape off his mouth, "We could of went to Jail because of you!"
+Echo.
+Echo "You were the one who stole the chocolate bars!" Arnold cries out.
+Echo.
+Echo "Well, You were the one who couldn't find the decency to SHUTUP!" you yell.
+
+Echo.
+pause
+cls
+Echo BUFF:   "How could you be SO STUPID, you don't steal 
+Echo          things and then tell everyone!"
+Echo ARNOLD: "Oh, we'll if you would've told me that in the first place..."
+Echo BUFF:   "Ohhhh, brother!"
+Echo ARNOLD: "I'm not your brother!"
+Echo BUFF:   "Ohhhh, brother!"
+Echo ARNOLD: "I'M NOT YOUR BROTHER!"
+Echo BUFF:   "I WASN'T TALKING TO YOU!"
+Echo ARNOLD: "Then WHO were you talking to, Eh?"
+Echo BUFF:   "MYSELF!!!"
+Echo ARNOLD: "Talking to yourself is the first sign of crazyness!"
+Echo BUFF:   "No, RAISING MONEY FOR TAXES IS THE FIRST SIGN OF CRAZYNESS!"
+Echo ARNOLD: "Oh! I meant second sign of crazyness!"
+Echo BUFF:   "PUT A SOCK IN IT!"
+Echo ARNOLD: "NO!"
+Echo BUFF:   "PUT A LID ON IT!"
+Echo ARNOLD: "NO!"
+Echo BUFF:   "GO SUCK A LEMON!"
+Echo ARNOLD: "Okay!"
+Echo.
+pause
+:B77b
+cls
+Echo   While Arnold is busy sucking his lemon, you feel a desire to...
+Echo.
+pause
+cls
+Echo ...steal ICE CREAM BARS!
+Echo.
+Echo  "Arnold, you stay here... i'm gonna get some more goodies..." you say. 
+Echo.
+Echo   Arnold pathetically tries to follow you back to the store but trips 
+Echo over a circular stone by Harvey's and falls to his doom. Some punk band
+Echo sees him and stares at him. You notice that one of the punks is the Paper 
+Echo Boy from Hell.
+Echo.
+Echo   What do you say?
+Echo.
+Echo     1. "Cool, now we can sue Harveys" 
+Echo     2. "You punks wanna come steal Ice Cream Bars?" 
+Echo.
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B5
+if errorlevel 1 goto B79
+goto STUPIDNESS
+
+:B78
+Echo "That's funny Mr. Buff, I know you're just joking though because you are the
+
+Echo  most important, heroic, exciting guy in the World!"
+Echo.
+Echo          1  "Who paid you to say that?"
+Echo          2  "You left out 'Muscular'"
+Echo          3  "I already know all this CRAP about me!"
+STUPID /C:123q /n
+cls
+if errorlevel 4 goto STUPIDNESS
+if errorlevel 3 goto B
+if errorlevel 2 goto B
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B79
+cls
+Echo PAPERBOY: "No way, I've had enough COURT for one lifetime!"
+Echo BUFF:     "I see, so you're some kind of CRIMINAL?"
+Echo PAPERBOY: "Yes... let's go steal stuff!"
+Echo BUFF:     "Cool!"
+Echo.
+pause
+cls
+Echo BUFF:  "So, introduce yourselves guys!"
+Echo JAMES: "I'm the paper boy, duh! And this freaky guy is Phil"
+Echo PHIL:  "Ya, me and James go way back!"
+Echo BUFF:  "I see..."
+Echo.
+pause
+goto B5b
+
+:B80
+cls
+Echo ....REVOLVING BLADE OF DEATH???
+Echo.
+Echo    Anyways, that had a slight affect on your legs, the machine gets 
+Echo jammed from all that muscle in your calve muscles (which you got from 
+Echo standing on your tippy toes all the time at home). 
+Echo.
+Echo    There is no way you can get out of the jammed machine (unless you were 
+Echo SuperMan or something) cause your legs are stuck in it...
+Echo.
+pause
+cls
+Echo BUFF:     "Hey repeat that last part!"
+Echo NARRATOR: "ok.... get out of the jammed machine (unless you were SuperMan or-"
+
+Echo BUFF:     "ARE YOU SAYING THAT SUPERMAN IS STRONGER THAN I AM?????"
+Echo NARRATOR: "ummm..."
+Echo.
+Echo    Seems you know the story better than the narrator 
+Echo does. Pulling your legs up, you... 
+Echo.
+pause
+cls
+Echo "?@#! OOOWWWWWWWWWWW!!!!!! FREAKIN! FREAKIN DUMB ASS BLADE!!!"...you hurt
+Echo yourself and sort of break your leg.
+Echo.
+Echo NARRATOR: "Haha!"
+Echo BUFF:     "THIS STORYLINE PISSES ME OFF! OOWWWW!!"
+Echo.
+Echo   Well, so much for making the story up... back to the original concept.
+Echo.
+pause
+cls
+Echo ...you can't get out of jammed machine (unless you were SuperMan or 
+Echo something) cause your legs are stuck in it...
+Echo.
+Echo  Arnold runs towards you with a spinning drill---
+Echo.  
+Echo  "AAAAAAAA!" you scream.
+Echo.
+Echo  "Relax psycho boy," Arnold says calmly, "did all that muscle infest your 
+Echo brain or something, I'm just removing the blades on the machine before the 
+
+Echo police come and catch us."
+Echo.
+pause
+cls
+Echo   Well, Arnold was too slow. The police DID come.
+Echo.
+Echo  "Hey, did you guys happen to see those two huge guys who 
+Echo  killed Stalone?" asks one of the cops.
+Echo.
+Echo   What do you say?
+Echo.
+Echo            1. "Ya! They went that way!" 
+Echo            2. "We did it, now give us our reward!"
+STUPID /C:21q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B81
+if errorlevel 1 cls
+Echo POLICE: "Good job guys, here's your Medal of Honor!"
+Echo ARNOLD: "Metal of Honor?"
+Echo BUFF:   "No stupid, Medal of Honor!"
+Echo POLICE: "Ya, there was a reward posted for whoever 
+Echo          caught stalone dead or alive"
+Echo BUFF:   "Umm... we knew that!"
+Echo ARNOLD: "Now give us our reward!"
+Echo POLICE: "You know, you guys did great out there, you should join the police!"
+
+Echo.
+pause
+cls
+Echo  You both laugh hysterically and walk away 
+Echo  from the cop with each your own Medal of Honor.
+Echo.
+Echo ARONLD: "JOIN THE POLICE, WHAT A RIOT!!! HAHAHA!"
+Echo BUFF:   "AND I THOUGHT COMEDIANS WERE FUNNY! HAHAHA!"
+Echo ARNOLD: "They are!"
+Echo BUFF:   "???"
+Echo BOTH:   "HAHAHAHA!!!!"
+Echo.
+pause
+goto B
+
+:B81
+cls
+Echo   The police run away searching for the criminals. You both laugh and walk
+Echo to Subway. When you get to Subway, there is a sign with Stalone on it.
+Echo.
+Echo  It reads:           ---SYLVESTER STALONE---
+Echo                       Wanted, DEAD OR ALIVE! 
+Echo           Great reward for anyone who catches him!  -The Police
+Echo.
+Echo.
+pause
+cls
+Echo   'What the...' you think 'the police wanted to give us a reward?'.
+Echo.
+Echo   Arnold, munching down YOUR pizza sub with mayonaize and lettuce, doesn't 
+
+Echo even notice the sign. 
+Echo.
+Echo   What do you do?
+Echo.
+Echo               1  Try and find the police.
+Echo               2. Tell Arnold to give you back your Pizza Sub or he will die.
+
+STUPID /C:12q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B82
+if errorlevel 1 goto B
+goto STUPIDNESS
+
+:B82
+cls
+Echo "Arnold, give me back my pizza sub or you will die!" you exclaim.
+Echo.
+Echo "No!" he replies"
+Echo.
+Echo   Too bad for Arnold, he dies.....
+Echo.
+Echo BUFF:   "I warned you Stupid!"
+Echo ARNOLD: "Kerplunk! (Arnold falls flat on the ground dead)"
+Echo BUFF:   "Stupid retard, I tried to warn him that the cook poisoned the
+Echo          sub but he was just too bullheaded to listen to me!"
+Echo.
+pause
+cls
+Echo   Sirens fill the room. 
+Echo.
+Echo "Crap! The Cook has escaped" you think "the cops will
+Echo think that I killed Arnold!"
+Echo.
+Echo "Hey do you know who killed this man?" questions the Police.
+Echo.
+Echo    What do you say?
+Echo.
+Echo             1. "Ya! He went that way!" 
+Echo             2. "I did it, now give me my reward!"
+STUPID /C:21q /n
+cls
+if errorlevel 3 goto STUPIDNESS
+if errorlevel 2 goto B83
+if errorlevel 1 cls
+Echo POLICE: "Good job, here's your Medal of Honor!"
+Echo BUFF:   "Medal of Honor???"
+Echo POLICE: "Ya, there was a reward posted for whoever 
+Echo          caught Schwartzanegar dead or alive"
+Echo BUFF:   "Wow... I knew that!"
+Echo.
+Echo   He gives you the Medal, you walk to the bank and cash in
+Echo your medal of Honor for $200. 
+Echo.
+Echo   Very strange concept that the two people you happened to kill 
+Echo (or thought to have killed) were the biggest criminals in town.
+Echo Oh well, time for bed...
+Echo.
+pause
+goto B
+
+:B83
+cls
+Echo   The police run away searching for the criminal. You laugh your head off
+Echo and then stare out the window. Right beside the WANTED sign of Stalone is
+Echo Another sign beside that looks like Arnold picture on it.
+Echo.
+Echo  It reads:          --ARNOLD SCHWARTZANEGAR--
+Echo                       Wanted, DEAD OR ALIVE! 
+Echo           Great reward for anyone who catches him!  -The Police
+Echo.
+Echo.
+pause
+cls
+Echo  "???" you think "this is TOO weird!!!".
+Echo.
+Echo You could've gotten a REWARD for Arnold & Stalone but you didn't.
+Echo.
+Echo All you can think about is: "THIS IS TOO WEIRD! THIS IS TOO WEIRD!"
+Echo.
+pause
+cls
+Echo "THIS IS TOO WEIRD! THIS IS TOO WEIRD!!!!!"
+Echo.
+pause
+cls
+goto BZ4
+
+:BZ1
+cls
+Echo                                  ENDING MESSAGE
+Echo                                 ----------------
+Echo.
+Echo Rehab Centre???          That's the best you could do???       You're Pitiful!
+
+Echo.
+Echo.
+Echo.
+Echo So this is the end; your life is a living hell; your a mess; a stupid,
+Echo incompitant, dumb mess.
+Echo.
+Echo.
+Echo.
+Echo - The real Mr. Buff would be VERY disapointed
+Echo - You are a lowsy discrace to MR. BUFF
+Echo - That just about covers it
+Echo.
+Echo.
+Echo.
+Echo                                                          Rank: Dumbo Brain
+Echo.
+STUPID /tq,30 /c:q /n
+cls
+if errorlevel 1 goto STUPIDNESS
+goto STUPIDNESS
+
+:BZ2
+cls
+Echo                                  ENDING MESSAGE
+Echo                                 ----------------
+Echo.
+Echo Eaten by Boogy Man???  You should of ATLEAST tried to kill him!  You're Dumb!
+
+Echo.
+Echo.
+Echo When will you learn, if Boogy Man comes after you, the first thing you do is
+
+Echo try to stop him, not TRY TO PINCH YOUR BUTT.
+Echo. 
+Echo.
+Echo Advice:
+Echo.
+Echo - Think before you do things
+Echo - You're old enough to make the right decisions
+Echo - PINCHING YOUR BUTT is not a sign of maturity
+Echo.
+Echo.
+Echo                                                          Rank: NumSkull
+Echo.
+STUPID /tq,30 /c:q /n
+cls
+if errorlevel 1 goto STUPIDNESS
+goto STUPIDNESS
+
+:BZ3
+cls
+Echo                                  ENDING MESSAGE
+Echo                                 ----------------
+Echo.
+Echo Died of starvation???               HA HA!!!             Lowsy Garbage Picker!
+
+Echo.
+Echo.
+Echo Why didn't you eat your ABC's & 123's, they're good, 
+Echo plus they taste exactly the same as UFO's.
+Echo.         
+Echo.
+Echo Advice:
+Echo.
+Echo - Food is always better home-made
+Echo - Always have a VISA card handy
+Echo - When in Doubt, ask your parents
+Echo.
+Echo.
+Echo                                                          Rank: Street Bum
+Echo.
+STUPID /tq,30 /c:q /n
+cls
+if errorlevel 1 goto STUPIDNESS
+goto STUPIDNESS
+
+:BZ4
+cls
+Echo                                  ENDING MESSAGE
+Echo                                 ----------------
+Echo.
+Echo No reward???           Can you be any LESS observant???       Talk about Dumb!
+
+Echo.
+Echo.
+Echo.
+Echo The sad thing is, you could've gotten a Reward for BOTH criminals. But no,
+Echo you had to use the "He went that way!" method, how foolish on your part.
+Echo.
+Echo.
+Echo Advice:
+Echo.
+Echo - Hiding in Garbage cans is dumb to begin with.
+Echo - Police don't always Hate murderers! 
+Echo - Be brave, don't be Stupid like George. 
+Echo.
+Echo.
+Echo                                                          Rank: Stupid Head
+Echo.
+STUPID /tq,30 /c:q /n
+cls
+if errorlevel 1 goto STUPIDNESS
+goto STUPIDNESS
+
+:C0
+Echo     This is the story of the murder on 24th street.  
+Echo          One day you were lying in bed when you hear a loud bang at the     
+   
+Echo door like something was hitting it. {It was storming out} 
+Echo.     
+Echo    Do you wish to....
+Echo    1. Go to the door?
+Echo    2. Call 911?
+Echo    3. Stay where you are?
+STUPID /c:123q /n
+cls
+if errorlevel 4 chokage is better than this piece of S___.
+if errorlevel 3 goto C3
+if errorlevel 2 goto C2
+if errorlevel 1 goto C1
+goto STUPIDNESS
+
+:C1
+Echo    You slowly creep to the door but you are so petrified you wet your pants.
+
+Echo You are very uncomfortable. As you move closer to the door the soung gets 
+Echo louder and louder and suddenly...
+Echo.
+pause
+cls
+Echo ....it stops.. 
+Echo.
+Echo    Do you wish to.....
+Echo    1. Open the door?
+Echo    2. Scream?
+Echo    3. Call your friends and party cause your parents aren't home?
+STUPID /c:123 /n
+cls
+if errorlevel 3 goto C4
+if errorlevel 2 goto C5
+if errorlevel 1 goto C6
+goto STUPIDNESS
+
+:C2
+Echo   You decide to call 911. You pick up the phone and realize it's dead. 
+Echo You think it's just the storm so you hang it up. From the corner of your eye 
+
+Echo you see a pair of scissors. You lean down to pick them up and realize the 
+Echo phone line has been cut. You totally freak and run out of your house before 
+
+Echo even realizing what you are doing. After a few seconds you realize you're 
+Echo outside.
+Echo.
+Echo     Do you chose to.....
+Echo     1. Go back inside? 
+Echo     2  Go to your neighbors house?
+Echo     3  Do a little dance thing?
+STUPID /c:123 /n
+cls
+if errorlevel 3 goto C8
+if errorlevel 2 goto C
+if errorlevel 1 goto C
+goto STUPIDNESS
+
+:C3
+Echo    You stay where you are and the banging continues. And then you hear a
+Echo loud crash. You run to the window and relize you have to go to the bathroom
+
+Echo so you run to the bathroom and lock the door.....
+Echo.
+Echo     Do you......
+Echo     1. Go out the bathroom window?
+Echo     2  Have a cofee break?
+Echo     3  Take a bath?
+STUPID /c:123 /n
+cls
+if errorlevel 3 goto C
+if errorlevel 2 goto C
+if errorlevel 1 goto C7
+goto STUPIDNESS
+
+:C4
+Echo  You must be really stupid. And the phones are dead. Storm ring a bell. 
+Echo Don't you think you should check the door out DUH!!!!!
+Echo Do you even have a brain Duh!!!!!!!!!!!!!!!!!!!!!!!!!!
+Echo.
+Echo     Do you say......
+Echo     1  Yes you idiot I DO have a brain!!!!!!!!!
+Echo     2  That's none of your business!!!!!!!!
+Echo     3  Uhh what was the question?????????????
+STUPID /c:123 /n
+cls
+if errorlevel 3 goto C
+if errorlevel 2 goto C
+if errorlevel 1 goto C
+goto STUPIDNESS
+
+:C5
+Echo    AAAAAAAAHHHHHHHHHHHHHHHH!!!!!!!!!!!!! You scream. Why did you just 
+Echo scream? You are aware that your alone right? 
+Echo.    
+pause
+cls
+Echo    You are totally freaked out. You don't know what to do. You run to   
+Echo your nearest window,in the living room. You open it and jump out. You 
+Echo run as fast as you can looking behind you. Your getting away now and 
+Echo WAM!!! You run into something.It's a tree you let out a sigh of relief. 
+Echo    Your head is throbing now but you get up and keep running looking 
+Echo ahead this time. 
+Echo        You reach a park.You don't really care where your going you 
+Echo just want to get away. You look back to see if you are being followed.  
+Echo Bad mistake.  WAM!!! You run in to something. You turn to face it. You 
+Echo see it's a park ranger. He's about in his mid thirties.       
+Echo.
+pause
+cls
+Echo "Ohhhh I'm so sorry. I didn't mean to hit you please it'll never
+Echo happen again ............" you say.
+Echo.        
+Echo        He stops you in the middle of your sentence.
+Echo PARK RANGER: " It's okay kid I'm sure it was an accident. By the way what 
+Echo are you doing out here so late and out in this storm?"
+Echo.
+Echo YOU: "Uhh.. I Uhh... like storms I get a uhh.. thrill out of them heehee
+Echo ya that's it"
+Echo.
+pause
+goto C
+
+:C6
+cls
+Echo   You slowly creep down to the door and reach out for the door knob. You  
+Echo turn it and the door flies open you close your eyes and scream. Then 
+Echo nothing, silence invades your ears you work up the strength and force 
+Echo your eyes open. You suddenly see..............
+Echo.
+pause
+cls
+Echo  Nothing it's completly dark exept for the moonlight. You laugh.  
+Echo.
+pause
+goto C
+
+:C7
+cls
+Echo    You decide to go out the bathroom window and go see your neighbour 
+Echo      so she can help you.You struggle to open the window but it won't 
+Echo      buddge. 
+Echo.
+pause
+cls
+goto C3
+
+:C8
+cls
+Echo     You are still totally freaked out but you think staying outside 
+Echo wouldn't be very bright. You stroll back to the door realizing it's 
+Echo closed. "That's Funny I don't remember closing it," you think. You 
+Echo grab the handle and turn but the door is locked you stand in place
+Echo terrified. You look inside the house window and see a shadow run across
+Echo the kitchen. You decide to go to your neighboars house to get help.
+Echo.
+pause
+goto C
+
+:C
+cls
+Echo Under Construction!!!
+Echo.
+Echo This part of Bell-Bottom Jenny is not finished yet.
+Echo.
+pause
+goto STUPIDNESS
+
+:D0
+Echo You are a REALLY HORNY fellow stranded on a deserted island.  On this
+Echo island there is just you... and a camel.
+Echo.
+pause
+cls
+Echo You are so Horny that you go to the top of a mountain (that's where the
+Echo camel is) and you try to FUCK the camel...  she kicks you, you fall down 
+Echo the mountain and you're knocked uncontious. When you recover, you run up
+Echo the hill and try to Fuck the camel again, it kicks you back...
+Echo.
+pause
+cls
+Echo You try again, it kick you back down the hill...
+Echo.
+pause
+cls
+Echo You go up the hill exhausted and as you finally make it up the hill...
+Echo.
+pause
+cls
+Echo You try to fuck the camel again, it kicks you down the hill... 
+Echo.
+pause
+cls
+Echo A few minutes later, you see something thats been swept to shore, it a 
+Echo woman, the most BEAUTIFUL WOMAN YOU'VE EVER SEEN IN YOUR LIFE. 
+Echo.
+Echo She tells you that she will do ANYTHING you desire; you tell her...
+Echo.
+pause
+cls
+Echo "Can you hold up the camel's legs for me!"
+Echo.
+Echo.
+Echo.
+Echo. 
+Echo                                                               THE END
+Echo.
+STUPID /tq,8 /c:q /n
+cls
+if errorlevel 1 goto STUPIDNESS
+goto STUPIDNESS
+
+:E
+cls
+Echo Super Dave has not finished this part!!!
+Echo.
+pause
+goto STUPIDNESS
+
+:E0
+Echo You are Super Dave, the ugliest superhero on the face of the Earth.
+Echo.
+Echo What do you and your UGLY face want to do?
+Echo.
+Echo                     1. Look for Chicks (cause it's been a long time)
+Echo                     2. Plastic Surgery (because you're ugly)
+Echo                     3. Commit Suicide  (because you're ugly)
+STUPID /C:123 /n
+cls
+if errorlevel 3 goto E2
+if errorlevel 2 goto E3
+if errorlevel 1 goto E1
+goto STUPIDNESS
+
+:E1
+Echo   After searching for years and years, you finally see a girl who 'looks'  
+
+Echo interested in you...
+Echo.
+pause
+cls
+Echo    You go up to her and say "You're hot, Woof Woof!", the girl slaps you 
+Echo right in the cheek & you start frowning, next thing you know, as you're 
+Echo walking your dog, you bump into another hubba hubba girl and say "Awooooooo!". 
+
+Echo The girl thinks you're crazy and sends you to a mental institution but you say
+
+Echo "You're making a mistake, I'm not CRAZY!" but the girl knew it was just an 
+
+Echo excuse. You start pinching her butt, she gets pissed off, punches you right 
+in 
+Echo the nose (very hard) and you scream "Ow" in a little girly voice. Then the 
+
+Echo girl went away. You came back to see the girl but then the girls' boyfriend 
+
+Echo comes and knocks you out badly.
+Echo.
+Echo   The girl was smiling and the girl went away with her boyfriend and went to
+
+Echo the beach and you run into her again with a black eye (boy you're Clumsy)
+Echo then her boyfriend comes up to you and says "Get lost you shrimp". 
+Echo.
+Echo    You LOVE shrimp and say "Thank you for the nice compliment". More violence
+
+Echo occures, "Ow!" you say. Next thing you know, you're rushed to the hospital 
+
+Echo and guess who's the nurse...
+Echo.
+pause
+cls
+Echo   The hubba girls' boyfriend and you decide to jump out of the window. "Don't 
+
+Echo do it", cried a man "Suicide is not a good idea, ah, what the hell, do it" 
+
+Echo but you thought the man meant "do it with the hubba hubba girl" and you start 
+
+Echo jumping on the girl. She liked it, it was wonderful, then you shoot her 
+Echo boyfriend out the window and you and the hubba hubba girl go live
+Echo together and you did that wonderful stuff for a long time and lived happily
+
+Echo ever after. 
+Echo.
+pause
+cls
+goto STUPIDNESS
+
+:E2
+Echo   Okay, if that's what you want. The 
+Echo   first thing that hits your mind is...
+Echo.
+pause
+cls
+Echo   Drugging Yourself. You go to the Drug Store and buy all kinds of Drugs.
+Echo You pay the cashier lady and she says "Boy, are you an ugly one, I wouldn't
+
+Echo be surprised if you killed yourself!". Then you hit the lady over the head
+Echo with a box of kleenex. For some strange reason, she kicks you out of the
+Echo store. At least you've still got your... hey, where'd my drugs go?
+Echo.
+pause
+cls
+Echo   You see a 98 year old lady walking away with your drugs. You run after
+Echo her but it's no use, your just too DAMM slow!  Then, after catching your
+Echo breath (which was very hard to do), you say "Aw, what the hell, take' em!"
+Echo.
+Echo   Later, you figure out ANOTHER IDEA...
+Echo.
+pause
+cls
+Echo   You decided to jump off the C.N. Tower with no bungy cord. That won't be
+Echo hard, you live in Toronto, right beside the Tower. You get lost on the way
+Echo there and you ask for directions. No one answers. Little do you know, you're
+
+Echo standing right infront of the C.N. Tower. You think in your head: "This is
+Echo terrible, the horror, the agonising terror, the pain, I can't even kill 
+Echo myself!". And then you get ANOTHER IDEA...
+Echo.
+pause
+cls
+Echo   You start asking people to kill you. The first guy you ask is a cop, he
+Echo tell you "Sure, why not, you're the ugliest sight I've seen in my life, who
+
+Echo in God's name wouldn't want to kill you." After an hour of being stabbed in
+
+Echo the groin, you die. And you live happily ever after... in HELL.
+Echo.
+pause
+cls
+Echo   Now you've got the Devils to worry about, but chances are, the devils are 
+
+Echo more worried about you.
+Echo.
+pause
+cls
+Echo   HA HA HA HA HA HA!!!!!!
+Echo.
+pause
+cls
+Echo   HO HO HO HO HO HO!!!!!!
+Echo.
+pause
+cls
+Echo    Oh, what a surprise, Santa came DOWN for a surprise 
+Echo visit. You decide to burn him.
+Echo.
+pause
+cls
+Echo  Tzzzzzzz OWWWWWW!!!!! Tzzzzzzzzz OWWWWWWWW!!!!! MY BISCUITS ARE BURNING!!!!
+
+Echo.
+pause
+cls
+Echo   The next Christmas, no one is happy... but you.
+Echo.
+pause
+cls
+Echo   That's because you got all the presents.
+Echo.
+pause
+cls
+Echo   THE END
+Echo.
+pause
+goto STUPIDNESS
+
+:E3
+Echo   You go to the doctor's office and ask for Plastic Surgery, but for some
+Echo reason the doctors says "You're SO UGLY!". 
+Echo.
+Echo "We'll that's the reason I want Plastic Surgery!" you yell to him but you 
+Echo notice that the doctor has jumped out the window and is long gone.
+Echo. 
+pause 
+cls
+Echo   You go to a specialist and ask him for Plastic Surgery, he says: "Ummm... 
+
+Echo sure! Ralph I've got a job for you."
+Echo.
+Echo RALPH:  "But dad, why can't you do it?"
+Echo DOCTOR: "Ummm... no apparent reason."
+Echo RALPH:  "Fine, but after this you got to pay me, ALOT!"
+Echo DOCTOR: "Okay, whatever you say, just do it for me, PLEASE!!!"
+Echo.
+pause
+cls
+Echo   Ralph brings you into... the surgery room. He asks you "What in God's name
+
+Echo happend to you? When you were born, did the doctor drop you on wet cement!"
+
+Echo.
+Echo YOU:   "Ya, how'd you know?"
+Echo RALPH: "Ummm... no apparent reason."
+Echo YOU:   "You sound just like your father."
+Echo RALPH: "How would you know, you barely know him?"
+Echo YOU:   "Ummm... no apparent reason."
+Echo.
+Echo   While Ralph is doing surgery on you, you had a dream about YOU being
+Echo beautiful. It was the best dream of your life.
+Echo.
+Echo   But Ralph woke you up, then said "So, what do you think of your new face?"
+
+Echo.
+pause
+cls
+Echo   You go look in the mirror, and tell him what you think of your NEW face,
+Echo "You jerk, I'm even Uglier than before!"
+Echo "THAT'S IMPOSSIBLE, how can you be any uglier than BEFORE???" he asks.
+Echo "Look at me, I'm a discrace!" you say.
+Echo "Well... to tell you the truth, I don't see any difference!" he admits.
+Echo.
+pause
+cls
+Echo  'Oh no, I'm doomed, not even plastic surgery can stop me from looking ugly,
+
+Echo   this is hopeless, stupid Mother had to drop me on Wet Cement,' you think
+Echo.
+Echo  "And by the way," says Ralph, "That will cost you $50,275 plus tax!" 
+Echo.
+pause
+cls
+Echo  You faint. Then you realize your in Heaven. Then you finally meet God.
+Echo.
+Echo  "AAAAAAA!!!! Oh my God you scared me" God shrieks, "wasn't halloween over
+Echo   about 6 months ago?".
+Echo.
+Echo   God quickly turns you into a spirit so you won't be ugly anymore. You think
+
+Echo to yourself 'WOW!!! THIS IS WONDERFUL!!! I'M GONNA BE JUST LIKE EVERYONE 
+Echo ELSE!'....
+Echo.
+pause
+cls
+Echo   ....you wake up, and realize that was all a dream, good dream, but still 
+
+Echo just a dream. "AAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!!!"
+Echo.
+pause
+cls
+Echo THE END (There is not NO hope for Super Dave)
+Echo.
+pause
+goto STUPIDNESS
+
+:END
+if exist chokage.bat chokage is better than this retarded game!
+Echo Have a Nice day!

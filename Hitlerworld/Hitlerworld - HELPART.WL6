@@ -1,0 +1,162 @@
+ ^P
+^C04 WELCOME
+^G46,16,85
+
+
+^C00 Thanks for playing Hitlerworld. This is the first mod I have released and was 
+made in only 7 days. This mod is only 3 levels long.
+There's plenty of changed images and sprites and was made to have a bit of fun with. 
+Hope you enjoy playing. 
+
+ 
+^P
+^C04 STORY
+^G35,16,05
+
+^C00 You are BJ Blazkowicz III, Grandson of the hero of WWII. Long have you lived 
+in the shadows of your grandfathers achievements against the might of Hitler and 
+the third reich.
+One day you hear some disturbing reports surrounding the Hitler Museum in Berlin, 
+Germany about an increase in sightings of someone bearing a close resemblence to 
+Adolf Hitler!
+^P
+
+
+^C04 STORY
+
+^C00 Surely Grandpa finished him off 60 years ago, he couldn't still be alive, could 
+he? (well, no, but for the sakes of the game let's just pretend a bit shall we!)
+
+
+You jump immediately on a plane to Germany and upon meeting up with one of your Grandfathers 
+old war buddies you manage to gather some important information about the supposed 
+sightings of Adolf Hitler.
+^P
+
+ 
+^C04 STORY
+
+^C00 He explains the rumours surrounding the Hitler Museum.
+
+There are many who believed Hitler survived WWII and has been slowly rebuilding his 
+empire. Some strange experiments and tales of re-animation have also been circulating. 
+He also tells stories of a secret passage hidden in the Museum behind one of the 
+paintings. 
+
+^p
+
+
+^C04 STORY
+
+^C00 You decide to head down to the Museum to check things out, better grab your 
+gun just in case! Surely if Hitler's still alive it must fall on you to to continue 
+your Grandfathers legacy, maybe finally you can step out from his shadow and make 
+the name Blazkowicz known for your achievements.
+
+Looks like the world needs saving again, It's up to you BJ!!
+
+^P^
+
+^C04 AMMO
+
+^C00 Starting with only a knife and pistol you must fight your way to freedom. You 
+may also come across other weapons such as the machine gun or chaingun.
+
+The Chain gun is the weapon you hope to find as it is very deadly but best used only 
+in small bursts as it really chews up the ammo!
+
+Ammo can be found in blue clips or picked up from dead soldiers. 
+
+
+
+
+^P^
+^C04 FOOD AND HEALTH
+
+^C00 You must stay healthy in order to take on the might of Hitler and his fanatics. 
+Along your journey you'll come across three types of sustinance to help keep you 
+alive.
+- Hamburger (Replenish's 4% health)
+- Plate of food (Replenish's 10% health)
+- Chocolates (Replenish's 25% health)
+
+All of these are of limited supply, so make the most of them when you find them!
+
+^P
+^C04 OTHER ITEMS
+^G27,16,85
+
+^C06 KEYS ^C00 Some doors may be locked and you may need to find some keys to open 
+them. There are 2 colors, Silver and Gold and doors colored the same to match.
+
+^C06 EXTRA LIFE ^C00 This sphere with BJ's face in it gives you extra lives! It also 
+gives maximum health and 25 ammo when found, they are scarce so make the most of 
+them when you find them!  
+ 
+
+^p
+^C04 SOUVENIRS
+^G36,16,110
+
+^C00 Souvenirs are worth points and you get an extra life for every 40,000. 
+
+
+^C06 Lollipop - ^C00 100 points
+^C06 Drink - ^C00 500 points
+^C06 T-Shirt - ^C00 1000 points
+^C06 Poster - ^C00 5000 points
+ 
+
+
+^p
+
+
+
+^C04 TOOLS
+
+^C07 Want to know how I made the game?. 
+
+^C06 Floedit II v2.0: ^C00 Graphics & Level Design
+^C06 Adobe Photoshop CS2: ^C00 VGAGRAPH Images
+^C06 The Internet: ^C00 Textures, Tutorials, Ideas
+
+^p
+
+^C04 THANKS
+
+^C06 Hitler Pictures: ^C00 Lord Raffles, Erick Bessant-Chavez & Noni
+^C06 Red Walls with split eagle: ^C00 M. Heijnen (KKK)
+^C06 Red doors and red metal walls: ^C00 Mr. Choi (Hotel Romanstein)
+^C06 Bench: ^C00 Reactor
+^C06 For posting my stuff on the Dome: ^C00 Brian Lowe (www.wolfenstein3d.co.uk)
+
+
+
+All others are from Wolf 3D, SOD, or I made them myself.
+
+^P
+
+^C04 CONCLUSION
+^G45,16,05
+
+^C00 Thanks for playing Hitlerworld, hope you had some fun! Look out for more TC's 
+from me coming soon.
+
+
+^P
+
+
+^C04 CONTACTS
+
+^C00 Please contact me with any suggestions, feedback or complaints!
+
+email:
+^C05 deananthonyhorton@hotmail.com
+
+
+^C00 Or PM me at :
+^C05 Diehard Wolfers forum (diehardwolfers.areyep.com)
+
+^C28 Hope you enjoyed playing!
+
+^E

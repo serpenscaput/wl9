@@ -1,0 +1,25 @@
+Episode 4 by Gary Ragland (wolf3d mapset)
+original DOS release: 19 November 2001
+
+Note: requires wolf3d (.wl6) data files (VSWAP, 2 AUDIO, 3 VGA)
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Further improvements in SDL version:
+
+Seamless, automatically plays fourth episode
+Show scores over 1 million on status bar (Chris Chokan)
+
+Many thanks to WolfForever for beta testing this!
+
+
+
+
+

@@ -1,0 +1,163 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Code 44. This game takes place after the Planet Strike 
+by Blake Stone.
+
+^P
+^C7d THE STORY
+
+^C00 It is a year since Dr Goldfire was destroyed. However his remaining men decided 
+that robots would be more powerful than mutants. These robots would be deadly against 
+a hero.
+
+^P
+^C7d THE STORY
+
+^C6c One of these men was a great evil. Goldfire's brother, Ruun Goldfire was responsible 
+for the creation of robots. He went by the name of Code 44.
+
+^P
+^C7d THE STORY
+
+^C00 This man was identified by others as Code 44. You read a paper in your room 
+about the man named Code 44. You then went to take off in your ship and flew to the 
+space station where his men awaited.
+
+^P
+^C7d THE STORY
+
+^C00 A technician arrived into the hangar of the station to detect you. 'Excuse me 
+Sir, may I ask what brought you here?'.
+  
+^C09 You replied 'I am looking for Ruun Goldfire'
+  
+^C6c The technician said 'No Sir, I will not tell you where Ruun Goldfire is hiding'
+
+
+^P
+^C7d THE STORY
+
+^C09 He pulled out a gun, you pulled yours out and took a blast at him. He lied in 
+a heap on the floor after you shoot him.
+
+^P
+^C7d FEATURES
+
+^C00 * Seamless levels
+* 24 levels
+* New graphics althought others come from Blake Stone
+* New sounds although some come from Blake Stone
+* Weapons from Blake Stone but a new one to replace the knife
+* New music
+* Deathcams removed
+* Changed help screen and end screen
+* MORE...
+
+^P
+^C7d HEALTH
+^G48,16,30
+
+^C00 These items heal you
+
+^C7d Bowl of water: ^C00
+
+^C7d Green first aid bag: ^C00
+
+^C7d White first aid bag: ^C00
+
+^P
+^C7d TREASURE
+^G48,16,31
+
+^C00 These items add points to your score.
+
+^C7d Gold bar: ^C00
+
+^C7d Money bag: ^C00
+
+^C7d Treasure chest: ^C00
+^P
+^C7d AMMUNITION
+^G48,16,33
+
+^C00 These items give you bullets.  (Max: 500)
+
+^C7d Charge pack: ^C00
+
+^C7d Large charge pack: ^C00
+
+^P
+^C7d WEAPONS
+
+Fist: ^If you have no ammo left feel free to mash the enemy
+
+Blaster pistol: ^C00 Your first weapon that you will never lose
+
+^C7d Rapid Assault Rifle: ^C00 Drops off the sentinel, rapid fire to clear a whole 
+group of enemies
+
+^C7d Dual Neutron Disruptor: ^C00 Much better than an assault rifle, don't waste 
+it
+
+^P
+^C7d THE ENEMY
+
+Technician: ^C00The men responsible for helping Ruun Goldfire create robots
+
+^C7d Plasma Sphere: ^C00 Annoying little fast spheres that give you an electric shock
+
+
+^C7d Star Sentinel: ^C00 Always on patrol carrying an assault rifle, keep your eye 
+out
+
+^P
+^C7d THE ENEMY
+
+Sector Patrol: ^C00Quiet, in dark blue uniforms and keeping themselves to themselves, 
+they fire twice once they see you
+
+^C7d Sector Officer: ^C00Mind yourself, they are fast and agile, take care
+  
+^C7d Iron Guard: ^C00 Big, intimidating and nasty, watch yourself when you run into 
+these
+
+^P
+^C7d THE ENEMY
+
+Ruun Goldfire: ^C00 Don't start unless you figure out how to avoid him, in an armed 
+chair equipped with a rocket charger
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit: ^C00Adding graphics, sounds,
+^C7d Borland 3.1: ^C00Code compilation
+^C7d Notepad: ^C00Help Screens/End Art
+^C7d Paint Shop Pro: ^C00Graphics modification
+^C7d Mapedit 8.4:Level editing
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+Poet and MCS: ^C00source code tutorials
+^C7d Brian Lowe: ^C00posting this TC
+^C7d Florian Stohr: ^C00FloEdit
+^C7d id Software: ^C00Wolfenstein 3d
+^C7d Others: ^C00The artists of a few other Wolf3d TCs
+^C7d BJ Rowan: ^C00Project Totengraeber and releasing the source code
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 Questions?  Comments?  E-mail JM_2006@hotmail.co.uk for any questions
+ 
+^P
+^C7d THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 I hope you enjoy Code 44
+
+^E

@@ -1,0 +1,150 @@
+Are you strong enough? Can you make it?
+						SCHABBS 7000
+January, 1946. A half year after the second world war ended in Europe. And three 
+years before the Totengraeber Project were cancelled. 
+It's because of you, BJ. You are now relaxing in your penthouse apartment in New 
+York with your wife, lucky waiting for a scottish man 
+to deliver you his new invesion, the "Tele-vision". Though, the fourth day of february, 
+you were called by OSA. They will meet you in a
+secret hall - on Broadway. Where the neonlights are bright. So you take your Chevy 
+and drive the five miles to Broadway. You meet Dave,
+your chief, who gives you a mission. It says, that in the Dolchteufel Executive level 
+you ended Project Totengraeber in, was not finished. When 
+you jumped, a wall with a drain was breaked down, and tons of "saved" guards came 
+out. SS, guards and officers and troopers, who wasn't 
+appearing in the level it supposed to. But now they came, after three years behind 
+that wall, living of food delivered in the drain. Now you must
+stop them all, where they habited. They habited in a Castle, far far away in South 
+Germany. In the town of Sandbichl, 10 miles from the border,
+it lays, 2000 metres up in the mountains you will find it. It is big, grey and has 
+60 floors, all guarded by the Dolchteufel-ones. The castle has 
+many units, listed below. But the mission is - that they all reunioned and reincarnated 
+Schabbs in his lab, founded in the castle in hills, the place
+Bavaria. This is though far away. But Schabbs came anyway, undead and here he is. 
+You must fight him at the top of the castle. But the bosses,
+who make the castle run, is not the same. These are very different, said in the enemylist. 
+But the guide for the castle is here:
+
+Level 1 - Entrance Fortress. Here the journey starts. Now go smash it all!
+
+Level 2 - Administration Center. Get inside, take all you can and pass it to the 
+main castle.
+
+Levels 3-6 - Heineburg Dungeons. Nearly in Hell. The prisons here have nearly a slaughtery 
+filled with dead bodies. And heavy guarding too.
+
+Level 7 - Tunnel. Connects the downer part of the castle with the other. A sewer 
+of somekind.
+
+Levels 8-13 - Übelfesicht Midpart. A place, which is in style with normal bunkers. 
+Level 10 is only an office level. Here, you will meet the first of the six leaders.
+
+His name is Terkel Tortmossup, and has a chaingun and a missile launcher. He is one 
+of the tough guys.
+
+Level 14 - Tunnel. Here, SS is the only guards. They have their HQ in this level, 
+and the 47th.
+
+Levels 15-23. Jüngheimer Midpart. Is more fine, and a little more "important" than 
+the other parts. Has much gold, officers in lots, and guarded heavy. Here is
+another boss. His name is Jakob Edrich, and is by the nazi marine. He was retired 
+in 1938, but is now keeper of the 22nd floor.
+
+Level 24 - Tunnel. All guards are here. So are secrets and gold.
+
+Levels 25-31 - Ytir Cellars. An "upload" to the headquarters, heavy guarded. Some 
+levels are labs. Here you will meet Albert Opel Rammstein, a leader. Since
+1926 he has been in the army, started out in the early SA-years. Was in the room, 
+where Hitler was selected to the leader of Germany in 1933. Is in helmet,
+and armor, that looks heavy, but is very bad made. Nearly "Made in China"-made.
+
+Level 32 - Tunnel. Is not so tunnel-real as the others. Is in a bunker-feel, but 
+is a tunnel in some places.
+
+Levels 33-39 - Schreiben Uppart. A mix with Jüngheimer and Ytir. Labs, nice places, 
+bunkers. Variatons. Here is a boss.
+In his heavy armor, he is. Schabbs' best friend and castle leader. His name is Colonel 
+Krell. Difficulty is high. The level he's set in directly the same.
+
+Level 40 - Tunnel. Very tunnely. Is slimy and very horrifying.
+
+Levels 41-49 - Sektor Tod. 8 out of 9 levels are labs. Heavy guarded. Here is the 
+final boss, Herr Rotfuchs. In a red armor he will fight you with four golden chainguns. 
+In a lab, of course!
+
+Level 50 - Schabbs Connection. Here is the new Schabbs. Though, the "Drain"-guards 
+gave him a new suit, and a new weapon. All that + many guards + lab = Hell!
+
+Levels 51-60 - Secret levels. All have a secret story! Gotta go find 'em...!
+
+						::: CREDITS :::
+
+Havoc - The EXE. The seamless level progress, the many new static objects, the four 
+keys, the ammo box and yes...you name it!
+Ken O'Brien - The white guard. (Some might say it comes from Coming of the Storm 
+by WSJ, but no, Ken made it to "SOD1" back in 1995.)
+Tristan van Putten - The SS and the trooper.
+WSJ - The officer. I couldn't find perfect death frames, but I found someone which 
+matched best. Thanks to "Himmler's SS" by Luke Strauman.
+John Bucksnort - Chaingun extracted from Doom.
+Brian - Distribution and regards for lab levels in Abandon and Wolfgeist. (Support 
+to lab levels in this game).
+Kyle - Ideas from Operation Todpfad.
+BJ Rowan - Level Inspiration for the TC-Mecca game Totengraeber.
+John Loftis - Schabbs' clean Uniform. I made the syringcolors myself.
+Jack Ryerson - I saw his maps. I got inspiration. He made extreme big levels, which 
+was nearly in ack-quality in Chemical Warfare.
+ack - Map Inspiration.
+ID Software - The Holy Game.
+Mega Luigi - Support.
+Mario Maniac - Support.
+Sentenced - To put me in the right place.
+RKS Kenny - "Stop man" sound. Some die sounds. I putted the "falling guard trick" 
+in myself.
+Sandy - SS "Achtung" sound from his set "Project Ewiger Verwustung". Originally from 
+RTCW.
+Metal Overlord - Support and Ideas from "The Grail of Eternal Life".
+
+This game started the 4th of february 2005. I was on MSN, and I had to get an EXE-builder. 
+So I wrote something to Havoc, and before the day was over, he proved a great
+excellent EXE. In the start, there was supposed to be 2 new enemies, which were american, 
+cause the game was originally called "Projekt Amerika". I changed the title with 
+inspiration from "Schabbs 2000" and "Schabbs 9000". So why not make a 7000?
+
+The whole story is long. I learned how to use Borland in mid-january. I builded an 
+exe myself. That was called "Uber Deutschland". I changed ceiling colors, music (though 
+I couldn't hear it) and new points to the enemies. These were a little absurd. The 
+guard had 373, Officer 479 and other numbers which didn't fit. It looked like a mess.
+
+When I builded it, I started play Schabbs 2000. I was inspired by the walls in the 
+start. The one "Brown Stone". These were also in the normal Wolfenstein, and I haven't 
+used them so much. I don't think they have been in any of my games yet, except Wolfgeist. 
+The first level was that. The EXE crashed January 30, the guards - They shouted, 
+then walked moonwalk, and had dog frames. I felt bad and sad, and decided to never 
+code anymore. Then I planned to base my game on Spear, with inspiration from WolfenDoom 
+mods found on www.doomworld.com/wolfendoom. It had big plans, parts were for example 
+Sachsenhausen, the Command Bunker in Berlin! But I got bored with it. But then "Paradise 
+2" happened.
+
+The 11th of september, 2004, I announced a game called "Kill the Gezis". It had many 
+things. I sent in pictures of new frames, which were redone. I didn't have any tools, 
+or didn't know how to do anything! But I announced...and cancelled the 4th of october. 
+Cause = No tools. And the day after I announced it, "Hell-Day" 12th september, my 
+computer couldn't even run Wolfenstein or other "16-bit based" stuff. I came out 
+with my sorrow at DHW in december, found plans. First the 4th of February it were 
+refrained! Started all from beginning! And now I map and make games on this thing! 
+It went forward! And it still does.
+
+Possum Trot, 12th february, 2005.
+
+©2005 by Possum Trot. Thanks to John Bucksnort for the quote in the Headline, and 
+level 50 title.
+
+
+
+
+
+
+
+
+

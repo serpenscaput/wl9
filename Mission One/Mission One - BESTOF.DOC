@@ -1,0 +1,67 @@
+
+Extra levels for Spear of Destiny Mission One Configuration
+From the imaginuity of Robert S. Bradbury
+
+This set of twenty one levels is called bestof#1 because it is compiled
+from other configurations that I had worked on on some still in the works.
+
+I really hope that they are appreciated for they are not just random pieces
+thrown together. I followed the discipline that form is the result of proper
+planning and order. My levels are mainly linear in scope without being 
+overly "mazey," although I do have mazes in the levels. I filled up each
+level with few large areas and not the norm of a bunch of small areas or
+rooms. The Nazi architect, Albert Speer, always designed for wide areas
+of grandeur. You'll notice large ballroom areas and dining halls- my Spear
+of Destiny Nazis are Oktoberfest type soldiers that love their beer and
+wurst!
+
+Be especially careful in navigating the tighter areas though, for they are
+a bit more hazardous! Festungs or fortresses are not known for creature
+comforts or roominess.
+
+I set my floor codes so my soldiers will answer some times with a shot 
+being fired, some will wait and some will run and hide to bushwhack you!
+You may have cleaned an area to only come back and find one in wait for you
+if you get too careless! I'll be honest with you also, on a level or two
+you will think Nazis are literally coming out of the "woodwork"- they are
+and you had better not linger. MAK SCHNELL SCHWEINE HUND!
+
+About finding secret areas, I have taken some of the pain out of it! I put
+a universal clue to all of the areas saying you are close. But just because
+you see the hint does not mean a secret area is nearby. Placement is the
+key! Okay the universal hint item is what you can't squeeze from a rock!
+
+My keys follow a linear progression in the progress of the level, they are
+not placed in a niche in some dusty corner- remember the Nazis were orderly!
+
+Here is a suggestion that you can use to make changing your gamemaps and
+mapheads a lot less painful. Before you install my files in your Spear of
+Destiny copy your GAMEMAPS.SOD and MAPHEAD.SOD to a floppy. Now is the neat
+trick. If you collect a lot of maps as I do copy them to their own sub-
+directories and add these two custom files to each subdirectory:
+
+ COPY *.SOD %1 <Y.TXT (Name and save this one liner SWAP.BAT)
+ Y   (Name and save this one character as Y.TXT)
+
+If you placed these two files in every subdirectory that you have maps, then
+all you have to do to change missions is to exit your game, put in the disk
+with your files in the appropriate floppy drive and log to the subdirectory
+with your desired mission files. Follow me so far!? Now let us assume that
+your Spear of Destiny is on your C:\ drive in \SPEAR or C:\SPEAR, you need
+to only type on the DOS command line  SWAP C:\SPEAR and your files are 
+copied to your Spear of Destiny game without any error or "do you want to
+overwrite" prompts because the Y.TXT file answers for you!
+
+If you really want to be slick and save space you can pkzip your two files,
+run the zip2exe program on the archive to make it self extracting and embed
+it in the SWAP.BAT instead. Let us say you named your self extracting file
+FORTRESS.EXE all you have to do to make a proper SWAP.BAT is:
+
+FORTRESS %1 <Y.TXT (Save as SWAP.BAT of course)
+
+When you run this instead of the copy command pkzip will still flash the
+"overwrite?" prompt but you don't have to answer it will do the right stuff
+without any further input. You still use the SWAP C:\SPEAR entry though!
+
+Enjoy and happy hunting! GUT HEIL!
+Herr Bradbury saying Auf Wiedersen

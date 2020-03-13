@@ -1,0 +1,149 @@
+^P 
+^C7d THE FINAL FIGHT 
+A James Shain Production
+
+^C2b STORYLINE
+
+^C00 To be completed. ^G50,200,3
+^P
+ 
+^C00 To be completed. ^G25,192,4
+^P 
+
+^C00 To be completed. 
+^P 
+
+^C00 To be completed.
+^P 
+^G20,20,85
+
+^C00 To be completed.
+^P
+ 
+^C00 To be completed.
+^P 
+
+^C84 LEVEL GUIDE 
+
+^C6a LEVELS 1-10
+^G24,257,30
+^C00 Based on the original Final Fight levels made by James Shain,  these levels 
+have since been heavily modified. 
+^P 
+
+^C6a LEVELS 11 - 50
+
+^C00 These started out as creator levels, but have since been heavily modified by 
+Schabbs. Some are completely new. 
+^P 
+
+^C6a LEVELS 51 - 60
+
+^C00 These levels were also originally creator levels but have since been heavily 
+modified by ack. The Boss level is completely new.
+
+^P
+^C84 WEAPONS
+^G35,20,42
+
+^C00 1. Knife: This is a regular army issued knife. Nothing special about it.
+
+2. Remington .45: Packs a good punch against the regular guards. Higher up officers 
+can be killed with it but not very easily. The reason for the Remington version rather 
+than the standard Colt version is that it packs a slightly greater punch according 
+to B.J.
+^P
+
+^C00
+3. MP-60: A beefed up version of the MP-40. It packs a little better punch and can 
+take anything out. A weapon that is prefered by B.J. It is a relatively new gun as 
+it has been in production only since 1947.
+^P
+
+^C00
+4. HKMS-940: This is the biggest of the weapons that can be used. It runs through 
+ammo at a fast rate but does a lot of damage. This weapon is top-secret and is being 
+tested by B.J. Not much is known about the weapon except that when it was first tested 
+the bullets were going so fast that they ripped through the target and were embedded 
+into the concert wall behind the target.
+
+^P 
+
+^C84 GUARDS
+
+^G45,20,41
+^C00 1. Pistol Guard: These guys are easy to kill but they don't always come alone. 
+In groups they can do some damage.
+
+2. Officers: They are like the Pistol Guards except they are faster and will not 
+die as easily. They seem to never attack alone and when they do you better look out.
+
+
+^P
+
+^C00
+3. The "HELL" SS: These guys were brought in and trained even harder than the first 
+SS guards. They always carry an MP-60 and they hate to die. In groups they are deadly 
+and will almost always kill you. Alone they still pose problems.
+
+^P
+
+^C00
+4. The Mutants: Every one of these mutants were soldiers for the allied cause back 
+in WWII, but have since been turned into creatures that only want to kill, and kill 
+they will! They come in bunches most of the time and they are the fastest guards 
+out there and will kill in an instant.
+
+^P 
+
+^C84 HINTS AND TIPS
+
+^C00 Some levels on episode one need pushwalls  opened to complete them. Usually 
+they are obvious, like a portrait for instance, but sometimes they are more difficult 
+to find.
+
+
+^P
+
+^C84 HOW DID WE MAKE THIS MOD?
+
+^C00 Tools used:
+
+MapEdit v7.2/Mapedit v8.4
+FloEdit II
+ChaosEdit
+WDC
+BC31
+^P 
+
+^C6a CREDITS 
+
+^C00 Thanks to ack and Schabbs for their help with  the levels.
+
+And thanks to WLHack and Airslide for their graphics contributions. Also, to Eric 
+Lin for hosting the Wolf3D Haven forum, which brought so many people together to 
+work on this mod. 
+^P 
+
+^C6a MORE CREDITS 
+
+^C00 Thanks to drchainsaw, Eric and others who beta tested the levels.
+
+Thanks to the Dome for providing the coding tutorials, especially Parafriction's 
+Helpart tutorial.
+
+And for the last, thanks to id Software for making Wolfenstein 3D and for providing 
+the source code. Without them and their game, we'd have no addons.
+^P 
+
+
+
+
+^C6a CONTACT
+^G55,190,5
+
+^C2b You can mail me at 
+^C2c example@globalnet.co.uk 
+
+^C00 Thanks for playing!
+^E

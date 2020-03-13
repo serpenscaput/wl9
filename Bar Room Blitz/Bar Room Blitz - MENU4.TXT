@@ -1,0 +1,62 @@
+      
+                       Bar Room Blitz  -  Errors and Bugs
+
+          Here is where I've documented all of the little quirks and kinks 
+      in the gameplay.  These are problems that came along with the 
+      MAPEDIT program: I've tried to eliminate most of them, but a few you 
+      will have to play around.  I'll apologize now for the problems that 
+      they may cause.
+
+          #1)  WALK BAD-DIR ERROR:  This occurs when a boss character 
+      first attacks you.  If the boss is standing in a walled area and it 
+      cannot move towards you, it tries to take the first step through the 
+      wall, resulting in the error.  Unfortunately, the only way to 
+      prevent this, is to make you first pass head on.
+
+          #2)  BAD SOUND (SD_PLAYDIGITIZED):  This is a memory based 
+      problem.  While playing, it appears that certain sound effects tend 
+      to back up in the memory buffer and touching a Gargle Blaster will 
+      overload it.  At times, you can prevent this by swinging the knife 
+      before getting a Gargle Blaster.  Regardless, on each level be sure 
+      to save your game before getting the first Gargle Blaster.
+
+          #3)  DUMB-GUARD BUG:  This used to be a frequent problem, which 
+      the enemies on a level would just stand there and die.  This 
+      happened when your character would start in a room with no doorways 
+      to pass through before shooting.  I believe that all of these have 
+      been repaired, so use this as a only a reference if you make your 
+      own game.
+
+          #4)  HIDDEN ELEVATOR BUG:  In the MAPEDIT program, if you place 
+      an elevator door facing North or South, then the doorway will be 
+      hidden by a grey wall.  You CAN walk through this wall still, but it 
+      can be frustrating to find.  All of these should have been fixed in 
+      this game.
+
+          #5)  INVISIBILITY BUG:  Occasionally, doors may be invisible or 
+      you can walk straight through a wall.  As far as I know, the door 
+      bug appears only in the bathroom areas, so dont worry.  This problem 
+      is caused by placing a guard next to a door, or accidentally putting 
+      a dog or guard ON the same location square as a wall in the editor.
+      
+          #6)  LOSS OF SOUND BUG:  For some reason, you may lose your 
+      sound effects while fighting a boss character.  I'm not too sure 
+      about this, but the problem only occurs on systems using XMS memory.  
+      If possible run Bar Room Blitz under EMS memory only.
+
+          #7)  AUTOMATIC WEAPON-SWITCH BUG:  I do not know what causes 
+      this, but with this bug, your weapon will change from the Comma-
+      Launcher to the Turbo-Firing Flatulator while a particular door is 
+      open.  I know that occurs on Episode 1, Level 4, near the Cyber-
+      Cindy room.
+
+          #8)  OUT OF MEMORY ERROR:  On a few levels, (4-3 is a particular 
+      nasty one), there are so many characters and items that if you die - 
+      the game will throw up on itself and throw you into DOS.  If you 
+      should hit a level where this occurs, you'll have to play it with 
+      your finger on the F9 (Reload) key.  This is the worst of all errors 
+      so.... DON'T DIE!!!
+
+          That about wraps it up for bugs and errors.  If anything else 
+      should happen, and it's driving you up a wall, it's probably a game 
+      function, not a bug... <EG>

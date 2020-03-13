@@ -1,0 +1,32 @@
+This is a map I started before Blah and Gates were created.  I didn't really like 
+the way it way going, so I did other maps instead.  I eventually finished the oldest 
+map, and this is what I ended up with.  It borrows too many sequences from Blah and 
+Gates to really be a legitamite entry, so here it is for anyone who's interested.
+
+
+There are a few other maps included with this one that I'll comment on:
+
+"Default Setting" - This is an update of AlumiuN's map that he made for people using 
+the MMC development kit.  I just expanded it to demonstrate more of the features 
+and how to use them;  it's nothing special.  Note the odd places in the map where 
+undefined objects appear ... objects that the EXE doesn't do anything with.  This 
+is where the 3-D Directional versions of the Glass and Spear Racks would've been 
+... along with my 8 new treasure items.
+
+"Choose A Side" - This is another "concept level" where the player finds two locked 
+doors to the left, he teleports, gets the keys, opens one of two locked doors, and 
+finds he's somehow made his way through the locked doors he saw earlier.  The teleport 
+feature is used to create the illusion that the player is constantly going right, 
+but somehow ends up on the left side of the map again.  I eventually lost interest 
+in the map's layout in general.  I might do this map's concept from scratch in the 
+future, but the map here is a no-go for me.
+
+"Pac-man" - I was actually planning to make a 3-D Pac-man game with the Wolf3D engine. 
+ The images were going to be 128x128 in size, and it was going to use a different 
+I would create.  This map was as far as I got with the project, and as you can see, 
+the gameplay wouldn't have worked very well.  It's included here for whatever it's 
+worth.
+
+Enjoy ...
+
+Tricob.

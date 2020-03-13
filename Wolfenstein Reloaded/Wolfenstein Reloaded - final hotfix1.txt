@@ -1,0 +1,17 @@
+Wolfenstein Reloaded Final Hotfix 1
+
+Fixes the following issues:
+
+- Barracks alert bug
+- Reactor core sound
+- Cleaned difficulty pictures (red pixels)
+- Fixed the "And remember..." screen
+- Bosses now give the 15k bonus
+- Hopefully cleared more "Out of memory" issues
+- Gave the M1Garand a facelift
+
+Shouldn't interfere with old savegames,
+but just in case, keep the old exe backed up.
+
+- KFH Games
+

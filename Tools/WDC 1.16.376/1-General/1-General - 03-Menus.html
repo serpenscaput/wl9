@@ -1,0 +1,462 @@
+<HTML>
+<HEAD><TITLE>Menus and Shortcuts</TITLE></HEAD>
+<BODY>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<font class="title">
+General :: Menus and Shortcuts
+</FONT>
+<br><br>
+
+<table width="100%">
+
+<tr>
+	<td class="title" colspan="2"><a name="File"></a><hr>File<hr></td>
+</tr>
+<tr>
+	<td class="item" width="250">New Project</td>
+	<td>Start a new project.</td>
+</tr>
+<tr>
+	<td class="item">Open Project</td>
+	<td>Open an existing project.</td>
+</tr>
+<tr>
+	<td class="item">Save Project As</td>
+	<td>Save your current project under a different file.</td>
+</tr>
+<tr>
+	<td class="item">View Data Files</td>
+	<td>A quick way to simply look at some data files without the hassle of a project 
+file.</td>
+</tr>
+<tr>
+	<td class="item">Compile All</td>
+	<td>Compiles all the data files for your project.</td>
+</tr>
+<tr>
+	<td class="item">Compile</td>
+	<td>Use the sub-menus to compile a single data file.</td>
+</tr>
+<tr>
+	<td class="item">Rebuild VGADICT</td>
+	<td>If WDC says some pictures are too big to fit in the VGAGRAPH file, try running 
+this to make the VGAGRAPH encryption better fit your data files..</td>
+</tr>
+<tr>
+	<td class="item">Project Information</td>
+	<td>Opens a window that lets you change the base folder, compiled extension, output 
+folder, and test program.</td>
+</tr>
+<tr>
+	<td class="item">Test Project</td>
+	<td>Runs the test program (If one has been set up for this program).</td>
+</tr>
+<tr>
+	<td class="item">Code Editor</td>
+	<td>Runs the code editor you have specified in File->Preferences.</td>
+</tr>
+<tr>
+	<td class="item">Preferences</td>
+	<td>The window has a setting called "Maintain file associations" which will tell 
+WDC whether or not it should re-associated *.wdc files with it on program startup.
+
+	Uncheck this if you have another program that uses *.wdc programs.<BR>
+	You can also setup which programs you want to use to edit BMP and WAV files.
+	This is also where you setup the code editor.
+	If the automatic conversion to 256 color BMPs messes you up, disable it here.</td>
+
+</tr>
+<tr>
+	<td class="item">Most Recent List</td>
+	<td>WDC also keeps track of the 4 most recently opened projects.</td>
+</tr>
+<tr>
+	<td class="item">Exit</td>
+	<td>Hmmmm</td>
+</tr>
+
+
+<tr>
+	<td class="title" colspan="2"><a name="Edit"></a><hr>Edit<hr></td>
+</tr>
+<tr>
+
+	<td class="item">Undo</td>
+	<td>Reverts back to the state prior to the previous change.
+	Only available while editing maps.</td>
+</tr>
+<tr>
+	<td class="item">Redo</td>
+	<td>Re-applies a change that you undid.
+	Only available while editing maps.</td>
+</tr>
+<tr>
+	<td class="item">Cut</td>
+	<td>Copies a map segment to memory and removes it from the map.
+	Only available while editing maps using the "Select" tool.</td>
+</tr>
+<tr>
+	<td class="item">Copy</td>
+	<td>Copies a map segment to memory and leaves it in the map.
+	Only available while editing maps using the "Select" tool.</td>
+</tr>
+<tr>
+	<td class="item">Paste</td>
+	<td>Applies a map segment from memory.
+	Only available while editing maps using the "Select" tool.</td>
+</tr>
+
+	<td class="item">Edit Data</td>
+	<td>If available, an edit window will appear so you can edit the associated file.
+
+	If there is no associated file, you will be asked to export the original data to 
+a file before editing.</td>
+</tr>
+<tr>
+	<td class="item">Verify Data Files</td>
+	<td>Checks to see if all associated files exist.
+	File association can be broken if you move or delete an associated file.
+	You will be asked to fixed broken associations.</td>
+</tr>
+<tr>
+	<td class="item">Data Statistics</td>
+	<td>Brings up a window that displays how many of each type of data chunk has been 
+replaced and how many have been added.</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="ImportExport"></a><hr>Import/Export<hr></td>
+
+</tr>
+<tr>
+	<td class="item">Insert File</td>
+	<td>Associates a file with the current data chunk.</td>
+</tr>
+<tr>
+	<td class="item">Export Chunk</td>
+	<td>Export the original data chunk to an external file.
+	The file type will be dependent upon the data being viewed.</td>
+</tr>
+<tr>
+	<td class="item">Use Original Data</td>
+	<td>Removes the file association for this data chunk.</td>
+</tr>
+<tr>
+	<td class="item">Add Chunk</td>
+	<td>Inserts a new data chunk to the file immediately before the current chunk.</td>
+
+</tr>
+<tr>
+	<td class="item">Add Chunk to End</td>
+	<td>Inserts a new data chunk at the very end of the file section.</td>
+</tr>
+<tr>
+	<td class="item">Remove Chunk</td>
+	<td>Removes an added chunk.</td>
+</tr>
+<tr>
+	<td class="item">Import Multiple Files</td>
+	<td>Use this to replace a bunch of chunks at once.</td>
+</tr>
+<tr>
+	<td class="item">Insert Multiple Files</td>
+	<td>Use this to add a bunch of chunks at once.</td>
+</tr>
+<tr>
+	<td class="item">Export Multiple Chunks</td>
+	<td>Allows you to select and export multiple chunks from AUDIOT, VGAGRAPH and VSWAP.</td>
+
+</tr>
+<tr>
+	<td class="item">Import Map to Clipboard</td>
+	<td>Imports a map into the clipboard so you can paste whenever you'd like.</td>
+
+</tr>
+<tr>
+	<td class="item">Paste Map from Clipboard</td>
+	<td>Opens a list of everything you've copied or cut so you can select what you want 
+to paste.</td>
+</tr>
+<tr>
+	<td class="item">Import Map </td>
+	<td>Imports a map straight into your map file.</td>
+</tr>
+<tr>
+	<td class="item">Export Multiple Maps</td>
+	<td>Exports multiple maps into one file.</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="View"></a><hr>View<hr></td>
+</tr>
+<tr>
+	<td class="item">All Items</td>
+	<td>Simply changes the data screen to whatever you select.
+	These correspond to the graphical view buttons on the window.</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="PictureTools"></a><hr>Picture Tools<hr></td>
+
+</tr>
+<tr>
+	<td class="item">Save Image With Current Palette</td>
+	<td>Save the image in the current palette using color-matching.</td>
+</tr>
+<tr>
+	<td class="item">Save New Image as 8-Bit</td>
+	<td>Converts the current 24-bit image to 8-bit using color-matchin and the current 
+palette.</td>
+</tr>
+<tr>
+	<td class="item">Convert to Hi-Res</td>
+	<td>Converts all wall and sprite images to 128x128 images.</td>
+</tr>
+<tr>
+	<td class="item">Convert to Current Palette</td>
+	<td>Converts the selected group of pictures to the current palette using color-matching.</td>
+
+</tr>
+<tr>
+	<td class="item">VGAGRAPH Chunks</td>
+	<td>Lets you look at a listing of all the VGAGRAPH chunks.</td>
+</tr>
+<tr>
+	<td class="item">Analyze Palette</td>
+	<td>Gives a detailed listing of how much the colors are used, what images use the 
+colors, and whether some colors are not used at all.</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="SoundTools"></a><hr>Sound Tools<hr></td>
+
+</tr>
+<tr>
+	<td class="item">Save WAV in Wolf3D Format</td>
+	<td>Save non-Wolf3D format WAV files into Wolf3D's WAV format.</td>
+</tr>
+<tr>
+	<td class="item">"Add a Sound" Wizard</td>
+	<td>A wizard that makes adding a new sound easy.</td>
+</tr>
+<tr>
+	<td class="item">Generate AUDIO*.H file</td>
+	<td>Generates code based on the given sound chunk names for use in AUDIO*.H.</td>
+
+</tr>
+<tr>
+	<td class="item">Generate wolfdigimap enum</td>
+	<td>Generates code based on the given sound chunk names for use in WL_MAIN.C.</td>
+
+</tr>
+<tr>
+	<td class="item">Sound Chunk Names</td>
+	<td>Lets you change the names of the sound and music chunks.</td>
+</tr>
+<tr>
+	<td class="item">Sound Priorities</td>
+	<td>Allows you to easily alter the adlib and pc sound priorities.</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="MapTools"></a><hr>Map Tools<hr></td>
+</tr>
+<tr>
+	<td class="item">Clear Map (Solid)</td>
+	<td>Clears the map using the wall code selected for the left mouse button.</td>
+
+</tr>
+<tr>
+	<td class="item">Clear Map (Random)</td>
+	<td>Clears the map using a random mix of the wall codes selected for the left and 
+rightmouse buttons.</td>
+</tr>
+<tr>
+	<td class="item">Adjust Object / Door Direction</td>
+	If checked, Rotate and Flip will also adjust the directions of guards, turning points, 
+starting points, and doors.
+	Otherwise, these are unaffected.</td>
+</tr>
+<tr>
+	<td class="item">Rotate</td>
+	<td>Use this to rotate your map clockwise by either 90, 180, or 270 degrees.<BR>
+
+	As of version 1.2.104, this also rotates guards, turning points, starting points, 
+and doors.<br>
+	As of version 1.7.195, you can rotate non-square maps.</td>
+</tr>
+<tr>
+	<td class="item">Flip</td>
+	<td>Use this to flip your map horizontally or vertically.<br>
+	As of version 1.2.104, this also flips guards, turning points, and starting points.</td>
+
+</tr>
+<tr>
+	<td class="item">Advanced</td>
+	<td>Gives you commands that you can use at the plane-level.</td>
+</tr>
+<tr>
+	<td class="item">Prefab</td>
+	<td>Allows you to save and use already-made map segments.</td>
+</tr>
+<tr>
+	<td class="item">Save Map as BMP</td>
+	<td>Saves the current map as a 16-color BMP.</td>
+</tr>
+<tr>
+	<td class="item">Map Tile Count</td>
+	<td>Simply counts the individual wall and object types are displays the totals.<br>
+
+	NOTE: The plane 3 list only appears if the map has something in plane 3.</td>
+</tr>
+<tr>
+	<td class="item">Autofloor</td>
+	<td>This option will automatically given rooms their own floor code.
+	This will not overwrite the ambush/deaf guard or secret elevator floor codes.
+	Secret walls are also taken into account when assigning floor codes.</td>
+</tr>
+<tr>
+	<td class="item">Error check map</td>
+	<td>Checks the current map for common map errors.
+	You can choose to overlook these errors and WDC will compile your maps even if it 
+says there are errors.
+	For a full list of map errors that WDC current detects, check out the <a href="../3-Error%20Message%20Guide/1-Map%20Errors.html">Error 
+Message Guide :: Map Errors</a>.</td>
+</tr>
+<tr>
+	<td class="item">Clear Error Markers</td>
+	<td>Clears all the error markers from the map view.</td>
+</tr>
+<tr>
+	<td class="item">Map Difficulty</td>
+	<td>This simply calculates a difficulty value for each difficulty level for the 
+map.
+	Difficulty is currently only based upon guard hitpoints.
+	Health and ammo packs are not taken into account.</td>
+</tr>
+<tr>
+	<td class="item">Generate Test Map</td>
+	<td>Clears the current map and creates a new one that includes all walls and objects.</td>
+
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="MapOptions"></a><hr>Map Options<hr></td>
+
+</tr>
+<tr>
+	<td class="item">Show {item}</td>
+	<td>Toggles whether {item} map tiles are drawn in the map area.</td>
+</tr>
+<tr>
+	<td class="item">Int (16-bit) Mode</td>
+	<td>The default map editing mode.
+	When in integer mode, map changes affect the entire map code.
+	Numeric values can range from 0 to 65535.</td>
+</tr>
+<tr>
+	<td class="item">High Byte Mode</td>
+	<td>When in high byte mode, map changes only affect the high byte of the map code.
+
+	Numeric values can range from 0 to 255.</td>
+</tr>
+<tr>
+	<td class="item">Low Byte Mode</td>
+	<td>When in low byte mode, map changes only affect the low byte of the map code.
+
+	Numeric values can range from 0 to 255.</td>
+</tr>
+<tr>
+	<td class="item">Map Symbols</td>
+	<td>Opens up the map symbol editor.
+	More information on this screen can be found at <a href="../2-Editing/02-MapSymbols.html">Editing 
+:: Map Symbols</a>.</td>
+</tr>
+<tr>
+	<td class="item">Map Difficulty Adjustments</td>
+	<td>Allows you to set up the values used to calculate the map difficulty.</td>
+</tr>
+<tr>
+	<td class="item">Map Zoom</td>
+	<td>You can select a different zoom level for the map.
+	Level 7 is the default and uses a 7x7 icon.
+	Each addition level makes the icon one pixel wider and taller.</td>
+</tr>
+<tr>
+	<td class="item">Map Tile Tooltips</td>
+	<td>Allows you to change text that appear when you hover over the top row in the 
+map editor.
+	This text can be used to remind you what a certain map tile does if you have given 
+it a special meaning.</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="UserTools"></a><hr>User Tools<hr></td>
+</tr>
+<tr>
+	<td class="item">Configure</td>
+	<td>Opens a screen from which you can set up your own user tools.
+	These tools can be accessed using CTRL+{numeric} or one of the menu items on this 
+menu.
+	Additional information can be found in <a href="04-UserTools.html">General :: User 
+Tools</td>
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="Help"></a><hr>Help<hr></td>
+</tr>
+<tr>
+	<td class="item">Contents</td>
+	<td>Opens up this help file.</td>
+</tr>
+<tr>
+	<td class="item">FAQ</td>
+	<td>Takes you to the <a href="../FAQ.html">FAQ</a></td>
+</tr>
+<tr>
+	<td class="item">Game Compatibility</td>
+	<td>Takes you to <a href="10-Compatibility.html">General :: Game Compatibility</a></td>
+
+</tr>
+<tr>
+	<td class="item">Tutorials</td>
+	<td>Takes you to <a href="../4-Tutorials/index.html">Tutorials</a></td>
+</tr>
+<tr>
+	<td class="item">Homepage (Online)</td>
+	<td>Takes you to WDC's homepage.</td>
+</tr>
+<tr>
+	<td class="item">Forums (Online)</td>
+	<td>Takes you to the WDC forum where you can post bugs, requests, or just about 
+anything.</td>
+</tr>
+<tr>
+	<td class="item">Update</td>
+	<td>Checks the web for WDC updates.</td>
+</tr>
+<tr>
+	<td class="item">About</td>
+	<td>Lets you know what version of WDC you are using as well as some additional information.</td>
+
+</tr>
+
+<tr>
+	<td class="title" colspan="2"><a name="KeyboardShortcuts"></a><hr>Keyboard Shortcuts<hr></td>
+
+</tr>
+<tr>
+	<td class="item">Ctrl+PageUp<BR>
+	Ctrl+PageDn</td>
+	<td>Takes you to the next/previous data screen.</td>
+</tr>
+<tr>
+	<td class="item">Ctrl+Right Arrow<BR>
+	Ctrl+LeftArrow</td>
+	<td>Scrolls to the next/previous data chunk for that data screen.</td>
+</tr>
+</table>
+
+</BODY>
+</HTML>

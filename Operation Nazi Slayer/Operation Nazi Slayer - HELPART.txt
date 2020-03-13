@@ -1,0 +1,198 @@
+^P^
+^C[DarkRed]Hey, there! ^C00 My name is ^C[DarkGreen]Orka ^C00and this is ^C[DarkRed]Operation: 
+Nazi Slayer. ^C00
+
+First of all, thank you so much for downloading my mod and second of all, yes, this 
+is indeed a game where you slay nazis.
+Please, read on for more information about this mod!
+
+^P
+^C[DarkRed]CONTROLS, SOUND, ETC ^C00
+
+You can set these right away after the title screen, but I think you already noticed 
+those options... or did you???
+
+^P
+^G 8 8 [STORY]
+^C[DarkRed]STORY ^C00
+
+^C[Brown]"You served the country well, Blazkowicz. Unfortunately you are our only 
+reliable men so we have to send you on this next mission. Have you ever heard about 
+the 'Sceptre of Destruction'?" ^C00
+
+^C[Green]"Sir! I haven't heard about it, sir!" ^C00
+
+^C[Brown]"Me neither... Anyway the nazis have stolen it and apparently we have to 
+take it back or we will all die. ^C00
+^P
+^G 8 8 [STORY]
+
+^C[Brown]They hid it somewhere in a secret laboratory complex around Fritzberg. We 
+have heard that nazi scientists are making some sort of clones there. If that's true 
+then maybe they are using this artifact for their sick experiments and that needs 
+to be stopped at all costs or we won't stand a chance against these freaks." ^C00
+
+
+^P
+^G 8 8 [WEAPNS]
+^C[DarkRed]ARSENAL ^C00
+
+Throughout the game you will receive various weapons that you would need.
+^C[DarkRed]1) Knife ^C00- (Slot 1) Starter melee weapon. If you run out of ammo or 
+if you want to backstab someone then this is for you!
+^C[DarkRed]2) Pistol ^C00- (Slot 2) Starter handgun. You will have this at the start 
+of the game with 8 ammo. Uses ammunition from Type A.
+
+^P
+^G 8 8 [WEAPNS]
+^C[DarkRed]ARSENAL ^C00
+
+^C[DarkRed]3) MP40 ^C00- (Slot 3) This submachinegun has a faster fire rate than 
+the pistol. Perfect for clearing rooms with a few guards. Uses ammunition from Type 
+A.
+^C[DarkRed]4) Gatling gun ^C00- (Slot 4) This is the fastest weapon that use ammo 
+from Type A. You will not find these as often as the MP40, and they are usually hidden 
+in secret rooms.
+
+^P
+^G 8 8 [WEAPNS]
+^C[DarkRed]ARSENAL ^C00
+
+^C[DarkRed]5) STG44 ^C00- (Slot 3) This is an assault rifle with the same fire rate 
+as the MP40 but with more damage. This weapon uses ammunition from Type B.
+^C[DarkRed]6) MK3 chaingun ^C00- (Slot 4) Fire rate is same as the gatling gun but 
+does more damage. Appears in the final levels and secret levels. Uses ammunition 
+from Type B.
+
+^P
+^G 8 8 [WEAPNS]
+^C[DarkRed]ARSENAL ^C00
+
+^C[DarkRed]7) Rifle ^C00- (Slot 5) The strongest weapon in the game but also the 
+slowest. Perfect for sniping. Uses ammunition from Type B.
+
+Note: There is a certain limit for both ammo types. Type A has a limit of 200 and 
+Type B has a limit of 100.
+
+^P
+^G 8 8 [BOSSES1]
+^C[DarkRed]THE BIG BADS ^C00
+
+You have to fight through 4 areas. All 4 have big bad dudes at the end holding the 
+key to the next area. How to get key? You shoot, he die, he drop key, you get key. 
+Simple.
+These are the assholes you will face: ^C[DarkRed]Klaus Friedhof. ^C00 You will find 
+him at the end of the 1st area. He will use 2 SMGs against you. He is slow and not 
+much of a threat...
+he is just a Trans Grosse replacement after all.
+
+^P
+^G 8 8 [BOSSES2]
+^C[DarkRed]THE BIG BADS ^C00
+
+^C[DarkRed]Max von Bumsental. ^C00 He will be at the end of the 2nd area. He has 
+2 chainguns and a missile launcher on his shoulder. He is also slow but his missiles 
+are not and they hurt very bad.
+He is a Barnacle Wilhelm replacement.
+
+^P
+^G 8 8 [BOSSES3]
+^C[DarkRed]THE BIG BADS ^C00
+
+^C[DarkRed]Hauptarzt Monokel. ^C00 He is the boss of 3rd area. Using 2 missile launchers, 
+he could blow you into pieces in seconds if you're not quick enough.
+He is not replacing anyone from the original SoD cast.
+
+^P
+^G 8 8 [BOSSES4]
+^C[DarkRed]THE BIG BADS ^C00
+
+^C[DarkRed]The UBER KNIGHT. ^C00 You will meet him at the end of the 4th area. He 
+is guarding the main laboratory, uses 2 chainguns and missile launchers on his shoulders.
+
+He is a Death Knight replacement so you know what to expect after fighting with him.
+
+
+^P
+^G 8 8 [BOSSES5]
+^C[DarkRed]THE BIG BADS ^C00
+
+There is not much information about this character. Some people refer to him as... 
+^C[DarkRed]Eggplant Wesker. ^C00 His whereabouts are unknown... but if you ever face 
+him then you mustn't lower your guard.
+He is not replacing anyone from the original SoD cast.
+
+^P
+^G 8 8 [BADDIES1]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+Let's see the non-important characters as well.
+^C[DarkRed]1) Guard dog ^C00 ^C[DarkRed]2) Guard ^C00 ^C[DarkRed]3) Officer ^C00 
+^C[DarkRed]4) SS ^C00
+Ah, yes. Don't let the look fool you, this is just the original cast that you see 
+here... but let's move on, there's still some more.
+
+^P
+^G 8 8 [BADDIES2]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+^C[DarkRed]5) Rifle guard ^C00- They use a rifle, causing very bad damage if you 
+stand in front of them for too long. (They drop a Rifle)
+^C[DarkRed]6) Waffen SS ^C00- These are tougher than the regular SS and they use 
+STGs. You won't meet them as often as the regular SS. (They drop a STG)
+
+^P
+^G 8 8 [BADDIES2]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+^C[DarkRed]7) Scientist ^C00- They are the workers of the laboratories but that doesn't 
+mean they're not trained to hunt down intruders. (They drop a clip from Type A)
+^C[DarkRed]8) Clone ^C00- These are silent assholes. Just like the mutants. They 
+could hide behind corners and nobody would notice them. (They drop a clip from Type 
+A)
+
+^P
+^G 8 8 [BADDIES2]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+^C[DarkRed]9) Heavy clone ^C00- Look at them! They hold 2 STGs! These are worse than 
+their lesser counterpart! Open fire on sight! Don't stop until there is nothing but 
+dust! (They drop a STG)
+
+^P
+^G 8 8 [BADDIES3]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+^C[DarkRed]Oversized guard ^C00- These are the guards that BJ forgot in some secret 
+areas back at Castle Wolfenstein. They ate up all the leftover chickens and became 
+these hugeass rocketlauncher-toting freaks. They don't drop anything at all. That's 
+what you get for not getting all the secrets!
+
+^P
+^G 8 8 [BADDIES4]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+^C[DarkRed]Super soldier ^C00- These giants are wielding a gatling gun and an mk3 
+chaingun. They guard some very important places around the laboratories. They drop 
+ammo boxes from both Type A and Type B ammunition.
+
+^P
+^G 8 8 [BADDIES5]
+^C[DarkRed]THE REGULAR BAD GUYS ^C00
+
+^C[DarkRed]Uberclone ^C00- Don't ask what are these... The only thing you should 
+know is that they drop a gold key on death.
+
+^P
+^G 140 200 [WOLFSRCE]
+^C[DarkRed]CREDITS AND STUFF... ^C00
+Please, read the "ONS-credits.txt" file for the credits.
+
+Also make sure to check out wolf3d.net (WolfSource)!
+You won't regret it. :)
+
+^P
+Okay, I will let you play already.
+
+^E
+

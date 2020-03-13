@@ -1,0 +1,18 @@
+Rotzi (new levels for the 60 level registered set
+of Wolfenstein 3D)
+
+This package contains 8 new levels (all 6 Boss levels,
+episode 2 level 4, plus the 6th secret level).
+
+The other levels are from W3D_cc1, and the graphics are also
+those which came with that set. 
+
+Rotzi.
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+1)  Get your copy of WOLF3D (versions BEFORE 1.4 required)
+2)  Place the zip file into the WOLF3D directory.
+3)  Unzip the zip file replacing all files.
+4)  Type NEWMAPS to get new levels.
+5)  Type OLDMAPS to get old levels.
+6)  Play on Death Incarnate.
+7)  Remember:  It's only a game!!!
+

@@ -1,0 +1,422 @@
+^P
+^C[Gold]QUICK COMMAND REFERENCE
+^c[White]
+Arrows move. Ctrl shoots. Alt strafes. 1-6 select weapons.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to Desktop
+,			 Strafe left
+.			 Strafe right
+
+^P
+^c[Gold]										RETURN TO TOTENHAUS
+^c[Gold]											ENHANCED EDITION
+^c[White]
+
+						WELCOME .	.	.	.	.	.	.	.	.	.	.	.	.	.	3
+						STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	9
+						MANUAL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	15
+						ALSO FROM EXECUTOR	.	.	.	.	31
+						COMING SOON	.	.	.	.	.	.	.	.	.	.	.	39
+						POSTSCRIPT	.	.	.	.	.	.	.	.	.	.	.	.	41
+
+^P
+^C[Gold]WELCOME
+
+^c[White]Thank you for downloading Return to Totenhaus Enhanced Edition, a revised 
+and upgraded standalone version of the expansion pack I released for the ECWolf Tech 
+Demo in 2013. As the original Tech Demo maps are going to become part of my upcoming 
+Eisenfaust Unleashed as a prologue chapter, I have decided to split off Totenhaus 
+into its own mod and give it some updates.
+^P
+^c[White]As you may have surmised, Return to Totenhaus is inspired by Laz Rojas' 
+classic 1996 mod for the Mac version of Wolfenstein (later ported to Doom and the 
+PC version) Escape from Totenhaus. When I first saw Escape from Totenhaus on Laz's 
+site in 1997, I was amazed and wanted to play it for myself--but alas, it was for 
+the Mac only and it was many long years before it would be available on the PC.
+
+^c[White]Laz Rojas' Mac and WolfenDoom mods were a major influence on my own style. 
+His imagination and professionalism were far ahead of the PC scene of '96-97. I feel 
+
+^P
+^c[White]that Escape from Totenhaus is his greatest work and for a long time wanted 
+to do my own interpretation of it.
+
+^c[White]I developed Return to Totenhaus in the spring of 2013, a few months after 
+the Tech Demo, as both a demonstration of ECWolf's ability to load multiple mods 
+at once and practice at developing the skills to make larger maps--skills I would 
+need for Operation Serpent. The original release was on June 16, 2013. Perhaps due 
+to the requirement to load both Totenhaus and the Tech Demo, or some heated arguments 
+that I had with certain members of the
+
+^P
+^c[White]community, or perhaps my mapping style having been compromised by merging 
+it with Laz Rojas' style, its release did not get much attention and I felt like 
+the project had been a failure.
+
+^c[White]Fast forward to November 2015, and after the mostly successful release of 
+Operation Serpent, I had planned to do a Christmas-themed add-on level, but circumstances 
+prevented me from getting the appropriate Christmas themed sprites. However, I still 
+wanted to make a little Christmas gift for the community. At the time I was replaying 
+the Tech Demo and
+^P
+^c[White]Totenhaus, and I realized that Totenhaus was much better than I had remembered 
+it being. I knew immediately what I had to do.
+
+^c[White]I started working on interface graphics for a refresh of Totenhaus, and 
+posted some screenshots up on Diehard Wolfers to immediate acclaim. I replaced the 
+Wehrmacht guards with exclusive ones WSJ had given me in 2006 (sorry for sitting 
+on them for nine years!), selected new music, added more textures, made some map 
+tweaks, and removed its dependency on the Tech Demo. The result is what you have
+
+^P
+^c[White]here: ^c[Gold]Return to Totenhaus Enhanced Edition.
+
+^c[White]Thanks to Wildweasel for testing, advice, and pointing me to a repository 
+of SNES RPG midis to use for the soundtrack. Thanks also to everyone who enjoyed 
+Operation Serpent. (and, uh, sorry about the backpack bug--neither I nor Blzut3 could 
+figure out what was causing it in time.)
+
+Happy holidays 2015! See you next year with Coffee Break Episode 2!
+^>^c[Gold]Executor
+^P
+^G16 16 [BLAZE]
+^c[White]It is the spring of 1943. The Axis armies in the west are reeling from a 
+crushing defeat at El Alamein. Rommel's Afrika Korps is in tatters, making a last 
+desperate stand against the British advance in Tunisia, and the Allies are preparing 
+for an invasion of Italy to knock one of the Axis Powers out of the war for good.
+
+
+You are B.J. Blazkowicz, an American spy for the OSS intelligence service, dispatched
+
+^P
+^G16 16 [IMST]
+^c[White]to western Austria to gather intelligence on German forces near the Italian 
+border in advance of the invasion. Your journey led you to Imst, a small, sleepy 
+town in the province of Tyrol, sandwiched between Italy and Bavaria.
+
+You've become a regular at a local beer hall frequented by German soldiers, posing 
+as a local drunk who comes for the food, beer, buxom Fraulieinen, and Gemutlichkeit, 
+while secretly recording the conversations of the soldiers. One day, you had a few 
+
+
+^P
+^G16 16 [WATCHING]
+^c[White]too many beers, and while chatting with a particularly attractive Fraulein, 
+your American accent becomes increasingly obvious.
+
+You are too drunk to notice it at the time, but two German soldiers have gotten up 
+from their seats and are heading your way. The serving lady turns to greet the Germans, 
+and your gaze follows hers only to glimpse the butt of a Mauser 98 rifle heading 
+straight for your face.
+^P
+^G16 16 [THAUS]
+^c[White]You awake, dazed and with a pounding headache, in a dark underground cellar 
+lit only by firelight. As you look around, you start to realize where you are and 
+your stomach turns over. You sit, bound in ropes, in the basement of the infamous 
+Totenhaus.
+
+Totenhaus was originally a chateau owned by the Jewish Grossberg family. The Grossbergs 
+were deported to a ghetto and their palatial Bavarian estate seized by the Nazis 
+in 1935. Since then, Totenhaus has 
+^P
+^G16 16 [TKNIFE]
+^c[White]has become one of the most notorious prisons for Allied POWs in Southern 
+Europe. However, the guards seem to be getting sloppy.
+
+The guard who was supposed to have searched your possessions appears to have left, 
+perhaps to clean out your wallet at the commissary. You see your clothes in a pile 
+nearby. You squirm over towards one of your boots, hoping the Germans haven't found 
+the knife inside. You tear off the cover of the hidden compartment with your teeth, 
+and there it is!
+^P
+^c[White]Grasping the hilt of the knife in your mouth, you cut the ropes binding 
+your wrists and ankles. You rifle through what remains of your stuff, hoping to find 
+anything of value. Your money is gone, and so is the FN Model 1905 you had inside 
+your jacket. Your street clothes were ripped off your body--the prison uniform will 
+have to do. At least the boots are still intact.
+
+You can move and have a weapon, but the odds are grim. Totenhaus is the most fortified 
+building in Bavaria. No one has ever escaped alive. Will you be the first?
+^P
+^C[Gold]HOW TO PLAY
+
+^c[White]Return to Totenhaus plays similarly to the original Wolfenstein 3-D. You 
+start in the basement of Totenhaus, and must work your way through eight areas of 
+the estate to reach the outer courtyard and escape.
+
+You start with only a knife. You must kill a guard to acquire a pistol. More weapons 
+can be found either stored throughout the chateau or carried by Nazi soldiers--but 
+don't expect the Nazis to give them up easily!
+
+^P
+^C[Gold]HOW TO PLAY
+^c[White] Weapons in Return to Totenhaus behave differently from those in the original 
+Wolfenstein, and more like weapons in Doom or Operation Serpent. Your weapons do 
+not lose power with distance, but instead the shots spread out. When firing a pistol 
+or MP40 at long range, many of your shots will miss or hit enemies other than the 
+target. Also unlike vanilla Wolfenstein, the game will not help you aim your weapon. 
+You must point your weapon directly at your target or you will miss. Simply pointing 
+in the general direction of a guard will not do.
+^P
+^G16 16 [DOOR4_1]
+^C[Gold]KEYS AND LOCKS
+
+^c[White]Unlike the original game, there are four keys to collect instead of two--gold, 
+silver, bronze and iron. A typical locked door is shown to the left. The wreath on 
+a locked door shows the color of the key needed to open it.
+
+Sometimes you will see a plain brown locked door without a highlight color. These 
+doors will open by themselves when you complete a level objective. Beware--they may 
+release guards!
+^P
+^G16 16 [ETROOP]
+^C[Gold]KNOW YOUR ENEMY
+^C[White]Troopers are the majority of the German soldiers stationed in and around 
+Totenhaus. Armed only with pistols, they mostly perform menial duties, low-security 
+patrols, and other largely non-combat roles. However, they are still a serious threat, 
+especially at close range!
+
+Your first enemies will be troopers. Kill one and take his weapon!
+^P
+^G16 16 [EINFTRY]
+^C[Gold]KNOW YOUR ENEMY
+^C[White]Infantry are front-line combat personnel equipped with two-handed weapons 
+for high-intensity combat. They are far more dangerous than their pistol-wielding 
+counterparts. The submachine gun infantry are more effective at close range, while 
+the riflemen, slow to aim, are more of a threat at a distance. When working together, 
+they can cover each others' weaknesses and create lethal killzones.
+^P
+^G16 16 [EOFFICR]
+^C[Gold]KNOW YOUR ENEMY
+^C[White]Officers supervise and direct enlisted soldiers as well as filling managerial 
+positions within Totenhaus. They are extremely fast both on their feet and on the 
+draw and their agility more than makes up for their light armament.
+
+Officers tend to prefer the ambush. Beware of officers lying in wait around corners 
+and behind doors. When you hear him sound the alarm it is probably already too late.
+
+^P
+^G16 16 [EGUNR]
+^C[Gold]KNOW YOUR ENEMY
+^C[White]Machine gunners manned fixed MG42 machine guns and defend critical areas 
+within and around Totenhaus. While they are not allowed to leave their posts, they 
+can fire at over 1,000 rounds per minute, quickly shredding any intruder who enters 
+their field of fire.
+
+When facing machine gunners, use cover and stick to it. Trading blows is a game you 
+will lose.
+^P
+^G16 16 [ESCHUTZ]
+^C[Gold]KNOW YOUR ENEMY
+^C[White]While the Army handles general security and day-to-day operations, the SS 
+run Totenhaus and supervise the interrogation of prisoners. They come in the same 
+varieties as Army soldiers, but their elite training makes them faster and more cunning 
+adversaries.
+
+SS wear body armor under their uniforms and take far more hits to kill than the regular 
+goons. Watch your ammo.
+^P
+^G16 16 [EFALLS]
+^C[Gold]KNOW YOUR ENEMY
+^C[White]Totenhaus also serves as a training ground for crack Fallschirmjaeger paratroopers. 
+Paratroopers are heavily armored and equipped with the devastating FG42 automatic 
+rifle. Combining the virtues of the MP40 and the K98k, the FG42 is incredibly deadly 
+at any range.
+
+Paratroopers are the most dangerous enemies in Totenhaus. Good luck when facing a 
+group of them--you'll need it!
+^P
+^G16 16 [WKNIFE]
+^C[Gold]WEAPONS
+
+^C[White]You start Return to Totenhaus with only a knife. The knife can be an effective 
+weapon against a single guard, provided you can ambush him. Stabbing an isolated 
+enemy filing through a doorway or around a corner can be an effective way to save 
+ammo.
+
+Otherwise, the proverb "don't bring a knife to a gunfight" applies. Don't charge 
+into a room full of SS waving your knife around unless you want to become Schweizer 
+Kase.
+^P
+^G16 16 [WPISTOL]
+^C[Gold]WEAPONS
+
+^C[White]The venerable Luger P08 pistol has been the favorite sidearm of the German 
+Reich for almost forty years. It's not very much gun, but better than nothing. Its 
+9mm rounds do moderate damage and it fires fast enough to deal with one or two enemies.
+
+
+Against anything more, it has problems. It has neither the rate of fire needed for 
+crowd control nor the accuracy needed for sniping. Once you get the MP40, the Luger 
+will start to collect dust.
+^P
+^G16 16 [WMP40]
+^C[Gold]WEAPONS
+
+^C[White]In the field, the MP40 is a special issue weapon normally given only to 
+squad leaders, but in the cramped confines of Totenhaus it is a versatile and widely 
+issued all-rounder. Fast and reasonably accurate, the MP40 will make groups of enemies 
+much more manageable.
+
+Less manageable is the ammo consumption. Extended firing of the MP40 will inevitably 
+drain you dry. The range isn't so great either.
+^P
+^G16 16 [WRIFLE]
+^C[Gold]WEAPONS
+
+^C[White]The Mauser K98k is the standard long arm of the German military. A German 
+in 1943 goes into battle with much the same weapon his grandfather used. And make 
+no mistake--it's a grandfather's rifle. Slow is the name of the game here.
+
+On the other hand, its range and accuracy are unparalleled. Camp a doorway and duck 
+in and out of cover, and with a steady hand you'll pick Nazis off like nobody's business.
+
+^P
+^G16 16 [WFG42]
+^C[Gold]WEAPONS
+
+^C[White]The FG42 is a bizarre hybrid of submachine gun and rifle built from a full-size 
+MG34 machine gun. Firing 7.92 Mauser ammo at full automatic, the FG42 is an utterly 
+devastating weapon with an excellent mix of damage and accuracy.
+
+It has two caveats--first, the ammo consumption that is a problem with the MP40 is 
+a much worse one with rifle ammo. Second, the F stands for Fallschirmjaeger. You 
+think he's just going to let you take his gun?
+^P
+^G16 16 [WMG42]
+^C[Gold]WEAPONS
+
+^C[White]The pride of the Wehrmacht, the brand new MG42 machine gun is the last word 
+in killing capacity. At 1,200 rounds per minute, it's less of a machine gun than 
+it is a saw for cutting down people. Heer, SS, paratroopers--it matters not, they 
+will just melt away before the power of the MG42.
+
+However, the MG42 uses ammo up faster than any other weapon, ammo that is hard to 
+come by. Use it sparingly.
+^P
+^G16 16 [WFLAMER]
+^C[Gold]WEAPONS
+
+^C[White]Bullets are nice, but sometimes you just want to douse Nazis in burning 
+gasoline. The FmW 35 flamethrower provides. The flames of the FmW 35 are nearly as 
+lethal as the MG42, but the ammo lasts much longer. If you've got a host of paratroopers 
+breathing down your neck, the FmW is the weapon you want.
+
+However, the flames travel much slower than bullets. You will have to consider whether 
+your shots will make it before the Nazis open fire. Sometimes they won't.
+^P
+^G 16 16 [OSPIC]
+^C[Gold]ALSO FROM EXECUTOR
+
+^C[Green]Operation Serpent ^c[White](2015) is my magnum opus, an 8-level true TC 
+that is no more Wolfenstein 3-D than Corridor 7 or Planet Strike is. Set in a fictional 
+Central American story in 1989, it has its own setting and aesthetic separate from 
+Wolfenstein.
+
+It has the largest levels ever built in the Wolfenstein engine, a bevy of advanced 
+features, and a heavy metal soundtrack performed on real guitars!
+^P
+^G 16 16 [CBKPIC]
+^C[Gold]ALSO FROM EXECUTOR
+
+^c[PURPLE]Coffee Break Episode 1: Castle Hasselhoff ^c[White](2014) returns to the 
+visual style and atmosphere of the original Wolfenstein 3D while drastically expanding 
+the gameplay and features. True to the mod's name, the levels here are generally 
+short--but they're also my most devious yet! Only the Wolf gods will survive on Death 
+Incarnate!
+^P
+^G16 16 [TDEMPIC]
+^C[Gold]ALSO FROM EXECUTOR
+^c[White]The ^c[Brick]ECWolf Tech Demo ^c[White](2012) was developed to show the 
+functionality of ECWolf 1.0 and recreates the storyline of Wolfenstein episode 1 
+in 10 levels with a huge array of new objects, guards, and weapons.
+
+The Tech Demo will also be the prologue episode in my upcoming project Eisenfaust 
+Unleashed.
+^P
+^G 16 16 [WSPIC]
+^C[Gold]ALSO FROM EXECUTOR
+
+^C[DarkBrown]Wolfenstein Sextilogy 3 ^c[White](2011) recreates the first three episodes 
+of Wolfenstein for an older build of ECWolf, merging the original storyline and atmosphere 
+with greatly enhanced graphics and features. 
+
+Wolfenstein Sextilogy 3 incorporates updated versions of the maps from the earlier 
+Wolfenstein Sextilogy 2 and Episode One Revisited mods. A hard drive crash ended 
+development of episodes 4-6.
+^P
+^G 16 16 [SRPIC]
+^C[Gold]ALSO FROM EXECUTOR
+
+^C[Blue]Spear Revisited ^c[White](2007) was my first serious test of the abilities 
+of limitless source ports using the Wolf4GW engine. The 21 levels of this game are 
+vastly more complex than any I had developed before, and still hold up well.
+
+An ECWolf port was released in 2015, bringing high resolutions and full Windows Vista/7/8/10 
+compatibility.
+^P
+^G 16 16 [E1RPIC]
+^C[Gold]ALSO FROM EXECUTOR
+
+^C[DarkGray]Episode One Revisited ^c[White](2006) was originally intended to be a 
+drop-in replacement for the original Episode 1 levels as I was tired of the TC-like 
+direction of the first mods. My levels were however too complex for the original 
+engine and I migrated to Wolf4GW.
+
+These ten maps are available in Wolfenstein Sextilogy 3 but E1R can use the original 
+game's graphics, accomodating players who want a more "classic" feel.
+^P
+^G 16 16 [TFAPIC]
+^C[Gold]ALSO FROM EXECUTOR
+
+^C[Cyan]The Final Assault ^c[White](2004) was my second released mod for Wolfenstein, 
+running on a slightly modified Project Totengraeber engine. It is noticeably cruder 
+than my later works but was better than what I was making earlier.
+
+The only released version of this was an 8-level demo. Development ceased in late 
+2004 due to lack of interest.
+^P
+^G 16 16 [TRTDPIC]
+^C[Gold]ALSO FROM EXECUTOR
+^C[Red]The Road to Despair ^c[White](2003) was my first released mod, after a long 
+and tortuous development starting in December 2000 (the first map was written on 
+Christmas Day). I learned the fundamentals of modding in this project, and it shows.
+
+
+Levels are sloppy, graphics are mismatched, and the quality is generally substandard. 
+Everyone has to start somewhere, I guess. You should have seen the crap I made in 
+'99...
+^P
+^C[Gold]COMING SOON
+
+^C[Yellow]Eisenfaust Unleashed
+^c[White]Finishing the story started in the ECWolf Tech Demo, Eisenfaust Unleashed 
+pits you against Dr. Schabbs and his mutant army. 24 levels filled with never-before-seen 
+terrors await you. Fight new and deadly mutants and four devastating bosses.
+^C[Purple]Coffee Break Episode X
+^c[White]In which I team up with the infamous Doom legend Xaser for a bigger, bolder, 
+badder take on Coffee Break. Be afraid.
+^P
+^C[Gold]COMING NOT SO SOON
+
+^C[Black]Astrostein Trilogy
+^C[White]Laz Rojas' classic reimagined from the ground up with entirely new maps 
+and gameplay. Having brought back advanced technology from the future through an 
+ancient time portal, the Nazis have won World War II and conquered Earth--and beyond. 
+The year is 2043, and B.J. Blazkowicz, just emerged from stasis aboard a Nazi prison 
+vessel, is all that stands between the Nazis and galactic domination.
+^P
+^C[Gold]POSTSCRIPT
+^c[White]I hope you enjoy playing Return to Totenhaus. If you do, I would also recommend 
+playing Laz Rojas' original Escape Totenahus in either its PC or Mac incarnations. 
+And who knows, I might even make an ECWolf Classics port of it one day...
+^C[Gold]	--Executor
+		spaceforce-temp@hotmail.com
+^E

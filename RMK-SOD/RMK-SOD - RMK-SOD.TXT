@@ -1,0 +1,16 @@
+Here's the first two levels of my add-on for Spear Of Destiny.  UnZIP them
+into the same directory as your Spear Of Destiny game, then run the file
+RMK-SOD.EXE.  It should install the levels and graphics for you.  You can set
+the game to run the original levels again by entering RMK-SOD once again.
+
+I kindly thank AReyeP and MCS for inspiring these levels with their "Spear:
+Resurrection" add-on.
+
+Note: There was a bug in the SOD's original Level 4 that I have now fixed.  I
+also modified several objects to use graphics from the original Wolfenstein
+game;  several "Angel Of Death" objects will appear as stoves and beds when
+you play the Angel Of Death part of Level 18 (a.k.a. Level 21).  Two piles of
+debris will also appear either as kitchen utensils or as pots and pans.
+
+Send questions/comments to - ARBORPA@YAHOO.COM
+

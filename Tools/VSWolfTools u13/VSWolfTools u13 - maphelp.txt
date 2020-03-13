@@ -1,0 +1,324 @@
+VSMAPED is intended to be a general debugging and editing utility for
+  level creators. It works for all Wolfenstein/Spear related games I know of.
+  Wolfenstein v1.0, v1.4 and Spear of Destiny, BS, C7 and OBC mods can be
+  edited, including code-changed mods. Levels may be rectangular of any size
+  up to 180x180 tiles. Map entries from 0 up to 65535 can be handled.
+  The program uses fig.bmp with symbol images, a color palette file,
+  a definition textfile, and a classes textfile containing the information
+  for searching. You can make changes to any of these files, fex. create
+  special definitions and classes files for some code-changed game.
+
+Walls are shown in the map as miniatures of wall images, objects as symbols.
+  Items not in the definitions are shown as entry number modulo 256 in hex,
+  walls white and objects red.
+
+Gamemap files are normally rlew-compressed but some are Carmack-compressed too.
+  This program can edit and save in all compressions, including none.
+  Note: carmack-compression is not used in wolfenstein v1.0.
+-------------------------------------------------------------------------------
+                             Running the program
+                     At first you can use just 3 buttons:
+
+ GAMEMAP      :*Opens a 'GAMEMAPS' file (or 'MAPTEMP' for Wolfenstein v1.0)
+                and a corresponding MAPHEADfile and a VSWAP/GFXTILES file,
+                if present. A lost or corrupted mapheadfile can be retrieved
+                from the gamemaps file. When saving a damaged mod you are asked
+                if the restored mapheadfile is to be saved.
+               *The program decides which PALETTE to use (wolf or spear or
+                whatever you choose).
+               *A CLASSES file used for searching.
+   First run:  *Open a 'DEFINITION' file containing the items' names and
+                properties. The program suggests wolfenstein or spear game
+                type, and the corresponding definition file. You can override
+                this by choosing another file.
+               *Open a VSWAP(or GFXTILES) file of graphics using 64x64 or
+                128x128 pixels. If you CANCEL: no 3D window, and the default
+                wall symbols will be used. If there is no vswap file in the
+                game directory, load a suitable one from elsewhere.
+               *Open a PALETTE file. Most mods use the Wolfenstein3D or 
+                Spear of Destiny palette but some have their own.
+               *Open a 'CLASSES' file containing search criteria.
+   All this information is stored so by the next run you just click 'GAMEMAP'.
+   Errors:     *If for some reason the program freezes, press CTRL-ALT-Delete
+                to exit, delete 'wt.ini' and start again.
+   New mod:     Click 'GAMEMAPS' if you want to change the mod, starting anew.
+
+ LOG          : View logfile of changed levels and compressions.
+
+ (my portrait): View these help instructions.
+...............................................................................
+Congratulations!Below is a list of levels, and a map of the first level.
+                And these buttons, from top downwards:
+
+ Definitions  : Open another definition file.
+
+<multicolor>  : Open another palette file.
+
+ Classes      : Open another classes file (search criteria). 
+
+[Overview     : A window showing the whole map in size 1:3
+                when a level is larger than 64x64 tiles.]
+
+ MISC..menu 1 : Files used by this mod. Close the list with a click on it.
+            2 : Statistics for the whole mod, all the items used, unlisted too.
+            3 : Save current statistics. If none, that for the whole mod.
+            4 : Save a list of all level titles.
+            5 : Save a picture of the current level.  
+            6 : Save the current level as an enhanced floedit level file, *.lvl
+                with map dimensions and 3 tables. Accepted by floedit if the
+                dimensions are 64 x 64.
+            7 : Edit the current definition file (see below).
+            8 : Edit the current classes file (see below).
+            9 : Set map compression. The gamemaps will be saved with the
+                compression you choose:
+                None (it actually works!), Normal(rlew) or Extra(rlew+Carmack).
+                If unchanged, the original map compression will be used. 
+           10 : Change the number of levels or their sizes.
+                After consulting the professor, set the number of levels and/or
+                the dimensions and click EXECUTE. If the number of levels is
+                unchanged, the current level gets the set dimensions, else
+                any new extra levels will get the set dimensions.
+                On saving afterwards you may be asked if you want to rename the
+                game files (fex. to WL8). It's up to you. 
+                At present changing the number of levels is a little involved:
+               -If you use Carmack compression and want to change the level
+                number you must first convert the mod to normal compression,
+                make the changes, then convert it back again. 
+               -To make an [empty] mod with n levels each of x*y tiles-
+                1. open mod - set n to 1 level              - save mod.
+                2. open mod - set x and y dimensions.[Clear]- save mod.
+                3. open mod - set the number of levels to n - save mod. Voila!
+           11 : Do/Don't ignore floors and ceilings. They may not be real.
+           12 : Modify image numbers. If all the guards' images numbers are
+                8 off fex, it would be tedious to change them all by hand.
+           13 : Open a Savegame file. Such files contain less information than
+                the gamemaps, but show the game in action. Not for editing.
+                There are many ways to save games so it won't always work.
+
+ Statistics   : Shows the contents of the current level. When the definition
+                editing window is seen, the list is more detailed.        NOTE:
+                Ordinary secret doors are not counted as 'Object-in-wall' here.
+
+ EDIT         : Opens the editing panel. It has its own helpfile.
+                The panel can be dragged up/down, uncovering the entries list.
+...............................................................................
+ 3D Image     : A window shows part of the level in 3D as seen from where you
+                click the map, more or less as you see it in the game.
+                You can look in 4 directions and make the image big or small.
+  Floor/ceiling Select background colors on the palette if there are no
+     buttons:   floor/ceiling tiles in the game. Click the panel to cancel.
+  Cancel colors:Remove all previously selected background colors.
+  Save colors:  Save colors to the first line in the definition file.
+  Fixed View:   You can lock the viewpoint so that you can make changes and see
+                them while editing. Click again to free the viewpoint.
+               *Floor/ceiling values of zero are always dark blue so some skies
+                are not rendered correctly, sorry. The 3D window works well
+                for saved games too, except for pacmen and directional sprites.
+                Partly transparent walls are shown correctly.
+                There are now additional rules for the definition file:
+                1: For sprites,the words' ver '(vertical)and' hor '(horizontal)
+                   are reserved and used for directional sprites only.
+                2: Do not use direction qualifiers (fex'N')for actors, it makes
+                   sure that they look in the right direction in the 3D window.
+
+ TRACE        : For checking whether a level is blocked somewhere, or for fun,
+                trace a path through the mod:      Rightclick on a floor tile,
+                then all tiles accessible from that point will be marked with
+                a cross, avoiding hard objects, up to the next normal/secret
+                doors. A second rightclick removes a floor marking.
+                Click TRACE again to show the normal map.
+...............................................................................
+ MARK         : Click and the buttontext lightens up. You are now in mark mode.
+                If you click the map, the items lists or the entries list,
+                or SELECT a group, all of the chosen items will blink, on all
+                levels. The number of marked items in each level is shown.
+ in the map:    If a tile in the map has an object on it this will be selected,
+                else the solid/floor. If the edit panel is active, then the
+                solid/object buttons will determine what is selected.
+                In active EDIT mode you can only click the entries list or
+                select a group, for not interfering with the editing process.
+                A small list shows names of the marked items and groups,
+                click the list to hide it. Click MARK again to leave mark mode.
+
+ SELECT       : You can mark whole classes, fex.'weapons', various actors,
+                doors. 'object in wall' (not including ordinary pushwalls),
+                'not in (definitions)list', 'guard 1'(/3/4)shows GUARDS of
+                that skill level (plus guards with no skill level).
+                OR you can enter a case-sensitive Search Text
+                (Names start in upper case) and accept with the RETURN key.
+-------------------------------------------------------------------------------
+ RESTORE      : Restore the maps in the game from backup (files+'bk').
+
+ SAVE MAPS    : Save the maps to the game. Make a backup first (option).
+
+
+
+
+
+
+=========FOR EXPERTS: Editing Definitions and using the entries list===========
+
+---------------------------MODIFYING A DEFINITION FILE-------------------------
+                      or making a new one for a special mod.
+                  (You CAN of course use a text editor instead ;-)
+
+               *Start 'Edit Definition File'.
+               *Click an item in the map, the items lists or the entries list,
+                then its definition will appear on the definitions panel :
+
+       <*.txt>: Name of the definition file in use.
+
+   (black box): Line 0 only. Using the images list you can set the start of
+                wall images and the start and end index+1 of floor/ceiling
+                structures. Needed for mods with this feature. In line 0's
+                comment you can type 'spear' or 'wolf' to force the entries
+                list settings, or 'new' if the definitions are unfinished,
+                or 'single' if there is only one image per wall (like in OBC).
+                             ------------------------------------
+    73_2Assault rifle                   459   67 JUST AN EXAMPLE.
+ Item#,type,Class,Name              image#s,symbol#,Comment
+
+ _FIELDS in the definition file..............and meaning:......................
+| 1- 6 Item #  : Map entry for solids, objects or structures, 0-65535(FFFF hex)
+| 7            : Type of item, symbolized with: ' '(solid),'_'(object), or 
+|                if it is in a saved game: '*'(object).                         
+
+| 8-29 Name    : A short text (22 characters max). For details see 'classes'.
+|32-43 Image#s : Wall or object image index. Click an image in the list below
+|                left. Zero = no image or an automatically generated one. If a
+|                floorcode (OBC again) determines floor and ceiling structures,
+|                choose 'floor' or 'ceiling ' before selecting images for each.
+|                For doors it is: Frame image#, door image# and
+|                (if relevant): door2 image#.   0=automatic.
+|                The 'All' button will give all doorframes the selected image. 
+|45-48 Symbol#:  Click a symbol in the list below right to represent the item
+|                in the map. Symbol zero=automatic. You can add a floor by
+|                using a floor code symbol(106-143) and remove one by using any
+|                other symbol, fex. the 'invisible' symbol no. 256.
+|                If you don't want to insert all guard symbols, you can use
+|                symbol no.257(::)for a non-existent entry. Its default
+|                symbol won't show up in the entries list or the items lists. 
+|                Symbols 246-278 and 362-377 are for invisible objects only.
+|                If the 'no object' number is not 0, give it symbol number 256.
+|                If you want to put symbols of your own make into fig.bmp,
+|                please do it in the cells with a white cross, because I may
+|                use those with a red cross for my own additions.
+|50... Comment:  Text, any length (optional).
+|                In the very first line you can write 4 reserved words here:
+|                'wolf' or 'spear', 'new', 'single'.
+|  USE        :  If the line already exists, it is updated, otherwise added.
+|  DELETE     :  Removes the selected line from the definitions.
+|  UNDO       :  Undoes the latest USE or DELETE.
+|_ SAVE FILE  :  Saves the updated definition list.
+
+
+
+
+--------------------------------THE CLASSES FILE-------------------------------
+ The classes file (*.inf) is for searching items, and is in the VSMAPED
+ directory. 'normal.inf' is the default file for Wolfenstein and Spear games.
+ To facilitate searching some item names start with a number(1-3 digits), given
+ in the classes file. You can make an individual classes file for any mod.
+       (Class):                     6: bad health (fex. poison pool)
+       1: good health (fex. food)   7: treasure   (giving points)
+       2: weapon                    8: superguard, a single item.
+       3: ammo                      9: hard object (not in the classes file)
+       4: key                      11: Junk food (fex. bloody skeleton)
+       5: protection(fex.helmet)  ---: reserved for a future 4th skill.
+
+      *For counting actors: if an item is a single ACTOR, you can add 50,
+       if it also is hard, like a torch fex., it will make 59. Fire will be 56.
+      *Item names starting in UPPERCASE are searched by the name. If you
+       change the names, you must change them in the classes file as well.
+      *You are free to rename other classes, fex 'weapon' to 'wapen'.
+      *You can add a search text OR: add a new class by preceding its
+       name with a class number 10-199 and a space, fex: '14 Ho-Hum'.
+ NB!!! The categories: guard 1-4, actors, static objects ,objects in wall,
+       not in list, Door, Elevator MUST be kept at the original line numbers.
+       Extra names and classes must be added AFTER 'Elevator' !!!
+      *HARD OBJECTS with a function (I never saw any) must have numbers
+       100-149. Walls can be in classes too: fex. in R.O.M., a switch wall
+       works much like a third key, so I have put it in class 4. Also in R.O.M,
+       pacmen are ammo and therefore in class 3 and not in 8 (superguard).
+
+------------------------------WORKING WITH THE ENTRIES LIST--------------------
+
+                Lower the edit panel to reveal the entries list underneath.
+                This list is mainly used for spotting, picking and marking
+                UNLISTED items. Marked items also show up here.
+                Before picking an item you must click the button for walls/
+                floorcodes or objects in order to determine which map plane
+ _ --Buttons--  the value belongs to. The same when clicking the map.
+|     CLEAR   : Clears any markings in the entries list. 
+|     <-      : A click will mark all items USED in the level with big squares
+|               for listed items, smaller squares for unlisted items.
+|               Tip: Change level and the markings will accumulate,
+|               ultimately showing all items below number 896 used by the game.
+|    [<=      : The same goes for button '<=' if present (floors(green) and
+|_              ceilings(blue)). Displayed in 640 to 895 in the entries list.] 
+-------------------------------------------------------------------------------
+
+                These informations you get by moving the mouse over
+                the map or the entries list or the edit lists:
+
+  *To the left:          Totals of static objects, actors, doors and
+                         objects-in-wall in the level. Work during editing too.
+  *In the entries list:  To the right: wall ID(plane 1), object ID(plane 2),
+                         additional ID(plane 3).
+  *In the edit lists:    wall/floor/object ID, class, and name.
+  *In the map:           Wall/floor ID and name, Object ID(=sprite number+21)
+                         and name and possibly a comment.
+  *For floors/ceilings:  Image index in the vswap file.
+  *Mouse X and Y map coordinates.
+  *An actual image from the vswap file. If both solid and object is present
+   together, the solid is shown if you are editing solids, else the object.
+
+
+-------------------------------------------------------------------------------
+                       A note on map statistics.
+
+A level map consists (normally) of three 64 by 64 planes of 16-bit numbers,
+   one for 'solids' (including doors and floor codes), one for objects, and one
+   that normally contains zeros but is used by some code-changed games for
+   floors and ceilings. Some games (fex. Blake Stone) have only two planes.
+  *There ARE a few mods, however, for which plane 2 entries are repeated in
+   plane 3. It might be the result of some complicated packing scheme.
+   They are not seen in the game (only 2 planes are used) but it IS an error.
+   If it bothers you, clear all floors/ceiling structures and save the maps.
+  *In the gamemaps file the planes are compressed with rlew or rlew+Carmack
+   coding. VSMAPED can handle both as well as no compression.
+
+In VSMAPED the plane entry numbers are treated as follows:
+
+   ID number in map vs type, for the original game:
+plane 1-'solids'------------------
+$01..$59 (  1- 89):  Wall pairs
+$5A..$69 ( 90-105);  DOORS                    max  64
+$6A..$8F (106-143):  Floor codes
+$90...   (144-   ):  -not used-
+
+plane 2-'objects'-----------------
+$01..$12 (  1- 18):  -not used-
+$13..$16 ( 19- 22):  start positions
+$17..$59 ( 23- 89):  STATIC OBJECTS(visible), max 399
+$5A..$69 ( 90-105):  invisible objects
+$6A..$119(106-281):  ACTORS                   max 149
+$11A...  (282-   ):  -not used-
+
+plane 3-'additional'--------------
+$00...   (0...   ):  -not used[=0]-In some games used for floors and ceilings.
+
+The totals of DOORS, STATIC OBJECTS and ACTORS MUST obey the restrictions
+  above or the game will crash. Code-changed games may have wider limits.
+Wall pairs(except doors) with IDs larger than $3F (63) may not be rendered
+  correctly in the game.
+Actors include guards (alive or dead), animated objects, missiles etc.
+  A missile demands 9 extra unlisted 'actors', a missile duel 18 so please
+  watch the actor total.
+Start positions, turning points, secret doors and triggers are invisible and
+  DON'T count as static objects.
+A shareware or demo mod can handle many more walls than it is born with.
+  You can add additional walls with VSWAPED.
+I prefer the term 'actor' to 'guard' because it is more general.
+
+                        vincentschousboe@gmail.com

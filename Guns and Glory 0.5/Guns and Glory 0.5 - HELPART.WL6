@@ -1,0 +1,1042 @@
+^PAGE 1
+^C28QUICK COMMAND REFERENCE
+
+^C20Arrows - ^C00Move.		^C20CTRL - ^C00Shoot.		^C20Space - ^C00Use.
+^C20ALT - ^C00Strafe.				^C20Shift - ^C00Run.			^C20M - ^C00Medkit.
+
+^C20F1			^C00Read This / Help
+^C20F2			^C00Save Game ^C20(F8 ^C00for Quick save)
+^C20F3			^C00Load Game ^C20(F9 ^C00for Quick load)
+^C20F4			^C00Sound menu
+^C20F5			^C00Resize view window
+^C20F6			^C00Controls menu
+^C20F7			^C00End Game
+^C20F10		^C00Exit to DOS
+
+Read on for more information.
+^PAGE 2
+
+
+										^C20TABLE OF CONTENTS
+
+
+								^C00STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	3
+								^C00CONTROLS	.	.	.	.	.	.	.	.	.	.	8
+								^C00GAMEPLAY	.	.	.	.	.	.	.	.	.	.	12
+								^C00THE CONTEST	.	.	.	.	.	.	.	.	66
+								^C00RESOURCES		.	.	.	.	.	.	.	.	.	77
+								^C00CREDITS	.	.	.	.	.	.	.	.	.	.	.	.	80
+								^C14CHEATS	.	.	.	.	.	.	.	.	.	.	.	.	93
+^PAGE 3
+^G32,16,5
+				^C30GUNS AND GLORY: ^C80THE STORY RETOLD
+
+	^C00Welcome. This is a fan-made retelling of the classic story involving ^C80Captain 
+William "B.J." Blazcowicz, ^C00an allied spy during World War II, and his epic journey 
+to put an end to the Third Reich.
+
+	The lone individual capable of doing so, ^C80B.J. ^C00sets out on a journey that 
+will shape the very face of the world as we know it.
+^PAGE 4
+^G32,16,3
+^C20THE STORY SO FAR...
+
+	^C00Our tale begins with the world in turmoil as the Axis Powers seize victory in 
+Europe. Somehow, they've been able to provide themselves with an unstoppable army. 
+Desperate to stop the Nazis before it is too late, the Allies enlist their finest 
+operative: ^C80B.J. Blazcowicz ^C00to investigate the source of these unstoppable 
+killing machines, and if necessary, exterminate the means through which they are 
+created.
+^PAGE 5
+^G32,16,4
+^C20THE STORY SO FAR...
+
+	^C00Allied intelligence suggests that the creations are originating from an old 
+castle that was secretly modified into a research laboratory by the infamous ^C80Dr. 
+Franz Schabbs. ^C00The madman is supposedly using corpses of fallen soldiers and 
+captives and reanimating them so that they can fight again for the Nazi war-machine. 
+If the Allies are to seize victory, ^C80Dr. Schabbs ^C00must be stopped before it 
+is too late...
+^PAGE 6
+^C20THE STORY SO FAR...
+
+	^C00However, this is no small task. With the castle protected by hundreds of armed 
+guards and a nearby town filled with Nazi fanatics, ^C80B.J. ^C00has no choice but 
+to sneak in on foot and find some sort of secret passageway inside.
+
+	Under the cover of darkness, ^C80B.J. ^C00makes his way to the secret laboratory, 
+deciding that the best route is through a nearby forest, where he can easily sneak 
+into the castle's vicinity without the likelihood of being noticed...
+^PAGE 7
+^G32,16,5
+^C20THE STORY SO FAR...
+
+	^C00This is where your journey begins. Finally having found your way out of the 
+forest, you're on the outskirts of the castle with only a few light patrols barring 
+your way inside.
+
+	With only a knife to defend yourself, you'll have to be careful and find a safe 
+passageway inside...
+^PAGE 8
+^C20CONTROLS
+
+	^C00In order to play ^C30Guns and Glory: ^C80The Story Retold, ^C00you must first 
+familiarize yourself with the game's controls.
+
+	You can play the game by using a keyboard, mouse, joystick, or a Gravis PC Gamepad.
+
+
+	While navigating menus, press the ^C20Arrow Keys ^C00to highlight an item, and press 
+the ^C20Enter Key ^C00to select the item.  Pressing the ^C20ESC Key ^C00will return 
+you to the previous menu.
+^PAGE 9
+^C20CONTROLS
+
+	^C00Pressing the first letter of a particular menu item will highlight that item.
+
+
+	Using the mouse, joystick, or Gamepad are acceptable means for navigating the menus 
+as well.
+
+	When using the mouse or joystick, use ^C20Button 1 ^C00to shoot, ^C20Button 2 ^C00to 
+strafe.  If applicable, use ^C20Button 3 ^C00to open doors.
+
+	Gravis PC Gamepads have a ^C20fourth button, ^C00useful as a run button.
+^PAGE 10
+^C20CONTROLS
+
+	^C20Arrow Keys - ^C00Press these to manuever around the level.
+
+	^C20Spacebar - ^C00The "Use" key.  Pressing this will open doors, activate switches, 
+and let you interact with certain objects.
+
+	^C20CTRL Key - ^C00Press this to fire your weapon.  Hold it down to continue firing 
+a Rapid-Fire weapon.
+
+	^C20Shift Key - ^C00Hold this down to run.
+^PAGE 11
+^C20CONTROLS
+
+	^C20ALT Key - ^C00Hold this while moving to strafe.
+
+	^C20WASD Keys - ^C00Use these in tandom with the Mouse to emulate modern control 
+schemes ^C28W ^C00and ^C28S ^C00move forward and backward, ^C28A ^C00and ^C28D ^C00are 
+left and right strafe keys.
+
+	^C20M Key - ^C00Press this to use a ^Cb0Medkit.  ^C00You must have at least ^Cb01 
+Medkit ^C00for this key to function.
+^PAGE 12
+^G76,16,30
+^C20GAMEPLAY - STARTING A NEW GAME
+
+	^C00To start a new game, you must first go to the menu item titled: ^C20"New Game" 
+^C00in the main menu and press the ^C20Enter Key.
+
+	^C00From there you will be given the option to select an episode (there should only 
+be 1 available at any time) and press the ^C20Enter Key ^C00once more.
+
+	^Cb0Warning: The ^C20WASD Keys ^Cb0in the controls setup menu are not interchangeable 
+with the ^C20Arrow Keys. ^Cb0The ^C20Arrow Keys ^Cb0are always active and cannot 
+be changed.
+^PAGE 13
+^G64,16,20
+^G96,16,21
+^G128,16,22
+^C20GAMEPLAY - STARTING A NEW GAME
+
+	^C00From there you will be given 3 difficulties to choose from:
+
+^C20EASY: ^C00Enemies appear infrequently and have only half of their normal health. 
+A good setting for beginners.
+^C20MEDIUM: ^C00On this setting, enemies appear more frequently and have roughly 
+the same health as the player.
+^C20HARD: ^C00Enemies appear more often and are much tougher to take down. This difficulty 
+is reserved for hardened players.
+^PAGE 14
+^C20GAMEPLAY - STARTING A NEW GAME
+
+	^C00Once you've decided upon a difficulty setting, press the ^C20Enter Key ^C00and 
+you'll be transferred into the game. From that point the player will be in the game 
+and can return to the main menu by pressing the ^C20ESC Key.
+^PAGE 15
+^C20GAMEPLAY - LEVEL ORGANIZATION
+
+	^C30Guns and Glory: ^C80The Story Retold ^C00is one, single continuous episode that 
+takes place over roughly ^C20Thirty Levels, ^C00and there are ^C20Four "Acts" ^C00that 
+the player will play through before coming to the game's conclusion.
+
+The Acts are as follows:
+	^C20ACT ONE - ESCAPE 							^C00(Levels 1 - 6)
+	^C20ACT TWO - JOURNEY							^C00(Levels 7 - 12)
+	^C20ACT THREE - INFILTRATION		^C00(Levels 13 - 18)
+	^C20ACT FOUR - CONFRONTATION	^C00(Levels 19 - 24)
+^PAGE 16
+^G116,8,182
+^C20GAMEPLAY - THE STATUS BAR
+
+	^C00This is the ^C20Status Bar. ^C00It displays everything from what your current 
+health is to what level you're on, how long you've been on that level and where you're 
+currently located in that level. Take the time to familiarize yourself with it so 
+that you know what does what.
+^PAGE 17
+^G116,8,182
+^C20GAMEPLAY - THE STATUS BAR
+
+	^C001. This displays what level you're on.
+	2. This displays your current score.
+	3. This displays how long you've spent on the current level and how long powerups 
+will last.
+	4. This displays the number of lives you have left.
+^PAGE 18
+^G116,8,182
+^C20GAMEPLAY - THE STATUS BAR
+
+	^C005. This displays which Keys you currently have.
+	6. This displays your face and how you currently look.
+	7. This displays your health bar.
+	8. This displays your armor bar.
+^PAGE 19
+^G116,8,182
+^C20GAMEPLAY - THE STATUS BAR
+
+	^C009. This displays your health in a numerical value (your max health is 20).
+	10. This displays your armor in a numerical value (your max armor is 20).
+	11. This displays how much ammunition you currently have for each of your weapons.
+
+^PAGE 20
+^G116,8,182
+^C20GAMEPLAY - THE STATUS BAR
+
+	^C0012. This displays the number of Medkits you have.
+	13. This displays the number of which weapon you currently have selected.
+	14. This displays the Minimap, which displays your current position on the map.
+
+	^Cb0This does not function on Medium or Hard.
+^PAGE 21
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+	^C00Before playing, you need to first familiarize yourself with your arsenal. You'll 
+be fighting hordes of hostile foes and if you don't know your weapons or how to use 
+them, you won't get very far.
+
+	There are a total of ^C206 Weapons ^C00in ^C30Guns and Glory: ^C80The Story Retold, 
+^C00each with their own unique ammunition and function.
+^PAGE 22
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+	^C00You can select your desired weapon by pressing one of the ^C20Number Keys (1 
+- 6) ^C00on the keyboard, or by rolling the ^C20Mousewheel ^C00on your mouse. However, 
+you can only select a weapon if you have it in your possession and only if you have 
+ammunition available for that weapon as well.
+
+	Also, you will always have the Knife in your possession.
+^PAGE 23
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+^C201. KNIFE ^C00The Knife (not pictured) is your basic weapon. It deals only minor 
+damage to foes and cannot hit them from afar. The Knife's strength comes from its 
+lack of needing any ammunition and its reliablility. It is an excellent silent weapon, 
+useful for taking out foes from behind before they even know you're there.
+^PAGE 24
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+^C202. PISTOL ^C00An upgrade from the knife, the Pistol is your basic firearm. The 
+Pistol is useful against small groups of weak opponents or even single individuals. 
+Most of your foes wield Pistols themselves and you can take one from them after you've 
+defeated them.
+	The Pistol has a ^Cb0maximum ammunition capacity of 20 rounds.
+^PAGE 25
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+^C203. MACHINE GUN ^C00Basically a faster pistol with a larger ammunition capacity, 
+the Machine Gun is capable of taking out medium-sized groups of foes easily. It can 
+also be effective against the more powerful foes you'll face.
+	The Machine Gun has a ^Cb0maximum ammunition capacity of 40 rounds.
+^PAGE 26
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+^C204. FLAME THROWER ^C00The Flame Thrower is your fastest weapon, capable of taking 
+out large armies of foes with ease. However, unlike your other weapons, the Flame 
+Thrower has a limited range and is ineffective against far away foes.
+	The Flame Thrower has a ^Cb0Maximum ammunition capacity of 60 rounds.
+^PAGE 27
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+^C205. SNIPER RIFLE ^C00Unlike most weapons that shoot projectiles, the Sniper Rifle 
+can hit targets behind objects such as windows and fences, making it invaluable. 
+It is also a silent weapon, so it won't alert your foes of your actions.
+	The Sniper Rifle has a ^Cb0maximum ammunition capacity of 10 rounds.
+^PAGE 28
+^G28,16,37
+^C20GAMEPLAY - WEAPONS
+
+^C206. STIELHANDT ^C00The Stielhandt is your strongest weapon in a single hit with 
+the added bonus of effecting a large area, but it has several disadvantages. It cannot 
+go very far and the explosion it causes can harm you as well. Stielhandts are good 
+against large groups and for starting chain reactions with explosive objects.
+	You can hold a ^Cb0maximum of 5 Stielhandts.
+^PAGE 29
+^G28,16,37
+^C20GAMEPLAY - AMMUNITION
+
+	^C00Each weapon has its own ammunition found in two distinct types: ^Cb0Used Clips 
+and New Clips. ^C00Ideally, New Clips come with the full amount of ammunition and 
+Used Clips come with half as much. ^C20Weapons always come with the used amount of 
+ammunition.
+	^Cb0Pistol Clip: 4 New, 2 Used.
+	Machine Clip: 8 New, 4 Used.
+	Fuelcan Clip: 12 New, 6 Used.
+	Rifle Clip: 2 New, 1 Used.
+^PAGE 30
+^G32,16,36
+^C20GAMEPLAY - HEALTH
+
+	^C00Throughout the game you'll periodically need to restore your health. Picking 
+up one of these items will restore a set amount of health. ^Cb0You can only pick 
+up a health item if your health is below 20.
+	^C00However, you've got be to quick because most enemies can pick up and use health 
+items themselves.
+^PAGE 31
+^G32,16,36
+^C20GAMEPLAY - HEALTH
+
+^C201. DOGFOOD - ^C00Restores 1 health.
+^C202. STIMPACK - ^C00Restores 2 health.
+^C203. HAMBURGER - ^C00Restores 3 health.
+^C204. CHICKEN DINNER - ^C00Restores 4 health.
+^C205. STEAK - ^C00Restores 5 health.
+^C206. MEDKIT - ^C00Adds ^Cb01 Medkit ^C00to your stockpile and restores 8 health 
+when used. You can only hold ^Cb02 Medkits ^C00at any one time.
+^PAGE 32
+^G32,16,36
+^C20GAMEPLAY - HEALTH
+
+^C207A. BERRYBUSH - ^C00Restores 2 health.
+^C207B. POISON BERRYBUSH - ^C00Beware, Some berrybushes have poisonous purplish berries 
+on them. If you accidentally eat any of these berries, you'll lose 4 health.
+^PAGE 33
+^G32,16,42
+^C20GAMEPLAY - EQUIPMENT
+
+^C201. BACKPACK - ^C00Picking this item up will ^Cb0increase your maximum ammo capacity 
+for all of your weapons. ^C00(40 for the Pistol, 80 for the Machine Gun, 99 for the 
+Flame Thrower, 20 for the Sniper Rifle, and 10 for the Stielhandt Grenade). It will 
+also provide you with some ammunition for the Pistol, Machine Gun, Flame Thrower, 
+and Sniper Rifle (2, 4, 6, and 1, respectively). 
+^PAGE 34
+^G32,16,42
+^C20GAMEPLAY - EQUIPMENT
+
+^C202. BODY ARMOR - ^C00Body Armor decreases the amount of damage you take from enemy's 
+attacks. The more powerful the attack, the more damage your armor will absorb. Picking 
+up a piece of Body Armor will ^Cb0increase your armor by 10 points up to a maximum 
+of 20 points.
+^PAGE 35
+^G32,16,35
+^C20GAMEPLAY - HAZARDS
+
+	^C00On your journey you'll find some objects that can harm you if you get too close 
+to them. Try avoiding these if possible, and try luring your foes onto these instead.
+
+
+
+^C201. LANDMINE - ^C00Deals 10 damage.
+^C202. SLIMEPOOL - ^C00Deals 6 damage.
+^C203. OPEN FLAME - ^C00Slowly saps 1 health repeatedly.
+^PAGE 36
+^G28,16,31
+^C20GAMEPLAY - INTERACTIVE OBJECTS
+
+	^C00Throughout your journey you'll encounter objects that you can interact with. 
+Depending on the object, you may be granted access to new areas, to new items or 
+ways to deal with your foes that were unavailable to you before.
+^PAGE 37
+^G28,16,32
+^C20GAMEPLAY - INTERACTIVE OBJECTS
+
+^C201. GLASS WINDOW - ^C00Shooting this may grant you access to new areas.
+^C202. GRANITE COLUMN - ^C00Shooting these old columns may grant you access to new 
+areas.
+^C203. STEAM JET - ^C00This quickly saps the health of whatever stands underneath 
+it.
+^PAGE 38
+^G28,16,32
+^C20GAMEPLAY - INTERACTIVE OBJECTS
+
+^C204. OIL DRUM - ^C00These drums explode when they suffer any form of damage, causing 
+major damage to whatever is standing nearby. These drums can start chain reactions 
+with other drums and they may also leak chemicals or erupt into flames when destroyed.
+
+^PAGE 39
+^G28,16,32
+^C20GAMEPLAY - INTERACTIVE OBJECTS
+
+^C205. ITEM CRATE - ^C00Breaking these open usually results in some form of equipment 
+falling out. The item that falls out depends upon your current in-game status.
+^C206. COATRACK - ^C00These hold a disguise that when put on will make you invisible 
+for a short time.
+^PAGE 40
+^C20GAMEPLAY - USING DISGUISES
+
+	^C00When you pick up a disguise you'll be completely invisible to all enemies for 
+about 30 seconds. However if you put a disguise on while an enemy is hunting after 
+you, they have a chance of figuring out who you are and the disguise will be rendered 
+useless.
+	Also, if you're wearing a disguise and you get in the way of a patrolling guard, 
+they might discover who you are anyways, again making your disguise worthless.
+^PAGE 41
+^G32,16,41
+^C20GAMEPLAY - TREASURE ITEMS
+
+	^C00The Nazis have stolen and accumulated vast amounts of artifacts and treasure 
+to fund their war-machine and it would serve both your purpose and the Allies as 
+a whole if you were to liberate some for their cause. The more treasure you acquire, 
+the better.
+	^Cb0Every 100,000 Points you earn will grant you 1 free Extra Life.
+^PAGE 42
+^G32,16,41
+^C20GAMEPLAY - TREASURE ITEMS
+
+^C201. CROSS - ^C00100 points.
+^C202. SWASTICA - ^C00250 points.
+^C203. CHALICE - ^C00500 points.
+^C204. NUGGET - ^C00750 points.
+^C205. CHEST - ^C001,000 points.
+^C206. DIAMOND - ^C002,500 points.
+^C207. CROWN - ^C005,000 points.
+^C208. STATUETTE - ^C007,500 points.
+^C209. NAZI INTEL - ^C0010,000 points.
+^PAGE 43
+^G32,16,41
+^C20GAMEPLAY - TREASURE ITEMS
+
+^C2010. DISKET - ^C00Unlike other treasure items, this particular item can only be 
+found once in the whole game and it is very difficult to locate. But finding it is 
+well worth it, not only for the ^Cb050,000 points, ^C00but for the secret code located 
+on the Disket.
+	^Cb0The code on the Disket is specifically for the contest explained later in this 
+manual.
+^PAGE 44
+^G32,16,33
+^C20GAMEPLAY - KEYS
+
+	^C00Throughout the game you'll encounter doors that you'll need special keys to 
+unlock. There are ^C208 Keys ^C00total in the game that each go with a color-coordinated 
+door.
+	Depending on the area you're in you most likely won't have to look around for more 
+than ^C204 Keys ^C00on any particular level.
+	^Cb0Beware as some keys can only be acquired by defeating a boss character.
+^PAGE 45
+^G32,16,34
+^C20GAMEPLAY - ARTIFACTS
+
+	^C00While on your journey you may encounter these mysterious objects. Some can be 
+found quite often while others can only be found in a few areas.
+	It is unknown where these artifacts came from or what created them, but on your 
+journey you may find out if you search hard enough.
+^PAGE 46
+^G32,16,34
+^C20GAMEPLAY - ARTIFACTS
+
+^C201. EXTRA LIFE - ^C00Picking this up will restore your health to full, give you 
+10 armor and give you an Extra Life.
+^C202. REGENERATION - ^C00This artifact restores your health while you stand over 
+it, ^Cb0however it will only do so at a cost of 10 points. Thus, this artifact does 
+not function if your score is 0.
+^PAGE 47
+^G32,16,34
+^C20GAMEPLAY - ARTIFACTS
+
+^C203. INVULNERABILITY - ^C00This artifact makes you completely impervious to all 
+forms of damage for roughly 30 seconds.
+^C204. BERSERK - ^C00This increases the strength of your knife strikes making them 
+powerful enough to outright kill most enemies. Berserk lasts for roughly 30 seconds.
+
+^PAGE 48
+^G32,16,34
+^C20GAMEPLAY - ARTIFACTS
+
+^C205. TELEPORTER - ^C00This artifact will transport you to a different part of the 
+level, and if an enemy is in the nearby vicinity when you teleport it will kill them 
+outright. Beware, as enemies can also utilize these artifacts as well.
+
+^C206. INSTANT DEATH - ^C00Anything foolish enough to step over this will die instantly. 
+Only those impervious to death can pass it...
+^PAGE 49
+^G32,16,183
+^C20GAMEPLAY - FRIENDLY CHARACTERS
+
+^C20PRISONER OF WAR - ^C00These are your fellow spies and officers. Captured by the 
+Nazis, they're to be interrogated and then executed. You'll have to save them before 
+that can happen, the information they hold is vital for the Allies to achieve victory.
+
+	When they spot you they'll shout out and try to make contact. Allow them to come 
+and share their intel with you to earn 10,000 points. ^Cb0But if you're not careful 
+one of your stray shots could accidentally kill them costing you 10,000 points instead.
+
+^PAGE 50
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+	^C00On your journey you'll encounter a plethora of dangerous foes eager to fill 
+you full of lead and tear you to pieces. You'll encounter hundreds of foes, but these 
+are the basic varieties that you'll encounter.
+	Getting yourself familiar with these foes will be your first step towards learning 
+how to take down the larger, more powerful foes that await you later in your journey.
+
+^PAGE 51
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C201. NAZI GUARD
+	^C00The basic enemy. These guys are terrible shots, but they patrol in large groups 
+to make up for their shortcomings. They will drop a Pistol when defeated.
+^PAGE 52
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C202. ROTTWIELER
+	^C00These attack dogs serve as faithful companions and terrible killing machines 
+to the Nazis. They can only attack up close, but their speed and the numbers in which 
+they roam can be troublesome.
+^PAGE 53
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C203. SCHUTZSTAFFEL
+	^C00The Elite soldiers of the Nazis. Their large physique and armaments make them 
+dangerous foes, but they move rather slowly. They will drop a Machine Gun when defeated.
+
+^PAGE 54
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C204. MUTANT
+	^C00The ultimate soldiers. Silent, unfeeling and unmerciful, their frantic movements 
+and erratic attack patterns make them unpredictable. They will drop a Pistol when 
+defeated.
+^PAGE 55
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C205. NAZI OFFICER
+	^C00Faster and smarter than the ordinary Nazi soldiers, these guys have deadly-accurate 
+aim and can easily dodge even the most well-placed shots. They will drop a Pistol 
+when defeated.
+^PAGE 56
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C206. NAZI SNIPER
+	^C00These guys silently pick you off from afar and don't stray from their positions, 
+even when under fire. It's best to fight fire with fire against these bruisers. They 
+will drop a Sniper Rifle when defeated.
+^PAGE 57
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C207. NAZI FANATIC
+	^C00These demented souls would rather burn the world to ashes than to see the Third 
+Reich fall. They aren't above tossing a Stielhandt your way, if given the chance. 
+They will drop a Flame Thrower when defeated.
+^PAGE 58
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C208. NAZI SCIENTIST
+	^C00Assistants to ^C80Dr. Schabbs, ^C00these guys like to toss syringes filled with 
+^C80Dr. Schabb's ^C00infamous mutagenic-serum, which will transform you into another 
+one of their undead monsters.
+^PAGE 59
+^G28,16,184
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C209. FAKE HITLER
+	^C00These ^C80Hitler ^C00copies roam the hallways of ^C80Hitler's ^C00 private bunker. 
+A bit more erratic than the standard foes, they will drop a Pistol when defeated.
+
+^PAGE 60
+^G32,16,185
+^C20GAMEPLAY - HOSTILE CHARACTERS
+
+^C2010. IRONCLAD PANZER
+	^C00These mobile killing-machines are capable of taking tremendous amounts of punishment 
+with very little difficulty. They fire twin missiles when attacking, each one enough 
+to leave you a bloody stain if they come into contact with you, they will also explode 
+in a wide radius when defeated, causing you harm, even in death.
+^PAGE 61
+^C20GAMEPLAY - COMBAT
+
+	^C00Combat in ^C30Guns and Glory: ^C80The Story Retold ^C00is a bit different than 
+in the original Wolfenstein in that whereas in the original, firing a weapon would 
+automatically hit any foes directly in front of the player. However, in ^C30Guns 
+and Glory, ^C00All of the game's weapons, except the Sniper Rifle, fire projectiles.
+
+	This means that the player is allowed to dodge attacks that they otherwise, would 
+not have been able to in Wolfenstein. But this works both ways, thus the player must 
+aim more accurately as a result.
+^PAGE 62
+^C20GAMEPLAY - COMBAT
+
+	^C00Each weapon always deals a set amount of damage to a target upon contact. Knowing 
+how much damage each attack does per hit and relating that to the Health of your 
+foes will help you place your shots better and more efficiently.
+
+	If you are having difficulty playing in this style, you should play on ^C20Easy 
+^C00instead. On ^C20Easy, ^C00enemies have about half as much health as they normally 
+would and their attacks do about half as much damage (rounded up with odd amounts 
+of damage).
+^PAGE 63
+^C20GAMEPLAY - COMBAT - WEAPON DAMAGE
+
+^C20KNIFE - ^C004 (normal), 40 (stealth), 20 (berserk)
+^C20PISTOL / MACHINE GUN - ^C005
+^C20FLAME THROWER - ^C003
+^C20SNIPER RIFLE - ^C005 (normal), 50 (stealth)
+^C20STIELHANDT - ^C004 + 16 (explosion)
+^C20OIL DRUM EXPLOSION - ^C0016
+^C20OPEN FLAME - ^C00 1 x infinite
+^C20STEAM JET - ^C001 x 12 (repeatedly)
+^C20MISSILE - ^C0016
+^C20THROWN KNIFE - ^C002
+^C20MUTAGEN SYRINGE - ^C006
+^C20BEAKER - ^C002 + 8 (explosion)
+^PAGE 64
+^C20GAMEPLAY - COMBAT - ENEMY HEALTH
+
+^C20ROTTWIELER - ^C005 E, 10 M, 15 H
+^C20BROWN GUARD - ^C0010 E, 20 M, 30 H
+^C20WHITE OFFICER - ^C0010 E, 20 M, 30 H
+^C20MUTANT - ^C0010 E, 20 M, 30 H
+^C20SCIENTIST - ^C0010 E, 20 M, 30 H
+^C20FANATIC - ^C0010 E, 20 M, 30 H
+^C20SNIPER - ^C0010 E, 20 M, 30 H
+^C20FAKE HITLER - ^C0010 E, 20 M, 30 H
+^C20SCHUTZSTAFFEL - ^C0015 E, 30 M, 45 H
+^C20IRONCLAD PANZER - ^C0050 E, 100 M, 150 H
+^C20BOSSES - ^C00100 E, 200 M, 300 H
+^C20STATIC OBJECTS - ^C001 E, 1 M, 1 H
+^C20SPECIAL FOES - ^C0010000 E, 20000 M, 30000 H
+^PAGE 65
+^G100,16,19
+^C20GAMEPLAY - HELPFUL TIPS
+
+	^C00Having trouble aiming? Press the ^C20X Key ^C00while using the Pistol, Machine 
+Gun, or Sniper Rifle to toggle a Crosshair. If you want to turn off the Crosshair, 
+simply press the ^C20X Key ^C00again.
+
+	Low on health? If your health is 2 or below, you can drink a pool of blood to restore 
+1 health up to a ^Cb0maximum of 3 health.
+^PAGE 66
+^C20THE CONTEST
+
+	^C00In ^C30Guns and Glory: ^C80The Story Retold ^C00you are invited to take place 
+in a contest where you must meet one of 4 seperate requirements. Upon meeting one 
+of those requirements, you must send an email to: ^C20harkodos@gmail.com ^C00with 
+proof that you have met that requirement in the form of either a screenshot (which 
+you can take in-game by pressing the ^C20Tab ^C00and the ^C20P Keys ^C00simultaneously), 
+or by sending in a savegame file, which you can make by saving your game when the 
+requirement is met.
+^PAGE 67
+^G32,16,187
+^C20THE CONTEST
+
+	^C00Upon meeting one of the requirements and proving that you have done so, you 
+will be sent a follow-up email containing a map-editing package so that you can create 
+your own level for a community map-pack to be released alongside other modder's levels. 
+That, and you will also be added to a list alongside other players showing which 
+trophies you have won and in what order you were able to earn them.
+^PAGE 68
+^G32,16,187
+^C20THE CONTEST
+
+	^C00Also, Depending upon how many requirements you are able to achieve, you will 
+be able to make an additional map for the community project for each requirement 
+met up to a maximum of 4 or however many are available depending upon how many people 
+enter in the contest. ^Cb0Contest winners will also be allowed access to a bonus 
+guard not used within the base game for use in however many levels they so choose.
+
+^PAGE 69
+^G32,16,187
+^C20THE CONTEST
+
+	^Cb0The first player to successfully meet all 4 requirements will be rewarded with 
+the opportunity to use a bonus boss enemy not used within the base game in one of 
+their levels.
+	^C00Players are not obligated to enter into the contest if they meet one or more 
+of the requirements, or have their achievements made public in the community project 
+release.
+^PAGE 70
+^G32,16,186
+^C20THE CONTEST - ENTRY REQUIREMENTS
+
+	^C00In order to enter the contest, you must meet one of the 4 following requirements 
+and send in an email confirming so to: ^C20harkodos@gmail.com ^C00along with either 
+a screenshot or savegame file confirming that you have met the requirement.
+	Contest winners may provide a name so that they can be entered into a ^C20Contest 
+Winners ^C00screen in the community map-pack release of ^C30Guns and Glory: ^C80The 
+Story Retold.
+^PAGE 71
+^G32,16,186
+^C20THE CONTEST - ENTRY REQUIREMENTS
+
+^C20COIN TROPHY
+	^C00You can earn this trophy by earning 2,000,000 (2 Million) points.
+
+
+^C20DISKET TROPHY
+	^C00You can earn this trophy by finding the ^Cb0Disket treasure item ^C00and emailing 
+in the secret message contained on the Disket as the topic of the email.
+^PAGE 72
+^G32,16,186
+^C20THE CONTEST - ENTRY REQUIREMENTS
+
+^C20QUESTION MARK TROPHY
+	^C00You can earn this trophy by correctly naming all 32 of the secret ^C20Non-Hostile 
+^C00characters found on level 32.
+^C20FIST TROPHY
+	^C00You can earn this trophy by encountering and confronting the secret boss on 
+level 33. ^Cb0(This trophy can only be earned on ^C20Hard ^Cb0as level 33 cannot 
+be accessed on any other difficulty)
+^PAGE 73
+^G32,16,186
+^C20THE CONTEST - ENTRY REQUIREMENTS
+
+	^C00You can earn Gold variations of the trophies by merely being the first to achieve 
+the requirements. The regular versions of the trophies will be earned by players 
+who meet the requirements after the first person. In the unlikely case that two people 
+meet the requirements at the exact same time, both will be awarded gold trophies.
+
+^PAGE 74
+^C20THE CONTEST
+
+	^C00The contest has no set timelimit or date by which all of the entries must be 
+sent in. However, the contest is first-come first serve, and those who meet the requirements 
+first shall be rewarded first.
+	There are 32 possible spots for maps and individuals who enter in the contest may 
+choose which of those levels they'd like to make a replacement for in the community 
+map-pack release. Maps that are already allotted to other players will be denied 
+to players who meet the requirements later.
+^PAGE 75
+^C20THE CONTEST
+
+	^C00If entries take too long to be sent in or not enough entries are sent in within 
+an acceptable amount of time from the contest's beginning, then the creator of ^C30Guns 
+and Glory: ^C80The Story Retold ^C00or any willing Beta Testers will fill the empty 
+map slots ^Cb0(from 1 to 32. Map 33, which is not open for public modification, shall 
+be replaced by the creator with an all-new challenge map).
+	^C00Maps 34 through 60 are not used within ^C30Guns and Glory ^C00and shall remain 
+empty through the community map-pack release.
+^PAGE 76
+^C20THE CONTEST
+
+	^C00So that's it. Get 2,000,000 points, find the disket, name 32 characters or fight 
+the secret boss and send in a verification email to: ^C20harkodos@gmail.com ^C00to 
+get your name in a hall of fame as well as a map slot in the community map-pack release 
+for each fulfilled requirement.
+
+	Of course, all entries are null and void if sent in on the ^C20Easy ^C00Difficulty. 
+Entries sent in on the ^C20Medium ^C00difficulty will be accepted, but players cannot 
+obtain all 4 trophies unless playing on ^C20Hard.
+^PAGE 77
+^C20RESOURCES - UTILITIES
+
+^C00ChaosEdit ^C20V1.21
+^C00FloEdit II ^C20V2.0.0.5
+^C00Wintex ^C20V4.3
+^C00Slump_Ed ^C20V7
+^C00IMF Creator ^C20V1.0.16
+^C00CodeBlocks ^C20V8.02
+^C00MS Paint ^C20V6.0
+^C00WDC ^C20V1.14.359
+^C00Anvil Studio ^C20V2007.03.02
+^C00TS Midi Editor ^C20V1.0
+^C00Media Player Classic ^C20V1.2.1008.0
+^C00Windows Media Player ^C20V11.0.6001.7010
+^C00Adobe Photoshop CS4 Extended ^C20V11.0
+^PAGE 78
+^C20RESOURCES - UTILITIES
+
+^C00RPG Maker XP ^C20V1.02a
+^C00RPG Maker VX ^C20V1.02
+^C00AOA Audio Extractor ^C20V2.1
+^C00AOA DVD Ripper ^C20V5.2.2
+^C00CDex ^C20V1.51
+^C00GoldWave ^C20V5.65
+^C00iTunes ^C20V9.1.1.12
+^C00TuneBite ^C20V7.1
+^C00Notepad ^C20V6.0
+^C00WordPad ^C20V6.0
+^C00Sound Recorder ^C20V5.1
+^C00Wolf4SDL ^C20V1.6
+^C00Internet Explorer ^C20V8.0.6001.19088
+^PAGE 79
+^C20RESOURCES - SITES
+
+^C00Monkee's Image World
+The Spriter's Resource
+Youtube
+VGMusic
+Google
+www.areyep.com
+DeviantArt
+The Wolfenstein 3D Dome
+DieHardWolfers Forum
+Wikipedia
+Realm667
+Doomworld
+^PAGE 80
+^C20CREDITS - LICENSED COMPANIES
+
+^C20ID SOFTWARE
+	^C00Graphics, Sounds, Music, Themes, Characters, Inspiration, Voices, Code and Game 
+Base
+^C20MONOLITH SOFTWARE
+	^C00Graphics, Characters, Sounds, Themes, Voices
+^C203D REALMS
+	^C00Sounds, Graphics, Music, Themes
+^C20SQUARE ENIX
+	^C00Graphics, Characters, Music, Sounds, Themes, Inspirations, Voices
+^PAGE 81
+^C20CREDITS - COMPANIES AND GAMES
+
+^C20DIGITAL CAFE
+^C20BANJO SOFTWARE
+^C20JAM PRODUCTIONS
+^C20ROGUE ENTERTAINMENT
+^C20SNK
+^C20PSIKYO
+^C20SCYTHE X
+	^C00Graphics
+^C20NAMCO
+^C20NAUGHTY DOG
+	^C00Graphics, Characters, Themes
+^C20ENTERBRAIN INC.
+	^C00Sounds
+^PAGE 82
+^C20CREDITS - COMPANIES, GAMES, AND ARTISTS
+
+^C20INSOMNIAC GAMES
+^C20CAPCOM
+	^C00Characters
+^C20NINTENDO EAD
+	^C00Characters, Graphics
+^C20SKULLTAG
+	^C00Graphics, Themes, Music, Sounds
+^C20NICK PARK, AARDMAN ANIMATIONS
+	^C00Characters, Themes, Sounds, Inspiration
+^C20PAUL ROBERTSON
+	^C00Inspiration
+^C20NIPPON ICHI
+	^C00Graphics
+^PAGE 83
+^C20CREDITS - ACTORS AND VOICE-OVER ARTISTS
+
+^C20CANDI MILO
+	^C00Voices ^C14- Ophelia Ramirez
+^C20ALLISON PILL
+	^C00Voices ^C14- Kim Pine
+^C20DAVE WITTENBERG
+	^C00Voices ^C14- Kefka Palazzo
+^C20GERALD C. RIVERS
+	^C00Voices ^C14- Exdeath
+^C20KEITH SZARABAJKA
+	^C00Voices ^C14- Gilgamesh
+^C20SETH MACFARLANE
+	^C00Characters, Voices ^C14- Peter Hitler
+^PAGE 84
+^C20CREDITS - WOLF MODDERS
+
+^C20AREYEP, MCS
+	^C00Graphics, Sounds, Themes, Characters, Coding, Voices, Areyep.com, The DiehardWolfers 
+Forum
+^C20RIPPER
+	^C00Coding, Wolf4SDL
+^C20SCHABBS
+	^C00Coding, The Wolfenstein 3D Dome
+^C20DEAN
+	^C00Coding, The Wolf3d Blog
+^C20MAJIK MONKEE
+	^C00Voices, Graphics, Themes, Sounds, Monkee's Image World
+^PAGE 85
+^C20CREDITS - WOLF AND DOOM MODDERS
+
+^C20CODETECH, MEGABYTE
+	^C00Graphics, Themes, Coding, Bug Fixing
+^C20SCUBA STEVE
+	^C00Graphics, Themes, Sounds, Inspiration
+^C20HAASBOY SOFTWARE
+^C20LAZ ROJAS
+	^C00Graphics, Sounds, Themes
+^C20NONO
+^C20DOOMJEDI
+	^C00Graphics
+^C20NEMBO
+^C20THE JOSH
+	^C00Themes
+^PAGE 86
+^C20CREDITS - WOLF MODDERS
+
+^C20POET, TRICOB, BROTHERTANK, CHRIS, ADAM BISER, ANDY NONYMOUS, INSURRECTIONMAN, 
+CHIEFREBELANGEL, ZOMBIE PLAN, KUKI, KYLERTCW, RONWOLF1705, HAIR MACHINE, THOMAS, 
+MERTHSOFT
+	^C00Coding tips, Assistance, and Bug fixing
+^C20ALUMIUN
+	^C00Coding, Advanced Sound Manager
+^C20WLHACK
+^C20WSJ
+^C20RINGMAN
+^C20DUGTRIO17
+	^C00Graphics, Coding
+^PAGE 87
+^C20CREDITS - SPRITERS-RESOURCE.COM RIPPERS
+
+^C20SMITHYGCN, CRIMSONPENGUIN, RGAMESINC, GUSSPRINT, TONBERRY2K, CLASSIC JACK, DAZZ 
+& FRET, MR. C, BARUBARY, RYAN914, KENSHIN, AZRAEZEL/DAN, RACCOON SAM
+	^C00For ripping sprite sheets containing objects, characters, and effects
+^PAGE 88
+^C20CREDITS - VGMUSIC.COM MIDI COMPOSERS
+
+^C20CESAR OCASIO, COMICMASTERX, SINCLAIRC, MYSELF, MUSICMAESTRO,JEFFREYATW, DANIEL 
+WRIGHT, PAPER_LUIGI, LOGAN812, KERRE, DERMOT MAC FLANNCHAIDH, TECK, MARK JENSEN, 
+CRYOGEN GLACIEN, ALBERT WESKER, SETZER-, SHADES, KING METEOR, DARIORAMSUS
+	^C00Midi composition from the VGMusic community
+^PAGE 89
+^C20CREDITS - COMPOSERS AND MUSIC GROUPS
+
+^C20BOBBY PRINCE
+	^C00Midi and original Music composition
+^C20NOBUO UEMATSU, YASUNORI MITSUDA, MUTATO MUZIKA, QUEEN, HARRY CHAPIN, BUFFALO 
+SPRINGFIELD, IRON MAIDEN, REM
+	^C00Original song and music composition
+^PAGE 90
+^C20CREDITS - ANIMATORS AND WRITERS
+
+^C20MATT GROENING, JACKSON PUBLICK, DOC HAMMER, STEPHEN HILLENBURG, BRYAN LEE O'MALLEY, 
+JUDD WINICK, JOHN R. DILWORTH, JOHNEN VASQUEZ, CRAIG MCCRACKEN, SAM REGISTER, YUMI 
+YOSHIMURA, DANNO ANTONUCCI, MICHAEL DANTE DIMARTINO, BRYAN KOIETZKO, JOHN KRICFALUSI, 
+TITE KUBO, MATT STONE, TREY PARKER, MITCH SCHHAUER, YOSHIHIRO TOGASHI, DC COMICS, 
+GLEN MURAKAMI, NICK JENNINGS, JED SPINGARN, MITCH WATSON, MATT MAIELLARO, DAVE WILLIS, 
+ALEX TOTH, GENNDY TARTAKOVSKY, VAN PARTIBLE, JOE MURRAY, TOM MCGRATH, ERIC DARNELL 
+-
+^PAGE 91
+^C20CREDITS - ANIMATORS AND WRITERS (CONT'D)
+
+	^C00For a plethora of awesome characters, and a whole mess of years of entertainment!
+
+
+- And of course, to all my friends, family members, and fellow Wolf Modders not mentioned 
+here for over 10 years of Wolf-Modding bliss.
+
+	Here's hoping for another 10, folks!
+^PAGE 92
+^C20CREDITS - BETA TESTERS
+
+^C20DEAN
+	^C00Light testing and feature suggestion
+^C20WOLFERCOOKER
+	^C00Extensive testing and feature suggestion
+^PAGE 93
+^C20EMPTY SPACE ^C14- CHEATS
+
+	^C14If you can read this text, then either the game's Palette has gone to shit or 
+you're cheating and using a text editor to look at this. In any case, you must've 
+gone through some trouble to find this, so here for you, the Cheater, are Guns and 
+Glory: The Story Retold's Cheat Codes.
+
+Commandline Parameter: gloryofguns
+
+Activate Cheats by pressing the BackSpace, LShift, and Alt keys simultaneously.
+^PAGE 94
+^C20EMPTY SPACE ^C14- CHEATS
+
+	^C14Press the G, U, and N keys simultaneously for free stuff, but your score will 
+be reduced to 0.
+
+	Press the Tab, G, and F10 keys to activate GodMode outside Cheat Mode.
+
+	Press the X key to toggle the Crosshair.
+
+	Press the M key to use a medkit if one is in your inventory.
+
+	Press Tab + P to take a screenshot.
+^PAGE 95
+^C20EMPTY SPACE ^C14- CHEATS
+
+	^C14Tab + B = Berserk Mode
+	Tab + C = Count ingame Objects
+	Tab + D = FPS Counter
+	Tab + E = End Level
+	Tab + F = Facing Spot Indicator
+	Tab + G = Godmode
+	Tab + H = Lose Powerups and Items
+	Tab + I = Injure Self
+	Tab + J = Free Junk
+	Tab + K = Give yourself a Key
+	Tab + L = Level Ratios
+	Tab + N = No Clipping
+	Tab + O = Overhead Display
+^PAGE 96
+^C20EMPTY SPACE ^C14- CHEATS
+
+	^C14Tab + Q = Quick Quit
+	Tab + S = Slow Motion
+	Tab + T = Shape Test
+	Tab + U = Get a free Disguise
+	Tab + V = Extra VBLs
+	Tab + W = Warp to a Level (1 - 33)
+	Tab + Y = Initiate Cloudsky Change
+
+	The Disket can be found inside a maze on level 16 after encountering an UberMutant.
+
+
+	The Spear of Destiny is found on level 14.
+^PAGE 97
+^C20EMPTY SPACE ^C14- CHEATS
+
+^C14The Secret elevators are on and lead to:
+
+	1st - Level 2 leads to Level 25
+	2nd - Level 5 leads to Level 26
+	3rd - Level 8 leads to Level 27
+	4th - Level 11 leads to Level 28
+	5th - Level 14 leads to Level 29
+	6th - Level 17 leads to Level 30
+	7th - Level 20 leads to Level 31
+	8th - Level 23 leads to Level 32
+
+	The entrance to level 33 is found on level 24, but only on the Hard difficulty.
+
+^PAGE 98
+^C20EMPTY SPACE ^C14- CHEATS
+
+^C14If you're having trouble naming all 32 of the secret characters on level 32, 
+then email this address:
+
+harkodos@gmail.com
+
+With this as the subject:
+	"Gotta name 'em all!"
+
+	Upon doing so, you'll be sent an origins reference sheet, telling you where the 
+characters come from to assist you. But you'll have to actually name them yourself!
+
+^PAGE 99
+^G32,16,5
+^C20THE JOURNEY BEGINS...
+
+	^C00...Whoops! Sorry about that gap, folks... ^C14(Hehe, Suckers!)
+
+	^C00Anyways, We hope that you'll enjoy the game as much as we enjoyed making it!
+
+
+	Now get in there and split a few Nazi Heads!
+
+	^C14(...Oh crap! Could you read that "Suckers" line?...)
+^E

@@ -1,0 +1,21 @@
+^BCe3^SCe1^ST1^FN1^BX1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 2 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+Good work, Blake! You've disabled Goldfire's ability to collect further data about 
+the earth. This hinders his access to vital knowledge needed to quickly carry out 
+his master plan.
+^EP
+^FC3a^FN1^CEMISSION 2 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+It's reported that Goldfire has a secret underground entrance in the Pan Crevasse. 
+Use the shuttle scanners to locate this entrance to his Underground Network.
+
+Further orders will be communicated upon finding this entrance.
+
+<End Transmission>
+^EP
+^XX...

@@ -1,0 +1,442 @@
+KURLANDFRONT
+A Wolfenstein 3D SDL Total Conversion
+by Tristan ronwolf1705
+
+Welcome to the Kurlandfront!       
+
+"One only honours what one conquers or defends."- Reichsminister Dr. Joseph Goebbels, 1935	
+1942: The Second World War has taken a turn for the worst.	
+Hitler’s Third Reich has conquered all of Europe, from the	
+Atlantic coastlines of France all the way to Moscow.	
+You are B.J. Blaskowitz, British 1st Airborne Infantry	Division. 
+You are selected by His Majesty’s Government to	undertake a special mission behind enemy lines.	
+You are to infiltrate a Nazi secret weapons factory in 	
+Kurland, situated in Reichskommissariat Ostland on the shores of the Southern Baltic. 
+Here you will encounter	many foes, including soldiers of the Schutzstaffel (SS),	
+Sicherheitsdienst (SD) and Wehrmacht (German Army).	
+All these men are dedicated to one single objective --	
+protecting the secret weapons of their Führer from	
+falling into enemy hands! Also, you will ultimately	
+locate and have to assassinate Trans and Hans Grösse,	
+the evil twins overseeing the secret weapons project.	
+
+--------------	
+Thank you for downloading Kurlandfront, a Wolfenstein 3D TC.	
+It is important that you refrain from contacting either 	
+Apogee Software or id Software concerning this modification. 	
+They will not provide you with any support.	
+Kurlandfront is a Wolfenstein 3D Total Conversion add-on	
+featuring 15 new levels, a new SDL EXE file with many code	
+changes and tons of new 128x128 pixel images not seen in	
+other Wolfenstein 3D add-ons. 	
+We hope you enjoy playing Kurlandfront as much as we have	
+enjoyed making it. Please distribute this game as much as you
+can - and if you are a fellow Wolf3D modder, please feel free	
+to use its resources for your own mods.																	Ronwolf1705 & Tristan, 2018
+
+
+ Installing Kurlandfront	
+Setting up Kurlandfront is simple. Just unzip the package 	
+into a new directory; no original game files are required. 	
+You can even unzip Kurlandfront into your WOLF3D directory; 	
+none of your original game files will be overwritten. 	
+To play Kurlandfront, run the file KURLANDFRONT.EXE. 	
+You can run this game from Windows, as we have used the	
+Wolf4SDL environment by Ripper for your gaming pleasure.	
+Select "New Game" from the main menu, choose your preferred 	
+difficulty level from the following screen, and your mission 	
+begins! 
+
+Credits and Thanks	
+Tristan has spent hours and hours of editing WW2 era posters, 	
+128x128 sprites and wall tiles to make this add-on interesting.	
+However, to say that everything was made from scratch would 	
+be untruthful. Many graphics were based upon work by others.	
+We are very grateful for their endeavours, as they helped us 	
+shape the 128x128 Kurlandfront world as it is today.	
+Since it is paramount to give credit where it is due, we would 	
+like to do so here. We hope the following list is complete.	
+If we have forgotten anyone, thanks to you too! ;-)	
+- Original Wolf3D/RTCW/DooM GFX/sounds - iD Software	
+- Original Duke3D/Shadow Warrior GFX - 3D Realms	
+- Original Return to Danger GFX/sounds - FormGen Corp.	
+- Project Totengraeber GFX/sounds - B.J. Rowan	
+- Mac guard base - LkMax	
+- Mac weapons base - LkMax	
+- Mac SS/Officer base - Ringman	
+- Mac Officer recoloring - doomjedi	
+- Snowy plants, trees etc. - Reactor	
+- Various GFX - Laz Rojas	
+- Doom chaingun sprite edit - UnTrustable
+
+  Kurlandfront - the story so far...       
+"Obstacles do not exist to be surrendered to, but only to be broken." 
+- Adolf Hitler, “Mein Kampf”, 1923
+
+Magnitogorsk, Eastern Ural Mountains, 1942AD, December 1st
+As the glittering snow settled on the small window of the former chapel 
+of the Holy Trinity, Joseph Stalin lit his pipe and puffed while pouring 
+over the world map on his desk.While listening to the ticking of the pendulum 
+behind him, he stared at the portrait of Lenin on the wall with a grim face.
+How destiny had forsaken him. He had believed that the 1939 non-aggression pact 
+
+with the German Reich would safeguard the future of his empire; after the German 
+
+Reich's invasion of Poland in September 1939 Russia had joined to reap the spoils.
+
+Poland was effectively annexed by both countries. This was the start for a chain 
+reaction of fateful events.The French-British declaration of war on the German 
+Reich was countered every step of the way. Norway, Denmark, Belgium, the 
+Netherlands and, finally, France fell to their knees for the Germans. On the 
+1st of June 1940, the German Wehrmacht captures more than 337,000 soldiers of 
+the Britsh Expeditionary Force, effectively decapacitating Britain on the European 
+
+continent indefinitely. The sphere of control of the German Reich now stretched 
+
+from Brest in France to Bialystok in the former Polish territories - fate, it 
+seemed, was on the German side.After Roosevelt's defeat in the presidential 
+election late November 1940 by Nazi sympathizer Charles Lindbergh, the United 
+States of America increased its policy of neutrality. The autumn of 1940 
+saw the final shipment of material & goods to the United Kingdom, thereby 
+forcing the British government tocarry on the war on her own strength.
+
+Then, in June 1941 the German Reich invaded the Soviet Union, initiating
+the war on the Eastern Front. Stalin was taken by surprise as he heard the news. 
+
+Since then, everything had happened with dizzying speed. In spite of Britain's mutual    
+assistance treaty with Russia, the reality was that the Soviets were left to fend 
+for 
+themselves. The German tactics were devastatingly effective against a Russian military 
+that lacked good tactics, equipment and will for fighting against the combat-hardened 
+
+German enemy. In many respects Barbarossa was a stunning success as the Germans advanced 
+
+hundreds of miles in just a few weeks and killed or captured several million Soviet 
+troops. 
+Death-defying in attack, advancing at an unconquerable rate of progress, German infantry, 
+
+armored detachments, air force and units of the navy were soon dictating the course 
+of events. 
+As the leaves fell from the trees in September 1941, the Germans had seized an area 
+containing 
+60 percent of the USSR’s coal, iron ore, aluminum, and armaments. Within a few days, 
+it achieved 
+the spectacular encirclement of 685,000 Soviet troops near the towns of Bryansk and 
+Vyazma, 
+about 100 miles west of Moscow. On the 1st of October 1941, the Soviet capital of Moscow came 
+within reach of German artillery. The early winter frost draped a white blanket over 
+the blood 
+of millions of Russian soldiers. Thoroughly alarmed, the Stalin regime evacuated 
+the government 
+behind the Urals as the swastika flag waves over a destroyed Kremlin. Meanwhile Lenin's 
+tomb 
+posed a last stand of Russian defence. Refusing to initiate peace talks, Stalin ordered 
+all 
+his last 18 divisions from Siberia to withdraw to behind the Eastern Ural Mountains, 
+thus 
+effectively abandoning the rest of Russia to the Germans. Finally, a bled-out Moscow surrendered 
+on the 18th of October 1941; the German Reich now held territories spanning over 
+four thousand miles 
+in its iron fist. Hitler's Lebensraum doctrine seemed victorious.
+
+As the German Führer and the Italian Duce met in the bombed-out ruins of Moscow to 
+discuss 
+the finalization of the Eastern Campaign, British PM Churchill had declared to fight 
+on. 
+Addressing the Greater German Reichstag in Berlin, the Führer informed his leaders 
+that the 
+Reich Government needed time to launch a thorough and exhaustive offensive the coming 
+spring. 
+With the vastness of eastern Russia and its demolished infrastructure making transport 
+of 
+army material a hazardous exercise, the German war machine had finally come to a 
+grinding halt. 
+Nevertheless the Führer seemed optimistic about  the impending British-Soviet defeat 
+- 
+he said he had all reason to be. New secret “Wunderwaffe” weapons manufactured in Kurland 
+
+would see to that.A thumping knock on the stainless steel door kicked Joseph Stalin out of 
+his midnight ponderings. "Comrade Stalin, the British assassin is here to see you." 
+
+"Very well Beria, send him in." As he stood up, Stalin looked into the grey-flecked 
+eyes of 
+Captain Wilhelm Johann "B.J."  Blaskowitz, standing at attention as the door was 
+closed and 
+locked behind him. "I apologize for keeping you waiting", Stalin grinned sardonically 
+as he 
+chewed on his pipe stem. "So, Mr. Churchill sends you to help me drive the Germans 
+back to 
+the Atlantic, yes?" Blaskowitz smiled back at Stalin and replied in the same tone. 
+
+"The Prime Minister sends his regards, General Secretary Stalin. Could we get to 
+the point? 
+Time's a luxury you lack, I'd say." Watching closely into the eyes of Blaskowitz, 
+
+Stalin noticed not the slightest emotion. After 2 seconds watching each other, both 
+men 
+knew without words that they could trust each other."I understand that you were born in 
+East Prussia to a German father and a Russian mother," Stalin pondered B.J. nodded, 
+
+clasping his British 1st Airborne Infantry Division cap.
+
+Stalin, sipping his glass of Georgian Kindzmarauli wine, opened a manila document 
+folder 
+on his desk while pointing B.J. to a chair close by. As Blaskowitz sat dow, Stalin 
+started 
+the briefing. "Well now, my British-German friend, the strategical key to getting the 
+
+Germans to back down from my territories lies in Kurland, what the Germans now call 
+
+Reichskommissariat Ostland. Here a secret weapons programme is run by Reich Commissar 
+
+Hans Grösse and his brother Trans to produce heavy water bombs with the power to 
+destroy 
+the Ural Mountains."Stalin paused and looked at his unusual guest, satisfyingly noticing 
+a starting unease in B.J. Blaskowitz's face. "Does the name Hans Grösse mean anything 
+to you, 
+young friend?" Clenching his fist and gritting his teeth, B.J. muttered "I have had 
+dealings 
+with mr. Grösse in the past when I was being incarcerated in Festung Wolfenstein 
+before the war".
+"Well", Stalin smiled, "then I can cut to the chase. The loss of the Kurland programme 
+could push 
+the Reich over the edge into full military retreat. Reversely, failure could mean 
+a swift end to 
+the war in favour of the Reich, as we can't hold out here forever. Time is of the 
+essence and only 
+you can do it." Standing up, B.J. saluted, "Well sir, I will see you in Moscow after 
+my successful 
+completion of the mission." Grinning, Stalin nodded. “If you succeed, my young friend. 
+
+If you succeed.”
+
+Mitau, Reichskommissariat Ostland, 1942AD, December 2nd, 0200hrs
+As B.J. scrambled up from the shores of the Southern Baltic, the parachute with his 
+gear 
+was missing. All he had was the knife and pistol on his person. In the distance, 
+behind 
+the snowy white plains ahead, B.J. heard muffled screams. Officers barking orders, 
+weapons 
+being loaded and cocked, dogs barking; he had heard it all before. Gritting his teeth, 
+he 
+jammed a clip in his trusted Luger P08 9mm and growled under his breath: 
+"Let's root out this Grösse family for good!"
+
+  Level descriptions      
+"It is blood which moves the wheels of history, every step of the way. " 
+- Duce Benito Mussolini, 1914
+
+Kurlandfront’s 15 levels, instead of being arranged in playable episodes as in the 
+original 
+Wolfenstein 3D, are laid out as one continuous seamlessly progressing mission, 
+consisting of several groups or "units" with a common theme.
+
+Levels 1 - 5: Mitau Castle & surroundings
+After being dropped from a Soviet fighter near the shore, your mission begins as 
+you pass 
+through an old castle complex approximately 10 kilometers off the heavy water factory. 
+
+This system of tunnels and old mines is lightly guarded and is mainly used for storage 
+of weaponry. 
+As you pass through these saltmines, you will find the entrance to the tunnel system 
+that leads 
+you to the SS barracks at the middle of the mountain.	
+
+Levels 6 - 10: SS Baracks “Ostland”, Kauen
+A housing complex for the SS guard detachment consisting of a barracks, vehicle maintenance 
+and 
+storage and a staff headquarters building, all grouped around a central parade field 
+used for 
+training and inspection of guards. Grit your teeth and check your gear, because the 
+SS will 
+show you exactly what their blood oath and a machinegun can make them do! From here 
+on out 
+it's on to the factory. That is - if you can get pastSS-Hauptsturmführer Trans Grösse!
+
+Levels 11 - 15: Schwerwasserfabrik Wartheblut, Libau
+Finally you have reached the goal of your mission: Surrounded by a small complex 
+of staff 
+and security buildings, this is the first plant in the world to mass-produce heavy 
+water. 
+The heated environment of the factory will make you sweat - not to mention hordes 
+of SS and 
+Gestapo ready to hunt you down like the dog they take you for! Be advised that Reichskommissar 
+
+Hans Grösse has been entrusted by the Führer to oversee security of the plant - you'll 
+be in 
+for a heartwearming tete-a-tete with this gentleman!
+
+ Playing Kurlandfront	
+Being a Wolfenstein 3D Total Conversion, Kurlandfront is based upon the Wolf3D engine. 
+
+As such, everything works the same as playing Wolfenstein 3D would. 
+You can customize your controls or the size of the screen in the Main Menu.
+Kurland’s enhancements to your playing experience are:
+Health: The amount of damage you can take. The maximum is 100.
+As you are shot or injured, this number decreases. If the number reaches 0, you die. 
+
+Picking up health packs and food increases your health.		
+Ammo and weaponry: You have 5 weapons at your disposal with a maximum of 200 bullets. 
+Fire in the hole!
+
+1: SS Knife (”Ehrendolch”)
+The center of this wide and spear-pointed and 33 cm long blade has a very pronounced 
+rib. 
+This weapon is good for close quarters combat and will not alarm any enemies when 
+you use it. 
+Stealth mode activated!
+
+2: Luger Pistol Model 1908 (P08) Parabellum	
+This toggle-locked recoil-operated semi-automatic pistol will assist you in killing 
+from semi-close 
+and distant range.	
+
+3: MP-40 “Schmeisser” Maschinenpistole
+This submachine gun chambered for the 9×19mm Parabellum	cartridge has a relatively low rate of fire, 
+enabling you to mow down multiple enemies at once. A good friend to have.	
+
+4: Maschinenkarabiner 42(H) chaingun	
+This machine carbine chaingun is basically a soldier’s wet dream - killing adversaries 
+never was 
+so easy. The only real downside to this weapon is it’s appetite for bullets - you will need more 
+ammunition when using this baby, and quick too!	
+
+5: Raketenpanzerbuchse 54 “Panzerschreck” rocket launcher
+This 88 mm calibre anti-tank rocket launcher is a one-shot lightweight infantry anti-tank 
+weapon 
+firing a rocket. Feel like blowing up adversaries? Now’s your chance.
+
+  Playing Kurlandfront      
+"Heroes never die; the soil, by drinking their blood, borns them again." 
+- Ioannis Metaxas, 1927	
+
+Movement
+In Kurlandfront you can run in with guns blazing, use stealth, or a combination of 
+the two. 
+Sprint for a quick burst of speed, lean around corners to get the lay of the land, 
+walk to 
+move silently, and kick to quickly open doors. To successfully complete your missions, 
+
+you have to employ stealth tactics. Going into every situation with more guns than brains will 
+leave you dead on the floor (and out of ammo, too!). Some situations require waiting 
+for the right 
+moment to sneak up behind an enemy or to sneak past unobserved. Some missions are entirely dependent 
+
+on not being spotted. Taking cover will help you stay alive. Hide behind objects 
+and walls and listen 
+for the enemy to reload their weapon or move away. When they do, they are vulnerable.
+
+
+The default control and movement keys are:
+Arrow-keys: Movement (Up, Left, Right, Down)	
+Left CTRL: Attack / fire weapon
+Spacebar: Use / open doors	
+Left Shift: Sprinting
+Esc: Exit / return to Main Menu	
+
+Picking up Items
+Weapons, ammo, treasure, and many other items can be found along the way.
+Pick them up by walking on them. If you can’t pick up the item, you’re either 
+unable to use it or don’t need 	it (such as a health pack when you’re at 100%).	
+Doors	
+Most doors can be opened quickly by pressing the Activate key (Space). 
+Some require either a golden or a silver key to open. 
+You need to find the key in order to open it. 
+
+The Opposition	
+
+You will face fierce resistance in your attempt to complete your mission objective. 
+Watch their tactics to 	learn how to anticipate their actions.	
+Fallschirmjäger
+These German paratroopers are trained in large-scale airborne operations and have 
+come 
+to be known as the 	"grey devils" by the Allied forces they fight against. 
+Famous for their willingness to give every effort unwaveringly even in the grimmest of situations, 
+they	are the most common enemies you will face.	
+
+Waffen-SS (Schutzstaffel)
+The Reich’s elite force, standing tall and with a very	pronounced Aryan arrogance, 
+these highly trained and dedicated National Socialists will teach you how to dance - 
+with their MP-40’s calling the tune!
+
+SturmAbteilung (SA)
+Originaly the National Socialist Party’s paramilitary wing, these friendly fellows 
+are very quick on their 	
+feet - they shoot twice as fast as their Fallschirm counterparts. Steer well clear 
+of these Huns!	
+
+Sicherheitsdienst Offiziere (SD Officers)
+Fast, quick, lean and mean - these aristocrat fiends are tough as nails and shoot to kill. Achtung!
+
+  Kurlandfrunt - Developers’ notes      
+"The war waged today by the German Reich is a war of an immense reform."
+- Reichsminister Dr. Alfred Rosenberg, 1941	
+
+Authors MAY use this modification as a basis for other 	publically available, not-for-profit work, provided they
+inform the authors of any modifications which are made and give the authors credit 
+where it is due.	
+Authors MAY use any of the resources in Kurlandfront (graphics, sounds, etc.) in 
+their own projects without the 
+express permission of the authors. Have fun modding!	You MAY distribute this Wolfenstein modification in any
+electronic format as long as this description file remains intact and unmodified, 
+and is retained along with all 
+of the 	files.	No profit was or is to be made from this Wolfenstein 3-D modification. 
+This modification was made under the terms of the ID Software LIMITED USE SOFTWARE 
+LICENSE AGREEMENT.	
+Wolfenstein 3D, Spear of Destiny and related items are copyrighted since 1992 byID 
+Software, Inc. 
+All other noted products are property of their respective owners. 
+Please visit ID software at: https://www.idsoftware.com. 
+
+ Shout-out	
+We’d like to express our thanks to the following people in the	
+Wolfenstein 3D modding community - in active service, retired	or - unfortunately, in some cases 
+- lost to the Good Lord. We remember you and think of you - you were influential in	
+making possible this add-on, and therefore we are grateful.	
+
+Adam Biser
+Andy_Nonymous
+AReyeP
+Arielus
+AlumiuN
+Barry Christian
+Brian Lowe
+Brian Rowan
+Brothertank
+Chris Chokan
+Codetech84
+DarkOne
+doomjedi
+Dugtrio17
+Florian Stöhr
+Gary Ragland
+Harry Sr.
+Ian Franken
+John Bucksnort
+Kenny Riley
+Majik Monkee
+Martin Krysiak
+MCS Amsterdam(LaChouffe!!!)
+Paal Olstad
+Richter Belmont
+Ripper
+TheTalentedMrLeo
+Thomas Weiling
+Tricob
+WLHack
+Wolf Skevos Jones
+Zach Higgins	
+
+And ofcourse we are eternally indebted to ID Software.	
+Originally released on May 5, 1992, Wolfenstein 3D is and has	
+been widely regarded as having helped popularize the 	
+first-person shooter genre and establishing the standard of 	
+fast-paced action and technical prowess. Now, 26 years later,	
+we dedicate this Total Conversion to you - thanks a lot!	
+Finally, last but not least, we’d like to thank our families.	
+Keeping up with us during the time-consuming task of making	
+Kurlandfront for you to enjoy must’ve been quite a task.	
+Keep on Wolfing and remember - this is about fun, NOT about	
+endorsing or condoning Nazism. Shoot ‘em down!	
+
+Thanks for playing! Tristan & ronwolf1705, the Netherlands, July 2018

@@ -1,0 +1,104 @@
+[The Ultimate Evil. A Wolfenstein3d Adventure game by, Dark-Design.]
+[Visit us at: www.dark-design.cjb.net]
+
+::Introduction::
+Hails.
+My name is Raziel and I'm a 18 years old from israel (unfortunetly..) anyway.. This 
+game was made me
+Raziel, or Human_Waste or whatever you want to call me.. This is my FIRST TC so dont 
+expect something
+Uber cool.. Because you just wont.. I want to thank all the guys that helped me with 
+my Source-Code problems..
+And a BIG thanks for the guys at ID SOFTWARE who made this awsome game including 
+some other ones...
+And of course, for releasing the Wolfenstein3D Source-Code.
+
+::Story::
+Germany 1944, europe is still raging with the flames of everlasting war.
+It seems that this war will never end. Lots of casualties from both sides.
+And rumors of inhuman acts by the Germans are wondering around everywhere.
+Stories from the battleffields telling that the Germans have a secret weapon
+Some kind of Cyborglike beings mixed with human parts... 
+Even stories from the wounded Allied soldiers about weird beings that armored like 
+tanks,
+And almost invincible... Some kind of mutants they say... A tale about Hitler's top 
+doctor...
+Yes, you got it right.. Dr. Schabbs himself! 
+There are too many horrifying stories about this guy... Than I guess those stories 
+are not a fiction at all,
+And Dr. Schabbs does exist... Someone gotta put a stop to this madness and fast.
+
+Before something terrible will happen and will change the face of the earth as we 
+know it..
+
+And there is only one man that is capable of doing this mission with full success..
+
+You play as Major Winters! A former paratrooper and now the commander of the 55th
+
+Commando Squad (or something like that..) 
+Your mission is to infiltrate the compound which Dr. Schabbs uses for his Laboratory.
+
+Be aware that the castle is lurking with his Soldiers and his personal Body Guards.
+
+Clean the castle out of those mutants/cyborgs and last but not least,
+Eliminate General Gruber von Hertz. 
+
+Be careful out there M. Winters, and god speed!
+Now go get em' ! (if you think this storu stinks... I DONT CARE! :) )
+
+::Credits::
+- Orginal Game + Source Release - ID SOFTWARE (THANKS!!)
+- Graphics - W.S.J. / Areyep / Majik Monkee / Others
+- Sounds - W.S.J. /  Totengraber TC (If I remember correctly..)
+- Story Line - Me (Human_Waste)
+- Levels - Me
+- Music - Some Pure Blasphemous BlackMetal Artists! and of course Bobby Prince
+- Coding Tutorials - Chris / TexZK / W.S.J. / Brother Tank / Poet / MCS / Dugtrio17 
+/ Others
+
+::Music Used (Changed)::
+- Tal Kedem (my good friend :) ) - Pathetic Excuse (Opening Music)
+- Burzum - The Crying Orc (Hall of Fame)
+- Graveland - The Gates to the Kingdom of Darkness (Menu)
+- Graveland - Hordes of Empire (Level#1)
+- Graveland - The Night of Fullmoon (Level#2)
+- Cannibal Corpse - Addicted to Vaginal Skin (Level#3) *(Edited Version)
+- Cannibal Corpse - Dead Human Collection (Level#4) *(Edited Version)
+- The Rest of the Levels Will Use the Orginal Music -
+
+::Source-Code Changes::
+- New Floor/Ceiling Colors
+- Added 25 Ammo Box (replacing the Suite of Armor)
+- Added In-Game Messages
+- SS Drops his Mp-40 Everytime he gets Killed
+- Changed the Difficulties names
+- Taking Screenshots Inside wolf
+- Gun Bobbing
+- Changed the Cheats (find out for yourself :) ) 
+- Adjusting Player Speed by Chosen Weapon
+- Changed the DogFood into a Backpack item (like in doom)
+- Seamless level progression (improved version)
+- Changed the Levels amount to 19
+- Changed the amount of life and ammo (life:200 ammo:350)
+- Added a End Level Trigger
+- Added 2 New Digital Sounds...
+- and more...
+
+::Known Bugs?::
+-Dont wait too see the demo playes.. The game will crash...
+-I really dont know if there are more of those annoying bugs. If you find one than 
+Email me. Thanks.
+
+::Conclusion::
+I would like to thanks everyone in the community that helped me. 
+And of course a GREAT thanks to ID SOFTWARE
+The company that made the ORGINAL Wolfenstein3d and some other cool games! (Dejavu...?)
+
+If you got any comment/complaint please contact me at: Gt_suicidalRitual@hotmail.com
+
+
+[Thank you for downloading my game.] :))
+
+
+
+

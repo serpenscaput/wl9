@@ -1,0 +1,40 @@
+WLFbel2.DOC file.
+
+
+WLFbel2.ZIP - by Brian E. Lowe
+Sixty new levels for the full 60 level registered set of Wolfenstein 3D
+(PC and Acorn/Archimedes version)
+
+Firstly, my thanks to all those who contributed to the original Wolf3D, and its  
+map editor.  Also to RISC USER of St. Albans, England, who made the Acorn version 
+available again.  (This time without having to insert the diskette).
+
+WLFbel2.ZIP contains 3 files GAMEMAPS.WL6 and MAPHEAD.WL6, plus this document file 
+WLFbel2.DOC.
+
+Users may freely distribute these 3 files (or the ZIP file),  on a non-profit basis. 
+ However, please do not distribute them (or the ZIP file), with any other files. 
+ Users must have the original Wolf3D 60 level set to play this set.
+
+These levels should be played with the original VSWAP.WL6 file.  Acorn/Archimedes 
+users can get this from my first WolfBel set
+I didn't alter any of the objects/walls etc.  I find one of the reasons that the 
+game is so compelling is the atmosphere of the Nazi era.  (Now that it's gone, that 
+is.  It obviously wasn't very nice at the time). 
+All new secret doors are obvious.  (eg, a Hitler portrait, an alcove, or a space 
+between 2 plants etc).  
+ 
+Acorn/Archimedes users may be aware of bugs in previous alternate level sets.  Passages 
+which get blocked off - walls which disappear.  Sometimes a level wouldn't play at 
+all.  All these levels have been tested on an Acorn 3010 and play OK.
+
+Please send any comments to my e-mail address at
+brian@brlowe.globalnet.co.uk.
+
+My web-site URL is http://www.users.globalnet.co.uk/~brlowe.
+
+Brian E. Lowe
+October 24, 1998.
+
+
+

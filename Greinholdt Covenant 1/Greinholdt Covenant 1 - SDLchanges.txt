@@ -1,0 +1,25 @@
+The Greinholdt Covenant 1 by John Bucksnort (spear mod)
+original DOS release: 03 February 2001
+
+Spear of Destiny (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+New EXE for DOS based on Wolf3d source by id Software
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Spear of Destiny
+Unique SDL config and saved game names
+
+Both SDL and DOS EXEs contain:
+
+Spear of Destiny signon screen
+Pushwalls always move 3 spaces
+Endgame ratios adjusted for 9 levels
+Increased actor and static object limits slightly
+Corrected Angel of Death level indicator
+No boss end level messages
+Tab+S to toggle hitwall/spacebar sounds
+
+Additional tweaks to EXE to overcome mapping errors:
+
+Extended player reach in level 2 room to acquire blocked-off chalice
+Changed level 3 door spawn order to eliminate unintentional invisible barrier

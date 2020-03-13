@@ -1,0 +1,76 @@
+Tankstein - VERSION 1.0 (May 2000)
+
+Game type:  Concept Wolfenstein Game (You'll understand the "concept" style, playing 
+the game)
+
+Episode: 1-6
+1: Tank
+2: Winter
+3: Afrika
+4: Night
+5: Labyrinth
+6: Tankfinal
+
+Level #: 60
+Single player:  Yes
+Difficulty settings:  1.
+New Sounds:  Yes
+New Graphics:  Yes
+New Music:  No
+
+*Construction*
+--------------
+
+
+
+Editor(s) used: 
+	Graphics	-	Wolfedit, Paint Shop Pro 6, FloEdit, ThumbsPlus 3.30
+	Levels		-	Mapedit
+	Sound		-	Wolfsnd, Sound Forge
+
+
+Build time:  About 3 months
+
+Known bugs:  Hidden holes in some walls; other bugs made for special 
+	     effects.
+
+Level designers:  Paul & Peter C.
+
+Graphics: Paul C.
+
+Beta tester: Mary I.
+	   
+*Installation*
+--------------
+
+Unzip the file, run the game. Try it without cheating: it's more funny! But if you 
+like
+cheats, add the -goobers string.
+
+
+*Special Features*
+------------------
+
+Tankstein has some new innovations. Above all:
+
+	-Flying birds
+	-New Pic Menu 
+	-New VGAGRAPH images 
+	-Tanks!!!
+	
+
+--------------------------------
+
+*Next releases*
+------------------
+
+Tankstein II (summer 2000)	
+
+--------------------------------
+
+DON'T USE THIS GAME AS A BASE FOR YOUR OWN! But if you like send the file to all
+
+Wolfenstein fan that you know!
+
+Wolfenstein is a registered trademark of Id Software. All the editors listed
+above are copyright of their respective owners. 

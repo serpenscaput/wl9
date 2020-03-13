@@ -1,0 +1,613 @@
+^PAGE 1
+^ccfINTRODUCTION
+^c00
+Thanks for downloading this. First, we would like to give Ripper a special thanks 
+for all the assistance at die-hardwolfers.com and by creating wolf4sdl. Everyone 
+now can create mods far better due to the virtually unlimited memory.  
+^PAGE 2
+^ccfINTRODUCTION
+^c00
+About this game: it's based on our previous one. We made several huge levels to make 
+you really enjoy the feel of the game. It has more levels than our other game, as 
+the quantity of enemies demanded it.
+
+This one is more like an improved version. It has everything from the past game plus 
+many new features. We hope you like it.
+
+
+
+
+
+
+^PAGE 3
+^ccfABOUT WELTGERICHT
+^c00
+We kept ourselves informed about how people reacted to our game, and we are happy 
+as most part of wolfers liked it. Of course, we also had people complaining. So now 
+this section is to talk about that.
+
+^c96Moving chain- ^c00someone said that this chain doesn't suit very well in the 
+game, as it never stops moving and creates an unreal atmosphere. Unfortunately, to 
+make it moves periodically, we would have to make like a pacman. In other words, 
+would be an enemy instead of a object.
+
+
+
+
+^PAGE 4
+^ccfABOUT WELTGERICHT
+^c00
+Memory was a problem, we couldn't use it for minor things. And even now, thinking 
+about it, that chain is cool. 
+
+^c96Outside areas floor bug- ^c00Well, that was a mistake. Our monitor was old and 
+dark, and as it was on a upper corner, we didn't see that until someone mentioned. 
+Sorry for everyone who suffered with it.
+^PAGE 5
+^ccfABOUT WELTGERICHT
+
+^c96Teleporters- ^c00Too many teleportes...that's true. Actually I saw my brother 
+designing the first level, using 2 or 3 teleporters. I didn't like it, but he didn't 
+wanna change, so we made all levels full of teleporters to have a different level 
+design. We should have introduced them on later levels to create several level designs. 
+This time we made them thinking on it, and teleporters were used less often.
+
+^PAGE 6
+^ccfABOUT WELTGERICHT
+
+^c96Mini boss- ^c00There is a guard that replaces Hans  who uses 2 MP40s on Weltgericht. 
+Actually, we didn't receive any e-mail complaining about it, but we didn't like the 
+way we used this guy. As he doesn't use a chain gun, he doesn't drop ammo for it, 
+what makes it a very annoying enemy, if you must kill him all the time. We also used 
+him less often this time, and that's the reason why we brought the old chain gunners 
+back. 
+
+^PAGE 7
+^ccfABOUT WELTGERICHT
+
+^c96MLI Cheat Code- ^c00Some people sent us e-mails asking for a version of the game 
+with the cheat code enabled. We denied all requests. Weltgericht was made, like this 
+one, to be played in a fair way. Maybe you don't like to cheat with codes, what is 
+good, but if you know that it exists, you won't, sometimes, resist and will use it. 
+
+
+Some people like to beat the game and play a second time cheating. If you like to 
+have a easy gameplay, choose the easiest difficulty.
+^PAGE 8
+^ccfABOUT WELTGERICHT
+
+^c96MLI Cheat Code- ^c00Some people also wanted to use it to find secret levels easier. 
+They are called "secret" for a reason, oh yeah. There will be more details about 
+them on the proper section.
+^PAGE 9
+^ccfABOUT WELTGERICHT
+^c00
+We appreciate all e-mails from the community. Please contact us if you want to say 
+anything. Just don't ask for a game with MLI cheat code. Thank you all.
+^PAGE 10
+^ccfSTORY
+^c00
+In your last mission, you had to fight two powerful demons that you had already defeated 
+in past missions. Once you acquired the black spear, both of them appeared, more 
+powerful than before.
+
+All that nazis have now is their main castle. Although the laboratories were bombed, 
+we are sure that their experiments are still being created.
+^PAGE 11
+^ccfSTORY
+^c00
+The main installation now seems to be poorly guarded in the outside areas, what probably 
+means it will be heavily guarded by inside.
+
+From above, we can see the top of the castle. Would be easy to simple blow it up, 
+but we can't approach the place without the missile launchers trying to destroy our 
+planes. Besides that, we don't know if there is any kind of mass destruction weapons 
+or nuclear bombs inside there.
+^PAGE 12
+^ccfSTORY
+^c00
+This mission is important. We just discovered that, somehow, Dr. Schabbs survived 
+your assault long time ago, probably using one of his chemicals. So this is your 
+first objective: find and kill him.
+
+That shouldn't be hard. If he is alive, the doctor will try to deal with you to protect 
+his creations. But be warned: Schabbs wouldn't be fool enough to try the same thing 
+to kill you. He may have a surprise for you.
+
+^PAGE 13
+^ccfSTORY
+^c00
+Also, the spear of destiny's keeper seems to be alive too, as we got reports of a 
+huge man in a black armor that was exterminating some of Allies' soldiers.
+
+If that's true, don't be scared. You already defeated him once, and with that heavy 
+armor there's nothing he can do to surprise you. Simple be sure he will lie down 
+permanently this time.
+^PAGE 14
+^ccfSTORY
+^c00
+We still have more problems. Like always, nazis always find a new leader for their 
+operations, but this time, since the bald guy was killed, we don't know of any. It's 
+very possible that some creature is now controlling the nazi operations, maybe created 
+by Schabbs' scientists or a truly demon. 
+
+In any case, you'd better be prepared to face some creatures in your way. Nazis' 
+forces are almost totally finished, they won't miss any opportunity to kill the one
+
+^PAGE 15
+^ccfSTORY
+^c00
+who screwed up their plans so many times. We can say that Schabbs' scientists reactivated 
+and improved some old projects to be sure no one will stand in their way.
+
+In few words, your mission is to sneak into the giant castle, assassinate Schabbs, 
+kill all monsters and creatures you can and reach the top floor. Once you are there, 
+our scouts will know you suceeded in the mission, and the war will be over in a few 
+days. Good luck there!
+^PAGE 16
+^ccfDEMONIC TREASURES
+^G30,10,30
+^c00
+Those evil treasures were stolen by nazis from the ancient temple. They got a plenty 
+of them and stored by all the castle. Each one of them has a bad consequence, although 
+they grant a more generous score, considering they are not that rare. But keep in 
+mind you'll have to make sacrifices in order to get them all.
+^PAGE 17
+^ccfARTIFACTS
+^G30,10,31
+^c00
+There are eight artifacts created by both spears. With ambition, evil thinkings, 
+seeking for power and destruction, and also with hope, good thinkings and wishes 
+of peace, those artifacts were created to suit better what the possessor of the spears 
+wanted.
+^PAGE 18
+^ccfARTIFACTS
+
+^G30,10,31
+^cffArtifact of Displacement- ^c00Used to move quick around the complex and reach 
+places that would take much longer without these artifacts. Nazis also used them 
+in their castle in strategic ways to make your journey harder.
+
+^PAGE 19
+^ccfARTIFACTS
+
+^G30,10,31
+^c84Artifact of Life- ^c00You will have your health recovered to 100%, gain an extra 
+life and a few ammunition. This may come in handy in hard situations, but they can't 
+be found easily. Try to search for secrets if you need some extra health.
+^PAGE 20
+^ccfARTIFACTS
+
+^G30,10,31
+^c4aArtifact of Invincibility- ^c00By touching it, you won't be harmed by any kind 
+of enemy in next 30 seconds. Keep in mind that the invicibility is not cumulative, 
+in case you find 2 or more of those artifacts. Also, it won't protect you from death 
+in case you touch a death artifact.
+^PAGE 21
+^ccfARTIFACTS
+
+^G30,10,31
+^c67Artifact of Healing- ^c00Those ones are as useful as they are rare. They are 
+eternal. Artifacts of healing can heal you up to 50% of health, but you can use them 
+as many times as you want. It may be risky to keep walking around with 50% or less 
+health, but is always good to have an endless supply of life.
+^PAGE 22
+^ccfARTIFACTS
+
+^G30,10,31
+^c25Artifact of Rage- ^c00Made of pure wish for fight and blood. They became more 
+powerful than before. Now you'll always kill a enemy with a single knife stab. Although 
+it's a very good thing, you must know how to use it, as nazis can kill you easily 
+before you can reach them.
+^PAGE23
+^ccfARTIFACTS
+
+^G30,10,31
+^c7cArtifact of Decay- ^c00You may be doomed with them. By touching it, your life 
+will start decreasing,few by few, acting like a poison. If you touch another one, 
+this poison will get stronger. By touching a third artifact, you will die instantly. 
+You can get rid of its effects by taking any health items. Also, invincibility won't 
+protect you from this evil orb.
+^PAGE 24
+^ccfARTIFACTS
+
+^G30,10,31
+^c00Artifact of Death- Like the name says, you simple die by touching it. Artifacts 
+of invincibility won't save you this time. It doesn't mean you can't handle this 
+problem.
+^PAGE 25
+^ccfARTIFACTS
+
+^G30,10,31
+^c8fHoly Cross- ^c00A nice item that will save your life. When you find it, you'll 
+be able to neutralize an artifact of death without dying, although you will lose 
+the cross as well. You'll be warned when you lose your last holy cross.
+
+NoTe:The crosses you get in a level won't go with you to the next one.
+^PAGE 26
+^ccfSECRET LEVELS
+^c00
+The game have 4 secret levels. We think it's so lame make levels that won't be played 
+by most part of players, but we also want the secret levels to remain "secret". So, 
+to solve this problem, we made them a bit more obvious. But is not because you know 
+where is the secret level entrance that will be easier to get into it. You'll see.
+
+^PAGE 27
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c18Wermacht Guard- ^c00They are always the same thing. You shouldn't have much trouble 
+with them.
+HP: 25
+^PAGE 28
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c00SS Soldier- ^c00Stronger soldiers, carry a machine gun.
+HP: 100
+^PAGE 29
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c6bMutant- ^c00Undead and berserker soldiers. Shoots very fast with their mounted 
+pistol.
+HP: 55
+^PAGE 30
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c00Officer- ^c00Let's say they are the guard's improved version.
+HP: 50
+^PAGE 31
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c1aWaffen SS- ^c00Strongest class of SS soldiers. They carry a STEN SMG, what makes 
+them quite more dangerous.
+HP: 145
+^PAGE 32
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^cd4Clone- ^c00They are like mutants, but will explode themselves just before death. 
+You must be at least 2 meters away to don't get hit.
+HP: 55
+^PAGE 33
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c3aScientist- ^c00Officers who also dedicate their lives to the science, working 
+under Schabbs' command now.
+HP: 40	
+^PAGE34
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c6cHigh Ranking Officer- ^c00They are the elite among the officers. They are veterans 
+and awarded several medals for being cool. 
+HP: 90	
+^PAGE35
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c23Doctor- ^c00Old guys are unable to make a good fight. So they spend their time 
+creating creatures for nazis, and can attack you with their syringes.
+HP: 35	
+^PAGE 36
+^ccfKNOWN ENEMIES
+^G30,10,32
+
+
+
+
+
+
+
+^c69Mutant Guard- ^c00Guards that have been submitted to Schabbs' serum before death. 
+Their resistance to bullets increased and they feel no pain.
+HP: 120	
+^PAGE 37
+^ccfKNOWN ENEMIES
+^G30,10,33
+
+
+
+
+
+
+
+^c69Mutant SS- ^c00SS soldiers that have been submitted to Schabbs' serum before 
+death. Their resistance to bullets increased a lot.
+HP: 300
+^PAGE 38
+^ccfKNOWN ENEMIES
+^G30,10,33
+
+
+
+
+
+
+
+^c00 SS Sergeant- ^c00This guy was elected one of the game's favorite enemies. So 
+he is here and will say hi: Hi.
+HP: 350
+^PAGE 39
+^ccfKNOWN ENEMIES
+^G30,10,33
+
+
+
+
+
+
+
+^cd4Golem- ^c00An ancient monster that has been awaken after the ancient temple's 
+invasion. Somehow they are allied to nazis now. They attack with slow and weak fire 
+balls.
+HP: 300
+^PAGE 40
+^ccfKNOWN ENEMIES
+^G30,10,33
+
+
+
+
+
+
+
+^c19Mutantuber- ^c00An improved version of the mutants, used by nazis as bodyguards 
+against the hell creatures. 
+HP: 500
+^PAGE 41
+^ccfKNOWN ENEMIES
+^G30,10,33
+
+
+
+
+
+
+
+^c3cBaron of Hell- ^c00These creatures doesn't serve anyone. Although they are along 
+the castle, you can be sure they are not working with nazis.
+HP: 1500
+^PAGE 42
+^ccfKNOWN ENEMIES
+^G30,10,33
+
+
+
+
+
+
+
+^ca5Hellknight- ^c00A weaker version of Barons. Their projectile is slower and causes 
+less damage. 
+HP: 500
+^PAGE 43
+^ccfKNOWN ENEMIES
+^G30,10,34
+
+
+
+
+
+
+
+^ccaUnit MNC88- ^c00Abominations created using the spear's power plus some new tecnology. 
+Watch out for their missiles shower.
+HP: 950
+^PAGE 44
+^ccfKNOWN ENEMIES
+^G30,10,34
+
+
+
+
+
+
+
+^cd6Unit PNE00- ^c00The black spear created them as living portals to hell. They 
+can spit flaming skulls. When they die, they can release their energy or the remaining 
+skulls in their mouth. 
+HP: 525
+^PAGE 45
+^ccfKNOWN ENEMIES
+^G30,10,34
+
+
+
+
+
+
+
+^c17Otrebor- ^c00Creations also made for the temple invasion. With their suit, they 
+would be protected from any contamination. They are now better with their weapons 
+than before.
+HP: 600
+^PAGE 46
+^ccfKNOWN ENEMIES
+^G30,10,34
+
+
+
+
+
+
+
+^c6aUbermutant- ^c00Schabbs has already started a mass production of these mutants. 
+They walk fast and can be tricky.
+HP: 900
+
+^PAGE 47
+^ccfKNOWN ENEMIES
+^G30,10,35
+
+
+
+
+
+
+
+^c00SS Captain- ^c00Elected the second coolest enemy of the game. They still the 
+same thing: two chain guns, same trouble. 
+HP:850
+^PAGE 48
+^ccfKNOWN ENEMIES
+^G30,10,35
+
+
+
+
+
+
+
+^c26Hellkeeper- ^c00With the temple abandoned, they were the only creatures left 
+behind as guardians of the place. They punch you.  
+HP:550
+^PAGE 49
+^ccfKNOWN ENEMIES
+^G30,10,35
+
+
+
+
+
+
+
+^c3fHunter- ^c00Belongs to a superior class of demons. Hunters used to be leaders 
+over most creatures. They are fast and have a great physical strenght.
+HP:2400
+^PAGE 49B
+^ccfKNOWN ENEMIES
+^G30,10,91
+^c00
+Nazis were working on a secret project to create an extremely dangerous killing machine. 
+This is the result. It's not a regular enemy. You won't see it anywhere except in 
+secret areas, protecting some worthy stuff. But be prepared. It will be a hard fight.
+
+HP: N/A
+^PAGE 50
+^ccfDIFFICULTY LEVELS
+^c00
+We noticed that all difficulty levels (except the easiest one) is exactly the same 
+thing, except by the increased quantity of enemies.
+To make them a bit more different, we made a few changes.
+
+^cabCan I play, daddy?- ^c00This one remains the same. Enemies won't damage you very 
+much.
+
+^cabDon't hurt me- ^c00On this one, all health items will grant you a few more health 
+
+^PAGE 50
+^ccfDIFFICULTY LEVELS
+^c00
+points. Like this, it will be easier to play on this difficulty than the other two 
+harder ones, but will be quite harder than "can I play, daddy?".
+
+^cabBring'em on- ^c00Same as before, but the extra health is suspended. 
+
+^cabI am Death Incarnate- ^c00Enemies are tougher here than in other difficulties. 
+You must be prepared to use your knife sometimes if you wanna play here.
+^PAGE 50
+^ccfIMPORTANT TO KNOW
+^c00
+There are some features that are important to know before playing. 
+
+^c92Destructible objects- ^c00Among them, we have the classic pillar and explosive 
+barrel. Remember to try shoot them if you can't find the exit. They may, sometimes, 
+hide a secret area also. Do not stay close to barrels when you explode them, or you 
+can die.
+^PAGE 50
+^ccfIMPORTANT TO KNOW
+^c00
+^c92Health items- ^c00You can have a maximum of 150% of health in this game. But 
+the only item that can grant you more health than 100% is the ^c6agreen dope, ^c00dropped 
+by doctors, and the wild mushroom, found in outdoor areas.
+The ^c27red dope ^c00will grant you health if it is below than 50%, otherwise it 
+will damage you. If you get damaged, you won't get rid of the effects of an artifact 
+of decay.
+The ^cd5wild mushroom ^c00will damage or grant you health randomly, so be warned 
+before taking it.
+^PAGE
+^ccfWARNING
+^c00
+-If, when you start the game, the palette gets screwed and everything gets slow, 
+is because you may have too many things or a heavy program opened. Try close them 
+and it will get back to normal.
+
+-Sometimes, the screen gets screwed after a level where shading is enabled. To fix 
+this, just change the resolution to any other setting and all will be cool again.
+
+^PAGE 
+^ccfTOOLS USED
+^c00
+^c87FloEdit- ^c00new graphics, sounds, general test of code changes
+^c87WDC- ^c00ReadThis making, audiot file correction
+^c87ChaosEdit- ^c00mapping
+^c87SoundForge- ^c00sound changes
+^c87Paint- ^c00minor graphics changes
+^c87RecBMP- ^c00graphics recoloration
+^c87Dev C++- ^c00code compilation
+^PAGE 
+^ccfSPECIAL THANKS
+^c00
+WSJ, Kuki, Paal Olstad, Brian Lowe, Ripper, MCS, Chris, CodeTech, Luke Strauman, 
+Sonny McDonald, Harry Mason, Jason Cosper, Maple Makinnen, Professor L., chicken 
+nuggets, Mortimer 
+^E

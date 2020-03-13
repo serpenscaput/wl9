@@ -1,0 +1,38 @@
+This is only a demo version of Missing in action. The full version
+will be avalible soon.The guns will be further changed and the enemies 
+also in the final version.I dont mind people using the images from this
+game as long as they credit me. If you have made an improvement on my
+game, contact me and I'll include it if its good enough in the final 
+version giving you credit.Included is wolfedit and mapedit.
+
+Yarrick5@hotmail.com
+
+Note : Most of the images in this game are original , but there are a 
+few exceptions:
+
+1) the tank boss in the demo is a modified tank from luke struassmans
+wolfenstein special edition.
+
+
+2)My new chaingun is a heavily modified gun from perfection darkenstein
+by Kody ? but i assure you that it is almost totally different in every
+way. I'm only including this because without seeing the gun, i could 
+never have modified it for better or worse.
+
+
+New features in the Demo :
+
+' All new weapons, fist, sniper rifle, m-50 and the Chaincannon
+' Some new enemies - wehrmacht military police (modified zombies)
+' New objects - captured allied soldiers
+' New maps - Six test maps in the demo ( all easy but will be modified)
+' New sounds - various
+
+The finished game will be out soon and will be greatly improved, so 
+dont base your opinion on this( but if you like it, hey.....).I'm still 
+trying to work the damn source code as well..................
+
+Thanks,
+
+David Nevin
+Yarrick5@hotmail.com        

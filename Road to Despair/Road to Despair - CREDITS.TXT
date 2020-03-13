@@ -1,0 +1,117 @@
+CREDITS
+
+Graphics
+
+Wolf Skevos-Jones:
+Waffen-SS sprites, chaingun pickup sprite, clip sprite, grey-suited boss w/ rocket 
+launcher and chaingun sprites, boot-wearing B.J. Blazcowicz seen in HELPART, castle 
+scene with ligtning bolt in HELPART, 
+
+FormGen Corporation:
+Various LE sprites and walls used unmodified or modified in TRTD
+
+Laz Rojas:
+Doors, pistol SS guy
+
+Sam Feichter:
+Converting the pistol SS guy from WolfenDOOM to Wolf 3D
+
+ArEyeP:
+Certain walls, filing cabinet sprite, desk sprite, cardboard box sprite, treasure 
+sprites, between-level screen letters, numbers, etc. (some recolored),
+
+ID Software:
+Amy original graphics or stuff taken from Spear of Destiny or DOOM or whatever
+
+John Bucksnort:
+Skull doors
+
+Ben Blaufarb:
+Security guard sprites, staus bar digits (recolored for TRTD), loading screen (also 
+recolored), Gatling gun in-game sprites
+
+The creator of Return of Doctor Schabbs:
+Black/white marble walls
+
+Apogee Software:
+Pistol sprites
+
+Tristan van Putten: 
+Various blue walls, blue ceiling lights, blue Demo sign, blue key, blue-clad hanging 
+skeleton, blue-suited B.J. Blazkowicz sprites, blue ammo box, blue HELPART borders, 
+modified dark gray stone and sewer brick wall textures, blue elevator walls (needless 
+to say, he loves the color blue)
+
+Nayt Smith:
+Hitler statue sprite
+
+Spifferaneous:
+Sink sprite, Übermutant sprites
+
+B.J. Rowan:
+Any of his stuff left untouched or modified in TRTD
+
+Some guy whose name I forgot:
+Landscape walls, cobweb sprites.
+ 
+Sounds
+
+Nate Smith:
+Gatling gun sound
+
+FormGen Corporation:
+Various Lost Episode sounds
+
+Ben Blaufarb:
+Now what sound(s) did I borrow from him? I forgot...
+
+Laz Rojas:
+Waffen-SS sounds, Security Guard alert sound, "Yeah" sound
+
+B.J. Rowan (from Conflict in the Fatherland):
+Pistol sound, any original sounds from PT
+
+MacPlay Entertainment:
+Chaingun guy alert sound
+
+Wolf Skevos-Jones:
+Assault Rifle Sound, mutant death sound, Dr. Sebastian Krist sounds
+
+Special Thanks
+
+Brian "Mr. Lowe" Lowe:
+Hosting my add-ons, general 1337-ness
+
+Barry Christian:
+Hosted my first beta, gave me a four-star-out-of five review on it <g>
+
+B.J. Rowan:
+Project Totengraeber (worship him)
+
+Id Software:
+Too many goddamn reasons...
+
+Florian Stoehr:
+Created FloEdit
+
+Bill Kirby
+Warren Buss:
+Creators of MapEdit 8.4
+
+New music
+
+From Blake Stone: Aliens of Gold, Blake Stone: Planet Strike, and Spear of Destiny
+
+
+Editors used
+
+Graphics (sprites, walls, images, etc., etc.): FloEdit 1.1
+Graphics editing: Ulead PhotoImpact 6
+Map editing: MapEdit 8.4 (FloEdit's map editor sucks, although everything else it 
+does is great
+Sounds: FloEdit 1.1
+Music: I'm not telling... :)
+HELPART/ENDART: Notepad
+
+Apologies to anyone whose stuff was used but not given credit (I think I named them 
+all, but you can forget a lot of things during the course of two years...)

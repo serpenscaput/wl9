@@ -1,0 +1,56 @@
+^P
+^C[Red]QUICK COMMAND REFERENCE
+^c00
+Arrows move. Ctrl shoots. Alt strafes. 1-4 select weapons.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to Desktop
+,			 Strafe left
+.			 Strafe right
+
+^P
+^G16 16 [BLAZE]
+^C[Red]NOT AGAIN.....
+^C00For being such a bad ass secret agent, you sure do suck, Agent Blazcowicz.  Captured 
+yet again.  What is this shit?!  I mean, you escape every single Nazi prison, but 
+they are still able to lock you up?  Ridiculous.
+
+Well, time to escape again, I guess.  Next time, don't go out into the field stoned, 
+K?
+^P
+^G16 16 [CASTLE]
+^c00This is a compilation of many vanilla Wolf3D mods, mostly early map replacement 
+sets.  These maps were released from the years of 1993-2006.  There are many varying 
+degrees of difficulty.  I tried to put most of the easy ones first.
+
+There is a complete list of the levels used in this mod inside the .PK3 (the file 
+named READ)
+^P
+^C[Red]MORE FROM ASTROCREEP
+^C00 WOLFPAK 1 - a compilation of my early levels, made from 1996-2006
+
+HALTEN SIE! - A conversion of Halten Sie to ECWolf, available in low or hi-res
+
+ESCAPE FROM TOTENHAUS - another conversion, only available in Low-Res
+
+SECOND ENCOUNTER - A conversion of the Mac/SNES Levels, in low or hi-res
+
+HI RES GFX PACKS - resource packs for original Wolf/SOD
+^P
+^C[Red]All can be found on the ECWolf Forum on DRDTeam.org
+^C00forum.drdteam.org/viewforum.php?f=192
+
+^C[Blue]WOLFPAK 2 by Sam Feichter (AstroCreep) 2015
+^C[Blue]All levels property of respected creators
+
+
+^C[Red]Don't be a dick! - Support the original authors and play the originals!
+^C[Red]Downloadable either from Wolfenstein 3D Dome or WolfPak 2 Thread on ECWolf 
+Boards
+^E

@@ -1,0 +1,280 @@
+
+Sod, Haven Style Hardcore Version
+Second Haven Mapset
+Dark_wizzie
+
+ 
+Spear of Destiny, Haven Style – Hardcore Version
+This game is version: v0.4 by Dark_wizzie
+Contact Wolf3d Haven at: www.wolf3d.darkbb.com 
+========================================================================	
+Extra note for the Hardcore version: This is the hardcore version, and some levels 
+are fiendishly difficult. Play at your own risk. Play the Easy mode version if you 
+want, also available for download on the Dome.
+This is the second Wolf3d Haven mapset. I helped make the Super Haven Mapset, a 60 
+level Wolf3d mapset. 
+	This time I try to present you with only good levels. (I’m not saying I’m the best 
+at making levels, but I’m trying my best!) This time around, almost all levels are 
+made by me. There are also less treasures and glitches in the levels. Ahem. I meant, 
+no glitches. (Note: With the pushwalls near the doors, sometimes it might seem like 
+guards are under the wrong floor code. But not often.)
+	To make sure people get to play all the levels I made, I have placed the elevators 
+to secret levels out in the open. It would be kind of sad if you couldn’t find them. 
+;) (Note that actually getting to the secret elevator is a bit more difficult than 
+going to regular one. You gotta pay to play!)
+	Some of the levels were made from quite a while ago (yes, they are all un-released 
+maps), so sometimes the mapping style might change a bit. Also, on the same difficulty 
+level, some levels could be easier or harder to beat than others. That’s just how 
+it is. One thing I don’t think would bother most people is that the elevator you 
+finish a level with is not the same elevator you start the next level with. It makes 
+no sense logically (unless BJ runs to another elevator?), but it shouldn’t affect 
+gameplay.
+	Speaking of gameplay, in this mapset the par times don’t matter, as I have not changed 
+them. That is, except for level 15. In level 15, the par time is the same as the 
+default, but I find that doing the level well means finishing well under the part 
+time. Speaking of which, the name of level 15 is “Par Time”. So keep that in mind!
+
+	I know some people will write hate mail to me for level 19, as it is a very whacky 
+level. So much so that it might hurt your brain. I placed a cross in front of the 
+areas you are supposed to push to finish the level, to make things easier. One area 
+in that level features a chicken meal, an oil barrel, and a green plant. If you just 
+try to take all of the treasures in the room, the game crashes. (You can cheat and 
+look it up in the game editor, of course) I did this on purpose. Just to piss you 
+off, right? Hehe. This level has two REALLY hard to find secrets. If at any time 
+you want to leave all the madness of that level, just go to the nearest exit elevator 
+and use it. It’s that easy.
+	I have spread out some aardwolf signs on some maps, but they can only be found on 
+the hardest to find secrets. (No, there is no 85 steel pushwall maze like one of 
+my previous levels.)
+	While I am talking about pushwalls, I should mention that on the hardest difficulty 
+level, the player sometimes has to find all pushwalls to complete the game without 
+cheats. (Assuming you started the level with a pistol and eight rounds). This mapset 
+is very difficult to beat sometimes, and if you made it so that the guards run off 
+to some random door, you could be alerting quite a bit of guards. So save your games.
+
+	This time, this Sod Mapset Mod will only use SDL. Sorry, folks. 149 Guards just 
+aren’t enough. I also blew past Ronwolf’s 699 static object limit, also. 
+	And as the Ack said for his Archive I, I feel the same for SHS.
+This set can be posted anywhere.  I don't care.  This file need not be attached. 
+ I don't care.  Use these maps and claim them to be your own.  I don't care.  Manipulate 
+them and use them in your own projects without giving me credit.  I don't care.  
+Jimmy crack corn.  I don't care.  The only thing I do care about is that you get 
+some enjoyment out of playing these maps.  If you do, then you have made my day. 
+ If you don't, well... what can I say?  I tried to make them fun.
+Take breaks while playing this set or you will get bored.
+	If you have questions/comments about SHS, post them at Wolf3d Haven. I really want 
+people to give me feedback so I can improve my map making skills! If you see some 
+elements of your own mapping style in one of my levels, well, imitation is the ultimate 
+flattery! But seriously, if you have a problem, just contact me.
+	Without further ado (other than this readme), please go play the Sod, Haven Style, 
+abbreviated SHS. Thank you!
+
+Dark_wizzie
+11/8/2010
+
+
+Cheats/New Features:
+-SDL (Along with all typical SDL features, of course.)
+-250 ammo max, 200 hp max (Yes, you can med-kit your way to 200% hp. Why not?)
+-No damage flash in God Mode 
+-Start Boss Levels with only 100% hp and a pistol with eight rounds. (If your hp 
+was lower than 100%, you will get some free healing.)
+-Able to see a lot of objects at once (You will never encounter anything becoming 
+invisible) 
+-Able to hold over 800 static objects 
+-Aardwolf signs scattered around some levels, found only in most difficult to find 
+secrets…
+To activate cheats: Use the Cheats.bat. Press Shift-Alt-Backspace at the same time.
+
+-Tab B - Pick a border color
+-Tab K - Give keys. You can pick the key you want.
+-Tab S - Allows modification of how much of a slow - motion effect you want.
+-Tab N - No Clipping - Note that when using this near the edge of a map, no clipping 
+would sometimes not work. 
+-Tab P - Take screenshot - Screenshot will appear in the same folder with the exe.
+
+-Tab - Show HP/ammo, etc when in full screen (The view size that doesn’t show the 
+HP bar)
+-Tab G - God Mode - Press it again for God Mode no damage flash. Note that actually 
+both modes have no damage flash.
+-Tab D - FPS Counter
+-Tab W - Warp Level - Warp to any level on the episode.
+-Tab E - Instant Level Finish
+-Tab Q - Instant Exit Game - Instantly exits the game without warning or saving.
+
+-Tab X - "Extra Stuff" – What the hell does this do? I don’t know. 
+-Tab V - Extra VBLs - Want to lag? Put down more VBLs...Other than that, it doesn't 
+do much.
+-Tab C - Shows the number enemies, static objects, etc, in the level.
+-Tab I - Gives free weapons/ammo/hp/lives/score
+-Tab O - Shows map of the level. It also shows where the enemies roughly are in the 
+level as well. Great for levels with lots of secrets. 
+
+Level List/Level Notes:
+E1L1: Wastelands 1 – [Very Difficult]
+E1L2: Wastelands 2
+E1L3: Spear Worship 
+E1L4: The Night Room - Secret Elevator
+E1L5: Zealot Temple 
+E1L6: Lebensraum – Means “Living Space” in German. Google it for a history lesson.
+
+E1L7: Jail
+E1L8: Purple Blues
+E1L9: All Alone
+E1L10: The Tunnels 
+E1L11: Castle Grounds
+E1L12: Purple Highs - Secret Elevator 
+E1L13: The Riches Below 
+E1L14: Round n’ About 
+E1L15: Par Time – Easy to beat, but focus on the par time! 
+E1L16: Faith in Science 
+E1L17: Ramparts 
+E1L18: Omniscient – [Very Difficult]
+E1L19: Banhammer!!! – [Very Strange]
+E1L20: More Serious
+E1L21: Window Pain – Made by Ack – [Guest Level]
+
+
+
+
+
+Difficulty Levels:
+Can I Play, Daddy?
+Ideal for experienced wolfers.
+
+Don’t Hurt Me!
+Ideal for wolfers that like to die and play over and over from previous saves.
+
+Bring em’ On!
+Nightmare difficulty.
+
+I am Death Incarnate
+Playing in God Mode is suggested. Note that I have beaten each level I made, starting 
+with pistol and eight rounds, so it IS possible to beat the mapset. Dean called this 
+difficulty “ridiculous”, Wolfercooker called it “overkill”, and Schabbs almost revoked 
+a Dome Award to its difficulty. Hot damn! Just make a lot of save games and you might 
+be fine.
+
+Oh, and the original design of the maps was to start boss levels with a pistol and 
+eight rounds, but the coding did not happen.
+
+Until next time, everyone! Auf Wiedersehen!
+
+
+
+
+Credits (In no particular order):
+Wlhack – For making the coding possible. 
+Ack – For level 21, a lot of mapping inspiration, and his fun readme on Archives 
+Part I.
+Schabbs – For beta testing and advice, and the incoming Dome Award.
+iD Software – For making SOD.
+Everyone who helped make Chaosedit.
+Wolf3d Haven – Because I want to thank it. So sue me.
+All the people and the tears, love, and sweat that went into making the SDL exe. 
+(I think that is the members of Die Hard Wolfers Forum).
+Me.
+Anyone else who is asking themselves, 'why the <bleep> didn't Dark_wizzie thank me?'
+
+...and you, obviously, for playing!
+“And now, onto the obligatory crap contained in most readmes:
+Installation:  I have no idea and you are on your own
+In event of finding bugs:  Repeat after me, "ack never told me to play this and I 
+am on my own."
+
+
+[If you helped, in any way, make SHS, and I did not mention your name, please tell 
+me so I can give you the credit you deserve!]
+
+End of Readme. (Unless you like reading version notes… go right ahead.)
+
+
+
+
+
+
+
+Compilation Notes:
+This mapset is archived in 7zip with the highest archive compression for compatibility 
+and space reasons. 7zip is supported by WinRar.
+V0.4 - Level 2 glitch fixed, no more columns in a wall. No more guards stuck on wrong 
+floor code. Level 4 floor code fixed. Floor code bug fixed on levels 1, 6, 7, 8, 
+9, and 18. Bug fixed on level 14. Readme revised.
+V0.3 – Initial release.
+“v0.22 Pre-Release” – Even more levels made easier to beat on easier difficulty levels. 
+Readme updated. A minor aesthetic problem fixed on level 1. Typo in Readme fixed. 
+Level 18 made more difficult to beat on easiest difficulty level. Added a new secret 
+area on level 1. Level 9 mossy area slightly altered. Level 7 marching routine bug 
+fixed. Level 13 bug fixed. New small secret area on level 14.
+“V0.21 Pre-Release” -  Level 1 done. Level 2 done. Level 9 done. Level 14 done. Level 
+15 glitch fixed. Original level 1 moved to level 20 and re-named. Level 18 had one 
+pushwall removed (unnecessary), same with level 1. Readme edited. Level 13 completely 
+re-done. Some levels are now easier to beat on easier difficulty levels.
+V0.16 Level 7 done. Readme typo fixed.
+V0.15 Level 15 done. Level 19 glitch fixed. (Ubermutants rebellion?) 
+V0.14 Ack’s level 21 added. Loading problem fixed.
+V0.13 Level 1 changed. Even less ghosts. Changed blue walls, so they alternate with 
+the Blue Wall 1 and 2 textures. Did similar thing with the mossy bricks part of the 
+level. Fixed some walls that seemed out of place. Less pushwalls. (And some other 
+changes as well.) Readme updated. Level 3 edited. Level 11 done.
+V0.12a Level 10 glitches fixed. Removed a few walls that seemed out of place on level 
+10. Level 19 made EVEN MORE obvious to finish. Level 19 got some treasures downgraded 
+(too many points!). Level 4 made easier to find the secret elevator. Level 6 done. 
+Readme revised. Level 8 done.
+V0.1 Level 3 done.
+V0.09 Level 4 done. Level 18 glitch fixed, and made easier to beat on easiest difficulty 
+mode. Level 19 made even more obvious to finish.
+V0.085 Level 19 edited. Made more obvious to finish.
+V0.08 Level 19 done. Level 17 edited.
+V0.07 Level 16 done.
+V0.0655 Level 1 Edited. One odd wall texture fixed. Deaf guard errors fixed. Level 
+18 changed. It is now more difficult to beat it, but just barely possible to beat.
+
+V0.065 Spear room turned into 3 blocks length.  Level 17 ammo rechecked.  Level 18 
+ammo/ health rechecked up till’ last room.
+V0.6 Level 17 done.
+V0.05 Level 18 done. Archived in 7zip.
+V0.04 Level 13 done. Readme included.
+V0.035 Level 10 bug checked.
+V0.03 Level 10 done.
+V0.02 Level 5 done.
+V0.015 Level 1 re-edited. Less ghosts, etc. SDL incorporated.
+V0.01 Level 1 done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E1L16: 801 Static Objects
+E1L18: 1344 Objects, 115 Direction Marks, 152 Extra Guards on Medium, Total: 509 
+Enemies
+E1L20: 253 Guards on Easiest, 127 Extra Guards on Hardest, 205 Doors, 54 Secret Doors
+
+E1L21: 2406 Shoots, 172 Bosses
+
+Boy, did you actually read this far into the readme? Then let me tell you a secret! 
+The aardwolf signs are at levels 1, 6, and 11. Now go find them! (Don’t look it up 
+in the editor… that screws up the fun!)
+
+
+Oh, and look for the future Wolf3d set that is planned to be released!
+Wolfenstein Never-Ending – Sod with much more than 21 levels. Seemingly infinite 
+coding changes. Contains a separate story and the whole nine yards. ETA: Not anytime 
+soon
+
+Now, this time, I really mean it, end of read me. :) 
+  

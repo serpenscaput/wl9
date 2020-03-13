@@ -1,0 +1,46 @@
+Hitler's Maze of Death
+
+This is a one level game created by Patrick Gray
+The concept was by Konrad
+I would like to give credit to all the add-ons i borrowed 
+graphics and sounds from. They are:
+
+Spear Resurrection
+Mutantstein 4
+WolfenDoom
+Himmlers SS
+A Madmans Dream
+KKK Beta
+*I apologize to the creators of any add-ons that i forgot.
++ Graphics from Spear of Destiny and The Lost Episodes
+
+Your mission is simple, you are to kill Hitler.
+Find your way through the maze fighting off gaurds.
+In order to find get the key you must find a secret where you must
+defeat the Angel of Death in order to get the key. When you are looking
+for the Angel of Death, beware, some secrets contain those 
+indestructable creatures known as Pac-Men. However, there is only one 
+real Pac-Man in this maze, the other 3 are different creatures with
+identical powers. 
+
+There is one known bug in the game. When you see the title screen, 
+then the credits screen, dont wait for the demo or the game will 
+freeze. I unfortunantly have no idea how to fix this.
+
+Cheats
+
+Open the Cheat file
+When you are in the game hold alt shift and backspace
+It should tell you that the debugging keys are available
+Then hold tab and press:
+B - Change border colour
+C - Display statistics
+E - End current level
+G - God Mode
+H - Reduce health
+I - Extra stuff
+M - Display memory usage
+P - White border colour
+Q - Instant quit
+S - Slow motion
+W - Warp to any level

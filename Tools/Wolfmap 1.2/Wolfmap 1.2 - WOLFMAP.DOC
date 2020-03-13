@@ -1,0 +1,118 @@
+
+Program: WOLFMAP
+Version: 1.2
+
+Author : David Lummis
+Contact: Compuserve Id: 71534,3067
+
+Notes  : This program is used to generate ASCII maps for Wolfenstein 3D.
+
+         This program has been tested with the shareware version of WOLF3D,
+         versions 1.0, 1.1, and 1.11.  It should be able to read the map
+         files for all 6 episodes of Wolfenstein 3D.
+
+         The /C, /T2, and /T3 options are intended for generating maps that
+         should be helpful if you want to modify the configuration file.
+         /T2 and /T3 will generate hex dumps of the maps so that you can
+         see what value has been assigned to something you see on the
+         screen.  The /FC option can be used to specify the name of an
+         alternate configuration file.
+
+         If you don't specify an episode and/or level number when you run
+         WOLFMAP then the program will ask you for the missing information.
+
+Files  : WOLFMAP.EXE   The executable program.  Type WOLFMAP /? for summary.
+         WOLFMAP.CFG   The WOLFMAP configuration file.
+         WOLFMAP.DOC   This documentation file.
+         WOLFMAP.C     Source code for WOLFMAP
+
+-------------------------------------------------------------------------------
+
+Syntax:
+
+  WOLFMAP [ <option>[ ...]]
+
+
+Valid <option>s:
+ 
+  /L<n>      Level number (1 to 10, or * for all).
+  /G<n>      Game (episode) number (1 to 6).
+ 
+  /E-        Suppress display of enemies (/T0 maps only).
+ 
+  /O1        Display all objects.
+  /O2        Display non-trivial objects only. (default)
+  /O-        Suppress all objects (/T0 maps only).
+ 
+  /2         Use two characters per item on symbolic maps (/T0 and /T1 only)
+ 
+  /T0        Map type 0: Symbolic. (default)
+  /T1        Map type 1: Symbolic.
+  /T2        Map type 2: Full hex dump.  Not affected by /O.
+  /T3        Map type 3: Partial hex dump.
+ 
+  /C         Create a file containing counts of map and object values
+ 
+  /X         Display  hexadecimal X scale on maps. (default)
+  /X-        Suppress hexadecimal X scale on maps.
+  /Y         Display  hexadecimal Y scale on maps. (default)
+  /Y-        Suppress hexadecimal Y scale on maps.
+ 
+  /FC<file>  Filename of WOLFMAP Configuration file (default is WOLFMAP.CFG)
+ 
+  /?         Display this help screen.
+  /?-        Display this help screen (no pausing).
+
+
+Required files:
+
+   The current directory is searched for the following files:
+
+      1) The program will first look for MAPHEAD.WL6 (which will should
+         contain all 6 episodes).
+
+         If data for only 3 episodes are found (ie. 4 to 6) in this file, then
+         the program looks for MAPHEAD.WL3 as well (which should contain
+         episodes 1 to 3).
+
+      2) If MAPHEAD.WL6 was not found, it looks for MAPHEAD.WL3 which should
+         contain episodes 1 to 3.
+
+      3) If MAPHEAD.WL3 was not found, then it looks for MAPHEAD.WL1 which
+         should contain episode 1 only (shareware version).
+
+      4) When generating maps, WOLFMAP will also look for the appropriate
+         MAPTEMP.WL? (WOLF3D v1.0) or GAMEMAPS.WL? (WOLF3d v1.1+) file.
+
+      5) If you have used the /FC option, then WOLFMAP will look for the
+         configuration file you have specified.
+
+         Otherwise, it will look for the default WOLFMAP configuration file
+         WOLFMAP.CFG.
+
+
+Files created:
+
+  Opt  Filenames         Type          Map contents
+  ---  ----------------  ------------  -------------------------------------
+  /T0  WMAP<g>.L<nn>     Symbolic.     Map and object data.
+       WMAP<g>.LEG       Legend.       List of symbols used on maps.
+
+  /T1  WMAP<g>L<nn>.T1A  Symbolic.     Map and object data.
+       WMAP<g>L<nn>.T1B  Symbolic.     Map data only.
+       WMAP<g>L<nn>.T1C  Symbolic.     Object data only.
+       WMAP<g>.LEG       Legend.       List of symbols used on maps.
+
+  /T2  WMAP<g>L<nn>.T2A  Full hex.     Map and object data.
+       WMAP<g>L<nn>.T2B  Full hex.     Map data only.
+       WMAP<g>L<nn>.T2C  Full hex.     Object data only.
+
+  /T3  WMAP<g>L<nn>.T3A  Partial hex.  Map and object data.  No floors.
+       WMAP<g>L<nn>.T3B  Partial hex.  Map data only.        No walls.
+       WMAP<g>L<nn>.T3C  Partial hex.  Object data only.     No 00's.
+
+  /C   WMAP<g>.COU       Table.        Count of map and object data by level
+
+  where: <g>  = game  number (1 to 6)
+         <nn> = level number (01 to 10)
+

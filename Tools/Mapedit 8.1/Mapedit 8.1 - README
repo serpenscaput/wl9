@@ -1,0 +1,48 @@
+                 ****************************
+                 *                          *
+                 *    MAPEDIT Version 8.1   *
+                 *                          *
+                 ****************************
+
+Welcome to the newest version of MAPEDIT! To find out what is new
+in Version 8.1, view the file "WHATS.NEW".
+
+If the MAPEDIT package contains an ADDENDUM.DOC file, be sure to
+read it for descriptions of any changes to MAPEDIT or the
+documentation since the last update distribution. If there is no
+ADDENDUM.DOC file, then changes and additions to the documentation
+since the last version are flagged with a vertical bar (|) in the
+left margin.
+
+If you want to create new floors for Blake Stone, you need to read
+BSTONE.DOC to get acquainted with all the new features that are
+in Blake Stone. You'll also want to read the section in MAPEDIT.DOC
+that explains how the Blake Stone features are implemented.
+
+To print the documents, use the DOS COPY command to PRN or LPT1. All
+documents (except ADDENDUM.DOC) contain imbedded form-feeds, so the
+pages won't run together.
+
+You should take a look at the MANIFEST file to get a quick briefing
+on what each file in the package is and does.
+
+Please be advised that Version 8.1 will not edit shareware versions
+of any of the games it supports. If you experience any problems with
+either MAPEDIT or any of the floors you create with it, contact one
+of the authors. DO NOT CONTACT Apogee Software. We thank you for your
+cooperation in this matter.
+
+As users of MAPEDIT, your opinions and suggestions would be most welcome!
+We think we've made a lot of useful improvements to MAPEDIT. But we're
+sure that as you get better acquainted with MAPEDIT you will have some
+great ideas for improving the product. We would like to encourage you to
+submit your ideas and suggestions to any one of the authors listed below.
+We will make every effort to respond to each person who takes the time to
+write.
+
+Thank you.
+
+Warren Buss - Compuserve ID [71044,3477]
+Bryan Baker - Compuserve ID [71121,3376]
+Dave Huntoon - Compuserve ID [73317,3325]
+

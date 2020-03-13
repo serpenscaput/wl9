@@ -1,0 +1,60 @@
+5/20/01
+=============================================================================
+Title                   : The 19th Floor
+Files			: gamemaps.sod maphead.sod PDsod3.txt
+Author                  : Pablo Dictter 
+Email Address           : pablodictter@hotmail.com
+Description             : I had made 2 maps for Spear of Destiny and I never
+                          finished them. So I took the time and I finished
+                          them. I choosed to start the first map at FLOOR04
+                          becuase there's where you get acces to the secret
+                          level, which is level 19. FLOOR04 is my version of
+                          the 1st map from the first episode of the original
+                          wolfenstein. You can play first FLOOR19 or FLOOR04
+                          or you can just play both.
+                                                                        
+Instalation		: Before unziping this file into you're Spear of
+                          Destiny folder, make a copy of the original
+                          gamemaps.wl6 and maphead.wl6.
+
+How to Play             : Start the game like this: wolf3d.exe -debugmode
+                          Then, when you get done choosing the skill and
+                          appear on level one, press ALT + SHITF +
+                          BACLSPACE at the same time. Now, press TAB + and
+                          select map 4. That's all.
+
+Special Thanks to	: Id for Wolf & Spear. 
+
+=============================================================================
+
+* Play Information *
+
+Game			: Spear Of Destiny
+Level #     		: FLOOR 04 & FLOOR19
+New Sounds              : No
+New Sprites		: No	
+New Textures		: No
+New Graphics		: No
+
+* Construction *
+
+Base                    : Unfinished Levels.
+Build Time              : about 20 minutes.
+Editor(s) used          : FloEdit
+Known Bugs              : None
+
+* Map Names *
+
+FLOOR04 - Escape
+FLOOR19 - The 19th Floor
+=============================================================================
+
+* Copyright / Permissions *
+
+ Authors may not use these levels as a base to build additional
+ levels. 
+
+ You MAY distribute this WAD in any electronic format (BBS, Diskette, 
+ CD, etc) as long as you include this file intact. 
+
+http://pdictter.s5.com

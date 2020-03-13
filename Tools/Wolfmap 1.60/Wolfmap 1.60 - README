@@ -1,0 +1,63 @@
+This is Wolfmap 1.60. It processes Wolf3D version 1.0, 1.1 and 1.2 map files.
+It is distributed as freeware, but only for NON-COMMERCIAL use.
+
+The archive you received should contain the following files:
+
+wolfmap.exe     The program.
+wolfmap.doc     Documentation for the program.
+wolfmap.h       Header file for the sources.
+wolfmap.c       Source file containing the main program.
+wgraph.c        Source file containing the editor.
+wglobal.c       Source file containing support functions.
+wgamemap.c      Source file containing support functions.
+wmapdata.c      Source file containing support functions.
+wsup.c          Source file containing support functions.
+egavga.bgi      Graphics driver for the buildin map editor.
+mapdata.def     Definitions for the currently known map values.
+objdata.def     Definitions for the currently known object values.
+readme          This text.
+
+The source files are provided so you can make modifications to the program,
+but they are distributed as is. The source files are copyrighted by Sysma
+Automatisering, and so will be all the changes you make to any of the
+supplied sources. You may redistribute your modifications, but ALL origional
+files MUST be included, including this disclaimer. Also, you may only
+distribute these files or your own modifications without charging any money
+or any other form of compensation.
+
+The sources are origionally written using the Borland C++ (tm) compiler, but
+should (re)compile without any problems using another C++ compiler. Note
+that you cannot use a normal C compiler, as this program makes heavily use of
+the class extentions defined only for C++ 2.0 or higher.
+
+The program itself is using i286 specific instructions, so it cannot be run
+on XT hardware. Normally, this should not cause any problems, since the same
+holds true for WOLF3D itself. The program is developed using OS/2 2.0 (tm)
+as the development platform, but should run normally on any DOS version of
+3.0 or higher.
+
+----------------------------------------------------------------------------
+
+We also do commerial projects. We can be contacted using the following
+addresses:
+
+e-mail
+------
+FIDO: 'Jan Peter Dijkstra' at 2:283/303.0
+
+
+mail
+----
+Sysma Automatisering
+tav. J.P. Dijkstra
+Fazantstraat 169
+7523 DP  Enschede
+The Netherlands
+
+
+telephone/fax
+-------------
+Phone: +31 53 337410
+Fax:   +31 53 311090
+
+

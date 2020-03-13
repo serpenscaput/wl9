@@ -1,0 +1,115 @@
+WOLFENSTEIN 3D
+- DER ANGRIFF-
+
+All Edits by maximator 2007
+
+English text below
+
+
+
+===================================================
+Erstmal vielen Dank für das Herunterladen von "Der Angriff". Dieses Spiel basiert 
+auf Wolfenstein 3D, hat jedoch im Gegensatz zu diesem eine Menge Änderungen und Neuerungen:
+
+
+- Neue Wände
+- Decken und Böden
+- Neue Sounds
+- Neue Grafiken
+- Neue Gegner (weiße Soldaten mit Helm, Soldaten mit netten kleinen Feuerzeugen)
+
+- Blaue Soldaten lassen ihre Waffe immer fallen
+- Herzschlag, wenn Gesundheit unter 20% fällt
+- Neue Gegenstände
+- 25er Munitionskiste
+- Veränderte Punktzahlen
+- Munitionsvorrat bis 200
+- Neuer Cheat: durch Wände gehen
+- Deutsche Menüführung
+- Neue Episoden und Episodennamen
+- Neue Hintergrundmusiken
+
+Insgesamt gibt es 60 Levels, davon jeweils zehn in jeder Episode, davon ist eines 
+ein Bonuslevel. Es ist übrigens auch ein großer Spaß, bei höchstem Schwierigkeitsgrad 
+die Unverwundbarkeit einzustellen und durch die Levels zu rennen und dabei zu versuchen, 
+so wenig Soldaten wie nur möglich abzuknallen. Ich bin jedes Mal überrascht, wie 
+gut das klappt. Und es macht doch irgendwie auch Spaß, einen Pulk von ballernden 
+Idioten hinter sich zu haben, die gar nicht merken, daß sie ins Leere schießen... 
+:-)
+
+Die Veränderungen wurden in den Levels, den Grafiken, den Sounds, den Hintergrundmusiken 
+und im Quelltext vorgenommen. Insgesamt betrug die Zeit für den Umbau etwa ein Jahr. 
+Möglich wurden die Änderungen nur durch die Mithilfe einiger Freaks, die im Spiel 
+unter "Lies dies" aufgeführt sind. Allen gilt mein Dank und mein Respekt. Ohne Euch 
+wäre dieses Spiel nicht zustande gekommen.
+Leider treten von Zeit zu Zeit kleinere Probleme auf, die sich bisher nicht beheben 
+ließen. So passiert es, daß an der Verbindungsstelle zwischen Wand und Fußboden bzw. 
+zwischen Wand und Decke blaue Pixel erscheinen, die dort nicht hingehören. Ich habe 
+alles versucht, diesen Bug zu beseitigen, aber es gelang mir leider nicht. Falls 
+jemand weiß, wie man diesen Bug beseitigen kann, so möge er mir eine eMail schreiben. 
+Leider habe ich es auf meinen Rechnern auch nicht hinbekommen, die Soundausgabe zum 
+laufen zu bekommen. Auf meinem Athlon läuft das Spiel zwar flüssig, aber ohne Sound, 
+auf meinem 486er DOS-Rechner läuft zwar der Sound, aber das Spiel ist zu langsam 
+zum spielen. Das nette Utility "DOSBox" taugt leider keinen Schuß Pulver; jedenfalls 
+funktioniert das auch nicht so, wie es soll. Aber vielleicht kennt jemand einen Trick, 
+wie man auch unter Win ME den Sound ans Laufen kriegt.
+Nun, da ich mit allem fertig bin, werde ich dieses komplette Projekt auf CD brennen, 
+ins Regal stellen und für die nächste Zeit erstmal nicht mehr herausholen. Jedenfalls 
+hoffe ich, daß es nicht erforderlich sein wird...
+Fragen, Kommentare, Anregungen oder Hinweise auf Fehler können jederzeit per eMail 
+an mich gerichtet werden. Bitte schreibt Eure Mails an antipersonenvirus@gmx.de Dort 
+wird man so freundlich sein und die Mails an mich weiterleiten.
+Es dankt und grüßt und wünscht viel Spaß mit DER ANGRIFF
+-= maximator =-
+
+===================================================
+First I would like to thank you for downloading "Der Angriff". This game bases on 
+Wolfenstein 3D but has in opposite of this some changes and additions:
+
+- New walls
+- Floors and ceilings
+- New sounds
+- New graphics
+- New enemies (white soldiers with helmets, soldiers with a nice lighter)
+- Blue soldiers always drop their weapon
+- Heartbeat if health is below 20%
+- New items
+- 25 ammo box
+- Changed scores
+- Maximum amount of ammo is 200
+- New Cheat: moving through walls
+- German menu and text messages within the game (I bet you do understand them)
+- New episodes and episode names
+- New background music tracks
+
+All in all there are 60 levels, ten in each episode, one of it is a bonus level. 
+By the way: it's always a big fun to choose the hardest skill, turn on the god mode, 
+run through the levels and try to kill as less soldiers as possible. At every time 
+I am surprised how easy this is. And it's really enjoyable to have a bundle of stupid 
+bastards behind you that don't realise that they blast their bullets in the emptiness... 
+:-)
+
+The changes were made in the levels, graphics, sounds, background music as well as 
+in the source code of the game. The changes took about one year to become finished. 
+All the changes were only possible because of the participation by some freaks, whose 
+names you will find in the game menu in "Lies dies" (read me). I would like to thank 
+all of them. This game wasn't able to be released without your help and support.
+
+
+I have to appreciate that there might occure some problems from time to time that 
+I couldn't fix. It might happen that suddenly some blue pixels appear where floors 
+and walls or walls and ceilings get together. I game my best to fix this bug but 
+I didn't get it. So if you know what there is to do, please let me know. Furthermore 
+I am afraid that I didn't get the sound support on my computers. On my Athlon the 
+game runs smoothly but with the internal queeker only, and on my 486 DOS machine 
+the SoundBlaster runs but the game is much too slow. The utility "DOSBox" is complete 
+crap; after all, it doesn't run as it should. But perhaps some of you knows a trick 
+on how to get the sound card support under Win ME.
+Now, as I am finished with everything, I am going to write the whole project on a 
+CD, put it in the board and leave it there for the next time. After all, I don't 
+hope it will be neccessary for me to reload it...
+Any questions, comments, hints or tips on errors can be done at everytime directly 
+to me. Please write to antipersonenvirus@gmx.de They will be so nice and forward 
+the messages to me. I thank you and wish you a pleasend journey through the game. 
+Enjoy DER ANGRIFF!
+-= maximator =-

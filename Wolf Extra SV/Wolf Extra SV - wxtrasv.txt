@@ -1,0 +1,39 @@
+
+Text file accompanying Wolf-Extra special version v2.5.
+
+For copyright reasons the set requires that the player owns a registered version 
+of Wolfenstein 3-D.
+(The source code has not been released for all game files.)
+The files included in the WXTRASV.ZIP are:
+WOLF3D.EXE
+GAMEMAPS.WL6
+MAPHEAD.WL6
+VGADICT.WL6
+VGAGRAPH.WL6
+VGAHEAD.WL6
+VSWAP.WL6
+and WXTRASV.TXT (this file).
+(The files AUDIOHED.WL6 and AUDIOT.WL6 are NOT included).
+
+
+How to install Wolf-Extra special version.
+Create a new directory.
+Copy all files from your Wolfenstein 3-D directory to the new directory.
+Unzip WXTRASV.ZIP in this directory and replace all files that your are asked to 
+replace.
+Now you can play the original Wolfenstein 3-D from its directory and Wolf-Extra special 
+version from the new directory.
+
+Wolf-Extra special version is freeware, all distribution must be free of charge. 
+All 8 files must be included and no others.
+The author of Wolf-Extra kindly requests people not to modify Wolf-Extra nor use 
+parts of it in other add-ons.
+
+If you experience any problems running this version of Wolf-Extra, contact me.
+Other comments are welcome too.
+
+p-olstad@online.no
+
+
+Paal Olstad.
+

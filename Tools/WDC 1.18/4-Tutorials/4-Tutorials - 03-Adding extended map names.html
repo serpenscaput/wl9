@@ -1,0 +1,34 @@
+<HTML>
+<HEAD><TITLE>Adding extended map names</TITLE></HEAD>
+<link rel="StyleSheet" href="../style.css" type="text/css">
+
+<body>
+<font class="title">
+Tutorials :: Adding extended map names
+</FONT><BR>
+<BR>
+
+If you are displaying the map name during the "Get Psyched" screen, 16 characters 
+might not be enough.
+Checking "Extended map names" on the project information will convert the GAMEMAPS 
+file so that it uses 32 characters instead.
+However, you need to make a few map changes to support the longer name
+
+<OL>
+	<LI>Open ID_CA.H and change "name[16]" to "name[32]" in the maptype struct.</LI>
+
+	<LI>Now go to ID_CA.C and change the mapfiletype struct to this:
+<PRE>typedef struct
+{
+	unsigned	RLEWtag;
+	int		numplanes;		// added
+	int		mapnamesize;		// added
+	long		headeroffsets[100];
+	byte		tileinfo[];
+} mapfiletype;</PRE></LI>
+</OL>
+
+And you're done with the code changes.
+
+</BODY>
+</HTML>

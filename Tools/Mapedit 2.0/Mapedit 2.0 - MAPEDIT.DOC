@@ -1,0 +1,29 @@
+
+MapEdit - Wolfenstein Map Editor
+
+The following keys have specific functions:
+
+arrows - select level to view
+   q,Q - quit (you will be prompted to save)
+   c,C - clear level (grey brick around the outside of an empty level)
+   o,O - toggle object display
+   d,D - toggle decoration display
+   m,M - toggle multiple brick type display
+
+As you move the mouse around the level, two hex numbers will be displayed.
+One for the map data, and one for the object data.  Clicking the mouse
+in the map window will place the current object (displayed in the lower
+right corner of the screen) on that map position.  Clicking on OBJ or MAP
+switches the list between object and map data.  UP and DOWN scroll through
+the list of object/map entries.  Clicking on an entry makes it the current
+draw object.
+
+Each level MUST have at least 1 secret door, 1 guard, and 1 treasure, or
+the game will hang when trying to compute the percentages.
+
+If you figure out a new object, you can add it's description to the
+object/map list by editing the MAPDATA.DEF or OBJDATA.DEF file.
+
+Bill
+(bkirby@cs.umr.edu)
+

@@ -1,0 +1,5 @@
+* After you have completed a episode, the game ends.
+* The weapon may say 0 ammo ( shoot to see the ammo ).
+* Game ends when you do nothing.
+
+If you find more bugs, please contact me.

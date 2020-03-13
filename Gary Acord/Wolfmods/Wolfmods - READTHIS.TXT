@@ -1,0 +1,85 @@
+Wolfmods II
+by Zap Studios
+
+Fumbling through hundreds of different Wolfenstein mods, I discovered a bunch
+of features that I could include in my Pacstein game, which I first developed
+about 20 years ago. Grabbing a feature here and a feature there, I gradually
+think that the quality of the game has been increased, and the hardcore fans
+will appreciate the new features.
+
+You are Captain Zoom, trapped in the land of Pacstein, and surrounded by strange
+
+eerie creatures. Filled by a strong yearning to escape back to the world of
+your loved ones and friends, driven by that one desire to the point of
+obsession. You must escape, yet you are surrounded by enemies who are totally
+against your victory.
+
+It's kill or be killed as you fight your way to escape! It won't be easy as you
+venture through level after level of complex situations. Good luck in your
+adventure! Create your own story as you go along!
+---------------------------------------
+
+Features;
+
+9 New Levels
+Multiple Ceiling + Floor Textures
+Full Screen
+More Objects
+Directional Sprites
+Animated Objects
+Seamless Level Progression
+Ingame Messages 
+Level name on the Get Psyched screen
+Changed Cheat Codes
+Inter Mission Screens
+New Doors
+Muntant's can't open doors
+Quit Messages replaced with graphics
++ More
+---------------------------------------
+
+Credits;
+
+Most of the materials in this game came from Michael Collins excellent mods.
+His vswap and vga files enabled me to figure out how to add the full-screen
+and textured ceilings and floors to Pacstein. His games can be found on the
+Wolfenstein mod site http://www.users.globalnet.co.uk/~brlowe/index.html.
+
+Mr. Choi's Hotel Romanstein games were an inspiration.
+
+Of course I must give thanks to ID Software for the classic Wolfenstein 3d and
+Spear of Destiny, without which there could be no mod games.
+---------------------------------------
+
+Tools used;
+
+Borland 3.1 C++: Code Compiling
+Floedit
+Mapedit
+Wolfedit
+Varsity Text Editor
+Deluxe Animation
+Paintbrush
+ChaosEdit: Importing graphics/textures/sprites/sounds/ and Level Creation
+Notepad: Soure Code Editing/This/Helpart etc
+IMF Creator; Music
+---------------------------------------
+
+Hints;
+You may also experience the sound cutting out. If this happens just press T-A-B to 
+fix it.
+When you approuch a barrel puzzle it is a good idea to save your game. 
+---------------------------------------
+
+Thank You for Playing Wolfmods II! 
+If you enjoy this then you should check other mods at:
+http://www.users.globalnet.co.uk/~brlowe/index.html.
+Also, check out Michael Collins great mods, 'Hitler's Ark', 'Castle Hasselhoff' and
+
+'Nazis With Attitude'.
+---------------------------------------
+
+If you like this game drop me an email at Acordgames@Juno.com.
+Also, you can download Zapagame, a menued presentation of 250 Shareware and
+Demo games, at Celebration4all.com.
+---------------------------------------

@@ -1,0 +1,169 @@
+                           Making a new descriptions file.
+
+         I will use the game 'Guns and Glory' an an example. Because not much
+         is normal here it will be somewhat of a challenge (as you can see,
+         I did it). Pretend you know nothing about the game.
+Tools:   You have the game and VSMAPED and VSWAPED.
+
+The palette. 
+         Start VSMAPED. Many items are weirdly colored. This is a sign that
+         the game uses its own palette which you must obtain, thus:
+         Start VSWAPED/Palette Tool. Follow the instructions in the help file,
+         choose a palette wall and capture the palette, make the entries
+         multiples of 4 and save the palette as fex. 'G&G.pal'.
+         It can be done in 7 minutes. Load your palette and see the difference.
+
+Structures.
+         Start VSMAPED with 'G&G.pal'. Load a suitable starting file, fex.
+         'wolfenstein.txt'.
+         If there are floor and ceiling structures in the game, you will be
+         asked to set the ranges. It is not at all difficult because ordinary
+         wall images normally come in pairs in the image list.
+         Start 'MISC/edit descriptions file' on the first line and put in
+         the numbers 'walls from','Structures'(from) and 'Upto'(the number
+         after the last structure). Press 'USE' and 'SAVE'(descriptions) under
+         a new name fex. 'G&G.txt'. So far so good.
+
+Saved games
+         A quick test shows that VSMAPED can't handle saved games in this mod
+         so feel free to delete all saved game entries in the G&G.txt
+         (lines with '*' as character no. 5). I you aren't interested in saved
+         games at all, don't worry about them. Now to some hard work.
+
+Overview. 
+         The floor codes look plausible and also the walls. They should indeed.
+         But the elevator must have moved to a new location. Start 'MISC/edit
+         descriptions file. The doors look wrong and in the image list you can
+         see that there must be at least 17 kinds of doors. We will take care
+         of that later. The floor/ceiling structures look sensible.
+         The 3D window confirms that the walls and floors/ceilings are ok but
+         the doors are all purple, because they are not where they used to be.
+         The corner cells in a level may control light, shading, or 
+         weather phenomena. The meaning is unique for each game and I won't
+         discuss it further. You may do some experiments of your own.
+
+         But the objects part looks like a total mess! In this case it really
+         is, hands with weapons sticking up from the ground!
+         In 'normal' mods most of the features are taken care of by VSMAPED
+         but for this mod you can make your life a little easier if you write
+         'new' in the comment in the first line. Then all described objects
+         will be symbolized by empty squares and you are not confused by
+         irrelevant symbols. But you must make some corrections by hand.
+         When you are done giving symbols to all items, you may remove 'new'.
+         In this 'abnormal' mod the entry names for objects can't be trusted,
+         so start the descriptions file edit, then the statistics window will
+         show all individual entries, and just a number if it is unlisted.
+
+         Tip: objects standing on 'deaf guard' floorcodes are probably guards. 
+         MARK the start positions and go through a few levels. There are levels
+         with more than one so they too must have moved.
+         Now get an impression of which items are used in the game:
+         Get the graphics list (click EDIT and drag down the lists). Click the
+         single arrow button at the list. Items used in the level will be
+         covered with a square, white for solids, pink for objects. 
+         Those listed in the descriptions are big, those not listed are small.
+         Go through the levels using the 'down' arrow key. At end you see all
+         the items used in the game. Quite a lot, isn't it? But don't despair.
+
+The mystery box.
+         On each level you see one or more rectangular boxes containing
+         unlisted items. It seems to be some sort of copyright stamp.
+         They are not important for the performance of the game.
+             
+Start positions.
+         Again, only one start position to a level. Looking at the statistics
+         you see that the positions 1-4 is just such a group of 4. Get the
+         graphics list, choose an item here, write 'Start position' in the
+         descriptions and choose a symbol. If the image number is positive,
+         set it to zero (auto) as this type of item is invisible. Click 'USE'.
+          As a bonus, item no. 5 is often near a wall that looks like a
+         staircase, and there is mostly just one in a level, so probably it is
+         an end-of-level trigger. USE it with the red up arrow symbol.
+         Rename old start positions. Finally, SAVE the descriptions file.
+
+Recording.
+         You are now in position to record any item.
+         I shall give just a few examples, leaving the rest to you.
+         Normally VSMAPED knows which items are objects and which are actors,
+         but being a 'not normal' mod it is handled otherwise here:
+         1. All items WITH AN IMAGE are considered static objects except:
+         2. items with 1 or 2 neighbours with identical names are actors
+            (identical means: no direction qualifiers like 'E' in the name).
+            Then the guards will look in the right direction in the 3D window,
+            and the statistics will be less bulky. 
+         3. Some isolated actors must be pointed out by adding 50 to the name.
+         Impenetrable actors (torches fex.) will be preceded by 59 (50+9).
+
+        *The walls 1 and 2 look conspiciously like an elevator. Put one of each
+         near the start on level 1, save the maps (with backup), and start
+         the game. Yes! Wall 1 IS an elevator, wall 2 is just a 'fake' one.
+         Exit the game. Back in VSMAPED, RESTORE the game to normal but keep
+         the backup. Start 'Edit descriptions'. Choose wall 1 and write
+         'Elevator' and choose the elevator symbol. Press 'USE'. Do the same
+         for the fake elevator. Rename the old elevators. Wall no. 5 appears
+         always close to an elevator and looks like an 'Elevator rail' wall.
+         Write 'Rails, elevator' for wall no. 5 and choose a fitting symbol:
+         no. 1038. 'elevator' must start in lower case, to avoid confusion.
+         Mark the items that separate different floor codes in the maps,
+         they probably are doors. A nice collection of 144-177, 17 doors!
+         You can go through all the items, see what they look like or what
+         happens when you walk into them. It can be quite funny.
+
+        *As an example, take object no. 64 and put one near start and save.
+         DON'T OVERWRITE THE BACKUP! Start the game. It looks like Baby Hans
+         in a gokart. He is not aggressive but if YOU kill him he disappears,
+         leaving a blue key.
+         Back, write '54HansKart blue key' and choose a symbol fex. the grey
+         pacman. Now look for him in the image list. After some searching you
+         find him as sprite no. 1576. Click the image. As he leaves a
+         key he should be classified as 'key' (4), but being an actor also,
+         write the number 54 (50+4) ahead of his name and USE the information.
+         Fine, he shows up when you move the mouse over him. 
+         What's more: in level 28, 'Wolfenkart', you see our friend and his 7
+         siblings lined up for a race. Get the other ones, they are like him. 
+         RESTORE the game and SAVE descriptions regularly.
+
+        *Invisible objects are not so obvious. You do have the start positions,
+         but there are also turning points, secret doors and various triggers.
+         It will take some guesswork. There are fex. the hands from below, and
+         if you pick one and insert it in the map, nothing is seen in the game.
+         As it is outdoors it can hardly be a secret door but if your guess is
+         'turning point', there will be no harm trying out this possibility.
+         MARK the suspects. Good, they make a group of 8 items, no. 30-37.
+         Now, using some qualified guesses, you can attach directions to them
+         all, and it works! For good measure, rename the old turning points
+         to whatever you like. Secret doors are almost always inside a wall.
+         All other invisible objects I call 'triggers' to be examined later.
+
+        *A guard and his like may be unfriendly and I suggest you build a cage
+         for him out of hard objects and have plenty of weapons and power-ups
+         close at hand. Live to get a picture and find him in the image list.
+         Superguards, fex. Hans, are easy. They are unique and have one single
+         entry. The same goes for pacmen and the ghost. For an ordinary guard
+         there are 24 entries: standing/running, skill 1,3,4 in groups of 4
+         (always facing E,N,W and S). Dogs have 12 entries because they are
+         always running. After having identified the guard look for the images
+         6,4,2,0 for standing, 14,12,10,8 for walking, counted from the start
+         of his images. Skill doesn't matter for images. When you are assigning
+         skills to the entries, take your time and use the game.
+
+         In this way proceed with identifying the remaining entries, find
+         the keys and their corresponding doors, find teleports and triggers.
+         To discover the (not always obvious) nature of an item (object/actor),
+         fill level 1 with it, start the game, and note the error message
+         saying 'too many...(OBJECTS or ACTORS)'.
+
+Totals.  The maximum totals of static objects, actors and doors in each level
+         are important. If one or more is exceeded, the game will surely crash.
+         Normally they are 399, 149 and 64, respectively.
+         In this game I know they are 999, 499 and 512. If it always were so...
+         The totals are unreliable until you have identified all items.
+
+Saved games.
+         If you want to work with saved games of some mod, You should follow
+         the procedures above, only insert items, run the game, and obtain a
+         saved game from which you identify entries, and record them in lines
+         with '*' as character no. 5.
+
+                                     Good Luck
+                                      Vincent

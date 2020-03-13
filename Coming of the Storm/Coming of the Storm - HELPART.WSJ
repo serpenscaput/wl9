@@ -1,0 +1,291 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading ^C24Coming of the Storm, ^C00a mod for Wolfenstein 
+3D, the classic game by Id Software.  I created this add-on just as a fun experience 
+for fans of the old game.  I hope that I have succeeded in this.
+
+As with the other add-ons I've created, ^C24Coming of the Storm ^C00has many new 
+graphics, sounds, and source code features that weren't in the original Wolfenstein.
+
+
+^P
+^C7d FEATURES
+
+^C00* One 19-level episode
+* New graphics and sound effects
+* New music (composed by me)
+* New actors 
+* New weapons and ammo types
+* Backpack with extra ammo
+* Outdoor atmosphere (level 1)
+* Directional 3D sprites
+* Animated objects
+* AND MORE
+
+^P
+^C7d THE STORY
+
+^C00 You are Captain William J. Blazkowicz ("BJ" to your friends), a well-trained 
+US Army Ranger and the best covert agent the Allies have.  During World War II, you 
+managed to single-handedly foil numerous Nazi schemes, earning you the nickname "The 
+One-Man Army."  
+
+The Nazis, always looking for an advantage in the war, have once again stumbled over 
+something devastatingly powerful...
+
+^P
+^C7d THE STORY
+
+^C00 Many centuries ago, in what is now Austria, there was a dark cult known as the 
+Faceless Brotherhood.  They terrorized the country with their uses of "black magic" 
+and their evil rituals.  Their desire for power was unrivaled.
+
+The Faceless Brotherhood had long sought what was called the "Second Ragnarok," the 
+day when all life would come to an end.  The time had finally come for the Brotherhood 
+to perform the ritual that would bring about the Second Ragnarok.
+
+^P
+^C7d THE STORY
+
+^C00 The Brotherhood had prepared everything for the ritual precisely.  They were 
+going to perform it in their underground temple.  They formed a circle in front of 
+some strange runes engraved on a cavern wall.  The Archpriest of the Brotherhood 
+chanted the first verses of the ritual, then the others began chanting as well.  
+A glowing rift began to open in the wall, linking our world with another.  The room 
+started to shake and tremble.  Strange shadow-like things began to appear from the 
+opening rift.  
+
+^P
+^C7d THE STORY
+
+^C00 The Archpriest was about to say the final verse that would loosen all bonds 
+between the two dimensions, opening the portal completely and bringing about the 
+Second Ragnarok... when an arrow suddenly struck him in the throat.
+
+A group of knights had entered.  The king had sent them to find and slay the Faceless 
+Brotherhood so they would no longer terrorize the country.  Clutching the arrow in 
+his throat, the Archpriest fell dead to the floor. 
+
+^P
+^C7d THE STORY
+
+^C00 With the Archpriest's death, the ritual had been interrupted.  As a result, 
+there came a great trembling and the place began to cave in.  The knights managed 
+to escape, but the cultists were all buried alive.  No one ever saw or heard of the 
+Faceless Brotherhood again.
+
+Most people have dismissed these accounts as "tales," but apparently Hitler and other 
+Nazis believe there is truth in them...
+
+^P
+^C7d THE STORY
+
+^C00 The Allies believe that a group of Nazi occultists are planning to win the war 
+by opening the portal and bringing the Second Ragnarok on the world.  Intelligence 
+reports a large excavation site near an old Austrian castle.  The castle is believed 
+to be built over the ruins of what was once the Faceless Brotherhood's underground 
+temple.  This castle has also been in use by the Nazis since before the war, and 
+a number of Nazi "experiments" were rumored to have taken place there.
+
+^P
+^C7d THE STORY
+
+^C00 Most of the Allies believe the idea of the Second Ragnarok to be absurd, but 
+after your encounter with the Angel of Death, you're not so ready to dismiss the 
+rumors as pure fantasy.  You've witnessed supernatural forces before.
+
+You decided to go and investigate the castle.  You're alone on this mission.  If 
+the rumors of the Second Ragnarok are true, then you may be the only one who can 
+stop it from happening.  Can you alone prevent the coming of the storm?
+
+^P
+^C7d ARSENAL
+
+^C00 Throughout your mission, you will come across various weapons used by the Nazis. 
+ Except for your knife, each weapon will require a specific type of ammo.
+
+^C7d Knife: ^C00This weapon is used in hand-to-hand combat.  Since it has no firing 
+noise, it's effective for sneaking up on your enemy and stabbing him from behind. 
+ In most cases, however, it is best as a last resort.  
+
+^P
+^C7d ARSENAL
+^G32,16,3
+
+^C7d Luger P08: ^C00The standard issue semi-automatic handgun used by the German 
+Army.  It's easy to fire, but its damage is limited.  
+
+^C7d Schmeisser MP40: ^C00This submachine gun is commonly used by the SS.  It is 
+effective for fighting multiple enemies due to its rapid rate of fire.
+
+^P
+^C7d ARSENAL
+^G32,16,4
+
+^C7d Gewehr 43: ^C00This semi-automatic rifle works well for taking down enemies 
+from a long distance.  Its strength and accuracy make it a good sniper weapon.
+
+^C7d Sturmgewehr 44: ^C00The StG44 is the German assault rifle.  It is fully automatic, 
+and its shots are more powerful than the Schmeisser's. 
+
+^P
+^C7d ARSENAL
+^G32,16,5
+
+^C7d Chaingun: ^C00This experimental Gatling gun is the fastest firing weapon in 
+the game.  Likewise, it eats up ammo at an alarming rate.
+
+^C7d Rocket Launcher: ^C00"The Boss Killer."  Using this weapon in close quarters 
+is NOT advised.
+
+^C7d Flame Thrower: ^C00Shoots a jet of flaming death at your enemies.  It's time 
+to roast those goons!
+
+^P
+^C7d AMMUNITION
+^G32,16,30
+
+^C7d Bullets: ^C00For the Luger, Schmeisser, and Chaingun.  
+Used clip = 4, Clip = 8, Box = 25
+
+^C7d Rifle Rounds: ^C00For the Gew43 and StG44.  5 rounds, Box = 25
+
+^C7d Rockets: ^C00For the Rocket Launcher.  1 rocket, Box = 10
+
+^C7d Gasoline: ^C00For the Flame Thrower.  Canister = 10
+
+^P
+^C7d AMMUNITION
+^G32,16,135
+
+^C7d Backpack: ^C00There are ammo packs scattered in different places throughout 
+the game.  If you happen to find one, pick it up.  In addition to providing you with 
+some extra ammunition, it will also allow you to carry twice as much ammo for your 
+weapons!
+
+^P
+^C7d THE ENEMY
+
+^C00 Once again, you are battling the forces of Hitler's Third Reich.  Some are just 
+regular soldiers with a bad attitude, while others are fanatics of the Nazi cause. 
+ The strength, intelligence, skill, and method of attack varies from enemy to enemy.
+
+
+Since our knowledge of the Nazi territory is limited, you're likely to encounter 
+types of enemies not mentioned here.  Also, there may be dark forces at work which 
+we have no information on, so be warned.
+
+^P
+^C7d THE ENEMY
+^G32,16,31
+
+^C7d Guard: ^C00The common Wehrmacht soldier.  They're weak, slow, and armed only 
+with a Luger.  However, they're encountered very frequently in the game and are often 
+found in groups.
+
+^C7d Doberman: ^C00Big, vicious, hungry hounds.  The Germans use them as guard dogs. 
+ Although weak, Dobermans are fast, and a pack of them will tear you to shreds.
+
+^P
+^C7d THE ENEMY
+^G32,16,32
+
+^C7d Officer: ^C00These high-ranking soldiers command the German Army.  Eliminating 
+them is important in the destruction of the Nazi war machine.  Use caution:  they 
+are fast and aggressive with the Luger.
+
+^C7d SS: ^C00The SS, which stands for "Schutzstaffel," is a group of elite Nazi soldiers 
+who serve as Hitler's police force.  These black-uniformed bullies are tough and 
+carry MP40s.
+
+^P
+^C7d THE ENEMY
+^G32,16,33
+
+^C7d Waffen-SS: ^C00The special military division of the SS.  These hardened Nazi 
+troops are even tougher than the regular SS and they use StG44 assault rifles!
+
+^C7d Mutant: ^C00These three-armed abominations are the result of vile Nazi experiments 
+to create perfect soldiers.  They are mindless killing-
+machines, and they sometimes go out of control and kill their Nazi creators.
+
+^P
+^C7d THE ENEMY
+^G40,16,34
+
+^C7d Nazi Scientist: ^C00You will find these guys in the Nazi laboratories where 
+they're conducting diabolical experiments.  They're not very strong or have big guns, 
+but don't show these scum any mercy -- 
+you'll become their next guinea pig!
+
+^P
+^C7d THE ENEMY
+^G40,16,35
+
+^C7d Mechanoid Stormtrooper: ^C00 Very few have seen these Nazi cyborgs and lived 
+to tell the tale.  It is believed that they are an enhanced version of Dr. Schabbs' 
+original mutations.  Their armor is said to be highly durable, and their bionic limbs 
+are powerful enough to wield MG42 machineguns.  We have no further info on this creature.
+
+
+^P
+^C7d THE BOSSES
+
+Colonel Von Schlausig: ^C00 The commanding officer and chief organizer of the Nazi 
+operations.  He has a rocket launcher.
+
+^C7d One-Eyed Wilhelm: ^C00 This guy is one mean SOB.  He'll delight in roasting 
+you alive with his flame thrower!
+
+^C7d TotenMutant: ^C00 It is rumored that the Nazis have created a new monstrosity 
+to replace the UberMutant.  This "Death-Mutant" is said to be equipped with mechanized 
+armor and numerous heavy weapons.
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit 1.1: ^C00Adding graphics, sounds, levels
+^C7d Borland 3.1: ^C00Code compilation
+^C7d Notepad: ^C00HELPART and ENDART
+^C7d Paint Shop Pro 7: ^C00Graphics modification
+^C7d Sound Forge 5.0: ^C00Sound effects 
+^C7d IMF Tools: ^C00Music conversion
+^C7d WDC: ^C00Importing music
+^C7d Bmp2C: ^C00Signon screen
+
+^P
+^C7d CREDITS
+
+^C00 Though I put this add-on together myself, there are other people who deserve 
+credit for some things in the game.  For a complete list, see the "credits.txt" file 
+that's included with this game.
+
+^P
+^C7d OTHER ADD-ONS BY WOLF SKEVOS-JONES
+
+Castle Totenkopf: ^C00In this game, you must escape from the dreaded SS prison fortress 
+known as Castle Totenkopf.
+
+^C7d Project Eisenritter: ^C00Stop a mad Nazi scientist from creating the ultimate 
+killing-machine, the Iron Knight! 
+
+^C7d Operation Heimzahlung: ^C00Infiltrate a Nazi fortress and stop Hitler's final 
+plot for revenge!
+
+^P
+^C7d OTHER ADD-ONS BY WOLF SKEVOS-JONES
+
+Weapons of Vengeance (DEMO): ^C00So far I've been unable to finish this one, but 
+I decided to release a 5-level demo of it instead of letting my work go to waste. 
+ It's got some new effects and a TON of weapons!  Worth trying out!
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 If you have any questions about the game, my current e-mail address is ^C90wolf@shadaux.com.
+
+ 
+^E

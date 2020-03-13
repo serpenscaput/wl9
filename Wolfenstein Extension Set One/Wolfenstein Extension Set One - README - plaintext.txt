@@ -1,0 +1,87 @@
+
+
+                CASTLE WOLFENSTEIN (tm) EXTENSION SET ONE
+                         Shareware Version 1.4
+           Shannon Rysewyk <Design> and Mike Peters <Programing>
+                          N3812 Boneham Road 
+                         Marinette WI 54143-9509
+
+This is the bug fixed version.  The first(1.0) cantained a lot of bugs
+and problems.  This has most corrected.  I want to thank 
+Mr. Stanley Stasiak for helping me correct these problems.
+
+                               THANKS STAN.
+
+**ALL NEW** Exciting, and CHALLENGING levels for your Castle Wolfenstein 
+game!  This replacement world is full of new adventures designed to bring
+new life to your Castle Wolfenstein game!
+
+This shareware release contains a ten level episode of unique and
+completely new floors with new action and hidden adventures!
+
+LEGAL STUFF
+
+The files contained herein are property of Shannon Rysewyk (who is in no
+way associated with Apogee Software Productions).  These files may be freely
+distributed, provided that all documentation files are included and none are 
+altered in anyway.  Nor should they be distributed in part or whole with 
+any of Apogee Software's Castle Wolfenstein game.  (None of the files in   
+this package are part of the origianl Castle Wolfenstein game and were
+created and modified from  "scratch" and should not be considered modified
+versions of Apogee software.)
+
+DISCLAIMER
+
+Shannon Rysewyk is not in any way resonsible for damage this might cause 
+either hardware or software, to your machine. I have encountered no ill side 
+effects of using this but no two machines are created equal-If anything
+should go wrong please contact me.(I can't imagine anything going wrong 
+but "just in case.")
+
+HOW TO CONTACT THE AUTHOR
+
+The easiest way to contact me is through a BBS.
+
+CompuLine [715] 732-1036
+All ten lines are 14.4K! v.32/v.42
+My userID is "Stalemate" or "Yoda" (my partner)
+Major Net address is PID
+
+REGISTERING
+
+The cost of registration in ONLY $6.00 (+$1.00 shipping) and this entitles 
+you the next version of levels when available.  I will also customize 
+(registered people only) for those who wish just write me a note! 
+The file REGISTER.DOC provides a form to use for placing your order.
+
+Even if you do not wish to register I would like to hear from you.  Comments
+suggestions??  Were the levels to hard/easy... Not enough "goodies"?
+I will start on a second ext if enough interest is generated.
+
+FILES INCLUDED
+GAMEMAPS.WL1
+MAPHEAD.WL1
+REGISTER.DOC
+README,DOC (this file)
+                           
+    
+
+I hope you enjoy these new worlds and will consider registering to
+support further advanced in affordable software!
+
+*  Castle Wolfenstein are Trademarks of Apogee Software Productions.
+
+----------------------------- eof ------------------------------------
+
+A Quick Note from your InterNet Distributor:
+
+        This package was distributed to the InterNet by Josh Templin.  If 
+        you have any questions, comments, or problems, feel free to contact
+        me at jtemplin@ub.d.umn.edu .   I will attempt to answer/fix any
+        questions/problems you have, and all comments will be sent to the 
+        author.  
+
+   
+
+Thanks...and have fun!  - Josh
+

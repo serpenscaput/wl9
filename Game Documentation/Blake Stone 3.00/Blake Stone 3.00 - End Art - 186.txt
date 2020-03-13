@@ -1,0 +1,26 @@
+^BCe3^SCe1^ST1^FN1^BX1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 1 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+Bloody good work, Blake! You've severely crippled Goldfire's legion of mutants and 
+destroyed the first of his dreaded guardian aliens. You've removed the threat of 
+Goldfire's forceful grip on Selon ensuring its peaceful existance.
+
+With the fall of the STAR Institute, Goldfire has accelerated his plans to unleash 
+the legions of killer mutants and is fortifying his defenses against any further 
+attacks.
+^EP
+^FC3a^FN1^CEMISSION 1 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+Your orders are highly classified and URGENT -- repeat URGENT. You must proceed to 
+the Floating Fortress and attack before his defenses are fully in place to ensure 
+complete success of this mission.
+
+Final orders will be transmitted upon arrival at the Fortress.
+
+<End Transmission>
+^EP
+^XX...

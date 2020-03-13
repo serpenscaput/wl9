@@ -1,0 +1,97 @@
+                                      Return to Castle Totienstein™
+
+-HISTORY:
+You are BJ and you are in Castle Underground, you first came into Castle Totienstein, 
+your brother, Cool  BJ, was in Castle Totienstein  10 years ago, well, you are searching 
+for the operation: SS, unfortunately , Totis hunted you, and now you are nowhere. 
+You have to enter to Castle Totienstein again, killing Grans Grosse, go to Castle 
+Underground and discover whether the Operation: SS is real or not, also the Allied 
+Forces also told you of a chemical war and a Fourth Reich too…                   
+                                                                                 
+                                                  Only you can do B.J.           
+                                                                                 
+                                            Good luck!
+-ENEMIES: 
+Guard:
+    Use a pistol or a machine gun in big groups.
+SS Guard: 
+   Always use a chain gun, BE CARREFUL!!
+Officer:
+   Use a machine gun or a chain gun in big groups.
+Wolfenstein SS Mutant:
+   Always use a chain gun, they are easily to kill but are very fast too.
+
+
+
+-BOSSES (use missile launcher or chain gun):
+Grans Grosse: 
+   The protector of Castle Totienstein is here.
+Heinrich Messerschmitt:
+   BE CAREFFUL! 4 or 5 of these missiles can kill you.
+Tod:
+   He is the protector of the Fourth Reich. When you kill his human form, he converts 
+to                                                             it death form, so, 
+don’t be happy when you kill the human form.                             
+ 
+Colonel Krell:
+   If you use the missile launcher he is very easy to kill.
+Eugene Grosse:
+   He is the father of the Grosse family.
+Colonel Eisenhande:
+   He is the protector of the Fourth Reich in Castle Haufman.
+ 
+-TREASURES:
+Cross:
+   It gives you 100 points.
+Chalice:
+   It gives you 500 points.
+Chest of treasures:
+   It gives you 1000 points!
+Crown
+   It gives you 5000 points!
+Master Cup:
+   IT GIVES YOU 7500 POINTS!
+Extra life
+   IT GIVES YOU 100% HEALTH, 25 AMMO, AND AN EXTRA LIFE!
+
+
+
+-ITEMS:
+Ammo:
+  It gives you 8 of ammo. (4 if an enemy drops one).
+Ammo box:
+  It gives you 25 of ammo.
+Missile box:
+  It gives you 5 missiles.
+First aid kid:
+  It gives you 25% of heath.
+Food:
+  It gives you 10% of health.
+Dog Food:
+  It gives you 4% of health.
+Death Artifact:
+  DON´T TOUCH IT or you are DEATH, it only appear on episode 2.
+-KNOWN BUGS:
+-Sometimes, when you are spotted by multiple enemies at once, the sound will cut 
+out after they shout out their warnings.
+-Sometimes when you start the game the "T" screen is without music and the menu show 
+the music faster for a few seconds.
+-When you finish an episode the "Averages" show all the ratios at 37% and have to 
+show it at 100%   (If you kill all the enemies, found all the secrets and take all 
+the treasures, obviously).  
+-If your PC does not want to run RTCT™	, try in DOSBOX or check out some of the troubleshooting 
+tips on the web for running Wolfenstein 3D in general, that is for your PC not for 
+my add-on.
+PS. FPS COUNTER (not bug): To turn on/off the fps you have to run the debug.bat, 
+then, in the game press LSHIFT+ALT+BACKSPACE to activate the debug keys and then 
+press TAB+X.
+-A LITTLE TIP…
+If you see a wall with a flag or something different to the other walls, check if 
+this wall is a secret door. 
+-MX SOFTWARE: 
+This game is freeware you may distribute it.
+ 
+  
+Sorry for my English, I speak Spanish.                                           
+                                                                      
+Toti. 

@@ -1,0 +1,227 @@
+^P
+
+^C7dTHE HAUNTED HOUSE
+
+^C00This add-on is our (Megabyte and Codetech Software) first published add-on. We 
+spent a long time creating this, so we hope you enjoy playing it. Most of the artwork 
+is copyright of Megabyte and Codetech Software.
+
+^P
+
+^C7dTHE STORY
+
+^C00On one stormy night in Ireland, group of arkeologists had a important meeting. 
+Leader of arkeologists started: ^C6a"I've got a clue of large hidden mansion here 
+in Ireland. I found it's possible location from old books yesterday. It belong to 
+baron Joseph D'mon, who died many years ago. I've arranged a transport to there." 
+
+
+^P
+
+^C7dTHE STORY
+
+^C4c"Are you telling us, that we're going in there. Noway. I'm not going." ^C00,said 
+one of arkeologists. ^C6a"But there can be a lot of treasures in there waiting for 
+us. So, what do you say?", ^C00leader replied. ^C4c "Hmmm. Okay, we're coming with 
+you. But we could take some weapons with us, just in case." ^C6a"Good. Pack your 
+bags. We're going there tomorrow." ^C00, said the leader.
+
+^P
+
+^C7d THE STORY
+
+^C6a"I've read, that there's somekind of symbol language being used. I think I'll 
+need someone who knows it. I know just the man for the job." ^C00, leader thought. 
+You, John Hamilton, are one of the few persons in the world who can understand this 
+symbol language. Your phone ringed. ^C2c"John Hamilton." ^C00, you answered. Weird 
+voice said: ^C6a"Hi, this is Dave Gallagher from Ireland."
+
+^P
+
+^C7d THE STORY
+
+^C2c"From Ireland? Who are you and why are you calling me?" ^C00, you asked. ^C6a"I 
+need your help. Because you know this old "symbol language, I want you to travel 
+here. As quickly as possible." ^C2c"But, I live in other side of Atlantic Ocean!" 
+C00 ,you said. ^C6a"Don't worry. I'll pay you a transport to here. I must go now. 
+Bye!" ^C2c"Bye!" ^C00, you said and closed the phone. You took all you might need 
+to your backpack (including some painkillers, just in case) and took a taxi to nearest 
+harbor. 
+
+^P
+
+^C7d THE STORY
+
+^C2c"Hi! Is there a reservation for Dave Gallagher?" ^C00you asked. Women checked 
+it and answered: ^C3b"Yes, on a first class." ^C00Meanwhile arkeologists had arrived 
+to the mansion. Just when they had closed the main gate, unknown creatures attacked. 
+Few arkeologists died and rest of them scattered around the mansion. Some of them 
+got inside, others stayed outside.
+
+^P
+
+^C7d THE STORY
+
+^C00Many hours later you arrived to Dublin's harbor. You took a taxi to location 
+that mr. Gallagher gave to you. When you arrived to the mansion, everything seemed 
+quiet. It was dark and stormy night and only lightning broke the silence. You opened 
+the main gate. There was no-one out there. You closed the gate and saw a blood trail 
+leading to a garden shed. ^C2c"Something terrible must have happened.", you thought. 
+^C00Prepare yourself. Your worst nightmare is about to begin...
+
+^P
+
+^C7d MANUAL: - Introduction -
+^C00
+This manual is far from being completed, but it explains te controls and the new 
+features. There wil be more indepth manual with the full game. (Or the next version)
+
+
+^P
+
+^C7d MANUAL: - Controls (default)  -
+(Please make sure NUM LOCK IS ON)
+^C00
+Moving: Arrow keys
+
+Strafing/Sidestep mode: Alt + Arrow keys
+
+Running: Shift key + Arrow keys
+
+Opening doors/ secrets: Spacebar
+
+Shooting: Press Control key
+^P
+
+^C7d MANUAL: - Hot keys (F1-F10) -
+
+(These can only be used while playing)
+^C00
+
+F1: Help screens
+F2: Load game
+F3: Save game
+F4: Sound setup
+F5: Resize screen
+F6: Control setup
+F7,F10: Quit
+F8: Quickload
+F9: Quicksave 
+^P
+
+^C7dMANUAL - Using new features:
+^C00
+[M] Use a medikit (+25)
+[W] Use a bottle of wine (+15%)
+[P] Use painkillers (+10%)
+[A] Use adrenaline shot (+100%)
+[R] Reload the weapon in hand
+^P
+
+^C7dMANUAL - Tips:
+^C00
+Tip 1: Playing with doors
+
+Some enemies (Zombie,Bat,Monster) can't open doors, so you can lock them up in rooms, 
+just make sure you can get out of the room before luring them in. Make sure there 
+are no other enemies nearby that can open doors, because they might open the door 
+and leave it open.
+^P
+
+^C7dMANUAL - Tips:
+^C00
+Tip 2: Inventory
+
+Remember you can store health items to your backpack. Use health items when needed, 
+so don't waste a adrenaline shot if you have suffered only a little.
+^P
+
+^C7dCREDITS:
+^C7c
+Codetech Software:
+^C00
+- Programming (See source code changes)
+- Sounds
+- Most weapon gfx
+- Object gfx
+- Statusbar gfx
+- Menu gfx
+- Title gfx
+- Secret levels
+- Manual
+^P
+
+^C7dCREDITS:
+^C7c
+Megabyte:
+^C00
+- Idea
+- Story
+- Level desings
+- Weapon gfx (Tommygun,Axe)
+- Zombie gfx
+- Wall textures 
+- Object gfx
+^p
+
+^C7dSOURCE CODE CHANGES:
+^C00
+- Flaregun (Not yet collectable)
+- Separate ammo types (Each weapon)
+- Inventory
+- 3 new keys
+- Seamless level flow
+^P
+ 
+^C7dSOURCE CODE CHANGES:
+^C00 
+ * Some enemies can't open doors (lock them in)
+ * Reloadable weapons!
+ * If you collect the best weapon you can't have all other weapons :)
+ * New Digitized sounds
+  
+ + The rest would ruin the surprise! :)
+
+^P
+
+^C7c UTILITIES WE USED:
+
+^C00 Floedit 1.1 - By Florian Stohr
+^C00 ImfTools - By The DarkOne
+^C00 Microsoft Paint - By Microsoft
+^C00 Paint shop pro 6.1 - By Jasc
+^C00 TurboC++ 3.0 - By Borland
+^C00 Notepad - By Microsoft
+^C00 Goldwave - ???
+^C00 Soundrec32 - By Microsoft
+^C00 Lzexe - ???
+
+^P
+
+^C7c SPECIAL THANKS:
+
+^C00Ken O'Brien (for the Gfx packs)
+^C00And off course {Your name here} for downloading!
+
+^P
+
+^C7dCONTACTING THE AUTHORS:
+^C00
+This version of Haunted House is the first public release. Please report us any bugs 
+you might find,send your ideas (Your help is appreciated), or just comments about 
+the game.
+
+^C7d-Codetech Software
+^P
+
+^C7dCONTACTING THE AUTHORS:
+^C00
+
+Codetech Software (Tommi)
+
+^C09Tommi.aijala@luukku.com
+^C00
+Megabyte (Juhis)
+
+^C09Megabyte@luukku.com
+^E

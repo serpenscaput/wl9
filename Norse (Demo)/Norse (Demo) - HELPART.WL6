@@ -1,0 +1,91 @@
+^P
+^G0,0,89
+^P
+^C48 TABLE OF CONTENTS
+
+^C99 STORY: 3-6
+WEAPONS: 7
+ITEMS: 8-9
+ENEMIES: 10
+^P
+^C48 STORY
+
+^C99 Ages ago in the lands of Scandanavia, a legion has come for evil and bloodshed. 
+The tale begins with ancient Norse ruins and a man exiled from his town and into 
+the cold wilderness... He is known as Stygge Ulven, the lone Bad Wolf.
+
+The man was a Viking accused of brutally murdering a fellow warrior, exile was his 
+punishment. The killer who was truly responsible was a druid witch trained in summoning 
+dead spirits and using blood to fuel her magic.
+^P
+^C48 STORY
+
+^C99 Shortly after the killing, the witch traveled to ancient ruins that serve as 
+a doorway to Helheim, Underworld and realm of the Goddess of Death, Hel. The druid 
+with a dark and corrupted heart tricked the Goddess into believing the land of the 
+living was conspiring to assault Hel and destroy her realm.
+^P
+^C48 STORY
+^G30,20,3
+
+^C99 Feeling betrayed by mortals, Hel summoned legions of dead warriors and creatures 
+to fight for her and all the souls of Helheim.
+^P
+^C48 STORY
+^G30,230,4
+^C99 
+Death came calling all through the Norse lands, people prayed to Odin and Freyja, 
+begging for their aid... They found none from the Gods.
+
+But hope was not lost, for Stygge Ulven had made refuge in a cave not too far from 
+the village he was banished from. Hearing people scream in fear and pain, the barbarian 
+readied his axe and prepared for the enemy horde...
+^P
+^C48 WEAPONS
+
+^C8A AXE
+^C99 Used for chopping, hacking, and cleaving enemy skulls in half.
+^C8A SWORD
+^C99 When used with an Axe, can slice an enemy into a shower of blood and gore! A 
+warrior's best friend.
+^C8A LONGBOW
+^C99 Ranged weapon designed for taking out enemies at a distance.
+^C8A CROSSBOW
+^C99 Has a higher rate of fire and reload speed than the Longbow.
+^P
+^C48 ITEMS
+
+^C8A GLASSES OF MEAD
+^C99 Restores 4% of Health.
+
+^C8A JUGS OF MEAD
+^C99 Restores 15% of Health.
+
+^C8A ARROWS
+^C99 Ammunition for Longbow and Crossbow.
+
+^C8A POUCHES OF GOLD
+^C99 Gives 100 points.
+^P
+^C48 ITEMS
+
+^C8A TREASURE CHESTS
+^C99 Gives 500 points.
+
+
+^C8A MAIDENS
+^C99 Lovely imprisoned women that'll give 1,000 points for their rescue.
+^P
+^C48 ENEMIES
+
+^C8A TROLLS
+^C99 The weakest in Hel's legions. Short bear-like creatures that claw at their enemies.
+
+
+^C8A DEAD WARRIORS
+^C99 Skeleton soldiers equipped with armor and axes.
+
+^C8A FENRIR
+^C99 A monster of a Wolf... Skinned and two-headed. His bite is better than his bark.
+
+^E

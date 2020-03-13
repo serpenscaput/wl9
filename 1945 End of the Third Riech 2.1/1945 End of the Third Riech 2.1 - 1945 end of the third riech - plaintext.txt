@@ -1,0 +1,329 @@
+                                                             1945 The End Of The 
+Third Reich Phase 2 Final
+
+
+
+
+
+Thank you for downloading 1945 The End Of The Third Riech my first ever successful 
+Wolfenstein 3D addon.In the past I had a couple to few attempts to make an addon 
+but either I never had the time, patiance or lack of skills or it would end up screwed 
+because I did something wrong and I lost my work but for the first time ever I have 
+made the time and put alot of thought and effort into making it.
+You may come across some bugs in the game but Ive played through and ammended as 
+much as I could. The code editing is my weak spot, I tried my very best to encode 
+all the changes this mod was intended to have but one fault is disabling the Boss's 
+Death Cam I don't know how to make Death Cam bosses drop a key so I put a gold key 
+by the exit, but just because you can coward your way from some bosses doesn't mean 
+do. The Par times is another defect, I tried to change the Par times and End level 
+intermissions to suit this mod but hit a few errors so ignor some of the End level 
+intermissions. Other than that I think I have achieved my goal to create good levels 
+from scratch, alot of thought went into these levels, years of practice soon paid 
+off.
+
+
+                                                                  Storyline
+
+It's the year 1945, the war has been going on for nearly six years.The nazis fight 
+to keep Hitler's twisted dream alive to take over the world. The allies sent out 
+a polish guy named BJ Blazcowicks AKA The One Man Army.
+You BJ Blazcowicks grandson of the man who brought the first world war down who has 
+fought and accomplished many missions. You are the allies only hope if you can't 
+bring the third riech to an end then no one can. You BJ Blazcowicks take out your 
+pistol with 8 bullets and your trusty knife and get flown to a nearby open forset 
+by some castle in a helecopter.It's time to go in there and bring an end to the third 
+riech.
+
+
+
+                                                           1945 The End Of The Third 
+Riech features 
+
+
+
+
+One seamless episode of 60 all new large action packed epic levels.
+A bigger selection of different wall textures from Spear Of Destiny original and 
+Spear Destiny missions 2 and three and wall textures from other addons plus some 
+new wall textures created by me plus many of the original Wolfenstein textures and 
+good original Wolfenstein substitute textures. 
+New props from Spear Of Destiny original and Spear Of Destiny missions 2 and 3 and 
+other addons and some original Wolfenstein textures and substitute originals.
+New guards and bosses from Spear Of Destiny and other addons and original Wolfenstein. 
+
+New weapons some original Wolfenstein weapons and some from other addons.
+New items from other addons and original Wolfenstein.
+New sounds from other addons and Spear Of Destiny and original Wolfenstein.
+All new VGA screen graphics and a brand new status bar.
+25 amo crate added.
+Changed ceiling colours to fit in with the level location.
+Multiple floor colours some levels have a different floor colour to others to fit 
+in with the level location.
+Boss action replays removed.
+All new epic music from verious origins and games in midi format or some new imported 
+music and some original Wolfenstein music.
+
+
+
+
+
+
+Level names
+
+
+
+
+
+Level 1 Open forest and Castle gates
+
+You start off in an open forest area outside the gates of the castle where an outdoor 
+cell is located with prisners which are part of some twisted experiment.
+
+
+Level 2 Castle entrance
+
+The location of the first floor of the Castle. There are hallways and many different 
+rooms and each room is guarded with nazi soldiers.
+
+Levels 3-5 Lower Castle levels
+
+The lower floors of the Castle locating large hallways passageways storage rooms 
+cells and many areas guarded at times. 
+
+Level 5 Boss 1 
+
+Here you will meet Hanz Gross guarding the key to the elevator to the upper castle 
+levels.Defeat him and proceed to the upper castle.
+
+Level 6 Tunnel 1
+
+Here is a tunnel access that connects the lower castle and upper castle floors a 
+place for bomb shelter and also a waste sewer with slime covered walls and also controll 
+of the castle working.To get to the upper castle you must get throuth the tunnel 
+area and defeat the guards.This level is a bit like the castle but with slimmy stone 
+and brick walls and a place for the guards guarding the place to live.
+
+Levels 7-10 Upper castle levels
+
+These levels are of simler design and theme to the lower castle levels. These are 
+the upper floors of the castle with long passages hallways and different rooms.Level 
+8 is the divide where you cross a divide to get across to the other part of the castle 
+located on a mountain.
+
+Level 10 Boss 2 
+
+Here you will meet Otto Giftmatcher a twisted scientist of the chemical warfare guarding 
+the key to the tower levels.Nobody knows why Otto is here.
+
+Level 11 Tunnel 2
+
+Here is another tunnel access built into a mountain the main controll point of the 
+castle towers controling the water access and is the waste desposal sewers of the 
+castle towers guards guading the tunnel access.You must go through the tunnel access 
+to get to the castle towers.
+
+Levels 12-15 Castle tower
+
+You made it to the castle tower  these levels are simler to the castle levels introducing 
+more new walls and large rooms at times slightly more challenging to previous levels 
+well guarded.
+
+Level 15 Boss 3
+
+Here you will meet Hanz Gross again this is Hanz twin Hanz the second guarding the 
+key to the rest of the tower.
+
+Level 16 Tunnel 3
+
+This tunnel access is the access to the tower peek built right under a mountain as 
+an access to the tower peek and is the controll point to the tower peek controlling 
+water access to the tower peek and is the waste disposal and sewer to the tower peek.
+
+
+Level 17 Tower Peek
+
+Located on the peek of a mountain is the tower peek. Here you can get the best view 
+from down below you.
+
+Level 18 Office Level
+
+After taking the elevator on the tower peek you end up on the office floor.This is 
+an office area where all the paper work and conferences take place.This level is 
+guarded with just officers.
+
+Level 19 Dungeon Level
+
+Below the tower is a dungeon floor a big cell where prisners are taken after being 
+stored in the small cells in the castle and lower tower level if they make it out 
+alive.
+
+Level 20 Boss 4 
+
+This is the very top of the tower where you face Otto Giftmatcher this it's Otto's 
+twin Otto the second guading the key to the bunker levels.This level is also the 
+place where the chemical warfare is arranged and is or was home to both Otto's.
+
+Levels 21-25 Lower Nazi millitary base
+
+These are the lower Nazi millitary base levels this is where things start to look 
+different built out of rock and brick to make a strong bond this is the nazi hedquaters 
+milletery base. Things really start to get more challanging, some levels can be heavily 
+guarded at times so be carefull.
+
+Level 25 Boss 5 
+
+Another Hanz Gross awaits you.
+
+Levels 26-29 Upper Nazi millitary base
+
+The upper floors of the millertery base Levels 26 and 28 are home to the grey uniformed 
+SS guards guarded with SS guards. Some parts of levels can be packed with SS guards.
+
+
+Level 29 Boss 6
+
+This is it here you are on the Hitler's floor where you will face Hitler himself 
+this is hitler's home.Nobody has ever made it out alive defeat Hitler and you have 
+nearly brought the third riech crashing down.
+
+Level 30 Castle escape
+
+You have nearly made it right outside at the top of the castle its night time.There 
+are some guards guarding the exit and a forest and cave and mountain and the end 
+of the castle.Kill the nazi's and escape through the locked door.
+
+Levels 31-35 Laberatory levels
+
+Just when you thought your mission was over it had only just started when you went 
+to escape the castle from the peek and take what you thought was an exit there was 
+another building where you heard screams of touture.You must go in there and bring 
+down Scabb's and his mutant army as no nazi life form must exist as the sooner there 
+gone the better.These levels are clinical in style with white and grey panelled walls 
+and hospital beds and lots of bones and blood on the floors and the mutants make 
+their first apperance.These laberatory levels are where the prisners are taken if 
+they make it out alive they are either killed and or become part of Scabb's twisted 
+experiment.
+
+Level 35 Boss 7
+
+Here you will face an Ubermutant one of Scabb's giant creations.This is where Ubermutant's 
+are created and this is Ubermutant's home and there are reguler mutants here as well.Kill 
+him and then proceed to the upper laberatory floors.
+
+Levels 36-40 Upper Laberatory floors
+Similar to the lower Laberatory levels, this is where the mutant's are created and 
+Dr Scabb's live here. This is what happens to the prisoners they are turned into 
+mutants.
+Level's 41-45 Caverns of the unknown
+Your mission isn't over yet, after defeating the twisted Dr Scabb's you leave his 
+diabolical laberatoy home and come across the mysterious Cavern's of the unknown, 
+there called the Cavern's of the unknown because no human has ever encountered them. 
+You are the first person to have made it this far, you must go into the Cavern's 
+of the unknown and prepare yourself for what may lie within.
+
+Level 45 Boss 9
+So far you have discovered more mutant's within the Cavern's of the unknown, here 
+you will have to battle with another Ubermutant.
+
+Level 46 Cavern tunnels
+A secret tunnel, you must go through this tunnel and find out where it takes you.
+
+
+Level's 47-49 2nd part of the Caverns of the unknown
+The end of the tunnel takes you to the 2nd part of the Cavern's of the unknown, the 
+2nd part of what you believe is the mutant's habitat. You must find out what's at 
+the other end.
+
+Level 50 The Lair of the unknown
+Nobody really knows about what terrors may lurk here, your the only person who's 
+about to find out.
+
+Secret levels Level's 59-60
+These secret levels are located at verious locations within the castle units. An 
+opertunity to get extra treasure, access to these levels are quite well hidden
+
+Super secret levels Level's 51-57
+Super secret levels are or tend to be very well hidden, se if you can work out how 
+to get to them.More opertunities to get extra treasures and dig for gold. But be 
+warned you will have to fight before you proceed to a super secret  
+
+Ultra secret level
+See if you can find it. If you can get there there will be a real reward for you 
+up there. But be warned again you will have to fight for access to it.
+
+
+
+
+
+
+
+
+Credits and acknolidgements
+First of all and most importantly thanks to all the guys at Id software and apogee 
+for Wolfenstein 3D and it's sequal or prequal Spear of Destiny, and thanks to Form 
+Gen Corperation for the 2 Spear addons Return to danger and Ultimate. Thanks to them 
+also for relesing editing programs such as Mapedit level designer and Wolfedit vswap 
+graphics editor, without those programs not even Form Gen's Spear addons would have 
+existed. But also thanks to them guys for relesing the Wolfenstein source code. Thanks 
+also to people like Florian Stohr for Flo Edit and Chaos software for the fantastic 
+Chaos edit, all these editing programs made this Wolfenstein Mod what it is.
+
+I would now like to give further credit to a few more people, BJ Rowan for his substitute 
+grey stone wall set, blue stone wall set, wood pannel wall set, red brick wall set, 
+silver steel plate wall set, slimmy grey stone wall set, the light grey lab tiles 
+wall set, the dark grey stone wall, the slimmy green brick wall, the complete set 
+of doors, the silver suit of armor?, the silver cage, the pile of skulls and bones, 
+substitute silver key, substitute first aid kit, grey ammo clip, MP40 item and images, 
+silver chaingun item and images, substitute cross? chalace, jewls and crown, substitute 
+ammo crate, grey uniformed SS, bloody hospital bed, hospital bed, guard barking height, 
+dog bark, Goodentag, hanz fall, mutant fall, officer fall, guard fall, guard cry. 
+Form Gen Corp for dark grey marble wall, grey rock wall, yellow pannel wall, substitute 
+water, light bulb. Id software for original wolfenstein and Spear wall textures, 
+props, characters and sounds and music. Ken O Brian fow substitute wall textures. 
+Laz Rogers for dark brown brick wall ( what about the golden brown stone? ), possibly 
+props but credit goes to him for weapon sounds and door sounds. Nate Smith for props 
+and some sounds. Barry Christian for green stone wall, cloudy landscape. Paal Olstad 
+for the platnimn marble wall. Not sure who created the check tiles wall or the grey 
+x wall. Luke Strauman for the blue slimmy stone. MCS for the forest wall which I 
+slightly modified. Kuki for the end boss. WSJ for some of the sounds such as the 
+guard falls and screams. Reactor for his midi and IMF music packs of carefully selected 
+music and thanks to whoever converted the imported songs to IMF.
+
+There are some vswap graphics that are new to this mod, just a couple of wall textures 
+created by me, the blue strip wood pannel and the grey strip wood pannel. I also 
+might have recoloured the day landscape into a sunset landscape. Feel free to use 
+these in your own mod if you wish to.
+
+I would also like to thank a few people for source code tutorials Martin Krysiak 
+<mailto:muad.dib1@wp.pl> for directing tutorials at the Wolfenstein dome, MCS for 
+the seamless levels shortcut, Luke Strauman for source code tutorials. Without you 
+guys many of this mod's code changes wouldn't have been possible, so thanks it's 
+more than I could have asked for.  
+
+And thank you for downloading and playing this mod I hope you enjoy playing this 
+mod as much as I enjoyed creating it
+
+
+
+How I created this mod
+Mapedit for level creation
+Wolfedit for vswap graphic replacement
+Flo edit for editing levels, vswap graphics and sounds, vga screen graphics, importing 
+new music, editing end art and recording new demos
+Chaos edit for level editing, graphics editing.
+Wolfenstein source code code editing. 
+
+
+You are welcome to use this mod as a base for your own mods, if you want to use any 
+of the vswap graphics or sounds and music from this mod fine by me full credit as 
+mentioned above, your welcome to use the levels in this mod for your own mods. 
+
+
+
+   
+
+      
+
+   
+
+   

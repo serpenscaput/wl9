@@ -1,0 +1,312 @@
+^P
+^C7d WELCOME TO WOLFENSTEIN RELOADED
+
+^C26 What is Wolfenstein Reloaded?
+
+^C00 This is  our vision of iD Software's original title Wolfenstein-3D. We did our 
+best to create it interesting, yet balanced game experience. It started out as only 
+a graphical "facelift", things got out of hand and here we are.
+
+^C05 Project started: ^C00 March 15th 2006
+^C05 Project finished: ^C00 July 28th 2006
+^C05 Total time spent: ^C00 4 months
+
+Version number: ^C00 1.0
+
+^P
+^C7d THE STORY
+
+^C00 This is the epic story of B.J. Blazkowicz, American spy for the Allied forces 
+in World War II.  Facing horrific dangers, sometimes he only had a knife and his 
+wits between him and death.  His escape from Nazi imprisonment is the stuff of contemporary 
+legend.
+
+^P
+^C7d THE STORY
+
+^C00 Herein are the tales of our hero and his nighttime assault on the wagers of 
+chemical war: his assignment to eliminate Otto Giftmacher, the creator of the weapons; 
+his search for the plans to the Giftkrieg, or Poison War; and his final battle against 
+the man organzing the insidious war, General Fettgesicht.  This is the tale of how 
+B.J.  Blazkowicz became a symbol of freedom and justice, how he stood against untold 
+odds and dealt the enemy a crippling  blow.
+
+^P
+^C7d THE STORY
+
+^C00 Captain William J. "B.J." Blazkowicz, you've got a gun and a deadly mission 
+ahead. Good luck! Hey, if you make  it, you'll have something to tell your grandkids 
+about...  If you don't, at least you'll go out in a blaze of glory!
+
+^P
+^C7d MANUAL
+
+^C00 This manual is essential to your survival, everyone should read it thoroughly 
+to avoid being shot or even worse, dismembered.
+
+^P
+^C7d MANUAL
+
+^C26 Performance/Quality options:
+
+^C00 Select "Control" from the main menu and choose "Performance options" deselect 
+options to increase performance select options to improve quality. Select options 
+to fit your needs.
+
+^C37 Textured floor/ceiling: ^C00 Select to render textures to ceiling and floor.
+
+
+^C37 Light shading: ^C00 Depth shading. Longer distances look darker than closer.
+
+
+^C37 Console: ^00  Enables console messages. (Requires full viewsize)
+^P
+^C7d MANUAL
+
+^C26 Performance/Quality options:
+
+^C37 Show FPS: ^C00 Displays Frames per second counter. (Requires full viewsize)
+
+
+^C37 Auto switch weapon: ^C00 Automatically switches to better weapon when you collect 
+a weapon you don't have.
+
+^P
+
+^C7d MANUAL
+
+^C26 Controls:
+
+^C09 Remember, allways have NUM-Lock on before you run the game. Fail to do so and 
+you might experience inability to run.
+
+^P
+^C7d MANUAL
+
+^C26 Redefinable controls:
+
+^C09 Arrow keys: ^C00 Movement
+^C09 Alt: ^C00 Strafe
+^C09 Control: ^C00 Fire
+^C09 Shift: ^C00 Run
+^C09 Space: ^C00 Open, activate or take
+
+^P
+^C7d MANUAL
+
+^C26 Unredefinable controls:
+
+^C09 G: ^C00 Pickup bodies
+^C09 R: ^C00 Attach riflegrenade launcher
+^C09 S: ^C00 Snap a screenshot
+^C09 F1: ^C00 Opens the help
+^C09 F2: ^C00 Save game ( ^C09 F8: ^C00 Quicksave )
+^C09 F3: ^C00 Load game ( ^C09 F9: ^C00 Quickload )
+^C09 F4: ^C00 Sound menu
+^C09 F5: ^C00 Resize view
+^C09 F6: ^C00 Control menu
+^C09 F7: ^C00 End game ( ^C09 F10: ^C00 Quit game )
+^C09 Tab: ^C00 Displays level name in the console
+^P
+^C7d MANUAL
+
+^C26 Know your foes:
+
+^C06 Basic german infantry ^C00 carry Karabiner 98 (K98) rifles. Just try to stay 
+close, they shoot ineffectively at point blank. Letting them further, will allow 
+them to hit better.
+
+^C06 SS-Troopers ^C00 wield a close-range submachinegun called MP40, they are accurate 
+shots at close range, try to stay away from them, and pick them with rifle if you 
+have one.
+
+^P
+^C7d MANUAL
+
+^C26 Know your foes:
+
+^C06 Officers ^C00 are armed with a standard issue Luger Parabellum, they are agile 
+and easily run away and seek for help. Don't let them out of your sight.
+
+^C06 Mutants ^C00 are the creation of Dr. Schabbs, they come in many forms, only 
+few models were used in the war. Our intelligence knows only one type of them, which 
+carry a luger in their stomach, held in an iron fist and carry cleavers for melee 
+attacks.
+
+^P
+^C7d MANUAL
+
+^C26 Know your foes:
+
+^c00 Unfortunately this is all we know, prepare for surprises, as there will be some.
+
+
+^P
+^C7d MANUAL
+
+^C26 Equipment:
+
+^C02 Luger parabellum: ^C00 Rapid semi-automatic firing mechanism and reliability 
+makes this an effective weapon at moderate ranges.
+
+^C02 Silenced Walther P38: ^C00 Slightly slower firing rate than luger, but it's 
+equipped with a silencer, can be used to silently take out enemies.
+
+^P
+^C7d MANUAL
+
+^C26 Equipment:
+
+^C02 MP40: ^C00 Fully automatic weapon that rips enemies apart at close ranges. Effective 
+at clearing rooms, remember it eats up ammunition quite nicely.
+
+^C02 Karabiner 98: ^C00 The German army standard rifle, packs a great punch even 
+at long ranges. Main weakness is the close range accuracy, it will not do you any 
+good against the MP40 point blank. It is not very effective boss  fighting weapon.
+
+
+^P
+^C7d MANUAL
+
+^C26 Equipment:
+
+^C02 M1 Garand: ^C00 This is less effective than the german rifle, but it is extremely 
+accurate and fast. This weapon is the main assault weapon of the U.S.
+
+^C02 Rifle grenade: ^C00 Can be used in the rifles of both nations. Usefull to kill 
+groups of people and cleaning barracks. Do not use this against the bigger boss enemies 
+as it is not very effective against them.
+
+^P
+^C7d MANUAL
+
+^C26 Equipment:
+
+^C02 M1A1 Thompson: ^C00 The American made submachine gun that is very fast, but 
+does not do as much damage as the MP40. The range is also bad, but this is a good 
+assault weapon if you have bullets.
+
+^C02 The Chaingun: ^C00 This should be used against large groups of enemies, it consumes 
+ammunition pretty fast, but it has a huge ammo capacity. Try not to focus your fire, 
+just spray and pray.
+
+^P
+^C7d MANUAL
+
+^C26 Survival guidelines:
+
+^C87 Hide the bodies, ^C00 don't keep the bodies piled up, enemies might see them 
+and get alerted. They will not be alerted without carrying out an investigation, 
+to see that the person is actually dead.
+
+^C87 Avoid alarms. ^C00 In some maps there might be alarm posts that guards can use 
+them to alarm all the barracks. In fact, don't let them walk into a barrack either, 
+because they will alert everyone inside.
+
+^C87 Don't rush, ^C00 it means almost certain death. Enemies might be ambushing anywhere. 
+Even if alerted, they might not be heading your way
+
+^P
+^C7d MANUAL
+
+^C26 Survival guidelines:
+
+^C87 Keep a low profile, ^C00 try to kill enemies silently with the knife or the 
+Silenced Walther. Shot to the back of the neck will certainly teach them a lesson.
+
+
+^C87 Search for hidden passages ^C00 in the walls, they might contain German stolen 
+treasure or ammunition and health items.
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C2b We would like to thank the following people for their contribution:
+
+^C26 Graphics:
+
+^C02 WLHack: ^C00 The chandalier
+^C02 WSJ: ^C00 Heer and Allgemeine enemy packs and his scientist sprites.
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C26 Coding, weapon graphics:
+
+^C02 Codetech84
+
+^C26 Mapping, textures, bosses:
+
+^C02 Megabyte
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C26 Coding "guest stars":
+
+^C02 Adam Biser: ^C00 Wall patches, multiple  floor/ceil.
+^C02 Ripper: ^C00 The usual and then some
+^C02 MCS: ^C00 Wolf source lite
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C26 Sounds:
+
+^C02 Tricob: ^C00 His effort and sound ideas
+^C02 Andy_Nonymous: ^C00 Sound recording
+^C02 Forgotten Hope Mod: ^C00 Weapon sounds
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C26 Influence:
+
+^C02 Map Design: ^C00 B.J. Rowan, Areyep and Laz Rojas
+^C02 Graphical Design: ^C00 Ben Blaufarb and Areyep
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C26 Beta testing:
+
+^C02 WLHack
+
+^P
+^C7d WOLFENSTEIN RELOADED CREDITS
+
+^C26 Miscellaneous credits:
+
+^C02 iD Software
+^C02 Diehardwolfers community
+^C02 Brian Lowe ^C00 for Wolfenstein-3D Dome
+^C02 Lost Horizon ^C00 for their inspirational music \m/
+
+^P
+^C7d UTILITIES USED
+
+^C00 Here's a complete list of tools used
+
+^C7d Chaos-Edit: ^C00 Data replacement
+^C7d MS-Paint: ^C00 All graphics creation
+^C7d Jasc PSP: ^C00 The darker texture sides and the title screen
+^C7d Borland C++ 3.1: ^C00 Code Compilation and editing
+^C7d Goldwave: ^C00 Sound converting
+^C7d Notepad: ^C00 Help/Intermission screens
+^C7d Google.com: ^C00 Images and other information
+^C7d Winamp: ^C00 To play some kickass tunes
+^C7d RecolorBMP: ^C00 Image recoloring
+^C7d Altavista Babelfish: ^C00 Translation (Sadly)
+
+^P
+^C7d THANKS FOR PLAYING!
+
+^C00 We hope you will enjoy this title. Now get out there.
+
+You're dismissed...
+
+^C00 Check out KFH Games headquarters at
+^C84      http://koti.mbnet.fi/kfh
+
+^C17 Megabyte & Codetech84
+^E

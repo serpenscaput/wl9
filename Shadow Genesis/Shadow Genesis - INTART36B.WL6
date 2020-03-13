@@ -1,0 +1,57 @@
+^PAGE 1
+^c9													The Encounter
+^c00
+			This is it, then. It's finally time for the encounter. B.J. and Snake are now 
+reunited and can face the incoming threats together.
+			Once everything is settled, you can give commands to Snake, and he will act accordingly. 
+For that, press the button F11, and you will be shown a list with the possible commands. 
+
+			It may take a while for you to get used to how Snake acts, but you will soon realize 
+how useful is to have an ally by your side.		^p 
+			Here is a list of the possible commands and a brief explanation on what makes 
+them different from each other:
+
+^CA5			Fire at Will: ^c00 This is the default mode, and the most balanced one in 
+terms of defensive and offensive capabilities. Snake will moderately attack the enemies 
+using his pistol. 
+
+^C20			Attack Aggressively: ^C00As the name says, Snake will attack more aggressively 
+when in this mode. This means he will use the most powerful weapon at his disposal: 
+the shotgun. Be aware that he has infinite ^P
+ammo for his pistol, and only for the pistol. This mode is best suited for situations 
+when you need to demolish a large group of enemies, or when you get surrounded, for 
+example. Even if Snake has no ammo for the shotgun, the way he behaves when using 
+the pistol also changes. He will attack more frequently and dodge less frequently. 
+
+
+^C64			Cover me: ^C00A more defensive mode, Snake will try to stay closer to you, 
+not chasing enemies too far. Also, he will attack aggressively enemies that are close 
+to you. He can also notice enemies within a ^p
+greater radius in this mode.
+
+^CA6 			Group Fire: ^C00Great for coordinated attacks. Snake won't attack enemies 
+that you haven't attacked recently. If you wish to eliminate a specific target, then 
+this mode will prove useful. Once you attack an enemy, Snake will lock on that target 
+for a short while. If you keep attacking, you both will be concentraed on attacking 
+the same enemy. 
+
+^C90			 Target Lock: ^c00Once Snake has a target, he will not change it until the 
+target is dead. However, unlike ^ca6Group Fire, ^c00Snake is ^p
+free to choose his own targets when in this mode. This can be quite dangerous if 
+you are reckless. For example, while Snake is chasing his target, he could end up 
+luring lots of creatures on you. You should be careful when using this mode.
+
+^c29			Follow Me: ^c00Snake will not attack enemies when in this mode. He will simply 
+follow you with an increased speed, when compared to the other modes. This can be 
+used in situations where you want to avoid combat, or in case you get lost from each 
+other, for example. ^p
+^c79			Defend Site: ^c00The most defensive mode available, you should use this one 
+to defend a specific position. Snake will attack aggressively with his shotgun while 
+maintaining his position. He won't chase enemies or move around.
+
+			Those are the modes you can choose during the game. Like said before, you can 
+press F11 for choosing the mode, or you can use the Open command while near Snake. 
+You will also be show how much shotgun ammo Snake has in this window. ^p
+			That's it, then. Go on, proceed with your mission, there is a world to be saved 
+and you have wasted way too much time reading this.
+^E

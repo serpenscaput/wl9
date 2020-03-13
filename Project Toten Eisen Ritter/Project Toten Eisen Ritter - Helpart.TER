@@ -1,0 +1,448 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Project: Toteneisenritter, an add-on for Wolfenstein 
+3D. It was created by me, Ling Yan Li. This project is my third Wolfenstein TC. It's 
+pretty good, but this game can be extremely difficult at times, but it's not impossible 
+to beat.  I would suggest that you save your game often.
+
+^C00 This add-on was done in a style similar to Laz Rojas' WolfenDoom games.
+
+^P
+^C7d INTRODUCTION
+
+^C00 This add-on is one of my best add-ons out of the 3 add-ons I've created. Maybe 
+my other add-ons weren't done very well, but now I have more experince than before. 
+This add-on also has two or three add-ons combined into one big, kolossal, huge add-on. 
+cool, eh? Wolf Skevos-Jones, Mega Luigi, Mario Maniac, & The DieHard Wolfers Community 
+helped me out with the source code tutorials.
+
+^P
+^C7d A NOTE TO OTHER ADD-ON MAKERS
+
+^C00 Since this game was intended to be similar to Laz Rojas' WolfenDOOM, many of 
+the graphics and sound effects were taken from WolfenDOOM games under Laz's permission. 
+Please do not use parts of this add-on for your own add-ons. Thanks.
+
+^P
+^C7d THE STORY
+
+^C00 October 1944--You, Captain William J. Blazkowicz, recovered some Nazi plans 
+for a major assault that could threaten the entire free world.  A head Nazi science 
+officer, is under an assignment from the Fuhrer to design the "ultimate soldier." 
+ The Scientists were once a colleague of the infamous Dr. Schabbs.  For nearly eight 
+years, The scientists have been conducting diabolical experiments on human beings 
+in order to supply the Third Reich with an army of super-soldiers.
+
+^P
+^G32,16,23
+^C7d THE STORY
+
+^C00 Some of his creations have already been witnessed on the battlefield:  Aryan 
+superhumans, undead mutations, and killer robots. The scientists continue to make 
+terrifying advancements in technology.  If he wasn't a complete psychopath, he would 
+be considered a great genius, centuries ahead of his time.  
+
+^P
+^C7d THE STORY
+
+^C00 The Nazi operation that the Allies are the most concerned about is Toteneisenritter 
+("Death Iron Knight").  From the plans you stole, it seems that the scientists' are 
+building a robot made of iron that has a human brain.  This robot, known as the Iron 
+Knight, is well-armored and has built-in heavy weapons. Because it has a human brain, 
+it's capable of intelligent thought, unlike the scientists' ordinary robots.  Once 
+there is an army of Death Iron Knights, they'll be unstoppable, plowing through Allied 
+armies like a bulldozer.
+
+^P
+^C7d THE STORY
+
+^C00 In order to save humanity from tyranny, destruction, and enslavement of all 
+races other than German, the Allies have chosen you, B.J. Blazkowicz, to put an end 
+to Project Toteneisenritter.  You are the best man they've got.
+
+^P
+^C7d THE STORY
+
+^C00 According to the O.S.A. (Office of Secret Actions), The Scientists' base of 
+operations is located somewhere near the coast of Norway.  Allied Intelligence sources 
+have seen a mass of troops and supplies being transported to the base.  You shall 
+be parachuted into a nearby forest where the enemy won't detect you.  From there, 
+however, it will be up to you to find the entrance to the Nazi base.  
+
+^P
+^C7d THE STORY
+^G32,16,34
+
+^C00 Once inside, take whatever measures necessary to get through the labs.  Eliminate 
+the Death Iron Knight.  With the Death Iron Knight prototype gone, the Nazis won't 
+be able to build any more Iron Knights.  Project Eisenritter will be a failure, and 
+the Allies will no longer be threatened by the scientists' vile army.
+
+^P
+^C7d THE STORY
+
+^C00 Be warned.  You're likely to encounter heavy resistance from the S.S. contingent 
+guarding the labs.  Even worse, you may encounter subjects of some of the scientists' 
+earlier experiments.  There are varying reports -- some speak of large, armored soldiers 
+with mechanically enhanced strength, similar to Hans Grosse; others speak of modified 
+versions of Schabb's undead soldiers.  There is one unconfirmed sighting of a huge 
+figure clad in polished-black iron, resembling an S.S. officer.  
+
+^P
+^C7d THE STORY
+
+^C00 Use whatever means necessary to ensure that your mission is accomplished.  The 
+fate of the free world lies in your hands.  Good luck! 
+
+^P
+^C7d FEATURES
+
+^C00* 60 new levels 
+* New enemies & Bosses
+* Many new graphics & sounds
+* New Enviroments
+* 10 Killer Weapons!
+* Changed help screen and end screen
+* Intermission text
+* Changed ceiling and floor colors
+* New music
+* Ambient Sound Effects
+* Animated Static Objects
+* Gun Bobbing
+* and much more...
+
+^P
+^C7d NEW KEYS
+
+^C00 You can also toggle the crosshair and gun bobbing mode feature if you want.
+
+
+^C7d Gun Bobbing: ^C00 Press Backspace+B to toggle Gun Bobbing mode On or off.
+
+^C7d Crosshair: ^C00 Press X to toggle the Crosshair on or off.
+
+^P
+^C7d ITEMS
+
+^C00 Throughout the game, you will find some supplies to help. There are health, 
+treasure, ammo, etc.
+
+^P
+^C7d ITEMS
+
+Treasure: ^C00There is Egyptian treasure in the game. You'll find more of it once 
+you get to Egypt. Some in Germany are being studied by Nazis. Enough treasure can 
+give you an extra life.
+
+^C7d Canopic Jar: ^C00 100 points
+^C7d Chalice: ^C00 500 points
+^C7d Chest: ^C00 1000 points
+^C7d Lantern: ^C00 5000 points
+^C7d Gold: ^C00 2500 points
+^C7d Crown: ^C00 7500 points
+
+^P
+^C7d ITEMS 
+
+Health: ^C00 Around the game, there are four kinds of health items. One is a bottle, 
+one is a plate of food, one is a dope and one is a first aid kit. Your health can 
+go up to 200%
+
+^C7d Bottle of Schnapps: ^C00 4%
+
+^C7d Nazi Dope: ^C00 5%
+
+^C7d Food: ^C00 10%
+
+^C7d First Aid Kit: ^C00 25%
+
+^P
+^C7d ITEMS
+
+Keys: ^C00 If you can't open a door, you can find a key hidden in the area. There 
+are four kinds of keys: one is silver, one is gold, one is bronze, & one is iron.
+
+
+^P
+^C7d ITEMS
+
+Extra Life: ^C00If you see a floating sphere that has your face on it, it can give 
+you an extra life. It also gives 99% health.
+
+^c7dArtifact of Invincibility- ^c00This artifact is yellow, and has your face in 
+the center. It is extremely rare. It can only be found on a few levels, but are hidden 
+in secret areas! When grabbed, you will be invincible for the remainder of the game.
+
+
+^P
+^C7d ARSENAL
+
+^C00 There are four weapons to use in the game going from weakest to the most powerful. 
+All weapons use ammunition except your knife. There are 2 ammo types.
+
+Knife: ^C00This weapon requires no ammo and is used for close-range.
+
+^P
+^C7d ARSENAL
+
+^C7d Luger: ^C00The standard German pistol. It's also the weapon you start the game 
+with. It cannot shoot rapidly, but you'll find other weapons better than this one.
+
+
+^C7d MP40: ^C00This is the submachine gun used by the infantries. It can also shoot 
+more rapidly than the Luger.
+
+^C7d Mauser: ^C00The Mauser is the standard German rifle.  Its strength and accuracy 
+make it the choice weapon among snipers. 
+
+^P
+^C7d ARSENAL
+
+^C7d STG44: ^C00Abbreviated for "Sturmgewehr 44," the STG44 is an assault rifle that 
+has the same rate of fire as the MP40, only it is much more powerful.
+
+^C7d Chaingun: ^C00The ultimate weapon of killing things. It has six barrels and 
+can shoot more rapidly than the others.
+
+^C7d Panzerfaust: ^C00The Panzerfaust is a German rocket launcher.  Now you can REALLY 
+do some damage!  However, the Panzerfaust uses rockets that are hard to find.
+
+^P
+^C7d ARSENAL
+
+Flamethrower: ^C00It's time to roast those Nazis!  The flamethrower uses canisters 
+of kerosene.
+
+^C7d Blitzgewehr ("Lightning gun"): ^C00The Blitzgewehr is the most powerful weapon 
+in the game.  It is an experimental energy gun that was designed by Nazi scientists. 
+ In order to recharge the Blitzgewehr, you must find the special batteries it uses. 
+These weapons are very scarce when you reach Egypt.
+
+^P
+^C7d ARSENAL
+
+Silenced Sten: ^C00Originally developed by the British, this submachinegun has been 
+fitted with a silencer and is more powerful than the MP40.  Great for stealth attacks.
+
+
+Press 0-9 to select the weapons you choose. 1 for Knife, 2 for Luger, 3 for MP40, 
+4 for Mauser, 5 for STG44, 6 for Chaingun, 7 for Panzerfaust, 8 for Flamethrower, 
+9 for Blitzgewehr, and 0 for Slienced Sten.
+
+^P
+^c7d DEADLY ITEMS
+
+^C00 The nazis have a plan to use landmines, helping defeat any intruders at the 
+complex. Anyway, they use inside the castle too. Carefull and keep your eyes open!
+
+
+^c7dLandMine- ^c00a small item who can be found at any circunstances. Don't touch 
+it!
+
+^c7dEvil Cross- ^c00a silver cross with black jewels. This artfact can kill you. 
+Never try to grab it, or you will lose your life!
+
+^P
+^C7d THE ENEMY
+
+^C00Your enemies are the Third Reich. In the game, there are the Scientists, Wehrmacht 
+and the Afrika Korps. The Scientists are found in the bio-labs. The
+Wehrmacht is in Germany and the Afrika Korps will be found in Egypt. You will also 
+face other things...
+
+^P
+^C7d THE ENEMY
+^G32,16,30
+
+^C7d Guards: ^C00The guards are especially weak, but they are also dangerous. They 
+are armed with the Luger. Stay away from them if you're too close to them, and kill 
+them.
+
+^C7d Infantries: ^C00The infantries are more dangerous than the guards. They are 
+more tough and use the MP40. They can cause serious damage.
+
+^P
+^C7d THE ENEMY
+^G32,16,31
+
+^C7d Officers: ^C00The officers are armed with the Luger, but they are also tough 
+and aggressive. If you don't kill them quickly enough, they will show you no mercy.
+
+
+^C7d Scorpions: ^C00When you approach the Egyptian tomb, you will also face giant, 
+black scorpions. They will attack any human being alive and sting them and eat them. 
+They are fast and dangerous, but they're not that tough to kill.
+
+^P
+^C7d THE ENEMY
+^G32,16,32
+
+^C7d Mummies: ^C00Besides the scorpions, you will also face mummies resurrected from 
+the dead. They are slow moving, but are very dangerous when you're close to them. 
+Not only will they try to smack you, but also the Nazis.
+
+^P
+^C7d THE ENEMY
+^G32,16,41
+
+^C7d Nazi Scientist: ^C00You will find these guys in the Nazi laboratories where 
+they're conducting diabolical experiments.  They're not very strong or have big guns, 
+but don't show these scum any mercy -- you'll become their next guinea pig!
+
+^P
+^C7d THE ENEMY
+^G32,16,42
+
+^C7d Mechanoid Stormtrooper: ^C00 Very few have seen these Nazi cyborgs and lived 
+to tell the tale.  It is believed that they are an enhanced version of Dr. Schabbs' 
+original mutations.  Their armor is said to be highly durable, and their bionic limbs 
+are powerful enough to wield MG42 machineguns.  We have no further info on this creature.
+
+
+^P
+^C7d THE BOSSES
+
+Super-Soldier: ^C00Through the use of cloning and genetic engineering, The Scientists 
+has created monstrous, superhuman Nazis.  It is believed that the Grosse brothers 
+were among the first superhumans created by the Scientists. A Super-Soldier is reportedly 
+guarding the entrance to the Nazi lab installation.  Later on, you must face the 
+scientists' army of Super-Soldiers!
+
+^C7d Cyborg Mutant Prototype: ^C00Somewhere in a test-lab, the prototype for the 
+scientists' enhanced cyborg holds an important key.
+
+^P
+^C7d THE BOSSES
+
+^C7d The Iron Death Knight: ^C00With a robotic body and a human brain, the Iron Death 
+Knight is the ultimate Nazi soldier.  His iron armor is extremely resistant, and 
+he has more firepower than even you can imagine.
+
+^C7d Robot: ^C00He is found in the science labatories, He can be difficult to trespass 
+through. Beware! He zaps electric arcs at you! Ouch!
+
+^P
+^C7d THE BOSSES
+
+^C00These bosses appear after destroying the Iron Death Knight.
+
+^C7d Franz Grosse: ^C00This German super-soldier of the Grosse family is forming 
+an assembly for his brother Karl, who is heading for Egypt. He is extremely tough 
+and carries two chainguns!
+
+^P
+^C7d THE BOSSES
+
+General Steinkopf: ^C00This German officer is a friend to General Erwin Rommel (better 
+known as the Desert Fox) and is involved in getting the Amulet of Anubis. He is armed 
+with a rocket launcher and a chaingun!
+
+^C7d The Mummy Lord: ^C00The Mummy Lord will be found in the Egyptian temple. He 
+can shoot flames to burn his enemies. Be careful!
+
+^P
+^C7d THE BOSSES
+
+^C7d Karl Grosse: ^C00Although he is tougher than his brother Franz; but in fact, 
+he has two chainguns and two rocket launchers! He is another leader involved in the 
+amulet.
+
+^C7d Kharanotep: ^C00This is the game's final boss. He throws electrical beams at 
+you! He's the guardian of the amulet. So Watch out!
+
+^P
+^C7d EXPLOSIVE OBJECTS
+
+^C00 There are exploding barrels in this game, when shot, the will explode and hurt 
+nearby enemies, espically you! so stay far away when you shoot the exploding barrels.
+
+
+^P
+^C7d HOW WAS THIS ADD-ON CREATED?
+
+^C7d Floedit 2.0: ^C00Adding Graphics & Sounds
+^C7d Mapedit 8.4: ^C00Adding Levels
+^C7d BMP2C: ^C00Signon Screen
+^C7d LZEXE: ^C00Compressing EXE
+^C7d Wolfedit: ^C00Graphics Modification
+^C7d Borland 3.1: ^C00Code Compiliation
+^C7d Chaosedit: ^C00Adding VGAGRAPH Images
+^C7d Notepad: ^C00HELPART, ENDART, & INTART
+^C7d Paint: ^C00Graphics modification
+^C7d Sound Forge 5.0: ^C00Sound effects 
+^C7d IMF Tools: ^C00Music Conversion
+^C7d WDC: ^C00Importing Music
+
+
+^P
+^C7d CREDITS:
+
+(Graphics, Sounds, Music)
+
+^C00 Laz Rojas: WolfenDoom Graphics/Sounds
+Zach Higgins: Graphics
+AreYeP: Music, Graphics
+Ian Skevos-Jones: QFTA Graphics & Music
+Wes DesJardins: Music
+BJ Rowan: Project Totengraeber Graphics
+Maijk Monkee: Images From His Image World
+Kyle Albert: Franz Grosse
+(continued)
+
+^P
+^C7d (Coding, Advice)
+
+^C00 Adam Biser: Split Hitler Tutorial
+Wolf Skevos-Jones: Teaching me the code
+MCS: Source Code Tutorials
+Tristan Van Putten: Code Tutorials
+Ripper: Remove Scalers
+Paal Olstad: Weapon Code, Explosions 
+Kuki: Teaching me source code
+James Ingham: Source Code Tutorials
+Mario Maniac: Teaching me the code
+Mega Luigi: Teaching me the code
+Luke Strauman: Source Code Tutorials
+(continued)
+
+^P
+^C7d (Editing Utilities)
+
+^C00 Florian Stohr: Floedit 
+Darkone: IMF Tools
+David Huntoon: Mapedit
+Ripper: BMP2C, Chaosedit
+Sonic Foundry: SoundForge XP 5.0
+Adam Biser: WDC
+Fabrice Bellard: LZEXE
+Bryan Baker/Warren Bruss: Mapedit
+Bill Kerby: Wolfedit/Mapedit
+(continued)
+
+^P
+^C7d SPECIAL THANKS:
+
+^C00 Brian Lowe: Posting this TC and Running The Wolf3D Dome
+ID Software: Making Wolfenstein 3D
+DieHard Wolfers Community: Source Code, Advice
+You: Downloading & Playing This Add-On
+
+^P
+^C7d CONTACTING ME
+
+^C00 If you wish to send me comments regarding this add-on, my current email address 
+is lingyan203@yahoo.com
+
+^P
+^C7d ENJOY PLAYING!
+
+^C00 I hope you enjoy Project Toteneisenritter!  Many unknown horrors await you! 
+ Good luck, B.J.!
+
+^E
+
+
+
+ 
+

@@ -1,0 +1,31 @@
+ATTENTION:  ENITE3FX.ZIP
+
+WELCOME TO THE SPECIAL INTERNET SCREWUP EDITION OF ENIGMA'S NIGHTMARE III.
+
+File:  ENITE3FX.ZIP  (Enigma's Nightmare 3 FIX).... Contains known good
+copies of the ENITE3F1.ZIP and ENITE3F2.ZIP archives to counteract the bad
+copies found at various ftp sites.  Some ass knowingly uploaded a damaged
+copy of Enigma's Nightmare III to the following Internet ftp sites:
+
+ftp.cc.umanitoba.ca
+
+ftp.uwp.edu
+
+And Lord knows how many others...........
+
+Since I do not have direct access to the Internet, ENITE3FX.ZIP is released
+to various BBS in hopes somebody is kind enough to send it along to as many
+ftp sites as possible.
+
+PLEASE, use the file ENITE3FX.TXT in the main archive as your internet
+descriptive text file when you upload the ENITE3FX.ZIP archive to an ftp
+site. It's a copy of what you're reading now and should be used.
+
+Regards, 
+
+ENIGMA-13
+
+PS... Please read the file NM3NOTES.TXT in the archive, for answers to
+various questions about Enigma's Nightmare III.
+
+

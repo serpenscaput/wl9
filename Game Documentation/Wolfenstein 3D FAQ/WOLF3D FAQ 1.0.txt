@@ -1,0 +1,1082 @@
+
+
+              Wolfenstein and Spear of Destiny FAQ
+
+Wolf3-D and SOD FAQ version 1.0
+
+
+
+
+
+This is a FAQ (Frequently Asked Questions) for Wolfenstein 3-D
+and Spear of Destiny. All specific names used in this file are
+trademarks: Apogee, FormGen, Wolfenstein 3-D (Wolf3-D or Wolf),
+and Spear of Destiny (SOD), etc.
+
+
+                            CONTENTS
+
+0.0 About Wolfenstein 3-D and SOD
+ 0.1 What is Wolfenstein 3-D and SOD?
+ 0.2 What do I need to run Wolf3-D and SOD?
+ 0.3 Where is Wolfenstein and SOD available?
+ 0.4 How do I unzip the "zip" file of the game?
+ 0.5 How is it installed to the hard drive?
+ 0.6 Is it possible to play Wolfenstein on a floppy disk?
+ 0.7 Can I cheat in Wolf3D and SOD?
+ 0.8 How can I contact ID Software or Apogee?
+ 0.9 Wolf3D for the SNES?
+
+1.0 What you need to know about Wolfenstein
+ 1.1 What are those guards saying?
+ 1.2 Is there a special way to find a secret passageway?
+ 1.3 What are secret floors and how do I find one?
+ 1.4 Can you kill the ghosts in Wolfenstein?
+ 1.5 How can you drink blood in Wolfenstein?
+ 1.6 Is there a way to play the music in Wolfenstein without     
+ playing the game?
+ 1.7 Do the difficulty levels do anything to the game besides add
+ guards?
+ 1.8 When I press Tab+T on SOD why is there a "Death Cam" sprite?
+ 1.9 What was the first Wolfenstein episode ever made?
+ 1.10 Who is B.J. Blazkowicz?
+ 1.11 How did SOD get started?
+ 1.12 What is the best way to play Wolf3d and SOD?
+ 1.13 How can I defeat the bosses?
+ 1.14 How do I access the hidden id picture in SOD?
+ 1.15 How many points do I get for treasure, kills, par time, and
+ 100% at the end of the level? 
+ 1.16 What is the description of each guard and boss?
+
+2.0 The 'Help Me!' section
+ 2.1 I never get 100% at the end of the level
+ 2.2 I can never find any ammo
+ 2.3 I feel like puking when I play it
+ 2.4 The sounds don't sound right
+ 2.5 It always crashes
+ 2.6 I always get lost
+ 2.7 I am going in circles and I'm not even touching the keyboard
+ 2.8 Problems with the software
+ 2.9 Game problems
+
+3.0 Map and graphics editors
+ 3.1 Map editing programs
+ 3.2 Some editing pointers
+ 3.3 Mapping problems
+ 3.4 Wolfenstein and SOD add-ons
+
+4.0 Future additions to this FAQ
+
+5.0 Revision history
+
+6.0 About this FAQ
+ 6.1 Copyright
+ 6.2 Apogee and this FAQ
+
+7.0 Closing
+
+
+
+
+
+
+0.0 ABOUT WOLF3-D AND SOD
+
+     0.1 WHAT IS WOLFENSTEIN 3-D AND SOD?
+
+     Wolf3-D and Sod are both "3-D" games. The object is to
+survive and not get killed by the Nazis (If you really hate Nazis
+than this is the game for you). You can choose four weapons to
+use; a knife, pistol, machine gun, and a chain gun. Use your ammo
+carefully because you could end up using your knife. If you like
+to explore in games and love secrets than this is for you: At
+least five secret doors on each floor. Over one hundred secret
+doors on one floor in Wolfenstein 3-D where you might find a
+weird sprite in the middle of it. This game also features Sound
+Blaster/Adlib sound and music support, joystick keyboard or mouse
+control, and four difficulty levels. 
+     The Wolfenstein 3-D series features six episodes including
+the shareware version (episode one), each episode has ten floors,
+one secret floor and nine regular floors. You can get the
+shareware version of Wolf3-D on Apogee's Software Creation's BBS.
+Call Apogee at 1-800-426-3123 for phone numbers and details. The
+two registered versions are only available from Apogee or
+FormGen. When I wrote the FAQ the price for episodes 1-3 were $35
+and if you already have the first three episodes for $20 you can
+get the Nocturnal Missions. You CANNOT play episodes 4-6 if you
+don't have the first three episodes. You can also buy the full
+six episodes for $50.
+     Spear of Destiny features one episode (a commercial version)
+of twenty one levels. Nineteen regular levels and two secret
+levels. If you don't want to get the full game and be
+disappointed about buying the game than try the two level demo
+available from FormGen. Call 1-800-263-2390 to order the demo
+disk. Yes, the demo disk is free for all of you freebies out
+there. You know who you are. If you want to buy the full game
+than order it from Apogee, FormGen, or buy it from you local
+software store. It sells for $35 at the software store and Apogee
+and FormGen.
+     If you want both Wolf3-D and SOD then order both for $85
+from Apogee.
+
+     0.2 WHAT DO I NEED TO RUN WOLF3-D AND SOD?
+
+     In order to run Wolf3-D and SOD you need: 
+
+Computer type- 80286 or better (NOT and XT machine)
+
+Graphics- 256 color VGA or SVGA monitor
+
+Memory- At least 600Kb or better. It also supports Extended or
+Expanded memory
+
+Hard Disk space- 1.4Mb for the shareware version
+                 2.5Mb for the full six episode version
+                 1.3Mb for the SOD demo disk
+                 3.1Mb for the full twenty-one levels
+
+DOS version- Just to be safe have at least DOS version 5.0 and
+later versions
+
+Running under Microsoft Windows- Running Wolf3-D under Window is
+not recommended. The digitized sounds will be screwed up and
+sometimes there will be stripes on the status bar.
+
+Disk compression programs- Stacker- yes
+                          DOS's Double Space- yes
+
+     0.3 WHERE IS WOLFENSTEIN AND SOD AVAILABLE?
+
+     Wolfenstein and SOD are available from Apogee and FormGen
+for $50. You can finally get Wolfenstein 3-D (the six episode
+series) in a store. I have seen it in Electronics Boutique,
+Babbages, CompUSA, Micro Center, and Software Etc. It sells for
+around $45 and I think it includes a hint book. The hint book is
+also available from Apogee for $10 if you already have the six
+episodes. If you buy Wolfenstein from Apogee for $50 than you get
+extra stuff like a bonus game, hint sheet, and cheat codes. I
+think these "zip" files of shareware version of Wolf3-D and the
+SOD demo version are available on Apogee's home BBS. If these
+"zip" files are not right then call Apogee at 1-800-426-3123 to
+find the right zip file name:
+
+                 Wolfenstein 3-D episode 1- wolf3d14.zip
+                          SOD demo version- soddemo2.zip
+
+     The shareware version of Wolf3-D is also available in
+shareware packages. They are usually found in software stores
+and Radio Shack.
+
+     0.4 HOW DO I UNZIP THE "ZIP" FILE OF THE GAME?
+
+     In order to unzip a file you need to have pkware's
+pkunzip.exe file (available on CompuServe; type GO PKWARE). To
+unzip a file, for example, type pkunzip, the directory the file
+is in, and then the zip filename. This should unzip the file that
+you chose to unzip.
+
+NOTE: PKUNZIP MUST BE IN THE SAME DIRECTORY THAT THE ZIPFILE IS
+IN!!!!!
+
+     0.5 HOW IS IT INSTALLED TO THE HARD DRIVE?
+
+     Basically just run the install program. Type INSTALL or
+whatever the install program is. Just make sure you have at least
+4Mb of hard drive space or the installation program will fail.
+
+     0.6 IS IT POSSIBLE TO PLAY WOLFENSTEIN ON A FLOPPY DISK?
+
+     I am positive that you can play the shareware version and
+the SOD demo version on the floppy. You CANNOT play the full six
+episodes or the full version of SOD because it won't fit on a 3.5
+disk or a 5.25 disk. It might be possible to play it on a disk if
+you have the 21 megabyte floptical disk but I personally have
+never tried it because I don't have one. I would recommend that
+you play it on the hard disk unless you want to pay over two-
+hundred bucks.
+
+     0.7 CAN I CHEAT IN WOLF3D AND SOD?
+
+
+     Sure you can! Just follow these instructions and you have
+yourself some major (and minor) cheat codes.
+
+     Regular codes: I, L, M- gives you full health, all the guns,
+                    all ammo, and both keys (This will also
+                    erase your score and add ten minutes to your
+                    time).
+
+                    TAB, G, F10- God mode (invincibility; SOD
+                    only)
+
+                    A, B, T- Displays reference to the Commander
+                    Keen Cheat. This is also the cheat code for  
+                    Commander Keen 4 & 5. I have no idea why this
+                    is here.
+
+THE WOLFENSTEIN DEBUG MODE
+
+
+     For Wolfenstein version 1.0 owners, type wolf3d-next or
+wolf3d next at the DOS prompt. For Wolfenstein version 1.1 owners
+type wolf3d-goobers or wolf3d goobers. After you have chosen a
+game and the difficulty, hold down the TAB, CONTROL, and ENTER
+keys for version 1.0 and LEFT SHIFT, ALT, BACKSPACE. You should
+get a message saying that the debugging keys are now available.
+Now hold down these keys to cheat in Wolfenstein;
+
+Tab+B- changes the border color
+
+Tab+C- Tells you how many actors, statics, and doors there are on
+a level
+
+Tab+E- Moves ahead two levels. In Wolf3d version 1.4 and SOD it
+only moves ahead one.
+
+Tab+F- Displays your position in the level your are currently on.
+
+Tab+G- "God" mode. You are invincible. Works for both Wolf3d and
+SOD. Look at B.J.'s eyes when you access this on SOD.
+
+Tab+H- Commit Suicide. Subtract 16% or 4% health. Basically a
+suicide attempt.
+
+Tab+I- Free Items. Gives you machine gun or chaingun, 56 ammo,
+full health and one thousand points. In SOD it gives you one
+hundred thousand points and an extra life. Sorry, this command
+does not give you both keys.
+
+Tab+M- Displays how much memory was used. Got me pumped up.
+
+Tab+N- No clipping. Allows you to walk through walls and
+sometimes be invisible to the enemies! This command only works in
+SOD and Wolf3d version 1.0.
+
+Tab+O- Displays an overview map of the current level. Only works
+in Wolfenstein version 1.0.
+
+Tab+P- Pauses the game without the Paused block. A nice command
+for a screen shot.
+
+Tab+Q- Quits the game. Don't use this unless you don't want to
+get in trouble with your boss if he walks in.
+
+Tab+S- Slow motion. Just makes the game slower. Makes the game
+almost stop in my version of SOD.
+
+Tab+T- Displays all the graphics in the game. If you come to a
+blank space keep going if you have the shareware version. If you
+have the full version then press space to see the graphic.
+
+Tab+V- Asks you how many VBL's do you want. I don't know what
+this does.
+
+Tab+W- Warps to any level. Choose only numbers 1-10 in the
+shareware version or 1-2 in the demo version of SOD or the game
+will crash.
+
+Tab+X- I don't know what this does. If you do know, then please
+tell me.
+
+
+THE TEDLEVEL COMMAND
+
+     I forgot how to use this but it will send you to a level
+that you want to work on.
+
+
+DEMO RECORDING MODE
+
+     If you want to record a demo then hold down TAB at the
+screen where B.J. is hiding from a guard. Pick a level. I don't
+know how to play the recorded demo after you record it so if you
+know please tell me. On my computer the game crashes after a
+while. You must have put the debugging code in at the DOS prompt.
+
+SPEAR OF DESTINY DEBUGGING MODE
+
+     Spear of Destinty's debugging mode is exactly the same as
+Wolfenstein's debugging mode except the DOS code.
+
+Just type- spear-debugmode or spear debugmode at the SPEAR
+prompt.
+
+     0.8 HOW CAN I CONTACT ID SOFTWARE OR APOGEE?
+
+     If you need technical support for Wolf3d or SOD then call
+Apogee at 1-800-426-3123 and the recording will give you the
+technical support phone number. The number is not an 800 number
+and they will only help you if you have the full six episodes of
+Wolf3d or the full version of SOD. They will not help you if you
+have the shareware version of Wolf3d or the demo version of SOD.
+
+     0.9 WOLF3D FOR THE SNES?
+
+     Yes, you heard right. Wolfenstein 3-D is coming for the SNES
+sometime this year though it should have been out in '93. It
+contains a map if you get lost and I think you can have more than
+four weapons. I am sorry to say that the US version of the game
+has no blood and guts or Hitler posters. That is the Nintendo
+policy. The graphic are not as good as the PC though but I have
+heard that it is smoother than the PC. If you want a blood and
+guts cartridge then go to Japan.
+
+1.0 WHAT YOU NEED TO KNOW ABOUT WOLFENSTEIN
+
+     1.1 WHAT ARE THOSE GUARDS SAYING?
+
+
+Brown Guard-  Achtung-attention  
+              When he dies he screams in about 5 ways
+
+SS-  Schutzstaffel- Elite guard
+     Mein leben- My life
+
+Dog- Bark- Bark
+     Whine- Whine
+
+Officer- Spion- Spy
+         Nein, so was- Well, I never
+
+Zombie- Nothing- Nothing
+        Argh- Argh
+
+Ghost of Hitler- Todt hund- Dead dog
+                 Hahahahaha- Hahahahaha
+
+
+
+
+
+
+
+WOLFENSTEIN BOSSES-
+
+Hans- Guten Tag- Good Day, or Hello
+      Mutti- Mommy
+
+Dr. Schabbs- Oohahahahaha- Oohahahahaha
+             Mein Gott in Himmel- My God in Heaven
+
+Hitler- Die, Allied Schweinhund- Die, Allied pigdog
+        Scheist- Damn or Sh*t
+        Eva, auf Wiedersehen- Good-bye Eva
+
+Otto Giftmacher- Eine kleine Amerikaner- A little American
+                 Donner wetter- Good heavens
+
+Greta Grosse- Kein Durchgang- No trespassing
+              Mein Busse- My repentance
+
+General Fettgesicht- Erlauben Sie, bitte- Allow me please
+                     Roseknospe- Rosebud (From the movie Citizen 
+                     Kane for a joke I guess)
+
+SPEAR OF DESTINY BOSSES-
+
+Trans Grosse- Einer Sprachschnitzer- A mistake
+              Es ist schade- What a pity
+
+Barnacle Wilhelm- Ach so- Oh, I see
+                  Wenn schon- So what
+
+Ubermutant- Nothing- Nothing
+            Argh- Argh
+
+Death Knight- Tod ist mein leben- Death is my life
+              Alles ist verloren- All is lost
+
+Angel of Death- Prove your worth human
+                You may wield the spear...
+
+ 1.2 IS THERE A SPECIAL WAY TO FIND A SECRET PASSAGEWAY?
+
+     Finding a secret passageway is a job for a explorer. One way
+to find a secret passageway is to lean at an angle on a long
+wall, hold SPACE and press forward and you will search the wall.
+Some secret passageways are obvious. Some obvious passageways
+would be a poster, a room with guards but no treasure, ammo, or
+guns, or the wall between two objects (two trees or two lamps).
+Other passageways will be almost anywhere.
+
+HINT: In SOD, there is a secret passageway in the room you begin
+the game in. In Wolfenstein episode one, level one there are five
+secret passageways.
+
+     1.3 WHAT ARE THE SECRET FLOORS AND HOW DO I FIND ONE?
+
+     Secret floors are floors that have the accessible elevator
+in a hidden passage. They are not required to be played but if
+you don't play them you won't get 100% on kills, treasure, or
+secret passageways at the end of the game. The secret floors are
+a little bit harder on the Wolfenstein episodes but I found them
+a lot harder of SOD. There is one secret floor per game in the
+Wolfenstein episodes and two in Spear of Destiny. There is no par
+time, kill, secret passageway, or treasure ratio at the end of
+the secret level, but you do get 15000 points for discovering the
+secret floor. The secret level is called level ten in Wolfenstein
+and levels nineteen and twenty in SOD.
+
+HINT: The secret floors in SOD are located on floors four and
+twelve. For Wolfenstein episodes one and two, the secret floors
+for them are both located on level one!
+
+     1.4 CAN YOU KILL THE GHOSTS IN WOLFENSTEIN?
+
+     Yes and no. You can kill the ghosts in SOD but not in
+Wolfenstein. In SOD the ghosts are in the last floor where you
+have to kill the Angel of Death. You can kill those and you will
+get 200 points for killing them. But be careful because they will
+appear again and will go after you again. There are also some
+Pacman type ghosts in Wolfenstein episode three in the secret
+floor. You cannot kill these but they will kill you. One
+advantage is that you can walk right through these ghosts. They
+are very stupid looking and should have been left out. There is
+one more type of ghost which is Hitler's Ghost. He shoots out red
+spheres at you and can be killed. Hitler's Ghosts are on the boss
+floor on episode three.
+
+     1.5 HOW CAN YOU DRINK BLOOD IN WOLFENSTEIN?
+
+     If you have the Spear of Destiny Hint Book you should
+already know how to drink blood but I will tell those who don't
+know. In order to drink blood and eat the bloody skeletons, use
+the Tab+H to lower your health below 10%. Don't lower it too much
+or you will die. Then walk over a blood pool or a bloody skeleton
+and it will add 1% to your health.
+
+     1.6 IS THERE A WAY TO PLAY THE MUSIC IN WOLFENSTEIN WITHOUT
+     PLAYING THE GAME?
+
+     The option to play the music without playing the game is
+called "Roberts Jukebox." The Jukebox feature was named after
+Robert Prince (the designer of Wolfenstein's music). To activate
+the Jukebox just press and hold down the "M" key when the memory
+screen shows up after you press ENTER after you typed in wolf3d
+at the DOS prompt. There are three music menus in Wolfenstein and
+one in Spear of Destiny. One of the tunes in Wolfenstein plays a
+Morse Code message in the background.
+
+     1.7 DO THE DIFFICULTY LEVELS DO ANYTHING TO THE GAME BESIDES
+     ADD GUARDS?
+
+     The difficulty levels do more things besides add more guards
+to a floor. On the easy level of difficulty you can easily kill a
+brown guard in on shot. On the "Death Incarnate" level it would
+take about two or three shots to kill a brown guard. Also you
+take more damage on the harder difficulty levels. I thinks that
+the first aid kit adds more health on the lower difficulty
+levels.
+
+     1.8 WHEN I PRESS TAB+T ON SOD WHY IS THERE A 'DEATH CAM'
+     SPRITE?
+
+     I really don't know. It may encourage you to buy the
+original Wolfenstein episodes. Also there is a wall figure that
+looks like a green and blue yin-yang. That is not on SOD either.
+
+     1.9 WHAT WAS THE FIRST WOLFENSTEIN EPISODE EVER MADE?
+
+     The original Wolfenstein was made for the Apple computer. It
+was called Castle Wolfenstein. It was created by MUSE Software
+and was written by Silas Warner. It was made in the early '80's 
+and had digitized voices. The story was that you were in a prison
+and an injured prisoner gives you a gun he's taken from a guard
+and tells you that he can't make it but maybe you can. The castle
+holds the plans for Operation Rheingold. You can search guards
+and shoot chests. I played it and I couldn't find out what to do.
+It isn't a 3D game or virtual reality but you do have a birds eye
+view of the room you are in. It isn't a game that I would
+recommend.
+
+     1.10 WHO IS B.J. BLAZKOWICZ?
+
+     B.J. was born on August 15, 1911 to Polish immigrants. He
+became a top spy for the Allies and the most durable soldier. He
+received the Congressional Medal of Honor. B.J was married after
+World War II, at the age of forty, to Julia Marie Peterson. They
+had a son named Arthur who became a talk show personality for
+Milwaukee. Arthur changed his last name to Blaze (I wonder why)
+and married Elizabeth McMichaels. They had a son and named him
+William. (And they lived happily ever after. The End)
+
+     1.11 HOW DID SOD GET STARTED?
+
+     SOD got started by a DC Comic's special comic book called
+Justice Society. It probably gave id software the idea for the
+game Spear of Destiny. They used the storyline and created a
+game.
+
+     1.12 WHAT IS THE BEST WAY TO PLAY WOLF3D AND SOD?
+
+     Here are some tips when playing Wolf3d and SOD:
+
+Shoot the guards in the back. Shooting a guard in the back will
+cause double the damage.
+
+Don't use the chaingun when you are low on ammo.
+
+Move over health when you are in a hot fire fight. If your health
+gets low then You can quickly raise it.
+
+Use the keyboard and mouse at the same time.
+
+Search rooms for secret passageways. Sometimes there can be a
+secret passageway in a secret passageway!
+
+Don't stand in the door when there are guards in the room. Open
+the door, shoot your gun, and back up and kill them as they come
+out.
+
+Don't shoot dogs or officers at long ranges. Shoot them when they
+are close to you or you probably will miss them.
+
+Sometimes you will find an enemy in the elevator.
+
+Don't rush in a room full of guards if you only have a knife. You
+will never make it out alive. Search for ammo.
+
+Every floor has hidden goodies; treasure, 1ups, ammo, and guns.
+Remember that every 40,000 points you can an extra man.
+
+Save your game often.
+
+If you shoot a guard or boss at close range than you will do more
+damage.
+
+DON'T PRESS I, L, M!!!!!!
+
+     1.13 HOW CAN I DEFEAT THE BOSSES?
+
+     Sometimes there will be walls for you to hide. Be careful
+about the missile carrying bosses. The missiles will damage you
+the
+same when you are close to him or far away. Just peek and shoot,
+peek and shoot, peek and shoot.
+
+SPECIFIC SOD BOSS STRATEGIES
+
+Trans Grosse- Trans Grosse guards the way to the Dungeons. He
+uses two chainguns.
+
+Get the chaingun in the secret passageway in the left passage way
+when you start the level.
+
+
+
+W= wall
+P= secret passageway
+C= chaingun
+O= you
+E= elevator wall
+
+
+
+W                WWWWWWWWWWWWWWWWWWW
+W                W                 W
+W                W                 W
+W                W                 W
+W                EEEEEE            W
+W                E O  E            W
+W                EEEEEE            W
+W                W                 W
+W                W                 W
+W                W                 W
+W                WWWWWWWWWWWWWWWWWWW
+W
+W
+W                WWWWWWWWWWWWWPPWWWW
+W                WWWWWWWWWWWC   WWWW
+W                WWWWWWWWWWWWWWWWWWW
+
+
+When you enter the room inside the three doors be careful or the
+SS will shoot you in the back. Kill all the guards and SS and
+then enter the boss room where Trans Grosse lives. The boss will
+see you so go right until you come to a room with four SS. The
+room is NOT behind a door. Keep looking to see if the boss is
+coming towards you. Search the room until a secret passageway is
+revealed. Lure Trans Grosse in the passageway because there is
+health there. Blast him out of his socks as you move over the
+health. Keep doing this until he is dead. If you decide to
+explore the floor before you exit, then don't fall for deadly
+pink-brick wall death trap unless you have a chaingun, plenty of
+ammo to wipe out seven SS, or God Mode. Happy killing!
+
+
+
+
+Barnacle Wilhelm- Barnacle Wilhelm guards the way to the Main
+Castle. He uses a chaingun and a missile launcher.
+
+In order to defeat Barnacle Wilhelm, you first have to get the
+silver keys to enter his lair. After you have found the key and
+have gone into the Barnacle room, kill all of the guards, SS, and
+officers in the slots in the wall. Then you can finish Wilhelm
+off while hiding behind the wall blocks.
+
+
+
+Ubermutant- Ubermutant guards the way to the Ramparts. He has
+only one chaingun but is VERY fast.
+
+To defeat Ubermutant, you must find the key to get inside the
+Uber-chamber is. When you open the locked door push the secret
+passageway and then open the door on the left. Wipe out all of
+the guards and get some health and ammo before opening the door
+to the steel chamber. After you get the health and ammo only then
+you may open the door. Make sure that Ubermutant sees you and
+run, not walk, outside into the hallway where you started the
+level on and dodge between the walls and fire upon him. If he
+finds his way out of the chamber of you lead him out then you
+should try to get back into the chamber or take your chances and
+finish him off.
+
+
+
+Death Knight- Death Knight guards the way to the Spear and the
+Death Dimension. He uses two chainguns and two missile launchers.
+
+To defeat Death Knight then get the chaingun and ammo boxes when
+you are brave enough to get out of the elevator. Enter the Death
+Knight's lair and head to the left seeking the door (there's one
+less mutant on this side). Go out the door and toast the officers
+and the SS and go left for ammo and right for health. Now get rid
+of his helpers and chip away at him through an open door (the
+missiles will probably hit the side of the door). After you kill
+the Death Knight then open the locked door, touch the Spear and
+now you have just beaten the game!!!!! NOT!
+
+
+
+The Angel of Death- The Angel of Death is the guardsman of the
+Spear. He uses green spheres of holy fire.
+
+To defeat the Angel of Death you must first find the chaingun.
+Then if your duel with Death Knight lowered your health a little
+then GET SOME! As soon as the Angel sees you then wait until he
+shoots three spheres. As he rests blast him in the face. When you
+kill him then try to kill some ghosts before the five seconds you
+have left before the game is over run out. There this time you
+DID beat the game.     1.14 HOW DO I ACCESS THE HIDDEN ID PICTURE IN SOD?
+
+     To access the hidden picture of the ID crew then go to
+change view and change the view once. After you press ENTER then
+quickly hold down the "I" and the "D" keys. You will see a
+picture with weird music playing. Read the message for some
+laughs.
+
+     1.15 HOW MANY POINTS DO I GET FOR TREASURE, KILLS, PAR TIME,
+     AND 100% AT THE END OF THE LEVEL?
+
+
+     Each usable item (sprite) in Wolfenstein and Spear of
+Destiny serves a purpose in the game. Other sprites such as
+guards and bosses are for gaining points (and killing you).
+
+POINTS
+
+Brown Guard- 100 points
+Dog- 200 points
+SOD ghost- 200 points
+Officer- 400 points
+SS Stormtrooper- 500 points
+Zombie- 700 points
+Hitler's Ghost- 2000 points
+Each boss- 5000 points
+Cross- 100 points
+Chalice- 500 points
+Chest- 1000 points
+Crown- 5000 points
+100% completed- 10000 points
+Score for boss level in SOD- 15000 points
+Score for secret level completed- 15000 points
+Score for pressing Tab+I in SOD- 100000 points
+Score for pressing Tab+I in Wolf3d- 1000 points
+Score for one second below par time- 500 points
+
+AMMO
+
+Ammo from dead guard- 4
+Unused ammo- 8
+Ammo box in SOD- 25
+Extra life bubble- 25
+Ammo for pressing Tab+I- 56
+
+HEALTH
+
+Health for chicken dinner- 10%
+Health for First Aid- 25%
+Health for dog food- 4%
+Health for blood and bones- 1%
+Health for extra life bubble- 100%
+Health for pressing Tab+I- 100%
+
+
+OTHER ITEMS
+
+Chaingun- Shoots two bullets. Rapid fire.
+Machine gun- Shoots one bullet. Rapid fire.
+Gold key- Opens locked doors that need a gold key.
+Silver key- Opens locked doors that need a silver key.
+Extra life bubble- full health, 25 ammo and one life.
+
+
+
+     1.16 WHAT IS THE DESCRIPTION OF EACH GUARD AND BOSS?
+
+Brown Guard- Guards can be very effective if they are fighting in
+groups. They are very vulnerable if they are fighting in pairs or
+solitary. Although they wear no body armor and can be killed in
+one or two shots and can be picked off like fleas in long range
+shots. They are slow to react and only carry a pistol. Using a
+chaingun on brown guards is NOT recommended.
+AVERAGE NUMBER OF SHOTS TO KILL- One or two.
+
+Dog- These German shepherds go right for your throat. The dogs
+will move from side to side hoping for you to miss them when
+shooting. A single stab with the knife will kill a dog and their
+bite takes away about 6-10% health away. These dogs are not
+menacing.
+AVERAGE NUMBER OF SHOTS TO KILL- One stab with the knife.
+
+SS Stormtrooper- The SS (full name of the SS is the SS
+Stromtrooper) wear bullet-proof vests and carry a machine gun.
+They can almost never be surprised and when they come in packs of
+ten or twelve I suggest that you look for ammo before you mess
+with these fellows. One SS can be a threat to you. If he shoots
+you in close range you will probably find yourself at the
+beginning of the level again.
+AVERAGE NUMBER OF SHOTS TO KILL- Five.
+
+Officer- These smart soldiers walk as fast as dogs and shoot
+twice as fast! Although they carry a pistol and a light vest, two
+or three shots from them will bring you down. These smart
+soldiers act like the dogs, moving left and right swiftly and
+draining you of your ammunition.
+AVERAGE NUMBER OF SHOTS TO KILL- Three.
+
+Zombie- A zombie, often called a mutant, are reincarnated
+soldiers who have lost their lives in the past. The maniac
+doctor, Dr. Schabbs (wonder why they called him that), has been
+bringing the soldiers back from the dead to make an undead army.
+They have a pistol embedded in their chest. They wear no body
+armor but they can take almost as much damage as the SS.
+AVERAGE NUMBER OF SHOTS TO KILL- Three or four.
+
+Ghost of Hitler- Sorry. I don't have a description for this enemy
+at the moment. It will be here in a later version of this FAQ.
+
+White Ghosts of the Death Dimension- These ghosts are guards for
+the Angel of Death. They are deadly to the touch and can kill you
+in about three seconds. They are slow and can be stopped in a
+single shot but in about twenty seconds they will reappear.
+AVERAGE NUMBER OF SHOTS TO KILL- One stab with the knife.
+
+Hans- Sorry. I don't have a description for this enemy at the
+moment. It will be here in a later version of this FAQ.
+
+Dr. Schabbs- Sorry. I don't have a description for this enemy at
+the moment. It will be here in a later version of this FAQ.
+
+Hitler- Sorry. I don't have a description for this enemy at the
+moment. It will be here in a later version of this FAQ.
+
+Otto Giftmacher- Sorry. I don't have a description for this enemy
+at the moment. It will be here in a later version of this FAQ.
+
+Gretta Grosse- Sorry. I don't have a description for this enemy
+at the moment. It will be here in a later version of this FAQ.
+
+General Fettgesicht- Sorry. I don't have a description for this
+enemy at the moment. It will be here in a later version of this
+FAQ.
+
+Trans Grosse- Make sure you have a lot of ammo and a chaingun
+when
+your fighting this guy. He's got two chainguns.
+AVERAGE NUMBER OF SHOTS TO KILL- Forty.
+
+Barnacle Wilhelm- This boss shoots a missile launcher and a
+chaingun. The combination of short and long range attack make
+Barnacle difficult to defeat.
+AVERAGE NUMBER OF SHOTS TO KILL- Eighty.
+
+Ubermutant- Ubermutant is Dr. Schabbs most prized creation. With
+four butcher knives in each of his four arms, nimble legs, and a
+chaingun in his chest make this the ultimate zombie.
+AVERAGE NUMBER OF SHOTS TO KILL- Eighty.
+
+Death Knight- Death Knight wields two chainguns and two missile
+launchers making him the toughest boss you have ever faced. His
+body armor covers all of his body except his face. This guy
+proves to you that a spoon full of sugar DOESN'T make the
+medicine go down!
+AVERAGE NUMBER OF SHOTS TO KILL- Eighty
+
+Angel of Death- To protect the Spear, Hitler made a blood pact
+with the Angel of Death telling the Angel that he could have the
+souls of his Nazi soldiers. In return the Angel guards the Spear
+for as long as Hitler is alive.
+AVERAGE NUMBER OF SHOTS-???2.0 THE 'HELP ME!' SECTION
+
+     2.1 I NEVER GET 100% AT THE END OF THE LEVEL
+
+     You probably never get 100% because there are sometimes some
+dogs or guards running around on the level. You may have missed a
+few secret passageways where guards are hiding. If you don't get
+100% on secret passageways then here is a ways to find some (see 
+
+section 1.2): Lean a little bit at an angle on a long wall. Hold
+forward, SHIFT, and SPACE. This will search a wall foe a secret
+passageway. There are obvious places like between two objects and
+a banner or a poster. For those with treasure problems, (for you
+people who don't the extra life bubble because they don't need
+it) the extra life bubble counts as treasure. Forget a bubble and
+you don't get 100%. There are also treasure in secret
+passageways.
+
+     2.2 I CAN NEVER FIND ANY AMMO
+
+     If you can never find any ammo then try to find a secret
+passageway (see section 1.2). Grab the ammo after you have killed
+a guard. Also, if you toast an SS, you get a free machine gun. If
+you can't find any ammo and you are stuck with your knife, just
+cheat (see section 0.7). If you hate to cheat then that's your
+problem.
+
+     2.3 I FEEL LIKE PUKING WHEN I PLAY IT
+
+     This is not rare. I played it on a 386 and the movement was
+choppy. It made me want to throw up and it hurt my eyes so bad I
+stopped playing. It is sort of like a motion sickness. Here are
+some suggestions:
+
+1. Try different display sizes.
+
+2. Move away from the monitor if you have a joystick or a long
+keyboard wire.
+
+3. Don't play so long. Play in little twenty minute rounds.
+
+4. Turn your Turbo switch (If you have one) on or off. This
+should make it less choppy.
+
+5. Playing with the sound off improves game play. It had no
+effect on me though.
+
+     2.4 THE SOUNDS DON'T SOUND RIGHT
+
+     If you have some sound problems here are a few pointers that
+might help:
+
+1. You might not have a compatible sound board. Wolfenstein and
+Spear of Destiny only support Sound Blaster, Sound Blaster Pro,
+Adlib, Disney Sound Source, or a 100% compatible.
+
+2. You may need to change your Sound Blaster default addresses.
+
+3. You may need to set the right IRQ, address, or DMA number.
+     IRQ numbers- 12, 15, 17. Default is 17.
+     Address numbers- A210, A220, A230, A240, A250, A260. Default
+     is A220.
+     DMA numbers- D0, D1, D3. Default is D1.
+
+Try the default values first.
+
+     2.5 IT ALWAYS CRASHES
+
+     You might have a memory problem. Here are some tips:
+
+1. Remove your TSR programs.
+
+2. Load DOS high.
+
+3. Use Expanded memory or Extended memory.
+
+     2.6 I ALWAYS GET LOST
+
+     Sometimes you're on a role. You have both keys and all the
+guns and then suddenly you say, "Hey, haven't I already been
+here!" or, "How do I get out of here?" Sound familiar? Here are
+some pointers to keep yourself from getting lost; try to follow
+the dead bodies back to where the beginning of the maze was,
+cheat, try to find shortcuts (secret passageways can take you to
+another part of a game). If these pointers don't work then make
+some up for yourself.
+
+     2.7 I'M GOING IN CIRCLES AND I'M NOT EVEN TOUCHING THE
+     KEYBOARD
+
+     Configure your joystick. Sometimes the joystick is
+configured wrong. You may have not followed the directions
+properly. You may have something pressing on your joystick (a
+book, your hand, etc). Take it off. You may need to adjust your
+joystick.
+
+     2.8 PROBLEMS WITH THE SOFTWARE
+
+1. The game hangs
+     -Get rid of the TSR programs.
+
+2. Game has strips on the status bar.
+     -You have mixed versions of the VSWAP.??? file.
+     -You probably running it under Windows. Don't run under
+     Windows.
+
+3. The game stops running and hangs at the "Get Psyched" screen.
+     -Probably have some mixed WL1, WL3, or WL6 files.
+
+4. Game works fine but all I see are screwed graphics.
+     -You probably forgot to put an entrance to the level when
+     you were mapping.
+     -You tried to get the registered version of the game by
+     going over ten using the Tab+W cheat.
+
+5. Game hangs or the computer resets when I'm playing.
+     -You probably have used a lot of programs before you played
+     this game. You probably Expanded or Extended memory.
+
+6. The sounds don't sound like they are supposed to.
+     -You are probably running Wolfenstein under Windows. Don't
+     run it under Windows. Running the game under Windows also
+     makes the game very choppy and slow.
+
+     2.9 GAME PROBLEMS
+
+     Some of the guards in the room disapear.
+     -You put too many guards in that room when editing. You may
+     have to emit some guards
+
+     When I press Tab-T there is a blank space when I scroll
+     through the graphics
+     -If you have the shareware version or the demo version of
+     the game then this is no problem for you. If you have the
+     full registered version of Wolf3d and the full version of
+     SOD then press SPACE at a blank spot. If you do this in the
+     shareware version or the demo version it will not show up or
+     the game will crash. (Wolfenstein and SOD both have great
+     graphic. Sorry for all you non-registered users out there)     3.0 MAP AND GRAPHICS EDITORS
+
+     3.1 MAP EDITING PROGRAMS
+
+     Mapedit version 4.1- Edits Wolfenstein maps. Not for use
+with SOD.
+
+     Mapedit version 6.0- Bugs from version 4.1 fixed. Has help.
+Compatible with SOD.
+
+     Wolfmap- Version conversion, level copier, can print maps,
+and NOT compatible with SOD.
+
+     Wolfedit- Lets you edit Wolfenstein maps and edit images of
+guards and walls. Will not read SOD files.
+
+     3.2 SOME EDITING POINTERS
+
+     None of the mapping programs are supported by Apogee or id
+software. DON NOT call Apogee or id software when you have a
+editing problem. They do not like this and will not assist you.
+
+
+1. Test your work often before you are finished editing.
+
+2. Save your work often.
+
+3. The elevators should be east and west or the elevator door
+will allow you to walk through the wall on the left or right and
+open the door from the side.
+
+4. Walking guards and dogs need to have arrows or they will just
+walk but not go anywhere.
+
+5. Don't put over 399 objects on a level (objects are not guards
+secret passageways or arrows. They are considered actors).
+
+6. Number of actors are limited to 149. This includes dead
+guards.
+
+7. Don't use registered graphics in the shareware version unless
+you have the registered version.
+
+8. You must have a starting place, one treasure, one secret
+passageway, one guard, and an elevator.
+
+9. Too many guards will cause some of them to disappear.
+
+     3.3 MAPPING PROBLEMS
+
+     Forgot an entrance to the level.
+     You can't moves and the graphics will be screwed.
+
+     Too many guards.
+     Wolfenstein will crash.
+
+     Put too many static objects in.
+     Wolfenstein will crash.
+
+     Put too many doors on a level.
+     Wolfenstein will crash. Again.
+
+     Put registered graphics in shareware episode.
+     The graphics will not show up in the game.
+
+     3.4 WOLFENSTEIN AND SOD ADD-ONS
+
+     Here are some add-ons for the shareware and registered
+version of Wolfenstein and SOD. Some are compatible for both and
+some are only compatible for one. I will tell you where to find
+them and the description of each one in the next version of this
+FAQ. Here they are-
+
+     map1- v1.0 shareware
+     wlfnwmap- v1.0 shareware
+     newwmap- v1.0 shareware
+     wolfmap- v1.0 shareware
+     wolf316- v1.1 registered
+     darkmap1- v1.0 shareware
+     insanity- v1.1 registered
+     wolfbonk- v?.? shareware
+
+Well, that's it for now. I will add more in each version of the
+FAQ.4.0 FUTURE ADDITIONS TO THE FAQ
+
+Wolfenstein Boss Strategy- Specific tips on how to beat each boss
+in Wolfenstein (Maybe)
+Wolfenstein Add-On descriptions
+More add-ons and graphics
+How to get different version numbers of Wolfenstein
+Secret floor tips
+
+5.0 Revision History
+
+Version 1.0
+ -First time FAQ was written (February 9, 1994)
+
+6.0 ABOUT THIS FAQ
+
+     6.1 COPYRIGHT
+
+     I am the author and writer of the "Wolfenstein and Spear of
+Destiny FAQ." You may distribute this FAQ as long as it is
+complete and untouched, the distributer must give credit to the
+author and writer; David DeMar, it is in electronic form, and
+this FAQ is not included in a magazine, book, catalog, etc.
+
+     6.2 APOGEE AND THIS FAQ
+
+     Id software, FormGen, or Apogee had nothing to do with this
+FAQ. Everything from this FAQ come from game magazines,
+Wolfenstein hint files, experimenting of the game, and
+information contained in the game. I am sorry if there is any
+false information in this FAQ. If you find a mistake in this FAQ
+file then you can contact me by CompuServe mail at this address-
+73404,2474
+
+7.0 CLOSING
+
+     This FAQ was written by a 13 year-old who loves the IBM PC
+and computer games. He would love to write an article in a
+magazine for a game so if you are interested then leave him a
+note on CompuServe at his mailing address- 73404,2474.  This FAQ
+will be revised about every month.

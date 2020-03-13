@@ -1,0 +1,100 @@
+First the good news! Wolfcool is finally here! Now for the bad
+news, * I have recently discovered that this vswap.wl1 file will
+not work with Wolf3d v1.4! So if you want me to upload a older
+version of Wolf3d like v1.0 with a set of modified maps that I got
+from a friend then let me know. If you are a frequent visitor to
+wuarchive.wustl.edu, then you can leave a message in the request
+directory of pub/msdos_uploads/requests.
+
+The next part is the same old wolfcool.txt file with a some
+corrections if you want to read it.
+
+-----------------------------------------------------------------
+9-10-93
+
+DUE TO CIRCUMSTANCES BEYOND MY CONTROL, THIS FILE SHOULD BE READY
+SOMETIME NEXT WEEK SO IF YOU ARE INTERESTED PLEASE KEEP A EYE OUT
+FOR IT! 9-13-93 TO 9-17-93.  
+
+
+By now you have probably heard of the bad news. The release of Doom
+has been delayed until December. What to do? What to do? Well,
+here's the answer for you shareware Wolf3D diehards! I have made
+numerous changes to the vswap.wl1! (* NOTE: I have only tested this
+file with Wolf3d v1.0 and Wolf3d v1.1, so if there are any
+incompatibilities with version 1.3, 1.4, or later, don't blame me!)
+
+WALLS:
+
+- the walls of the original has been replaced by: walls from Spear
+of Destiny (pebble, marble, new Hitler picture, slimy, etc. type
+walls)
+
+- some of the walls now feature pictures of (SF2) Guile and Mel
+Bison
+
+- a few of the walls have been replaced by pictures of HK popstars
+(For example, Rosamund Kwan, Ellen Chan, Leslie Cheung, Andy Lau,
+etc.)
+
+- for some fun, I also replaced some walls with pictures of Batman,
+the Joker, Max Headroom, Bud girls, etc.
+
+- the boring cyan steel doors have been replaced by robotic type
+looking doors that look like doors found on Cybertron
+(Transformer's series) 
+
+OBJECTS:
+
+- many of the objects like the tables and skeleton cages have been
+replaced by X-Wing fighters, Storm troopers, stereos, robots, white
+ss guards, Fast Lane Jones from the popular Sierra game series, a
+doctor,  hitler robot (note the graphics suck on this one and the
+original boss guard (Hans) because I have no more time to repaint
+it due to my upcoming midterm exams), and many other humorous
+stuff.  
+
+NOTE: I would like to take this time to thank the person who
+uploaded WOLF316.ZIP because I imported about 25% of my replacement
+graphics for the objects from this file
+
+GUARDS:
+
+- the boring old nazi guard has been replaced with a robot in
+military uniform that spits fire
+
+- the original blue boss guard (Hans) has been replaced with a big
+fat brown uniformed SS guard that shoots at you with two different
+types of machine guns
+
+- for the above two types of guards their death is now represented
+with a pile of bones instead of a corpse
+
+NOTE: I would like to take this time to thank the person who
+uploaded WOLF316.ZIP because I imported the graphics for this
+character from his file.
+
+- the dog and the blue guard has been replaced with AWESOME and
+BLOODY graphics from the GRAPHICS PATCH 3dgory.zip 
+
+NOTE: I would like to thank this guy too because his graphics were
+way cool! 
+
+WEAPONS:
+
+- the big machine gun has been replaced with a laser rifle
+
+* Remember to rename your original "vswap.wl1" file to another name
+like "oldvswap.wl1" before copying this file to your directory if
+you want to be able to save your old Wolf graphics for some reason.
+
+Any imported graphics in this game are trademarks of their
+respective companies. Please excuse me for any grammar errors in
+this document. I am writing this as I am watching tv. I think I
+have taken up enough of your time. Remember to distribute this
+patch to your friends! Have FUN!
+
+
+                                                                  
+                                                       -Milton Lee
+

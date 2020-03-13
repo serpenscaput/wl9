@@ -1,0 +1,802 @@
+------------------------------------------------------------------------------
+               Rise of the Triad ~ (c) 1994 Apogee Software, Ltd.
+                  The Unofficial FAQ - Pre-Release version 1.6
+        Written: August, 1994 by: Rylan Hilman (rhi...@oasis.rain.com)
+    "Rise of the Triad: Weapons so powerful, they blow you out of the game!"
+                                              - Joe Siegler, Apogee Software
+------------------------------------------------------------------------------
+
++==========+
+|Disclaimer|
++==========+
+
+  This is the (F)requently (A)sked (Q)uestions file for Rise of the Triad, the
+upcoming 3D action game by Apogee Software.  So if you read any of this, and
+something bad happens to you that's related to this FAQ, I didn't do it (except
+if I really DID do it, then I'll tell you personally). If anybody is offended,
+go talk with Apogee.  Remember, as of now, Apogee Software is NOT actively
+involved in making this FAQ.  So, to finish up, if it's a question about the
+FAQ, ask me. If it's a question about R.o.t.T. that is not answered in this
+FAQ, send e-mail(Internet) to joe.s...@swcbbs.com (Joe Siegler, Apogee
+Software).
+
++==============+
+|Trademark info|
++==============+
+
+ Some trademarks in the following piece of work are: Rise of the Triad,
+Apogee, Wolfenstein 3D, DOOM, id, Gravis UltraSound, Advanced Gravis,
+SoundBlaster, Creative Labs, Pro Audio Spectrum, WaveBlaster, AdLib, Soundman,
+Maui, Roland, Disney Sound Source, Disney, IBM, MS-DOS, Microsoft, Commander
+Keen, Hank Leukart, The "Official" DOOM FAQ, Dark Forces, and Blake Stone.
+These trademarks I will NOT take any credit for, and they belong to the
+people who have made these products/companies possible. If I missed any, they
+are also hypothetically acknowledged (to borrow a term from Hank :).
+
++==============+
+|Copyright Info|
++==============+
+
+ We're at version 1.6, but no copyright yet. But, as always, I would like you
+to please treat this version with care, and only machine wash with cold water
+in paper format only. And if it clogs up your washing machine or dryer or
+whatever you run your laundry through, I didn't do it. (BTW, I would not
+recommend machine washing at all, unless you REALLY need to. And I am against
+throwing your computer into the washing machine(or dryer, etc etc etc....)
+with this file on the screen, and if you do, I didn't do it.)
+
+  BTW, if you didn't understand, everything between "But, as always" and the
+beginning of this sentence, is a joke. If you thought it wasn't a joke, and
+something bad happens to you, I didn't do it.
+
+
++=================+
+|Table of Contents|
++=================+
+
+KEY:
+
+{Ch??} is a chapter number, usually at the beginning of a chapter
+{??-??} is {Chapter number-section number}
+{??-??-??} is {Chapter number-section number-minisection number}
+A ~ preceding a chapter-section number means that it has changed from v1.0 of
+the FAQ
+You should be able to figure the rest out(you intelligent person you :)
+
+
+{Ch1} - Introduction to this FAQ.
+
+~{1-1} - A message from the author
+~{1-2} - What IS Rise of the Triad?
+~{1-3} - What makes it different from DOOM?
+~{1-4} - Who makes RotT?
+~{1-5} - When is it coming out?
+~{1-6} - How much is it?
+~{1-7} - How can you order it?
+~{1-8} - Where will it be?
+
+{Ch2} - Features of RotT
+
+~{2-1} - Game Story
+~{2-2} - Features
+~{2-3} - Slide Show
+~{2-4} - General Questions
+
+~ {2-4-1} - What weapons will you have?
+~ {2-4-2} - Will there be multiple stories?
+~ {2-4-3} - What enemies will there be?
+~ {2-4-4} - What do the hazards do?
+~ {2-4-5} - How many levels will be in the shareware version?
+~ {2-4-6} - What are Comm-Bat Zones?
+~ {2-4-7} - How do God and Dog modes work?
+~ {2-4-8) - What will tbe different versions be?
+
+{Ch3} - Conclusion
+
+~{3-1} - Author's note
+~{3-2} - Contributions
+
+~ {3-2-1} - Contributors
+
+~{3-3} - Version info
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+ - Chapter 1
+
++========================+
+|Introduction to this FAQ|
++========================+
+
+--
+
+    {1-1} - A message from the author
+
+  Okay, I have talked a lot with Joe Siegler(Apogee's Online Support Manager),
+and (much to my embarrasment :) found that I got some things in version 1.0
+TOTALLY WRONG! :) Well, He sent me some corrections, and I now am back at it
+again, trying to get things right this time! :)
+
+  I had finished version 1.5 when all new information that just couldn't be
+ignored came in. So, the only people who received v1.5 was Apogee. I'm writing
+this new information in, and designating this v1.6. If you have version 1.0,
+remember that some of it is TOTALLY WRONG!
+
+  As you notice from the table of contents above, EVERY SINGLE SECTION OF THIS
+FAQ HAS BEEN REVISED! And I've added {2-4} - General Questions(and everthing
+under that), and {3-2-1} - Contributors.
+
+
+--
+
+    {1-2} - What IS Rise of the Triad?
+
+  Rise of the Triad is Apogee's newest 3D action game (so new, it isn't even
+out yet!). Instead of some of Apogee's other programs, where you see your
+character on the screen and see a portion of the screen centered around
+him/her, in RotT, you see through the eyes of your character!  Your weapon is
+at the bottom of the screen, and what your character sees, you see. You can
+turn around and look behind you, or look up and down (up to 25 degrees either
+way)  Pushing forward makes your character go forward, pushing back makes
+him/her go backwards. With mastery, your character can drive around to exactly
+where you want him/her to go (BTW, you notice I'm saying him/her a lot, that's
+because in this game, your character can be a boy or girl of different ethnic
+backgrounds (five characters to choose from).
+  Rise of the Triad was originally going to be a Wolf3D sequel, and was going
+to use the same engine with minimal improvements. But then iD and Apogee went
+their separate ways, and Blake Stone: Aliens of Gold turned into the sequel.
+Then RotT engine was completely rewritten, and this is the result: a cool game
+on par with Doom. :)
+
+--
+
+    {1-3} - What makes it different from DOOM?
+
+
+  Like in Wolfenstein or Blake Stone, RotT has 90-degree walls(Doom can go any
+direction). But, as I always say(or will say from now on), you can't judge a
+game by it's angles. :) Anyway, there WILL be multiple stories on your
+levels(yay!) so it will be quite fun hunting your opponent on a multi-story
+battle level. Other things are hazards. In DOOM, hazards consisted of crushing
+ceilings or ooze pits that drained health. In RotT, there are 15 types of
+hazards, including: SpinBlades, FireChutes, FireJets, PitTraps, LavaWalls,
+Crushing Pillars, and Spinning Spears(these are not the official names for
+the last two). Also, in RotT, instead of using iD's method of digitizing clay
+models, Apogee decided to film live characters for all of their positions(Even
+better, they are all Apogee employees!(except that one was at Apogee during
+digitizing but has since left)) The result makes it look far better than
+Blake Stone's or Wolf's characters, which are drawn.
+
+
+--
+
+    {1-4} - Who makes RotT?
+
+  Rise of the Triad is being made by Apogee Software, who distributed some of
+iD's games, including the Commander Keen series (yes, it's shocking. Commander
+Keen is an iD game!). Although Apogee has distributed iD games in the past,
+many of it's programs are made by Apogee. Doom is the first iD game
+distributed by iD.
+
+
+--
+
+    {1-5} - When is it coming out?
+
+  Apogee expects it to be ready by Late October 1994, around the time for
+release of Doom II and Dark Forces. So it will have ready-made competition.
+Isn't that nice? :)
+
+ Note: This will be a simulteanous shareware and retail release.  This will
+       be the first game that will come out in shareware and that will be
+       on the shelves at the same time.
+
+--
+
+    {1-6} - How much is it?
+
+  The price for it will be $29.95 plus $5 shipping and handling (if they don't
+change their shipping policies between now and then). There will be add-ons,
+like a Random Comm-bat Zone (tm) generator, a way to get your own player
+graphics for use in the modem game, and so on. And, no, Apogee will not accept
+pre-orders. They used to in the past, but they have discontinued since then.
+The earliest you can order is when it hits the open markets (i.e. at Software
+Creations BBS, their home BBS, or at your local software store, whichever
+comes first)
+
+
+--
+
+    {1-7} - How can you order it?
+
+  As I said above, you can order it when it's out, and not before. But, for
+those of you who want to be ready to grab it as soon as it comes out, here is
+the order info:
+
+Ordering and support:
+   * 1-800-GAME-123 to order 24 hours a day.
+   * 214-278-5655 for technical support on any game. (8AM-6PM CST M-F)
+   * 214-278-4670 to FAX your order(ORDER.FRM) or inquiry.
+   * Fill out ORDER.FRM and mail it to Apogee at:
+
+Apogee Software
+P.O. Box 496389
+Garland, TX  75049
+
+  Or you can buy the retail version at your local software store.
+
+--
+
+    {1-8} - Where will it be?
+
+  This is from TRIAD.DOC, in the slide show preview file. And this is where
+you can find any Apogee game, not just RotT:
+
+WHERE TO FIND APOGEE'S GAMES ONLINE
+===================================
+1. APOGEE'S HOME BBS:  THE SOFTWARE CREATIONS BBS
+
+Software Creations BBS was recently voted North America's most popular BBS
+by the readers of Boardwatch Magazine.  It was also featured on the TV show
+Prime-Time Live in December 1993.  Apogee's releases are available here before
+they're available anywhere else in the world!
+
+To download any Apogee game, call one of the three numbers listed below. Then,
+look in the free Apogee file section, #1.  Type "F 1" to see a listing of the
+files.  These are free downloads, and you do not need a membership.
+
+   (508) 365-2359 -- 2400 baud                   Over 100 lines
+   (508) 368-7036 -- 9600-14.4K v.32bis          available, and
+   (508) 365-4035 -- 28.8k v.fast class (v.fc)   growing fast!
+
+2. America Online - Use the keyword "apogee" to go to our forum.
+
+3. CompuServe - Type "go apogee" (at any ! prompt) to find Apogee's games.
+
+4. Internet - Apogee's titles can be access via anonymous FTP at our official
+       ftp site.   The site is "ftp.uml.edu", and the directory they can
+       be found in is (case important) "msdos/Games/Apogee".
+
+5. Fidonet Filebone - If you are a Fidonet SysOp, you can now get Apogee's
+        games on the Fido filebone.  Talk to your local filebone
+        hub about the four Apogee areas (see FILEBONE.NA for more
+        information).
+
+--
+
+ - Chapter 2
+
++================+
+|Features of RotT|
++================+
+
+
+    {2-1} - Game story
+
+  You are a member of the HUNT, the top secret High-risk United Nations
+Taskforce, sent on extremely covert operations to possible trouble spots
+outside the three-mile boundary waters of member countries.  You are on a
+routine reconnaissance mission on San Nicolas Island, located in the Pacific
+twenty miles west of Los Angeles.  Your team is investigating possible cult
+activity in an old monastery, when suddenly troops pour out of nowhere!
+
+  In the distance your boat explodes.  Just before your radio goes all static,
+you hear desperate newsmen describing the systematic destruction of Los
+Angeles. An escaped prisoner informs you that a pyrotechnics expert and a
+rich studio head have joined forces with the Oscurido cult.  Their plan:
+kill millions of innocent people for the glory of their master, El Oscuro.
+Having no other escape route, the HUNT heads into the monastery, taking the
+only course of action left: stop the Oscuridos or die trying.
+
+P.S. The person who wrote this story ("You are a member of the HUNT...") is
+the same guy who wrote the stories for WOLF 3D and I think DOOM.
+
+--
+
+    {2-2} - Features
+
+  Now we get to the fun stuff. :) I will add my own commentary, and this is
+also from the slide show preview file TRIAD.DOC (I know, I know, if you don't
+have it, I'll point you to it soon). Anything with an: o (text here) is from
+the TRIAD.DOC which I got this info from. Anything with an: - (text here) is
+my commentary.
+
+
+FEATURES
+========
+o  Four cool bosses with intelligence, reactions, devious abilities,
+   and up to four stages!
+
+-  Of course, you only get one boss in the shareware version.
+
+o  Over thirty levels of death, mayhem, chaos, terror, and so on
+
+-  There are 32 levels, and what will be in the shareware episode is under
+debate--it might be new levels, which can be used from the registered version
+as alternate game levels.
+
+
+o  Ten unique, real digitized actors
+
+-  Including strike guards in beige (tan) uniforms, and monks (not REGULAR
+monks, bad monks :)
+
+o  Nine wicked weapons, including the massively destructive Firebomb and
+   Flamewall.
+
+-  My guess on these weapons is that the Firebomb peppers the area with small
+flame bursts, killing massive enemies. The firewall will shoot a missile
+out, and when it hits the ground, it will go until it hits a wall, and will
+completely destroy anything in it's wake. If it's a person, it will set
+them on fire, and do some very funny things to them! Great for taking out
+whole rooms of people.
+
+o  Three words: really cool explosions (digitized)
+
+- Like Raptor? Would be neat....
+
+o  A rockin' soundtrack on all the major cards--featuring DigitalDrums
+   (where available)
+   Supports the following soundcards:
+     Gravis UltraSound, All SoundBlasters, Pro Audio Spectrum, WaveBlaster,
+     AdLib, SoundMan, Maui, Roland, Disney SoundSource, and many more.
+
+-  So almost every sound card will be supported, including SB AWE 32(included
+in "All SoundBlasters"
+
+o  Tons of secret areas, difficult puzzles, and mysterious bonuses
+
+-  Sounds like the normal 3D action genre.
+
+o  Far-out features: Parallaxing sky, look up and down, fog,
+   light diminishing, light sourcing, super save games
+
+- Rott is not sector based like Doom is, the light sourcing is handled quite
+differently.  Lights illuminate walls, and when you shoot them out, the
+light disappears, and the general light of the room dims.
+
+o  Violence level adjustment, from low to excessive, with parental password
+
+-  "parental password"? It looks like the kids will be on this game! (cool!
+more opponents!)
+
+o  Choose from five characters--of different genders and races!
+
+- The five characters are:
+
+  1) Thi Barrett -> White female with red hair
+  2) Lorelei Ni  -> Oriental female with black hair
+  3) Taradino Cassatt -> White male with blonde hair
+  4) Doug Wendt -> Black male with dark brown hair
+  5) Ian Paul Freeley -> Greco-Spaniard male with very messy hair. :)
+
+o  Brain-numbing Powerups like God Mode and the rare "Dog Mode"
+
+-  God mode is where you get big, and in dog mode, you turn into a dog, you're
+invulnerable, and you bite guards.  :)  It's quite hysterical!
+
+o  Fifteen incredible hazards like SpinBlades, FireChutes, FireJets,
+   PitTraps, and LavaWalls
+
+- Referenced earlier. In the slide show, it looked like the SpinBlades are
+spinning blades that hurt you (hmmm, where did I ever get THAT idea? :)
+
+o  Hilarious jump pads add a new dimension to gameplay.  Fly through the air
+   to reach new areas, collect bonuses or run away!
+
+- Like in Cosmo or Jazz? (nah, these gotta be 3D pads, or on the floor as 2D)
+
+o  Auto-tracking for shooting down at enemy from platforms and up at them
+   as they fly off jump pads
+
+- In Doom, the targeting is automatic, and your weapon will track in on the
+target. With RotT, the whole screen perception will move so that you know
+you're targeting someone at a different angle.
+
+o  Two player head-to-head action by modem or serial cable, with nine
+   different battle modes, lots of battle options, and RemoteRidicule(tm)
+   speech capability.  Don't taunt your enemy with simple text, let him HEAR
+   what you think of that last battle!
+
+- This just in from Apogee, they are installing IPX network support for up to
+four players, maybe more. (up to how slow you can tolerate.)
+
+- Argh. I was wrong about RemoteRidicule(tm). Joe can't tell me at the moment,
+but as the FAQ progresses, and especially when the game is released, then I
+(and you) will know much more regarding this area of the game.
+
+o  Twenty buddy-blasting Battle levels (in addition to the 32 normal levels)
+
+- WOW! They're releasing their own Deathmatch levels! There will be a few
+battle levels in the shareware, many in the registered, and LOTS in the super-
+enhanced version. The numbers as still shaky as to what will be in which. The
+person who did most of the Comm-Bat levels has played many an hour of modem
+and network Doom, so he's quite versed in the genre. BTW, they won't be called
+DeathMatch levels. Comm-Bat is a term that Apogee has trademarked, and we'll
+be using it in any of our games that support modem play. Levels are called
+Comm-Bat Zones.
+
+o  Editor to be available so you can make your own battle levels
+
+- COOL! We could be seeing a lot of new levels out! The editor might be a bit
+later than the RotT release. This is still up in the air.
+
+o  Random level generator so there are always new battle levels to play
+
+- It comes with it's own RanRotT? Neat! This randomizer will be in the
+registered version.
+
+o  Over TEN Megs of eye-poppin' graphics!
+
+- That's a lot of graphics....
+
+o  Over FOUR Megs of ear-poppin' sounds!
+
+- There may be a more reasonable 1.5-2 Megs in the normal version, and 4-5 in
+the super enhanced version. But there's a LOT of stuff in this game, and if
+it moves, it makes noise.
+
+o  The entire game is OVER 20 MEGS unzipped.  The largest shareware game ever!
+
+- This game in it's full incarnation will be quite large. We have no idea what
+the size of the shareware episode will be at this time, but a 3 Meg .ZIP file
+download is not out of the question. :)
+
+
+COOL STUFF TO DO
+================
+o FALL OFF the edge of a level!
+
+- AAAAAAAAaaaaaaaaaaahhhhhhhh!!! :) You can fall off walkways to the valley
+floor. Ouch.
+
+o TOWER OVER little guards in God Mode!
+
+- What guards? *splat* Oh, those ones....
+
+o SNEAK INTO secret rooms in Dog Mode!
+
+- Guard1: Hey, where's that mutt going?
+  Guard2: Let him go, he's not going to do anything...
+  You: GRRRRRROOOOOWWWWWLLLL!!!! *snap* *snap* *chomp* *chomp*
+  Guards 1 & 2: AAAAAAAAAAAAAAHHHHHH!
+
+  Dog mode is VERY fun.  Not only that, when you're in Dog mode, you're also
+  invincible.
+
+o BLOW UP almost EVERYTHING in the environment--including shattering windows!
+
+- Blast a door through! BOOM! OH NO! There's your modem opponent! RUN AWAY!
+  RUN AWAY! AAAH! He's got a FLAMEWALL!!! *WHHHHOOOOOSSSSHHHH* ow...Oh
+YEAH?!
+  Take this! (missile launch) "aiiiiieeeee!!!!" I thought so!
+  (sorry, getting carried away there. :)
+
+o  PICK UP a 7-10 split of guards with the sadistic Split Missile!
+
+- Strrrrrrrrrrrrrrrike!
+
+o ROCKET into the air off a jump pad, spin and shoot a heat-seeking missile at
+  your buddy, who promptly juices in mid-air!  Fun!
+
+- This could be promising......
+
+o WASTE countless hours of your precious time while you could be doing
+  something constructive!
+
+- But Doom was supposed to do that! Oh well.
+
+--
+
+    {2-3} - Slide show
+
+  Well, I've referenced it throughout the FAQ. The slide show is available
+wherever you can find Apogee games (see above). It is called 1ROTPIX.ZIP. When
+you run it, you will get a "slide show" of 17 screen shots from the game. The
+reason screen shots are out is because Apogee has finished the basic game
+engine and has started testing it to iron out bugs. Now, if you do have the
+slide show, skip this next part and go down to Picture #1. If you don't have
+it, go get it and come back here, I'll wait.
+
+(time passes)
+
+Ready? Okay, you should have this reference handy. Let's go:
+
+Picture #1: This looks like an example of the "fog" condition. You have what
+appears to be a rocket launcher, but in RotT, they use missles (all sorts of
+them(and about 6 different launchers). The guard is digitized off a real actor
+(Steve Quarrela, one of Apogee's Tech Support people). Yes, all the walls ARE
+90 degrees to each other, but, you can't judge a game by it's angles (although
+it IS nice with non-regular angles). It looks like a maze out there! And,
+you notice that we can rack-up scores just like in Wolf 3D!
+
+Picture #2: OUCH! That's gotta hurt! Sorry, Mr Quarrella! :) Remember when I
+told you the basic game engine was out? Well, the violence adjustment was one
+of the things still being tested out. Oh well. You notice something? You have
+two guns! Sounds kinda nice. "Two-Gun Hilman" Seeya on IHHD. :) May I draw
+your attention to the spinning blade on the ceiling in the upper left corner
+of the picture? (everybody says: "Yes, you may.") Thank you. :) The infinity
+symbol at the bottom of the screen means infinite ammo for the pistol, dual
+pistol, and machine gun.
+
+Picture #3: Looks like the Wolf3D rifle. See those SpinBlades? I wonder what
+that would look like with violence level low? Sorry, Mr Quarrella! :) (he's
+one of the low guards in the game, so he appears a lot. See the lights on the
+ceiling? They're shootable objects! It seems that when you zoon-up the
+screen full-size, the bottom status bar disappears such that you can still
+see the info but not block the picture too much!
+
+Picture #4: The spears come up out of holes in the floor, and they are
+constantly rotating while they're moving up and down.
+Anyway, you see the 3-story buildings in background. You CAN go up there.
+
+Picture #5: Super Save Games! There's more to these save games than just
+taking a snapshot. The snapshot save game idea has been used before, but not
+like RotT's SSG idea. Joe won't tell me what this means yet, but it also
+remembers what level you're on for you (so you don't have to type that in the
+description.) If you look carefully, you will notice that there is a strange
+background sky for E4A6(BTW, and "A", if you didn't know, means areas, like
+M or L in DOOM means Mission or Level(i.e. E2M9, or E1L1). There are MANY
+skies in this game.
+
+Picture #6: Monks. If they get too close to you, they start to "suck the life
+out of you". Other monks shoot fireballs..... Looks like the health bar at
+the bottom left changes color as it gets lower.
+
+Picture #7: Dead Monks. The blockage around you is a gas mask, needed at
+times(important times! :)
+
+Picture #8: No, this isn't God mode, this is looks at guys from a ledge.
+You're on a platform, looking down and shooting. This is an example of what I
+said before of the picture changing perspective when you are shooting down.
+In Doom, the guy would just die. RotT shows it happening by tilting the
+perspective towards what's happening instead of just letting it happen w/o
+you actually seeing it.
+
+Picture #9: There are two different actors here.  There are the two examples
+of the low guard here.  The leftmost and the rightmost ones are Steve
+Quarrella again, and the middle two are Marianna Vayntrub, the financee of
+Mark Dochtermann, the lead programmer of Rott. And 4-story buildings back
+there!
+
+Picture #10: You must want that key baaaad. You blow out three windows and
+kill a guard to get a little key sitting on a little pedestal.
+That's the result of using firebombs. :)
+
+Picture #11: You just shot either a missile. Those things on the ceiling will
+crush you if you get stuck under them.
+
+Picture #12: Night.......the FINAL battle. Nope, this is not the final level,
+but imagine hunting down your opponent in a nighttime level. :)
+
+Picture #13: FIREBOMB!!!! It looks like it could cause some damage. :) The
+person in the shot is George Broussard, the Exec VP of Apogee. He's quite a
+bugger to kill. He not only has a machine gun that he shoots, but he also
+throws hand grenades at you!! (AAAAAHHH!!!)
+
+Picture #14: Alone in a corridor. Suddenly you hear footsteps. A guard comes
+patrolling down the hall. You whip out your pistol and......  The neat thing
+about the light sourcing here is that as the actor progresses through the
+lights, they get lighter and darker depending on whether they're under a light
+or not. The lighting is not sector based like Doom.
+
+Picture #15: Wow. What a view. Looks like a bowl of mush on the floor. It's
+one of the food items you can find around the game. It's health.
+
+Picture #16: A knife!!! Looks better than the one in Wolf. The guard in front
+of you is Marianna again (she was the two middle ones in #9). The knife is not
+a weapon like it was in Wolf3D. There is another actor (not seen in any
+slides) that will throw nets at you. If you get hit, you're trapped. You
+either need to use the knife to get out, or if you don't have the knife, you
+have to wiggle out of the ropes. If there are other actors around, then it can
+be really bad news. :)  (The knife will come up autmatically if you get hit
+by a new, so you don't have to fumble to find the "1" ket. :)
+
+Picture #17: Rylan "Two-Gun" Hilman vs. Hank "The DOOMER" Leukart over IHHD!!
+(not really, but I would hope it would be possible after/if we get registered)
+You notice that the picture in the upper-left hand corner is the same as the
+face on the remote player. All five modem characters look like individuals.
+Right now they all are wearing the same black uniform, so if you're playing
+on network, you might have to get close to make sure you're not shooting a
+friend!
+
+Picture #1: You ever get that creepy Deja Vu feeling?
+
+Picture #2: Ditto
+
+By now, the person hits Esc to end this, and gets the ending screen:
+
++----------------------------------------------------------------------------+
+|                                                                            |
+|                   Coming October 1994 by Apogee Software                   |
+|                                                                            |
+|                                                                            |
+|                 RISE OF THE TRIAD - (c) 1994 Apogee Software               |
+|                                                                            |
+|                 FOR ONLY $34.95 YOU WILL GET THE FOLLOWING:                |
+|                                                                            |
+|      o 32 huge levels, each four times o Violence level adjustment         |
+|        the size of Wolfenstein levels! o Over 20 MEGS uncompressed!        |
+|      o Parallaxing sky, look up/dn,    o Modem play + 20 different         |
+|        fog, light diminishing/sourcing   "Battle levels" + level editor    |
+|      o 8 channel sound effects         o Random level generator, also!     |
+|      o Supports the GUS, PAS 16, Adlib o Digitized characters              |
+|        Sound Blaster, Roland, and more o Nine wicked weapons               |
+|      o Jump pads to fly in the air!    o The largest shareware to date!    |
+|                                                                            |
+|      Requires: 80386+, soundcard highly recommended, VGA graphics card.    |
+|                                                                            |
+|       Available: October, 1994.  Call (800) GAME-123, 24 hours a day!      |
+|                                                                            |
+|         Read the file "TRIAD.DOC" for more details about this game!        |
++----------------------------------------------------------------------------+
+
+ (BTW, some of this info has changed)
+
+ Of course.....this FAQ has the info plus more. :) 32 levels 4x wolfenstein
+size....The Wolf3D (and Blake) map grids were 64x64. That will probably look
+familiar if you've ever tried to edit Wolf3D maps, and did it wronk. One of the
+Wolf3D crash errors was "Map not 64*64".
+ Anyway, the Rott map grid is 128x128. That means the base map can be 4 times
+as large as the largest Wolf3D map was. Some maps in RotT are quite gigantic
+and can take forever to get through! :)
+
+--
+
+
+    {2-4} - General Questions
+
+  The following is answers to some general questions the public might have.
+
+
+-
+
+    {2-4-1} - What weapons will you have?
+
+There are lots of weapons: pistol, dual pistol, machine gun, bazooka, heat
+seeker, firebomb, flamewall (hilariously powerful), drunk missile, split
+missile, and two very powerful magic weapons.
+
+-
+
+    {2-4-2} - Will there be multiple stories?
+
+  Yes. You can go up on platforms that are either 8 feet off the ground or up
+to 120 feet off the ground!  You will be able to be physically above another
+player, so you can wait on a ledge until the guy you are battling against
+runs out of the tunnel you're standing over, aim down, and plaster him (or
+her).  It will be the closest you can get to that in a fast action game until
+our computers are fast enough to do true 6-D action.
+  BTW, if you master the level editor(if you get it) you will be able to
+create most buildings with multiple stories(as log as you don't have any non-
+90-degree walls). This also means you can create a room with a secret door
+into a tunnel under the passageway you were just under. Fun. :)
+
+-
+
+    {2-4-3} - What enemies will there be?
+
+  There are lots of enemies, of three basic types: human, undead monks, and
+robots.  The humans have pistols, machine guns, chain guns, grenades, and
+many react to what you do.  Some, when shot, will roll out of the way, so you
+have to re-aim.
+  Bosses aren't just walk-walk-shoot.  You have to figure out how to defeat
+them.  The first one is quite tricky.
+
+-
+
+    {2-4-4} - What do the hazards do?
+
+  The hazards are, well, hazardous.  Some are constantly dangerous--you bump
+into them, they hurt you, like spinblades, lava walls, and so on.  Some are
+periodic, so you have to run through when they are off or out of the way,
+like crushing cylinders, firejets, or spinblade stabbers.  Some are moving so
+you have to watch out, like moving lavawalls, boulders, and so on.  There's
+just a lot of stuff to burn, slice, or crush you.
+
+-
+
+    {2-4-5} - How many levels in the shareware version?
+
+  Eight, and one boss.
+
+-
+
+    {2-4-6} - What are Comm-Bat Zones?
+
+  Comm-Bat Zones are levels optimized for multi-player play. Like the
+Deathmatch levels in Doom. Apogee has trademarked the term Comm-Bat, because
+they HAD to name their multi player levels SOMETHING.
+
+-
+
+    {2-4-7} - How do God and Dog modes work?
+
+You get the powerup, and:
+
+in God Mode, you tower above the actors, looking down at them.  You hold
+out your hand, godfire shoots out straight at them, and they...discorporate.
+
+in Dog mode, you turn into a dog, can't be hurt, bite people, run under low
+walls, and your bark is worse than your bite.
+
+Plus there will be two nauseating "powerdowns"....
+
+-
+
+    {2-4-8) - What will tbe different versions be?
+
+  Everything is not solid on these, but right now:
+
+shareware: eight levels, three(?) Comm-bat Zones, some sounds, some songs,
+can get it for free.
+
+registered: over thirty levels, ten Comm-bat Zones, lots of sounds (1.5-2
+Meg), lots of songs, cost $29.95 + $5 S+H (US dollars)
+
+super-enhanced: over thirty levels, ten Comm-bat Zones, a fifty Comm-bat
+Zones pack,  tons of sounds, a random Comm-bat Zone generator, will be $49.95
++ $5 S+H (US Dollars)
+
+I'm not quite sure which the retail is, but it ain't the sharerware, that's
+for sure.
+
+To get the super-enhanced, you simply order the super-enhanced version.  It's
+like buying the Wolf Pack instead of just three episodes.  I'm sure there
+will be some way to upgrade.
+
+ - Chapter 3
+
++==========+
+|Conclusion|
++==========+
+
+--
+
+    {3-1} - Author's note
+
+  Okay, I am oficially a Veteran FAQ builder. :) I had to edit a LOT for this
+version, so I had to shove the version number up .5(instead of a usual .1 for
+a small edit). There are some questions left unfulfilled, so I will have to
+go back to Joe later and ask more questions(Questions make the FAQs of the
+world go round, and round and round and round.....:) Remember, Some of this
+is by me, some by the TRIAD.DOC file, a LOT by Joe Siegler :), and some from
+other miscellaneous sources.
+
+--
+
+
+    {3-2} - Contributions
+
+  Well, since the game isn't even OUT yet, so I can't take contributions like
+Hank can.  But, if you happen to notice any spelling, punctuation, or any other
+form of mistake or anything, send your notice to rhi...@oasis.rain.com.
+(ALL NITPICKERS UNITE!) If you have any important info you think should be in
+here, also tell me.
+
+  BTW, this Faq-writing hobby is a non-profit organization.
+
+-
+    {3-2-1} - Contributors
+
+  (BTW, I'm not counting myself and Apogee employees)
+
+  John Maxwell Evans(jme...@valhalla.cs.wright.edu) - My first non-Apogee,
+non-me contributor. He sent up some general information, which I widely
+scattered(in the appropriate places, at least. :).
+
+
+--
+
+    {3-3} - Version Info
+
+
+1.0 - First version, finished 9 August 1994
+
+1.5 - Big revision, finished 13 August 1994. Had Joe Siegler revise it, add
+lots more info, I had to go through and work it out. Only Apogee received it.
+
+1.6 - Second public release, finished 15 August 1994. Got my first
+contributor, additional info from Apogee.

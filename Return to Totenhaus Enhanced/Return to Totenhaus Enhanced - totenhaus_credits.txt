@@ -1,0 +1,172 @@
+--WALLS--
+Gray Door: Laz Rojas, Megabyte
+Locked Totenhaus Door: Laz Rojas
+Wooden Doors: Megabyte, FormGen
+Red Brick: MacPlay Entertainment, Laz Rojas
+Wood: BJ Rowan, ArEyeP, Ryan de Haast, Laz Rojas
+Doors: Tristan Van Putten/BJ Rowan
+Steel: Tristan Van Putten
+Elevator: Megabyte
+Brown Marble: Ben Blaufarb
+Tan Plaster: Laz Rojas, with spliced pieces by Lord Raffles/Doom Juan and Megabyte
+
+White Marble: Raven Software with spliced pieces by Laz Rojas and BJ Rowan
+Stairs: Raven Software
+White Plaster: Megabyte, with spliced pieces by Laz Rojas and BJ Rowan
+Cellar Wall: Raven Software, with spliced pieces by ArEyeP
+Bathroom Tiles: Assembled by Executor with spliced pieces from Id Software and Laz 
+Rojas
+Shelves: ArEyeP
+Crates: WSJ
+Hospital Wall: Tristan van Putten
+Unused Cabinet Wall: Megabyte
+Hedgerow: ArEyeP
+Dungeon Wall: FormGen, with spliced bitmaps by Id Software, Tristan van Putten, and 
+AREyeP
+Green Plaster: Megabyte, with spliced bitmaps by B.J. Rowan and Laz Rojas
+Cobble Stone: Id Software, with spliced bitmaps by AREyeP and FormGen
+Extra Brown Stone decorations: FormGen, Id Software
+Extra Wood Panel decorations: Lord Raffles/Doom Juan
+Plaster Panels: Laz Rojas
+Wood bookcase: Ryan de Haast
+Red wall: Ryan de Haast
+Cobble Stone w/ Wainscoting: Laz Rojas
+Brick w/ Wainscoting: Laz Rojas
+Tan Stone with Lower Panels: Spliced from pieces by Id Software and Megabyte
+Old Panel: Megabyte, with spliced bitmaps by Laz Rojas and Lord Raffles/Doom Juan
+
+Stone with Lower Panels: Spliced from pieces by Raven Software, Id Software, and 
+Megabyte
+Brown/Red Wall: MacPlay Entertainment, with center red part by AREyeP
+White Brick: MacPlay Entertainment, with spliced bitmaps by Id Software, Megabyte, 
+and Laz Rojas
+Blue Wall: Spliced from pieces by AREyeP, Megabye, Laz Rojas, and MacPlay Entertainment
+
+Remote Door: B.J. Rowan
+Summer Hedgerow: AREyeP
+Outside Wall: WSJ, flag by Id Software
+
+--FLATS--
+Id Software
+AReyeP
+Raven Software
+Megabyte
+Laz Rojas
+Apogee Software
+
+--SPRITES--
+Luger: JoeyTD, with pieces by Jon Washburn and Lobotomy Software
+Clip: Codetech
+MP40: 3D Realms
+Ammo Box: Id Software
+Rifle Clip: Executor
+Rifle: Lippeth, with pieces by Jon Washburn and Id Software, assembled by Captain 
+J
+Knife: Id Software (3DO Wolfenstein)
+MG42: WildWeasel
+Entrenching Tool: WildWeasel
+Basic Guards: WSJ
+Kommando: Skulltag Team
+Food: Laz Rojas
+Health packs: ArEyeP
+Chandelier: WLHack
+Column: Tricob
+Drum: ArEyeP
+Floor lamp: Laz Rojas
+Ceiling lamp: Laz Rojas
+Keys: Laz Rojas
+Water: ArEyeP
+Barrel: Megabyte
+Alpo: Megabyte
+Armor: WSJ
+Blood and guts: ArEyeP, Rogue Entertainment, Megabyte
+Bed: Tricob
+Cages: BJ Rowan
+Flag: ArEyeP
+Green plant: Spliced and recolored from parts of the original and Laz Rojas' recoloring 
+of the Mac version, with additional editing by Executor
+Green plant 2: BJ Rowan
+Sink: JaM Productions
+Spear rack: WlHack
+Table: Megabyte
+Table with Chairs: ArEyeP
+Light Bulb: BJ Rowan
+Brazier: ArEyeP
+Desks: ArEyeP
+Mold: ArEyeP
+Oil Slick: ArEyeP
+Fern: ArEyeP
+Chests: Laz Rojas
+Shower: ArEyeP
+SS uniform: Megabyte
+Rock column: Tricob
+Toilet: ArEyeP
+Torch: ArEyeP
+Trash can: Laz Rojas
+Utensils: BJ Rowan, Megabyte
+Wood Chandelier: WSJ
+Candelabra: Id Software
+Radio: ArEyeP
+Brown Vase: Laz Rojas
+Wooden Celing Lights: Laz Rojas
+Floor lamp 2: Laz Rojas
+Metal ceiling light: JaM Productions
+Chopping block: ArEyeP
+Thorny Growth: Ryan de Haast
+Ceiling Brazier: Ryan de Haast
+Cobweb: Ryan de Haast
+File cabinet: Laz Rojas
+The Easter Egg: Scuba Steve
+Shit: 3D Realms
+Chair: Laz Rojas
+Long Tables: Laz Rojas, 3D Realms
+Water Cooler: Laz Rojas
+Box: Laz Rojas
+Exam Tables: FormGen, JaM Productions, Megabyte
+Wells: ArEyeP
+Vase on Pedestal: WlHack
+Shrubs and Trees: ArEyeP (fetch me a SHRUBBERY!)
+Flamer: Laz Rojas
+Dog: Tricob
+Knife: Id Software (3DO)
+Mutant: WlHack
+Bullet Puff: FreeDoom
+Treasure: ArEyeP
+FG42: WildWeasel
+Fallschirmjaeger: WSJ
+Lukas Jaeger: Majik Monkee
+Jurgen Luftmensch: WSJ
+Final Boss (???): Laz Rojas, muzzle flash by Captain J
+Rocket: WSJ
+Foliage: AREyeP and Doomjedi
+
+--SOUNDS--
+Nazis: WSJ, Laz Rojas, FormGen, Infinity Ward
+Weapons: WildWeasel, Rogue Entertainment, Id Software, Raven Software
+Menu: Id Software
+Pickups: MacPlay Entertainment, Wildweasel, Laz Rojas, Id Software
+Mutant: Marty Kirra
+Ambient: Laz Rojas
+Misc: Id Software, MacPlay Entertainment, Eriance
+Fur Elise: Ludwig van Beethoven
+Heidi Heido Heida: Dieter Derks
+FG42: Battlefield 2
+Rockets: Infinity Ward (Call of Duty 2)
+Bosses: Laz Rojas
+Bullet puffs/blood splats: Medal of Honor Allied Assault
+Alarm: WSJ
+
+--MUSIC--
+Lunar: The Silver Star
+Final Fantasy VII
+Front Mission
+7th Saga
+Rich Nagel
+
+--MISC--
+Wolfenstein 3D (c) 1992 Id Software.
+Concept inspired by Escape from Totenhaus (c) 1996 Laz Rojas
+All original game media by Id Software. No revenue was gained in the making of this 
+TC.
+Apologies to anyone whose work was used but either overlooked or forgotten when I 
+audited the mod assets.

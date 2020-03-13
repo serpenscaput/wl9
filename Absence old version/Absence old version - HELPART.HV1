@@ -1,0 +1,379 @@
+^P
+^C02 QUICK COMMAND REFERENCE
+
+^C04 Arrows move. Ctrl shoots. Alt strafes.
+
+C			-		Display character statistics
+O			-		Display intermission screen
+T			-		Reset digitized sounds and display
+					game version
+X		-		Use portable first aid kit
+
+F1		-		Help
+F2		-		Save game (F8 for Quick save)
+F3		-		Load game (F9 for Quick load)
+
+Read on for more commands.
+
+^P
+^C02 QUICK COMMAND REFERENCE (cont.)
+
+^C04 F4		-		Sound menu
+F5		-		Resize view window
+F6		-		Controls menu
+F7		-		End game
+F10	-		Exit to DOS
+F11	-		Game options menu
+F12	-		Take a screenshot
+
+Read on for more information.
+
+^P
+
+^C02										TABLE OF CONTENTS
+^C04
+								SETUP	.	.	.	.	.	.	.	.	.	.	.	.	.	4
+								STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	5
+								THE STATUS BAR.	.	.	.	.	.	8 
+								ITEMS	.	.	.	.	.	.	.	.	.	.	.	.	. 12
+								ARMAMENTS.	.	.	.	.	.	.	.	.	. 17
+								POWER-UPS.	.	.	.	.	.	.	.	.	. 19
+								DANGERS.	.	.	.	.	.	.	.	.	.	.	. 20
+								INTERACTIVE OBJECTS	. 24
+								CREDITS	.	.	.	.	.	.	.	.	.	.	.	. 29
+								SOURCES	.	.	.	.	.	.	.	.	.	.	. 31
+								PROGRAMS USED	.	.	.	.	.	. 33
+
+^P
+^C02 SETUP
+
+^C04 Absence has been optimised to run on a variety of computers. By default, all 
+options except "FPS Counter" and "Crosshair" are enabled.
+
+If the game performs poorly, try disabling one game option after another until the 
+game runs acceptably on your computer.
+
+^P
+^C02 STORY
+
+^G36,16,142
+^C04 The US Government has decided to start a secret project for genetic and robotic 
+experiments.
+
+For this purpose an underground lab called the "Sigma Complex" was built in the state 
+of New Mexico.
+
+One year after the start of the project something terrible happened down there. The 
+connection to the lab complex was lost. No one knows what happened, but someone has 
+to find out!
+
+^P
+^C02 STORY (cont.)
+
+^C04 The government decided to send you, an elite soldier, specially trained for 
+army operations like this, into the complex. The first priority of your mission is 
+to find the last known documents about Professor Tom Baker's experiments and then 
+destroy the complex. The second priority is to eliminate all failed lab experiments, 
+and see if anyone (or anything) has survived.
+
+You arrive at the access point into the lab complex and enter the elevator that transports 
+you to the entrance hall.
+^P
+^C02 STORY (cont.)
+
+^C04 You step out of the elevator and hear animal-like growls and computer-like beeps 
+echoing through the distant corridors. They know you're here. There's no turning 
+back now. 
+
+Time to kick some metal ass!
+
+^P
+^C02 THE STATUS BAR
+
+^G36,16,143
+^C04 1. The level you're currently playing.
+
+2. How many implants you're holding.
+
+3. Your current score.
+
+^P
+^C02 THE STATUS BAR (cont.)
+
+^G36,16,143
+^C04 4. Your mug!
+
+5. Your current health points.
+
+6. Your current ammo.
+
+^P
+^C02 THE STATUS BAR (cont.)
+
+^G36,16,143
+^C04 7. The keycards you currently possess.
+
+8. Displays how long you've already been on a level or displays how much time has 
+elapsed with a special item you've collected.
+
+^P
+^C02 THE STATUS BAR (cont.)
+
+^G36,16,143
+^C04 9. Your lives. You lose one life each time you die until it's truly the end 
+of you.
+
+10. How many first aid kits you're holding.
+
+11. Your current weapon (green number).
+
+^P
+^C02 ITEMS - HEALTH
+
+^G36,16,144
+^C04 1. Food gives you 4 health points.
+
+2. A small first aid kit gives you 10 health points.
+
+3. A large portable first aid kit gives you 10 health points. Now you can heal yourself 
+up to 100 health points even if you've been upgraded!
+
+4. A water puddle gives you 1 health point when your health is below 10 points.
+
+^P
+^C02 ITEMS - TREASURE
+
+^G36,16,145
+^C04 The "Sigma Complex" is filled with treasures that scientists have hidden in 
+secret areas as a "nest egg" for hard times. Part of your mission is to collect as 
+much of this booty as you can and bring it back with you. After all, it's money that 
+was taken from the taxpayer.....err government.
+
+1. One coin. Not much money in itself, but you know, look after the cents and the 
+dollars look after themselves! (100 points)
+
+^P
+^C02 ITEMS - TREASURE (cont.)
+
+^G36,16,145
+^C04 2. Five coins. Still not the jackpot, but getting better. (500 points)
+
+3. A money bag. Yep, if you find one of these, you hit the jackpot.....maybe! (1000 
+points)
+
+^P
+^C02 ITEMS - MISCELLANEOUS
+
+^G36,16,146
+^C04 1. Some doors have security locks and require you to have a color-coded security 
+card to open them. Other locked doors or even elevators are operated by a switch 
+or computer nearby.
+
+2. If you find diaries like this, you know that they are Professor Tom Baker's personal 
+diaries. Keep in mind that finding and taking these diaries with you is part of your 
+primary objective.
+
+^P
+^C02 ITEMS - MISCELLANEOUS (cont.)
+
+^G36,16,146
+^C04 3. In addition to security cards, there are hand-operated panels that require 
+a genetic fingerprint in order to gain access to an area. So when you need to access 
+such an area, just search for a disembodied arm (!)
+
+^P
+^C02 ARMAMENTS
+
+^G36,16,147
+^C04 1. Standard ammo clip. Gives you 8 bullets for your pistol.
+
+2. A box of shotgun shells. Gives you 4 shotgun shells.
+
+3. A box of bullets. Gives you 25 bullets for your machine gun.
+
+4. The shotgun can deliver a heavy punch at close range and a generous pelting from 
+a distance.
+
+^P
+^C02 ARMAMENTS (cont.)
+
+^G36,16,147
+^C04 5. This machine gun was developed in the lab complex. The main goal of this 
+newly developed weapon was to deliver a machine gun that is really fast, easy to 
+use, has great firepower, does not jam and is cheap to produce. And so the MGX 2704 
+was invented with all of this rolled into one weapon!
+
+^P
+^C02 POWER-UPS
+
+^G36,16,148
+^C04 1. The backpack is very useful but rare. It gives you up to 100 health points, 
+25 bullets for the pistol, 25 shotgun shells, 25 bullets for the machine gun and 
+one extra life.
+
+2. Implants are needed to upgrade yourself on the upgrade units which you can find 
+in almost every lab in the complex.
+
+3. This injection makes you invincible for a short time.
+
+^P
+^C02 DANGERS
+
+^G36,16,149
+^C04 Even though an accident occurred in the lab complex, there are still several 
+active security systems in this dangerous environment.
+
+1. Shock barriers are in several areas of the complex to make sure that only people 
+with the required clearance can access special areas. They also serve as security 
+devices for prison cells. However, there are ways to deactivate them, like flicking 
+switches.
+
+^P
+^C02 DANGERS (cont.)
+
+^G36,16,149
+^C04 2. There are exploding barrels scattered around the complex which contain fuel, 
+toxic waste, or other volatile substances. If your shots hit one of these barrels, 
+it's advisable to take cover from the explosion. It might take several bullets to 
+set a barrel off.
+
+^C01 TIP: Wait until several enemies get next to a barrel and then blast away at 
+the
+ 
+^P
+^C02 DANGERS (cont.)
+
+^G36,16,149
+^C01 barrel. Watch them blow up!
+
+^C04 3. Turrets are found in almost every lab in the complex. It's not advisable 
+to allow yourself to be detected by these turrets, because they do a lot of damage. 
+However, you can try to find a computer to deactivate them.
+
+^P
+^C02 DANGERS (cont.)
+
+^G36,16,149
+^C04 4. Some areas in the lab complex contain pools of dangerous liquids that will 
+damage you if you walk through them. So beware of strange-looking puddles!
+
+^P
+^C02 INTERACTIVE OBJECTS
+
+^G36,16,150
+^C04 1. Some computers control elevators or turrets which can be disabled (or enabled) 
+by entering the correct password. You can use computers by pressing the "use" key.
+
+
+2. Sometimes someone's left food on a table. You can eat it by pressing the "use" 
+key. It gives you 4 health points.
+
+^P
+^C02 INTERACTIVE OBJECTS (cont.)
+
+^G36,16,150
+^C04 3. Any time you find a log disc like this, read it (by pressing the "use" key)! 
+They help you to understand what has happened in the lab complex and sometimes even 
+provide you with security passwords – you may need these to disable security locks 
+or other mechanisms.
+
+^P
+^C02 INTERACTIVE OBJECTS (cont.)
+
+^G36,16,151
+^C04 Switches are used to activate or deactivate certain mechanisms like electricity 
+or security grids. They're also used in elevators to get to the next level. You can 
+flip a switch by walking up to the wall it's on and pressing the "use" key.
+
+^P
+^C02 INTERACTIVE OBJECTS (cont.)
+
+^G36,16,152
+^C04 Upgrade units resulted from one of the first experiments in the lab complex. 
+They provide you with the means to improve your abilities. They are scattered around 
+the lab complex. It's highly recommended to improve your abilities with these upgrades 
+- otherwise you won't have much of a chance against the enemies you'll encounter. 
+You can use an upgrade unit by walking up to the relevant wall and pressing the "use" 
+key.
+
+^P
+^C02 INTERACTIVE OBJECTS (cont.)
+
+^G36,16,152
+^C04 In the upgrade unit dialog you need to decide which upgrade you want: endurance, 
+strength or accuracy.
+
+Each upgrade has a maximum level of 4. Choose your upgrades wisely!
+
+^P
+^C02 CREDITS
+
+^C04 Based upon Wolfenstein 3-D by id Software.
+
+
+			Havoc	.	.	.	.	.	.	.	.	.	.	code, graphics,
+																		sounds, text,
+																		maps, music
+			Metal Overlord	.	.	.	graphics, sounds,
+																		testing
+			JoeWolf	.	.	.	.	.	.	.	.	.	graphics
+			JackaL	.	.	.	.	.	.	.	.	.	graphics
+			WLHack	.	.	.	.	.	.	.	.	.	graphics
+			mbender	.	.	.	.	.	.	.	.	text sub-editing
+			
+^P
+^C02 CREDITS (cont.)
+
+^C04			AlumiuN.	.	.	.	.	.	.	.	.	testing
+			bl00dlust	.	.	.	.	.	.	.	testing
+			Lozer_42.	.	.	.	.	.	.	.	testing
+			Schabbs	.	.	.	.	.	.	.	.	testing
+
+Everyone was a tremendous help. I could not have hoped for a better team!
+
+^P
+^C02 SOURCES
+
+^C04 - Doom 1-3 and Quake by id Software
+- Heretic by Raven Software
+- Planet Strike by JAM Productions
+- Operation Body Count by Capstone
+- Descent by Parallax Software
+- Rise of the Triad by Apogee Software
+- Duke Nukem 3D by 3D Realms
+- Star Wars: Dark Forces and Jedi Knight: Dark Forces II by LucasArts
+- System Shock and System Shock 2 by Looking Glass Studios and Irrational Games
+- Terra Nova: Strike Force Centauri by Looking Glass Studios
+
+^P
+^C02 SOURCES (cont.)
+
+^C04 - Blackthorne by Blizzard Entertainment
+- Shadowrun by 	Beam Software
+- Action Doom by Scuba Steve
+- Spear Resurrection and End of Destiny by MCS Amsterdam and AReyeP
+- Tekkoudan by Ben "dla_one" Blaufarb
+- Endoskeleton, Proto Man and Ubermorder by Majik Monkee
+- Sabaoth 2 by RGamesINC
+- Ultra Zombie by Joshua Moore
+
+If I've forgotten anyone, please don't sue me!
+
+^P
+^C02 PROGRAMS USED
+^C04
+						Code	.	.	.	.	.	.	Borland C++ 3.1
+																MS Visual C++ 6
+						Graphics	.	.	.	MS Paint
+																Paint Shop Pro 8
+																PhotoShop 7
+																PhotoImpact 10
+						Sound	.	.	.	.	.	CoolEdit 96
+																GoldWave 4.26
+						Music	.	.	.	.	.	IMFTools 2
+						Data files	.	.	WDC 1.14.372
+
+^C04 Website: ^C01 http://www.hwolf3d.tk
+^C04 Mail: ^C01 havoc7@gmx.de
+
+^E

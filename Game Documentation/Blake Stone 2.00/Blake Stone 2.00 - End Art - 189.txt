@@ -1,0 +1,55 @@
+^BCe3^SCe1^ST1^SP1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 3 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabAccess???ing???attempting SIN interface to determine current location
+
+Sir...I...am unable to???Updating...
+
+Agent Stone? There are traces which indicate sabotage of your Fortress shuttlecraft. 
+The shuttle reflect beacon......plots your shuttle as......'downed on the floor of 
+the mile deep Pan Crevasse'.
+^EP
+^FC3a^FN1^CEMISSION 3 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabConfirmed...I will repeat, Pan Crevasse. Although, your suggestion might 
+be a better name for such hostile terrain. Currently, you are standing within the 
+rover-module entrance to Goldfire's Underground Network.
+
+^SL^PX0e6^SH092^RL^RM0e0
+^RJ^FCeb
+
+UNDERGROUND NETWORK
+Security Monitoring^LJ^DM
+
+^EP
+^FC3a^FN1^CEMISSION 3 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aAssessment:^FCab This is the most dangerous mission yet. Goldfire did not expect 
+you to survive the crash and cannot comprehend how you have pushed this far through 
+his defenses......I read many mutants within this installation and theorize that 
+this subterranean structure must house the results of Goldfire's early genetic experiments 
+and could possibly be a storage compound.
+^EP
+^FC3a^FN1^CEMISSION 3 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab^FC3aObjective:^FCab Move toward the top level of the Caverns; there you 
+will find the entrance to the STAR Port. The Port entrance will be your only means 
+of exit from the Caverns. Goldfire has placed a powerful Breather Beast guardian 
+alien on floor 9 to guard the entrance to the Port. You must defeat the guardian 
+to shut down the network.
+^EP
+^FC3a^FN1^CEMISSION 3 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabIncoming transmission: Intelligence reports the situation is dire. Goldfire 
+offers more threats. Blake...My circuitry must be... Agent Stone....please proceed 
+with caution. You must destroy Goldfire's creations!
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...

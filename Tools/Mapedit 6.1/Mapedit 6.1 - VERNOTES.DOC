@@ -1,0 +1,135 @@
+          *******************************************
+          * VERSION 6.1 NOTES: (Matt Gruson - 6/93) *
+          *******************************************
+                    (interface upgrades)
+
+     CompuServe:   72360,2432 or
+                   73766,347
+     Prodigy:      PTJT50A
+     GEnie:        M.GRUSON
+
+ - Left and right mouse buttons will now lay down different
+   objects/map-items.  These can be selected from the object
+   list as in 6.0, or you can 'pick up' an object or map-item
+   by holding down either shift key and clicking a mouse button
+   on an object/map-item on the map.
+
+ - You can now switch between the object and map-item lists
+   by pressing the space bar.
+
+ - The currently selected object/map-item display in the
+   lower left corner displays only the left-button selection,
+   but now displays the current mode (object or map) as well.
+
+ - The objects/map-items chosen for each mouse button will now
+   survive mode changes.  That is, if you select map items for
+   the mouse buttons, switch into object-mode, select objects
+   for the mouse buttons, then switch back to map-mode, the
+   original map-mode button settings will be preserved.
+
+ - Page-up and Page-down keys now scroll the item list in
+   the upper right corner
+
+ - Source code included; Removed some unused code for
+   clarity, modularized some functions, and commented code
+   appropriately.
+
+
+
+
+
+          ********************************************
+          * VERSION 6.0 NOTES: (Dave Huntoon - 5/93) *
+          ********************************************
+
+ - This release of MapEdit will display Help in the edit window (below the
+   map legend).  You will be able to display Help or Bryan Baker's Stat.
+   display.  For slow machines this allows you to turn off the statistics
+   calculations.  You can then step fast through the levels and edit maps
+   with out a delay while the statistics are being calculated.  You can
+   switch back to the statistics display when you want that information.
+
+ - You can copy, paste and exchange floor maps within an edit session.
+   You can move a floor if you decide you want it on a different level.
+
+ - You can write out and read in floors from different games.  You
+   now can move your favorite creation in *.wl1 to *.wl6 and *.SOD.
+   See MAPEDIT.DOC for how this is implemented.  You can now share your
+   creations with your friends.  You can take floors created by a number
+   of people and merge them into one game.  There can be a contest and
+   all of the best creations are put together to create a best-of game.
+
+ - When using the clear command you can select the floor value to fill
+   with. You can now fill with a selected wall value or floor value.
+
+ - I've included separate .def files for the different versions of
+   Wolfenstein (.wl1, .wl6, .SOD)
+
+
+
+          *******************************************
+          * VERSION 5.0 NOTES: (Bryan Baker - 4/93) *
+          *******************************************
+
+ - This release of MapEdit will display in the edit window (below the
+   map legend), the following level statistics:
+
+         Number of Static Objects
+         Total number of Guards
+         Total number of Doors
+
+         Number of Level 1 Guards
+         Number of Level 3 Guards
+         Number of Level 4 Guards
+         Number of Boss Guards
+
+         Number of Secret Doors
+         Number of Treasure and Extra Lives
+
+This information can be very useful in designing levels.  There are
+some program limits that must not be exceeded.  These limits are:
+
+    400 Static Objects
+    150 Guards
+     64 Doors (Unlocked + Locked + Elevator Doors)
+
+When these limits are exceeded, the text changes to red as a visual
+warning.
+
+Note that there are different Boss Guards in Spear of Destiny than
+in Wolfenstein 3-D.  Since the OBJDATA.DEF contains descriptions for
+both sets, they are all counted and shown in the statistics.  You must
+be aware of the different Boss Guards that will be available in the
+game for which you are designing levels.
+
+
+
+          *********************************************
+          * VERSION 4.1a NOTES: (Dave Huntoon - 3/93) *
+          *********************************************
+
+ - This release of MapEdit should work with all versions of the game,
+   including the three, six and Spear of Destiny (SOD) episode editions.
+
+ - The map files may become a lot larger after using MapEdit, even
+   if you do not alter any levels.  This is because MapEdit does not
+   recompress the maps with the newer compression scheme used in
+   v1.1 of the game.  This doesn't cause a problem when playing the
+   game, it just makes the map files larger.
+
+ - The MAPDATA.DEF file contains information about the new wall images
+   used in the 6-episode and SOD games.  If you are editing the 1-episode
+   game, be careful not to select any of the newer wall images.  The same
+   goes true in the 3 and 6-episode games, don't select SOD objects or walls.
+   You may want to create separate .DEF files, one set for each version of
+   the game.  The Walls and objects used in SOD are indicated in the .DEF
+   files and will show up in mapedit.
+
+ - The OBJDATA.DEF file has been updated with all objects and walls.
+   You may want to change the descriptions found there.
+
+ - In SOD the objects past 00FE are accessible.
+
+ - A minor fix was added to completely clear the text area below the
+   map display when the mouse pointer is moved off of the map area.
+

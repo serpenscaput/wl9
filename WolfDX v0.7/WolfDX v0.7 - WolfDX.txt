@@ -1,0 +1,58 @@
+* * * Wolfenstein 3-D: The Deluxe Edition v0.6 * * *
+
+This is "Tricob" from Diehard Wolfers.  My plan is for the source code of this game 
+to be ported to WolfSDL.  Therefore the DOS EXE isn't of much use to me anymore. 
+ So here is the DOS version for those of you who haven't seen it yet.
+
+Version 0.7 - Slightly increased player speed.  Replaced overly Halloween-themed 
+sprites with tree images.  Also updated weapon images in VSWAP.  The knife and pistol 
+images are corrected.  New treasure sprites now look closer to the final versions, 
+and some sounds are updated.
+
+This version isn't complete, but it's a nice little taste of a hi-res Wolf3D experience. 
+ It should even run the original 60 levels of Wolf3D without any modification.  Now 
+*that's* true downward compatibility!  :-)
+
+Here's the status of the mod's features in this ZIP file:
+
+8 new treasure sprites - 3 out of 8 are graphically done, but all are fully functional. 
+ The pack of cigarettes will not be in the final version, thank goodness.
+Hint bubbles - They display, but are non-functional.
+Ammo crates - These function similar to Dugtrio17's Treasure Chest concept.  They'll 
+work differently in the final version.
+Tables with items - 100% complete.  Press the Spacebar when you're against a table 
+to pick up what's on top of it.
+New treasure sounds - Complete, though I might add more later.
+Hi-res Static Objects - About 90% complete.
+New Static Objects - Graphically, these are all complete, but more may be added later.
+
+Wall textures - About 50% complete.  Check out the hi-res version of the grey brick 
+Hitler poster!  :-D
+Standard enemies (SS, Mutant, etc.) - 99% complete.  They're just enlarged 64x64 
+duplicates of the original.  Guards and SS need the purple re-colored to grey shades.
+
+Bosses and other enemies - Not even *close* to done.  Contrast is way too high on 
+most, due to a dramatic palette change in the EXE.
+Sign-on screen - Far from complete.  It still shows up, but trust me when I say this 
+screen is an eyesore.
+New title screen - 99% complete.  Still needs additional letters to add to the title 
+("Deluxe Edition").  It's ripped from the SNES version of Wolf3D, BTW.
+New music - Some of them are placed in the AUDIO files, but none are used in the 
+EXE.
+Animated objects - Enabled.
+Directional sprites - Enabled.
+Additional enemies - Not done.
+Read This! text - Not updated.
+
+If I'm not mistaken, all shareware levels run the way they should, aside from the 
+purple walls, which - again - are enlarged 64x64 duplicates of the original.
+
+All additional objects used in the EXE are on spots 1-18 and 75-89 of the Objects 
+List.  Keep this in mind if you choose to use this mod for your own purposes.
+
+E1L1 in this mod features the seven treasure sprites I did, the "tables with items" 
+objects, and a few new textures.
+
+Enjoy your Wolf levels in hi-res!  :-)
+
+- "Tricob".

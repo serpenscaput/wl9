@@ -1,0 +1,65 @@
+Wolfmods III
+by Acord Games
+Fumbling through hundreds of different Wolfenstein mods, I discovered a bunch
+of features that I could include in my Pacstein game, which I first developed
+about 20 years ago. Grabbing a feature here and a feature there, I gradually
+think that the quality of the game has been increased, and the hardcore fans
+will appreciate the new features.
+
+You are Captain Zoom, trapped in the land of Pacstein, and surrounded by strange
+
+eerie creatures. Filled by a strong yearning to escape back to the world of
+your loved ones and friends, driven by that one desire to the point of
+obsession. You must escape, yet you are surrounded by enemies who are totally
+against your victory.
+
+It's kill or be killed as you fight your way to escape! It won't be easy as you
+venture through level after level of complex situations. Good luck in your
+adventure! Create your own story as you go along!
+---------------------------------------
+
+Features;
+22 ten level games
+3rd Plane Ceiling + Floor Textures
+Full Screen
+More Objects
+Directional Sprites
+Animated Objects
+Bobbing Weapons
+Independent Intro Screen
+Ingame Messages 
+Inter Mission Screens
+Mutants Can't Open doors
+---------------------------------------
+
+Credits;
+This is a mod by Gary Acord of id's Wolfenstein 3D. The .exe file was created by 
+Michael Collin. Extra art came from Mr. Choi.
+Brian Lowe helped in distribution and advice. Visit Mr. Lowe's Wolf 3D Page at
+http://www.users.globalnet.co.uk/~brlowe/index.html.
+
+Of course I must give thanks to ID Software for the classic Wolfenstein 3d and
+Spear of Destiny, without which there could be no mod games.
+---------------------------------------
+
+Tools used;
+Floedit
+Mapedit
+Wolfedit
+Varsity Text Editor
+Deluxe Animation
+Paintbrush
+ChaosEdit
+Notepad
+---------------------------------------
+
+Thank You for Playing Wolfmods III! 
+If you enjoy this then you should check other mods at:
+http://www.users.globalnet.co.uk/~brlowe/index.html.
+---------------------------------------
+
+If you like this game drop me an email at Acordgames@Juno.com.
+Also, you can download Zapagame, a menued presentation of 250 Shareware and
+Demo games, at Celebration4all.com.
+---------------------------------------
+Check out Acord Games Official Website at http://Acordgames.webstarts.com

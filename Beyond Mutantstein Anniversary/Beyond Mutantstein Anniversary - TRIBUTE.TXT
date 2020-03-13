@@ -1,0 +1,385 @@
+BEYOND MUTANTSTEIN SPECIAL EDITION - ANNIVERSARY EDITION (2002 - 2012)
+A tribute to John Bucksnort
+
+This is the (tenth) anniversary edition of Beyond Mutantstein Special Edition, the 
+tribute game to John Bucksnort released on 25 December 2002.
+
+A decade has now passed and with SoD/Wolf3D being 20 years old, John's mods still 
+remain usual favourites or -in the worst case- true referents of a very distinctive 
+style of modding.
+
+With Andy (that is, fellow wolfer Andy_Nonymous at the DieHard Wolfers Forums) working 
+on releasing John's mods in SDL format, we thought it a good idea to endeavour to 
+put together an anniversary edition consisting of new levels which would hopefully 
+not only commemorate the ten years of the release of the original tribute set, but 
+also spark some renewed interest in others to play John's contributions to the SoD/Wolf3D 
+catalogue.
+
+In spite of the various modifications that were made upon the original tribute set 
+(primarily involving some minor code and graphic tweaks), this product should be 
+seen, mainly, as a new set of maps to our decade-old mod. We hope you enjoy this 
+tribute game to John Bucksnort! Thanks to all who have contributed!
+
+Arielus
+25 December 2012
+
+
+Credits:
+========
+ <2002 Mod>
+   * Code Mods: MCS
+   * Storyline & Mutant Graphics: AReyeP
+   * Co-ordination: BrotherTank & Schabbs
+ <2012 Anniversary Edition>
+   * SDL Mutation/Code Tweaks: Andy_Nonymous
+   * Graphic Updates: Andy_Nonymous & Arielus
+   * Co-ordination: Arielus
+   * Maps Contributions:
+     * ack
+     * Adam Biser
+     * AReyeP
+     * Arielus
+     * Bobby Bucksnort
+     * Codetech84
+     * Daniel 'Soulblighter' Walley
+     * Dean
+     * Hair Machine
+     * Harry Mass Senior
+     * Ipank7000
+     * Lakota Bucksnort
+     * Poet
+     * ronwolf1705
+     * Schabbs
+     * serpens
+     * Thomas
+     * WSJ
+
+
+A quick note on the mapping by Arielus:
+=======================================
+This 10-year anniversary consists of 19 levels involving 18 different mappers (quite 
+possibly and unprecedentedly large number of different architects in a single mod?). 
+Andy and I basically decided to give priority to those who worked on the first Beyond 
+Mutantstein Special Edition back in 2002 (and who were still present in the scene 
+or otherwise reachable), to the remaining Bucksnorts, and then to the more experienced/advanced 
+mappers in the community. Hopefully the end result will have been to your satisfaction 
+and, as said by someone involved in the original mod released back in 2002, something 
+that John would have been proud of.
+
+
+The 'hidden' level:
+==================
+Should fate ever lead you to level 19, below is a walkthrough provided by Poet for 
+the player in need of some help:
+
+Hints and walkthrough for Beyond Mutantstein AE, level 19, the secret level; Troll 
+Borg.
+
+Save your progress in one slot, and leave backup saved games at intervals in other 
+slots, so that you can go back to different stages in the level should you get stuck 
+somewhere.
+
+Warning: Reading the walkthrough may spoil part of the challenge of solving the secret 
+level.
+
+
+Area 1, the southern and central section.
+
+Leave a backup saved game at the start of the level.
+
+A mutant will come through the door ahead to the left.
+Avoid being noticed by hiding behind the golden eagle block in front of you.
+The mutant will later open a pushwall for you.
+When he has passed go through the door behind you to the left, take the ammo box 
+by the door first.
+Don't open fire against the 3 enemies ahead, the mutant outside will hear you.
+Make it quickly into the corner to the right and wait for the door to close.
+Then confront the enemies, the green barrels will have obstructed them sufficiently 
+to give you time to wait.
+Shoot them, don't spend too much time grabbing their ammo.
+Open the next door, shoot the mutant and the three next enemies, pick up their ammo 
+quickly and move into the next hallway.
+This hallway has a row of columns on the left side. A mutant behind the columns are 
+soon about to open a pushwall.
+It is essential that you get here in time to PREVENT him from doing it!
+Fire a shot to get his attention, but don't shoot him, you need him to open a locked 
+door later!
+Go through the next door.
+
+Leave a backup saved game at this position.
+
+In the next room, by some barrels, you see a golden eagle block. This is the pushwall 
+the first mutant is about to open.
+A guard is obstructing it. Get his attention but don't open fire, the mutant will 
+hear you.
+Get the guard to step on a mine in front of a locked (silver) door immediately to 
+the north (this is quite easy to achieve).
+You must have achieved this before the first mutant pushes the golden eagle block.
+
+When he does the pushwall will move only two steps and reveal a hidden door to the 
+east without blocking the locked door to the north.
+(I have played this through numerous times and this trick always works.)
+Go through a nearby door to the south, shoot the mutant who pushed the wall, and 
+an SS coming from one of the hallways to the south.
+Take the health kit and the ammo box found here.
+Enter the blue section through a side door. Within there are more barrels. The innermost 
+is explodable.
+Shoot it off, it will trigger another explodable barrel positioned diagonally from 
+it and kill a hidden deaf guard, making way for another guard.
+Have this next guard go through the locked (silver) door and shoot him in the doorway 
+making the door stay open.
+If you do this from outside the blue room the two barrels next to the door will help 
+you by being explodable too.
+Next clean out the two hallways to the south. It is not necessary to clean out the 
+first one with several SS but you will gain a lot of ammo from it.
+Kill as many as possible by blowing up the barrels in their hallway, shoot the remaining 
+ones. Find a health kit around the corner.
+Then shoot the mutants in the other hallway. Go through the door at the southern 
+end, shoot two more mutants to the right of you.
+You are now in the opening section on the other side of the trees. Take the extra 
+life powerup in the corner by the well.
+Go back through the hallway and through the door revealed by the pushwall the mutant 
+moved.
+A new pushwall can only be moved backwards (seen from where you are coming) blocking 
+the retreat.
+Proceed into the blue section. Pick up the nearby supergun ammo and the chaingun.
+
+Confront the first Ubermutant!
+Fight him while running around the wall blocks, there is an ample amount of ammo 
+and health kits to be found.
+Finally brought down this Ubermutant will leave you the gold key.
+You need it both to get out of his section, and to get into the next area, the southwestern 
+section.
+Locate a pushwall, behind it you find a locked (gold) door. Go through it and find 
+yourself by the locked (silver) door left open by the guard you shot.
+Beyond it you find two secret doors (pushwalls) that will take you back to where 
+you were before.
+(Neither of these two pushwalls were openable from the other side.)
+
+Leave a backup saved game at this position.
+
+Make it into a nearby room with a bare table at the upper end. To the left of you 
+is a golden eagle.
+This is the pushwall you prevented a mutant from opening earlier. Don't open it now 
+but proceed through the next door.
+In the next room the passage is blocked by several mines. There are some enemies 
+ahead and more around the corner.
+Fight them and see to it that they step on enough mines so you can get safely through.
+
+At the other end of the room there are two locked doors behind barrels, a silver 
+door to the east and a gold door to the south.
+The mutant you prevented from opening a pushwall will come through the silver door. 
+Shoot him in the doorway making the door stay open.
+The barrel immediately in front of the gold door is explodable. Blow it off.
+Then go back to the pushwall, open it and proceed.
+Go through the locked (silver) door left open by the mutant, and through the locked 
+(gold) door using your key.
+
+
+Area 2, the southwestern section.
+
+Leave a backup saved game at this position.
+
+A new pushwall will block the retreat.
+Entering the new section you will see the backs of quite a little army of enemies. 
+Opening fire will alarm twice as many.
+An impossible situation.
+Ahead to the left you see two locked (silver) doors. Wait for a patrolling mutant 
+to open one of them.
+Now you must time it right!
+Follow the mutant through the locked door without having him notice you.
+Well inside the room wait for the door to close behind you before shooting the mutant. 
+Make sure he does not get to open any other door before he gets killed.
+Go through the locked (gold) door. Immediately to the south there is an Ubermutant 
+behind some dead trees.
+Ignore him at the moment and run west passed the corner.
+Around the next corner you find an extra life powerup.
+
+Leave a backup saved game at this position.
+
+Now for the hard bit!
+Ahead you see many trees. There are mines and skeletons scattered among them. The 
+enemies you saw before wait around the next corner facing your way.
+Rush forward towards the first pile of bones (not skeleton) then straight north towards 
+the nearest bush, pass it on the left side.
+Several of the enemies following you will step on mines.
+Turn right by the wall ahead, continue through two health kits and shoot the enemies 
+appearing to the right, get more health and ammo.
+Turn quickly and kill more of the enemies following you by blowing up several barrels.
+
+Wait for the rest by the corner and shoot them as they come.
+Well done! Pick up all the ammo left by the fallen enemies, but avoid the remaining 
+mines.
+After this, dealing with the Ubermutant by the dead trees will seem easy.
+First get into the blue room at the southwestern corner for another extra life powerup.
+
+Then go through the door to the east and run through the super gun ammo near the 
+Ubermutant. Stop for a breather behind the block south of him.
+The best strategy now is to go back and enter the room where you shot the mutant 
+you followed, from the north.
+Then fight the Ubermutant while sliding sideways through the gold doorway.
+The Ubermutant finally brought down, remove the golden eagle pushwall behind him 
+and get his silver key. Then take the two nearby health kits.
+Then head on north, still minding the mines, and go through a locked (silver) door 
+ahead using your key.
+
+
+Area 3, the northwestern section.
+
+Leave a backup saved game at this position.
+
+Pick up some super gun ammo immediately to the left.
+Behind the purple brick wall ahead there is a patrolling guard temporarily stopped 
+by a standing guard.
+Make it carefully ahead to the right by the trees and the bushes.
+Some mutants will shoot at you from far ahead, then several SS behind trees ahead 
+to the left. You must ignore them. You cannot open fire at this moment.
+Carefully let the standing guard notice you, but not the patrolling one behind him!
+
+Backstep, and have the first guard follow you. Play safe and retreat through the 
+locked (silver) door you just came through.
+The trees will prevent the guard from following you here.
+Try to notice the patrolling guard moving eastward.
+When he disappears behind another, very short, purple brick wall, rush up to this 
+wall yourself (the guard will turn north behind it).
+At this point you have shelter from the mutants and the SS but not from the alarmed 
+guard. So don't linger.
+Notice some health kits a little away to the right of you. Make it there and wait.
+
+The dark grey wall gives you shelter from the SS although not from the mutants, but 
+they are a long way off.
+From here you will see, or at least hear, the patrolling guard open a pushwall.
+If he and the other guard come at you, shoot them. In any case get the super gun 
+ammo to the right.
+Then make it ahead through the left mine field, the right one is impossible.
+Run zigzagging through the mine field. Starting by the super gun ammo you will have 
+to make only one turn.
+Find more health kits at the other end.
+Then make it quickly through the passage in the line of trees, made open by the guard 
+(who pushed the wall).
+Get the ammo by another purple brick wall ahead taking as much shelter as you can 
+from the mutants behind the bushes to the north.
+Shoot quickly the two guards (if you have not already done so) and the mutants.
+The wall will give you complete shelter from the SS.
+Then bring down all the SS behind the trees, shooting them past the end of the purple 
+brick wall.
+Turn the wall and find two health kits by a door leading into the house.
+The guards and the SS in the first two rooms are positioned behind blocking objects. 
+You will not get at their ammo.
+After the two first rooms go through an empty hallway and enter the next room.
+
+Leave a backup saved game at this position.
+
+Here you find a third pushwall of no return.
+Pass through to the south after pushing it.
+Ahead you see two locked doors, one silver (for which you have the key) and one bronze.
+
+Before venturing into the next room locate an extra life powerup behind a wooden 
+block structure a little to the east.
+Then open the silver door, and alarm a third Ubermutant immediately to the right 
+of you.
+Have him follow you to into the section where you found the extra life powerup.
+It is extremely unlikely that you have enough ammo to fight him.
+Rush back into his room and take the second door to the left (east).
+The Ubermutant will most surely follow you. But do take the time to make sure he 
+does!
+Shoot the guard in the next little room, and push the wall block to stop the Ubermutant, 
+and ten SS (on all difficulty settings) who are now alarmed, from following you through 
+the door.
+Hurry through the next door. Pick up an ammo box and shoot the brown mutants coming 
+at you from ahead.
+Grab a nearby health kit and push another wall block sideways and run forward for 
+shelter.
+The Ubermutant and the ten SS will follow you through another door, down a narrow 
+path filled with mines (there are a total of ten mines there).
+See them take their death one by one and mind the fire from the still living ones.
+
+The last one will get through alive and come at you through a nearby locked (bronze) 
+door.
+If the last one is the Ubermutant you are done for!
+That is why I advised you to make sure he actually followed you back to his room 
+before shooting the guard and alarming the ten SS!
+Shoot the last SS in the bronze doorway. Go through it and up the narrow path picking 
+up ammo and the bronze key from the Ubermutant.
+Go through the other door in the Ubermutant's room (this is where the ten SS were 
+waiting).
+Turn a corner ahead, and don't get surprised by a mutant behind a mutant statue.
+
+Go through a locked (bronze) door using your key.
+
+
+Area 4, the northeastern section.
+
+Leave a backup saved game at this position.
+
+In the first room you find a box of ammo, and you will notice an extra life powerup 
+in an adjoining room, behind a wooden barrel.
+Go through the next door.
+You enter a classically looking Wolfenstein area with long blue hallways.
+The area seems very quiet. See to it that it remains so!
+Locate a pushwall in the hallway section to the left, and find the extra life powerup 
+behind it.
+In the right wall of the long main hallway there are narrow passages leading to prison 
+cells.
+The first cell door is a pushwall. The path to this cell is obstructed by four mines.
+
+Guards are hiding in three of the other passages. If you want to fight them now, 
+use your knife to avoid being heard by anyone.
+The knife is a silent weapon in this secret level.
+Or if you immediately want to fight the enemies in the big room behind the first 
+door to the right, make sure the door closes behind you before opening fire.
+At the far end the main hallway continues south then west where the passage further 
+is blocked by three green barrels.
+Mutants are moving around here, deal with them later!
+At the start of the main hallway take the second hallway to the left.
+Turn right and move ahead into a long narrow corridor.
+South of this corridor is a hallway where four patrolling brown mutants are temporarily 
+stopped by four SS.
+Four small passages let you alarm the SS one by one, make sure they start following 
+you through the small passages! And make sure the patrolling mutants don't notice 
+you, and knife down the four SS one by one.
+At a corner by the entrance to the narrow corridor you may notice the patrolling 
+brown mutants turn south and continue into the passage with mines, where they will 
+be killed one by one.
+The last one will open the pushwall before stepping on the last mine.
+Now deal with the three before mentioned guards (if you have not already done so).
+
+And deal with the mutants at the end of the main hallway so they won't be there when 
+you make it past the barrels.
+You will also find a box of ammo here.
+Clean out the big room (if you have not already done so) and find a super gun and 
+ammo behind a pushwall in that room, you will notice it behind another wooden barrel.
+
+Then follow the path of the four dead brown mutants and enter the first cell.
+Pushwalls will let you into the next four cells. In the last one of these a mutant 
+is waiting. Shoot him before he shoots you.
+The next pushwall lets you into the main hallway again, beyond the green barrels.
+
+Go through the door ahead.
+
+
+Area 5, the southeastern section.
+
+Leave a backup saved game at this position.
+
+Pass by a last pushwall of no return. Go through the next door which leads to a big 
+outdoor area.
+The moment you step out into the open you will be noticed by three Ubermutants at 
+different distances from you.
+Fight them all! And fight the mutants and SS hiding behind some of the blue skull 
+wall blocks.
+Be constantly on the move! There is an ample ammount of ammo and health kits scattered 
+about. Make sure you run through them.
+You only have to kill one of the Ubermutants to get the elevator key. But bring them 
+down, all three of them!
+When everything has quieted down push the blue skull wall block next to the grey 
+stone wall, near a dead tree, and go through the door behind it.
+It leads to the opening area.
+You'll see the elevator ahead to the left.
+Find an extra life powerup immediately to your left.
+Open the elevator door using your latest acquired key. Shoot the last brown mutant 
+in the elevator itself.
+Continue to level 18.
+
+
+Poet.

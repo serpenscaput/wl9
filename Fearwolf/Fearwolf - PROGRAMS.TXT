@@ -1,0 +1,47 @@
+These are the programs who made it possible for me to make Fearwolf.
+
+1. Maped80.zip & mapedit84.zip Mapedit 8.0 - 8.4. Made by Bryan Baker, Dave
+   Huntoon, Warren Buss.
+
+2. Wolfed21.zip Wolfedit 2.1. Made by Bill Kirby. Freeware.
+   Yeah this old graphics editor still rocks, made tons of new images &
+   imported lots of images from other sets. (see the full list in credits.txt)
+
+3. Wlfaud11.zip Wlfaud 1.1. Made by Bill Neisus. Freeware.
+   Used it to extract some sounds from wolf-swe.zip.
+
+4. Wolfsnd.zip Wolfsnd 1.1. Made by Doctor Data. Freeware.
+   Nice easy program to use without it there would be no new sounds.
+
+5. Unp412b.zip Unp 412. Made by Ben Castricum. Shareware.
+   The best exe & com decompressor i have tried, it can handle a huge
+   collection of different compressors.
+   
+6. Vc400.zip Volkov Commander 4.00. Vsevolod V. Volkov. Freeware.
+   Magnificient commander for DOS, hexedited the .exe file with it & edited
+   most .txt files.
+
+7. Upx104d.zip Upx 1.04. Made by Markus Oberhumer, Lazlo Molnar. Freeware.
+   A command line exe compressor, 1 of the best programs in it's category.
+   
+8. Wolf3d14.zip Wolfenstein 3d Registered. Made by ID software. Shareware.
+   Go out & order the game on www.idsoftware.com.
+
+9. Bat2ex15.zip Bat2exec 1.5. Made by Douglas Boling. Freeware.
+   A nice & simple .bat to .com converter, i used it to make the start file
+   start.com
+
+10. Auror30c.zip Aurora 3.0c. Made by nuText Systems. Shareware.
+    The best editor made for DOS, edited most .txt files with it.
+
+11. Com2exe.zip. Com2exe v1.0. Made by Joergen Ibsen / Jibz, Arkady
+    V.Belousov.
+    Used it to make the start.exe file.
+
+12. Sdmedit.zip Sdmedit v1.0. Made by K. Van den Helm. Much faster than
+    mapedit, when i just quickly wants to check out a single level and want's
+    to ward off some small bugs. Made some small levels changes with it,
+    otherwise it was mostly used for exporting/importing/deleting levels.
+
+Note all the programs are DOS-programs, they should however work fine under
+the various Windows-systems.

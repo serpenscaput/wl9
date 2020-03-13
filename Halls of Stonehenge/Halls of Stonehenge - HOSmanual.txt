@@ -1,0 +1,468 @@
+"Halls of Stonehenge" help/mini manual 
+
+Greetings!  Thanks for downloading Halls of Stonehenge!  Well, there's an online 
+manual for HOS already, but in case you don't have the net (how'd you get this game 
+anyway then??) or don't feel like undertaking the enormous task of visiting the HOS 
+website, here's a little bit of a mini-guide for the game, with some exclusive commentary 
+as well.  Enjoy! By the way, if you simply didn't know there was an online manual, 
+it can be found (at the time this document was written anyway) at: http://www.angelfire.com/droid/majikmonkee/home.html
+
+
+
+Known Problems:
+
+HOS was designed to be as "glitch free" as possible.  Of course, nobody is perfect, 
+and neither is any program I know of, so here's the known problems with HOS.
+
+DISPLAY ISSUES - For some annoying reason, when you hit the "F8" key to quick save 
+your game, occasionally the screen will resize itself. When this happens, simply 
+hit "F5" and set it to a size you want and resume; or try going into the Advanced 
+Management menu in the Control Panel and toggle off the "Menu Backgrounds" permenantly 
+to avoid it happening again. The problem won't repeat itself most of the time until 
+you exit and start a new game.
+
+FRAMERATE ISSUES - HOS has textured ceilings and floors, and if you are using a very 
+old system and experiencing slowdown, this might be part of the problem. If you're 
+having troubles getting HOS to run at a decent frame rate (eg. choppy movement), 
+and still want to experience the rest that the game has to offer, try disabling the 
+floor and ceiling textures option from inside the Advanced Management Menu.
+
+ELEVATOR SCREEN ISSUES - If, for some reason, you have very low main memory (around 
+256k on the intro screen) you can still play the game; but if you try to pull an 
+ack and run through the entire game without saving (haha), you may experience a few 
+minor graphical errors on the elevator screen on the upper levels. If this happends, 
+it will not affect the game's playability; but a quick fix is just to save your game 
+and restart.
+
+SOUND ISSUES - If your sound card isn't 100% Sound Blaster compatible, you may experience 
+the Fat Zombies may yell "Join Us!" at random times when they're not even around. 
+This bug mainly starts at levels 5, 6, and 13. The default setting in the Advanced 
+Memory Menu is that all "wall sounds" are off, but if you turn them back on... press 
+Ignore Wall Sounds again and it will ask you if you want to remove the Zombie sounds 
+as well.
+
+OTHER ISSUES - I don't know of any other problems currently. If your PC does not 
+want to run HOS, check out some of the troubleshooting tips on the web for running 
+Wolfenstein 3D in general. I don't really want to get into all of that here. Wolfenstein 
+doesn't seem to like Windows, so try running it in DOS mode if you are not already.
+
+
+If you discover any other issues or glitches, let me know, and I'll add them to future 
+versions of this document.
+
+
+
+Story: 
+
+I'm NOT going to re-write the story here.  This is actually the shortened version 
+for anyone who looked at the online version and wilted at it's sheer size.  Okay...BJ 
+was on vacation in England when an old man named Professor Von Reinstein found him 
+chilling out in a pub.  The professor had been working on research at the Stonehenge 
+monument in England when it was overtaken by an evil gunslinger/archeologist named 
+Draven.  Draven led a band of crazy Nazi fanatics into the previously undiscovered 
+catacombs beneath Stonehenge, where he reawakened an ancient evil being from another 
+dimension named Sarron.  Now, the Nazis are preparing to overtake the world with 
+an army of supernatural monsters, while bringing Sarron helpless victims to boost 
+his power and allow him to form a body to enter our world.  Naturally, BJ is the 
+only one who can stop this catastrophe from happening.  And so, after a nasty dream, 
+BJ calls the professor, gets a shotgun, finds a pitchfork, and he's off to Stonehenge 
+to take on Draven and destroy Sarron's evil minions.
+
+
+
+Controls: 
+
+The controls are whatever you want them to be (don't you know that by now?).  There 
+are a couple of features in HOS though that you won't find in other Wolf3D games 
+(most of the time).
+
+"F11" key - Ooops!  Where'd my gun go?  Relax...it's the "holster weapon" feature. 
+ This is so if your weapon is so damn big that it blocks your view, you can make 
+it "disappear" so you're free to look around.  To bring it back, just press F11 again, 
+or press the fire button.  Pressing fire once will bring the gun back, so you'll 
+have to press it again to get a shot off.
+
+"X" key - Having trouble aiming accurately with a voodoo doll?  Have no fear!  Simply 
+press the "x" key, and a handy dandy crosshair will appear in the middle of the screen, 
+allowing you to aim with pinpoint accuracy.  If it starts to get annoying, don't 
+worry.  Pressing "x" again will make it go away.
+
+
+
+Difficulty Settings:
+
+There are four of these (does that surprise you?).  They are pretty close to the 
+same as in the original SOD, though the difficult settings in HOS are a little more 
+difficult than usual.  They are:
+
+Leave the lights on! - For wimps (or children, who probably shouldn't play HOS anyway)...you 
+could stroll through the game whistling a merry tune and running about with wreckless 
+abandon on this difficulty setting.  Well...not really, but it won't be much of a 
+challenge.
+
+Was that a spider? - A little tougher than "Leave the lights on!", but winning the 
+game on this difficulty is still nothing to brag about.  For the most part, you won't 
+be too overwhelmed on this setting, but the carnage and monster mayhem won't satisfy 
+those seeking a serious challenge.
+
+Let's do it! - Now you're talking!  The monsters really start to pour it on, and 
+death and dismenberment is much more common (for you).  It's time to start peeking 
+around corners before you go running into action, or you might wind up seeing red...and 
+being dead...
+
+No fear! - This is for true tough guys.  If you like playing chicken on the highway, 
+taking scalding hot showers, and chewing gravel instead of gum, this is the difficulty 
+for you!  Of course, if you're just a lunatic who enjoys punishing himself, you'll 
+enjoy this one too.  Insanely hard at times.
+
+
+
+Enemies: 
+
+There are lots of enemies in HOS, none of which appear in the original Spear of Destiny. 
+ The good news though is that if you know what enemy each HOS creature is based on 
+from the original game, you should be prepared for the challenges you'll face.
+
+Axe Zombie - A rotten corpse with an axe.  My favorite enemy to frag in the original 
+Blood, so it had to make an appearance in HOS.  Although they come back to life in 
+Blood, they don't in HOS because that would be a pain to program.  They replace the 
+dog because that's the only enemy in SOD that doesn't have some sort of long range 
+attack normally.
+
+Nazi Fanatic - The same as the boring brown uniformed Nazis from SOD.  Also the most 
+common enemy you'll face in both HOS and the original Blood.  HOS only has one variety, 
+though, and they are always packing the same weapon.  These jerks are easy to kill, 
+especially with the souped up shotgun (or artifact weapons if you're a sadist).
+
+Fat Zombie - These putrid menaces are based on the bloated butchers from Blood, and 
+are similarly tough to kill.  Beneath that fat, rotten exterior, though, they are 
+really SOD SS at heart, and should be treated as such.  Even though they just carry 
+around a cleaver, they can attack you from a distance.  Yeah, I know you can't see 
+a projectile, but quit griping!  In Blood, they could puke AND throw cleavers at 
+you, so be thankful for small favors!
+
+Hound of Hades - Tapping into my vast creative stores, I cleverly renamed these beasts 
+"Hounds of Hades" instead of their original Blood name, "hell hound" (see what I 
+did there?).  They zig-zag around and move pretty fast, much like the officers from 
+SOD...which doesn't seem too strange when you realize that that's what they've replaced. 
+ You don't see a fire ball actually come at you when they attack, but once again, 
+that would have been a pain to program.
+
+Gargoyle - These guys were a huge pain in the ass in Blood, and it seems fitting 
+that the same can be said of them in HOS.  The advantage you have here is that they 
+can't fly up out of your view and drop down behind you, so they settle instead for 
+ripping you to shreds in record time.  These guys replace the mutants from SOD, in 
+case you couldn't guess.  The fact that you can't hear them when they see you will 
+probably lead you to about a billion untimely deaths.
+
+Reaper - This is basically the ghost from SOD given a face lift. Originally, I'd 
+planned to use it throughout the regular levels as well as the final stage, but during 
+testing I became so frustrated with their constant interference that I scrapped that 
+idea. In Blood, these damn things hide in closets and other places you don't expect 
+and pop out at you screeching so loud you wet yourself.  Also, you can't attack them 
+unless they are attacking you.  Not so here. Just shoot em' and they vanish for a 
+few seconds before coming back to annoy you to death.
+
+Webstor - Webstor is actually the second boss in Blood, Shial, and is based on the 
+second boss in SOD, Barnacle Wilhelm (how confusing is that?).  Shial attacked you 
+by dropping tons of little spiders and trying to bite you.  It was fun to kill her 
+with the flaming hairspray can.  Webstor shoots skull shaped web projectiles from 
+it's butt, and you don't get hairspray to fight back with.  No matter, though.  You'll 
+find Webstor(s) pretty easy to kill if you can find something to hide behind.
+
+Death Breath - There is no "death breath" in Blood.  He's actually taken from the 
+"gill beasts" in Blood, which are common enemies in the later episodes.  I thought 
+it would be dumb to use Cheough, the gargoyle boss from Blood, though, because he 
+would have looked just like a normal gargoyle, only gray.  Thus, Death Breath was 
+born.  He replaces Ubbermutant, so naturally you won't hear him when he sees you. 
+ Funnier still is that you can't see his attack approaching...when he starts flapping 
+his jaws at you, you'll take damage...that's from his breath.  I know they haven't 
+invented interactive smell technology for the PC yet, but take my word for it...it's 
+that bad.  If I told you what he ate for lunch, you'd probably be too frightened 
+to play the game to start with (hint: he lives in a underground sewer network.  You 
+figure the rest out.).
+
+Cerberus - Cerberus is pretty much the same in HOS as he is in Blood, minus one big 
+difference.  You had to kill both his heads in Blood, whereas you just kill both 
+heads at the same time in HOS.  He belches (I love that word) fireballs at you, and 
+even if you don't get hit by them, you still take damage when he starts gnashing 
+his jaws.  He replaces Death Knight, so you know he'll be one tough bastard.  It 
+helps if you can find an obstacle that you can shoot through that his fireballs can't 
+pass through.  Oops!  Have I said too much?
+
+Draven - Draven replaces Trans Gross from SOD, but he's the last (regular) boss rather 
+than the first like Trans.  He's not super tough, and just attacks with standard 
+chainguns.  He's only human, after all (albeit an enormously built rather ugly one), 
+so he won't be as difficult as Cerberus or as fast as Death Breath.  Still, if you're 
+not careful, he'll fill you full of holes and whiz on your grave.  Draven is based 
+on a hybrid of Death Knight from SOD and Caleb, the hero from Blood.  The original 
+Draven was nothing but Caleb's body from Blood, but it looked too wimpy to be a boss...maybe 
+as a regular enemy it would have been alright.  But anyhow, thus we have the Draven 
+you'll find in the actual game.
+
+Sarron - Well, damn...I don't want to give away what Sarron looks like, but if you 
+are a Blood fan, you'll recognize him.  The character I used was WAYYYYY bigger than 
+64x64...in fact, I had to shrink him to about 20% of his original size, and he was 
+still way too big.  Thus, I had to edit his arms and chop him in half, and eventually 
+succeeded in mashing him into the required size for SOD.  Despite the brutal process 
+involved in getting him into HOS, he's retained enough of his vigor and fighting 
+spirit to be as challenging as the Angel of Death, but a whole lot tougher too.  
+When you beat him, the game ends, but you already knew that, right?
+
+
+
+Weapons: 
+
+BJ has six different weapons available in HOS.  Two you begin with, the rest you'll 
+have to find our pry out of the cold, dead fingers of your enemies.
+
+Pitchfork - Just a rusty, crappy pitchfork BJ finds lying around outside of Stonehenge. 
+ It's just like the knife, only it's been improved to be more powerful.  You WILL 
+need to use it at times in the game.  Otherwise, you'll spend all your hard earned 
+ammo knocking down rows of rotten axe zombies.  It can also be used to take out Nazi 
+fanatics without too much trouble, and put up hay in the summer.  Based on Caleb's 
+standard weapon in Blood.
+
+Shotgun - It's actually more powerful than the pistol you have in the original SOD, 
+but slightly harder to aim.  It's pretty worthless at really long range, but then, 
+so are most of your other guns.  It uses the universal ammo drums to replenish your 
+bullets.  Based on the shotgun from Blood.
+
+Tommy Gun - This is the primary automatic weapon of both Blood and HOS.  It does 
+some cool things in Blood, but in HOS, it's pretty much just a machine gun...point 
+and shoot! Works good for taking on lots of enemies.  Okay for bosses, and adds to 
+the challenge, but if you just want to get the job done, see below...
+
+Riot Gun - The same as a chaingun in the original Wolf3D games. Good for mowing down 
+rampaging hordes.  It's a big ammo waster, but...blah, blah, blah...why go over this 
+again?  If you've played Wolf3D, you know about the chaingun.  Big gun.  Does lots 
+of damage quickly.  Wastes bullets.  Nuff said.  BTW, if you're interested, the Riot 
+Gun design is based on the Tesla Cannon from Blood, but where the Tesla Cannon fires 
+cool glowing balls of electricity, the Riot Gun just spews bursts of flame *yawn*. 
+
+
+Voodoo Doll - You might not remember this weapon...or anything like it...from SOD. 
+ That's cause there is no 5th weapon in the original, but there is in HOS.  Er...it's 
+hard to describe this weapon...it functions sort of like the pistol, with single-shot 
+capabilities, but does a heck of a lot more damage.  It's amazing if a standard robe 
+toting punk survives an attack from this.  You won't find much in the game, though. 
+ It's based on (duh) the Voodoo Doll from Blood.  On Blood, if you killed a foe with 
+the doll, they usually died in some extra gruesome way, but not so with HOS.  So 
+what, though?  What are you, some kind of psycho?
+
+Magic Staff - BJ's no magician, but that doesn't mean he doesn't know how to handle 
+a rotten head on a stick!  This weapon is the hardest of all to aim (maybe because 
+of bad design on my part, but I like to think not), but the results are worth it! 
+ It will blow most pukes away with one hit, and puts on an impressive light show 
+in the process!  These are rarely ever seen in the game either, though.  The Magic 
+Staff is based on the Life Leach from Blood, only the Life Leach posesses far more 
+awesome powers (are you sick of me saying that yet?).
+
+
+Treasure:
+
+I don't really feel like talking too much about the treasure.  It's the same idea 
+as with all other Wolfenstein games, and is covered in depth on the site. In a nutshell, 
+here are the treasure types, and what each is worth:
+
+magic potion - 100 points
+
+crystal ball - 500 points
+
+spirit essence - 1000 points
+
+prisoner - 5000 points
+
+Prisoners are always hidden, so you'll have to work to find them. Often, though, 
+they are visible from other areas in the level, so you can see me, but you can't 
+reach em'.  Frustrating, isn't it?
+
+
+Health and Ammo:
+
+Another section I don't want to waste words on. Sorry, but this is the boring part, 
+quoting numbers and values, etc.  Here are the basic pickups and what you get from 
+them, though:
+
+ammo drum - 8 bullets for a fresh one, 4 from a dead enemy
+
+ammo crate - 25 bullets per crate
+
+skull and fire key - opens doors...what else?
+
+mushroom - +5 health
+
+health potion - +10 health
+
+health kit - +25 health
+
+artifact of life - extra life and full health
+
+
+Levels:
+
+Check out the website if you want names and descriptions of the levels.  As of now, 
+I'm not going to release walkthroughs or help for the levels in HOS.  First off, 
+I didn't create most of the levels, so I'm not the expert on navigating them...I 
+usually wind up looking like ground beef by the time I'm done with them, just like 
+you.  Second of all, where's the fun in having some tell you how to beat a level? 
+ So what's the purpose of this section entitled "levels" then?  Well, to explain 
+a couple of things to you you won't find in the online manual.
+
+Some folks may think that the type or progression of levels doesn't make sense.  
+Well, it does if you realize what I'm trying to achieve.  Think of the catacombs 
+of Stonehenge as a giant, underground castle, a castle with the usual stuff like 
+guard houses, libraries, prisons, etc.  There are also some places that don't make 
+sense in the catacombs as well, though.  This is because the Stonehenge catacombs 
+are an evil entity themself, and are designed mainly to confuse and kill you.  With 
+that in mind, expect to see the unexpected.  When you make it to the final areas, 
+you will realize that sanity isn't part of the Stonehenge design, and your main concern 
+is self preservation.  The main goal with the level concepts was to create a wide 
+variety of environments to explore, and some may not seem to go together, but for 
+the purpose of this game, they do.  If you don't like it, play another TC...or just 
+play Blood...I don't care...
+
+
+Tips:
+
+Hmmm...okay...my hand just reached out and wrote a heading called "Tips", so I guess 
+that means I want to impart some kind of helpful survival wisdom to those of you 
+playing HOS.  I'm not sure what kind of "help" I can give that isn't universal to 
+all Wolf games, but here goes anyway.
+
+Tip #1  USE THE PITCHFORK - I know it's been said, but it must be stressed.  Especially 
+on higher difficulties.  You WILL encounter swarms of fast moving axe zombies, sometimes 
+more than you can afford to shoot.  I know it's creepy, but wait for them to get 
+right up in your face, then start pokin'.  Here's another useful tip...when you face 
+an onrush of the undead, try to get your back to a wall, or better yet, stand in 
+a doorway.  This way, they'll all be coming at you from one angle.  If you fight 
+a horde of axe zombies out in the open, they'll run circles around you and whittle 
+away your life.  You'd be surprised how quickly they can kill you.
+
+Tip #2  THE KEY'S NOT LOST, YOU ARE - We of the HOS team don't like hidden keys. 
+ This is a detestable practice, and should be banned from the earth.  That having 
+been said, the first key in the very first level is hidden!  That's because those 
+clever Nazi fanatics believe in tight security, but it's not tight enough.  The key 
+can be seen, just not immediately reached.  Have no fear, though.  A nearby, obvious 
+pushwall is the answer to this problem.  After this, no key necessary to progression 
+is hidden.  If you can't find a key, you're either not looking hard enough, or it's 
+a hidden key, and the door you want to open isn't necessary to progression of the 
+level.
+
+Tip #3  LOOK FOR THE SECRETS - I know...it sounds as obvious as saying "kill the 
+enemies" or "push on doors to open them", but it's easy to get caught up in the action 
+of HOS, and forget that there are life saving secrets to be found.  Some areas are 
+nigh impossible to survive (without taking a severe beating) unless you find hidden 
+stashes of ammo and health.  Certain special weapons can only be found by locating 
+secrets, and the ever popular "secret levels" await discovery by truly industrious 
+adventurers.
+
+Tip #4  PROGRESS CAUTIOUSLY - This may look like another big "duh", but it actually 
+isn't really.  A lot of levels in the original Wolf3D and SOD could be "sped through", 
+and completed in very short amounts of time.  HOS is designed to be just the opposite 
+of that.  Strategically placed enemies and traps will destroy you in an instant if 
+you go rushing about without staking out the territory first.  Even a seasoned player 
+familiar with the levels will have trouble advancing without killing most or all 
+of the enemies.  The reward is knowing that you survived some hard @$$ levels, even 
+if it takes you a while to do it.
+
+Tip #5  SAVE SPECIAL WEAPONS - The aforementioned "artifact weapons", the voodoo 
+doll and magic staff, are very powerful, but can only be stored in limited quantities. 
+ There is no "ammo" to pick up for these weapons, and you must find the weapon again 
+to replenish your stock of them.  Both of these weapons pack a helluva' punch, and 
+can be useful in boss encounters (hint, hint).  Of course, you probably won't have 
+much or any of these weapons if you don't abide by tip #3.
+
+Tip #6  WHAT YOU DON'T SEE CAN'T HURT YOU - Well, this isn't true of ALL things, 
+but when it comes to some of the traps in HOS, there's a trick to avoiding serious 
+injury.  If you are navigating a narrow passage with traps on only one side of you, 
+try to face away from the traps as you pass by them.  They seem to damage you more 
+often when you are looking at them than they do when you are not.  They can still 
+hurt you when you don't see them too, though, so don't be careless.  If you are passing 
+through a passage with traps immediately on either side of you, try to face forward, 
+and move veeeeerrrrryy carefully.
+
+Tip #7  TAKE COVER - This may very well be the biggest "everyone knows that" tip 
+on the list, but it's helpful in HOS because many of the boss encounters take place 
+in areas with objects that you can't walk through, but you can shoot through.  This 
+is even more valuable when you battle enemies that fire projectiles at you, since 
+the projectile will hit and explode on such objects if you are behind them, leaving 
+you to deal with only the sporatic regular "shots" from these enemies.  Remember 
+this when you face powerful bosses...it might save your life.  And of course, only 
+an idiot would face a horde of the undead standard minions out in the open...
+
+Tip #8  DON'T GIVE UP - Okay...I realize that a lot of the levels in HOS are hard, 
+some insanely so, but they can all be won with enough effort and persistance.  If 
+at first you don't succeed, try again...and again...and again.  Whether you're big 
+on saving your game usually or not, you will definitely need to in HOS.  It's not 
+for the faint of heart, and I've been playing these levels since they were first 
+submitted to me, and still haven't mastered them.  Of course, I'm also not the foremost 
+Wolfer, so that might be saying something.
+
+Tip #9  DON'T PLAY WITH THE LIGHTS OFF - Otherwise, you might wet yourself.  Okay, 
+maybe not literally, but HOS can be pretty darn scary sometimes.  Most of the scare 
+comes from enemies popping out of nowhere, but a lot of work has gone into creating 
+a "creepy" environment, which results from graphics, music, and level design.  Actually, 
+it's too bad if you don't get a little scared playing HOS...we can ALL use a good 
+scare every now and then...
+
+Tip #10  HAVE FUN - Okay...I know it's BEYOND cheesy for me to put this in my tips 
+section, but I digress.  If you don't enjoy yourself while you're playing HOS, it's 
+work, not fun, and that's not how it's supposed to be.  We just hope you have at 
+least HALF as much fun playing HOS as we did making it...
+
+
+Well, that's about it!  Why waste time reading this when you could be playing HOS? 
+ Or, if you've already beaten the game, and are really bored and stumbled across 
+this, there are other TC's to be played out there!  Or, if you printed this out and 
+are reading it on the toilet, I'll quit bugging you...nobody likes to be bothered 
+in the bathroom.  But when you're out of the can and back at your computer, if you've 
+got something to say about HOS, email me at:
+
+mmerrill@centene.com
+
+I welcome all comments, both good and bad.  Of course, I'll print out the bad ones 
+and use them to line my bird cage, while framing the good ones and hanging them over 
+my mantle.  If you liked HOS, and want to check out some of my other upcoming projects 
+(or hated HOS and want to give me one last chance to redeem myself), look for the 
+following in the near future:
+
+"Countdown to Chaos"
+"Operation: Hundscheisse"
+"Hundscheisse 2: The Sequel"
+"Hund 3: The Final Frontier"
+"The Punisher"
+project: real wolfenstein (name not decided yet, but coming soon)
+
+Anyhow, that's all from me for now!  I think I'm going to go play some Wolfendoom 
+by AReyeP...I still haven't found half the secrets in the game yet, and life is not 
+complete until I've done so (no, I will not use Flo Edit to look at the maps).  Later!
+
+
+
+HOS KREDITS:
+
+BIG fat thanks to the following people who have made HOS a reality.  Without the 
+help of these people, HOS would probably suck, and I'd still be only 30% done with 
+it.
+
+
+Concept: Majik Monkee
+
+Graphics: AReyeP (title), Majik Monkee, original graphics from Blood by GT Interactive 
+and Wolfenstein 3D by ID Software
+
+Sound: Adam Biser (music), Majik Monkee, original sounds and scores from Blood by 
+GT Interactive
+
+Coding: BrotherTank, MCS, some anonymous exe hacker. ;)
+
+Level Design: ack, Majik Monkee, Raistlin
+
+Testing: John Merrill, Brian Lowe, Arielus, Chris Chokan, ack
+
+Special thanks to everyone for all their hard work and contributions, and to the 
+Diehard Wolfers community for some valuable (and otherwise) feedback.
+
+
+~Majik Monkee~

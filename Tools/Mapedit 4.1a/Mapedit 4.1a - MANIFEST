@@ -1,0 +1,18 @@
+
+The MAPED41.ZIP file should have contained the following files:
+
+
+README   1ST  - version 4.1a notes
+MAPEDIT  DOC  - doc file
+MANIFEST      - this file
+
+MAPEDIT  EXE  - MapEdit
+
+MAPDATA  DEF  - Map definition file
+OBJDATA  DEF  - Object definition file
+
+MAPEDIT  PAS  - MapEdit source
+MOUSE    PAS  - Mouse driver unit
+EGAVGA   BGI  - Borland BGI driver
+LITT     CHR  - Borland BGI font
+

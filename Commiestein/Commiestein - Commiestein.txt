@@ -1,0 +1,104 @@
+                               COMMIESTEIN 3-D
+                              -----------------
+                              By Brendan Gordon
+
+This is a patch for Wolfenstein 3-D, made especially for people who would
+like to blow away Communist soldiers and never had the chance to.
+
+SETTING:
+It is World War III, and the Chinese, assisted by the Russians, have started
+to conquer the world. After the Chinese conquered Asia, they attacked Europe,
+and after they destroyed the U.S. Pacific Fleet, they landed on the North
+American mainland.
+  The U.S. government, formerly run by fat cats who saw no security hazard
+in buying billions of dollars worth of el cheapo Chinese products in exchange
+for important technology, was overthrown by populists who ordered a gigantic
+military buildup.
+  You loved to hear your grandfather tell stories about his escape and
+subsequent James Bond-type operations during World War II. So, when war was
+declared, you gladly joined the Army, so you would have a chance to do what
+Grandpa did seventy years ago.
+  You turned out to be a perfect soldier and spy. You were assigned you to
+find out the plans of the Chinese to resurrect dead human bodies (dubbed
+Operation Frankenstein). Only problem was, you were caught and thrown into
+the prison dump known as Laogai 23.
+
+MISSIONS
+--------
+Episode 1: Escape from Laogai 23
+So here you are in the deepest part of Laogai 23. You have been tortured
+severely, and the screams from neighboring cells in the cell block, as well
+as your diet (being fed PLAIN RICE for the last TWO MONTHS!) have nearly
+driven you mad. Finally, you were scheduled to be executed. But the day
+before the execution, when a soldier was sent to torture you some more,
+you decided you couldn't take it anymore! In a fit of madness, you throttle
+the guard and steal his knife and gun. Ah well, a dinky .22 revolver, you
+should be able to extract a better gun somewhere around, perhaps off one of
+the secret policement also infesting the building.
+  So now there he lies, in a pool of blood right in front of you. You're not
+sure if the other guards heard you, but you know that they will have no mercy
+on you for killing one of them. You have only two options: 1) Escape, or 2)
+die in the process.
+
+Episode 2: Operation Frankenstein
+Yes, it's true! The Chinese HAVE been resurrecting human bodies! You must go
+into the stone bunker where mad Dr. Hong is hiding out, and kill him before
+he makes any more! (While you're at it, re-kill his army of mutants.)
+
+Episode 3: Hitler's Spawn
+Unfortunately, the Chinese have given their plans to the Russians. They have
+apparently duplicated Operation Frankenstein, thanks to the crooked genius,
+the inventor and General Sergei Gitlerov! If you kill Gitlerov, you will
+strike fear into the hearts of the Communists, for Gitlerov is idolized in
+both Russia and China (as you may know already).
+
+Episode 4: The Final Battle
+Well, well. It looks like now the Chinese and Russians are cooperating to
+make chemical weapons. Plus, you have found out that Hong and Gitlerov have
+already released hundreds of their Frankensteins. You must go in the building
+and take out all the overseers of the process!
+
+THE BADDIES
+-----------
+Here is a list of the bad guys that you will meet in your travels. Naturally,
+if you played the original Wolfenstein, you will find them quite familiar.
+
+1. Chinese Soldier
+These guys are the regular members of the PLA (the misnamed "People's Liber-
+ation Army"). They go down easily, but unfortunately, they are ubiquitous.
+
+2. Guard Dog
+They run around quickly, and when they bite you, you might see blood drops
+flying off from you. Don't let them get close to you!
+
+3. Chinese Secret Policeman
+These are somewhat harder to kill, usually taking about five or six shots.
+They also shoot rapidly.
+
+4. Frankenstein
+Mad Dr. Hong's creations, these walking corpses are about as hard to kill as
+the secret policemen, and fire immediately when they see you. If you look
+closely, you might see the hand with the gun and a pair of eyes in their
+chest. Since they're basically stitched together, they are unstable, and it
+is fun to watch their heads pop right off when you kill them.
+
+5. Russian Security Guard
+About as tough as the regular PLA soldiers, but are annoying in that they
+run and zigzag like rabbits.
+
+6. The Hulks
+There are several of these giants in armor, both male and female. They are
+very hard to kill; unless you have a cache of ammo and medikits nearby, the
+best option is to run!
+
+Watch out! After all the dead bodies that you left behind, there should be
+ghosts looking for you for revenge! In the case you do find a ghost, just
+run -- bullets have no effect on the supernatural, but if they touch you,
+you're dead!
+
+ACKNOWLEDGMENTS:
+I would like to thank Chris Chokan for giving me most of the editors to make
+this patch, and for his Chokster's Super Chokage program; not to mention the
+great help he has given making the game.
+
+Brendan Gordon

@@ -1,0 +1,24 @@
+^P
+^G 16 16 [DHW]
+^G 140 200 [WOLFSRCE]
+To download more mods, check out ^c[Blue]DieHard Wolfers Forum
+^c[Black]http://diehardwolfers.areyep.com
+
+OR
+
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^c[Black]website
+wolf3d.net
+^P
+
+
+
+^C[Blue]Mod ^C[Black]by Thomas Weiling 2019
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+Original mod for ^C[Green]Wolf4SDL ^C[Black]by Ripper
+	SDL EXE - AlumiuN
+	ECWolf Port - AstroCreep
+^C[Gold]ECWolf ^C[Black]by Blzut3
+^C[Green]LZWolf ^c[Black]by LinuxWolf
+
+
+^E

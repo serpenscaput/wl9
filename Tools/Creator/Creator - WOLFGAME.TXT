@@ -1,0 +1,329 @@
+                               WOLF CREATOR! (tm)
+                       A Wolfenstein 3D Mission Generator
+
+                        A Product of... Infinite Carnage
+
+
+Concept and Programming ¯ Alan Hemphill
+
+Additional Programming ¯ Chris New
+
+Test Team ¯ Chris New, Garry Jones, Paul Tae, Larry Rayner
+
+While every effort has been made to insure that the information provided here
+is accurate, this information is sold without warranty either expressed or
+implied.
+
+This document and the product it describes are copyrighted materials.  All
+rights reserved.  No part of this book or the software may be reproduced in any
+form without prior written consent from Apogee Software.
+
+This software is protected by federal and international copyright.
+
+Copyright * 1994 Infinite Carnage
+Wolfenstein 3D is a trademark of Id Software, Inc. All rights reserved.
+
+
+INTRODUCTION
+============
+Wolf Creator! is a program that generates great NEW missions for Id's fantastic
+3D action game - Wolfenstein 3D!!!
+
+Wolf Creator! will create an entire 6 episode game in about two minutes on a
+486/33!!! Wolf Creator! lets you decide how YOU want to play!  Like tons of
+ammo?  No problem!  How about a dozen Bosses on a single level - now you've got
+it!!!
+
+PREREQUISITES
+=============
+You must have a copy of the full 6 episode registered version of Wolfenstein 3D
+for Wolf Creator! to create missions.
+
+MEMORY REQUIREMENTS
+===================
+Before starting the program - insure that you have at least 550K of free
+conventional memory.  If you can play Wolfenstein 3D without memory problems,
+then you can run this program!
+
+DIRECTORIES
+===========
+Wolf Creator can be run from any directory!
+
+By default, Wolf Creator assumes that it will be in a sub-directory under the
+registered Wolfenstein 3D software.  If you want to run Wolf Creator from a
+different sub-directory, simply edit the directory name in the file
+WOLFGAME.DIR to tell Wolf Creator where the registered Wolfenstein 3D software
+is.  The floor maps will be stored in the Wolf Creator directory.
+
+ORIGINAL FLOORS
+===============
+Wolf Creator! saves the original floors.  To return to the original floors that
+you received with your registered Wolfenstein 3D game, simply type:
+
+	FIXWOLF
+
+
+SOUND (optional)
+================
+If you have a SOUND BLASTER, SOUND BLASTER PRO or SOUND BLASTER 16 sound card,
+and you install the Sound Blaster FM driver SBFMDRV, Wolf Creator! will play
+music when you run it.
+
+The driver is a file named SBFMDRV.COM and should be in your \SB, \SBPRO or
+\SB16 directory.  If you have a Sound Blaster Pro or 16, the file will be in
+your \SBPRO or \SB16 directory - in this case substitute the appropriate
+directory for \SB" in the following commands.
+
+To install the driver, simply enter the command:
+
+	\SB\SBFMDRV
+
+You can add the above line to you autoexec.bat file if you want to have the
+driver installed automatically when you turn on your PC.
+
+Although it isn't necessary to remove the driver, you can do so with the
+following command:
+
+	\SB\SBFMDRV /u
+
+The program also plays digital sounds!
+
+RUNNING THE PROGRAM
+===================
+To start Wolf Creator!, enter the command:
+
+         WOLFGAME
+
+After displaying an Introduction screens, the program displays the MAIN SCREEN
+where to can set the difficulty then click on the CREATE LEVELS button to
+create the new game.
+
+After you've created a new game, simply start Wolf3D with the usual command:
+
+	WOLF3D
+
+RODENTS!
+========
+Wolf Creator! is easiest to use if you have a Microsoft compatible mouse.  If
+you don't have one you can still use the keyboard to create levels - but you
+won't be able to adjust the custom settings.
+
+To the right of each screen there are several buttons.  Clicking on these
+buttons will allow you to exit the program, change screens, pause/resume the
+program or start the creation of the missions.
+
+Settings control how difficult the floors will be and how much ammo, etc. will
+be placed on each level.  You can alter the settings by clicking on the YELLOW
+up and down buttons.
+
+THE MAIN SCREEN
+===============
+The MAIN SCREEN provides an easy way to alter the difficulty of the game with a
+single control.  All you have to do is adjust the difficulty setting (if
+desired), then click on the OK button!
+
+The first time you run the Wolf Creator!, the difficulty setting is set to
+(roughly) about the same difficulty as the original game.  If you would like to
+create easier levels, lower the DIFFICULTY setting - for harder levels,
+increase the difficulty setting.
+
+The difficulty range is VERY wide!  At the lowest setting, you will be running
+around the floors alone - no guards, no dogs, no one!  At the highest setting
+you could have almost 100 guards and 30 HUGE guards!  Hey, that's tough even in
+GOD mode!!!
+
+Once you've adjusted the difficulty level, click on the "CREATE LEVELS" button,
+the program will display the CREATION SCREEN and start creating the levels.
+
+When you use the quick DIFFICULTY setting on the MAIN SCREEN - the program
+actually adjusts the other settings automatically.  So, don't adjust the
+DIFFICULTY setting if you are using the CUSTOM settings - your changes will be
+overridden.
+
+THE CUSTOM SETTINGS SCREEN
+==========================
+If you want to "fine tune" the levels to your preference click on the "CUSTOM
+SETTINGS" button from the MAIN SCREEN.
+
+Set the SMALL actor setting at the difficulty level you want.  There is a
+maximum of 125 small actors per floor; less the number of HUGE guards (Bosses)
+selected.
+
+Set the HUGE actor setting.  The maximum number of HUGE guards is 30!  BOSSES
+like lots of room, so you may have to reduce the number of small guards to fit
+30 BOSSES on a single floor!
+
+Likewise, set the health and ammo settings.
+
+THE CREATION SCREEN
+===================
+The creation screen lets you see what floor is currently being created, how big
+it is, how many areas have been created, the number of guards, etc.
+
+The buttons provide options that allow you to return to the main or custom
+settings screens to modify the settings.  Note that when you start creating
+levels again - the program starts back at the first level.
+
+The program is very fast - so if you really want to view some of the
+information on the screen, use the pause button.
+
+Clicking on the pause button a second time resumes the creation of levels.
+
+COMMAND LINE OPTIONS
+====================
+All of the program features - except those in the advanced configuration - can
+be specified on the command line.
+
+Here are the options available:
+
+?	Help!
+help	Help!
+-h	Help!
+-c:#	Set the Number of .CMF 
+	Files to Play
+-d:#	Set Difficulty (1 to 100)
+-i	Don't Display Intro or 
+	Credits Screens
+-p	Don't Pause
+	(Starts Creating Game
+	Immediately)
+-q	Quiet Mode
+	(Won't Play Music)
+-1	Create 1 Episode
+-2	Create 2 Episodes
+-3	Create 3 Episodes
+-4	Create 4 Episodes
+-5	Create 5 Episodes
+-6	Create 6 Episodes
+
+
+HELP!
+=====
+You can display the options on your screen using the "?", "help" or "-h"
+options.  For example,
+
+	wolfgame ?
+
+MUSIC
+=====
+The program has been released with 16 sample music files named 1.CMF to 16.CMF.
+You can add or delete .CMF files - but you must always name the files
+sequentially and you must tell the program the highest number .CMF file you are
+using.
+
+For example, if you wanted to add 4 new .CMF files, you would first name them
+17.CMF, 18.CMF, 19.CMF and 20.CMF.  Then the next time you start Wolf Creator!,
+you would enter the highest .CMF file number on the command line:
+
+	wolfgame -c:20
+
+You only have to do this the first time you run the program after you change
+the number of .CMF files.  The program will remember the new setting from then
+on.
+
+Most bulletin boards have a large selection of .CMF files - so you add as many
+new music files to the program as you like or change them to suit your taste!
+
+DIFFICULTY
+==========
+You can also specify how tough you want the levels to be using the difficulty
+option.  For example, the following sets the difficulty to 55 (out of 100):
+
+	wolfgame -d:55
+
+As with most settings - it is only necessary to do this once - the next time
+you run the program it will remember the last setting you used!
+
+SKIP INTRODUCTION
+=================
+You can bypass the Introduction screens with the -i command line option.
+
+DON'T PAUSE
+===========
+The -p option tells Wolf Creator! to start creating levels immediately without
+waiting for user input.
+
+The -p flag also skips the introduction screens - so you don't have to enter
+both flags.  Here's the command:
+
+	wolfgame -p
+
+If you don't have a Microsoft compatible mouse - you'll want to run the program
+from the command line using the -p option.  In this case, you can adjust the
+difficulty using the -d option.  For example, to run the program from the
+command line with a difficulty of 45% - the command would be:
+
+	wolfgame -p -d:45
+
+QUIET!
+======
+If you don't want the program to play music, start it up in QUIET MODE, using
+the -q option.
+
+SELECT THE NUMBER OF EPISODES!
+==============================
+Wolf Creator! will always create a full 6 episodes unless you specify that it
+create less with the command line options -1 to -5.  For example, to create
+three episodes, start the program with:
+
+	wolfgame -3
+
+COMBINING OPTIONS
+=================
+When combining several options, use spaces between them.  For example, to
+create levels with a difficulty of 63 without pausing and no sound, the command
+would be:
+
+	wolfgame -d:63 -p -q
+
+SAVED SETTINGS
+==============
+After you run Wolf Creator!, it saves the current settings. Once you set the
+program up to generate levels the way you like them - you'll be able to simply
+click on the OK button - or start the program from the command line directly
+using the -p option.
+
+PRINT OUT THE MAPS!
+===================
+Wolf Creator! produces printable text file maps as it creates the game floors.
+The files are named FLOORnn.MAP, where "nn" is the floor number.  For example,
+the filename for the text file map for floor 3 is FLOOR03.MAP.
+
+The maps are created using characters that look correct while viewing the text
+file on the screen.  If you get strange characters on your printer, select a
+different symbol set.  Your printer manual will describe how to do this.
+
+
+GOLD AND BLUE KEYS
+==================
+In the original Wolfenstein 3D episodes you first find the BLUE key - then
+later you find the GOLD key before you can exit the level.  At the end of an
+episode you have to get the GOLD key from a HUGE guard!
+
+On Wolf Creator! floors - you can have multiple HUGE guards on every floor!
+Since there can be so many HUGE guards you could have the gold key shortly
+after starting a floor.  The keys are reversed - so you'll need the BLUE key
+to finally exit the level!
+
+PUSHWALLS
+=========
+Like the original levels, pushwalls are used to hide secret areas that may
+contain extra health or ammo - or perhaps an elevator to a secret level!
+
+Secret "doors" may also be installed in walls that are in the middle of a room
+or area.  These pushwalls can be used to your advantage when playing; use them!
+
+RUN LIKE HELL!!!
+================
+If you think this sounds like a wimp technique, perhaps you haven't run the
+Wolf Creator! yet!!! Sometimes things get downright deadly with so many BOSSES
+waiting to put you in a body bag!  After a few hundred levels, you're sure to
+be using this technique!  Sometimes you can get in a tight spot that you just
+can't fight your way out of!
+
+Perhaps your health or ammo is too low -- or you have two or more huge guards
+to contend with.  It may seem impossible but, with luck (and the "RUN" key!)
+you can often make it past a huge guard and get to another area where you can
+regain your strength and ammo - then go back and dust 'em!
+
+Enjoy!!!

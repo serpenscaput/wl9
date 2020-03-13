@@ -1,0 +1,46 @@
+Project Wolfgeist by Possum Trot (wolf3d mod)
+original DOS release: 2 February 2005
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on KyleRTCW's Wolfgeist EXE:
+
+- 37 seamless levels, no secrets
+- music order changed
+- signon screen messages changed
+- non-shareware message activated with new text and color
+- blue menus 
+- difficulty names changed
+- read this! activated
+- status bar size and border color changed
+- 4 keys
+- new static sprites
+- in-game messages (toggle with M key)
+- weapon bobbing (toggle with Y key)
+- animated sprites
+- demos disabled
+- rocket launcher and ammo
+- new sounds added
+- new scientist enemy
+- textured floors and ceilings
+- boss behavior changed
+- chaingun comes with 8 ammo
+
+
+Improvements in SDL version:
+
+in-game message preference remembered in cfgsdl file
+weapon bobbing preference remembered in cfgsdl file
+weapons automatically switch if out of ammo
+(bugfix) Normal BJ death face if Schabbs kills you
+option to show mapnames using --mapnames parameter
+
+
+

@@ -1,0 +1,25 @@
+
+Well, here it is: 
+
+WolfEdit version 1.0
+
+I decided that my editor was pretty cheezy, so I added a GIF-import 
+feature that lets you convert a GIF file into a wall image.  Use 
+your favorite paint/draw program and save it as a GIF.  I just wrote 
+the GIF decoder yesterday, and it's the first time I've ever written 
+any LZW compression routines, so it probably still has a bug or two 
+in it.
+
+I didn't include source code, primarily because the code is *REALLY*
+ugly.  If I ever clean up the code, i'll include it in future versions. 
+If you want to know the various file formats, look in FILEINFO.TXT.
+
+If you come up with any nifty graphics, upload them for everyone to
+see.  I wouldn't upload the VSWAP.WL1 file, because it's huge and it
+may violate the "do not distribute any modified version" shareware rule.  
+Upload the .WAL files instead.
+
+Enjoy,
+Bill
+
+

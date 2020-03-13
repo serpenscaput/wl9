@@ -1,0 +1,6 @@
+REGNOTICE_TITLE = "ACHTUNG!";
+REGNOTICE_MESSAGE = "You may distribute this mod freely\n\n\n\nWOLF3D DEMOLITION 
+by\nSam Feichter(AstroCreep)";
+STR_RT = "Stupid Shit!";
+STR_VS = "Loser List";
+STR_NOSPACE = "You seriously don't have room\nfor one save game?!";

@@ -1,0 +1,47 @@
+MegaDemo 1.2 (15-Dez-1999)
+Welcome to the new MegaDemo of FloEdit, world's best editing tool for the popular 
+ID-Software games Wolfenstein-3D and Spear Of Destiny! 
+
+This demonstation shows you the following features: 
+  * New walls
+  * New guards
+  * New sprites
+  * New weapons (well, new gfx for the weapons)
+  * New digitized sounds
+  * No elevators - kill Kenny on every floor to get to the next level!
+  * No episode separation 
+
+
+The game has got 6 levels. It's now a lot more easy to cheat, since I think it's 
+up to you to cheat or not. So you don't need to enter any command-line parameters 
+anymore, as well as you don't need to press any special key combination to cheat.
+
+
+Here's it:
+  * Press [M], [I] and [L] keys at the same time to get keys, health and bullets
+
+  * Press [TAB] and [G] to get to god mode
+  * Press [TAB] and [W] to warp to another level (last level is 6)
+  * Press [TAB] and [Q] for fast quitting the game
+All other cheats you know from the game are also supported, I only showed you the 
+most important ones here.
+
+I don't think that it's necessary to give you are story for this - just KILL KENNY!!!
+
+
+Thank you for downloading the demo. This game is dedicated to:
+  * Birgit W.
+  * Sabine H.
+  * Eva A.
+  * Sybille H.
+  * Wepsi (Sabine W.)
+  * Nadja W. 
+
+
+If you like this game or if you have any questions, fell free to email me at {flo@wolfnode.de}
+
+
+
+
+Please note: Wolfenstein-3D (C) ID Software. SouthPark (C) ComedyCentral. None of 
+these companies has anything to do with the MegaDemo!  

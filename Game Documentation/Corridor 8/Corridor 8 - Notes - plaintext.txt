@@ -1,0 +1,19 @@
+
+CORRIDOR 8: GALACTIC WARS
+
+ADDITIONAL NOTES
+
+All controls will be configured from within the game.  This includes sound card configuration. 
+ For example, to configure your keyboard you simply go the controls menu option, 
+select which action you want to change then press the new key for that action.  Also, 
+VR Helmets and special controllers will be turned on/off from within the game rather 
+than using a seperate setup utility or command line to do this.
+
+The advantages to doing this are:
+
+•	No setup utility is needed!! (this saves coding time)
+•	Reduces the number of files in the directory.
+•	One executable (the game) does EVERYTHING!
+•	Makes playing it directly off the CDROM possible (no setup file to read)
+
+

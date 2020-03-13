@@ -1,0 +1,116 @@
+WOLFENSTEIN 3-D Add-On
+
+(See end of file for information on obtaining WOLFENSTEIN 3-D.)
+
+-----------------------------------------------------------------------
+Quick Start:
+
+    (1)  In your WOLF3D subdirectory
+            rename MAPHEAD.WL1 and GAMEMAPS.WL1
+            to     MAPHEAD.SAV and GAMEMAPS.SAV     (for backup purposes)
+
+    (2)  Rename any files named SAVEGAMx.WL1 to SAVEGAMx.SAV
+            (where x is a digit from 0 to 9)
+
+    (3)  Copy the files included in this ZIP to your WOLF3D directory
+
+    (4)  Go play
+-----------------------------------------------------------------------
+
+More complete information:
+
+Included herewith are two files that provide ten new levels for
+the shareware version of Wolfenstein 3-D (tm).  These files replace
+the equivalently named files that were provided with the original
+program.  (Note that this product will only work with shareware
+versions of Wolfenstein 3-D released after 6/1/92.  See below for
+information about the map files.)
+
+Before installing, I recommend that you first copy the two original
+files so that they may be retrieved later.  These files are:
+
+    MAPHEAD.WL1   and   GAMEMAPS.WL1
+
+You should copy these into MAPHEAD.SAV and GAMEMAPS.SAV.
+
+Note that any saved games will be rendered inoperable once you install
+this add-on.  If you would like to be able to recall these saved games
+(after recalling the original MAPHEAD and GAMEMAPS files), you should
+back them up before installing the add-on files.  Saved game files
+are named SAVEGAMx.WL1 (where x is a digit from 0 to 9).  Copy these
+into SAVEGAMx.SAV before installing the new MAP files.
+
+After backing up any desired files, simply copy the included files into
+your Wolfenstein 3-D directory.
+
+-----------------------------------------------------------------------
+
+Some words about the map files:
+
+All versions of Wolfenstein 3-D have two files that are used to describe
+the maps.  The larger of these files contains hex codes that are used
+to identify every graphic element of the map.  The smaller one is used
+as a sort of table of contents so the program will know where to look
+up data in the main map file.  There are a number of other files that
+come with the program, but the map descriptions are entirely contained
+within the two aforementioned files.
+
+Early in the development of Wolfenstein 3-D, the map data file had
+its name changed.  This change apparently occurred with the 6/1/92
+release of the program.  The table-of-contents filename was not
+modified.  The filenames are as follows:
+
+       Table of Contents:      MAPHEAD.WLx    (all versions)
+
+       Map Data File:          MAPTEMP.WL1    (shareware versions
+                                               prior to 6/1/92)
+                               GAMEMAPS.WLx   (versions after 6/1/92)
+
+The file extensions are encoded by the number of levels available.
+That is, since the shareware game contains only one level, the
+extensions are WL1.  If you have registered, and paid for the entire
+set, the extensions are WL6.  I'm not positive, but I think there is
+also a three level set available, in which case the extensions are
+WL3.  Spear of Destiny, the sequel to Wolfenstein 3-D, has SOD as
+the extension.
+
+Version 1.0 of Wolfenstein was dated 5/5/92, and had a few bugs.
+Version 1.1 came out on 5/20/92, but the file naming convention had
+not been modified.  A new Version 1.1 was released on 6/1/92 with the
+new map filename.  The latest version, 1.4, was released on 12/1/92.
+The version number is shown on the Wolfenstein 3-D opening screen in
+the lower right corner.
+
+The bottom line is, if you have a version dated prior to 6/1/92, and
+you want to install an add-on such as the one included here, make sure
+it has the MAPHEAD and MAPTEMP files.  If you have a version after
+6/1/92, make sure the add-on filenames are compatible with the names
+in your original set (including the suffix that is on the file
+extension that indicates the number of game levels.)
+
+-----------------------------------------------------------------------
+
+Wolfenstein 3-D Ordering Information
+
+Note:  This add-on is in no way associated with the original
+       Wolfenstein 3-D program.  It is a "freeware" product that
+       was designed using a public-domain utility, and is made
+       available as an enhancement to the original program.
+       Consequently, the user assumes all risks associated with
+       the installation and use of this product.  In addition,
+       since it is distributed as freeware, no charge may be
+       requested other than reasonable packaging and delivery fees.
+
+Wolfenstein 3-D is produced and owned by ID Software.
+It is distributed by Apogee Software.
+
+Spear of Destiny is produced and owned by ID Software.
+It is distributed by FormGen Corporation.
+
+To obtain the shareware version of Wolfenstein 3-D (or to register
+and recieve the complete set of 6 levels), call Apogee Software
+at 1-800-426-3123.
+
+To obtain Spear of Destiny, call FormGen at 1-800-263-2390.
+
+

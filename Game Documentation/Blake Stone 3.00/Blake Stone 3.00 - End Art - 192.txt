@@ -1,0 +1,21 @@
+^BCe3^SCe1^ST1^FN1^BX1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 4 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+Good job! STAR Port is no longer functional; however, intelligence reports some of 
+Goldfire's aliens have left the planet for Habitat II to inform him that earth-based 
+operations have been destroyed!
+^EP
+^FC3a^FN1^CEMISSION 4 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+We speculate that Goldfire might immediately attempt mass teleportation of his remaining 
+alien legions to earth.
+
+Proceed to Habitat II where you will be given further instructions.
+
+<End Transmission>
+^EP
+^XX...

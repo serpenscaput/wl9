@@ -1,0 +1,37 @@
+The following is my incomplete 64x64 TC that I've abandoned for 128x128 code.  The 
+green guys are supposed to be Munchkins (The enemy came from the Image World), but 
+they're way too big, have no pointy hats, and the dying sequences and attack sequences 
+are all wrong.  Sound effects are right, though.
+
+The SS is supposed to be a wand-welding sorceross.  The sound effects are done for 
+this character, but nothing else.  So "she's" an SS with a female voice.
+
+The brown guard has been replaced by a Cloaked Enemy.  His look, attack, and "dying 
+sequence" are intentionally comical, so feel free to laugh.  :-)
+
+The new Ammo Box and "Mutant Cleavers" are from Airslide.  The Techno-gun is from 
+Conner94.  The new Spear Rack is from WLHack.
+
+The Stained Glass walls are supposed to be a stack of Warehouse Boxes (This was never 
+done for 64x64).  And, I apologize again for my *horrendous* Mine Shaft and Mansion 
+Wall textures in this game.  Like I said before, the palette pretty much killed any 
+attempt to use the brown shading effectively.
+
+Music is still a WIP;  the Level 2 music needs touching up, and some tunes will probably 
+be replaced in the final version.  The menu and Level 1 have the right music, though.
+
+
+Map #1 is complete for this game (The rest are from the Community Map Pack, and from 
+"Operation: Kill BJ!"), but the guard placement is a little awkward, and I'm also 
+about ready to ditch the whole level for one with a different opening scenario.  
+The map might be too hard also, like people said my "See Not Touch" map was.  I found 
+the level rather entertaining though (as was the point;  my mod was all in fun), 
+so it's here for all to enjoy.  And if one finds the content useful for their own 
+mod, so be it!  :-D
+
+BTW, the four-letter cheat is H+J+K+L instead of M+L+I.  If it doesn't work, hold 
+down the H key, then hold down the J key along with it, and keep going until you 
+have all four keys pressed down.  Sorry about that;  the key conbination doesn't 
+work well in some versions of Windows XP.
+
+- "Tricob".

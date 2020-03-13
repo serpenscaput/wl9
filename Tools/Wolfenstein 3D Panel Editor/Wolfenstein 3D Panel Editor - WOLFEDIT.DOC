@@ -1,0 +1,130 @@
+			Wolfenstein-3D Panel Editor
+			---------------------------
+This is a very simple graphics editor which permits the "panels" within the
+VSWAP.WL6 file (provided with the ALL SIX EPISODES version v1.1/v1.?) to be
+modified directly on screen. The utility must be placed within the \WOLF3D
+directory because it assumes VSWAP.WL6 is in the current directory (crude).
+If you do not yet own this version of the software, treat yourself and order
+it from APOGEE/Id. Wolfenstein-3D is an incredible program and it's authors
+deserve your support!.
+
+Main Display
+------------
+When the editor is first loaded, the VSWAP.WL6 file is opened and the first
+"panel" within the file is displayed. Section (A) always displays the panel
+at 64x64 dots, 1x scaling. Section (B) displays the 256 color palette that
+is organized in a 16x16 matrix. Section (C) and (D) display the panel using
+either 2x or 3x scaling. Initially, 3x scaling is provided. (See diagram)
+
+  |-------------------------------------------------------------------------|
+  |  _______________      ______________________ ___________________	    |
+  | |		    |    |                      |		    |	    |
+  | |  		    |    |			|		    |	    |
+  | |  64x64 Panel  |	 |                	|		    |	    |
+  | |   1x-Scale    |	 |	         	|		    |	    |
+  | |	   (A)	    |	 |                      |		    |	    |
+  | |_______________|	 |	64x64 Panel     |		    |	    |
+  |  _______________	 |	 2x-Scale       |		    |	    |
+  | |               |	 |	   (C)		|		    |	    |
+  | |               |	 |			|		    |	    |
+  | | Color Palette |	 |                      |		    |	    |
+  | |	256 Color   |	 |            		|		    |	    |
+  | |	   (B)	    |	 |______________________|		    |	    |
+  | |_______________|	 |					    |	    |
+  |			 |					    |	    |
+  |			 |					    |	    |
+  |			 |		  64x64 Panel               |	    |
+  |			 |		   3x-Scale		    |	    |
+  |			 |		     (D)		    |	    |
+  |			 |					    |	    |
+  |			 |					    |	    |
+  |			 |__________________________________________|	    |
+  |									    |
+  |-------------------------------------------------------------------------|
+
+			Wolfenstein-3D Panel Editor
+			---------------------------
+Controls
+--------
+Once the display is initialized, a blinking graphics dot is provided in
+sections (A) and (C)/(D) and is the current cursor/pen position within
+the 64x64 image. The standard arrow keys will move this cursor/pen and
+are confined within the boundaries of the image. Panels are selected by
+using the PGUP and PGDN keys and will stop at the first/last panel that
+can be modified. A panel may only be edited while shown on the display
+and does not become permanent unless specifically written back using the
+write command (W) while displayed. Therefore, you may view the panels
+using the PGDN/PGUP keys without changing any data. The HOME and END
+keys are provided to quickly advance to the first and last panel (106).
+Editing is performed using the color palette and the standard arrow keys.
+Initially, the cursor/pen is a cursor which is non-destructive and can
+be moved freely within the 64x64 image. The current plot color has been
+initially defaulted to black (First position in the 256 color palette).
+A point may be plotted using the point (P) command or they may be drawn
+continuously using the draw (D) command. The draw (D) command is a toggle
+which acts like pen on a plotter. When down, it draws, when up is doesn't.
+The current plot color can be selected in two different ways. The get (G)
+command obtains the new color directly from the 64x64 panel at the current
+cursor and the set (S) command permits the selection of the color directly
+from the color palette on the display. The set (S) command transfers the
+cursor from the 64x64 image to the 16x16 matrix for color selection. When
+this mode is entered, it always places the cursor on the current plot color.
+To change the plot color in this mode, use the (G) key again. Otherwise, any
+other key returns the dot to the 64x64 image without changing the plot color.
+The 2x scaling (2) command and the 3x scaling (3) command provide different
+views for detailed editing and do not destroy data between mode switches.
+The clear (C) command will erase the entire panel (black) in case you wish
+to start a new panel from scratch. The ESC key will terminate the program.
+It is a good idea to backup your VSWAP.WL6 file before you add "graffiti"
+otherwise you will need to reload this file from your program disks if you
+want the original artwork.
+
+			Wolfenstein-3D Panel Editor
+			---------------------------
+
+			      COMMAND SUMMARY
+---------------------------------------------------------------------------
+ 2 		- 2x SCALING
+ 3 		- 3x SCALING
+ C 		- CLEAR PANEL TO BLACK
+ D 		- TOGGLE CONTINUOUS DRAWING MODE ON/OFF
+ G 		- GET PLOT COLOR FROM 64x64 PANEL
+ P 		- PLOT A SINGLE POINT
+ S 		- SELECT PLOT COLOR FROM COLOR PALETTE
+ W 		- WRITE PANEL TO DISK
+ ARROW KEYS 	- MOVE CURSOR/PEN
+ PGUP 		- READ PREVIOUS PANEL
+ PGDN 		- READ NEXT PANEL
+ HOME 		- READ FIRST PANEL
+ END 		- READ LAST PANEL
+ ESC 		- EXIT PROGRAM
+
+
+ NOTE: Use the editor to modify the sliding doors and place a textual
+       message large enough to be read while in the game. When you
+       come to your first door in the game, open it, walk through and
+       then turn around and watch closely!!
+
+			Wolfenstein-3D Panel Editor
+			---------------------------
+ZIP File
+--------
+Here is the CRC information for the original program files which were taken
+directly the original ZIP file as uploaded from my machine.
+
+C>PKUNZIP -v WOLFEDIT.ZIP WOLFEDIT.EXE
+
+PKUNZIP (R)    FAST!    Extract Utility    Version 1.1    03-15-90
+Copr. 1989-1990 PKWARE Inc. All Rights Reserved. PKUNZIP/h for help
+PKUNZIP Reg. U.S. Pat. and Tm. Off.
+
+Searching ZIP: WOLFEDIT.ZIP
+
+ Length  Method   Size  Ratio   Date    Time   CRC-32  Attr  Name
+ ------  ------   ----- -----   ----    ----   ------  ----  ----
+   9400  Implode   4906  48%  08-07-92  03:28  69fa56d5 --w  WOLFEDIT.EXE
+ ------          ------  ---                                 -------
+   9400            4906  48%                                       1
+
+
+

@@ -1,0 +1,121 @@
+			***************************
+
+			         GUYSTEIN
+
+			    WOLFENSTEIN ADD-ON
+
+				By Guy Brys
+
+			   Last update: 01-09-2000
+
+			***************************
+
+
+Files in this zip-file 'Guystein.zip'
+-------------------------------------
+
+Vswap.wl6 (some objects and walls are a little bit changed in order
+and image - if you play the rounds with your vswap file it won't be
+that nice).
+Maphead.wl6 (very necessary!)
+Gamemaps.wl6 (idem)
+Guystein.txt (this file)
+
+With these files you can play Guystein if you have the registered
+version of Wolfenstein 3D.
+The only thing you have to do is to alter the original files 
+Vswap.wl6', 'Maphead.wl6' and 'Gamemaps.wl6' into '*.old' extensions.
+Then unzip 'Guystein.zip' into your Wolfenstein directory.
+The files in the zip are not made on a computer with a right date
+programmed, so that's the reason why they are from 1998 (but I
+ensure you they were made from Oktober 1999 untill January 2000).
+
+
+The game
+--------
+
+I have no specific story about the game; just use the story of the
+original game.
+The aim isn't changed: Just kill everybody who wants to kill you.
+Every round has in my game 149 bad guys, except every 9th round from
+a level (there are 148 bad guys).
+So it is a very high filled game; you will use a lot the F8 key (even
+more the F9 key).
+Because of this mass of enemies, sometimes (it happens not often) the
+game will stop abrupt after being killed with a message 'Out of memory'.
+I have tried to minimise this situation as much as possible, but you
+are warned.
+If you never want to see this message, you will have to play in GOD
+mode (but this isn't fun).
+So I have only used the 'easy guys' (not the Superbosses).
+One reason for doing this is that I don't like them.
+But don't panic; Ten 'easy guys' who come to chase you in the same time
+is about one Superboss (I ensure this).
+There is one exception on the rule of 'no Superbosses', namely
+level 6 - round 9 (here there are 15 'Ghost Hitlers' - my favorite
+Superbosses).
+The secret chambers are most of the time easy to find (tip: a basket is
+very often a secret door).
+The elevator to the secret level is to be found on 1 - 1 - 7 - 3 - 5 - 3
+(like the original game).
+
+
+Free mailware
+-------------
+
+I don't know this term exist, but this is what I mean with it.
+As you will see: Level 3, level 4 and level 6 are already playable
+(the other ones aren't fun if you begin to play them).
+But in the zip file 'Guystei2.zip' (included within the zip file
+'Guystein.zip') there are the files 'Gamemaps.wl6' and 'Maphead.wl6'.
+If you install these instead of the other ones included in
+'Guystein.zip', you will be able to play the six new episodes.
+But the files in the zip file 'Guystei2.zip' are protected with a password.
+You receive the password from me if you send me a mail (I like getting
+mail).
+That's what I call 'Free mailware'.
+
+NB. If you don't want to mail me, you can find the code yourself.
+Here is a tip
+	THESE TWO MEN HAVE FOUND A TEST TO TEST WHETHER A GIVEN
+	DATASET HAS A GAUSSIAN DISTRIBUTION (INCLUDE THE '-')
+		.......-....
+
+(I've studied mathematics at the University, so you won't find it
+in a common math book - I think).
+
+Contact me
+----------
+
+If you like this stuff, please mail me too.
+If you find something wrong in a level (some things you don't like)
+and you have a good suggestion you may mail it to.
+If there are still errors (you can't get out of a level for some
+reason or something else), mail me.
+Maybe some people recognize some things in my rounds that they have 
+in their rounds too.  I admit I have copied some things in some rounds,
+but I never copied a whole round (I guess).  I 'm afraid I can't give
+the references of my rounds (some crashes in my computer have deleted
+much great files).
+
+
+
+IMPORTANT!: DON'T COMPLAIN TO APOGEE IF YOU EXPERIENCE PROBLEMS WITH
+		THIS FREEWARE.  IF YOU HAVE PROBLEMS, MAIL TO ME (PLEASE
+		NOT TO OFTEN).  I'M NOT RESPONSIBLE IF YOUR COMPUTER START
+		TO CRASH OR TO DO THINGS YOU DON'T ASK HIM TO DO!
+
+
+Thanks to everybody who likes this add-on.
+
+Thanks for playing Guystein!
+
+
+
+Greetings,
+
+Guy Brys
+
+e-mail: guy.wendy@yahoo.com
+
+http://users.fulladsl.be/spb9187/

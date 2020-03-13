@@ -1,0 +1,19 @@
+To use cheats, you don't have to write any additional text in a command line or anything 
+like that. All you need to do is simply press the [Tab]+[key] combination while in 
+the game, according to the following codes:
+
+[Tab]+Q - fast quit
+[Tab]+E - quit level
+[Tab]+T - teleport to level
+[Tab]+I - immortality (you won't be getting any points)
+[Tab]+P - pause
+[Tab]+S - slow motion
+[Tab]+F - facing spot
+[Tab]+H - hurt self (only when you are mortal)
+[Tab]+C - count objects
+[Tab]+B - border color
+[Tab]+M - memory info
+
+Note that after pressing the combination of M, L and I your health will be reduced 
+to 1 percent, and ammo to 1 bullet, you won't get any keys, and your weapon won't 
+change. Have a nice day.

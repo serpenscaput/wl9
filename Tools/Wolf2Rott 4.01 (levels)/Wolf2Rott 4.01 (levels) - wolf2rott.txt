@@ -1,0 +1,1031 @@
+Wolf2Rott
+
+Wolfenstein to ROTT level converter 4.01
+Wolfenstein to ROTT graphics converter 1.00
+
+Programmed by Mark Jaskolski (mark_jaskolski@hotmail.com)
+
+================================================================================
+
+
+SECTION 0 : GENERAL INFORMATION
+
+================================================================================
+
+
+0.1 What is it
+----------------
+
+  Wolf2Rott began it's life in late 2002. Inspired by Joe's wolf3D ROTT level, I
+
+hacked together a BASIC program which automatically converted wolfenstein levels 
+
+into ROTT level packs. The results were adequate, and playable, but the 
+converter was crap (putting it lightly), and definantley not something 
+releasable.
+
+  Anyway, the program has been rotting on one of my hard drives for more than 5 
+
+years now, and after having the desire to convert over the Spear of Destiny 
+levels too, and discovering to my astonishment that no one else had written a 
+similar converter, I decided to upgrade mine.
+
+  After the initial release of the level converter, I further decided to improve
+
+it by also writing a tool which converts over Wolfenstein graphics over to ROTT.
+
+This means that the levels not only have the same layout, but they also look
+almost identical to their wolfenstein predecessors.
+  
+0.2 What do I need
+----------------
+
+  You will need a copy of Wolfenstein or Spear of Destiny. Both full versions
+of the game and shareware versions seem to work (or at least the one's I have
+tried), although from what I can remember, the file formats changed somewhere
+along the line, so old versions of the games may have issues.
+
+  You will also need a full version of Rise of the Triad. Any full version 
+works (Including the original DOS version).
+  
+0.3 Can I customize the conversion
+----------------
+
+  You sure can. Conversion parameters, and instructions are given in 
+definition files (examples of which are provided). These allow you to change
+just about anything in regards to level and graphics conversion.
+
+  In writing these tools, I made an effort to have as little as possible hard-
+coded into the converter program in regard to conversion rules. Certainly with
+the latest version of the level converter, there are a number of rules which
+are determined by the program that you have no control over (mainly concerned
+with how it modifies levels to get around a number of issues with ROTT). But in
+general, these won't be major issues anyway.
+
+0.4 I found a bug
+----------------
+
+  That's good (and bad I suppose). If you want you can email me about it, and I
+may try to fix it. The more information you can give the better. I am somewhat
+reluctant to commit to fixing bugs, since I am probably going to rewrite the
+tool eventually anyway, and it seems to work well enough. However, if there are 
+
+some major bugs found, then I will try and fix those when I get a chance.
+
+  If possible, please make sure you send me a log of the conversion output,
+a description of the error/issue (especially if ROTT dies with an error
+message), a copy of your conversion file, and if possible, a copy of the
+levels you were converting.
+
+0.5 The tool is good, but I think it would be better if...
+----------------
+
+  If you have any suggestions/ideas about improving the conversions, then I am
+very interested to hear your thoughts. There are a few minor things which I 
+know could be improved, but I would like to hear any ideas which you have too.
+Feel free to email me.
+
+0.6 The tool won't convert my map pack
+----------------
+  
+  If you know your map pack is valid then please contact me. A copy of the
+conversion log, and definition file you are using would be helpful, as would a
+copy of the map pack in question (if that is possible).
+
+  Through testing, it has shown that some levels in wide distribution are
+actually corrupt (from a file format point of view), but still manage to work.
+These sorts of files I am especially interested in.
+
+0.7 Can I have the source-code
+----------------
+
+  If you really want the source, then email me, and I will send you out a copy.
+There isn't really much to learn from it though.
+  
+================================================================================
+
+
+SECTION 1 : USER INTERFACE
+
+================================================================================
+
+
+  Both the graphics conversion tool and the level conversion tool have a
+practically identifical user interface (minus a few extra fields on the level
+converter). So, for the sake of minimizing the amount I have to write, these
+instructions apply to both tools, except where explicitly stated otherwise.
+
+1.1 Input fields
+----------------
+
+path (default=".", ip switch)
+
+  The path where the conversion tools will look for your wolfenstein files.
+
+extension (default="wl6", ie switch)
+
+  The file extensions which the wolfenstein files you are converting have.
+
+1.2 Output fields
+----------------
+
+path (default=".", op switch)
+
+  The directory where the generated ROTT files will be placed.
+
+filename (default="wolf3d", if switch)
+
+  The filename of the generated ROTT level file. Do not include the file
+  extension (RTL or WAD)! The converters add those automatically
+
+1.3 Conversion fields
+----------------
+
+definition file (default="wolfcnv.def", df switch)
+
+  The file which contains all the conversion definitions and
+  parameters.
+
+dump wolf maps (default=disabled, dw switch) (LEVEL CONVERTER ONLY!)
+
+  Tells the converter whether you want to generate textfile
+  dumps of the loaded wolfenstein maps. The checkbox controls
+  whether the maps are dumped or not, and the textfield to the
+  left tells wolf2rott the path where the dumped files will be
+  saved.
+
+dump rott maps (default=disabled, dr switch) (LEVEL CONVERTER ONLY!)
+
+  The same as dump wolf maps, except this will dump textfiles of
+  the converted ROTT levels.
+
+save log (default=disabled, sl switch)
+
+  Indicates whether you want to save a copy of the output log or
+  not. The checkbox determines if the log is saved or not, and the
+  text field tells the converter where to save the log too.
+
+1.4 Other controls
+----------------
+
+Go! Button (ar switch)
+
+  Starts the conversion. It can't be stopped once it has begun, 
+  fortunatley it is fairly fast.
+
+Output log
+
+  Displays information about the conversion status.
+
+================================================================================
+
+
+SECTION 2 : COMMAND LINE 
+
+================================================================================
+
+
+  All of the parameters given to wolf2rott can be passed via the commandline.
+The main reason was to allow automatic conversion, and to remove the need to
+enter the details everytime the program was run. In any case, the user interface
+
+will still pop up, but you won't have to interact with it.
+
+  As with the user interface, both programs use identical commandline switches,
+except where explicitly stated.
+
+2.1 General notes on formatting
+----------------
+
+  Before I describe the individual switches, some general notes on how switches
+and arguments are formatted:
+
++ In practically all cases, whitespace is a bad thing. Just leave a space
+  between switches, nowhere else.
+
++ All arguments to switches are processed as strings. If the string contains 
+  spaces, you must enclose the string in either single, or double quotes. 
+  For example:
+
+  /switch=space           <-- will work
+  /switch=has space       <-- won't work
+  /switch="has space"     <-- will work
+  /switch='has space'     <-- as will this
+
++ Arguments which require a path can use both relative and absolute paths. Also,
+
+  wolf2rott doesn't expect a trailing slash, so don't use them.
+
+  c:\wolf3d               <-- fine
+  .\wolf3d                <-- file
+  .\                      <-- won't work
+  .                       <-- will work
+
++ Be careful with the filename arguments, since some don't require the extension 
+
+  to be given, while others do.
+
++ With switches with an optional argument, if you aren't giving the argument,
+  leave off the equal sign as well.
+
+2.2 Command line options
+----------------
+
+  The switches available are as follows. All switches are optional, and order
+does not matter.
+
+wolf2rott[gfx] [/ip=<path>] [/ie=<ext>] [/op=<path>] [/of=<file>] [/df=<file>] 
+               [/dw[=<path>]] [/dr[=<path>]] [/ar] [/sl[=<file>]          
+
+switch      description
+=========== ====================================================================
+
+ip=<path>   Tells the converter where to find the wolfenstein or sod data files.
+
+            By default, this is set to the current directory (.). 
+
+ie=<ext>    Gives the extension of the data files to convert. In most cases
+            this will either be "wl6" or "sod", but any extension can be 
+            specified. This is useful for things like the Super Wolfenstein Pack
+
+            thingo, which contains a few hundred addon levels using extensions
+            like .a and .cc
+
+op=<path>   Gives the output path where the ROTT data files will be saved. The 
+            current directory (.) is the default.
+
+of=<file>   Tells the converter what the ROTT level pack will be called. This is 
+
+            the name of the ROTT level file minus the extension (so "wolf3d" 
+            instead of "wolf3d.rtl"). The converter will internally add the RTL 
+
+            extension for you. By default, this is "wolf3d"
+
+df=<file>   Tells the converter which definition file to use for conversion. 
+            The definition file is explained later in this file. By default, it 
+
+            will be "wolfcnv.def" (or "wolfgfxcnv.def for the graphics
+            converter).
+
+dw[=<path>] Tells wolf2rott to dump each wolfenstein map it converts into a text 
+
+            file. I was using them for debugging, but perhaps you will find some 
+
+            other use. The path is the directory where the text files will
+            be saved (if ommitted, "." by default). THIS IS ONLY AVAILABLE IN
+            THE LEVEL CONVERTER!
+
+dr[=<path>] Does the same thing as the dw switch, except it dumps the converted 
+
+            ROTT levels to a text file. Again, the path is option and tells the 
+
+            converter where to save the dumped files ("." by default). THIS IS
+            ONLY AVAILABLE IN THE LEVEL CONVERTER!
+
+ar          Tells the converter to run in autorun mode. This means that it will 
+
+            run without you having to do anything.
+
+sl[=<file>] Tells the converter to save the conversion log (the information 
+            displayed while converting) to a file. If the filename is ommitted, 
+
+            will save to "log.txt".
+=========== ====================================================================
+
+          
+2.3 Examples of commandline usage
+----------------
+
+  Here are some sample command line invocations which may help if you are a
+confused.
+
+wolf2rott /ip=.\sod /ie=sod /ar
+
+  Tells wolf2rott to look for the map data files in a directory called .\sod
+and to use gamemaps.sod and maphead.sod. It also tells wolf2rott to autorun, and
+
+convert the files (if possible) without prompting for anything.
+
+wolf2rott /ar /so
+
+  Tells wolf2rott to run in autorun mode with the default parameters, and to
+save a copy of the conversion log to "log.txt"
+
+wolf2rott /op="c:\dos games\rott" /of=wolfmaps /df=hardwolf.def
+
+  Tells wolf2rott to run with the default input parameters, but to save the
+generated rtl file to "c:\dos games\rott\wolfmaps.rtl". It also used a custom
+conversion definition file called "hardwolf.def".
+
+wolf2rottgfx /ip.\wolf3d /ie=wl1
+
+  Starts up the graphics converter, indicating that the graphics data files can
+be found in a wolfenstein subdirectory, and that they are from the shareware
+version of the game.
+
+2.4 Walkthrough conversion of shareware Wolf3D to ROTT
+----------------
+
+  Here is a quick guide which will run through the conversion process, using the
+
+shareware wolfenstein 3D.
+
+  Your first step is to download a shareware copy of Wolfenstein 3D. For this
+particular example, I am going to use the version downloadable from the 
+3D Realms website. Goto http://www.3drealms.com/downloads.html and download
+the file 1wolf14.zip. Unpack the archive, and install the game somewhere on your
+
+computer. Once installation completes you should have a working version of
+Wolfenstein 3D episode 1 installed.
+
+  Next, download a copy of the wolf2rott conversion tools (which you should have
+
+already done), and copy all of the files over to the directory which you just
+installed wolfenstein too. There are a lot of files, so the directory will be
+kind of messy, but it is important that you copy them all over.  
+
+  Once you have all that done, it is time to start converting. Run the wolf2rott
+
+program. You should end up with a form containing a bunch of input fields. Here
+is what you need to enter into them.
+
+  For the input details, the path can stay as it is, since it points to the 
+current directory, which is where your wolfenstein files are. The extension
+should be changed to 'wl1' instead of wl6 though since you are working with the
+shareware version.
+
+  For the output details, leave the path as it is (again, since you want the
+generated file to end up in the current directory). The filename "wolf3d" is
+OK as well.
+
+  For the conversion details, you only need to change the definition file.
+Change it from 'wolfcnv.def' to 'pwolfcnv.def'. The difference in definition
+files is that the first allows conversion of levels without needing to 
+convert the graphics, while the second one requires you to convert over the
+graphics too (which is what you are going to do). You can ignore the other
+controls within the conversion details.
+
+  For the record, you could have done the same tweaking of the fields as above
+by invoking the converter with
+
+wolf2rott /ie=wl1 /df=pwolfcnv.def
+
+  Now you should be ready to convert over the levels. Hit the go button and
+watch the output scroll past. Don't stress at the errors saying that "Level x
+does not exist!". As you are converting over the shareware version, only the
+first 10 levels are present, so the other 50 or so won't be found. Once 
+conversion finishes, you can close the program. If you look around your 
+wolfenstein folder, you should now also have a file called 'wolf3d.rtl'. Those
+are the converted maps, which means you are half way there.
+
+  Converting over the graphics is more or less the same as what you just did for
+
+the levels. Run the wolf2rottgfx program, and modify the input fields.
+
+  As with the level conversion. The input and output paths don't need to be
+changed, since the wolfenstein files are in the current directory, and that's
+where you want the generated files to go. The input extension needs to be
+changed to "wl1", like the level converter, and the output filename can remain
+as it is. You don't need to change the conversion details at all, since the
+defaults are fine.
+
+  Hit the go Button, and as with level conversion, a whole heap of text will
+scroll past, including a whole heap of errors about placeholders. Like with
+the maps, the shareware version of the game is minus some of the graphics from
+the full version, all those errors are saying is that those graphics are not
+found. Since they aren't used in the shareware maps, we can ignore them.
+
+  Again, for the sake of pointing it out, the following commandline invocation
+would modify the details as you just did
+
+wolf2rottgfx /ie=wl1
+
+  Once the conversion is complete, you can close the program, and there should
+be another new file called 'wolf3d.wad' within the wolfenstein directory. That
+is the ROTT file which contains all the wolfenstein graphics you converted.
+
+  At this point, you have converted everything you need. Copy both the wolf3d
+rtl and wad file over to your ROTT directory, and start up winrott (or rottgl).
+Select wolf3d.rtl for the alternate game levels, and type in "FILE wolf3d.wad"
+in the parameters input box. Hit the run winrott button, and enjoy playing
+through the first episode of wolf3D in ROTT.
+
+================================================================================
+
+
+SECTION 3 : DEFINITION FILES
+
+================================================================================
+
+
+  The definition files are the core of wolf2rott. They describe virtually every
+thing which goes on within the conversion process (some things are still hard
+coded, but I tried to keep that number down to a minimum).
+  
+  This section attempts to describe all the features and settings within the
+file. Although if you are still confused, I recommend you take a look at the
+definition files provided with the converter.
+
+  First off, some general comments of how the files are structured/formatted.
+
++ The names which appear inside sqaure brackets are called blocks. Definitions 
+  outside of any blocks (those at the start of the file) are considered to be in 
+
+  the root block.
+
++ Definitions are of the form <symbol>=<value>{,<value>}.
+
++ In most cases, anything between the ; and the end of the line is considered a 
+
+  comment and ignored.
+
++ Definitions are case-insensitive. So DEF is treated the same as def or dEf.
+
++ Literal strings can either be quoted (with " or '), or left unquoted. Unquoted 
+
+  strings will occupy all text up to the next delimiter (a comma), a semicolon 
+  (comment), or the end of the current line.
+
++ Numeric values can be either entered in hexidecimal (base16) using the 0x 
+  prefix, Binary (base2) using the b suffix, or normal base10 without any
+  suffix. So the number 42 could be written as:
+
+  base2   101010b
+  base10  42
+  base16  0x2a
+
+  For binary and hexidecimal numbers, the letter case isn't important. Oh, and 
+  numeric values can be prefixed with a plus or minus sign.
+
++ Flag values can be given using "yes", "no", "true" or "false". Again, case 
+  isn't important.
+
++ Be kind to wolf2rott. If you make a mistake in the definition file, 
+  wolf2rott will usually give you an error message (which includes a description
+
+  of the problem, and the line where it was detected). But there are quite a few
+
+  cases where it will just crap out with a runtime error or something. Those are
+
+  bugs, and I may eventually get around to squashing them.
+
+================================================================================
+
+
+SECTION 3.1 : LEVEL DEFINITION FILES
+
+================================================================================
+
+
+3.1.1 root block
+----------------
+
+  The root block contains general settings and conversion details.
+
+rltag (number, default=0x4344)
+
+  This definition specifies the tag used for run-length compression in the 
+  generated RTL files. ROTT seems to use the value 0x4344 by default, but you 
+  can give any value you want here. You should ensure that the values given will 
+
+  not conflict with any rottcodes you use in conversion, since this will result 
+
+  in less than optimal compression.
+
+brightness (number between 0 and 7, default=7)
+
+  The brightness level used in all converted levels. 0 is the darkest, while 7 
+  is the brightest.
+
+diminishing (number between 0 and 15, default=10)
+
+  The speed at which your view decends into blackness. 0 means light diminishes 
+
+  quickly, while 15 means light doesn't diminish very much.
+
+fog (flag, default=false)
+
+  Determines if fog is enabled in all levels..
+
+sourcing (flag, default=true)
+
+  Determines if light sourcing is enabled in all levels.
+
+message (string, default="")
+
+  A message which gets inserted into the generated RTL file, but is otherwise 
+  ignored by the game.
+
+3.1.2 maps block
+----------------
+
+  The maps block contains details about each of the levels which will be 
+converted. This allows you to pick exactly which levels you want to convert, and
+
+where they will end up in the rott level file. The general format is like this:
+
+<wolfmap> = <rottmap>,<musicid>,<floorid>,<ceilingid>,<exit>,<secret>,<title>
+
+wolfmap (number between 0 and 99)
+
+  The level index in the wolfenstein data files. For standard wolf, there are 60
+
+  levels, and sod has 21. You can try accessing levels beyond those, but there 
+  shouldn't be any.
+
+rottmap (number between 0 and 99)
+
+  Tells the converter where the map goes in the ROTT level order. This allows   
+
+you to reorganize levels and move them around when necessary.
+
+musicid (number between 0 and 23)
+
+  Which ROTT music to play for the level.
+
+floorid (number between 0 and 16)
+
+  Which floor texture to use for the level.
+
+ceilingid (number between 0 and 16)
+
+  Which ceiling texture to use for the level.
+
+exit (number between 0 and 99)
+
+  The rottmap which is moved to when the player exits the level.
+
+secretmap (number between 0 and 99)
+
+  The rottmap which is moved to when the player exits via a secret exit (if 
+  any are present).
+
+title (string, between 0 and 22 chars)
+
+  The title of the map displayed in the map and intermission screens.
+
+3.1.3 objects block
+----------------
+
+  The objects block contains a lot of information, and is quite complicated.
+Aside from the obligatory object conversion parameters, it also contains some
+general definitions, and some definitions used to insert extra objects into 
+maps.
+
+3.1.3.1 definitions
+----------------
+
+defobject (number, default=0)
+
+  ROTT object code placed when the converter finds an object it doesn't 
+  recognize.
+
+nullobject (number, default=0)
+
+  ROTT object code placed when no item needs to be placed.
+
+3.1.3.2 object conversion definitions
+----------------
+
+  Now for the complicated one, the conversion parameters. I have broken
+this down into two pieces to make the explanation more clear. But yeah, if
+you get confused, take a look at some of the def files given.
+
+  In general terms, object conversion parameters have the following form:
+
+<wolfcode> = <normal>[,<deaf>]
+
+wolfcode (number)
+
+  The code used to represent the object in wolfenstein.
+
+normal/deaf
+
+  The replacement parameters for a normal instance of the actor, and optional 
+  parameters for deaf actors. In most cases, the deaf parameters can be 
+  ommitted, in which case the normal parameters will always be used (regardless 
+
+  of deafness).
+
+  The format of the normal/deaf parameters are like so:
+
+  'null'|(<rottcode>['R'])
+
+'null'
+
+  Putting null in place of a parameter tells the converter to place the null
+  object in place of the wolfenstein object (essentially removing it). This can
+  be useful sometimes, and is different from leaving off the conversion 
+  parameters in that the converter won't complain about it.
+
+rottcode (number)
+
+  The ROTT code used to represent this item.
+
+'R'
+
+  Appending the letter R to a number tells the converter to determine a suitable
+
+  facing direction for the object. This is useful for converting objects from 
+  wolfenstein (which don't face any particular direction), to those in ROTT
+  which do. A complication as a result is that the given rottcode must be the
+  first of the facing codes for the desired object, with the given code, plus 
+  the next 3 representing the E, N, W and S facing directions.
+
+3.1.3.3 spawn definitions
+----------------
+
+  Some objects in wolfenstein spawn other objects upon death (namely the gold
+key given by defeating many bosses). I was unsure of how to handle this, and
+this method worked. Basically, it just tells the converter that some wolfcode
+will spawn another code. So after the wolfenstein map is loaded (but before it
+is converted), the map is preprocessed, and spawned items are inserted in the
+available space around the object which spawns them. It's not perfect, and could 
+
+be improved. But for now, that's how it works. 
+
+  The format for spawn commands looks like this. I am aware that the format is
+a little counter-intuitive, but again, that's just how it works.
+
+spawn = <spawned>{,<spawner>}
+
+spawned (number)
+
+  The wolfenstein object code which gets spawned.
+
+spawner (number)
+
+  A list of wolfenstein object codes which spawn the object.
+
+3.1.4 walls block
+----------------
+
+  The walls block describes wall conversions (as you probably guessed) as well 
+as some general definitions to do with wall conversion.
+
+3.1.4.1 definitions
+----------------
+
+defwall (number, default=0xe5)
+
+  The default wallcode placed in a level when an unknown wallcode is encountered
+
+  during the conversion. By default, it is the "You're not supposed to be here"
+  wall from ROTT.
+
+borderwall (number, default=0xe5)
+
+  The wall placed in the slack region around the map. ROTT level dimensions are
+  double those of wolfenstein levels, so this is the wallcode which gets placed
+  in the space outside of the converted wolfenstein map.
+
+3.1.4.2 wall conversion definitions
+----------------
+
+  The wall definition format is like this. The definition is somewhat simple
+except for that horrible bit on the end. The horrible bit is needed, since some
+wolfenstein walls have difference textures depending on what face you are 
+looking at. It will be explained below.
+
+<wolfcode> = <nsspace>,<ewspace>,<soundzone>,(<wall>|(<nswall>,<ewwall>))
+
+wolfcode (number)
+
+  The code used by wolfenstein to represent the wall.
+
+nsspace (flag)
+
+  True if the North/South faces of the wall are player space.
+
+ewspace (flag)
+
+  True if the East/West faces of the wall are player space.
+
+soundzone (flag)
+
+  True if this code is used as a sound region in the map.
+
+wall
+
+  For wolfcodes where the north/south faces are the same texture as the east/
+  west faces, this represents what the wall will be converted too.
+
+nswall
+
+  For wolfcodes where the north/south faces are different from the east/west
+  faces. This represents what to convert too when the walls north/south faces
+  are visible.
+
+ewwall
+
+  Like nswall, except contains the definitions used when the east/west faces
+  are visible.
+
+  The wall, nswall, and ewwall parts of the above definition have the following
+  format:
+
+  'null','nextzone',<rottcode>
+
+'null'
+
+  Tells wolf2rott to replace the wall with the defwall code. As with objects,
+  the difference between having a wall map to null, and leaving it out is that
+  this way, the wolf2rott won't give you error messages about it.
+
+'nextzone'
+
+  This is used to remove the deaf floor codes from wolfenstein among other 
+  things. It tells wolf2rott to find the soundzone which this code is connected
+  too, and use that. The function which seeks out floor codes is not very smart
+  (or capable though), so it will get confused if you have complicated 
+  arrangements of deaf codes in your levels.
+
+rottcode (number)
+
+  The ROTT wall code to insert, in place of the given wolf code.
+
+================================================================================
+
+
+SECTION 3.2 : GRAPHICS DEFINITION FILES (CONVERSION DEFS)
+
+================================================================================
+
+
+3.2.1 root block
+----------------
+
+  The root block only contains a single definition, which is
+
+message (string, default="")
+
+  This causes the text message specified to be inserted into the generated wad
+  file. The message isn't accessed by the game, or any programs, it is just a
+  message embedded in the file.
+
+3.2.2 colormaps block
+----------------
+
+  The conversion of colors from the wolfenstein palette up to the ROTT palette
+is achieved through the use of colormaps. Colormaps are files which basically
+state (replace color x, with color y). These are described a little later.
+In short though, they are required for conversion, and this block defines what
+colormaps can be used. Each entry is formatted as follows:
+
+symbol = <filename>
+
+  Here, symbol is a name used to refer to the colormap later on (I just use the
+filename minus the extension). The filename is the name of the file which 
+contains the colourmap information.
+
+3.2.3 graphics block
+----------------
+
+  Graphic definitions are somewhat complicated. They have the following format.
+
+[<destpath>.]<destname> = <sourcepath>.<sourcename>, <colormap> {,<colormap>}
+
+  First off, the destination. The destination is where the graphic resource is
+stored within the ROTT wad file which is generated. It is very important that you
+
+store things in the right place, otherwise they may not work.
+  Destpath can be one of the following:
+
+path     description
+======== =======================================================================
+
+none     If you omit the destpath altogether, the graphic will be stored outside
+
+         of any directories in the wad. I don't know of any useful reason for
+         doing this, but that's what the converter does.
+
+wall     This will store the graphic in the walls directory. The order of images
+
+         saved to the walls directory is extreamly important. ROTT surprizingly
+         ignores the graphic name, and simply uses the order of files to 
+         determine what graphics get mapped to what walls. Hence the destname 
+         is not terribly important here. In general, the first wall will map to
+         wall code 0x01, etc. There are catches (since there are gaps in the
+         wall codes for animated walls, etc), but that is more or less how it
+         works.
+
+door     This will store the graphic in the doors directory. Unlike walls, the
+         name you use must match an existing door within the ROTT wad. a further
+
+         limitation is that you must use doors whose animation frames are named
+         using an alphabetical index as apposed to a numeric one. The last 
+         requirement is there because unlike wolfenstein, where door animation
+         is a coded feature of the engine, ROTT uses graphic animations for
+         doors opening and closing. The converter handles the animation for you,
+
+         so you don't need to worry about it, but it is why the selection of
+         doors you have is limited.
+
+side     Side is like doors, but it is used to define the textures used for the
+         side walls of door tiles. You must use the same names for side textures
+
+         as those given by ROTT.
+
+shape    Shape saves the image to the sprite directory of the ROTT wad, which is
+
+         where all enemy and object graphics are stored (and makes up the bulk
+         of the ROTT wad files). The original intention was to replace some of
+         the object in the game as well. I could never get this to work though
+         myself, and I suspect it works in a similar way to Doom, where if you
+         want to replace a sprite image, you have to replace ALL sprite images.
+         Feel free to experiment with this.
+======== =======================================================================
+
+
+  As for the source path, this determines where in wolfenstein the graphics are
+coming from. Determining this is somewhat tricky, and I would recommend just
+sticking with the default definition files. If you want to figure out your own
+defs though, you will either need to use a program like floedit, or even the
+Tab-T option in wolfensteins debug mode.
+
+path     description
+======== =======================================================================
+
+wall     Indicates a wall graphic from wolfenstein. The source name is an index
+         indicating the tile number. In most versions of the game there are a
+         little over 100 wall graphics, although half of those can usually be
+         ignored, since they are just the darker versions which wolfenstein uses
+
+         to similate shading/shadows.
+
+sprite   Actor and object graphics. Like walls, you have to use an index to 
+         refer to them. There are a few hundred of these in most versions of
+         wolfenstein.
+
+graphic  General graphics used by the game. Things like menu graphics, images
+         for the help file, intermission animations, etc. Again, indexes are
+         used to refer to individual graphics, the catch being that not all
+         indexes are graphics, and the indexes change from wolf3d to sod.
+         This feature is not yet functional, so use it at your own risk. 
+         I will eventually fix it. In the context of level conversion though, 
+         you don't need these graphics anyway. 
+======== =======================================================================
+
+
+  The final part of the graphics definition is one or more colormaps. These are
+the symbolic names you gave to the colormaps in the colormaps block. Colormaps
+are applied to the graphic in left to right order. So if your graphic uses more
+than one colormap to convert over the colours, the left one will be applied 
+first, and then the results of that first transformation will have the next 
+colormap applied to it, etc.
+
+================================================================================
+
+
+SECTION 3.3 : GRAPHICS DEFINITION FILES (COLORMAP DEFS)
+
+================================================================================
+
+
+  Colormap definitions are used to tell the graphics converter how to change
+the colours in graphics so they look right in ROTT. This was chosen over the
+normally used nearest color mapping schemes since those usually result in very
+poor results. The results from colormaps aren't perfect, but they are far
+superior IMO.
+
+  Colormaps have a fairly straight forward format. First off, you will probably
+want a definition like this:
+
+def = <colorindex>
+
+  Any colour not specifically handled in the definitions within this file is
+assigned this color index.
+
+  The actual color remapping definitions look like this:
+
+(<color>|<locolor>-<hicolor>) = (('c'[('+'|'-')<offset>])|<newcolor>)
+
+  The first half tells the remapper that you are either defining a rule for a 
+single color, or you are defining a rule for a range of colours (lowest
+color index, to highest color index inclusive). 
+
+  As for the rule itself. It can either be an absolute value, which simply means
+
+to remap the given colours to the new absolute value. Or it can be a relative
+value (relative to the color index given). Relative values are indicated by the
+'c', and can be adjusted by an offset.
+
+================================================================================
+
+
+SECTION 5 : CONVERSION ISSUES
+
+================================================================================
+
+
+  Below is a list of some of the conversion issues I am currently aware of. Feel
+
+free to mail me if you come across others.
+
++ Some levels won't run.
+
+  At this stage, I am only aware of 3 levels out of the original wolf3d/sod
+  levels which won't run after conversion. 
+
+  The first being the level towards the end of episode 2 in wolf3d with the 
+  massive pushwall maze (won't load due to pushwall limit being exceeded). 
+
+  The other 2 levels are around level 13 or so in sod, and the episode 6 secret
+  level from wolfenstein which won't run due to the fact that a wall that has a 
+
+  switch on it is used as a pushwall.
+
+  The first one can't be fixed without hacking up the original level (something
+  I am not prepared to do), and the other can be fixed by changing the relevant
+  wall conversion definitions to some texture without a switch on it. Furthermore,
+
+  if you also convert the graphics over, these last two issues vanish, since the
+
+  switch textured wall is no longer a real switch.
+
++ Killing bosses crash the game.
+
+  Another problem I can't fix. The bosses are coded to be killed on certain
+  levels of the game. If they get killed elsewhere, the game crashes. So unless
+  you shift the levels around appropriatly (which is a possible work-around), or
+
+  replace the bosses with something else, it will crash.
+
++ El Oscuro doesn't work/hangs the game.
+
+  Of all the bosses, El Oscuro seems to have the most issues. First off, it's
+  presence tends to bring the game to a crawl occasionally. Second, he will
+  levitate into the ceiling and beyond, and finally, if you do eventually manage
+
+  to defeat him, he will revert to the snake form, which will just stay in one
+  spot (due to there being no path marked out for the snake form to flee).
+
++ Destructable obstacles make unreachable areas reachable.  
+
+  Obstacles in wolfenstein were used frequently to allow the player to see
+  something, but not be able to reach it (or reach it through some other path).
+  Since virtually everything in ROTT can be destroyed, these obstacles are no
+  longer obstacles, and you can proceed to gain access to a number of things
+  which normally you would have to work for, or things which you weren't meant
+  to be able to get too in the first place.
+
+  Most notable are some level exits which were inaccessable due to barrels.
+
++ Life items make it too easy to rack up extra lives.
+
+  The conversion of treasure with life items seems to make it much easier to
+  obtain extra lives. To me, it is an imbalance which inadvertantly nulls out 
+  another conversion created inbalance, which is...
+
++ Bazooka weilding enemies make the game too hard.
+
+  Lightning guards which are randomly armed with bazookas are quite problematic,
+
+  especially since regardless of health, a direct hit is instant death. So I
+  suppose those extra lives come in useful after all.
+
++ Pushwalls can be pushed through solid walls.
+
+  Some pushwalls can be used in such a way that they will go through solid walls
+
+  (leaving them non-solid). This is a bug in the game itself, it is just made
+  a lot more obvious by these level conversions.
+
++ You don't need to kill bosses to finish maps.
+
+  Since bosses in ROTT don't drop keys, the converter places a key nearby when
+  necessary. Hence it is possible to lure the boss away from said key, and then
+  make a run for it. Good for wimps I suppose.
+
++ Guards which were hidden inside of walls in ROTT no longer work.
+
+  ROTT does not allow the placement of actors inside of walls, so any actors 
+  found to be inside of walls are removed. No known workaround.
+
++ Guards/objects become invisible, and my movement is blocked.
+
+  This is no doubt an issue related to floor codes. Some wolfenstein levels
+  (specifically user made ones), can have somewhat dodgy placement of said codes,
+
+  meaning in some areas actors will flicker in and out of visibility. I may add
+  functions to the conversion in future releases to fix it, for now you will
+  just have to put up with it (or hack a fix using the def files).
+
+  Also, Version 4.00 of the level converter had issues calculating floorcodes
+  in many sictuations. It is recommended that you use 4.01, since it fixes many
+  of those issues.
+
++ Level exit shenanigans
+
+  By far the most troublesome feature to convert over was the level exits. Since
+
+  ROTT doesn't have a switch for existing levels, and requires a player to enter
+
+  a cell with a special exit object in it, this creates a lot of issues. Most
+  relate to multiple objects contending for the spot in front of the exit switch.
+
+  In most cases the special exit object will win, but some objects will take
+  priority over it (like player starting points), which can make the level
+  incompletable. Further problems occur with dubious constructs like the wall(s)
+
+  of exit switches, and pushwalls obscuring switches.

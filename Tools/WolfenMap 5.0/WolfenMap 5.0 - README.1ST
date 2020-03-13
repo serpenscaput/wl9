@@ -1,0 +1,31 @@
+
+VERSION 5.0 NOTES:
+
+ - This release of WolfenMap works with all versions of Wolfenstein 3D
+   including the one, three and six episode editions.  It will also
+   work with Spear of Destiny.
+
+ - The map files may become a lot larger after using WolfenMap, even
+   if you do not alter any levels.  This is because WolfenMap does not
+   recompress the maps with the newer compression scheme used in
+   v1.1 of the game.  This doesn't cause a problem when playing the
+   game, it just makes the map files larger and increases disk space
+   requirements.
+
+ - The WALLS.DAT file contains information about the new wall images
+   used in the 6-episode game.  If you are editing the 1-episode game,
+   be careful not to select any of the newer wall images.  (The best
+   method to prevent this problem would be to use multiple .DAT files,
+   one set for each version of the game)
+
+ - The THINGS.DAT file could be complete.  However, if you find a new
+   object, there should be enough room to add it to the list.
+
+ - WALLSSOD.DAT and THINGSOD.DAT correspond to WALL.DAT and THINGS.DAT
+   but are used to edit Spear.  It is recommended that you work in separate
+   subdirectories for each game.
+
+ - WolfenMap v5.0 is "crippled" and only allows you to edit the first two
+   floors for any given game.  Please use the REGISTER.DOC to receive the
+   latest version of WolfenMap.
+   *********************************************************************

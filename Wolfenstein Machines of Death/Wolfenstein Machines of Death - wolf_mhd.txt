@@ -1,0 +1,71 @@
+===========================================================================
+Advanced engine needed  : GZDoom
+Primary purpose         : Single play
+===========================================================================
+Title                   : Wolfenstein: Machines of Death
+Filename                : wolf_mhd.zip
+Author                  : Donnel "Jazzmaster9" Enriquez
+Email Address           : [redacted]
+
+Description             : The Sequel to Wolfenstein: Shadows of Destiny.
+                          This Total Conversion is a homage to my favorite
+                          Wolfenstein 3d mods, specifically WSJ's Project:
+                          Eisenritter, and all the WolfenDoom TC throughout 
+                          the years.
+
+                          I hope you enjoy playing this Wolfenstein
+                          adventure.
+
+                          Get Psyched!
+
+Additional Credits to   : Wolf Skevos-Jones, AreyeP, MCS, Laz Rojaz, Noni,
+                          Nash, brainstewx, DoomJedi, CaptainJ, Apogee
+			  MarlboroMike
+
+===========================================================================
+* What is included *
+
+New levels              : 16
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Editor(s) used          : XWE, Slade
+May Not Run With        : Non ZDoom sourceports
+Tested With             : gzdoom-2.5pre-211-g2f06c09, QZDoom-q1.2.0
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

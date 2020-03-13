@@ -1,0 +1,225 @@
+      *********************************************************
+      * VERSION 7.2 NOTES: (K van den Helm            - 5/99) *
+      *********************************************************
+      
+ - Added ability to open Spear of Destiny demo(SDM) maps.
+   Will now handle any version of both games.
+   
+   Wolfenstein 3D demo's 
+   Wolfenstein 3D 3 Episodes
+   Wolfenstein 3D 6 Episodes
+   
+   Spear of Destiny demo (2 levels)
+   Spear of Destiny  (21 levels)
+   
+   NOTE!
+   
+   This is a MAPEDIT 7 improvement, NOT 7.1!
+   The 7.1 version has no source-code included.
+  
+  - Added F1 help function
+
+      *******************************************
+      * VERSION 7.1 NOTES: (Bryan Baker - 8/93) *
+      *******************************************
+
+MAPEDIT will no longer output ".WL1" gamemaps that can be used with the
+shareware version of Wolf-3D.  However the floors in these maps may be
+displayed and edited, and they can be exported as individual floors.
+
+The Shareware Concept was created in order to provide users with the
+opportunity to try commercial products at a very minimal cost (usually free)
+prior to purchasing the software.  If you continue to use a shareware product
+beyond a "reasonable timeframe", you are obligated to register it with the
+publisher.  In the case of Wolfenstein 3-D, there are 10 levels available as
+shareware.  Additional levels may be obtained by registering the program with
+Apogee Software (1-800-426-3123).
+
+It has been recognized that the availability of "freeware" levels that work
+with the shareware version of the program potentially reduces the incentive
+for registration.  Note that whether you play the original levels over and
+over, or whether you obtain an add-on set, you are still obligated to register
+if you choose to continue using the product.
+
+
+
+NEW FEATURES and ENHANCEMENTS:
+
+ - "ZAP" feature added to instantly set all floorcodes within a given room to
+   the current floorcode assigned to the left mouse button. ('Z' command)
+
+ - Full-screen help available (F1 key)
+
+ - Added ability to change level names (N command)
+
+ - Added ability to selectively display the following types of objects:
+     '#' - Level 1 & 3 Guards
+     '$' - Level 1, 3, & 4 Guards
+     '%' - All Guards
+
+ - Added ability to display either left or right mouse button setting
+   (left/right arrow keys)
+
+ - Eliminated Error 203 (caused by running out of memory) by implementing use
+   of disk as a swap area.  This results in somewhat slower operation, but at
+   least the error has been eliminated.  For best results, use a RAM disk.
+   (See the MAPED71.DOC file for more information.)
+
+ - Included EDITTIPS.DOC hints and tips file written by Warren Buss.
+   (This is an excellent document, and should be read and re-read by every user
+   of MAPEDIT!)
+
+ - The ALT_DEF.ZIP set of map definition files are now included as the standard
+   set.
+
+
+
+    
+      *********************************************************
+      * VERSION 7.0 NOTES: (Bryan Baker, Dave Huntoon - 6/93) *
+      *********************************************************
+
+ - Read/Write filenames may now be specified.
+
+ - Added ability to selectively display the following types of objects:
+     '1' - Only Level 1 guards
+     '2' - Only Treasure and One-ups
+     '3' - Only Level 3 guards
+     '4' - Only Level 4 guards
+     '5' - Only Super guards
+     '6' - Only Food, First-aid, Ammo, Guns, and One-ups
+     'A' - Revert to all object display
+
+ - Fixed file opening logic and error reporting to minimize problems getting
+   MapEdit working in all versions of Wolfenstein.  Won't report errors
+   when backup copies of game maps are found in the same directory.
+
+ - Will work with mapdata and objdata files using DEF, WL1, WL6 and SOD
+   extensions.  Will try to open *.DEF files 1'st.  If you want MapEdit
+   to use the WL1, WL6 or SOD files remove or rename the *.DEF files.
+
+ - An alternate set of map and object definition files have been included
+   (see ALT_DEF.ZIP).  Try them, you may like them!  They are also sorted
+   by type and by most used.
+
+ - Modified LEGEND display to only show those map or object elements
+   that are specified in the mapdata and objdata files.  Also, the legend
+   order is the same as the file order.  Now you can sort the items as
+   you please.  (i.e. You can place your most used items near the top,
+   and the least used at the bottom to reduce the necessary scrolling.)
+
+ - Updated mapdata and objdata files.  Added the character additions for
+   comments from Joe "the Maverick" Scoleri's DEF file.
+
+            *******************************************
+            * VERSION 6.1 NOTES: (Matt Gruson - 5/93) *
+            *******************************************
+
+                           Contact on CompuServe @ 72360,2432 or
+                                                       73766,347
+                                          Prodigy    @ PTJT50A
+                                          GEnie      @ M.GRUSON
+
+      - Allowed right mouse button to have it's own value.
+      - Allowed sepperate tracking of MAP and OBJ mode values for
+          the different mouse buttons.
+      - Holding down shift key while clicking on the map loads values.
+      - Spacebar toggles between MAP and OBJECT modes.
+      - Allowed PAGEUP and PAGEDOWN to scroll the legend display.
+      - Removed unused code for clarity.
+
+            ********************************************
+            * VERSION 6.0 NOTES: (Dave Huntoon - 5/93) *
+            ********************************************
+
+ - This release of MapEdit will display Help in the edit window (below the
+   map legend).  You will be able to display Help or Bryan Baker's Stat.
+   display.  For slow machines this allows you to turn off the statistics
+   calculations.  You can then step fast through the levels and edit maps
+   with out a delay while the statistics are being calculated.  You can
+   switch back to the statistics display when you want that information.
+
+ - You can copy, paste and exchange floor maps within an edit session.
+   You can move a floor if you decide you want it on a different level.
+
+ - You can write out and read in floors from different games.  You
+   now can move your favorite creation in *.wl1 to *.wl6 and *.SOD.
+   See MAPEDIT.DOC for how this is implemented.  You can now share your
+   creations with your friends.  You can take floors created by a number
+   of people and merge them into one game.  There can be a contest and
+   all of the best creations are put together to create a best-of game.
+
+ - When using the clear command you can select the floor value to fill
+   with. You can now fill with a selected wall value or floor value.
+
+ - I've included separate .def files for the different versions of
+   Wolfenstein (.wl1, .wl6, .SOD)
+
+
+          *******************************************
+          * VERSION 5.0 NOTES: (Bryan Baker - 4/93) *
+          *******************************************
+
+ - This release of MapEdit will display in the edit window (below the
+   map legend), the following level statistics:
+
+         Number of Static Objects
+         Total number of Guards
+         Total number of Doors
+
+         Number of Level 1 Guards
+         Number of Level 3 Guards
+         Number of Level 4 Guards
+         Number of Boss Guards
+
+         Number of Secret Doors
+         Number of Treasure and Extra Lives
+
+This information can be very useful in designing levels.  There are
+some program limits that must not be exceeded.  These limits are:
+
+    400 Static Objects
+    150 Guards
+     64 Doors (Unlocked + Locked + Elevator Doors)
+
+When these limits are exceeded, the text changes to red as a visual
+warning.
+
+Note that there are different Boss Guards in Spear of Destiny than
+in Wolfenstein 3-D.  Since the OBJDATA.DEF contains descriptions for
+both sets, they are all counted and shown in the statistics.  You must
+be aware of the different Boss Guards that will be available in the
+game for which you are designing levels.
+
+
+
+          *********************************************
+          * VERSION 4.1a NOTES: (Dave Huntoon - 3/93) *
+          *********************************************
+
+ - This release of MapEdit should work with all versions of the game,
+   including the three, six and Spear of Destiny (SOD) episode editions.
+
+ - The map files may become a lot larger after using MapEdit, even
+   if you do not alter any levels.  This is because MapEdit does not
+   recompress the maps with the newer compression scheme used in
+   v1.1 of the game.  This doesn't cause a problem when playing the
+   game, it just makes the map files larger.
+
+ - The MAPDATA.DEF file contains information about the new wall images
+   used in the 6-episode and SOD games.  If you are editing the 1-episode
+   game, be careful not to select any of the newer wall images.  The same
+   goes true in the 3 and 6-episode games, don't select SOD objects or walls.
+   You may want to create separate .DEF files, one set for each version of
+   the game.  The Walls and objects used in SOD are indicated in the .DEF
+   files and will show up in mapedit.
+
+ - The OBJDATA.DEF file has been updated with all objects and walls.
+   You may want to change the descriptions found there.
+
+ - In SOD the objects past 00FE are accessible.
+
+ - A minor fix was added to completely clear the text area below the
+   map display when the mouse pointer is moved off of the map area.
+
+

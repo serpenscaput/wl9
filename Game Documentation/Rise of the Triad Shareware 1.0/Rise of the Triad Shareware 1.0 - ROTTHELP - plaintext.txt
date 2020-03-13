@@ -1,0 +1,1478 @@
+
+ ____  _                     __     _   _              _____     _           _
+|  _ \(_)___  ___      ___  / _|   | |_| |__   ___    |_   _| __(_) __ _  __| |
+| |_) | / __|/ _ \    / _ \| |_    | __| '_ \ / _ \     | || '__| |/ _` |/ _` |
+|  _ <| \__ \  __/   | (_) |  _|   | |_| | | |  __/     | || |  | | (_| | (_| |
+|_| \_\_|___/\___|    \___/|_|      \__|_| |_|\___|     |_||_|  |_|\__,_|\__,_|
+
+         ÛÛ                                                       ÛÛ
+        ÛÞÝÛ                ÝÛ   ÝÛ ÞÛÜ ÝßÜÝßÞÛß                 ÛÞÝÛ
+       ÛÛÛÛÛÛ              ÞÛÞÝ ÞÝÞÝÝ ÝÞÝÜ ÝßÞÛß Þ              ÛÛÛÛÛÛ
+      ÛÛÛÛÛÛÛÛ             ÝÝ Ý ÞÝÝ Ý ÝÞÝÞÝÝ ÞÛ  Ý             ÛÛÛÛÛÛÛÛ
+     ÛÛÛÛÞÝÛÛÛÛ           ÞÛÜÜÛ Ýß  Ý Ý ÝÜÝßß ßß ÛÜ           ÛÛÛÛÞÝÛÛÛÛ
+    ÛÛÛÛ    ÛÛÛÛ          ÝÝ  ÝÝÝ   ßß ÜÜÜÜÜßßßßßßÜßßß       ÛÛÛÛ    ÛÛÛÛ
+      ÜÜÛÛÛÛÜÜ           ÞÛ   ÜÜÜÜßßßßßÛßßß      ÞÝ            ÜÜÛÛÛÛÜÜ
+  ÛÜÛÛßß ÛÛ ßßÛÛÜÛ       ÝÝÜßßÛÛÛÛÛÛÛß           Þ         ÛÜÛÛßß ÛÛ ßßÛÛÜÛ
+ ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ                                       ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+
+                Rise of the Triad v1.0 On-Disk Technical Support
+                    Copyright (c) 1994 Apogee Software, Ltd.
+
+                    P.O. Box 496389 þ Garland, TX 75049-6389
+                                 (214)278-5655
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ RISE OF THE TRIAD: The HUNT Begins   ÄSHAREWARE VERSIONÄ vS1.0   ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ                                                                  ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ  THIS IS A SPECIAL NON-VENDOR VERSION FOR ON-LINE RELEASE ONLY   ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ  Okay, here it is.  You wanted it by Christmas--you got it.      ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ  We're going to be up front about it: here's the stuff we're     ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ  going to fix by version 1.1, which will be released in early    ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ  January 1995.  Plus, we want your comments and feedback.        ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ      STUFF THAT WILL BE FIXED/COMPLETE BY VERSION 1.1            ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ       Support for an 8250 UART COM Card (it works,              ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ        but not to our standards, so, you know, 1.1).             ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ       Demo Mode will be in.      Live RemoteRidicule back in.  ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ       You'll be able to play network without an extra server.   ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ VENDORS & DISTRIBUTORS: This version may ONLY be distributed on  ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ bulletin boards.  It cannot be listed in catalogs, commercially  ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ distributed, or sold as shareware. Read VENDOR.DOC for more info.ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ You must wait for version 1.1 to distribute.  Got it?  Good.     ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ If you have purchased this version, call (214) 278-5655! Thanks. ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÄÄÄÄÄÄÄ
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+
+                  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                  ³TABLE OF CONTENTS AND HOW TO USE THIS FILE³
+                  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+This document is set up with a quick search capability.  If you press F7 at
+any time, you will get a listing of all the categories to look at in this
+file.  Press F7 now to look at it.  In this menu, you can scroll up and down
+the listing of items to read, and then select one by pressing ENTER.  You will
+be taken directly to that item.  If you wish to search for a specific piece of
+text, you can hit F3 to enter any text to search for.  If you just wish to
+scroll up and down, you can use the arrow keys to move through the text.  You
+can also use the Home and End keys to quickly get to the top or the bottom of
+this file.  Here is a listing of all the sections in this document.  Remember,
+you can press F7 at any time to see an interactive listing of them all.
+ 1) Table of Contents
+ 2) System Requirements
+ 3) Before Running this Game
+ 4) ROTT Single Player Level Bonuses
+ 5) How to use the Setup Program
+ 6) How to set up Modem/Serial Play
+ 7) How to set up Network Play
+ 8) Comm-Bat (tm) ROTT - How to play
+ 9) ROTT Detailed Help & TroubleShooting
+10) Command Line Parameters
+11) What is the "SET BLASTER" Command, and why do I need it?
+12) How to get ROTT running under OS/2
+13) What is Protected Mode?
+14) Contacting Apogee
+15) Apogee Online
+
+
+                             ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                             ³SYSTEM REQUIREMENTS³
+                             ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+þ Rise of the Triad's minimum requirements are a 386DX/40 with 8 megs of total
+  memory.  However, Apogee strongly recommends a 486DX2/66 with 8 megs of
+  total memory, and a local bus video card.  A fast hard drive will also
+  help things a lot.  A sound card is also strongly recommended.
+
+þ For game play the following devices are optionally supported:
+  Keyboard, Mouse, Cyberman, Space Player, and Gravis GamePad.
+
+þ The following sound cards/devices are also optionally supported:
+  Sound Blaster, Sound Blaster Pro, Sound Blaster 16, Sound Blaster AWE32,
+  WaveBlaster, Adlib, Roland Sound Canvas, Gravis UltraSound, Ensoniq
+  SoundScape, Pro Audio Spectrum 16, Logitech SoundMan 16, Disney Sound
+  Source, Tandy Sound Source, and any General MIDI device.
+
+
+                           ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                           ³BEFORE RUNNING THIS GAME³
+                           ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+þ This game is not designed to be run under MicroSoft Windows.  Windows takes
+  up far too many system resources that our programs require for efficient and
+  proper operation.  When running this program, DO NOT LAUNCH FROM WINDOWS.
+  Run it directly from DOS.  If you are in the Windows environment, quit
+  Windows and then run the program.  (NOTE: Using the MS/DOS Icon does not exit
+  you from Windows.  That is a shell from Windows. You need to completely close
+  down the Program Manager to totally exit from Windows.  To test this, type
+  the word exit.  If nothing happens, then you're at the DOS prompt.  If you
+  return to Windows, then you were only shelled.)
+
+þ Any kind of menu program such as Dos Shell will most likely cause problems.
+  We recommend running our programs completely from the DOS prompt.  To test
+  this, enter the word "exit".  If nothing at all happens, then you are
+  completely at the dos prompt, and not "shelled" from anything else.  If you
+  type "exit", and return to another program (such as Windows or the MS/DOS
+  Shell), then you need to completely exit the program that you returned to
+  before attempting to run ROTT.
+
+þ ROTT is a protected mode game, which means that it doesn't really care
+  about how much conventional memory you have, it looks at your total memory.
+  ROTT requires a minimum of 8 megs of memory, however, we recommend booting
+  clean.  This would entail booting without a memory manager (QEMM, EMM386,
+  FnordMem, etc...) and without any disk caches (Smartdrive, SpeedDisk, etc.).
+  Read further on in this file for a more detailed explanation of what a
+  protected mode program is.
+
+
+                               ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                               ³ROTT LEVEL BONUSES³
+                               ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+When playing Rise of the Triad (non Comm-Bat Mode), there are many bonuses you
+can get for doing various things in the levels.  When you finish a level, you
+will be shown a screen with your score, the episode and level number you just
+completed, as well as your health left, and any bonuses earned.  The bonuses
+are explained thusly:
+
+¯ Supercharge Bonus         - Got all powerups on level
+¯ Adrenaline Bonus          - Got 100% kills on level
+¯ Bleeder Bonus             - Used all health items on level
+¯ Skin of Teeth Bonus       - Ended level with one dot of health
+¯ Republican Bonus 1        - Got all missile weapons on level
+¯ Republican Bonus 2        - Destroyed all plants on level
+¯ Democratic Bonus 1        - Never used a handgun on level
+¯ Democratic Bonus 2        - All shrooms & healing basins used on level
+¯ Ground Zero Bonus         - Hit with your own missile
+¯ Bull in China Shop Bonus  - Destroyed all life items on level
+¯ Curiosity Bonus           - Flipped every switch, pushed every pushwall,
+                              every pushpillar, every area explored.
+¯ Bonus Bonus               - Got all the above bonuses at once
+
+In addition, there are a couple of 'end of game' bonuses you can get as well.
+
+¯ Genocide Bonus - Kill every one of the same type of actor in the game.  This
+                   can be gotten multiple times depending on how many different
+                   types of actors you can wipe out.
+¯ DIP Bonus - Collect all three developer balls (Hmmmmm....)  This is only in
+              the registered version.
+
+
+                          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                          ³HOW TO USE THE SETUP PROGRAM³
+                          ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+If you are playing either a network, modem, or serial game, you must use the
+setup program.  The setup program will also do things such as let you use
+alternate level packs, alternate graphics and sound (if you have them), and
+other miscellaneous game options.  This section will explain what they are,
+and how to use them.
+
+Here is a brief summary of the options inside the ROTT setup program:
+
+þ MODEM GAME
+
+  This option will let you setup and play the various parameters associated
+  with playing ROTT over a modem.  Once selected, it then brings up a submenu
+  of modem related options.  They are:
+
+  ¯ Quick Dial Default Number - This option will dial your default player
+                                phone number without having to do anything
+                                else.  If you have no default selected, this
+                                option will not be selectable.
+
+  ¯ Number List - This will bring up a screen where you can set up the various
+                  phone numbers of your ROTT opponents.  You can use the up
+                  and down arrows to scroll around the list.  Press "E" to
+                  edit the parameters.  Pressing Space next to an entry will
+                  define it as a default. You can only have one default number.
+                  Pressing Enter on a selected phone number will dial it.
+
+  ¯ Manual Dial - This will let you enter a phone number manually to dial that
+                  is not set up in your Number List.
+
+  ¯ Wait for Call - This will put your modem into answer mode, so your friend
+                    can call you to play.
+
+  ¯ Change Modem Setup - This option will bring up another screen where you
+                         can select your modem type from the supplied list of
+                         modem strings.  After you select one of the modems,
+                         you can then alter the init and hangup strings if you
+                         so desire.
+
+  ¯ Change Dial Out Prefix - This option will be useful for people who might
+                             need to enter a 9 to reach an outside line to
+                             dial on.
+
+þ NETWORK GAME
+
+  This option will let you play ROTT via an IPX/SPX network.  Please note you
+  need to have your IPX/SPX software loaded before picking this option, or the
+  network driver will tell you it cannot find an IPX network.   There are two
+  options here, to launch as either the server, or a client.  Playing network
+  ROTT requires that one computer be dedicated to being the "Server", and the
+  game cannot be played on that computer.  This one is the server.  If you
+  select this option, you also need to tell it how many people are playing
+  the game.  If you are playing the game, you need to select the "Client"
+  option, at which point the game will seek out the server.
+
+þ SERIAL GAME
+
+  This option will let you play via a serial (null-modem) cable.  Please make
+  sure you have your COM port correctly defined before selecting this option.
+  Please note that if you are playing a serial game, both players MUST select
+  the same port speed, or the game will not work properly.
+
+þ SETUP COM PORT
+
+  This option will allow you to set up the various options of your COM port
+  for modem or serial play.  This must be done before attempting to play either
+  a serial or modem game, or you will have problems.  Pressing enter here will
+  bring up a submenu of COM port setup options.  They are:
+
+  ¯ Select COM port - This will tell ROTT which com port you are using.  If you
+                      are unsure, check your computer's manual for more info.
+
+  ¯ Select IRQ - This will let you alter the default IRQ settings for your COM
+                 port.  This can be dangerous, and unless you know you need to
+                 alter this, it is a good idea to leave this option alone.
+
+  ¯ Select UART - This will let you alter the COM I/O port that your computer
+                  uses to communicate.  A Hexadecimal number is required here.
+                  This can be dangerous, and unless you know you need to alter
+                  this, it is a good idea to leave this option alone.
+
+  ¯ Select Port Speed - This option will allow you to select what port speed
+                        you wish to open your com port at.  This is not to be
+                        confused with a connect rate.  If you run into trouble
+                        with modem/serial games, it's probably a good idea to
+                        start with a low number, and work your way up to see
+                        where you run into problems.  For serial play, both
+                        sides must have the same port speed.  Also, the 115200
+                        rate is only available if you have a 16550 or higher
+                        serial chip/card. v1.0 of Rise of the Triad requires
+                        a 16550 or higher serial card/chip.  8250's are not
+                        suported in this version.  We hope to address this in
+                        a future version, but for now, it needs a 16550 for
+                        modem play.
+
+  ¯ Select PULSE/TONE - This option will let you tell ROTT what type of phone
+                        you have; pulse or tone.  By default, this is set to
+                        tone.  If you only have pulse dialing, this is where
+                        you can alter this option.
+
+þ USE MODIFIED STUFF
+
+  This option will allow you to play ROTT with various alternate files, from
+  new levels, to different sounds and graphics.  Normally, these things are
+  kept in the same directory as the ROTT game is, but if you wish to keep these
+  files separate from the game itself, you can alter the directory that ROTT
+  will look for them in by choosing the "Change Alternate Directories" Option.
+  Any of the other options here will allow you to select which alternate file
+  you wish to use.  In this example, I will use 'Alternate Game Levels'.  You
+  would scroll down to "Choose Alternate Game Levels", and then press enter.
+  You will be presented with a list of all the alternate game levels that are
+  present in your defined level directory.  You would scroll to the one you
+  wish to play, and press the space bar.  A û would appear next to the selected
+  file, and it would then be loaded when you played ROTT.  Please note that if
+  you select alternate files like this, you MUST run ROTT from the "Run ROTT"
+  option.  Alternate level selections are not saved.  If you wish to play with
+  alternate files, you will need to select them every time you wish to play
+  the game.
+
+þ CHANGE CODENAME
+
+  When you play in multi-player mode, you are given the choice to enter a name
+  that you are identified as.  This option in the setup program will let you
+  choose a default name so you don't have to keep typing it in every time you
+  play a game.
+
+þ MODIFY MACROS
+
+  When you are in Comm-Bat mode, you can send preset pieces of text to your
+  opponents instead of having to type the same message over and over again.
+  This is where you set them up.  Use the arrow keys to scroll to the macro
+  you wish to edit, and press ENTER.  You can type in your macro here.  Please
+  see the section on Comm-Bat play on how to use these in the game.
+
+þ CONFIGURE SOUNDS
+
+  This option will let you set up your sound card for music and sound effects.
+  You can alter the volume level for both music and sfx here.
+
+þ RUN ROTT
+
+  This option so incredibly runs Rise of the Triad!
+
+
+
+                  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                  ³HOW TO SET UP AND PLAY MODEM & SERIAL GAMES³
+                  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+þ This section of the document will give you assistance with getting modem play
+  running on your computer.  If you have difficulty running ROTT in modem play,
+  we urge you to not call Apogee Technical Assistance on the voice support
+  lines.  It will be extremely difficult to diagnose your problem over the
+  voice support lines.  We recommend in cases of modem trouble that you contact
+  Apogee online.  The contact information is at the bottom of this document.
+
+þ This section will make reference to several sections of the setup program.
+  If you haven't already done so, please read the section on how to use the
+  setup program.  It will make this section a bit less confusing.
+
+þ There are a few global rules that will apply no matter what you do in playing
+  ROTT over the modem, and they are:
+
+ ¯ You must have a 9600bps modem or higher.
+ ¯ When connected to another computer, both sides MUST use the same port speed.  I
+
+ ¯ The init string you are using MUST disable data compression.
+ ¯ The init string you are using MUST disable error compression.
+ ¯ Make sure you are running from DOS.  Multi-tasking environments such as
+   Windows or DesqView are not supported.
+ ¯ There is NO Rule #6 (Bruce).
+ ¯ Your serial chip/card is a 16550 or higher.  8250's are not supported.
+ ¯ This isn't actually a requirement, but we strongly recommend that you do
+   this in your init string.  Have your init string monitor the DTR, and if
+   dropped, have the modem enter command state.  This will allow ROTT to hang
+   up the phone properly.  If you do not do this, ROTT may not be able to
+   properly hang up the telephone when it's done.  This command is usually &D1.
+   Please consult your modem manual for more information.
+
+þ Please check your modem manual for the proper init strings.  Apogee technical
+  support is unable to assist with specific modem setup strings.  The reason
+  for this is that in order to provide a tested string, we would have to have
+  that modem, and since we do not have all modems at Apogee HQ, it is not
+  possible for use to provide support on a modem that we do not have.  The
+  modems we do have are listed in the MODEM.PCK file under "Tested Modem
+  Strings".  If you find you need to make your own string, you will need to
+  prepare your modem init strings from the information you have at your
+  disposal in your modem manual.
+
+So, you're sitting there saying "I just want to set up and play!".  OK, here's
+a list of the steps you'll need to follow to get ROTT up and running via modem.
+Please consult the section on using the setup program for detailed help on how
+to do these various things.
+
+1) Type in "setup" to begin.
+2) Go to "Setup COM Port" and ensure that the COM port you're using is setup
+   properly with the right port speed, and adjust PULSE/TONE, if you need to.
+   NOTE: For modem play, it is recommended that both sides open the port at
+         the same speed.  If you are playing via serial mode, you MUST have
+         both sides opening their ports at the same speed.
+
+3) Go to "Modem Game" and set up your modem with the Change Modem Setup option.
+   If you need to, also change the dial out prefix.
+4) Go to the "Number List", and set up all your friends in the dialing
+   directory.
+5) If you are going to be called, just go to "Wait for Call".  If you are going
+   to be doing the dialing, select someone, and call them!
+6) Once connected, you're ready to play Comm-Bat ROTT!  Please consult the
+   section on Comm-Bat play for details on how to set up the various Comm-Bat
+   play options of ROTT.
+
+If you are playing in serial mode, steps one to three are the same, with the
+notable difference that you MUST have the same port speed on both computers.
+After setting up the first two options for serial play, you just go to the
+"Serial Game" option on the Main Menu of the setup program, and press enter.
+
+Here are some miscellaneous modem tips and information:
+þ Remember that you need to pick the same port speed as your opponent for
+  serial play.
+
+þ "Live" RemoteRidicule will not work in modem/serial mode.  In order to hook
+  a microphone up to the game and be able to talk to your buddies, you will
+  need to be playing in network play. The reason for this is that the bandwidth
+  required to transmit the voice realtime is too great for modem play, hence it
+  is a network only feature.  Modem/serial can still use RemoteRidicule, you
+  can press F1 through F10 during play to invoke a sound on everyone's
+  computer!
+
+þ If you have trouble connecting at the higher listed rates, try a lower port
+  speed.  These are not actual connect rates, these are port opening speeds.
+
+þ When you play Rise of the Triad via modem/serial, you will note a line of
+  text that reads "UART is a ..."  This will either be 8250 or 16550.  If you
+  have an 8250, it means that you have a slow serial chip, and you may be
+  prone to modem jerkiness, and other game slowdowns.  Apogee strongly
+  recommends a 16550 or greater serial chip, since these have larger buffers,
+  and can deal with the influx of data better.
+
+þ If you have an 8250, and experience slowdowns, try these steps to speed
+  things up.
+
+  ¯ Make sure you are using 8 Bit Mono sound.  16 Bit Stereo sound sometimes
+    makes things go slower on certain system configurations.
+
+  ¯ Try setting the number of voices from 8 down to 4.  If this doesn't help,
+    keep trying to lower the number of channels down until you get something
+    that is acceptable.
+
+  ¯ Try with all sound and music off.  If it is still slow, then the problem
+    lies elsewhere.
+
+  ¯ Make sure the init string you are using is correct for your modem.  Quite
+    often, incorrect strings will cause VERY slow game play.
+
+þ Slowdowns during game play can be caused by several things.  It can be your
+  modem string, or it can be something simple like a bad phone connection,
+  general bad phone lines in your area (or your opponents), or an 8250 chip.
+
+þ If you are the person making the call, you are player one, and you will be
+  the "Master", and will be the one choosing the battle parameters and options.
+
+þ If you experience modem flakiness after connecting once, you might wish to
+  physically turn your modem off and then back on again.  Some modems do not
+  reset properly, or react better if you switch them off and then on again.
+
+þ The modem.pck file is a standard ASCII file.  You can edit this as you
+  desire, but you must follow the convention that is used in the file.  If you
+  alter the file format, you may not be able to pick modems properly.  Please
+  see the notes in the modem.pck file for editing information.
+
+þ If you have difficulty in getting your modem working, and you discover a
+  modem string that does work for you, please contact Apogee online and let us
+  know what you found, and the string will be added to the MODEM.PCK file, and
+  used the next time the file is updated or released.
+
+þ Join the Apogee Modem Players Directory!  Apogee will be keeping a list of
+  people who are interested in playing Apogee modem games.  This will be a
+  listing of people's names and E-Mail addresses. We will not be keeping a list
+  of voice phone numbers, only names, E-Mail addresses, and area codes that
+  they live in.  If you're interested in joining or receiving this list, please
+  send E-Mail to Apogee Online. Our contact addresses are at the bottom of this
+  file.  This file will always be available on Software Creations, and on our
+  Internet ftp site.  You can also get the list via Internet E-Mail too.
+  Please send mail to Apogee Online for more information about obtaining the
+  list.
+
+
+                  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                  ³HOW TO SET UP AND PLAY IPX/SPX NETWORK GAMES³
+                  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+þ This section of the document will give you assistance with getting ROTT
+  running over a network that uses IPX protocols.  For assistance with getting
+  network play running, Apogee recommends that you contact Apogee Online.
+  The contact information is located at the bottom of this document.
+
+þ This section will make reference to several sections of the setup program.
+  If you haven't already done so, please read the section on how to use the
+  setup program.  It will make this section a bit less confusing.
+
+þ There are a few global rules that will apply no matter what you do in playing
+  ROTT over a network, and they are:
+
+  ¯ The network has to have IPX protocols.
+  ¯ You have to have one computer act as the ROTT Server.  In other words, if
+    you have 6 people playing, you need 7 computers.
+  ¯ Make sure you are running from DOS.  Multi-tasking environments such as
+    Windows or DesqView are not supported.
+
+Setting up network play is easier than setting up modem or serial mode.  Here
+are the steps necessary for getting Comm-Bat IPX play working in ROTT.
+
+1) Make sure your IPX/SPX protocols are loaded on all computers.  The ROTTIPX
+   driver will not run without your protocols loaded.
+2) Decide which computer will be acting as the ROTT server.
+3) Figure out how many people are playing (don't count the server as a player.)
+4) Go to the ROTT Server and run the setup program, then go to 'Network game',
+   and select "Launch as Server".  The server will remember the number of
+   players selected from the previous net game, and will always pop up with the
+   last previously chosen number.
+5) Enter the number of players and press ENTER.  The ROTT server will then
+   wait for the designated number of players to join.
+6) Go to the Client computers, and run the setup program, and then select
+   "Launch as Client".  Once the server is found, you will see a message
+   telling you which player you are.  If the other players are slow getting
+   into the game, they will be ridiculed on your computer!
+7) At this point, you're ready to play!  Consult the Comm-Bat section on how
+   to set up all the various play options of ROTT Comm-Bat play.
+
+Here are some miscellaneous network items to keep in mind:
+
+þ Each player must have a registered copy of Rise of the Triad on their
+  computer, or there must be a site-licensed version of ROTT in use.  This
+  does not apply if you are using Shareware only.
+
+þ Live RemoteRidicule will work in network mode, but only if you have a Sound
+  Blaster card, or compatible.  GUS cards do not support this function.  It is
+  recommended that before you play NetROTT that you check your microphone
+  function before running the game.  Check whatever utilities that came with
+  your sound card to verify that your microphone is set up properly.
+
+  NOTE: In v1.0 there is a really strong possibility this will crash the game.
+        Use at your own risk.
+
+þ When playing NetROTT, we urge you to not select your network server as the
+  ROTT server.  The reason for this is that if someone on your network starts
+  making extensive use of your server, and doing heavy disk access, you will
+  note ROTT slowdowns.  The ROTT server can be any computer, not necessarily
+  your network server.
+
+þ Everyone should be at the DOS prompt before launching the ROTT server.
+  Once the server is launched, the first person to launch as a client will
+  be the "Master".  (See the Comm-Bat section for a description of Masters &
+  Clients)  This can be overridden with the 'MASTER' command line parameter.
+  If this is used, the first person to enter into the game with the MASTER
+  command line parameter will become master, and any subsequent uses of the
+  MASTER parameter in that game will be ignored.
+
+þ If you get the error "Unknown Packet During Setup" when launching the server,
+  it means that someone from a previous game played using that server is still
+  in the game.  Ensure that everyone is at DOS before starting.
+
+þ If you launch as a client, and the server is not found, this means that
+  something has become unsynced.  At this point, ensure that every computer
+  is at the DOS prompt before launching the server.
+
+þ It is possible to play more than one game on a network at one time.  However
+  you can not START more than one game at a time.  In other words, if your
+  party wants to play NetROTT, and there is another group playing the game,
+  then you will have to wait until all of them are in the game and playing
+  before any of the second group can start.  This will probably be addressed
+  in a future version of the game so that you can start multiple games at once,
+  but for v1.0, you can only start one game at a time.
+
+
+                         ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                         ³HOW TO PLAY COMM-BAT (tm) ROTT³
+                         ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+One of the strengths of Rise of the Triad is it's multi-player options.  There
+are a virtual plethora of different options and ways to play multi player ROTT.
+This section will explain them to you.  This section assumes that you already
+have multi-player up and running.  If you are unsure as to how to set this up,
+please consult the MODEM and NETWORK sections of this file for information on
+how to set up Multi-Player ROTT.
+
+When playing Comm-Bat, one player is the "Master".  The Master is the person
+who determines what level will be played, how long you are going to play, etc.
+In modem play, the Master is the person who is making the call.  In network
+play, the first person to be found by the server will be the person who is
+"Master".  In serial play, it's less defined, since the Master is determined by
+whomever gets the "Player 1" signal out the line faster.  This is usually the
+slower computer, but to be quite honest, the "Master" in serial mode is not an
+exact science.  All other players in network play, or Player 2 in Modem/Serial
+mode are called clients.
+
+To Start a Comm-Bat game as a Client:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+1) Connect via modem, serial cable, or network via the setup program.
+2) Select the code name you wish to use.  If you don't wish to type the
+   same name each time, you can enter a default name in the setup program.
+3) Select the player you wish to play with, and their uniform colour.  If
+   you will be playing a team game, remember that everyone on the same team
+   must have the same colour.
+4) You will then need to wait for the Master to select the various options for
+   your game.  Once they have selected everything, you will see a screen
+   showing the parameters the Master has chosen as the game loads.
+5) If you wish to quit a game in progress, press escape.  You will be prompted
+   if you want to quit.  Press "Y" to go back to DOS.  The rest of the players
+   will continue to play.
+
+To Start a Comm-Bat game as the Master:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 1) Connect via modem, serial cable, or network via the setup program.
+ 2) From the ROTT Main Menu, select "Comm-Bat Game".
+ 3) Pick the mode you wish to play (Normal, Hunter, Capture the Triad, etc..)
+ 4) If you so desire, you can alter the Comm-Bat Options.  This would include
+    such things as the score to play to, how long you wish to play, etc.
+ 5) Select either "Play Game", or "Play Team Game" depending on which you
+    wish to play as.  Please note that if you play in Team Mode, all players
+    on the same team must select the same uniform colour.  The uniform colour
+    is ROTT's way of determining who is on what team.
+ 6) Select the level you wish to play by scrolling down the list of level
+    names, and pressing enter.
+ 7) Enter the code name you wish to use.  If you don't wish to type the same
+    name each time, you can enter a default name in the setup program.
+ 8) Select the character you wish to play with, and their uniform colour.
+    Your selections will be remembered for the next time you play.
+ 9) After everyone has selected their options, you will see a screen listing
+    all the game parameters for the game you are about to play.  Once you've
+    had enough of reading that screen, press any key.
+10) If you wish to quit a game in progress, press escape.  You will be prompted
+    if you want to quit. Press "Y" to end the game.  Since you are the master,
+    everyone's game will end when you quit.
+
+Comm-Bat Modes
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+There are nine different Modes (or games) you can play in Comm-Bat mode.
+They can all be played in Team mode, except "Tag".  When you play in team mode,
+everyone with the same color will be on the same team.  Capture the Triad has
+a limit of two teams.  Every other game can have as many teams as you want,
+with the exception of TAG, which cannot be played in Team Mode at all.
+
+¯ NORMAL - This is just you and your buddies blasting each other into
+           oblivion.  There are no special parameters for this game, and
+           everyone is your enemy.  Shoot at will!
+
+¯ SCORE MORE - This is very similar to NORMAL, with one notable exception.
+               You get more points for more difficult kills.  The different
+               point values you can get are:
+
+               1 point  - Killing an enemy with a missile weapon on the ground.
+               2 points - Killing an enemy with a bullet weapon on the ground.
+               2 points - Killing an enemy with a missile in the air.
+               3 points - Killing an enemy with a bullet in the air.
+               4 points - Crushing someone (ie: standing on their head).
+
+¯ COLLECTOR - In this game, the object of the game is to collect more
+              "Triads" than your opponent(s).  There are small black Triads
+              scattered throughout the levels, and you need to collect more
+              than your friends to win.  There are no weapons in this game.
+              This game is very well suited for young children.
+
+¯ SCAVENGER - This is very similar to Collector, except that there are
+              weapons in this game.  You can shoot at your opponents as they
+              try to get the Triads.
+
+¯ HUNTER - In this game, one player is the "Prey".  This player will be
+           unarmed, and it is everyone's job to find that player, and kill
+           them.  A player is prey for a defined amount of time (this time is
+           declared by the Master), and at the end of that time, the prey
+           becomes a hunter, and another player is then chosen to be the prey.
+           During play, the Prey will have no weapon on their screen, and that
+           person's picture and screen name will be in the upper left side of
+           the screen, so everyone knows who the Prey is.  The person with the
+           most amount of points wins the game.  If you are playing hunter in
+           team mode, then your entire team is "Prey" at the same time.
+
+¯ TAG - In this game, one person at a time is defined as "it".  This player is
+        denoted in the upper left hand corner of the screen.  If you are "it",
+        it is your job to run up to another player, and tag them.  You tag
+        someone by going up to them and pressing the 'use' key (by default,
+        this is the space bar).  Once you tag that person, they become "it",
+        one point gets added to their score, and it is their responsibility to
+        seek out other players and tag them.  The person with the lowest number
+        of points at the end of the game will win.  This game cannot be played
+        in team mode.
+
+¯ ELUDER - In this game, you chase roving "Eluders" (they look like small
+           black Triads - similar to the objects in Collector).  Your object
+           is to tag them (by running up to them and pressing the 'use' key),
+           and you get a point.  The person with the most points at the end
+           of the game wins.
+
+¯ DELUDER - Very similar to ELUDER, except that you need to destroy the roving
+            "Eluders" instead of tagging them.
+
+¯ CAPTURE THE TRIAD - In this game, you play teams (if there are only two
+                      playing, it is two teams of one), and each team gets
+                      a Triad to protect.  It is the object of the other
+                      team to steal your Triad from your home base, and
+                      take it back to their home base.  This is the only
+                      mode of ROTT that has to be played in team play.
+
+Comm-Bat Options
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+There are many different options you can select to alter ROTT's Comm-Bat
+play.  Here is a description of them.
+
+¯ GRAVITY - You can select Low, Normal, or High.  Normal is pretty Normal.
+            Low gravity can make it seem like you're flying, and it will
+            take a long time for anything to fall to the ground.  Low gravity
+            makes it easier to get objects in the air (including the other
+            players in the game).  High gravity makes things fall like a
+            rock, and it is very difficult to get objects in the air that are
+            in hard to reach places in this mode.
+
+¯ SPEED - You can select either Normal or Fast.  In Fast mode, the players run
+          very fast, and it is a bit more difficult to control this way.
+
+¯ AMMO PER WEAPON - You can select One, Normal, or Gunfinity.  In Normal, you
+                    have the regular number of shots per weapon.  In One, you
+                    only get one shot per weapon, and then the weapon goes
+                    away.  In Gunfinity, there are an unlimited number of
+                    shots per weapon.  Be warned that Gunfinity makes it very
+                    easy for a player to sit in a corner and defend their
+                    position, creating a very unfair advantage.
+
+¯ HIT POINTS - You can alter the number of "hit points" per character.   You
+               can select one of the options listed, anywhere from 1 to 4,000.
+               At one, you take one hit from any weapon, including the pistol,
+               and you die.  On the other end of the spectrum, having 4,000
+               hit points makes it very difficult to kill someone unless you
+               have Gunfinity or God Mode.  You can also select "By Character"
+               which means each character has their normal number of hit
+               points as defined by their abilities.
+¯ RADICAL OPTIONS - These options radically change the game play of Comm-Bat.
+                    You can control whether things respawn, and how powerful
+                    they are.  Here is a listing of what they are.
+
+   Spawn Dangers - This controls whether you will get items such as firejets,
+                   boulders, spinblades, etc.
+   Spawn Health  - If you're daring, you can play the level without health.
+   Spawn Weapons - This controls whether you want weapons in the level.
+   Spawn Mines   - If you turn this option on, it will turn all the health
+                   in a level to a mine, which is very painful to run over!
+   Respawn Items - This controls whether you want items such as the vests
+                   to reappear after they've been picked up/used.
+   Weapon Persistence - Normally, when you pick up a weapon, there is none
+                        left behind.  If this is switched on, the weapon will
+                        still be there after you pick it up.  Furthermore, you
+                        cannot drop your weapon (this is done by hitting your
+                        'delete' key by default) with this switched on.
+   Random Weapons - Normally, a specific weapon will appear in the same place
+                    every time.  If you turn this on, there will be different
+                    types of weapons appearing each time you play.
+   Friendly Fire  - If this is turned on, you will lose points if you kill
+                    yourself playing solo, or your team will lose points if
+                    anyone on your team kills themselves or another teammate.
+                    If this is turned off, then you can kill your own teammates
+                    or yourself and you don't lose any points.
+
+¯ LIGHT LEVELS - There are 6 levels of lighting you can choose from.  They are
+                 Dark (everything is dark), Normal (as defined by the level
+                 designer), Bright (everything is really bright), Fog
+                 (everything has a foggy look to it), Periodic (this means the
+                 light level pulsates during play), and Lightning.
+
+¯ POINT GOAL - You can choose from a variety of point goals.  You can choose
+               1, 5, 11, 21, 50, 100, Random (the computer makes one up),
+               Random Blind (the computer makes one up but doesn't tell you),
+               and Infinite (play till the cows come home).  If you reach a
+               defined point goal before the time you chose expires, your
+               game will end.  Also, if you are playing with Random Blind, you
+               cannot press TAB to see everyone's Killcounts.
+
+¯ DANGER DAMAGE - You can control how much damage the various hazards in the
+                  level cause when you hit them.  You can choose Normal, Low
+                  (not much damage at all), or Kill (you instantly die when
+                  you hit something).
+
+¯ TIME LIMIT - You can choose how long your game will last in minutes.  You
+               can select from 1, 2, 5, 10, 21, 30, 99, and NONE (play till
+               the cows come home).  If you reach the selected time limit
+               before you reach the point goal you selected, your game will
+               end.
+
+During Comm-Bat play, there are some extra features that are not available
+when you are playing the game by yourself.  They are:
+
+¯ RemoteRidicule - You can press F1 through F10, and a sound will play on the
+                   computers of your opponents (assuming they have sound
+                   cards).  Imagine the fun of walking up behind someone who
+                   doesn't know you're there, and making his computer say
+                   "Behind Ya!", and then whack him in the head with a
+                   baseball bat!
+
+¯ Live RemoteRidicule - If you have a Sound Blaster or 100% compatible, you
+                        will be able to plug a microphone into your Sound
+                        Blaster, and then you can press F12 to speak live to
+                        all other players in the game.  When speaking, you need
+                        to hold down the F12 key.  What you say will be
+                        transmitted to all the others in the game.  Only one
+                        player at a time can use this function.  Please note
+                        that this option is only available in network play.
+                        It is also not available on a Gravis UltraSound card.
+                        The reason for this is due to the time it takes to
+                        transfer data to the card. The GUS uses on-board memory
+                        to play sound.  This means that a large portion of the
+                        sound must already exist in its' memory or the
+                        computer's memory before playback can begin.  Since a
+                        sound that is played in the game is already available
+                        in its entirity, the GUS can immediatly begin playback
+                        without any noticable delay.  Remote Ridicule sends
+                        sound packets over the network at a rate of 8kb of data
+                        per second.  The GUS needs about 2kb of sound in memory
+                        for noiseless playback, which would mean that 1/4 of a
+                        second would go by before the sound could begin.  Our
+                        initial attempts at this produced choppy sound and
+                        unacceptable delays in game play.  We still hope to
+                        solve these problems in the future, but we feel that it
+                        is better to leave out a feature that doesn't work well
+                        than to give our users a half working one that causes
+                        them frustration.
+
+  NOTE: This will most likely crash the game in v1.0.  Use at your own risk.
+
+¯ Messages - You can send text messages to other players, too.  If you want to
+             send a message to everyone, depress the "T" key, and then type
+             away.  When you're done, press ENTER, and your message will be
+             tramsmitted to everyone.  If you want to send a message to a
+             specific person, you need to depress the "Z" key.  After you type
+             in your message and press ENTER, you will be shown a list of
+             people playing, and you can select whom you want the message to
+             go to.
+
+¯ Macros - If you want to send messages, but you don't want to type the same
+           messages over and over again, you can make use of the Macro system.
+           Macros are set up in the setup program (see the section on using
+           the setup program for more info).  When you're playing, you need
+           to press "T" or "Z" like a normal message, but after that, you can
+           press ALT-x where x is a number key between 1 and 0 on your keyboard
+           for your macros.
+
+¯ Viewing - If you are playing in team mode, you can press the "9" key to look
+            through the eyes of your teammates.  Continue pressing "9" to
+            scroll through the views of all of your teammates until you return
+            to your own.
+
+When you are playing ROTT by yourself, the F5 key will change the detail level,
+and the F7 key will turn messages on and off.  These can still be accessed when
+playing Comm-Bat rott, but you need to use the Shift key as well.
+
+
+
+                          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                          ³ROTT HELP & TROUBLESHOOTING³
+                          ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+þ Apogee strongly recommends that before you make any suggested changes to
+  either your hardware or software setup, that you consult your manuals to
+  make sure that any changes will not irreparably alter your computer, or its
+  configuration.  Modifying your system or software can be dangerous, and we
+  will be unable to assist with any resulting problems from such alterations.
+
+þ If you get the error screen running that prints a message game that says
+  "Uh Oh. Memory Problems", it means that you do not have enough memory
+  available to run Rise of the Triad.  This is almost always caused by having
+  such things as memory managers (QEMM/EMM386), disk caches (Smartdrv), and
+  other memory resident programs in memory.  Your best bet is to do what is
+  known as "boot clean", which means to not boot with any memory resident
+  programs you do not need.  Here are sample config.sys/autoexec.bat files
+  to use:
+
+  CONFIG.SYS
+  ==========
+  FILES=30
+  BUFFERS=30
+  STACKS=9,256
+  <if your sound card requires a line in config.sys, put it here>
+  <if you use disk compression, make sure to load that driver>
+  <if you require a driver to access your hard drive, make sure to use it>
+
+  AUTOEXEC.BAT
+  ============
+  @echo off
+  <your path line>
+  MOUSE <if you play with a mouse>
+  SET BLASTER=<see section on SET BLASTER for more help on this line>
+
+  If you have DOS 5, you will need to create a boot disk, and make config.sys
+  and autoexec.bat files with the above examples.  If you have DOS 6, we
+  strongly recommend the use of a multi-boot option.  DOS 6 has the capability
+  of having mutliple boot configurations.  Please consult your DOS manual for
+  instructions on how to create a boot disk, or a multi-boot configuration
+  using the parameters stated above.  ROTT is a protected mode program, and it
+  does not require the services of such memory managers as QEMM, EMM386, etc.
+  Please read the section on protected mode programs for more information.
+
+þ If your copy of ROTT locks up, you may wish to check some settings in your
+  CMOS configuration.  If any of these are on, then switch them off: Hidden
+  Refresh, Hardware Video Shadowing, Turbo Switching.  Also, if you have this
+  one, make sure it is enabled: HD1 Block Mode.
+
+þ If you have a Diamond SpeedStar video card, disable Zero Wait State.
+
+þ If you hear static when you are playing with a Sound Blaster or compatible
+  card, make sure to turn the MIC and LINE volumes to zero.  Your card may be
+  seeing input from these, and it would cause static.  (For a Sound Blaster
+  Pro, this program is SBP-SET; see your card's manual for precise instructions
+  on how to do this.)  If you still continue to hear static after doing this,
+  try disconnecting any parallel port devices.  IRQ5 and IRQ7, which are used
+  by sound cards, are often frequently used by printers as well.  If you have
+  both plugged in, it may cause static, and poor sound performance.
+
+þ If you are running a Compaq computer, and the game tells you that you do not
+  have a VGA card, and you know for a fact that you do, or you experience
+  lockups, this is what you'll need to do.  You'll need to contact Compaq for
+  an update.  The reason for this is that Compaq has some video cards that do
+  not conform to all proper detection methods.  There is a device driver
+  available from Compaq that will fix this problem.  The driver's name is
+  FINDVGA.SYS.  Compaq does have this file available for download on their BBS
+  with the filename SP0117.ZIP.
+
+þ If you are playing with a joystick, and your performance seems erratic, make
+  sure to calibrate the joystick inside the ROTT program.
+
+þ If you are having problems with serial or modem play, please see the section
+  on modem play in addition to this section.
+
+þ If you are having problems with network play, please see the section on
+  network play in addition to this section.
+
+þ Help!  My Space Player is not recognized by ROTT!
+  The reason for this is that you must tell ROTT that you have this controller,
+  and you're using it.  This is done with the SPACEBALL command line parameter.
+  Please see the section on Command Line Parameters for more info.
+
+þ Help! My Cyberman is not recognized by ROTT!
+  The reason for this is that you must tell ROTT that you have this controller,
+  and you're using it.  This is done with the CYBERMAN parameter.  Please see
+  the section on Command Line Parameters for more info.
+
+þ If you are playing a network game, and you get the message "Invalid packet
+  during setup" when launching the server, it means that not everyone has
+  quit the game from the previous session.  Make sure everyone is at DOS
+  before running the server.
+
+þ If you are playing a network game, and you get the error message "IPX not
+  detected", it means that you haven't loaded your IPX protocol.  This will
+  need to be loaded before any ROTT programs are run.  Please ensure that the
+  IPX protocols are loaded before running the setup program.
+
+þ If you get an error that starts with either "FX SETUP ERROR", "MUSIC ERROR",
+  or some other error that has "sound" in the error, it means that something
+  is awry with your sound setup.  Delete the file SOUND.ROT, and run the
+  SNDSETUP.EXE program that comes with ROTT, and make sure that you have
+  selected the proper sound card.  If this doesn't work, try reinstalling the
+  game.  Please remember that for GUS owners, your IRQ must be 7 or less.
+
+þ If you get an error that starts with "Z_", or get "Max Precache Reached",
+  it means that you are having memory problems, usually due to a lack of
+  memory available for ROTT.  Make sure you are booting without a memory
+  manager, or things like disk caches that take up valuable memory that ROTT
+  needs to run properly.
+
+þ If you get an error that says "Different number of Pushwalls/Doors/etc when
+  trying to load a savegame", it means that either your map data or your save
+  game has become corrupt.  Go to the load save game menu, and delete the save
+  game in question.  If this doesn't solve the problem, reinstall ROTT.
+
+þ If you are playing a net/serial/modem game, and you get an error that has
+  "Player x is unsynced at ...." it means that you had bad packets or otherwise
+  had a bad connection.  Quit the game in progress and try again.
+
+þ If you get an error that says "Illegal Load Game Value", it means your save
+  game is corrupted.  Either save over it, or delete it.
+
+þ If you press pause during a modem or network game, there is a strong
+  possibility that you will become unsynced.  This should be addressed in v1.1.
+
+þ If you notice the game running slowly on your system, here are a few
+  suggestions on improving game performance.
+
+  ¯ Disable your disk cache.  ROTT does its own internal caching, and external
+    caches get in the way, from causing the game not to run at all, to making it
+
+    run slowly.  Disk caches also take away memory that the game could be used
+    to more efficiently operate.
+
+  ¯ Disable your upper memory manager (QEMM, 386Max, EMM386, etc).  Since
+    ROTT is a protected mode game, the services of these programs are not
+    needed.
+
+  ¯ Turn the option for "Auto Detail Adjust" on.  This will adjust the graphics
+    level of the game on the fly, and will attempt to keep the game moving at
+    a fast speed all the time.  When you hit a snag, or a possible slowdown,
+    ROTT will bump the graphics level down a bit until things speed up again,
+    and then will adjust the graphics back up.
+
+  ¯ Try reducing the screen size.  When playing the game, you can press either
+    '-' to reduce your screen size, or '+' to increase it.
+
+  ¯ Turn off the ceilings and floors.  If you do this, all the ceilings and
+    floors will be "off", and since the game wouldn't have to draw them, the
+    game would run faster.
+
+  ¯ Try reducing the amount of digital channels that you have set for sound
+    effects.  Some system configurations have problems with having ROTT set
+    for higher than 4 digital channels.
+
+  ¯ Try reducing the mixing selection on your sound card from 16 bit to 8 bit.
+    8 Bit Mono is the fastest music/sound combination there is in ROTT, and if
+    you have slowdown problems, try selecting 8 Bit Mono.
+
+
+                          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                          ³ROTT COMMAND LINE PARAMETERS³
+                          ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+þ There are a few command line parameters you can try to use to alter game
+  performance.  Some of these will help speed up the game on slow computers,
+  and others help to aid game play.  A command line parameter is something
+  that you type on the command line after the name of the program you're
+  running.  The 'NOSOUND' switch will be used as an example.  To use that one,
+  you would need to start the game like this...
+
+  ROTT NOSOUND
+
+  The command line parameters for ROTT are stackable, which means that you
+  can use more than one at a time, if you need to.  An example of a stacked
+  set of command line parameters would look like this...
+
+  ROTT NOSOUND CYBERMAN
+
+  Please note that while these are intended for use with the ROTT game, you
+  can use them on the setup program.  The setup program will pass any command
+  line parameters to the ROTT game that were given to it.
+
+  Here is a list of the command line parameters you can use with ROTT.
+
+  NOSOUND               ¯ This option turns off all sounds (both music and
+                          sound effects) for the game, and makes it silent.
+
+  NOJOYS                ¯ This turns off joystick detection.  Useful if you
+                          are getting false joystick detection.  Use this if
+                          the menus just start scrolling on their own, with
+                          no input from you.
+
+  NOMOUSE               ¯ This turns off mouse detection.
+
+  SPACEBALL             ¯ This turns on detection for the Space Player
+                          controller.
+
+  CYBERMAN              ¯ This turns on detection for the Cyberman controller.
+
+  SILLY                 ¯ When you play ROTT, during the loading screen, the
+                          level name is displayed.  If you use this parameter,
+                          the level name will be replaced with a silly saying.
+
+  FILE                  ¯ This is the name of a user added wad file for ROTT.
+                          You wouldn't actually type FILE, you'd type in the
+                          name of the file to be used by ROTT.  You can add
+                          three such files at once using this method.
+
+  SOUNDSETUP            ¯ Makes ROTT go through setting up your sound card.
+
+  VER                   ¯ Shows the version of ROTT you are playing.
+
+  SLOWDEATH             ¯ When you die in ROTT, this will let you see your
+                          death in slow motion, as opposed to the normal speed
+                          it's shown at.
+
+  NOWAIT                ¯ This will bypass all opening cinematics and screens,
+                          and will place you at the Main Menu.
+
+  NOW                   ¯ This will bypass all menus and screens, and will
+                          automatically place you into the game in Level 1,
+                          as the default character, and the default difficulty.
+
+  PAUSE                 ¯ This will bring up a "Press any key to continue"
+                          prompt when you first run the game.  This is useful
+                          if you need to contact Apogee for help, and they need
+                          to ask you a few questions about ROTT and your
+                          system.
+
+  MASTER                ¯ This will force a specific client in Comm-Bat ROTT
+                          to be Player 1 (or the Master).  Only the first use
+                          of this in a game will be honored.  Any uses beyond
+                          the first will be ignored.  If this is not used, the
+                          first person to launch into a NetROTT game will be
+                          the Master.  (This parameter can cause instability
+                          in Comm-Bat ROTT.  We recommend against it's use.)
+
+  MONO                  ¯ This turns on support for the Monochrome region of
+                          video.  If you have your system set up with a video
+                          card that can access this at the same time you play
+                          the game, you will see debug information about the
+                          game (such as memory writes, etc).  The information
+                          here is useless, but if you can see it, here it is!
+
+  MAPSTATS              ¯ This will output the map statistics (ie: Number of
+                          different walls, doors, etc.) of the current level
+                          to the file MAPINFO.TXT.
+
+  TILESTATS             ¯ This will output the tile statistics (ie: Number of
+                          different actors, plants, objects, etc) of the
+                          current level to the file MAPINFO.TXT.
+
+The final two command line parameters were only used during development, so
+we could make sure that the levels we were designing didn't blow up the game!
+
+
+            ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+            ³WHAT IS THE "SET BLASTER" COMMAND, AND WHY DO I NEED IT?³
+            ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ROTT (and any other Apogee game that uses the Sound Blaster) uses the SET
+BLASTER command to figure out where to send it's sound output. A Sound Blaster
+card can have many different sound outputs, and since there are zillions of
+computers out there, a way needs to be used in order to tell the game where
+your sound card is located.  The SET BLASTER line is how we do it.  Check to
+make sure that you have the SET BLASTER line in your AUTOEXEC.BAT file.  This
+code is an example, and isn't exactly what you need to put in your system, make
+sure to read the entire explanation of this command.
+
+NOTE: Some of these parameters (P, H, & E) are dependant on certain types of
+      cards.  For example, the E is only needed if you have an AWE32.  The
+      minimum requirements are to have the A, I, D, & T parameters.  The other
+      three may or may not be needed depending on what type of card you have.
+      Please read this entire section to see if you need any of them.  If you
+      are using a clone card, or some card that's not a "true" Sound Blaster,
+      then you will most likely only need A, I, D, & T.
+
+SET BLASTER=A220 I5 D1 T3 P330 H6 E620
+|   |       |    |  |  |  |    |  |
+|   |       |    |  |  |  |    |  |_______ AWE32 Only Parameter
+|   |       |    |  |  |  |    |__________ "High" DMA Channel
+|   |       |    |  |  |  |_______________ MIDI Port
+|   |       |    |  |  |__________________ Type of Card
+|   |       |    |  |_____________________ DMA Channel
+|   |       |    |________________________ Interrupt
+|   |       |_____________________________ Port Address
+|   |_____________________________________ Environment Variable
+|_________________________________________ DOS Command
+
+NOTE: There can be no spaces between the word BLASTER and the equal sign (=).
+If you have a space in there, your system will read the parameter incorrectly,
+and it will not be recognized by our games.
+
+Now, these may not (most likely not) be the same for your board, because the
+Port Address, Interrupt and DMA Channel can be set by adjusting "jumpers" on
+your sound board.  Some newer cards have this information controlled by
+software; please consult your card's manual for more information on how to set
+these things.  You should also check your manual if you are unclear as to how
+to tell what settings your card is set at.  The information *IS* important, so
+it's recommended that you know precisely what the settings are.  If you are
+using a card that "emulates" the Sound Blaster (such as the Gravis UltraSound
+through software, or the PAS16), you should check your card's manual on how to
+set the card for Sound Blaster emulation (if your card is not natively
+supported by this game).
+
+For PORT ADDRESS, it's almost always 220.  That seems to be the default for
+most sound cards out there, and unless you know you've switched it away from
+220, it's a safe bet it's still there.
+
+The INTERRUPT is something that varies from system to system.  Apogee does
+not recommend using IRQ2.  Most of the people we run into who use IRQ2 have
+difficulty getting their programs to run properly, unless they switch to a
+different IRQ channel.  If you are using a Gravis UltraSound, you must have
+an IRQ of 7 or less.  The Apogee Sound System used in this game does not
+support the GUS default of 11.
+
+The DMA CHANNEL is one that causes some people problems.  By default, this is
+almost always set at 1.  Unless you have a specific need to change this, it's
+probably still at 1.  If you're running into lockups using digitized sounds
+with Apogee games, this is probably where your problem lies. If you get lockups
+with an Apogee game that has digitized sounds, and this variable is correct,
+try turning off the digitized sounds, and if the game plays right, you probably
+have a DMA conflict.  Adjust the DMA channel on your sound card, then reflect
+said change in this variable in the SET BLASTER line.  Quite often, CD-ROM's
+are the culprit.  Check your CD-ROM to make sure it's not using the same DMA
+channel as your sound card.
+
+The TYPE OF CARD is something that is fairly easy to check out.  If you're
+running a non-Creative Labs sound card, then you want this to either be 1 or 3,
+depending on which card it is.  In the majority of cases, it will be a 1 if
+you are not using a "true" Sound Blaster.  If you do have a "true" Sound
+Blaster, then the variable is one of these...
+
+1 or 3 for a plain Sound Blaster.  2 or 4 for a Sound Blaster Pro, or a 6 for
+a Sound Blaster 16 or an AWE32).  The factor in choosing between the two
+numbers here is the age of the card.  If it's an older card, than choose the
+smaller number (1 or 2).  Clone cards, or cards that emulate the Sound Blaster
+usually have a T variable of 1.  Experiment to see what works best for you.
+
+The MIDI PORT parameter will only be needed if you are using a card that has
+MIDI capabilities.  If so, this is where you define what MIDI port you are
+using.  330 seems to be the default for most cards, so if you have a MIDI card,
+and you haven't changed anything from factory defaults, this is probably where
+it still is.
+
+The HIGH DMA CHANNEL is something that is used primarily on Sound Blaster 16
+cards.  This is not the same as the standard DMA channel, this is a different
+one.  This is only used if you're using a 16 bit sound card capable of playing
+16 bit Sound Blaster sounds.  By default, this is usually 5, so unless you know
+that it's something else, it's probably still 5.
+
+The E620 parameter is something that is needed _only_ if you have a Creative
+Labs AWE32 sound card.  If you have one of these, this parameter will have been
+set up properly assuming you've installed the software that came with the card.
+Check your AWE32 documentation for a more thorough explanation of what this
+paramter is used for.
+
+I get a lot of questions from people wanting to know why they have to use this
+if they don't have a Sound Blaster.  Well, it's simple.  This command has
+NOTHING to do with what type of sound card you have.  Apogee games that use
+digitized sounds expect these cards to be at specific settings.  If they are
+not, then the game needs to be told this.  The way to do this is with the
+environment variable BLASTER.  That's why this is needed.  Some of our newer
+programs (ROTT, Hocus Pocus) have specific setup programs which let you set
+up this information manually, but they still require the SET BLASTER line to
+operate at 100% efficiency.
+
+Please remember to add this to AUTOEXEC.BAT, save the file back to disk,
+reboot your computer, and make sure to delete the game's sound config file
+(SOUND.ROT) before running again.  If you have any further questions, please
+drop Apogee a line.
+
+
+                       ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                       ³HOW TO GET ROTT RUNNING UNDER OS/2³
+                       ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+IMPORTANT: Music and Sound FX do not work under OS/2 with this release of Rise
+of the Triad.  If you have a sound card, do not run the SNDSETUP.EXE program
+that comes with the game under an OS/2 DOS session.  Also, do not select
+"Configure Sounds" from the SETUP.EXE menu under an OS/2 DOS session.  Music
+and Sound FX are turned off by default: attempting to enable them (or disable
+them: see below) under OS/2 will most likely cause the DOS session to crash.
+
+If you play the game under true DOS through a Dual Boot or Boot Manager
+environment and you enable the Music and Sound FX while under DOS, you will
+need to disable both through the SNDSETUP.EXE program while still in native
+DOS if you intend to reboot under OS/2 and run the game from a program
+reference object.  Once the Music and Sound FX have been enabled, any attempt
+to disable them from an OS/2 DOS session will result in the same type of
+crash mentioned above.
+**** Setting up the Settings ****
+
+Create a program reference object for the ROTT.EXE program.  If you plan on
+playing the modem, network, or serial games, set up an object for the SETUP.EXE
+program as well.  The single player game can be run from an object for either
+program, but the modem, network, and serial games can only be started from an
+object for SETUP.EXE.
+
+For each object you create, open the settings notebook to the Session page and
+click on the "DOS Full Screen" button.  On that same page, click on the "DOS
+Settings" bar and make sure that the following settings are present:
+
+AUDIO_ADAPTER_SHARING = OPTIONAL
+COM_DIRECT_ACCESS = OFF
+COM_HOLD = OFF
+COM_RECEIVE_BUFFER_FLUSH = NONE
+COM_SELECT = ALL
+DOS_BACKGROUND_EXECUTION = OFF
+DOS_BREAK = OFF
+DOS_DEVICE =
+DOS_FCBS = 16
+DOS_FCBS_KEEP = 8
+DOS_FILES = 20
+DOS_HIGH = OFF
+DOS_LASTDRIVE = Z
+DOS_RMSIZE = 640
+DOS_UMB = OFF
+DPMI_DOS_API = ENABLED
+DPMI_MEMORY_LIMIT = 7   (Can be higher if you have more than 8mb RAM)
+DPMI_NETWORK_BUFF_SIZE = 8
+EMS_FRAME_LOCATION = NONE
+EMS_HIGH_OS_MAP_REGION = 32
+EMS_LOW_OS_MAP_REGION = 0
+EMS_MEMORY_LIMIT = 0
+HW_NOSOUND = OFF
+HW_ROM_TO_RAM = ON
+HW_TIMER = ON
+IDLE_SECONDS = 60
+IDLE_SENSITIVITY = 100
+INT_DURING_IO = ON
+KBD_ALTHOME_BYPASS = ON
+KBD_BUFFER_EXTEND = OFF
+KBD_CTRL_BYPASS = NONE
+KBD_RATE_LOCK = OFF
+MOUSE_EXCLUSIVE_ACCESS = ON
+PRINT_SEPARATE_OUTPUT = ON
+PRINT_TIMEOUT = 15
+TOUCH_EXCLUSIVE_ACCESS = OFF
+VIDEO_8514A_XGA_IOTRAP = OFF
+VIDEO_FASTPASTE = OFF
+VIDEO_MODE_RESTRICTION = NONE
+VIDEO_ONDEMAND_MEMORY = OFF
+VIDEO_RETRACE_EMULATION = OFF
+VIDEO_ROM_EMULATION = OFF
+VIDEO_SWITCH_NOTIFICATION = OFF
+VIDEO_WINDOW_REFRESH = 1
+XMS_HANDLES = 32
+XMS_MEMORY_LIMIT = 0
+XMS_MINIMUM_HMA = 0
+
+NOTES:  All of the above settings were tested under OS/2 2.1 GA with the OS/2
+2.11 Service Pack.  The game has not been tested under OS/2 for Windows or OS/2
+Warp v3, but it should function just as well under either.
+We were not able to test modem or network play under OS/2.  However, we did
+test serial play via a direct link under the settings shown above. If you have
+problems with either serial or modem play, you may wish to obtain a copy of
+Ray Gwinn's SIO/VSIO communication drivers.  These are available from most BBS
+systems and in the OS2SHARE forum on CompuServe.  As of this writing, the most
+current release is usually found as SIO140.ZIP.
+
+If you have any suggestions for network play settings, please send them to us
+by mail, fax, or e-mail.  We would appreciate any input you could offer.
+
+These settings are not officially supported by Apogee.  Your mileage may vary.
+
+
+                                  ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                                  ³HOW TO CHEAT³
+                                  ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+Apogee has included a cheat mode in Rise of the Triad.  In order to activate
+it, you need to be playing the game. Type in the word "DIPSTICK".  After that,
+you can type other words to activate various cheats.  A few are:
+
+CHOJIN     - 'Woundless with Weapons' (You can't be killed, and when you fire
+              a missile weapon, your number of shots left stays the same.)
+
+RIDE       - 'Missilecam' (When you fire a missile, or any other projectile,
+              your point of view will be at the front of the projectile until
+              it hits a target, and then your point of view is back to normal.)
+
+There are tons of other ones hidden inside the game. See if you can find them!
+
+
+
+                            ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                            ³WHAT IS PROTECTED MODE?³
+                            ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+As promised earlier in this document, here is an explanation of Protected mode.
+This information is not necessary to get the game running, but it's included as
+background information for the curious.
+
+Historically, DOS programs have always required that you run them in the first
+640k of ram.  This was a limitation imposed on DOS back when v1.0 was the only
+thing around.  For compatibility's sake, this is the way things have remained.
+Any memory above 640k could only be used for data storage, not for program
+execution.  That's why you always saw those dreaded "Out of Memory" messages.
+
+As time went on, certain programs, (and later DOS itself) gained the ability to
+load part of themselves "high", leaving more conventional (the first 640k) of
+memory available.  You still had the limitation of the 640k barrier, but some
+more breathing room was made by these memory advances.
+
+More recently, advances were made in memory management so that programs could
+run in protected mode.  Protected mode is a special way of programming so that
+your program doesn't have the 640k barrier.  Depending on how the program is
+written, the entire thing is in protected mode, or it requires the use of a DOS
+"Extender" to run that way.  ROTT is such a program.  ROTT uses a DOS extender
+to access much more memory than it would have been able to if it were written
+the old way.  A game of this complexity would have never been able to have been
+written if the old 640k barrier method of programming was used.
+
+Well, you might be asking, what about my older programs?  Can't I just use a
+DOS extender, and have that run something like "Wolfenstein 3D", and never get
+those out of memory errors?  Well, it's not as simple as that.  If a program is
+using a DOS extender, it has to be written a special way.  A DOS extender isn't
+just a magic wand that you can use to wipe away your memory problems for
+non-protected mode programs.  The program has to be written a special way to
+make use of the DOS extender.
+
+To summarize, Protected mode (sometimes referred to as "flat memory") is a way
+for a DOS program (either by itself, or through the use of a DOS extender) to
+access more than just the first 640k of memory for program execution.  Because
+of this, more complex programs (such as ROTT) are able to be written.  If
+using the old 640k barrier method (sometimes referred to as "segmented
+memory"), this type of program would not have been possible.
+
+If you're still confused, don't worry about it.  As I said above, this
+information is not necessary for the proper play of ROTT.  It's in here for
+background information only.  If you're still inclined, check out some DOS
+programming books available at your library or a book store.  They have far
+more verbose explanations of this than would be possible in this document.
+
+
+
+                          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                          ³CONTACTING TECHNICAL SUPPORT³
+                          ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+Apogee thanks you very much for playing our games.  Customer satisfaction is a
+high priority of Apogee's, and we strive to please everyone.  Our Technical
+Support staff is available to assist all of our customers in solving any
+technical problems that may be experienced.  Our Technical Support Department
+is available to answer your questions Monday through Friday during the hours of
+8:00 A.M. to 6:00 P.M. Central Standard Time.  The phone number for the Tech
+Support Department is (214) 278-5655.
+
+However, the voice line isn't your only channel of contact.  We are also
+reachable via a fax machine at (214) 278-4670, (24 Hours a Day) or you can
+write to us.  Our mailing address is:
+
+Apogee Software
+POB 496389
+Garland, TX 75049-6389
+United States of America
+
+Voice: (214) 278-5655
+  Fax: (214) 278-4670  (24 hrs)
+
+If you do contact our Technical Support department, please be at your computer,
+and have it ready for assistance.  If you can't be at your computer, please
+have printouts of the following things available, so that we may assist you
+better.  It may be possible to provide technical support without these things,
+but it will be much more difficult.
+
+The needed files are CONFIG.SYS & AUTOEXEC.BAT, plus what happens when you
+execute the "MEM /C" command (or just MEM if you get an error using MEM /C).
+
+
+                                 ÚÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                                 ³APOGEE ONLINE³
+                                 ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+Apogee Technical Support can also be contacted via a variety of electronic
+medium.  Several major online services are monitored, and Apogee's E-Mail
+addresses are listed below.   Also, a variety of Bulletin Board networks are
+monitored as well, and those are also listed.
+
+þ Major Online Services
+Internet       -> joe.siegler@swcbbs.com  Internet       -> apogee@metronet.com
+CompuServe     -> 74200,553               America Online -> APOGEE
+GEnie          -> APOGEE                  Prodigy        -> CXVP94A
+
+See the appropriate instructions for these various services on how to send
+private mail to these addresses.  All of these services have Internet E-Mail
+gateways, but please, if you're sending Internet E-Mail, use the swcbbs.com
+address.
+
+þ Internet Services
+
+Join the Apogee mailing list!  The Apogee mailing list is a list where we send
+press releases, general Apogee info, new game release notifications, and other
+miscellaneous items out on.  Drop us a line at one of the above Internet
+addresses, and we'll put you on.  Just say the word!
+
+Apogee also has a "finger" plan set up for the most up to date online
+information about Apogee Software.  Finger "apogee@fohnix.metronet.com" for
+the most up to the second info about our releases!   If you are unsure if you
+can do this, or don't know what "finger" access is, please check with your
+local Internet service provider for more information on this Internet service.
+
+Apogee has an official FTP site for our shareware episodes.  The latest stuff
+is always available for anonymous FTP by ftp'ing to "ftp.uml.edu" in the
+directory "msdos/Games/Apogee".
+
+þ Software Creations & other Bulletin Board Networks
+
+We can be reached on Software Creations, the Apogee BBS.  Software Creations
+can be reached by calling 1-508-368-7036.  Software Creations is our #1 file
+site.  Our games are released there before anywhere else in the world, so if
+you want the latest stuff, take a trip over to Software Creations, the BBS
+voted #1 two years running by the readers of BoardWatch Magazine!
+
+There are several BBS networks that are monitored for Apogee messages.  Our
+Online Support Representative monitors all of the following BBS networks.
+
+Fidonet, Relaynet (Rime), Intelec, Ilink, U'NI-Net, & Smartnet.
+All of these BBS networks have Games, Shareware, and Apogee conferences.
+
+Fidonet       -> 1:124/9006              Rime            -> APOGEE (or 1674)
+
+Apogee also has a FDN on the Fidonet Filebone.  Check with your local Fido
+Filebone administration for more info on how to get Apogee's shareware
+delivered right to your BBS!  Check FILEBONE.NA (available from your local Fido
+administration) for more info.
+
+               Special thanks to Irrational Man and Pansternice.
+     NOTE: This document was edited on an Apple IIgs using AppleWorks v4.3.
+

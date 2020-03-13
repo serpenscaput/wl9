@@ -1,0 +1,70 @@
+=======================================================================
+-----------------------------------------------------------------------
+
+//  /\<> _\_ // \\_\\ <>   /\  ////__    //_// __      \\))
+\\/\\\ \\ || \\  \\ \\ \\ //\\///__//   // //// ////_\\ \\\\
+	   \ 
+
+By M2 SOFTWARE
+October 31st, 2014
+-----------------------------------------------------------------------
+=======================================================================
+
+-[SYSTEM REQUIREMENTS]-
+
+Windows 98 or higher
+
+CPU: 		700 MHz
+Memory: 	10MB RAM
+Hard-Disk: 	4.0 MB
+Graphics: 	VGA 256-color
+Control: 	Keyboard, Mouse, Joystick, Gamepad
+
+=======================================================================
+-[COMMAND LINE PARAMETERS]-
+
+--res	    - sets video resolution (multiple of 320x200 e.g. --res 960 600)
+--resf	    - set additional video resolutions (e.g. --resf 800 600)
+--windowed  - windowed video mode
+--nointro   - skips the intro screens
+
+=======================================================================
+-[TROUBELSHOOTING]-
+
+*Sound is stuck when turning off sound:
+- restart the game
+
+=======================================================================
+-[CONTACT]-
+
+Website:
+http://m2-soft.de.vu/
+
+E-Mail:
+2evildemons@gmail.com
+
+=======================================================================
+-[CREDITS]-
+
+DESIGN:		 Atina
+
+PROGRAMMING: 	 Nexion
+
+GRAPHICS: 	 Atina
+		 Nexion
+
+LEVEL DESIGN: 	 Atina 
+
+SOUND:		 Nexion
+		 Atina
+
+VOICE ACTORS:	 Qu4d
+		 Ka-chan
+
+MUSIC:		 Nexion
+
+BETA TESTING:	 Atina
+		 Qu4d
+
+Wolf4SDL Engine: id Software
+		 Ripper

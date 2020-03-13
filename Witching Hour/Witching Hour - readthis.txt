@@ -1,0 +1,130 @@
+=======================================================================
+-----------------------------------------------------------------------
+
+//  /\<> _\_ // \\_\\ <>   /\  ////__    //_// __      \\))
+\\/\\\ \\ || \\  \\ \\ \\ //\\///__//   // //// ////_\\ \\\\
+	   \ 
+
+By M2 SOFTWARE
+October 31st, 2014
+
+Version 1.70 - February 18th, 2015
+-----------------------------------------------------------------------
+=======================================================================
+
+-[SYSTEM REQUIREMENTS]-
+
+Windows 98 or higher
+
+CPU: 		700 MHz
+Memory: 	10MB RAM
+Hard-Disk: 	4.0 MB
+Graphics: 	VGA 256-color
+Control: 	Keyboard, Mouse, Joystick, Gamepad
+
+=======================================================================
+-[GAME CONTROLS]-
+
+(Default Configuration)
+
+Up Arrow    - Move Forwards
+Down Arrow  - Move Backwards
+Left Arrow  - Turn Left
+Right Arrow - Turn Right
+A	    - Strafe Left
+D	    - Strafe Right
+Shift	    - Run
+SPACE	    - Use / Drop Item
+Q	    - Quick Turn
+ALT	    - Strafe
+
+You can also use a mouse, joystick or a gamepad to play the game.
+
+=======================================================================
+-[SURVIVAL MODE]-
+
+This mode is only available after you have beaten the normal mode.
+
+You are back to rescue the remaining people around the area and anyone
+else who stumbles into this forsaken forest.
+
+As soon as you approach someone you should carry them back to the car
+and put them into the back. You can drop the people at any time and
+leave them with a cold heart behind you. It's either you or them.
+
+You can escape with the car at any time but the more people you save
+the higher your name will be ranked.
+
+=======================================================================
+-[COMMAND LINE PARAMETERS]-
+
+--res	    	 - sets video resolution (multiple of 320x200 e.g. --res 960 600)
+--resf	    	 - set additional video resolutions (e.g. --resf 800 600)
+--windowed  	 - windowed video mode
+--nointro   	 - skips the intro screens
+--windowed-mouse - enables mouse in windowed mode
+
+=======================================================================
+-[TROUBELSHOOTING]-
+
+*Sound is stuck when turning off sound:
+- restart the game or turn sound on/off again
+
+*Game runs slow
+- run the game in windowed mode
+- decrease the resolution
+
+=======================================================================
+-[CHANGELOG (v1.70)]-
+
+-fixed game crash caused by the creature and minor ai fixes
+-y-axis movement of the mouse is disabled
+-new strafe keys and 180-degree quick turn
+-map: several fixes, updates and new objects
+-gfx: ~79 graphical changes
+-sounds: several new sound effects
+-graphical update for all floor textures
+-car has visible pointers to indicate what needs to be fixed
+-npc giving hints in normal mode
+-item/npc can be dropped
+-talls grass is animated if stepped on
+-tripping randomly on branches when running
+-survival mode  which is activated after beating the normal mode
+-new npcs for survival mode only
+-short animation when a npc is put into the car
+-random effects for survival mode
+
+=======================================================================
+-[CONTACT]-
+
+Website:
+http://m2-soft.de.vu/
+
+E-Mail:
+2evildemons@gmail.com
+
+=======================================================================
+-[CREDITS]-
+
+DESIGN:		 Atina
+
+PROGRAMMING: 	 Nexion
+
+GRAPHICS: 	 Atina
+		 Nexion
+
+LEVEL DESIGN: 	 Atina 
+
+SOUND:		 Nexion
+		 Atina
+
+VOICE ACTORS:	 Qu4d
+		 Ka-chan
+
+MUSIC:		 Nexion
+
+BETA TESTING:	 Atina
+		 Qu4d
+
+Wolf4SDL Engine: id Software
+		 Ripper

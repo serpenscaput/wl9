@@ -1,0 +1,14 @@
+WolfenBots - 880.1KB - 30th December 2004 (alpha 3) (but it doesn't work)
+By -TexZK
+
+
+Mod cancelled: it contains too many errors (damned 16bit DOS grr...) 
+
+Anyway, it's a bot-based Total Conversion of Wolf3D... when it was still working, 
+you were able to fight against intelligent BOTs, like in Free-For-All games. 
+
+Due to programming errors, the mod was cancelled. I had many problems with the DOS 
+16bit architecture, like leaked memory (expecially for sounds) and far memory textures. 
+
+
+I'm sorry... but I'm moving on 32bit Windows OpenGL programming... 

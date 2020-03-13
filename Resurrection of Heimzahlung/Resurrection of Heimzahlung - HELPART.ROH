@@ -1,0 +1,419 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Resurrection Of Heimzahlung, an add-on for Wolfenstein 
+3D. This game is just a homenage to Wolf Skevos-Jones, becuase it uses most of his 
+graphics, sounds, & Music. It was created by me, Ling Yan Li. This project is my 
+second Wolfenstein TC, while Schabbs 3000 was my first. The DieHard Wolfers Community 
+provided many source code tutorials. The game is difficult, but not impossible to 
+win. I hope you enjoy it.
+
+^P
+^C7d THE STORY
+
+^C00 Germany, 1945--Hitler is losing the war. Unless he does something, he won't 
+remain "Der Fuehrer" for long.  Hitler calls for a secret meeting between him and 
+his top generals.  The officers salute the Fuehrer and then everyone is seated.  
+The Fuehrer begins to speak...  
+
+^P
+^C7d THE STORY
+
+^C6c "My loyal comrades," ^C00Hitler begins, ^C6c"the Fatherland is in great peril. 
+ If we stand down for even a moment, the Allied dogs will drive a killing blow to 
+Germany's throat.  Then we shall all be destroyed, and our beloved Reich will be 
+ruined.  We must not let this happen!  We SHALL not let it happen!  No, we shall 
+make the move that will finally CRUSH the enemy and cause the whole world to tremble 
+at our might!" 
+
+^P
+^C7d THE STORY
+
+^C00 There is a pause.  The Nazi officers are puzzled, but they listen eagerly for 
+Hitler's next words.  ^C6c"Now," ^C00Hitler continues, ^C6c"is the time to make that 
+move.  We have the men and the resources to achieve one last major offensive... the 
+FINAL offensive.  This attack shall be executed with the greatest skill.  England 
+and France will fall quickly, then Russia shall surrender, and finally America..." 
+    
+
+^P
+^C7d THE STORY
+
+^C00 Hitler turns to face one of the generals, a tall Aryan man.  ^C6c"Field Marshall 
+Schwartzensturm!" ^C00Hitler says.
+  
+^C09"Yes, Mein Fuehrer?" ^C00replies the man.
+  
+^C6c"I am entrusting you to launch this great attack.  You are among my most brilliant 
+followers.  I know of your great military skill and determination.  You must not 
+fail.  I want you to lead Germany in its ultimate revenge -- RESURRECTION OF HEIMZAHLUNG!" 
+     
+
+^P
+^C7d THE STORY
+
+^C09"Jawohl, Mein Fuehrer!" ^C00says Schwartzensturm.  ^C09"I shall not fail you!" 
+
+
+^C00And with that, the Nazis go straight to work on the tremendous attack plan, Resurrection 
+of Heimzahlung (German for "payback.")
+
+^P
+^C7d THE STORY
+
+^C00Meanwhile, an elderly British officer sits at his desk, engrossed in his work. 
+ This man is none other than the Director of the O.S.A. (Office of Secret Actions.) 
+ He and his organization have been instrumental in foiling numerous Nazi schemes. 
+ Also at his disposal is the one-man army himself, Agent "BJ" Blazkowicz, who has 
+single-
+handedly defeated some of the most terrifying Nazi plots and was unscathed.  The 
+Director is proud that he has such a resourceful agent, but he fears the time when 
+a fatal move will be made...   
+
+^P
+^C7d THE STORY
+
+^C00There is a knock at the door.  ^C6c"Come in," ^C00the Director says.
+
+A thin man in a grey suit and glasses enters the room.  This is Jack Stone, an American 
+intelligence adviser and trusted assistant of the Director.
+
+^C6c"What news, Jack?" ^C00asks the Director.
+
+^P
+^C7d THE STORY
+
+^C09"Well, sir," ^C00Jack begins, ^C09"we've just received word of Agent 41, the 
+one who was sent to investigate the Nazi activity around Castle Stahlburg."
+
+^C00The Director is concerned.  ^C6c"And?" ^C00he says.
+
+^C09"He was found dead near Castle Stahlburg.  But he had left a note before he died. 
+ A lot of it was unreadable because it had been damaged by the rain, but we've determined 
+that it points to a new Nazi campaign, 'Resurrection of Heimzahlung.'"
+
+^P
+^C7d THE STORY
+
+^C6c"Hmmm... Resurrection of 'Heimzahlung'... 'payback'... Sounds like a codename 
+for a major offensive.  But why the devil would the Nazis risk such an attack now? 
+ They haven't enough resources."
+
+^C09"Maybe they have more resources than we think."
+
+^C6c"Well, did you find anything else?"
+
+^P
+^C7d THE STORY
+
+^C09"Yes.  As a matter of fact, Agent 41 had also been carrying a letter addressed 
+to Field Marshall Johann Schwartzensturm.  Schwartzensturm is known to be a fanatical 
+military leader.  If he's a part of this, he'll do whatever he can to aid his Fuehrer's 
+cause." 
+
+^C6c"What did this letter say?"
+
+^C09"It seemed to be an answer to a request for military supplies to be transported 
+to Castle Stahlburg."
+
+^P
+^C7d THE STORY
+
+^C00Jack continues.
+^C09"There wasn't much else, but the letter made it seem as though Schwartzensturm 
+was working urgently and needed those supplies right away."
+
+^C6c"So it looks like the goons are really onto something.  If only we knew what 
+it was... Have we tried anyone else, Jack?"  
+
+^C09"No, sir.  Our sources tell us there's heavy resistance around Castle Stahlburg. 
+ Not even Agent 41 could get in undetected."
+
+^P
+^C7d THE STORY
+
+^C00The Director smiles.
+^C6c"But there is one man who could... "
+
+^C00And so once again, it was up to you, BJ!
+^G84,16,5
+
+^P
+^C7d THE STORY
+
+^C00 After being briefed on your new mission, the situation becomes clear to you: 
+ find a backdoor entrance to Castle Stahlburg.  You're going to be parachuted into 
+a nearby forest at night to avoid enemy detection.  After sneaking through the forest 
+and finding the entrance, you'll have to fight your way through the castle, kill 
+General Schwartzensturm and his devil incarnate.  Piece of cake!
+
+^P
+^C7d THE STORY
+
+^C00 Now you're in a plane, preparing to make your drop.  The forest appears below 
+and the pilot says, ^C09"All right, BJ.  We're nearing the drop point.  Get ready."
+
+
+^C00 You strap on your parachute.  You turn to gather your weapons, but suddenly...
+
+
+^C24 BOOM BOOM... RAT-TAT-TAT-TAT
+
+^C09 "Anti-aircraft fire!" ^C00the pilot shouts.  ^C09"They must've spotted us!"
+
+
+^P
+^C7d THE STORY
+
+^C24 BOOM... ^C00The entire plane jerks and you fall on your face.
+
+^C09 "The wing's been hit!  You'll have to jump, BJ!  NOW!"
+
+^C00 There's another explosion and you're practically flung out the open plane.  
+Quickly, you open your parachute.  You land in the darkness.  As you look up, you 
+watch the burning plane go ^C24KA-BOOM ^C00as it crashes into the trees.
+
+^P
+^C7d THE STORY
+
+^C00 You curse to yourself.  Not only have you landed too far from Castle Stahlburg, 
+but also your weapons were left on the plane!  Now you've only got your knife and 
+your wits to defend yourself.  But you're not giving up just yet.  Those Nazis aren't 
+going to stop BJ Blazkowicz so easily!  As you pull out your combat knife, you think 
+you hear footsteps nearby...
+
+^P
+^C7d FEATURES
+
+^C00 * One seamless episode
+* 38 levels, 3 secret
+* 7 Weapons
+* New graphics
+* New sound effects, many from RTCW!
+* New enemies
+* New music (Thanks to WSJ & AreYeP)
+* New Static Objects
+* Fullscreen Mode 
+* Armor
+* Changed color palette 
+* Motorcycle! (levels 37 & 38)
+* and MORE...
+
+^P
+^C7d HEALTH
+^G48,16,30
+
+^C00 These items heal you.  (Max: 100%)
+
+^C7d Schnapps: ^C00 4%
+
+^C7d Cold meal: ^C00 10%
+
+^C7d Hot meal: ^C00 20%
+
+^C7d First aid, small: ^C00 15%
+
+^C7d First aid, large: ^C00 30%
+
+^C7d Pill: ^C00 100% (extra life)
+
+^P
+^C7d HEALTH
+
+^C00 In Outdoor Areas, there are raspberry and blueberry bushes that can heal you. 
+even mushrooms. The Raspberry bushes heal you 10% health, the blueberry bushes heal 
+you 20%, and the mushrooms heal you 5%. But beware, some berry bushes are poisonous 
+and they can take away 16% health.
+
+^P
+^C7d TREASURE
+^G48,16,31
+
+^C00 These items add points to your score.
+
+^C7d Gold bar: ^C00 +100
+
+^C7d Chalice: ^C00 +500
+
+^C7d Jewel chest: ^C00 +1000
+
+^C7d Golden helm: ^C00 +5000
+
+^P
+^C7d ARMOR
+^G72,16,32
+
+^C00 These items add points to your armor.  The more armor you have, the less damage 
+you take.  (Max: 100)
+
+^C7d Helmet: ^C00 25
+
+^C7d Flak jacket: ^C00 75
+
+^C7d Bullet-proof vest: ^C00 100
+
+^P
+^C7d AMMUNITION
+^G48,16,33
+
+^C00 These items give you bullets.  (Max: 500)
+
+^C7d Clip: ^C00 32
+
+^C7d Ammo crate: ^C00 64
+
+^P
+^C7d SPECIAL ITEMS
+
+^C00 There is also a red power orb, with your face in the centre, with grey diagonal 
+lines circling it. It is really hard to find, If you grab it, you'll get 17,800 big 
+points!
+
+^P
+^C7d WEAPONS
+
+Knife: ^C00Though used only for close combat, enemies won't hear you if you use it.
+
+
+^C7d Luger: ^C00The standard German pistol. You'll need to switch to a better weapon 
+when fighting multiple enemies.
+
+^C7d MP40: ^C00This submachinegun comes in handy when fighting groups of enemies.
+
+
+^C7d Venom Minigun: ^C00Named for its deadliness, the Venom Gun is the fastest firing 
+weapon in the game!
+
+^P
+^C7d WEAPONS
+ 
+Silenced Sten: ^C00Originally developed by the British, this submachinegun has been 
+fitted with a silencer and is more powerful than the MP40.  Great for stealth attacks.
+
+
+^C7d Assult Rifle: ^C00 This assault rifle is accurate and has a high firing rate. 
+It is a little bit stronger than the submachine gun.
+
+^C7d M1 Thopson Machine Gun: ^C00 The American submachinegun, nicknamed the "Tommy 
+Gun."  More powerful than the MP40, but ammo for it is scarce.
+
+^P
+^C7d HARMFUL OBJECTS
+
+^C00 The Nazis are very good at setting traps for you.  Look out for these objects 
+-- they'll get you in trouble.
+
+^C7d Land mines: ^C00 They are difficult to see, but if you step on one, it will 
+explode and you'll take massive damage!
+
+^P
+^C7d THE ENEMY
+
+^C00 Each enemy listed on the next page comes in 2 different uniforms:  Wehrmacht 
+and SS.  Wehrmacht troops are the common German soldiers.  They wear greenish-grey 
+uniforms.  SS troops are less common, but they are tougher and better trained.  They 
+wear black uniforms with red swastika armbands.
+
+^P
+^C7d THE ENEMY
+
+Guards: ^C00These guys are armed only with the Luger, but they often come in groups. 
+
+
+^C7d Infantry: ^C00Same as above, but they use MP40 submachineguns.  They can be 
+very dangerous, especially in droves.
+
+^C7d Officers: ^C00These high-ranking soldiers command the German Army.  They usually 
+have only a Luger, but they are fast and intelligent.  Some Officers of even higher 
+ranks hold important items.
+
+^P
+^C7d OTHER ENEMIES
+
+Machinegunner: ^C00You will sometimes find a German soldier using a mounted MG42 
+heavy machinegun.  Run for cover!
+
+^C7d Venom Soldier: ^C00There are 2 types of Venom Soldier:  one with a Venom Gun 
+(of course), and one with a flamethrower.  Both are deadly.
+  
+^C7d Panzer: ^C00The tank used by the German Army.  You're in trouble now!
+
+^P
+^C7d NAZI LEADERS
+
+Sgt. Gunther: ^C00He may not be a high-ranking officer, but he's still bad news. 
+ An experienced SS soldier, Sgt. Gunther will mow you down with his double MP40 fire! 
+
+
+^C7d Krazy Kurtz: ^C00The Nazis have employed this psycho-killer as a guard chief. 
+ As his name suggests, Krazy Kurtz is a lunatic who loves using heavy firepower!
+
+
+^C7d Gertrude Grosse: ^C00Great.  Just what you needed.  The big sister from the 
+Grosse family.
+
+^P
+^C7d NAZI LEADERS
+
+General Schwartzensturm: ^C00A fanatic devoted to Hitler, General Schwartzensturm 
+will stop at nothing to ensure the success of Resurrection of Heimzahlung.  In order 
+to win, you must kill him and steal the plans for Resurrection Of Heimzahlung!  But 
+be careful.  He's ready to destroy you with extreme prejudice! 
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit: ^C00Adding graphics & sounds
+^C7d Mapedit: ^C00Adding levels
+^C7d Chaosedit: ^C00Adding VGAGRAPH Images
+^C7d Borland 3.1: ^C00Code compilation
+^C7d Notepad: ^C00HELPART & ENDART
+^C7d ImfTools: ^C00Music Conversion
+^C7d WDC: ^C00Music & Adlib Sounds
+^C7d Jpal2bin: ^C00Color palette creation
+^C7d Wolfedit: ^C00Graphics
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+MCS: ^C00source code tutorials
+^C7d Brian Lowe: ^C00posting this TC 
+^C7d Tristan van Putten: ^C00source code tutorials
+^C7d Florian Stohr: ^C00FloEdit
+^C7d DarkOne: ^C00Jpal2bin and ImfTools
+^C7d Ripper: ^C00Fullscreen mode, truck tiles, Chaosedit
+^C7d Adam Biser: ^C00WDC
+^C7d Bryan Baker, David Huntoon: ^C00Mapedit
+^C7d Kuki: ^C00Motorcycle Tutorial/Graphics
+^C7d Mario Maniac: ^C00Graphics
+(more...)
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+^C7d Luke Strauman: ^C00source code tutorials
+^C7d BrotherTank, DeathsHead: ^C00Armor code
+^C7d Wolf Skevos-Jones: ^C00Homenage use
+^C7d AreYeP: ^C00Graphics, Music
+^C7d Bill Kerby: ^C00Wolfedit, Mapedit
+^C7d Ryan de Hasst: ^C00Double Trouble Graphics
+^C7d The Wolf Community: ^C00Source Code Help
+^C7d id Software: ^C00Wolfenstein 3d and Return to Castle Wolfenstein
+^C7d You: ^C00playing my game!
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 Do you have any questions, comments? If you do, you can send me e-mail at lingyan203@yahoo.com
+
+ 
+^P
+^C7d THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 I hope you enjoy Resurrection of Heimzahlung!  Now go get 'em, man!
+
+^E
+

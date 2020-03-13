@@ -1,0 +1,336 @@
+^P
+^G0,160,30
+^G0,0,32
+
+^C55Disclaimer...2
+Dear Player...3
+The World Ends...4-9
+Carpe Noctem Krucible...10-13
+Health Items...14-16
+Weaponry...17-20
+Compass...21
+Score Items...22-25
+Secret Levels...26
+Credits...27-32
+Patreon...33-34
+^P
+^C6cDISCLAIMER
+
+^C55*This game contains strong language, sexuality, nudity, and heavy violence! It's 
+intended for mature audiences! You (parents and kids) have been warned!
+
+*This game is solely entertainment and does not support anarchy, rebellion against 
+authority, or any kind of criminal activity!
+^P
+^C6c DEAR PLAYER
+
+^C55For the ultimate Krucible experience, I suggest playing Krucible with loud headphones 
+and on a large monitor or TV in the dark... Not so dark that your eyes begin to hurt, 
+but just enough to give you more of a feel of emersion into the game.
+
+Thank you, and I hope you enjoy playing Krucible. :)
+-Mad Wolf
+^P
+^C6c THE WORLD ENDS
+^C6c
+2180 A.D. 
+^C55In a small town only a few miles away from San Francisco, Kathryn, a 12 year 
+old girl returns home after playing outside for hours. She tries the doorknob to 
+her house, only to find it locked. 
+
+Confused, Kathryn goes to a neighboring house belonging to a family friend, Mark 
+Reilly. This door is open, but the curtains are closed on a sunny and peacful day 
+as well as the windows are boarded shut, filling the house with darkness.
+^P
+^C6c THE WORLD ENDS
+^C55
+^G100,10,150
+The young girl hears rapid hammering coming from downstairs... The basement. She 
+heads down the stairs to find Mark in the room, covering small windows with 2x4s 
+in a hurry.
+
+^C71``Mark, what's going on? My house is locked. I'm scared.''
+^P
+^C6c THE WORLD ENDS
+^C55
+^G30,250,151
+^C79``Kat?! What're you doing here? Didn't you hear the news?!''
+^G100,10,150
+
+^C71``I was just playing outside.''
+
+^C79``Jesus! The attack could happen any...''
+^P
+^G0,0,148
+^P
+^C6c THE WORLD ENDS
+^C55
+^G30,0,147
+For years World War III raged, yet only a couple thousand believed it would actually 
+ravage the world into a wasteland. After the first attack on San Francisco, nation 
+launched nuke after nuke on nation until the Earth was covered with ash, bones, debris, 
+and radiation.
+^P
+^C6c THE WORLD ENDS
+^C55
+^G30,0,147
+Kathryn Peterson and Mark Reilly, unable to find their way to Wonderland, a vast 
+system of caverns deep beneath the Earth that was used as a fallout shelter, were 
+the first of trillions of casualties to World War III... What's now known as the 
+Nuclear War.
+^P
+^C6c CARPE NOCTEM KRUCIBLE
+^C6c
+2263 A.D. 
+^C55I walked the streets of Gatekeeper earlier. Krucible... Aptly named. A crucible 
+is a `severe or fateful test' and in this shithole only the strong can endure life. 
+Hell, lemme tell you something: As I was walking I heard a young girl crying out 
+for help, I looked down the alley her voice came from to see an Order Templar ripping 
+her clothes off and trying to rape her. I looked around, everyone nearby heard the 
+girl who was MAYBE 18 (Barely), yet NO ONE wanted to do anything.
+^P
+^C6c CARPE NOCTEM KRUCIBLE
+^C6c
+^C55See folks, no one fucks with the Government of Order so they feel they can fuck 
+with you. I continued walking, acting like the rest, like I didn't give a damn. But 
+while the Templar was busy pulling off the girl's panties, he didn't notice me walking 
+up behind him. I thrusted my arm straight through his chest (cybernetic prosthetic 
+if you didn't know). I felt bad for the girl, not just for being a victim but she 
+just got showered with blood and gore.
+^P
+^C6c CARPE NOCTEM KRUCIBLE
+^C6c
+^C55As the Templar slumped to the ground I told the girl to run... I'm a wanted man 
+but this girl did nothing wrong, yet the Government would lock her ass up in the 
+Insanitarium just for being in the wrong place at the wrong time. It's happened before. 
+Lucky for this girl, this was the wrong place at the RIGHT time as I'm not some douche 
+with his head up his ass ignoring people in need. ``Grow a fuckin' spine,'' I say... 
+And if the Government take a limb, get a good doc to make you a new one!
+^P
+^C6c CARPE NOCTEM KRUCIBLE
+^C6c
+^G30,10,149
+^C55I'm a fighter, but people like me are a dying breed. I know the Government is 
+good at silencing those who oppose them but hear me out: The less we fight, the more 
+people vanish, the more daughters get raped, the more drugs get pushed on us by the 
+Government's whores. I believe if more people stood up, we could overthrow tyranny 
+once and for all!
+
+-David Nicholson
+^P
+^C6c HEALTH ITEMS
+
+^c1d GAS MASK
+^c55 Serves as a piece of armor. Restores 5% of Health and will bring Health to 200%.
+
+^c8e RAD-BLUE COLA (3-PACK)
+^c55Blueberry flavored cola. Restores 10% of Health.
+^cda ALCOHOL
+^c55 Mixture of beer, vodka, and whiskey. Restores 15% of Health and will bring Health 
+to 110%.
+^C26 PIECE OF MEAT
+^c55 Food source that restores 25% of Health.
+^P
+^C6c HEALTH ITEMS
+
+^C72 WATER PUDDLE
+^c55 Fresh water that restores 30% of Health.
+
+^c1d BODY ARMOR 
+^c55 Vest made up of a combination of reinforced leather and a mesh composed of titanium 
+cables. Restores 45% of Health and will bring Health to 200%.
+
+^C29 MED KIT
+^c55 Enough bandages, stitches, and pain killers to restore Health to 200%.
+^P
+^G30,200,21
+^C6c HEALTH ITEMS
+
+^C72 WATER WELL
+^c55 Found deep underground where radiation can't contaminate it.
+
+Pressing the USE/OPEN key near these will give you 45% health but won't take your 
+health past 100%.
+^P
+^C6c WEAPONRY
+^G30,200,139
+
+1: CIRCULAR SAW
+^C55A handheld tool from the past, capable of some serious damage...
+
+^c6c 2&3: OMEGA .50S
+^C55.50 Calibur machine pistols, standard issue for Order Templars and Whores...
+
+^P
+^C6c WEAPONRY
+^G30,200,139
+
+^c6c 4: CENTURY ARMS PW87
+^C5512 gauge lever action shotgun. Chinese copy of the classic Winchester 1887...
+
+
+^c6c 5: AVTOMAT KALASHNIKOVA 47
+^C55Also known as the AK-47. Assault rifle of Russian make, built to last...
+^P
+^C6c WEAPONRY
+^G30,200,140
+
+^c6c 6: CRYOBOW
+^C55Rare, silent, accurate, and deadly, but a slow weapon. Bolts are Liquid Nitrogen 
+infused with Electricity...
+
+^c6c7: NAILGUN
+^C55Helicopter minigun repurposed to fire nails at an alarming rate to impale enemies...
+
+^P
+^C6c WEAPONRY
+^G30,200,140
+
+^c6c 8: NUKEGUN
+^C55Rumored experimental weapon that uses radioactive blasts to weaken foes and rip 
+them apart at the cellular level...
+^P
+^C6c COMPASS
+^G30,200,20
+
+^C55Krucible does feature a compass for those feeling lost with a need to know where 
+to go. Simply press 0 (zero) while in-game to pull it up and will display which direction 
+you are facing...
+
+^P
+^G30,200,141
+^C6c SCORE ITEMS
+
+GLASS KOINS
+^C55 The currency of Krucible, worth 100 points...
+
+^C6C12V BATTERY
+^C55 Power sources are sought after in the radiated future, worth 500 points...
+^P
+^G30,200,141
+^C6c SCORE ITEMS
+
+^C6CTOOLS
+^C55 From weapons to computers, nothing can be fixed without the tools to do so. 
+Worth 1,000 points...
+
+^C6CGASOLINE
+^C55 Necessary for power generators to run and saws to tear into flesh, worth 5,000 
+points...
+^P
+^C6c SCORE ITEMS
+
+RESCUES
+^C55 In a few levels, the Government of Order or the radiated creatures of the Wasteland 
+will be terrorizing the civilians of Krucible. The player could turn a blind eye 
+to them but saving them gives 1,000 points for each rescue!
+^P
+^C6c SCORE ITEMS
+
+RESCUES
+^C55However, killing them will remove 1,000 points from your score so be mindful 
+of stray gunshots...
+^P
+^C6c SECRET LEVELS
+
+^C55 Hidden in the city of Krucible lies 2 secret levels accessible through hidden 
+areas. These levels can crank up your points, satisfy your thirst for action, and 
+even offer some insight into future mods being developed by the Mad Wolf!
+
+Will you dare seek their treasures and dangers?
+^P
+^C6c CREDITS
+
+CAST
+^C55ALICE ASHIS
+-Allie Sin
+DR. OSRIC
+-Lance Henriksen
+DAVID NICHOLSON
+-Mad Wolf
+RAVEN WOOD BARTENDER
+-Michiel Papenhove
+KATHRYN PETERSON
+-Winona Ryder/Keira Knightley
+MARK REILLY
+-Karl Urban
+^P
+^C6c CREDITS
+
+CAST (continued)
+^C55SYRENTI
+-Tuomas Holopainen
+CHESHYRE
+-Alyson Hannigan
+MACHINA BARTENDER
+-David Tennant
+MISTY TIERS
+-Alyssa Doll
+^P
+^C6c CREDITS
+
+MIDI MUSIC
+^c55Mad Wolf
+
+^c6c OGG MUSIC
+^c55*Dark Conflict
+-Psychrophyte 
+*Mechanical God: Create|Corrupt|Consume
+-Nekofrog
+*The Final Summoning
+-Jared Hudson
+*PlectraSubCity
+-The Orichalcon
+^P
+^C6c CREDITS
+
+^c6c OGG MUSIC (continued)
+^C55*Let There Be Light
+-AmIEvil
+*Eclipse Apocalypse
+-Blue Streaks
+*Hypnotica
+-Mark Eightman
+*Bogged Down
+-Argle
+*Drop Dead Cynical
+-Amaranthe
+^P
+^C6c CREDITS
+
+^c6c OGG MUSIC (continued)
+^C55*Call of The Mask
+-Beckett007
+*My Loved Ones Are Gone
+-Psycho Crusher
+
+^C6cSTORY & LEVEL DESIGN
+^C55 Mad Wolf 
+
+^C6cTITLE SCREEN
+^C55-Adema: Unstable (Album cover)
+^P
+^C6c CREDITS
+
+^C6c CODING
+^C55 Mad Wolf, Alumiun, Chaos Software, Chris, DugTrio17, Havoc, Id Software, Jeremy 
+Lewis, Richter Belmont, Tricob, WLHack, WSJ
+^C6c GRAPHICS
+^C55 Mad Wolf, Bloax, DoomJedi, Eriance, JoeyTD, Mason, WSJ, Xaser, Zrrion The Insect, 
+Capstone, Epic Games, Id Software, Interplay, Monolith 
+^c6c SOUNDS
+^C55 Mad Wolf, EA Games, Id Software, Interplay, Michelle Pfeiffer (Batman Returns), 
+Sega
+^P
+^G0,0,19
+^P
+^C6c PATREON
+
+^C55 I put a lot of work into my mods, reviews, videos, artwork, all of it. I don't 
+sell my mods as they feature content developed by others and that's just not cool... 
+But you can donate merely outta appreciative fandom for my work if you'd like... 
+
+
+Feel free to check out my Patreon page for more info...
+http://www.patreon.com/madwolf555
+^E

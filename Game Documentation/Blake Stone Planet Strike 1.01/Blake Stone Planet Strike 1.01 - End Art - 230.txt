@@ -1,0 +1,14 @@
+^FN4^CE^FC74Planet Strike
+^AY05^FC58^CEJAM Productions is:
+^FC77^CEMichael Maynard    Jerry K. Jones
+^CEJim Row
+^AY05^FC58^CEContributing Artists
+^FC77^CECygnus Multimedia Productions
+^CEDebra Berry          Jeff Dee
+^AY05^SY0^RM0a0^FC58^CEMusic
+^FC77^CEBobby Prince^DM
+^RY0^LM0a0^FC58^CEPublisher
+^FC77^CEApogee Software^DM
+^AY05^FC58^CETexture Mapping Engine
+^FC77^CEid Software
+^XX.....

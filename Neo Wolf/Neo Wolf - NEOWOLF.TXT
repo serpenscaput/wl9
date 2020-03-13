@@ -1,0 +1,134 @@
+                     
+
+                             N  e  o W  o  l  f
+                                 ----------
+                                version 1.00
+                         ---------------------------
+                              February 25, 1999
+
+
+              HIT [F2] TO SWITCH TO NORMAL TEXT SCROLLING SPEED
+
+
+        Welcome to 'NeoWolf', an upgrade for Wolfenstein 3-D.  I've stretched
+wolfenstein's graphic capabilities to the limit.  All the walls and many of
+the objects have been changed.  Installation info is in READTHIS.NOW
+
+
+The Story:
+-----------
+
+	It's 1999 and there has been word that there is Nazi activity 
+stirring in old Wolfenstein Castle.  There is suspicion that the Nazis might
+be trying to gain control of some nuclear warheads.  You are C.J. Blazkowicz,
+B.J. Blazkowicz grandson (no not commander keen, C.J. is his cousin) and a 
+Navy SEAL.  Because your grandfather pretty much new everything about Castle
+Wolfenstein, having escaped from it and all, you get the job to investigate
+the happenings.  You must look for the top secret disk that holds the plans
+to get nuclear warheads and collect any other less dangerous warheads you 
+find. So more than 50 years after your grandfather escaped you come to the 
+castle this time to storm it!
+
+
+New Items:
+-----------
+
+The treasure has been changed.
+
+-Blue warhead is semi dangerous and gives you 100 points.
+-green warhead is more dangerous and gives you 500 points.
+-red warhead is most dangerous and gives you 1000 points.
+-The disk contains the top secret plans of how the Nazis are going to get 
+ nuclear warheads and gives you 5000 points.
+
+-swastika of protection gives you 100 health, an extra man and some ammo
+
+The life items have been changed also...
+
+-Food gives you 4% life
+-Stimpack(small one) gives 10% life
+-Medkit(large one) gives you 25%
+
+I changed it around cus' I didn't like the idea of all this food lying all 
+over the place.  Now its more like Doom or Quake; there are stimpacks/medkits
+lying around in convenient places for more fast paced action.  I still kept 
+the food but now its only near a table or in a kitchen or storage area.
+
+
+The Levels:
+------------
+
+Level 1  - The Cellar.  shows off the new graphics pretty well and is a nice
+           easy way to start off the episode.
+Level 2  - Underhalls.  Nothing that unusual about this level.  But its well
+           done and fun.
+Level 3  - The Focus.  This is the level where you get the disk but you still
+           have to get through 6 more levels!
+Level 4  - The Library.   Collumns... yay!
+Level 5  - The Fake.  There is just enough ammo to complete the level.
+Level 6  - The Gauntlet.  Just what the name says.
+Level 7  - Gathering.  Hard Level; read the hints if you have trouble.
+Level 8  - The Race.  Can you make it all the way through alive??? Very fun
+           level.
+Level 9  - Cyber-Grosse.  Guess.
+Level 10 - Quake.  The "secret" level!
+
+
+
+Tools I used:
+--------------
+
+Paint Shop Pro 3.11
+Corel PHOTO-PAINT 5
+WinTex 3.41 by Olivier Montanuy
+Mapedit 7 by Bill Kirby
+WolfEdit 2.1 by Bill Kirby
+Wolfenstein Audio Editor 1.1 by Bill Neisius
+
+I got pieces of graphics from:
+Spear of Destiny
+Mac Wolfenstein
+Doom II
+Hexen
+Quake
+
+I got some sounds from:
+Mac Wolfenstein
+Doom II
+Team Fortress
+
+
+Thanks to:
+-----------
+-id software for making Wolfenstein, Doom, Quake, Quake2 and soon Quake3.
+ And they released the source code for Wolf3d and Doom; they're such nice
+ guys!
+-David "Grover" Shierer helped with a few levels and some other stuff
+
+
+Copyright and Distribution Permissions:
+----------------------------------------
+
+Authors MAY use this modification as a basis for other publically
+available, not-for-profit work, provided they inform the author of any
+modifications which are made and give the author credit where it is due.
+
+You may distribute this Wolfenstein modification in any electronic
+format as long as this description file remains intact and unmodified,
+and is retained along with all of the files.
+
+If anyone else would like to include this modification in a collection
+of Wolf3D modifications, whether for sale or otherwise, you must contact me
+and let me know about it.
+
+
+Where you can get this mod:
+----------------------------
+
+http://www.ziplink.com/~shiba/
+
+
+
+Yeah, that's about it.  Have fun!
+
+Ben Blaufarb - dla_one@yahoo.com

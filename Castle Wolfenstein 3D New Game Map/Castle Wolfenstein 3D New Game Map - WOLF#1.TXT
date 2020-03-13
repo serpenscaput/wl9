@@ -1,0 +1,64 @@
+Castle Wolfenstein 3-D New Game Map
+
+This archive file contains three files:
+
+WOLF#1.TXT    This file
+MAPHEAD.NEW
+GAMEMAPS.NEW
+
+Before you can use these files you must do a bit of changing of the original
+game files you may have on hand. The new maps won't run properly on the 
+shareware demo even though they will load, it has some strange effects and
+locks up after a very short time.
+
+You will have to rename the original files. I suggest you use the same 
+filename but change the extension to ".ORG" to symbolize it is an original
+file to make changing back to the original version of the game later on easy.
+
+Rename the MAPHEAD.xxx (where xxx = WL3 or WL6) to MAPHEAD.ORG.
+
+Rename the GAMEMAPS.xxx to GAMEMAPS.ORG.
+
+Now simply rename the new game files listed above to the version you have.
+If all your game files have the ".WL3" extension then rename the ".NEW" files
+with that extension. 
+
+Example: REN MAPHEAD.NEW MAPHEAD.WL3
+
+If your files have extensions of ".WL6" use those extensions instead
+of the ".WL3" shown above.
+
+These files contain information for 10 totally new levels for the first game
+of Castle Wolfenstein 3-D. Don't be alarmed if you go to play games 2-3 or 
+2-6 if you have them. I have disabled the maps to those versions in these 
+files. So those of you with the shareware version won't notice any difference
+in the number of games you can play, but then again you won't be getting a
+bonus of games 2-6 for free either. This is the only way I can think of
+protecting Apogee's rights while adding some new excitement to the game.
+
+To restore the original maps all you should do is rename the MAPHEAD.xxx and
+GAMEMAPS.xxx files to ".NEW" and then rename the ".ORG" files to their 
+original file extension of ".WL3", or "WL6".
+
+These new floors for the most part are more complex than the originals. The      
+                              
+average playing time on most (not all) of them was close to 20 minutes. 
+Considering I knew where everything was it will probably take you a bit longer
+to complete each level. <Grin> This set of floors does not contain a 
+"secret level" as such. I opted for a linear progression from level 1 to 10,
+however the program still shows that level 9 is a secret level when (if) you
+complete it and just gives you a completion bonus. Sorry about that. So for
+this set at least you don't have to worry about finding a secret level. I've
+also discovered a nifty little trick that I'm sure is going to have you 
+cursing my name, but I won't tell you where it is! I'll let you find it
+yourself. <Grin>
+                                    
+The self-running demo will also be affected by my changes to the file. Don't
+panic, by restoring the original files the demo will be returned to normal.
+
+One word of advice I'll pass along: SAVE THE GAME OFTEN.
+
+I hope you enjoy the new challenge.                                    
+
+                                    Keith Heitmann, Prodigy #GVXV90A
+

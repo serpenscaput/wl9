@@ -1,0 +1,26 @@
+       --Rising Evil Features--
+=====================================
+
+- Seamless level flow
+- 30 New levels
+- New graphics for chaingun
+- New graphics for all bosses
+- 18 New wall graphics
+- 16 New static objects
+- Episode selection screen erased
+- Helpart and Endart added
+- 3 Extra doors 
+  (Wooden door,Locked elevator door,
+   Locked steel door)
+- 4 Extra keys 
+  (2 keys - wooden+iron, 
+   2 keycards - brown+grey)
+- New graphics for all bosses
+- All bosses drop keys once killed
+- Game doesn't end once all bosses are
+- New ceiling colours for all levels
+- New difficulty level names
+- Crosshair
+- New Demos
+- New weapon (Missile Launcher)
+- Much more...

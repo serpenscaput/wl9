@@ -1,0 +1,951 @@
+STORY
+The land of the Seven Kingdoms was once the peaceful
+creation of Eilior, the Great Being. There were nine lesser
+beings who served as council to Eilior called the
+Nonacyclus. Among them was Wersin, the Deceiver, who
+left the council to descend upon the world thus shattering its
+peace.
+For protection, Eilior gave man the gift of the Orb, which
+strengthens the weapons of the Seven Kingdoms. However,
+as a weapon becomes further from the Orb, its power wanes.
+The elders of the Seven Kingdoms met and declared that the
+Orb be kept within the castle of Dilaaria, since it was nearest
+the center of all the lands. However, this left the southernmost land, Drami-on, 
+without the power of the Orb.
+The dark clouds of war covered the land as Wersin's
+henchmen swarmed the countryside. For many years the
+Seven Kingdoms have kept the lands safe, but recent
+sightings suggest that a great army is rising against them
+from the south. According to scouts, Wersin has ravaged the
+lands of Drami-on and stolen their enchanted weapons to
+equip a massive army.
+As a royal guard for King Hylorn, ruler of Dilaaria, you have
+been ordered to guard the Orb's chamber. From deep within
+the castle, you only hear muffled sounds as they echo down
+the hallways toward you. One voice cuts through the
+
+jumbled mess: "The enemy approaches!" You listen as the
+soft murmur rises to the panicked chatter of war. The Dark
+Army of Wersin has arrived.
+Torches dot the fields around the castle. Soon arrows are
+loosed from all directions. Ladders spring from the ground
+and the twisted deformities of the Dark Army have soon
+breached the wall. The knights of the Seven Kingdoms fight
+valiantly but to no avail. You prepare for battle as you hear
+the main gates burst open.
+Thirty or more demonic beings charge down the hallway
+toward you and the other royal guards. You are soon
+surrounded by them. The ten of you are no match for the
+constant flow of demons and the other guards soon fall dead
+at your side. A sharp blow to the back of your head sends
+you sprawling to the ground. As your vision begins to dim,
+you see the demons smash the door leading to the Orb's
+chamber...
+You awake surprised to see that you're still alive. You look
+around and discover that you are in a small dungeon cell
+littered with bones and fleshy debris. This can only mean
+that you are trapped deep within Zaehylos' dungeon, the vile
+prison of the ancient stories. Many heroes have been held
+inside its walls, but none have escaped.
+You try to stand, but your head is still spinning with pain and
+
+you fall upon a pile of bones. A strange snort echoes outside
+the door to your cell. Ignoring the pain, you stand again and
+grab a broken bone from the floor. Within seconds there is a
+snarl right outside the door and you hide in a darkened
+corner of your cell. The door slides open and a foot soldier
+enters the room. You lunge at it, knocking it to the ground.
+A surprised scream pierces your ears as you shove the
+shattered end of the bone into its body.
+Convinced that it is dead, you grab its mace and prepare for
+what lies ahead. If you can't escape, at least you'll leave the
+mark of your presence in the hearts of your enemies...
+
+TABLE OF CONTENTS
+Navigating the Menus .
+.
+.
+.
+The Game Screen .
+.
+.
+.
+.
+The Status Bar
+.
+.
+.
+.
+.
+Items in the Game .
+.
+.
+.
+.
+Health .
+.
+.
+.
+.
+.
+Artefacts .
+.
+.
+.
+.
+.
+Treasure .
+.
+.
+.
+.
+.
+Weapons .
+.
+.
+.
+.
+.
+Other Items .
+.
+.
+.
+.
+Hazards .
+.
+.
+.
+.
+.
+.
+Bestiary .
+.
+.
+.
+.
+.
+.
+Minions .
+.
+.
+.
+.
+.
+Bosses .
+.
+.
+.
+.
+.
+Other Characters .
+.
+.
+.
+Hints
+.
+.
+.
+.
+.
+.
+.
+Special Features .
+.
+.
+.
+.
+Cheat Codes .
+.
+.
+.
+.
+.
+Trivia
+.
+.
+.
+.
+.
+.
+.
+Odds 'n Ends .
+.
+.
+.
+.
+.
+Troubleshooting .
+.
+.
+.
+.
+Thanks .
+.
+.
+.
+.
+.
+.
+Command Key Quick Reference .
+.
+Contact .
+.
+.
+.
+.
+.
+.
+Version History
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2
+4
+4
+6
+6
+7
+8
+9
+10
+11
+12
+12
+16
+17
+18
+19
+20
+20
+21
+22
+23
+24
+24
+25
+
+PLEASE FEEL FREE TO SHARE THIS GAME
+This game is to be distributed free of charge. Share it with your friends!
+SYSTEM REQUIREMENTS
+This game should run on almost any Windows system. Starting with
+Windows XP, DOSBox is required to hear sounds correctly and on a 64-bit
+OS, DOSBox is required to run the program at all, but don't worry, the
+installation process sets everything up for you.
+Page 1
+
+NAVIGATING THE MENUS
+The game's menu system mimics that of
+Wolfenstein 3-D. When you start the
+game, you are presented with the main
+menu. From it you can change game
+play options, read the in-game manual,
+or start a new game.
+NEW GAME
+Of course since you've installed the
+game, you probably want to play it.
+Before you do, you have to pick your
+difficulty level. “Leave the lights on” is
+the easiest and “Death scares me not!” is
+the most difficult.
+SOUND
+On this menu you can change the sound
+effects, the digitized sounds, and toggle
+the music. For best sound results, use
+the Sound Blaster settings as shown in
+the image to the right.
+CONTROL
+From this menu you can set up your
+mouse, joystick, and keyboard settings.
+This is where you set up which button or
+key press does which action in the game.
+Mouse sensitivity determines how
+quickly your mouse causes you to move.
+Page 2
+
+LOAD/SAVE GAME
+You are allowed to have up to 60 saved
+games. This allows you to save as many
+times as you want in case you want to
+back track to a previous scene to take a
+different path.
+OPTIONS
+By default, all graphical enhancements
+are enabled, but if you find that the
+game runs slowly on your computer, try
+disabling some of them.
+
+READ THIS!
+This is the in-game manual and the
+information that can be found in it can
+also be found in this manual. However,
+the in-game manual provides easier
+access when you're.... in a game.
+HIGH SCORES
+You have to battle your way through
+many levels and defeat Wersin to make
+it on this list. Are you ready for the
+challenge?
+QUIT
+When you're ready to quit the game and
+do something boring, pick this.
+Page 3
+
+THE GAME SCREEN
+The game screen in this game is just like
+that of Wolfenstein 3-D and most other
+first-person shooters. The top portion of
+the screen is where the action takes place
+and the bottom is the status bar.
+THE STATUS BAR
+You'll want to keep a close eye on what the status bar tells you.
+
+1. This is the act and scene you are currently playing in the game. Orb
+of Dilaaria consists of six acts with each act containing five scenes.
+2. It's you! Your face will change depending on the amount of damage
+you have sustained or the type of death you have died.
+3. Your current and maximum health points. Though the maximum
+amount never changes, some items can temporarily boost your health
+points above the maximum.
+4. This is your score. You get points by collecting treasure and wiping
+out enemies.
+5. Your life scrolls. You start with 3 life scrolls and use one each time
+you die. When a life scroll is used, a mystical force heals you and takes
+you back to the beginning of the scene. The only drawback is that you
+lose all of your items and magic points in the process.
+Page 4
+
+6.
+
+Your current weapon. Use it wisely.
+
+7. Your current and maximum magic points. Skull packs will increase
+your maximum to 200. It would be good to find one quickly.
+8.
+
+Keys to doors in the scene.
+
+9. Indicates that you are able to go under water without drowning. This
+is a temporary effect, so watch out when it starts to flash!
+10. Indicates that you are invincible to all damage, including the effects
+of lava and slime. This is a temporary effect.
+11. Indicates that you are invisible to enemies. They can, however, still
+hear you. This is a temporary effect.
+12. Indicates that you are poisoned and will lost 1 health point per second
+until you health yourself somehow (or die, whichever happens first).
+13. Indicates that you are paralyzed. You can no longer move, but you
+can still attack. This is a temporary effect.
+14. Indicates that you have been “slugged”, which means that your
+movement has been slowed down considerably. You can still attack at the
+same speed, though. This is a temporary effect.
+15. Indicates that you have the Orb! Congratulations! Now to get home!
+16. The number of soul crystals you have.
+17. Indicates which weapons you have. The highlighted numbers show
+which keyboard keys to press to switch weapons.
+Page 5
+
+ITEMS IN THE GAME
+The environment inside Orb of Dilaaria is rich with a variety of different
+items. Some are useful, some are harmful.
+HEALTH
+Even Wersin's armies need some nourishment. Grab some for yourself to
+help you on your quest. In addition to granting health points, all of these
+items cure poison.
+Bread
+Healing: 4
+Useful when you only need to top your hit points or if you're
+in desperate need.
+
+Mutton
+Healing: 10
+Pretty tasty and filling!
+
+Health Sphere
+Healing: 25
+Blessings from Eilior? Maybe, because these are great to
+find.
+
+Page 6
+
+ARTEFACTS
+Those who have fallen before you have dropped several useful artefacts.
+Use them wisely or you'll find yourself in a desperate situation.
+Life Scroll
+Summary: +1 life (up to 9), +99 hp (up to 200), +25 mp (up
+to current limit), also considered a treasure item
+These scrolls take you to the beginning of a scene when you
+die. Also grant a temporary health boost and heal poison.
+Invisibility Ring
+Summary: Invisible for 30 seconds (cumulative)
+Provides temporary protection from being seen. However,
+you can still be heard and once they know you are nearby,
+the beasts will attack relentlessly.
+Skull Pack
+Summary: Sets max mp to 200, +25 mp, +50 hp (up to
+200)
+These demonic looking packs will help your magic last
+longer. Grab them when possible.
+Heroic Brew
+Summary: Invincible for 30 seconds (cumulative), mace
+causes 4 times more damage
+This bitter drink temporarily makes you invincible and your
+attacks stronger. The catch? You can only use your mace!
+Mermaid Artefact
+Summary: Can breath under water for 30 seconds
+(cumulative)
+Provides a temporary air supply under water.
+Page 7
+
+TREASURE
+Wersin has accumulated quite a collection of treasures. You might as well
+take some back to the kingdoms from which they were stolen.
+Coin
+Points: 100
+
+Gem
+Points: 500
+
+Pendant
+Points: 1000
+
+Ruby Encrusted Skull
+Points: 5000
+
+Page 8
+
+WEAPONS
+You're going to need something to help you fight against Wersin's armies!
+Mana Pouch
+These enable you to use the magical weapons you find. If
+your magic runs out, you still have your mace.
+Soul Crystal
+These are used to power the Unsummoner.
+
+Boom Staff
+Your average lightweight magic wand. Packs a punch, but
+is not so great against stronger beasts.
+The Inflictor
+A rapid fire magic crossbow always makes things
+interesting.
+Death Wand
+Nothing takes down large amounts of enemies faster than
+this!
+The Unsummoner
+Mystery surrounds this weapon. No one knows exactly what
+it does. All that is known is that it wields a power so great
+that Wersin keeps it hidden within his land so that no one
+can find it.
+Page 9
+
+OTHER ITEMS
+These will help you find your way to the Orb and out of Wersin's domain.
+Keys
+Keys are used to unlock doors.
+
+Tomes of Knowledge
+Anytime you see a book, read it! Surely Wersin and his
+beasts have left behind some information as to where they
+can be found. You need to learn what he and his armies are
+planning, so read as much as you can. Who knows? They
+might even help you find your way out!
+Green Portal
+Green portals take you to another area within the map.
+
+Red Portal
+Red portals take you to the next scene.
+
+Page 10
+
+HAZARDS
+Wersin has created a variety of foul nuisances. Tread with caution!
+Slime
+Special: Takes 1 hp per second
+Wersin has devised a liquid that is harmful to touch. It's
+unlike anything you've ever seen. You must warn your
+people about this treacherous sludge before he can release it
+upon the world.
+Possessed Walls
+Special: Shoots fireballs
+Trapped in stone, these tormented souls attack anything that
+gets in their path. Watch yourself or you'll be toast.
+
+Poison Mushrooms
+Special: Once infected, takes 1 hp per second.
+Be careful when running around outside or you might
+trample these mushrooms and release their poisonous
+spores into the air. If you do become infected, never fear,
+just find something with which you can heal yourself.
+Lava
+Special: Takes 5 hp per second
+A wise person would stay away from this flesh-burning
+substance. A fast runner might be able to cross short
+patches of lava unharmed, but beware: some lava can
+engulf you.
+
+Page 11
+
+BESTIARY
+MINIONS
+Wersin's army features a wide variety of foul beasts, many of which have
+special abilities. This information can also be found in the game after you
+play the scene that introduces the beast.
+Sentry
+Points: 200
+Special: None
+You're lucky if you catch one alone because they like to
+overwhelm their enemies with sheer numbers. Approach a
+group with caution because they can back you into a corner.
+Warrior
+Points: 100
+Special: None
+Wersin's warriors are dedicated to doing his bidding. They
+stop at nothing to complete his vile tasks. Be sure to grab
+the staff when you kill one.
+Guardian
+Points: 500
+Special: Throws fireballs
+This foul brute really packs a punch and if you want to
+survive, you'd best steer clear of it. It summons powers
+from the Void and channels them into a torrent of fireballs.
+Kirapter
+Points: 200
+Special: Poisonous bite
+Don't let these flying menaces get close to you because one
+bite has enough poison to grant you a slow, painful death.
+Page 12
+
+Serpa
+Points: 700
+Special: None
+These slithering foes are fast and deadly. You had better act
+the same way toward them or you will soon fall.
+
+Araknemon
+Points: 200
+Special: Throws webbing and has a poisonous bite
+Wersin awakened the araknemons from their sleep deep
+within the heart of the earth. Beware should one come at
+you from a distance because their webbing will temporarily
+entangle you so they can come closer to poison you with one
+bite of their deadly fangs.
+Karkass
+Points: 400
+Special: Throws fireballs
+For a rotten pile of flesh and bones, Karkass is a worthy
+opponent. Eternally damned to live a tormented life after
+death, Karkass roams the lands hunting the living.
+Flamus
+Points: 200
+Special: Silent and throws fireballs
+A wretched union of plant and animal, Flamus attacks
+anything that gets close to it. How it manages to hurl
+fireballs at its victims, we may never know. One thing is for
+sure, caution must be used when near these silent attackers.
+Page 13
+
+Wippen
+Points: 200
+Special: Silent
+Wippen hides away below the ground waiting to attack. No
+amount of running can help you escape them for their reach
+is fast and their hold is strong. Always watch the ground!
+Nekrodaemon
+Points: 2000
+Special: Throws fireballs
+High priests for Wersin, nekrodaemons are among his most
+trusted servants. He has given them the ability to focus his
+anger into a fiery sphere to strike down his foes.
+Wraith
+Points: 300
+Special: Invisible until active
+These lost souls are forever cursed to roam the world.
+Called upon by Wersin, they lay in hiding to watch his
+enemies with unseen eyes. What you don't see can kill you.
+Nowhere is safe from their presence.
+Slug
+Points: 300
+Special: Throws axes that cause temporary slowness
+So called not due to being slow to act, but due to being
+powerful. When he's too far away to strike you with his axe,
+he throws it in hopes of slowing you down.
+
+Page 14
+
+Paishkyn
+Points: 500
+Special: Throws fireballs
+Possibly an incantation gone wrong, this humanoid fish
+lurks in the shadowy depths. Some strange magic has given
+them the ability to produce a flame beneath water, so watch
+out!
+Web Lord
+Points: 200
+Special: Throws webbing and fireballs
+When the araknemons were awakened, so was their master.
+He directs their actions through his antennae. Destroying
+him should send them into disarray. Right?!?
+Wyvern
+Points: 300
+Special: Throws fireballs
+Wyverns have plagued mankind's existence for centuries.
+With a heart filled with the desire to inflict pain and
+suffering, they hunt their prey with a vigilance that is
+astounding.
+Reccah
+Points: 500
+Special: Shoots twin fireballs
+An apparition of peculiar circumstances, the reccah are
+beings who glide through the air using an unknown force.
+Be wary of them, however, because looks can kill.
+
+Page 15
+
+Orcus
+Points: 15000
+Special: Almost invincible and brutally strong, but does not
+count toward kills
+Though extremely slow, this brute should not be taken
+lightly because he's unbelievably strong. His step might be
+slow, but he's quick to smash out your innards if you get too
+close. It's best not to worry about killing him. More thought
+should be given to escaping him!
+BOSSES
+Wersin has selected five top commanders to help him organize his assault
+on humanity.
+Zaehylos
+Points: 5000
+Special: Throws crushing hammers
+This colossus guards the entrance (and exit) to the dungeon
+and torture chambers found below Wersin's demonic
+cathedral.
+Mallus
+Points: 5000
+Special: Shoots fireballs
+The ancient myths mention a demonic being known as
+Mallus, the visage of Wersin in the overworld. These myths
+also mention many live sacrifices performed in his name.
+Dreko
+Points: 5000
+Special: Shoots fireballs and electricity
+Dreko commands of Wersin's army in the overworld.
+Page 16
+
+Yserbnira
+Points: 5000
+Special: Shoots fireballs
+Known as the Watcher of the Forest, Yserbnira resides in
+one of the fortresses of the underworld.
+
+Somondre
+Points: 5000
+Special: Shoots fireballs
+Somondre is the guardian of the forest who calls upon the
+spirits of fallen demons to rise for service in Wersin's
+armies.
+Wersin
+Points: 10000
+Special: Unknown
+Not much is known about Wersin's physical manifestation
+because nobody has survived his presence.
+OTHER CHARACTERS
+You'll also find these characters in Wersin's domain.
+Note: Killing these creatures is not beneficial in any way. It can even be
+detrimental to do so.
+Rats
+Though they may be annoying and they might get in the way
+at times, they are simply rats. They hold no allegiance to
+Wersin, so you have no need to fear them.
+Page 17
+
+Monks
+These beings care nothing about war and try to keep their
+minds focused on the worship of Wersin and his demons.
+Just because they won't attack you, doesn't mean you should
+bother them very much.
+Ferox
+Some monks have been blessed by Mallus and granted life
+after death. The ferox believes in one thing: vengeance.
+Woe unto those who have to battle these foul beasts.
+HINTS
+It is wise to use the mace to take out enemies as much as possible. Some
+scenes lack mana to replace your magic points.
+Avoid the orcus! You cannot kill him with your might or magic.
+Avoid killing monks. They can block your path, but killing them
+sometimes unleashes the ferox!
+When going under water, You should grab any mermaid artefacts you see.
+Some scenes, however, require you to enter the water several times, so it
+might be good to leave some if you can.
+Being invincible, invisible, or able to breath under water are temporary
+effects. However, these effects are also cumulative. If you have 10
+seconds of invisibility remaining when you grab an invisibility ring, 30
+seconds are added to the 10 you already have.
+Learn how to use the inflictor for long distance shots. Unlike your other
+weapons, the damage it causes does not lessen due to the distance.
+Page 18
+
+Save your game before ending a scene. Some scenes have more than one
+exit, each leading to a different scene. Some scenes are harder than others
+so if you are stuck in one scene, you might try going back and choosing a
+different exit.
+If you are lost and can't find the way out, retrace your steps. Wersin's
+domain is ever-changing and the area you just left can be very different
+when you return.
+SPECIAL FEATURES
+Orb of Dilaaria includes many changes and improvements to the original
+Wolfenstein 3-D code.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Multi-textured floors and ceilings.
+Pain-inflicting slime and lava floors.
+Projectile weapons.
+Teleportation within a map.
+Multiple game paths.
+Doors that open in the middle.
+Guard reinforcements.
+Morphing maps.
+Sounds that are triggered depending on the player's progress.
+Readable books and tombstones.
+Several bug fixes to the original engine.
+Distance shading.
+Underwater/under lava effects.
+Over 20 different character types, each with its own special abilities.
+Outdoor and indoor areas in the same scene.
+Earthquakes.
+
+Page 19
+
+CHEAT CODES
+To use the cheat, or debug, codes, you'll have to make a small change to
+the dosboxOrbOfDilaaria.conf file in the game's install folder. Open the
+file in a text editor, scroll down to the [autoexec] section at the bottom,
+and type... HEY! WAIT A MINUTE! I'M NOT GOING TO TELL YOU
+HOW TO CHEAT!
+TRIVIA
+The building in the title screen is from a picture Adam took of the Biserica
+Neagra (Black Church) in Brasov, Romania. The church received its name
+due to a great fire in 1689 that blackened its outer walls.
+Orb of Dilaaria started as a total conversion with no code changes, but that
+soon changed.
+The Death Wand was originally a sword that could shoot magic in rapid
+succession and the mace was a jagged bone shard.
+The original idea for the game was written down on June 11, 2003 under
+the title of "Dungeon of Destiny". The game was also called "Orb of
+Madjik" for a short time.
+The game was envisioned, written, rewritten, tested, and released in
+exactly three years.
+At one point during development, the game had six additional guard types
+and the bosses were directional (not just front-facing).
+The monks are speaking Romanian.
+
+Page 20
+
+ODDS 'N ENDS
+Touchplates
+Wersin has cast strange spells over his possessions. Some to
+bring death upon his enemies, others to confuse them.
+Beware of what evil may be unlocked by stepping on a touchplate.
+Special Floor Colors
+If you have textured flats disabled, you will notice that there are some
+special floor colors to help you know what is happening.
+Red
+Green
+Blue
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+Lava
+Slime
+Touchplate
+
+Page 21
+
+TROUBLESHOOTING
+This section pertains to running the game in DOSBox.
+Sound is choppy OR game play is not smooth.
+Be sure that all other Windows applications are closed. DOSBox can be
+resource-intensive. If no other applications are open, try lowering or
+increasing the DOSBox CPU cycles.
+Inflictor bolts do not appear when firing at something nearby.
+If the game is running at a low frame rate, the bolts might move to quickly
+to appear on the screen when firing at something very close to you. Even
+though they might not appear, they will still damage enemies.
+There's no sound (the Sound Blaster was not detected).
+Occasionally DOSBox seems to cause the game to not detect the Sound
+Blaster. Exit and restart until the game detects it and turn on the sound
+again.
+
+Note
+A Game Setup application is available in the game's start menu and
+installation folder. This application provides easy access to some of
+DOSBox's settings. If you are familiar with editing DOSBox CONF files,
+feel free to try changing other settings in the dosboxOrbOfDilaaria.conf
+file in game's install folder.
+Page 22
+
+THANKS
+Initial thanks go to id Software for creating Wolfenstein 3-D and many
+other great games as well as releasing the source code and allowing others
+to modify it.
+The Team
+Adam Biser – concept, story, coding, music composition, and a few maps
+Majik Monkee – tweaking boss and guard graphics
+Ringman – most of the wall, floor, ceiling, and object graphics
+Ack – map maker extraordinaire plus some graphic and sound offerings
+Arielus – testing, perspective, and suggestions
+AReyeP – testing, perspective, and suggestions
+Liza Walley – testing, perspective, and suggestions
+Mirela – providing the text and voice for the monks
+Everyone was a tremendous help. I could not have hoped for a better
+team!
+Additional graphic, sound, and inspirational sources:
+•
+•
+•
+•
+•
+•
+•
+
+The ZDoom Monster Resource WAD
+Doom, Doom II, Quake by id Software
+Heretic, Hexen by Ravensoft
+Blood by Monolith
+Witchaven by Capstone
+PowerSlave by Lobotomy Software
+Arthur's Quest by ValuSoft
+
+Page 23
+
+COMMAND KEY QUICK REFERENCE
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+
+Help
+Save game
+Load game
+Sound menu
+Resize view window
+Controls menu
+End the current game
+Quick save
+Quick load
+Exit the program
+Display the current map's name
+Take a screenshot
+
+CONTACT
+Questions or comments? Email them to winwolf3d@gmail.com.
+Websites:
+http://winwolf3d.dugtrio17.com
+http://orb.moddb.com
+https://www.facebook.com/OrbOfDilaaria
+
+Page 24
+
+VERSION HISTORY
+• Version 1.00
+June 11, 2006
+• Version 1.01
+June 12, 2006
+◦ Games saved while a pushwall is in motion will load correctly.
+• Version 1.02
+July 7, 2006
+◦ Fixed a few levels that would have a "Hall of Mirrors" effect when
+parallaxing skies were disabled.
+◦ The player can no longer escape the sentries by staying in corners.
+◦ Tweaked shading a bit.
+◦ Changed Paishkyn's unshaded attack frame.
+◦ Fixed upper bound for map amount for various checks.
+◦ Should no longer crash if the message text doesn't load correctly.
+◦ Destroyed walls receive a floor code when loading a saved game.
+◦ 200B errors now report the map x and y of the error.
+• Version 1.03
+July 10, 2006
+◦ Added dot beside 's' in score on high score screen.
+◦ Fixed maps 33 and 63.
+◦ Enhanced Wersin's graphics.
+• Version 1.04
+June 16, 2011
+◦ Added this PDF manual.
+◦ Bundled with DOSBox 0.74.
+◦ Shortcuts are set up making it easier to play on newer systems.
+◦ Fixed the DOSBox/Inflictor bolt problem.
+• Version 1.05
+June 5, 2017
+◦ Fixed upper bound for map amount for various checks. This bug allowed
+the player to exit "Subterfuge" and go to "Looking Glass" instead of "The
+Unholy" as it should. Probably broken since v1.02.
+◦ Fixed a reinforcement tag so a guard spawns correctly in "Devil's Library"
+allowing the player to get 100% kills.
+◦ Changed a few ceiling tiles to open sky in "The Unholy".
+◦ Corrected some book text.
+◦ Reworded the bestiary text for the Warrior.
+• Version 1.06
+November 14, 2017
+◦ Fixed potential DestroyWall error in "The Roaring Silence".
+
+Page 25
+
+

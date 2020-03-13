@@ -1,0 +1,215 @@
+SaveGam?.* Editor
+Achtung: poor English inside
+
+Concept
+
+	Special map creation. Hidden engine features.
+
+Glossary
+
+	SObj or Thing. Static object, like a lamp or an ammo clip. Brick (cell) coordinates.
+
+	MObj or Object. Moveable object, like Nazi (alive or dead). Accurate coords.
+
+Interface
+
+
+ 1) Visspot 0 ptr points to "visspot" table start. If SObj 0 has correct "visspot", 
+it can be autodetected. So don't use SObj slot 0 for single-sided things [33].
+ 2) Obj ptr points to MObj. Obj ptrs are on map and points to corresponding MObjes. 
+This one points to Mobj0 and can be autodetected if MObj0 (player) has no Obj Ptr 
+on map (standard condition) and MObj1has Obj Ptr on map (std cond too).
+ 3) Thing ptr points to SObj. This one points to SObj0, or Thing table start. It 
+can't be autodetected, but can be guessed if you know the map. If some things has 
+appeared right from nowhere or some things disappeared -- it's incorrect.
+ -) Note. Incorrect data format in some spinboxes makes them red. This feature works 
+only when SaveGam?.* is loaded (and not corrupted).
+ 4) Things table size.
+ 5) Sound area (floor) tiles starts from tile 107 for all Wolf versions. But some 
+add-ons may have a different value here.
+ 6) Total number of sound areas. 37 for Wolf, add-ons may have a different number.
+
+ 7) Number of common (non-secret and non-boss) levels per episode. Required for ratios 
+history (secret and boss levels has no ratios). Note: some Spear versions has size 
+8 like Wolf3D. It's id Software's bug and causes incorrect averages.
+ 8) Total levels per episode. Required for loading "unchangeables"from gamemaps.*/maphead.*.
+
+ 9) Map (SaveGam?.*) loading. Set a correct format before.
+ 10) Map saving. Sometimes you can convert your map into a different format by changing 
+it before you save the map. It's hard to do.
+ 11) Map has some layers: "unchangeables", Walls, Things, Objects and Doors. "Unchangeables" 
+are Floors, Turning Points, Pushwalls, Episode Exits etc. You can't edit them -- 
+SaveGam?.* contains none of that. It's loaded from original gamemaps.*/maphead.* 
+as a hint only.
+ Walls has two sub-layers: Look and Obstacle. Look is a tile graphics number, 0 for 
+noting (air :) ), 1..63 for walls, 64+tile num for door rails, 128+door num for doors, 
+192+tile num for pushwalls. Obstacles are: 0 for none (can be used with non-zero 
+Look for passable walls/curtains), 1 for Thing (like well), 1..63 for wall tile (note 
+"1" uses for both), 128..191 for doors, big values (MObj0 ptr and above) for Obj 
+ptrs.
+ Things is not 64x64 array, but a list. So they can not be drawn/erased, but can 
+be added/deleted. Ptr to 0 = table start, ptr to last = table end.
+ Objects are like Things, but table end is given by special marker: "active=-1", 
+not by last Obj ptr.
+ Doors layer contains 64 doors. Doors with higher numbers (which didn't present on 
+original map) doesn't work correctly. That "dead" doors can be used as a decoration.
+
+ a) Color represents Obstacle sub-layer. This one is a "glass wall".
+ b) Two letters represents Look. This one is the Landscape. Small letters means "door 
+rail" (65..127). Digits means doors (0..63 for common, 64..127 for secret (or Pushwall)).
+
+ -) Left click draws wall, right picks up an example.
+ c) Border color represents "unchangeable" Floor. If there is no border, floor number 
+is incorrect (negative).
+ d) "Half-Arrow" means "unchangeable" Turning Point for patrols. You can use it, 
+for example, for level time limits: patroller walks to some door, opens it and releases 
+something TERRIBLE %)
+ e) Wide "=" means "unchangeable" Pushwall marker.
+ f) Squares represents Things (color represents sprite number). Left click selects 
+(white), second left-click detaches (blue), third attaches back. Middle-click deletes 
+or clones selected one. Visspot Ptr is auto-updated when you drag or clone Thing.
+
+ g) Circles represents Objects. Color represents Object Type (Hans, SA, SS, fireball 
+etc). All valid MObj Ptrs on the map has "rubberbands" to it's center. It has the 
+same behavior. When you clone it, it has it's coords aligned to cell center and "floor" 
+parameter auto-updated (if new floor is valid). Also new Ptr is created in the same 
+cell.
+ h) This small keyhole is a Door. It can not be deleted or created. Wall Look "door" 
+controls it, but passage opens by this "keyhole". So you can create a remote-controlled 
+doors etc.
+ 12) Name (in the game menu).
+ 13) Skill level (0..3), for some add-ons m.b. 4 or above.
+ 14) Episode.
+ 15) Level number. Level goes to next episode if it's too big, and you can use it. 
+Note level becomes secret (w/o ratios) in this case. "Refresh" button reloads "unchangeables".
+
+ 16) Lives. 0 in most cases because you have only one chance to pass a level: death 
+reloads original one, not your SaveGam?.*. Negative values compensates extra life 
+spheres.
+ 17) Score when level was started. This value becomes your score if you die[16].
+
+ 18) Score.
+ 19) Score to get for extra life. In most cases, it's a bit higher when maximim level 
+score [16]. You can not get an extra life during the level, but bonuses for good 
+completion gives you one. But it can be also used for "Doom 1 Ep.1 style" levels: 
+you get 1 extra life and you die. Then you can pass the original level.
+ 20) Health. May be a bit higher when 100%, but big values corrupts status bar (face). 
+Any health bonus you take drops it to 100 :(
+ 21) Ammoooooooooo!!!!! :)))
+ 22) Keys. Silver, Golden and extra. All std. Wolf/Spear versions has four (not two!) 
+keys, but only 2 has status bar icons. 5th..15th are for add-ons only.
+ 23) Weapons. Best (stupid arcade style, if you have N4 you have N3 too), Current, 
+Selected (may differ with Current if no ammo. If you get some ammo Current becomes 
+the same as Selected).
+ 24) Face. Has a very short life, but usable for some scenario effects like "BJ is 
+shocked with level look" at the level start.
+ 25) Veeery special settings. Left 3 can be used for special weapon status (for example, 
+level starts with firing pistol and falling Nazi). Right 3 is for the DeathCam (tm), 
+an arcade-styled id invention. It's almost unusable ("watch a last cinematic" and 
+"play a level" can't live together), but I hope somebody will discover some new features 
+here.
+ 26) Ratios. Wasted time, enemies total/killed, secrets total/found, gold total/stolen.
+
+ 27) Ratios history. Levels and their time/ratios, this time %, not "total and reached".
+
+ 28) Wall drawing (Look). "Pen down", wall number, two buttons for fast +- 64/128 
+(wall turns into a door rail, a door, a pushwall...)
+ 29) Wall drawing (Obstacle). "Pen down", obstacle number (auto-updates when Look 
+changes for some traditional conditions and door Looks).
+ 30) Last thing ptr and things/objects counters. You can use it to create/delete 
+things manually, not by cloning[38].
+ 31) Thing selector. The same as Thing clicking.
+ 32) Visual appearence selector. You can create a Hitler statue or a key looking 
+like a table (put another table into the same cell to give that table stealing an 
+innocent look).
+ 33) [1] Auto-updated when "AUTO" was clicked or thing was dragged/cloned. Points 
+to "visibility point" which must correspond the Thing location (cell). Thing is visible 
+only when "visibility point" is in the FOV. U can use this: if u place "visibility 
+point" at a wall, thing becomes "single-sided". From one side, when that wall is 
+in front of you, it's visible, from another side, when that wall is behind you, thing 
+is invisible.
+ 34) This spinboxes moves selected Thing. Like dragging, but no auto-updates. Drag 
+a thing into desired "visibility point", then move it into desired cell by this spinboxes.
+
+ 35) Bonus type. This value determines what you get when taking a Thing. You can 
+pick up everything having "Bonus" flag set. You can create a vase full of healing 
+elixire or can create a root giving your nothing (but that root disappeares, so it 
+looks like you pulled it off and destroyed it by the way).
+ 36) Flags. Same for both MObj and SObj, Flags has a border showing you are currently 
+edit MObj flags or SObj flags. Unlike Doom Thing flags, not all Flags works for both 
+T&O. Only Thing can be Bonus, only Obj can be Shootable etc.
+ 37) Object selector. The same as Object clicking.
+ 38) Activity marker. Inactive Objects waits for BJ, active patrols some area or 
+chasing him. "-1" means this is not an obect -- this is an end marker.
+ 39) Tick counter. Counts the time when obj proceedes from frame to frame.
+ 40) Obj type. Player, SA, SS, Hans etc. Player is at beginning (Obj0) and has no 
+Obj ptr on map. Maybe you can create come interesting effects by breaking that rules.
+
+ 41) Current frame. Running, lying dead, shooting... some frames turns into another 
+frames (a step turning into another one when running), some stays forever (dead Nazi 
+never moves). You can create a cheating "dead" foe by setting the frame to "lying 
+dead" for alive enemy (it will not move until you hit him), or create a werewolf 
+by setting the frame to "standing soldier" for the dog (the SA will turn into a dog 
+when awaken, than chase you). Extract all needed frame numbers from saved games.
+
+ 42) Distance to next cell center when walking. Negative values means waiting for 
+the door to open. If MObj is in the center, Distance=0. So be it :) But it may keep 
+some interesting effects like "drunk soldier can't walk into a door hitting left 
+and right walls". Didn't tried.
+ 43) Direction: LRUD, diagonal and "Stop and look around". For brainless critters 
+only.
+ 44) Floor number. This value (not a real location) determines sound area number 
+for the standing MObj. Walking one will refresh that parameter sooner or later.
+ 45) Cell coords. "->" button alignes MObj to this coords (cell center). Spinboxes 
+is the only way to place Mobj/SObj outside the 0..63 coords limit, making the "loop 
+maps".
+ 46) Accurate coords.
+ 47, 48, 49) Rendering data. They seemed to be auto-refreshed by the engine, so I 
+never change them.
+ 50) Angle. For player only, not for brainless critters. [43]
+ 51) Health. For brainless critters only, too.
+ 52) Speed. Very usable, you can make monsters and dogs run like hell!
+ 53) Unused. But some add-ons may use this fields.
+ 54) Ptrs to prev and next MObj. They are saved by Wolf engine, but it never loads 
+them. Maybe some add-ons...
+ 55) Door selector. Like clicking keyholes.
+ 56) Door coords. May be used for finding which door was selected. I didn't make 
+selected door white (sorry).
+ 57) Angle. Orig. horz or vert only, IDK about add-ons. It affects only (?)  joining 
+the sound areas when door opens. Upper-lower or left-right. AFAIK if one of that 
+areas is invalid ("no border" negative), Wolf looks for next and next etc.
+ 58) Door lock. 0 for none, 1..4 for standard Wolf, 5 for Lift (no key but different 
+graph), others kills renderer.
+ 59) Condition. Closed, opened, moving.
+ 60) How much time the door is staying open. Maybe it's a good time to start closing? 
+:)
+ 61) Door position. You can turn any "dead" (non-working with high number) door into 
+a nice decoration.
+ 62) Pushwall status. Passed so far by the brick.
+ 63) There is only 1 pushwall in the engine. It "teleports" to position of currently 
+opening pushwall. That's it's coordinates.
+ 64) Moving direction.
+ 65) Current position in the cell. 0 = didn't move, 63 = deepest. When pushwall is 
+opening, it changes from 0 to 63, then again (in the next cell), and finally stays 
+63. So you can make a nishe in the wall even if there is no room for it by placing 
+192+tile number Wall Look. But there must be no secrets nearby: if they start moving, 
+your fake nishe will move too.
+ U can use this motion for the "Landscape" tile for making a "moving" level (train, 
+ship).
+ 66) Floor number (sound area) selector.
+ 67) Flag: does everyone at that location hear you? Sometime becomes filled with 
+"1" due to some ptr error :(
+ 68) Floor list with connection status. 0 means this floor is not joined with selected 
+[66], 1 -- there is one door opened between them, 2 -- two doors etc.
+
+So...
+
+ Special effects must be used with caution. Work step-by-step and investigate any 
+bug or strange behavior like Holmes. Incorrect pointer values can cause any error 
+of any kind %)
+ There are two big ways to use this editor. First one is making a big game add-on 
+with common maps (containing some hidden stuff for further use with SGE) and a pack 
+of special levels in SaveFam?.* format. Second is to create a "saved from nowhere" 
+levels for the original game, a pack of special levels for WL6 or SoD.
+ There is both kinds of demo levels coming with the SGE.
+Nickolay Korroveen

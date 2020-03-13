@@ -1,0 +1,97 @@
+^P 
+^C7d THE FINAL FIGHT 
+A James Shain Production
+
+^C2b STORYLINE
+
+^C00 To be completed. ^G50,200,3
+^P
+ 
+^C00 To be completed. ^G25,192,4
+^P 
+
+^C00 To be completed. 
+^P 
+
+^C00 To be completed.
+^P 
+^G20,20,43
+
+^C00 To be completed.
+^P 
+
+^C00 To be completed.
+^P 
+
+^C84 LEVEL GUIDE 
+
+^C6a LEVELS 1-10
+^G24,257,30
+^C00 Based on the original Final Fight levels made by James Shain,  these levels 
+have since been heavily modified. 
+^P 
+
+^C6a LEVELS 11 - 50
+
+^C00 These started out as creator levels, but have since been heavily modified by 
+Schabbs. Some are completely new. 
+^P 
+
+^C6a LEVELS 51 - 60
+
+^C00 These levels were also originally creator levels but have since been heavily 
+modified by ack. The Boss level is completely new.
+
+^P 
+
+^C84 HINTS AND TIPS
+
+^C00 Some levels on episode one need pushwalls  opened to complete them. Usually 
+they are obvious, like a portrait for instance, but sometimes they are more difficult 
+to find.
+
+
+^P
+
+^C84 HOW DID WE MAKE THIS MOD?
+
+^C00 Tools used:
+
+MapEdit v7.2/Mapedit v8.4
+FloEdit II
+ChaosEdit
+WDC
+BC31
+^P 
+
+^C6a CREDITS 
+
+^C00 Thanks to ack and Schabbs for their help with  the levels.
+
+And thanks to WLHack and Airslide for their graphics contributions. Also, to Eric 
+Lin for hosting the Wolf3D Haven forum, which brought so many people together to 
+work on this mod. 
+^P 
+
+^C6a MORE CREDITS 
+
+^C00 Thanks to drchainsaw and others who beta tested the levels.
+
+Thanks to the Dome for providing the coding tutorials, especially Parafriction's 
+Helpart tutorial.
+
+And for the last, thanks to id Software for making Wolfenstein 3D and for providing 
+the source code. Without them and their game, we'd have no addons.
+^P 
+
+
+
+
+^C6a CONTACT
+^G55,190,5
+
+^C2b You can mail me at 
+^C2c example@globalnet.co.uk 
+
+^C00 Thanks for playing!
+^E

@@ -1,0 +1,13 @@
+DEAD WORLD RISING 2 Release Notes
+
+February 2004- Demo Version (V1.0) released.  Completed Episode One.
+
+April 15th 2004- V1.1 released.  Changed various sound effects, Imp Death animation, 
+Demon wall. Completed Episode Two.
+
+April 28th 2004- Fixed E2M5 level bug.
+
+May 1st- Changed Assault Rifle animation.  Added several new sounds, and revised 
+old ones.
+
+May 4th- Fixed E2M1 level mistake.  Didn't even notice that one before.

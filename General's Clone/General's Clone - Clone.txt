@@ -1,0 +1,71 @@
+
+
+			Wolf 3d Add-on by Kyle
+
+I suck at level design so you can make your own when I release the editor files.
+
+Some keys can be hidden in secert passages so it could be harder.
+This is an easy set.
+
+
+=====================
+=Source Code Changes=
+=====================
+I did the changes a 11 year old i know
+Here they are:
+
+200 heath(you can get 200% with regluar heatlh items)
+150 ammo
+2 keys added
+MLI cheat changed
+No Clipping Renabled
+Debug code changed
+All deathcams removed
+Do Not Distrubute Sign removed
+SS drops machine gun everytime killed
+Tab K added and tab Z added
+Music changed
+Ceiling colors changed
+Some PACMAN ghosts are changed(don't move or kill)
+25 ammo box from SPEAR added.
+Secert Level now accessed from a different level
+I can't remember them all.
+I just made tiny minor changes i'm not fimilar with the code. (It's my first time)
+
+This game should be easy
+(Some levels i got carried away with gurads and there might be a lot.)
+
+=================
+=Graphics/Sounds=
+=================
+
+Minor Grpahics changes
+
+Sounds include guard saying "HEY"
+and other crap.
+
+
+I know my levels suck so forgive me.
+
+
+
+=========
+=Contact=
+=========
+
+email me at Wolf3dkyle@aol.com
+for the help i asked for anything else.
+
+
+====================
+=I want to know how=
+====================
+
+how to add a new sprite in the engine(i can't understand some tutorails)
+how to include spear music in wolf3d (like funky conel bill)
+if u know how to any of these things email me plz.
+
+If any mistake in the game, email me at Wolf3dkyle@aol.com       Thanks!
+
+
+

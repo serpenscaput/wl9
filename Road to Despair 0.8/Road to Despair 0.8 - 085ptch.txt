@@ -1,0 +1,7 @@
+The Road to Despair v0.85 Graphics Patch
+
+Contains:
+Status bar based on the original PT one
+Modified versions of the Tekkoudan status bar numbers
+Pistol from Blake Stone: Planet Strike
+A special surprise for hackers :)

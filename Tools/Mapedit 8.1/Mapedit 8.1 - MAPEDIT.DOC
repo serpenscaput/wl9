@@ -1,0 +1,2528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    MAPEDIT
+
+                                  Version 8.1
+
+                Wolf3-D/Spear of Destiny/Blake Stone Map Editor
+                -----------------------------------------------
+                 By Bryan Baker - David Huntoon - Warren Buss
+
+                               Copyright (C) 1994
+
+            Mapedit is based on an original program of the same name
+                                       by
+                                   Bill Kirby
+                                   ----------
+       
+
+                    *****NOTICE*****NOTICE*****NOTICE*****
+
+
+       The Map Editor supports ONLY registered games of Wolfenstein(tm),
+       Spear of Destiny(tm) and Blake Stone(tm). It will neither read nor
+       write game maps intended for use with a shareware game. If you have
+       problems with any floors produced using MAPEDIT, do NOT contact
+       either Apogee Software's Technical Support or Hints staff,  Id
+       Software, FormGen Corp., or JAM Productions. They are not
+       responsible for this editor or its products. Nor do they support
+       them. Please contact one of the authors if you have problems with
+       MAPEDIT.
+
+       Also, if you produce floors that you place in the public domain, be
+       sure they carry a notice that users should not contact any of the
+       above named companies for help.
+
+       It is not unusual for a "home-grown" floor design to cause problems
+       when it is part of a game. That is, a game engine may produce one
+       or more error messages if it finds something in the floor that it
+       doesn't like. Most messages from any of these games urge the player
+       to contact one of the above companies and report the problem.
+       IGNORE all such messages and contact one of the authors of MAPEDIT
+       if you receive any of these error messages.
+
+       To avoid most problems, test all your floor designs thoroughly at
+       all skill levels. If possible, have a friend test them also if you
+       intend to release your designs into the public domain.
+
+                                   ---------
+
+       Wolfenstein & Spear of Destiny are trademarks of Id Software
+       Blake Stone is a trademark of Jam Productions and Apogee Software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -ii-
+       
+                                FREEWARE NOTICE
+
+       This program is Freeware. No part of the MAPEDIT program or the
+       accompanying documentation may distributed for compensation (except
+       for a copying cost and the price of a disk). MAPEDIT may only be
+       distributed in its original form -- complete, intact, and
+       unaltered.
+
+                              LIMITS OF LIABILITY
+
+       MAPEDIT is distributed as-is. the authors disclaim all warranties
+       expressed or implied. The authors will assume no liability for
+       damages either from the direct use of this product or as a
+       consequence of the use of this product.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -iii-
+       
+                       WOLF3D and SOD Versus BLAKE STONE
+
+       Blake Stone maps contain a number of unique features that do not
+       exist in either WOLF3D or Spear of Destiny. These features are
+       supported by MAPEDIT for Blake Stone only and are thus unavailable
+       when a WOLF3D or SoD game is being edited. The functions of the
+       editor that support the unique features of Blake Stone are
+       explained separately in this document. WOLF3D and SoD designers
+       need not read the Blake Stone section. See the companion document
+       BSTONE.DOC for explanations of what the Blake Stone features are.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -iv-
+       
+                              *******************
+                                  QUICK START
+                              *******************
+
+                !!!  IMPORTANT  WARNING  !!!  IMPORTANT WARNING
+                -----------------------------------------------
+                  Be sure you have backup copies of your map
+                         files prior to using MAPEDIT.
+                -----------------------------------------------
+                !!!  IMPORTANT  WARNING  !!!  IMPORTANT WARNING
+
+    |  To use MapEdit, place all MAPEDIT associated files (see the
+    |  MANIFEST file) in a directory separate from where the game is you
+    |  want to edit. Use SETUP to modify MAPEDIT.INI to supply the name
+    |  of the directory where the game is. Type MAPEDIT to start the
+    |  editor.
+
+       A swap directory is required for temporary use during execution of
+       MAPEDIT. MAPEDIT will prompt you for a drive letter on which to
+       place this directory. Either an uncompressed drive that is being
+       cached or a RAM disk is recommended.  See the note below for swap
+       size requirements, optimization suggestions, and potential clean-up
+       problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       -v-
+       
+                               Table of Contents
+
+       NOTICE . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+
+       FREEWARE NOTICE. . . . . . . . . . . . . . . . . . . . . . . .iii
+
+       LIMITS OF LIABILITY. . . . . . . . . . . . . . . . . . . . . .iii
+
+       WOLF3D and SOD Versus BLAKE STONE. . . . . . . . . . . . . . . iv
+
+       QUICK START. . . . . . . . . . . . . . . . . . . . . . . . . .  v
+
+       BASIC MAPEDIT REQUIREMENTS . . . . . . . . . . . . . . . . . .  9
+            Required Files. . . . . . . . . . . . . . . . . . . . . .  9
+            Data Definition Files . . . . . . . . . . . . . . . . . .  9
+            Game Files. . . . . . . . . . . . . . . . . . . . . . . .  9
+
+       Mapedit Swap Space . . . . . . . . . . . . . . . . . . . . . . 10
+
+       HOW MAPEDIT OPERATES . . . . . . . . . . . . . . . . . . . . . 11
+
+       HELP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+       Semantics. . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+       Loading MAPEDIT. . . . . . . . . . . . . . . . . . . . . . . . 12
+
+       Map & Legend Windows . . . . . . . . . . . . . . . . . . . . . 12
+
+       Window Borders . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+       Selecting a Floor Map to Edit. . . . . . . . . . . . . . . . . 13
+
+       Map Window Details . . . . . . . . . . . . . . . . . . . . . . 14
+
+       Mouse Use in the Map Window. . . . . . . . . . . . . . . . . . 14
+
+       Selecting a Definition For Either Mouse Button . . . . . . . . 14
+
+       Inserting an Item on the Map . . . . . . . . . . . . . . . . . 14
+
+       Removing an Item from the Map. . . . . . . . . . . . . . . . . 15
+
+       Changing Multiple Items of One Type. . . . . . . . . . . . . . 15
+
+       Clearing the Map Window. . . . . . . . . . . . . . . . . . . . 15
+
+       Drawing Mode - Rubber Banding. . . . . . . . . . . . . . . . . 15
+
+       Drawing Mode - Freehand. . . . . . . . . . . . . . . . . . . . 16
+       
+       Grab (Copy) and Paste Function . . . . . . . . . . . . . . . . 16
+            Initiating the Grab . . . . . . . . . . . . . . . . . . . 17
+            Initiating a Normal Paste Operation . . . . . . . . . . . 17
+            Rotate & Mirror Functions . . . . . . . . . . . . . . . . 17
+            Initiating a Paste & Exchange Operation . . . . . . . . . 18
+            Summarizing Control Keys. . . . . . . . . . . . . . . . . 18
+            Other Grab & Paste Notes. . . . . . . . . . . . . . . . . 18
+
+       Viewing Objects Selectively. . . . . . . . . . . . . . . . . . 19
+
+       Other Selective Viewing Option . . . . . . . . . . . . . . . . 19
+
+       Legend Window. . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+       Hot-Keys, Scrolling Keys & Toggle Keys . . . . . . . . . . . . 21
+
+       Hot-Keys . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+            C Command (Clear Map Window). . . . . . . . . . . . . . . 21
+            D Command (Load New Map and Obj Definition Files) . . . . 21
+            E Command (Exchanging floors) . . . . . . . . . . . . . . 21
+            G Command (Goto Level). . . . . . . . . . . . . . . . . . 22
+            M Command (Memorize Present Map). . . . . . . . . . . . . 22
+            N Command (Change the Name of the Current Level). . . . . 22
+            Q Command (Quit Mapedit). . . . . . . . . . . . . . . . . 22
+            R Command (Read/Import a Floor File from Disk to
+                 Clipboard) . . . . . . . . . . . . . . . . . . . . . 22
+            W Command (Write the Current Floor to Hard Disk). . . . . 22
+            Z Command (Set/Zap) floorcodes within room. . . . . . . . 22
+            Alt+Z Command (Similar to 'Z' Command - see above). . . . 23
+            Ctrl+F10 Command - Clear Guards from Current Floor. . . . 23
+            Alt+F10 Command - Clear All Objects from Current Floor. . 23
+
+       Toggle Keys. . . . . . . . . . . . . . . . . . . . . . . . . . 24
+            F Toggle (Toggle Floor data On and Off) . . . . . . . . . 24
+            H Toggle (Toggle Hex Mode on/off) . . . . . . . . . . . . 24
+            Alt+H Toggle (Toggle Item Hex Values On/Off). . . . . . . 24
+            L Toggle (Toggle LHV Display) - Blake Stone Only. . . . . 24
+            Alt+M Toggle (Toggle Map Data During Selective
+                 Viewing) . . . . . . . . . . . . . . . . . . . . . . 24
+            O Toggle (Toggle Object Data On/Off). . . . . . . . . . . 25
+            S Toggle (Toggle between Stats Display and Hot-key
+                 Display) . . . . . . . . . . . . . . . . . . . . . . 25
+            Alt+S Toggle (Display Count of Items in Legend Window). . 25
+            Spacebar Toggle (Toggle between Map and Object
+                 Legends) . . . . . . . . . . . . . . . . . . . . . . 25
+            Ctrl+Z Toggle (Toggle ZAP through Pushwalls on and
+                 off) . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+       Scrolling Keys . . . . . . . . . . . . . . . . . . . . . . . . 26
+       
+       Manipulating Maps. . . . . . . . . . . . . . . . . . . . . . . 27
+            E Command (Exchange Currently Displayed Floor With Floor
+                 Stored in Clipboard) . . . . . . . . . . . . . . . . 27
+            M Command (Copy/Memorize Floor to Clipboard). . . . . . . 27
+            R Command (Read/Import a Floor from Hard Disk to the
+                 Clipboard) . . . . . . . . . . . . . . . . . . . . . 27
+            T Command (Transfer a Floor from Clipboard to Current
+                 Level) . . . . . . . . . . . . . . . . . . . . . . . 28
+            W Command (Write/Export the Current Floor to Hard
+                 Disk). . . . . . . . . . . . . . . . . . . . . . . . 28
+
+       Statistics . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+       MAPEDIT.INI file . . . . . . . . . . . . . . . . . . . . . . . 30
+
+       EDITING FEATURES UNIQUE TO BLAKE STONE . . . . . . . . . . . . 31
+
+       Map Coordinates. . . . . . . . . . . . . . . . . . . . . . . . 31
+            Coordinates Vs. Objects . . . . . . . . . . . . . . . . . 31
+
+       FEATURE IMPLEMENTATIONS. . . . . . . . . . . . . . . . . . . . 32
+            Food Units. . . . . . . . . . . . . . . . . . . . . . . . 32
+            Automatic Doors . . . . . . . . . . . . . . . . . . . . . 32
+            Door Linkages (Pointers). . . . . . . . . . . . . . . . . 32
+            Teleporters . . . . . . . . . . . . . . . . . . . . . . . 33
+            Barriers and Barrier Switches . . . . . . . . . . . . . . 33
+            Bio Tech Messages . . . . . . . . . . . . . . . . . . . . 34
+            Time Delays . . . . . . . . . . . . . . . . . . . . . . . 34
+            Ceiling and Floor Textures. . . . . . . . . . . . . . . . 35
+            Ceiling and Floor Colors. . . . . . . . . . . . . . . . . 35
+
+       Using Multiple Push-Wall Codes . . . . . . . . . . . . . . . . 36
+
+       Other Error Conditions . . . . . . . . . . . . . . . . . . . . 36
+
+       Format of the Data Definition Files. . . . . . . . . . . . . . 37
+
+       Credits. . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+       Version History. . . . . . . . . . . . . . . . . . . . . . . . 47
+       
+       BASIC MAPEDIT REQUIREMENTS
+
+       Required Files
+
+       7 files (1 is optional) plus some temporary disk space for swapping
+       data, are required for MAPEDIT to operate. All files except 2 game
+       files must reside in the same directory, although not necessarily
+    |  in the directory of the game being edited. It is recommended that
+    |  you install all files in other than the game's directory. Use SETUP
+    |  to create/modify MAPEDIT.INI and tell MAPEDIT where the game's files
+    |  are located.
+
+       MAPEDIT.EXE (map editor program)
+
+       EGAVGA.BGI (required by editor for graphics)
+
+       Data Definition Files
+
+       MAPDATA.xxx + OBJDATA.xxx (default extensions are the same as
+                                  the game files)
+    |  The above 2 files are used to equate the numeric codes within
+    |  the game's Map files to graphic symbols for MAPEDIT to display in
+    |  the Map window. You may modify either data file if you choose.
+    |  See page 37 for an explanation of how the codes in these files are
+    |  constructed.
+
+       MAPEDIT.INI (Optional file)
+
+    |  SETUP.EXE
+
+    |  Creates/modifies MAPEDIT.INI. Run SETUP before using MAPEDIT the
+    |  the first time and any other time you want to change any of
+    |  MAPEDIT's default values. SETUP is a self-prompting program with
+    |  online help.
+
+       Game Files
+
+       There are 2 game files that contain the maps and pointers to all
+       the game's existing levels. The names are listed below. Be sure you
+       save copies of the original files BEFORE you use the editor the
+       first time as MAPEDIT reads and modifies these files.
+
+       WOLF3D & Spear of Destiny
+
+       MAPHEAD.xxx + GAMEMAPS.xxx
+       (xxx = WL3 or WL6 for WOLF3D)
+       (xxx = SOD for Spear of Destiny)
+
+       Blake Stone
+
+    |  MAPHEAD.BS6 + MAPTEMP.BS6
+
+
+                                       -9-
+       
+       Mapedit Swap Space
+
+       MAPEDIT requires temporary disk space to be available as a "swap
+       directory" during execution.  You will be prompted for a drive
+       letter to use for this swap space. (If you designate the drive
+       letter in the optional MAPEDIT.INI file, you will not be prompted).
+
+       If you're using a hard disk cache program such as SMARTDRV, for
+       example, then using an uncompressed drive will do very nicely. If
+       not, a RAM drive is a suitable alternative for this purpose. You
+       might want to try both to see which works best for you.
+
+       A subdirectory named MAPSWAP.DIR will be created on whatever drive
+       you specify. Assuming the program terminates normally, this
+       directory and all its contents will be deleted automatically. If
+       for any reason MAPEDIT aborts, it will still attempt to delete the
+       MAPSWAP.DIR directory and all its files. If unsuccessful, you will
+       have to manually remove all files within the directory, then remove
+       the directory from the drive you specified. The DOS command DELTREE
+       that is available with DOS Version 6 is an excellent tool for this.
+
+       The amount of disk space required in the subdirectory depends on
+       the complexity of the maps, and will vary as you make edits.  A
+       good rule of thumb is to have at least twice as much space
+       available as the size of the original GAMEMAPS.xxx (or MAPTEMP.xxx)
+       file.  (This usually will be about 600k to 700k bytes.)
+
+       When MAPEDIT is first started, all of the levels are read from the
+       GAMEMAPS/MAPTEMP file into the swap disk.  In addition, as you
+       scroll through the levels using the up and down arrow keys, levels
+       are swapped to and from disk.  Due to the inherent I/O time, it is
+       for this reason that we recommend you set up a RAM disk, and use a
+       subdirectory there as the swap dir.  This will eliminate disk
+       access except for the initial reading of the GAMEMAPS/MAPTEMP file
+       and saving the edited version upon quitting MAPEDIT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -10-
+       
+       HOW MAPEDIT OPERATES
+
+       Each of the 3 games that Mapedit processes contain a pair of files
+       that consist of all the floor maps in a game and pointers to each
+       floor in the map file. Mapedit reads these files (the pointer file
+       first), and writes the maps as individual floor files to temporary
+       disk storage where they are accessible to MAPEDIT during editing .
+
+       Game Map Pointer files for all three games have the name MAPHEAD.
+       The actual Game Map files are named GAMEMAPS for both WOLF3D and
+       SoD. The Game Map file for Blake Stone is named MAPTEMP.
+
+       During editing, floors can be exchanged with one another, or
+       replaced with other imported floors. Individual floors can also be
+       written (exported) to the hard disk using the 'W' (Write) command -
+       this is a COPY operation as the original floor being exported is
+       not erased. When a copy of a floor is exported to hard disk it
+       becomes independent of the original map file. It cannot be edited
+       or viewed again until it is imported to an existing game map file.
+
+       Existing floors can be imported to a Clipboard in MAPEDIT using the
+       'R' (Read) command for placement on any existing level within the
+       game being edited. From the Clipboard the floor must be Transferred
+       to some desired level before it can be viewed and edited. This
+       causes the original floor on the target level to be overlaid.
+
+       When you finish editing and are ready to quit MAPEDIT, you will be
+       prompted for whether you want to save any changes made during the
+       edit operation. If you reply YES, all floors on all levels are
+       rewritten to the game's map file. This replaces the original copy
+       of the map file.
+
+       Saving is not the same as writing (exporting) individual floors;
+       Saving saves all floors into one file; Writing creates a single
+       file consisting of one floor only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -11-
+       
+       HELP
+
+       Help while running MAPEDIT is available online by pressing either
+       F1, F2, or F3. F1 provides help with the keyboard. F2 displays help
+       with the mouse. And F3 is used to give help for the Large Hex
+       Values used in Blake Stone editing.
+
+       Semantics
+
+       For most, the terms LEVEL and FLOOR mean the same thing. However,
+    |  for this document they have distinctly different meanings. A LEVEL
+    |  is a fixed position within an episode or entire game. A FLOOR is a
+       unique map that resides in some LEVEL, but can be moved to another
+       LEVEL or written to disk for safe-keeping. Every LEVEL must contain
+       a FLOOR -- there are no "empty "LEVELS", only empty FLOORS. Each
+       LEVEL has a unique name. Within the structure of MAPEDIT it is also
+       assigned a unique number. BSTONE levels number from 0; WOLF3D and
+       SoD levels start with number 1.
+
+       Loading MAPEDIT
+
+       Upon loading MAPEDIT (by typing MAPEDIT on the DOS command line),
+       you will see a string of messages at the top of the screen which
+       will list all the map floors that are being loaded into the swap
+       drive. When this is complete, the screen will display the 1st floor
+       in the first episode/mission (level #1 in all 3 games).
+
+       Map & Legend Windows
+
+       The Map window occupies most of the screen. To the right of the map
+       is a Legend window. The legend shows the first screen full of
+       Mapdata definitions which have been read from the MAPDATA.xxx file.
+       The Objdata definition legend can be toggled onto the screen by
+    |  pressing the SpaceBar (or middle mouse button on a 3-button mouse).
+       Depending on whether you are viewing Map data or Object data, you
+       will be in either Map Mode or Object Mode. In Map mode, only map
+       items are selectable; in Object mode, only object items.
+
+       Underneath the Legend window is a small area that lists some Hot-
+       keys that you can press to initiate several different functions.
+       These are all discussed below in detail. The complete list of hot-
+       keys are also available in help screens by pressing F1 or F2.
+
+       Depending on where the mouse pointer is located, there are several
+       fields of information available directly under the Map Window. If
+       the mouse pointer is within the Map Window, the information below
+       it consists of 4 fields of information. (Note: if the mouse pointer
+       fails to appear in the Map window, press L-shift+R-shift to force
+       it on.) On the left are the data definitions currently assigned to
+       both the left and right mouse. To the right is the location (in
+       decimal) of where the mouse pointer is in the Map window. These are
+       column:row (or x:y) coordinates. To the right of the coordinates is
+
+                                      -12-
+       
+       the word "MAP:" followed by the name of the map item where the
+       mouse is pointing.
+
+       Directly underneath are optionally the same map coordinates, but in
+       hex this time - this hex value can be toggled on and off. Following
+       the optional hex coordinates is the word "OBJ:" followed by the
+       name of the object item where the mouse is pointing. (It is common
+       to have both an object and a map code exist in the same square).
+       NOTE: By pressing ALT+H, the words MAP: and  OBJ: will be toggled
+       off and be replaced by the codes of the items being pointed at by
+       the mouse. Pressing ALT+H again will cause the words MAP: and OBJ:
+       to reappear. The default for this can be controlled by a variable
+       in the optional MAPEDIT.INI file.
+
+       When the mouse pointer is outside the Map Window the coordinate
+       lines are replaced by 2 lines of different information. The top
+       line will indicate whether you are in Map Mode or Object Mode. The
+       line underneath will display the number and name of the level you
+       are currently viewing.
+
+    |  Window Borders
+
+    |  Both Map and Legend windows are enclosed within colored border
+    |  lines. When the borders are GREY, Mapedit is ready to accept any
+    |  command. When the borders are BLUE, Mapedit is busy and will not
+    |  accept any commands until the borders turn grey again. When the
+    |  borders are RED, Mapedit will not permit changes within the Map
+    |  Window. When the borders are YELLOW, a response is expected by
+    |  Mapedit. When the borders are GREEN, Mapedit is processing a Grab-
+    |  and-Paste request.
+
+       Selecting a Floor Map to Edit
+
+    |  Starting MAPEDIT with a numeric command line parameter will let you
+    |  start editing at that level. For example, MAPEDIT 25 will load
+    |  MAPEDIT and cause level 25 to be displayed.
+
+    |  After MAPEDIT is loaded you can use the Pgup/Pgdn keys to scroll
+       sequentially through the map levels until you locate the floor you
+       want to edit. When you reach the end of the available map levels,
+       the display will wrap around to the 1st/last map of the game
+       (depending on which direction you were scrolling).
+
+       To select any level without scrolling sequentially, use the "G"
+       (GoTo) hot-key to display a list of all the level numbers and names
+       in the Legend Window. Use the INS/DEL keys to single line scroll or
+       up/down arrow keys to page scroll through the list for the level
+       you want, then move the mouse pointer to the selected level and
+       click on the left mouse button.
+
+
+
+
+                                      -13-
+       
+       Map Window Details
+
+       A floor map is 64 by 64 squares, and as stated above, the map
+       consists of 2 basic ingredients: Map data (floors, walls, and
+       doors), and Object data (everything else). Both can be displayed
+       independently or all at once. Also Objects can be displayed
+       selectively instead of all at once. Object data is further defined
+       as being either Static (it doesn't move), or Active (it does move).
+       Active objects are mostly the actors (guards), but there are a few
+       other objects that are classed as Actives (Blake Stone game only).
+       See BSTONE.DOC for a complete discussion of Active Objects and
+       their effect on play.
+
+       By default, the floor codes are not visible when the editor is
+       first loaded. (The default can be changed by use of the optional
+       MAPEDIT.INI file - see below). In order to see them, you press the
+       F' hot-key which will toggle them on the screen. Since floor codes
+       and object codes often exist together, you may want to turn off the
+       object codes when viewing the floor codes. You can toggle them off
+       by pressing the 'O' hot-key. (Walls and doors normally remain
+       visible on the screen). Everything in the Map window is manipulated
+       using the mouse.
+
+       NOTE: From time-to-time, the Map Window will be redrawn on the
+       screen. If you do something that causes the redraw to stop before
+       it is complete, do not panic. Just press Pgup followed by Pgdn and
+       this time let it finish redrawing before proceeding.
+
+       Mouse Use in the Map Window
+
+       Since there are at least 2 buttons on every mouse, you can use the
+       left and right buttons to hold 2 different Map item codes or 2
+       different Object item codes, depending on the Legend mode you are
+       currently in. Both button values are displayed in the lower left
+       corner of the screen under the Map Window.
+
+       Selecting a Definition For Either Mouse Button
+
+       There are 2 ways to select a data definition for a mouse button.
+       You can either move the mouse over to the Legend window and point
+       to the symbol you want to select and push a mouse button, or you
+       can point to an object or map symbol in the Map window, hold down
+       a Shift key and click a mouse button to pick up the desired item.
+       (Using this latter method will cause the Legend window to be
+       repositioned with the selected item displayed in the window).
+
+       Inserting an Item on the Map
+
+       After assigning an item to either mouse button, move the mouse to
+       the location on the map where you want the item to be inserted and
+       click the appropriate mouse button to place the item on the map.
+
+
+                                      -14-
+       
+       This has the effect of erasing any object currently at the chosen
+       location and inserting a new one in its place.
+
+       Removing an Item from the Map
+
+       To remove (erase) an item anywhere on the map, select the
+       appropriate Legend Mode (Map or Object) and do the following. If
+       the item is Object Data, select the item marked "Nothing" at the
+       top of the Object Legend Window, then move the mouse over to the
+       item in the Map Window you want to erase and click on the mouse
+       button that has "Nothing" assigned to it. This works for LHV object
+       items in BLAKE STONE too. If you want to remove a Map Data item
+       (wall, door, or floor code), you must replace it with another wall,
+       door, or floor code. Remember, every square on the map must have a
+       Map Data item on it.
+
+       Changing Multiple Items of One Type
+
+       If there are multiple items of a single type that you would like to
+       change all at once, assign the replacement item (object or map) to
+       a mouse button, then position the mouse over one of the items to be
+       replaced in the Map window. While holding down both the Alt and
+       Ctrl keys simultaneously, click on the selected mouse button.
+
+       Clearing the Map Window
+
+       When starting a fresh design, it is often desireable to start with
+       a clear Map window. You do this by assigning a floor OR wall code
+       from the mapdata Legend window to the left mouse button. Then you
+       move the mouse to any spot in the map window and press the 'C' key.
+       Before anything happens you will be prompted to be sure you want
+       the entire floor to be cleared. The entire window will be filled
+       with the selected floor or wall code, thus erasing everything that
+       was previously there. There will also be 4 perimeter walls visible.
+       To view the floor codes, toggle the floor codes on.
+
+       Selective Clearing of Objects
+
+       You can selectively clear out all objects from an existing floor or
+       just the guards, leaving the other objects untouched. To clear out
+       all objects press Alt+F10. A message will be displayed asking you
+       to confirm your request. You reply either 'Y' or 'N'. Clearing only
+       the guards out of a floor is done by using Ctrl+F10. Again you will
+       be asked to confirm your request.
+
+    |  Drawing Mode - Rubber Banding
+
+       You can use the mouse to draw rectangles of map data types. This is
+       especially useful when creating a new map. Start by selecting a Map
+       data item (floor or wall) with either mouse button. Move the mouse
+       to where you want a corner of the rectangle to be. While holding
+
+
+                                      -15-
+       
+       the mouse button, move the mouse either right or left in the
+       direction you want the rectangle to appear, then up or down to open
+       the rectangle. Release the mouse button when you are done. You can
+       draw odd shapes by simply adding on to a previous rectangle. Or you
+       can use Freehand drawing (see below).
+
+       NOTE: Previously placed objects will remain in their original
+       positions, so be careful not to end up with guards embedded in
+       walls.
+
+    |  The mouse can also be used to draw straight lines of map data that
+    |  you want replicated. Just select the item with either mouse button.
+    |  Position the mouse in the Map window where you want to start
+    |  replicating the item and hold the appropriate button down while
+    |  dragging the mouse vertically or horizontally.
+
+    |  Drawing Mode - Freehand
+
+    |  The mouse can also be used to draw figures in the Map window in
+    |  freehand. To go into freehand mode (map data only) you must press
+    |  Alt+R to toggle from "rubber-banding" mode to freehand mode. The
+    |  initial toggle setting is controlled by a variable in the
+    |  MAPEDIT.INI file. By default, "rubber-band" mode is on unless you
+    |  override it.
+
+    |  To draw freehand, select any item (wall or object) with either
+    |  mouse button and position the mouse in the Map window where you
+    |  want to start drawing. Hold down the appropriate mouse button and
+    |  drag the mouse in any direction. Release the mouse button when
+    |  you're finished.
+
+    |  NOTE: Whether drawing in Rubber Banding mode or Freehand mode, in
+    |  the case of Blake Stone, you cannot draw map data types such as
+    |  Food Units, Plasma generators, or anything that requires an LHV
+    |  input.
+
+    |  Grab (Copy) and Paste Function
+
+    |  This powerful feature permits you to define any rectangular area of
+    |  the current floor and grab it for the purpose of copying it to
+    |  another area of the same floor or any other floor. The contents of
+    |  an area to be copied remain unchanged.
+
+    |  When an area of the floor is defined and grabbed, it is copied to
+    |  a special buffer in memory called the "Grab" buffer. The buffer
+    |  area is NOT the same as the Clipboard area and the two should not
+    |  be confused.
+
+    |  Before "pasting" the contents of the "Grab" buffer somewhere, you
+    |  will have the option of rotating the buffer in 90 degree increments
+    |  and/or flipping the buffer to produce a mirror image of the
+
+
+                                      -16-
+       
+    |  original area. Rotating and Mirroring will produce a total of 8
+    |  possible orientations of the original area.
+
+    |  Initiating the Grab
+
+    |  To define the rectangular area to be copied, position the mouse
+    |  pointer at the upper left corner (cell) of the area. Press Ctrl+C.
+    |  The border of the Map window will turn green and a single cell
+    |  rectangle will appear on the map. Dragging the mouse down and to
+    |  the right causes the rectangle to grow and shrink. After you have
+    |  outlined the area you want to grab, click on either mouse button.
+    |  You will now be returned to normal operation and the border lines
+    |  will turn grey again.
+
+    |  At this point you are free to continue editing or GoTo a different
+    |  level. The Grab buffer will stay intact until you replace its
+    |  contents.
+
+    |  Initiating a Normal Paste Operation
+
+    |  The normal Paste operation is started by pressing Ctrl+V. This will
+    |  cause a rectangle the size of the area previously grabbed to
+    |  appear. For a normal Paste operation the rectangle will be white.
+
+    |  Move the mouse around the screen to position it over the area where
+    |  you want to paste the Grab Buffer contents. As you move the
+    |  rectangle around, the coordinates of the upper left corner will be
+    |  displayed below the Map window.
+
+    |  Now you have 2 choices. You can either paste both map and object
+    |  data from the grab buffer by pressing the left mouse button, or you
+    |  can paste only the map data, thus eliminating all the old object
+    |  data, by pressing the right mouse button. This completes the normal
+    |  Paste operation. The contents of the Grab Buffer remain unchanged.
+
+    |  Rotate & Mirror Functions
+
+    |  Before completing the Paste operation as described in the previous
+    |  paragraphs, you can opt to rotate the original image and/or "flip"
+    |  it over to produce a mirror image. There is an indicator that is
+    |  initially in the upper left corner of the rectangle. By pressing
+    |  the 'r' (or 'R') key the rectangular box will rotate clockwise 90
+    |  degrees for each press of the key. Pressing 'm' (or 'M') will
+    |  result in a mirror image of the grabbed area. The mirroring will be
+    |  about the vertical axis of the original area. As mentioned earlier,
+    |  Rotation and Mirroring can be combined. Whether you use either
+    |  function or not, the contents of the grab buffer remain unchanged.
+
+    |  NOTE: After applying either Rotation or Mirroring, if you Paste the
+    |  image with the left mouse button (which copies both Object and Map
+    |  data), it is highly possible that objects such as guards and LHV's
+    |  will no longer be oriented correctly. This problem can be bypassed
+
+                                      -17-
+       
+    |  by using the right mouse button to Paste so as to place only the
+    |  Map data in the new location.
+
+    |  Initiating a Paste & Exchange Operation
+
+    |  The difference between a normal Paste operation and a Paste &
+    |  Exchange operation is that in the latter operation, the content of
+    |  the Grab Buffer is exchanged with the area being Pasted into rather
+    |  than remaining unchanged as in the Normal Paste operation. A Paste
+    |  & Exchange is initiated using Ctrl+B. The rectangle is colored red
+    |  instead of white. The rest of the operation is the same as a normal
+    |  Paste.
+
+    |  Summarizing Control Keys
+
+    |  Ctrl+C   - Initiate a Grab Operation
+    |  Ctrl+V   - Normal Paste from Grab Buffer
+    |  Ctrl+B   - Paste & Exchange with Grab Buffer
+    |  R        - (After Ctrl+V or Ctrl+B) to rotate original image
+    |  M        - (After Ctrl+V or Ctrl+B) to mirror original image
+
+    |  Other Grab & Paste Notes
+
+    |  You can abort Grab & Paste at any time by pressing the Esc key.
+
+    |  The Grab buffer cannot be written to a disk file. Its contents will
+    |  be lost when you quit MAPEDIT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -18-
+       
+       Viewing Objects Selectively
+
+       The following is a list of keys you can use to selectively display
+       various objects in the Map window.
+
+       Key     Function
+         1  -  Display only Level 1 enemies
+         2  -  Display only treasure and One-ups
+         3  -  Display only Level 3 enemies
+         4  -  Display only Level 4 enemies
+         5  -  Display only Super Bosses
+         6  -  Display only Ammo, Weapons, Food, First Aid, and One-ups
+         #  -  Display only Level 1 and 3 enemies
+         $  -  Display only Level 1, 3, and 4 enemies
+         %  -  Display only enemies (all skill levels)
+         A  -  Display All Objects
+
+       Other Selective Viewing Option
+
+       You can click on the left mouse button while holding down the Ctrl
+       key (Ctrl+click) to selectively display any map data or object
+       data. You select the item(s) to be displayed by either pointing the
+       mouse at them in the Map Window or in the Legend Window. The item
+       displayed will depend on which Legend Mode you are currently in. If
+       you are displaying selected Objects and you prefer not to have the
+       map data visible, you can use the ALT+M hot-key to toggle off all
+       map data. (The default for this toggle can be set up in the
+       MAPEDIT.INI file).  Use the "A" key to restore the full display.
+
+       Legend Window
+
+    |  To change Legend Modes, press the Space Bar (or middle mouse button
+    |  if you have a 3-button mouse). To scroll vertically, use the
+    |  up/down arrow keys. Use the Home and End keys to get to the top and
+    |  bottom respectively. Use the INS (up), DEL (down) keys to scroll
+    |  vertically one line at a time. (Please note that the INS key cannot
+    |  be held down for repeated use). Use the left/right arrows to scroll
+    |  horizontally. Hold down the Ctrl key with the left/right arrows to
+    |  scroll horizontally 10 columns at a time. Pressing HOME, END, or
+    |  Space will return the window to the far left. As you toggle back
+    |  and forth between Legend modes, the legend will always remain where
+    |  you last used it.
+
+       You can also use the mouse to scroll the Legend vertically. Place
+       the mouse pointer on either the UP or DOWN box under the window and
+       press the left mouse button to Page the Legend up or down. Use the
+       right mouse button to scroll the Legend one line at a time.
+
+       After each guard/enemy displayed in the Object Legend window is a
+       3 or 4 character description that specifies what level the actor
+       is, whether he is moving or stationary, and what direction he is
+
+
+                                      -19-
+       
+       facing or walking. For example, "1/S/E" means a level 1 actor,
+       stationary, facing east.
+
+       NOTE: In Blake Stone some Perscan Drones use an "SM" designation.
+       This means they start out stationary, but when alerted will start
+       to move.
+
+       At the bottom of the Legend window are four boxes (buttons) which
+       you can point at with the mouse to select the other Legend window
+       or to scroll up and down the current window. The button labeled
+       XTRA, which means EXTRA, is displayed only when editing Blake Stone
+       floors. It provides access to some additional editing features
+       which will be described later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -20-
+       
+    |  Hot-Keys, Scrolling Keys & Toggle Keys
+
+    |  MAPEDIT uses keys to initiate commands, to toggle various
+    |  functions, and to control scrolling. Some of these have been
+    |  mentioned earlier, but are described more completely below.
+    |  Brief help is available by pressing F1.
+
+       Hot-Keys
+
+            C  - Clear Map Window
+            D  - Load new map/obj data definition files
+            E  - Exchange clipboard map with current map
+            G  - Goto level
+            M  - Memorize present map to clipboard
+            N  - Change the name of the current level
+            Q  - Quit (you will be prompted to save)
+            R  - Read/Import a floor file from disk into clipboard
+            T  - Transfer clipboard map into current level
+            W  - Write/Export present map to a floor file on disk
+            Z  - Set (Zap) all floorcodes within room to selected left
+    |            mouse button code except "deaf guard" codes (plus
+    |            guard block & autodoor codes in Blake Stone only)
+    |            See Ctrl+Z toggle below for other ZAPping implications.
+        Alt+Z  - Same as 'Z' except all floor codes are "zapped"
+    |   Ctrl+F10 - Clear all guards from current floor
+    |   Alt+F10  - Clear all objects (including guards) from floor
+
+       C Command (Clear Map Window)
+
+       Start by selecting a floor or wall code with the left mouse button.
+       Move the mouse pointer to the Map Window and press the 'C' key. You
+       will be prompted to reply 'Y' or 'N' to okay or disapprove the
+       request to clear before anything happens. The result of replying
+       'Y' will be the entire window set to the selected floor or wall
+       code except for the 4 perimeter walls which will be set to the
+       default wall type. All previous object, wall, and floor data in the
+       map window will be erased. Replying with anything other than 'Y' or
+       'N' will be ignored.
+
+       D Command (Load New Map and Obj Definition Files)
+
+       After pressing the 'D' key you will be prompted for a new data
+       definition file extension (up to 3 characters). If you change your
+       mind, press the Esc key to return to editing. After entering the
+       extension, both new Map and Obj files will be loaded and the Map
+       Window redrawn to display the result.
+
+       E Command (Exchanging floors)
+
+       See section below entitled "Manipulating Maps".
+
+
+
+                                      -21-
+       
+       G Command (Goto Level)
+
+       Pressing the 'G' key will produce a list of all level numbers and
+       level names in the area of the Legend Window. Use the up/down arrow
+       keys to page through the list, or INS/DEL to move a line at a time.
+       Move the mouse pointer to select a level then click the left mouse
+       button to cause the selected level to be displayed.
+
+       M Command (Memorize Present Map)
+
+       See section below entitled "Manipulating Maps"
+
+       N Command (Change the Name of the Current Level)
+
+       Use the 'N' command to assign a different name to the current
+       level. The name of the current level is displayed beneath the Map
+       Window when the mouse pointer is outside the window. When you press
+       the 'N' key, you will be prompted for a new name - up to 16
+       characters. It may consist of any numeric or alphabetic characters
+       as well as spaces, period (.), underscore (_), or dash (-). Note
+       that this name will not be preserved in a floor file written with
+       the 'W' command. The name is associated with the level where it
+       appears regardless of what floor map fills that position. The name
+       will be saved in the .WL6, .SOD, or .BS6 game map file.
+
+       Q Command (Quit Mapedit)
+
+       Use the 'Q' command to end the current edit session. You will be
+       prompted to save all the floors or not. Replying 'N' will cause all
+       editing changes to be lost. Replying 'Y' will cause all floor files
+       that are in the Swap Directory to be saved in the Game Map file,
+       which will replace the original file. If you change your mind about
+       ending the edit session, press the Esc key.
+
+       R Command (Read/Import a Floor File from Disk to Clipboard)
+
+       See section below entitled "Manipulating Maps"
+
+       T Command (Transfer Clipboard Map Into Current Level)
+
+       See the section below entitled "Manipulating Maps".
+
+       W Command (Write the Current Floor to Hard Disk)
+
+       See the section below entitled "Manipulating Maps".
+
+       Z Command (Set/Zap) floorcodes within room
+
+       Use the 'Z' command to "Zap" all floor codes in an enclosed area to
+       a new floor code which has been selected using the LEFT mouse
+       button. All floor codes except "deaf guard" codes will be replaced
+       within the enclosed area with the selected floor code. After
+
+                                      -22-
+       
+       selecting a new floor code, move the mouse pointer to the enclosed
+       target area and press the 'Z' key.
+
+    |  NOTE to Blake Stone designers: The ZAP command will not replace
+    |  guard block codes or autodoor hot-spot codes. Either of these codes
+    |  will constrain the ZAP if they extend from wall to wall. Also any
+    |  floor codes enclosed by blocking codes or autodoor codes will not
+    |  be replaced if the ZAP is initiated outside the enclosed area.
+
+       Alt+Z Command (Similar to 'Z' Command - see above)
+
+       Use the Alt+Z command to replace/zap all floor codes in an enclosed
+       area including "deaf guard" codes (as well as guard block codes &
+       autodoor codes in Blake Stone).
+
+    |  Ctrl+F10 Command - Clear Guards from Current Floor
+
+    |  This command can be quite useful for WOLF3D and SoD designers who
+    |  will want to walk through an entire floor to check on everything
+    |  without having to deal with all the guards. IMPORTANT: Before using
+    |  this command, be sure to save the floor to disk using the Write
+    |  command so it can be restored later with all the guards back where
+    |  they belong. NOTE: Blake Stone designers can make Stone invisible
+    |  in Debug mode to accomplish the same thing without having to clear
+    |  out all the guards.
+
+    |  Alt+F10 Command - Clear All Objects from Current Floor
+
+    |  Similar to Ctrl+F10 command except that all objects including
+    |  guards are cleared from the current floor. Walls, floors, and doors
+    |  remain untouched, as well as Pushwall object codes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -23-
+       
+       Toggle Keys
+
+            F - Toggle floor codes display on/off
+            H - Toggle HEX mode on/off
+        Alt+H - Toggle MAP:/OJB: with data values below map window
+            L - Toggle LHV display (Bstone only)
+        Alt+M - Toggle Mapdata on/off when viewing selected objects
+            O - Toggle objects on/off
+        Alt+R - Toggle Drawing Mode (Rubber-band/Freehand)
+            S - Toggle between Statistics and Hot-Key display
+        Alt+S - Display count of items in Legend Window
+       <Space>- Toggles between object and map legends
+    |           Middle mouse button does the same thing
+    |  Ctrl+Z - Toggle ZAP-through-Pushwall on/off
+
+       NOTE: Initial "toggle" settings are controlled by MAPEDIT.INI file.
+
+       F Toggle (Toggle Floor data On and Off)
+
+       Pressing the 'F' key will toggle the floor code display on and off
+       in the Map Window. The default setting is set by MAPEDIT.INI.
+
+       H Toggle (Toggle Hex Mode on/off)
+
+       Use the 'H' key to cause map coordinates to be displayed in both
+       decimal and hex below the Map Window or to toggle off the hex
+       values. The default setting for this is controlled by can the
+       MAPEDIT.INI file. For Blake Stone only, the LHV's are also toggled
+       between HEX and DECIMAL. All other object codes are always
+       displayed in hex.
+
+       Alt+H Toggle (Toggle Item Hex Values On/Off)
+
+       This key combination causes the words MAP: and OBJ: underneath the
+       Map Window to be replaced with the hex values of the data items
+       being pointed at by the mouse. Pressing Alt+H again toggles the
+       words MAP: and OBJ: on again. The default setting for this is
+       controlled by the MAPEDIT.INI file.
+
+       L Toggle (Toggle LHV Display) - Blake Stone Only
+
+       The 'L' key toggles the LHV display graphics on/off. Having them
+       toggled on will show where the LHV codes are. Toggling them off
+       will display what is underneath the LHV codes. The default setting
+       for this is controlled by MAPEDIT.INI.
+
+       Alt+M Toggle (Toggle Map Data During Selective Viewing)
+
+       The Alt+M key combination is used to toggle Map Data on and off
+       when viewing selected Objects. When Map data is left on, the
+       selected objects are sometimes difficult to locate in the Map
+
+
+                                      -24-
+       
+       Window. Turning off Map data viewing displays only the selected
+       object symbols in the Map Window. The default setting for this
+       toggle action is controlled by the MAPEDIT.INI file.
+
+       O Toggle (Toggle Object Data On/Off)
+
+       Use the 'O' key to toggle Object data on and off. This operation is
+       similar to the 'F' key above which toggles Floor codes on and off.
+       It is often useful to have Object data removed from the Map Window
+       when examining floor codes. The default setting for this toggle
+       action is controlled by the MAPEDIT.INI file.
+
+       S Toggle (Toggle between Stats Display and Hot-key Display)
+
+       Use the 'S' key to toggle between the display of Statistics and the
+       Hot-key display. Leaving the Stats displayed during editing will
+       slow the editing process somewhat as each change to the contents of
+       the Map Window will cause the statistics to be recalculated. The
+       default setting for this toggle action is controlled by the
+       MAPEDIT.INI file.
+
+       Alt+S Toggle (Display Count of Items in Legend Window)
+
+       Pressing Alt+S will toggle on and off a display of the count of the
+       individual items listed in the Legend Window. The default setting
+       for Alt+S is controlled by the MAPEDIT.INI file. As with the 'S'
+       command, Alt+S can slow the editing process somewhat if left
+       toggled on (See 'S' command above).
+
+    |  Spacebar Toggle (Toggle between Map and Object Legends)
+
+    |  Pressing the Spacebar will toggle the Legend window to display
+    |  either Map data or Object data, the effect of which is to move
+    |  between Map Mode and Object Mode. The same thing can be done using
+    |  the middle mouse button (if you have a 3-button mouse).
+
+    |  Ctrl+Z Toggle (Toggle ZAP through Pushwalls on and off)
+
+    |  Pressing Ctrl+Z will toggle on and off the ability to cause the ZAP
+    |  command (see above) to extend the selected floor code through any
+    |  pushwalls that may exist within the area being ZAPed. The default
+    |  for this toggle is 'off'. Its initial setting is controlled by a
+    |  variable in the MAPEDIT.INI file.
+
+    |  NOTE: For designers of WOLF3D and SoD floors, if you extend a floor
+    |  code into an area entered through a Pushwall, be aware that if
+    |  there are any guards behind the Pushwall, they may prevent it from
+    |  sliding all the way open. Such guards, if present, should be made
+    |  "deaf guards" so they will remain still until they actually see
+    |  their enemy.
+
+
+
+                                      -25-
+       
+    |  Scrolling Keys
+
+    |  <up/down arrows>     - Pages legend up or down
+    |  <left mouse button>  - Pages legend up/down when pointer in
+    |                         UP or DOWN box under Legend window
+    |  <INS/DEL>            - Scroll legend one line up/down
+    |  <right mouse button> - Scrolls legend one line up/down when
+    |                         pointer in UP/DOWN box under window
+    |  <left/rt arrows>     - Scroll legend horizontally one column
+    |  <Ctrl+lft/rt arrows> - Scroll legend horiz. 10 columns
+    |  <Home/End>           - Top/Bottom of Legend
+    |  <Pgup/Pgdn>          - Select level to view
+       <L-Shift+R-shift>    - Redisplays mouse pointer if lost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -26-
+       
+       Manipulating Maps
+
+       Besides being able to edit any particular map, you will often find
+       it desireable to copy/move floors from one level to another and
+       even exchange floors between levels. You can also Read and Write
+       individual floors from/to hard disk for safe keeping at
+       intermediate stages of development. Or you can save a floor to be
+       shipped to someone else for inclusion in their game. Note that the
+       receiver of your floors must have a copy of Mapedit to be able to
+       use the floor file. Some of the Hot-key commands listed above deal
+       with these features.
+
+       E Command (Exchange Currently Displayed Floor With Floor Stored in
+       Clipboard)
+
+       To exchange 2 floors, copy one of the floors to the clipboard ('M'
+       command), then use the 'E' command to Exchange the floor in the
+       clipboard with the second floor involved in the exchange. Last,
+       transfer the floor now in the clipboard to the position where the
+       first floor was located. Use the 'E' hot-key for the Exchange
+       function.
+
+       M Command (Copy/Memorize Floor to Clipboard)
+
+       MAPEDIT contains a clipboard for temporary storage of a copy of any
+       floor you are currently viewing or one that you have imported from
+       your hard disk. If you do nothing with the clipboard copy, it will
+       be lost when you quit the game. To copy the current floor to the
+       clipboard, use the 'M' (for Memorize) hot-key.
+
+       R Command (Read/Import a Floor from Hard Disk to the Clipboard)
+
+       Use the 'R' hot-key to initiate the READ function. You will be
+       prompted for the full DOS filename of the floor file to be read.
+       The file must exist in the current directory or in the location
+       specified in Mapedit.INI.  The file will then be read into the
+       Clipboard where it can be exchanged with another floor or
+       transferred to the current level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -27-
+       
+       T Command (Transfer a Floor from Clipboard to Current Level)
+
+       Once there is a map floor in the Clipboard it can be transferred to
+       any other level. The current floor that existed before the transfer
+       operation is lost unless you saved it first by writing it to disk
+       or used the Exchange hot-key. Use the 'T' hot-key to transfer a
+       floor from the Clipboard. Transfer is used along with the Exchange
+       command when you want to exchange floors between levels.
+
+       W Command (Write/Export the Current Floor to Hard Disk)
+
+       Use the 'W' hot-key to initiate the WRITE function. The floor to be
+       written to disk is written directly from the floor currently
+       displayed. Do not copy it first to the Clipboard. You will be
+       prompted for a DOS filename to give the floor. The file will be
+       stored in the current directory or in a directory specified in
+       MAPEDIT.INI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -28-
+       
+       Statistics
+
+       The statistics display, which is toggled on and off using the 'S'
+       hot-key, keeps track of the following information:
+
+            Static Objects
+            Total Guards (Wolf3D & SoD)
+            Active Objects (Blake Stone only)
+            Doors
+
+            Level 1 Guards
+            Level 3 Guards
+            Level 4 Guards
+            Boss Guards
+
+            Secret Doors
+            $$$ / One-ups
+
+       This information can be very useful in designing floors.  There are
+       some program limits that must not be exceeded.  These limits are
+       the same in all 3 games:
+
+           399 Static Objects
+           149 Guards (Wolf3D & SoD only)
+           149 Active Objects (Blake Stone only)
+           64 Doors - Unlocked/Locked/Elevator
+
+       When these limits are exceeded, the text changes to red as a visual
+       warning. If you play a game with the limits exceeded, it will abort
+       - usually gracefully, but not always! You should always check your
+       STATS before quitting MAPEDIT.
+
+       WARNING: Map window scrolling and map modifications are slightly
+       inhibited by leaving the STAT display toggled on. It is recommended
+       that you toggle off STATS before scrolling or making changes.
+
+       Besides the statistics displayed above, there are more available in
+       each Legend window by using the Alt+S key. When this key
+       combination is pressed, the count of any items presently displayed
+       in the Legend window that exist in the current Map window will be
+       displayed to the right of each item in the Legend window. The item
+       counts can be toggled off by using Alt+S again.
+
+
+
+
+
+
+
+
+
+
+
+                                      -29-
+       
+       MAPEDIT.INI file
+
+       An optional file included in the MAPEDIT package is a MAPEDIT.INI
+    |  file. This file can be used to change defaults that are used by
+    |  MAPEDIT. Use SETUP for this purpose.
+
+    |  The file currently contains 13 variables that can be modified
+    |  with SETUP. Below are the variable names and their default
+       values.
+                                              Default
+       show_objects=true/false                 true
+       show_floor=true/false                   false
+       stats=true/false                        false
+       count_all=true/false                    false
+       show_large_hex=true/false               true
+       hexvals=true/false                      false
+       item_hex_codes=true/false               false
+       mapitems_with_onlyobject=true/false     true
+       def_file_extension=xxx                  none
+       swap_drive=(any logical DOS drive)      none
+       game_path=(any valid DOS path)          .\
+       floorfile_path=any valid DOS path       .\
+    |  rubber_band=true/false                  true
+    |  zap_thru_pushwall=true/false            false
+
+       Explanations in the order listed above:                 Hot-key
+                                                               Toggle
+       Display Object symbols on map                             O
+       Display Floor Code symbols on map                         F
+       Display Object Counts                                     S
+       Display Items Counts in Legend Window                     Alt+S
+       Display LHV symbols (Blake Stone only)                    L
+       Display column/row in hex                                 H
+       Display Map and Object hex codes                          Alt+H
+       Display map symbols when viewing only selected objects    Alt+M
+       DOS file extension for map and object data def. files.
+       Drive to use to store Swap files
+       Directory containing game files.
+       Path to read/write floor files.
+    |  Controls drawing mode - rubberband or freehand            Alt+R
+    |  Permits ZAPping thru pushwalls or not                     Ctrl+Z
+
+       The MAPEDIT.INI file included is a sample of how these variables
+       are coded. You can use the sample file by changing the definitions
+    |  to suit your needs, or use SETUP to create a new file.
+
+       To expand a bit on a couple of the variables in the list above,
+       "game_path" can be used to define the name and location of the
+       directory where the MAPHEAD and GAMEMAPS or MAPTEMP files are
+       located, if not in the current directory. In any case, the order of
+       search is: (1) .WL3, (2) .WL6 (3) .SOD (4) .BS6. Whichever one is
+       found first defines the game to be edited.
+
+                                      -30-
+       
+       Once the game being edited is known, the Map and Object definition
+       files are sought. They must reside in the same directory as
+       MAPEDIT. If you specify 'XXX' as the def_file_extension parameter
+       in the .INI file, then the files are assumed to be MAPDATA.XXX and
+       OBJDATA.XXX.
+
+       EDITING FEATURES UNIQUE TO BLAKE STONE
+
+       As indicated earlier, Blake Stone floors have a number of unique
+       features that do not exist in either WOLF3D or SoD. To understand
+       what the features are and how they work, you need to study the
+       companion document - BSTONE.DOC - for details. This section will
+       describe how the editor is used to implement these features. Also
+       included in this package is a simple Blake Stone floor map that
+       contains samples of most of the Large Hex Values used in Blake
+       Stone.
+
+       Map Coordinates
+
+       Before proceeding with a discussion of how Blake Stone features are
+       implemented by MAPEDIT, it is important to consider some points
+       about map coordinates. Several of the new features require that
+       some square (or coordinate) of the map be identified as a target
+       location. This is true for Teleporters, Barrier Switches, and
+       doors.
+
+       Any location or coordinate on the map consists of an X (column) and
+       Y (row) value. Since a map is 64 by 64 squares, this results in an
+       X and Y range of 00 to 3F (hex). A square located in the 10th
+       column and 9th row, for instance, would have an X:Y value of '0A09'
+       (hex). If this square, '0A09', happened to be the target coordinate
+       of a Barrier switch, i.e., the location of a Barrier object, then
+       MAPEDIT would store the coordinate at the appropriate location on
+       the map as an LHV (Large Hex Value). In addition, the Blake Stone
+       engine would eventually recognize '0A09' at game time and handle it
+       accordingly.
+
+       Coordinates Vs. Objects
+
+       However, there is a problem when the X:Y coordinates fall in the
+       range of 0000 to 023F. If you scan the OBJDATA file you will
+       immediately notice that the above range of values also represents
+       much of the Object data in the game. As a result, if a target
+       coordinate is '011b', for example, it will show up on the floor map
+       as a Perscan Drone rather than as LHV object data. In most cases
+       the Blake Stone engine will discriminate between what is a map
+       coordinate and what is a true object. But not always.
+
+       The bottom line to all this: AVOID PLACING ANY OBJECT DATA IN THE
+       LEFT-MOST 3 COLUMNS OF THE FLOOR MAP THAT ARE ALSO COORDINATE
+       TARGETS. These left-most 3 columns fall in the range of 0000 to
+       023F.
+
+                                      -31-
+       
+       To be very specific, don't place Barriers, Teleporters, Auto-Doors,
+       or Linked Doors in the left-most 3 columns of the map.
+
+       FEATURE IMPLEMENTATIONS
+
+       The features that are described below are:
+
+       Food Units
+       Automatic Opening Doors
+       Linked Doors
+       Teleporters
+       Barriers and barrier switches
+       Bio-Tech messages
+       Time Delays
+       Ceiling and Floor Textures
+       Ceiling and Floor Colors
+
+       Food Units
+
+       When you select either Food Unit 1 or 2 from the Map Legend Window
+       and insert it into the Map Window, you will be prompted to indicate
+       whether the food unit is to be operational or "Not in Working
+       Order". If the unit is to be operational, then you will be prompted
+       again to select how many items of food the unit is to dispense.
+       Supply a number and press Enter. The result of the above actions
+       will place LHV's over the Food Unit wall. You can view the LHV by
+       pressing the 'L' key. LHV's can be toggled off by pressing the 'L'
+       key again. (An LHV code symbol appears as a white block with a red
+       center). Positioning the mouse pointer over an LHV symbol will
+       display the hex code represented by the LHV symbol below the Map
+       Window.
+
+       Automatic Doors
+
+       To cause any door to open automatically you must select a special
+       floor code labeled "Auto Door Hot-Spot" from the Map Legend window.
+       You then insert this code in the floor map at the chosen location
+       just like inserting any other floor code. (The "hot-spot" is a kind
+       of sensor that Stone can cross over which will then cause the
+       selected door to open). When you insert the special code you will
+       be prompted to move the mouse pointer to a door that you want the
+       "hot-spot" or sensor to open. When you click the mouse button the
+       X:Y coordinates, or location (an LHV) of the door will be placed on
+       top of the "hot-spot". You may repeat this operation for as many
+       sensors as you want to create for the single door. (It is
+       recommended that you use at least 2 sensors on both sides of a
+       selected door).
+
+       Door Linkages (Pointers)
+
+       To link doors together so that all linked doors appear to open
+       simultaneously, select the Map code from the Map Legend window that
+
+                                      -32-
+       
+       is labeled "Auto Door Pointer". Next, move the mouse pointer to the
+       first door in the chain of linked doors and click the mouse button.
+       Now point to the next door in the chain and click the mouse button
+       again. This will cause a pointer (LHV) to the 2nd door to be placed
+       at the location of the 1st door, thus creating the required
+       linkage. To link additional doors, repeat the above procedure
+       starting with the 2nd door (the one pointed to by the first door)
+       and so on.
+
+       NOTE: You can link 2 doors to each other by having each door
+       pointing to the other. Both doors will open at the same time when
+       either door is opened.
+
+       Teleporters
+
+       A Teleporter is inserted in the floor map using the Teleporter map
+       code. When you place a Teleporter map code in the Map Window you
+       will be prompted to choose whether the Teleporter is to be for
+       "This Floor" (the current floor) or for a "Distant Floor" (in the
+       same Mission). If for the current floor, you will be prompted to
+       point to the location on the map of the receiving location (not
+       necessarily another Teleporter), then click the mouse button. (If
+       a Teleporter is used at the receiving location, the receiving
+       position must ALWAYS be on a floor code immediately adjacent to the
+       Teleporter symbol).
+
+       If the Teleporter is to be used to transport Stone to a "distant
+       floor" such as the secret level in the basement, then you will be
+       prompted for the number of the receiving level. The receiving
+       location must be at the same absolute coordinate as the sending
+       location. Generally, the receiving location should have a
+       Teleporter positioned where Blake will materialize. But another set
+       of sending/receiving Teleporters can be used from the distant
+       location back to the original location. Again, such Teleporters, if
+       used, must exist at the same absolute coordinates.
+
+       Barriers and Barrier Switches
+
+       These instructions apply to both types of barriers (Post and Arc)
+       used in the game. Whenever you use a barrier, you would normally
+       place a barrier switch somewhere to raise (turn on) or lower (turn
+       off) the barrier.
+
+       Switches can operate barriers on either the current floor, or on a
+       "distant floor" in the same Mission. When you insert a Barrier
+       switch code into the Map window, you will be asked whether the
+       barrier is in "this floor" (current floor) or a "distant floor". If
+       you opt for the current floor, you will be prompted to point to one
+       of the barrier symbols in the target barrier and click the mouse
+       button which will cause the barrier switch to point to the correct
+       barrier. NOTE: All adjacent barrier objects will switch on or off
+       along with the targeted object of the switch.
+
+                                      -33-
+       
+       If you select a barrier on a "distant floor", you will be prompted
+       for the level number. At this time, the "distant floor" will be
+       drawn on the screen and you will be prompted to point to a barrier
+       object and click on the mouse. The original floor will be
+       redisplayed and the location of the "distant barrier" will be
+       placed on the barrier switch as an LHV. NOTE: If you mistakenly
+       enter the wrong "distant" level number, then click at any location
+       on the error level Map window. Now go back and repeat the operation
+       to correct your error. (Nothing was stored on the error level).
+
+       Bio Tech Messages
+
+       Examine the end of the Object Legend window and you will find 3
+       object codes used to trigger menus of messages used by Bio Techs.
+       (This explanation assumes you are familiar with the section in
+       BSTONE.DOC that describes how these messages are used).
+
+       All 3 kinds of message codes have default locations on the floor.
+       Loyalist message codes are stored along the West perimeter wall.
+       Informant message codes are stored in the southwest corner of the
+       south wall. However, you can force any of these message codes to be
+       placed anywhere else on the floor near one or more Bio-techs.
+
+       The Object code in the legend window for Informant messages is
+       0256. Point and click on this code. If you want the message code
+       stored at the default location then move the mouse pointer anywhere
+       in the Map window and click again. If you want to place the message
+       code at other than the default location, then move the mouse to
+       that location and click the button. In either case a menu of
+       Informant messages will appear in place of the Legend window. Use
+       the left and right arrow keys to scroll left and right in order to
+       see the entire message. Point to the message you want to use and
+       click the mouse. You will be prompted for whether the message code
+       is to be inserted at the default location for Informant messages or
+       to some other location. Enter your choice.
+
+       The Object codes in the legend window for Loyalist "warning"
+       messages (delayed action) is 0257 and "alarm" messages (immediate
+       action) is 0258. Process the selected message in the same way as
+       described above for Informant messages.
+
+       Time Delays
+
+       Time delays are used to manage the "hatching" of Pod Aliens, the
+       "energization" of Mutant guards, and the release rate of Plasma
+       Aliens. When you want to insert one of these objects into the floor
+       map, you will be prompted for whether you want a time delay used or
+       not. If so, you will then be prompted for the value of the delay -
+       a number from 00 to FF. Press the enter key and an LHV representing
+       the time delay will be placed on the floor next to or on the object
+       in question. (The lower the number, the shorter the delay).
+
+
+                                      -34-
+       
+       Ceiling and Floor Textures
+
+       In order to control the ceiling and floor textures of each floor,
+       you can insert the appropriate default LHV object codes on the map
+       by using the XTRA button at the bottom of the Legend Window.  Point
+       the mouse at the XTRA button and click the mouse. You will now see
+       a button marked "MAP", click the mouse on it. At this point you
+       will be prompted to enter a value for one of 4 selections. Since
+       this is a discussion of Ceiling and Floor Textures, enter a number
+       for either Ceiling or Floor texture. This last action will trigger
+       a menu of texture codes which will appear in place of the Legend
+       window. Use the mouse to point to a code, then click the mouse on
+       it. Next, repeat the procedure for the other texture value. Again,
+       you are referred to the BSTONE.DOC Appendix for which values are
+       available.
+
+       NOTE: The XTRA button can also be used to enter any LHV data
+       manually anywhere on the floor. After selecting XTRA, then select
+       HEX and follow the prompts.
+
+       Ceiling and Floor Colors
+
+       See the discussion under Ceiling and Floor Textures for how to
+       enter the default values for ceiling and floor colors. The main
+       difference here is that a menu of color codes will not appear. You
+       will be prompted to enter the color code you want.
+
+       The color selections are listed in the Appendix of BSTONE.DOC.
+
+       Unlike ceiling and floor textures, ceiling and floor colors can be
+       made to change dynamically while the game is being played. To
+       implement these changes on the floor, examine the end of the Object
+       Legend window. There you will find the codes 0259 and 025a. 0259
+       represents ceiling colors and 025a represents floor colors. Point
+       the mouse and click on the code you want. Next, point to the
+       location on the floor where you want the color change to take place
+       and click on the mouse button. You will be prompted to enter a
+       ceiling color value. After pressing ENTER, the LHV's for your
+       choice will be placed at the location originally pointed to by the
+       mouse.
+
+       Repeat the above procedure for entering a floor color choice. Point
+       to the same location on the floor as previously used for the
+       ceiling color.
+
+
+
+
+
+
+
+
+
+                                      -35-
+       
+       Using Multiple Push-Wall Codes
+
+       When setting up a series of push-wall codes such that one section
+       of wall will be pushed 2 or more times there is a "rule" to be
+       observed. To be certain you understand, in order to push one
+       section of wall more than once, you insert push-wall codes on a
+       floor 2 squares apart so that each time a wall is pushed, it will
+       stop on top of another push-wall code. The wall can then be pushed
+       again. For an example, view the basement level of Mission 4.
+
+       The "rule" for doing this is that multiple push-wall codes must not
+       be used adjacent to an outer perimeter wall (a single code is
+       okay). The result of using multiple push-wall codes in this manner
+       will cause the game to immediately abort the instant the wall is
+       pushed the 2nd time, with an error message from Blake Stone stating
+       "Invalid Page Request".
+
+       Other Error Conditions
+
+       When creating a Blake Stone map, you are limited to the following
+       numbers of certain items per floor:
+
+       Dr. Goldfire sites: 10
+       Electro-Alien Walls: 12
+       Food Units: 15
+       Unique barrier switch coordinates: 5
+       Static Objects: 399
+       Active Objects: 149
+       Doors: 64
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -36-
+       
+       Format of the Data Definition Files
+
+       This section was contributed by Peter Burrough.
+
+         The encoding for the input lines in the ???DATA.xxx files is as
+         follows:
+
+                 1           2   3
+           123456789012345678901234567890...
+
+           nnnn psgc tttttttttttttttttttx...
+
+         where:
+
+           "nnnn" is the map/object code (leading zeroes required, value
+                  in hex, any mixture of upper/lower case permitted for
+                  hex digits)
+
+           col 5  is ignored
+
+           "psgc" is the code indicating the graphic code on the map
+                  display (described below)
+
+           col 10 is ignored
+
+           "t..t" is the narrative for the entity (note that the program
+                  will accept up to 20 characters, but will only display
+                  16!) If less than 16 characters are present, the
+                  narrative will be padded to 16 with nulls/blanks.
+
+                  NOTE: If there are non-blank characters in columns
+                  17-20, they will be truncated in the legend scroll list,
+                  but will appear in the other narrative areas below the
+                  map.
+
+           "x..." is ignored (can be used for comments)
+                  (column 30 onwards)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -37-
+       
+         Graphic Type
+         ------------
+
+         Columns 6-9 in the ???DATA.xxx files define how the object will
+         look in the map.  Any alphabetics in columns 6/7/8 MUST be in
+         lower case!
+
+         "psgc" is the code indicating the graphic type on the map display
+
+          where:
+
+           "p" is the primary color
+
+           "s" is the secondary color
+            (direction flag when "g" = f)
+            (unused for some other values of "g")
+
+           "g" is the graphic type
+
+           "c" is the character to be displayed ("g" = 0 [text] ONLY)
+               (value should be zero for all other values of "g")
+
+         Color codes ["p" and "s"] (values a-f MUST be coded as lower
+         case!)
+
+           0 - black       "s" for type "f":  0 = N
+           1 - blue                           1 = NE
+           2 - green                          2 = E
+           3 - cyan                           3 = SE
+           4 - red                            4 = S
+           5 - magenta                        5 = SW
+           6 - brown                          6 = W
+           7 - light grey                     7 = NW
+           8 - dark grey
+           9 - light blue
+           a - light green
+           b - light cyan
+           c - light red
+           d - light magenta
+           e - yellow
+           f - white
+
+         Graphic types ["g"] (values a-f MUST be coded as lower case):
+
+           NOTE: the graphics type codes are treated as CHARACTER, not as
+           hexadecimal values, so it is possible to extend the range of
+           graphic symbols considerably, beyond 0-9 and a-f.
+
+           "*" - this type uses ONLY the primary color (the secondary
+                 color is ignored even if non-zero, except for type 'f')
+
+
+
+                                      -38-
+       
+           code  significance
+           ----  ------------
+
+           0     - text
+                 (uses "c" for character to be displayed)
+
+           1 * - solid box (large square)
+                 (special case of type "3" or "8", with "p" = "s")
+
+           2 * - checkered box
+                 (NOT a special case of type "4")
+
+           3   - solid box (primary) with interior solid box (secondary)
+                 (single color solid box if "p" = "s", i.e. type "1")
+                 (small 3x3 solid box if "p" = 0, i.e. type "b")
+
+           4   - checkered box (primary) with interior solid box
+                 (secondary)
+                 (NOT the same as type "2" if "p" = "s")
+                 (small 3x3 solid box if "p" = 0, i.e. type "b")
+
+           5   - large filled circle (primary) with smaller circle
+                 (secondary)
+                 (small circle is actually just a small "+" symbol)
+                   (single color solid circle if "p" = "s")
+                   (small "+" if "p" = 0)
+
+           6 * - horizontal bar (doors)
+
+           7 * - vertical bar (doors)
+
+           8   - two color box (top 4 primary, lower 3 secondary)
+                 (single color solid box if "p" = "s", i.e. type "1")
+
+           9 * - single pixel centered
+
+           a * - 3x5 pixel block (width-x-height) (short vertical bar)
+
+           b * - 3x3 pixel block (small square block)
+                 (special case of type "3" or "4", with "p" = 0)
+
+           c * - 5x5 pixel block (medium square block)
+
+           d * - cross (X)
+
+           e * - open large square
+
+
+
+
+
+
+
+                                      -39-
+       
+           f * - arrow
+                 (secondary color indicates direction - see below)
+
+                 type 'f' uses the secondary color field ["s"] for the
+                 direction of the arrow, as follows:
+
+                0 = N
+                1 = NE
+                2 = E
+                3 = SE
+                4 = S
+                5 = SW
+                6 = W
+                7 = NW
+
+         Special cases
+         -------------
+
+           Type "1" is a special case of type "3" or "8" (if "p" = "s" for
+           these types, the result is the same as type "1").
+
+           Type "b" is a special case of type "3" or "4" (if "p" = 0 for
+           these types, the result is the same as type "b").
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -40-
+       
+         Code summary
+         ------------
+
+         The following summary of codes should be used as a guideline
+         only:
+
+         "p" = primary color
+         "s" = secondary color
+
+           0 - ps0c   Text             "c" = character to be displayed
+           1 - p010   Solid box
+           2 - p020   Chequered box
+           3 - ps30   Solid box + centre
+               pp30   [= type '1': p010]
+               0s30   [= type 'b': s0b0]
+           4 - ps40   Chequered box + centre
+               0s30   [= type 'b': s0b0]
+           5 - ps50   Circle + centre
+               pp50   [= solid circle]
+               0s50   [= small "+"]
+           6 - p060   Horizontal bar/door
+           7 - p070   Vertical bar/door
+           8 - ps80   2-color box
+               pp80   [= type '1': p010]
+           9 - p090   1-pixel dot
+           a - p0a0   3x5-pixel
+           b - p0b0   3x3-pixel
+           c - p0c0   5x5-pixel
+           d - p0d0   Cross
+           e - p0e0   Open square
+           f - pdf0   Arrow     "d" is direction code (0-7 only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -41-
+       
+         Pixel patterns
+         --------------
+
+         All graphics are displayed in a 7x7-pixel box
+
+           "P" = primary color
+           "Q" = checkered primary color
+           "S" = secondary color
+           "." = black
+
+           "*" - this type uses ONLY the primary color (the secondary
+                 color is ignored even if non-zero)
+
+           1 * - solid box
+
+              PPPPPPP
+              PPPPPPP
+              PPPPPPP
+              PPPPPPP
+              PPPPPPP
+              PPPPPPP
+              PPPPPPP
+
+              (p010)
+
+           2 * - checkered box
+
+              QQQQQQQ
+              QQQQQQQ
+              QQQQQQQ
+              QQQQQQQ
+              QQQQQQQ
+              QQQQQQQ
+              QQQQQQQ
+
+              (p020)
+
+           3     - solid box (primary) with interior solid box (secondary)
+
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              PPSSSPP     ..SSS..      PP...PP     PPPPPPP
+              PPSSSPP     ..SSS..      PP...PP     PPPPPPP
+              PPSSSPP     ..SSS..      PP...PP     PPPPPPP
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+
+              (ps30)      (0s30)       (p030)      (pp30)
+
+              (normal)    ("p"=0)      ("s"=0)     ("s"="p")
+
+
+
+                                      -42-
+       
+           4     - checkered box (primary) with interior solid box
+                   (secondary)
+                   (only primary is checkered)
+
+              QQQQQQQ     .......      QQQQQQQ
+              QQQQQQQ     .......      QQQQQQQ
+              QQSSSQQ     ..SSS..      QQ...QQ
+              QQSSSQQ     ..SSS..      QQ...QQ
+              QQSSSQQ     ..SSS..      QQ...QQ
+              QQQQQQQ     .......      QQQQQQQ
+              QQQQQQQ     .......      QQQQQQQ
+
+              (ps40)      (0s40)       (p040)
+
+              (normal)    ("p"=0)      ("s"=0)
+
+           5     - large filled circle (primary) with smaller circle/+
+                   (secondary)
+
+              ..PPP..     .......      ..PPP..     ..PPP..
+              .PPPPP.     .......      .PPPPP.     .PPPPP.
+              PPPSPPP     ...S...      PPP.PPP     PPPPPPP
+              PPSSSPP     ..SSS..      PP...PP     PPPPPPP
+              PPPSPPP     ...S...      PPP.PPP     PPPPPPP
+              .PPPPP.     .......      .PPPPP.     .PPPPP.
+              ..PPP..     .......      ..PPP..     ..PPP..
+
+              (ps50)      (0s50)       (p050)      (pp50)
+
+              (normal)    ("p"=0)      ("s"=0)     ("p"="s")
+
+           6 * - horizontal bar (doors)
+
+              .......
+              .......
+              PPPPPPP
+              PPPPPPP
+              PPPPPPP
+              .......
+              .......
+
+              (p060)
+
+
+
+
+
+
+
+
+
+
+
+                                      -43-
+       
+           7 * - vertical bar (doors)
+
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              ..PPP..
+
+              (p070)
+
+           8     - two color box (top 4 primary, lower 3 secondary)
+
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              PPPPPPP     .......      PPPPPPP     PPPPPPP
+              SSSSSSS     SSSSSSS      .......     PPPPPPP
+              SSSSSSS     SSSSSSS      .......     PPPPPPP
+              SSSSSSS     SSSSSSS      .......     PPPPPPP
+
+              (ps20)      (0s20)       (p020)      (ps20)
+
+              (normal)    ("p"=0)      ("s"=0)     ("p"="s")
+
+           9 * - single pixel centered
+
+              .......
+              .......
+              .......
+              ...P...
+              .......
+              .......
+              .......
+
+              (p090)
+
+           a * - 3x5 pixel block (width-x-height) (short vertical bar)
+
+              .......
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              .......
+
+              (p0a0)
+
+
+
+
+                                      -44-
+       
+           b * - 3x3 pixel block (small square block)
+
+              .......
+              .......
+              ..PPP..
+              ..PPP..
+              ..PPP..
+              .......
+              .......
+
+              (p0b0)
+
+           c * - 5x5 pixel block (medium square block)
+
+              .......
+              .PPPPP.
+              .PPPPP.
+              .PPPPP.
+              .PPPPP.
+              .PPPPP.
+              .......
+
+              (p0c0)
+
+           d * - cross (X)
+
+              .......
+              .P...P.
+              ..P.P..
+              ...P...
+              ..P.P..
+              .P...P.
+              .......
+
+              (p0d0)
+
+           e * - open large square
+
+              PPPPPPP
+              P.....P
+              P.....P
+              P.....P
+              P.....P
+              P.....P
+              PPPPPPP
+
+              (p0e0)
+
+
+
+
+
+
+                                      -45-
+       
+           f * - arrow (secondary color indicates direction)
+
+              ...P...     ...PPPP      ...P...     P......
+              ..PPP..     .....PP      ....P..     .P.....
+              .P.P.P.     ....P.P      .....P.     ..P....
+              P..P..P     ...P..P      PPPPPPP     ...P..P
+              ...P...     ..P....      .....P.     ....P.P
+              ...P...     .P.....      ....P..     .....PP
+              ...P...     P......      ...P...     ...PPPP
+
+              (p0f0)      (p1f0)       (p2f0)      (p3f0)
+
+              s=0/N       s=1/NE       s=2/E       s=3/SE
+
+              -------------------------------------------
+
+              ...P...     ......P      ...P...     PPPP...
+              ...P...     .....P.      ..P....     PP.....
+              ...P...     ....P..      .P.....     P.P....
+              P..P..P     P..P...      PPPPPPP     P..P...
+              .P.P.P.     P.P....      .P.....     ....P..
+              ..PPP..     PP.....      ..P....     .....P.
+              ...P...     PPPP...      ...P...     ......P
+
+              (p4f0)      (p5f0)       (p6f0)      (p7f0)
+
+              s=4/S       s=5/SW       s=6/W       s=7/NW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -46-
+       
+       Credits
+
+       We the authors wish to thank a few individuals for their kind and
+       generous offers of help and contributions.
+
+       Testers: Carlton Griffin, Peter Burrough, Chuck Archer
+       Contributors: Blaine Horrock, Peter Burrough
+
+       Version History
+
+       Ver 8.1  - Selective Object Clearing, Grab-and-Paste added.
+
+       Ver 8.0  - Programming by Bryan Baker & Dave Huntoon
+                  Documentation & Testing by Warren Buss
+                  Blake Stone support added. All new documentation.
+                  Legend window: Toggling between Map & Object Legend
+                  does not reset Legend. Home/End keys move to start/end
+                  of Legend. INS/DEL scroll one line. Horiz scrolling up
+                  to 50 characters. Left/right arrows scroll one column.
+                  Ctrl+Left/Right arrows scroll 10 columns.
+                  Added Hot-keys: D, G, H, Alt+H, L, Alt+M, Alt+S
+                  Expanded online Help using F1, F2, and F3 keys.
+                  Added Features: Changing multiple items of same type.
+                                  Selective map/object item viewing.
+                                  Legend repositioned when item
+                                  selected in Map Window.
+                  Added MAPEDIT.INI file support for changing editor
+                  defaults.
+                  Data Definition files now commentable.
+
+       Ver 7.1  - Bryan Baker (Eliminated output of shareware levels,
+       added room "ZAP" feature, added full-screen help, added level name
+       input)
+
+              Ver 7.0  - Bryan Baker & Dave Huntoon (Expanded statistics
+              features, Read/Write filename may now be specified, Improved
+              program error reporting & logic during startup)
+
+              Ver 6.1  -  Matt Gruson (Spacebar toggles between Map and Object
+              modes,  PAGEUP/PAGEDWN scroll legend display, add right mouse
+              button to have own value, Shift + left mouse button memorizes value
+
+              from map)
+
+              Ver 6.0  - Dave Huntoon Modification (Help, Copy, Paste, Exchange,
+
+              Write and Read)
+
+       Ver 5.0  - Bryan Baker  Modification (Display of critical stats)
+
+       Ver 4.1a - Dave Huntoon Modification (SoD compatibility)
+
+       Ver 4.1  - (c) 1992 Bill Kirby
+
+
+                                      -47-
+       
+

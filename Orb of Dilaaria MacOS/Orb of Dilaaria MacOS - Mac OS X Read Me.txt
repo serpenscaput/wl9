@@ -1,0 +1,28 @@
+This is a pre-made .boxer (gamebox) file for Adam Biser’s “The Orb of Dilaaria”, 
+a freeware stand-alone Wolfenstein 3D mod. TOoD is a first-person fantasy combat 
+game which is equal parts Heretic and Wolfenstein, with a little bit from first-person 
+blastfests like Blake Stone: Aliens of Gold and dungeon crawls like the Elder Scrolls 
+for good measure. 
+
+Instructions: 
+1. Download and install Boxer, from http://www.boxerapp.com
+2. Place this .boxer file in Boxer’s DOS Games folder (default is ~/Documents/DOS 
+Games, I believe)
+3. Double click to play game.
+
+If for any reason you need to access the game’s files “under the hood”, simply control-click/right-click 
+on the file and select “Show Package Contents”. This gamebox was created using Boxer 
+1.3 (2012-05-29) and will run on any Macintosh that supports Boxer 1.x, including 
+PPC-based Macintosh computers running 10.5+. (Note that this game requires that Boxer 
+be installed first.) See http://boxerapp.com/releasenotes for details. To run the 
+game in fullscreen, press CMD-F, as per Boxer’s controls. 
+
+Credits: 
+Original scenario design by Adam Biser. Wolf3D Engine by id Software. (Further credits 
+available at: http://winwolf3d.dugtrio17.com/wiki/Orb_of_Dilaaria#Thanks) Boxer by 
+Alun Bestor; gamebox packaging and (rough) icon by Justin Ancheta. 
+
+For more information on playing TOoD, see the following links:
+Online manual: http://winwolf3d.dugtrio17.com/wiki/Orb_of_Dilaaria_Manual
+ModDB: http://orb.moddb.com/
+Facebook: http://www.facebook.com/pages/Orb-of-Dilaaria/107520985944473

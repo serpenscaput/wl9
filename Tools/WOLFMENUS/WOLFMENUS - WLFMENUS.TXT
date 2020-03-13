@@ -1,0 +1,23 @@
+WolfMenu and DOSMenu are simple DOS-based tools to catalogue, search for, and launch 
+your Wolfenstein 3-D mods and addons. The menus are user-configurable, and support 
+up to 600 entries per menu. Works under Windows too.
+
+The modern wolfer will probably prefer DOSMenu, as it does away with WolfMenu's menu-driven 
+"patch-swapper" functions, and presents an immediate list of entries, making it better 
+for nesting multiple instances of itself. The DOSMenu sample SPOT.BAT demonstrates 
+this nesting of menus. Also, WolfMenu is quite a "memory-hog" and may need about 
+600k of conventional memory in a fully-populated configuration to run without "out 
+of memory" errors popping up.
+
+Both apps come with detailed instructions and sample BAT files to demonstrate alternate 
+ways of organizing your collection. Maybe you can come up with your own scheme!
+
+To get started, unzip the contents of each zip into its own folder (pkunzip users 
+must use -d to preserve the directory structure), from the command prompt run SETUP.EXE, 
+and then start up the program with the command WOLF (the WOLF command can be executed 
+using the Windows shortcut provided with each program). I advise reading the Read 
+This First! item. It's lengthy, but has crucial information for effectively using 
+WolfMenu and DOSMenu. The F1 and F2 keys bring up a quick help/reminder message.
+
+
+Andy

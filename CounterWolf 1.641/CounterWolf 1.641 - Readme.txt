@@ -1,0 +1,135 @@
+Updated 7.1.03
+
+===================
+
+       Game
+
+===================
+
+*Counter-Wolf
+
+-A Wolfenstein-3d Modification by Ryan King-
+-Based on the number 1 online action game -
+             -Counter-Strike-
+
+===================
+
+     System Req.   
+
+===================
+
+Minimum Requirments
+
+-IBM-PC and Compatibles 
+-MS-DOS(R) 5.0 or higher 
+-640K RAM 
+-10 MB available Hard Disk Space 
+-386/33 MHz Processor 
+-VGA graphics 
+-Joystick and mouse optional 
+-Supports Sound Blaster and 100% compatible sound cards
+
+Recommended Requirments
+
+-Windows 95
+-4MB RAM 
+-15 MB available Hard Disk Space 
+-486SX/66 MHz Processor 
+-VGA graphics 
+-Joystick and mouse optional 
+-Supports Sound Blaster and 100% compatible sound cards
+
+Todays Requirments
+
+-Windows 98
+-256MB RAM 
+-15 MB available Hard Disk Space 
+-P2/266 MHz Processor 
+-8MB Graphic Card (Software)
+-Joystick and mouse optional
+-Supports Sound Blaster and 100% compatible sound cards
+
+Uncompatibility Sometimes with
+
+-Windows XP
+-Windows ME
+
+===================
+
+      Website
+
+===================
+
+www.geocities.com/ryanpking/
+
+===================
+
+   Coming soon
+
+===================
+
+-Version-
+*Beta 1.0*
+
+Original Beta
+
+-Version-
+*Beta 1.5*
+
+Released Beta
+
+-Version-
+*1.00*
+
+Finished Episode 1
+
+-Version-
+*1.05*
+
+Half finished with Episode 2
+
+-Version-
+*1.06*
+
+Finished with Episode 2
+
+-Version-
+*1.06a*
+
+Episode 3 - 2 levels finished
+
+-Version-
+*1.06b*
+
+Memory Screen
+Title Screen(new)
+
+-Version-
+*1.06.5*
+
+Build Dates
+Changed Single Pistol back into the knife
+Changed Dual to Silenced USP
+
+-Version-
+*1.4.4.1*
+
+New Bar
+New ammo
+A WHOLE LOT OF STUFF!
+
+-Version-
+*1.6.4.1
+
+Too much to list!
+
+===================
+
+    E-Mail ME @
+
+===================
+
+ryanpking@yahoo.com
+
+
+

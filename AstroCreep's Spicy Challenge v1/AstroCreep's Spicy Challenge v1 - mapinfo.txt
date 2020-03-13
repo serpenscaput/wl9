@@ -1,0 +1,269 @@
+intermission DemoLoop
+{
+	Fader
+	{
+		Music = "APOGEE2"
+		Background = "OUREARTH"
+		Time = -2
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -1.5
+	}
+	Image
+	{
+		Draw = "ACREEP", 195, 112
+		Time = -3
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+	Fader
+	{
+		Music = "ASTRO_2"
+		Background = TitlePage
+		Time = 15
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -30
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+	Fader
+	{
+		Background = "CREDITS"
+		Time = 15
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -10
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+		Fader
+	{
+		Background = TitlePage
+		Time = 15
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -30
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+	Fader
+	{
+		Background = "CREDITS"
+		Time = 15
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -10
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+		Fader
+	{
+		Background = TitlePage
+		Time = 15
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -30
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+	Fader
+	{
+		Background = "CREDITS"
+		Time = 15
+		FadeType = FadeIn
+	}
+	Image
+	{
+		Time = -10
+	}
+	Fader
+	{
+		Time = 15
+		FadeType = FadeOut
+	}
+}
+
+gameinfo
+{
+	playerclasses = "NewPlayer"
+	signon = "WLFSGNON"
+	menufade = "AE 00 00"
+	menucolors = "88 00 00", "D4 00 00", "7D 00 00", "58 00 00", "64 00 00", "00 00 
+00"
+	titlemusic = "-"
+	scoresmusic = "ROSTER"
+	drawreadthis = true
+	gamepalette = "WOLFPAL"
+	titlepage = "TITLEPIC"
+	menufontcolor_disabled = "DarkRed"
+	highscoresfont = "SmallFont"
+	quitmessages = "$ENDSTR01", "$ENDSTR02", "$ENDSTR03", "$ENDSTR04", "$ENDSTR05", 
+"$ENDSTR06", "$ENDSTR07", "$ENDSTR08", "$ENDSTR09"
+	translator = "xlat/ec_wl6.txt"
+	advisorycolor = "00 00 00"
+	advisorypic = "PC13"
+	finalemusic = "ECHOESPF"
+}
+
+adddefaultmap
+{
+	deathcam = true
+	specialaction = "AngelOfDeath", "Exit_Victory"
+}
+
+clearepisodes
+
+// Episode 1
+
+episode "MAP01"
+{
+	lookup = "WL_EPISODE1"
+	picname = "M_EPIS1"
+	key = "E"
+}
+
+cluster 1
+{
+	exittext = "HELPART"
+	exittextislump
+}
+
+map "MAP01" "BJ's BACK!"
+{
+	next = "MAP02"
+	secretnext = "MAP10"
+	defaultceiling = "#585400"
+	floornumber = 1
+	par = 90
+	music = "HESBACKA" // HESBACKA.imf, Duke Nukem II
+	cluster = 1
+}
+
+map "MAP02" "Catacombs R' Us"
+{
+	next = "MAP03"
+	secretnext = "MAP10"
+	floornumber = 2
+	par = 120
+	music = "TETRIS_A" // Tetris Song A (NES)
+	cluster = 1
+}
+
+map "MAP03" "Grosse Negligence"
+{
+	next = "MAP04"
+	secretnext = "MAP10"
+	floornumber = 3
+	par = 120
+	music = "ASTRO_4" // original IMF by AstroCreep
+	cluster = 1
+}
+
+map "MAP04" "More Cushion For The Pushin'"
+{
+	next = "MAP05"
+	secretnext = "MAP10"
+	floornumber = 4
+	par = 210
+	music = "DD2MISS2" // Double Dragon II Level 2 Music
+	cluster = 1
+}
+
+map "MAP05" "IT'S ALIVE!!!!"
+{
+	next = "MAP06"
+	secretnext = "MAP10"
+	floornumber = 5
+	par = 180
+	music = "FRANKNST" // Edgar Winter Group, "Frankenstein"
+	cluster = 1
+}
+
+map "MAP06" "The Gift That Keeps Giving"
+{
+	next = "MAP07"
+	secretnext = "MAP10"
+	defaultceiling = "#704828"
+	floornumber = 6
+	par = 180
+	music = "HEAVY1A" // HEAVY1A.imf, Operation: Body Count
+	cluster = 1
+}
+
+map "MAP07" "Hobbes' Bondage Chamber"
+{
+	next = "MAP08"
+	secretnext = "MAP10"
+	defaultceiling = "#000058"
+	floornumber = 7
+	par = 150
+	music = "ASTRO_7" // original IMF file by AstroCreep
+	cluster = 1
+}
+
+map "MAP08" "Heavy Metal"
+{
+	next = "MAP09"
+	secretnext = "MAP10"
+	floornumber = 8
+	defaultceiling = "#006464"
+	defaultfloor = "#704828"
+	par = 150
+	music = "REPTILE" // Nine Inch Nails, "Reptile"
+	cluster = 1
+}
+
+map "MAP09" "Darn You To Heck, Lint Licker!"
+{
+	next = "MAP10"
+	secretnext = "MAP10"
+	floornumber = 9
+	defaultceiling = "#980000"
+	defaultfloor = "#704828"
+	music = "ASTRO_5" // original IMF by AstroCreep
+	cluster = 1
+}
+
+map "MAP10" "Wolf3D Secret Map Doing"
+{
+	next = "MAP08"
+	secretnext = "MAP10"
+	defaultceiling = "#400040"
+	floornumber = 10
+	music = "AMADEUS2" // Falco, "Rock Me Amadeus"
+	cluster = 1
+	completionstring = "$STR_SECRETCOMPLETED"
+	levelbonus = 15000
+	secretdeathsounds = true
+}

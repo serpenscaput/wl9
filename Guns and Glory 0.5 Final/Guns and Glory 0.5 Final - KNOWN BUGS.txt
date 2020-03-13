@@ -1,0 +1,11 @@
+KNOWN BUGS -
+-	When changing the music volume in the sounds menu, the sound effects volume is 
+also affected.
+-	The game will sometimes randomly crash when a sound plays at the same time that 
+the game's music begins to loop. This only occurs with MIDI music
+		from what I can tell.
+-	The game may start up slowly due to the large amount of data present. This is not 
+necessarily a bug, but just be ready for a bit of a wait between
+		the Title screen and the menu.
+-	The cheat command "tedlevel" does not function properly and the game will crash 
+when using it to start a new game.

@@ -1,0 +1,30 @@
+DEADLY SLEEP -- ECWOLF CLASSICS EDITION
+
+By Arielus and Brian Lowe
+Ported to ECWolf by Executor
+
+This is a port of Brian Lowe and Arielus's 2009 Countdown to Disaster TC to ECWolf. 
+The source edited exe and self-contained files have been replaced by a small 95KB 
+pk3 that contains only the files not in Wolfenstein 3D v1.4. All of the maps are 
+presented unchanged. The HUD has been cleaned up so the four keys and weapon display 
+are nice and seamless, and the bronze and iron keys have their own indicators. Colored 
+keyholes have been added to locked doors to make the four-key layouts easier to navigate. 
+No changes have been made to Ragland's graphics and level design, and I have tried 
+to match every aspect of it as closely as possible to the original, except some very 
+minor graphical cleanup. A Read This! has been included with basic information and 
+the original story.
+
+This port should be compatible with any texture, weapon, or gameplay mods made for 
+ECWolf that do not have their own maps or alter MAPINFO. Any bug reports should be 
+directed to spaceforce-temp@hotmail.com.
+
+The original README.txt and STORY.txt are present, unaltered, inside the pk3 file. 
+This mod requires Spear of Destiny and will not run correctly under Wolfenstein 3D!
+
+
+CREDITS
+
+Deadly Sleep originally (c) 2009 Ariel Castañeres and Brian Lowe
+Some graphics from the original mod taken from Spear of Destiny
+New locked door textures by Xaser
+Converted to ECWolf by Executor

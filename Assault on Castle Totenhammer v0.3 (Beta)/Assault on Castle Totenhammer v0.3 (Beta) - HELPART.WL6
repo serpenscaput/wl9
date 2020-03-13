@@ -1,0 +1,280 @@
+^P
+^C2b Wolfenstein 3-D:
+^C22 Assault on Castle Totenhammer
+^C2b |--     Created By Joe    --|
+
+^C00 Welcome to AoT!  This is my first -released- Wolfenstein conversion.  It has 
+been long in the making, but certainly worth the time.  The following text depicts 
+the new aspects of this game, and notes the differences to the original Wolfenstein. 
+ This is the 0.3 (pre-phase one) version, and only has seven complete levels.  The 
+game ends at the end of the seventh.
+
+^C14 Story - - - - - - Page Two
+^C17 Manual - - - - - - Page Eight
+^C1A Credits - - - - - - Page Twenty-Five
+
+^P
+^C23 Story
+
+^C00 	April 1, 1945.  Soviet forces  occupy Budapest, Hungary.  No more than fifty 
+miles from Berlin, the centre of Adolf Hitler's crumbling Third Reich.  The Reds 
+hold a massive force, and stand ready to invade at any time.  There is simply one 
+problem:  The Nazi's have developed a new alloy as to which they create their tank 
+shells and ammunition.  This new allow creates heavily more powerful gunfire.  The 
+Soviets cannot counteract this.  However, the Russians are hard at work trying to 
+develop their own new armor.
+^P
+^C23 Story
+
+^C00 	One armor that the Germans will be unable to penatrate.  They have gathered 
+a team of their own renowned scientists, all hard at work on this brutal task.  Their 
+head scientist, Vladimir Zukovski, having the greatest and most powerful mind in 
+this field, is an obvious target for the Germans.  One target, they'd like to eliminate. 
+ The very same man, they did capture.  And Doctor Zukovski was carried off to Germany 
+on April fifth, 1945.
+^P
+^C23 Story
+
+^C00 	What will the Soviets do now?  What will the entire free world do, now?  If 
+the Russians cannot make the push, will the British?  The English?  Or perhaps Zukovski 
+can be rescued.  But what human being could accomplish such a task as this?  Getting 
+behind enemy lines and breaking into a heavily fortified prison castle?  Can it even 
+be done by an army?  Perhaps, the 'One Man Army,' none other than William J. Blazkowicz 
+himself.  The American Army Ranger.  The Russians would need an agent such as he 
+to save their man.
+^P
+^C23 Story
+
+^C00 	One man sits quietly in his window-lit office, writing on some sort of document.. 
+ A large room, with a large wooden desk, facing the door outward.  A fan slowly spins 
+overhead.  This man would be the one and only Director of the Office of Secret Actions. 
+ The only man who has access to the One Man Army.
+	There was a knock at his door. He simply says, ^C6B "Come in." ^C00 The door opens, 
+and a thin man in a light grey suit strolls in.  He is Jack Stone.  An American man, 
+advisor to the Director. ^C6B "What is it, Jack?"
+^P
+^C23 Story
+
+^C00	Jack pauses for a moment, and then begins to speak. ^C96 "Well, sir, I just 
+ended a phone conversation with a Soviet man, telling me of a development.  The Germans 
+have captured one of their key scientists." ^C00 The Director studies Jack for a 
+moment. ^C6B "Why does this invlove us?" ^C96 "They requested the use of one of our 
+agents to recover their man.  They say that only our Agent Blazkowicz will be able 
+to complete this task." ^C00 Once again, the Director studies Jack, then speaks again.
+
+^P
+^C23 Story
+
+^C6B    "I see..  Where is this scientist being held, or do our friends even know?" 
+^C00 No matter how much he expected it, Jack was still suprised at the question. 
+^C96 "They say he is being held in a prison castle just north-east of Berlin itself. 
+ A castle by the name of 'Totenhammer.' " ^C6B "Death hammer.. I suppose we should 
+hurry, I doubt their scientist is too very happy in such surroundings.  Inform Blazkowicz, 
+and have him make way to Moscow immediately: there is no time to waste."
+^P
+^C23 Manual
+
+^C20 Items: ^C00 Depending on the current difficulty, items have lesser or greater 
+effects.  On easy, items provide more of their usage.  Ammo crates provide 30 bullets 
+on the Newbie and I'm Fragile difficulties, but only 15 on the Ich Bin Gott difficulty. 
+ Medical kits also heal less health.  On the easy difficutlies, the large heals 30, 
+but only 15 on hard.  For all of these examples, the difficulty 'Not too rough..' 
+is a mid-balance between the two.
+^P
+^C23 Manual
+
+^C20 Difficulties: ^C00 In Assault on Castle Totenhammer, there are still four difficulties:
+
+
+	^C96: Newbie! : ^C00 This is the easiest difficulty.  It has the fewest guards and 
+they do much less damage.  Items have the most powerful effects.  Suitable to people 
+who suck at Wolfenstein 3-D.
+
+	^C96: I'm Fragile : ^C00 This difficulty has all of the same effects as above, but 
+the guards do a normal amount of damage.
+^P
+^C23 Manual
+
+^C20 Difficulties: (cont.)
+
+	^C96: Not too rough : ^C00 Here we have the standard difficulty.  The items hold 
+a reasonable amount and there is an average amount of guards.
+
+	^C96: Ich bin Gott! : ^C00 If you're feeling godly, this difficulty is for you. 
+ Not only are all the items' effects much lower, but there are more guards, with 
+more health than usual.  Not to mention, your weapons are noticably less accurate.
+
+
+^P
+^C23 Manual
+
+^C20 Introduction to Items
+
+^C00 Here's a frequent: items.  You'll find all sorts of collectible objects during 
+your 'visit' to Castle Totenhammer.  Among these, healing items, weapons/ammunition, 
+armor, and (though not really items) landmines.  
+
+^P
+^C23 Manual
+
+^C20 Healing Items: 
+	
+	^C96 Medical Kit (Large): ^C00 This is quite simply, the most powerful medical kit. 
+ Heals moderately
+	^C96 Medical Kit (Small): ^C00 Similar to the large kit.  It appears as a white 
+rectange, marked with a small, red cross.  Minimal healing power
+	^C96 Portable Health Kit: ^C00 How useful: a portable medical kit. (See Page 23) 
+
+^P
+^C23 Manual
+
+^C20 Healing Items (cont.)
+
+	^C96 Black Orb: ^C00 Ultimate healing power - instantly takes your health to double 
+it's normal maximum.
+	^C96 Red Liquid: ^C00 This glass acts as a supercharge to your health.  If you're 
+already at full, this will take your health above full at small intervals.
+^P
+^C23 Manual
+
+^C20 Introduction to Armor
+
+^C00 Armor can be your best friend, besides a stack of ammo, in a gun fight!  Armor 
+will take a large portion of the damage enemies cause on you, but it will take massive 
+blows.  It's always nice to keep your reserves high.  However, to do this, you must, 
+obviously, collect items that power up this status.
+^P
+^C23 Manual
+
+^C20 Armor Items:
+
+	^C96 Helmet: ^C00 This provides a noticable amount of armor to your total.  It's 
+simply a plain, dark, metal helmet.
+	^C96 Flak Coats: ^C00 Flak coats add a large power to your status.  These are tan 
+uniforms, used by most guards in the castle.
+	^C96 Boots: ^C00 These act like the red liquid does, only it applies to armor instead. 
+ Just plain, black boots.
+^P
+^C23 Manual
+
+^C20 Weapons and Ammuniton Overview
+
+	^C00 Self-explanitory!  However, this manual must describe this subject anyway. 
+ You will find many weapons as you progress through the castle...
+^P
+^C23 Manual
+
+^C20 Weapons
+
+	^C96 Knife: ^C00 This is nothing but a simple, silent, combat knife.
+	^C96 (9mm)Luger: ^C00 This is simply a pistol, used prequently in Castle Totenhammer 
+by the Germans.  You can silence this weapon and you can hold two at a time.
+	^C96 (9mm)MP40: ^C00 The MP40 is a cheap, efficient sub-machinegun.  A favorite 
+of the Germans, used in mass frequency.  It balances a fast fire rate with moderate 
+power and accuracy.
+^P
+^C23 Manual
+
+^C20 Weapons (cont.)
+
+	^C96 (9mm)Sten SMG: ^C00 Here is your only silenced, automatic weapon.  It's weaker 
+than the MP40, but it fires at the same rate and is silenced.
+	^C96 (7.62mm)AK57: ^C00 One word: Ownage.  This is by far the most powerful, fastest 
+firing, and most accurate weapon you will come accross.  It uses a unique type of 
+ammuniton from the other weapons you have, and you can carry much more of it.
+^P
+^C23 Manual
+
+^C20 Hazards
+
+	^C96 Green Poison: ^C00 Dangerous stuff!  If you step on this, you will begin loosing 
+health at a semi-rapid pace!  You must, quickly, either complete the level, or find 
+a glass of blue liquid!
+	^C96 Land Mines: ^C00 Powerful explosive devices planted on the ground.  These do 
+a severe amount of damage to you if you step on them!  They're rather rare, appearing 
+on just a few levels.
+ 
+^P
+^C23 Manual
+
+^C20 Other Items
+
+	^C96 Backpack: ^C00 This is a very handy item!  This allows you to carry much more 
+ammunition than the usual limit..  Very handy.
+	^C96 Unifor/Disguise: ^C00 Ooh, cool stuffs, eh?  This is a Nazi officer's uniform. 
+ This allows you to walk around under the noses of all the soldiers on the floor. 
+ Watch your step: there are triggers on the floor that set off the alarm.
+^P
+^C23 Manual
+
+^C20 Hiding Yourself/Using the Disguise 
+
+	^C00 Unfrequently, you will come accross a dark grey uniform, hanging on a clothing 
+rack.  Take this item, and you will take the appearance of a Nazi officer.  In this 
+state, it's wise to holster your weapon (H) as to avoid attracting attention.  If 
+a soldier sees you with your weapon drawn, he'll be alerted and try to attack you. 
+ If any noise is made, your cover will be lost.  
+^P
+^C23 Manual
+
+^C20 Hiding Yourself/Using the Disguise (cont.)
+
+	^C00 Alternatively, you can elimnate him, with a silenced weapon, before he fires, 
+and your cover will be preserved.  Watch your step!  There will be many buttons on 
+the floors!  These are used to catch officer/guard posers, as they are imformed of 
+the triggers' positions in advance.
+^P
+^C23 Manual
+
+^C20 Other Features
+
+	^C96 Ammunition Racks: ^C00 These are always nice to have around - these provide 
+one of the two SMG weapons and 20 rounds to go with it.  These are a wall tile.
+	^C96 Portable Medical Kits: ^C00 You can collect these items from the ground, adding 
+to a total of five at a time.  You can use these at any time by pressing (M).  They 
+heal ten percent of your health, as long as it's below 100%.
+^P
+^C23 Manual
+
+^C20 Other Features (cont.)
+	
+	^C96 End Level Triggers: ^C00 Normally, these are semi-difficult to spot.  If you 
+step on these, they will instantly take you to the next level.
+	^C96 Wall Swith: ^C00 There are sometimes switches on the walls.  These work as 
+locking/unlocking mechanisms for some doors.
+^P
+^C23 Credits
+
+^C20 Graphics/Audio
+
+	^C96 SS Infantry: ^C00 I'd like to provide direct thanks to Wolf Skevos-Jones for 
+providing me with the sprites for these helmeted, SS minigunners.
+	^C96 Door Sounds: ^C00 More thanks to W.S.J. for these sounds.  I admit, I 'stole' 
+these from him.  He once said he was proud that people actually like his audio/gfx.
+
+^P
+^C23 Credits
+
+^C20 Graphics/Audio (cont.)
+	
+	^C96 Voices: ^C00 There are some borrowed audio sounds, like voices, but most are 
+from the original Wolfenstein and ones that I created/found via the internet.  I'd 
+like to thank Tristan, W.S.J., and Laz Rojas (for two of his yelling voices).
+^P
+^C23 Credits
+
+^C20 Source Coding
+
+	^C96 Floor/Ceiling Texture: ^C00 Straight out, thanks to DarkOne for his excellent 
+source coding skills.  Without this, my conversion would just be another 'game I 
+played once' to people.
+^P
+^C23 Credits
+
+^C20 Source Coding (cont.)
+
+	^C96 Additional Coding: ^C00 The rest of what you see is my personal work.  I admit, 
+I viewed many tutorials before, but I have since re-written most or all of them. 
+ The ones that are not rewritten, have been heavily modified to a point that they 
+should be considered my own.
+ ^E

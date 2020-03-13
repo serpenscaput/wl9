@@ -1,0 +1,163 @@
+===========================================================================
+-           WAD Authoring Template version Oops wrong game!               -
+===========================================================================
+Title                   : Spear of Destiny - Operation Nighthawk
+Release date            : Feb. 25 2014
+Author                  : reflex17
+Email Address           : sheknowsandsheknows@hotmail.com
+
+Description             : The fires of war burn across Europe and you are   
+                          B.J Blazkowicz - you have a special mission...
+                          Castle Nuremberg is a fortified Nazi stronghold
+                          and it is rumored that the fabled Spear of
+                          Destiny has fallen into the hands of the Reich.
+                          At great risk, members of a resistance faction
+                          have smuggled you into the castle on a truckload
+                          of goods - As you jump out into the tunnel dark
+                          whispers fill your mind... among Allied troops
+                          there are horrible stories of the Castle and  
+                          what happens there, some even say that Hitler is
+                          trying to raise an army of the undead... You have
+                          no time for these thoughts now, there is only the
+                          mission - Infiltrate the tunnels below Castle
+                          Nuremberg and gain access the upper halls... No 
+                          one can do it but you, good luck B.J!
+
+Big thx to              :  -id and Apogee (for Wolf3d&SoD)
+                           -Dave Huntoon, Bryan Baker and Warren Buss
+                            (for mapster level editor)
+                           -Wolf community past&present
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Other                   : No
+Files required          : GAMEMAPS.SOD, MAPHEAD.SOD 
+
+--------------------------------------------------------------------             
+             
+*NOTE: Make sure to back up your existing files before overwriting!* 
+--------------------------------------------------------------------
+
+* Play Information *
+
+Game                    : Spear of Destiny
+Map #                   : 1, 2, 3, 4, 5, 19
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 40-50 hours approx.
+Editor(s) used          : Mapster v. 8.4
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may not use the contents of this file as a base for
+modification or reuse.  
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Level Information *
+
+--------------------------
+MAP 1: ENTRYWAY
+--------------------------
+
+OBJECTS : 389 
+DOORS   : 49
+SKILL 1 : 27
+SKILL 3 : 27
+SKILL 4 : 27
+GUARDS  : 81
+
+SECRETS : 5
+TREASURE: 70
+
+--------------------------
+MAP 2: CATACOMBS
+--------------------------
+
+OBJECTS : 390
+DOORS   : 52
+SKILL 1 : 37
+SKILL 3 : 37
+SKILL 4 : 37
+GUARDS  : 111
+
+SECRETS : 7
+TREASURE: 70
+
+--------------------------
+MAP 3: THE GATEHOUSE
+--------------------------
+
+OBJECTS : 390 
+DOORS   : 57
+SKILL 1 : 48
+SKILL 3 : 48
+SKILL 4 : 48
+GUARDS  : 144
+
+SECRETS : 5
+TREASURE: 50
+
+--------------------------
+MAP 4: TREASURE VAULTS
+--------------------------
+
+OBJECTS : 384 
+DOORS   : 63
+SKILL 1 : 54
+SKILL 3 : 48
+SKILL 4 : 44
+GUARDS  : 146
+
+SECRETS : 4
+TREASURE: 70
+
+--------------------------
+MAP 5: THE HALL OF KNIGHTS
+--------------------------
+
+OBJECTS : 394 
+DOORS   : 43
+SKILL 1 : 36
+SKILL 3 : 32
+SKILL 4 : 32
+GUARDS  : 101
+BOSS    : 1
+
+SECRETS : 10
+TREASURE: 70
+
+------------------------
+MAP 19: THE ROYAL CRYPTS
+------------------------
+
+OBJECTS : 392 
+DOORS   : 62
+SKILL 1 : 66
+SKILL 3 : 33
+SKILL 4 : 33
+GUARDS  : 132
+
+SECRETS : 7
+TREASURE: 70
+
+------------------------
+
+Thanks for playing! :)
+-reflex17
+
+---EOF---

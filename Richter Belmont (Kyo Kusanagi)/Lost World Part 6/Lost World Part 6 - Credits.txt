@@ -1,0 +1,46 @@
+Coding:insurrectionman, Ripper, Brother Tank, Darkone, WSJ
+GFX: Hud:Dr. Chainsaw (Edited By: Me) Title: Me and MAC
+Weapons: Wildweasel (WW-diaz.wad)
+ww-diaz strategy guide 
+by wildweasel 
+(or, what I ripped and who I give credit to) 
+(pretty much all of these were edited by me, somehow) 
+
+player sounds - tavion's from jedi knight 2 
+colt45 firing sound - mgs3 
+colt45 reloads - wolf e.t. 
+skorpion firing sound - call of duty 2 
+skorpion reloading sounds - nolf 2 
+punching sounds - action hl, postal 2 
+grenade sounds - powerslave and wolfenstein for mac 
+shotgun sounds - quake 4, firearms, doom 3, and moh:aa 
+revolver sounds - call of duty 2, day of defeat replacement model, half-life replacement 
+model, 
+counter-strike replacement model, goldeneye 
+rpk sounds - soldier of fortune 2, hl2 smod, doom 3, rtcw 
+arc welder sounds - half-life 2, prey, deus ex 
+smg37 sounds - no one lives forever 2 
+melee attack sounds - call of duty 2, half-life 2 
+shell/clip drop sounds - half-life and half-life 2 
+ricochet sounds - mgs3 
+
+most edits - wildweasel 
+most other edits - marty kirra 
+hands - marty kirra, blood 1, hacx 
+colt45 - ww2gi, powerslave, duke3d 
+skorpion - paul, scuba steve 
+fists - hacx, duke3d 
+grenades - powerslave 
+shotgun - half-life high-def pack 
+revolver - paul, snarboo, powerslave 
+rpg7 - end of days (half-life replacement model) 
+smg37 - world war ii gi 
+rpk - soldier of fortune 2, captain red, nam/napalm, kronos 
+arc welder - paul 
+
+coding help - marty, tda, zdoom forums 
+code borrowed - caligari, zeroprophet, xaser, tda
+
+(some of them are not used but just incase) 
+Bosses/Enemies: Mr.Wolf, And others
+Sprites: Areyep and MCS, Majik Monkee, RGamesINC, Joe M

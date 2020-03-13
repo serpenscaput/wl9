@@ -1,0 +1,225 @@
+^PAGE 1
+^c7eKURZANLEITUNG
+^c00
+
+
+F1			Hilfe
+F2			Speichern (F8 Schnellspeichern)
+F3			Laden (F9 Schnelladen)
+F4			Sound-Einstellungen
+F5			Blickbereich einstellen
+F6			Steuerungen einstellen
+F7			Spiel beendnen
+F10		Programm beenden
+
+Mehr Informationen auf den n=chsten Seiten.
+^PAGE 2
+
+
+^c7eI H A L T / I N D E X
+^c00
+
+
+
+DEUTSCH . . . . . . .  3
+ENGLISH . . . . . . . 12
+^PAGE 3
+^G12,76,4
+^G66,16,3
+
+
+
+
+                                                                                 
+                                              
+^c00Hallo erstmal! Hier ist "Der Angriff", sechs neue Episoden f}r Wolfenstein, z. 
+T. mit neuen Grafiken und Sounds, zusammengebastelt von _~#|_~*\] (das bin ich). 
+Viel Spa& mit dem Spiel!
+^PAGE 4
+^c00Nur kurz ein paar einleitende Worte zu den vorliegenden Episoden: Insgesamt gibt 
+es 60 Levels, wobei es in jeder Episode je ein Bonus-Level gibt, also wie beim alten 
+Wolfenstein 3D. Die Gegner sind gr$&tenteils geblieben, nur gibt's statt dem pseudo-deutschen 
+"Hupacho" und "Spea" jetzt richtiges Deutsch. Die Blauen rufen "Verdammt nochmal", 
+die Wei&en pfeifen sich gegenseitig her, und auch die Schilder an den W=nden sind 
+mit Spr}chen wie "Zutritt verboten" oder "Feind h$rt mit" beschriftet. Auch Statusleiste 
+und Men}}berschriften sind deutsch geworden, und es gibt ^c28MEHR BLUT!
+^c00
+^PAGE 5
+^G16,16,5
+Besonders interessant ist auch, da& die Soldaten neu schreien. Es lohnt sich mitunter, 
+nicht nur draufzu- ballern, sondern ihnen ruhig auch mal beim Sterben zuzuh$ren :-)
+
+
+Die Missionen sind nicht ganz einfach. Du mu&t schnell sein und oft zwischen- speichern. 
+Aber es ist zu packen, die Levels auch ohne Codes zu }berleben und }berall 100 Prozent 
+abzustauben. Am meisten Spa& macht das Spiel im h=rtesten Modus. Es ist
+^PAGE 6
+ratsam, jedes Level mit voller Gesundheit und voller Munition zu verlassen.
+
+Nat}rlich gibt's auch hier Geheimg=nge. Sie sind nicht immer dort, wo man sie vermutet, 
+aber dank Mapedit oder anderen netten Progr=mmchen lassen die sich ja auch recht 
+schnell herausfinden.
+
+Das w=r's auch schon soweit. Wie gesagt: es gibt neue Grafiken, neue Sounds und ein 
+paar andere Nettigkeiten, aber "Der Angriff" bewegt sich noch recht nahe am alten 
+Wolfenstein 3D, alles andere w=re Verrat am Vorbild.
+^PAGE 7
+Die Bonus-Levels sollen vor allem Munition, Gesundheit, Punkte und Spa& bringen. 
+Auf }berm=&ig viele Soldaten oder gar Endgegner in den Bonus-Levels habe ich deshalb 
+verzichtet. Wer sie findet, soll auch daf}r belohnt werden.
+^PAGE 8
+^c28Eingesetzte Hard- und Software:
+
+^c00486 DX 2-66, 16 MB RAM, 16 Bit-Soundkarte
+AMD Athlon 2,8 GHz, 512 MB RAM, Digitalkarte
+Mapedit, Flo-Edit, Wolfedit, Chaos-Edit,
+au&erdem eine Auswahl an Sound- und Grafikprogrammen.
+
+Zusammengebaut von Fr}hjahr 2006 bis 07
+von _~#|_~*\]
+
+^PAGE 9
+^c28Neuerungen in diesem Spiel:
+
+^c00- Neue Sounds, W=nde und Sprites
+- Decken und B$den
+- 25er-Munitionskiste
+- Max. 200 Schu&
+- Neue Gegner: wei&e Helmtr=ger (Vorsicht!)
+- Neuer Gegner mit Flammenwerfer
+- Blaue Soldaten lassen immer Waffe fallen
+- Herzschlag, wenn Gesundheit unter 20%
+- Ver=nderte Punktzahlen
+- Cheat: Durch W=nde gehen (Tab+N)
+- ...und diverse Kleinigkeiten
+
+^PAGE 10
+^c28Bekannte Probleme:
+
+^c00In einigen Levels kann es vorkommen, da& R=nder an den W=nden, Fu&b$den und Decken 
+flackern oder blau werden. Trotz aller Bem}hungen habe ich diesen Bug nicht be-
+seitigt bekommen. Wer wei&, wie's geht, m$ge mir schreiben.
+
+Es kommt auch hin und wieder vor, da& W=nde pl$tzlich zu blauen Steinen werden. Das 
+scheint ein Speicherproblem des originalen Quelltextes zu sein. In diesem Fall hilft 
+es, abzuspeichern, das Spiel zu beenden und neu zu starten.
+^PAGE 11
+^c28Credits:
+
+^c00- Steve (AReyeP f}r eine Musik)
+- ronwolf1705
+- DarkOne
+- CodeTech84
+- Ripper (Chaos-Software)
+
+^c01Danke an alle, die geholfen haben!
+
+^c00Meinungen und Kommentare an antipersonenvirus@gmx.de; die Mails werden an mich 
+weitergeleitet.
+Viel Spa& mit dem Spiel!
+
+
+^PAGE 12
+^G12,76,4
+^G66,16,3
+
+
+
+
+
+^c00Hello there! This is "Der Angriff", six new episodes for Wolfenstein. There are 
+some new graphics and sounds, built and edited by _~#|_~*\] (that's me).
+
+Enjoy the game!
+^PAGE 13
+^c00Just a few words concerning "Der Angriff": Here are 60 levels. In each episode 
+you will find one secret level, similar to the old Wolfenstein 3D. The enemies are 
+almost the same ones, but instead of pseudo German "Hupacho" (?) or "Spea" (??) you'll 
+now hear real German. The blue soldiers call "Verdammt nochmal" ("Damn shit"), the 
+White guards whistle each other to the place of action, and even the signs on the 
+walls are held in German.
+
+So in a few rooms there is "Zutritt verboten" ("No entry"), "Rauchen verboten" ("No 
+smoking"), or you are warned:
+^PAGE 14
+"Feind h$rt mit!" ("Enemy's listening secretly"). Also the menu titles have changed.
+
+And the best of all: there's ^c28MORE BLOOD!
+
+^G55,120,42
+^c00
+^PAGE 15
+^G16,16,5
+It is quite interesting that the soldiers scream in a new way. So it sometimes could 
+be funny not just to bang them away but to listen to them when they die :-)
+
+The missions are not that easy. You have to be quick and should often save your game. 
+However, it is managable to succeed without using the cheat-codes. You can even get 
+100 per cent all the time, it's possible! Most fun is in hardest skill.
+^PAGE 16
+You should leave every floor with full health and ammo if possible.
+Of course, you may explore some push walls. They are not always where you expect 
+them to be. But thanks to Mapedit or similar tools it's not so hard to find them 
+out.
+
+That's it so far. Summarised: there are some new graphics, new sounds and some other 
+benefits, but "Der Angriff" is close to the old Wolfenstein 3D; otherwise it was 
+betrayal of the original.
+
+^PAGE 17
+The bonus levels should be fun and donate ammo, health and score to you. Therefore, 
+I avoided too many soldiers or even boss enemies in the bonus levels, due to you 
+should be salarised when you find them.
+
+^PAGE 18
+^c28Used hard- and software:
+
+^c00486 DX 2-66, 16 MB RAM, 16 Bit-Sound card
+AMD Athlon 2,8 GHz, 512 MB RAM, digital card
+Mapedit, Flo-Edit, Wolfedit, Chaos-Edit
+and a choice of graphic- and sound-utilities.
+
+Built from spring 2006 until spring 07
+by _~#|_~*\]
+
+^PAGE 19
+^c28Improvements in this game:
+
+^c00- New sounds, walls and sprites
+- floors and ceilings
+- 25 ammo box added
+- max. 200 ammo
+- new enemies: white soldiers (beware!)
+- new enemy with flame-thrower
+- blue soldiers always drop their weapon
+- heartbeat if health below 20%
+- changed scores
+- No Clipping mode added (Tab+N)
+- ...and several second-unit changes
+
+^PAGE 20
+^c28Known problems:
+
+^c00In some levels it may occure that separations between walls, floors and ceilings 
+flicker or turn to blue. Although I gave my best I couldn't eliminate this bug. If 
+you know how to, mail me.
+
+It also may sometimes appear that walls suddenly turn into blue stones. This seems 
+to be a memory problem in the original source code. In that case it is useful to 
+save the game, leave it and reastart it.
+
+^PAGE 21
+^c28Credits:
+
+^c00- Steve (AReyeP for a tune)
+- ronwolf1705
+- DarkOne
+- CodeTech84
+- Ripper (Chaos-Software)
+
+^c01Thanks to all who have helped. Thank you! Dank je wel! Kiitos! Tack! Danke!
+
+^c00Opinions and comments to: antipersonenvirus@gmx.de; the mails will be forwarded 
+to me.
+Enjoy the game!
+^E

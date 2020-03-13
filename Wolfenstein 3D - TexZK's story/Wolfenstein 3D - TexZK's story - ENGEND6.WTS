@@ -1,0 +1,32 @@
+^P
+^C8f There's no hell!
+^C00
+the Uber Soldat has been destroyed. Hitler, not as the people have always said, wasn't 
+dead.
+Now his body is on the ground, teared to pieces by your shots. All you have seen 
+were experiments, demons included, to resurrect Hitler.
+
+^P
+^C00
+TexZK arrives instantly. He don't know what to say about you.
+^C67 "Excellent, Dr.Gnegno! I have ever thought that you could do this hell. I'm 
+very fine!"
+^Cf7 "Thanks, President. Now I want a little rest time, to forget this events"
+^C67 "OK, Doctor! But I think that after it you'll not be so quiet!"
+^Cf7 "What do you want to tell me with this?"
+^C67 "Well, Dr.Gnegno... I'll remain a President until a few time. After that you'll 
+replace me"
+^Cf7 "I dont' know how to thank you!"
+^C67 "It's me that must to thank you! Well, now it's time to let you to have your 
+holidays! Bye!"
+
+^P
+^C00
+After this dialogue you'll come back to home. All the horrors you've seen are running 
+into your head, as they are dreams.
+The World will not be oppressed by Nazis. Compliments!
+^G90,100,5
+^L160,132
+^C20 THE END
+
+^E

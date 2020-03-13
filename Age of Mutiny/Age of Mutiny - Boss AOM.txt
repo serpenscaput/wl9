@@ -1,0 +1,24 @@
+* * * Lost boss level: The Age Of Mutiny * * *
+
+Version 1.1 (has bugfix for folks running it in the WolfDX demo)
+
+This pair of files has one boss level from my lost mod "Age Of Mutiny".  It'll run 
+in both the Shareware and the Commercial version of Wolf3D.  I recommend you run 
+it in WolfDX though, as the map takes advantage of Guard Blocks, so guards won't 
+open doors they shouldn't.  It'll also rid you of the "disappearing objects" bug.
+
+
+This is *not* a recovered map.  It's one I re-created from memory, at the request 
+of a fellow Wolfer.
+
+It's not one of my better maps, but the first hallway and the boss sequence aren't 
+bad.  The boss sequence is still *very* mean though, so I've added one 1-UP to give 
+the player a fighting chance.
+
+The Shareware limitations of this map are obvious.  For one thing, there's enough 
+SS in this map to tide you over for quite a while.  Enjoy.  :-)
+
+- Tricob.
+
+P.S.  All Pushwalls have a wreath or eagle sticker.  You might need to push one before 
+going into the "SS corridor".

@@ -1,0 +1,41 @@
+THE FEAR OF MAGIC ][
+--------------------
+
+V.2.1
+
+What is new in THIS version of "The Fear of Magic"?
+
+* Sourcecode changes like; colors (ceeling, menu), filename, demo removed, read this, 
+new musics.
+* Update of some levels (Bug fixes) + Some new levels! Total now: 20
+* New Sprites & Wall images. (fixes)
+* 1 New sound.
+* 4 New Musics!!! (Mixed games & real artists)
+* Fixed the start & about screen a little.
+
+<CREDITS>
+
+New Art, Level Design, Sound Editing, and Testing: Fredrik Stjernholm 
+Some Testing: My brother.
+
+BlastFire Entertainment - 2002.
+Homepage: HTTP://clik.to/blf
+Updated every week!
+
+SOME NOTES:
+
+The episodes; 2-4 are not ready. To be in the later versions. And the episode names 
+of them can change.
+
+Stuff that will come in 2.2:
+
+1 more episode!
+More sprites, (like changing the color of B.J clothes, when he reaches end game trigger) 
+and wall images!
+maybe; 1 new weapon
+
+* I have worked alot with this (nearly all of my spare time) so, you are NOT allowed 
+to take (or change) ANY of MY GFX or Sounds, Text from this TC! 
+
+And HEY!! You guys can very well write something good in my nearly empty forum or 
+spend some SECS to vote at the poll! >-(

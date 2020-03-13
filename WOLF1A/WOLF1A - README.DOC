@@ -1,0 +1,25 @@
+WOLFENSTEIN 3-D Add-On
+
+Included herewith are two files that provide ten new levels for
+the shareware version of Wolfenstein 3-D (tm).  These files replace
+the equivalently named files that were provided with the original
+program.  (Note that this product will only work with the shareware
+version 1.1 of Wolfenstein 3-D.)
+
+Before installing, I recommend that you first copy the two original
+files so that they may be retrieved later.  These files are:
+
+    MAPHEAD.WL1   and   MAPTEMP.WL1
+
+You should copy these into MAPHEAD.SAV and MAPTEMP.SAV.
+
+Note that any saved games will be rendered inoperable once you install
+this add-on.  If you would like to be able to recall these saved games
+(after recalling the original MAPxxxx files), you should back them up
+before installing the add-on files.  Saved game files are named
+SAVGAMx.WL1 (where x is a digit from 0 to 9).  Copy these into
+SAVGAMx.SAV before installing the new MAP files.
+
+After backing up any desired files, simply copy the included files into
+your Wolfenstein 3-D directory.
+

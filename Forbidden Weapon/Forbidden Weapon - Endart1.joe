@@ -1,0 +1,54 @@
+^P
+^C2f FORBIDDEN WEAPON
+^G50,17,30
+
+^C2d CONGRATULATIONS
+
+^C00 As you run towards the hangar bay, you grab a crate full of charges and start 
+activating them. You then run to a ship, strapping yourself in. You hear the sound 
+of charges purring as you activate the ship's navigation system.
+^P
+^C2f FORBIDDEN WEAPON
+^G50,17,88
+
+^C2d CONGRATULATIONS
+
+^C00 You fly out of the hangar avoiding the catch of the flames, set off by the explosions. 
+Mad scientist Galen Maru is dead.
+^C00 The space station is consumed by flames, you contact your boss about the success.
+
+^P
+^C2f FORBIDDEN WEAPON
+^G50,17,3
+
+^C2d CONGRATULATIONS
+
+^C00 The STAR Remnant has been defeated, with the death of Galen Maru. The Great 
+Plasma Sphere is now extinct.
+
+^P
+^C2f FORBIDDEN WEAPON
+
+^C2d CONGRATULATIONS
+
+^C00 Well done on completing Forbidden Weapon. I hope you enjoyed playing it as much 
+as I did making it.
+
+^C00 JM2006
+
+^P
+^C2f FORBIDDEN WEAPON
+
+^C2d TOOLS
+
+^C00 Forbidden Weapon was created with out the following tools and editors:
+^C19 Rising Evil Map Editor ^C00 - Editing levels
+^C19 Floedit 2.00 ^C00 - Graphics replacement and addition, music, sound and VGAGRAPH 
+editing
+^C19 DosBox ^C00 - Graphics extracting from Blake Stone and Planet Strike
+^C19 Borland C++ 3.1 ^C00 - Source code compilation
+^C19 Paint, Paint Shop Pro 5.0 & Microsoft Picture It! Publish It! ^C00 - Graphic 
+conversion and editing
+^C19 Sound Recorder ^C00 - Sound Editing
+
+^E

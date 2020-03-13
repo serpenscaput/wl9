@@ -1,0 +1,50 @@
+^BCe3^SCe1^ST1^SP0^LCc5^DCc3
+^FC3a^FN1^CEMISSION BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^SL^PX0e6^PY025^SH0da^RL^RM0e0
+Accessing......current location:
+
+^RJ^FCeb
+STAR Institute training facility
+Transport Arrival
+^FCab
+
+^LJ^DM
+
+^AYfbWelcome to Selon Agent Stone. While you were in transport, the agents stationed 
+here have gathered new information regarding the training facility.
+
+^EP
+^FC3a^FN1^CEMISSION BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aAssessment:^FCab Goldfire has been positively identified within the complex. 
+The situation appears critical. It seems, if all our data is correct, that Goldfire 
+has much stronger creations and is more powerful than ever!
+^EP
+^FC3a^FN1^CEMISSION BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aObjective:^FCab The mission is to use all your resources to destroy Goldfire 
+and his creations. The complex has supplies of weapons and ammo, try to use them 
+wisely.
+
+Reports confirm high security devices in each area that must be disabled before you 
+can proceed to the next. Be aware that these devices are fiercely guarded.
+^EP
+^FC3a^FN1^CEMISSION BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabSir... If Goldfire is successful, he will surely go on to rule the known 
+universe with a level of evil and cruelty never before imagined.
+
+^FCabGood luck Sir!
+
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...

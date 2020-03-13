@@ -1,0 +1,95 @@
+* * * Wolfenstein 3-D: The Deluxe Edition v1.99h (Three-level demo) * * *
+
+My plan is for this to be my last update before re-writing the game's code from the 
+beginning.  The game engine has bugs galore, most of which I can't resolve in its 
+current form.  It's easier just to start the code over.
+
+The self-running demos don't work correctly anymore - cause unknown (I've disabled 
+the demos for now).  Feel free to tinker with the code and find out why.  :-)
+
+The "moon" in Level 3 was sometimes drawn outside the game's view screen border (depending 
+on the angle you were pointed).  That resulted in "moons" appearing where they shouldn't, 
+and crashes (triggered by rotating to a particular angle) in graphics modes like 
+1280x1024.  It occurred whether or not you were "outdoors".  Thanks go to "Havoc" 
+for pointing me to the bugfix.
+
+Most other bugs in this demo are fixed now too, including the light-shading bug when 
+Quick-loading a saved game.  Also, when you're killed by a booby-trapped Ammo Crate 
+or the "End Game" option, the game no longer rotates your view to a non-existent 
+enemy.
+
+The Pushwalls, doors, and sound effects behave a little bit differently with the 
+"WolfDX features" turned on.  The "enemies bleed what shot" feature is also added.
+
+
+Finally, there's some ambient sound in the game now.  Note that the low-pitched laugh 
+and the "coyote" were both done by me.  I was also the voice of the new "dog death" 
+sound, believe it or not.  And I did my own version of the brown guard's new "Ow!" 
+death scream.
+
+Story:
+
+The seeds of evil are planted.  And what they grow is both bleak and horrific.
+
+Adolf Hitler commands Germany, and does so with mad, twisted inhibitions.  He strives 
+to rule the world, and rumors say he's done more than break the laws of man - he's 
+breaking the rules of nature as well.  He has hired a Doctor Schabbs to resurrect 
+dead, mutated soldiers to overrun the world, calling the plan "Operation: Eisenfaust".
+
+
+Are the rumors true?  You do some spying to find out.  You sneak into a German camp 
+and easedrop on some chatting Nazis from a distance.  But while you've checked behind 
+you, in front of you, and from side to side, you haven't checked above you.  And 
+from above is where an Officer jumps you.
+
+You awaken later to find yourself in Castle Wolfenstein, miles away from where you're 
+supposed to be.  You pull the old "sick ploy" to coax a guard in, cut his throat, 
+and grab his gun.  As you hear other Nazis coming to investigate, you ready yourself 
+for action.
+
+The dungeon has swallowed you whole.  You plan to give it massive indigestion.
+
+Game description:
+
+Here's the status of the mod's features in this ZIP file:
+
+In-game messages - Done.
+8 new treasure sprites - Done.
+Hint bubbles - Complete.
+Ammo crates - These function with the press of the Spacebar.
+Tables with items - 100% complete.  Press the Spacebar when you're against a table 
+to pick up what's on top of it.
+New treasure sounds - Complete, though I might add more later.
+Hi-res Static Objects - About 85% complete.  The stove and spear rack are *finally* 
+done.  So are the vines, though these levels don't use them.
+New Static Objects - Graphically, these are all complete, but more may be added later.
+
+Wall textures - Aside from the dungeon walls with skeletons, they're complete.  Check 
+out the hi-res version of the multi-colored bricks!  :-D
+Standard enemies (SS, Mutant, etc.) - 100% complete.  They're just enlarged 64x64 
+duplicates of the original.  I corrected the purple anomalies, though.
+New title screen - Done.
+New music - Two new tunes from Yours Truly are included.
+Animated objects - Enabled.
+Directional sprites - Enabled.
+Additional enemies - Not done.  Two enemies are added, though (as of v1.99).
+Read This! text - Not updated.
+New door types - Completed, but the wooden type may be redone for Version 2.
+
+If I'm not mistaken, all shareware levels run the way they should, aside from the 
+purple walls, which - again - are enlarged 64x64 duplicates of the original.
+
+Credits:
+
+Original code: Id Software
+Wolf4SDL version: Ripper
+Additional coding: Merthsoft, WLHack, Tricob, BT, and various code tutorials from 
+the Wolf3D Dome and the DHWs message boards
+Graphics: Adrian Carmack, Julian Ridley, Chris Benson, Todd Camasta, Sporb, Laz Rojas, 
+Tricob, ChaosEdit, WDC, graphical extractions from TekWar (care of DoomJedi), ReColorBMP, 
+Spritemaker, MS Paint
+
+Disclaimer: Tricob is not associated with the ESRB, nor assumes any liability for 
+damages related to WolfDX or its tools.  End of legal mumbo-jumbo.
+
+- "Tricob".

@@ -1,0 +1,232 @@
+*********************************************************************
+*                                                                   *
+*        NMAP: A map editor for WOLF3D versions 1.0 and 1.1         *
+*                                                                   *
+*********************************************************************
+
+     Tired of the same old levels? Want to see the secrets you have
+been missing in some of the levels? Want to see what WOLF3D can
+really do? Do you already have an editor but it will not show you all
+of your objects? Want something that works with WOLF3D version 1.1?
+
+                        Well here it is!
+
+                          N M A P ! !
+
+What NMAP offers:
+
+     * Easy-to-use mouse interface
+
+     * Area mapping
+
+     * Customizable map tiles
+
+     * Includes tiles for all standard objects
+
+     * Full object viewing
+
+     * Importing and Exporting of levels
+
+
+
+What NMAP requires:
+
+     * A mouse
+
+     * VGA
+
+     * WOLF3D Version 1.0 or 1.1
+
+
+*********
+* SETUP *
+*********
+
+     To configure your NMAP program, you may need to edit the
+NMAP.CFG file. The NMAP.CFG file is an ASCII text file which can be
+edited by any standard ASCII text editor. The first line should be a
+"1" or a "0". If you have WOLF3D version 1.0 then use a "0". If you
+have version 1.1, then use a "1". The second line is the filename of
+the game map file. This name is usually either GAMEMAPS.WL1 (v1.1) or
+MAPTEMP.WL1 (v1.0). The third line is the filename of the map header
+file. This name is usually MAPHEAD.WL1 (V1.0 and V1.1). The filenames
+may also include a path name.
+
+Example:
+
+           0                  (version 1.0 of Wolf 3D)
+           MAPTEMP.WL1        (the game map file)
+           MAPHEAD.WL1        (the map header file)
+
+
+***********
+* EDITING *
+***********
+
+     To select a wall or object, move the mouse cursor to the item
+you want and press the mouse button. The name and image of the item
+you selected will appear in the upper left of the screen.
+
+     To place the wall or object, move the mouse cursor to the
+location on the map where you want to put the item. Press the mouse
+button and the item will appear under the mouse cursor. Holding down
+the mouse button will allow you to place the same object wherever
+you move the cursor on the map.
+
+     When the mouse cursor is over the map, and nothing is being
+selected, information about the wall and tile under the cursor will
+appear above the map.
+
+     To change the items in the selection menu, click on the box
+labeled "Walls" to access the wall menu, the box labeled "Objs" to
+select the object menu, the box labeled "up" to move up in the
+current menu, or the box labeled " down" do move down in the current
+menu.
+
+***************
+* DEFINITIONS *
+***************
+
+     Wolf 3D has some limitations, and to understand the limitations,
+it is necessary to understand how Wolf 3D organizes its data.
+
+WALLS:          These are the most basic element of Wolf 3D. Walls
+                may be placed anywhere in any sequence. Each wall
+                uses two pictures, one for the front and back and
+                another for the left and right sides. Usually, these
+                pictures are the same picture with different shading.
+
+STATIC OBJECTS: These are the second most common items in Wolf 3D. A
+                static object is a stationary sprite. These sprites
+                are not a solid picture, and allows you to see
+                through parts of them. Examples of static objects are
+                Water puddles, plants, ammo, lamps, bones, food,
+                treasures, and vines. There is a limit of 400 static
+                objects per map.
+
+ACTORS:         These are the animated sprites. In Wolf 3D these are
+                always guards. The "dead bodies" left after shooting
+                a guard are also actors. Examples of actors are: The
+                guards, officers, and dogs. There is a limit of about
+                150 actors.
+
+AREAS:          Areas define how guards will respond. When you shoot
+                or open a door in an area, all of the guards in that
+                area will respond. The rest of the guards will
+                usually be unaffected. Areas in the map are stored
+                with walls. By default, NMAP filters out the areas so
+                you can see the objects. Pressing the F6 key will
+                reveal the areas, represented as patterns of
+                different colors. Note that it is an error to use an
+                area of 0 (nothing).
+
+DOORS:          The doors in Wolf 3D are stored as walls. The area
+                surrounding the doors must be set up correctly or
+                erratic result may result. There are several doors,
+                the first can be opened at any time. The second
+                requires the yellow key (key 1) to open the door. The
+                third requires the grey key (key2). Note that there
+                is a limit of 64 doors per map.
+
+
+****************
+* EDITING KEYS *
+****************
+
+     The following keys on the keyboard may be used during editing a
+map:
+
+S - SAVE LEVEL      : Saves the current map into the game map file
+Q - QUIT            : Exits NMAP. Prompts to save changes (if any)
+                      first.
+W - WARP TO LEVEL   : Jumps directly to a level that you specify.
++ - NEXT LEVEL      : Jumps to the next map.
+- - PREVIOUS LEVEL  : Jumps to the previous map.
+E - EXPORT LEVEL    : Save the current level to a .LEV file. (no
+                      default extension)
+I - IMPORT LEVEL    : Load a file over the current level from a .LEV
+                      file.
+C - CLEAR LEVEL     : Clear the current level.
+F1 - WALLS          : Select the walls menu. Same as clicking on the
+                      box labeled "walls"
+F2 - OBJECTS        : Select the objects menu. Same as clicking on
+                      the box labeled "objs".
+F3 - UP             : Move menu up. Same as clicking on "up"
+F4 - DOWN           : Move menu down. Same as clicking on "down"
+F5 - MASK WALLS     : Display all walls as wall #1. Useful for area
+                      editing and finding misplaced objects.
+F6 - SHOW MAP AREAS : Displays the areas as patterns of different
+                      colors.
+F7 - HIDE OBJECTS   : Prevents objects from being displayed.
+F8 - OBJECT PUT TYPE: Normally, objects are merged with the wall
+                      placed behind it. Pressing this button toggles
+                      between this mode, and directly placing the
+                      object.
+F10 - HELP          : Brings up a quick help screen.
+
+
+*****************
+* MOVING GUARDS *
+*****************
+
+     Some of the guards can be set so that they are walking around in
+a level while you play. This adds some randomness to exactly where
+the guards will be when you come upon them. Of course, when you get
+their attention the break from any walking patterns.
+
+     The movement of the guards is controlled by "direction
+controllers". They are shown as white arrows in the object menu. These
+controllers are not visible in the game, and do not count as static
+objects. Examples of movement control can be found throughout the
+game maps.
+
+     If the movement controllers are incorrectly set, and the guard
+breaks from the loop, the guard will keep moving until it runs into a
+wall or object where it will stop.
+
+*****************
+* COMPATIBILITY *
+*****************
+
+     NMAP supports extended wall sets and guard sets. If you do not
+have the extended vswap file, you should limit yourself to the known
+objects and walls. Attempting to view a nonexistent object or guard
+will cause the game to crash. Attempting to view a nonexistent wall
+will result in junk being displayed on the walls. Extended items are
+preceded with an asterisk ("*") in the menu.
+
+     Keep in mind when exporting and importing files that not all
+versions of WOLF3D have the same graphics. If you make a level that
+requires extended guards, objects or walls and want to share it, make
+a note to go with the file explaining that it needs the extended
+graphics set.
+
+     The NMAP.LEV file included with this program uses standard
+graphics and guards. It should be possible to import it into any
+version of WOLF3D.
+
+****************
+* MAKETILS.EXE *
+****************
+
+     This program allows you to change the tiles that NMAP uses to 
+represent objects on its editing screen. This program requires a 
+mouse.
+
+
+**********************************************************************
+
+LICENSE:
+
+     This program is free for you to use and distribute. The only
+condition is that no modifications are made to the NMAP.EXE or the
+NMAP.DOC files.  This program is not to be sold. You may only charge
+the price of the floppy disk you put the program on. Although you are
+under no obligation to send money for the use of this program, I
+would appreciate any contribution you may wish to make.
+
+     If you have any comments, questions, or suggestions about this
+program, feel free to write me at: 
+
+                                 Nathan Lineback
+                                 lineback@toastytech.com

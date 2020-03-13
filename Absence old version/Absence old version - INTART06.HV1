@@ -1,0 +1,47 @@
+^P
+^C02 LEVEL 6 - Beta Labs 1
+
+^C01 Briefing:
+^C04 What happened in Alpha Labs Sector 4 was really scary. They were able to combine 
+robot parts with human parts, but what's even more interesting is that they were 
+able to create a functioning battle robot. Makes you wonder what else they invented! 
+Okay, you're now entering the Beta Labs. This area is more a storage area than a 
+lab, but they also have a little lab which works on weapons research. We think that 
+this area will be full of zombies and robots. Be very careful and don't be stingy
+
+
+^P
+^C02 LEVEL 6 - Beta Labs 1
+
+^C04 with ammunition, as you'll probably find a lot of them here.
+
+^C01 Primary objective:
+^C04 - Get to the Beta Labs 2
+
+^C01 Secondary objective:
+^C04 - Try to find information about the experiments and the current situation
+
+^P
+^C02 GENERAL INFORMATION ABOUT THIS AREA
+
+^C04 The Beta Labs Sector 1 contains the biggest storage area in the whole complex. 
+It is also concerned with weapons research.
+
+^P
+^C02 BESTIARY: ^C01 Endoskeleton Class 1
+
+^G36,16,156
+^C04 This was the first real cyborg created. It was the first step in transforming 
+a human into a cyborg. When the US government discovered how to make a working example, 
+they decided to create the first cyborg fighter in history.
+
+^P
+^C02 BESTIARY: ^C01 Protoss
+
+^G36,16,157
+^C04 He was the first cyborg prototype before the scientists started work on the 
+Endoskeleton Class 1. The transformation from human to cyborg was a success, but 
+as the robot parts were still not that efficient, he is a slow boss with less firepower.
+
+
+^E

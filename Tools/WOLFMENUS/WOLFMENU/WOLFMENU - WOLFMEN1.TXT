@@ -1,0 +1,31 @@
+
+Miscellaneous notes:
+
+  In addons Chokage and Wolfenstein Reloaded, each episode must be completed
+to get access to the next episode.
+
+  Games Corridor 7 and Operation Body Count have separate setup programs for
+changing controls, sounds, etc. Go to the CORR7 or BODYCNT folders and
+run SETUP.EXE.
+
+  Addon Escape From The Labyrinth does not update the CONFIG.213 file. Just
+update another addon's controls and copy its config file to the ESCAPE
+directory and rename it to CONFIG.213 if you need to change something.
+Addons The Thing, Secrets of Offenback, and Der Angriff have the same problem
+with their CONFIG.WL6 files.
+
+  Addon Tekkoudan does not allow game saving from the main menu (or esc from
+the game).  You can F8 from the game to save a game, but this limits you to
+the use of only one slot.  To get around this, start a new game, re-load the
+saved game from the menu (not F9), then F8 lets you choose another save slot.
+
+  Addon The Golden Episodes uses F9 for exit, rather than F10, and the
+quicksave F8 key has been disabled.
+
+  Addon Alexstein has the F10 exit disabled.
+
+  In addons The DOOM Spear, Invasion of the Cartoons, and Gotterdammerung,
+selecting the Read This! option throws you out of the game.
+
+  Addons MJ's Headquarters and Spear of Dreams Part 4 will exit if you let
+the demo start running.

@@ -1,0 +1,420 @@
+                       Chokster's Super Chokage V1.22
+                    ==========By==Chris=Chokan==========
+
+What's New with CHOKAGE?
+--------------------------
+  It's Got Some New Walls, Bad Guys, Props, Guns, Sounds, Levels. Even I'm
+in there (I'm The Guy With The Huge Head, that's because I'm such a MasterMind
+at everything, Not!)
+
+How Much Room Does CHOKAGE Take Up On Your Hard Drive?
+-------------------------------------------------------
+-This Game Take approximately 1.6 Mb (Megabytes) on your Hard Drive 
+-If Another Wolfgame is added (JennyStein, Hemio The King) the combination
+ of 2 games is about 2.4 Mb of your Hard Drive and the combination of 3 is 
+ about 3.2 Mb.
+
+Problems?
+----------
+Here are some problems that may happen during the game.
+
+P: After a while playing, the sounds on the game go off but the
+   music stays on.
+
+S: 1. To get the sound back on just press F7 and press "N" after and they will
+      go back on (this no sound thing may come bach though) 
+   2. Try putting a line in your config.sys SET BLASTER=A220 D1 I7 (The 
+      Numbers May Vary depending on the sound address you are using) 
+   3. Take Off The "Digitized Sound" on the sound menu on Wolfenstein if it
+      bothers you too much (This will make different sounds for the guys)
+   4. This may sound real weird, but the first time I played CHOKAGE the
+      sound didn't work too good but the more I played it the better it worked
+
+P: Sometimes I get this "Out Of Memory" message after I die.
+S: Don't know how to fix that, Wolfenstein even does that to me sometimes.
+
+P: In some places, the guys are shooting me but I don't get hurt
+S: Good, that's how some places are supposed to be
+
+The Music Menu
+---------------
+If you have Corridor 7 (Complete Version [disk or CD version], you're in luck.
+Chokster's Super Chokage & Wolfenstein can play Corridor 7 Music if you ever
+get tired of those old Wolf tunes or just want something new.  To get to this
+Music Menu, type "M" at the "Chokage Main Menu". You may find the "Wall" sound 
+annoying with the Corridor 7 Music, if so just take off the "Sound Effects"
+in the Wolfenstein Sound Menu or change it to PC Speaker but you can still 
+leave on the "Digitized Sounds" and the music. If you don't have Sound 
+Blaster or compatable, PC Speaker will play new sounds on Wolfenstein with
+the Corridor 7 Music Option. There may be "minor" problems with the Corridor 
+7 Music Option but when you turn the music back to Wolfenstein Music, those 
+problems will vanish. And if you installed the "chokage.wav" and you've got
+Windows 3.1 (Other versions may work) and a Sound Blaster, Adlib or any other
+sound systems that are compatible with Windows 3.1, you can play awesome music
+in Wolfenstein (With people actually talking).  Here's how: Go into Windows,
+make a new "Program Item" called Super Wolfenstein (There are quite a few
+icons I put in the Wolfenstein Directory). Go into the program "Sound 
+Recorder" (should be in the Accesories group), goto "File" and open the 
+CHOKAGE.WAV file (It's in your Wolfenstein Directory if you have it), play 
+it and click on the Wolfenstein Icon without leaving "Sound Recorder"). The
+first time it won't work (we'll it might for you). If it says (Error with 
+Adlib) or something like that, click on it again (don't click on the one that
+you just did, this time there should be an icon on the bottom left of the 
+screen to click on). At first, Wolfenstein will look screwed up and will go a 
+bit slower but that will all change after playing it for a while. When you get
+to the menu in Wolfenstein, go to the "Sound" and change the Sound Effects to
+Sound Blaster/Adlib. The songs in CHOKAGE.WAV don't last too long but you can 
+decrease the speed (nevermind, This Doesn't Work) or copy the songs over and 
+over again so it will last longer, you can do this in the "Sound Recorder" 
+program, also in the "Sound Recorder" go into the Effects menu and press Echo
+3 times(press it once, wait, go back into the menu press it again, etc.), it 
+sound awesome. You can also use other WAV files for this operation too (mind 
+you, they got to last at least a minute for them to actually be on 
+Wolfenstein).  Another way of playing this instead of using "Sound Recorder"
+is to go into "Control Panel" in the "Main" group, go to "Sound" and change
+the "Windows Start" sound file to CHOKAGE.WAV and get out of Windows, then go
+back in Windows and load Wolfenstein (This way, the first time you click on
+the Wolfenstein icon, it won't screw-up).
+
+Make Your Own Levels
+---------------------
+If you have any Editors (Mapedit, Wolfedit or Wolfsnd), you can make your own
+games for Wolfenstein (and they will appear in the "Chokage Main Menu"). If 
+you already have one made, ZIP it with "PKZIP 1993" or older; unless you have 
+a PKUNZIP of the same year as your PKZIP that you should copy to your 
+Wolfenstein directory (ZIP these files: Gamemaps.wl6, Maphead.wl6 & Vswap.wl6 
+as Yours.dat [use all the edited files if possible]). If you haven't made any
+game, press "E" at the "Chokage Main Menu" to start (If you have any Editors).
+If you don't have any editors, the only thing you when you've pushed "E" is 
+make a story for your game.
+
+Quick Play
+------------
+If you've got "JennyStein", "Hemio The King" or "Your Levels" in Wolfenstein, 
+you can play the same game you've played last again by typing "P" in the 
+"Chokage Main Menu". (Example: If you played JennyStein yesturday & never 
+played any other Option since, "P" will play JennyStein in fast mode) "Fast 
+Mode" is when the game is not unzipped (For any computer (especially slow 
+ones), Fast Mode is a REALLY good idea).
+
+The Intro Sequence
+-------------------
+This little "Thing" I found in this game called "The Lion King". I switched
+some of the stuff around on it (Yes, that screwed-up spot in the middle was 
+always there). The music is pretty cool if you've got a Sound Blaster. See if 
+you can understand the weirdness I wrote. It was really hard to make this 
+thing because it was coded and the words have to have letters the same as in 
+other words and bla bla bla...
+
+Krazy Wolfenstein
+------------------
+Krazy Wolfenstein is for those people who find Wolfenstein too easy or just
+feel like trying something different.  First of all, you CAN'T change your 
+gun. You may notice in most levels that you can't even get any gun (even if 
+you walk over it). Also, the screen is smaller than you can actually make it 
+(If you don't like the screen small, you can change it by going to "CHANGE 
+VIEW" in Wolfenstein). Another thing is that you only use 4 buttons (the 
+arrow keys), this may seem REALLY hard at first to manage since all the keys 
+move you the wrong way & you must move backwards to fire the gun and... I'll 
+leave the rest of this a surprise for you. By the way, it is possible to stab 
+someone. I'm trying to beat Episode 1 on Wolfenstein on "Can I Play Daddy Mode"
+without saving my game (Never saving my game ever, not if I'm gonna die, and
+I never exit the game until I've died all my men or beaten the Episode [For 
+some reason dying all my men is usually how it always ends up] and I go 
+without changing any of the settings (Screen size, controls) So far I've made 
+it to level 4, see if you can do better under those conditions. I usually turn 
+off the "Sound Effects" but not the "Digitized Sounds" for my Sound Blaster 
+because of that annoying noise when you try to turn right. Go for KRAZY, it's 
+a REAL challenge. Type "K" in the "Chokage Main Menu" to get to this 
+Screwed-Up Wacky Game.
+
+The Delete (Destroy) Menu
+--------------------------
+If you get tired of Chokster's Super Chokage or even Wolfenstein, you can 
+erase them by going into the "Destroy Menu". To get there, type "D" in the
+"Chokage Main Menu".
+
+How To get To The Chokage Main Menu
+------------------------------------
+It's Easy, just type CHOKAGE in your wolfenstein directory.
+
+How To Make Spear Of Destiny Real Weird
+-----------------------------------------
+If you have Spear Of Destiny installed to the same directory as Wolfenstein, 
+you have probably found out that you can play it in the "Chokage Main Menu". 
+If you're bored of all those normal guys and stuff just rename your VSWAP.SOD
+to VSWAP.BAK and then goto the "Chokage Main Menu" and play Spear Of Destiny
+and there will be really weird guys. Whatever Wolfenstein game you have used
+last (Wolfenstein, Chokster's Super Chokage, Jennystein, etc...) will be on
+Spear Of Destiny in a weird way.
+                                      
+Funny Stuff and Tips: If the Wolfenstein Graphics are on Spear Of Destiny, the 
+#4 gun would be the best for shooting, it's a knife bazooka (Apparently all 
+the other guns fill up half the screen), you can find the knife bazooka in two
+places on the first level. Shoot the guards and they'll make weird noises.
+Some walls even look like a two year old drew them. My favorite boss is the
+one at level 18. Story: Sailor Dude and Doc were havin' a bet about who'd win 
+the stanley cup, Sailor Man picked Toronto and Doc picked Monreal. But as we 
+all know, Toronto never won a cup since the 60's and Sailor Dude was so 
+furious about Monreal winning the cup that he starting screaming and launching 
+Doc at the wall along with a few of his weapons and his ghost. You'll probably 
+notice that he doesn't really clean up after himself (all that ketchup running 
+down his shirt from the last few hamburgers he ate). Watch out though, Sailor 
+Dude has really bad aim and couldn't hit the wall if he was right infront of 
+it, and he doesn't really like visitors while tormenting his victims. With
+my graphics (Super Chokage), the awesomest dude is the Alien at level 21.
+Story: Looks like the two cool guys have teamed up to make the ultimate 
+fighting machine, Chokster lauches Muscle BJ at you with amazing force. The
+key here is to shoot Chokster while he's charging his brain cells back up
+(That's when his head is disappearing from thinking too hard). I won't 
+tell you what the rest of the stuff is though, surprises are fun.
+
+How To Have Cool Walls In Wolfenstein
+---------------------------------------
+Go to the first episode, dispose of all the guys in the first level on "Can
+I Play Daddy". Save your game. Now go into Blake Stone/Corridor 7/Spear Of
+Destiny and then go back to your saved game in Wolfenstein. Usually the 
+"Weird" walls turn into walls off Blake Stone/Corridor 7/Spear Of Destiny.
+The Spear Of Destiny walls look good (except for that little part on the 
+left side) but with the other games, the colours change but you can still
+tell the picture is from that game (like the one with the bad dude on Blake
+Stone is looking at you). You can do this with many games and programs. Just
+run the game and then go into Wolfenstein and load your saved game. It even
+works on WOLFEDIT (Not that the walls look that good though).
+
+Why Are The Guards Hangin' Off The Roof?
+-----------------------------------------
+   A long time ago, the Guards stood straight and followed the instructions,
+but after a few years on the job guarding Castle Wolfenstein, some guards
+took a new role, guard Castle Chokage. But what they didn't know was the king
+of Castle Chokage (The Chokster) was mean and wanted everything. For the 
+guards, this was pure hell and they started slackin' off because it was so
+boring and sometimes they would even fall asleep on the job. One gloomy 
+morning, the king noticed a guard sleeping on the job and got so mad, he 
+shook the Castle so hard and it got practically destroyed. Unfortunately,
+he lived. So did most of the Guards. Some of them were killed, others injured. 
+The Castle still hasn't been fixed up very much. Some floors were somewhat out 
+of whack, the other floors had survived the crash (Luckily). After a few days 
+of thinking about how to stop the Guards from sleeping on the job, the king 
+insisted that they wear plungers on their feet and hang off the roof, that way 
+sleeping on the job would be more agravating than standing. Some guards tried 
+to get off the roof but they only injured themselves and were shot into the 
+dungeons by the kings royal servants. 
+
+Why Kill The Nice Doggies?
+---------------------------
+  All dogs hate being treated bad, these dogs are whipped, slashed, tormented 
+day by day. They have been trained to kill intruders, nomatter how long it 
+takes them, they're life is a living hell and sending them to a warm, playful
+and fun doggy heaven would make their every dreams to come true. But you have
+a fun life, getting rid of all those evil souls who brought you to this dump
+of a place that doesn't deserve to even be called a Castle (Maybe a Junkyard
+or a gigantic shack would be a better name). If you want to have fun and feel
+like you're doin' the right thing, don't let those dumb guards boss around the 
+doggies (send them to heaven) and send those freakin' bastards to hell. Hey,
+if you rather let the doggies kill you than you kill them, think about how
+screwed that plan sounds, guards get to boss around and hurt the doggies,
+doggies are in more of a hellish place than hell could ever be, and you're
+probably dead and thinkin' "Hey, I'm not ready for this yet" and the doggies 
+probably don't have much more time to live because they only live about 13
+years and they're probably already about 8 or 9 and won't get fed enough to 
+live much longer.
+
+Why Are There Millions Of BJs?
+-------------------------------
+   When Dr. Schabbs conducted an experiment to make dead guys come back to
+life, he didn't know BJs were involved. Remember in Castle Wolfenstein
+where you died several times before escaping. Well those dead BJs got mixed up
+with the other dead guys during Dr. Schabbs's experiment and now there's live
+BJs trained to kick your ass down the highway (in this case, down the elevator
+shaft), have fun gettin' rid of these guys!!!
+
+Why Are There Guards In Secret Passages & In The Walls?
+---------------------------------------------------------   
+   Most of the guards in the secret passages were trapped in there from the
+big crash and couldn't find a way out, some of them were put there because 
+they were caught sleeping on the job. The guards in the walls got stuck there
+from the big crash too, but they found ways of getting out of the fallen 
+walls (some of them anyway).
+
+I Am So Obsessed With Wofenstein That...
+------------------------------------------
+   Some signs of being obsessed with wolfenstein are:
+   -You make wolfenstein levels during school
+   -All your stories have pictures of those Wolfenstein Guys (BJ, Guard, 
+    Dr. Schabbs, Sailor Dude)
+   -You Dream About Being In Wolfenstein
+   -Your name is CHRIS CHOKAN
+
+   I've dreamed about being in Wolfenstein many times. I remember one time I 
+dreamed about being in one of Carrot Top's levels where the blue guys would 
+always come out of their little room so we put a deaf guard behind the door. 
+In my dream, the blue guys launched away that deaf guard (The guys weren't 
+dots, they were real people) and started coming after me. I didn't shoot, I 
+ran like hell to the elevator & YIKES!, there was a blue guy with me in the 
+elevator. Somehow, we reached Pizza Hut, and boy did it have a big chandelire 
+and the blue guy was telling me about some guys he knew from school, I saw 
+some guys (& girls) I knew from a long time ago too & while I was talking with 
+this girl (Angela Frawley) I woke up. Another cool dream I had (Last Night 
+96/11/01) was that me and the white guys were trying to bring us to Level 61
+but those damm blue guards wouldn't co-operate. So I went into my editor 
+and switched the blue guys to guards (this is probably the stupidest dream 
+you've ever heard of) and then I went into the elevator and were telling the 
+white guys (who had somehow turned into G.I. Joe's) to shoot me so the 
+operation would work (For some stupid reason, I didn't even feel any pain from 
+the bullets). After they shot me, I flicked the switch and we ended up in 
+another world. Next thing I remebered, me and this girl (Amanda Glenn) were 
+walking in this clear tube to find something (I thing it was dust) and I had 
+to get up to go to the washroom (Shucks!).
+
+What Are The Levels Actually Suppose-To Be?
+---------------------------------------------
+
+* Episode 1 
+
+Notes: This is a "Have A Blastin Good Time" kind of episode, if you can find
+       level 10, you are a GENIUS!!! (It's real tough)  
+       
+- Level 1: Crumbled So Bad  
+
+The crash has wrecked everything in sight, and Chokster is up somewhere else
+with his pototo chips and soda pop muchin' down infront of the old tube not
+caring a bit about what happened during the crash to his guards.  You (A 
+prisoner sentanced to death by Chokster [Like many others] because of not
+slaving for Chokster) are trying to escape from this dumpster. The exit is
+real tough to find.
+
+* Episode 3
+
+- Level 1: Chris's House
+
+You (Chris) are in the middle of sleeping in your bed when you hear some 
+blabber-mouths talking so you decide to get up. You were always a very 
+protective guy, those 80 or so bullets in your room could actually be used 
+for some reasonable purpose (unlike all the other times you used them for
+blowing away mom and dad's furniture and appliances, the kitchen is pratically
+empty because of everything destroyed and sent out on garbage day, along with
+your sister Jenny, but for some reason the garbage man never put your sister
+in the dump truck to send her to the junkyard, some stupid law I guess).  As
+you go to feed your dog (Robin) he jumps up and starts attacking you (Must
+of been because you haven't gave him any water since the last time he spilled
+it on the floor [about 5 or 6 weeks ago]). After battling Robin, you find your
+mom & dad just hangin' around (They don't look so good, must of been cause 
+they stayed up late last night). You feel a craving for some pizza (which you 
+have plenty of left from yesturday's supper) and gobble a few hundred slices 
+of them down (Nowonder why your so fat).  You still feel hungry for pizza and 
+there's not even a crum left so you go to your sister's room to get some more 
+money. As usual, she fell off her bed again and "Yuck!", had her periods on 
+the floor. You decide never to go in there again, or atleast until the next 
+time you need to borrow (I should say TAKE) some money from her. "Grrr!" 
+You've just about had enough of those guys next door blabbin away and grab 
+enough bullets until you're pistol is fully loaded to go and toast those 
+chatter-boxes (Too bad you don't have you're Chaingun, maybe mom threw it away 
+somewhere because it was too scary)... 
+
+Hint: A long time ago, while you were working on ways of disposing the 
+neibours who hadn't paid you for cutting their wrecked lawn, you came up
+with a chemical reaction that could freeze someone in a manner of seconds
+(Sounds pretty cool eh?). As you were walking down the road to freeze you're
+first victim (Marty), you're "invisable goo" spilled all over his bricks. You 
+never really paid attention to it until you noticed there was no more "goo" 
+left. The "goo" still exists in the bricks (that are now placed together to 
+form a wall outside their house) and it is said that if you walk in it 
+backwards, you will not be frozen but your eyes will react faster and you will 
+change into a magicman if you venture far beyond the goo. One neibour (Brian), 
+who was scared as hell at the time was saying his friend Brad was cursed with 
+these powers and as he said these magic words "Tab-Jee", he turned invincible 
+and while saying "Tab-Double-You", he just disappeared. It is said that if you
+use your own spells (like Emm-Eye-Ell), the goo will dissapear and the bricks 
+will feel like a normal brick wall. If your really brave, find these so called 
+bricks that they mention (if they actually exist), and test the "goos" powers 
+(maybe it'll just freeze the life out of you).
+
+* Episode 4
+
+Notes: This is a "Wolfenstein Wizard" Episode, if you think you are REALLY 
+       good at solving problems, try this episode (You won't beat it [If you
+       beat this episode, YOU ARE SO AWESOME] It took me over 200 times to
+       beat this episode (And I made this). And yes, there is an exit to every
+       level (You may not think this after playing it about 500 times).
+
+Hints: - The Guards Aren't Always There To Kill You
+       - Some Lights Can Do Awesome Things When You Stand Under Them For A 
+         Long Time
+
+Records (Best Times)
+---------------------
+   I just love trying to race down levels trying to get the best times. Here's
+some records I've gotten without the help of those massive cheats and without 
+saving or loading my game at anytime during the RACE, see if you can do better
+(Easy means on "Can I play Daddy" and hard means "I am Death Incarnate"):
+
+Chokster's Super Chokage:         
+Episode 1 (Easy):
+
+Wolfenstein 3D:
+Episode 2 (Easy): 4:53 (Try this episode with Corridor 7 Music for a blast)
+Episode 5 (Easy): 8:05
+Episode 6 (Easy): 17:09
+
+Something Neato
+----------------
+This is an awesome way to get tubular things, like CODES.
+First of all, type the CODE in Chokster's Super Chokage (THE GAME) that tells
+you to: "CUT THE BULL". Types the letters of this CODE simultaiously (In their 
+natural order) while you're in the "Chokage Menu". After this has been 
+completed, follow these steps while you're in the "Chokage Menu":
+
+Leave the DEATH KEY down while typing the numbers on the keypad simultaniously 
+of the answer to the NUMBER QUESTION then release the DEATH KEY. 
+
+---Death Key---
+It's a name of a food company (makes alot of Dairy Stuff) pronounced the same 
+as a key on your keyboard but it is spelled differently, the food company has 
+an extra letter in it (The extra letter is not in B.J.'s name).
+
+---Number Question---
+How many levels there are in Spear Of Destiny; divide it by the number of
+Officers there are on level 7, Episode 1, on "Can I Play Daddy?" mode on
+Wolfenstein; add the amount of Pac-Man ghosts are in Wolfenstein episode 3; 
+multiply by the number of colours your screen has to be to run Wolfenstein; 
+add your total to the episode number that you meet Hitler; subtract this by 
+number of guns you can get in Wolfenstein; multiply this by the number of 
+"FINGERS" you (yourself) have [unless you're disabled], multiply this by the 
+number of levels you have to go through before meeting Dr. Schabbs in 
+Wolfenstein, add the total to the number of eyes the "Last Boss" on "Spear Of 
+Destiny 2: Return To Danger" has; then subtract the answer by the number of 
+floating Hitler guys (the magic dudes that shoot out that bubbly red stuff) 
+there are in Hitler's Level on Wolfenstein.
+
+Who To Thank
+--------------
+
+This Would Have Not Been Possible 
+Without The Help Of These Programs;  
+
+        We'll, It Could've Been Possible But
+        It Wouldn't have turned out this good
+
+
+MAPEDIT 4.1         THESE SONGS:            THESE DUDES:  
+WOLFEDIT            "OWOW-OH YA!"           Bill Kirby          
+WOLFSND             "JERK"                  HemiKid Mailloux
+WOLFENSTEIN 3D      "KEEP 'EM SEPARATED"    Skunk-O-Man Legendre
+PAINT SHOP PRO      "BORN TO BE WILD"       Super Dave LaCasse
+PKUNZIP             "AND ALOT MORE"
+
+                                      Thanks Guys (& Girls)!!!!
+
+If you liked this game alot, mail me something cool; like new Wolf-Games, a
+picture of B.J. or your favorite charater, money [Ha! Kidding], comments on 
+how awesome you think my game is, you're best times and scores, some pictures 
+of "newd" hot babes [Woof!], or whatever you darn well please and I'll mail 
+you something awesome back (Gotta give me your address though).
+
+Mail To:             The Chokster
+                     5079 Proulx Crt.
+                     Hanmer, Ontario 
+                     P3P 1H4
+Questions Or 
+Comments:            (705) 969-7271; Fax: 969-3520

@@ -1,0 +1,41 @@
+^BCe3^SCe1^ST1^SP1^LCc5^DCc3^SB1
+^FC3a^FN1^CEMISSION 6 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^SL^PX0e6^PY025^SH095^RL^RM0e0
+Accessing......current location:
+
+^RJ^FCeb
+SATELLITE DEFENSE
+Defense Operations
+^FCab
+
+^LJ^DMYou have done it! Sir, you have found the defense facility! Bloody good Sir, 
+bloody good!
+
+Yes Sir, I will run a self-diagnostic at next idle.
+^EP
+^FC3a^FN1^CEMISSION 6 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabIntelligence reports that Goldfire has initiated startup on the Projection 
+Generators! This is Goldfire's final battlefront; however it will be his most vicious 
+assault.
+
+^FC3aObjective:^FCab Locate and destroy the ^RMfff^BC11^BX1^SH035^BX0^BCe3 ten Projection 
+Generators located on floor 9 of this facility. Be careful, the Reptilian Warrior 
+that guards the generators is deadly!^DM
+^EP
+^FC3a^FN1^CEMISSION 6 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabSir...you must succeed in this mission; otherwise, Earth will be defenseless 
+against Goldfire's attack. He will finally attain his goal. He will finally rule 
+the galaxy and its population. Use every bit of information gleaned from intelligence 
+to stop Goldfire and his creations. Sir...I know you can accomplish this assignment, 
+the world is counting on you. Good luck.......Blake.
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...

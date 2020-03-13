@@ -1,0 +1,13 @@
+Hotel Romanstein Gold Edition
+For DOS Play 
+
+Needs the RomanGOLD Files to play.
+===========================================================================
+Need Files
+===========================================================================
+AUDIOHED.wl6 
+AUDIOT.wl6 
+MAPHEAD.WL6 
+GAMEMAPS.WL6 
+VSWAP.WL6
+===========================================================================

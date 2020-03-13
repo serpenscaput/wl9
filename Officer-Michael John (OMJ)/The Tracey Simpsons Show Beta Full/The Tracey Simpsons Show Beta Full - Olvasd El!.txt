@@ -1,0 +1,12 @@
+Van egy pár fontos tudnivaló errõl a módomról:
+
+- A Traceys változatukat alkottam meg némi átalakítással. Néhányan furcsán néznek ki mert nem tudtam 
+pontosan megalkotni pixelben (64X64).
+- Ha használni szeretnéd a csalásokat akkor így írd be a kezdésnél mielõtt elindítanád:tracey3d -simpson
+- SOR csalás (Igazából sör,de az angol betû miatt nem támogatja) ez helyettesíti az MLI kódot. SMP meg a BAT kódot.
+- Béta verzió még ezért nincsenek benne még a dolgok nagy része. PL:A többi karakter.
+
+- Az 1.saját magyar alkotásom Wolf 3D-re.
+- A zenék meg a hangok a sorozatból vannak. Zenéknél tudni kell amiket felhasználtam 
+néhány nem ugyanolyan 
+hangzásban hangzik el mint ott.

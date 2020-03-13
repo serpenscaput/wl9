@@ -1,0 +1,319 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading the demo version of ^C24Weapons of Vengeance.  ^C00It 
+was created by Wolf Skevos-Jones (me).  This is a TC (total conversion) for Wolfenstein 
+3d, the revolutionary game by Id Software. 
+
+^P
+^C7d INTRODUCTION
+
+^C00 This game is a DEMO.  It is NOT complete.  Because of some problems, I've only 
+been able to make the first 5 levels.  I had to put this project on the back burner 
+until I can resume work on it.  In the meantime, I'm working on a couple other projects. 
+ Hopefully, I'll be able to finish them.
+
+I normally like to complete my projects without releasing "demos," but I don't know 
+when/if I'll be able to release a full version of this TC, and I didn't want all 
+my work to go to waste.  So here it is.
+
+^P
+^C7d FEATURES
+
+^C00 * More than 10 weapons to choose from
+* 5 action-packed levels (17 levels planned)
+* New graphics and sound effects
+* Exploding and burning deaths for guards
+* Background sound effects
+* Ladders (like in Project Weltuntergang)
+* Armor
+* New pickup items
+* New enemies
+* Changed color palette
+* AND MORE...
+
+^P
+^C7d THE STORY
+
+^C00 1943 -- The peak of World War II.  The Allies and the Axis Powers are throwing 
+everything they've got at each other, and the number of casualties has been terrifying 
+indeed.
+
+As Captain William J. "BJ" Blazkowicz, you are the best soldier the Allies have, 
+which is why they've chosen you for this following mission...
+
+^P
+^C7d THE STORY
+
+^C00 The Nazis have a top secret weapons facility where they're manufacturing new 
+advanced types of artillery and small arms.  One of these inventions is the dreaded 
+Venom Minigun -- a special kind of Gatling gun which is driven by an electric motor 
+and can shoot at an extremely high rate of fire.  
+
+It is also believed that new types of explosives and chemical weapons are being developed 
+in this facility.
+
+^P
+^C7d THE STORY
+
+^C00 With the destructive power of these weapons, it could mean disaster for Allied 
+troops.  Thus, it's imperative that the weapons factory is sabotaged.
+
+^P
+^C7d THE STORY
+
+^C00 Also, intelligence reports indicate that there are two Nazi leaders involved 
+who must be terminated: one is Dr. Kurt von Heller, the chief engineer and scientist 
+behind the design of the new weapons.  The other one is SS-Gruppenfuehrer Hans Schreiber, 
+who is planning an assault on the Allies.  Dr. von Heller is supplying Schreiber's 
+troops with some of the new weapons.  Both Von Heller and Schreiber must be eliminated. 
+ 
+
+^P
+^C7d THE STORY
+
+^C00 The exact location of the weapons factory is unknown, but the Allies believe 
+that it's hidden somewhere within the German city of Flachendorf.  This city has 
+been under intense Allied bombing raids and heavy fighting, but the Germans have 
+so far managed to hold their position.  The fighting still goes on this very moment.
+
+
+^P
+^C7d THE STORY
+
+^C00 A team of specially trained U.S. Army Rangers was sent into Flachendorf in order 
+to locate the secret weapons facility, but contact with them has been lost.  You 
+and a team of other Army Rangers have been sent to find the missing soldiers.  
+
+Unfortunately, when your team arrived near the city, the Germans attacked.  You and 
+your comrades fought fiercely, but the Germans seemed to keep on coming.  Out-gunned 
+and out-numbered, you were finally forced to surrender.
+
+^P
+^C7d THE STORY
+
+^C00 The Germans decided to take you and your friends as prisoners of war.  You were 
+put into trucks heading for a POW camp.  But the battlefield around Flachendorf proved 
+to be dangerous for the German trucks.  Heavy fighting was still going on, and the 
+deafening sound of machineguns and artillery could be heard all around.
+
+Suddenly, a mortar shell exploded right next to the truck you were in.  The truck 
+swerved off a ridge and crashed.  You were knocked out.
+
+^P
+^C7d THE STORY
+
+^C00 When you awoke, you realized that you were the only survivor of the truck.  
+The other prisoners and the German driver are all dead.
+
+Now it's down to you... one man... Will you be able to carry out your mission alone? 
+ It seems you have no other choice.  You're the only one who can find the missing 
+team of Allied soldiers.  
+
+You climb out of the burning truck and are instantly greeted by the sounds of battle...
+
+
+^P
+^C7d ARSENAL
+
+^C00 The following pages describe the various weapons in the game.  It probably won't 
+be necessary to use all the weapons, but it will be up to you to decide which ones 
+you prefer to fight with.  
+
+Weapons are selected by pressing their corresponding number keys on the keyboard. 
+ Some keys must be pressed more than once to cycle through weapons of the same class. 
+ (Ex: #3 = MP40, Thompson, Sten)
+
+^P
+^C7d ARSENAL - #1 Knife
+
+^C29 Weapon: Knife
+Ammo Type: None
+Maximum Ammo: N/A
+^C00 You start the game with this weapon.  While your knife makes a good stealth 
+weapon, it doesn't do a whole lot of damage, and it can only be used in hand-to-hand 
+combat.  It's usually best as a last resort, since it requires no ammo.
+
+^P
+^C7d ARSENAL - #2 Pistols
+
+^C29 Weapon: Luger P'08
+Ammo Type: 9mm Parabellum
+Maximum Ammo: 300
+^C00 The standard-issue semi-automatic used by the German Army.  
+
+^C29 Weapon: Colt 1911
+Ammo Type: Caliber .45 
+Maximum Ammo: 300
+^C00 This is the handgun used by the U.S. Army.  It's more powerful than the Luger, 
+and you can carry 2 of them!  However, ammo for this weapon is harder to find.
+ 
+^P
+^C7d ARSENAL - #3 Submachineguns
+
+^C29 Weapon: MP40 Schmeisser
+Ammo Type: 9mm Parabellum
+Maximum Ammo: 300
+^C00 This is the German submachinegun.  Its rate of fire makes it effective for fighting 
+multiple enemies.
+
+^C29 Weapon: M1 Thompson
+Ammo Type: Caliber .45 
+Maximum Ammo: 300
+^C00 The American submachinegun, nicknamed the "Tommy Gun."  More powerful than the 
+MP40, but ammo for it is scarce.
+
+^P
+^C7d ARSENAL - #3 Submachineguns 
+
+^C29 Weapon: Sten Mk2 (silenced)
+Ammo Type: 9mm Parabellum
+Maximum Ammo: 300
+^C00 This submachinegun was invented by the British.  Unlike the Thompson, you'll 
+find plenty of ammo for this weapon because it uses the same caliber 9mm ammo as 
+the Luger and the Schmeisser.  The Sten has been fitted with a silencer, making it 
+an ideal stealth weapon.
+
+^P
+^C7d ARSENAL - #4 Rifle
+
+^C29 Weapon: Mauser Kar 98k
+Ammo Type: 7.92mm Mauser
+Maximum Ammo: 200
+^C00 The German rifle.  Its strength and accuracy make it the weapon of choice among 
+snipers.  
+
+^P
+^C7d ARSENAL - #5 Assault Rifle
+
+^C29 Weapon: FG42 Paratroop Rifle
+Ammo Type: 7.92mm Mauser
+Maximum Ammo: 200
+^C00 This assault rifle is accurate and has a high firing rate.  You'll find it being 
+used by the Black Guard paratroopers.  It uses the same ammo as the Mauser.
+
+^P
+^C7d ARSENAL - #6 Minigun
+
+^C29 Weapon: Venom Minigun
+Ammo Type: 12.7mm belt-fed ammo
+Maximum Ammo: 999
+^C00 This experimental, six-barrelled machinegun shoots faster than any other weapon 
+in the game.  Now you can really blast away those goons!  Its ammo gets used up very 
+quickly, however.
+
+^P
+^C7d ARSENAL - #7 Rocket Launcher
+
+^C29 Weapon: Panzerfaust
+Ammo Type: Rockets
+Maximum Ammo: 7
+^C00 This German anti-tank weapon fires an explosive rocket which causes massive 
+damage to anything caught in its explosion.  Good for taking out Panzers.
+
+^P
+^C7d ARSENAL - #8 Flamethrower
+
+^C29 Weapon: Flamethrower
+Ammo Type: Fuel canisters
+Maximum Ammo: 150
+^C00 This deadly weapon shoots a jet of flaming death at your enemies.  Watch 'em 
+scream and burn!  However, it won't work on Venom Soldiers or Panzer tanks.
+
+^P
+^C7d ARSENAL
+
+^C00 Since not all these weapons appear on the levels in the demo, I've left the 
+M+L+I cheat in so that you can view them.  The cheat won't give you any keys, though.
+
+
+^P
+^C7d THE ENEMY
+
+Wehrmacht: ^C00 The most common enemies you'll encounter are Wehrmacht troops, the 
+soldiers in the regular German army.  They're not very tough, but they'll offer heavy 
+resistance in groups.  Most Wehrmacht infantry carry MP40s, but some of them are 
+armed with the Mauser rifle.
+
+^C7d SS: ^C00 The SS are a division of elite Nazi soldiers with fanatical loyalty 
+to Hitler.  Sporting grey uniforms and wielding MP40 Schmeissers, the SS are tougher 
+and better skilled than the Wehrmacht troops.  
+
+^P
+^C7d THE ENEMY
+
+Officers: ^C00 Sometimes you may come across German officers.  They don't offer much 
+resistance other than yelling orders and firing a Luger, but they are quick and smart.
+
+
+^C7d Paratroopers: ^C00 These hardened soldiers are members of Reichsfuehrer-SS Heinrich 
+Himmler's special "Black Guard" division.  You'll know when you see them.  They are 
+very tough and will blast you with their FG42 Paratroop Rifles!
+
+^P
+^C7d THE ENEMY
+
+Machinegunners: ^C00 Some of the regular German soldiers use mounted MG42 machineguns. 
+ Don't get in their line of fire or you'll be mowed down!
+
+^C7d Venom Soldiers: ^C00 The deadliest enemies in the game.  These Nazis use extreme 
+firepower.  Venom Soldiers come in 2 forms: one using the Flamethrower, and one wielding 
+the mighty Venom Minigun, hence their name.  Either kind is like walking destruction. 
+ You're toast if you get too close to one of these guys.
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit 1.1: ^C00Adding graphics, sounds, levels
+^C7d Borland 3.1: ^C00Code compilation
+^C7d Notepad: ^C00HELPART, INTART, ENDART
+^C7d Paint Shop Pro 7: ^C00Graphics editing
+^C7d Sound Forge 5.0: ^C00Sound editing
+^C7d IMF Tools: ^C00Music
+^C7d Jpal2bin: ^C00Color palette creation
+
+^P
+^C7d SPECIAL THANKS GOES TO...
+
+MCS: ^C00source code tutorials
+^C7d Brian Lowe: ^C00posting this TC
+^C7d Florian Stohr: ^C00FloEdit
+^C7d Luke Strauman: ^C00source code 
+^C7d Paal Olstad: ^C00code for explosions 
+^C7d Greg (BrotherTank): ^C00code for armor
+^C7d Kuki: ^C00"ladders"
+^C7d Ripper: ^C00code for "truck" walls
+^C7d DarkOne: ^C00Jpal2bin and IMF Tools
+^C7d Gray Matter: ^C00Return to Castle Wolfenstein
+^C7d id Software: ^C00Wolfenstein 3d
+^C7d You: ^C00playing my game!
+
+^P
+^C7d OTHER ADD-ONS BY WOLF SKEVOS-JONES
+
+Castle Totenkopf: ^C00In this game, you must escape from the dreaded SS prison fortress 
+known as Castle Totenkopf ("Death's Head").
+
+^C7d Project Eisenritter: ^C00Stop a mad Nazi scientist from creating the ultimate 
+killing-machine, the Eisenritter! 
+("Iron Knight")
+
+^C7d Operation Heimzahlung: ^C00Infiltrate a Nazi fortress and stop Hitler's final 
+plot for revenge!
+
+^P
+^C7d CONTACTING THE AUTHOR
+
+^C00 If you have any questions about the game you can e-mail me at wolf@shadaux.com.
+
+ 
+^P
+^C7d THANKS FOR PLAYING
+^G32,16,5
+
+^C00 I hope you enjoy this demo of ^C24Weapons of Vengeance.  ^C00Now spring into 
+action!
+
+^E

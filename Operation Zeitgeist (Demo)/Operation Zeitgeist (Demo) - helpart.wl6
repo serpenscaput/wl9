@@ -1,0 +1,86 @@
+^P
+^C7d OPERATION ZEITGEIST
+^G7,254,109
+
+^C26 By Steven Trinkl
+
+^C00 Thanks for downloading Operation Zeitgeist. Please take the time to appreciate 
+the time and effort that went into this add-on. There are many original graphics 
+and features in the game.
+
+^P
+^C7d THE STORY
+
+^G32,175,30
+^C00 You are Stan Krider, the best operative that the Homeland Security Department 
+has in its employ. A neo-militaristic terrorist group, known as the Lunatic Fringe, 
+has begun terrorizing industrialized countries worldwide.
+
+^P
+^C00 Your mission is simple. You must infiltrate the Fringe's hideout and take out 
+Gregor Lief, who has an army of dedicated and well-trained followers. He is rumored 
+to even have a genetic engineering program, as well as some more, less traditional 
+pursuits.
+
+^P
+^C00 Good luck, Krider. The future of the civilzed world is in your hands.
+
+In order to accomplish your objectives, you'll have to be smart and quick on the 
+draw.
+
+^P
+^C7d Enemies
+
+^C00 There are many types of enemies you'll face in Operation: Zeitgeist.
+
+Each has their own strengths and weaknesses.
+
+All want to see you dead.
+
+^P
+^G66,16,3
+^C26 1 - GRUNT
+
+^C00 These guys are the meat and bones of Lief's operations. They're cheap, expendable, 
+and loyal. They're slower than most other enemies, and can be killed with a single 
+shot if you're lucky.
+
+^P
+^G66,16,3
+^C26 2 - ENFORCER
+
+^C00 When grunts are extra skilled, they are given better body armor and promoted 
+to this position. They greet you with nothing but gunshots. They are great at ambushing 
+you.
+
+^P
+^G66,16,3
+^C26 3 - TROOPER
+
+^C00 Tougher than his subordinates, the trooper wields an assault rifle and wears 
+heavy armor. He drops his weapon when killed, so be sure to kill him first.
+
+^P
+^G66,16,3
+^C26 4 - FLAME TROOPER
+
+^C00 There's a certain crackpot mentality that goes along with being one of these 
+guys. They move pretty quickly, and they can use the flamethrower, which you can't. 
+They don't wear much armor, however.
+
+^P
+^G66,16,3
+^C26 5 - ROCKET TROOPER
+
+^C00 Sadly, these guys are pretty common. They're faster than other soldiers and 
+wield powerful rocket launchers. You can pick up their weapons when they expire, 
+however, so all's well.
+
+^P
+^G66,16,3
+^C26 6 - SUPERSOLDIER
+
+^C00 If you see one of these guys, run and shoot as much as you can. And don't get 
+too close. They often carry keys to important areas. They're Gregor Lief's personal 
+experiments.
+^E

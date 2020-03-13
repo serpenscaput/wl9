@@ -1,0 +1,25 @@
+28/8/06
+
+This is the dropped project "Wolfram". I release the MAP-DATA and OBJ-DATA with a 
+great big vswap
+and many good changes. The coding was made by Dean Horton.
+
+- MLI Removed
+- 300 Ammo
+- One-Up gives 200+ and a 1000 points
+- Many changed graphics and sounds
+- 20 seamless levels and three secret. I forgot which 3 levels they're accessed from. 
+:-)
+- More sprites added.
+
+Credits:
+
+AReyeP
+BJ Rowan
+Paal Olstad
+Tristan van Putten
+Kuki
+... And many more! I can't remember which and where I got all them graphics from.
+
+
+ - Thomas.

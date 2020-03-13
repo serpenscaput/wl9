@@ -1,0 +1,374 @@
+                ษออออออออออออออออออออออออออออออออออออป
+                บฐฐฑฑฒฒÛ WOLF3D'S RENOVATION Ûฒฒฑฑฐฐฐบ
+                บ     ฏฏฏ Additional Levels ฎฎฎ      บ
+                ศออออออออออออออออออออออออออออออออออออผ
+                   (C)opyright 1994 by Brian Rowan
+
+                     ****  IMPORTANT NOTICE  ****
+ These additional levels are in no way affiliated with Apogee Software
+ or ID Software. If you experience any problems while playing these
+ levels, DO NOT CONTACT EITHER OF THESE TWO COMPANIES! They will not
+   provide you with any support for modified games. If you get any
+  problems, please contact me (the author). My E-mail addresses are
+                            listed below.
+                     ****        ****        ****
+
+================================================================
+Title                   : Wolfenstein 3-D: The Renovation
+Author                  : Brian J. "B.J. Blazkowicz" Rowan
+Email Address           : Compuserve : 73552,3423
+                          Internet   : blaze@oeonline.com
+Misc. Author Info       : I am a fan of Wolfenstein, Doom, Spear of
+                          Destiny, Blake Stone, Corridor 7 - you name
+                          it; if it uses a 3-D action game engine, I
+                          completely approve.
+
+Commitment to Quality   : That probably sounds like a scam these days,
+                          but it's true: I wanted to make these Wolf3D
+                          levels so impressive that you would want to
+                          keep playing them, or just remember that one
+                          room and that feeling of "being there" that
+                          it gave you, as did id Software's original
+                          levels (well, they did me).
+                          Some levels I've seen are just a collection
+                          of floors hurriedly whipped together by
+                          another guy. The Renovation took time,
+                          effort, and a lot of debugging and reworking
+                          to perfect. Approximately 6 months of work
+                          went into this project. This is realism at
+                          its best, people! If you can't take it, tuck
+                          your tail between your legs and run, but
+                          otherwise, stay for the fight - you've got
+                          60 big ones comin'!
+
+Overall Description     : THE RENOVATION is broken into 6 10-level
+                          episodes, as with every version of Wolf-3D.
+                          Each episode's theme will be described
+                          below, under the appropriate section.
+
+Levels Changed          : 60
+Graphics Changed        : None
+Sounds Changed          : None
+
+Will operate on         : * Wolf3-D version 1.4
+                          * Wolf3-D version 1.2 (as far as I know)
+                             
+Relative Timeframe      : These episodes take place INSTEAD of the
+                          original ones. They are not sequels or
+                          prequels. That way you can still kill off
+                          all the same bosses and have it make sense.
+
+Additional Credits to   : * Bill Kirby, David Huntoon, Bryan Baker,
+                             and Matt Gruson for their level editor(s)
+                          * Carlton Griffin, the guy behind WOLFMASTER
+                          * Apogee and id Software for THIS GREAT
+                             GAME!
+
+Playability             : I DO guarantee the following:
+                           * Each of these levels CAN be finished on
+                             the highest difficulty setting using no
+                             cheat codes.
+                           * On all of the levels where it is
+                             intended, 100% ratios in all categories
+                             are achievable.
+                          I do NOT guarantee the following:
+                           * Any one of these levels can be finished
+                             without saving the game (except E4L7!).
+                           * Any one of these levels can be finished
+                             within that level's default par time
+                             (except E5L8, where your par time is 4:00
+                             exactly! If you know what to look for
+                             you can beat it!)
+
+--------------
+Construction
+
+Base                    : Totally new levels (what did you expect?)
+Software used           : * MapEdit (originally Copyrighted in 1992 by
+                             Bill Kirby), versions 7.0 through 8.0
+                          * SodEdit 1.1 (then saved as single floor)
+                          * Playtested (to ensure you can beat it) on
+                             Wolf-3D v1.4 (by yours truly)
+
+Known Bugs              : Every once in a while some of the moving
+                          guards will do one of the following:
+                          * Get "stuck" somewhere
+                          * Move along the desired path, but will not
+                            be animated (this bug is in the game, not
+                            in my levels).
+
+Ratios Achievable       : On the following levels, you will not be
+                          able to achieve full ratios in:
+
+                   KILL : E4L1 (via a two-way pushwall)
+
+                 SECRET : E3L7
+                          E4L1
+                          E4L2
+                          E5L1 (unless you're the king of patience and
+                                are very d*mn good)
+
+               TREASURE : E3L7
+                          E4L1 (a two-way pushwall)
+                          E5L1 (you'll see what I mean when you get
+                                there!)
+
+                          Remember that your ratios are not displayed
+                          or recorded on boss or secret levels. Also
+                          take note that if you cannot achieve full
+                          ratios on a level not mentioned in the above
+                          list, you are either just not good enough,
+                          or it is a BUG (horrors!). If all else
+                          fails, just send me an E-mail message with
+                          the episode and level # you're stuck on and
+                          I'll look it up and/or play it again myself
+                          to try to confirm or deny the problem.
+
+================================================================
+EPISODE SUMMARIES
+================================================================
+
+-----------------
+EPISODE ONE:
+-----------------
+* Play Information *
+
+Level #'s               : 1 - 10
+                            BOSS   = Level 9
+                            SECRET = Level 10
+Difficulty Settings     : Yes
+
+Title                   : Escape from Wolfenstein (Unchanged)
+
+Description             : The first episode is simply a re-make of the
+                          original. The theme is the same: Escape from
+                          the Nazi prison. Don't worry - the other
+                          episodes have different themes. Once again
+                          you get to dash out of the castle, make a
+                          tremendous leap while yelling wildly, and
+                          claim victory rightfully yours!
+
+-----------------
+EPISODE TWO:
+-----------------
+* Play Information *
+
+Level #'s               : 11 - 20
+                            BOSS   = Level 19
+                            SECRET = Level 20
+Difficulty Settings     : Yes
+
+Title                   : The Annihilation Factor
+
+Description             : Your mission here is to infiltrate a new
+                          Nazi mutation hospital from the sewers
+                          beneath it and take out the mastermind
+                          behind the new legions of undead killing
+                          machines: Dr. Shabbs.
+
+-----------------
+EPISODE THREE:
+-----------------
+* Play Information *
+
+Level #'s               : 21 - 30
+                            BOSS   = Level 29
+                            SECRET = Level 30
+Difficulty Settings     : Yes
+
+Title                   : Operation: Depredation
+
+Description             : Now it is time for you to kill the ultimate
+                          Fuhrer: Adolf Hitler! I've put my biggest,
+                          hardest levels here. On floor 7 is, once
+                          again, the hardest-to-find secret elevator
+                          in The Renovation (horrors!). I call this
+                          level "Maximum Overload, as it uses near to
+                          the maximum # of static objects & guards allowed.
+
+-----------------
+EPISODE FOUR:
+-----------------
+* Play Information *
+
+Level #'s               : 31 - 40
+                            BOSS   = Level 40  (This method was also
+                            SECRET = Level 39  used by Keith Heitmann)
+
+
+Difficulty Settings     : Yes
+
+Title                   : The War Rages On
+
+Description             : This episode depicts Capt. Blazkowicz's
+                          actions in the depths of Castle Verwechslung
+                          (look it up!) on his fourth dangerous
+                          mission: Blaze your way through the Nazi
+                          castle where all of the young, unintelligent
+                          (Hitler's way) officers spend their time
+                          preparing for battle. Lotza officers here -
+                          but then you get to meet the ultimate - and
+                          fattest - officer of them all, Otto
+                          Giftmacher. Otto has a private office on the
+                          10th floor - that's where you'll have to go
+                          to find him!
+
+-----------------
+EPISODE FIVE (the big MAZE episode!):
+-----------------
+* Play Information *
+
+Level #'s               : 41 - 50
+                            BOSS   = Level 49
+                            SECRET = Level 50
+
+Difficulty Settings     : Yes
+
+Title                   : Speak Softly and Carry a Luger
+
+Description             : Here we find faithful B.J. wreaking havoc in
+                          a former Nazi insane asylum. Not long ago
+                          the inmates escaped and murdered all the
+                          Nazi guards. Since then, the dilapidated old
+                          asylum has been turned into a secret weapon
+                          storage warehouse. However, intelligence
+                          reports indicate some of the crazy lunatics
+                          still remain in parts of the castle, waiting
+                          for some more juicy meat...
+
+-----------------
+EPISODE SIX:
+-----------------
+* Play Information *
+
+Level #'s               : 51 - 60
+                            BOSS   = Level 59
+                            SECRET = Level 60
+
+Difficulty Settings     : Yes
+
+Title                   : Success In Numbers
+
+Description             : In this final episode in the chronicles of
+                          Wolfenstein's infamous Renovation, you are
+                          required to find the legendary Nazi General
+                          Fettgesicht (yeah, the big meathead himself)
+                          and put him permanently out of action. The
+                          Allies are counting on you, B.J.!! Good
+                          luck!
+
+================================================================
+A WORD ABOUT MY WAY OF ORGANIZING MAZES AND SECRET DOOR PLACEMENT:
+
+For those of you who hate scrubbing walls to find secret rooms and
+also hate being forced to navigate tremendous mazes, I have bad news
+for you. That's the way I was "brought up", so to speak - way back
+when, before I even knew of Compuserve (oh, God! Stone Age!), I
+painstakingly broke my back to find every crummy little secret door in
+the 6-episode Wolfenstein game. I was scrubbing walls for hours, but I
+enjoyed it. Each new secret door that opened gave my adrenaline level
+a jump - "What could be in there? A secret elevator? Who knows where
+I'll be led by this next corridor?" were common, sudden thoughts as I
+saw the door slide back. I hope you get the same kick out of my
+levels. Just try to think as you play them: This IS Wolfenstein. There
+is no MORE Wolfenstein. There is NO level editor, and I want to crack
+EVERY secret in this game so I can brag to all my friends... you get
+the picture.
+Now, about the mazes: They're not that bad! Really! I beat one of the
+worst ones in LESS than that level's default par time! Seriously!
+Almost three MINUTES less! Here's how: The correct path(s) in each of
+my mazes is always marked, be it by a different wall pattern or a
+static object, like a pool of blood or a ceiling lamp. Just look for
+common objects and follow them - you'll be led right to the key, or
+the elevator, or whatever. Watch out, though, because some times I
+tag the WRONG path - take it and you've screwed up the rest of the
+maze PERMANENTLY! Fortunately for you, only one of my levels is
+like this (oh, what the hey, I'll tell you: E6L3). Take note, though,
+that I don't mark the path to the nonessentials, like treasure and the 
+#1-favorite chaingun - you have to find that yourself! After all, that's
+the price you pay if you weren't a good boy and didn't save your game
+before you got here...
+
+----------------
+Hey! I'll see you in Wolfenstein, suckers!  ;-)
+----------------
+
+                        GERMAN LANGUAGE LESSON
+
+For those die-hard Wolfenstein lovers out there (like me), here's a
+few choice German phrases for you that you may find entertaining to
+shout at an oncoming SS or officer. This first column of phrases comes
+to you directly from one of the Spear of Destiny or Wolfenstein 3-D
+hint books:
+
+ษออออออออออออออออออออออออออออออออออหอออออออออออออออออออออออออออออออออป
+บ         GERMAN PHRASE            บ       ENGLISH TRANSLATION       บ
+ฬออออออออออออออออออออออออออออออออออสอออออออออออออออออออออออออออออออออน
+บ Scheiแe! (pronounced `scheisse')           Sh*t!                   บ
+บ                                                                    บ
+บ Tod ist mein leben!                        Death is my life!       บ
+บ                                                                    บ
+บ Erlauben Sie, bitte!                       Allow me, please!       บ
+บ                                                                    บ
+บ Was zum Teufel?                            What the hell?          บ
+บ                                                                    บ
+บ Verdammt!                                  D*mn!                   บ
+บ                                                                    บ
+บ Heil Hitler!                               Hail Hitler!            บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+Now these following phrases here I looked up myself and thought were
+particularly sarcastic or comical to say to a Nazi after you juice
+him:
+
+ษออออออออออออออออออออออออออออออออออหอออออออออออออออออออออออออออออออออป
+บ         GERMAN PHRASE            บ       ENGLISH TRANSLATION       บ
+ฬออออออออออออออออออออออออออออออออออสอออออออออออออออออออออออออออออออออน
+บ Um Gottes willen!                     For God's Sake!              บ
+บ                                                                    บ
+บ Mach's gut.                           Take care of yourself.       บ
+บ                                                                    บ
+บ H”ren Sie mich jetzt besser?          Can you hear me better now?  บ
+บ                                                                    บ
+บ Schmerzt das? Und das?                Does this hurt? And that?    บ
+บ                                                                    บ
+บ Entschuldigen Sie.                    Excuse me.                   บ
+บ                                                                    บ
+บ Was ist los?                          What's the matter?           บ
+บ                                                                    บ
+บ Die armen Deutschen!                  The poor Germans!            บ
+บ                                                                    บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+บ NOTE: If you get lost, feel free to stop and ask anyone "Haben Sie บ
+บ einen Aufzug?" Which means, "Is there an elevator?" And hopefully  บ
+บ he'll say "Natrlich. Dort drben," meaning "Of course. Over       บ
+บ there." ...But don't count on it. :-)                              บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+================================================================
+* Copyright / Permissions *
+
+Authors may NOT use any of these levels as a base to build additional
+levels. After all, this isn't a competition. Your primary function in
+my objective is to obtain, play, and enjoy the levels I make.
+Therefore, I would be grateful if you didn't hack them to pieces and
+dump them on a network with your name on them. Just play or you'll
+pay, Jackson!
+================================================================
+
+
+* A Final Word *
+
+To finish this oversized document off, I'd like to say the following:
+Enjoy playing The Renovation! That's all I ask (besides what I already
+asked in the above paragraph). Watch for some more new Wolfenstein /
+Spear / Blake Stone levels and missions I've got in the works even as
+you read this - I'm trying to create 89 levels for Blake Stone. Quite a
+job, but somebody has to do it...
+
+
+Brian J. "B.J. Blazkowicz" Rowan
+
+Compuserve : 73552,3423
+Internet   : blaze@oeonline.com

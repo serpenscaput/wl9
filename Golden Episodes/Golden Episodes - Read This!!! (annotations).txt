@@ -1,0 +1,51 @@
+The annotated Golden Episodes include saved games for Episodes 1, 2, 3, 4 & 6, all 
+of which are at the start of floors 2 through 10 at the 'No One Is Safe', ('I am 
+Death Incarnate'), level, with maximum health and ammo, (except one floor where I 
+neglected to collect all of the ammo after completing the floor, so there are only 
+152 rounds to start the floor, rather than the maximum of 200). If you complete floor 
+10 on any episode, you can determine which floor has the secret elevator by subtracting 
+one from the floor number next following the completed secret floor.
+
+There are very few push wall secrets on most levels in this addon. Most of them are 
+after or near the first locked door. There are also few ammo and health points to 
+be found on some levels.
+
+To save ammo, USE THE KNIFE AS OFTEN AS POSSIBLE!!!, often against multiple SS, (gray 
+uniformed soldiers with machine guns) and Officers, (white uniforms). Where possible, 
+find a right angle in the corridor for knife fighting, or lure them out one at a 
+time. The SS in particular require a lot of knife thrusts to be killed. Build up 
+a large reserve of ammo scattered throughout the floor so that you can switch to 
+the chain gun after you get through a locked door.
+
+I don't have any saved games for Episode 5. I've only managed to reach floor 2 on 
+this one when playing at the baby level. There are just too many Mech Mutants and 
+not enough bullets to kill them at the 'No One Is Safe' level. 
+
+I managed to complete Episodes 1, 2, 3, 4 & 6 with 100% Kill at the 'No One Is Safe' 
+level without using any cheats, so it can be done, (with a lot of saving). Use cheats 
+if you must. 
+
+The saved games allow you to practice or start any Episode on any floor of your choice, 
+with the exception of Episode 5. You can also play in 'reckless abandon' mode, where 
+the goal is to reach the elevator without saving, with no effort made to conserve 
+health or ammo. If you succeed, you can use the next saved floor with full health 
+and ammo restored. If you fail, Try again.
+
+If you can complete episode five at ANY setting without cheats, then you're a whole 
+lot better than I am!
+
+To use the saved games, open the Saved Games folder for the episode of your choice 
+and COPY/paste the SAVEGAM.TGE files to the main game folder. If you use cut/paste, 
+you will lose the saved games if you save again while playing the floor, (unless 
+you keep the annotated .rar archive file intact). If you want to use the saved games 
+from a different episode, follow the same procedure, and click the 'yes' tab in the 
+Confirm File Replace dialog box, (or delete the SAVEGAM.TGE files for the episode 
+that you had been playing previously). 
+
+If you play at a setting other than 'No One Is Safe'/ 'I Am Death Incarnate', the 
+saved games will not be of use to you, except for practice.
+
+Please note that the F5 key is used for saving games, rather than F2, as in most 
+Wolfenstein 3D games.
+
+Good Luck, B.J.!!!

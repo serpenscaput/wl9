@@ -1,0 +1,226 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Beyond Castle's Dungeons. This game is just a homenage 
+(with permission) to Wolf Skevos Jones, the real creator of this game.
+
+^P
+^C7d KNOWN BUGS
+
+^C00 Though I've added new features to the Wolfenstein engine, I'm not a true programmer. 
+ There were a few bugs which I've been unable to fix.  Sorry.  One is a bug that 
+was there to begin with -- dogs sometimes "disappear" when they chase you into an 
+elevator, but they still bite you.  Be careful of this on level four!  Also, the 
+assault rifle won't shoot rapidly if you don't have any regular bullets.  One more 
+thing: some of the ratios at the intermission are sometimes over 100%.  I don't know 
+why.  
+
+^P
+^C7d THE STORY
+
+^C00 After battle at Mario's Castle, he loose many guards, treasures and installations. 
+The Spear of Destiny has been aquired and peace come again, but the installations 
+are still losts. While Mario gets ready to leave the castle, a old enemy Wario, have 
+detected a very strange presence while he visits the dungeons. Later, he faint. Two 
+hours later, Wario woke up and see Mario, Luigi and Waluigi. He asked: - Where is 
+this place?  Mario- In the castle. You want... 
+
+^P
+^C7d THE STORY
+^G32,16,4
+
+^C00 Waluigi- Later we see this! Tell me what is happened! - Luigi leave the room 
+to take some water to Wario.  Wario- I dont know. I just have saw a flying skull 
+in flames come to me. Later, I fainted. - Luigi back with the water and Mario say 
+to him inform all the other friends to come to the room. So Mario said: - I know 
+what to do. I will call the Cp.BJ to investigate all the dungeons. But first, I have 
+to warning 
+
+^P
+^C7d THE STORY
+
+^C00 the Lt Flinhessmeister and tell about this. Mario have tryed to speak with him, 
+but there is no response from the dungeons. Mario says to Luigi and Waluigi to say 
+in the guard service. He go himself to the dungeons see if something is wrong. Lt 
+was not find. He heard diabolical voices that reminded the Angel of Darkness. In 
+a dark room, he see two red shines at the end. While the creature is approaching, 
+the Mario's phone call.   
+
+^P
+^C7d THE STORY
+
+^C00 Its BJ! He says to Mario that he will come to here a soon as possible.
+
+^P
+^C7d FEATURES
+
+^C00 * One massive, seamless episode
+* 18 new levels 
+* Two new weapons
+* New enemies, including S.S. Officers
+* Two new keys
+* Ambient sounds
+* Changed help screen and end screen
+* Changed ceiling colors
+* Spear of Destiny music
+
+^P
+^C7d LEVELS
+
+Floors 1-10: Main Dungeons ^C00You must defeat t 
+
+^C7d Floors 6-10: Labs ^C00Under head scientist Dr. Schabbs, the Nazis have been 
+conducting chemical and biological research.  They were using some of the prisoners 
+as guinea pigs in their diabolical experiments.  Beware of their creations.
+
+^P
+^C7d LEVELS
+
+Floors 11-16: Castle ^C00You are getting closer to the end, but the Nazi resistance 
+is getting worse.  Captain Narbgesicht holds an important key.
+
+^C7d Floor 17: Lurking ^C00Narbgesicht is dead!  But something is wrong.  You expected 
+to find a mass of Nazi troops waiting for you on the next floor, but instead you 
+find that they're all dead.  What could have killed them?
+
+^P
+^C7d LEVELS
+
+Floor 18: Escape ^C00If you make it out of here in one piece, you win!!!
+
+^C7d Secret Levels: ^C00See if you can find 'em!
+
+^P
+^C7d ARSENAL
+
+^C00 Accept for the knife, the weapons either use bullets or rifle rounds.
+
+^C7d Knife: ^C00Used for close combat, the knife is best as a last resort.  It requires 
+no ammo. 
+
+^C7d Luger: ^C00The standard German pistol. You'll need to switch to a better weapon 
+when fighting multiple enemies.  It uses standard 9mm ammo.
+
+^P
+^C7d ARSENAL
+
+MP40: ^C00This machinegun comes in handy when fighting groups of enemies.  It is 
+often carried by S.S. personnel.  The MP40 uses 9mm bullets.
+
+^C7d Chaingun: ^C00This ultra-speed Gatling gun can mow down an entire Nazi platoon 
+in seconds!  However, it uses up ammo like popcorn.  The Chaingun uses 9mm bullets.
+
+
+^P
+^C7d ARSENAL
+
+Mauser: ^C00The Mauser is the standard German rifle.  Its strength and accuracy make 
+it the choice weapon among snipers.  It uses 7.92mm rifle rounds.
+
+^C7d STG44: ^C00Abbreviated for "Sturmgewehr 44," the STG44 is an assault rifle that 
+has the same rate of fire as the MP40, only it is much more powerful.  It uses 7.92mm 
+rifle rounds.
+
+^P
+^C7d THE ENEMY
+
+Wehrmacht Troops: ^C00The standard German soldier.  They are the most common enemy.
+
+
+^C7d Battle Mutants: ^C00These failure experiements are trained to attack intruders. 
+They are weak, but vicious!
+
+^C7d Officers: ^C00Though armed only with a Luger, Officers are fast and furious.
+
+
+^P
+^C7d THE ENEMY
+
+S.S.: ^C00Also known as Himmler's "Blackshirts," S.S. guards are brutal and will 
+perforate you with their MP40 machineguns.  S.S. Officers are even deadlier since 
+they are faster!
+
+^C7d Mutant-S.S.: ^C00This guard is very dangerous, in groups are deadly. They can 
+beat you. It's a dead soldiers with the death's dark side incorporated.
+
+^C7d Snipers: ^C00Instead of chasing you, Snipers prefer to wait until you come within 
+range of their rifles.
+
+^P
+^C7d THE ENEMY
+
+Flamethrower S.S.: ^C00Stay away from him.
+
+^C7d Chaingunner: ^C00This is the elite soldier inside dungeons. Heavily armored, 
+can cause you serious damage.
+
+(Note: It is also rumored that the Nazis are conducting horrible human experiments 
+somewhere within Castle Totenkopf.  Don't say we didn't warn you.)
+
+^P
+^C7d DUNGEONS LEADERS
+
+LT.Flinhessmeister: ^C00He is the big boss, director and commander of the dungeons. 
+He dont know about B.J. Uses a R.Launcher and a mounted special chain gun prototype. 
+
+
+^C7d Black Dark Angel: ^C00he is the evil behind this. Loves kill the enemies, pull 
+out they head and eat they souls. Later, use this souls like a weapons to turn you 
+into a putrid body!
+
+^P
+^C7d ULTIMATE DUNGEONS SOLDIERS
+
+Super Soldiers: ^C00They worked to the evil Dr.Fleischaker, but some of this guards 
+arent dead. So, Mario wascontrated they. Uses two chain guns.
+
+^C7d Grob S.Mutant: ^C00This is an aprimoration than the old one. Its the strongest 
+nazi soldier. Control the SS guards and he appearence is rare.
+
+^C7d Iron Knight: ^C00Not too powerfull, not too strong, but is the most powerfull 
+soldier in fire-weapons!
+
+^P
+^C7d SPECIAL THANKS
+
+^C00 To MCS and others (I'm terrible at remembering names) who provided excellent 
+tutorials on source code editing, to Florian Stohr for creating FloEdit, and, of 
+course, to the guys at id for writing Wolf 3d and other games which inspired me. 
+ I would also like to thank everyone at the Wolf 3d Community for their contributions.
+
+
+^P
+^C7d EDITORS USED
+
+^C00 Want to know how I made this add-on?
+
+^C7d FloEdit: ^C00Adding graphics, sounds, levels
+^C7d Borland 3.1: ^C00Code Compilation
+^C7d Notepad: ^C00Help Screens/End Art
+^C7d Paint Shop Pro: ^C00Graphics modification
+^C7d Sound Forge 5.0: ^C00Sound effects 
+
+^P
+
+^C7d CONTACTING THE AUTHOR
+
+^C00 Comments?  Suggestions?  Nasty criticism?  Nazi interrogation?  My current e-mail 
+address is wolf@shadaux.com.  I used to be bad at remembering to check my e-mail, 
+but I do it regularly now.
+^C00 Remember: this game is not mine, WSJ is created this, but my e-mail is wolfmaniacbros@yahoo.com.br.
+
+ 
+^P
+^C7d THANKS FOR PLAYING!
+^G32,16,5
+
+^C00 I hope you enjoy playing Beyond Castle is Dungeons!  Now start blasting through 
+those goose-stepping Nazis!  Good luck, B.J.!
+
+^P
+^C7d Its me, Mario Maniac
+
+^C00 I just want thanks WSJ again for give me permission for do this homenage. THANKS!
+
+
+^E 

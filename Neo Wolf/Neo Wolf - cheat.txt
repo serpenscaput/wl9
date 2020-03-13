@@ -1,0 +1,23 @@
+Cheating
+
+
+Hold [I]+[L]+[M] at any time and you get all the keys, guns, 100 life and 99
+ammo but your score is set to zero.
+
+If you run NeoWolf in cheat mode here's what you gotta do to start cheating.
+Hold [Left SHIFT]+[ALT]+[BACKSPACE] to go into debuging mode.  Then you can
+use any of the following commands.
+
+[TAB]+[W] - lets you warp to any level(1 being the first, 9 the last and 10
+            the secret.)
+[TAB]+[G] - God Mode(degreelessness mode)
+[TAB]+[I] - Gives you +100000 points, 100 life, more ammo and the next gun
+[TAB]+[X] - Extra Stuff(I dunno)
+[TAB]+[H] - Hurt Yourself
+[TAB]+[S] - Slow motion(great...)
+[TAB]+[E] - Exit the floor
+[TAB]+[B] - Let's you change the border color
+[TAB]+[T] - Let's you view images and info of all the walls and sprites
+[TAB]+[C] - Level info
+[TAB]+[M] - Memory info
+[TAB]+[V] - Adds extra VBLs(Vertical Blanking Signal) Pretty much useless.

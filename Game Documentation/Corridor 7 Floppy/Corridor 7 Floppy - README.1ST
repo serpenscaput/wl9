@@ -1,0 +1,225 @@
+
+
+
+                               CORRIDOR 7 ADDENDUM
+                               ===================
+
+
+        The following information is provided as an addendum to the
+        Corridor 7 Alien Invasion Manual.   A  few  things may have
+        changed or may have been added since the manual was sent to
+        the printers.
+
+        -- Changes ------------------------------------------------
+
+        1. Proximity mines now appear as RED blinking blips on your
+           map instead of  BLUE  as stated in the manual.  This was
+           done during final  beta testing  because we found it too
+           difficult to distinguish between  dropped mines  and the
+           players position.
+
+        2. Securing the floor for the different  difficulty  levels
+           requires kills of certain percentages as follows:
+
+                        DIFFICULTY              KILLS REQUIRED
+                        ==========              ==============
+                        Corporal                      10%
+                        2nd Lieutenant                75%
+                        Captain                      100%
+                        Major                        100%
+
+           On  Corporal and 2nd Lieutenant  levels  a message  will
+           appear  (and be heard on  SoundBlasters  &  compatibles)
+           when  the  appropriate  percentage  of aliens  have been
+           killed stating "Elevator Clearance Acquired". This means
+           that at any time you may go to the  elevator and proceed
+           to the next floor.
+
+        -- Additions ----------------------------------------------
+
+        Alternate elevators  can be found on some  floors  (usually
+        guarded by boss aliens).  These elevators  will take you to
+        "bonus levels".  You  do not  have to secure the floor on a
+        bonus level to complete the game.   Bonus  levels  are  for
+        points only.  You enter the bonus level with whatever items
+        you are  currently carrying  and leave the bonus level with
+        the same items (including health and ammo).  You cannot die
+        on bonus levels - instead, you are awarded points for kills
+        and  shooting accuracy, then taken to the next floor.   You
+        play the bonus level until your health has expired or until
+        you return to the elevator.
+
+        ** NOTICE **
+        It may be a good idea to  save your game when you are taken
+        to a bonus level.  This way, you can replay the bonus level
+        as  often as you wish until you kill all aliens and gain as
+        many points as possible.
+
+
+
+
+        -- TROUBLE SHOOTING ---------------------------------------
+
+        If you are  experiencing difficulties  with digitized sound
+        effects such as sporadic playback, distortion or choppiness
+        there are a  few things  you can try that may alleviate the
+        problem before you call for technical support. The problems
+        mentioned above are  most often  the result of an interrupt
+        conflict. The playback of digitized sounds in  applications
+        using  DMA  (Direct Memory Access),  such as  the case with
+        SoundBlaster and compatibles, relies heavily on your chosen
+        interrupt to keep the actual  sound data moving from memory
+        to the DAC (Digital to Analog Converter) of the sound card.
+        The most commonly used interrupts for sound cards are 5 and
+        7.  Corridor 7 supports interrupts 2, 3, 5 and 7. A printer
+        will also often use  one of these interrupts.  A sound card
+        and printer that share common interrupts will in many cases
+        cause digitized playback problems. Other specialized add-in
+        cards such as network or scanner cards, may also be using a
+        system interrupt. In such a case using a  DOS boot disk  or
+        temporarily  commenting  out  the  loading  of  specialized
+        drivers from your "autoexec.bat" and "config.sys" files can
+        alleviate the problem.  The  sound cards'  interrupt should
+        be reserved SOLELY FOR ITS USE. If possible use interrupt 7
+        (the original SoundBlaster default) for your sound card. If
+        using a  Pro-Audio Spectrum  card in SoundBlaster emulation
+        mode, once again set the  SoundBlaster interrupt  to  7  if
+        possible (there should be a hardware jumper on the card for
+        the SoundBlaster interrupt),  and make sure that the actual
+        PAS interrupt  and the  SB interrupt are not the same (this
+        can again result in a conflict).  It is  possible  that you
+        may not have access to the  faders in the game that control
+        music and digitized volume. This is because these functions
+        were designed around the mixer chip used in SoundBlaster 16
+        and SoundBlaster Pro cards. If you do not have one of these
+        sound cards  you  will  not  be able to use the audio-mixer
+        section. This problem may be resolved soon as we await more
+        comprehensive standards in regards to  sound card functions
+        and compatability.
+
+
+
+
+                ***********************************************
+
+                         C O R R I D O R    7    C D
+
+                ***********************************************
+
+
+        INSTALLING FOR NETWORK PLAY:
+        ============================
+        To install Corridor 7 to be played on an IPX compatible network
+        choose the "network" type from the INSTALL program.  It is best
+        to install a copy on each of the workstations that will be part
+        of the slaughter.  The reason being that if you install the files
+        directly onto a network drive and if others are moving around in
+        the game it will take longer for a new player to join in because
+        of all the IPX activity happening.
+
+
+
+        COMMAND LINE OPTIONS
+        ====================
+        There are utility command line options available for your
+        convenience.  They are as follows and should be added to the
+        DOS command line when you type CORR7.
+
+                "local"
+                        - this option tells Corridor 7 to look for
+                          graphics and sound files on your local drive
+                          and not on the CD drive.
+
+                "network"
+                        - this option will allow you to execute the
+                          Corridor 7 game without the CD.  NOTE: You can
+                          only play network games without the CD.  Other
+                          levels of play will ask you to insert the CD in
+                          the player before proceeding.
+
+                "keepfiles"
+                        - this option will prevent the temporary files
+                          from being deleted when you exit the game.
+
+
+
+        MULTIPLAYABILITY
+        ================
+        For IPX (network) multiplaybility install using the "network" type
+        from within the INSTALL program.
+
+        For MODEM multiplayability, enter the game as usual except pick
+        "MODEM" instead of "CORPORAL" or "CAPTAIN".  After configuring
+        your hardware setup (ie. COM port, IRQ, etc.) you will be thrown
+        into the game.  At this point your modem is set to auto-answer
+        and will await a call from your opponents modem.  The following
+        commands are available from within the game during modem play:
+
+                ALT-A   - Answer the line manually.  Use this if someone
+                        dials you up and your modem doesn't answer auto-
+                        matically.
+
+                ALT-B   - Busy-out the phone line.  Use this if you don't
+                        want to accept any calls yet.  ALT-H will hang-up
+                        the modem.
+
+                ALT-D   - Dial a number.  Use the UP/DOWN arrow keys
+                        to highlight the appropriate option.  To enter
+                        a number, highlight the phone number box and
+                        press ENTER.  Type in the number and press ENTER
+                        again.
+
+                ALT-H   - Hangup the modem.
+
+                ALT-I   - Re-initialize the modem with the current init
+                        string.
+
+                ALT-R   - Reset the modem (this sends an ATZ to the modem).
+
+
+        For direct SERIAL play, use a standard null-modem cable between
+        the computers and select the appropriate baud rates (they should
+        be the same on both machines).
+
+        ==================================================================
+
+        To configure the game to use CD music:
+
+                a) Use the FULL INSTALL option.
+
+                b) Select CD Music from the music options menu in
+                   the SETUP program.
+
+                c) CD Controls will then be available from the "Adjust Audio"
+                   menu off the games Main Menu screen.  They operate like
+                   standard "PLAY" "SKIP" and "STOP" buttons on a CD player.
+                   Look for more interaction between the game and CD score
+                   in our next release "Operation Body Count".
+
+                d) The CD controls can also be accessed by "Hot Keys" from
+                   inside the game (these come in handy if your sound cards
+                   mixing functions aren't supported - you do not have acces
+                   to the "Adjust Audio" menu).  They are as follows:
+
+                        ALT-P : Play.
+                        ALT-F : Skip (advances to the next track).
+                        ALT-S : Stop.
+
+        CD and Line-In mixer options are included in case you do not have an 
+        internal audio connection from your CDROM drive to your sound card.
+        In this situation a stereo mini-plug cable (or an RCA to mini,
+        depending on your CD drive) can be used to run from an external
+        CDROM drive to the Line-In input of the sound card. Use the
+        appropriate fader on the Adjust Audio screen to set pleasant listening
+        levels.
+
+ 
+        ABNORMALITIES
+        =============
+        If the game seems to be operating abnormally or doesn't load up at
+        all, try adding "noems" and "noxms" to the command line when loading
+        up the game.
+
+                For example:    C:\CORR7CD> CORR7 NOEMS NOXMS
+
+

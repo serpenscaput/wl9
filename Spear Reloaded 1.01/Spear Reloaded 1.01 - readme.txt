@@ -1,0 +1,41 @@
+====================================================================================================
+
+
+ Spear of Destiny Reloaded
+
+ Version: 1.01
+ Date:    17.2.2010
+
+====================================================================================================
+
+
+Thanks for participating,
+
+here's the 1.01 patch for SOD Reloaded. It is not named 1.1
+because that will be the final version.
+
+This is exe only update, but the final patch will add credits
+to readme aswell and fix some maps.
+
+Please report any issues found, but
+concentrate your efforts to the following fixed issues:
+
+ - You can now disable stars and cloud coverage (SDL)
+ - Fixed enemy minecarts "skipping in place" after killed (SDL/DOS)
+ - Fixed a crash to desktop when riding a cart to a door (SDL/DOS)
+ - Adjusted running over people with minecart (SDL/DOS)
+ - Fixed a crash when moon entered view on custom resolution (SDL)
+ - Only resolutions that are multiples of 320x200 are supported (SDL)
+ - Disabled unsupported commandline arguments (SDL)
+ - Re-enabled "nowait" commandline argument (SDL/DOS)
+
+Your help is appreciated!
+
+You can use codetech84@kfhgames.com for sending your bug reports,
+or just reply to this message.
+
+Take care,
+Codetech84
+KFH Games
+
+====================================================================================================

@@ -1,0 +1,34 @@
+Endlösung by Thomas Weiling (wolf3d mod)
+original DOS release: 31 May 2009
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Pushwalls always move 3 spaces
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Changes based on Ronwolf's Endlösung EXE:
+
+Episode names changed
+Ceiling colors changed
+Music order changed, silenced in spots
+
+Improvements in SDL version:
+
+Warp limited to levels 1-5
+Final ratios adjusted for 5 levels
+Demos disabled
+End text disabled
+
+
+
+
+
+
+
+
+
+

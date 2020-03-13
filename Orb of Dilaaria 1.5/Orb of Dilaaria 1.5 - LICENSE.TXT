@@ -1,0 +1,71 @@
+Introduction
+----------------------------------
+Orb of Dilaaria is a fantasy-themed total conversion mod of Wolfenstein 3D.
+
+Orb of Dilaaria license
+----------------------------------
+BY PROCEEDING TO INSTALL THE SOFTWARE, YOU AGREE TO THE TERMS OF THIS LICENCE AND 
+TO BE BOUND BY IT.  IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENCE, YOU MUST DISCONTINUE 
+THE INSTALLATION PROCESS NOW.  
+
+1. GRANT AND SCOPE OF LICENCE
+
+1.1 You may:
+
+(a) download, install and use the Software for your private, non-commercial purposes 
+on as many computers as you want;
+
+(b) distribute this program freely.
+
+2. LICENSEE'S UNDERTAKINGS
+
+2.1 Under no circumstances are you allowed to:
+
+(a) sell, rent, or lease copies of this software;
+
+(b) remove this license notice.
+
+3. DISCLAIMER OF WARRANTY
+
+3.1 This Software has been created and developed using reasonable skill and care.
+
+
+3.2 You acknowledge that:
+
+(a) this software is provided "as-is" and may not be free of bugs or errors;
+
+(b) The programmer makes no warranty as to its quality, use, or performance;
+
+(c) you use the software at your own risk; and
+
+(d) in no event shall the programmer be liable for any consequential, incidental, 
+direct, indirect, special, punitive, or other damages whatsoever (including, without 
+limitation, damages for loss of business profits, business interruption, loss of 
+business information, or other pecuniary loss) arising out of this agreement or the 
+use of or inability to use the product, even if the programmer has been advised of 
+the possibility of such damages.
+
+4. SUPPORT
+
+4.1 Support for the game has been discontinued.
+
+5. CONTACT
+
+5.1 website: http://orb.moddb.com
+
+5.2 email: mailto:winwolf3d@gmail.com
+
+6 ADDITIONAL
+
+6.1 The programmer make no claims of being affiliated with id Software, Ravensoft, 
+Monolith, Capstone, Lobotomy Software, or ValuSoft.
+
+----------------------------------
+
+Wolfenstein 3D, Doom, Doom II, and Quake are registered trademarks of id Software.
+
+Heretic and Hexen are registered trademarks of Ravensoft.
+Blood is a registered trademark of Monolith.
+Witchaven is a registered trademark of Capstone.
+PowerSlave is a registered trademark of Lobotomy Software.
+Arthur's Quest is a registered trademark of ValuSoft.

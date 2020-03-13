@@ -1,0 +1,34 @@
+MODALITA' D'USO DI "Wolfenstein 3D - TexZK's story"
+
+Questo gioco è stato tratto dall'originale "Wolfenstein 3D" della software house 
+id software.
+E severamente vietata la vandita di questa Total Conversion, in quanto non si possiedono 
+i diritti d'autore originali.
+
+Al progetto in questione hanno collaborato:
+
+Project leader: TexZK
+_ Programmatori: ArEyeP & MCS, DarkOne, BJ Rowan, Chaos-software, Tristan van Putten, 
+Po&t & Tommy Olstad
+_ Tools: DarkOne, Florian Stohr, BJ Rowan
+_ Grafica & suoni: Tristan van Putten, BJ Rowan, ArEyeP, Kuki, Zach Higgins
+
+Gli strumenti utilizzati sono:
+
+_ FloEdit: mappe; aggiunta di grafica e suoni
+_ Borland C++ 3.1: compilazione C++ (*.exe)
+_ LZexe: compressione *.exe
+_ Mapedit 8.4: mappe
+_ Return to Castle Wolfenstein: armi e suoni
+_ ImfTools & MicroLogic Fun: musiche
+_ Asymetrix BitEdit: grafica
+
+Si ringraziano anche tutte quelle persone che hanno collaborato ma non sono state 
+inserite in questa licenza.
+
+_ Wolfenstein 3D (c) 1992 by id software, Inc. Wolfenstein 3D, Return to Castle Wolfenstein 
+e il logo "ID Software" sono proprietà di id software, Inc.
+_ Broland C++ compiler 3.1 (c) 1990, 1992 by Borland, Inc.
+_ Mapedit (c) 1992 by Bill Kirby. Mapedit 8.4 (c) by 1994 by David Huntoon, Bryan 
+Baker, Warren Buss
+_ FloEdit (c) by Florian Stöhr

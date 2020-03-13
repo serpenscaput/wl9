@@ -1,0 +1,48 @@
+========================================================================
+Title                   : From Schabb's Hand
+Files			: gamemaps.wl6 maphead.wl6 PDwolf1.txt
+Author                  : Pablo Dictter 
+Email Address           : pablodictter@hotmail.com
+Description             : A 3 level episode (4 w/ the secret). I made 4 levels when 
+right after I 			  had finished my first SoD levels. They were supose to be part 
+of a full 			  episode that I was going to make. I lost interest and I released them. 
+			  I fixed the enging of FLOOR03 and ta-da!
+
+Instalation		: Before unziping this file into you're Spear of Destiny folder, make 
+a 			  copy of the original gamemaps.wl6 and maphead.wl6.
+
+Story			: While Bj was trying to find Dr. Schabb's, you, Agent 51, were busy 			 
+ 	  trying to find some secret documents of Shabb's. Intelligence said that 			  
+they could be somewhere in the third floor of Castle Hollehammer. While 			  Bj was 
+doing his job, you entered into the castle from a western 				  entrance...
+
+Special Thanks to	: Id for Wolf & Spear. 
+
+========================================================================
+
+* Play Information *
+
+Game			: Wolfenstein 3-D 1.4
+Episode and Level #     : EP.2 FLOOR01 through FLOOR03 & the secret floor.
+New Sounds              : No
+New Sprites		: No	
+New Textures		: No
+New Graphics		: No
+
+* Construction *
+
+Base                    : Unfinished Levels (which where made from scratch).
+Editor(s) used          : FloEdit
+Known Bugs              : None
+
+========================================================================
+
+* Copyright / Permissions *
+
+ Authors may not use these levels as a base to build additional
+ levels. 
+
+ You MAY distribute this WAD in any electronic format (BBS, Diskette, 
+ CD, etc) as long as you include this file intact. 
+
+http://pdictter.s5.com

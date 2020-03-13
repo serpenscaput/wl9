@@ -1,0 +1,601 @@
+ ____  _                     __     _   _              _____     _           _
+|  _ \(_)___  ___      ___  / _|   | |_| |__   ___    |_   _| __(_) __ _  __| |
+| |_) | / __|/ _ \    / _ \| |_    | __| '_ \ / _ \     | || '__| |/ _` |/ _` |
+|  _ <| \__ \  __/   | (_) |  _|   | |_| | | |  __/     | || |  | | (_| | (_| |
+|_| \_\_|___/\___|    \___/|_|      \__|_| |_|\___|     |_||_|  |_|\__,_|\__,_|
+
+         ÛÛ                                                       ÛÛ
+        ÛÞÝÛ                ÝÛ   ÝÛ ÞÛÜ ÝßÜÝßÞÛß                 ÛÞÝÛ
+       ÛÛÛÛÛÛ              ÞÛÞÝ ÞÝÞÝÝ ÝÞÝÜ ÝßÞÛß Þ              ÛÛÛÛÛÛ
+      ÛÛÛÛÛÛÛÛ             ÝÝ Ý ÞÝÝ Ý ÝÞÝÞÝÝ ÞÛ  Ý             ÛÛÛÛÛÛÛÛ
+     ÛÛÛÛÞÝÛÛÛÛ           ÞÛÜÜÛ Ýß  Ý Ý ÝÜÝßß ßß ÛÜ           ÛÛÛÛÞÝÛÛÛÛ
+    ÛÛÛÛ    ÛÛÛÛ          ÝÝ  ÝÝÝ   ßß ÜÜÜÜÜßßßßßßÜßßß       ÛÛÛÛ    ÛÛÛÛ
+      ÜÜÛÛÛÛÜÜ           ÞÛ   ÜÜÜÜßßßßßÛßßß      ÞÝ            ÜÜÛÛÛÛÜÜ
+  ÛÜÛÛßß ÛÛ ßßÛÛÜÛ       ÝÝÜßßÛÛÛÛÛÛÛß           Þ         ÛÜÛÛßß ÛÛ ßßÛÛÜÛ
+ ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ                                       ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+
+                    Rise of the Triad v1.1 Shareware Manual
+                    Copyright (c)1995 Apogee Software, Ltd.
+                    P.O. Box 496389 þ Garland, TX 75049-6389
+                                 (214) 278-5655
+
+   For Technical Support, please run the ROTTHELP.EXE file in this directory.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                  ÚÄÄÄÄÄ¿
+                                  ³INTRO³
+                                  ÀÄÄÄÄÄÙ
+
+Hi there.  You're playing Rise of the Triad.  You're probably wondering what
+the heck all of that stuff in the game is.  Well, lucky you're here, because
+in this document are all the descriptions and tips you need to play Rise of
+the Triad: The HUNT Begins.  Here is a list of the Table of Contents.  You
+can jump to any of these sections quickly, by pressing F7 to bring up a list
+of them, and then going right to that section!
+
+                            ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                            ³TABLE OF CONTENTS³
+                            ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+1       STORY
+2       OBJECTIVE
+3       STUFF IN THE GAME
+  3.1   HELPFUL ITEMS
+  3.2   WEAPONS
+  3.3   DANGERS
+  3.4   OTHER STUFF
+4       ENEMIES
+5       CONTROLS AND GAMEPLAY
+6       COMM-BAT (multiplayer battles)
+7       HINTS & TIPS
+8       BEHIND THE SCENES
+9       CONCLUSION
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                  ÚÄÄÄÄÄ¿
+                                  ³STORY³
+                                  ÀÄÄÄÄÄÙ
+
+You are a member of the HUNT, the top secret High-risk United Nations
+Taskforce, sent on extremely covert operations to possible trouble spots
+outside the three-mile boundary waters of member countries.  You are
+investigating a breakout of cult activity on a small island in the Gulf of
+Santa Catalina.  Little do you know that your battle here is only the
+beginning of the Dark War about to be waged.  Fight bravely and survive
+the onslaught of hundreds of the evil Oscuridos, because you have to defeat
+their well-armed and heavily-funded forces to reach their master, El Oscuro,
+in the next game!  I mean--next mission.  Oops.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                  ÚÄÄÄÄÄÄÄÄÄ¿
+                                  ³OBJECTIVE³
+                                  ÀÄÄÄÄÄÄÄÄÄÙ
+
+YOUR "OFFICIAL" OBJECTIVE
+
+Vanquish the evil cult forces from the island and secure their stronghold.
+Use whatever force is necessary to accomplish your objective.
+
+WHAT THAT ACTUALLY BOILS DOWN TO
+
+Travel through each area, kill everyone you can, and make it through the
+exit arch to the next area.  Enjoy the happy irony of blowing them up with
+their own weapons.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                   ÚÄÄÄÄÄ¿
+                                   ³STUFF³
+                                   ÀÄÄÄÄÄÙ
+
+There is a lot of stuff in Rise of the Triad.  We've boiled it all down into
+four categories: Helpful Items (keys and health and such), Weapons (bullet
+weapons and missile weapons), Dangers (things that will fry or slice you to
+meaty ribbons), and the conveniently ambiguous "Other Stuff" (anything that
+pertains to the game that isn't just scenery).
+
+
+                               ÚÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                               ³HELPFUL ITEMS³
+                               ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+KEYS
+These are the most helpful items, because most levels have a locked door
+that requires a key to open it.  The doorframe of locked doors has an
+image of the key needed to open that door.  Keys are found spinning on top
+of brown pedestals.  There are different color keys to look for.  The color
+of the key will unlock that color locked door.
+
+POWERUPS
+Triad has a number of powerups and a few powerDOWNs.  They change your
+behavior rather radically.
+
+POWERUPS/DOWNS  WHAT THEY DO
+God Mode        Invulnerable, 10' tall, fire Godfire.
+Mercury Mode    Fly, be free!  You're not an Egg from Ork, but you can fly
+                around.  Press PgUp/PgDn to control the height you fly at.
+Elasto          Bounce off walls, have little friction.
+Shrooms         Disorienting, dangerous movement.
+
+Rise of the Triad: Dark War also includes Dog Mode and Random powerups.
+Dog Mode is quite fun, with its abusively-powerful BarkBlast.
+
+PROTECTION
+It's a necessity these days.  There are three types of helpful protective
+devices to find:
+
+ARMOR           HOW IT PROTECTS YOU
+Bulletproof     Saves you from those inconvenient skin perforations that
+                your job seems to involve.
+Asbestos        Firejets, fireballs, and missiles are a lot more survivable
+                with one of these on.
+Gas Mask        If you flip a switch or step on a touchplate and hear,
+                "Release the gas!" followed by hissing, you'll really wish
+                you were wearing one of these.
+
+HEALING
+You get injured, you need help.  Pick up these items for a quick boost.
+
+HEALING ITEM                    HEALS YOU THIS MUCH
+Monk meal                       10%
+Priest porridge                 20%
+Priest porridge hot             50%
+Monk crystal                    10%
+Large monk crystal              50%
+Healing basin                   0-63%
+1UP and 3UP (glowing ankhs)     Free lives (or full health, then free lives)
+Life Items (silver/gold ankhs)  100 = 1 free life
+
+There are four different types of ankhs (life items) that you can find.  Each
+will add a different amount to your total life item count.  If this were a
+nice printed manual, we could so incredibly show you what they looked like,
+but we cannot.  They're all over the place, so you can see them really easy.
+They are in denominations of 1, 5, 10, & 25.  Three of them look like anhks;
+the best one has two rotating rings around it.  An ankh is an Egyptian symbol
+of life.  It is not some sort of demonic or Satanic symbol.  This is only a
+game anyway.  Get a grip.
+
+
+                               ÚÄÄÄÄÄÄÄ¿
+                               ³WEAPONS³
+                               ÀÄÄÄÄÄÄÄÙ
+
+There are quite a few weapons in Rise of the Triad.  Most are devastatingly
+powerful.  Here they are all in a row, in a format we like to call a "list".
+
+BULLET WEAPONS          RATE (approx. Rounds Per Minute)
+Pistol (Walther P38)    136
+Dual Pistol             240
+MP40 Machine Gun        400
+
+MISSILE WEAPON          WHAT IT DOES
+Bazooka                 Shoots a missile out.  Missile goes boom.
+Firebomb                Shoots a missile out. Explodes in four directions.
+                        Very dangerous in close quarters.
+Heatseeker              Missiles seeks out heat sources: guards, fire, etc.
+                        Many feel this is THE preferred weapon.
+Drunk Missile           Five missiles leave your weapon and go crazy, flying
+                        off any which way (but loose).
+Flamewall               Missile lobs out, hits ground and turns into wall
+                        of flame, turning humans into skeletons. Try aiming
+                        up and lobbing missiles over things!  Aim down to
+                        start the flamewall close to you.  Great for large
+                        crowds.
+
+Rise of the Triad: Dark War also features three more weapons that are
+not available in the shareware version!
+
+Split Missile           Two missiles fly together until you release button.
+                        Then they split and heat-seek separately.
+Dark Staff              Shoots out kinetic energy sphere that severely
+                        damages everything in its path until it hits a solid
+                        wall.  Will go through windows.
+Excalibat               Knocks enemies into the air like Babe Ruth used to
+                        do to baseballs!
+
+
+                               ÚÄÄÄÄÄÄÄ¿
+                               ³DANGERS³
+                               ÀÄÄÄÄÄÄÄÙ
+
+
+The Oscuridos don't want intruders and have built lots of "intruder
+deterrents", which is their term for incredibly dangerous devices designed
+to impale, slice, incinerate, crush, poison, or melt the flesh off of anyone
+nearby.  Getting the Oscuridos to die on their own traps is one of the more
+satisfying parts of the game.
+
+DANGER                  THE NASTY THING IT DOES
+Spinblades              Huge three-tiered spinning blades that will damage
+                        you a LOT if you touch them.  Some move on tracks!
+                        Found on ceilings and floors.
+Firechutes              Shoot fireballs out of wall.
+Firejets                Jets that periodically blast a nasty tongue of flame
+                        into the air.  These sometimes move on paths too!
+                        Also found on ceilings and floors.
+Crushing Cylinders      Big round crushing cylinders.  Found on ceilings and
+                        floors.  Makes nice people pancakes.
+Gas Grates              If you see a grate near a switch, be suspicious that
+                        you will hear "Release the gas!" when you flip the
+                        switch, followed by green, poisonous gas filling the
+                        room.
+Spear Stabbers          Racks of sharp spears stab at you.  Don't get caught
+                        on them, or you will feel quite a bit less healthy.
+Lava pits               Do you walk on lava at home?  No?  Well, try to avoid
+                        it unless you have to.
+Firewalls               Burning hot rock.  Touching it will not do much for
+                        your complexion.
+
+Rise of the Triad: Dark War features all these deadly jobbies:
+
+DANGER                  THE NASTY THING IT DOES
+Boulders                Rolls over anyone and turns them into pulpy bits.
+Pit traps               They look like the floor until you walk over them,
+                        then you fall through and hurt yourself.
+Spinblade Stabbers      These are like normal big spinblades, except they are
+                        constantly poking out and ducking back in their
+                        hole, and we actually expect you to get past them
+                        by running quickly across them when they're hidden.
+Gun emplacements        There are two kinds: a gun that rises when you pass,
+                        and fires in one direction; and a four-way gun that
+                        fires whenever you get near.
+
+
+                                 ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+                                 ³OTHER STUFF³
+                                 ÀÄÄÄÄÄÄÄÄÄÄÄÙ
+
+THING           WHAT IT IS FOR
+GADs            Gravitational Anomaly Disks are part technology, part magic.
+                They float disconcertingly in the air.  Some travel through
+                the air like bizarre trains.  Some rise up and down like
+                elevators (EGADs).  They are building blocks the Oscuridos
+                use to make a place they have taken over their own.
+Jump pads       These throw you way up into the air, which allows you to get
+                over barriers, or up into ledges, or to grab stuff floating
+                in the air.  Some are timed, and some only work once.
+Metal walkways  Iron catwalks are everywhere, another sign of the Oscuridos
+                modifying the place they are holed out in.  (Out in?)
+High switches   You may need to use a jump pad or ride an EGAD up to a high
+                switch.  They will activate something, like open a door,
+                move a wall, or release poison gas from nearby grates.
+                It's usually good, unless you're on a level called "Crushing
+                Walls and Choking Gas Pits"--then I'd be a bit more cautious.
+Bonus Barrels   These might hold a weapon, some healing, a life item...
+                They look slightly different than normal barrels.
+Crates of TNT   They explode when you shoot them.  So do guards if they are
+                nearby the crate when you shoot them.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                  ÚÄÄÄÄÄÄÄ¿
+                                  ³ENEMIES³
+                                  ÀÄÄÄÄÄÄÄÙ
+
+
+GUARD NAME        WHAT THEY WEAR & WHAT THEY DO
+Low Guard         Gray uniform. Your basic grunt enemy.  Shoot them.
+                  Some are sneaky....
+High Guard        Green uniform, with machine gun.  You just can't ignore these
+                  guys for very long, unless you let them kill you, when you
+                  can ignore them for quite a while if you like.  Sometimes
+                  when they die, they will drop their machine gun, and you can
+                  get it!
+Lightning Guard   Green longcoat, with pistol.  These dangerous guys steal your
+                  weapon, and sometimes use it on you!  Plus they run faster
+                  than normal guards do.  Some of them carry missile weapons!
+Strike Team       Beige uniform, with pistol.  These clever guys roll if they
+                  get hit, so you have to re-aim.  Plus, they can roll out of
+                  the way of missiles!
+Patrol Robot      Built by technical wizard John Darian, these metal threats
+                  fire slow-moving, heat-seeking drones at you.  Dangerous.
+Triad Enforcer    Black leather uniform with big chain gun.  The worst of the
+                  shareware enemies, they tear you up with a big chain gun,
+                  then throw grenades at you.
+
+The following enemies only appear in Rise of the Triad: Dark War
+
+Overpatrol        Black Uniform with pistol. Fires a net to trap you, then
+                  shoots you while you're helpless.
+Ballistikraft     Indestructible robot pillars of death.
+Death Monk        Undead servants of El Oscuro. Some fire deadly magic at you.
+
+Big Bad Bosses of Dark War
+
+"General" John Darian, the mad pyrotechnics expert.
+Sebastian "Doyle" Krist, movie studio mogul turned cult pawn.
+NME: the Nasty Metallic Enforcer, built by Darian to guard the lower reaches.
+El Oscuro, "the Dark", evil presence awakened by the Oscuridos.
+
+To say they are tough to beat would be like saying Everest is a
+little tough to climb.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                             ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                             ³CONTROLS & GAMEPLAY³
+                             ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+Here's a list and brief explanation of the controls in the game.
+
+In the menu, use the arrow keys to move around.  Press Enter when the
+choice you desire is highlighted.  ESC will back out.
+
+In the game, oh, boy, are there keys to learn.  Note that these are the
+Default settings, so if you change them, the text below won't magically
+change.  If you wish to restore them all to defaults, you can delete
+the file CONFIG.ROT from your game directory.  Here are the defaults.
+
+WHERE      KEY           WHAT IT DOES
+Game       Up arrow      Move forward
+           Down arrow    Move backward
+           Left arrow    Turn left
+           Right arrow   Turn right
+           Alt+arrow     Sidestep left or right (stafe)
+           Spacebar      Use objects/open doors/flip switches
+           Ctrl          Fire the selected weapon
+           Enter         Switch between bullet and missile weapons
+           Backspace     Turn 180 degrees (about face or "volte-face")
+           Shift+arrow   Run/Turn faster
+           Page Up       Look up (view returns to center when you let go)
+           Page Down     Look Down (view returns to center when you let go)
+                         (When you have mercury mode, Pg Up/Dn control your
+                          level of flight)
+           Home          Aim up (view stays where you aim it)
+           End           Aim down (view stays where you aim it)
+           Pause         Pause game (press Pause again to continue)
+           Comma/Period  Sidestep left/right (strafe)
+           Delete        Drop current missile weapon
+           +/-           Change size of game window
+           1-4           Choose weapon (1-3 are bullet weapons, 4 is missile)
+           A             Aim with up and down movement while this is held down
+           Tab           Enter Automap
+           F1            Help
+           F2            Save Game
+           F3            Restore Game
+           F4            Sound/Music Menu
+           F5            Low/Medium/High Detail
+           F6            Quick Save
+           F7            Messages on/off
+           F8            End Current Game
+           F9            Quickload Game
+           F10           Quit
+           F11           Gamma Correction
+           F12           Crazy Sandwich Key
+
+Automap    Page Up       Zoom out
+           Page Down     Zoom In
+           Tab           Exit Automap
+           F             Zoom out to full map size
+
+Comm-bat   F1-F10        Play Remote Ridicule sound
+           F12           Live Remote Ridicule: hold down key and speak
+                         through your microphone!  Must have compatible
+                         card and have microphone set up.  Live Remote
+                         Ridicule only works in network play.
+           T             Type a message to everyone
+           Z             Type a directed message
+           Tab           See everyone's KillCounts
+           Alt+number    Message Macro (set them up in SETUP.EXE)
+
+GAMEPLAY
+Basically, you run around and explore in the game.  There are a number of
+secret areas in each level.  Some are found by going up to a wall and
+pressing Use.  Some are opened by stepping on a touchplate (a darkened area
+on the floor).  Some are revealed by flipping a switch.  Some are hidden
+behind doors that only open after a certain time has passed.
+
+While the game will automatically aim your bullet weapons, you must aim
+your own missile weapons (at least the bazooka).  Make sure you're on
+target, then let 'er rip.
+
+Most experienced players use the mouse and keyboard simultaneously.  Run and
+turn with the arrow keys, then strafe (sidestep), fire, and look around with
+the mouse.  Some like to run, others like to open with the mouse, too.
+
+Those with a good command of the keys will have a great advantage over those
+who don't.  Turning around on your own takes a while--all of which you are
+getting shot.  If you know the Volte-face (or 180-degree turn) key, you
+suddenly face your attacker!
+
+If you see a big X light on the wall, that means that area is not necessary
+to finish the game, and is in fact very dangerous.
+
+Often switches will have Triad walls with 1 to 4 lights in them.  The lights
+usually are also found near what the switch activates.  So, if a switch has
+a two-light Triad wall next to it, look around for another two-light Triad
+wall and watch what happens to it or near it when the switch is flipped.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                  ÚÄÄÄÄÄÄÄÄ¿
+                                  ³COMM-BAT³
+                                  ÀÄÄÄÄÄÄÄÄÙ
+
+NOTE: This section gives only the basics on how to set up and play Comm-Bat
+      games of Triad.  For more detailed information, and info on how to solve
+      problems in Comm-BAT, please see ROTTHELP.EXE.
+
+Comm-bat means multiplayer battle over some type of communications port.
+
+There are three types of multiplayer Comm-bat: serial (when two computers
+are connected by a serial cable), modem (two people playing across the phone
+lines), and network (playing with up to 11 people on a network--the shareware
+version only allows five people at a time).  Here's how to get started in
+each.
+
+SERIAL SETUP
+Hook a serial cable up to each of your computers.  Your serial port is
+a wide connector that your printer is probably hooked up to.  If you can
+get two computers together, connect them with a serial cable, then run
+SETUP, set up your port settings, then choose Serial game.
+
+MODEM SETUP
+This is a bit tougher, as you have to choose what modem you have, and dial
+up another person who is waiting with Triad running.  Since there are many
+versions of the same modem, sometimes the initialization strings we provide
+won't work.  Refer to your manual on how to initialize your modem if the
+string doesn't work.  Once you get the right string, you'll be set.
+
+Setup your COM port settings and so on.  Right now, if your comm card is
+an older one, the UART will come up as 8250. 8250's are quite slow and some
+hitching may occur.  All internal modems and most new systems have the
+16550 card, which is very speedy and only like $30.  It is worth it to
+upgrade for all the different communication duties of your computer, as
+well as Triad.  A 16450 is extremely similar to an 8250, and some diagnostic
+programs will report an 8250 and a 16450 as the same port.
+
+NETWORK SETUP
+Make sure you are all connected to the network.  Choose Network Game in SETUP.
+Triad runs much better with one computer being a dedicated Server.  On that
+computer, choose how many people are playing.  All the other computers choose
+Client.  If you don't have an extra computer, you can choose Server/Client,
+but that person may experience occasional hitches from doing two jobs at once.
+Keeping track of 11 players is quite a task!
+
+Once you get into the game, choose Comm-bat game, and the Master (whoever got
+in the game first) will choose all the battle options and so on.  You can
+quit out of a Comm-bat game by pressing ESC and then Y.  If the Master quits,
+the current game will end and you will see everyone's scores in three tables.
+
+You can play six more Comm-Bat games once you get Rise of the Triad: Dark War,
+and you can still load in the shareware levels and play them there.  Plus, some
+of the levels will have neat new stuff in them when you run them from the
+registered version!
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                                ³HINTS & TIPS³
+                                ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+We all need help from time to time.  Here is help for you, if you need help
+in figuring out Rise of the Triad.  If you don't, well, this is just wasted
+space on your hard drive.
+
+o   Patrol Robots aren't hurt by bullets.
+o   All Life Items are gettable.
+o   Often there's a much easier way to get somewhere. Look for ways to
+    use a jump pad in the other direction and so on.
+o   After you drink from a fountain or get a key, you can destroy the basin
+    or pedestal!
+o   1Ups and 3Ups, if you are hurt, will heal you with the first extra life.
+    So if you want the whole set of lives, heal up full before getting them.
+
+There are some of these and tons more hints in the Dark War manual.
+
+                             ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                             ³SECRETS REVEALED³
+                             ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+BONUSES
+You can get a lot of crazy bonuses in Rise of the Triad.  It's fun to
+discover them on your own, but here are how you get them if you must know.
+
+BONUS                  WHAT IT MEANS
+Supercharge Bonus      Got all powerups on level
+Adrenaline Bonus       100% Kills
+Bleeder Bonus          used all health items on level
+Skin of Teeth          ended level with 1 dot of health
+Republican Bonus 1     Got all missile weapons on level
+Republican Bonus 2     Destroyed all plants on level
+Democrat Bonus 1       Never used a handgun on level
+Democrat Bonus 2       All shrooms & healing basins used on level
+Ground Zero Bonus      Hit with your own missile (hint: FW)
+Bull in China Shop     Destroyed all life items on level
+Curiosity Bonus        Every switch, pushwall, pillar, sound area
+                       pushed, messed with, or whatever
+Bonus Bonus            Got all bonuses
+
+It is REALLY hard to get the Bonus Bonus.
+
+There are more bonuses at the end of the whole game in Dark War.  They are
+pretty tough to get, too.
+
+Genocide Bonus         Kill every one of the same type of actor in the game.
+                       This can be gotten multiple times depending on how many
+                       different types of actors you can wipe out.
+DIP Bonus              Collect all three developer balls (Hmmmmm....)
+
+LEVELS
+There are secret levels in the game.  One you can get to through a secret
+arch.  The others require cheat codes to get to them.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                              ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                              ³BEHIND THE SCENES³
+                              ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+Who are the strange people who assembled this collection of data that they
+have the temerity to call "entertaining"?  Read on!
+
+                       THE DEVELOPERS OF INCREDIBLE POWER
+We got our name from a memo of Tom's about work hours.  At the end, it read:
+[some text about working together well, and if we do...] We will be...
+The Developers of Incredible Power!  It kind of stuck after that.  We don't
+mean it to be bragging--we mean it to have a sense of humor about ourselves.
+So many companies take themselves so bloody seriously all the time.
+Anyway, here we are....
+
+WHO                TITLE               WHAT THEY REALLY DID
+Tom Hall           Creative Director   Designed game. Did most of levels.
+Mark Dochtermann   Head Programmer     Wrote engine, comm code.
+William Scarboro   Programmer          Wrote actor code.  A lot of it.
+Jim Dose'          Programmer          Wrote sound code, some menu code.
+Stephen Hornback   Artist              Did most of the wall textures, most
+                                       most of the actors, and the cool
+                                       explosions, and most of the items in
+                                       the game. Also the Apogee earth
+                                       background.
+Susan J. Singer    Artist              Did many side textures, above textures,
+                                       the female modem players, the five
+                                       characters' faces.
+Chuck "D9" Jones   Artist              Did the snake door, some cinematics,
+                                       the Game Over picture.
+
+                              ASSOCIATE DEVELOPERS
+                        These people helped us out a lot
+
+Lee Jackson        Our master musician won a world-championship pun-off. Twice.
+                   Also spent a lot of time pining for the fields.
+Joe Selinske       He did a bunch of battle levels and some game levels, also
+                   spent too much time eating sushi and watching Japanimation.
+Joe Siegler        He did some game levels, like Ride 'em Cowboy and Wall to
+                   Wall in The HUNT Begins.  Drinks Diet Coke like most people
+                   inhale air.
+Marianna Vayntrub  She did some game levels in Dark War, Krist's chair, Mark.
+Robert Atkins      He did the awesome printed manual for Dark War, and admired
+                   Princess Leia in a "special" way.
+
+                               FORMER DEVELOPERS
+               These folks have left the Developers of Incredible
+                     Power, but left their mark on the game
+
+Tim Neveu          He drew many cinematic screens, the weapons, and the menu
+                   pictures.  Dreams of working for the Moon Pie people.
+Nolan Martin       He programmed most of the menus and the setup program,
+                   and loved donuts.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                                 ÚÄÄÄÄÄÄÄÄÄÄ¿
+                                 ³CONCLUSION³
+                                 ÀÄÄÄÄÄÄÄÄÄÄÙ
+
+See the ORDER.FRM file if you'd like to place an order for Rise of the Triad:
+Dark War.  It's got over thirty levels of action, plus thirty Comm-bat
+levels (or FIFTY levels on the CD).  Don't miss all the new weapons, new
+enemies, and the insane Dog Mode!
+
+Call 1-800-APOGEE1 to order.  Check out the ORDERING INFO Main Menu
+Option in the game for more information.  The registered version(s) of this
+game come with a really nice 32 page manual with all kinds of really nice and
+pretty pictures, and not just this text.
+
+Thanks for reading this. Hopefully, some of these 500 lines or so were helpful.
+
+                                    See ya.
+

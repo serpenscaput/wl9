@@ -1,0 +1,196 @@
+^P
+^C7d WELCOME!
+
+^C00 Thanks for downloading Zone Borders set. It is my 3rd set. I worked now on SOD 
+engine. So far this is the most serious set what I created. My best set because I 
+added many news. 
+
+^P
+^C7d THE STORY
+
+^G32,16,121
+^C00 1953. october 31. On Halloween's night the Nazis went to cementery,that they 
+respawn again Hitler. They can't dominate him the World. BJ listened,that he's enemy 
+what does. He will prevent the crazy plan. But he is not in possession of it Spear 
+of Destiny so you have to steal it. Good Luck BJ on dangerous action!
+
+^P
+^C7d FEATURES 
+
+Oh yeah. I added many new features. Here they are:
+
+^C01 - 7 new level
+- New GFX and SFX
+- Textured floor/ceiling 
+- Teleporter
+- Changer Textured floor/ceiling on teleporting
+- New ammo,weapon
+- 4 new enemy
+- Ambient sounds
+- And more.....
+
+^P
+^C7d WEAPONS AND AMMOS
+
+Knife: ^C00Silent weapon. You can enemies,that others can't hear your kill.
+
+^C7d Luger: ^C00The Luger P'08 weapon from German. Slow firer. You can kill easy 
+enemy. 
+
+Use ammo:8mm
+Strength:0.9
+
+^C7d MP40: ^C00This combinated submachinegun. SS's weapon. Faster as Pistol.
+
+^P
+^C7d WEAPONS AND AMMOS
+
+^C7d MP40:
+
+^C00Use ammo:8mm
+Strength:1.15
+
+^C7d Venom Chaingun: ^C00Bosses' danger it is weapon. So called venom chaingun. You 
+can fire the many enemy.
+
+Use ammo:8mm
+Strength:2.65
+
+^P
+^C7d WEAPONS AND AMMOS
+
+^C7d Gewehr 43 mauser: ^C00Automatic sniper weapon. You shoot at from afar enemies. 
+
+
+Use ammo:7.92mm
+Strength:1.30
+
+^C7d MP44 assault rifle: ^C00A german assault rifle. So as MP44,but powerful and 
+fully automatic.
+
+Use ammo:7.92mm
+Strength:2.25
+
+^P
+^C7d ENEMIES
+
+^C7d Guard: ^C00He is slowly. You can kill easy. Shoot with pistol. 
+
+Health's (Easy,Normal,Hard):50%
+
+Strength:0.9
+
+^C7d SS: ^C00He is fast. You need to hit more than guard. Shoot with MP40. 
+
+Health's (Easy,Normal,Hard):200%
+
+Strength:1.15
+
+^P
+^C7d ENEMIES
+
+^C7d Officer: ^C00He is faster. You need to hit more than guard. 
+
+Health's (Easy,Normal,Hard):100%
+
+Strength:0.9
+
+^C7d Dog: ^C00He is faster. You can kill with knife too. So be careful because bite. 
+
+
+Health's (Easy,Normal,Hard):2%
+
+^C7d Mutant: ^C00Mutated soldier,but dangerous. 
+
+^P
+^C7d ENEMIES
+
+^C7d Mutant: ^C00Soundless and lot of damage. You use not knife because you died 
+easy.
+
+^C00Health's (Easy):45%
+         (Easy 2,Normal):55%
+         (Hard):65%
+
+Strength:1.8
+
+^C7d Elite guard: ^C00So as guard. But he is other uniform.
+
+Health's (Easy,Normal,Hard):50%
+
+^P
+^C7d ENEMIES
+
+^C7d Elite guard: ^C00Strength:0.9
+
+^C7d Scientist: ^C00Faster as officer. They are labotary uniform. 
+
+Health's (Easy,Normal,Hard):60%
+
+Strength:0.9
+
+^C7d Chaingun SS: ^C00Danger! A SS with Chaingun in elite uiform. But you need take 
+care because he use venom chaingun as you.
+
+^P
+^C7d ENEMIES
+
+^C7d Chaingun SS: ^C00Health's (Easy):450%
+         (Easy 2):550%
+         (Normal):650%
+         (Hard):750%
+
+Strength:2.65
+
+^C7d Flamethrower guard: ^C00A newer Danger! It is an other dangerous enemy. He use 
+flamethrower weapon. Many fire shoot if you see.
+
+Health's (Easy):320%
+
+^P
+^C7d ENEMIES
+
+^C7d Flamethrower guard: ^C00(Easy 2):350%
+         (Normal):440%
+         (Hard):500%
+
+^P
+^C7d Credits
+
+^C00 True,that I created some stuff. But I used from other modders stuffs. Credit 
+yet to beta testers. Credit list:
+
+^C00 
+WSJ (Wolf Skevos-Jones):Graphics,sounds
+Wolf3DGuy:Graphics create helps to Me (Guards,SS & Flamethrower guard,Signon screen 
+with Me),Beta testing
+Chris Chokan:Code helps 
+Gerolf:Beta testing
+ID Software:Graphics,sounds,musics and source code
+
+^P
+^C7d Credits
+
+^C00
+Ripper:Wolf4GW
+Other modders:Code tutorials,graphics,sounds
+
+^P
+^C7d Utilies
+
+^C7d
+ChaosEdit:Mapping,Graphics and sounds adding
+Jasc Paint Shop Pro 9:Graphics modification
+WordPad:Write HelpArt,EndArt
+Dev C++:Coding (But not code compile)
+Build.bat on 4GW:Code compile
+
+^P
+^C7d Contant with Me
+
+^C00 You write if you have asks,problems to Me (catekoprotokol@gmail.com). Thanks. 
+Let's go kill Hitler and Nazis!
+
+- Officer-Michael John
+
+^E

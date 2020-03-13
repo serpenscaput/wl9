@@ -1,0 +1,37 @@
+Wolfenstein Reloaded Final Hotfix 3
+
+Fixes the following issues:
+
+- General alarm on non-stealth maps caused gameover
+- Some boss sounds could still be silenced, not anymore
+- Some bosses had incorrect firing sounds
+- One typo in Fatface's introduction
+
+Added stuff:
+
+- More ammo to second episode (Requested)
+- Some, not so important, messages
+
+Notes:
+
+- Old savegames won't work
+- Old configs will work
+
+Deepest apologies for all the fans out there, this is the third patch
+to the version that was supposed to be the final version. There will be
+no more patches, this is the last and final patch. Your old savegames are
+not compatible with this code, also unlocks will work.
+
+Also those that have difficulties with the second episode, the ammo situation will 
+be
+a lot better on the following episodes. Second episode was supposed to be difficult.
+
+
+This will be the last update to this project, so you may consider this the final 
+version
+that it was supposed to be three patches ago. We are really sorry about this, but 
+it was
+absolutely necessary.
+
+- KFH Games
+

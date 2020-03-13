@@ -1,0 +1,84 @@
+^P
+^C[Red]										OPERATION: WASSERSTEIN
+^c00
+Schabbs is dead. His macabre project, Operation Eisenfaust, is in ruins. 
+
+Four days ago, Allied reconnaissance planes over Austria intercepted a strange message. 
+It appeared to be addressed to Reichsmarschall A.H. Wasser, the most fearsome and 
+elusive commander of the Wehrmacht. A man devoid of moral scruples, with an insatiable 
+lust for power, Wasser has long been suspected of masterminding the most nefarious 
+and secretive projects of the Reich.
+
+^P
+
+The message, terse and with no context, simply read: 
+
+Attn: A.H.W. 
+Operation: Wasserstein completion. 
+Ubermensche review requested.
+Schwangau.
+Please advise.
+H.V.R. 
+^P
+Allied intelligence, already anxious about rumoured attempts to salvage Eisenfaust, 
+successfully trace the origin of the message to the mysterious Castle Schwangau, 
+high in the Bavarian Alps.
+
+BJ, it will be up to you to infiltrate through the undercroft of the castle, ascertain 
+what Operation Wasserstein and its shadowy Ubermensche might be, and put an end to 
+the machinations of Reichsmarschall Wasser.
+^P
+Perfection, of a kind, was what he was after,
+And the poetry he invented was easy to understand;
+He knew human folly like the back of his hand,
+And was greatly interested in armies and fleets;
+When he laughed, respectable senators burst with laughter,
+And when he cried, people died in the streets.
+^C[Red]-W.H. Auden
+^c00
+
+^P
+^C[Green]										ACKNOWLEDGEMENTS
+^c00
+
+It has been twenty years since I first conceived this project, so its release is 
+long overdue. I have attempted to maintain the original atmosphere and gameplay of 
+Wolfenstein, as seen through my 1990s childhood imagination. Given the level of detail 
+I have incorporated, the game is best played at higher resolutions. 
+^P
+I wish to thank BJ Rowan, Gary Ragland, and Dave Blazkowicz, beta testers for the 
+original Wasserstein mod way back in 1999.
+
+I also wish to thank all those whose artistic work influenced or contributed to this 
+mod. I sincerely hope you enjoy my small offering to the Wolfenstein community.
+^P
+^C[Blue]														CREDITS
+^C00
+Music: 
+Adrian von Ziegler
+Peder B. Helland
+Ultima Underworld
+Wolfenstein 3D 3Do
+Kevin MacLeod
+Avery Alexander
+Nexus Music
+Purple Planet
+No Copyright Music
+
+^P
+Graphics:
+Noni
+Areyep
+Majik Monkee
+DoomJedi
+Megabyte
+Xaser
+Laz Rojas
+Gary Ragland
+Ken O'Brien
+Apogee Entertainment
+FormGEN
+Bruno Deo Vergilio
+Spiritblade Inc
+
+^E

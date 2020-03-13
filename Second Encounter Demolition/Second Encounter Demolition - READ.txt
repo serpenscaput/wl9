@@ -1,0 +1,58 @@
+WOLF3D DEMOLITION v2
+LinuxWolf ECWolf Port Feature Test
+
+CHANGES:
+Many new weapons
+Rockets and explosions gib enemies
+flames burn!  the flamethrower also drops flame actors that burn both you
+and enemies, you can do neat things like make a wall of flames protecting
+you
+Damagetype deaths!
+Randomized enemies: this includes the Rocket Guard,
+the Flame SS, 4 mutant variations and 5 officer variations!
+Kamikaze dogs! Come in explosive and gas
+Scenery reacts differently to whichever weapon you are using!
+Mutants and FlameSS are immune to gas
+Blood splatters! (from Extreme Wolfenstein)
+
+CREDITS:
+Kamikaze Dog - Untrustable
+Effects - Rise of the Triad
+Gas Grenade Launcher - samvision
+Rocket Launcher / FlameThrower - ROTT Specs, SNES wolf
+Gas Deaths - SNES Wolf
+Blitzguard - Majik Monkee
+Flame SS - unknown (found in Wolfers for Wolfers pack)
+Chaingunner Mutant, MP40 officer - Zio McCall
+Chaingunner Officer - Laz Rojas
+XDeaths - Laz Rojas, AstroCreep
+Super Mutant - Majik Monkee
+Melee Mutant - Laz Rojas
+Breakable Shit - Sigma64, Zio McCall, AstroCreep
+Sounds - Rise of the Triad, Doom
+Elite SS - Wolfers for Wolfers pack
+FireProof Officer - ROTT Original Specs / Thandor
+Rifle - Turbo, modified by AstroCreep
+Shrink-Ray - Laz Rojas, Doom (sprites) , Duke Nukem 3D (sounds)
+Replacement Original Weapon Sprites and Dual Pistols - SOD Lost Episodes, ROTT Original 
+Specs, modified by AstroCreep
+Additional Scripting - Dunkelschwamm, LinuxWolf
+ECWolf by Blzut3
+Fork by LinuxWolf
+Demo-Mod by AstroCreep
+
+UPDATE 5/14/19 - fixed Pots and Pans actor, made column blocking again, made bosses 
+stronger and resistant to damagetypes
+
+
+VERSION 2 UPDATE 
+
+	*added Flamewall (projectile scripting by Dunkelschwamm)
+	*added Rifle (scripting by Executor, modified by LinuxWolf)
+	*added Heavy Chaingun (scripting by Executor)
+	*added Shrink Ray (scripting by AstroCreep)
+	*Gretel now shoots flames from left to right (scripting by LinuxWolf)
+	*Bosses more resistant to fire
+	*Removed breakable columns due to being bulletsuckers
+	*added Elite SS, FireProof Officer and Rifleman Guard
+	*More Breakable Shit!

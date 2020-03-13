@@ -1,0 +1,718 @@
+          HINTS AND SOLUTIONS TO NAT'S WOLFENSTEIN 3D LEVELS
+
+GENERAL TIPS: Here are some general tips that will help you throughout 
+the levels, and tips I have no better place to put.
+
+* Almost all (but not quite all) the treasure rooms in my levels are be-
+hind tapestries, paintings, signs, banners, eagles, Nazi wreaths and 
+other decorations. I also hide pushable blocks in a regular wall between 
+decorations and obvious other places such as at the end of a corridor. 
+There are a few exceptions, however.
+
+* The best way to beat a host of guards or blue officers is to hide to 
+the side of a door at a distance after you open it into the room with 
+the bad guys and then point your gun at the door and shoot them one by 
+one as they go through.
+
+* Be careful when entering a seemingly empty room. There may be guards 
+hidden in the walls who will pop out when you go in. You can enter a 
+wall that a guard has walked through. This can be useful for getting to 
+secret treasure rooms...
+
+* Never waste ammo. Some levels have little to spare. You should try to 
+use your knife when you can and your regular machine gun for guards and 
+blue officers. Only in emergencies or levels with vast amounts of ammo, 
+use the bullet-wasting huge gun.
+
+* If you encounter a huge guard it means one of the following.
+
+1: You have encountered the one huge guard in the game you must destroy 
+in level nine.
+
+2: You went the wrong way or walked into a trap. Don't do it again.
+
+3: You passed a huge guard you must be seen by and then must run from 
+before you are destroyed.
+
+4: You encountered a huge guard with a strategy you must use to get past 
+unscathed.
+
+Try to deduce which one it is or a combination and act accordingly.
+
+* There is a secret level hidden in level one. Can you find it, collect 
+all the treasure and leave without looking at the hints? Keep trying...
+
+* The most treasure is hidden in levels 9, 10, 1, and 7 in that order. 
+They  all have complicated secret areas guarding their riches.
+
+* Some levels have so many pushable blocks that it is impossible to col-
+lect 100% of the secret. Such levels are 3, 6 and 8. You should try for 
+50% instead. Even that is incredibly difficult. Levels 6 and 8 also have 
+huge guards so I don't think it is possible to get 100% kill percentage. 
+Go for 95% at least. In level 7, it is impossible to get more than 0% 
+secret, 0% treasure and a small percentage of kill unless you play on 
+the highest difficulty level.
+
+* It is even possible to do amazing feats such as killing ten blue offi-
+cers with a knife if you duck behind a wall and wait for them to come 
+one by one. I had to do this once to 15 blue officers with 8% health on 
+"I am death incarnate."
+
+* Save often. You'll be glad you did. Save one saved game at the begin-
+ning of each level as you get to it and one or two more for exploring 
+it. Be sure to have more than one saved game, or you may save after do-
+ing something that made it impossible to win.
+
+* After opening a door, if you see no guards, fire your gun and back up, 
+ready to kill any that were around the corner and were aroused by your 
+shot.
+
+* If you in no way can beat the bad guys from the levels other than the 
+huge guards, select an easier difficulty level and begin again. DON'T 
+CHEAT!
+
+* Guards from other rooms may surprise you by coming in from all direc-
+tions and slaughtering you. Keep you eye on all the doors to make sure 
+they don't open.
+
+* If you shoot a guard in a doorway, the door will remain open. This can 
+be good or bad in your position.
+
+* ALL LEVELS ARE POSSIBLE AND HAVE BEEN WON BY MYSELF ON THE MOST DIFFI-
+CULT SETTING. THIS HINT FILE IS TO HELP PLAYERS PAST THE MANY DIFFICULT 
+STRATEGY AREAS OF THE GAME. ONLY READ WHAT YOU NEED TO KNOW. NEVER GIVE 
+UP!
+
+LEVEL 1: Level one was the first Wolfenstein 3D level I ever made. It 
+has many secrets and treasure chambers although it is not too difficult 
+to actually win. Level difficulty at the end refers to how hard I pre-
+dict the level is enemy-wise. The strategy difficulty is how hard the 
+strategies are that you need to win the level and find its secrets. You 
+start facing north. All directions in the hints are based on that.
+
+* There is a secret passage between the two eagles in the stone room to 
+the east of the cell. In it, push the two leftmost northern blocks in 
+the right order to receive an extra life. Push the right one first and 
+then the left one to the side.
+
+* Collect the treasure from the wooden rooms to the north. There is also 
+a secret passage behind a Hitler painting in one of the rooms. There is 
+another secret passage on a plain wall inside the first secret room. It 
+contains a machine gun. It will help you greatly if you are on a diffi-
+cult setting.
+
+* If you scour the large room filled with dogs with the central room in-
+side, you will find a small blue passage leading to the blue maze.
+
+* There is no specific strategy for the blue maze. Be careful of guards 
+traveling through it. They may shoot you from the side or behind. Look 
+for walls on the outside wall for an escape door.
+
+* There is another secret in the steel-plated room. Go through the door 
+at the other end to find the golden key. Now return to the dog room.
+
+* Kill the bad guys and collect the treasure in the central rooms inside 
+the dog room. Then proceed though either the northern or western door 
+into a grey corridor. Push a banner out of the way and speed through the 
+hallway beyond to the locked door.
+
+* In the room of armor, go to the opposite wall and push one block jut-
+ting out to the side, the one behind it back, and then one to the side. 
+It will lead to a large secret area.
+
+* But if you don't go in, just proceed through the grey stone rooms and 
+take the left door when there is a choice until you find the elevator.
+
+* If you do go in, take the ammo, go through the turning, dog-infested 
+corridor, take the treasure in the rooms to the east (that's forward out 
+of the corridor). and then proceed into the wooden area.
+
+* In it, you will find many pushable walls. To return a quicker route to 
+the end of the level, push a certain block in a tiny room that opens a 
+hole to an alternate path from the end.
+
+* Collect all the treasure. Then push a certain block to enter a blue 
+area. Once inside, go through the corridor, push another block and col-
+lect the blue key. Now head back and push blocks until you find a steel 
+plated room. Pushing a block in that will finally reveal the way to the 
+hidden level.
+
+Level difficulty is 3.
+Level strategy difficulty is 3.
+
+LEVEL 2: Level 2 is the level most like a regular Wolfenstein 3D level. 
+The walls are straight and it has a layout that could possibly be 
+castle-like. The number of enemies in the level is considerably larger. 
+You start out facing north.
+
+* There is food in the first door on the same wall to the right. Head 
+east and then north to find a huge gun. Don't go farther without it. 
+Collect the blue key by returning to the central room and taking the 
+western door.
+
+* There is ammo in a secret room found in the dog room to the east.
+
+* Go through the southern door. The doors to your right lead to corri-
+dors with pushable blocks at the end. If you push one, you can go push 
+the other from the side, revealing a different stash of goods.
+
+* If you go through the other door through the red brick area, remember 
+that the yellow key is to be found in the area to the east or left as 
+you came facing in.
+
+* With both keys, you can collect the treasure from a room to the east 
+and south of the central room, but it is not essential and is guarded 
+well.
+
+* Go north from the central room. Taking the first two doors left will 
+take you out of the jail area and into rooms filled with steel plates. 
+There is a great deal of treasure and health scattered in the jail area. 
+Look in every room and try pushing cells on the walls.
+
+* In the steel area, it is hard to see doors. Be wary of enemies and 
+proceed through. There is one more secret room in a small room somewhere 
+in the steel area but it is hardly worth it.
+
+Level difficulty is 5.
+Level strategy difficulty is 2.
+
+LEVEL 3: This level takes its place as the one of the strangest. Parts 
+of it are shaped more like a cave than a castle. This level seemed to 
+give people much more trouble than any of the others before and it has 
+more strategy in it. You begin facing north.
+
+* As you start out, there are small passages forward and to the right 
+and left. Begin by killing the guards quickly and then turning left.
+
+* Explore the area. There is a first aid kit down a passage-way. When 
+you have thoroughly explored it, go into the blue room with the passage 
+to a room of steel plates.
+
+* The room is long and oblong. Keep to one wall. When you find a first 
+aid kit, follow the wall nearby until you find a sign you can push. Con-
+tinue this until you find the right one, push it, and walk through.
+
+* Now you will see the way blocked by a barrier of blocks in a checker-
+board pattern. There are many combinations that will get you through. A 
+sure way, though is to push the left-most pushable block, then the new 
+left-most block again and continue until you are through. Don't push 
+more blocks unless you are absolutely intent on getting as high a secret 
+percentage as possible. You may accidentally block your path back. 
+Later, you will encounter the same pattern. This time it is important 
+always to push the right-most block. You may block the way to the key 
+behind if you do it wrong. (Save first.) After you get the key, return 
+to the beginning of the level.
+
+* Now take the door to the right of the beginning. (Just to be sure, 
+it's the locked one.) You will then enter a wooden area inhabited solely 
+by blue suits. To the left, you may find some treasure, but the best 
+thing to do is proceed through the right doors, conserving shots on the 
+blue officers and grab the blue key. Return to the beginning.
+
+* Now take the one remaining door. Pass through the red zone, killing 
+the guards as you go, and enter the purple area. There is a first aid 
+kit hidden in  a corridor. Take it and find the exit elevator nearby.
+
+Level Difficulty is 8.
+Level strategy difficulty is 7.
+
+LEVEL 4: This level is a complicated web of rooms. Even I have troubles 
+determining where I am. You begin facing east.
+
+* There is a stock-up right at the beginning of the level. Push the ele-
+vator and you will find health and ammo. Save it till later when you re-
+turn.
+
+* There are a few ways to determine where you are. There are three areas 
+to the level. The blue area and the red area are inhabited only by blue 
+officers and have no doors, only pushable blocks between rooms. The ma-
+jority of the space is grey brick. In it, there are three landmarks in 
+the shape of a swastika. You begin in the first. Try to orient yourself 
+from there. The other two each require a different key to open the doors 
+leading from them.
+
+* Begin by exploring the area around the center swastika. There are oc-
+casional pushable blocks leading to small secrets. Position landmarks 
+and memorize them so you can orient yourself. (Like remembering where 
+the decorations of a room are placed so you know where you are if you 
+return to  it later.) Eventually you will find a key. Once you have, go 
+to the center swastika and explore the opposite direction. Find the cor-
+rect locked door and proceed into the south-west swastika.
+
+* Now it is important to remember the exact features of your view at the 
+center of the swastika from your branch. You will need it to orient 
+yourself later. Explore each of the other branches until you find the 
+entrance to the blue area.
+
+* The blue area is full of blue suits and is very difficult. Save often. 
+After pushing a block into a room, hide behind it and shoot the enemy or 
+enemies. If you continue this strategy with success, you will find the 
+other key. There is some treasure worth getting beyond the room full of 
+armor, if you want to brave a few extra blue officers.
+
+* Here comes a hard part. You must use what you remember to travel back 
+to the original swastika and then find the other set of locked doors to 
+the third one. Make sure it isn't the old one by checking to see where 
+the decorations are. Now exit a different arm and continue until you 
+find a door leading to the red zone.
+
+* Now that you are in the red zone, there is no reason to go back. There 
+are many paths in the red area that lead to the end. Save before pushing 
+blocks. They may be stuck in the middle or my lead you right into an am-
+bush. Hardy souls can collect ammo and treasure by pushing blocks into 
+treasure rooms.
+
+* The ending is behind two elevator doors and many regular ones. Once 
+inside you will have nothing more to fear from the enemies. Save your 
+game (Don't wait until level 5.)
+
+Level difficulty is 14.
+Level strategy difficulty is 9.
+
+LEVEL 5: Level five is one I consider very interesting. I had a lot of 
+trouble being stalked by the bad guys in this level instead of stalking 
+them. The route out of the level once you have both keys is also inter-
+esting, as well as long. You start out facing north.
+
+* You begin this level with the guns of four guards pointed at your 
+head, with four others coming as well in a confusing block filled room. 
+Now you know why you should have saved in level 4 if you didn't. Shoot 
+quickly as you run forward, killing the guard ahead of you as you get 
+out of view of the others. Run till you hit a wall, then turn right to a 
+dead end. Turn and shoot the guards one by one as they come in to view. 
+Be careful. They may shoot you from around the corner. A more daring, 
+but a usually better working strategy is to go to the dead end, kill a 
+guard, then run across, collecting his ammo to the opposite side before 
+the other guards catch on, turn, shoot the next guy and repeat the proc-
+ess. In any case, you must dispose of the guards before you open any 
+doors.
+
+* Now find the elevator into the level and take a door on that wall. You 
+Should be in a grey area connecting to a purple one. Explore it, killing 
+all the officers and guards inside. Be extra careful. They are likely to 
+form gangs and pop into the room you are in from all sides. The best way 
+to prevent this is to watch all the doors and save your game in a room 
+with only one which is safely closed. Try to outsmart the gangs by get-
+ting in a position that gives you an advantage like sneaking up behind 
+them and killing them all with a heavy-duty gun when they merge together 
+in one room. Try to conserve ammo!
+
+* After all the enemies are dead, look for health kits and pocket the 
+blue key found somewhere in the grey area. Go to the red central room 
+and realign yourself with the elevator. This time take a right-hand door 
+into a blue jail area. There is some secret health behind a block at the 
+end of the corridor. The left hand side has some treasure worth getting. 
+But it is vital to collect the gold key a few rooms to the right from 
+the hallway. Return to the red room in front of the elevator.
+
+* Now take the right one of the northern doors ahead of you. (There 
+should be piles of bad guys nearby if you took my advice.) You can con-
+quer a few rooms and get a line of ammo between two rows of armor. If 
+you died in the level or needed more ammo before, you could get this at 
+the beginning of the level instead.
+
+* Now take the left northern door to the other side of the armor. On the 
+left wall is a locked door leading to the next part of the level. There 
+is nothing really strategically tough about the wooden area. There may 
+be a little treasure in it, but mostly you should just proceed through 
+it. Pass through the small steel rooms filled with dogs and the blue 
+area.
+
+* Now you should be in a grey area once again. Quickly run down the cor-
+ridor and turn. You will see many corridors leading off to the right. 
+Some or all of those, depending on the difficulty will have officers at 
+the end. They get shorter the farther away they are, so run past very 
+fast, killing only a couple. Now try to conserve energy in the purple 
+area beyond. Don't take too long or the officers will catch up from be-
+hind. Find the elevator and escape!
+
+Level difficulty is 18.
+Level strategy difficulty is 13.
+
+LEVEL 6: Level 6 and level 9 have the most strategy in them, but level 6 
+is the one with the hardest puzzles of all the levels and it contains 
+many huge guards. All of them are in places you must travel through so 
+the hardest part of the level is figuring how to get past the huge 
+guards in the first place. Each part has a different strategy. You start 
+out facing north.
+
+* Save your game. Be sure to save it under a different name.
+
+* Go forward. You will find yourself in a room split room with two 
+halves on each side of a line of wells. If you turn right, you will come 
+to a door that opens to reveal four huge guards. What you perhaps can't 
+see is the gold key behind the last one that you must get. Note the po-
+sitions of the doors on the side walls and restore.
+
+* This is the hardest puzzle in the game. Unless you are really stuck, 
+don't go on. If you want a hint, here it is: The answer involves walking 
+through the main door, through a side door, back into the room from the 
+other side door, taking the key and returning, without the guards even 
+seeing you! If you do read the solution steps, only read one at a time.
+
+* Here is the complete solution: At the beginning of the level, there 
+are two corridors branching off going left and right. Push the block at 
+the end of the right one.
+
+* Now push one of the blocks from the blue jail cell through the path 
+made by dead bodies. (Dead bodies are one of the few things you can walk 
+over, but you can't push blocks through.)
+
+* Open the door. If you walk in, you would see you are on the other side 
+of one of the doors to the right as you enter the deadly corridor. Now 
+quickly push the block in front of the door and then through it.
+
+* Go to the room of wells. Turn left this time and fight through all the 
+rooms without pushing any blocks until you find a tiny room with two 
+small wall formations symmetrically inside. Kill the enemies as you go.
+
+* You must push all but one of the walls away, without blocking your 
+path back. Now repeat the trick by opening the door, and pushing a block 
+in front and then through. This may not work if there are the bodies of 
+enemies blocking the way. Kill them in the close half of the room.
+
+* Almost there. You should have smooth sailing now, but if you are STILL 
+stuck, here is the final step. Enter the corridor filled with huge 
+guards from the normal door, so that you are facing them. What? Where 
+did that block come from? You pushed it through the right door, remem-
+ber. Now push it one more time. It will go back with some weird visual 
+effects revealing the left door. Go through it and out to the key and 
+then return. The huge guards are completely trapped and can't possibly 
+see you. Also, you may have noticed you can no longer walk through those 
+doors you pushed blocks through. Just a bug, I guess. I have no idea why 
+it happens.
+
+* If you got this far before reading a hint, you should be proud. If you 
+just solved the last puzzle on your own you should be proud. If you have 
+had many hints already, try to go through this next difficult puzzle 
+with no hints.
+
+* Here is a hint before your solution: To solve this one, you must trig-
+ger all three huge guards and use all three of the doors to the area. 
+There are three pushable blocks in the center passage that must be used 
+as well.
+
+* You'll notice that if you go down one side of the purple room, you 
+will come face to face with three huge guards, behind which lies the 
+exit. If you run down there and back quickly on both sides, you will 
+trigger all three guards with minimal injury. This should help you out 
+somewhere...
+
+* Go into the room split in half by wells. Turn left and enter a room 
+with a locked door and another regular one coming out. If you killed any 
+bad guys on the same line across the room as the door, start over and be 
+sure not to next time. Go to the tapestry on the wall and push it back. 
+Don't push the one behind it. Go to the beginning. Save your game.
+
+* Go to the left passage. You will find that it if you push it now, it 
+is the one behind the tapestry you just pushed away, pushed the opposite 
+way. Push it until it is two or three spaces from the door, so one more 
+push would put it there. If it doesn't work, restore.
+
+* Now, run down the passage and to the end of the purple room, trigger-
+ing two of the guards. Now run as fast as you can to the door, escape 
+and push the block so the huge guards can't follow you through. Repeat 
+the process on the other side from the next room.
+
+* Now you have three guards trapped in an area that you unfortunately 
+have to go into. Try to get farther before reading more. Save your game 
+again.
+
+* Speed down the center passage, and push out the blocks on either side 
+and the block at the end. If your timing is right, all three guards 
+should be trapped between your block in front of both doors and the 
+block you pushed out on that side.
+
+* Now there is nothing left to do but push blocks through to the next 
+part.
+
+*You can find some health behind a blood-covered purple wall in the next 
+room. Take the southern (left) door into a grey room.
+
+* There is only one thing specially hard about the grey maze. At one 
+point you will come to a dead end you can walk through. There are two 
+near each other. One can only be walked through on the top two difficul-
+ties. Take the ammo and health and leave.
+
+* There is a lot of ammo in the grey maze if you search enough.
+
+* In the steel plate area, the main tactic is to be sure not to block 
+your path. All the blocks are pushable. You can tell the boundary of the 
+area because it has signs on it sometimes and its blocks are not push-
+able.
+
+* The correct route lies along the right border of the maze. If you are 
+going for high kill and secret ratios, it is hard to find every room and 
+kill the blue officer, and harder to push most of the blocks.
+
+* Take the northern door from the purple room this time. Don't go a step 
+further once you are completely through. SAVE YOUR GAME NOW!
+
+* Now go forward. You are in a blue jail with two small jail buildings 
+inside the big area. Unfortunately, the main inhabitants of the jail are 
+huge guards. As soon as you step forward, one fires at you. Run to the 
+left. Go past the door and forward till you trigger the huge guard 
+there.
+
+* Now, pass through the first jail room, killing the dogs quickly. As 
+you come out the other side, you should have lured the two huge guards 
+away. Now go north and trigger the guard up there. Go in the opposite 
+direction and trigger that guard as well. Run into the larger jail room.
+
+* In the second room inside, there are huge guards trapped behind pil-
+lars near the doors. This makes it hard to exit the room without behind 
+shot to death.
+
+* You can collect an extra life if push the blocks on the wall opposite 
+the northern door in the right combination.
+
+* Now you have a choice. You can either go north through the door and 
+push the block out and then run right and turn the corner, or you can 
+just run, open the other door in the room, duck back as the huge guard 
+shoots, and run through. Either way you must get out on the other side 
+of the jail room.
+
+* Run right, or south and turn the corner. With luck, the huge guard 
+will be nowhere in sight. If he is, hide behind the wall and wait till 
+he is almost there. Then save your game and bolt past him as fast as you 
+can (It's tough.)
+
+* Open a door and push some blocks from the room you enter back on it so 
+the huge guard won't pursue you. Over that hurdle!
+
+* There's a huge gun, some treasure and ammo in a secret passage and a 
+secret room inside that one. It can be found by pushing the blocks in 
+the blue room you should be in.
+
+* Through a door is block that can be pushed. It will open a way to the 
+beginning of the level. If you didn't block off the doors from those 
+huge guards before, they will be lurking around and you won't be able to 
+get past.
+
+* Through a locked door in the beginning area, you find enough health to 
+heal your wounds.
+
+* In the blue room, the final door takes you on the other side of the 
+wells into the red zone.
+
+* The rooms in the red zone are divided by objects that block your path. 
+(But not the bullets of enemies.) Be careful as you search for the ele-
+vator that leads out. Save again or at the beginning of level 7.
+
+Level difficulty 31.
+Level strategy difficulty is 37.
+
+LEVEL 7: Level 7 is a bit of a break from the last level as is pretty 
+easy compared to level 6. It has interesting parts to it however, and it 
+is unlike any other level I have made in that it is mostly wide and 
+open. You begin facing north.
+
+* Go around collecting ammo. As soon as you pass a block of stone wall, 
+dogs will be released. Be ready to fight.
+
+* There is a huge gun in the room west from the beginning. Be careful. 
+Officers will jump out of the walls as you come in. Kill them first.
+
+* All the central rooms in the level have something in the walls. Shoot 
+first and then blow them away as they come out. If you walk in, you will 
+be ambushed.
+
+* Collect the two keys from two of the rooms. Now go towards the steel 
+wall. Follow it until you see grey stone with a locked door. Going 
+through there a short distance will take you to the elevator.
+
+* If, and only if you have already won on an easy level and you try the 
+hardest, there is a secret area in the level. Try to find it.
+
+* To start, go to the room with the blue officers and the huge gun. Walk 
+to the far wall, turn directly to the right and walk until you go 
+through the wall. On other settings, that officer isn't there so you 
+can't walk through it because nobody else did.
+
+* Now push the block behind it while inside. Open the door to the long 
+corridor. Save your game.
+
+* Now fire your gun. Tons of guards should pop out of the walls, 20 or 
+30 at least. Switch to your huge gun, and run your fastest straight for-
+ward firing constantly. If you do it right, you will kill them all with-
+out getting hurt and not lose much ammo in the process from getting it 
+as you go. If you are low on ammo at the start, use a machine gun in-
+stead.
+
+* Travel through the tiny purple maze and gun down the dogs. Take the 
+ammo. You can shoot the dogs on the other side of the barriers if you 
+want to save trouble later.
+
+* Now save your game and open the door to the purple-walled room. Fire 
+your gun. If nothing happens, run in and then out. Eventually, 14 blue 
+officers should pop out of the wall and shoot wildly. Run back and use 
+the strategy of going back to the side and shooting them as they come 
+out the door. Don't let even one escape. Collect the ammo.
+
+* There's a secret passage behind a sign on the steel wall. It leads to 
+great rewards and a second elevator.
+
+Level difficulty is 13.
+Level strategy difficulty is 7.
+Level difficulty with secrets is 24.
+Level strategy difficulty with secrets is 23.
+
+LEVEL 8: Level 8 is unique in the fact that all the walls are what usu-
+ally are decorations. The level has many complicated sections. You begin 
+facing north.
+
+* Secrets in this level are usually regular blocks in a wall of decora-
+tions. There are few but look carefully anyway.
+
+* From the beginning, head east. Proceed through the elevator rooms and 
+the walls made of prison cells until you find the yellow key. There is 
+also some treasure.
+
+* Be sure to collect the treasure, health and ammo that can be found in 
+the many peculiar rooms to the west of the beginning. They are guarded 
+well.
+
+* Save your game before heading north. Be sure you are done with the en-
+tire area before you open the door. When you do, run forward, triggering 
+the huge guards to the side, and through the door at the other end. Re-
+peat this process in the next room.
+
+* You will now see yourself in a huge room filled with a maze of dead 
+bodies. You can walk over them, but blocks can't be pushed over them. 
+Push a nearest block through the maze so it blocks the door and seals 
+the huge guards behind.
+
+* Push the other block into position so one more push would block the 
+northern door, the one to the left as you enter the room.
+
+* Go through it. In the purple room with the key, run and grab it. As 
+soon as you do, two huge guards attack. Flee as fast as you can. When 
+you get to the body maze room, seal it behind you. Go through the one 
+remaining door.
+
+* There's a lot of ammo and a huge gun hidden to the right as you enter 
+the "steel with signs" room.
+
+* You can find plenty of treasure and the like if you look in some dead-
+end rooms.
+
+* It's a long trek to the end of the level along the border of it. You 
+know when you have proceeded to the next area when the wall decoration 
+changes. When you get to the passage of darkness, you are about half way 
+from the enemy maze to the elevator. Conserve energy and life as much as 
+you can.
+
+Level difficulty is 32.
+Level strategy difficulty is 26.
+
+LEVEL 9: Level 9 is the final level, other than the secret one. It also 
+has a great abundance of strategy and strange things you must do 
+throughout the level. You begin facing north.
+
+* The first door is far from normal. See what you can do with it. Mean-
+while, proceed through and collect all the treasure lying around. If you 
+enter the diamond shaped room surrounded by the corridor you will be ob-
+structed by the huge guards.
+
+* You can walk through one side of the door slot and collect treasure.
+
+* Push the other door slot twice and enter a steel area. It is almost 
+symmetrical, however, be sure to push only blocks on the right side. 
+Eventually, after enough blocks have been pushed, you can proceed. Now 
+if you push blocks on the other side from this direction, it will open a 
+path to a treasure room.
+
+* There is yet another treasure room inside that one. Push a block...
+
+* Beyond the door in the steel area, you will see a room with 4 doors. 
+One leads to a great stash of health that will help you in the battle. 
+One leads back. The other two have blue officers inside. They are immune 
+to bullets and will be triggered if you open the door or they may just 
+jump out. Once they move, you can kill them.
+
+* In the diamond corridor back near the beginning, push a Hitler paint-
+ing to reveal a stash of ammo. Push more inside to reveal a huge gun if 
+you lost yours previously.
+
+* Now prepare for battle. The center diamond room is full of blue offi-
+cers and 3 huge guards. However, the huge guards are positioned so that 
+one sees you at first and the others see you as soon as you step in the 
+doorway. So shoot the officers first and then back up. It is best to al-
+most kill the huge guard, go for more life and ammo and then return, 
+killing him as he comes out the door. Otherwise you will be seen and 
+shot while collecting the key. Leave the other huge guards where they 
+are.
+
+* It should now be simple to unlock the locked door and escape Castle 
+Wolfenstein. But is there more? Yes, indeed. The greatest treasure room 
+of all the levels. Can you find it without any help?
+
+* Well, here's how you do it. Start by saving as you look towards the 
+horizon. Now creep cautiously forward to the left wall as soon as you 
+can. Save, then inch forward and move sideways. There is a maze of win-
+ning triggers, small, but hard to navigate through. When you get on the 
+same row as the banners, save again.
+
+* Now push the left banner away. You will now have to conquer a super-
+hard red zone, at least on the difficult levels. You will eventually 
+come across a blue key. Pick it up and escape with your life.
+
+* Push the right banner away. If you want 2 extra lives and 50 ammo (who 
+wouldn't), push it again and push the blocks nearby until you get the 
+right combination.
+
+* Now go through the door to the scattered blue area, filled with pil-
+lars and scattered walls. All the walls can be pushed but it is less 
+confusing if you go as far as you can without pushing blocks and push 
+them only when you need to.
+
+* Now, the hardest part. Conquering 10-20 blue officers in a corridor. 
+Only the true experts will survive on the toughest level.
+
+* There is only a small area left to conquer before you collect more 
+riches than ever before, but I will let you explore that yourself.
+
+Level difficulty is 21.
+Level strategy difficulty is 18.
+Level difficulty with treasure collection is 47.
+Level strategy difficulty with treasure collection is 41.
+
+LEVEL 10: Level 10 is the biggest challenge of all. If anyone else ever 
+wins this level on the most difficult setting, they have earned a rank 
+of expert. Since this level is secret and the last, I will give no solu-
+tions, only a few hints.
+
+* The level is divided into two equal parts, the labyrinth and the 
+wooden area.
+
+* The labyrinth has many inlets and outlets. There are also huge guards 
+lurking down its corridors, but they can be avoided if you take the 
+right path.
+
+* If you can find but one door every game in the labyrinth, all the oth-
+ers can be found by following the right or left wall.
+
+* Blue officers are the sole inhabitants of the wooden area, don't waste 
+shots. It can be fatal.
+
+* There are two huge treasure rooms that hold the level's treasure. You 
+must find them and the proper key to each.
+
+* Look inside an elevator if you find it. One is a false lead and is 
+filled with a pillar.
+
+* The wooden area must be approached in the right order or you will run 
+out of health and ammo too soon.
+
+* Look for the way out in a room with green barrels.
+
+Level difficulty is 28.
+Level strategy difficulty is 17.
+Level difficulty with treasure collection is 49.
+Level strategy difficulty with treasure collection is 26.
+
+Well, I hope you enjoy my levels. If you ever win all the levels in one 
+game on the hardest difficulty level, send your score and time taken to 
+complete the escape. Watch for my next set of expert Wolfenstein 3D lev-
+els I am designing and will upload before Spring.
+

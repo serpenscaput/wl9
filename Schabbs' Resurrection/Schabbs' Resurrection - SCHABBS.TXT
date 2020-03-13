@@ -1,0 +1,141 @@
+Schabbs' Resurrection
+Version 1.0
+
+by Nate Smith
+
+
+1.  Story
+2.  Description
+3.  Enemies
+4.  Items
+5.  Credits
+6.  Other Information
+
+
+1.  Story
+
+Several months after the capture of the Spear of Destiny by B.J. Blazkowicz, Professor 
+Quarkblitz decided to try to combine his cybernetics research with the late Dr. Schabbs' 
+technique of raising the dead and turning them into mindless, deadly weapons of war. 
+ First he experimented on Hans Grosse's body; he replaced all the injured body parts 
+with robotics.  His cloned, half-human Hans's now guard the important parts of the 
+Nazi base.  After the diabolical scientist finished with Hans, he turned to his ultimate 
+goal:  the resurrection of Dr. Schabbs.  Schabbs' body was completely destroyed, 
+however, and in the end only his brain was recoverable.  Quarkblitz created a half-robotic 
+body for Schabbs' brain, and now the insane doctor threatens the world once again!
+
+
+2.  Description
+
+Schabbs' Resurrection is a 55-level game based on Wolfenstein 3d.  Here is a short 
+summary of its features:
+
+        *55 new levels
+	some new sounds 
+	new weapons 
+	new guard, mutant, and dog 
+	new bosses 
+	some new objects and walls 
+	new executable
+	other suprises 
+_____________________________________________
+*NOTE:  Episodes 2-6 are playable.  Episode 1 levels 1-5 are complete also.
+
+And here is a complete list of changes made to the executable:
+
+        -ability to get 199% health
+	-ability to get 999 bullets
+	-ability to pick up 2 machine guns and use them
+        -more health power-ups
+        -officer and mutant drop 8 bullets
+        -ss always drop machine gun
+        -Dr. Schabbs is tougher
+        -some cheats
+        -powerful new shotgun
+
+3.  Enemies
+
+Schabbs' Resurrection has a whole new cast of actors.  I'd have put pictures, but 
+this is a text file.
+
+1.  Brown Guard  -  these guys are rookies, and need to get to point-blank range 
+to shoot you.  One shot from anything'll take 'em out.
+
+2.  Blue Guard  -  these guys are the most common enemies you'll come across.  One 
+shot from the shotgun should bring them down.
+
+3.  Officer  -  these guys are quick and smarter than the average guard, but one 
+or two shells will take them out.
+
+4.  Green Guard  -  these guys are lethal.  They shoot faster than you can say "achtung," 
+ but  one or two shells will bring them down too.
+
+5.  SS  -  alone, these machine-gun toting goons should be no problem.  But I wouldn't 
+recommend using the shotgun against groups of 'em.
+
+6.  Flame-thrower  -  these thugs are the toughest of the regular guards, launching 
+volleys of deadly flames with their flame-throwers.  
+
+7.  Hans Grosse Clone  -  although these guys are half-robotic clones of the original, 
+and they've still got his personality and his double chainguns!
+
+8.  Otto Giftmacher Clone  -  he's back, with a new blue uniform.  
+
+9.  Otto Giftmacher Clone II  -  he's back again, with a vengeance, and a new chaingun!
+
+
+10.  Adolf Hitler  -  what?!?  I though I already took care of this lunatic!
+
+11.  Dr. Schabbs  -  the cybernetically enhanced menace is twice as tough as the 
+original twisted man, and this time he's got missiles!
+
+12.  the Dopefish  -  rumor has it that the dopefish secretly resides in a deeply 
+hidden portion of the fourth section of Schabbs' bunker.
+
+
+4.  Items
+
+There are a couple new items in Schabbs' Resurrection.
+
+1.  Health Bonus:  Syringe  -  These syringes are scattered throughout the base, 
+but are found more often near Schabbs' lair.  They give 1% health.
+
+2.  Dog Food  -  This nasty grub will and 1% to your health.
+
+3.  Food  -  This less nasty-but-still-pretty-bad food will give you a 5% health 
+bonus.
+
+4.  Small First Aid Kit  -  Adds 10% to your health.
+
+5.  Large First Aid Kit  -  Adds 25% to your health.
+
+6.  Ammo Clip  -  These give you either 4 or 8 bullets, depending who drops them.
+
+
+7.  Treasure  -  Picking up this Nazi gold adds to your score.
+
+8.  One-up  -  Seems to be some sort of balloon with a picture of your head on it.
+
+
+
+5.  Credits
+
+Although Schabbs' Resurrection was mainly created by Nate Smith, several other people 
+also helped out.
+
+Game Design  -  Nate Smith
+Graphics  -  Nate Smith
+Level Design  -  Nate Smith, Rick Williams, Brandon "Lord B" Farmer
+Programming  -  Nate Smith, Pär Sunbäck
+Promotion  -  Nate Smith
+Beta Tests  -  Dave Blazkowicz
+Thanks to  -  Dave Blazkowicz
+
+
+6.  Other Information
+
+If you have questions or comments, please e-mail me at Nayt1@usa.net.  Also, you 
+might be able to download a newer version of Schabbs' Resurrection.  Check the Schabbs' 
+Resurrection Official Home Page at http://members.tripod.com/Nayt1/sr.html to see. 
+ Check Nate's Wolfenstein 3d Home Page at http://members.xoom.com/Nayt1 for information 
+on my other projects.

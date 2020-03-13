@@ -1,0 +1,330 @@
+                         Making a new definitions file.
+
+
+Tools:   You have the game and VSWAPED and VSMAPED.
+
+The first example: The TC 'Xmaswolf' (shareware). 
+        *Start VSMAPED. Load 'GAMEMAPS.WL1'. Load the suggested files:
+         'wolfensteinSW.txt', 'wolfenstein.pal', 'VSWAP.WL1' and 'normal.inf'.
+         Finished! Unless you want to rename some items.
+
+-------------------------------------------------------------------------------
+ 
+The second example is 'Guns and Glory'. More interesting.
+         Because very little is normal here it will be somewhat of a challenge.
+         Pretend you know nothing about the game.
+
+The palette. 
+        *Using VSWAPED will pose no problems, but you will see that most
+         items are weirdly colored. This is a sign that the game uses its own
+         palette which you must obtain. Follow the instructions in the
+         palette tool help file, choose a palette wall and capture the palette.
+         Make the entries multiples of 4 (they use to be in wolfenstein)
+         and save the palette as fex. 'GunsandGlory.pal'.
+         It can be done in 7 minutes. Load your palette and see the difference.
+
+Structures.
+        *Start VSMAPED with 'GunsandGlory.pal'. Load suitable starting files,
+         fex. 'wolfenstein.txt' and 'normal.inf'. There are floor and ceiling
+         structures in the game, so you will be asked to set the ranges.
+         It is not at all difficult because ordinary wall images normally
+         come in pairs (light and shadow).
+         Start 'MISC/edit definition file'. On the first line put in the 3
+         numbers 'walls from', 'Structures'+'from' and 'Upto'(the number
+         after the last structure). Press 'USE' and 'SAVE FILE' under a
+         new name fex. 'GunsandGlory.txt'. So far so good.
+
+Saved games
+        *A quick test shows that VSMAPED can't handle saved games of this mod,
+         so feel free to delete all saved game entries (lines with '*' as
+         character no. 7) in GunsandGlory.txt. I you aren't interested in
+         saved games at all, don't worry about them.
+         Now to some hard work.
+
+Overview.
+        *Click EDIT and lower the panel. You can't do without the entry list. 
+         The floor codes look sensible and also the walls, they should indeed
+         show up correctly.
+         The 3D window confirms that the walls and floors/ceilings are ok but
+         the doors look suspicious. From VSWAPED you can see that there must be
+         at least 17 kinds of doors. You will take care of that later.
+        *The elevators seem to have moved to new locations.
+        *The corner cells in a level may have something to do with light,
+         shading or weather phenomena. The meaning is unique for each game and 
+         I won't discuss it here. You can do some experiments of your own.
+
+         But the object part looks like a total mess!, hands with weapons
+         sticking up from the ground! Weirder than expected.
+        *In 'normal' mods most of the features are taken care of by the program
+         but in this case you can make your life a bit easier if you write
+         'new' in the comment of the first line. Then all DEFINED objects
+         will be shown as empty squares and you're not confused by
+         irrelevant symbols. But you must do some corrections by hand.
+        *An object standing on a 'deaf guard' floorcode is probably a guard. 
+        *MARK the start positions and go through a few levels. There should be
+         one in each so they too have moved.
+        *Now get an impression of how many items are used in the game:
+         Start MISC/'Statistics for the whole mod', and to see it graphically:
+         Get the entry list (Click EDIT and lower the lists part), then
+         click the single arrow to the right.
+         Items used in the level will be covered with a square, white for
+         solids, pink for objects. Those listed in the definitions are large,
+         those not listed are small. Go through the levels using the keyboard
+         'down' arrow. At end you see all the items used in the game.
+         Quite a lot, isn't it? But don't panick.
+
+Totals: *The maximum totals of static objects, actors and doors in each level
+         are important, if one or more is exceeded, the game will surely crash.
+         For most mods the limits are 399, 149 and  64, respectively.
+         In this game I know they are 999, 499 and 512. Were it always so...
+
+The mystery box.
+        *On each level you see a rectangular box containing unidentified items.
+         It seems to be some sort of copyright stamp. It is not important
+         for the performance of the game, and is safely ignored.
+             
+Start positions.
+        *As said, only one start position to each level. Looking at statistics
+         you see that the positions 1-4(257-260) is just such a group of 4.
+         Get the entry list, choose an item here, write 'Start position' in the
+         definitions and choose a symbol. Click 'USE'. As a bonus, the item
+         5(261) is often neighbor to a wall that looks like a staircase, and
+         there is mostly just one, so probably it is an end-of-level trigger.
+         Delete the old start positions. Finally, save the file.
+
+Recording.
+         You are now in position to record any item.
+         I shall give just a few examples, leaving the rest to you.
+         Normally VSMAPED knows which items are objects and which are actors,
+         but being a 'not normal' mod it is handled otherwise here:
+        *1. All items with an image are considered static objects except:
+         2. items with 1 or 2 neighbors with identical names are actors.
+            Identical means: no direction qualifiers like 'E' in the name.
+            Then the guards will look in the right direction in the 3D window,
+            and the statistics will be less bulky. 
+         3. Some isolated actors must be pointed out by adding 50 or 88 to the
+            name. Hard actors (torches fex.) will be preceded by 59 (50+9).
+
+        *The walls 1 or 2 look conspiciously like an elevator. Put one of each
+         near the start on level 1, save the maps (with backup), and start
+         the game. Yes! Wall 1 IS an elevator, wall 2 is just a 'fake' one.
+         Exit the game. Back in VSMAPED, RESTORE the game to normal but keep
+         the backup. Start 'edit definitions'. Choose wall 1 and write
+         'Elevator' and choose the elevator symbol. Press 'USE'. Do the same
+         for the fake elevator. Delete the old elevators. Wall no. 5 appears
+         always close to an elevator and looks like an 'elevator rail' wall.
+         Write this for wall no. 5 and choose a fitting symbol: no. 1038.
+         You can go through all the items, see what they look like or what
+         happens when you walk into them. It can be quite funny.
+
+        *For example, choose no. 320 (sprite 64) and put one near start, Save.
+         DON'T OVERWRITE THE BACKUP! Start the game. It looks like Baby Hans
+         in a gokart. He is not aggressive but if you kill him he disappears,
+         leaving a blue key. If you can't recall him, make a screen image.
+         Back, write 'HansKart, blue key' and choose a symbol fex. the grey
+         pacman. Now look for him in the image list. After some searching you
+         find him as sprite no. 1576. Click it. As he leaves a key he should
+         be classified as 'key' (4), but being an actor also, write the number
+         54 (50+4) ahead of his name and USE the information.
+         Fine, he shows up when you move the mouse over him. RESTORE the game.
+         What's more: in level 28, 'Wolfenkart' you see our friend and his 7
+         siblings lined up for a race. Get the other ones, they are like him. 
+         !!!Save definitions regularly!!!
+
+        *Invisible objects are not so obvious. You do have the start positions
+         but there are also turning points, secret doors and various triggers.
+         It will take some guesswork. There are fex. the hands from below, and
+         if you pick one and insert it in the map, nothing is seen in the game.
+         As it is outdoors it can hardly be a secret door but if your guess is
+         'turning point' you may be right. It will do no harm to try this
+         possibility. MARK the suspects. Good, they make a group of 8 items,
+         no. 286-293. Now, using some qualified guesses, you can attach
+         directions to them all, and it works! For good measure, delete the old
+         turning points. Secret doors are almost always inside a wall.
+         All other immaterial objects I call 'triggers' to be examined later.
+
+        *A guard may be unfriendly and I suggest you build a cage for him
+         out of hard objects and have plenty of weapons and power-ups
+         close at hand. Get a picture and find him in the image list.
+         Superguards like Hans fex. are easy, They are unique and have one
+         single image. The same goes for pacmen and ghosts. An ordinary guard
+         is shown as: standing/running(2), skill 1,3,4(3) of a group facing 
+         E,N,W and S(4), making 24 entries. Dogs have just 12 entries because
+         they always run. After having identified the guard look for pictures
+         6,4,2,0 for standing, 14,12,10,8 for running, from the start of his
+         images. Skill doesn't matter for the images. When you are assigning
+         skill to the entries, take your time and use the game.
+
+        *In this way proceed with identifying the remaining entries, find
+         the keys and their corresponding doors, find teleports and triggers.
+         To discover the nature of an item, fill level 1 with it, start the
+         game, and note the error message of 'too many...(objects or actors)'.
+
+Doors.
+        *Put a collection of doors near the starting point. Run the game and
+         record the appearence of the doors.  Now to more work:
+         start MISC/Edit definitions. Click a door.
+        *three numbers appear: 'Frame', 'Door' and 'Door 2'. Choose 'Door'
+         and click the image that will be used for a vertical/horizontal door.
+         Do the same for 'Frame'. It is always the first of a pair here.
+        *For one-way doors (Blake Stone), choose the other side also (Door 2).
+         Click USE. Do this for all doors and save the definitions.
+         Don't click 'All'. Then all doorframes would get the selected image.
+
+Classes file.
+        *When you search for objects in the map, it may be convenient with more
+         categories, so you start 'Edit Classes File' and extend the file with:
+         'Scientist', 'Fanatic', 'Fake Hitler', 'Panzer', 'Sniper', and
+         whatever you may want, fex. 12 teleport (Remember: AFTER 'Elevator'!).
+         Put '12' ahead of any 'Teleport'/'Teledest' entry in the definition
+         text. Save the classes file as 'GunsandGlory.inf'.
+
+Saved games.
+        *If you want to work with saved games in some mod, You should follow
+         the procedures above, only insert items, run the game, and obtain a
+         saved game from which you identify entries, and record them in lines
+         with '*' as character no. 7.
+
+-------------------------------------------------------------------------------
+
+Third example: Corridor 7 Alien Invasion (Play Now version).
+
+         Suppose a friend gets a copy of the old game and asks you to make a
+         definition file for VSMAPED. You agree. Full of self-confidence you
+         start VSMAPED with your copy of the game. You will get a message:
+         'No mapheadfile. Do not worry'. This game doesn't use a mapheadfile,
+         and don't save it together with the gamemaps when you are asked.
+         As default you use the files for Wolfenstein v1.0, expecting
+         an easy task.
+
+        *Gfxtiles instead of VSWAP, well..OK. Eventually the first level shows.
+         WHAT THE **@**!? IS THIS MESS??? The level seems all covered with
+         objects. A statistics reveals that there are 3865 of object no. 18 in
+         this level. it can hardly be normal objects and remembering Vincent's
+         manual (which of course you have read) you start definition editing
+         and assign the 'invisible' symbol no. 256 to no.18. USE. It works.
+
+        *Now what's happened to the floors??? The 3D window works poorly.
+         There are however some unlisted areas fex. '90' that could be
+         a floor. I isn't now but you can MAKE it a floor by assigning it
+         a symbol in the range 106 to 143, fex. no. 112. And call it fex.
+         'Floor 90'. The 3D window confirms that it works.
+         Do the same thing for the other suspicious areas, excellent!
+
+        *Now to enjoy the surroundings. Alas, the colors are awful, you
+         must get the game palette! Start VSWAPED/palette tool and obtain the
+         palette as usual. It certainly improves the looks!
+
+        *Never satisfied? The objects seem sensible, but the walls are rubbish!
+         What's going on? An inspection of the list of walls shows that there
+         are no wall pairs (light and dark). Now what? The manual says that if
+         you write 'single' in the comment of line 0, only one image to each
+         wall will be expected. You do that, save definitions, close and reopen
+         VSMAPED. Nice.
+
+        *What's that? Level 2's floors are covered with a structure. They
+         shouldn't be. Choose MISC/ignore..., then it will disappear from
+         the 3D view.
+
+        *On level 3, some guards are standing on solid no.138. Name it
+         'Floor ambush' and give it the symbol no.106 (X). It works fine.
+
+        *It is fairly easy to see where doors should be, so write 'Door FC'
+         fex. and use a non-directional door symbol. Continue with this.
+         Marking the usual 'doors' shows that they are never used as doors.
+         Bearing in mind that Doors are searched by the name, delete
+         the old doors from the definitions.
+
+         You can just as well delete some old floor entries and elevators. 
+
+        *Some unlisted walls (characterized by a hex number) are now seen.
+         Give them names but leave the image# as 'auto' (0). The symbol#
+         should be set to 256, invisible, to suppress the old symbol.
+
+        *So far so good, regarding the walls and floors. Now to the objects.
+
+         Start-positions and turning-points are unchanged, good!
+
+        *It appears that the entry numbers of the first 89 objects are simply
+         the object numbers, like in wolfenstein. Piece of cake!
+         Just give them new names and symbols.
+
+        *For temporarily ignoring false symbols, you can put 'new' in line 0's
+         comment as before.
+ 
+        *As for the actors, imsert specimens in level 1 close to start and
+         proceed like for Guns and Glory.
+
+        *You are lucky with the door frames. Only one type is used, and by
+         fortune it is the default type, so you don't have to write anything.
+
+         There are no sounds in the gfxtiles file, but VSWAPED can handle it.
+         If you want to use definitions here, you must put 'single' into the
+         comment in the first line (like for VSMAPED).
+
+         ----------------------------------------------------------------------
+
+Operation Bodycount has yet more peculiarities:
+        *The floorcodes are used for choosing structures for floors and
+         ceilings, and these are not the same for basement and buildings!
+        *Furthermore, you can turn the light on or off with switches,
+         so you must have at least 2 separate definition files for the game,
+         and 2 palettes (bright and dark) if you want to trust the 3D image.
+         Therefore the program now has buttons for loading a new
+         definition file, a new palette, and a new classes file.
+        *The game is treated as Operation Bodycount if it has at least one
+         floorcode with an image number attached.
+        *The 3D window had to be reworked, for ambush floors and transparent
+         blocks get their floor/ceiling structures from nearby floor tiles.
+        *Doors have individual floor/ceiling structures, already taken care of
+         by the program.
+        *In buildings the structures are lined with metal strips,this I haven't
+         implemented, There MUST be a limit. Else it's a fairly good 3D window.
+
+         ----------------------------------------------------------------------
+
+Blake Stone:Planet strike is quite good. If you want to make your own levels,
+         the game has some quirks of its own.
+      Border objects: All level borders except the right contain some
+         high-number objects. I must admit that I have no idea of the purpose,
+         but apparently the game works just as fine if they are removed.
+
+      ***Most controls are done by special floors or solids. Here is a list:***
+      Floor 6C acts as a barrier to all actors (but not to you),
+         they can attack you from distance however.
+      Teleporter (wall ID=32): Walk close to it and use space. Then you are
+         displaced to a location given by the object next to the right that is
+         (x=object# /256,y=object# mod 256). The teleporter itself is topped by
+         the number 62720 (=245*256).
+      Activate guard (wall ID=158): Activates a guard standing on the location
+         given by the object on 158 like for the teleporter.
+      Switch (wall ID=45 for opening, 57 for closing a barrier).
+         The switch can be operated directly, toggling a barrier open/closed.
+         An 'opens' switch must activate a 'closed' barrier and visa versa.
+         The object on top gives the location of the outerermost
+         target element. A post or spike barrier without connection to a switch
+         will oscillate between open and closed, the others will be closed.
+      Switch trigger (Floor 9F for opens, A0 for closes): Walking over it
+         activates a switch as above, but only once. The object on top gives
+         the switch's location. The floor kind must match the switch kind.
+      Locked doors: No doors are locked initially, but a key placed on the door
+         makes it locked, it opens only with the same key (red,blue,yellow).
+      Other games: 
+        *Blake Stone-Aliens of gold and the shareware game have about the same
+         features mentioned above except post barriers. These games
+         can be edited but only the full game can be run afterwards.
+        *Unique to Planet Strike is Guard with a function:
+        (You must give walls 72-80 floorcode numbers and name them as follows):
+         The guard is placed on a solid with ID in this range with the effects
+         78 or 80: the guard is next to invisible.
+         72-78: the guard drops an item when killed:
+         72: Red key, 73: Yellow key, 74: Blue key, 75: Anti-plasma cannon,
+         76: Dual neutron disrupter, 77: Detonator, 78: Energy pack.
+         79: Activates a guard/Barrier at the location given by the object
+             next right. The barrier target is the outermost item in a row.
+
+-------------------------------------------------------------------------------
+
+                                     Good Luck
+                                      Vincent
+

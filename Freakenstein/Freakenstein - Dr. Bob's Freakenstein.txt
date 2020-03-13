@@ -1,0 +1,35 @@
+Dr. Bob's Freakenstein
+
+Game type:  Wolfenstein 3D (Shareware Version 1.4)
+Episode, Level #:  Untouched
+Single player:  Yes
+Difficulty settings:  1-4.
+New Sounds:  No
+New Graphics:  Yes
+New Music:  No
+
+*Construction*
+
+Base:  All graphics flipped upside down for a truly disorienting experience.
+Editor(s) used: Wolfedit and Paint Shop Pro 4
+Build time:  2 days
+Known bugs:  None that I found.
+Level designers:  Same as the originals
+Sound: Same as the originals
+Graphics: All I did was flip them
+
+*Installation*
+
+Unless somehow, the file was corrupted, this is what you
+should have in your folder.
+
+Dr. Bob's Freakenstein.txt 
+Road to Insanity.txt
+VSWAP.WL1
+
+Just copy these files to a working Wolf 3-D registered directory and you're 
+ready to go. Remember to back up the original file if you feel like it.
+
+Credits, Disclaimers, and Such
+
+Wolfenstein is a registered trademark of Id Software.

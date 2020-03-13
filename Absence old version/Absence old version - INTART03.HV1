@@ -1,0 +1,39 @@
+^P
+^C02 LEVEL 3 - Alpha Labs 2
+
+^C01 Briefing:
+^C04 Looks like the scientists were also infected by the virus, trying to eat people 
+instead of shooting them down. Anyway, good work, soldier! You're now in Sector 2 
+of the Alpha Labs. This area was where the implant technology was first introduced. 
+You might find some useful information about the implant technology and the current 
+situation here, but be careful, as we don't know what kind of robots are guarding 
+this area. Also note that turrets secure this area. You'd better find a way
+
+^P
+^C02 LEVEL 3 - Alpha Labs 2
+
+^C04 to deactivate the turrets.
+
+^C01 Primary objective:
+^C04 - Get to the Alpha Labs 3
+
+^C01 Secondary objective:
+^C04 - Try to find information about the experiments and the current situation
+
+^P
+^C02 GENERAL INFORMATION ABOUT THIS AREA
+
+^C04 Sector 2 of the Alpha Labs contains the first labs that were built. This was 
+the primary research facility for the implant technology. A lot of volunteers were 
+put into prison cells. That way, if the volunteers showed side effects caused by 
+the implants, the safety of the lab was still guaranteed.
+
+^P
+^C02 BESTIARY: ^C01 Zombie scientists
+
+^G36,16,155
+^C04 They suffered the same fate as the security guards. They're brainless too, but 
+instead of shooting people they try to eat them. Human flesh must taste good - otherwise 
+they would eat something else, like rats.
+
+^E

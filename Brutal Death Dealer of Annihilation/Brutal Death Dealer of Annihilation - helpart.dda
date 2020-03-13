@@ -1,0 +1,122 @@
+^P
+^C7d Brutal Death Dealer of Annihilation 3D
+
+^C26 The whole area is contaminated. All attempts at their annihilation have failed, 
+there is too many of them... We have to use weapons of mass destruction - we have 
+to send him there, it's our last hope.
+
+^G88,108,84
+
+^P
+^C7d General gameplay info:
+
+^C00 Minimap in the bottom right corner of the screen helps with orientation. Grey 
+color on the minimap represents a wall, orange is for door, teal is for blocking 
+sprite (for example a fence or a tombstone), purple is for a tile near a key, light 
+green is for your location and dark green represents your visibility.
+
+^C00 On the following pages you will find a description of every weapon, enemy and 
+pickable item. For more information read 'Readme.txt' and 'GameMechanics.txt'.
+
+^P
+^C7d Weapons:
+
+^G32,250,91
+^C00 Axe: Just as good for splitting skulls as it is for splitting wood.
+
+^G70,250,92
+^C00 Pistol: Takes 1 ammo per shot. Unlike other weapons, damage output does not 
+drop much with distance.
+
+^G116,250,93
+^C00 Shotgun: Takes 2 ammo per shot, huge damage output at close range, practically 
+useless at long range.
+
+^P
+^G16,250,94
+^C00 Assault rifle: 1 ammo per shot, rapid fire rate. Works well on anything except 
+the bosses and uberzombies.
+
+^G72,250,95
+^C00 The Destroyer: Combines 15 ammo into a projectile that explodes when it comes 
+into contact with flesh. Huge damage output no matter the range.
+
+^C26 Use keys 1-5 for changing weapons
+
+^P
+^C7d Enemies:
+
+^G32,250,30
+^C00 Zombie: Only melee attack, quite weak but very fast and dangerous when they 
+swarm you.
+
+^G86,250,31
+^C00 PistolGuy: Tries to pewpew you to death... Drops a pistol and 4 ammo.
+
+^P
+
+^G18,250,32
+^C00 UberZombie: Slow moving abominations with a lot of HP and high melee damage. 
+Shotgun at close range is most efficent use of your ammo, going melee on them is 
+futile.
+
+^G70,250,33
+^C00 ShotgunGuy: Very deadly at close range, not so much at long range. They drop 
+a shotgun and 4 ammo.
+
+^G124,250,34
+^C00 MachineGuy: BEWARE!!! They drop an assault rifle and 4 ammo.
+
+^P
+
+^G16,250,35
+^C00 GhostlyDoll: First boss, has quite a bit of HP and conjures fireballs. Using 
+the Destroyer is best, but the assault rifle also works well.
+
+^G84,250,3
+^C00 BigMoFo: Second boss, has tons of HP and uses a minigun. Using anything else 
+than the Destroyer on him will take long time and you need a lot of ammo. Drops a 
+gold key.
+
+^P
+^C7d Pickable items:
+
+^C26 Max amount of ammo is 666, max amount of HP is 250.
+
+^C00 Blood: +1 HP, if your HP < 101.
+
+^C00 Food 1: +5 HP.
+
+^G100,24,4
+^G100,224,5
+
+^P
+
+^C00 Food 2: +25 HP.
+
+^C00 Medkit: +50 HP.
+
+^C00 Ammo 1: +10 ammo.
+
+^C00 Ammo 2: +50 ammo.
+
+^G124,48,88
+
+^P
+
+^C00 Gold 1: +100 points, gold 2: +500 points, gold 3: +1000 points, gold 4: +5000 
+points
+
+^C00 Keys: For opening some doors.
+
+^G124,24,89
+
+^P
+
+^C7d In game shorcuts:
+
+^C00 F1: see this 'read this'; F2: save game; F3: load game; F4: sound settings; 
+F5: screen size; F6: control settings; F7: suicide; F8: quick save; F9: quick load; 
+F10: kill game; ESC: back to main menu
+
+^E

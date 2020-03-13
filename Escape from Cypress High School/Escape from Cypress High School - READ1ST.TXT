@@ -1,0 +1,19 @@
+Escape From Cypress High School
+created by Erik Selfridge
+
+An addon for Wolf 3D, dating from 1996. 
+
+To install: First make a copy of the full 60 level version of Wolfenstein 3D. Call 
+the folder (for example) EFCHS. Then overwrite files in the EFCHS folder with those 
+contained in this zip.
+
+Erik included the following in his original text file CHS-READ.txt:
+NOTICE: ESC from CHS is all in good fun and it's creator does not condone the shooting, 
+killing, maiming, or mutilation of civil servants in any way. This game is simply 
+a way of letting off steam.
+
+Please read Erik's text file CHS_READ.txt anyway before playing. It has a lot more 
+info on this game.
+
+
+Brian Lowe.

@@ -1,0 +1,195 @@
+^P
+^C25 WOLFENSTEIN: UMBRELLA BEGINNINGS FEATURES
+^C00
+^G36,16,34
+1. LOGFILES
+Throughout every level you will come across a logfile. These files contain important 
+information about your current mission and many times will reveal secrets otherwise 
+not known to most. When you stand over a logfile, press the "use" button to read 
+the file and expand your knowledge of the story! 
+
+2. BLUE HERB
+^P
+^C25 WOLFENSTEIN: UMBRELLA BEGINNINGS FEATURES
+^C00
+^G36,16,34
+The blue herb will heal you only when you are poisoned. Other than that, it is useless.
+
+
+3. BIOHAZARD WASTE
+These highly toxic, glowing green pools of biohazard waste will poison you with direct 
+contact. The only cure is to find a blue herb, or the poison will eventually kill 
+you.
+^P
+^C25 HEALTH ITEMS
+^C00
+^G36,16,33
+1. GREEN HERB
+Throughout your adventure you will come across green herbs. Locally picked in certain 
+German countrysides, the green herb will restore 10% of your health.
+
+2. FIRST AID SPRAY
+Found less frequently than green herbs, first aid sprays contain a special coagulant 
+that stops bleeding on contact. First aid sprays restore 25% of your health.
+^P
+^C25 HEALTH ITEMS
+^C00
+^G36,16,33
+3. 1UP POWERUP
+Found very rarely and in often out of the place areas, the 1up Powerup adds an extra 
+life to B.J. and also gives him 100% health and 25 more bullets. Only the most diligent 
+player will find them all!
+^P
+^C25 WEAPONS
+^C00
+^G36,16,91
+SURVIVAL KNIFE-This standard knife can mean life or death if you run out of bullets. 
+Great for quiet takedowns.
+^C00
+^G80,16,92
+SILENCED PISTOL-The silenced pistol is your starting handgun and is carried throughout 
+your entire mission. The silencer changes gameplay dramatically, allowing B.J. to 
+sneak thoughout many levels. Make good use of it!
+^P
+^C25 WEAPONS
+^C00
+^G34,16,93
+ASSAULT RIFLE-The assault rifle is the primary machine gun carried by the Umbrella 
+Elite Guard. Capable of automatic fire, the assault rifle can keep groups of foes 
+at bay. 
+^C00
+^G93,16,94
+ULTRA MACHINE GUN-The Ultra is a heavy weapons machine gun capable of laying waste 
+to multiple foes in a matter of seconds. Great to pull out for boss battles. Just 
+be careful, the Ultra chews through ammo at an alarming rate.
+^P
+^C25 ENEMIES
+^C00
+UMBRELLA GUARD-The standard stormtrooper of the Third Reich, on loan to the Umbrella 
+Corporation. Often stationed in groups, these are the foes you will face the most.
+
+
+UMBRELLA ELITE GUARD-These elite guards of the Third Reich have been specially trained 
+by Ignatius von Wesker himself. Given permission by the Fuhrer, Wesker has taken 
+a large detachment of these elites and housed them in Umbrella installations throughout 
+Germany. Fiercely loyal to the Fuhrer and Wesker, these elites carry  
+^P
+^C25 ENEMIES
+^C00
+assault rifles and wear bullet proof vests, making them a truly formidable foe.
+
+UMBRELLA OFFICER-Ranking higher than any other soldier in Wesker's amassed army, 
+the officer is often seen commanding over other troops. Ever loyal to Wesker and 
+the Fuhrer, the officer moves with precision and intent toward his prey.
+
+UMBRELLA ZEALOT-These servants of Ignatius von Wesker are obsessed with carrying 
+out the will of their master. 
+^P
+^C25 ENEMIES
+^C00
+Originally from a remote village in the countryside of Spain, they have become entrenched 
+in their service of the Fuhrer and Umbrella. Serving as "Keepers" of the Hand of 
+Umbrella, they are willing to die for their cause and their master. Their abilities 
+are unnatural and their loyalty fierce. They move in an almost controlled way toward 
+any who dare enter into their master's domain. Few if any have lived to tell about 
+these zealots or "Keepers".
+
+INFECTED GUARD DOG-The attack dogs you 
+^P
+^C25 ENEMIES
+^C00
+will face have already been infected with the x-virus. The virus has made them a 
+little more durable and their red eyes lust for your blood.
+
+These are among the many enemies you will encounter during your mission. You never 
+know what else you may come across in the dark depths of Umbrella's facilities...
+
+^P
+^C25 THE STORY SO FAR...
+^C25
+NORTH AFRICA-1941
+^C00
+With the occupying of Northern Africa, the Nazi war machine has secured another vital 
+territory. Much still remains to be discovered in this vast land of desert and heat. 
+Nazi scientists and excavators have been working laboriously to find some sort of 
+sign that the obsessed Hitler has with this cursed land. Until this point..
+
+The fossilized remains of a yet to be determined specie had just been unearthed.
+
+^P
+^C25 THE STORY SO FAR...
+^C00
+ The sign that the Fuhrer was looking for had been found. Ignatius von Wesker and 
+Ernst "the butcher" Fleisher could rightfully lay claim to the dig site. It was their 
+find. Their discovery. And while Wesker had been looking for just such a specimen 
+his entire life, the Fuhrer had only recently been made aware of the possibilities 
+of such a find. Ignatius von Wesker and Ernst "the butcher" Fleisher would become 
+heroes of the Third Reich. They would bring forth a new era. A new world. A new Beginning.
+
+^P
+^C25 THE STORY SO FAR...
+^C25
+GERMANY, UNDISCLOSED LOCATION-1942
+^C00
+Re-animation complete. Specimen No.365. Theoretical data is proved true. The "x-virus", 
+built in part from DNA extracted from the fossilized remains of the "creature" unearthed 
+in Africa has been successfully implemented into host No.365. The specimen shows 
+early signs of high aggression, unstable actions, and a voracious appetite for flesh. 
+Preferably human. Extreme caution is to be used when in contact with the specimen. 
+More data
+^P
+^C25 THE STORY SO FAR...
+^C00
+must be collected to see how long the re-animation lasts and what physical limitations, 
+if any, the specimen has. Death of specimen No.365 will occur. A few "tests" designed 
+by myself and Dr. Schabbs will ensure that. We just need to locate the fine balance 
+between killing the specimen and bending it to our will, if that is even possible. 
+As of this date, Specimen No.365 has been re-animated for 24 continuous hours. Let 
+the experimentation begin...          
+Dr. Ernst Fleisher
+^P
+^C25 THE STORY SO FAR...  
+^C25
+CASTLE ERZENGEL-1943
+^C00
+I have been given the privilege from Lord Wesker to use my castle as one of the primary 
+facilities for the Umbrella Corporation to conduct it's experiments. My castle will 
+house some of the most brilliant minds in the field of DNA reconstruction. And, if 
+things go the way Lord Wesker expects, the Third Reich will have an unstoppable army 
+that will conquer the entire world. I have already assured Lord Wesker that I will 
+fund whatever materials 
+^P
+^C25 THE STORY SO FAR...
+^C00
+he requires. My family line is littered in wealth. I have already assured my family 
+that their inheritance to me is being put to a noble cause. Of course, they believe 
+their money is going in support of Umbrella Corporation Pharmacuticals. They must 
+never find out I have given support to the Third Reich and Lord Wesker. Lord Wesker 
+has promised me power beyond imagination, and nothing will stop that from happening...
+
+
+Barrington Ashford
+^P
+^C25 THE STORY SO FAR...
+^C25
+ALLIED HIGH COMMAND-1944
+^C00
+One of the American military's top scientists, Harry Redfield, believes he can reverse 
+engineer the x-virus if a sample can be obtained. An antidote would be a pivotal 
+victory for the Allies fighting this new bio-terror organization known as Umbrella. 
+Data gathered from Castle Hollehammer after Dr. Schabb's death has revealed a secret 
+castle in the remote German countryside called Castle Erzengel. Allied intelligence 
+is putting together a 
+^P
+^C25 THE STORY SO FAR...
+^C00
+highly classified mission, sending a single agent into the castle during the cover 
+of night to assess the situation and obtain any information as well as the virus 
+formula if possible.
+
+This is where you come in. You have been specifically chosen for this dangerous mission. 
+Your experience and high mission success rate makes you the perfect operative for 
+whatever resistance you may come across. The time has come soldier! Gear up and move 
+out!
+
+^E

@@ -1,0 +1,47 @@
+Map of the Month Club Credits
+
+Thanks to the work of  many people in the DieHard Wolfer Forums, making this program 
+
+was possible.  They contributed ideas, graphics, and code.  They also contribute 
+their time
+and maps when they particpate in the Map of the Month process.  It would be a very 
+long
+list if I gave the names and what they each contributed, so for the credits here, 
+I will be 
+just listing the names.  
+
+But, I guess the first person I should mention for the Wolf4SDL Source is Ripper. 
+ It 
+was his hard work that created the SDL source that not only works with Wolfenstein 
+3d 
+([c]1992 Id Software), but truely enhances some of the original features.  The biggest 
+
+enhancement being the sound, where now you can actually hear many voices and sounds, 
+
+all at the same time.  
+
+Now the names of others who deserve credit (As they are known in the Forums):
+
+MCS				AreYeP			Ripper
+Adam Biser			Tricob				Chris
+Tek-Zk				Hair Machine			Darkone
+Dugtrio17			
+
+So basically, that's it - except for me.. the one known as BrotherTank - that took
+
+an original idea and some code, and gave you the chance to play, participate, and 
+enjoy
+the game that we all love. I hope you will join in the fun and want to submit your 
+own 
+levels for a little friendly competition, but if you don't that's fine too.  Either 
+way, enjoy
+what we have created for everyone and have some fun with this little game that just 
+
+won't go away.  And don't be shy, join the forums if you aren't already a member!
+
+
+Let the Games Begin!,
+
+BrotherTank
+Forums Admin
+http://diehardwolfers.areyep.com

@@ -1,0 +1,45 @@
+Western Wall I Timeline
+-----------------------
+
+Version .1 - Biggest breakthrough: 2 new keys
+		Lighting Effect
+		Seamless Level Progression
+		Delta Shield
+		No Deathcam
+		Lots of Errors
+
+Version .2 - Biggest breakthrough: new VGAGRAPH images
+		115% Heatlh, 200 Ammo
+		No Clipping Mode
+		5th weapon (no 5th keyboard key)
+		
+Version .3 - Biggest breakthrough: THE TRUCK
+		3 Awesome levels
+		The Scientists
+		Doors point to different textures
+		Syringes		
+
+Nate's Beta Release - Biggest breakthrough: Status Bar
+		5th weapon key works
+		Enhanced levels
+		Improved oudoor settings
+		10 new VSWAP images (for new weapons)
+		Cheat Code Effect
+		
+Version .4 - Biggest breakthrough: New Menu
+		New menu colors, new menu options
+		A whole load of new VGAGRAPH images
+		New PC-13 screen / Non-Shareware notice
+		"Sitting" Guards
+		"Eisen" (Iron) Mutants
+		Enhanced Truck
+		Enhanced Graphics
+		Hugh's Jukebox
+		New Music Orders
+
+Current Version (First Release) - Biggest breakthrough: 2 Ammo types
+		Scientist on level 3 drops Iron Key
+		New sounds for various enemies
+		Stronger Weapons and Enemies
+		5 new static objects (added to vswap and code)
+		8 new wall patterns (added to vswap)

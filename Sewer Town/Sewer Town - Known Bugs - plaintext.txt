@@ -1,0 +1,14 @@
+NOTICE: Known Bugs
+
+First known bug, you will notice the weapon in BJ's hand which they caused weapon 
+screwed up when the gane
+starts. If happens, please turn all sound and music off completely. (I already don't 
+know what caused weapon screwed up)
+
+And another known bug,  when you run into hole (jumps to Trap level), the keys, lids 
+icons on statusbar does not cleared,
+It might leads you into thinking you still have keys ready, but they're not :). Icons 
+does cleared when you found the secret level..
+
+The Source code what I doing with this, shows none of errors on screen when it begin 
+compile the file.. 

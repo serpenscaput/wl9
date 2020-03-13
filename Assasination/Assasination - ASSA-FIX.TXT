@@ -1,0 +1,10 @@
+Assassin level 3 bugfixes.
+
+Whoops, sorry i forgot to add an elevator so you could exit the level. Also
+i had by accident placed 2 start positions so you ended up starting at what
+should be the end of level 3. Finally i added 2 locked doors for the silver
+key, now at last everything should be corrected.
+
+Made some small adjustements to 2 other levels
+
+Bernt "Nova" Hansen.

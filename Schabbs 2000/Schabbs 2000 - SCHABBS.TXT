@@ -1,0 +1,158 @@
+                                                                                 
+          SCHABBS  2000
+                                                                                 
+          ----------------------
+
+                                                                                 
+   Created by: Gary Ragland
+
+Thank you for downloading Schabbs 2000. This readme file will explain how to set 
+the game up, as well as some
+helpful hints and info about the levels. Like my previous add-on, Assassinate Hitler, 
+this too has consecutive 
+levels. There are also many new never-seen-before improvements and surprises incorporated 
+into Schabbs 2000.
+
+---INSTALLATION
+There really isnt much involved in installing this add-on. Simply unzip the package 
+into your WOLF3D directory. 
+Schabbs 2000 does not corrupt your game files in any way, so you can still run the 
+originals from your wolf 
+directory. Then simply run the file <schabbs.exe>, and you'll be in the game. Once 
+in the game, select SCHABBS 
+2000 from the New Game Menu.
+
+---STORYLINE
+Allied Intelligence has just uncovered the secret Nazi plan called Operation Eisenfaust. 
+Put simply, it involves the 
+creation of mutant soldiers from the bodies of the dead. The maniac behind this entire 
+experiment is the crazy 
+scientist Dr. Schabbs. As it stands, all of the mutants he has created are still 
+located in his lab, and you must 
+destroy him and his mutants before they can be released, assuring a certain Nazi 
+victory. There is also rumor of one
+ special mutant created by Schabbs, called the "Ubermutant". If you find him, he 
+too must be terminated. Your time 
+is limited, so hurry off to Castle Hollehammer...
+
+---CHANGES TO THE EXE
+        * Consecutively running levels without the hassle of passwords
+        * Changed Ceiling Colors
+        * Changed order of songs (including new ones from Spear of Destiny)
+        * Par Times for the first eight levels
+        * Removal of cheat codes (most, at least)
+        * And the big one --- new keys (see below)
+
+-There are also some new graphics, mostly wall panels, in Schabbs 2000. A good deal 
+of them are from Spear of Destiny, but others are original and have never been seen 
+before in Wolf3D.
+
+---THE UNITS
+The game, which consists of 50 levels, is broken up to 'units', each with a different 
+theme and objective. This is a 
+very important section to read because it is very helpful for some of the units:
+
+
+   UNIT 1 --- The Old Castle   (levels 1-8)
+This first section is fairly normal and is similar to original Wolf levels (but probably 
+harder) These levels represent 
+the Old Castle, which is the only part of Schabbs' massive lab visible from the outside. 
+This is because the lab 
+extends back into the mountain, behind and below the castle entrance. These levels 
+have a moderate number of 
+mutants, but alot of regular guards also. At least for the early versions of this 
+add-on, these are the only levels 
+that have their own par times.
+
+   UNIT 2 --- The Reactor   (levels 10-19)
+This is the section that probably needs the most explaining, and is the first to 
+use a new key. First, the setting: The
+ Reactor is the part of Schabbs' lab where all the energy is created to fuel the 
+machinery and equipment to make 
+mutants. Therefore, you are likely to see many nuclear drums and waste laying around. 
+The first 9 levels of this unit
+ require that you get the NUCLEAR KEY, sometimes in addition to the gold and silver 
+one. This means that some 
+levels require three keys to make it out. Level 19 gets even worse. This level is 
+the CORE of the volatile reactor. 
+There are very few guards, because the reactor is melting down and is going to close 
+off forever. If you dont make
+ it out in time, you'll melt in the explosion of nuclear ooze. You must navigate 
+the maze as the reactor makes strange 
+noises in the distance. If you do it correctly you'll come to a locked door (for 
+which there is no key), with two
+ nuclear AUCHTUNG signs. Here you must wait for the one nazi guard left in the reactor 
+to come through the door.
+ Shooting him in the doorway will leave it open for you, and you'll see the elevator 
+off to the left. If you get there 
+too late, and the guard has already left the area, you're toast. The guard USUALLY 
+appears at the door about 2 
+minutes and 10 seconds after the level starts. HINT: To find the path to the exit, 
+follow the "leeking nuclear barrels"
+
+   UNIT 3 --- The Bio-Labs   (levels 20-24)
+After the chaos of the reactor, you must penetrate the gross and eerie bio-labs. 
+This is the area where the mad 
+doctor performs inhumane tests, looking for breakthroughs in the mutant technology. 
+Mutants galore in this area, 
+and plenty of dead bodies and skeletons too.
+
+   UNIT 4 --- Security Central   (levels 25-30)
+Security Central is located about halfway into the mountain-top, and its main purpose 
+is to defend the areas behind
+it. The Nazi leaders figured that any spies would be stopped at this point, if they 
+weren't devoured by the reactor. 
+There are no mutants on these floors, but PLENTY of other nazis, as this is the most 
+heavily guarded unit.
+
+   UNIT 5 --- The Factory   (levels 31-38)
+The factory is where all the mutants are fitted with their cleavers and chest-guns, 
+during an assembly line process. 
+This unit, like the Reactor, requires the use of a third key. In this case, it is 
+the Factory Passcard. The last two
+levels of the unit, dont really belong to the factory, but are sort of left-overs. 
+Level 37, the Nazi Lodge, is a huge 
+dorm for all the nazi soldiers. Level 38, Creepy Caverns, is a tunnel-filled level 
+which connects the factory to the 
+castle, all the way across the mountain.
+
+   UNIT 6 --- The Castle   (levels 39-48)
+The Castle is built within the remains of an ancient German castle, which rests at 
+the very peak of the mountain. 
+These ten levels are similar to the first castle unit, only slightly more difficult. 
+The close you get to the end the 
+more and more mutants you will see.
+
+   UNIT 7 --- The Boss Levels   (levels 49-50)
+Not much to explain here. The Ubermutant is on level 49, Schabbs is on 50. Both are 
+difficult, but certainly beatable.
+
+--- You may have noticed that level 9 is missing above. That is because it is a secret 
+level which is reached off of 
+level 8. Its pretty well hidden and VERY bizzare, in addition to being difficult. 
+
+Check it out at your own risk (you might not get back up to the original levels)
+
+
+---CREDITS
+
+   Special Thanks to:
+	  Chris Chokan
+	  Warren Buss, Bill Kirby, and all others who worked on Mapedit/Wolfedit
+
+Feel free to distribute this add-on, but ONLY if it remains unaltered and includes 
+this text file.
+
+c 1998-1999
+
+Check out my web-site for any of my future add-on projects, in addition to many other 
+great add-ons:
+			http://members.tripod.com/~gdr2
+
+Or e-mail me at:    gragland@ix.netcom.com
+
+Please send me any questions or comments about Schabbs 2000     
+
+Good Luck ----
+
+Gary Ragland

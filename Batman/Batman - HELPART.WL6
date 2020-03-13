@@ -1,0 +1,514 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Batman. This TC (total conversion) was created by 
+me, Ian Skevos-Jones, for Wolfenstein 3d. This game is based on the DC Comics character 
+with the same name, but I've altered the story a bit from other Batman series. This 
+project is also my second Wolfenstein add-on, while Quest for the Amulet was my first. 
+I also had help from my brother Wolf with the source code.
+
+^P
+^C7d THE STORY
+
+^C00 Gotham City -- Present day. You are Bruce Wayne (also known as Batman). Twenty 
+years ago, during your childhood, you fell into a cavern swarming with bats beneath 
+Wayne Manor. You had never imagined how frightening this had been. It had been more 
+traumatizing than when your beloved parents were murdered by a ruthless gunman. With 
+the loss of your parents, you were comforted by Dr. Leslie Tompkins. You had then 
+sworn to avenge your parents by striking fear into the hearts of criminals.
+
+^P
+^C7d THE STORY
+
+^C00 At age 18, you travelled around the world to different countries where you were 
+trained how to fight. Ten years later, you started your corporation of Wayne Enterprises 
+for creating new forms of technology. On the next day, you found a bat at your window 
+while you were in your study. You discovered that this bat was the key to striking 
+fear into the hearts of criminals. And so you have become the legendary Batman, the 
+Dark Knight!
+
+^P
+^C7d THE STORY
+
+^C00 One of your earliest battles was at a heist at the ACE Chemical Plant. One of 
+the criminals you failed to capture was a man who dived into a vat of chemicals. 
+You first thought that it may have killed him, think again. The chemicals actually 
+dyed his hair green, bleached his skin chalk white, and his lips into a grinning 
+smile. This Joker, as he began to call himself, was driven insane. And now he is 
+plotting against you and the city.
+
+^P
+^C7d THE STORY
+
+^C00 Meanwhile, at an office of a theater, a tall, blonde girl sits at a chair in 
+front of the desk where her boss sits. 
+
+^C37"What?! How could you?!" ^C00exclaimed the girl, displeased. 
+
+Her boss said, ^C06"I am really sorry, Harleen, but I think your role as Harlequin 
+was too good for you. And by that, you're no longer an actress. You're out of here." 
+
+
+^P
+^C7d THE STORY
+
+^C00 Then she replied, ^C37"Oh man! What kind of job should I have gotten?!" 
+
+^C00Harleen Quinzel walked out of the office, then out of the building. Harleen had 
+used to be an actress, now she's fired. 
+
+Harleen walked down the streets, then she heard a voice beside her.
+
+^P
+^C7d THE STORY
+
+^Caa"Seems like you have something better to do," ^C00 said the Joker, who was standing 
+near a wall.
+
+Harleen said, ^C37"What do you want?!"
+
+^C00The Joker said, ^Caa"Me? Of course! Now you're not an actress anymore. I could 
+offer you a new job, Harleen Quinzel. Work with me, and you'll get 'Harley Quinn.'"
+
+
+^P
+^C7d THE STORY
+
+^C37"Like the clown character Harlequin. I know. I've played that role before and 
+I loved it. Now I'm fired and someday, I'm gonna make him pay."
+
+^Caa"It's a name that puts a smile on my face!" ^C00 Then he continued, ^Caa"If you 
+and I work together, we could bring some real fun to this town! Wouldn't you agree?"
+
+
+^C37"Sure, Puddin'!"
+
+^P
+^C7d THE STORY
+
+^C00 The next day, Harleen Quinzel was now dressed as a jester, calling herself Harley 
+Quinn. The Joker had also befriended the criminal mastermind Oswald Cobblepot, aka 
+"the Penguin." Together they begin the planning of a new weapon... the ultimate weapon...
+
+
+^P
+^C7d THE STORY
+
+^C00 A couple weeks later, after returning home to Wayne Manor, you are greeted by 
+your butler, Alfred. He has a worried look on his face.
+
+^C19 "Master Bruce!" ^C00 exclaims Alfred. ^C19"You have to see this. It's frightful!"
+
+
+^C01 "What's the matter, Alfred?" ^C00you inquire.
+
+^C19 "I saw this report on the news, sir. You have to see it!"
+
+^P
+^C7d THE STORY
+
+^C00 You come inside and notice the news report on the TV. The reporter on the screen 
+says, ^C84"We have never seen Batman do this before, but he has wreaked tremendous 
+havoc on Gotham City. Roads have been blocked, buildings have been demolished, and 
+cars have been destroyed. Police have tried to stop him, but so far, it's been useless. 
+We advise people to stay as far away from Batman as possible. He is armed and extremely 
+dangerous."
+
+^P
+^C7d THE STORY
+
+^C00 The news footage shows a dark figure in a cape destroying things and terrorizing 
+civilians. Cops fire their guns at the figure, but the bullets seem to bounce off 
+harmlessly. The costumed figure turns around and fires missiles into the cop cars. 
+The figure looks very much like you, but you notice that there's something different 
+about the way it moves... it almost moves mechanically... 
+
+^C01 "This is an imposter," ^C00you said. ^C01"I didn't do all this." 
+
+^P
+^C7d THE STORY
+^G32,16,3
+
+^C00 Suddenly, the image on the TV started to fade, and was replaced with an image 
+of the Joker's grinning white face. The Joker began laughing maniacally. You tried 
+to change the channel, but nothing happened. 
+
+^P
+^C7d THE STORY
+
+^C00 Holding up what looked like a perfume bottle, the Joker on the screen said, 
+^Caa"Introducing Joker-products with a new secret ingredient!"
+
+^C00 From the looks of things, the Joker was poisoning cosmetic products with his 
+"Joker-Toxin," a deadly formula which causes the victim to start laughing uncontrollably 
+until they die.
+
+Harley Quinn said, ^C37"That's right! Wanna have a happy face again? Then you got 
+it!"
+
+^P
+^C7d THE STORY
+
+^C00 You weren't happy at all. The Joker's face looked somehow familiar. As the ad 
+ended, you turned off the TV. ^C01"What a maniac," ^C00 you thought.
+
+It seems that the Joker has somehow managed to block TV signals so that he can terrorize 
+people with his "commercials." 
+
+^P
+^C7d THE STORY
+
+^C00 The Joker is clearly a complete madman. Unless you stop him, he could poison 
+thousands of people. But you don't know where he is operating because you do not 
+yet have any leads.
+
+To make matters worse, the police believe that you are terrorizing Gotham. 
+
+Will you, Batman, be able to save the city?
+
+^P
+^C7d FEATURES
+
+^C00 * New source code
+* New enemies
+* New graphics
+* One seamless episode
+* 24 new levels
+* New music
+* New sound effects
+* Text after some levels
+* New environments
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 BATMAN
+
+Real Name: Bruce Wayne 
+Occupation: Scientist/Crimefighter
+Base of Operations: Gotham City
+Age: 28
+Height: 6' 2"
+Weight: 210 lbs
+Eyes: Blue
+Hair: Black
+First Appearance: DETECTIVE COMICS #27 (1939)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 BATMAN
+
+^C00 As we know, Batman is the hero of this game. The Dark Knight has been put to 
+the ultimate test by his arch-enemy, the Joker, when he discovers about his first 
+pressence.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 ALFRED
+
+Full Name: Alfred Pennyworth
+Occupation: Valet
+Base of Operations: Gotham City
+Age: 55
+Height: 6 ft
+Weight: 160 lbs
+Eyes: Blue
+Hair: Black
+First Appearance: BATMAN #16 (1943)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 ALFRED
+
+^C00 Alfred Pennyworth is the Wayne family butler. He was also there in the beginning. 
+He aided Bruce Wayne as a father figure when his beloved parents were murdered; and 
+also, he regrets Bruce's secret of Batman.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 COMMISSIONER GORDON
+
+Full Name: James W. Gordon
+Occupation: Police Commissioner
+Base of Operations: Gotham City
+Age: 57
+Height: 5' 9"
+Weight: 168 lbs
+Eyes: Blue
+Hair: White
+First Appearance: DETECTIVE COMICS #27 (1939)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 COMMISSIONER GORDON
+
+^C00 Commissioner Gordon believes in Batman when they first met. Gordon knows that 
+Batman would do anything to keep Gotham City from crime. James also has a wife named 
+Sarah and a daughter named Barbara.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE PENGUIN
+
+Real Name: Oswald Chesterfield Cobblepot
+Occupation: Restauranteur/Racketeer
+Base of Operations: Gotham City
+Age: 35
+Height: 5' 2"
+Weight: 175 lbs
+Eyes: Blue
+Hair: Black
+First Appearance: DETECTIVE COMICS #58 (1941)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE PENGUIN
+
+^C00 The Penguin is an elegant, little man who is very fond of birds. He even became 
+fond of the bird that is his namesake. He's also a criminal mastermind like the Joker, 
+except he doesn't use squirting flowers or boxing mitts. He uses umbrella weapons 
+such as machineguns, knife blades, or even worse!
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 HARLEY QUINN
+
+Real Name: Harleen Quinzel
+Occupation: Henchman, former actress
+Base of Operations: Gotham City
+Age: 21
+Height: 5' 6"
+Weight: 110 lbs
+Eyes: Blue
+Hair: Blonde
+First Appearance: BATMAN: THE ANIMATED SERIES episode "Joker's Favor" (1992)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 HARLEY QUINN
+
+^C00 Harleen Quinzel used to be an actress who made different plays and her greatest 
+role was when she played Harlequin, the clown character. She loved it so much that 
+she was later fired. Now she works for the Joker, taking the name Harley Quinn. While 
+fighting her, Harley may appear charming and beautiful, but watch out: she's also 
+rotten to the core!
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE SCARECROW
+
+Real Name: Jonathan Crane
+Occupation: Professional Criminal
+Base of Operations: Gotham City
+Age: 44
+Height: 6 ft
+Weight: 140 lbs
+Eyes: Blue
+Hair: Brown
+First Appearance: WORLD'S FINEST COMICS #3 (1941)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE SCARECROW
+
+^C00 Fear is his interest, even as a youth. Jonathan Crane was once fired as a scientist 
+at the University for creating hallucinagenic "fear gas." Crane is now a man out 
+for revenge as the Scarecrow, the Master of Fear!
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 CATWOMAN
+
+Real Name: Selina Kyle
+Occupation: Thief
+Base of Operations: Gotham City
+Age: 28
+Height: 5' 7"
+Weight: 125 lbs
+Eyes: Green
+Hair: Black
+First Appearance: BATMAN #1 (1940)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 CATWOMAN
+
+^C00 Is there no honor among thieves? Catwoman steals things that have cat designs. 
+Other than that, she's also attracted to Batman. In the game, you should be careful 
+of her bullwhip!
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE DEATH KNIGHT
+
+Real Name: None
+Occupation: Killer Robot
+Base of Operations: Mobile
+Age: Unknown
+Height: 6' 2"
+Weight: 500 lbs
+Eyes: Red
+Hair: None
+First Appearance: Exclusive in the game!
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE DEATH KNIGHT
+
+^C00 The Death Knight is an android robot created by the Joker to destroy Batman 
+and Gotham City. The Death Knight may appear to look like Batman, but more mechanical. 
+He has managed to frame Batman in running amok in Gotham City and is considered to 
+be an imposter.
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE JOKER
+
+Real Name: Unknown
+Occupation: Criminal mastermind
+Base of Operations: Gotham City
+Age: 35
+Height: 6' 5"
+Weight: 192 lbs
+Eyes: Green
+Hair: Green
+First Appearance: BATMAN #1 (1940)
+
+^P
+^C7d CHARACTER BIOS
+
+^C90 THE JOKER
+
+^C00 The Joker is the game's final boss. He is also Batman's arch-enemy. It was the 
+Joker who created the Death Knight to destroy Batman. At the end, the Joker must 
+be stopped at all costs!
+
+^P
+^C7d ARSENAL
+
+^C00 Batman would never use pistols, machineguns, or anything like that. He prefers 
+to use his own weapons to keep the bodycount low.
+
+^C7d Fist: ^C00 Batman sometimes dukes it out with criminals the old-fashioned way. 
+You can punch your opponent near corners and that could be helpful.
+
+^P
+^C7d ARSENAL
+
+Batarangs: ^C00 The Batarangs are Batman's signature weapon. They are razor-sharp 
+throwing devices that can give a concussion to Batman's enemies. Be sure to use them 
+wisely, they are powerful.
+
+^C7d Shuriken Launcher: ^C00 This weapon can fire a rapid stream of Batarangs. It 
+is capable of knocking out enemies in groups.
+
+^C7d Tazer: ^C00 It can electrify the Batarangs and shoot them more rapidly than 
+the Shuriken Launcher. This tool is the most powerful.
+
+^P
+^C7d ITEMS
+
+^C00 Besides weapons, you'll find other items in each level, such as health, keys, 
+etc.
+
+^C7d Health: ^C00 Throughout the game you will need health to stay alive, and there 
+are three kinds of health to find.
+
+Health Potion: 5%
+
+Stimpack: 10%
+
+First Aid Kit: 25%
+
+^P
+^C7d ITEMS
+
+Keys: ^C00 If you find a door that's locked, it would need a key. There are two flavors 
+of keys: gold and silver.
+
+^C7d Extra Life: ^C00 If you see a yellow sphere with the Bat Symbol on it, pick 
+it up and it will give you full health and 25 Batarangs. It will also keep you fighting 
+enemies.
+
+^C7d Hostages: ^C00 The criminals are taking people captive. If you see any hostages, 
+you have to save them from danger.
+
+^P
+^C7d OTHER ENEMIES
+
+^C00 Before you encounter the super-villains, you'll be fighting their men.
+
+^C7d Henchmen: ^C00 The goons in ski-masks aren't that tough, but they can be dangerous 
+up close.
+
+^C7d Robots: ^C00 These synthetic prototypes created by the Joker and Penguin are 
+slow, but very dangerous.
+
+^P
+^C7d OTHER ENEMIES
+
+SWAT Cops: ^C00 The police are after you, but they don't know it was an imposter 
+involved in wreaking havoc on Gotham City. These men wear body armor and use machineguns!
+
+
+^C7d Thugs: ^C00 These crooks move like the SWAT team, but are weaker. They use machineguns 
+with laser sights!
+
+^C7d Jokerfish: ^C00 At the ocean, the Joker dumped his so-called "Joker-Toxin" on 
+fish, giving them hideous grins. They're fast, but weak.
+
+^P
+^C7d HOW DID I CREATE THIS TC?
+
+FloEdit 1.1: ^C00 Maps, importing things
+^C7d Notepad: ^C00 Text
+^C7d Borland 3.1: ^C00 Source code
+^C7d Sound Forge 5.0: ^C00 Sound effects
+^C7d IMF Tools: ^C00 Importing music
+^C7d Paint Shop Pro 7: ^C00 Graphics
+^C7d BMP2C: ^C00 Signon screen
+
+^P
+^C7d SPECIAL THANKS TO:
+
+Florian Stohr: ^C00 FloEdit
+^C7d Brian Lowe: ^C00 Wolfenstein 3D Dome
+^C7d MCS: ^C00 Source code tutorials
+^C7d Luke Strauman: ^C00 Source code tutorials
+^C7d DarkOne: ^C00 IMF Tools
+^C7d Ripper: ^C00 BMP2C
+^C7d Id Software: ^C00 Wolfenstein 3D
+^C7d DC Comics: ^C00 Batman
+^C7d You: ^C00 Playing the game!
+
+^P
+^C7d CONTACTING IAN SKEVOS-JONES
+
+^C00 If you need any help, you can send me email at ^C7d ian@shadaux.com
+
+^P
+^C7d THANKS FOR PLAYING
+^G32,16,30
+
+^C00 I hope you enjoy playing Batman! Now it's time to save Gotham City from crime!
+
+
+^E
+
+

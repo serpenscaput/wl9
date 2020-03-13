@@ -1,0 +1,46 @@
+SPEARPAK 2
+compiled by Sam Feichter (AstroCreep)
+
+
+
+[Changes from originals]
+HiRes Textures and Sprites from my Mac GFX Pack, all other sprites from PSTroopers 
+Sprite Fix Pack
+Edited a few walls, for some reason some of these had unknown wall types, which is 
+odd since none of these had source hacks.  The unknown walls would crash the game
+
+Various fixes
+Crackhead bitches
+
+[List of Maps]
+
+All of these can be found at:
+http://www.users.globalnet.co.uk/~brlowe/index.html
+or
+http://http://www.wolfenstein3d.co.uk/index.htm
+
+"Andrew's Mapset" by Andrew Marn
+"Archives - Volume 1 & 2" by ack
+"Castle Bismark" by unknown
+"Death Becomes You" by Spifferaneous
+"Dunkelburg" by Michael Kalous
+"Spearfishwolfbones" by Thomas Weiling
+"Sod_cc1" by unknown
+
+
+
+[Music]
+The Addams Family (SNES), Super Metroid (SNES), Blake Stone (PC), Doom (PC), Doom 
+II (PC),
+Spear of Destiny (PC), Zombies Ate My Neighbors (PC), The Tick (SNES), originals 
+by
+Sam Feichter (AstroCreep), Hexen (PC)
+
+[Other Sources]
+
+Walls and Item Sprites - Wolfenstein 3D (Mac)
+All other sprites - Wolfenstein 3D Sprite Fix for ECWolf by PSTrooper
+Some menu graphics edited from Tech Demo, others edited from Spear of Destiny
+
+
+
