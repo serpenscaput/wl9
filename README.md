@@ -62,3 +62,5 @@ Changelog since launch:
 all in all. If you see something completely wrong, let me know
 
 -temporarily deleted Apogee catalogs, will fix later
+
+-fuxed Apogee FAQs broken with the @ thing
