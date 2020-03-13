@@ -1,2 +1,0 @@
-cls
-list readall.txt
