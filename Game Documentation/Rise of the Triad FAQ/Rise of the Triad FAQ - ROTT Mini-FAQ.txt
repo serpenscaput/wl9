@@ -1,0 +1,360 @@
+------------------------------------------------------------------------------
+		 The Official Rise of the Triad Update MINI-FAQ
+				    THHLI
+Rise of the Triad:                TTHIITLII     
+(c) 1994 Apogee Software, Ltd.   THHII TTLHI
+				THLI  I  TOLII Written: December 5th, 1994
+			      THOII  IH)  TTLLI     by: Rylan Hilman
+			     THH)    IHT    TLLII   at: rhilman@oasis.rain.com
+"Rise of the Triad:         THII    IHTH)    TTLTI
+Weapons so powerful,      THHI      TLLILI     ITLII    "Rise of the Triad is
+they blow you out of     TLTI      IHLLLL)      TTTTI    gonna be great!!!"
+the game!"             TLHII      ILTLLL)L)       TLLI
+		      THTI         IIIII)I         IILII     - Rylan Hilman,
+   - Joe Siegler,   ILLI       TI          II        TLLI      Author of 
+     Apogee        TLLI      ILLLLI      ITLLLTI      ITHII    this FAQ. :)
+		 ITLI     IILTLLL)LI    ITLTTTLILI      ITTI
+		ILLI    TLLLLTLLLT))    I))TTLTTTTTTI    IITII
+	      IILII  ITTLL))II                   )ILTTT   IITII
+	     ITLI  II                                       IITI
+	    ILILLLLLLLLLLLLLLTLHLTTTLTLTTLLLLTTTTTTTTTTTTTTTTTII
+------------------------------------------------------------------------------
+
++==========+
+|Disclaimer|
++==========+
+
+  This is the Update version of the  (F)requently (A)sked (Q)uestions file 
+for Rise of the Triad, the upcoming 3D action game by Apogee Software.  So if 
+you read any of this, and something bad happens to you that's related to this 
+FAQ, I didn't do it(except if I really DID do it, then I'll tell you 
+personally). If anybody is offended, go talk with Apogee.  Remember, as of 
+now, Apogee Software is only partly involved in making this FAQ.  So, to 
+finish up, if it's a question about the FAQ, ask me. If it's a question about 
+R.o.t.T. that is not answered in this FAQ, send e-mail(Internet) to 
+joe.siegler@swcbbs.com (Joe Siegler, Apogee Software).
+ 
+
++==============+
+|Trademark info|
++==============+
+
+ Some trademarks in the following piece of work are: Rise of the Triad,
+Apogee, Hank Leukart, and The "Official" DOOM FAQ. These trademarks I will 
+NOT take any credit for, and they belong to the people who have made these 
+products/companies possible. If I missed any, they are also hypothetically 
+acknowledged.
+
+
++==============+
+|Copyright Info|
++==============+
+
+This article is Copyright 1994 by Rylan Hilman.  All rights reserved.
+You are granted the following rights:
+
+I.  To make copies of this work in original form, so long as
+      (a) the copies are exact and complete;
+      (b) the copies include the copyright notice and these paragraphs
+	  in their entirety;
+      (c) the copies give obvious credit to the author, Rylan Hilman;
+      (d) the copies are in electronic form, except for one(1) allowed paper-
+	  based copy for personal reference.
+II. To distribute this work, or copies made under the provisions
+    above, so long as
+      (a) this is the original work and not a derivative form;
+      (b) you do not charge a fee for copying or for distribution;
+      (c) you ensure that the distributed form includes the copyright
+	  notice, this paragraph, the disclaimer of warranty in
+	  their entirety and credit to the author;
+      (d) the distributed form is not in an electronic magazine or
+	  within computer software (prior explicit permission may be
+	  obtained from Rylan Hilman);
+      (e) the distributed form is the NEWEST version of the article to
+	  the best of the knowledge of the distributor;
+      (f) the distributed form is electronic.
+      (g) you are an inhabitant of Earth or a natural satellite of Earth.
+
+	You may not distribute this work by any non-electronic media,
+including but not limited to books, newsletters, magazines, manuals,
+catalogs, and speech.  You may not distribute this work in electronic
+magazines or within computer software without prior explicit permission.  
+These rights are temporary and revocable upon written, oral, or other 
+notice by Rylan Hilman. This copyright notice shall be governed by the 
+laws of the state of Oregon.
+	If you would like additional rights beyond those granted above,
+write to the author at "rhilman@oasis.rain.com" on the Internet.
+
++=================+
+|Table of Contents|
++=================+
+
+KEY:
+
+{Ch??} is a section number, usually at the beginning of a section
+{##-##} is a section-minisection number.
+
+
+{Ch1} - Introduction to this FAQ.
+
+ {1-1} - A message from the author
+ {1-2} - How to get the Official RotT FAQ
+
+{Ch2} - New Features of RotT
+
+ {2-1} - Pricing, versions, and stuff
+ {2-2} - Recent advancements
+
+{Ch3} - Conclusion
+ 
+ {3-1} - Author's note
+ {3-2} - Contributions
+   
+  {3-2-1} - Contributors
+
+ {3-3} - Version info
+  
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+--
+
+ - Chapter 1
+
++========================+
+|Introduction to this FAQ|
++========================+
+
+--
+
+    {1-1} - A message from the author
+
+  Okay, so I misjugded the release date. Oh well, happens to us all sooner 
+or later, and this time, it was later.... :) Anyway, there's a WHOLE LOT OF 
+NEW STUFF in this issue. For instance, to legally play it on 11 systems, you
+don't need to buy a separate copy for each computer! Read on below about the
+special SITE LICENSE. :) 
+  BTW, I have finally gotten the RotT FAQ officialized! :)
+
+--
+
+    {1-2} - How to get the Official RotT FAQ
+
+  You can get my FAQ from several sources:
+
+ 1) It is posted monthly(or sooner if a new version comes out) on these news-
+    groups:
+
+a) alt.games.apogee
+b) comp.sys.ibm.pc.games.action
+c) comp.sys.ibm.pc.games.misc
+
+ 2) The latest version(s) are at ftp.uml.edu in /msdos/Games/Apogee/faq
+
+ 3) E-Mail rhilman@oasis.rain.com directly and request with the subject:
+    "REQUEST: RotT FAQ"
+
+ 4) Contribute something to the FAQ. If you want to contribute but don't 
+    want to receive the new faq, just say so.
+
+--
+
+
+
+ - Chapter 2
+
++================+
+|Features of RotT|
++================+
+
+
+    {2-1} - Pricing, versions, and stuff
+
+We just today (Mon the 5th) finalized what all the versions of Rise of the
+Triad will be.  We're still not accepting pre-orders yet, but we will be
+some time before the game is released.
+
+Disk-Based Versions
+===================
+
+VERSION                 PRICE           CONTAINS
+-------                 -----           --------
+Shareware               Free            8 Regular Levels
+					8 Comm-Bat Zones
+
+Regular Registered      $29.95          32 Regular Levels
+					30 Comm-Bat Zones
+
+Power Pack (tm) Add-On  $9.95           10 Extra Comm-Bat Zones (Total of 40)
+					Random Level Generator
+					Some BMP's & WAV's from the game.
+
+Compact Disc Versions                                                                             
+=====================
+   
+Super Triad             $34.95          Compact Disc Only.
+					Includes everything that is in the
+					disk-based regular version plus the
+					power pack.  (40 Comm-Bat Zones)
+					Also has more BMP's and WAV's.
+					Has a bunch of our shareware on it.
+																									   
+Site License            $89.95          Compact Disc Only.
+					10 more Comm-Bat Zones (Total of 50)
+					Signed Site License Agreement
+					Eleven Command Cards
+
+NOTES:
+
+ / The disk based version will only be available in 3.5HD disks.  No other
+   format will be sold.
+
+ / Each Episode of Rise of the Triad has 8 levels in it.  There are seven
+   regular levels, and one "secret" level per episode.
+
+ / The Super Triad version will be playable off of Compact Disc.  However,
+   in order to do that, you'll need tons of memory, or else the game will
+   be going to the disc a lot to cache in information, and if you have a
+   slow drive, it will be real annoying to play that way.  We will give
+   you the choice with the Compact Disc version to either install ROTT
+   to the hard drive, or play it from CD-ROM.
+
+ / The shareware levels will be included with all registered versions as
+   add-on levels to use when playing.  When you get the registered version
+   with the four episodes, you're not getting the same episode again that
+   you already played in shareware.  You're getting four _new_ episodes, and
+   the shareware episode can be considered a "fifth" episode.
+
+ / If playing on a network, all players must either have their own registered
+   copy of Rise of the Triad, or they have to obtain the Site License version.
+   (This doesn't apply if you're only using the shareware version.)
+
+																													      
+
+--
+
+    {2-2} - Recent Advancements
+
+RotT is still in beta, but it's getting really close.  They've made some major 
+strides recently regarding getting it done and out, and we can finally see 
+the light!  :)
+
+This past weekend saw the completion of the modem/serial code part of the game
+The network code has been in and stable for quite some time.  They reguarly 
+play until 3 and 4 (sometimes later) in the morning on network games.  Some 
+of the new Comm-Bat levels in Rise of the Triad are quite insane, especially 
+if you play a level really meant for two people with eleven people.  :)
+
+There is still some work to do, mainly sounds, and some fiddly programming to
+iron out.  They're desperately going to try and keep the revisions to a 
+minimum on this game.  Of course, everyone wants to know the release date.  
+We really cannot set that until the game has been completed. They are really 
+going to try and have it out before Xmas, but the holidays, plus vacations, 
+are going to put a dent in the end of the month, so a January release is 
+probably more likely.  We'll probably have a better idea on this around the 
+15th or so.
+
+Misc ROTT Notes:
+
+ * Current version of the ROTT FAQ is v2.0(but the Update version is the one
+   you're reading.)
+ * We are not accepting pre-orders at this time.  We will be shortly.
+ * v1.0 will be released with modem and network play.
+ * To play this on an IPX network, there will be one computer needed to act
+   as the "ROTT Server".  In other words, you'll need one more computer over
+   the number of players (if 5 are playing, you'll need 6 computers).
+ * We are not accepting any applications to beta test this game.
+ * There are two slide shows available.  #1ROTPIX.ZIP & #1ROTPX2.ZIP.
+
+ Joes had several requests for what kind of computer this will require.  The
+ game will actually run on a 386DX/33 with 4 Megs of Ram.  However, we
+ STRONGLY recommend a 486DX2/66 with 8 Megs of ram AND LOCAL BUS VIDEO.
+
+ Local Bus Video helps out A LOT on these types of games.
+
+
+--
+
+
+ - Chapter 3
+
++==========+
+|Conclusion|
++==========+
+
+--
+
+   {3-1}  - Author's note
+ 
+  Well, I didn't add on to my v2.0 FAQ, I just sent out an update faq. So what
+you should do is to not read this FAQ first(oh, I forgot, you're reading it..)
+but to read version 2.0, and then read this to fill in the blanks. If there
+is a conflict between the data in v2.0 and this Mini-FAQ, trust the Mini-Faq.
+
+--
+
+
+  *{3-2}* - Contributions
+
+  If you have any questions or anything to suggest, here is a small chart on 
+what to send where:
+
+The message content                                 | Address to send to
+----------------------------------------------------+------------------------
+Compliments about the FAQ                           | rhilman@oasis.rain.com 
+Questions about Rise of the Triad not in this FAQ   | joe.siegler@swcbbs.com
+Information you would like in the FAQ               | rhilman@oasis.rain.com
+Questions to Bill Clinton                           | president@whitehouse.gov
+Ordering information                                | joe.siegler@swcbbs.com
+Anything else                                       | rhilman@oasis.rain.com
+
+  If you're contributing, please use the subject: "RotT FAQ Contribution", 
+just so I can keep my mailbox straightened.
+  Any contributor to this FAQ will recieve it, free of charge, in their 
+e-mailboxes, usually before it's release to everybody else. If you don't want
+to receive the new faq, just say so in your contribution.
+
+-
+   {3-2-1} - Contributors
+
+  (BTW, I'm not counting myself and Apogee employees)
+
+  Jason Maxwell Evans(jmevans@valhalla.cs.wright.edu) - My first non-Apogee, 
+non-me contributor. He sent up some general information, which I widely
+scattered(in the appropriate places, at least. :).
+  Hank Leukart(ap641@cleveland.freenet.edu) - An Apogee beta tester, who was
+able to give me some nice info. He is also the author of the "Official" DOOM
+FAQ v5.8.
+  
+
+
+--
+   
+   {3-3} - Version info
+
+1.0 - First version, finished 9 August 1994.
+
+1.5 - Big revision, finished 13 August 1994. Had Joe Siegler revise it, add
+lots more info, I had to go through and work it out.
+
+1.6 - Third(not second) public release, finished 15 August 1994. Got my first
+contributor, additional info from Apogee.
+
+1.65 - Small revision, finished 18 August 1994. Not much to say....
+
+1.7 - First of four series. Will be releasing updates every two weeks.
+Finished 25 August 1994.
+
+1.8 - Second of four series. Released 9 September 1994.
+
+1.9 - Third of four series. Released 23 September 1994.
+
+1.99 - A filler for version 2.0 until the second Triad screen shots are
+finished. Released 11 October 1994.
+
+2.0 - Fourth of four series. Released 12 October 1994. Describes second set
+of Triad screen shots.
+
+Update - This version. Finished 5 December 1994. Just includes latest info
+from Apogee.
