@@ -53,3 +53,7 @@ I couldn't get my hands on.
 7. This is useless.
 
 I know.
+
+P.S. Note that with batch edits being made, there's a chance that some (hopefully few if at all) documents could look off or otherwise 
+have some oddities in them. So far these edits include hard line wraps, removing the @ symbol and redacting a certain real name. I know 
+the @ thing broke some part of the Apogee FAQs, but these are already fixed. If you see something, submit an issue I guess.

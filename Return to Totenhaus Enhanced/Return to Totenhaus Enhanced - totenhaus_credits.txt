@@ -4,8 +4,8 @@ Locked Totenhaus Door: Laz Rojas
 Wooden Doors: Megabyte, FormGen
 Red Brick: MacPlay Entertainment, Laz Rojas
 Wood: BJ Rowan, ArEyeP, Ryan de Haast, Laz Rojas
-Doors: Tristan Van Putten/BJ Rowan
-Steel: Tristan Van Putten
+Doors: Tristan [NAME REDACTED]/BJ Rowan
+Steel: Tristan [NAME REDACTED]
 Elevator: Megabyte
 Brown Marble: Ben Blaufarb
 Tan Plaster: Laz Rojas, with spliced pieces by Lord Raffles/Doom Juan and Megabyte
@@ -18,10 +18,10 @@ Bathroom Tiles: Assembled by Executor with spliced pieces from Id Software and L
 Rojas
 Shelves: ArEyeP
 Crates: WSJ
-Hospital Wall: Tristan van Putten
+Hospital Wall: Tristan [NAME REDACTED]
 Unused Cabinet Wall: Megabyte
 Hedgerow: ArEyeP
-Dungeon Wall: FormGen, with spliced bitmaps by Id Software, Tristan van Putten, and 
+Dungeon Wall: FormGen, with spliced bitmaps by Id Software, Tristan [NAME REDACTED], and 
 AREyeP
 Green Plaster: Megabyte, with spliced bitmaps by B.J. Rowan and Laz Rojas
 Cobble Stone: Id Software, with spliced bitmaps by AREyeP and FormGen

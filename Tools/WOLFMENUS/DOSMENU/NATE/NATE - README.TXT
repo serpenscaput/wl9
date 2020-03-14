@@ -77,4 +77,4 @@ Schabbs' Resurrection        04/08/99
 
 
 Sr's Wolf         	     02/13/00      by Harry Sr.
-The Final Solution (v3.0)    08/19/01      by Tristan van Putten
+The Final Solution (v3.0)    08/19/01      by Tristan [NAME REDACTED]

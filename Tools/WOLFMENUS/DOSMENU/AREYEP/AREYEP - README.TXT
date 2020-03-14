@@ -81,7 +81,7 @@ The Rise of Hitler                 09/13/04             by Kyo Kusanagi
                     Contributions to others' releases
 
 
-The Final Solution (v3.0)          08/19/01             by Tristan van Putten,
+The Final Solution (v3.0)          08/19/01             by Tristan [NAME REDACTED],
                                                         MCS: some code
 Beyond Mutantstein SE              12/25/02             by various, MCS: code;
                                                         AReyeP: graphics and

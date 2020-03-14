@@ -80,15 +80,15 @@ Walls;
 Flags - Lord Raffles
 Wood - BJ Rowan
 Book Case - Areyep
-Lab Textures - Triston Van Putten
-Metal - Triston Van Putten
-Boxes - Triston Van Putten
+Lab Textures - Triston [NAME REDACTED]
+Metal - Triston [NAME REDACTED]
+Boxes - Triston [NAME REDACTED]
 Brown Brick Walls - Areyep
 
 Sprites;
 Tables - Areyep
 Torches - Areyep
-Lab Tables - Triston Van Putten
+Lab Tables - Triston [NAME REDACTED]
 Axe + chaingun thing- Max
 Metal Window bars - WLHack
 Railings - WLHack

@@ -92,13 +92,13 @@ Walls;
 Woods - Max
 Flags - Lord Raffles
 Gray stone, GS-Nazi flag, GS-Hitler, GS-gold eagle - BJ Rowan
-Grey Wall - Triston Van Putten
+Grey Wall - Triston [NAME REDACTED]
 EoD Blue/green/red Wall - Areyep (some edited by me)
 Wood - BJ Rowan
 Wood Boxes - Areyep
 Book Case - Areyep
-Steel - Triston Van Putten
-Red bricks - Triston Van Putten
+Steel - Triston [NAME REDACTED]
+Red bricks - Triston [NAME REDACTED]
 Hellish stuff - ID software (DOOM)
 
 Sprites;

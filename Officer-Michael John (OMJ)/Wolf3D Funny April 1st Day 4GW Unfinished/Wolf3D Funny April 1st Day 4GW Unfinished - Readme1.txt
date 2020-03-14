@@ -61,7 +61,7 @@ Maps:
 
 2:WLF_60:E4 M4 Barry Christian (Modified by Me)
 
-3:The Final Solution 3.0 beta Level 21 Tristan van Putten (Modified by Me)
+3:The Final Solution 3.0 beta Level 21 Tristan [NAME REDACTED] (Modified by Me)
 
 4:Beyond Wolfenstein 2 SE E6 M3 Nate Smith (Modified by Me)
 

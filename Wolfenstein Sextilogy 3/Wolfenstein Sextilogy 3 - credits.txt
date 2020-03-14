@@ -2,17 +2,17 @@ WOLFENSTEIN SEXTILOGY CREDITS LIST
 
 -WALLS-
 
-Gray stone 1: Tristan van Putten
-Gray stone 2: Tristan van Putten
-Gray Stone w/ Flag: Wall by Tristan van Putten, flag by WLHack
-Gray Stone w/ Hitler: Wall by Tristan Van Putten, painting by DHW TC team
+Gray stone 1: Tristan [NAME REDACTED]
+Gray stone 2: Tristan [NAME REDACTED]
+Gray Stone w/ Flag: Wall by Tristan [NAME REDACTED], flag by WLHack
+Gray Stone w/ Hitler: Wall by Tristan [NAME REDACTED], painting by DHW TC team
 Gray Stone 3: BJ Rowan
-Gray Stone w/ Sign: Tristan van Putten
-Blue Stone: MacPlay Entertainment, sign by Tristan van Putten, cells by Id Software
+Gray Stone w/ Sign: Tristan [NAME REDACTED]
+Blue Stone: MacPlay Entertainment, sign by Tristan [NAME REDACTED], cells by Id Software
 
 Wood: BJ Rowan
-Doors: Tristan Van Putten/BJ Rowan
-Steel: Tristan Van Putten
+Doors: Tristan [NAME REDACTED]/BJ Rowan
+Steel: Tristan [NAME REDACTED]
 Red Brick: MacPlay Entertainment, with editing by Executor
 Elevator: Megabyte
 Gray Stone w/ Slime: BJ Rowan
@@ -52,7 +52,7 @@ MP-40: Pickup by Apogee Software (from ROTT original specs). in-hand sprites com
 from graphics by BJ Rowan and WSJ, with additional editing by Executor
 Chaingun: Pickup by Wolf Skevos-Jones, in-hand sprites by ChiefRebelAngel with minor 
 editing by Executor
-Treasure: Tristan van Putten
+Treasure: Tristan [NAME REDACTED]
 Barrel: Megabyte
 Well w/water: Id Software, water recolored by Executor
 Nazi flag: Wolf SKevos-Jones
@@ -79,10 +79,10 @@ Knife: Mr. Wolf
 Pistol: Thejosh, with muzzle flash by Mr. Wolf and editing by Executor
 
 -VGAGRAPH-
-Menu assets by Tristan van Putten, recolored by Executor
-High Score screen by Tristan van Putten, with editing by Executor
+Menu assets by Tristan [NAME REDACTED], recolored by Executor
+High Score screen by Tristan [NAME REDACTED], with editing by Executor
 Intermission letters by Id Software, recolored by Executor
-Status bar by Tristan van Putten and Apogee Software, composited and recolored by 
+Status bar by Tristan [NAME REDACTED] and Apogee Software, composited and recolored by 
 Executor
 Title screen is a stock photo of Castle Neuschwanstein in Germany, with editing by 
 Executor

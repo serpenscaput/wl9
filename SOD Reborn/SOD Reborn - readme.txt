@@ -1,5 +1,5 @@
 sod reborn
-firstly iwould like to thank zach  wolf skevos jones tristram van putten and lastly 
+firstly iwould like to thank zach  wolf skevos jones tristram [NAME REDACTED] and lastly 
 but 
 definetly not least areyep (i think thats how u spell it) for all these cool graphics.
 

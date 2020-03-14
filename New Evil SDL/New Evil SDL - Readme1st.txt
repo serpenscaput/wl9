@@ -35,7 +35,7 @@ AND THE REMAINING 12 ARE NEW, ALONG WITH A NEW ENDING LEVEL.
 THE FOLLOWING PEOPLE HAVE HELPED AND CONTRIBUTED TO THIS SET:
 
 Ian Quinn (Quinnsey).....The cool Chainlink fence
-Tristan Van Putten........The grey uniformed SS
+Tristan [NAME REDACTED]........The grey uniformed SS
 Ken O'Brien..............Some walls and the map for level 11(with my graphics mods)
 
 Paul Gibson..............Level 5 (from the first Evil in Iron)

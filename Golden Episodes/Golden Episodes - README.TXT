@@ -358,7 +358,7 @@ Brian Lowe, for his support.
 
 Guido La Valle, for his songs.
 
-AReyeP, Ben Blaufarb, B.J. Rowan, Nate Smith, Ryan de Haast, Tristan van Putten and 
+AReyeP, Ben Blaufarb, B.J. Rowan, Nate Smith, Ryan de Haast, Tristan [NAME REDACTED] and 
 Zach Higgins, for their artwork. 
 
 Kuki, for his artwork and source code help.

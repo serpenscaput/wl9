@@ -44,7 +44,7 @@ WARZONE.BAT     Warzone series by DTrade
 TOTEN2.BAT      Project Totengraeber by BJ Rowan
 TKOPF.BAT       Castle Totenkopf by Wolf Skevos-Jones
 WOLFCOL.BAT     Wolfenstein Collection by MCS
-FINAL3.BAT      The Final Solution 3.0 by Tristan Van Putten
+FINAL3.BAT      The Final Solution 3.0 by Tristan [NAME REDACTED]
 METEO.BAT       METEO by Wes Desjardins
 DANGERZ.BAT     Danger Zone series by Joe M
 WOV3.BAT        Weapons of Vengeance 3 by Sandy

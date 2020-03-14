@@ -7,3 +7,4 @@
 -Started this tentative update log. Uploaded ROTT FAQ 2.0 and mini-FAQ
 -removed change notes from readme and placed here
 -reuploaded fixed Apogee catalogs
+-censored a name

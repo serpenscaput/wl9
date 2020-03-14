@@ -88,7 +88,7 @@ small chainguns.
 Additional credits to
 
 ID Software (for creating Wolf3d)
-Brian Lowe,Tristan Van Putten,Poet (source code tutorials)
+Brian Lowe,Tristan [NAME REDACTED],Poet (source code tutorials)
 ForGen Corporation (for creating the lost episodes of SOD)
 
 

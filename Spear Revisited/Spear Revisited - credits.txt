@@ -6,15 +6,15 @@ To make corrections to this list, please drop me a line at spaceforce-temp (at) 
 SPEAR REVISITED CREDITS
 
 -TEXTURES-
-Gray stone 1: Tristan van Putten
-Gray stone 2: Tristan van Putten
-Gray Stone w/ Flag: Wall by Tristan van Putten, flag by Lord Raffles
-Gray Stone w/ Hitler: Wall by Tristan Van Putten, painting by DHW TC team
+Gray stone 1: Tristan [NAME REDACTED]
+Gray stone 2: Tristan [NAME REDACTED]
+Gray Stone w/ Flag: Wall by Tristan [NAME REDACTED], flag by Lord Raffles
+Gray Stone w/ Hitler: Wall by Tristan [NAME REDACTED], painting by DHW TC team
 Dark Stone (blue stone): ArEyeP
-Gray Stone w/ Eagle: Tristan van Putten
+Gray Stone w/ Eagle: Tristan [NAME REDACTED]
 Wood: ArEyeP
 Gray stone w/slime: B.J. Rowan, recolored by Executor
-Steel: Tristan van Putten
+Steel: Tristan [NAME REDACTED]
 Day Landscape: Original Wolf 3-D. recolored by Executor
 Night Landscape: ArEyeP
 Red brick: MacPlay Entertainment (Macintosh Wolfenstein), resized and touched up 
@@ -23,20 +23,20 @@ Armor panel: Wolf Skevos-Jones
 Elevator: Megabyte
 Console: Wolf Skevos-Jones
 Gray Stone 3: B.J, Rowan
-Gray Stone 3 w/ sign: Tristan van Putten
+Gray Stone 3 w/ sign: Tristan [NAME REDACTED]
 Black stone: Id Software (Doom II)
 Black stone w/ flag: Id Software (Doom II), flag by WLhack, assembled by Executor
 
 Black stone w/ Hitler: Id Software (Doom II), painting by B.J. Rowan
 Blue Wall: B.J. Rowan
 Blue Wall w/ SS Flag: B.J. Rowan, flag by WLHack
-Gray Brick: Tristan Van Putten, decorations taken from original Wolf3D
+Gray Brick: Tristan [NAME REDACTED], decorations taken from original Wolf3D
 Marble: FormGen Corporation (Spear LE), flag by Lord Raffles 
 Brown rock: Apogee Software (Rise of the Triad), recolored by Executor
 Cyan tile: JackaL
 Hell Wall: FormGen Corporation (Spear LE)
-Gray Stone w/ SS Flag: Tristan van Putten, flag by Lord Raffles
-Concrete: Tristan van Putten, flag by WLHack
+Gray Stone w/ SS Flag: Tristan [NAME REDACTED], flag by Lord Raffles
+Concrete: Tristan [NAME REDACTED], flag by WLHack
 Doors: Megabyte
 
 -SPRITES-
@@ -160,10 +160,10 @@ Blood: FormGen corporation (Spear LE)
 Officer: Wolf Skevos-Jones
 End level: FormGen Corporation (Spear LE)
 Trans Grosse: Laz Rojas
-Ludwig Fotzekopf: Tristan van Putten
+Ludwig Fotzekopf: Tristan [NAME REDACTED]
 Ubermutant death: Id Software (Quake II)
 Sabaoth: Id Software (Quake II)
-Chaingun pickup: Tristan van Putten
+Chaingun pickup: Tristan [NAME REDACTED]
 Death Knight rocket: Id Software (Doom II)
 Rocket explosion: Id Sotware (Quake II)
 Regular rocket: Id Software (Quake II)
@@ -172,6 +172,6 @@ Sabaoth fire: Id Software (Doom II)
 Additional guard sounds (unused): Wolf Skevos-Jones
 
 -GRAPHICS-
-Menu graphics: Tristan van Putten
-Status bar: Tristan van Putten
+Menu graphics: Tristan [NAME REDACTED]
+Status bar: Tristan [NAME REDACTED]
 Difficulty levels: Apogee Software (Rise of the Triad)
