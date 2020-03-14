@@ -1,0 +1,1579 @@
+
+ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
+ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+
+               İÛÛÛÛ   ŞÛÛÛÛÛÜ Ü    Ü ÜÛÛÛÛÜ İ     İ
+              ŞÛÛİİÛİ  ŞÛÛ ŞÛÛ İ  İ   İÛÛ İ  İ İ   İ İ
+              İÛÛ İÛİ  İÛÛ ŞÛÛ İ  İ   İÛÛ    İ     İ          Ş
+             ŞÛÛİ ŞÛÛ  İÛÛ İÛÛ İ  İ   İÛÛŞ Û İ İ   İ İ        İİ
+             İÛÛ  ŞÛÛ  İÛÛÛÛÛß İ  İ   İÛÛ İÛ İ İ   İ İ       ŞİÛ
+            ŞÛÛÛÛÛÛÛÛİŞÛÛÛ     İ  İ   İÛÛÛÛÛ İ     İ        ÜßŞŞÛ
+            İÛÛ   ŞÛÛİŞÛÛİ     ßÛÛÛÛß  ßßß ß ÜÜÜÜÜÜÜÜÜÜÜÜÜÜßßÜÛÜßÛÜÜ
+           ŞÛÛİ    İÛÛŞ  İ    ÜÜÜÜÜÜÜßßßßßßßßßßßßßßßßßßßßßßÜßÛÛÛßÜÜÛßß
+           İÛÛ     ßßßÜÜÜÜßßßßÛÛÛÛÛÛÛÛÛÛÛßßßß              ß ŞßÜÛß
+          ŞÛÛİ  ÜÜÜßßßÛÛÛÛÛÛÛÛÛÛÛÛßßß                       ŞİÛß
+          İßÜÜßßÛÛÛÛÛÛÛÛÛÛÛÛÛÛßß                             Ş
+          ßÜÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛß         Apogee Means Action!
+
+
+ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+
+                             Apogee Software, Ltd.
+                      P.O. Box 496389 - Garland, TX 75049
+        Phone: (214) 278-5655 Ä Technical support and general questions
+          Fax: (214) 278-4670 Ä Use the ORDER.FRM file for fax orders
+
+            Member STAR Ä Shareware Trade Association and Resources
+                  Member SPA Ä Software Publishers Association
+
+            THE APOGEE MODEL Ä HOW THE SHAREWARE GAME INDUSTRY BEGAN
+
+  Apogee is the pioneer in publishing shareware games.  We invented the unique
+   marketing system of releasing a game as shareware (the first episode of a
+  trilogy) and selling the remaining episodes directly to customers.  This now
+  famous marketing technique is known as the "Apogee Model".  It is this often
+  copied model that enabled the shareware game industry grow into a profitable
+   venture for serious developers.  Before Apogee showed the way, no serious
+    game authors or developers had ever considered releasing their games as
+                                   shareware.
+
+    Apogee has always been a leader in shareware marketing, as well as high
+   quality action games.  At Apogee, we are not resting on our laurels.  Our
+  current group of 8 game development teams are working on some of the best PC
+      game graphics technology yet to be seen.  The future looks bright...
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                           PLACING ORDERS WITH APOGEE
+
+         When placing orders by mail, we need the following information
+           1) Disk size? [3«" 1.44M]  or  [5¬" 1.2M]  or  [3«" 720K]
+              2) What type of video capability?  [CGA, EGA or VGA]
+           3) What type of computer?  [286, 386, 486 or 586/Pentium]
+     (You can use the ORDER.FRM file to help you send in your mail order.)
+
+   Phone orders, just call 1-800-APOGEE1.  Visa/MasterCard/Discover accepted.
+
+  All information and prices in this catalog are subject to change over time.
+          (NOTE: Our VGA games are not available on low density disks,
+          and the 5¬" 360k disk format is not supported on any title.)
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                        We thank you for your patronage!
+
+                      Scott Miller ¯ President (Co-owner)
+                  George Broussard ¯ Executive V.P. (Co-Owner)
+                      Steven Blackburn ¯ V.P., Operations
+                          Tom Hall ¯ Creative Director
+                        Greg Malone ¯ Creative Director
+                     Dennis Scarff ¯ V.P., World Operations
+                      Mark Dochtermann ¯ Senior Programmer
+                   Kenneth Silverman ¯ Programming Specialist
+                      Joe Siegler ¯ Online Support Manager
+                   Kevin Green ¯ Customer Support Supervisor
+                Dan Linton ¯ SysOp/Owner, Software Creations BBS
+
+All Apogee employees, technical support staff, game designers and beta testers.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+       Press F7 to get a listing of all games available in this catalog.
+
+                        The Games from Apogee Software
+                        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+"Rise of the Triad is sure to have every DOOM freak in the world lining up just
+to drool over it."  Ä Interactive Entertainment
+
+                  ÚÂÄÄ¿ Ú¿ ÚÂÄÄ¿ ÚÂÄÄ¿     ÚÂÄÄ¿ ÚÂÄÄ¿    ÚÄÂÂÄ¿ Ú¿  ¿ ÚÂÄÄ¿
+        ÛÛ        ÃÅÄÂÙ Ã´ ÀÁÄÂ¿ ÃÅÄ       Ã´  ³ ÃÅÄ        Ã´   ÃÅÄÄ´ ÃÅÄ
+       ÛŞİÛ       ÀÙ À  ÀÙ ÀÄÄÁÙ ÀÁÄÄÙ     ÀÁÄÄÙ ÀÙ         ÀÙ   ÀÙ  Ù ÀÁÄÄÙ
+      ÛÛÛÛÛÛ                        ÜÜÜÜÜÜÜÜÜ ÜÜÜÜÜÜÜÜ ÜÜÜ ÜÜÜÜÜÜÜ ÜÜÜÜÜÜÜ
+     ÛÛÛÛÛÛÛÛ                       ÛÜÜÜÜÜÜÜÛ ÛÜÜÜÜÜÜÛ ÛÛÛ ÛÜÜÜÜÜÛ ÛÜÜÜÜÜÛ
+    ÛÛÛÛŞİÛÛÛÛ                         ÜÜÜ    ÜÜÜÜÜÜÜÜ ÛÛÛ ÜÜÜÜÜÜÜ ÜÜÜ  ÜÜÜ
+   ÛÛÛÛ    ÛÛÛÛ                        ÛÛÛ    ÛÛÜÜÜÛÜÛ ÛÛÛ ÛÛÜÜÜÛÛ ÛÛÛ  ÛÛÛ
+     ÜÜÛÛÛÛÜÜ                          ÛÛÛ    ÛÛÛ ÛÛÛ  ÛÛÛ ÛÛÛ ÛÛÛ ÛÛÛ  ÛÛÛ
+ ÛÜÛÛßß ÛÛ ßßÛÛÜÛ                      ÛÛÛ    ÛÛÛ ÛÛßÛ ÛÛÛ ÛÛÛ ÛÛÛ ÛÛßßßßÛÛ
+ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ                     ßßß    ßßß ßßßß ßßß ßßß ßßß ßßßßßßßß
+
+                       Copyright 1994 Apogee Software, Ltd.
+                  The most violent 3D action game ever created!
+
+    Here's what Chuck Miller, Editor of InterActive Entertainment, wrote:
+      "Like DOOM, Rise of the Triad is a high quality, fast scrolling
+   first-person perspective 3D action game.  Graphics are on par with DOOM.
+      It has destructive enemies and lots of them, an arsenal of weapons
+    from simple pistols to missile launchers, life-preserving armor, traps
+      and ambushes galore, and the ability to play by modem or network.
+     In all, there's a great degree of similarity between the two games.
+    In addition, Rise of the Triad puts most of the other DOOM wannabees
+                          to shameÄit's that good!"
+
+ş Diskette Version:  $29.95 Ä You get the full game (30+ regular game levels),
+  30 Comm-bat levels (for multiplayer games only), and the shareware levels.
+  (Read about the Triad PowerPack below.)  NOTE: This is only available in
+  3.5" HD Diskettes.
+
+ş Triad PowerPack:  $10 Ä The Triad PowerPack is an enhancement disk that adds
+  10 extra Comm-bat levels, the random level generator ("RandROTT"), and some
+  BMP's and WAV files for Windows users from the game. If you buy the Diskette
+  Version, you can also buy the Triad PowerPack and get everything that is
+  available on the CD-ROM Version of Rise of the Triad. (Note: The Triad
+  PowerPack is for those ordering the Diskette Version.  Don't order the
+  PowerPack if you are buying the CD-ROM Version.)
+
+ş CD-ROM Version:  $34.95 Ä (Also called "Super Triad".)  This enhanced version
+  is the same as the Diskette Version combined with the Triad PowerPack.  You
+  get the full game, the 30 extra Comm-bat levels, the eight shareware levels,
+  BMP and WAV files (more than the PowerPack), and the random level generator
+  ("RandROTT"), for unlimited new game levels.
+
+"It's got kick, it's got power...it's sure to hit the target."
+                          Ä Computer Gaming World
+
+Quick Highlights:
+ş  Super huge levels Ä up to one million sq. feet, and up to 16 stories high!
+ş  Ten unique, real digitized enemies.
+ş  Thirteen hardcore weapons, including magical weapons.
+ş  Nearly every object can be destroyed Ä even mark walls with bullet holes!
+ş  Modem and network playable, up to 11 players via an IPX compatible network.
+ş  Adjustable violence/gore levels, from none (for children) to "excessive"!
+
+"Rise of the Triad provides everything an action gamer could want.  Blistering
+action and a sense of humor make ROTT one of the year's favorites."
+                          Ä Computer Game Review
+
+The Story:
+You are part of an elite group of operatives called HUNT (High-risk United
+Nations Taskforce), and you must stop a maniac cult leader from killing
+millions of people.  While scouting a remote island, you are suddenly
+surrounded by enemy troops with guns blaring.  In the distance you see your
+boat--your only chance to escape--explode into matchsticks.  In front of you
+is a huge fortress monastery, and your only chance to stop the madness.
+
+You are equipped with awesome, high-tech weaponry like heat-seeking missiles,
+split missiles, and the FlameWall cannon, which leaves a trail of charred
+skeletons in its wake.  You'll also find magical instruments and weapons so
+incredible they defy description.
+
+"Cool features is what this game is about."  Ä Computer Gaming World
+
+Features:
+ş 20 Megabytes of explosive graphics, animations, music and digitized sounds!
+ş Play one of five players, each with unique attributes and abilities.  (This
+  makes the game highly replayable, since it's a different experience with
+  each of the five players, including two female players.  (In modem or
+  network play, each player can can select what they want to look like.)
+ş Look both up and down, up to 45 degrees, to see what is above and below.
+ş Ten unique, digitized enemies in the game, plus four multi-stage bosses!
+ş 15 incredible game hazards, like SpinBlades, gun bunkers, huge boulders,
+  FireJets, pits, FireChutes, LavaWalls, gas grates, and more.
+ş Special effects galore:  Fog, lightning with properly delayed thunder,
+  parallaxing skies, real lights that illuminate walls (you can shoot the
+  lights and the room gets darker), ricocheting bullets, wind sounds, and more.
+ş Jump pads will spring you up into the air to jump over obstacles, walls,
+  other players, (great in multiplayer games) and even to reach new weapons.
+ş Many useful objects and power-ups, like a fireproof vest, gas mask,
+  Mercury mode (enables the player to fly!), and even a special "god" and
+  "dog" modes, both making the player invincible for a short time (with
+  hilarious side effects).
+ş 32 page full color game manual.
+
+"This is the most multiplayer-friendly game we've seen, supporting both two
+player modem matches and 11-player network-fests.  In addition, there are
+nine types of multiplayer games available with many customizable options."
+                         Ä Computer Gaming World
+
+Multiplayer Features:
+ş Supports modem, serial cable, and network multiplayer games with more
+  specialized options than any game previously released.
+ş Network games up to 11 players!
+ş Each player can select one of the five unique characters, plus each player
+  can choose from one of 11 uniform colors.  (In team games, each team has
+  the same uniform color.)
+ş Nine unique Comm-bat games, such as Eluder, Capture the Triad, and Hunter.
+ş RemoteRidicule allows players to send digitized voice messages to other
+  players.  With a microphone, a player can even speak directly to the other
+  players in network games!  Great for team play or taunting others.
+ş Play Comm-bat games in the normal game levels, OR use the special Comm-bat
+  levels, which are specifically designed for fun multiplayer games.
+
+"I've played ROTT and it's good.  REEEEEEEEEEEEALLY good!  Honestly, I can't
+think of any reason why every DOOM nut in the country won't flock to this
+game when it's released.  It's beautiful, fast and challenging.  Rise of the
+Triad is truly an awesome game."  Ä Interactive Entertainment
+
+Minimum Requirements:     Strongly Recommended:                     ÛÛ
+* 386DX/40                * 486DX2/66                              ÛŞİÛ
+* 4 megs of memory        * 8 megs of memory                      ÛÛÛÛÛÛ
+* VGA card                * VGA card with local bus video        ÛÛÛÛÛÛÛÛ
+                                                                ÛÛÛÛŞİÛÛÛÛ
+Supported Game Input Devices:                                  ÛÛÛÛ    ÛÛÛÛ
+Keyboard, Mouse, Cyberman, Space Player, and Gravis GamePad.     ÜÜÛÛÛÛÜÜ
+                                                             ÛÜÛÛßß ÛÛ ßßÛÛÜÛ
+Supported Sound Cards:                                      ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+Sound Blaster, Sound Blaster Pro, Sound Blaster 16,
+Sound Blaster AWE32, WaveBlaster, Adlib, Roland Sound Canvas, Gravis UltraSound,
+Ensoniq SoundScape, Pro Audio Spectrum 16, Logitech SoundMan 16, Disney
+Sound Source, Tandy Sound Source, and any General MIDI device.
+
+To order Rise of the Triad, call 1-800-APOGEE1.  Or, use the order
+form file (ORDER.FRM).
+
+
+                                                              ÛÛÛÛÛÛÛÛÛÛ
+ ßÛÛÛßßÛÜ    ÜÛÛßÛÛÜ  ßÛÛÛßßÛÜ ßÛÛÛßßÛÜ ßÛÛÛß ßÛÛÛ   Ûß        ÛÛşÛÛşÛÛ
+  ÛÛÛÜÜÛß   ŞÛÛİ ŞÛÛİ  ÛÛÛÜÜÛß  ÛÛÛÜÜÛß  ÛÛÛ   ÛÛÛÛ  Û      ï   ÛÛÛÛÛÛ
+  ÛÛÛ ßÛÛÜ  ÛÛÛ   ÛÛÛ  ÛÛÛ      ÛÛÛ      ÛÛÛ   Û ÛÛÛ Û       \   ÛÛÛÛ     ï
+  ÛÛÛ  ßÛÛİ ÛÛÛ   ÛÛÛ  ÛÛÛ      ÛÛÛ      ÛÛÛ   Û  ÛÛÛÛ        \ÍÍÍÛÛ\    /
+  ÛÛÛ   ÛÛİ ÛÛÛ   ÛÛÛ  ÛÛÛ      ÛÛÛ      ÛÛÛ   Û   ÛÛÛ            ÛÛ \  /
+  ÛÛÛ   ÛÛİ ŞÛÛİ ŞÛÛİ  ÛÛÛ      ÛÛÛ      ÛÛÛ   Û    ÛÛ           Û Û  \/
+ ÜÛÛÛÜÜÛÛß   ßÛÛÜÛÛß  ÜÛÛÛ     ÜÛÛÛ     ÜÛÛÛÜ ÜÛ     Û (tm)     Û  Û
+                                                               Û   Û
+           $19.95 for the 80 level edition OR                 Û    Û
+         $29.95 for the full, 160 level edition.             Û     Û
+(Only the full version, for $29.95, has the level editor.)
+
+Boppin' is a fun, addictive puzzle game disguised as an arcade game.  Each
+screen in Boppin' (160 in the full version) is a unique puzzle with varied
+graphics.  The game is easy to learn, and the built-in instructions are easy
+to understand.
+
+The object of the game is to solve all 40 levels of each of the four episodes,
+and then defeat the end-of-level boss.  Each episode has a lead-in story and
+different endings depending on how well you did.  After episode four there is
+a special ending that wraps up the entire story.  Defeating the ending boss for
+each episode is made easier by doing well (by accumulating points) on the 40
+levels for that episode.
+
+The idea on each level is to grab "bopping blocks" and use them to complete
+patterns on the level.  Certain patterns will free a video game character
+that you might recognize from dozens of other arcade/action games (i.e.
+Space Invaders and Pac Man).
+
+There are several strategies and skills to learn, and one or two players
+can play at the same time at the same computer.  Every level also has a
+"mystery spot" (awards 10x extra points for a limited time) and a way to
+get a "perfect bonus" (if you solve all puzzles on a level).
+
+A great feature of Boppin' is its built-in level editor ($29.95 version only).
+With this editor you can devise any number of new levels, or play levels
+designed by other players.  (New Boppin' levels will likely be available on
+our home BBS and other online services, such as CompuServe and America Online.)
+Only the full version of Boppin' can play levels that have been created by
+other players.
+
+Cool Boppin' Features:
+* 256 color VGA graphics and animations.
+* Full version has 160 amazingly varied levels/puzzles to solve.
+* Full version also has a built-in level editor for designing your own levels.
+* One OR two player modes, allowing two players to cooperate at the same time.
+* Four episodes, each with a great lead in story with a graphics story.
+* Each of the four episodes has a unique ending boss to beat.
+* General Midi music system supporting most major cards, plus digital sounds.
+* Levels are filled with devious puzzles, mysteries, secrets and bonuses.
+* Play with joystick or keyboard.
+* Save/restore games.
+
+System requirements:
+* VGA with color monitor
+* 386-16MHZ or better.
+* 2 megs of ram.
+* Hard drive with approximately 2 megabytes of space.
+* Joystick strongly recommended (required for two player mode).
+* Mouse recommended for editor (joystick can be used).
+
+
+                            Ü               Ü           Ü
+                İİŞ ßßÛ ÜÜÜ Û Ü Û Û     İİŞ Û   Ûßß Ûßß Û   Ûßß
+                İİŞ ÛßÛ Û   ÛÜß ßßÛ     İİŞ ÛßÛ Ûß  Ûß  Û   ßßÛ
+                ÛÛß ÛÛÛ ÛÛÛ ÛßÛ ÛÛÛ     ÛÛß Û Û ÛÛÛ ÛÛÛ ÛÛÛ ÛÛÛ(tm)
+
+                         Copyright 1994 Beavis-Soft
+
+       $24.95 for the normal edition, or $34.95 for the "Upgrade Edition"
+
+TWO VERSIONS:
+1) Full version with 21 tracks -- $24.95
+2) "Upgrade Edition":  Full version PLUS 21 ADDITIONAL tracks -- $34.95
+
+            "Wacky Wheels:  A fun, action-packed 3D racing game
+                  you can play alone or against friends!"
+
+Nothing beats the excitement of playing against other human racers, and in
+Wacky Wheels, you can do just that.  You and a friend can play at the same
+computer (split-screen mode), or play head-to-head using a modem connection,
+or via serial (null-modem) cable.
+
+Or, you can race against challenging computer opponents who have adjustable
+degrees of difficulty.  Either way, Wacky Wheels is packed with the features
+you want: non-stop action and variety, heart-racing music and furious 3D
+point-of-view vivid VGA graphics and animations.  It's so fun, you'll hate to
+finish.
+
+                          The wild kingdom of racing!
+You can play any of eight wacky animals in Wacky Wheels.  Each animal has its
+own colorful antics and animations, including a tiger, elephant, raccoon, panda,
+shark, and more.
+
+Here's the good part:  These animals are not wimpy racers, they are very
+competitive.  They hate to lose!  We've programmed each racer with a artificial
+intelligence and they take great joy in bumping you and zooming past you when
+you spin off the track.  (As each racer passes you they turn their head toward
+and honk their horn.)
+
+                     You get several games in one package!
+In Wacky Wheels, you get six unique racing game modes.  Including time trials,
+normal racing (with many variations), battle zones, and the just-for-fun duck
+shoot-outs.  With so many ways to play, you can count on this staying fun for a
+long time--we've built in a lot of play value.
+
+Take for example, the duck shoot-outs.  The shoot-outs take place on special
+battle zones, which are not designed for racing.  The object is to race around
+a huge, wide open area, full of obstacles, and maze-like walls, all the while
+collecting ammo and shooting at the ducks-on-wheels.  If you think it sounds
+funny, wait until you play it.  It's funnier than you think!
+
+Some ducks only take one shot to pluck, others (with helmets) require two
+shots.  You get a limited time to shoot as many as you can and earn a spot on
+the high score chart, bumping off you family and friends.
+
+Nothing beats the competitive feel of racing.  Feel the thrill as you race past
+your opponent, slam their car into a water trap, and beat them by a bumper to
+the finish line.
+
+You won't want to finish because Wacky Wheels is too exciting:  Avoiding the
+obstacles, knocking against opponents, launching your weapons against them,
+beating them to the short cuts, engaging turbo mode on the straightaway, using
+your hand brake to skillfully hug tight corners without spinning out, and
+hitting jumps with perfect timing so that you sail above and past your
+opponents while executing a perfect 360 rotation in midair!
+
+                       You get 15 original race tracks
+After you select your wacky race character, you get to select any of 21 unique
+race tracks (42 in the "Upgrade Edition").  Each track has a distinctive
+winning strategy.  It's up to you to figure out the best way race each one.
+
+There are three classes of tracks, from novice to expert, which present a wide
+range of wacky racing conditions.  There's also two racing speeds, normal and
+radical.  Beginning players should not attempt to play at the higher speed!
+
+All tracks have special obstacles and dangers:  Water traps, cacti, oil
+slicks, posts, stacks of tires, and more.  Some tracks are surrounded by water
+(you can race underwater!) and even lava.
+
+                         Wacky weapons help you win!
+But what you're not expecting is the hedgehogs!  Grab all the track-populated
+hedgehogs you can and hurl them like baseballs at the other racers to send them
+spinning out of control Ä giving you time to pass 'em by.  Other weapons to
+collect include bombs, oil slicks, ice blocks, and flame balls.
+                          High-speed racing action
+Apogee games are action-packed, and Wacky Wheels is a perfect example.  From
+start to finish you get edge-of-your-seat excitement and action.  When playing,
+you'll grit your teeth, lean your body into the corners and scream "EAT MAGMA!"
+as you launch a hedgehog that sends the racer in front of you spinning into the
+lava!
+
+And nothing beats the excitement of racing head-to-head against your friends.
+Two players can compete on the same computer (split-screen mode) or using
+modems.  Two players can race each other, or battle in one of the six Comm-bat
+zones that are included.
+
+Winning features:
+* High-speed 3D point-of-view racing!
+* Large variety of race tracks.  (42 total in the "Upgrade Edition".)
+* 16 heart-racing songs, with superb digital sound effects, with native
+  support for the GUS, PAS-16, Sound Canvas, SB 16/Pro, WaveBlaster and all
+  General MIDI cards.
+* Two-player, head-to-head modes via modem connection, serial link or at the
+  same computer.
+* Time trials mode, allows you to go for a record time on each track.
+* RemoteRidicule(tm) feature, allows you to send a funny, distracting, or
+  informational message to your opponent during modem matches.
+* Opponents are programmed to be very competitive.
+* 60 high score charts--one for each of the unique racing options.
+* Giggle keys, which allow you to send funny messages to your opponents.
+* Many cheat passwords, and a secret ammo power-up key.
+
+Requires 386 or better with 4 meg of memory & VGA graphics.
+
+Wacky Wheels is competitive racing like you've never seen it.  To order, call
+1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+  ÚËÍËÍË¿Ú»   É¿ÚËÍÍÍË¿ÚÍÑËÑÍ¿ÚÍÑËÑÍ¿ÚËÍÍÍË¿
+  ³º Ê º³ÀÊÑËÑ¼ÙÀÊÍÍÍË¿  ³º³    ³º³  ³º
+  ÀÊ   ÊÙ  ÀÊÙ  ÀÊÍÍÍÊÙ  ÏÊÏ  ÀÍÏÊÏÍÙÀÊÍÍÍÊÙ
+                               ÚÍÑËÑÍ¿ÚËÍÍÍË¿ÚË   Ë¿ÚÉÍÍÍË¿ÚËÍÍÍË¿ÚËÍÍÍË¿
+                                 ³º³  ³º   º³³º Ë º³³ÎÍÍ   ³ÌÍÍËÊÙÀÊÍÍÍË¿
+                                 ÏÊÏ  ÀÊÍÍÍÊÙÀÊÍÊÍÊÙÀÊÍÍÍÊÙÀÊ  ÈÍÙÀÊÍÍÍÊÙ (tm)
+
+                         Copyright 1994 Animation FX
+
+        $24.95 for ALL SIX enchanting episodes, including cheat codes!
+
+As Baron Baldric, you are charged with keeping peace for all the common folk of
+the land.  But when the grand Lazarine Towers are overcome with dark forces and
+creatures, casting an evil shadow over the land, you must wield your somewhat
+magical staff and set out to set things right.  (Frankly, you don't want the job,
+but there's currently a shortage of young warrior types around.)
+
+The Baron is a lovable character who will win your heart with his many
+animations and mannerisms.  But beware, this not-so-young hero guy can still
+kick a little bootie if he has to!  He wields a magic staff like nobody's
+business.
+
+* 540 rooms packed with monsters and puzzles.
+* Digital soundtrack with simultaneous sound effects.
+* Atmospheric music and sound effects.
+* Save your game ANYWHERE within the game at ANYTIME.
+* Use spells like: Healing, Reveal (finds secret areas), Levitate, and
+  Teleport.
+* Environment Interaction:
+    - Drink water from fountains to maintain your health
+    - Eat green slime off the walls
+    - Push and Pull almost any item
+    - Look under other objects
+    - Push buttons, flip switches
+    - Climb ladders to new levels
+    - Teleport to other locations
+    - Destroy the monster generators to stop the endless flow of monsters
+    - Beware of poison traps and booby traps in the towers
+    - Navigate invisible bridges and platforms
+    - Much more to discover on your own
+* 30 different monsters!  They crawl, slither, fly, roll, hop and anything
+  else you can imagine.
+* New scenery graphics and monsters in each of the six castles/episodes.
+* Play with mouse, keyboard or joystick.
+* Supports higher resolution of 320 x 240 VGA.
+* Ability to "practice" any level for a good preview.
+* Complex character.  Baron Baldric can jump, push, pull, flip switches, open
+  doors, become poisoned and climb.
+* Game map to see where you are at all times.
+* Many different weapon spells including fireballs and venom spells.
+* Find coins to buy more spells.
+
+Requires 286 or better, VGA graphics, Sound Blaster compatible sound card.
+
+Mystic Towers is an action-oriented and puzzle filled game of exploration
+and magic.  Most likely, you've never seen another game like it.
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+
+ ÜßÛÛ  ÛÛß                                ÜßÛÛßßÛÛÜ
+Û  ÛÛ  ÛÛ                                Û  ÛÛ   ÛÛ
+Û  ÛÛ ÜÛÛß  ÜÜÜÜ   ÜÜÜ  ÜÜÜ ÜÜÜ   ÜÜÜ    Û  ÛÛ   ÛÛ  ÜÜÜÜ   ÜÜÜ  ÜÜÜ ÜÜÜ   ÜÜÜ
+ ß ÛÛß ÛÛ  ÛÛ ÛÛÛ ÛÛßßÛ  ÛÛ  ÛÛ  ÛÛ ßß    ß ÛÛÜÜÛß  ÛÛ ÛÛÛ ÛÛßßÛ  ÛÛ  ÛÛ  ÛÛ ßß
+   ÛÛ  ÛÛ  ÛÛÜ ÛÛ ÛÛ     ÛÛ  ÛÛ   ßßÛÜ      ÛÛ      ÛÛÜ ÛÛ ÛÛ     ÛÛ  ÛÛ   ßßÛÜ
+  ÜÛÛ  ÛÛÜ ßÛÛÜÛß ßÛÛÛß  ßÛÛßÛÛß ßÛÜÛß     ÜÛÛÜ     ßÛÛÜÛß ßÛÛÛß  ßÛÛßÛÛß ßÛÜÛß
+                                         Üß    ß                          (tm)
+
+      Parallaxing levels!!                           Awesome VGA graphics!
+       Over 30 creatures!                               36 HUGE levels!
+        12 theme songes!                               Digitized Sounds!
+
+                      Copyright (c) 1994 Michael Voss
+
+      $24.95 for ALL FOUR spellbinding episodes, including cheat codes!
+
+Terexin, leader of the Council of Wizards, is sending the young sorcerer,
+Hocus, on a special mission to prove his worthiness.  This mission will take
+Hocus to 16 unique realms, each filled with unique dangers and enemies.
+Few have survived Terexin's final test--for many it's a one-way trip.
+
+Along the way Hocus will encounter dragons, imps, ghosts and 30 more unique
+creatures, demons and enemies.  Survive, and Hocus becomes a full-fledged,
+card carrying Wizard.  The other option is not so favorable.
+Awesome and beautiful 256-color VGA graphics.  After every two levels of play
+the level graphics, background and enemies completely change, giving this
+game unparalleled variety.  Hocus Pocus is a action platform game, with
+exciting puzzles built into each level's structure.
+
+Hocus is armed with a standard magic spell (he's not yet a full Wizard,
+after all), but he can find several potions that give him a temporary boost
+of magical energy.  There are potions that give Hocus the ability to shoot
+rapidly, jump higher, teleport and fire a devastating energy blast, among
+others.
+
+* Smooth 360 degree scrolling, with a parallax background.
+* Over SIX MEGS of 256-color VGA animated graphics.
+* Four episodes with 36 huge levels!
+* Over 30 different monsters, plus four huge bosses!
+* Incredible new Apogee sound engine, with a dozen theme songs during play.
+   - multi-channel sound effects, with up to 8 effects playing at once!
+   - supports all major sound cards, including GUS, SB Pro & 16, PAS, Ad Lib,
+     Sound Man 16, Sound Source, Roland Sound Canvas, and General Midi.
+   - individual control of music volume and sound effects volume.
+* Save/restore options, selectable skill levels, four cheat passwords!
+* Supports keyboard play, joysticks and gamepads.
+* Requirements:  386SX or better, plus 567K (580,000 bytes) free RAM.
+
+Hocus Pocus is an addictive, action-packed, entertaining game that's
+comparable, or better than, anything found on the home cartridge systems.
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+        ÛÛÛÛÛ            Û            ÛÛÛÛÛÛÛÛÛÛÛÛÛÛ         ÛÛÛÛÛ
+       ±±±±±±±±±        ±±±            ±±±±±±±±±±±±±±±     ±±±±±±±±±±
+       °°     °°°      °°° °      °°°°°     °°°           °°°°     °°°
+       °°      °°°    °°°  °°    °°°  °°°   °°°   °°°°°°   °°°       °°
+       ±±       ±±    ±±±  ±±±   ±±±   ±±±  ±±°  ±±    ±±  ±±±      ±±±
+       ±±     ±±±    ±±±    ±±   ±±±   ±±±  ±±±  ±±     ±± ±±±    ±±±±
+       ±±±±±±±±     ±±±   ±±±±   ±±±  ±±±   ±±±  ±±     ±± ±±±±±±±±±
+       ±±  ±±±    ±±±±±±±±  ±±±  ±±±±±±±    ±±±   ±±±   ±± ±±±  ±±±
+      ²²²   ²²²    ²²²      ²²²  ²²²        ²²±       ²²²  ²²²   ²²²
+      ²²²    ²²   ²²²        ²²  ²²²        ²²²            ²²     ²²²
+      ²²²    ²²²  ²²         ²²² ²²²        ²²²            ²²     ²²²
+      °°°     °°°              ² °°°          ²            °°      °°°
+     °°°      °°°                °°                        °°°      °°°
+               °°°   C A L L   O F   T H E   S H A D O W S           °°TM
+                °°                °
+
+                     Copyright (c) 1994 Cygnus Studios, Inc.
+
+             $34.95 for all THREE missions, including cheat codes!
+
+"Raptor is the best shareware title since DOOM!"  -- Computer Gaming World
+
+It's the BEST IBM shooter, yet!  A fast paced slugfest, with a pulse-pounding
+sound track, and jaw-dropping VGA animation & cinematics.  In the future as a
+mercenary flying the super-tech Raptor, you'll be sent on interplanetary
+missions to knock off top competitors of MegaCorp.  Battle against hordes of
+relentless enemies.  Spend the bounty you receive from their demise to expand
+your devastating arsenal, which can be upgraded with 14 hard core weapons!
+
+"Raptor has some of the hottest graphics ever seen in a shareware game, and
+blows away most commercial games, too!  The graphics will amaze you and the
+sound will astound you.  It's a super star!"  -- Interactive Entertainment
+* Ultra-detailed, smooth scrolling VGA graphics.
+* Up to 16 ship upgrades can be bought from Harold's Emporium between waves.
+* Explosive cinematics.
+* 27 killer levels, each with at least one unique boss ship to destroy.
+* Four insane skill levels--higher skill levels introduce new opponents!
+* Incredible soundtrack, supports all major sound cards, 8 channel digital FX!
+* Huge variety of graphics, locations, enemy ships, sound effects, etc.
+* Built-in context sensitive help, plus a self-running demo.
+* Killing for cash was never so much fun!
+
+"You're bound to lose your cookies over Raptor!" -- Interactive Entertainment
+
+Raptor sets the new standard for PC shooters.  This game will do for shooters
+what Wolfenstein did for 3D games.  Incredibly smooth VGA graphics and
+animation  are only half the story.  The heart-pounding music in Raptor will
+leave you breathless, especially if you have a high-end sound card like the
+Roland or Wave Blaster.  (Raptor supports the Midi music format, which
+provides very high quality music for PC games.)  All other major sound cards
+are also supported!
+
+"Raptor's voracious gameplay eats other shooters for lunch." -- CGW magazine
+
+The addictive quality and replay value of this game is unreal.  Discover
+secrets, find the bonuses, and battle the boss ships that appear at the end of
+EVERY WAVE!  With each ship and ground target you destroy, you'll earn more
+cash to increase your ship's technology for the next wave.  You'll be driven
+to kill and destroy--but then, it's in your blood.
+
+Raptor.  This ain't no dinosaur game!
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+
+  ßÛÛßÜ  ßÛÛ         ßÛÛ                   ÜÛß      Ü
+   ÛÛÜß   ÛÛ   ÜÜÜ    ÛÛ  ÜÛ    ÜÜÜ        ßßÛÛÜ   ÛÛ    ÜÜÜ  Ü ÜÜÜ     ÜÜÜ
+   ÛÛ ÛÜ  ÛÛ  ßßÜÛÛ   ÛÛÜÛß   ÜÛÛ ÛÛ          ßÛÛ ßÛÛß  ÛÛ ÛÛ  ÛÛ ÛÛ  ÜÛÛ ÛÛ
+   ÛÛ ÛÛ  ÛÛ  ÜÛ ÛÛ   ÛÛÛÛÜ   ÛÛßßßß           ÛÛ  ÛÛ   ÛÛ ÛÛ  ÛÛ ÛÛ  ÛÛßßßß
+  ÜÛÛÜÛß ÜÛÛÜ ßÛÜßßÜ ÜÛÛ ßÛÛÜ  ßÛÜÜß       ßÜÜÛß   ßÛÜß ßÛÜÛß ÜÛÛ ÛÛÜ  ßÛÜÜß
+
+              ·Ä· Ö .                 ÖÄ· Ö·     ·Ä·     Ö   Ò
+              ºÄº º Ò ÖÄ· ·Ä· ÖÄÄ     º º ×      º · ÖÄ· º ÖÄ¶
+              ½ Ó ½ ½ ÓÄÄ ½ ½ ÄÄ½     ÓÄ½ Ğ      ½Ä½ ÓÄ½ ½ ÓÄĞ (tm)
+
+         *** Apogee's hottest VGA 3-D action game since Wolfenstein! ***
+                         ALL SIX EPISODES FOR $29.95
+
+     Game designed by JAM Productions ş Core game engine by Id Software
+
+"Blake Stone tops the original Wolfenstein in technical implementation and
+playability, and comes close to DOOM."  -- PC Review
+
+Many players have wondered how Apogee would follow the success of Wolfenstein.
+The answer is "Blake Stone: Aliens of Gold"!  Wolf3D took you into the past;
+thrust into a world at war.  Blake rockets you into the future where a sinister
+madman, using genetics to create an army of bizarre creatures, is waging war on
+Earth.  Blake has more of everything!  More action, more enemies, more levels,
+more firepower, more graphics, more animation, more pitfalls and many more
+features.  Like built-in auto-mapping, so you never have to worry about getting
+lost in the game.
+
+"Blake Stone...isn't simply Son of Wolfenstein...it's a wish list fulfilled,
+enhancing the Wolfenstein canon with many sensible tweaks and some new tricks
+that'll make your jaw drop." -- Electronic Entertainment
+
+You're pitted against Dr. Pyrus Goldfire.  He's found a way to replicate pure
+gold, which he's using to fund his maniacal plan.  Goldfire has built six
+highly secure, futuristic locations where his creations are being hatched. It's
+up to you to penetrate his security and stop him at all costs.
+
+Upon ordering you'll receive the Blake Stone manual, which includes a comic
+style illustrated story that leads you into the game.  You'll also get the
+secret cheat code which gives full health, all the weapons, full ammo, and all
+the key cards (giving you access to every area in the game).
+
+"The first-person viewpoint and smooth movement will have you peering sideways
+into the monitor to see if there's another monster around the corner."
+-- PC Magazine
+
+Some of the really cool features:
+* Ending cinematics in each episode.
+* Diminishing lighting effects.
+* Built-in automapping feature (two modes available).
+* Unique boss enemy in each episode.
+* Crates can be blown apart to reveal weapons and other goodies!
+* One-way doors (once you go in, you must find another way out!)
+* Direct Level Transport (DLT) warps you to secret levels!
+* Electrically-linked doors (multiple doors open at once!)
+* Roving mines that explode when shot (chain reaction explosions!)
+* Lots of goodies (gold, money bags, food, ammo, etc.)
+* Over 20 unique actors (guards, aliens, mutants, pods, etc!)
+* Interactive informants within the game, giving you clues and items.
+* Smart actors, who'll grab your ammo before you do, or retreat.
+* Internal scenarios (hi-tech buildings, space station, moonbase).
+* Five futuristic weapons (from a silent-shot gun to a grenade launcher!)
+* AdLib & Sound Blaster support (FM and digitized sound effects, IN STEREO!)
+* Over 15 action-oriented musical scores.
+* 66 total levels (two secret levels per episode).
+* Over 3.5 MB of high-speed 256-color animated VGA graphics!
+* ...and much, MUCH MORE!
+
+3D graphics, brilliant music and digitized sound effects, intense action--it's
+all waiting for you in Blake Stone!  Call Software Creations BBS (Apogee's
+home BBS) to download the shareware episode and see for yourself.  (Software
+Creations BBS phone lines listed at bottom of this file.)
+
+"Did you like Wolfenstein 3-D?  If you did, you'll love Blake Stone." -- PCM
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+  ±±±±±±±±±Ü
+   ±±Ûßßß±±Û                                               This game also
+   ±±Û   ±±Û ±±Ü     ±±±±±±Ü ±±±±±Ü±±Ü ±±±±±±Ü ±±±±±±±±Ü   available at
+   ±±±±±±±±Û ±±Û     ±±Ûß±±Û ±±Û±±Û±±Û ±±Ûßßßß  ßß±±Ûßßß   retail stores,
+   ±±Ûßßßßßß ±±Û     ±±±±±±Û ±±Û±±Û±±Û ±±±±Ü      ±±Û      while supplies
+   ±±Û       ±±Û     ±±Ûß±±Û ±±Û±±Û±±Û ±±Ûßß      ±±Û      last.
+  ±±±±Û      ±±±±±±Ü ±±Û ±±Û ±±Û±±±±±Û ±±±±±±Ü    ±±Û
+   ßßßß       ßßßßßß  ßß  ßß  ßß ßßßßß  ßßßßßß     ßß (tm)
+                       ±±±±±±±±Ü
+The amazing sequel     ±±Ûßßß±±Û
+with dozens of         ±±Û    ßß ±±±±±±±±Ü ±±±±±±Ü ±±±±Ü ±±Ü  ±±Ü ±±±±±±Ü
+improved and           ±±±±±±±±Ü  ßß±±Ûßßß ±±Ûß±±Û  ±±Ûß ±±Û ±±Ûß ±±Ûßßßß
+updated features.        ßßßß±±Û    ±±Û    ±±±±±±Û  ±±Û  ±±±±±Ûß  ±±±±Ü
+No shareware version   ±±Ü   ±±Û    ±±Û    ±±Û±±Ûß  ±±Û  ±±Ûß±±Û  ±±Ûßß
+available.             ±±±±±±±±Û    ±±Û    ±±Û ±±Û ±±±±Û ±±Û  ±±Û ±±±±±±Ü
+                        ßßßßßßßß     ßß     ßß  ßß  ßßßß  ßß   ßß  ßßßßßß
+
+                        ENTIRE GAME FOR ONLY $24.95
+
+               *** The final chapter in the Blake Stone saga! ***
+       Game designed by JAM Productions ş Core game engine by Id Software
+
+It's the 22nd century, galactic travel is commonplace, peace is at hand, and
+the future looks bright.  Until Goldfire's plan to unleash an army of military
+mutants shocks the galaxy. Dr. Goldfire, a brilliant bio-scientist whose morbid
+research led to incredible genetic improvements in humanoids and aliens, has
+gone power crazy.
+
+Only the galaxy's best agent, Blake Stone, has a chance to infiltrate
+Goldfire's secret fortress on a remote planet, and end the evil before it's too
+late.  Up against absurd odds, and the most hideous genetic creatures and armed
+personnel ever amassed, it's up to you to help Blake in his most dangerous
+mission ever, classified: Planet Strike!
+
+UPDATED FEATURES:
+(These features are all changes, improvements or additions to the
+ features of the original Blake Stone: Aliens of Gold.)
+
+* 20 all-new levels with wildly new designs.
+* New wall/environment graphics throughout.
+* Cloaked actors that appear out of nowhere.
+* All-new alien-like guards (not the same three original guards).
+* Real-time automapper (multi-zoom: 2x MAG shows actors)
+* Four new bosses.
+* A new blaster weapon (anti-plasma cannon, can blast through doors).
+* Fission detonator blows security cube to unlock teleport.
+* 3 morphing actors (first appear as statues, or other objects).
+* New hazards, like barriers and spikes.
+* Improved actor intelligence.
+* Blastable ammo (you can accidentally destroy ammo packs).
+* All new music.
+* Bobbing gun effect for realism.
+* Darker, more realistic levels (changing light conditions).
+* New, more realistic weapon graphics.
+
+Planet Strike requires 560k of free conventional memory to run.  To order,
+call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+NOTE:  There is no shareware version of this game available.
+
+
+                            ±±±±Ü ±±±±Ü
+   ßÛßßÛ Û  Û Û Ûß Ûßßß      ±±Ûß  ±±Ûß         Copyright (c) 1993
+    Û  Û Û  Û ÛßßÛ Ûß        ±±Û   ±±Û     Apogee Software, Todd Replogle
+   ßßßßß ßßßß ß  ß ßßßß      ±±Û   ±±Û
+ÛßÛ Û Û  Û Û Ûß Ûßßß ÛßÛßÛ   ±±Û   ±±Û      $34.95 for all FOUR missions,
+Û Û Û Û  Û ÛßßÛ Ûß   Û Û Û   ±±Û   ±±Û   including hint file and cheat code!
+ß ßßß ßßßß ß  ß ßßßß ß ß ß  ±±±±Û ±±±±Û (tm)
+                             ßßßß  ßßßß
+
+Duke Nukem II is everything you'd want from an action game.  An incredibly
+sophisticated game engine gives this high-action game the power needed to
+'nuke' your computer!  Duke blasts his way through your screen with enough
+firepower to wake your neighbors.
+
+The original Duke Nukem, released June 1991, soared to the top of the Shareware
+Top 10 list, where's it's been camped for 22 straight months--no other
+shareware program (of any type) has been this enduring and popular.  But the
+reason for Duke's extraordinary success is simple:  It delivers the action
+players love, with state-of-the-art animation and graphics.  The new Duke
+Nukem II once again sets the new standard for arcade/action games.
+
+In this latest saga, Duke Nukem, while being interviewed on TV about his best
+selling book, "Why I'm So Great", is suddenly abducted by aliens.  Duke's alien
+captor explains that Duke's brain will be drained of all his knowledge,
+which will be used to formulate a master plan to seize control of Earth.  Duke
+has two choices:  He can be turned into a zombie by the EncephaloSucker, or
+'kick-butt' like there's no tomorrow!
+
+You guessed it!  Our hero is ready for action.  Duke must escape his alien
+prison cell, then battle to end the hideous plans of the Rigelatins.
+
+We're talkin':
+* Vivid, parallaxing graphics, with new graphics on every level!
+* Ad Lib music and digitized (Sound Blaster/compatible) sound effects.
+* Super boss enemies to defeat.
+* Special abilities, like invincibility for a short time.
+* Duke rides in space shuttle fighter on many levels, for varied action.
+* 32 action oriented levels in four tremendous episodes.
+* Nearly every level presents a wildly unique scenario for Duke to escape.
+* Enemies, mutations, robo-droids, guards, traps--all after the escaped Duke!
+* Built-in radar to help Duke on each level.
+* Save/restore, skill levels, cheat modes, secrets, joystick/gamepad support.
+* Game story by Tom Hall--the writer of all of Id Software's game stories.
+* Special graphics effects never before seen in an IBM PC game.
+* Requires a VGA graphics card.
+
+For fans of the original Duke Nukem, all of your favorite touches are still
+here:  soda cans for health, turkey for food, spy cameras watching your every
+move, boxes you can destroy for bonuses and surprises, and more.  Duke still
+flips, and he walks hand over hand across pipes, chains and ropes, with the
+new ability of shooting downward while doing so.  Duke can also crouch, duck,
+and shoot upward.
+
+Also, in Duke Nukem II, Duke has four weapons: blaster, laser cannon, missiles,
+and flame thrower.  The flame thrower, when aimed downward, propels Duke
+upward like a jetpack!
+
+As with the original Duke Nukem, this game has many secret bonuses for you to
+discover while playing the game, that really add to your high score.  (For
+example, shoot all the spy cameras on a level for an extra 50,000 points.)
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+                  ÜÜ  Ü Ü Ü Ü ÜÜÜ     Ü Ü Ü Ü Ü Ü ÜÜÜ Ü  Ü
+                  Û Û Û Û Û/  ÛÜ      Û\Û Û Û Û/  ÛÜ  Û\/Û
+                  ÛÜÛ ÛÜÛ Û Û ÛÜÜ     Û Û ÛÜÛ Û Û ÛÜÜ Û  Û (tm)
+
+           This is the original, award-winning series of Duke Nukem!
+                    $29.95 for all three kick-butt episodes!
+
+An incredible EGA game (VGA compatible) with large animated characters, and
+huge levels.  Your mission is to stop Dr. Proton, a madman bent on ruling the
+world with his army of Techbots.  As the irrepressible hero Duke Nukem, you'll
+chase Dr. Proton deep into the Earth, then to his lunar space station, and
+eventually into the Earth's nuclear ravished future.
+
+This is an astonishing Sega Genesis style game with amazing animation!  Also
+features dual scrolling play fields, with huge 3D-like backdrops.  Watch Duke
+somersault and cling on to ceilings as he escapes traps and battles Proton's
+robot guards.  This game is a real show stopper!
+
+Other features include four-way scrolling levels, cinematic effects, demo
+mode, built-in hint mode, arcade sound effects, joystick support, high score
+chart, save/restore up to nine games, unlimited continues, keyboard
+reconfigure, sound on/off toggle, cheat mode, and much more...
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.
+
+
+ÛÛ   Û     ÜÛ ÜÛÛÛÜ      Ü           ÜÛÜ    ÛÛ   ÛÜÜÜÜ    Ü   ÛÛ     Üß  ÜÛÛÛÜ
+Û Û  Û     ÛÛ Ûß   ß      Û          Ûß ßÜ  Û Û  Û  Üß     Û  Û Û  Üß    Ûß   ß
+ÛÜÜÛ Û     ÛÛ ÛÛÜÜ  Û ÛÛ   Û         Û   ß  ÛÜÜÛ Ûßßİ  ÛÛ   Û ÛÜÜÛ Û ßÜ  ÛÛÜÜ  Û
+Û  Û ÛÛÛÜ  ŞÛ ÛÜ   Üß Û Û  Û         ÛÜ  Üß Û  Û Û  Û  Û Û  Û Û  Û Û   Û ÛÜ   Üß
+   Û     ß  Ş ßÛÛÛß   Û  Û Û         ßÛÛÛß     Û   Û   Û  Û Û    Û  ÛÛÛ  ßÛÛÛß
+  Û                   Û   ÛÛ                  Û   ß    Û   ÛÛ   Û
+ ß                                           ß  (tm)           ß
+
+            (This game was previously named "HALLOWEEN HARRY".)
+         $19.95 for all FOUR incredibly animated and scary missions!
+
+ *** Due to amazing ANIMATION, this game requires a fast 286 or better. ***
+
+Alien Carnage, starring the hero, Halloween Harry" is an impressive game with
+no detail overlooked.  Professional musical soundtrack, brilliant full-VGA
+graphics, non-stop animation and huge start-game and end-game cinematics.
+
+If Duke Nukem has a twin separated at birth, it's got to be the character of
+Halloween Harry!  Harry has an armory of weapons he can find and use, besides
+the devastating flame thrower that he starts the game with.  And Harry's jet
+pack takes him to spots on a level that normal heroes could not reach.
+
+Earth is on the verge of a takeover by aliens intent on turning humans into
+mindless slave zombies, who can be used in their conquest of the universe.
+Harry's called into action to Space Station Liberty, and given orders to
+penetrate the alien ship which has burrowed itself under a high-rise city.
+
+In addition to the flame thrower, Harry can use weapons dispensers he finds
+during the game, giving him weapons like the photon cannon, guided missiles,
+grenades, shields, micro nukes, and the very powerful Omega bomb.  It's an
+arsenal that will have the aliens shakin' in their slimy shoes.
+
+STUNNING FEATURES:
+* One of the best 256-color VGA "platform" game ever seen on the IBM PC.
+* Ear-popping DIGITIZED Sound Blaster music and digital sound effects.
+* Over a dozen cinematic sequences.
+* Huge "boss" aliens in each of the four missions.
+* Absorbing integrated (and funny) story, which proceeds each mission.
+* Incredible VGA graphics and animation.
+* Built-in radar mode to help Harry locate hostages on each level.
+* Many secrets and bonuses to discover--lots of replay value.
+* Save/restore, joystick support, cheat mode, three skill levels, and more.
+
+Be sure to check the shareware version (mission one) on our home BBS, and
+you'll see why everyone is so impressed by Alien Carnage.  If you like
+high-octane action with a mix of clever and humorous characters, you'll LOVE
+this game.  To order, call 1-800-APOGEE1, or use the ORDER.FRM file.
+
+
+ÚÄÄÄÄÄ¿  ÚÄ¿ ÚÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÙ  ÀÄÙ ÀÄÄÄÄÄÄÙ       $29.95 for all three action-packed episodes!
+ÚÄÄÄÄÄÄ¿ ÚÄ¿ ÚÄ¿  ÚÄ¿
+³ ÚÄÄ¿ ³ ³ ³ ³ ³  ³ ³             Game designed by Jim Norwood
+³ ÀÄÄÙ ³ ³ ³ ³ ÀÄÄÙ ³           Core game engine by Id Software
+ÀÄÄÄÄÄÄÙ ÀÄÙ ÀÄÄÄÄÄÄÙ
+ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄ¿  ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÙ  ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ   A thriller action
+ÚÄ¿Ú¿ÚÄ¿ ÚÄÄÄÄ¿   ÚÄ¿  ÚÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄ¿      ÚÄÄÄÄ¿    adventure that will
+³ ³ÀÙ³ ³ ³ ÚÄÄÙ   ³ ³  ³ ³ ³ ÚÄÄ¿ ³ ³ ³      ³ ÚÄÄÙ      appeal to Duke
+³ ³  ³ ³ ³ ÀÄÄÄÄ¿ ³ ³  ³ ³ ³ ³  ³ ³ ³ ÀÄÄÄÄ¿ ³ ÀÄÄÄÄ¿     Nukem fans!
+ÀÄÙ  ÀÄÙ ÀÄÄÄÄÄÄÙ ÀÄÙ  ÀÄÙ ÀÄÙ  ÀÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ(tm)
+
+You are Snake Logan, a top CIA operative who likes to do things his own way.
+Metro City has fallen under the attack of hideous mutants and your mission is
+to fly recon over the city and report back.  While circling over the city
+you're shot down by hostile forces and forced to crash land on the streets of
+Metro.  Grabbing what supplies you can find you are out to discover the source
+of these mutants and especially the guy who shot you down!
+
+Intelligence reports indicate that a man calling himself Dr. Mangle is
+responsible for the mutants and the destruction of Metro.  You will have to
+battle your way through many levels packed with evil mutants and robotic guards
+to finally infiltrate Mangle's fortress and defeat him.  You think to yourself
+that this will be the most dangerous mission of your life.
+
+Exciting Features:
+* Developed using a game engine developed by Id Software, designers of Doom.
+* Fantastically animated creatures and menacing robotic enemies to outwit.
+* Non-stop, Duke Nukem-style, kick-'em-in-the-butt, shoot-everything action!
+* Exciting and brilliantly drawn graphics, with stunning variety and realism.
+* Full Ad Lib music soundtrack and sound effects.
+* Big boss creatures to battle!
+* Several weapons at your disposal, plus four secret weapons and maneuvers!
+* Many secret areas to discover.
+* Three skill levels.  Joystick support.  Save and restore games.
+
+Snake Logan is a weapons expert, and uses several throughout the game,
+including a high-powered machine gun (you NEED to hear the sound effect for
+this!) and grenades.  Snake can also perform special maneuvers, like the one
+described here:
+
+SUPER PLASMA BOLT:  Hold the up arrow, (or up on the joystick), until you hear
+an electrical charge sound.  Once you hear this sound, press the fire button
+and a plasma beam will shoot in the direction you are facing burning through
+a whole line of enemies!  Beware, this is a powerful weapon and the toxic fume
+cloud it leaves behind inflicts one point of damage on Snake!  Use this weapon
+wisely and carefully!
+
+Other secret maneuvers include the FIRE BALL ATTACK, the ELECTRON SHIELD, and
+the INVINCIBILITY BURST.  But you'll have to discover these while playing the
+game.
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+   ÛÛÛÜ ÜÛßÛ²  ²ÛÜÜÛÛ    ÛÜ Ü          ÜÜÛÛ   ÜÜÜÛÜÛÛÛ² ² ÜÜÛÛ   ÛÛ ÛÛÛ
+  ²ÛÛ±ßÛß ÛÛ± ²ÛÛ±  ÛÛ²  ÛÛ ßÛ   Û  ± ß   ±   ²  ÛÛ± ²± ²Û   ß  ²ÛÛ ± ÛÛ²
+  ²ÛÛ    ²Û ° ±ÛÛ°  ÛÛ± ²ÛÛ  ßÛ ÛÛ± ° ²ÛÛÜ    ± ²ÛÛ° ±° ±Û Û    ²ÛÛ °ÜÛ ±
+  ±ÛÛ    ±    ±ÛÛ  Üß±° ²ÛÛ±  Ş ÛÛ±   ±   ÜÛ² ° ²ÜÛ² °  ±²Û  Ü  ±ÜÛßßÛÜ
+  ±ÜÛ±   ° Û± ° Ûßß ²±° ±ÛÛ°   ²ÛÛ° ²ÛÛÛÜÜß±±   ±ÛÛ± °  °±ÛÛÛÛ± °ÛÛ² ±ÛÛ±
+  ° ±°   °  ° ° ±°²°²°  ° ±°   ± ²  ± ±²± ± °   ± °°    °° ±° ° ° ±² °±²°
+  °  °      °   ° ± ±°  ° °°   ° ±° ° °±  ° °     °      ° °  °   °± ° ±°
+  °      °    ° ° ° ±      °   ° °  °  °  °     °          °      °°   °
+         °        ° °                     °                °  °    °
+ ÜÜÜÜ     ÜÜÜ          ÜÜÛÛ    ÜÛ± ÛÛ
+²ÛÜ ÛÛÜ  ±Üß ÛÜ     ± ß   ±   ²ÛÛ° ÛÜ±
+±ÛÛ± ÜÛÛ ±ÛÛ  ßÛÜ   ° ²ÛÛÜ    ±ÛÛÛßÛÛ°        $34.95 for all three action
+±Ü °Ûß   °ÜÛÜÜÜÜÛÛ    ±   ÜÛ² °²Û ²ÛÛ          packed ghoulish episodes!
+°²Û   Û²  ²Û   ²ÛÛ± ²ÛÛÛÜÜß±± °²Û±² Ü²
+°±±ÛÛÛß±  ±±   ²±Û° ± ±²± ± °  ± °²±°±
+±°±   °    ±   ±± ° ° °±  ° °  ± °±° °   No Apogee game has ever had as many
+ °    °    °   ±    °  °  °    °  °° °    gruesome graphics as Monster Bash,
+ °    °  (tm)  °  °       °    °  °  °     with over EIGHT MEGS of animated/
+                                       scrolling graphics in all three episodes.
+
+Brief Features List:
+* Over 8 Megs compressed animated and scrolling EGA graphics (VGA compatible).
+* Over two dozen uniquely animated monsters to battle.
+* Boss monsters that seem invincible, but have a secret weakness.
+* Full Ad Lib music soundtrack.
+* Digitized sound effects and voice effects for Sound Blaster.
+* Opening and closing animated/cinematic sequences.
+* Joystick supported.
+* Three skill levels, save/restore up to 10 games, plus built in hints.
+* Tons of secret places and secret bonuses to discover.
+
+Johnny Dash's bash 'em smash 'em adventure takes him into the evil Under
+World of Count Chuck.  The story starts when Johnny's dog Tex is kidnapped by
+the Count, along with hundreds of other pet dogs and cats.  The friendly bed
+monster under Johnny's bed tells Johnny where Tex was taken, and how Johnny can
+use his secret closet passageway to get to the Under World himself. Count Chuck
+plans to turn all the pets into an army of undead monsters.
+
+Johnny grabs his slingshot and leaps into his closet.  The Count will not turn
+his dog Tex into a monster, not if he can stop him...!
+
+Monster Bash is full of scary action and haunting puzzles.  No previous Apogee
+game has featured so much ANIMATION.  For instance, Johnny can climb, crawl,
+shoot his slingshot in several directions, fly a broom, and a lot more.  And
+Johnny's super charged slingshot can shoot rocks, rockets, fireballs, and other
+surprises.  There also more enemy creatures and monsters than ever seen in an
+Apogee game.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.
+
+
+
+   ÜÛÛÜ  ÜÛÛÜ        ÜÛÛß ÜÛÛÛ                      Ü          ÜÛÜ
+   Û  ÛÛ Û  ÛÛ  ÜÜÜ  ÛÛ   ÛÛ Ü ÜÜÜ   ÜÜ ÜÜ    ÜÜÜÜ ÜÛÛÜ  ÜÜÜ    Ü   ÜÜ ÜÜ
+    ß ÛÛ  ß ÛÛ ÛÛ ÛÛ ÛÛ ÜßÛÛß ÜÛ ÛÛ ßÛÛÛßÛÛ  ÛÛÛÛß  ÛÛ  ÜÛ ÛÛ ÜÛÛß ßÛÛÛßÛÛ
+      ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ   ÛÛ  ÛÛ  Û  ÛÛ  ÛÛ  ÛÛÜ    ÛÛ  ÛÛ  Û  ÛÛ   ÛÛ  ÛÛ
+      ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ   ÛÛ  ÛÛÜß   ÛÛ  ÛÛ   ÜÜÛÛ  ÛÛ  ÛÛÜß   ÛÛ   ÛÛ  ÛÛ
+     ÜÛßßßßÛÛß ÛÛÛÛß ÛÛÛÜ ÛÛ  ÛÛÛÛß  ÛÛß ÛÛß ÛÛÛÛß  ÛÛß ÛÛÛÛß ÜÛÛß  ÛÛß ÛÛß
+                        ÜÜÛÛ
+                                                  ÛÜÜÛÛÜÜ        ÛÛÛÛÛÛÛÜÜ
+              Developed by id Software             ßß  ÛÛ       ÛÛ ÛÛ    ÛÛ
+     WINNER OF THREE SHAREWARE INDUSTRY AWARDS,        ÛÛ       ÛÛ ÛÛ    ÛÛ
+          INCLUDING PEOPLE'S CHOICE AWARD!          ßÜÜÛÜ ÜÛÛÛß  ß ÛÛ    ÛÛ
+                                                   Ü   ÛÛ          ÛÛ    ÛÛ
+         ** Due to content this game may not      ÛÛ   ÛÛ        Ü ÛÛ  ÜÜÛÛ
+         be ordered by German residents. ***       ßÛÛÛß         ÛÛÛÛÛÛßß   TM
+
+Wolfenstein 3-D has won these RETAIL industry awards in 1992:
+  * "One of the eight most important games ever created" -- PC Gamer
+  * "Best Arcade/Action Game" -- Software Publishers Association "Codie" Award
+  * "Best Arcade/Action Game" -- Compute magazine
+  * "Most Popular Game" -- PC World magazine (reader's poll)
+  * "Best Action Game" -- Video Games & Computer Entertainment magazine
+  * "Most Innovative Game" -- Video Games & Computer Entertainment magazine
+  * "Editor's Choice Award" -- Shareware Magazine
+  * "Best Entertainment Software (Finalist)" -- PC/Computing
+
+TWO VERSIONS:
+1) First trilogy (three full episodes) for $34.95.
+2) Entire series (ALL SIX EPISODES!) for $49.95!
+
+Wolfenstein 3-D has been hailed as a technology breakthrough!
+
+The story:  You're William J. "B.J." Blazkowicz, the Allies' bad boy of
+espionage and a terminal action seeker.  Your mission was to infiltrate the
+Nazi fortress Castle Hollehammer and find the plans for Operation Eisenfaust,
+the Nazi's blueprint for building the perfect army.  Rumors are that deep
+within the castle the diabolical Dr. Schabbs has perfected a technique for
+building a fierce army from the bodies of the dead.  It's so far removed from
+reality that it would seem silly if it wasn't so sick.  But what if it were
+true?
+
+As an escaped prisoner in a Nazi war prison, you will move smoothly through
+a 3D world full of amazing detail and animation.  Unlike other 3D games,
+you'll run through a sensational and realistic 3-D environment, with
+intelligent moving guards and opponents.
+
+* Intense and mood-setting Ad Lib music throughout the entire game.
+* Incredible digitized effects for Sound Blaster and Disney Sound Source.
+* Fastest 3D VGA animated full-screen wide game available for IBM PC!
+* Play with keyboard, joystick, mouse or Gravis GamePad.
+* Save and restore games, plus quick-save and quick-load hot keys.
+* Must be played on an 80286 or better machine.  Does not run on XT systems.
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+  ÜÛÛÜ  ÜÛÛÜ        ÜÛÛß ÜÛÛÛ                      Ü          ÜÛÜ
+  Û  ÛÛ Û  ÛÛ  ÜÜÜ  ÛÛ   ÛÛ Ü ÜÜÜ   ÜÜ ÜÜ    ÜÜÜÜ ÜÛÛÜ  ÜÜÜ    Ü   ÜÜ ÜÜ
+   ß ÛÛ  ß ÛÛ ÛÛ ÛÛ ÛÛ ÜßÛÛß ÜÛ ÛÛ ßÛÛÛßÛÛ  ÛÛÛÛß  ÛÛ  ÜÛ ÛÛ ÜÛÛß ßÛÛÛßÛÛ
+     ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ   ÛÛ  ÛÛ  Û  ÛÛ  ÛÛ  ÛÛÜ    ÛÛ  ÛÛ  Û  ÛÛ   ÛÛ  ÛÛ
+     ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ ÛÛ   ÛÛ  ÛÛÜß   ÛÛ  ÛÛ   ÜÜÛÛ  ÛÛ  ÛÛÜß   ÛÛ   ÛÛ  ÛÛ
+    ÜÛßßßßÛÛß ÛÛÛÛß ÛÛÛÜ ÛÛ  ÛÛÛÛß  ÛÛß ÛÛß ÛÛÛÛß  ÛÛß ÛÛÛÛß ÜÛÛß  ÛÛß ÛÛß
+                       ÜÜÛÛ
+                                 "ÖÄÄ¿ ÒÄÄ¿ ÒÄÄ¿ ÖÄÄ¿ ÒÄÄ¿   ÖÄÄ¿ ÒÄÄ¿
+    ÛÜÜÛÛÜÜ        ÛÛÛÛÛÛÛÜÜ      ÓÄÄ¿ ÇÄÄÙ ÇÄ   ÇÄÄ´ ÇÄÂÙ   º  ³ ÇÄ
+     ßß  ÛÛ       ÛÛ ÛÛ    ÛÛ     ÓÄÄÙ Ğ    ĞÄÄÙ Ğ  Á Ğ ÁÄ   ÓÄÄÙ Ğ
+         ÛÛ       ÛÛ ÛÛ    ÛÛ     ÄÒÄÄ¿ ÒÄÄ¿ ÖÄÄ¿ ÖÄÒÄ¿ ÄÒÄ ÖÄ· Â Ò  Â"
+      ßÜÜÛÜ ÜÛÛÛß  ß ÛÛ    ÛÛ      º  ³ ÇÄ   ÓÄÄ¿   º    º  º º ³ ÓÄÄ´
+     Ü   ÛÛ          ÛÛ    ÛÛ     ÄĞÄÄÙ ĞÄÄÙ ÓÄÄÙ   Ğ   ÄĞÄ Ğ ÓÄÙ ÓÄÄÙ
+    ÛÛ   ÛÛ        Ü ÛÛ  ÜÜÛÛ
+     ßÛÛÛß         ÛÛÛÛÛÛßß   TM         Developed by id Software
+
+        *** AN ALL-NEW MISSION WITH 20 NEW LEVELS AND MUCH MORE! ***
+    *** Due to content this game may not be ordered by German residents. ***
+
+This is a special commercial edition of the Wolfenstein 3-D saga, once again
+starring the Allies' most durable agent, B.J. Blazkowicz.  In the midst of
+the Nazi Blitzkrieg, the Spear that pierced the side of Christ is taken from
+the Versailles and secured in the impregnable Castle Nuremberg.  According to
+legend, no man can be defeated when he has the Spear.  Hitler believes himself
+to be invincible with the power of the Spear as his army of destruction sweeps
+across Europe.  (Historian's Note:  This mission actually takes place before
+the original Wolfenstein 3-D game.)
+
+Your mission is to recapture the Spear from an already unbalanced Hitler, with
+the hope that the loss of his most coveted weapon will push him over the edge!
+You must infiltrate the heavily guarded Nazi stronghold and time is running
+out!
+
+This is a full-sized epic game, not just an episode.  It has more than 20 huge
+levels, four new fantastic boss enemies, new music and digitized stereo
+sounds, new graphics, an incredibly scary ending, and much more.
+
+There is not a shareware version of this game available, but you can be sure
+that if you liked the original Wolfenstein 3-D six episodes, you'll like
+this newer action-packed game even more.  Only $29!  Note:  The commercial
+version, which is the exact same game Apogee offers, sells for $49--you save
+$19 by ordering directly from Apogee.  Just call 1-800-APOGEE1 or use the
+ORDER.FRM file to mail in your order.
+
+NOTE:  Spear of Destiny is a commercial release, and uses a simple copy
+       protection scheme to prevent illegal software pirating.
+
+
+                                   ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿
+ $29.95 for all three blast'em     ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ
+        action episodes!           ÚÄ¿Ú¿ÚÄ¿ ÚÄÄÄÄÄÄ¿      ÚÄ¿ ÚÄ¿  ÚÄ¿ ÚÄÄÄÄÄÄ¿
+                                   ³ ³ÀÙ³ ³ ³ ÚÄÄ¿ ³ ÚÄ¿  ³ ³ ³ ³  ³ ³ ³ ÚÄ¿ ÚÙ
+In the not-so-distant future,      ³ ³  ³ ³ ³ ³  ³ ³ ³ ÀÄÄÙ ³ ³ ÀÄÄÙ ³ ³ ³ ³ ³
+the calamity                       ÀÄÙ  ÀÄÙ ÀÄÙ  ÀÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÙ ÀÄÙ
+of World War   ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄ¿   ÚÄ¿ ÚÄ¿  ÚÄ¿ ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄ¿
+III led to     ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ ÀÄÙ   ÀÄÙ ÀÄÙ  ÀÄÙ ÀÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÙ
+eventual       ÚÄÄÄÄÄÄ¿    ÚÄ¿    ÚÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄÄ¿ ÚÄÄÄÄÄ¿  ÚÄÄÄÄ¿   ÚÄÄÄÄÄÄ¿
+world peace.   ÀÄÄÄÄ¿ ³    ³ ³    ³ ÚÄ¿ ÚÙ ÀÄÄ¿ ÚÄÄÙ ³ ÚÄÄ¿À¿ ³ ÚÄÄÙ   ³ ÚÄ¿ ÚÙ
+But, it did    ÚÄÄÄÄÙ ³    ³ ³    ³ ³ ³ ³     ³ ³    ³ ³  ³ ³ ³ ÀÄÄÄÄ¿ ³ ³ ³ ³
+not last....   ÀÄÄÄÄÄÄÙ    ÀÄÙ    ÀÄÙ ÀÄÙ     ÀÄÙ    ÀÄÙ  ÀÄÙ ÀÄÄÄÄÄÄÙ ÀÄÙ ÀÄÙ
+
+Earth was invaded by alien marauders--the Kretons.  Earth's united military
+force, still depleted after the mighty onslaught of WWIII, was not nearly
+sufficient to repel the numerous Kreton attacks.
+
+It was discovered that the Kretons had used a wormhole to invade our region
+of space from their home worlds.  And with that knowledge Earth called into
+action Major Harrison Stryker, hero of WWIII, to travel back through the
+wormhole and destroy the Kreton's home world headquarters.
+
+With almost no chance of success, you accept the mission...
+
+Major Stryker is the first Apogee game with "triple-parallax scrolling",
+adding to the illusion of depth and danger.  Your mission is to pilot a
+high-powered, armored space ship through dozens of stunning scenarios, such
+as space stations, lava caves and alien cities.
+
+Exciting features:
+* Ad Lib music and Sound Blaster digitized effects.
+* EGA high-speed animated graphics (VGA compatible).
+* Cinematic sequences.
+* Unlike any other Apogee game yet.
+* Full of bonuses and secrets to discover.
+* Save and restore up to 10 games.
+* Play with joystick or keyboard.
+* Exciting demo mode.
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+            ÖÄÒÄ¿ ÖÄÄ¿ ÖÄÒÄ¿ Ò  Â      ÒÄÄ¿ ÒÄÄ¿ ÖÄÄ¿ ÖÄÄ¿ Ò  Â ÒÄÄ¿
+            º º ³ ÇÄÄ´   º   ÇÄÄ´      ÇÄÂÙ ÇÄ   ÓÄÄ¿ º    º  ³ ÇÄ
+            Ğ Ğ Á Ğ  Á   Ğ   Ğ  Á      Ğ ÁÄ ĞÄÄÙ ÓÄÄÙ ÓÄÄÙ ÓÄÄÙ ĞÄÄÙ (tm)
+
+                    EDUCATIONAL ENTERTAINMENT FOR ALL AGES!
+                   $29.95 for all three fun-filled episodes!
+
+    (Site licenses available for learning institutions.  Call for Pricing.)
+
+A bone-chilling crisis has struck the world!  Reports are pouring in from all
+corners of the globe:  Missing numbers!  Drivers on streets are in dangerous
+peril because the speed limit signs have gone blank!
+
+On Wall Street, stock brokers are throwing up their hands in despair.  The
+Dow Jones isn't down, and it isn't up--it's gone!  You start to call your
+best friend, but the buttons on your phone are blank!
+
+This madness can only be the work of...the Gruzzles.  In your last tangle with
+the mean ol' Gruzzles, you stopped them from stealing all the words from
+our books (in Word Rescue).  This time the Gruzzles are taking all the
+numbers and it's up to you to get them back.
+
+Math Rescue is for ages 6 and up, and allows for a variety of options
+and skill levels.  One of the options allows you to select the type
+of problems, either addition, subtraction, multiplication, division, or
+mixed.  Another of the options, picks if you want word problems included.
+
+Play as either a girl, or a boy!  You get to choose which character you
+wish to play, either male or female.  Either way, you'll visit amazing
+locations on a math solving adventure.  You'll explore several fascinating
+locations, including undersea, volcanoes and the cosmos.
+
+* Educational software that's fun to play!
+* You choose whether to play a girl or a boy character.
+* Learn the four arithmetic functions:  add, subtract, multiply, divide.
+* Great Duke Nukem-style dual-screen scrolling EGA graphics (VGA compatible).
+* Each of the three volumes features new graphics and puzzles.
+* Fantastic Ad Lib and Sound Blaster music!
+* Save/restore, joystick support, built-in help, high score list, etc.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.
+SPECIAL:  ORDER BOTH MATH RESCUE AND WORD RESCUE FOR $39.95 (plus $5 shipping),
+          AND SAVE $20.
+
+
+            Ò Ò Â ÖÄÄ¿ ÒÄÄ¿ ÄÒÄÄ¿      ÒÄÄ¿ ÒÄÄ¿ ÖÄÄ¿ ÖÄÄ¿ Ò  Â ÒÄÄ¿
+            º º ³ º  ³ ÇÄÂÙ  º  ³      ÇÄÂÙ ÇÄ   ÓÄÄ¿ º    º  ³ ÇÄ
+            ÓÄĞÄÙ ÓÄÄÙ Ğ ÁÄ ÄĞÄÄÙ      Ğ ÁÄ ĞÄÄÙ ÓÄÄÙ ÓÄÄÙ ÓÄÄÙ ĞÄÄÙ (tm)
+
+                    EDUCATIONAL ENTERTAINMENT FOR ALL AGES!
+                  $29.95 for all three brain-busting episodes!
+
+    (Site licenses available for learning institutions.  Call for Pricing.)
+
+Apogee enters the educational arena with a program that teaches spelling,
+logic, word meanings and reading--yet is as compelling to play as our other
+top games!
+
+Built with a similar system that we used to create Duke Nukum, Word Rescue is
+an incredible adventure for kids who want to rescue all the stolen words from
+the mean ol' Gruzzles.  The Gruzzles can't read, and they don't want anyone
+else to read.  So, they've stolen the words out of all of our books!
+
+Benny Bookworm needs your help to stop the Gruzzles.  He needs you to reunite
+the stolen words with their meanings.  Once you join all the words with their
+pictures, Benny will put them back into the books.
+
+This is an engrossing educational game with vivid EGA/VGA graphics and support
+for Ad Lib and Sound Blaster.  Using the Duke Nukum graphical system, Word
+Rescue has state-of-the-art dual-screen scrolling graphics similar to what's
+seen on the Super Nintendo and Sega Genesis home gaming systems.  Even
+"grown-ups" will like Word Rescue!
+
+Word Rescue is designed for a range of players of all ages:
+ Easy level:    Ages 4 - 7  (Even pre readers can play the game.)
+ Medium level:  Ages 7 - 10
+ Hard level:    Ages 10 and up  (A challenge for adults, too!)
+
+Play as either a girl, or a boy!  You get to choose which character you wish
+to play, either male or female.  Either way, you'll visit amazing locations
+on your word finding adventure.  As you hunt for all the missing words you'll
+visit dark caves, rocky cliffs, deserts, happy towns, scary haunted houses,
+funny factories, creepy dungeons, and many others.
+
+* Finally, educational software that's fun to play!
+* Three unique multi-level adventures, with 330 words to rescue.
+* You choose whether to play a girl or a boy character.
+* Learn reading, word spelling, word meanings, and logic solving.
+* Superb Duke Nukem-style dual-screen scrolling EGA graphics (VGA compatible).
+* Each of the three volumes features new graphics and puzzles.
+* Fantastic Ad Lib and Sound Blaster music!
+* Save/restore, joystick support, built-in help, high score list, etc.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.
+
+SPECIAL:  ORDER BOTH WORD RESCUE AND MATH RESCUE FOR $39.95 (plus $5 shipping),
+          AND SAVE $20.
+
+
+                      ŞÛßßß ÜÜÜ Ûßß ÛÛÜ ÜÜÜ Û Ûßß
+                      ŞÛ    Û Û ßßÛ ÛŞŞ Û Û   ßßÛ
+                      ŞÛÜÜÜ ÛÛÛ ÛÛÛ ÛŞŞ ÛÛÛ   ÛÛÛ
+                                        Ü              Ü
+     ŞÛßßß ÜÜÜ Ûßß ÛÛÜ ß   ÜÜÜ    ßßÛ ÜÜÛ Û Û Ûßß ÛÛÜ ÜÛÜ Û Û ÜÜÜ Ûßß
+     ŞÛ    Û Û ßßÛ ÛŞŞ Û   Û      ÛßÛ Û Û Ş İ Ûß  Û Ş  Û  Û Û Û   Ûß
+     ŞÛÜÜÜ ÛÛÛ ÛÛÛ ÛŞŞ ÛÛÛ ÛÛÛ    ÛÛÛ ÛÛÛ  Û  ÛÛÛ Û Ş  ÛÛ ÛÛÛ Û   ÛÛÛ (tm)
+
+               $34.95 for all three adventure-packed episodes!
+
+What's green with red spots, has suction hands, and has an overbite like Bart
+Simpson?  Of course, the answer is Cosmo!  A young alien on his way to visit
+Disney World with his parents.  That is, until their ship is struck by a
+blazing comet, forcing them to land on an uncharted planet.
+
+Cosmo's Cosmic Adventure is an epic journey across a forbidden planet full of
+dangers and surprises.  Can he save his parents, who have been taken captive,
+before they are eaten by the native aliens?
+
+Cosmo is a lovable extra-terrestrial (alien) with a special ability, he has
+hands that work like suction cups!  He can cling to walls, ledges, and all
+sorts of things.
+
+Amazing Features:
+* Another hit game from the creators of Duke Nukem.
+* Full-screen, dual-scrolling, EGA graphics (VGA compatible).
+* Ad Lib music--with 19 theme songs!
+* Over 20 unique and surprising creatures.
+* Cosmo has many tricks, such as scaling walls with his suction hands.
+* Massive levels, yet easy to explore.
+* Almost 2 MEG vivid animated graphics.
+* Joystick support, save/restore, built-in hints, and a lot more...
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+ Ûßßß ÛßßÛ ÛßÛßÛ ÛßÛßÛ ÛßßÛ ÛßÛ Û ßÛßßÛ Ûßßß ÛßßÛ    Û Ûß Ûßßß Ûßßß ÛßÛ Û  (tm)
+ Û    Û  Û Û Û Û Û Û Û ÛßßÛ Û Û Û  Û  Û Ûß   ÛßÛß    ÛßßÛ Ûß   Ûß   Û Û Û ß
+ ßßßß ßßßß ß ß ß ß ß ß ß  ß ß ßßß ßßßßß ßßßß ß ßß    ß  ß ßßßß ßßßß ß ßßß ß
+  ßÛß ÛßÛ Û Û  Û ÛßßÛ Ûßßß ßÛß ÛßßÛ ÛßÛ Û    ÛßßÛ Ûßßß    ßßÛßß Û  Û Ûßßß
+   Û  Û Û Û Û Ûß ÛßßÛ ßßßÛ  Û  Û  Û Û Û Û    Û  Û Ûß        Û   ÛßßÛ Ûß
+  ßßß ß ßßß ßßß  ß  ß ßßßß ßßß ßßßß ß ßßß    ßßßß ß         ß   ß  ß ßßßß
+               Û  Û ÛßßÛ ÛßßÛ ßßÛßß ßÛß Ûßßß ÛßßÛ ÛßÛ Û Ûßßß
+               Û Ûß Û  Û ÛßÛß   Û    Û  Û    Û  Û Û Û Û ßßßÛ
+               ßßß  ßßßß ß ßß   ß   ßßß ßßßß ßßßß ß ßßß ßßßß
+
+ WINNER OF "BEST OVERALL IN SHAREWARE" AT THE 1992 SHAREWARE INDUSTRY AWARDS!
+
+                          Developed by id Software
+
+                  $29.95 for all three spaced-out episodes!
+                 [This is the first Commander Keen series.]
+
+You play the role of Billy Blaze, eight year-old kid genius who builds an
+interstellar ship when not working at home on his college fast-track degree.
+Among other household objects, Billy uses his Nintendo joystick for flight
+control and his mom's vacuum cleaner (heavily modified) for his ship's ion
+propulsion system (with pile height adjustment).
+
+At the hint of galactic trouble, Billy dons his brother's football helmet and
+becomes "Commander Keen"--defender of Earth!  Ever on the side of justice, Keen
+dispenses justice with an iron hand.
+
+"Marooned on Mars" is episode one of the Commander Keen trilogy.  Only part
+one is available via shareware distribution, the other two episodes ("The
+Earth Explodes" and "Keen Must Die!") may only be purchased from Apogee.
+
+EACH VOLUME HAS COMPLETELY UNIQUE GRAPHICS AND ANIMATION!  Episode one is
+located on the planet mars.  Episode two takes place on the immense Vorticon
+mothership, where you'll need to stop the destruction of Earth by disabling
+the eight deadly ray cannons aimed at Earth's greatest cities and wonders.
+Episode three takes Keen to the dangerous Vorticon home planet, where you'll
+explore huge caves, battle the top Vorticon ninja fighters and discover the
+secret of the Grand Intellect.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.  Look in the order
+form file (ORDER.FRM) for a money-saving COMBO offer.
+
+
+ Ûßßß ÛßßÛ ÛßÛßÛ ÛßÛßÛ ÛßßÛ ÛßÛ Û ßÛßßÛ Ûßßß ÛßßÛ    Û Ûß Ûßßß Ûßßß ÛßÛ Û  (tm)
+ Û    Û  Û Û Û Û Û Û Û ÛßßÛ Û Û Û  Û  Û Ûß   ÛßÛß    ÛßßÛ Ûß   Ûß   Û Û Û ß
+ ßßßß ßßßß ß ß ß ß ß ß ß  ß ß ßßß ßßßßß ßßßß ß ßß    ß  ß ßßßß ßßßß ß ßßß ß
+  Ûßßß ÛßßÛ ÛßßÛ ßÛßßÛ ÛßÛ  Û  Û Ûßßß     Ûßßß ÛßßÛ Û    ÛßßÛ Û  Û Û  Û Û
+  Û ßÛ Û  Û Û  Û  Û  Û ÛßßÛ ßßßÛ Ûß       Û ßÛ ÛßßÛ Û    ÛßßÛ ÜßßÜ ßßßÛ ß
+  ßßßß ßßßß ßßßß ßßßßß ßßßß ßßßß ßßßß Û   ßßßß ß  ß ßßßß ß  ß ß  ß ßßßß ß
+
+ WINNER OF "BEST OVERALL IN SHAREWARE" AT THE 1992 SHAREWARE INDUSTRY AWARDS!
+
+                          Developed by id Software
+
+          $34.95 for both episodes--this is the 1992 SIA Award Winner!
+                 [This is the second Commander Keen series.]
+
+Eight year old Kid genius, Billy Blaze, is in his backyard fort testing out
+his newly built Photachyon Transceiver.  Simply put, it's an instantaneous
+radio that can pick up signals anywhere in the galaxy.
+
+While listening to an alien sitcom, "My Favorite Yorp", Billy hears a
+disturbing message.  Bzzt...grdddz...oment of great triumph...ferrrt... ast
+the Milky Way will be..zzz...terly destroyed...buzzt...can stop us now.  We
+will remake...biipp...galaxy in the name...zzzzt...of the Gannalech.  Power
+to the race!  Pow...rrp...to the Shikadi!...bizzp!  "So the Shikadi are
+planning to destroy the galaxy, huh?", thinks Billy.  "Sounds like a job
+for... Commander Keen!"
+
+In episode one (episode four, overall), "Secret of the Oracle", Keen rockets
+to an alien planet to rescue the Keepers of the Oracle, who are the only ones
+capable of helping Keen find out more about the Shikadi.  Who are the Shikadi
+and why are they planning to use our Galaxy as target practice!
+
+After completing the mission in episode one, Keen learns of the Shikadi's
+enormous ship, which doubles as the largest weapon ever built.  So in episode
+two, titled "The Armageddon Machine", Keen faces his greatest challenge
+yet--to save the Galaxy!
+
+Both episode one "Secret of the Oracle", and episode two "The Armageddon
+Machine", are packed with exciting features, but episode two is a much bigger
+game.  Exciting features include:
+
+* Incredible smooth scrolling EGA graphics (VGA compatible) and animation
+* Tilted perspective--gives all levels the appearance of depth & fullness
+* 1.6 Megs graphics for episode one, a lot more in episode two.
+* Ad Lib soundtrack.
+* 14 creatures in episode one, 20 all-new creatures in episode two.
+* Three skill levels, which actually add new creatures to the game.
+* Ending animated sequence.
+* Hundreds and hundreds of screens to explore, with HUGE levels.
+* Keen has new abilities, such as hanging onto ledges and pulling himself up.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.  Look in the order
+form file (ORDER.FRM) for a money-saving COMBO offer.
+
+
+ Ûßßß ÛßßÛ ÛßÛßÛ ÛßÛßÛ ÛßßÛ ÛßÛ Û ßÛßßÛ Ûßßß ÛßßÛ    Û Ûß Ûßßß Ûßßß ÛßÛ Û  (tm)
+ Û    Û  Û Û Û Û Û Û Û ÛßßÛ Û Û Û  Û  Û Ûß   ÛßÛß    ÛßßÛ Ûß   Ûß   Û Û Û ß
+ ßßßß ßßßß ß ß ß ß ß ß ß  ß ß ßßß ßßßßß ßßßß ß ßß    ß  ß ßßßß ßßßß ß ßßß ß
+        ÛßßÛ Û    ßÛß Ûßßß ÛßÛ Û Ûßßß    ÛßßÛ ßßÛßß Ûßßß    ÛßÛßÛ Û  Û
+        ÛßßÛ Û     Û  Ûß   Û Û Û ßßßÛ    ÛßßÛ   Û   Ûß      Û Û Û ßßßÛ
+        ß  ß ßßßß ßßß ßßßß ß ßßß ßßßß    ß  ß   ß   ßßßß    ß ß ß ßßßß
+            ÛßÛ  ÛßßÛ ÛßÛ  Û  Û    Ûßßß ßÛß ßßÛßß ßßÛßß Ûßßß ÛßßÛ Û
+            ÛßßÛ ÛßßÛ ÛßßÛ ßßßÛ    ßßßÛ  Û    Û     Û   Ûß   ÛßÛß ß
+            ßßßß ß  ß ßßßß ßßßß    ßßßß ßßß   ß     ß   ßßßß ß ßß ß
+                     SPECIAL EDITION KEEN ADVENTURE: $34.95
+
+                           Developed by id Software
+
+Aliens Ate My Baby Sitter is a SPECIAL EDITION of the Commander Keen series.
+It is a single, high-powered, tremendously fun game that is larger than the
+entire first trilogy combined!  (Hint:  This is a REALLY BIG game.)
+
+Commander Keen: Aliens Ate My Baby Sitter takes place right after Billy's
+incredible adventure in Goodbye Galaxy (but only if he succeeds!).
+It all begins when Billy Blaze's baby sitter is stolen by a mean bunch of
+hungry aliens from the planet Fribbulus Xax.  She is going to be the main
+course for dinner!  With your parents due home soon, how will you be able to
+tell them, "The aliens ate my baby sitter!"?
+
+Your galactic rescue mission will have you battling the dangerous aliens of
+Fribbulus Xax, while collecting goodies to help you along the way.  Tons of
+secret areas to discover, plus you'll need to find a way to get to the space
+fortress orbiting high above the planet.
+
+NOTE:  Over 2.5 Megs of EGA (VGA compatible) graphics!!!
+
+AD LIB MUSIC AND SOUND EFFECTS.  A full musical soundtrack accompanies Keen
+on his alien adventure.  Also features three skill levels, gigantic scrolling
+levels, ultra-smooth animation and screen effects, save/restore games,
+joystick support, and much more!  When Billy gets bored, he can even play a
+computer game on his specially built watch.
+
+NOTE:  Aliens Ate My Baby Sitter is a commercial release, and uses a simple
+       copy protection scheme to prevent illegal software pirating.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.  Look in the order
+form file (ORDER.FRM) for a money-saving COMBO offer.
+
+
+         Ûßßß Ûßßß Ûßßß ÛßßÛ Ûßßß ßßÛßß    ÛßßÛ Ûßßß Ûßßß ÛßÛ Û ßßÛßß (tm)
+         ßßßÛ Ûß   Û    ÛßÛß Ûß     Û      ÛßßÛ Û ßÛ Ûß   Û Û Û   Û
+         ßßßß ßßßß ßßßß ß ßß ßßßß   ß      ß  ß ßßßß ßßßß ß ßßß   ß
+
+                        $29.95 for all three missions!
+       A Top-Notch EGA (VGA compatible) Action/Adventure Scrolling Game.
+
+You're agent 006«, top agent of the government's secret organization committed
+to protecting the world against terrorists and power-mad criminals.
+
+Your mission is to parachute into a high-security island outpost and secure
+the plans to the ultimate satellite laser weapon, which was recently stolen
+from the government.  In the wrong hands this weapon could mean world control
+by the DVS, the world's most dangerous terrorist organization.
+
+You are isolated from outside help as you parachute into the secret island
+fortress of the DVS.  You will need to knock out the vast security system,
+bypass dozens of extreme traps, overcome hundreds of multi-talented guards
+(such as thugs, ninjas, sharp-shooters, knife throwers, sentries, dogs, and
+many robots), and find the missing blue prints.  If possible, take out the
+devious leader of the DVS (sorry, no file picture available).
+Secret Agent is a full-screen scrolling game, where you sneak around a huge
+map and enter various hideouts.  In each unique hideout you'll search for the
+laser blue prints, dodge traps, solve puzzles, and blast the bad guys!  All
+in good fun.  Save/restore, joystick support, EGA graphics (VGA compatible),
+and much more.
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+               ÛßßÛ ÛßßÛ Ûßßß ÛßßÛ ÛßÛ Û ßÛß ßßÛßß ßßßÛ Û  Û (tm)
+               Ûßßß ÛßßÛ Û ßÛ ÛßßÛ Û Û Û  Û    Û   Üßß  Û  Û
+               ß    ß  ß ßßßß ß  ß ß ßßß ßßß   ß   ßßßß ßßßß
+
+                $29.95 for all three puzzle-packed episodes!
+
+Journey into an Aztec pyramid and survive the adventure of a lifetime! No
+other game forces you to die in order to complete it!  That's just one of many
+incredible plot twists in this excellent puzzle-oriented arcade/adventure game.
+
+In Paganitzu you'll guide your character, Alabama Smith (Al), into a vast and
+dangerous Aztec pyramid. Indiana Jones never had it so tough! Inside, you'll
+confront traps of increasing perplexity, and creatures you never dreamed
+existed.
+
+This is a genuine adventure--not just a series of levels to conquer.  You can
+follow different routes to achieve the winning goal.  In fact, you can finish
+Paganitzu and still have missed many of the game's intriguing situations or
+animated sequences.
+
+Phenomenal animated sequences carry you through the entire pyramid and to a
+dramatic conclusion.  Stunning EGA graphics (VGA compatible).
+
+In part one, "Romancing the Rose", Al discovers that the ancient Aztec
+pyramid, known as "Paganitzu", holds many dark secrets.  Al inadvertently
+releases a spirit of immense power, who's desire is to ravage the world.
+
+Part two, "The Silver Dagger", finds Al exploring deeper into the Aztec ruin,
+in search of clues to help halt the powerful force he's released. Al enters
+a world of fiery devastation, filled with all new graphics and perils.  This
+game has two huge animated sequences that are worth the price of admission in
+themselves!
+
+Finally, in part three, "Jewel of the Yucatan", Al discovers the horrifying
+truth--the pyramid of Paganitzu is actually a living entity, which he could
+not see as a living person!  Can Al still save the world?  Will he escape with
+his life!  The chilling end awaits...?
+
+Paganitzu is an innovative arcade game.  It tests your mind more than your
+finger speed.  Each part has new puzzles, new graphics, and stunning story
+surprises.  You won't be bored!
+
+Exciting features:
+* High-speed animation.            * Many full-screen images.
+* Dramatic animated sequences.     * Great sound effects.
+* Over 1 Meg of graphics.          * Built-in hints.
+* Often hilarious game.            * Save and restore up to five games.
+* Many secret rooms and treasures.
+
+To order, call 1-800-APOGEE1, or use the ORDER.FRM file.
+
+By the way:  "Paganitzu" is Aztec for "Temple of the Gods".
+
+
+     Ûßßß ÛßßÛ Û  Û Ûßßß ßßÛßß ÛßßÛ Û       Ûßßß ÛßßÛ Û  Û Ûßßß Ûßßß Û (tm)
+     Û    ÛßÛß ßßßÛ ßßßÛ   Û   ÛßßÛ Û       Û    ÛßßÛ Û Ûß Ûß   ßßßÛ ß
+     ßßßß ß ßß ßßßß ßßßß   ß   ß  ß ßßßß    ßßßß ß  ß ßßß  ßßßß ßßßß ß
+
+                  $29.95 for all three hilarious episodes!
+
+Enter an underground world of treasures and traps.  This colorful EGA game
+(VGA compatible) rivals any commercial game with its arcade quality, puzzles
+and graphics.  As Mylo Steamwitz, you'll enter cave after cave of adventure,
+gathering the treasures of each, while evading hazards galore!  This game
+features the smoothest animated graphics ever seen in an Apogee game.
+
+The game begins with Mylo rocketing to the Altairian star system on a simple
+treasure hunt.  But what happens is far more dangerous than even Mylo
+bargained for.  He enters an underground world of chambers full of alien
+technology and traps.  Strange alien creatures and robots inhabit the caves,
+protecting the priceless crystals from money-greedy explorers.
+
+Crystal Caves is a mixing of Nintendo's Mario Brothers, Commander Keen, and
+Indiana Jones.  As with all Apogee games, a high priority has been placed on
+solving ingenious puzzles built into the game.
+
+Variety is also evident in Crystal Caves.  On some levels Mylo will even walk
+up-side-down!  Other levels have such low gravity that the recoil from Mylo's
+laser pistol can knock him into other dangers!  Some levels are without
+lights, and others are packed full of falling hammers, egg-dropping alien
+bats, free roaming slither eyes, web-shooting alien spiders, and much, much
+more.  Each level has all new graphics!
+
+There are three unique episodes to the Crystal Caves saga:  "The Trouble with
+Twibbles", "Slugging it Out", and "Mylo Verses the Supernova".  Each episode
+has a unique story twist and graphics.  Can you help Mylo strike it rich and
+quit his day job?
+
+To order, call 1-800-APOGEE1.  Or, use the order form file (ORDER.FRM).
+
+
+===============================================================================
+                          The Software Creations BBS
+
+ÛßßÛ ÛßßÛ ÛßßÛ Ûßßß Ûßßß Ûßßß Û Ûßßß    Û  Û ÛßßÛ ÛßÛßÛ Ûßßß    ÛßÛ  ÛßÛ  Ûßßß
+ÛßßÛ Ûßßß Û  Û Û ßÛ Ûß   Ûß     ßßßÛ    ÛßßÛ Û  Û Û Û Û Ûß      ÛßßÛ ÛßßÛ ßßßÛ
+ß  ß ß    ßßßß ßßßß ßßßß ßßßß   ßßßß    ß  ß ßßßß ß ß ß ßßßß    ßßßß ßßßß ßßßß
+
+       The officially sponsored Home BBS of Apogee with over 100 lines!
+
+  Voted "The Most Popular BBS in North America" by the readers of Boardwatch
+                      Magazine, for two straight years!
+
+             For direct access to ALL Apogee shareware games, call:
+
+                     (508) 365-2359 @ 2400 baud
+                     (508) 368-7036 @ 9600-14.4k v.32bis
+                     (508) 365-4035 @ 28.8k v.fast class (v.fc)
+
+      Enter file section #1 to check out all of Apogee's shareware games.
+
+      For full details about Software Creations BBS, please run the file
+                              "SWCBBS.EXE".
+
+                           Highlights include:
+  * Online ordering of all Apogee games (the full episode versions!)
+  * Local Access, via SprintNet, for much lower long-distance calling bills!
+  * Find out about upcoming Apogee games and get screen show previews.
+  * Receive online technical support, game hints and undocumented cheats!
+  * The file SWCBBS.EXE has all the details, just run it from the DOS prompt.
+
+===============================================================================
+                  °±²Û ADDITIONAL ONLINE APOGEE SUPPORT Û²±°
+
+If you can't take advantage of Apogee's BBS home board, Software Creations,
+you can find special Apogee sections on the following online services.  All
+Apogee online email should be addressed to "Joe Siegler", who is Apogee's
+Online Support Manager.
+
+America Online:  Use the keyword "APOGEE" to take you to Apogee's forum.
+CompuServe:      Type "GO APOGEE" to reach the Apogee support section.
+===============================================================================
+                     °±²Û APOGEE ORDER AND FAX FORM Û²±°
+
+To print out the Apogee Order Form, please exit this CATALOG file (press the
+[Esc] key), then print the file ORDER.FRM on your printer.
+
+FAX ORDERS:  You may also order by FAX by using the file, ORDER.FRM.  The new
+Apogee FAX line is (214) 278-4670.  This is a receiving line only, we do not
+send out information on our FAX lines.  When placing a FAX order, please be
+sure to include all the information we ask for at the top of this CATALOG file.
+
+==============================================================================
+                   °±²Û CALL FOR NEW GAME PROGRAMMERS Û²±°
+
+ş PROGRAMMERS NEEDED for inhouse and out-of-house game development!  Apogee
+  is looking for experienced C and assembly programmers with a background of
+  playing games.  We're looking for programmers who can design game
+  engines, such as 3D engines and adventure game engines.  We're trying to
+  break new ground, push the envelope, and set ourselves apart.  Please send
+  us any samples or demos of your programming talents.
+
+ş ARTISTS NEEDED for inhouse game development!  Please send at least ten
+  samples of your VGA art for us to review.  We need many, many artists.  All
+  inhouse positions are salaried and include excellent royalties, too.  Please
+  send your submissions to Apogee and mark them to the attention of "In House
+  Development".
+
+ş GAME SUBMISSIONS WELCOME.  Please send your demo or beta to Apogee and
+  address the package to "Submissions Manager".  Or, if you have a new game
+  engine, we'd like to see that, too.
+
+[ END OF APOGEE DISK CATALOG ]
+

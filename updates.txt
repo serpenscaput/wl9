@@ -1,5 +1,9 @@
 13.03.2020
--Launch and essential fixes
+-Launch and replacement of @ symbols
+-Fixed broken ASCII art in Apogee FAQs
+-temporarily deleted Apogee catalogs, to be reintroduced gradually because what I have is a mess
 
 14.03.2020
 -Started this tentative update log. Uploaded ROTT FAQ 2.0 and mini-FAQ
+-removed change notes from readme and placed here
+-reuploaded fixed Apogee catalogs
