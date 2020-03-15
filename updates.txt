@@ -13,3 +13,5 @@
 -uploaded Vincent's Wolf Tools update 8 and renamed their directories
 -improved directory structure by moving tools and game documentation to the top (thanks to Zombie for both)
 -uploaded WEX60
+-further improvements to directory structure in the above
+-uploaded XXX-WOLF
