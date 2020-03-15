@@ -15,3 +15,4 @@
 -uploaded WEX60
 -further improvements to directory structure in the above
 -uploaded XXX-WOLF
+-uploaded Wolfenstein 3D vs. WipeStar
