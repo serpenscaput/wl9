@@ -8,3 +8,6 @@
 -removed change notes from readme and placed here
 -reuploaded fixed Apogee catalogs
 -censored a name
+
+15.03.2020
+-uploaded Vincent's Wolf Tools update 8 and renamed their directories
