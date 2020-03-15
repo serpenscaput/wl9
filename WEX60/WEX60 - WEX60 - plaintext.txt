@@ -1,0 +1,455 @@
+1
+WEX60 Hint
+Book
+Document version: 1.0
+Written by The Torpid Rodriguez
+in 2020.2
+This document contains information about the Extreme 60 maps, which is an
+unofficial Wolfenstein-3D level package.
+The legendary Wolfenstein-3D have created by id Software in 1992.
+The WEX60 levels have created with the great ChaosEdit! www.chaossoftware.de.vu between 2009-2020 by me.
+I started to study Wolfenstein levels with CE in 2009. Back then I just wanted to
+create an entire level by myself. Then created two more, and I decided to make a
+whole episode. Then I want all six episodes. And by 2020, I have finished with
+all sixty levels. As a matter of course, you cannot make exactly as many levels
+as needed, I created a little more, and have rejected some.
+Note: Originally I was not intended to make changes in the source code of the
+executable. I want my levels to work with the original program. That is why the
+secret level entrance order in Extreme 60 is the same as in the original
+Wolfenstein-3D levels.
+Please don't play in “Can I play, Daddy?" or “Don't
+hurt me.” mode: You will be bored, and I will be
+pissed!
+Legend:
+h: the key is hidden
+L: this key is necessary to complete this level
+S: this key is necessary to go to the secret level(s)
+!: yes
+-: no
+*: barely / partially
+~: one of them needed
+?: won't tell you!3
+Ep1 The Secret Bunker System
+Floor Level Silver Key Golden Key
+h L S h L S
+F1
+F10
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+L1
+SL
+L2
+L3
+L4
+L5
+L6
+L7
+L8
+BL
+- ! !
+! !
+- !
+- !
+- !
+! !
+- !
+! !
+- !
+- !
+- ! !
+! -
+- !
+* !
+- !
+- !
+! !
+- !
+! !
+- !
+L1 Good luck!
+SL You must find the hidden silver key to complete this level. Good luck!
+L2 Good luck!
+L3 Good luck!
+L4 For the first part and for the last: Just go forward, follow the path! Good luck!
+L5 Monsters are in stasis. They can't shoot now even you waking them up. Destroy them till not too late!
+Then you must find the hidden silver key! Good luck!
+L6 The frightened Nazis barricaded themselves, while others fled, and the corridors were walled down
+behind them. You must find the hidden golden key to complete this level! You must alert a certain
+officer in area “A” to alert his twin in area “B” to unblock an essential pushwall in area “B”. Good luck!
+L7 You must find the hidden silver key first. Good luck!
+L8 You must find the hidden golden key first. Beware! Ghosts cannot be killed.. Good luck!
+BL The Boss lurks almost at the center of the map. He got the golden key for his office, but you need to
+find the silver key too. Good luck!
+In case if you are unfamiliar with the Wolfenstein-3D world, or just want to get used to it,
+below here are the simplified maps for the first episode, except the secret level. The grey
+areas on the maps are the corridors and rooms where you can move. White rectangle around a
+wall on the map means that wall is a pushwall. You can push it with the Use key, the same
+key with which you use to open doors. White letter “E” means an end-of-episode trigger, the
+level and the episode will be completed when you step on it. (No soldiers, monsters, dogs,
+food, treasure items, and other non-blocking items have marked. I’ve also omitted floor codes
+and direction markings. I redraw most of the markings to make it identifiable for those who
+are not familiar with CE.):4
+E1-M1
+E1-M25
+E1-M3
+E1-M46
+E1-M5
+E1-M67
+E1-M7
+E1-M88
+E1-M99
+Ep2 General Fettgesicht ¡The Irregular episode!
+Floor Level Silver Key Golden Key
+h L S h L S
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+L1
+SL1
+SL2
+SL3
+SL4
+SL5
+SL6
+SL7
+SL8
+BL
+none
+- !
+none
+none
+none
+none
+! !
+none
+none
+- !
+- ! ?
+none
+none
+- !
+- !
+- !
+! -
+none
+- !
+- !
+L1 Good dog, BAD dog! Piece of cake! (Unlike creating it! Making the dogs not to get stuck was hard!)
+SL1 Run for your life! The final elevator is hidden. You must find it before the demon of your greediness kills
+you. Beware of the grey monsters lurking near the doors! Good luck!
+SL2 Find the hidden elevator! Good luck!
+SL3 Don't run to your death! Good luck!
+SL4 Don't just run, use your tactics! Don't forget to pick up the key! Good luck!
+SL5 Death camp. No food, no ammo deposit, just death. Stay alive!
+SL6 You are dying, but you must find the key and the path for living! Don't give up!
+SL7 It's revenge time, take a bloodbath! Good luck!
+SL8 Have you ever caught BJ in drinking blood in the original Wolfenstein-3D series? No? Then listen! (Not
+for babies, nor mimosas.)
+BL Find Fat Face & Finish! Good luck!10
+Ep3 Gretel Grosse Sieben
+Floor Level Silver Key Golden Key
+h L S h L S
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F10
+F8
+F9
+L1
+L2
+L3
+L4
+L5
+L6
+L7
+SL
+L8
+BL
+none
+none
+! !
+- !
+! !
+- !
+! - !
+! !
+- !
+- !
+none
+none
+! !
+none
+! !
+- !
+- ! !
+- !
+- !
+- !
+L1 Just think about how to get trough a closed door without the key! Good luck!
+L2 Good luck!
+L3 You must find the hidden silver key to complete this level. You have to fix the elevator too. Good luck!
+L4 Good luck!
+L5 On this level, all grey pushwall has a crack on it. Push them all! Good luck!
+L6 Don't open the elevator till not saved the game! Good luck! (This was the first level I made!)
+L7 This is the level with that magic spiral! You can check the map of E3-M7 on page 14. Good luck! (This
+was the second level I made!)
+SL You must find the hidden silver key to complete this level. The path to the elevator is hidden. Good luck!
+(This was the third level I made!)
+L8 Good luck!
+BL Get Gretel Grosse! More brain than brawn! There is no place to hide, so create a trap for her: Head to
+the first room, and push a wall. Make sure that she's behind you! Good luck! Save before you enter a
+silver key door! Follow the treasure-path tightly! Watch your steps! You can't pick up all treasure items
+if you hurry!11
+Ep4 Otto Giftmacher
+Floor Level Silver Key Golden Key
+h L S h L S
+Max. Secret
+F1
+F2
+F3
+F10
+F4
+F5
+F6
+F7
+F8
+F9
+L1
+L2
+L3
+SL
+L4
+L5
+L6
+L7
+L8
+BL
+! !
+- !
+* ! !
+- !
+! !
+! -
+! !
+? ?
+none
+none
+! -
+- !
+- ! !
+none
+none
+- !
+! !
+? ?
+! !
+- !
+54%
+100%
+uncertain
+-
+100%
+100%
+100%
+uncertain
+100%
+-
+End uncertain
+L1 You must find the hidden silver key to complete this level. Getting to the elevator is tricky. Good luck!
+Note: Max secret is 54% here, sorry!
+L2 A flock of mad dogs chasing you, you must escape them. Your only hope is that these dogs cannot open
+the doors. Good luck!
+L3 You must find the hidden silver key to complete this level. Good luck! Please ignore the secret score
+here!
+SL If you don't play this level with 3 or 4 hardness level, don't listen then, just feel bored. More brain than
+brawn! Find the alternative path. Don't run to your death! Good luck!
+L4 You must find the hidden silver key to complete this level. You must unblock your path. At the end of
+this level, there is a strange elevator switch on the wall. Good luck!
+L5 Oh no! It's a deadly trap! Fight for your life!
+L6 You must find the hidden silver and golden keys to complete this level. This level sucks.
+L7 -No spoiler available- Good luck! Please ignore the secret score here!
+L8 You must find the hidden golden key to complete this level. More brain than brawn! Try to find a safe
+place from where you can start cleaning! A secret place there can help you! Good luck!
+BL Go Get Giftmacher! You must unblock the path first. Good luck!12
+Ep5 Operation: Eisenfaust
+Floor Level Silver Key Golden Key
+h L S h L S
+Max. Secret
+F1
+F2
+F3
+F4
+F5
+F10
+F6
+F7
+F8
+F9
+L1
+L2
+L3
+L4
+L5
+SL
+L6
+L7
+L8
+BL
+! !
+- !
+- !
+- *
+! ~ !
+- !
+! !
+- !
+- !
+! -
+! !
+- !
+none
+- !
+! ~ !
+- !
+- !
+- !
+- !
+- !
+100%
+66%
+100%
+100%
+83%
+-
+100%
+100%
+uncertain
+-
+End uncertain
+L1 You must find the hidden silver and golden keys to complete this level. The final elevator is hidden.
+You can check the map of E5-M1 on page 14. Good luck!
+L2 You must find the hidden path to proceed to the center of the level. Good luck! Note: Max secret is 66%
+here, sorry!
+L3 Memorize the door you leave because you must go back exactly there, opening any other door just
+deliver you a quick death, BJ! Good luck!
+L4 Don't let you killed by the grey monsters! Attack them from behind! To do this you will need the silver
+key, which is in the labyrinth. This labyrinth can't be just walked through with the well-serving alwaysturn-left method. Be strenuous! (Or do whatever you want.) Good luck!
+L5 You must find the hidden silver OR the hidden golden key to complete this level. You also have to be
+lucky to find the hidden golden key. Stop when you see "Verboten", it says: Paranormal danger ahead!
+You can check the map of E5-M5 on page 15. Good luck! Note: Max secret is 83% here, sorry!
+SL Good luck!
+L6 You must find the hidden silver key to complete this level. The final elevator is hidden. You will have
+one extra life at the beginning of the level, and two med kits awaiting you after you acquired the golden
+key. These three are the only health items on this level! Use bullets rather than being hurt! Be quick
+after you enter the silver key door, because only Hans has the golden key, and he is behind a golden key
+door, someone will open the door inside, but right after you must enter to wake up the boss, otherwise
+you'll never be able to complete this level! Good luck!
+L7 Be smart! Good luck!
+L8 The final elevator is hidden. This level contains a puzzle. If you proceed without solving the puzzle, you
+will be killed in seconds, Mr. Blazkowicz! (Except in baby mode.) (Unfortunately, those demonic
+smokes sometimes break out spontaneously, so it is advisable to save often in different slots to be able
+to continue the game when it happens.) Save the game when you enter this level, and keep it untouched!
+You can check the puzzle in E5-M8 on page 15. Good luck! Please ignore the secret score here!
+BL Shoot Schabbs! Good luck!13
+Ep6 Die, Fuhrer, Die!
+Floor Level Silver Key Golden Key
+h L S h L S
+Max. Secret
+F1
+F2
+F3
+F10
+F4
+F5
+F6
+F7
+F8
+F9
+L1
+L2
+L3
+SL
+L4
+L5
+L6
+L7
+L8
+BL
+none
+- !
+- - !
+! !
+* !
+- !
+- !
+! !
+- !
+- !
+! !
+none
+! - !
+none
+! !
+- -
+! !
+! -
+- !
+- !
+uncertain
+100%
+uncertain
+-
+100%
+100%
+100%
+100%**
+100%
+-
+End uncertain
+L1 You must find the hidden golden key and the hidden golden key door to complete this level. Good luck!
+Please ignore the secret score here!
+L2 You can check the map of E6-M2 on page 16. Good luck!
+L3 Follow the guard! If you do it too tightly, you will be noticed. But if you lag behind the guard, the door
+will slap before you. Good luck! Please ignore the secret score here!
+SL Surprise! Is this the Boss level? No, it can't be.. But it is, just in an earlier stage! Sludge break yet is a
+minor problem. Improve the opportunity, and look around! Good luck!
+L4 You must find the hidden golden key to complete this level. Good luck!
+L5 A huge labyrinth. Use the silver key door system in the maze as a shortcut when you want to go back
+(and forth) to the silver key door located in the first room. You can check the map of E6-M5 on page
+16. Good luck!
+L6 You must find the hidden golden key to complete this level. As you get the golden key, something
+startling will happen: The two keys melting together, and you will have only one bronze key that will
+open every door, EVERY DOOR. Good luck! You will need it.
+L7 **You shouldn’t open every pushwall on this level. If you open the wrong pushwall, you will be chased
+by demons. Check the map E6-M7 on page 17. Good luck! Besides, if you not open all pushwall, your
+secret ratio will not be 100%.
+L8 Good luck!
+BL Déjà vu, or isn't? Since then, sludge break grew serious, obstructing the south side of the bunker.
+Fortunately, Hitler is lurking somewhere near here... Halt Hitler! You can check the map of E6-M9 on
+page 17. Good luck!
+Here are some simplified maps. (See page 3 for details about my simplified maps):14
+E3-M7
+E5-M115
+E5-M5
+The puzzle in E5-M816
+E6-M2
+E6-M517
+E6-M7
+E6-M9

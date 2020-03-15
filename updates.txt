@@ -11,3 +11,5 @@
 
 15.03.2020
 -uploaded Vincent's Wolf Tools update 8 and renamed their directories
+-improved directory structure by moving tools and game documentation to the top (thanks to Zombie for both)
+-uploaded WEX60
