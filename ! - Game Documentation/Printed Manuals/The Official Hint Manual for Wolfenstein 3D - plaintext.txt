@@ -1,0 +1,1442 @@
+﻿The Official Hint Manual for
+Wolfenstein 3D
+Created by Id Software • Distributed by Apogee Software
+
+Wolfenstein 3-D Hint Manual
+
+Table of Contents
+Hints and Strategies............................1
+Who is B.J. Blazkowicz?.........................3
+Nazi Foes You’ll Face...........................3
+Using the Maps..................................5
+Episode One.....................................6
+Episode Two.....................................17
+Episode Three...................................28
+Nocturnal Missions..............................39
+Episode Four....................................39
+Episode Five....................................50
+Episode Six.....................................61
+What Are They Saying?...........................72
+Id Album of Wolfenstein Moments Best Forgotten..73
+Message From Id.................................74
+
+TOP SECRET!
+Within these pages is top secret information on the six incredible missions of B.J. 
+Blazkowicz. Detailed first is his mission to destroy the perfect soldiers made by the insane Dr. Schabbs. 
+With the Nazi’s last gasp effort squelched, Blazkowicz attempts to assassinate Adolf Hitler.
+
+After these amazing triumphs, we turn to B.J.’s earlier disruption of the Nazi plans 
+for chemical warfare. 
+In the context of these impossible feats, one can understand why he was the only 
+choice to send after Dr. Schabbs and Hitler.
+Also included is a brief biography of William J. Blazkowicz, arguably the strongest, 
+most durable spy for the Allies in World War II.
+
+EVEN MORE SECRET!
+Within these pages are amazing facts about the development of Wolfenstein 3-D and 
+secrets about the game that you can’t find anywhere else! From the secret jukebox in the game to the very 
+prolific Grosse family, you’ll find everything you want to know and more within these pages!
+Hints and Strategies
+
+Playing Wolfenstein requires combat experience that only battle-hardened veterans 
+possess. The following strategies provide basic ideas on combat etiquette. Plus, 
+it gives a little insider information that will help you survive when things get rough!
+
+Get a Gallon of Gibs-To-Go!
+A good warrior will do anything to survive. When severely injured (less than 10% 
+health), you can regain strength by eating pools of “gibbitude.” Piles or puddles 
+of viscera are commonly referred to as “gibs” or giblets. Torture rooms, prison areas, 
+and kennels are the best places for finding floor slop. Remember, “pride goeth before...a fall,” 
+and sometimes you have to be a real blood ’n’ guts soldier!
+
+Sneaky Keys and Hidden Halls
+The Nazis don’t like walking across a crowded dungeon any better than you do! Often, 
+there is a hidden door in or near the room where a key is located. This hidden door 
+can reveal a safer (and much shorter) passage than the one you travelled to reach the key.
+
+Cheaters Never Prosper!
+You know about the MLI keys. Muchlike a gift from above, pressing MLI will provide you with both keys, 
+99 ammunition, 100% health, and a chaingun. This may make you feel guilty, but living with the shame 
+may be more desirable than dying.What you may not realize is that MLI also adds 10 minutes to your 
+time and reduces your score to zero. You will never make a top score pressing MLI—and getting a high 
+score is one of the main goals of the game.
+
+Shoot ’Em in the Back!
+That’s right! Quickly take advantage of the opportunity to surprise a guard and shoot 
+him in the back. “War is no place for manners.” A bullet in the back will cause double 
+the damage. When you’re sneaking up on an SS with only one bullet in your gun, you hope for a lucky shot.
+
+Shooting Their Mouths Off!
+When Nazi guards hear your shots, often they’ll bark a warning. This can work to 
+your advantage. Shoot outside a doorway and count the voices from beyond the door. 
+Warning: This is not always effective. Some SS and Officers are trained to keep their mouths shut. 
+Plus, Mutants are dead and dead men tell no tales.
+
+A Good Soldier Secures the Area
+Clear a room or corridor of everything before leaving or before searching for secret 
+passages. Guards can come from nearby passages and sneak behind you. A close range 
+attack can kill you in one or two shots. If you hear a shot behind you, your best maneuver 
+is to run to safety. “Before you spin around, you’ll be six feet underground.”
+
+Don’t Dally in the Doorway
+Never stand in a doorway when you re engaged in a fire-fight. Your peripheral vision 
+is poor and your attention is focused on your target. Guards that are posted near 
+a doorway will shoot without you seeing them.
+The best way to enter a doorway is to open the door and back up. To spot possible 
+enemies within the room, slide left to right while the door remains open.
+
+Waste Not, Want Not
+Many of your adversaries, especially killer dogs and officers, are placed in an area 
+for the sole purpose of wasting your ammo. These fast-moving foes will run from left 
+to right in the hopes that you’ll shoot and miss. Don’t fire until you move close enough to 
+tag ’em with relative efficiency. Quickly shoot as they pause to attack you.
+
+Elevators Are For Everyone!
+Don’t become accustomed to seeing the elevator as a sanctuary. Often you’ll be surprised 
+by a guard or SS! In the more difficult levels of the Nocturnal	Missions, many guards 
+may be inthe larger freight elevators.
+
+Big Guns Chew Ammo
+If you’re low on ammunition you should use the machine gun instead of the chaingun. 
+Get used to switching weapons quickly. A room full of brown shirt Guards can be easily 
+dispatched with a machine gun, but a room full of SS requires more fire power.
+
+Never Fight a Two-Front Battle
+Attempt to keep your fire-fight localized to one entrance. If there are two doors
+into an area, only open one. Then step back and wait for the guards to come to you. 
+If you hear a door opening behind you, it is best to move to cover. Guards from other 
+areas will hear you and move in through other entrances.
+
+Head Over Heals
+If you are near several sources of health (food or first aid kits) during combat, 
+move to it and attempt to attract the guards to you! Stay on top of the source of 
+health and slowly move over it as the fight progresses.
+
+Be A Mouse-Key-Teer
+Using the keyboard and mouse together is a must for advanced play. The mouse is a 
+more exact tool for movement than the keyboard. Use the Up Arrow and Right Shift 
+keys to run like lightning through long corridors.
+
+No Hostiles in Hidden Hallways
+If you discover a secret room, don’t worry about searching for guards. Guards are 
+never stationed immediately inside secret areas.
+
+Up Close and Personal
+The closer you are to your target the more damage you will inflict. This goes both 
+ways, so make sure you shoot first during close-quarters combat.
+
+Ten Levels and a Wake Up
+Although you can finish each episode in nine levels, each episode contains ten floors. 
+The tenth floor can be reached via a secret elevator that is hidden within another 
+level. The secret floor is always more difficult than prior levels. However, it is usually 
+filled with extraordinary amounts of treasure.
+
+A Sitting Duck is Out of Luck!
+Your enemy’s aim isn’t perfect. Guards must constantly adjust in an attempt to anticipate 
+your actions. A moving target is always more difficult to hit and it is less likely 
+that a guard will sneak behind you if you are always moving.
+
+Who is B.J. Blazkowicz?
+
+When we talk about B.J., the above image is who we have in mind. It was created by 
+Id Software’s Master of the Pixel, Adrian Carmack.
+
+William Joseph Blazkowicz was born August 15,1911, to Polish immigrants. Blazkowicz 
+was a top spy for the Allied Forces, receiving the Congressional Medal of Honor and 
+other accolades for heroism. “B.J.”, (as he was called by his friends) married after World War II, 
+at age 40, to Julia Marie Peterson. Their son, Arthur Kenneth Blazkowicz, became a television 
+talk show personality in Milwaukee. For show biz purposes, Arthur changed his last name to Blaze.
+ Arthur later married Susan Elizabeth McMichaels. They had one son (which they named after Arthur’s father), 
+William Joseph Blazkowicz II, or as he signs his grade school homework, B. Blaze....
+
+Nazi Foes You’ll Face
+
+Basic Actions
+Guards are alerted to your presence if they see or even hear you. The sound of a 
+gun shot or a door opening will give your location away. Each enemy is given specific orders 
+which dictate his actions once he knows of your presence. Some are ordered to immediately attack, 
+while others are trained to act only upon visual contact.
+
+Also, each type of enemy varies in abilities. For example, Officers are very alert 
+and rarely can be surprised. However, Guards aren’t as attentive and can be surprised 
+easily. In Episode One, you may have enjoyed sneaking upon a slow-witted brown shirted Guard. 
+This is a luxury Officers won’t let you afford.
+
+Finally, each type of enemy differs in marksmanship, body armor, speed, intelligence, 
+and weaponry. Understanding their differences is a key step in defeating them!
+
+Killer Dogs
+Once on the attack, these German shepherds will move directly towards their prey.
+
+A single bullet will bring down a killer dog. However, they are trained to quickly 
+dodge during an attack, making them difficult to shoot. Besides being somewhat of 
+a nuisance, the Nazis effectively use them as cannon fodder. Don’t waste your bullets 
+on dogs until they are at close range. It is easier to kill dogs if you stand in a doorway a
+nd wait for them.
+
+Guards
+Guards are the grist for the Nazi mill, but can be an effective force if fighting 
+in groups. They wear no body armor and can be brought down in a single shot. Carrying 
+only a pistol, their firepower isn’t exactly menacing. Guards are slow to react and must 
+stop and take aim before shooting, making them particularly vulnerable to a machine gun attack. 
+Using the chaingun on these fellows is really a waste of good lead.
+
+SS
+The SS are well-trained and can rarely be surprised. Most will bark a warning when 
+they become aware of your presence. This can make for an easy head count. However, 
+some are trained to be silent. Wearing bulletproof vests and carrying a machine gun, 
+the SS are difficult to bring down and pack a heavy punch. If an SS shoots you at close 
+range, the encounter will be very brief because you’ll be toast!
+
+Mutants
+Mutants don’t make a sound until they shoot, greeting you only with the crack of 
+gunfire. They are extremely aggressive and will continue to attack until dead. Mutants are 
+equipped with chest guns and cleavers. They wear no armor, but can take almost as 
+much damage as an SS guard.
+
+Officers
+Officers are usually silent until they confront you face to face.
+They can rarely be surprised, and are fast, intelligent fighters. Officers will move 
+to the left and right as they fire, making them difficult to hit as well as draining 
+you of ammunition. An officer’s weapon of choice is a pistol. They wear light vests 
+and can take about half the damage of an SS guard. Don’t underestimate their abilities. 
+In close quarters combat, these guys will make life miserable and short!
+
+Using the Maps
+
+Within the Hint Manual are sixty pages of maps. Starting with the first floor of 
+Episode One, every level in Wolfenstein 3-D is shown.
+
+The map pages display every aspect of the dungeon layout. You’ll not only be able 
+to view the floor designs, but will see the location of every guard, hidden passage, 
+etc. Each floor on Episode One has been played by John Romero, currently the best 
+Wolfenstein 3-D player in the world. His record time for completing each level on the 
+Bring 'Em On difficulty setting is given above the map.
+
+Each page also provides step by step instructions for surviving each level. For your 
+convenience, special areas are highlighted with a circled number as shown above. 
+Plus, many pages provide special play hints from the guy who designed the level.
+Included on many pages are sections entitled Wolfenstein Lore. These special captions 
+provide insights into game design and discuss aspects of its development that can 
+only be found within the pages of this book.
+
+
+The Key to the Map
+The following is a list of symbols that are used throughout the maps.
+	Where you start
+	Hint Reference Number
+	Walls
+	Walls with pictures, etc.
+	Prison areas
+	Doors
+	Doors requiring silver key
+	Doors requiring gold key
+	Elevator Door, Fake Door
+	Elevator to Secret Level
+	Outside area
+	Up Elevator
+	Pushwalls
+	Treasure
+	Ammunition
+	Health
+	Gold key, Silver key
+	One-Ups
+	Machine gun
+	Chaingun
+	Guards
+	Dogs
+	SS
+	Officers
+	Mutants
+	Ghost
+	Fake Hitler
+	Boss
+
+Episode One: Escape From Wolfenstein
+
+In this episode, we find B.J. Blazkowicz captured on a mission to uncover the plans 
+for Operation Eisenfaust. He’s sent to a dungeon fortress known as Wolfenstein and 
+subjected to harsh interrogation. In a desperate attempt to escape he overpowers his cell guard. 
+Armed only with the guard’s pistol and knife, he must attempt to escape from this prison or die trying!
+
+Meet the Boss—Hans
+
+On the ninth floor of every episode is a super villain or “Boss.” In Episode One 
+you’ll face Hans Grosse. All Bosses have bad attitudes and would like nothing better 
+than to see you beg for mercy. They pack the big guns—Hans wields two chainguns, while 
+others pack far more diabolical weapons—missiles, or hypos filled with deadly serum.
+
+It requires tons of ammunition, health, and a chaingun to fight a big guy like Hans. 
+Everything you need to make a Boss give you the respect you deserve is located somewhere 
+on the final level. The drawing on the left is Adrian Carmack’s early concept sketch of Hans.
+
+Going From Sketch to Screen
+
+When Id’s Creative Director, Tom Hall gets an idea for a screen, he provides sketches 
+to Adrian Carmack. Below are some of Tom’s early designs for the title screen.
+The third sketch was chosen.
+
+Episode One, Floor One (Record Time: 24 seconds)
+
+1. You’ll need more than a pistol if you’re going to make it out of this fortress. 
+Get the machine gun that’s in the hidden area. The level is much easier if you’re 
+carrying real fire power.
+2. The elevator to the Secret Level is hidden behind two pushwalis. Don’t worry about 
+missing any action. After you play the Secret Level, you’ll return to level two.
+3. Don’t miss the 1 Up that’s hidden before the elevator to the secret level. You’ll 
+need the extra help if you venture up to the Secret Level.
+
+Episode One, Floor Two (Record Time: 39 seconds)
+
+1. Get the chaingun here. Now you’re really packing a punch!
+2. Get the gold key here.
+3. After dealing with the hallway full o’ guards, SS, and dogs, unlock the door, and shoot 
+your way to the elevator!
+4. If you venture up here, don’t miss the bullet/healing trove!
+
+Episode One, Floor Three (Record Time: 28 seconds)
+
+1. It’s the third door on the left. Get the key!
+2. Don’t go into any of the doors on the left side of this hallway if you want to 
+get out the quick way. There aren’t any chainguns to be found in that maze of rooms.3. You can clear this area of guards, if you must. No surprises in the elevator here.
+4. Here’s a super-secret area that’s accessible by pushing three walls. After a long 
+hallway, you’ll be getting lots of treasure!
+
+Episode One, Floor Four (Record Time: 34 seconds)
+
+1. Watch out for these guards! After you open the second door, fire a shot and watch 
+everybody come out of the woodwork!
+2. This is a good room to go to if you’re injured or would like to get your hands 
+on a big chaingun to relieve your blood-cravings.
+3. The key is to the right of the door. Immediately after opening the door, aim to 
+the right and toast the SS!
+4. If injured, proceed quickly to this room where there are no enemies. There’s a 
+first aid kit hidden in the swastika wood-block.
+5. There’s lots of treasure in here, but blast all the guards first! (Two guards 
+in “Don’t Hurt Me!” and four in “Death Incarnate”.)
+
+Episode One, Floor Five (Record Time: seconds)
+
+1. Collect your wits, you’re in for quite a fight—especially on “Death Incarnate!”2. If you’re hurting: go left, shoot the guard and get the food. If you’re greedy, 
+go straight ahead and get the treasure. If you just want the key, go right and toast 
+the SS!
+3. SS Alert! This is where the key is and boy, is it guarded!
+4. As soon as you’re in this room, aim over the green barrels and blaze all over 
+that Nazi guard!
+5. There’s a bunch o’ SS in here! Open the door and lay on, McDuff!
+6. Caution Alert! After you take care of the guards, there’s an SS waiting in the 
+elevator (well, on higher skill levels).
+7. This pushwall leads to a gigantic hidden area, perhaps the largest in all the 
+levels. There’s tons of treasure waiting for you!
+
+Episode One, Floor Six (Record Time: 59 seconds)
+
+It’s action right from the start in this level!
+
+Wolfenstein Lore
+A Game of Many Names
+Although it's now called Wolfenstein 3-D, Tom came up with several other names. A 
+lot of these are jokes, though: CASTLE OCHTENSTEIN, LUGER'S RUN, THE FOURTH REICH, 
+ADOLPH'S BANE, HARD CELL, LUGER ME NOW, TANK YOU VERY MUCH, CASTLE HASSELHOFF, HOW DO YOU 
+DUSELDORF?, CASTLE VERLASSEN (To abandon the castle), STURMWIND (Stormwind), HOLLEHAMMER 
+(Hellhammer), SHATTENSENDENER (shadowsender), GERUCHSCHLECT (bad smell), DOLCHTEUFEL (devildagger), 
+GRABGRABBENER (Gravedigger), EISENSCHWERT(ironsword), DAMMERUNG(twilight/dawn) Hollehammer got used 
+as the name ot the castle in episode 2.
+
+1. Stop here for the big gun! Use it to lay waste to all in your path on your way to (2).
+2. Switch to the machine gun for the dogs (or they’ll make you waste a lot of ammo!) 
+and pick up the key.
+3. Journey here, unlock the door and introduce the SS to Mr. Chaingun! (And don’t 
+forget the 1 Up behind a pushwall on the right before the locked door!)
+
+Episode One, Floor Seven (Record Time: 39 seconds)
+
+1. Here’s the key you need to get off the level. But there’s two SS guarding it. 
+You’re the hero-“explain” it to them!
+2. If you’re without a chaingun, pick it up here!
+3. There are two ways to the elevator. Pick one and run. If you pick the high road, 
+stop for some health and ammo at (4).
+
+Some thoughts from Tom Hall, Creative Director: “This level centered around two ideas 
+I thought of as I was going to sleep (when I get some of my strangest ideas). The 
+elevator being in the middle of three room supports, with the guards (on Death Incarnate) 
+firing at you from both sides-that came to me very cinematically. The other was the hallway 
+you have to run quickly through, with guards firing from both sides. In later levels, I grew to 
+enjoy having actors (guards, SS, officers) in places that you could only get to from a 
+secret (or at least different) route. I like building curiosity in the player.”
+
+Episode One, Floor Eight (Record Time: 33 seconds)
+
+1. Get the key away from these pesky SS. Don’t forget the hidden 1 Up behind the wall!
+2. Pick up a chaingun, ammo, and healing behind these two pushwalls.
+3. Another 1 Up behind a chain of pushwall rooms!
+4. Some more handy health and ammo.
+5. Get outta here and head for Hans!
+
+Episode One, Floor Nine: The Boss
+
+Hans Grosse
+Guarding the exit to the castle is one Hans Grosse. He comes from a large family 
+with one sister, Gretel, and many brothers. Watch out for them in future levels! 
+Hans is big, but he is not very smart. Shoot at him, strafe to the side when he’s about to shoot, 
+then have at him again! Soon he’ll be crying “Mutti!” (“Mommy!”) and you’ll be running for freedom!
+
+Wolfenstein Lore
+Engine John
+We call the part of a program that actually gets the graphics onto the screen,“the 
+engine.” The cool, texture-mapped engine for Wolfenstein 3-D was written by our resident 
+technical “soopah genius,” John Carmack. However, he's already disgusted with the technology. 
+He's excited about his new ideas on rendering holographic worlds.
+
+1. Get all this free stuff. The chaingun here might be useful.
+2. Open the door and get the hell out of the way. Back up, slide to the side, and 
+get ready for Hans!
+3. If you lure Hans away, you can sneak into his room for a free 1 Up, which also 
+works as a total heal.
+4. You escaped! Yeah!
+
+Kevin’s Healing Trick: Our manual designer and artist, Kevin Cloud, figured out a 
+great trick to beat Hans with ease: lead him to the secret room, stand on the health, 
+and blast away, toe to toe. Keep sliding over the healing and it’s like having 300% health!
+
+Episode One, Secret Floor
+
+1. A good first stop: free healing and ammo!
+2. There’s the key-but there’s a few SS to deal with first. Get that 1 Up—hey! Hidden 
+behind the pushwall are THREE 1 Ups!
+3. Take the shortcut back. Two pushwalls, leave the room, and you’re right by the 
+locked doors that lead to the elevator!
+4. Don’t be fooled by this fake elevator-it’s an SS deathtrap (or bullet cache, depending 
+how good you are)! Hidden off this room-treasure and two 1Ups.
+5. Two “Mein lebens!” later, elevator time!
+
+Episode Two: Operation: Eisenfaust
+
+You’ve now returned to Germany to finish your mission: find out if Operation Eisenfaust-a 
+plan to create the ultimate soldier-is real. The maniacal Dr. Schabbs has managed 
+to graft a working hand onto the chest of the recently dead, and to bring them back to life! 
+Armed with two cleavers and a pistol, these “mutants” are especially deadly because they make no sound when 
+they see you. Their greeting is the crack of their gun! Somewhere in the depths of Castle Hollehammer, 
+Dr. Schabbs awaits you with re-animation serum. Defeat him, or become a mutant yourself!
+
+The Making of a Dr. Schabbs
+
+Dr. Schabbs personfies the most diabolical of all the Nazi endeavors, inhuman experiments 
+with people. Creative Director, Tom Hall wanted Schabbs to not only be tough, but 
+twisted—a character that is human in appearance, but monstrous in action. So we added a few traits 
+that embraced this persona.
+
+As you approach Schabbs, you'll hear his diabolical laughter echoing in the room. 
+He isn’t a warrior like Hans Grosse. Schabbs doesn’t care about the element of surprise. 
+He’s excited to see you! To him, you’re just a toy for his experimentation.
+
+Instead of giving him normal weapons, we equipped Schabbs with deadly hypos containing 
+his serum of re-animation. The good doctor doesn’t want to harm your body. He simply 
+wants you dead, so he can install a new pistol in your chest!
+
+The images to the right show the transition from Tom’s original sketch to Adrian’s 
+final creation. The end product is a character that could be considered the most 
+perverse of all the bosses.
+
+Mutants
+This is your first opportunity to face Mutants. These green meanies are silent attackers—waiting 
+in corners or behind doorways for unsuspecting visitors to pass nearby. Unless you’re 
+careful, your first introduction to them will be a bullet or cleaver in the back.
+
+Episode Two, Floor One
+
+Wolfenstein Lore 
+
+The Music Man 
+Robert Prince, our musician, used to be a lawyer! He got tired of the legal games and decided to pursue 
+his other love, music. He has provided the music for the Keens and Wolfenstein. His work also appears in 
+the Apo- gee games "Cosmo's Cosmic Adventure" and "BioHazard." Now we just say that our music is done by 
+Prince! (Robert, that is.) 
+
+Tom speaks about the beginning of Episode Two: “I didn’t put any enemies in the first 
+few areas to induce tension. Your first run-in with a mutant is made that much more 
+shocking.”
+
+1. Go for the machine gun here.
+2. Use the machine gun to waste the mutants and get the chaingun behind the pushwall.
+3. After a few mutant gurgles, it’s floor two!
+4. Hidden behind two pushwalls is the elevator to the Secret Level. Lotsa treasure, but lotsa mutants!
+ 
+Episode Two, Floor Two
+
+“I like how you can look past the columns out at the starry night sky. Maybe it's 
+just me, but I really think it looks sharp,” says Tom. “And somehow, it makes you feel a little 
+colder....”
+
+1. Shoot the mutant and wait here for his buddies. Then get the ammo on the other side.
+2. Push this wall to get to the rest of the floor.
+3. Get to the key, but don’t get turned around in this confusing red brick area!
+4. Grab the gun behind the pushwall, and blast your way to floor three!
+
+Episode Two, Floor Three
+
+“On this level,” says Tom, “I like the closet the key is in, and the hidden areas that get better and better, 
+then end in lots of SS.”
+
+1. Get the key, after the SS find themselves more horizontal than normal.
+2. Wow, look at all that stuff! How can I get to it?
+3. By going here, that’s how! Pushwalls lead to better and better hidden treasure, including everyone’s 
+favorite—the chaingun!
+4. Here’s the key, but beware the mutant gauntlet!
+5. Don’t forget to pick up the hidden ammo before you exit.
+
+Episode Two, Floor Four
+
+“False doors and death traps!”
+
+1. Rush forward, shooting the mutant as you go. Now, quickly duck in the two side 
+rooms if you need healing and bullets.
+2. Go here and scoop some more bullets.
+3. Here’s the first of two keys you need. Be careful of those mutants! And get the 
+healing and ammo hidden in the middle.
+4. The second key is in a death trap. One shot from you and all the mutants come 
+out! Waste ’em and there’s a hidden chaingun for you!
+5. Go through these doors and exit. Watch out for the mutants just before the elevator.
+6. This large hidden area leads to lots of ammo and two 1Ups. Worth the trip!
+
+Episode Two, Floor Five
+
+You can solve this swastika-shaped level by only going into three rooms! (But you’ll 
+miss some neat stuff!)
+
+1. If you’re low on ammo, “borrow” some from these two guards.
+2. Pick up some free healing here.
+3. If you’ve got enough ammo, pick up the chaingun here (much to the chagrin of the 
+SS in the room).
+4. Seven or so guard plops, and you can wrest the key from these mutants.
+5. Watch out for the guard and SS as you round the corner, clear the hallway, then 
+visit the kennel. These dogs have a lot of healing and treasure hidden away.
+6. Here’s the second key. Five Nazis await you.
+7. Pick up ammo and a hidden 1Up here.
+8. Wade through a bunch of SS and guards, and you’re “Going up!”
+22
+
+Episode Two, Floor Six
+
+1. Get this food and ammo-you'll need it as you face the mutants in the hallway.
+2. Here’s one of the easiest-to-get chainguns in the whole game!
+3. Navigate through the maze to this point. How? Follow the bloodstains on the wall! 
+Now rush and get the key, not firing, and you’ll get through faster. If you stay and fight, at least you 
+get ammo and healing for it.
+4. Make it past this room and take the left elevator-the one facing you is a mutant trap!
+
+Episode Two, Floor Seven
+
+Wolfenstein Lore
+
+The Way to Play
+John Romero’s current record for finishing episode one is five minutes, twenty seconds! 
+That's not going for anything but the fastest path to each elevator. He welcomes 
+all challengers to this record. John’s advice: “Play with the mouse and keyboard and use the Up Arrow 
+and Right Shift keys to run most of the time. Don't sit and wait for the enemy to come—charge and 
+lay waste to them before they know what hit ’em. There's no room for wimps in World Class Wolfenstein play. 
+When you start getting desperate, look for hidden areas. Run away when you have to. When you're 
+hurt, let them open the door. Shoot as the door opens and you'll get 'em.
+
+The first shareware upload had a bug where your final time wasn't accurate if you saved and reloaded. Version 
+1.1 is fixed (and has a different verification code). This is the only version that is valid 
+for checking your fastest time-and YOU WON’T BEAT MINE!*”
+*challenge
+
+This may seem like a tiny level, unless you push the wall in the elevator room, then 
+you can find treasure, a chaingun, and FOUR 1Ups!
+
+1. Get the key here. Not too hard.
+2. You can head out the elevator if you are full up with nine lives (watch out for the SSI), but push that wall 
+for excitement!
+3. Hidden off this room is the first 1 Up.
+4. Get the chaingun here so the mutants later are no problem.
+5. These mutants guard three 1Ups. Tell them what fer. Now go back to the elevator!
+Episode Two, Floor Eight
+
+1. First off, you need the key these SS are guarding.
+2. Terminate the guards outside, the one inside, and here’s a lot of ammo!
+3. Here’s the big gun!
+4. Okay, key two is guarded by a mess of SS... hey, my gun is a LOT bigger than theirs is! Ah, well, 
+all’s fair...
+5. Get past the guards, SS, and the SS in the elevator, and you’re heading for the lab of the maniacal Dr. 
+Schabbs!
+
+Episode Two, Floor Nine: The Boss
+
+Dr. Schabbs
+
+Dr. Schabbs has created an army of undead fighting machines, and now he wants you to join their forces! Armed 
+with hypos full of his poisonous corpsokinetic animation serum, he’s mean, obscene, and wants you to be green!
+
+1. Pick up full ammo and a chaingun here.
+2. Push this wall and heal up. There's plenty, but heal up with food if you need 
+less than 25%. If you want to block off the entrance, there’s a pushwall available.
+3. Push this wall and you have an exit to run from Schabbs if you come back for healing. 
+Getting him in the healing room also gives you more time to get more bullets.
+4. Take out the mutants, then get Schabbs’ attention! If you lead him out of the 
+room, there's ammo, healing, and a 1 Up (full heal) hidden in his room. To get Schabbs, 
+shoot at him from around a corner. His needles will hit the wall and you are in relative safety. 
+Once he cries “Mein Gott in Himmel!”, you’ll be heading for episode three!
+
+Episode Two, Secret Floor
+
+You can just shoot a few mutants and run to the elevator, but you’ll miss tons of 
+treasure, a chaingun, and two 1Ups!
+
+1. After dealing with the mutants at the start, head to this roomful of mutants. 
+Open the door and shoot to get their attention, back off and dispatch them as they 
+come out of the room. Now go get the chaingun and 1 Ups!
+2. It’s a long tunnel of treasure, dumping out into a roomful of goodies, plus three SS! Dispatch them, push 
+some walls, take care of some more, and then sneak back to the main hallway through the secret pushwall.
+3 & 4. Push the wall, run in shooting, and get all the treasure!
+5. Now head for the elevator, stocked up, and much richer.
+
+Episode Three: Die, Fuhrer, Die!
+
+In this episode, you’ve been assigned to shatter the Third Reich by taking out its 
+nexus-Adolf Hitler. You searched for him in his bunker, but he had fled to the Reichstag, 
+a titanic building designed to defend against such attacks. You must make it past the numerous guards, 
+tough SS, and crack-shot officers, all the way to your final confrontation with Hitler. And you can be sure, he’s 
+ready for you!
+
+Who’s Afraid of the Big Bad Adolf?
+
+At this point, you’ve faced Hans, the ultimate warrior, and the diabolical Dr. Schabbs, 
+the most evil of all Nazi scientists. Now it’s time to face the fury of the Fuhrer.
+
+Creative Director, Tom Hall created a boss that embodies the actual powers of Hitler—the 
+ability to deceive, and the ability to create an unbeatable war machine. These characteristics 
+are personified in the form of the Fake Hitlers and the MechaHitler.
+
+The Fake Hitlers are a clever deception. Positioned throughout Hitler’s sanctum as 
+his first line of defense, their real intent is to weaken and drain you of ammunition. 
+Don’t hunt for these guys. They carry a flame thrower which may be slow, but packs a heart-stopping punch. 
+Watch out, or you’ll be B.J. flambe.
+
+Once you make it past the Fake Hitlers, you’ll enter Adolf’s inner-sanctum. Adolf 
+is expecting a visitor and has dressed for the occas-sion. Encased from head to toe 
+in heavy armor, he’s prepared a little surprise for you. The MechaHitler has four chainguns and carries more 
+armor than a Tiger tank. He’s slow but difficult to bring down. His chainguns deliver more firepower than you 
+can possibly withstand. Stay out of his way!
+
+After you destroy the MechaHitler, Adolf’s armor falls to the floor and you’ll face Hitler himself. At 
+this point you are probably severely damaged and out of ammunition. You’re in trouble!
+
+The images to the right show the transition from Tom’s sketch to the final MechaHitler.
+
+Episode Three, Floor One
+
+You start out just having come up a secret elevator obscured by bushes behind the 
+Reichstag.
+
+1. Not too much of a problem getting the key in this room. Paste everyone’s face on the wall and you’re all set!
+2. Here’s the doorway to the elevator room. Watch out for the guards that try, in their own little way, 
+to ambush you on your way to the elevator.
+3. Here’s a secret area you can exploit before you leave the level.
+4. Yes! Two successive hidden areas here-the first one has a handy-dandy machine gun (useful for getting 
+big laughs if you enjoy watching Nazis jerk around as they’re filled with lead!)
+5. If you venture down here, don’t miss the 1 Up!
+
+Episode Three, Floor Two
+
+John Romero reveals, “I liked the idea of having the elevator close to where you start out on the level. I made 
+the hallway to your left (when you start) big for the sole purpose of drawing you toward 
+it, even though there’s nothing useful in that area of this level. It’s a nice time-waster and potential player 
+deathtrap.”
+
+1. There’s two ways to get to the key-both are equally dangerous. (Actually, the first few levels in this episode 
+aren’t too dangerous if you’ve finished the first two episodes.)
+2. Elevator room! A couple of wimps in uniform here that don’t appreciate your presence.
+3. Yes, that’s right, this is a secret area with some minorly useful stuff in it.
+4. Here’s a pretty helpful secret area-especially after you’ve been ventilated! Grab the big gun for some of 
+that good ol’ American vengeance!
+
+Episode Three, Floor Three
+
+The second resident level-creation master, Romero, stipulates, “Yes, I enjoy having 
+a variety of wall types in my levels-it really helps the player identify where they 
+are in life. It also makes my hint-book explaining job easier by saying things like ‘Avoid the brick area’ 
+and so on. Yes."
+
+1. Which way did he go? Well, the best place to start is to take the right door.
+2. Here is where you need to take the key away from two very pissed SS. They don’t enjoy standing in a room 
+littered with gibs and skeletons.
+3. The second key you need is here. Watch out for the pesky little fella in the corner!
+4. Okay, you’re ready. Yank the door open and fill the big blue badman with your  brand of justice! Open the 
+next door and SURPRISE! We hid someone in the elevator room again! Weird!
+5. This is one of the neatest-looking secret areas in the game. Just so ya know.
+Episode Three, Floor Four
+
+John knowingly mentions, “This level has a neat idea in it-opening a door and being 
+confronted by a wall. Push it and it reveals the rest of the level!”
+
+1. Wow! The action is fast and furious as you start out and find an irate officer racing toward you in the 
+hope of hastening your destruction! Whoa-there’s a secret area RIGHT HERE!
+2. First key stop-no problem in this room, you’ve seen it all before.
+3. Use the key to open this door and get the next key. It’s a little tougher this 
+time, though.
+4. Hey-what’s this?! Must be a dead-end, eh? Yeah, right-maybe you should try pushing that wall and finish 
+this level.
+5. Kind of a sneaky elevator area where you have to come around the corner and get faced with some of the usual 
+“Spion!” and “Schutz Staffel!” jibes. That’s it-teach these !@#$! a lesson they won’t be physically able
+to forget!
+6. Before embarking on your grand quest for the fifth floor, check out the hidden area.
+7. Coolness! Finally a useful hidden area!
+
+Episode Three, Floor Five
+
+Wolfenstein Lore
+
+Clockin’ the Shabs
+Doctor Schabbs' name is actually an inside joke at Id. When something lacks quality, 
+we say “Shabs!” or “Hey...clockin' the shabs!” Bad apartments are “shabitations” 
+and we discuss someone’s “shabitude.” Other weird verbage: adding “ness,” like when we're hungry— 
+“Foodness!” When we need quiet when we're on the phone—“Nonstereo playness!”
+
+1. Follow this windy hallway and you’ll be rewarded with some ammo, health and a tasty treasure! Then, the SS will 
+reward you with a machine gun fully in your face!
+2. A pleasant beginning-of-level treasure cache to get your blood pumping.
+3. This is a nice, big room with a nice, big SS in it. He trained a couple mutts to rip cahoneys off at first sniff, 
+so you better pump them quick! (Sorry about those “pump” references!)
+4. Wind your way through this brick maze designed to confuse you and get the key!
+5. Here’s a fun aside. Serpentine through this room and induce a minor heart murmur when the SS jumps out 
+from behind the wall!
+6. Locked-door-gauntlet alert! “Blaze” your way through these three rooms to floor five victory!
+
+Episode Three, Floor Six
+
+“Two neat ideas in this one, plus an old favorite,” says Tom. “The old favorite is 
+the officers that shoot at you, and you can only get to their hidey-hole by a secret 
+pushwall. The first new idea was the unnecessary but profitable key hidden by the maze. You need not get it, 
+but you wonder about it from the start with that locked door there. If you do get it, two 1Ups and a chaingun are 
+yours. The second idea was having a way to sneak and get the key you need from behind a ton of guards. They’re all
+watching the front door and you creep in behind them and get the key. (Hee hee hee, stupids.)”
+
+1. If you don’t have the chaingun, navigate this maze and get it, the 1Up, and the 
+key. Now you can get the treasure at the start, plus deal with the enemy more effectively.
+2. Go through this pushwall, get the key, and sneak back out. For fun, open the door and see all the guys waiting 
+for you!
+3. Wade through the heavy guard on the way to the elevator, picking up the hidden ammo and health in the 
+elevator room. Next, please!
+
+Episode Three, Floor Seven
+
+"The secret floor in this episode is something special, so I wanted to really hide it," quoth Tom. “First off, 
+the secret entrance is hidden by a pushwall on the side of the end of many similar small rooms. Second, the pushwall 
+in the ‘FT room must be pushed from the side. If you push it forward, you can 7 get to the next area. Third, 
+there is no key for the maze door. You have to think of pushing the wall next to the door! Fourth, most people 
+may think the maze was for the treasure and 1Up. Nope, that one push-wall, hidden well on a slight curve, 
+leads to the strangest secret level yet!”
+
+1. Get this free ammo at the start!
+2. Get the key, health, and ammo, silencing all questions about proper authorization.
+3. Smash all the way through these rooms, two of which are Tom’s initials (TH) and get to that 
+elevator! (Note: John Romero’s initials are in this level, too!)
+4. To get to the secret elevator, push this wall. Push the next wall up. Get the hidden chain-gun and 
+1 Up. Push the wall by the door (after dealing with the SS). Navigate the maze, get the 1Up and 
+ammo, then push the final pushwall leading to the secret elevator. Get ready for a strange trip!
+
+Episode Three, Floor Eight
+
+"I was not nice on this floor" Tom says, a wry smile on his face. “Most places have two exits so you 
+don’t know which side they'll come out. There are also a lot of gauntlets in it, with an especially 
+tough one at the end. The zig-zag barrels really make it hard to run from all the guys pouring out. Plus 
+the room just before probably drained the player a bit. I decided that this is the third episode, 
+the last level before Hitler, and you were going to earn your pay."
+
+1. Run and get these bullets right away. You’ll need them.
+2. Make your way to the room of eight guards. Get the chaingun behind the pushwall. You’ll need it, too.
+3. Pop in here, chat with the SS, then cop their key.
+4. These cheery O’s won’t be so cheery after you’ve dunked them in the milk of reason. Take their key. Yes!
+5. Clean out this room, then open the door at (6). Run back as fast as possible and pick’em off at a distance.
+
+Episode Three, Floor Nine: The Boss
+
+Adolf Hitler
+
+Adolf appears in three guises here. The first is a dummy in scary black robes, flown 
+around on wires, with a flamethrower mounted in its chest. As you dispatch these, they fall to the ground 
+and you can hear Adolf’s mocking laugh. Once you make your way past all the Fake Hitlers, you 
+meet up with Adolf in steel, motor-assisted battle armor, with four fast chainguns. 
+If you manage to knock him out of this death armor, he pops out fast and firing two normal chainguns. He’s 
+hard to run away from! Keep scooping ammo and health and firing at him. Eventually, he will 
+fall under the heat of your righteous bullets! The free world is saved from hateful tyranny! 
+Long die Hitler!
+
+Romero notes, “I wanted the Final Boss level of the trilogy to be pretty interesting. 
+Tom came up with the idea of having “fake” Hitlers come at you from the very start, 
+then disappear Obi-Wan style with an evil laugh. You can kill five of these things then deal with the 
+Reichmeister himself, only he’s not in the flesh (at first)! Of course, Adrian wanted a really 
+cool gibletty death scene, and we feel he accomplished his goal. A fine DeathCam™ ending to a fine trilogy.”
+
+1. Uh oh, there's a chaingun being given away-FOR FREE! You're in for some as-yet-undeter-mined 
+trouble. Beware!
+2. After toasting the first Fake Hitler and the Officers, get in here and blast the two guards and the 
+Fake Hitlers. Grab the gold key and run to (3).
+3. Showdownarama! Upon entering this room, a German expletive will be uttered in your general direction and a giant
+man-machine death-combo will be stomping in your direction with mayhem on its mind! It's Hitler, or rather, 
+MechaHitler! Time for some major hide-and-seek, but watch out for the Officers-they're everywhere! Kill der 
+Fuhrer and you'll be a happy man!
+4. Duck back in here if you're really sufferin'.
+
+Episode Three, Secret Floor
+
+By far the weirdest level in the game, we decided to go all-out silly on this well-hidden 
+secret level. Four familiar ghosts and a maze full of chalices and 1Ups await you. Just 
+when you think it’s all fun and games, here come some SS, officers, and guards to bring you back to 
+reality!
+
+No big mystery here-get the four 1Ups and head for one of the two elevators! Watch 
+out for the squad of guards at the exit.
+
+Nocturnal Missions
+
+We had to have names for episodes four through six before I had really designed them,” 
+says Tom. “So I made them ambiguous enough to fit virtually any plot. I did know it was going to be a prequel 
+(what do you do after Hitler’s gone?), and hit upon the idea of chemical war. These three 
+episodes were designed to be hard, and we really scraped the bottom of the dirty trick barrel. The play on words 
+for the trilogy title came late at night after a long day of work. We wanted something 
+like Secret Missions, and I said the title as a joke. Then we started justifying the pun, and the name stuck.”
+
+Episode Four:
+
+A Dark Secret
+
+Insane Nazi scientist, Otto Giftmacher has developed a full line of the most feared tool of modern warfare-the 
+chemical weapon. You’ve been assigned to stop him from his mad task.
+
+Castle Erlangen sits atop a small mountain, its massive stone walls touched by gloves of thin cloud mist. 
+No one knew the location of this castle until a few days ago. You were rushed there in hopes of 
+catching the sparse guard unawares.
+
+Armed only with a Walther P38 (so you can use any German ammo you might find), you must make your way to the 
+Doctor’s private workshop and put a halt to his diabolical doings!
+
+A Missile From Otto
+
+A new type of weapon will soon be wielded against you—the missile launcher. A single bone-crushing salvo from 
+this powerful weapon may put you down for the count.
+
+The only way to survive Otto is to avoid his rockets. Keep plenty of distance between you and Giftmacher. This 
+will give you the opportunity to dodge any oncoming missiles. Avoid small areas. Once you’re cornered there is 
+no way to elude his deadly assault. Living just got tougher!
+Episode Four, Floor One
+
+Wolfenstein Lore 
+
+Ideas by the Wayside 
+Some ideas were cut for lack of space, lack of quality, or lack of taste. Some of these: 
+Hitler Youth attacking with knives, hidden David Duke poster (spelled "David Puke" so 
+we wouldn't get sued for defamation and making our intention clear), and others. We 
+considered depicting more of the Nazi atrocities, but felt that people would think we 
+were making light of them, rather than trying to reflect a more realistic image of the war. 
+
+“All my castle entrances look the same,” says Tom. “A foyer, a large entry hall, 
+a throne room, and something hidden behind the throne area. I noticed this and started 
+the Episode Six castle out in a new style!"
+
+1. Get these easy bullets first. I bet the guard will regret getting this post.
+2. Go get the key, but watch your back! And watch your front, too!
+3. Get this chaingun after clearing out all the naughty little guards.
+4. Dispatch the two officers, and go slam that knife switch upward! Bzzzt!
+
+Episode Four, Floor Two
+
+“A very castley design," says Tom. “I really like the super-hidden 1Up room. So many goodies, and so hard 
+to get! You can mess it up three different ways.”
+
+1. Some fine ammo and yummy rejuvenation chicken to grab on your way to...
+2. ...the shiny, well-crafted key, which gets you into (3), the elevator area spiced 
+up with a sprinkle of officers and a dash of SS. Cook them at 357 until light brown.
+
+To get the good stuff:
+Do not push the second pushwall off the eagle-shaped room-that blocks the path to the stuff. Push the walls at 
+(4). Navigate the pushwalls from (5) to (6). At (6), push the lower push-wall (the upper one blocks the next 
+pushwall). Push the upper pushwall in the next room. At the final set of pushwalls (7), push the right pushwall 
+downward, and push the revealed pushwall forward. There’s the door-enjoy!
+
+Episode Four, Floor Three
+
+Novel on this level is the tension induced by getting free ammo and healing in the big open area. It makes the 
+player wonder what he or she may be facing. The tension is either released by the hidden officer who conceals 
+a chaingun, or when they turn the corner and face twenty-three foes! At this point, a lot of bullets better be 
+released, too, or you’re in trouble!
+
+1. Definitely get the easy healing and ammo.
+2. If you’re in a feisty mood, you can go get the chaingun, but you’ll have to fight the roomful of guys first!
+3. Get this key from the over-protective officers.
+4. Here are more officers that need to learn the meaning of sharing. Share your bullets with them, then share 
+their key.
+5. After an exchange with the waiting officers and guards, it’s elevator time-unless...
+6. ...you want to go to the Secret Level, in which case you go here and push the pushwall.
+
+Episode Four, Floor Four
+
+Level-headed Tom says: "A spiffy new idea on this level is the choice between ammo and health. Before you enter 
+the elevator area laden heavy with officers, you can push a wall westor south. One way gets you ammo, the other, 
+lots of healing!"
+
+1. A one-stop gun shop is in this room-ammo and a machine gun are there for the taking (once the rude inhabitants 
+are quieted down).
+2. This SS is keeping the gold key safe for you. Take the key and thank him for his trouble.
+3. You have to choose between ammo and healing at (4), but this hidden room offers both!
+4. Take your pick-ammo or healing! There’s a lot there-but you can only choose one.5. Pick up the chaingun on the way to the elevator. After many cries of “Nein, so was!”, you can move 
+to the next level of death and mayhem. (Unless the two SS in the elevator catch you unawares-then 
+get used to a pistol and eight bullets, bub!)
+
+Episode Four, Floor Five
+
+Wolfenstein Lore
+
+Relativity
+Our artist, Adrian Carmack, and our Technical Director, John Carmack, are not related! They come 
+from different cities and everything! Non-brotherness! What a dang coincidence!
+
+“I believe this is the first time dogs are actually dangerous," Tom comments thoughtfully, 
+“as they can come at you from both sides. There’s also three elevators that you can’t 
+take-and you see those elevator doors on the next level! It’s neat to tie the levels together like that. 
+I also use the player's desire for the chaingun to make them find the second key."
+
+1. Go get this easy 1 Up from the fellows guarding it. They may...object.
+2. Here’s the first key you’ll need. Watch out for the hiding officers as you near the door.
+3. Stop in the super free bonus healing and ammo rooms here!
+4. This pushwall hides the alternate entrance to the room of the chaingun and the second key. Only the 
+slow-witted take the long route.
+5. It’s best to charge one side of this room, rather than waiting for them to come get you.
+6. Take the elevator, unless you feel like wading through fourteen officers to get the three hidden 1 Ups...
+which you have to if you want to get the coveted 100% kill bonus!
+
+Episode Four, Floor Six
+
+1. It’s hard to resist all this hidden ammo! (So don't resist and go get it from those guys.)
+2. Get the key in this one of many strange, thin, officer-decorated rooms.
+3. Just lots of officers await you behind this locked door! Nice of them to line up for you.
+4. If you need a chaingun, here’s one! Have fun! No need to run! You’re number...sorry.
+5. It’s a hard fought battle to this key. Make sure you reward yourself with the 
+exquisite, golden hidden treasure and shiny blue 1Up. No kidding-this is on the level here.
+6. Now smash through these officers (including the one hiding in the elevator) and get on with the next floor’s
+business!
+
+Episode Four, Floor Seven
+
+1. Definitely the first stop-load up on ammo! Too bad this fellow’s in your way...
+2. Here’s a helpful chaingun! The key is hidden behind a bunch of pushwalls, and is guarded by many 
+awful officers. If you have been a good hero and enter the level with a chaingun or machine gun and 
+many bullets, try the following...
+3. ...fire your gun and the guys in the next room (behind the locked door) will hear you. Shoot at least one of 
+them in the doorway and it will stay open. [“Originally, there was no key, but then you could get stuck there 
+with no way out, so I just made it a very inconvenient key," says Tom, grinning the dark grin of a Creative 
+Director enjoying his power.]
+4. Get the key from this guard-but watch out for officers flooding out of the locked room. You can sometimes get 
+through this door without the key as well! Then deal with the officers on your way out. Don’t trip over the 
+multitude of bodies strewn pell mell on the floor before your rough boots!
+5. The hasty rush out of the level, but go back and get this 1Up. You’ll be glad you did.
+
+Episode Four, Floor Eight
+
+“Neat stuff? Hmmm..." Tom ponders. “Guards actually being dangerous, the cinematic 
+swastika of overhead lights, sneaking through a roomful of officers with none of 
+them seeing you, and the biggest elevator in the whole game (that’s as big as you’d want one, too)!”
+
+1. Zoom forward, getting all the bullets, spin and deal with all those officers! Snappity!
+2. Get the key from this tense room full of guards that like to sneak up behind you.
+3. Take the shortcut to the room of the second key and go get it, offing officers as you go.
+4. Deal with all those officers, then surprise! Here’s SS in the elevator for ya! Ha!
+5. If you want a chaingun, fight these spry, young officers for it.
+
+Episode Four, Floor Nine: The Boss
+
+Otto Giftmacher
+
+Giftmacher (whose name means “poison maker”) is responsible for the chemical weapons. 
+But when he needs to waste that rude intruder, Otto turns to his close-range offensive 
+weapon of choice-a minimissile launcher!
+
+“I was cruel twice in this level,” Tom smirks. "One—I put the ammo and healing behind the
+boss, protected by locked doors, and in long rooms that tend to get you trapped. 
+Two—I put the keys to these doors by a single guard-but shoot him and twenty officers 
+and six SS pour out of the nearby room and smear you all over the floor. Then, I sadistically put another 
+set of keys hidden nearby. So close, but of no help (unless you have the Hint Manual handy)!”
+1. Get the hidden keys here. Stick your tongue out at the guard, and go to (2).
+2. Let fat Otto see you, then lure him into the other room. Now run and get all the 
+ammo or healing you need. Run back out and try this technique: stand around a corner, 
+peek out and blast Otto to make him keep his distance, dodge back when he fires a missile so it hits 
+the wall, then peek out again for more damage-doin’. Wear him down. You may have to go back for 
+more ammo, so lure him away from the locked rooms again. Soon he will fall in a wet pile of Nazi flesh,
+and the world will be better for it.
+
+Episode Four, Secret Floor
+
+This level is just one huge trap. Follow the dotted path shown, and no one will see you and you can escape. Stray
+ from the path-and the officers will descend upon you like flies on a backyard barbecue. 
+
+Just so you don’t feel bad, there’s a hidden area at the start full of juicy goodies that make heroes happy.
+
+Episode Five: Trail of the Madman
+
+The doctor is dead, but his weapons of woe are ready for war-waging! Somewhere in the dank dungeons of Castle 
+Erlangen are the plans for the first wave of the chemical nightmare. You must fight your way to the very
+bottom, and battle the Aryan Amazon, Gretel Grosse She’s got two big guns and loves to watch Allies fall 
+down and go boom! 
+
+You begin your adventure having descended in the Castle’s elevator. It opens on the first floor of the dungeon. 
+You are looking for the map room that is guarded by Gretel. These maps will lead you to the secret base where 
+the weapons and soldiers are being amassed. You’ve got to find them fast-before the choking clouds of nasty gas 
+pour out over Europe and the world!
+Hans (Hansel) and Gretel Grosse!
+
+Do you recall the sweet story of Hansel and Gretel, and how the evil Witch lured them into the Gingerbread house? 
+Well, the Grosse family would have not only eaten the house, they would have pulled out their dual chainguns 
+and forced the Witch do the “Ack Ack” dance.
+
+Hans is such a terrific villain, we couldn’t allow him to rest in peace. Everyone has a favorite boss—someone 
+they would enjoy clobbering one more time. Hans is that type of guy!
+
+That’s why we created Gretel. Don’t let her sweet demeanor, charming smile, and pink outfit confuse you. She 
+has stolen the hearts (right out of their chest) of many young soldiers.
+
+Like Hans, Gretel packs two chainguns and wears an armored bodysuit. However, she’s much faster and tougher 
+than her brother. Get in her way and she’ll teach you that all isn’t fair in love and war!
+
+The images to the right may give you some insight into the making of a Gretel. See the family resemblance.
+
+Episode Five, Floor One
+
+Wolfenstein Lore
+
+The Contest that Wasn’t
+While your battling through the Wolfenstein Ammons, you may notice a strange object in one of the rooms. Don’t 
+be confused, its just a remnant of the contest that wasn’t. Scott Miller, the president of 
+Apogee created the idea for a Wolfenstein contest. The concept was simple—hide a secret message in the game 
+and the first person to find that message and call Apogee would win. However, once Wolfenstein 
+was released, many programmers decided to develop map editors that detailed the layout of the entire game, as 
+well as identify the location of the secret message. Both Apogee and Id decided it would be unfair to reward s
+omeone who hacked his way into the maps, rather than a player who toughed his way through the levels. 
+Consequently, the contest was called off!
+
+“We never go too heavy on the player at the beginning of an episode,” John states,” 
+but the ending of this level hints that there may be more tricks in store later.”
+
+1. Tense area! After opening four doors in a row, expecting some kind of doom after each one, your fears are 
+confirmed in this key room.
+2. A great way to grab a load of ammo and treasure. This secret area is nice, but who waters the trees? 
+Inquiring heroes want to know!
+3. This is definitely your favorite stop on this level. The chaingun is a fine piece of craftsmanship, 
+designed to rid your enemies of their cumbersome appendages!
+4. The elevator room looks easy, right? The elevator is right over there-go get it! Ha, fooled ya! Time for a 
+B.J. death sequence! Look on the status bar for your bloody, puffy lifeless head.
+
+Episode Five, Floor Two
+
+Says John, "I like dividing levels up into four different areas and making the player 
+search all of them. There’s also an excellent player deathtrap in this level!”
+
+1. You really want to take the door to your left, but the guard will see you and yell at you. Make him do 
+a dance and his friends will come and teach you the proper steps to the mamba!
+2. Go here and get the key after graciously extending your thanks to all the nicely uniformed gentlemen you meet.
+3. Hey, hey! What’s this? Yes, it’s a chaingun room. But first, you need to deal with all the SS before 
+laying your hands on it. And don’t forget that juicy hidden area!
+4. Here’s your goal: the elevator. Blast those steaming “Spion!”-yellers into the ground, the SS, and make your 
+way to floor three!
+5. Here is another fine deathtrap you’ve gotten yourself into! Run the massive gauntlet of SS and there’s some 
+treasure at the end. Oh yeah, and more SS.
+
+Episode Five, Floor Three
+
+Wolfenstein Lore
+
+Early Beginnings
+Wolfenstein 3-D ms originally designed to be a more complex game. The programming for items, such as dragging
+bodies, silent attacks, exchanging uniforms, etc., had already been completed. However, 
+these intricate actions made the game play too difficult and slowed the game’s pace. Also, these actions 
+required several extra key commands, making keyboard game-play necessary. In the case of 
+Wolfenstein 3-D, fast action and role playing made for a bad marriage. Going back to the drawing board, we decided 
+to make the gameplay as fast and furious as possible, limiting the number of game controls to what could be 
+accessed on a mouse or joystick. This resulted in a more heart pounding shoot 'em up adventure—a game more like 
+combat.
+
+“Once again, I put the elevator close to the start of the level. If you get too curious, 
+I reward you with death. I also heavily guarded this level and made it pretty tough to deal with all the bad guys 
+flooding in around you after you start some trouble,” says John knowingly.
+
+1. Grab this ammo ‘cause you’re gonna need it. Watch out for those officers—they can’t wait to waste you! If 
+you blast one, you better be ready to blast the other one because they’re brothers!
+2. Poor little brown shirt guy won’t know what hit ’em. Dart straight ahead through the door, grab a handful of 
+ammo, then get the hell back before the Legions of Hate descend upon you! Watch out—they’ll sneak up behind you!
+3. On your way to the key, push this wall and grab some stuff.
+4. The key is hidden behind a wall of uniforms. Lay the uniforms on the floor and you can easily grab the key.
+5. Here’s the elevator and its protective devices! Defuse the devices and slam that switch and you’re headed for
+floor four fun!
+
+Episode Five, Floor Four
+
+John quips,” I was pretty devious in this one. Every single passageway is stocked full of bad-dies-with plenty of 
+dogs to waste your ammo! Nicely symmetrical and pleasantly confusing."
+1. Attempt a hostile takeover of the gold key from these poor bastards. Don’t forget that each of the four 
+corner areas have hidden stuff in them.
+2. Rip the silver key from these dolts and run to (3).
+3. Elevator time! Mow the lawn for a few seconds to clear the way.
+
+Episode Five, Floor Five
+
+John evilly utters, “Now this is a tough level! You have to go to practically every area of this level just to
+get out. I continued my trend of designing a central hub area (where you start), but made it very dangerous 
+right from the start!”
+
+1. Right up from the elevator, you start out in a room full of the boys in brown.
+2. This room is useful for getting a machine gun in a hurry. Make sure you fully exploit the hidden area 
+you’ll probably need it after that last fire-fight in the hub area.
+3. Open the door and blaze all over that SS. Grab the chaingun that’s in the corner behind the barrels, but 
+watch out for the other big blue guys!
+4. You must’ve easily picked off those mutts with the machine gun, but watch out when you open this door. 
+There’s more meat in this room than you can shake a chaingun at!
+5. Take the low road and grab the key, then prepare to fight for your life to get outta this place.
+6. Elevator heaven! But watch for the surprise behind the elevator door.
+7. Two hidden areas! And the second one has the elevator to the Secret Level in it! Can you handle it?
+
+Episode Five, Floor Six
+
+John admits, “I wanted this level to feel like you were in an underground cavern, about halfway up in the mountain 
+that the castle is built upon. That’s all I wanted to say.”
+1. Again, action from the very start. Turn to your right and blow a load on those guys-don’t forget to 
+shake your gun afterwards!
+2. Wow, you really better open this secret area a lot! There’s some SS coming and you need a chaingun to 
+properly haggle with them for their lives.
+3. Small room, lotsa uniforms, silver key—need I say more?
+4. Navigate this totally confusing passage to the gold key and possible player death.
+5. Here we are at the fabled Elevator of Floor Six. I see no white-bearded magi, golden unicorns and majestic 
+crystalline gate. I guess the ancient description was somewhat... embellished.
+
+Episode Five, Floor Seven
+
+“These levels aren’t getting any easier!", quippeth Johneth.
+1. Room of Death right from the start. Turn around and get that machine gun if you aren’t heavily armed. You will 
+have up to sixteen things coming at you, so put them to sleep and tuck them in.
+2. Hurry up and push this wall before they get you! Grab the chaingun and spin around ready to deal a little death.
+3. Sneaky little pushwall lets you get at the key from behind the wall of enemies.
+4. This is a tough area. After your first shot (probably at a dog), all three doors will open and a flood 
+of blue will come after you (hey that rhymes). Make sure you get in the hidden area after grabbing the key!
+5. It’s a jungle in there, so brace yourself and get ready to commit a lot of murder! After you justify your 
+actions, the elevator is free for the using!
+
+Episode Five, Floor Eight
+
+1. This is the first stop if you don’t have a Gun of Death. There’s also some ammo stashed here so you’re all set!
+2. Well-guarded key room! Make sure you clear all the hallways of Nazis of all colors and then make the final 
+rush on the key room. Show them the true meaning of the word “Zugga!*”
+3. Oooh neat, a big room with lots of mobile meatlings**! Slam them with your big axe—uh, I mean chaingun and 
+try to make it to the teleporter disc. Oops, wrong game!
+4. You have the silver key, now use it in the door to the elevator room. Pick up all the useful healing stuff 
+and get rid of it when you open the elevator door!
+
+* suck it!
+** Bilestoad reference
+
+Episode Five, Floor Nine: The Boss
+
+Gretel Grosse
+
+Gretel is the younger sister of Hans Grosse (and all the Grosse brothers). The two were fiercely competitive 
+children, and what Gretel may lack in experience she makes up for in sheer ferocity. Woe be 
+the hero that stands toe to toe with this giantess!
+
+Like cool running water, John burbles, “I wanted the player to get a little worried when they found out that 
+there wasn’t any ammo around to toast the Boss with, just healing at the start. Venturing into the rooms behind 
+the Boss provides ample ammo and some fast moves ensure that Gretel will bite the dust. Then, when you’ve got 
+the key and think everything's all right-WOW, there’s still more Nazis to blast! Yeah!”
+
+1. Get yourself built up to full B.J. potential.
+2. Run back out and use the peek-out-and-fire-until-she’s-gonna-fire technique. If you’re too far away, you’ll 
+do less damage-so may need to go get more bullets.
+3. Got the key, so open the door and deal a little death! Then, run towards the maps and you’ve won! Yes!
+
+Episode Five, The Secret Floor
+
+John explains,” This is a minor tension-inducing level. Lots of narrow passages stocked with officers and SS. As 
+you scoop up the treasure, you never know what's around that next corner. Will it be white, or will it be 
+blue? The only way to find out is to grab hold of your terror and hold it tightly in the palm of your hands, 
+kneading it until it dissipates in a thin cloud of reason. Only then are you able to face the horrors of the 
+Secret Level with courage and conviction. You know your enemies deserve only the finest rooms in the hotels of Hell, 
+so it’s time for you to check them in—and don’t let them take their baggage.”
+
+1. Greet the SS bellboy and give him a tip—the tip of your chaingun! Grab the gold key and stuff and move on 
+to (2), trying constantly to keep that lump in your throat from growing any bigger. Come on, you can do it.
+2. Chaingun rewardness! Lots of treasure-grabness and ammo-getness with a little health-useness. Pop the lid 
+on the elevator and move on down to level six.
+
+Episode Six: Confrontation
+
+Chemical war is about to be waged on a massive scale unless you can stop the egregiously evil General Fettgesicht 
+(“Fatface”) from unleashing his burning gas! (From the weapons, of course.)
+
+You found the plans hidden in the musty dungeons of Castle Erlangen, and they led you here-Castle Heidenheim, 
+perched atop a small rise between two massive mountains. Inside its forbidding stone walls are tons of crack 
+troops and the grotesque General himself. Blast your way through their defenses and face Fatface. Will Fettgesicht 
+survive the nicht?
+
+Chemical Warfare
+
+Chemical weapons are a tortuous means of killing. The gases created by the 1940’s were slow to act and painful. 
+Though the Geneva Convention of 1929 outlawed the use of chemical weapons the fear of 
+chemical warfare was still present throughout WWII. This is a job for B.J.! 
+
+Fast and Fatal Fatface
+
+The General is here to teach you a lesson! Fatface packs the perfect assortment of weaponry, a chaingun as 
+well as a missile launcher. While his deadly rockets are racing toward you, he’ll unleash a 
+wicked foray of chaingun fury that won’t be forgotten.
+
+To defeat Fettgesicht you’ll need to use cunning as well as lots of firepower. Avoid close combat in small rooms. 
+Once cornered, there is no way to evade his assault. Stay near sources of ammunition and health. You’ll need 
+to reload several times before the General goes down. Finally, fight in areas containing walls to hide 
+behind. If you can deliver your attack, then slip past his salvo, you may survive.
+
+Below is Tom’s early sketch and Adrian’s final art.
+
+Episode Six, Floor One
+
+“Going down the blue hallways is about as wrist-tensing a time as I’ve had playing this game. Makes for a long par 
+time, too. Only a world class expert could zip down all three blue halls perfectly...and even Romero can’t do it!* 
+It’s “Pocky! Pocky!” and he’s toast,” Tom spits out from between clenched teeth.
+
+1. Pick up these bullets at the start.
+2. Confront the first few officers, then pick up this machine gun, ammo, and treasure.
+3. If you must have a chaingun, turn left. If you just want to get out, go right.
+4. After fighting all those guys, you can take the elevator, or push the wall to reveal a key hidden in the wall
+drain. If you want, take it back to the blue hallway and get the treasure, health, ammo, and l Up in the hidden 
+room at (5).
+
+*Challenge
+
+Episode Six, Floor Two
+
+Our musician, Robert Prince, designed this level. The start is very nerve-racking. The end of the level gives 
+the player good practice running (Right Shift + Up Arrow). Running over guys is fun once you 
+get the hang of it...
+
+1. Grab some ammo, get their attention with a shot, and wait for them. They don’t all come, though-you’ll have 
+to carefully cover the room, grabbing bullets, peeking around corners, ready to fight. The same goes for the next room.
+2. Make you way through these areas and get two 1 Ups!
+3. Pick the right way or you’ll find yourself back out in the hallway you just came out of!
+4. Get the key here. The SS fellow may be reluctant to let you have it, so let him have it.
+5. Here’s the elevator! Go to!
+
+Episode Six, Floor Three
+
+Robert did most of this level as well, except for the hidden areas at the start. Tom added barrels as clues 
+to help you navigate the swastika maze. Follow wooden barrels to get to the key, and follow green barrels to get 
+to the elevator.
+
+1. Shoot an SS in these doorways, and you’ve got a lot of free stuff, plus access to the Secret Level!
+2. Free stuff-come and get it!
+3. Silence the SS, then get all this hidden stuff-including the popular 1 Up.
+4. Here’s the key-hope that sneaky SS didn’t get you!
+5. Go through the door and make it to the elevator, if you can.
+6. If you didn’t get into the rooms at the start, these pushwalls hide the key, and four officers don’t want you 
+to lay your hands on it.
+
+Episode Six, Floor Four
+
+1. The dogs are your first concern. Now get the healing and ammo, but don’t get tagged by the officer.
+2. make your way here for healing and a chaingun. (who says game designers can’t read e.e. cummings? -tah)
+3. This room holds the key-and another hidden chaingun (which is probably just more bullets to you at this point).
+4. Run in here and get the other key. This area is harder than it looks!
+5. Finishing this room is tough. Try to get their attention one at a time by moving to the right.
+
+Episode Six, Floor Five
+
+1. Before you start the action, push your way into here and grab the chaingun and ammo you’re really gonna need!
+2. Hey—isn’t that YOUR gold key? Get it back from those bullies and move along to (3).
+3. Make sure you grab the health and ammo in the secret area before venturing into this big room of mayhem! 
+Silver hey!
+4. Make short work of these loonies and exploit that secret area.
+5. Go very slowly and carefully through this hallway. Lots of baddies to blast and a great secret area before 
+the elevator room!
+
+Episode Six, Floor Six
+
+Slowly and methodically, John announces, “This level is extremely busy. As soon as youmake a sound, everything comes 
+down like rain from hell. You’ve got to be pretty damn good to beat this level!”
+
+1. If you made it here, congratulations-most of this level’s occupants are probably dead at this point. In this 
+room is the silver key and a lot of concentrated guard.
+2. A quick scare as you enter the room and deal with the situation as you have so many times in the past. Grab 
+the gold key that sits and beckons you.
+3. Okay. Brace yourself—around that corner is a serious threat. Don’t peek too long or that damn dog will sniff 
+you out! Make sure you loot and pillage the hidden area before you go!
+4. A very smart first goal on this level if you’re “without chainage”. A breakneck run to this area may be your 
+only hope!
+5. A little of everything for the weary hero.
+6. The final hidden area on your way to floor seven. Lotsa ammo and some health.
+Episode Six, Floor Seven
+
+‘This level starts out tough (especially if you’ve only got a pistol and eight bullets)," Tom ejaculates. The coolest 
+part is the vine maze. Talk about tension-you can’t bloody see anything. It was such a neat effect, we used it 
+again on the Secret Level.
+
+1. Get the bullets, get their attention, then stand on the healing. As soon as you shoot one or two, get their 
+bullets and quick, back up again. Get the machine gun!
+2. Shoot these guys as fast as possible, so they don’t come in the other door.
+3. Deal with the hall patrols, then get the chaingun!
+4. Zoom up here past the four rooms of officers and get the key. Notice that you can get to all the officers’ rooms 
+through a secret entrance!
+5. Make your way up here and get out!
+6. Here’s the entrance to the vine maze. The reward for survival: three 1 Ups!
+
+Episode Six, Floor Eight
+
+1. This is the quickest way into the First Block. As you attempt to push the wall, watch out for the SS. Pry the 
+machine gun from his rigid hands”.
+2. Here’s the entrance to the First Block. Check out that officer-my, isn’t he vulnerable! Pop him one and scoop 
+some ammo.
+3. Grab the big gun if you’ve “short-chained.” Begin your journey through hell—I’m not kidding this time!
+4. Here’s the gold key room. Heavily guarded, this room will be a bit of a challenge. Get out the quick way 
+by pushing those walls!
+5. This is the fastest way into the Second Block. Watch out for that officer!
+6. Here’s the silver key-wrest it away from these determined little guys!
+7. If you made it this far, you’re pretty damn good! But, you see, I designed this room to stop you dead in your 
+tracks. You better have a lot of ammo.
+
+Episode Six, Floor Nine: The Boss 
+
+General Fettgesicht 
+
+Fatface packs the perfect assortment of weaponry, a chaingun as well as a missile launcher. While his deadly 
+rockets are racing towards you, he'll unleash a wicked foray of chaingun fury that won't be forgotten. 
+
+"Woe to he who enters the final level in the chronicles of Wolfenstein! If you thought 
+all theBoss levels were easy, then you’ll soon be changing your mind-welcome to pandemonium!’’
+
+1. Soon as you start out, pop those three stooges and plunder the hidden area! Slam the door open and fight like 
+you’ve never fought before!
+2. After this room is cleared out, you can pick either of those two doors to go through, both are equally dangerous. 
+Make sure you grab the hidden stuff on your way to (3).
+3. The Final Room! Multitudes of uniformed personnel will fight for their beliefs in your very face! Hose them 
+down and wait about ten seconds afterwards for all the stragglers to get their share of the punishment. Then, 
+immediately slam into that secret area and stock up because Big Daddy is on his way! You better shovel 
+it up quick because getting cornered in a hidden area by a Boss with a mini-rocket launcher is not a pretty 
+sight! While navigating the big room, quickly spray some ammo into the cubby-holes filled with SS and officers as 
+they will “hamper” your efforts at defeating their General! Good luck, B.J.
+
+Episode Six, Secret Floor
+
+John and I each took two of the four sections on this level. There are three ways to get the key to the central 
+elevator—all involving beating a Grosse brother. These guys are named Mans, Pans, and Fans Grosse.
+
+THE WOOD SECTION—Wow, this area is pretty bad to get into! Plenty of guards, officers and SS to make sure you 
+know what the true color of toast really is! Easiest way in is to go straight and open the door!
+
+THE GROSS, VINEY SECTION—Two places to go here: the vine maze with treasure, chainguns, and mutants (some early 
+prototypes!), and the pushwall maze providing up to five 1 Ups, if you can outrun a second visit by a not-so-friendly 
+ghost!
+
+THE BIG ROOM O’ DEATH—We literally ran out of room (so many vines take up a lot of space!) so this last section 
+had to be straight and to the point:, officers, mutants, and a big, bad Grosse brother to deal with. I even 
+had to take the treasure in this area out to make the level fit!
+
+PLAIN WALL SECTION - Be very careful-Mutants abound in this crazy mazey section. Make it to Hans and prepare to 
+play musical doors with him! Steal his prized ammo collection and show him how it works! Then you can get the gold key!
+
+What Are They Saying?
+
+If you have a Sound Blaster™, Disney Sound Source™ or 100% compatible sound board, you've been hearing some 
+German phrases that you may not be able to recognize.Some of the phrases make sense, some of them are just jokes, 
+but all the German language in Wolfenstein 3-D is right here.
+
+Achtung!.........Attention!
+Schutzstaffel!............... Guard!
+Mein leben!..................My life!
+Mein Gott in Himmel!...My God in Heaven!
+Tot hund!.................Dead Dog!
+Die, Allied schweinhund!.... Die, Allied pigdog!
+Scheist!..................S**t!
+Eva, auf wiedersehen!.....Eva, good-bye!
+Eine kleine Amerikaner!.A little American!
+Donner wetter!..........Good heavens!
+Spion!......................Spy!
+Nein, so was!...............Well,
+Kein Durchgang!..........No Trespassing!
+Mein busse!..............My repentance!
+Erlauben Sie, bitte!...Allow me, please!
+Roseknospe.............Rosebud
+Guten tag! .....Good morning!
+Mutti!...... Mommy!
+
+Id Album of Wolfenstein Moments Best Forgotten
+
+“What is thy bidding, my master Mitzi?,” asked John. “Make a game and call it Wolfenstein 
+3-D,” the kitty commands.
+
+Romero, doing anything to hitch a ride away from Wisconsin.
+
+Adrian (the Hitman) gleefully walks to his car after hearing that Romero is on the road and helpless.
+
+Jay is taking care of business during a hectic Wolfenstein schedule.
+
+As deadlines draw near, the two Johns attempt delicate hardware repairs.
+
+Kevin and Tom celebrating the completion of the game by regaling the team with their Las Vegas dance act.
+
+Devil-may-care Carmack’s reaction to Kevin and Tom’s wild dance.
+
+As boredom overtook us, Romero gives yet another reason why they call him “Plastic Man.”
+
+Tom breaks the tension of work and amuses friends by producing a lung out of his mouth.
+
+
+Message from Id
+Id Software greatly appreciates your purchase of Wolfenstein and the Hint Manual. 
+We hope that you have enjoyed playing Wolfenstein as much as we have enjoyed making 
+it for you. Look forward to seeing other exciting games from Id Software. We’ll keep making them as long 
+as you keep buying them! Isn’t that a very generous offer?
+
+Id Software
+Id Software is a group of programmers, designers, artists and musicians with the 
+goal of providing cutting edge games, both in software technology and design.
+
+Chief Operating Officer
+Jay Wilbur
+
+Software Engineers
+John Carmack & John Romero
+
+Master of the Pixel
+Adrian Carmack
+
+Creative Director
+Tom Hall
+
+Art & Manual Design
+Kevin Cloud
+
+Special thanks to:
+
+Composer
+Robert Prince
+
+Cover Illustration
+Ken Rieger
+
+Apogee Software
+
+Apogee Software is the official shareware distributor of Wolfenstein 3-D, Commander 
+Keen, and other video games and education software for IBM compatibles. For more 
+information on Wolfenstein 3-D and other products available from Apogee, call 1-800-GAME 123.
+
+Notice
+
+Id Software reserves the right to make improvements in the product described in this 
+Hint Manual at any time and without notice.
+
+This Hint Manual and software described in this Hint Manual is copyrighted. All rights 
+reserved. No part of this Hint Manual or the described software may be copied, reproduced, 
+translated, or reduced to any electronic medium or machine-readable form without the prior written 
+consent of Id Software [and the National Football League.]
+
+© Copyright 1992 Id Software, Inc.
+Wolfenstein, the Wolfenstein logo and the Wolfenstein likeness are trademarks of 
+Id Software, Inc. All rights reserved.
+IBM is a registered trademark of International Business Machines, Inc. Sound Blaster 
+is a registered trademark of Creative Labs, Inc. AdLib is a registered trademark 
+of AdLib, Inc. Gravis PC Gamepad is a registered trademark of Gravis, Inc.
