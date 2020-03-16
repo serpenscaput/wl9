@@ -1,0 +1,104 @@
+
+  WOLFMAN
+  Wolfenstein 3-D Save Game Manager
+  Version 1.0
+
+  Copyright 1992 by Steven C. Slawin
+  Released by tMoD Technology, 1992
+
+  NOTICE: tMoD Technology is in no way affiliated with Apogee Software.
+  Support shareware! Order the entire six episode collection of
+  Wolfenstein 3-D games by calling Apogee toll free: 1-800-426-3123.
+
+
+  ----------------------------------------------------------------------
+  INTRODUCTION
+  ----------------------------------------------------------------------
+
+  I'll try to make this short and sweet. In case you haven't discovered,
+  Wolfenstein 3-D saves games in a series of files named SAVEGAMx.WL1
+  where the 'x' is a digit from 0 to 9, corresponding to the position
+  you have selected on the save game list. 
+
+  Use WOLFMAN.EXE to modify the saved game files to suit your own taste.
+  How about 99 lives? Maybe you'd like a 200% health rating. Wish you
+  could have more than 99 rounds of ammo at one time? Shatter the old
+  mark by choosing up to 200 rounds!
+
+
+  ----------------------------------------------------------------------
+  RUNNING THE PROGRAM
+  ----------------------------------------------------------------------
+
+  Decide which of your saved game files you'd like to modify, or create
+  a new one. Then load WOLFMAN by typing:
+
+                         WOLFMAN [Drive/Path/File]
+
+  where [Drive/Path/File] is the location and file name of the saved game
+  you want to change (be sure and include the .WL1 file extension).
+
+  WOLFMAN will display the file name, the name you gave it, the skill
+  level selected and the size of the file in bytes.
+
+
+  ----------------------------------------------------------------------
+  CHANGING YOUR GAME PARAMETERS
+  ----------------------------------------------------------------------
+
+  Use the  and  keys to adjust the values for the following:
+
+                     Lives    (range 1 to 99)
+                     Health   (range 1 to 200)
+                     Ammo     (range 1 to 200)
+
+                     Weapon   (your choice of four)
+                     Keys     (none/gold/silver/both)
+
+  Caveats: if you exceed the "game standard limits" of 100% HEALTH or 99
+  rounds of AMMO, the status display at the bottom of your play screen
+  will be disrupted due to the way Wolfenstein 3-D handles the graphic
+  display of B.J. Blazkowicz's facial expressions. THE GAME WILL PLAY
+  NORMALLY, REGARDLESS. Also, if you exceed 99 rounds of AMMO and pick up
+  another clip of bullets, Wolfenstein 3-D will adjust your level to 99.
+  The same goes for HEALTH--if you select health above 100% and step on
+  a first aid kit, your health will max out at 100%--so watch your step!
+
+  Press ENTER when you are happy with your selection. You can use the
+  ESC key to abort the changes.
+
+
+  ----------------------------------------------------------------------
+  REGISTRATION INFORMATION
+  ----------------------------------------------------------------------
+
+  None. Nada. Zip. WOLFMAN is free. Just please support Apogee Software
+  and their fine products!
+
+
+  ----------------------------------------------------------------------
+  CONTACT THE AUTHOR
+  ----------------------------------------------------------------------
+
+  If you have any questions or comments:
+
+                        Written by Steven C. Slawin
+                        Released by tMoD Technology
+                              118 Cherry Lane
+                              Tampa, FL 33610
+                   Modem: (813) 664-0538 (24 hrs/7 days)
+
+   or call the official tMoD Technology support BBS:
+
+                     The Godfather BBS (24 hrs/7 days)
+                         (813) 289-3314 USR HST D/S
+                          (813) 282-0023 1200-2400
+
+                  From the Main Board, J TMOD to join the
+                    tMoD Technology Support Conference.
+
+
+    Or E-Mail via RIME. The author monitors the BBSDoors and Shareware
+    conferences daily (User name: STEVEN SLAWIN).
+  
+
