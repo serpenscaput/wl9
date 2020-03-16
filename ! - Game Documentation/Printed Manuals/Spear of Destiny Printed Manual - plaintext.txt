@@ -462,7 +462,7 @@ The Nazis have been intercepting Red Cross packages and storing them throughout 
 strongholds. 
 
 Killing 
-Ammo - 4, 9 
+Ammo - 4, 8 
 Ammo Box = 25 
 Guards are armed to the teeth. Gracious even in death, they'll leave their 
 ammo for the taking! Pick up unused ammo for 8 bullets or an ammo box for 25 bullets. 
