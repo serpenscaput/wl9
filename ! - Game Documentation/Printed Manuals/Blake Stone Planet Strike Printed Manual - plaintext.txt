@@ -1,0 +1,623 @@
+You are looking at a scanned in copy of an original print manual for an Apogee Software 
+/ 3D Realms game. 
+
+This manual is presented in its original format. Please note that any references to order forms 
+or upgrade packs are no longer relevant. 
+
+Please also be aware that the old customer & tech support information presented here is 
+out of date. Our phone numbers and hours of operation have changed or are possibly no 
+longer relevant (depending on the title). 
+
+For current information, please visit our website. 
+Thank you. 
+
+Apogee Software Ltd / 3D Realms Tech Support 
+March 2009 
+
+http://www.3drealms.com 
+
+
+CREATED BY JAM PRODUCTIONS • PUBLISHED BY FORMGEN INC 
+
+
+PLANET STRIKE 
+
+TABLE OF CONTENTS 
+
+SYSTEM REQUIREMENTS...1 
+INSTALLATION...1 
+MAIN MENU...2 
+MISSION BEGINS...3 
+SKILL LEVELS...3 
+OPENING DOORS AND ACTIVATING SWITCHES...4 
+ITEMS YOU CAN PICK UP 4...6 
+FRIEND OR FOE...7 
+STATUS PANEL 7...8 
+AUTO-MAP...9 
+CHEAT CODE...9 
+MISSION STRATEGIES AND TIPS...10 
+CONTROLLING THE ACTION...11 
+TECHNICAL SUPPORT...12 
+
+PLEASE DON'T MAKE ILLEGAL COPIES OF THIS SOFTWARE 
+
+Planet Strike was produced through the efforts of many people. Everyone along the line relies on sales of the 
+program for their living. This program is protected by federal and international copyright. 
+
+Help preserve jobs by honoring the copyright of the program. Don't make illegal copies for others who have not 
+paid for the right to use the program. To report copyright violations to the Software Publishers Association, call 
+1-800-388-PIR8 or write: 
+
+Software Publishers Association 
+1 730 M St. NW Suite 700 
+Washington, DC 20036-4510 
+Fax: 1-202-223-8756 
+
+SYSTEM REQUIREMENTS 
+
+Planet Strike requires an IBM™ or 100% compatible 386 with 560 K of free conventional memory, a VGA graphics card, 
+and 8 Mb of free space on a hard disk drive. A joystick. Gravis GamePad, or mouse are optional. A wide 
+range of sound cards are also optionally supported such as: Adlib™, Sound Blaster™, Sound Blaster Pro™, and Disney 
+Sound Source™. 
+
+INSTALLATION 
+
+To play Planet Strike, you must first install the game. The program's installation utility will place all the 
+necessary files on your hard disk drive. To install the game, follow these simple instructions. 
+
+Place Disk 1 of Planet Strike in the appropriate disk drive. Select that drive from the DOS prompt. Type "INSTALL" 
+and press the ENTER key. The installation program will prompt for the drive and then for the directory into 
+which the software will be copied. Press ENTER to accept the defaults, or type the destination of your choice. 
+The installation program will prompt for additional disks as needed. 
+
+MAIN MENU 
+
+After the title sequence, the Main Options menu will display. Use the arrow keys, mouse, or joystick to highlight 
+your selection. Press the ENTER key, left mouse button, or Fire button to activate your selection. 
+
+INSTRUCTIONS-F1 
+This on-line section should answer any questions you may have, If you have difficulty playing Planet Strike
+press FI during the game. 
+
+GAME OPTIONS 
+The Game Options menu allows you to select the Sound device, modify Controls for game play, and Change View. 
+
+SOUND (SUBMENU)-F4 
+Planet Strike contains three types of sounds — Sound Effects, Digitized Sound, and Background Music. 
+The program will automatically search to detect for the appropriate sound board. 
+
+CONTROLS (SUBMENU)-F6 
+The keyboard can work in combination with a mouse, joystick, or Gravis GamePad. You can 
+adjust your mouse by selecting the Mouse Sensitivity option. 
+
+To modify the game controls, choose the Customize Controls option from the menu. For example, instead of 
+using the CTRL key to fire, you may prefer the SPACE BAR. 
+
+To customize a control, select a device and function to modify and press the ENTER key. The name of the key 
+or control which currently activates that function will change to a Press the key or button that you wish to
+use for that function, 
+
+LOAD MISSION-F3
+From within the game, press F3 to load a saved mission. 
+
+SAVE MISSIONS-F2
+The program's Save screen provides ten saved game slots, To save a game, select an empty slot with the arrow 
+keys or mouse and press the ENTER key. Then, type in a name and press the ENTER key to accept the selection. 
+
+LOGOFF 
+Selecting this menu option will exit to DOS. 
+
+QUIT-F10 
+Press F10 from within the game to quit to the DOS prompt. 
+
+MISSION BEGINS 
+
+Once again, British military agent Blake Stone will find himself in a life or death struggle for the control 
+of humanity's future. After a five year manhunt for the elusive Dr. Goldfire, the search has ended. 
+
+The trail has led Blake to the planet Selon, and to the abandoned STAR Institute Training Complex. 
+If the reports are correct, then Dr. Goldfire is alive and has once again created a fiendish army of evil 
+mutants. Blake is going to need all his wits, skill, and the best firepower money can buy to put an 
+end to Goldfire's plans. Blake's mission is clear, he must use all his resources to destroy Dr. Goldfire before 
+he can unleash his new army of mutant creatures on the universe. 
+
+SKILL LEVELS 
+Choose from four skill levels. Each level differs in the amount of enemies you will battle and the amount of 
+damage the enemies can endure. 
+
+Level 1; Novice Agent— for non-gamers or younger players. 
+Level 2: Skilled Agent — for part-time gamers. 
+Level 3: Expert Agent— for experienced gamers. 
+Level 4: Veteran Agent— for the fearless only! 
+
+CALL TO ARMS 
+The numeric keys 1-6 can he used to select a particular weapon. 
+
+1 = Auto Charge Pistol 
+2 = Slow Fire Protector 
+3 = Rapid Assault Weapon 
+4 = Dual Neutron Disrupter 
+5 = Plasma Discharge Unit 
+6 = Anti-Plasma Cannon 
+
+You begin the mission with weapon #1. Until you acquire other weapons, pressing 2-6 will have no effect. If 
+the current weapon you are using becomes depleted, you will revert to the base level weapon — the Auto Charge Pistol. 
+
+OPENING DOORS AND ACTIVATING SWITCHES 
+To open doors and activate transporters, move in front of the door or the transporter and press the SPACE BAR. 
+
+Some walls in the complex can be pushed back to reveal hidden areas. To search for the push walls, move 
+close to a wall and press the SPACE BAR. When found, the wall will make a noise then slide backward. These walls
+are rare, so be patient while searching. 
+
+There are hazards which can be activated and deactivated by switches located on the same levels as the hazard. 
+These switches toggle off or on by use of the SPACE BAR. 
+
+Several of the doors in each of the facilities will require color coded access cards. The cards can be found 
+somewhere on the same level as the locked door. Using an access card requires no additional commands other than 
+the SPACE BAR to open the locked door. 
+
+GATHERING THE GOODS 
+To pick up an item, simply walk over it. If you don't need it at this time, it will remain on the floor until you 
+really do need it. 
+
+For example, if you are carrying the maximum energy stored of 100% for most weapons, you won’t pick up a charge pack 
+by walking over it. 
+
+MOVING TO THE NEXT AREA 
+In each area there is an transporter that can take you to another area. There may also be a teleporter that can 
+move you elsewhere in the area. Each area in the complex is locked and requires destroying the Security Cube 
+before travelling to another area. Once you are standing in front of a teleporter, face the control pad and press 
+the SPACE BAR. Select the area from the map that you wish to explore. All areas can be reentered. You can go back 
+to previously explored areas and pick up things you left behind. 
+
+ITEMS YOU CAN PICK UP: 
+
+Planet Strike has five types of items. You'll want and need to pick them up. WEAPONS & AMMUNITION, HEALTH 
+ITEMS, ACCESS CARDS, FISSION DETONATOR, and BONUS ITEMS. 
+
+WEAPONS: 
+
+AUTO CHARGE PISTOL (ACT) 
+The ACP does not require a charge pack; you'll have to wait for the unit to recharge itself. Its a silent 
+attack weapon. 
+
+SLOW FIRE PROTECTOR (SFP) 
+This weapon requires a charge pack for use. There is a slight delay between shots fired. It does allow for more 
+rapid firing than the ACP. 
+
+RAPID ASSAULT WEAPON (RAW) 
+A medium speed repeat-f ire unit, the RAW requires a charge pack. Like the SFP it cannot recharge itself. 
+
+DUAL NEUTRON DISRUPTGR (DXD) 
+This high speed, repeat-fire unit is fitted with dual oscillating barrels. It packs a wallop, but requires 
+the stored energy of a charge pack. 
+
+PLASMA DISCHARGE UNIT (PDU) 
+The PDU has a wide range of detonation and repeat fire capabilities; this is a powerful weapon. It also 
+requires an energy charge pack for operation. 
+
+ANTI-PLASMA CANNON (APC) 
+If you want to dispatch some enemies P.D.Q.— use the APC. This is the weapon of choice when Blake wants 
+to dish out some pain. It also requires an energy charge pack for operation. The APC can also destroy unlocked doors. 
+
+AMMUNITION: 
+
+FULL AND PARTIAL CHARGE PACKS 
+The Full charge packs can be found throughout the complex. They increase your current charge by 8%. Partial charge 
+packs can be picked up next to the bodies of dead enemies. They will increase your current charge level by 
+whatever percentage charge remains in the pack. 
+
+ACCESS CARDS 
+Access cards allow you to enter locked doors throughout the floor. The red, blue, and gold cards are use to unlock 
+the doors that match the corresponding color. 
+
+RADAR POWER PACKS 
+Radar power packs charge the Auto-mapper for operation in the magnify modes. The higher the magnify mode, the faster 
+the unit uses power. So use the power packs sparingly. 
+
+FISSION DETONATOR 
+The Fission Detonator is a bomb that must be picked up and placed beside the Security Cube. The Security Cube 
+must be destroyed before proceeding to the next level.
+
+HEALTH ITEMS: 
+
+FIRST AID KIT 
+This item increases your health by the largest percentage. Pick it up and you'll raise your health by 30%. 
+
+STEAK 
+It's there, and it's not refrigerated, but steak raises your health by 20%. 
+
+RAW MEAT 
+Who cares who dropped it! It's food, and food equals health. A 15% increase is gained from this item. 
+
+SANDWICH 
+Hold the pickles, hold the lettuce? Eat it—it gains you 10%. 
+
+CANDY BAR 
+This little tidbit will increase your health by 8%. 
+
+WATER BOWL 
+This may not be bottled water, but it increases your health by 5%. 
+
+BONUS ITEMS: 
+
+MONEY BAGS 
+Okay, so you say money can't buy you happiness, but these bags increase your score by 100 points. 
+
+LOOT 
+This item increases your score by 500. And it's just lying there? 
+
+GOLD BARS 
+Somebody's got a hole in their pocket! In varying amounts these items are strewn throughout the complex. 
+Take advantage of their misfortune—it's tax free and it increases your score in amounts ranging from 250 to 1000. 
+
+XYLAN ORB 
+They're worth 5000 in extra points! Remember with every 400,000 points you are awarded an extra life. 
+
+ONE CREDIT TOKEN 
+You can use these at the Food Units. Pick'em up; you never know when you’ll need 'em! The name says 
+it, these are worth one credit. The most token credits you can carry is 25. 
+
+FIVE CREDIT TOKEN 
+Now we're talking serious prepackaged food items. Use these 1 to buy food, thus health, at the Food Units. 
+They are valued at 5 credits. The most token credits you can carry is 25. 
+
+FOOD UNITS 
+The Food Units dispense items which can add to your health. To use them, walk up to the Unit and press the 
+SPACE BAR. The Food Units require a token in order to operate. The REBA interface will describe each item as 
+it is dispensed. 
+
+FRIEND... OR FOE? 
+
+You can be sure that most of the others whose path you 11 cross arc out to blast you, A few, however, arc here 
+to help you. Of course, all the opponents will vary in weapons, strength, speed, skill and intelligence. Stay 
+on your toes; you 11 need to size up the situations as they arise. 
+
+Many of these guys are loyal to Dr. Goldfire, which means they'll waste you if they get the chance. But some 
+can actually help you survive. Valuable information, charge packs, or tokens can be gained from these Bio-Tech 
+informants. Walk up close to them and use the SPACE BAR to gain the goods! 
+
+SECTOR GUARDS 
+The Sector Guards aren't out to help anybody — especially you. This deadly guard packs the lethal Slow-Fire 
+Protector.
+
+TECH WARRIORS 
+"Professional" best describes these security guards. They are armed with auto-repeating rifles and they know 
+how to use them. Oh yeah— they won't go down without a fight! Kill one and take his rifle. That's what we're here 
+for, isn't it? 
+
+ALIEN PROTECTORS 
+The toughest of the tough. These guys are determined! With security vests to protect them, you might knock 'em down, 
+but... they won't stay down! 
+
+AND MORE... AND MORE... AND... 
+Surely, the future wouldn't be complete without a grouping of ghastly creatures to thwart your mission. Planet 
+Strike is packed with slobbering aliens, battle thirsty mutants, tech traps, guards and more. Be warned; 
+they lurk at every turn! 
+
+STATUS PANEL 
+
+The status line located at the top of the screen displays the current FLOOR number, the COMPLEX AREA name 
+and the number of LIVES remaining. 
+
+FLOOR 
+There are 20 plus floors in Planet Strike . The current floor is shown at the top left corner of the status line. 
+
+LIVES 
+You start the mission with three lives. If you die, you will restart the level from the point at which you began. 
+You'll lose the weapons and points you obtained (on that level) before your death, but your health will be restored 
+to the maximum. 
+
+COMPLEX AREA 
+Where are you? This displays the area's name. 
+
+STATUS PANEL (CONTINUED) 
+
+REBA INTERFACE 
+When enabled, the REBA INTERFACE displays information about the enemy, food unit selections, the current food 
+unit tokens inventory, or current items which are being picked up. Also, REBA relays information on the Access 
+Cards needed to unlock specific doors, displays Bio-Tech conversations, and other general information. 
+
+HEALTH MONITOR 
+The Health Monitor reveals your current physical condition during game play. Your mental health is your 
+business! When you begin Planet Strike, your Health is 100%. Each time your enemy inflicts damage, your health 
+is reduced. To restore your health, visit a food dispenser or find a first aid kit. 
+
+CHARGE STATE MONITOR 
+The current Charge State displays how much of a charge remains in your charge pack. If you are using the Auto 
+Charge Pistol, then it displays a WAIT message until the ACP's internal pack has been fully charged. 
+
+SCORE DISPLAY 
+This Is displayed in the top right of the lower status area. You can gain points by picking up treasure or by 
+killing an opponent. Every 400,000 points provides an extra life. 
+
+ACCESS CARD DISPLAY 
+When you find an access card, a graphic representation of that card will be shown below the health display area. 
+
+AUTO-MAPPING DISPLAY 
+The Auto-Mapping is an overhead rotating view of the areas that the player has seen. The Auto-Map has two levels 
+of magnification. In the 2x mag mode, the map resolution is doubled. In the 4x mag mode, the map resolution is 
+four times the normal mode. 
+
+Auto-Map colors are: Flashing white dot = you; Green dots = doors; Red dots - locked doors and enemies; 
+Light blue dots = secret doors; Yellow dots = security cube. 
+
+SELECTED WEAPON DISPLAY 
+This monitor displays the weapon currently being used. The lower right corner also displays the current 
+percentage of charge remaining. Weapon selection is made from the keyboard by pressing keys 1-6. 
+
+AUTO-MAP MAGNIFY MODES 
+The Auto-Map is an overhead rotating view of the areas that the player has seen. In the normal mode 
+(no magnification) it shows the player as a white dot and the areas seen in green. By using the "+" key or 
+the key to increase and decrease magnification mode, the player is able to increase the detail of 
+the auto-map. 
+
+In the 2x magnification mode, the map's resolution is doubled, and now other characters that are in range show 
+up as multi-colored dots. 
+
+In the 4x magnification mode, the map resolution is doubled again and you are now able to see pushable walls that are 
+near. The push walls show up as light blue dots. 
+
+MISSION 
+
+Planet Strike takes place in the abandoned STAR Institute Training Complex. Blake Stone starts the mission in the 
+Transport Arrival Area of the STAR Institute. Reports confirm that fiercely guarded security devices are in each area, and 
+they must be disabled before Blake can proceed, Blake must find the Fission Detonator that is used to destroy 
+the teleport Security Cube in that area before beaming to the next area. 
+
+The Security Cube devices have been placed on every teleport that is used to exit an area. Blake must destroy 
+this security device to unlock the teleport before he can advance to the next area of the facility 
+
+The Detonators, which appear as red canisters, must be found in each area. Once the detonator has been 
+located, Blake must locate the Security Cube, and use SPACEBAR to drop the detonator. If Blake is not close 
+enough to the cube, or if he is in another part of the map, the REBA display will give a warning. 
+
+Once Blake has gone through each area and destroyed the Security Cubes, he will beam to floor number 20. 
+There he will have his final battle against the evil Dr. Goldfire. 
+
+CHEAT CODE 
+
+The following cheat mode will help you out. Using this cheat code will give you full ammo, health, all the 
+weapons, and all the access cards. 
+
+To activate the cheat mode, type (one letter at a time from within the game) "JAM" and then press the ENTER 
+key. You may use this cheat as many times as you wish, but your score will be set to zero with each use. 
+
+MISSION STRATEGIES AND TIPS 
+
+Here are just a few tips to keep you blasting in Planet Strike. They may help save your life. At the 
+very least, they'll save your nervous system! 
+
+• Shoot PerScan Drones and Volatile Transports (VT's) from a distance. Their explosions can damage you! 
+• Use PerScan Drones and VT's to damage opponents near them. 
+• Weapons can detonate ammo on the ground. Be careful! 
+• Use the radar to detect cloaked enemies. 
+• Do not destroy PerScan Drones or VT's around hibernating aliens. The explosions will release them. 
+• Shoot at the crates with the Slow Fire Protector — this will conserve ammunition. 
+• When entering rooms through opening doors, quickly enter the room and then back out. This will alert 
+any potential ambusher and give you a chance to blast him first. 
+• Interrogate all Bio-Technicians at least three times. The first time he'll give you a clue; the second, 
+ammunition; the third, a food token. 
+• Use the Plasma Discharge Unit to kill opponents around corners. 
+• When shooting an opponent with one of the larger weapons, back away while shooting. This will keep you
+at a safer distance and allow more hits to wear him down. 
+• When fighting opponents that shoot at you, keep moving side to side. 
+• Kill the shooting aliens — locked behind barriers— before deactivating the barriers. 
+• Try to destroy the ceiling turrets as quickly as possible when you see them, before they lock-on to you 
+and begin firing. Use the RAW or DND. 
+• The Fluid Aliens can only take damage when they are standing. 
+• Don't loiter in rooms with electric sockets on the walls. The Plasma Aliens will emerge and attack until 
+you are dead! 
+• Don't shoot any helpful informants and you will be well rewarded! 
+• Use the keyboard and the mouse to play the game. The mouse provides better control for shooting and 
+turning. Also, the Strafe mode is much easier using the second mouse button. 
+• Remember, you can always return to previously played floors to retrieve items you did not pick up. This 
+might be a saving grace when low on health or ammunition. 
+• Some pushwalls may require more than one push. 
+• Find all of the loot. High scores receive extra bonuses! 
+
+CONTROLLING THE ACTION 
+
+Planet Strike is compatible with a variety of input devices. If you prefer, you 
+can play the game by using a mouse, joystick. Gravis GamePad, and the key- 
+board, The following outlines the player actions and the control: 
+
+Movement 	Moves Blake accordingly 
+Left Button 	Fires the selected weapons 
+Right Button 	Opens doors 
+Middle Button 	Strafe 
+
+Movement 	Moves Blake accordingly  
+Button 1 	Fires the selected weapons 
+Button 2 	Opens doors 
+
+Movement 	Moves Blake accordingly 
+Button 1 	Fires the selected weapons 
+Button 2 	Strafe 
+Button 3 	Opens doors 
+Button 4 	Run 
+
+Arrow Keys 	Moves Blake accordingly 
+Ctrl 		Fires the selected weapons 
+Spacebar 	Opens doors and drops Detonator 
+
+QUICK KEYS 
+
+Shift + Arrow 	Blake will Run according to arrow direction 
+Alt + Arrow 	Blake will Strafe according to arrow direction 
+F1		Help/ Instructions 
+Esc 		Main options 
+Tab 		Statistical information display 
+Ctrl 		Fires the selected weapon 
+#'s 1-6 	Weapons selection 
+Q/E 		Quick 90° Left/Quick 90° Right turn 
+W/ENTER 	Quick 1 80° turn 
++/- 		Increase/Decrease Automap magnification 
+I 		Toggle attacker information 
+M 		Music On/Off 
+S 		Sound On/Off 
+P 		Pause game 
+C 		Ceiling On/Off 
+F 		Floor On/Off 
+L 		Lighting On/Off 
+
+DO YOU REQUIRE FURTHER TECHNICAL ASSISTANCE? 
+
+As a registered user of Planet Strike, you are welcome to contact our 
+Technical Support and Hints Department for any assistance required. 
+Technical support and hints may be received by calling (214) 278-5655, 
+Monday through Friday, between 8:00 a.m. and 6:00 p.m.. Central Standard 
+Time. Or fax us at (214) 278-4670, 24 hours a day. If you prefer to write, send 
+correspondence to: 
+
+Apogee Software, Ltd. 
+Technical Support / Game Hints Department 
+P.O. Box 496389 
+Garland, TX 75049-6389 
+
+To assist us in providing you with faster service, please have your registration 
+number ready and be at your computer system when you make the call. Written 
+inquires should include your registration number, system type and accessories, 
+and printed copies of your CONFIG.SYS and AUTOEXEC.BAT files. 
+
+Please do not call the 800 number for technical support or game hints as this 
+information will not be provided on this line. 
+
+There is a file included with the Planet Strike game disks which contains 
+some basic technical support information. This file is named PS-HELP.EXE. 
+If you are having difficulty running Planet Strike once it has been installed, 
+please consult this file before you call Apogee. The file contains solutions to 
+the most commonly encountered problems of our customers. 
+
+THANKS FROM APOGEE! 
+
+All of us at Apogee would like to express our sincere appreciation for your 
+purchase of this software package. Much time and effort goes into the devel- 
+opment of our software, and your support ensures that we can continue to 
+offer quality software entertainment. 
+
+APOGEE SOFTWARE 
+
+Apogee Software, Ltd. is the publisher of Planet Strike, other games and 
+educational software for IBM™ and compatibles. For information about 
+all the products available from Apogee call 1-800-APOGEE-1 — ask for 
+an all new catalog. 
+
+COPYRIGHTS AND TRADEMARKS! 
+
+Planet Strike and Blake Stone: Aliens of Gold © Copyright 1994 Apogee 
+Software, Ltd. All other trademarks are the property of their respective 
+owners. 
+
+BLAKE STONE: ALIENS OF GOLD OFFER 
+
+Alert!!! Alert!!! Alert!!! 
+
+"Did you like Wolfenstein 3-D? If you did, you'll love Blake Stone." 
+-PCM February '94 
+
+“Blake Stone tops the original Wolfenstein in technical implementation and 
+playability, and comes close to DOOM " - PC Review April '94 
+
+"The first-person viewpoint and smooth movement will have you peering 
+sideways into the monitor to see if there's another monster around the corner." 
+- PC Magazine April 94 
+
+Now that you own Planet Strike, complete your collection by purchasing the 
+classic adventure that started it all, Blake Stone: Aliens of Gold. Players who 
+have purchased Planet Strike can continue the excitement by receiving the 
+original Blake Stone: Aliens of Gold for the special price of only $29.95. 
+
+FEATURES: 
+
+* 60 main levels, including many secret levels! 
+* Built-in auto mapping features show you where you've been and helps keep you from getting lost. 
+* Over 20 different guards, aliens, mutants, and bosses! 
+* 6 all new complete missions to play. 
+* Amazing 'movie-like' animations and effects. 
+* High-tech locations to explore such as a space station, a moon base and a research complex. 
+* And much, much more! 
+
+Important: This offer is for players who have purchased Planet Strike. You 
+must include your Registration card when placing an order. 
+
+Here's how to order the original Blake Stone: Aliens of Gold: 
+
+1. Complete the order form on the reverse side of this page, tear at the perforation and fold. 
+2. Include your payment in the amount of $29,95 plus shipping and handling. 
+3. Send the order form. Registration card and payment to the address below: 
+
+Apogee Software, Ltd. 
+Blake Stone: Aliens of Gold Offer 
+PO Box 496389 
+Garland, TX 75049-6389 
+
+[] Yes, I want the original, 66 level Action adventure game that started it all! Please send me 
+Blake Stone: Aliens of Gold at the special price of only $29.95. 
+
+PURCHASER/PAYMENT INFORMATION (Please print clearly) 
+
+Name: _____ 
+Company: _____
+Address: _____ Apt/Suite# _____ 
+City: _____ State/ Province: _____
+Zip/Postal Code: _____
+Country: _____
+Phone: ( ) Fax: ( ) 
+
+Check ✓ one: [] Check [] Money Order [] Visa 
+[] MasterCard [] Discover 
+* Payment must be made in U.S. funds and drawn against a U.S. bank. Please do not send cash. 
+
+Card Number: _____
+Expiration Date: _____
+Signature: _____
+
+SYSTEM INFORMATION (Check the boxes which apply) 
+Graphics: [] SVGA [] VGA 
+Disk Size: [] 3.5“ HD (1.44M) [] 5.25" HD (1.2M) 
+Computer Type: [] Pentium [] 486 [] 386 
+
+ORDER SUBTOTAL $29.95
+
+TEXAS TAX
+8.25% - Addison, Buckingham, Carrollton, Cockrell Hill, Dallas, Farmers Branch, Garland, 
+Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, University Park
+7.25 - All other Texas cities or towns
+
+SHIP & HAND 
+$5 - United States; $6 - Canada/Mexico; $8 - All others 
+
+ORDER TOTAL
+
+No reproductions please, this offer can be used for mail orders only. 
+
+Credits 
+
+Jam Productions 
+Michael Maynard 
+Jerry K. Jones 
+
+Contributing Artists 
+Cygnus Multimedia Productions 
+Debra Berry 
+Jeff Dee 
+
+Music 
+Robert "Bobby" Prince 
+
+Texture Mapping Engine 
+id Software 
+
+Cover Illustration 
+Ken Rieger 
+
+Manual Design 
+Robert M. Atkins 
+
+Financing & Resources 
+Apogee Software 
+
+Special Thanks to 
+"The Apogee Beta Testers" 

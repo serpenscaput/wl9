@@ -1,0 +1,1230 @@
+You are looking at a scanned in copy of an original print manual for an Apogee Software / 3D Realms game. 
+
+This manual is presented in its original format. Please note that any references to order forms or upgrade 
+packs are no longer relevant. 
+
+Please also be aware that the old customer & tech support information presented here is out of date. Our phone 
+numbers and hours of operation have changed or are possibly no longer relevant (depending on the title). 
+
+For current information, please visit our website. 
+Thank you. 
+
+Apogee Software Ltd / 3D Realms Tech Support 
+March 2009 
+
+http://www.3drealms.com 
+
+You are a member of the HUNT, the top secret High risk United Nations Taskforce, sent on extremely 
+covert operations to possible trouble spots outside the three-mile boundary waters of member countries. You are on 
+a routine reconnaissance mission on San Nicolas Island, located in the Pacific twenty miles west of Los Angeles. 
+Your team is investigating possible cult activity in an old monastery, when suddenly troops pour out of nowhere! 
+In the distance your boat explodes. Just before your radio goes to static, you hear desperate newsmen 
+describing the systematic destruction of Los Angeles. An escaped prisoner informs you that a pyrotechnics 
+expert and a rich movie studio head have joined forces with the Oscurido cult. Their plan: kill millions of inno- 
+cent people for the glory of their master, El Oscuro. Having no other escape route, the HUNT heads 
+into the monastery, taking the only course of action left: stop the Oscuridos or die trying. 
+
+TABLE OF CONTENTS 
+
+Table Contents...1
+Site Licensing...2 
+Installation...2
+Navigating the Menus...3-4
+Starting a New Game...6
+Objective...6
+The Game Screen...7
+Items in the Game...8
+Weapons...8-9
+Healing Items...10 
+Life items...10
+Dangerous Items...11-12
+Useful Items...12-13
+Armor Items...13
+Powerups...14
+Our Cast: Heroes of the HUNT...15
+Villains...16-17
+Comm-bat...18-19
+Hints...20
+Special Features...21
+Controlling the Action...22-23
+Cheat Codes...23
+The Real Story...24
+Upgrade Offer...25-26
+Technical Support...27
+Warranty...28
+Behind the Scenes...29
+
+PLEASE DON’T MAKE ILLEGAL COPIES OF TtHIS SOFTWARE 
+
+Rise of the Triad was produced through the efforts of many people. 
+Everyone along the line relies on sales of the program for their living. Help 
+preserve jobs by honoring the copyright of the program. Don’t make illegal 
+copies for others who have not paid for the right to use the program. 
+
+This program is protected by federal and international copyright. To report copyright violations 
+to the Software Publishers Association call 1-800-388-PIR8 or write: 
+
+Software Publishers Association 
+1 730 M St. NW Suite 700 
+Washington, DC 20036-4510 
+Fax: 1-202-223-8756 
+
+SYSTEM PEQUIPEMENTS 
+
+Rise of tile Triad (ROTT) requires an IBM or 100% compatible 386 DX-40 or 
+better computer with 4 Mb RAM (a 486 with 8 Mb and local bus video recom- 
+mended), a VGA graphics card, and 20 Mb free space on a hard disk drive. 
+Joystick, Cyberman, Space Player, mouse, and Gravis GamePad are 
+optional. ROTT supports any of the following sound cards (or a 1 00% compati- 
+ble): Sound Blaster Pro/16 , AWE32, AdLib, WaveBlaster, Roland Sound 
+Canvas, Gravis UltraSound, Ensoniq SoundScape, ProAudio Spectrum, 
+Logitech Soundman 16, Disney/Tandy Sound Source, and any General 
+MIDI device, The use of a sound card is recommended. 
+
+FOR NETWORK PLAYERS; SITE LICENSING
+
+When playing a multiplayer game (via network), each player must have a 
+registered (legally purchased) copy of the game, unless everyone is playing 
+the shareware version, which is free to “test drive" for 30 days. 
+
+Any player who ts playing with an unregistered copy of Rise of the Triad 
+(ROTT) is violating software copyright laws and should contact Apogee 
+immediately to register the copy (copies) or purchase a site license (see next 
+paragraph), or delete all ROTT files on the system and recording media. 
+
+Apogee provides two ways to play multiplayer network games legally: 
+(1) Each player must have a registered copy of the game. (2) A site 
+license must be purchased from Apogee which allows up to the maxi- 
+mum number of players to play a single network game oil a single system 
+at a time. Call I-800-APOGEE to order your site licenses. 
+
+A site license costs $89.95. (Sorry, there is no discount price if you’ve already 
+purchased Rise of the Triad.) Here's what you get if you buy a site license: 
+
+• A new CD-ROM copy of ROTT specially designed for network play. 
+• 10 Additional Comm-bat levels. 
+• Eleven command cards for quick reference. 
+• A signed lifetime Site License Agreement from Apogee for Rise of 
+the Triad which gives you the right to play up to the maximum 
+number of players per game, or a single networked system. 
+
+INSTALLATION 
+
+To play Rise of the Triad, you must first install the game. The program’s 
+installation utility will place all of the necessary files on your hard drive. To 
+install the game, follow these simple instructions. 
+
+1. Before installation, make backup copies of the original floppy disks and 
+store them in a safe place. Use the backups to install. 
+
+2. Place Disk 1 (or the CD) into the appropriate disk (or CD) drive. Type 
+the letter of the drive followed by a colon and press the ENTER key. 
+Example: A:<ENTER>. 
+
+3. Type INSTALL and press the ENTER key. 
+
+4. Follow the instructions in the installation program. 
+
+5. After installation is complete, type SNDSETUP and press the ENTER key 
+to configure your sound and music. 
+
+6. Once the sound setup is complete, type ROTT and press the ENTER key 
+to play the game. 
+
+Note: With the CD-ROM version ot ROTT, the game can be installed on the hard 
+drive. However, in order to play the game the CD-ROM must be in your CD drive. 
+
+When starting, you will see a lovely introduction sequence. Once you have 
+seen all you want to see, press a key. You will be whisked away in extreme 
+comfort to the Main Menu. This is where everything starts to get interesting. 
+
+
+NAVIGATING THE MENUS 
+
+Rise of the Triad (ROTT) has not been called one of the most user-friendly games ever for 
+nothing. Complete control has finally been put into the hands of the gamer. Through ROTTs 
+Main Menu, you can adjust almost anything in the game to fit your needs. 
+
+NEW GAME
+
+If you choose a new game, you will be asked which of the five characters you would like to be. 
+Your choice will determine how many hit points you have, how fast you can run, and how accu- 
+rate you are with certain weapons. (For more information, see the "Our Cast" section on page 
+15 and the “Starting a New Game" section on page 6.) After a brief intro, the game will begin. 
+
+COMM-BAT GAME 
+
+If you have a modem, a network, or a serial cable, you can play ROTT against your friends! 
+To choose this item, you must already have connected to your buddies by running the 
+SETUP program from DOS. Whoever is the “MASTER” (the one who called, or the one 
+ran their program first) gets to choose the Battle Options. Each player gets to choose what char- 
+acter they would like to use in the Comm-bat Zones. (See more about this in the “Comm- 
+Bat” section on pages 18-19.) 
+
+SAVE GAME 
+
+You can save your game anywhere in a level. If you haven’t started a game, this option will be 
+dimmed, and thus not selectable. Your saved game is stored with a picture of where you were, 
+with the episode and area number that you were in. All you need to do is type a name or descrip- 
+tion of the game to be saved, and press the ENTER key. 
+
+RESTORE GAME
+
+You can resume a previously saved game with this option When restoring a game, you are 
+shown a still shot of were you where when you saved that game. 
+
+ORDERING INFO 
+
+Find out about Apogee’s easy game ordering information for Rise of the Triad 
+
+OPTIONS 
+
+There are four selections here: 
+
+CONTROLS 
+
+You can choose what input devices you would like to use, and reconfigure them to what you 
+prefer. There are three strange items here: 
+
+Adjust Threshold 
+This is how far you can move from center before the input device says, “Okay, let’s move." 
+
+Mouse Sensitivity 
+You can move wildly or very little. 
+
+Customize Controls 
+Change what keys or buttons you use. 
+
+USER OPTIONS 
+
+This is an interesting section— under user options, you get to modify the game to suit your 
+needs. You can change eight different things: 
+
+Auto Detail 
+If you want the game to automatically adjust the detail levels so the gameplay continues to 
+run fast, choose this option. 
+
+Double-click Open 
+For the players of other 3-D games, we stuck in a double-click open. Use it if you’re used to it. 
+
+Light Diminishing 
+Is the game “just too dark”? Turn this off and all the areas will be brightly lit. 
+
+Bobbin’ 
+If the gun bobbing makes you sick, turn this off. However, it won’t stop shrooms mode. 
+
+Floor and Ceiling 
+If you are using a slower computer, you can choose not to draw the floors and ceilings; this 
+will speed up the game. 
+
+Menu Flip Speed 
+Some peoplike to watch the menu flip, others just want to blaze to the next menu. 
+
+Detail Levels 
+Choosing a lower detail level will speed up the game if you’re on a slower computer. 
+
+Violence Level 
+Because of the growing concern with the amount of violence in games, Apogee once 
+again leads the way with another industry first, a violence level adjustment option. 
+
+You can now control how much blood you see in the game, from None to Excessive. If you 
+enter a password, everyone else will be locked out from changing the violence level. This is 
+provided for the convenience of parents.
+
+Note: You cannot change the violence level while in a game. You must end the game firsts 
+
+MUSIC VOLUME/SOUND FX VOLUME 
+
+These user options are used to adjust the volume levels of the music and sound effects. 
+
+VIEW SCORES/END GAME 
+
+If you are not currently in a game, this option allows you to view the current high scores. 
+Otherwise, you’ll have the option to end your current game.
+
+BACK TO DEMO/BACK TO GAME 
+
+If you’re not in a game, and you’d like to see the demo loop again, choose this. If you’re playing a 
+game, you can return to it by choosing this option. 
+
+QUIT 
+
+Now that you’ve had your daily dose of death and destruction, use this option to quit back to 
+boring reality. 
+
+STARTING A NEW GAME 
+
+After selecting New Game from the Main Menu, there are several options which must be chosen 
+in -order to start a new game. The first screen is the Select Player screen. 
+
+Select Player 
+In order to increase the playability and choices for the gamer, we designed ROT with the 
+option of five different characters to pick from. Each character has his/her own individually 
+unique strengths and attribules. No two are exactly the same. 
+
+This is not a RPG, however, ROTT does allow you the ability to play as a character that has a 
+personalized history and even an individual personality. Thus giving you, the gamer, an 
+option to pick someone who represents you better than the ever-popular generic player. 
+
+Difficulty 
+Next, you must select the difficulty of the game. There are tour skill levels to choose 
+from. The different skill levels determine how quickly you are hurt, how many opponents are 
+on a level, the skill levels, and how easy it is to see secret walls! 
+
+After these selections have been made, the loading screen will be displayed while your system 
+prepares the level. Then the game, and your demise, will begin. 
+
+OBJECTIVE 
+
+With the boat gone and no means of escape, it’s clear that this routine recon mission has suddenly 
+taker a turn for the worse, and you now find yourself in a desperate situation. With no time to 
+spare, and the balance of the free world resting in your hands, there is only one thing to do — blaze 
+your way through the monastery. By seeking out and destroying this deranged cult, maybe you can 
+save the world. And who knows, you might even live to talk about it. (We know this is cliched, but 
+you folks don’t care about story do you?) 
+
+THE GAME SCREEN 
+
+Information Bar (Top of Screen) 
+The Information Bar displays how many points you’ve earned, how long 
+you’ve been in the current area you’re exploring, which keys you have, plus 
+powerups and armor. On the right is a picture of your character, how many 
+lives you have left, and how many life items you have collected. (When 
+you've collected one hundred life items, you get a free life.) 
+
+Status Bar (Bottom of Screen) 
+On the Status Bar, we have two things; your health, which is displayed on the left; and pictured on 
+the right is the ammo you have remaining for your current missile or magical weapon, with the infinity 
+symbol displayed for bullet weapons. 
+
+ITEMS IN THE GAME
+
+Simply walk over an item to collect it. Items in the game come in four categories: weapons, healing, 
+dangers, and useful items. 
+
+WEAPONS 
+
+There are 11 different of weapons you can get in ROTT. Of these, there are three kinds: bullet 
+weapons, missile weapons, and magic weapons, Let’s take a look at them, shall we? 
+
+BULLET WEAPONS 
+
+Pistol (Press “1" to activate.) 
+You don’t have to collect bullets in this game. 
+Ammo: Infinite 
+
+Dual Pistols (Press “2" to activate.) 
+Two guns at once. Double your pleasure, double your fun! This’ll “Woo” them to your side. 
+Ammo: Infinite 
+
+Machine Gun (Press “3” to activate.) 
+Once you have this, low guards are not a problem. 
+Ammo: Infinite 
+
+MISSILE WEAPONS (Press “4” to activate.) 
+Oh, man, do we have the missile weapons. 
+
+Missile weapons automatically upgrade. You can switch back to the bullet weapons by pressing 
+INSERT (you may also customize this). You can carry only one missile weapon besides the three 
+bullet weapons, and you can also drop your missile weapon by pressing the DELETE key. 
+
+Bazooka 
+Your basic straight shooting missile-firing weapon. Always a fun way to toast Triad terrorists 
+terminally. Ammo: 10 Per Weapon 
+
+Firebomb 
+This explodes in a big X of fireblasts, shaking the very ground you walk on. Not for close quarters. 
+Ammo: 5 Per Weapon 
+
+Heat-seeker 
+Will lock in on any heat source and head towards it. Handy for surgically picking off baddies. 
+Ammo: 7 Per Weapon 
+
+Drunk Missile 
+Five missiles fly out with no clue of where they are going. 
+Ammo: 7 Per Weapon 
+
+Flamewall
+As soon as this missile hits the around, a wall of flame springs to life and burns enemies to 
+cinders. 
+Ammo: 5 Per Weapon 
+
+Split Missile 
+Hold down the fire button and two heat-seeking missiles fire. Let go, and they split off at 45 
+degree angles, plus the missiles both heat seek once split. 
+Ammo: 7 Per Weapon 
+
+MAGIC WEAPONS 
+
+Two very powerful weapons exist in the game, borne of the magic of El Oscuro. 
+
+Excalibat 
+When one of the ancient staff-creating spells called for a length of wood, all the Oscurido 
+minions could find was a baseball bat. Now it’s an enchanted baseball bat. You can bat around 
+your enemies, which is pretty coot. But it has a secret power, if you can only unlock it. 
+Ammo: Infinite Swings and 10 Excaliblasts
+
+Dark Staff 
+
+This is an incredibly powerful weapon. Little stops it, except thick walls. It destroys virtually 
+everything in its path. A kinetic energy sphere, bristling with wild blue magic, shrieks toward 
+your enemies. 
+Ammo: 7 Per Weapon 
+
+HEALING ITEMS 
+
+Collect many different items for health. The amount of health you have is determined according 
+to which character you select to play with. 
+
+Guard Gruel 
+10 Hit Points. 
+
+Priest Porridge
+20 Hit Points (Cold) and 50 Hit Points (Hot). 
+
+Small monk crystal 
+10 Hit Points. 
+
+Large monk crystal 
+50 Hit Points.
+
+Healing basin 
+Random number of Health Points 
+{at least 25; up to 100). 
+
+LIFE ITEMS 
+
+Collect 100 life items, and you get a free life. Life items come in denominations of one, five, ten, 
+and twenty five. Collect them all! 
+
+lUp 
+This gives you another life, or another death, depending on if you’re an optimist or pessimist. 
+However, if your health is less than 75%, this will not give you a life, but will give you full health. 
+
+3Up 
+This gives you three lives. However, if your health is less than 75%, this will only give you 
+two lives and full health. 
+
+DANGEROUS ITEMS 
+
+The environment in ROTT is not static. You will encounter many things to turn and run from! 
+
+Rolling Boulders 
+You got the idea, Pancake Boy! 
+
+Crushing Cylinders 
+If you are between one of these and a hard flat surface, well, let's put it this way — you'll have to 
+untie your shoe, to see the enemy. 
+
+Gun Emplacements 
+There are two kinds of gun emplacements. One kind senses when you are near, then rises and 
+-shoots at you. The other kind shoots in four directions as soon as you're near. 
+
+Firechutes 
+These launch fireballs across the room, which tend to interfere with one's traversal from one 
+side to the other. 
+
+Firejets 
+Whether on the floor or ceiling, these guys blast a jet of fire into the air. To anyone standing by 
+them, it ain’t the humidity, it’s the heat. Some firejets also move on tracks. 
+
+Gas Grates 
+Activated by a switch or a touchplate, these grates spew out poisonous green gas for an 
+uncomfortable length of time. You cough, you lose health, and so on — unless you had the fore- 
+thought to pick up a nice gas mask along the way. 
+
+Heat Pits 
+Filled with fiery lava, these really hurt to walk over. Anyone with sense wouldn’t walk over 
+them, but then anyone with sense wouldn’t have tangled with a bizarre blood cult, now would they? 
+
+Pit Traps 
+They look like the floor, but walk over them and crack-blump, you have less health than you did. 
+
+Spinblades
+Big, solid, spinning, covered with razor-sharp blades. Need we say, "don’t run into them?” 
+
+Slabbers 
+Big circular racks of sharp spears, whirling out of the floor or ceiling. Note the little chunks of red 
+matter on them. Beware! 
+
+Spinblade Slabbers 
+Okay, you’ve read the previous two. Combine them. 'Nuf said. 
+
+Moving Walls 
+As if the shooting guards weren’t enough, there are WanderWalfs that are out to get you. 
+
+Firewalls 
+They might look nice, but we would not advise leaning on them. Firewalls are as the name 
+implies: they are hot, they often can move, and if you make contact, they will fry you like a chicken. 
+
+USEFUL ITEMS 
+
+There are some useful items in the lair of the Triad 
+
+Bonus Barrels/Crates
+Who knows what they contain? Healing, weapons, life items? Blow ’em up and take their 
+contents. Crates are full of TNT; they explode and hurt enemies near them. 
+
+Pushpillars 
+You can push some pillars out of the way, by pressing the SPACEBAR. Or in the way, if you 
+want. Some can only be pushed in one direction. Real puzzle-building stuff. 
+
+Gravitational Anomaly Disks 
+Gravitational Anomaly Disks are massively useful, and they're everywhere! You’ll see them as eleva- 
+tors (EGADs), bridges, sky trains, stairs, ledges, and more. A combination of Darian’s technical 
+wizardry and El Oscuro’s wizardly wizardry, they are quite helpful. Ride them, stand on’em — 
+disk-over all sorts of possibilities! 
+
+Keys 
+There are three regular keys: gold, silver, and iron. There are locked doors that they open, 
+which have the same symbol as the key’s ring. And there is a rare fourth key, the Oscuro Key. 
+You never need an Oscuro Key to finish a level, but you can bet whatever it hides is very valuable. 
+
+Switches 
+Flip them, by pressing the SPACEBAR. They probably do something. If it’s bad, well, at least 
+you tried. Some switches are up on a pole, so you have to get up there somehow to flip them. 
+
+Jump pads 
+Jump pads are pneumatic launchers that chuck YOU up into the air. Some jump pads work oftly 
+once, and some fire at intervals, so you have to stand on them and wait. 
+
+Touchplates 
+Some floors have secret touchplates installed in them. They appear as dark areas on the floor. 
+
+Elevators 
+They will shuttle you to some other place in the level. Press the SPACEBAR to activate. 
+
+ARMOR ITEMS 
+
+Three armor items help you out a lot. Get them whenever you see them. They are time limited. 
+
+Bulletproof Vest 
+Bullets do not hurt you when you wear this. However, missile weapons can still kill you. 
+
+Fireproof Vest 
+Made of asbestos and other itchy, fire-retardant materials, this vest helps protect you from fire 
+and explosions. However, bullet weapons can still kill you. 
+
+Gas Mask 
+If you flip a switch or step on a touch plate and hear “Release the gas!”, I hope you have one of 
+these. Otherwise, a lot of coughing, unstoppable tears, and agonizing green pain will ensue. 
+
+POWERUPS 
+
+There are six powerups. they Significantly (but temporarily) change your abilities. How? Read on! 
+
+God Mode (30 Seconds) 
+Being eight feet tall, glowing, invulnerable, and able to discorporate people and utterly destroy 
+objects at your slightest whim has its advantages. [Editor’s Note: this is not Jehovah, God, Allah, or 
+any other god. This is a game. Get a grip.] 
+
+Dog Mode (30 Seconds) 
+Okay, two feet tall, furry, invulnerable, nasty bite, vicious bark. Trained well enough to open doors 
+and go on the paper. Discover the secret BarkBlast! 
+
+Mercury Mode (30 Seconds) 
+Put on them crazy magic winged boots and run like the wind or fly into the air by pressing the 
+Spacebar. 
+
+Elasto (15 Seconds) 
+Imagine you’re a superhero who can turn into magical rubber and bounce off of anything. Okay, now 
+imagine you’re not invulnerable, and stuck in a bunch of narrow corridors with horrible environment 
+dangers all around you. Not so tough now, huh? 
+
+Shrooms (15 Seconds) 
+Do not do shrooms. Your vision will wander sickeningly. The walls will start wiggling. Everyone 
+will start glowing. Winners don’t do shrooms. [Editor’s Note: this is a powerdown in the game. 
+It is not a real drug. It does bad things. If you’re worried that little Johnny will want to try them, 
+this will convince him never to do anything of the sort, it’s that repulsive. And this is not reality. 
+Once again, please get a grip.] 
+
+Random 
+Run into this and you never know what you'll get. For the desperate, or the thrill-seeking. 
+
+One note: To make things somewhat fair, you can still plummet to your awful death off any 
+mountain if you’re in God Mode or Dog Mode. 
+
+Our Cast: Heroes of the HUNT 
+
+Thi Barrett
+Age: 22 Hair: Red Eyes: Blue Skin: White Ht: 5’6” Speed: Fast Accuracy: Good Hit Points: Avg. 
+Scottish. Thi {pronounced “tee”) is stout, but gorgeous. A toss of hair tends to fall over her 
+forehead. Straight-laced. Medal in unarmed combat. 
+
+Taradino Cassatt 
+Age: 29 Hair: Blonde Eyes: Blue Skin: Tan Ht: 6’1” Speed: Med/Fast Accuracy: Good Hit Points: Avg. 
+European Mix. Fit and powerful, Cassatt is the son of jetsetters who found a direction in life in 
+the armed forces. Looks like a serious-minded beach bum. 
+
+Lorelei Ni 
+Age: 27 Hair: Black Eyes: Brown Skin: Olive Ht: 5’4” Speed: Fast Accuracy: Excellent Hit Points: Low 
+Chinese. Fiercely competitive. Won troop boxing championship. Intense eyes. Scar on shoulder 
+from rock-climbing accident. Once married and soon divorced. 
+
+Doug Wendt 
+Age: 34 Hair: Black Eyes: Brown Skin: Brown Ht: 6’3” Speed: Med/Slow Accuracy:Good Hit Points: Tons 
+African-American, Impressive and large, Wendt wouldn't win the 100-yard dash, but he can take 
+hellacious damage. Tends to be insubordinate to book-following superiors. Lost last joint of right 
+ring finger. Likes fighting with bullet weapons. 
+
+Ian Paul Freeley 
+Age 37 Hair: Brown Eyes: Green Skin: Tan Ht: 5’11” Speed: Medium Accuracy: Good Hit Points: High 
+Euro-Mediterranean Mix. Seen as a dangerous person, Freeley likes to release his aggression 
+through the readily-available high-powered firearms. Frizzy brown hair seems to explode and 
+fall to the side of his head. Greco-Spaniard by heritage. Not overly concerned with his appear- 
+ance, Ian is swarthy but unkempt. 
+
+VILLAINS 
+
+A lot of people and things want to kill you, so perhaps you’d like to know who you’re up against. 
+
+Episode One: APPROACH 
+
+Low Guard 
+The grunt of the Oscuridos forces: they shoot, and when it’s time to “ask questions later,” they 
+shoot some more. (Male and Female) 
+
+High Guard 
+Armed with the old MP40 machine gun, these fellows enjoy perforating the enemy. 
+
+Overpatrol 
+Be careful around this enemy: they’ll trap you in a net, then shoot you dead. 
+
+Boss 
+“General" Darian; The pyrotechnics wizard himself, now sporting the title of General, has 
+plenty of tricks in store for you, including racks of stabbing spears, and a big bad bazooka! 
+
+Episode Two: MONASTERY 
+
+Lightning Guard 
+Trained for speedy maneuvers, watch out for lightning guards — they’ll steal your stuff! Armed 
+with a pistol. Once killed, you get your stuff back. 
+
+Strike Team 
+Tough and resourceful, these acrobatic guards won’t stay still — they continually tumble out of the 
+way of your attacks! (Male and Female in Triad Deluxe Edition) 
+
+Triad Enforcer 
+Big, bad, and wearing black, the Triad Enforcers wail on you with a big chain gun, then have the 
+nerve to throw grenades at you! Jeez! 
+
+Boss
+
+Sebastian "Doyle" Krist. Watch out for the former head of Triad Pictures — he’s insane and heavily 
+armed. He flies towards you in his battle throne, firing missiles ramming you. Try and attack 
+him! You’ll see what happens! 
+
+Episode Three: CAVES BELOW
+
+Patrol Robot 
+Forever patrolling the halls of the monastery; one sound and you’ll have some high-speed visitors 
+pummeling your chest! 
+
+Ballistikraft 
+Indestructible, double-attacking iron cylinders of death. Slow, but extremely deadly. 
+
+Boss 
+
+NME, the Nasty Metallic Enforcer. A huge robot guard constructed as the last guard of El 
+Oscuro’s Lair. Oh so deadly. (We even have trouble beating this guy.) 
+
+Episode Four: THE BLOW AND THE DEAD 
+
+Death Monk 
+These undead folks walk-toward life sources and try to drain them of their energy. Tough to kill. 
+
+DeathFire Monk 
+These monks like their prey cooked before they feed, so they will blast you with fireballs. 
+
+Boss: El Oscuro, the Dark 
+
+The dark ancient force worshiped by the Oscuridos. With many magic attacks and awful 
+surprises, you’ll be dead twice before you notice your body is vaporized. 
+
+COMM-BAT
+
+In Rise of the Triad, you can play games over your modem, network, or 
+serial cable. For advanced features of Comm-bat setup and play, please run the ROTTHELP.EXE program. 
+
+Starting Serial Play 
+For serial play, connect your computers. Run SETUP. Choose the correct serial port and run a serial game. 
+
+Starting Modem Play 
+Run SETUP. Choose Modem Game. Choose Change Modem Setup. Select your modem, type, and its setup. 
+
+Choose Manual Dial and enter your friend’s number. If you have entered that 
+number in the Number List and set it to Default, you can simply choose 
+QuickDial Default Number. Once connected, you can follow the MASTER OF 
+CEREMONIES text in the Starting Network Play section. 
+
+Starting Network Play 
+While future versions may have player/servers, HOTT requires a separate 
+computer to act as the server for ail the players. This is so no one is slowed 
+down by the server functions (making the game unfair), and also so no com- 
+puter is required to have 16 Mb of memory (which it would need if it kept 
+track of the data for 11 players and the game.} 
+
+Starting The Server
+Run SETUP. Choose Network Game. Select the Launch as Server option, now choose the num- 
+ber of players that want to play and press Enter. 
+
+Starting The Clients (Players) 
+Run SETUP. Choose Network Game. Choose Launch As Client. Once the server finds all the 
+people (and it will ridicule the people who are siow to enter), you can press a key and the game 
+will start. 
+
+SETUP PROGRAM 
+
+Master of Ceremonies 
+Whoever launched first will now be the “Master". Once everyone has selected a player and uniform 
+color, the Master gets to choose the Comm-bat level, options, then Play Game, or Play Team Game, 
+You can play a game to completion or the Master can press ESC and then “Y” to quit, and that game will 
+end. Any other players can simply leave the game at any time by pressing ESC and then “Y’. 
+
+In the game, press TAB to see everyone’s “KillCounts." The list is actively sorted. {Except in 
+Hunter — the person being hunted will be displayed in the upper left hand corner, so you know 
+who you are looking for!) 
+
+REMOTE RIDICULE
+If you have a microphone hooked up to your SoundBlaster, make sure it is set up, then hold 
+F12 and speak in the microphone. What you say will be heard on everyone else’s computer! 
+Otherwise, press F1-F10 to play the preset sounds. 
+
+Messages
+To type a message to everyone, press “T”. You can send directed messages by pressing "Z",
+entering the message, and pressing ENTER. A list of all the other players will appear on the 
+screen. Press the number of the player you’d like to send the message to. 
+
+For message macros, press ‘T” or “Z” to choose everyone or directed, then F1-F10 to select your 
+macro string. 
+
+These are the barest rudiments of getting Comm-bat running. Please run the ROTTHELP.EXE program 
+for a more detailed explanation. 
+
+THE GAME SCREEN (NETWORK) 
+
+On the status bars for Comm-bat, we have five things: On the top left, the 
+KiilCounts leader is pictured with code name and current score; in the center, 
+time and powerups; pictured on the right is your mug with your code name and 
+current KillCount. On the bottom status bar in Comm-bat mode, all players 
+are pictured with code names and each individual's current score. 
+
+HINTS (Read at your own risk) 
+
+If you’re having trouble and don’t mind having surprises spoiled, here’s the 
+section for you. The following are little tips that once you know them, getting 
+through Rise of the Triad becomes a lot easier. 
+
+•To pick something up, jump on a jump pad, or activate a touchplate, just run over it. 
+• Bosses can't be hurt by bullet weapons — only missile weapons. 
+• On easier difficulty levels, pushwalls are visible as slightly darker walls. 
+• You can see touchplates on the floor fading in and out. 
+• If you are having an extremely hard time locating touchplates, try turning 
+the floors and ceilings off. 
+• The first boss. General Darian, can’t stab you if you’re standing under a 
+light. There is a way to stop him stabbing. After that, if you can cover 
+most of his escape routes, you can finally fight him on even 
+ground. You may need to get into his room to finish your task first. 
+• You can heat up the Priest Porridge by firing a missile weapon near it, 
+causing an explosion, and thus making it more helpful. 
+• Panes of glass break when shot. What if you run through them? 
+• Find the statue with the knife. You will need it when the Overpatrol guards throw their nets on you. 
+• if you can not find the knife, try shaking or moving from side to side in order to dislodge the net. 
+• If you’re in trouble, save often. (You’ll be in trouble a lot, believe me.) 
+• To finish a level, you either have to exit through the exit arch, or kill the boss. 
+• There are several secret objects throughout the game. Pick these up for big bonuses. 
+• There are some secret levels which you have to go through a secret arch to get to. 
+• You can walk on top of pillars, spinblades, and fences. 
+• All gas switches have a gas mask hidden somewhere in the area. 
+• You can save missile ammo by luring guards into the line of firechutes or WanderWalls, 
+• BE CAREFUL with the Firebomb in close areas. 
+• Bonus Barrels have a gray Triad plaque on them. Normal barrels have a blue one. 
+•If you aren’t in No Violence mode, you can distinguish Sneaky Guards from regular 
+guards, because they don’t have blood on them. 
+• Some pushwalls are hidden behind things you can destroy, and some are only pushable from 
+up on platforms. 
+• On the first level of Dark War, there is a touchplate to the right before the first door. It 
+opens room with health and an MP40 in it. 
+
+SPECIAL FEATUPES 
+
+Jump Pads
+One of the many unique things in ROTT are the jump pads. These pneumatic launchers are a key 
+element in clearing almost every level. If there is a jump pad in the area, rest assured that it was 
+placed there for a reason.
+
+The Oscurido cult has used its evil magic to suspend objects in the air such as weapons, 
+powerups, health items, and Gravitational Anomaly Disks — to name a few. Often jump 
+pads are placed near items that are in the air. 
+
+Statue With Knife 
+The knife is a very useful Item when facing the Overpatrol guards. When making your way 
+through the monastery, you will locate the golden statue with the knife. Walk up to if and 
+remove the knife. When a net is thrown on you, the knife will automatically appear. Press Fire 
+to use it. (You can not use the knife to cut anything other than the net.) 
+
+Aiming Up and Down 
+Combining aiming a weapon with the added feature of looking up and down creates a deadly 
+combination. By pressing the HOME key to look up and the END key to look down, the gaming 
+possibilities are now endless. (Press the PgUp or the PgDn keys to automatically recenter.) 
+
+FIND THE STATUE 
+Imagine walking along a catwalk, sixty feet up, and aiming a heatseeker down at your 
+enemy... Or how about lobbing a flamewall over a wall into a room of unsuspecting 
+guards? These are just a few of the things that can happen in ROTT. 
+
+Automap 
+To help with your bearings in ROTT, the game is equipped with an Automap. Press the TAB 
+key to activate a top down map of everything you’ve seen to date. PgUp and PgDn will zoom 
+in and out of the map, in the current level. 
+
+CONTROLLING THE ACTION
+
+You can play Rise of the Triad by using a joystick, gamepad, mouse, 
+Cyberman, Spaceball, or the keyboard. The following outlines the player 
+input actions and the functions they control: 
+
+Up Arrow Run forward 
+Down Arrow Run backward 
+Left Arrow Left turn 
+Right Arrow Right turn 
+Alt + Arrow Strafe according to arrow direction 
+Spacebar Use objects and open doors 
+Ctrl Fires the selected weapon 
+Enter, INS Switch between bullet and missile weapon 
+Backspace Turn 180° 
+RShift + Arrow Run/Turn faster 
+Tab Enter Auto map 
+Pg Up Look up (center aiming up or down)
+Pg Dn Look down (center aiming up or down)
+Home Aim up 
+End Aim down 
+Pause Pause game 
+Comma/Period Strafe left/right 
+Delete Drop current missile weapon 
++/- Change view screen size 
+#'s 1-4 Weapons (1-3 are bullet weapons, 4 is the missile weapon ) 
+F1 Help 
+F2 Save game 
+F3 Restore game 
+F4 Sound/Music menu 
+F5 Low/Medium/High Detail 
+F6 Quick save 
+F7 Controls menu
+F8 End Game
+F9 Quick load 
+F10 Quit
+F11 Gamma correction (Change light level for game play) 
+F12 Boss key {Here comes the boss)—Put up fake screen! 
+
+Comm-bat Options 
+F1 -F10 RemoteRidicule using the preset sounds 
+F12 Hold down and speak through your microphone 
+T Type a message to everyone 
+Z Send a direct message to a certain person 
+Tab See everyone's KillCounts 
+
+Joystick
+Movement Running direction 
+Button 1 Fires current weapon 
+Button 2 Use objects and open doors 
+
+Gamepad
+Movement Running direction 
+Button 1 Fires current weapon 
+Button 2 Sidestep 
+Button 3 Use objects and open doors 
+Button 4 Run 
+
+Mouse
+Movement Running direction
+Button 1 Fires current weapon 
+Button 2 Sidestep 
+Button 3 Use objects and open doors 
+
+Space Player
+Movement Running Direction
+Button 1 Use objects and open doors 
+Button 2 Automap
+Button 3 Fires current weapon 
+Button 4 Aim Button
+Button 5 Switch Weapons
+
+Cyberman
+Movement Running Direction
+Button 1 Fires current weapon 
+Button 2 Sidestep
+Button 3 Use objects and open doors 
+
+CHEAT CODES 
+
+Are you having a little trouble? Hey, we designed the levels and wrote the 
+code; we know how hard ROTT is. However, we are not totally sadistic; 
+we have hearts. We’re not monsters, for God’s sake! 
+
+Well, before you find yourself out shopping for a new keyboard due to 
+frustration, take a moment and reflect on the reason you’re playing a 
+game in the first place, to escape reality and to relax. 
+
+Okay, if you find yourself being challenged, and feel the strong need to 
+cheat, type "\BUM" to receive a few hit points and a few keys. Those who 
+like typing can type “SLACKER" for the same effect. There are many 
+more secret cheat codes. Can you find them? 
+
+THE REAL STORY 
+
+You are a member of the HUNT, the top secret High-risk United Nations 
+Taskforce, sent on extremely covert operations to possible trouble spots out- 
+side the three-mile boundary waters of member countries. You are on a rou- 
+tine reconnaissance mission on San Nicolas Island, iocated in the Pacific 
+twenty miles west of Los Angeles, Your team is investigating possible cult 
+activity in an old monastery in the tall, rugged hills of the island, once used 
+for the location of the film Prayers in the Dark. Dressed in black, you peer at 
+the ramparts, looking for signs of life. 
+
+Ni spotted a man crawling away from the small mountain the monastery 
+rests on. He ran desperately towards the team and fell to his knees. 
+
+“They're crazy,” said the man hurriedly, “They don’t know what they’re mess- 
+ing with. Darian, Krist — they’ve hooked up with those wackos, and they 
+have these impossible plans but they’re really serious. They’re manufactur- 
+ing ammo. They’re performing these rituals. They’ve planted bombs every- 
+where. Some of them are already scheduled to go off. They’re not going to 
+warn anyone, they’re just going to — " 
+
+“Barrett, I’ve been listening to the radio,” Wendt said. “Bombs have gone off 
+in the shipyards. The harbor’s in flames. There’s been explosions of major 
+downtown buildings. And— -damnit. Heavy static. The radio's being jammed." 
+
+“They have a mobile band jamming system,” said the man, “They’re signalling 
+the bombs on their private, moving band while jamming ail the others.’’ 
+
+Barrett grimaced at the bizarrely informative guy, then turned to the team. “All 
+right, Cassatt, Wendt, get back to the boat, try the WB radio, and get to—” 
+
+A volley of gunfire hit the rocks next to them, and the HUNT opened fire on 
+the two sentinels that spotted them. The HUNT ran to the sentinel’s post at 
+the top of the hill. 
+
+Freeley kicked over the dead soldier. “What’s with the uniforms? These are, 
+what, Korea? And the triangle, that looks like the logo of Triad Pic — " 
+
+A huge explosion came from the island shore. The HUNT looked up to see 
+their boat raining down upon the ocean. A dozen or so soldiers were making 
+their way up the rocky path towards them. 
+
+“Looks like we missed our ride,” Barrett said, taking a breath. “Okay, they 
+know we’re here. The only way out is the way we came, and they’re coming 
+from that way. No way to contact anyone, and we're the only ones who know 
+what's going on. It’s my call. Let’s go for the keep. If we can get to their 
+transmitter, we’ve got a chance at stopping it. And maybe we can take down 
+the big boys while we’re at it.” 
+
+If you didn't buy the CD version, you can upgrade by buying the 
+
+"Triad PowerPack” 
+
+There are two editions of Rise of the Triad: 
+
+1. Diskette based, standard edition. (You’ll benefit from upgrading.) 
+2. CD-ROM based, Super Triad. (You do not need to upgrade!) 
+
+If you purchased the diskette based version, then you may want to purchase 
+the Triad Power Pack, which adds these explosive extras: 
+
+• 10 new, exciting Comm-bat levels, excellent for head-to-head 11 
+player network, modem play, or serial cable! 
+
+• A random level generator ("RandROTT"), which creates an unlimited 
+number of new Comm-bat levels, as well as an unlimited number of 
+new, action-packed game levels for single player games. 
+
+• For Windows users: You’ll get several cool sound effects from ROTT 
+that can be used as Windows system sounds, plus you’ll get several 
+images from ROTT specially formatted for use as Windows wallpaper. 
+Note: The CD-ROM version contains many more sounds and images 
+than the floppy version. 
+
+• With the CD-ROM version only, we will include five of Apogee’s latest 
+action packed shareware releases. 
+
+All this for a $10 upgrade price! (ordering details below}. 
+
+Important: This upgrade offer is only for players who have purchased the 
+basic diskette based edition of Rise of the Triad. If you already 
+have the CD-ROM version then this upgrade offer is not for you, 
+since you already have it all. 
+
+Here’s how to order the remaining action-packed levels and Comm-bat zones 
+for the hottest game of the year: 
+
+1 . Complete the order form on the reverse side of this page, tear at the 
+perforation and fold
+2. Include your payment in the amount of $10.00 plus shipping and 
+handling and tax (if applicable). 
+3. Send this original order form (copies not accepted) and payment to 
+the address below: 
+
+Apogee Software, Ltd. 
+Triad PowerPack
+P.O. Box 496389 
+Garland, TX 75049-6389 
+
+Sorry, phone and fax orders for the this upgrade offer cannot be accepted. 
+
+□ Yes. I want to continue the bloodbath: please send me the Triad PowerPack offer today! 
+
+PURCHASER/PAYMENT INFORMATION (Please print clearly.) 
+
+Name: _____
+
+Company: _____
+
+Address: _____ Apt/Suite#: _____
+
+City: _____ State/Province: _____
+
+Zip/Postal Code: _____
+
+Country: _____
+
+Phone: (___)_____ Fax: (___) _____
+
+Check ✓ one; □ Check □ Money Order □ Visa 
+
+□ MasterCard □ Discover 
+
+^Payment must be made in U.S. funds and drawn against a U.S. bank. Please do not send cash. 
+
+Card Number: _____
+
+Expiration Date: _____
+
+Signature : _____
+
+SYSTEM INFORMATION (Check the boxes which apply.) 
+
+Computer Type: □ Pentium □ 486 □ 386 
+
+Disk Size: □ CD-ROM □ 3.5" HD (1.44Mb) 
+
+ORDER SUB-TOTAL $10.00
+
+TEXAS TAX
+8.25% - Addison, Buckingham, Carrollton, Cockrell Hill, Dallas, Farmers Branch, Garland, 
+Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, University Park
+7.25 - All other Texas cities or towns
+
+SHIP & HAND
+$5 - United States; $6 - Canada/Mexico; $8 - All others.
+
+ORDER TOTAL
+
+Apogee Software, Ltd. P.O. Box 496389 Garland, TX 75049-6389 
+
+DO YOU REQUIRE FURTHER TECHNICAL ASSISTANCE? 
+
+As a registered user of Rise of the Triad, you are welcome to contact our 
+Technical Support and Hints Department for any assistance required. 
+Technical support and hints may be received by calling (214) 278-5655, 
+Sunnday through Friday, between 8:00 a.m. and 6:00 p.m., Central Standard 
+Time. Or fax us at (214) 278-4670, 24 hours a day. If you prefer to write, 
+send correspondence to: 
+
+Apogee Software, Ltd. 
+Technical Support / Game Hints Department 
+P.O. Box 496389 
+Garland, TX 75049-6389 
+
+To assist us in providing you with faster service, please have your registration 
+number ready and be at your computer system when you make the call. Written 
+inquires should include your registration number, system type and accessories, 
+and printed copies of your CONFIG.SYS and AUTOEXEC.BAT files. 
+
+Please do not call the 800 number for technical support or game hints, as 
+this information will not be provided on this line. 
+
+There is a file included with the Rise of the Triad game disks which contains 
+detailed technical support information. This file is named ROTTHELP.EXE. If 
+you are having difficulty running Rise of the Triad once it has been installed, 
+please consult this file before you call Apogee, The file contains solutions to 
+the most commonly encountered problems of our customers and the latest 
+up-to-the-minute information that might have been updated since the manual 
+was printed. 
+
+THANKS FROM APOGEE! 
+
+All of us at Apogee would like to express our sincere appreciation for your 
+purchase of this software package. Much time and effort goes into the devel- 
+opment of our software, and your support ensures that we can continue to 
+offer quality software entertainment. 
+
+APOGEE SOFTWARE 
+
+Apogee Software, Ltd. is the publisher of Rise of the Triad, and many 
+other cool VGA action games for IBM and compatibles. For information 
+about alt the products available from Apogee call 1-800-APOGEE — 
+and ask for a full color catalog. 
+
+COPYRIGHTS AND TRADEMARKS! 
+
+Rise of the Triad © Copyright 1994 Apogee Software, Ltd. All other 
+trademarks are the property of their respective owners. 
+
+Limited 90-Day Warranty 
+
+Apogee Software, Ltd. warrants to the original purchaser of this Computer software 
+product that the magnetic media (Disks) or Compact Disc (CD) on which the soft- 
+ware program is recorded will be free from defects in material and workmanship 
+under norma! use tor ninety (90) days from the date of purchase. This warranty is 
+limited to the Disks or CD containing the software program originally provided by 
+Apogee Software, Ltd. This warranty shall not be applicable and shall be void if the 
+defect has arisen through abuse, mistreatment, or neglect. Any implied warranties 
+applicable to this product are limited to the 90-day period. 
+
+To be eligible for warranty protection, the original purchaser must fully complete 
+and mail the Registration Card to Apogee within thirty (30) days of purchase (If 
+the product was purchased directly from Apogee through mail order, the product 
+was automatically registered). Failure to send in a completed Registration Card 
+will result in the loss of your warranty protection. Apogee reserves the exclusive 
+right to determine warranty eligibility. 
+
+If the Disks or CD is found defective within ninety (90) days of original purchase, 
+Apogee will replace the item(s) free of charge. After the warranty period, replace- 
+ment disks will be issued for a nominal fee. 
+
+EXCEPT AS SET FORTH ABOVE, THE PRODUCT IS PROVIDED “AS-IS”, AND NO WARRANTIES OF ANY KIND 
+(INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE). EXPRESS 
+OR IMPLIED, ARE MADE AS TO IT OR ANY MEDIUM IT MAY BE ON. OUR ENTIRE LIABILITY AND YOUR EXCLUSIVE 
+REMEDY IS SUCH REPLACEMENT, AND UNDER NO CIRCUMSTANCES WILL WE PROVIDE ANY OTHER REMEDY FOR 
+DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, INCIDENTAL OR OTHER DAMAGES ARISING FROM 
+IT, INCLUDING SUCH FROM NEGLIGENCE. STRICT LIABILITY, OR BREACH OF WARRANTY OR 
+CONTRACT, EVEN AFTER NOTICE OF THE POSSIBILITY OF SUCH DAMAGES, Some states do not allow the 
+exclusion or limitation of implied warranties or liability for incidental or consequential 
+damages, so this may not apply to buyers of the Program. This gives you specific legal rights, 
+and you may also have other rights which vary from state to state. 
+
+To receive a replacement: 
+
+1. Contact Apogee’s Customer Support Department at (214) 273-5655 and request 
+a Return Authorization Number (RA#). Customer Support may be reached 
+between the hours of 8:00 a.m. and 6:00 p.m., Monday through Friday. Items 
+without an RA# will be returned to the sender without consideration. 
+
+2. Package the original product media, a photocopy of your dated purchase receipt, 
+and your name and address in protective packaging. If requesting a non-warranty 
+replacement, also include a check or money order in the amount of $12.00 
+($13.00 for Canada and Mexico; $15.00 for all other countries). Only funds which 
+are payable in U.S. dollars and drawn against a U.S. bank will be accepted. 
+
+3. Clearly print the RA# on the outside of the packaging and return by certified mail or 
+by other suitable means of postage prepaid shipping in which tracking is possible to: 
+Triad Replacement. Apogee Software, Ltd., P.O. Box 496389, Garland, TX 75049. 
+
+THE DEVELOPERS OF INCREDIBLE POWER 
+
+Tom "Is My Eye Red?" Hall, Designer/Producer 
+
+Tom co-founded id Software, worked on Commander Keen, Wolfenstein 3-D, and 
+DOOM, then came to Apogee to head up the in-house team. Tom is from New 
+Berlin, Wisconsin, and got a B.S. in Computer Science at UW — Madison. Tom 
+designed the game, and his iced tea must have “no lemon, no spoon”. 
+
+Mark "Okay... Everybody SHOOT ME!" Dochtermann. Head Programmer 
+A native or Buford, NY, Mark graduated from RIT while still having time to 
+make a chestplate with animating LEDs on it. Mark did a co-op at crazy 
+IBM™,©,®, then made the happy mistake of coming to work for Apogee. Mark 
+did the amazing engine, network, and modem code.
+
+William "Our Wagons are TOO Gone" Scarboro, Programmer 
+William went to Texas A&M, where he studied Computer Science, Math, and 
+Smelly Comestibles 101. “Food is Just fuel” to him, so he eats pasta, egg whites, 
+and beans for almost every meal. He is working toward being a professional fit- 
+ness instructor in between complex actor coding sessions. 
+
+Jim "Wicked" Dose. Programmer 
+Our master of sound is also from Naw York (Binghamton to be exact), and thinks 
+the game is “wicked cool”. He went to Berklee to study some sort of musical 
+engineering deal, then to a whole other college to study computer science. He 
+likes Eno, root beer, and The Tick, but not necessarily in that order. 
+
+Stephen "Mr. Explosion" Hornback. Artist 
+Steve hails from Ohio, where he left a sordid past. Having worked on Duke Nukem 
+and Cosmo, he was hired as an in-house artist once the department started up. 
+He drives a spiffy Nissan 300ZX, and did most of the actor art in the game. 
+
+Susan "Terrified of Left Turns" Singer. Artist 
+
+From New York, too (Levittown), Susan has worked on the opening of Pee Wee's 
+Playhouse and the Fritos Round-up commercial. When not taking classes or teaching 
+them, Susan relaxes by taking more classes. She did the walls and female characters. 
+
+Chuck "Chuck" Jones. Artist 
+Chuck Jones is not THAT Chuck Jones, but he is a gifted artist from Dallas. 
+Chuck used to work in a tattoo parlor, and has a collage of the many bodies he’s 
+tattooed. Chuck did the “game over" cinematics and wide doors. 
+
+Former Developers of Incredible Power 
+These talented folks had to leave for various reasons. We’ll miss ‘em! 
+Nolan “Donut" Martin, Programmer. Did the menus, setup, sound setup. 
+Tim "Sony" Neveu. Artist. Did the killer weapons, intro, and end cinematics. 
+
+Associate Developers 
+Who did all these dang levels? Well, Tom and these folks:
+Joseph "Building Climber" Sellinske. Did many battle levels, ate sashimi. 
+Joe "D. Fish" Siegler. Did levels, petted his cat Flash, watched Red Dwarf. 
+Marianna "Harem Girl” Vayntrub, Worked on game levels, Krist's chair, Mark. 
+
+In-House Musician 
+Lee "Rainbow Lake" Jackson. Wrote the music, also a World Champion Pun-meister. 
+
+Starting at the top left: 
+Stephen Hornback
+Chuck Jones
+Mark Dochtermann
+Jom Dose'
+William Scarboro
+Tom Hall
+and
+Susan Singer
+
+CREDITS
+
+Designer/Producer
+Tom Hall
+
+Programming
+Mark Dochtermann
+Jim Dose
+Nolan Martin
+William Scarboro
+
+Art
+Stephen Hornback
+Chuck Jones
+Tim Neveu
+Susan Singer
+Cygnus Multimedia
+
+Music
+Lee Jackson
+Bobby Prince
+
+Additionat Level Design 
+Joseph Sellinske 
+Joe Siegler 
+Marianna Vayntrub 
+
+Cover Illustration 
+Les Dorscheid 
+
+Manual Design 
+Robert M. Atkins 
+Tom Hall 
+
+Financing & Resources 
+Apogee Software, Ltd. 
+
+Special thanks to 
+"The Apogee Beta Testers" 
+All our patient spouses and friends 

@@ -1,0 +1,764 @@
+You are looking at a scanned in copy of an original print manual for an Apogee Software 
+/ 3D Realms game. 
+
+This manual is presented in its original format. Please note that any references to order forms 
+or upgrade packs are no longer relevant. 
+
+Please also be aware that the old customer & tech support information presented here is 
+out of date. Our phone numbers and hours of operation have changed or are possibly no 
+longer relevant (depending on the title). 
+
+For current information, please visit our website. 
+Thank you. 
+
+Apogee Software Ltd / 3D Realms Tech Support 
+March 2009 
+
+http://www.3drealms.com 
+
+
+BLAKE STONE: ALIENS OF GOLD 
+
+PLEASE DON'T MAKE ILLEGAL COPIES OF THIS SOFTWARE 
+
+Bloke Stone was produced through the efforts of many people. The program was created by talented 
+artists, designers, programmers and musicians. Everyone along the line relies on sales of the program 
+for their living. This program is protected by federal and international copyright. 
+
+Help preserve jobs by honoring the copyright of the program. Don't make illegal copies for others who 
+have not paid for the right to use the program. To report copyright violations to the Software Publishers 
+Association call 1-800-388-PI R8 or write: 
+
+Software Publishers Association 
+Suite 901 
+1101 Connecticut Avenue NW 
+Washington, DC 20036 
+
+SYSTEM REQUIREMENTS 
+
+Blake Stone requires an IBM™ or 100% compatible 386 or better computer with 640K RAM, a VGA graphics card and 
+8 MEG free space on a hard disk drive. Joystick and mouse are optional. A Sound BlasteR, AdLib, or 100% 
+compatible sound board is recommended.
+
+THE 22ND CENTURY STORY... 
+
+As military agent Blake Stone you've proven your worth ten-fold to the Earth Directorate. 
+
+You’ve survived more 'conflicts' than you'd care to tally and, of course through each operation, you've 
+been absolutely certain that what is 'right, good and just' will prevail. However. . . 
+
+...the Known Universe is growing rapidly. Earth- Space colonization and extra-planetary annexation is a 
+daily occurrence. The Earth Directorate is continually met with the challenge of administration over this 
+system-wide expansion. Martian Colony IV, Tlana, and System's End are examples of the most recent additions to 
+Directorate control, as well as examples of its mounting burden. 
+
+At times, it would seem, this growth is beyond effective management. True, the Directorate can be credited 
+with a general rise in the standard of living and the increased amount of personal freedom and personal safety 
+enjoyed by all her population. However... 
+
+There's that word again! 
+
+...evil can be found in the most unlikely of places! 
+
+BLAKE STONE: ALIENS OF GOLD 
+
+INSTALLATION INSTRUCTIONS 
+
+To play as Blake Stone, you must install the game. The program's 
+installation utility will place all the necessary files on your hard 
+disk drive. To install the game follow these simple instructions. 
+
+Place Disk 1 of Blake Stone in the appropriate disk drive. Select that 
+drive from the DOS prompt. Type "INSTALL" and press the 
+ENTER key. The install program will prompt for the drive and 
+then for the directory into which the software will be copied. Press 
+ENTER to accept the defaults or type the destination of your 
+choice. The installation program will prompt for additional disks 
+as needed. 
+
+
+[STORYLINE COMIC HERE]
+
+
+JUMPING INTO THE ACTION 
+
+When the installation is complete type BSTONE at the DOS prompt and press the ENTER key. 
+
+After the title sequence the Main Options menu will display. Use the arrow keys, mouse, or joystick 
+to highlight your selection. Press the ENTER key, left mouse button, or Fire button to activate 
+your selection. From within the game, you can access the Main Options menu by pressing the ESC key. 
+Press F1 for Help. 
+
+NEW MISSION 
+
+When you select a New Mission, the Choose a Mission selection screen appears. We recommend you begin with 
+Mission 1: Star Institute. Other missions, depending on your purchase of the entire set, are also available 
+from Apogee. Descriptions of these missions begin on page 25. 
+
+Next, choose from four skill levels. Each level differs in the amount of enemies you will battle and the damage 
+the enemies can endure. 
+
+Level 1: Novice Agent — for non-gamers or younger players. 
+Level 2: Skilled Agent — for part-time gamers. 
+Level 3: Expert Agent — for experienced gamers. 
+Level 4: Veteran Agent — for the fearless only! 
+
+ORDERING INFO 
+This menu option gives you information on how to order more Blake Stone missions from Apogee. 
+
+INSTRUCTIONS-F1 
+This on-line section should answer any questions you may have. If you have difficulty playing Blake Stone 
+press F1 during the game. 
+
+STORY 
+This menu option gives you more detailed information about military agent Blake Stone's universe and what 
+motivates the agent to put his life on the line — time after time! 
+
+GAME OPTIONS 
+The Game Options menu allows you to select the Sound device, modify Controls for game play and Change View. 
+
+SOUND (SUBMENU)-F4 
+Blake Stone contains three types of sounds — Sound Effects, Digitized Sound and Background Music. 
+The program will automatically search to detect for the appropriate sound board.
+
+To activate or deactivate a particular type of sound, highlight the appropriate sound board and press the ENTER key. 
+
+A sound board is not required to play Blake Stone, however, to hear the game's enhanced sounds you must 
+have a compatible sound board. Blake Stone supports AdLib, Sound Blaster, and Disney Sound Source cards. 
+
+CONTROLS (SUBMENU)-F6 
+The keyboard can work in combination with a mouse, joystick or Gravis PC Gamepad. You can calibrate your 
+mouse by selecting the Mouse Sensitivity option. 
+
+To modify the game controls choose the Customize Controls option from the menu. For example, instead of 
+using the CTRL key to fire, you may prefer the SPACE BAR. 
+
+To customize a control, select a device and function to modify and press tlie ENTER key. The name of the 
+key or control which currently activates that function will change to a "7". Press the key or 
+button that you wish to activate that function. (Though both sets of arrow keys work in the game, use the 
+keypad keys to set them as a control.) 
+
+CHANGE VIEW (SUBMENU)-F5 
+You may wish to reduce the size of the view space of Blake Stone in order to increase the speed of the game 
+play. Use the arrow keys to change the size of the window. The program will scale everything to fit within the 
+new window size. Also, another way game speed can be increased is to toggle off the display of the floors and
+ceilings. The <F> and <C> keys, respectively, control these functions. 
+
+HIGH SCORES 
+The high scores menu option allows you to view the current top ten scores. Press the ESC key to exit this menu. 
+
+LOAD MISSION-F3 
+From within the game, press F3 to load a saved mission. 
+
+SAVE MISSION-F2 
+The program's Save screen provides ten Save game fields. To save a game, select an empty field with the arrow keys 
+or mouse (or use one you don't mind writing over) and enter a name. Press the ENTER key to accept the selection. 
+
+BACK TO DEMO/MISSION 
+ff you aren't currently playing a game, this option will be "Back to Demo". Once selected, you will see the 
+title sequencen If you're playing a game, this option will be "Back to Mission." 
+
+LOGOFF 
+Selection of this menu option will exit the game to DOS. 
+
+QUIT-F10
+Press F10 from within the game to quit to the DOS prompt. 
+
+BACK TO OPTIONS MENU-ESC 
+If at any time during the game you wish to return to the Main Options menu, press the ESC key. 
+
+THE MISSION BEGINS 
+If you've selected New Mission and Mission 1, you've just blasted the Loc with your Auto Charge Pistol and 
+are standing within the Lobby of the Star Institute. You will be given a mission briefing which appears on the 
+REBA display attached to your left wrist. 
+
+The following is a list of controls and commands for moving and fighting within the game. Remember, 
+at any time you can press the F1 key to get on-line assistance. 
+
+CONTROLLING BLAKE STONE 
+Hey... it's grizzly in there! Guards, mutants, horrible generic experiments — all running amok. There's hardly 
+time to think, much less stand around. Here's a crash course in moving — quickly! 
+
+Walking - Use the up and down Arrow keys to walk through the complex. 
+Run - Hold down the right Shift key and an Arrow key to run. 
+Turning - Use the left and right Arrow keys to turn. 
+Fast Turn - Hold down the right Shift key and the left or right Arrow key for fast turns. 
+Strafe - Press the Alt key and the left or right Arrow key to slide side to side instead of turning left or right. 
+Quick 180 - press the ENTER key or the W and you'll turn back quickly. 
+Quick 90 - (Left/Right) - Press Q to turn quickly left, E for quick right. 
+
+CALL TO ARMS 
+Right, it's a fight to the death! But you're not going in empty handed. You've got a wealth of weapons—
+an awesome arsenal! So... once you have more than one gun you'll want to choose between them for the most 
+efficient use of force. 
+
+The numeric keys 1-5 can be used to select a particular weapon. A graphic representation of your firepower and the 
+keyboard/numeric equivalents are showm on the following page. 
+
+1 = Auto Charge Pistol 
+2 = Slow Fire Protector 
+3 - Rapid Assault Weapon 
+4 = Dual Neutron Disruptor 
+5 = Plasma Discharge Unit 
+
+You begin the mission with weapon #1. Until you discover other weapons, pressing 2-5 will have no effect. 
+So, find more firepower! 
+
+If the current weapon you are using becomes depleted, you will revert to the base level weapon — the 
+Auto Charge Pistol. 
+
+TAKE'EM DOWN! 
+Aim your weapon at your target and press the CTRL key. That will blast 'em! This is assuming you're not out of 
+charge power. 
+
+If you are using the (3) Rapid Assault Weapon, (4) Dual Neutron Disruptor, or the (5) Plasma Discharge Unit you
+can hold down the CTRL key for continuous fire. Bl...a...a...a...a...a...a...a...st 'em!! 
+
+The accuracy of a weapon decreases with the distance from your targeted enemy. It's fairly easy to detect a 
+hit — holes are punched in your enemy! But if your blasts are not hitting the target, you may want to aim to 
+the left or right of them.
+
+OPENING DOORS AND ACTIVATING SWITCHES 
+To open doors and elevators, move in front of the door and press the SPACE BAR. 
+Some walls in the complex can be pushed back to reveal hidden areas. To search for the push walls, move 
+close to a wall and press the SPACE BAR When found, the wall will make a noise then slide backward. 
+These walls are rare so be patient while searching. 
+
+There are hazards which can be activated and deactivated by switches located on the same levels as the 
+hazard. The switches toggle off or on by use of the SPACE BAR. 
+
+Several of the doors in each of the facilities will require color coded access keys. The cards can be found 
+somewhere on the same level as the locked door. Using an access card requires no additional commands other 
+than the SPACE BAR to open a door.
+
+GATHERING THE GOODS 
+There's loads o' goodies to pick up in the complex. Some you'll need, some you won't. To pick up an item simply
+walk over it. If you don't need it at the time, it will remain on the floor for the time you will need it. 
+
+For example, if you are carrying the maximum energy stored at 100%, you won't pick up a charge pack by walking over it. 
+
+GOING UP! (TO THE NEXT LEVEL) 
+On each floor there is an elevator that can take you to another floor. There may also be a teleporter that 
+can move you elsewhere in the level. Each floor in the current complex is locked and requires a RED access 
+card before traveling to another floor. Once inside the elevator face the control pad and press the SPACE BAR. 
+This will display the floor selection screen. Select the floor number from the keyboard. All floors can be 
+re-entered. You can go back to previously explored levels and pick up things you left behind! 
+
+JOYSTICK AND MOUSE CONTROL 
+When using the mouse or joystick, use button 1 to shoot and button 2 to strafe. With a three-button 
+mouse use the third button to open doors. Gravis PC Gamepads have a fourth button, useful as a run button. 
+
+YOUR CURRENT STATUS 
+The Blake Stone game screen includes two status areas. 
+
+The status strip located at the top of the screen displays the current FLOOR number, the COMPLEX AREA name and 
+the number of LIVES remaining. 
+
+FLOOR 
+There are 11 floors in each mission of Blake Stone. The current floor is shown at the left of the top status strip. 
+
+COMPLEX AREA 
+Where are you? This displays the area's name. 
+
+LIVES 
+You start each mission with three lives. If you die you will restart the level from the point at which you 
+began. You'll lose weapons and points you obtained (on that level) before your death, but your health will be 
+restored to the maximum. What a trade, huh? 
+
+The larger status area located at the bottom of the screen contains the REBA INTERFACE display area, the EKG 
+MONITOR readout of your health, the SELECTED WEAPON DISPLAY, the CURRENT CHARGE STATE of your weapon, and the 
+ACCESS CARD DISPLAY. These displays and their functions arc explained more fully in the following section.
+
+REBA INTERFACE 
+When enabled, the REBA INTERFACE displays information about the enemy, as well as food unit selections, 
+the current food unit tokens inventory, and current items which are being picked up. Also, REBA relays information 
+on the Access Cards needed to unlock specific doors, displays Bio-Tech conversations and other general information. 
+She's strictly business in the midst of battle! 
+
+EKG MONITOR 
+The EKG Heart Rate Monitor reveals the condition of your physical health during game play. Your mental health 
+is your business! When you begin Blake Stone your Health is 100%. Each time your enemy inflicts you with 
+damage your health is reduced. To restore your health visit a food dispenser or find a first aid kit. 
+
+SELECTED WEAPON DISPLAY 
+This monitor displays the weapon currently being used. The lower right corner also displays the current 
+percentage of charge remaining. Weapon selection is made from the keyboard by pressing 1-5. 
+
+CHARGE STATE MONITOR 
+The current Charge State shows how much charge remains in your charge pack. If you are using the Auto Charge 
+Pistol then it displays a WAIT message while recharging or a READY message once the ACP's internal pack has 
+been fully charged.
+
+SCORE DISPLAY 
+This display is top right on the lower status area. You can gain points by picking up treasure or by killing 
+an opponent. Every 400,000 points provides an extra life. That means there's a bonus for picking up all the 
+goodies you can find. Collect 'em! 
+
+ACCESS CARD DISPLAY 
+When you find an access card, a graphic representation of that card will be shown in one of the five small slots 
+located to the right of the ammunition count. It will be held for your use at a later time. 
+
+FINISHING A LEVEL / AUTO-MAPPING DISPLAY (TAB) 
+Once you have the red access card and return to the elevator, your performance will be shown along with a map of 
+the floor. Press TAB at any time from within the game to see the map. Below is a legend which will assist you 
+in reading the map. 
+
+Flashing dot = you; Green dots = doors; Red dots = locked doors. 
+
+ITEMS YOU CAN PICK UP 
+Blake Stone has four types of items, Youil want and need to pick them up, ACCESS CARDS, WEAPONS & AMMUNITION, 
+HEALTH sources, and BONUS ITEMS. 
+
+ACCESS CARDS 
+Access cards allow you to enter higher floors. They come in a variety of colors and have specific uses. Some 
+may be easy to find, others may be more difficult. Red access cards are needed to exit any level. The yellow, green,
+blue, and gold cards have varying uses which are described as needed. 
+
+WEAPONS & AMMUNITION: 
+
+AUTO CHARGE PISTOL (ACP) 
+The ACP does not require a charge pack; you'll have to wait for the unit to recharge. It's a silent attack weapon, 
+so skulk around awhile — firing it won't announce your presence! 
+
+SLOW LIRE PROTECTOR (SEP) 
+This weapon requires a charge pack for use. There is a slight recharge period between shots fired. However, 
+it does allow for more rapid fire than the ACP. 
+
+RAPID ASSAULT WEAPON (RAW) 
+A medium speed repeat-fire uniL the RAW requires a charge pack. Like the SEP it cannot recharge itself. 
+
+DUAL NEUTRON DlSRUFTOR (DND) 
+This liigh speed repeat-fire unit is fitted with dual, oscillating barrels. It packs a wallop, but requires 
+the stored energy of a charge pack. 
+
+PLASMA DISCHARGE UNIT (PDU) 
+If you want to dispatch some enemies P.D.Q. — use the PDU. With a wide range of detonation and repeat fire 
+capabilities, this is a powerful weapon. It also requires an energy charge pack for operation. 
+
+FULL CHARGE PACK 
+These particular items can be found throughout the Complex. They increase your current charge by 8%. 
+
+PARTIAL CHARGE PACK 
+These charge packs can be picked off the bodies of dead enemies. They will increase your current charge level by 
+whatever percent- age charge remains in the pack. Hey... fry a hole in your enemy, then take his pack. He certainly 
+won't need it anymore! 
+
+HEALTH ITEMS 
+
+These items will increase your health, that is, if you're not too far gone already. They are as follows: 
+
+FIRST AID KIT 
+This item increases your health by the largest percentage. Pick it up and you'll raise your health by 30%. 
+
+STEAK 
+It's there, and it's not refrigerated, but steak raises your health by 20%, 
+
+RAW MEAT 
+Who cares who dropped it! It's food, and food equals health. A 15% increase is gained from this item. 
+
+SANDWICH 
+Hold the pickles, hold the lettuce? Having it your way is not always practical. Eat it — it gains you 10%. 
+
+CANDYBAR 
+Is there a hunger inside you? This bitelet will increase your health by 8%. but we all knew that anyway, didn't we? 
+
+BONUS ITEMS
+
+MONEY BAGS 
+Okay, so you say money can't buy you life, but these bags increase your score by 100. 
+
+LOOT 
+This item increases your score by 500. And it's just lying there? Wowser! 
+
+COLD BARS 
+Somebody's got a hole in their pocket! In varying amounts these items are strewn throughout the complex. 
+Take advantage of their misfortune — it's tax free and it increases your score in amounts ranging from 250 to 1000. 
+
+XYLAN ORB 
+Okay... so it's hard to pronounce — they're worth 5000 in added score points! 
+
+Remember with every 400,000 points you are awarded an extra life. What a deal! 
+
+ONE CREDIT TOKEN 
+You can use these at the Food Units. Pick'em up; you never know when you'll need 'em! The name says 
+it, these are worth one credit. 
+
+FIVE CREDIT TOKEN
+Now we're talking serious prepackaged food items. Use these to buy food, thus health, at the food units. 
+They are valued at 5 credits. 
+
+The Food Units dispense items which can add to your health. To use them, walk up to the Unit and press the 
+SPACE BAR. Now you don't need exact change, but the Food Units do require a token in order to operate. The 
+REBA interface will describe each item as it is dispensed. 
+
+FRIEND...OR FOE? 
+You can be sure that most of the others whose path you'll cross are out to blast you back to the British Isle. 
+A few, however, are here to help you. Of course, all the opponents will vary in weapons, strength, speed, skill 
+and intelligence. Stay on your toes; you'll need to size up the situations as they arise. A description of these 
+friends or foes is below. 
+
+BIO-TECHNICIANS 
+Many of these guys are loyal to Dr. Gold fire, which means they'll waste you if they get the chance. But some can 
+actually help you survive. Valuable information, charge packs, or tokens can be gained from these Bio-Tech 
+informants. Walk up close to them and use the SPACE BAR to gain the goods! 
+
+SECTOR PATROLS 
+The Sector Patrols aren't out to help anybody — especially you. This deadly pack packs the lethal Slow-Fire 
+Protector. So... knock 'em out quickly. 
+
+STAR SENTINELS 
+"Professional" best describes these security guards. They are armed with auto-repeating rifles and they know 
+how to use them. Oh yeah — they won't go down without a fight! Kill one and take his rifle. That's what 
+we're here for isn't it? 
+
+STAR TROOPERS 
+The toughest of the tough. These guys are determined! With security vests to protect them, you might knock 'em 
+down, but... they won't stay down! But then it couldn't hurt to keep trying, huh? 
+
+AND MORE...AND MORE...AND... 
+Surely, the future wouldn't be complete without a grouping of ghastly creatures to thwart your mission. Each 
+mission of Blake Stone is packed with slobbering aliens, battle thirsty mutants, tech traps, guards and more. Be 
+warned; they lurk at every turn! 
+
+But, if we told you any more we'd spoil The hunt! The best way to find out what's in there is to get in there! 
+
+Go on... fight already — the Known Universe is counting on you! 
+
+THE MISSIONS 
+
+If there is one major objective to Stake Stone, it is to stop Dr. Pyrus Goldfire, Director of the Star Institute. 
+He's the villain behind the villianous plan. Intelligence reports are sketchy, but one thing is certain; Dr. 
+Goldfire is ruthless, relentless and out to rule to the Known Universe. 
+
+MISSION l:S tar Institute 
+Goldfire knows he's up against the Directorate's best agent — you — and he's ready. He's unleashed his terror 
+to battle you from the start! Now,.. if the savage guards and sinister creatures weren't enough, 
+Goldfire has set loose the hideous Spider Mutant to finish you off. 
+
+MISSION 2: Floating Fortress 
+Your search for Dr. Goldfire continues. But you'll find his scheming has become even more maniacal as the evil 
+doctor turns out more of his twisted creations. 
+You might get past his first assault, but Goldfire is determined. He's serving up a 'caustic' creature — 
+the Acid Dragon — to singe your a...ccess cards! 
+
+MISSION 3: Underground Network 
+You keep coming back for more! And more is what you'll get. The most dangerous mission yet places you in the 
+depths of Gold fire's Underground Network. 
+This cavernous storage area holds the secrets of his failed experiments — and the results of tests gone 
+terribly wrong! He's given full reign to his host of hostiles and the treacherous Breather Beast 
+Blast 'em (if you can) before they grasp you, then stop the Doctor! 
+
+MISSION 4: Star Port 
+This well-guarded base houses Goldfire's creations before their shipment throughout the Known Universe. You must 
+knock out this vital supply facility before the evil Doctor 'delivers.' 
+
+MISSION 5: Habitat II 
+But... Goldfire has another plan. Teleportation! You must fight your way through an army of enemies to find the 
+madman. But be warned, the Doctor has a surprise for you. The Bio-Mech Guardian is on the rampage! 
+
+MISSION 6: Satellite Defense 
+This is Goldfire's final battlefront and his most vicious assault. Your mission: survive and end the threat to 
+the Known Universe from this evil sociopath! Watch out for the crowding achievement of Goldfire's warped research 
+— the Reptilian Warrior! 
+
+KEY COMMANDS AND SHORTCUTS 
+
+The following is a list of default key commands used for game play. 
+HELP 			PAUSE 			CONTROL PANEL 
+F1 = Help/Instructlons  P or Pause Key = Pause  Esc = Main Options 
+
+PROGRAM OPTIONS 
+F2 = Save 		 F3 = Load 		F4 = Sound
+F5 = Resize View	 F6 = Controls 		F7 = End Game 
+F8 = Quick Save 	 F9 = Quick Load 	F10 = Quick Exit 
+
+WEAPON SELECTIONS 
+1 = Auto Charge Pistol 2 = Slow Fire Protector 
+3 = Rapid Assault Weapon 4 = Dual Neutron Disruptor 
+5 = Plasma Discharge Unit 
+
+MOVEMENT KEYS 
+Up Arrow = Move Forward 		Down Arrow = Move Backward 
+Left Arrow = Turn Left 			Right Arrow = Turn Right 
+Rt. Shift + Up Arrow = Run Fwd 		Rt. Shift + Down Arrow = Run Bkwd 
+Alt + Left Arrow = Strafe Left 		Alt + Right Arrow = Strafe Right 
+Q = Quick 90 Left 			W or Enter = Quick 180" turn 
+E = Quick 90 Right 			I = Toggle Attacker Info 
+H = Heartbeat On/Off 			M = Music Qn/Off 
+C = Ceilings On/Off 			F = Floors On/Off 
+Tab = Auto-map Status Window 		S = Sound Effects On/Off 
+
+FIRING YOUR WEAPON 
+CTRL - Fires Your Weapon 
+
+ACTION KEY 
+Space Bar = Open Doors, Search for Secret Doors, Activate Switches, 
+Use Teleporters, Use Food Units, Interrogate Scientists 
+
+MISSION STRATEGIES, HINTS AND TIPS 
+
+Is Blake Stone too difficult to play? Or, do you just want to see everything in the 
+game? Either way the following cheat mode will help you out. Using this cheat will 
+give you full ammo, health, all the weapons and all the access cards.
+
+To activate the cheat mode, type (one letter at a time from within the game) 
+and then press the ENTER key. You may use this cheat as many times as you wish, 
+but your score will be set to zero with each use. 
+
+Here are just few tips to keep you blasting in Blake Stone. They may help save 
+your life. At the very least they 11 save your nervous system! 
+
+•Shoot PerScan Drones and Volatile Transports (VTs) from a distance. Their explosions can damage you! 
+• Use PerScan Drones and VTs to damage opponents near them. 
+• Do not destroy PerScan Drones or VTs around hibernating aliens. The explosions will release them. 
+• Shoot at the crates with the Slow Fire Protector — this will conserve ammunition. 
+• When entering rooms through opening doors, quickly enter the room and then back 
+out. This will alert any potential ambusher and give you a chance to blast him first. 
+• Interrogate all Bio-Technicians at least three times. The first time he'll give you a 
+clue; the second, ammunition; the third, a food token. 
+• Use the Plasma Discharge Unit to kill opponents around corners. 
+• When shooting an opponent with one of the larger weapons, back away while 
+shooting. This will keep you at a safer distance and allows more hits to wear him 
+down. 
+•When fighting opponents that shoot at you, keep moving side to side. In this way 
+you can avoid some of the shots. 
+• Kill the shooting aliens — locked behind barriers — before deactivating the barriers. 
+• Try to destroy the ceiling turrets as quickly as possible when you see them, before 
+they lock-on to you and begin firing. Use the RAW or DND to take'em out! 
+• Use the save/load game feature often to get through tough areas. 
+• The Fluid Aliens can only take damage when they are standing. 
+• Don't loiter in rooms with electric sockets on the walls. The Plasma Aliens will 
+emerge and attack— until you are dead! 
+• Don't shoot any informants and you will be well rewarded! 
+• Use the keyboard and the mouse to play the game. The mouse provides better con- 
+trol for shooting and turning. Also, the Strafe mode is much easier using the second 
+mouse button. 
+• Remember, you can always return to previously played floors to retrieve items you 
+did not pick up. This might be a saving grace when low on health or ammunition, 
+•The closer you are to an enemy the more damage he takes with each shot. 
+•Find all the loot. High scores receive extra bonuses! 
+•Some push areas may require more than one push. 
+
+TROUBLESHOOTING 
+
+Having difficulty? See the BS-HELP.EXE file on the original disk for more detailed help. 
+
+MEMORY PROBLEMS? 
+
+If you run Blake Stone and get an "Out of Memory" message there are a few things you can do. 
+
+REMOVE TSR (RESIDENT) PROGRAMS 
+If you change your AUTOEXEC.BAT to not load TSRs, they wonT take up the memory that Blake Slone needs to 
+run. We recommend temporarily renaming your AUTOEXEC.BAT to AUTO and your CONFIG.SYS to CONFIG. Then reboot your 
+computer and restart the game. 
+
+LOAD DOS HIGH 
+If you have at least a 386 computer and extended memory, plus DOS 5.0, you can load DOS into high memory. 
+Simply place 'DOS=HIGH" in your CONFIG.SYS file. Refer to your DOS Manual for further details.
+
+GAME MOVEMENT TOO SLOW? 
+You can improve the speed of Blake Stone by shrinking the window view (F5) and/or toggling off the floor (E) 
+and ceiling (C) displays. 
+
+MORE 
+Blake Stone will use XMS (extended memory) and EMS (expanded memory) if available. If you have an EMS card or 
+a 386 computer, check your system manual for information on how to make this available. 
+
+SOUND PROBLEMS? 
+
+A sound board is recommended for playing Blake Stone. If you are having sound problems here are a few ideas 
+that may assist you. 
+
+SOUND BLASTER ADDRESS 
+When you installed your Sound Blaster or Sound Blaster Pro, you may have needed to change the default addresses 
+in order to resolve possible hardware conflicts. Blake Stone can work with non-standard Sound Blaster and Sound 
+Blaster Pro settings. However, Blake Stone needs to know these settings. 
+
+To allow Blake Stone to obtain your settings, set the "BLASTER" environment variable to contain the appropriate 
+information. To do this either include the following in your AUTOEXEC.BAT file or type it on the command-line before 
+running Blake Stone: SET BLASTER=Axxx Ix Dx. 
+
+Axxx represents the address of the Sound Blaster/Sound Blaster Pro. For the Sound Blaster, it's either A210, A220, 
+A230, A240, A250, or A260. For the Sound Blaster Pro, it's A220 or A240. The default is A220. 
+
+Ix represents the IRQ number used by the Sound Biaster/Sound Blaster Pro. For the Sound Blaster, it's either 
+12, 15, or 17, IRQ 10 (only available on a machine wilh AT BIOS and the Sound Blaster Pro) is not supported. 
+The default is 17. 
+
+Dx represents the DMA channel used by the Sound Blaster/Sound Blaster Pro. D0, Dl, or D3 are acceptable values. The 
+default is D1. 
+
+Try the default values first. If one of the values is out of the acceptable range, the program will Quit, 
+indicating which of the values wasn't acceptable. Refer to your Sound Blaster manual for details. 
+
+DO YOU REQUIRE FURTHER TECHNICAL ASSISTANCE? 
+
+As a registered user of Blake Stone you arc welcome to contact our Technical Support and Hints Department for 
+any assistance required. Technical support and hints may be received by calling (572) 278-5655, Monday through 
+Friday between 9:00 a.m. and 6:00 p.m. Central Standard Time. Or fax us at (972) 278-4670, 24 hours a day. You 
+may prefer to write. Send correspondence to: 
+
+Apogee Software 
+Technical Support/Game Hints Department 
+RO. Box 496389 
+Garland, TX 75049-6389 
+
+To assist us in providing you with faster service please have your order number 
+ready and be at your computer system when you make the call. Written inquires 
+should include your order number, system type and accessories, and any "terminate 
+and stay resident" (TSR) programs you are currently running. 
+
+Please do not call the 1-800 number for technical support or game hints as this infor- 
+mation will not be provided on this line. 
+
+There is a file included with the Blake Stone game disks which contains some basic 
+technical support information. This file is named BS-HELP.EXE. If you are having 
+difficulty executing Blake Stone once it has been installed, consult this file before you 
+call Apogee. The file contains solutions to the most commonly encountered problems 
+of our customers. 
+
+THANKS FROM APOGEE! 
+
+All of us at Apogee would like to express our sincere appreciation for your 
+purchase of this software package. Much time and effort goes into the devel- 
+opment of our software, and your support ensures that we can continue to 
+offer quality software entertainment. 
+
+APOGEE SOFTWARE 
+
+Apogee Software is the publisher of Blake Stone and other games and educa- 
+tional software for IBM and compatibles. For information about all the prod- 
+ucts available from Apogee, call 1-800-GAME-123, and ask for a catalog. 
+
+COPYRIGHTS AND TRADEMARKS! 
+
+Copyright ©1993 Jam Productions, Apogee Software. 
+
+Blake Stone; Aliens of Gold, the Blake Stone: Aliens of Gold logo and the Blake Stone: 
+Aliens of Gold likeness are trademarks of Jam Productions and Apogee Software. All 
+rights reserved.
+
+IBM is a registered trademark of International Business Machines, Inc. Sound Blaster 
+is a registered trademark of Creative Labs, Inc. AdLib is a registered trademark of 
+AdLib, Inc. Gravis PC Gamepad is a registered trademark of Gravis, Inc. Disney 
+Sound Source is the registered trademark of Disney Corporation. 
+
+Yes, I want to stomp that maniacal madman Dr. Goldfire! Please send me the Mission 4-6 upgrade so I can get down to 
+business as soon as possible. 
+
+PURCHASER/PAYMENT INFORMATION (Please print clearly) 
+
+Name:_____
+Company:_____
+Address:_____ Apt/Suite:_____ 
+City:_____ State/Province:_____
+Zip/Postal Code:_____
+Country:_____ 
+Phone:(___) _____ Fax (___) _____
+
+Check one: []Check   []Money Order*   []Visa
+	   []MasterCard		      []Discover
+
+Payment must be made in U.S. funds and drawn against a U.S. bank. Please do not send cash. 
+
+Card Number: _____
+Expiration Date: _____
+Signature: _____
+
+SYSTEM INFORMATION (Check the boxes which apply) 
+
+Graphics: [] SVGA []VGA 
+
+Disk Size: []3.5“ HD (1.44M) []3.5“LD (720K) []5.25HD (1.2M)
+Computer Type []Pentium []486 []386 
+
+ORDER SUBTOTAL $29.95
+
+SHIP & HAND
+$5 - United States; $6 - Canada/Mexico; $8 - All others.
+
+TEXAS TAX
+8.25% - Addison, Buckingham, Carrollton, Cockrell Hill, Dallas, Farmers Branch, Garland, 
+Glenn Heights, Highland Park, Irving, Plano, Richardson, Rowlett, University Park
+7.25 - All other Texas cities or towns
+
+ORDER TOTAL
+
+Important: The original Disk 1 for Missions 1-3 of Blake Stone: Aliens of Gold must accompany this form. 
+
+BLAKE STONE: UPGRADE OFFER! 
+
+Alert!!! Alert!!! Alert!!! 
+
+If you are a registered user of Missions 1-3 only then... 
+
+The Earth Directorate needs you! 
+
+Only half the battle has been won! Pyrus Goldfire won't stop his insanity 
+until all of humanity has been suppressed and he rules the Known Universe, 
+it's going to take a seasoned veteran possessing exceptional battle skills and 
+cunning intelligence to wipe Goldfire and his mutant infestation from the 
+face of the universe— once and for all! Read on for details on how you can 
+continue the adventure. The future of the universe is in your hands! 
+
+Players who have purchased Missions 1-3 of Blake Stone: Aliens of Gold can 
+continue the excitement by upgrading to Missions 4-6. When you order the 
+remaining three missions, you'll get: 
+
+•33 new levels, including 6 hidden levels! 
+•Tons of new graphics! 
+•New boss opponents! 
+•An explosive ending sequence! 
+•A chance to finish the mission you started — defeating the madman. Dr. Goldfire! 
+•And much, much more! 
+
+Important: This offer is for players who have purchased Missions 1-3 only. If 
+you already have Missions 1-6, this upgrade offer is not for you. 
+
+Here's how to order the remaining three action-packed missions: 
+
+1. Complete the order form on the reverse side of this page, tear at the perforation and fold. 
+2. Include your payment in the amount of $29.95 plus shipping and handling. 
+3. Send your original Disk 1 for Missions 1-3 of Blake Slone: Aliens of 
+Gold, the order form, and payment to the address below: 
+
+Apogee Software 
+Blake Stone Upgrade Offer 
+PO Box 496389 
+Garland, TX 75049-6389 
+
+Sorry, phone and fax orders for the Blake Stone: Missions 4-6 Upgrade will not be accepted. 
+
+Credit, Where Credit is Due! 
+
+Jam Productions 
+Michael Maynard 
+James T. Row 
+Jerry K. Jones 
+
+Contributing Artists 
+Cygnus Multimedia Productions 
+Debra Berry 
+Jeff Dee 
+
+Music 
+Robert "Bobby" Prince 
+
+Texture Mapping Engine 
+id Software 
+
+Cover and LINC Computer Illustration 
+Les Dorscheid 
+
+Comic Book Illustration 
+Ronnie E. Smith 
+Robert G. Depew 
+
+Comic Book Storyline 
+Steven Maines 
+
+Financing & Resources 
+Apogee Software 
+
+Special Thanks to 
+"The Apogee Beta Testers" 

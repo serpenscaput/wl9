@@ -1,0 +1,651 @@
+You are looking at a scanned in copy of an original print manual for an Apogee Software / 3D Realms game. 
+
+This manual is presented in its original format. Please note that any references to order forms or upgrade 
+packs are no longer relevant. 
+
+Please also be aware that the old customer & tech support information presented here is out of date. Our phone 
+numbers and hours of operation have changed or are possibly no longer relevant (depending on the title). 
+
+For current information, please visit our website. 
+Thank you. 
+
+Apogee Software Ltd / 3D Realms Tech Support 
+March 2009 
+
+http://www.3drealms.com 
+
+WOLFENSTEIN 3-D 
+
+TABLE OF CONTENTS 
+
+THE STORY SO FAR... 1 
+QUICK INSTALL... 2 
+GETTING STARTED... 2 
+CONTROLLING THE ACTION... 4 
+COMMANDS AND SHORTCUTS... 6 
+YOUR CURRENT STATUS... 7 
+ITEMS YOU CAN PICK UP... 8 
+THE DENIZENS OF WOLFENSTEIN... 9 
+EPISODE TWO: OPERATION EISENFAUST... 9 
+EPISODE TOREE: DIE, FUHRER, DIE... 10 
+THE NOCTURNAL MISSIONS 10 
+HINTS AND STRATEGIES 11 
+TROUBLE SHOOTING 12 
+
+PLEASE DON'T MAKE ILLEGAL COPIES OF THIS SOFTWARE 
+
+The program you're using was produced through the efforts of many people. 
+Wolfenstein 3D was created by talented artists, designers, programmers, 
+and musicians. Everyone along the line, from the programmer to the 
+distributor who sold Wolfenstein 3-D relies of the program for their 
+living. Wolfenstein 3-D is protected by federal and international copyright. 
+
+Help preserve jobs by honoring the copyright of this program. Don't make 
+illegal copies for others who have not paid for the right to use Wolfenstein 3-D. 
+Please report copyright violations to the Software Publishers Association, 
+Call 1-800-388-PIR8 or write: 
+
+Software Publishers Association 
+Suite 901 
+1101 Connecticut Avenue NW 
+Washington, DC 
+20036 
+
+ABOUT WOLFENSTEIN 3-D 
+
+Wolfenstein features 256-colur VGA graph that animate faster than a motion picture. The 
+controls for Wolfenstein are made simple for the user. Instead of slowing down the action 
+with laborious and complex controls, we placed the challenge of Wolfenstein in the gameplay. 
+To survive all you'll need is quick reflexes, a good since of direction, and a killer instinct. 
+
+System Requirements for Wolfenstein 3D
+
+Wolfenstein requires an IBM or 100% compatible computer with 640K RAM, a VGA graphics card, 
+and a hard disk drive, A joystick and mouse are optional. A Sound Blaster, AdLib or 100% 
+compatible sound board is recommended. 
+
+Episode One: Escape from Wolfenstein 
+The Story So Far... 
+
+You're William J. "B.J." Blazkowicz, the Allies' bad boy of espionage and a terminal action seeker. 
+
+Your mission was to infiltrate the Nazi fortress Castle f iolleha miner and find the plans for 
+Operation Eisenfaust (Iron Fist), the Nazi's blueprint for building the perfect army. 
+Rumors are that deep within Castle Hollehammer the diabolical Dn Schabbs has perfected a technique 
+for building a fierce army from the bodies of the dead. It's so far removed from reality 
+that it would seem silly if it wasn't so sick. But what if it were true? 
+
+You never got a chance to find out! Captured in your attempt to grab the secret plans, you were taken 
+to the Nazi prison, Wolfenstein for questioning and eventual execution. For twelve longdays you've been 
+imprisoned beneath tile castle fortress. Just beyond your cell door sits a lone thick-necked Nazi 
+guard. He assisted an SS dentist/mechanic in an attempt to jump start your tonsils earlier that morning. 
+
+You're at your breaking point! Quivering on the floor you beg for medical assistance in return for information. 
+His face hints a smug grin of victory as he reaches for his keys. He opens the door, the tumblers in the lock 
+echo through the corridors and the door squeaks open. HIS MISTAKE! 
+
+A single kick to his knee sends him to the floor. Giving him your version of the victory sign, you grab 
+his knife and quickly finish the job. You stand over the guard's fallen body grabbing frantically for his gun. 
+
+You're not sure if the other guards heard his muffled scream. Deep in the belly of a Nazi dungeon, 
+you must escape. This desperate act has sealed your fate — get out or die trying. 
+
+QUICK INSTALL 
+
+Before you begin Wolfenstein, you must install it. Wolfensfein's installation utility will place the 
+necessary files on your floppy or hard disk drive. To install follow these steps: 
+
+1. Put the disk in the disk drive. 
+2. Select the appropriate drive. A: or B: 
+3. Type INSTALL and press Enter. 
+
+GETTING STARTED 
+
+When the installation is complete type WOLF3D and press the Enter key at the DOS prompt. 
+After the title sequence you'll be presented with an Options Menu, Use the arrow keys, mouse, or 
+joystick to highlight a desired selection. Press the Enter key, left mouse button, or Fire button to 
+activate that option. The folllowing is a list of options available to you. 
+
+New Game 
+When you select New Game, you can choose from four difficulty levels. Each level differs in the 
+amount of enemies youTl face and the damage you can take. 
+
+Can I Play Daddy is appropriate for younger players or non-gamers. 
+Don't Hurt Me is designed for part-time gamers who are starting Woifenstein. 
+Bring' Em On is designed for most game players. 
+I Am Death Incarnate is for those people who want a real challenge. 
+
+
+Next, select which episode you wish to play. It is recommended to play the episodes in order. Episodes 
+four through six are part of the Nocturnal Missions available from Apogee Software. 
+
+Sound...F4 
+There are three types of sounds in Wolfenstein - Sound Effects, Digitized Sound, and Music. 
+Wolfenstein will automatically detect if your system is equipped with the appropriate sound board 
+and default to the best settings. 
+
+To activate or deactivate a particular type of sound, highlight the appropriate selection and 
+press the Enter key. 
+
+A sound board is required to play Wolfemtein, but to hear the game's enhanced sounds you 
+must have a compatible sound board. The chart indicates the type of sounds that are available to vou 
+if you have a Sound Blaster, AdLib, Disney Sound Source, or 100% compatible sound board. 
+
+		Blaster 	AdLib 		Disney 
+
+Sound Effects     X		 X
+Digitized	  X				  X
+Music 		  X		 X
+
+
+Control...F6 
+The Control Menu allows you to select and modify the input device for playing Wolfenstein. In 
+conjunction with the keyboard you may also use a mouse, joystick or Gravis PC GamePad. 
+
+If your mouse is operating at an awkward speed, select the Mouse Sensitivity option to adjust it. 
+
+Choose the Customize Control option to modify the controls for playing Wolfenstein. For example, 
+instead of using the Ctrl key to fire, you may prefer the Space bar. 
+
+To customize a control, select a device and function to modify and press the Enter key. The name of 
+the key or control which currently activates that function will change to a '?'. Press the key or button 
+that you wish to use to activate that function. (Though both sets of arrow keys work in the game, use the
+keypad keys to set them as a control.)
+
+Load Game...F3 
+Press F3 to load a saved game. If you're in a game, you will be asked to confirm your choice. 
+
+Save Game...F2 
+Wolfenstein Save screen provides ten Save game slots. To save a game, move to an empty slot (or 
+one you don't mind writing over), enter a name and press Enter. 
+
+Quick Save...F8 
+Quick Save is an easy method for saving a game without leaving the action. The first time it is used the 
+standard Save menu will appear. Select a slot to use for that Save. Future Quick Saves won't 
+interrupt the game because they automatically save over vour last saved game. 
+
+Quick Load...F9 
+If you wish to quickly return to the Quick Saved location, press F9. 
+
+Change View...F5 
+You may wish to reduce the view of Wolfenstein in order to speed-up game play. Use the arrow keys to 
+change the size of the window. Wolfenstein will scale everything to fit in the new window. 
+
+Read This...F1
+If you are having difficulty playing Wolfenstein, press F1 to access the on-line help. 
+
+View Scores 
+Select View Scores to see a list of the top seven game scores. 
+
+Back to Demo/Game 
+If you aren't currently playing a game, this option will be "Back to Demo." If chosen, you will see the 
+title sequence and a short demonstration of the game. If you are playing a game, this option will be 
+"Back to Game" 
+
+End Game...F7 
+This will end a game and return you to the Options Menu. 
+
+Quit...F10 
+Press F10 to quit from Wolfenstein and return to DOS. 
+
+Back to Options Menu...Esc 
+If at any time during the game you wish to return to the Options Menu, press the ESC key. 
+
+CONTROLLING THE ACTION 
+
+If you've selected New Game and Episode One, you are standing over a dead Nazi guard. The door 
+to your prison cell is unlocked. You are carrying the recently terminated guard's knife and 
+pistol. Outside that door is a world of hurt waiting for you! 
+
+The following is a list of controls and commands for moving and fighting within Wolfensiein. 
+Remember to press the F1 key for on-line assistance. 
+
+Travelling 
+The key to playing Wolfenstein is learning how to effectively maneuver through the castle's 
+passages. Once in the game, you'll need to move quickly in order to surprise guards and avoid others.
+
+Walking 
+Use the up and down Arrow keys to walk through the dungeon. 
+
+Run 
+Hold down the right Shift key and an Arrow key to run. 
+
+Turning 
+Use the left and right Arrow keys to turn.
+
+Fast Turn 
+Hold down the right Shift key and the left or right Arrow key for fast turns. 
+
+Strafe 
+Press the Ait key and the left or right Arrow key to slide side to side instead of turning left or right. 
+
+Arming Yourself 
+Once you have more than one gun, you'll want to choose between firearms. The numeric keys 1-4 select a 
+particular weapon. 
+
+The weapons are: 
+
+1 = Knife 2 = Pistol 3 = Machine Cun 4 = Chaingun 
+
+You start the game with only a knife and a pistol. Until you discover other weapons, pressing "3" 
+and "4" will have no effect. 
+
+If you are out of ammo, you can only use the knife. Pressing a number key will have no effect. 
+
+Killing the Enemy 
+To use your knife or fire your weapon, point it towards your adversary and press the Ctrl key. 
+If you are using a machine gun or chaingun, you can hold down the ctrl key for rapid fire. 
+
+The accuracy of a weapon diminishes with the range of the shot. You may want to aim to the left or 
+right of an enemy if your bullets are not hitting. A healthy dose of vour victim's splattering blood is a 
+good indicator that you've hit. 
+
+Opening Doors and Pushwalls 
+To open doors and elevators, move in front of the door and press the Space bar. It is not necessary to 
+actually touch the door before opening it. 
+
+Some walls in the castle can be pushed back to reveal hidden rooms. To search for hidden rooms, move against 
+a wall and press the Space bar. 
+
+Several of the doors in Wolfenstein will require keys. These keys can be found somewhere on the same 
+level as the locked door. Using a key requires no additional com- mands other than the Space bar to open a door. 
+
+
+Picking Up Stuff 
+Though the fighting is fierce, there's always time to grab a few trinkets or helpful items. To pick 
+up an item simply walk over it. You're smart and will know if you need to keep it. 
+
+For example, if you are carrying the maximum ammunition of 99 bullets, you won't pick up more ammunition by 
+walking over it. 
+
+Getting to the Next Floor 
+Each level contains an elevator. Once you find an elevator, press the Space bar to open the door. Then walk 
+into the elevator and press the Space bar once again to move to the next level. 
+
+Joystick and Mouse Control 
+When using the mouse or joystick, use button 1 to shoot, and button 2 to strafe. With a three-button mouse, 
+use the third button to open doors. 
+
+Gravis PC GamePads have a fourth button that is useful as a run button. 
+
+WOLFENSTEIN 3-D KEY COMMANDS AND SHORTCUTS 
+
+The following is a list of key commands used for playing Wolfenstein. 
+
+Help 		Pause 		  Options Menu 
+F1 = Read This! Pause Key = Pause Esc Key = Options Menu 
+
+Program Hotkeys 
+F2 = Save F3 = Load F4 = Sound F5 = View 
+F6 = Control F7 = End GamemFS = Quick Save F9 = Quick Load 
+F10 = Quit
+
+Weapons Selection 
+1 = Knife 2 = Pistol 3 = Machine Gun 4 = Chaingun
+
+Movement Keys 
+Up Arrow = Move Forward 		Down Arrow = Move Backward 
+Left Arrow = Turn Left 			Right Arrow = Turn Right 
+Shift + Up Arrow = Run Forward  	Shift + Down Arrow = Run Backward 
+Shift + Left Arrow = Fast Left Turn 	Shift + Right Arrow = Fast Right Turn 
+Alt + Left Arrow = Strafe Left 		Alt + Right Arrow = Strafe Right 
+
+Firing Your Weapon 		Opening doors
+Ctrl = Fire Your Weapon 	Space Bar = Open Doors and Search for Secret Doors 
+
+Joystick and Mouse Control 
+
+When using the mouse or joystick, use button 1 to shoot, and button 2 to strafe. With a three-button mouse, 
+use the third button to open doors. Gravis PC GamePacds have a fourth button, useful as a run button. 
+
+YOUR CURRENT STATUS 
+
+At the bottom of the play screen is a status bar which provides information important to the play of Wolfenstein. 
+
+Level 
+There are at least levels in each episode of Wolfenstein. The current level is always indicated at the far 
+left of the status bar. 
+
+Score 
+You can gain points by picking up treasure or killing. Every 40,000 points provides an extra life. So 
+collect those treasures! 
+
+Lives 
+Start each epiisode with three lives. If vou die, voull restart the current level with only a pistol and 
+eight shots. You'll also lose the points you obtained on that level. 
+
+Health 
+When you start your health is 100%. Each time you are hit, vour health will be reduced. 
+Health is indicated not only in percentages, but also in a visual representation located in the status bar. 
+You begin to look increasingly unhealthy the more damage you take, If your Health is droppings grab 
+some food or first aid. 
+
+Ammo 
+Your amount of ammunition is Indicated on the status bar. You can carry a total of 99 bullets. Be 
+sure to pick up the ammo left behind when you kill someone. Run out of ammo and you'll be stuck using your knife. 
+
+Key 
+When you find a key, a representation of that key will be shown in one of the two small slots located 
+to the right of the ammo count.
+
+Weapon 
+A representation of the currently active weapon will be shown at the far right of the status bar. 
+
+Getting Rewarded 
+When you go to a new level, a Bonus Screen will tally your performance. Hidden rooms located, 
+ratio of kills, and percentage of treasure found will be calculated. Each 100% ratio provides 10,000 
+exLra points. Also, if you beat the par times for completing a level, youTl receive extra bonus points. 
+
+ITEMS YOU CAN PICK UP 
+
+Wolfenstein is packed with items that you'll want and need. These items fall within four categories 
+(Healing, Killing, Treasure, and Special Items.) 
+
+HEALING 
+
+Dinners = 10% Health 
+You've always had bad table manners. After clearing your Nazi hosts from the 
+dinner table, you should pick up some food-to-go! 
+
+First Aid = 20% Health
+The Nazis have been intercepting Red Cross packages and storing them throughout their strongholds.
+
+KILLING 
+Ammo = 4, 8 Bullets 
+These guards are armed to the teeth. Gracious even in death, they'll leave their ammo for the 
+taking! Pick up unused ammo for 8 bullets. 
+
+Machine Cun 
+This machine gun is the primary armament of the SS guards. Its an efficient and powerful weapon that 
+is useful for attacking multiple enemies. 
+
+Chaingun 
+The Chaingun uses the gatling gun principle of rotating barrels. It's a destructive killing machine that 
+will clear the room. However, it has a healthy appetite for ammunition. 
+
+
+TREASURE 
+Hitler has a twisted desire for treasure and religious artifacts. His ill-gotten booty is stored within the 
+walls of his impenetrable fortresses. 
+
+Cross 
+100 Points 
+
+Chalice 
+500 Points 
+
+Chest 
+1000 Points 
+
+Crown
+5000 Points 
+
+
+SPECIAL ITEMS 
+
+Keys 
+Some of the upper levels are well secured with locked doors and elevators. You'll need to search the level for 
+keys into these areas. 
+
+One Ups = Full Health, Full Ammo or 1 Life 
+Hidden within secret rooms of the fortresses are items that give you that extra urge to keep fighting! 
+
+THE DENIZENS OF WOLFENSTEIN 
+
+Episode One: 
+Escape from Wolfenstein 
+
+Wolfenstein is filled with a host of people who would like nothing better than to see you in a body 
+bag. Rememiber that anything moving is a threat. 
+
+The opponents you will be up against vary in weapons; body armor speed, skill; aggressiveness; and even 
+intelligence. 
+
+Guards 
+The bullies in brown go down easy; but there's a lot of 'em. 
+
+SS 
+Members of the Schutzstaffel; they wear blue uniforms, bulletproof vests, and sadistic grins. 
+
+Killer Dogs 
+These German shepherds go right for your throat. 
+
+Episode Two: 
+Operation: Eisenfaust 
+
+You escape from Wolfenstein and struggle your way to the Allies' front lines. While you were imprisoned, 
+more evidence of the Operation Eisenfaust (Iron Fist) was uncovered. 
+
+Gravediggers are becoming Hitler's best recruiters as Dr. Schabbs is preparing to unleash his hideous creations 
+upon the free world. With the force of an entire army of undead killing machines at Adolfs disposal; nothing can 
+stop him. 
+
+You are the only one who can defeat the evil Dr. Schabbs and keep his hideous experiments from coming to fruition, 
+Venture into the depths of Castle Hollehammer and inject Dr. Schabbs with your brand of justice. 
+
+In addition to dogs, guards, and SS: 
+
+Mutants 
+Hideous human experiments of the evil Dr Schabbs, these three-armed beasties are killing machines. 
+
+Dn Schabbs 
+He is nuts and prefers killing to all other activities. Watch out for flying syringes or you'll be 
+a mutant too! 
+
+Episode Three: 
+Die, Fuhrer, Die! 
+
+You destroyed Dn Schabbs and crushed the Fiihrer's plans for creating an army of undead. His dreams vanquished, 
+Hitler has sunk deeper into his twisted evil mentality. Now bent on the destruction of the free world, 
+Hitler has become increasingly desperate. Thousands die as Adolf leads his armies into suicide campaigns. 
+
+The only way to stop this annihilation is to confront Hitler himself. Can you defeat the Fuhrer and 
+end the war? Or will his ruinous reign continue? 
+
+In addition to dogs, guards, and SS: 
+
+Officers 
+These quick, smart soldiers wear white and see red. 
+
+Adolf Hitler 
+The essence of evil, he's got a few surprises for you. The picture shown is only a likeness of Adolf. 
+Youll face the image of evil soon enough! 
+
+THE NOCTURNAL MISSIONS 
+
+How did B.J. Blazkowicz become a Nazi-killing machine? Now the truth can be told in episodes four through 
+six — The Nocturnal Missions. In this prequel B.J. must stop a Nazi plan for large scale chemical warfare. 
+
+Episode Four: 
+A Dark Secret 
+
+You must assassinate Otto Giftmacher, the amoral scientist responsible for designing chemical weapons. 
+Be assured the castle is well-guarded! 
+
+Episode Five: 
+Trail of the Madman 
+
+Although the scientist is dead, the plans are in motion. Explore the dungeon of the castle to find the 
+plans so the Nazis can be stopped! 
+
+Episode Six: 
+Confrontation 
+
+Prepare for the final battle with General Fettgesicht, organizer of the chemical war. Wade through 
+waves ot soldiers and stop their Geneva Convention-breaking machinations! 
+
+The Nocturnal Missions can be purchased from Apogee Software by calling 1-800-GAME123, 
+
+HINTS & STRATEGIES 
+
+If you are to survive Wolfenstein you'll need more than a trigger finger, here are some tips to 
+help you escape Wolfenstein 3-D. 
+
+Don't Rush Into the Room! 
+If there is only one entrance, let the Nazi guards come out at you. They'll often be nice enough to 
+open the doors for you. 
+
+Get at an Angle 
+It's never smart to run into a room. Guards are sometimes posted near the entrances and stay hidden 
+until you move close to the door. Go up to the door, slide to the side at an angle, and pick the enemy off 
+with less danger to you. 
+
+Use the Keyboard and the Mouse 
+Once you have the game down, try using the mouse and keyboard at the same time. The mouse provides bettor 
+control for shooting and turning. Also, the Strafe mode is much easier using the second mouse button. 
+
+Charge! 
+If vou run at someone and shoot them point blank, you are more likely to wound them. Plus, this 
+will provide less time for them to shoot you. 
+
+Every Level Has Hidden Stuff 
+If you explore carefully, you'll find extra health and ammo hidden everywhere! Be sure to collect as 
+much treasure as possible. Remember that every 40,000 points will provide you with an extra life. You'll need it! 
+
+Necessary Items Aren't Hidden 
+The Nazis may be rude hosts, but they would never hide anything necessary to escaping. Keys and 
+elevators can be reached through the normal passages. 
+
+Don't Be Too Proud to Eat with the Dogs! 
+After taking too many bullets, it's a wise idea to get help from anywhere. Eating dog food may be 
+hunriliating, but it will provide a small boost to vour health. 
+
+Use the Quick Save! 
+The Quick Save, (F8) and Load, (F9) is an easy method of improving your survival rate. 
+
+Conserve Your Ammo 
+Although it's fun to hold down the Ctrl key to spit bullets everywhere, you should try to restrain 
+vourself. Conserve ammunition and make your shots count.
+
+DonT Attack with a Knife 
+[f armed with only a knife don't rush into a room full of guards and expect to come out alive. 
+Spend your time looking for hidden rooms which may provide more ammo. The only thing that 
+separates a brave man and a dead man is a well-placed bullet. 
+
+Do More Damage at Close Range 
+The closer you are to an enemy the more damage he takes with each shot. However, killing is a two 
+way street. These Nazi guards have a way of appearing behind you with a point blank shot to your back. 
+
+Searching for Hidden Passages 
+Hidden passages can be located almost anywhere. Sometimes the entrance appears obvious, but 
+often it is not! To make your search easier, move against a wall at an angle. Then hold down the Space 
+bar and strafe across the wall. This enables you to check long walls quickly. Make sure the room is free 
+of Nazis before you start! 
+
+Does B.J. Need a Little Help? 
+Out of ammo, beaten to a pulp, and want to survive? Press the MLI keys and receive full health, 
+99 bullets, and 2 keys. Beware, cheaters never prosper! 
+
+How to Receive Full Hints 
+To receive full hints on playing Woifenstein, including level maps, secret cheat keys, and 
+game play hints from the Id development team, call Apogee at 1-800-GAME123. Ask for the Wolfenstein Hint Book. 
+
+TROUBLESHOOTING 
+
+Memory Problems 
+If you run Wolfenstein and get an "Out of Memory" window, there are a few things you can do. 
+
+REMOVE TSR (RESIDENT) PROGRAMS 
+
+If you change your AUTOEXEC.BAT to not load TSRs they won't take up the memory that Woifenstein needs to run. 
+We recommend temporarily renaming your AUTOEXEC.BAT to AUTO, and your CONFIG.SYS to CONFIG. Then reboot your 
+computer and restart Wolfenstein. 
+
+LOAD DOS HIGH 
+If you have at least a 286 computer and extended memory, plus DOS 5.0, you can load DOS into high 
+memory. Siinplv put "DOS=HIGH" in your CONFIG.SYS file. Refer to your DOS Manual for further details. 
+
+OTHER IDEAS 
+Wolfenstein will use XMS (extended memory) and EMS (expanded memory) if available, if you have an EMS card 
+or a 386 computer, check your system manual for information on how to make this available. 
+
+Sound Problems 
+
+A sound board is recommended for playing Wolfenstein. If you are having sound problems here are a 
+few ideas that may assist you! 
+
+SOUND BLASTER ADDRESS 
+When you installed your Sound Blaster or Sound Blaster Pro, you may have needed to change the 
+default addresses in order to resolve possible hardware conflicts. Wolfenstein 3D can work 
+with non-standard Sound Blaster and Sound Blaster Pro settings. However, Wolfenstein needs to 
+know these settings. 
+
+To enable Wolfenstein to obtain your settings, set the "BLASTER" environment variable to contain 
+the appropriate information. To do this either include the following in your AUTOEXEC.BAT file or type 
+it on the command-line before running Wolfenstein 3D: 
+
+SET BLASTER=Axxx Ix Dx 
+
+Axxx represents the address of the Sound Blaster/ Sound Blaster Pro. For the Sound Blaster, it's either 
+A210, A220, A230, A240, A250 or A 260. For the Sound Blaster Pro, it s A220 or A240. Default is A220. 
+
+lx represents the IRQ number used by the Sound Blaster/Sound Blaster Pro. For the Sound Blaster, 
+it’s either 12, 15, or 17. IRQ 10 (only available on a machine with AT BIOS and the Sound Blaster Pro) is 
+not supported. Default is 17. 
+
+Dx represents the DMA channel used by the Sound Blaster/Sound Blaster Pro. D0, D1, or D3 are 
+acceptable values. Default is D1. 
+
+Try the default values first. If one of the values is out of the acceptable range, the program will 
+Quit, indicating which of the values wasn't acceptable. Refer to your Sound Blaster manual for 
+details.
+
+SOUND BLASTER PRO VOLUME IS TOO LOW 
+You may need to adjust the volume coming from the Sound Blaster Pro, You can do this by adjusting the volume 
+wheel or adjusting the volume on whatever you have the Sound Blaster Pro attached to, or by using the SBP- 
+SET program that came with the Sound Blaster Fro. If you use the 5BP-SET program, see the SB Pro 
+User's Manual for details on how to use SBP-SET. 
+
+SOUND BLASTER AND GRAVIS PC GAMEPAD PROBLEMS 
+
+If you have a Gravis PC Gamepad, a second joystick card and a Sound Blaster, you need to set the 
+jumper on the Sound Blaster card to "On" so that you are using the joystick port on the Sound Blaster. 
+Refer to your Sound Blaster manual for details. 
+
+IF YOU REQUIRE FURTHER ASSISTANCE 
+If you need further technical assistance, call Apogee Software at (214) 278-5655. 
+
+ID SOFTWARE 
+Id Software is a group of programmers, designers, artists and musicians with the goal of providing cutting edge 
+games, both in software technology and design. 
+
+Chief Operating Officer 
+Jay Wilbur 
+
+Software Engineers 
+John Carmack 
+John Romero 
+
+Master of the Pixel 
+Adrian Carmack 
+
+Creative Director 
+Tom Hall 
+
+Art & Manual Design 
+Kevin Cloud 
+
+Composer 
+Robert Prince 
+
+Cover Illustration 
+Ken Rieger 
+
+APOGEE SOFTWARE 
+Apogee Software is the official shareware distributor of Wolfenstein 3-D, 
+Commander Keen, and other video games and education software for IBM 
+compatibles. For more information on Wolfenstein 3-D and other products 
+available from Apogee, call 1-800-GAME123. 
+
+Copyright ©1992 by Id Software. Inc. 
+
+Wolfenstein. the Wolfenstein logo and the Wolfenstein likeness are trademarks of 
+Id Software Inc. All rights reserved. 
+
+IBM is a registered trademark of International Business Machines, Inc. Sound Blaster is a 
+registered trademark of Creative Labs, Inc. AdLib is a registered trademark of AdLib inc. 
+Gravis PC Gamepad is a registered trademark of Gravis, Inc. 
+
+
+
+
