@@ -1,0 +1,60 @@
+==============================================================
+====================== Project Ironstone =====================
+================ Source Code Modifications List ==============
+==============================================================
+
+- Textured Floor and Ceiling
+- Directional 3D Sprites
+- 30 Levels with Seamless levels progression
+- New menu color with a background
+- New Signon Screen
+- New Exit and Error Messages
+- Helpart and Endart Added (ReadThis!)
+- Non-Shareware Notice restored
+- No More PG-13 Screen
+- Boss DeathCam Remove
+- Change Cheat Code
+- Maximum Ammo and Health Increase
+- New Intermission Screen Color (Grey)
+- New "In-Game" Screen Border Color (Grey)
+- Change Signon Screen
+- 2 New Keys (Brown Key and Key Card with icons on the StatusBar)
+- Debug Keys Removed
+- Different colored locked doors (Gold Key Match with the Gold Door...)
+- Armor added in the game with 3 Armor Items
+- New Life Items (Hot Meal, Big MedKit (give you 200% health))
+- New Guns (Silenced Pistol, StenSMG, Sniper Rifle, Rocket Launcher)
+- Landmine added
+- Toxic Green Puddle added
+- New Sounds added
+- 9mm Ammo box added (normal ammo)
+- 0.50 Caliber Ammo added (small and big box)
+- Rifle Ammo added (clip and box)
+- Rocket ammo added (Rocket and Rocket box)
+- Pistol, Machine Gun and the Silenced Pistol use 9mm Bullet
+- Chaingun use 0.50 Caliber Bullet
+- StenSMG and Sniper Rifle use Rifle Bullet
+- Rocket Launcher use Rocket
+- A New Enemy Added
+- Death Artefact Added
+- God Mode Artefact Added
+- Damage Flash Remove when in God Mode
+- Teleporter Added
+- You will no longer get a lower weapon when getting a higher one
+- Exploding Barrel Added
+- Falling Pillar Added
+- Crosshair Added you have to press on "X" to enable or disable it
+- When you are too close to the explosion of a rocket this may hurt you or nerby enemies
+- The Dog has been replace by the "Kamikaze Infantry" who stick on you and explode
+- The Chaingun now jam at random times
+- DrawWeapon Restored (little numbers at the right of the StatusBar)
+- The Enemies (except the bosses), can take medkits, can walk on landmine, on Death Artefact and on Toxic Puddle
+- Ambient Sounds add to particular levels
+- Animated Objects that act as blocking objects
+- You will no longer get ANY score if you cheat and you will not be able to save
+- The Enemies (except the bosses), now explode if you shoot thoses with a Rocket Launcher
+- You can Enable or Disable the "Light Shading" by pressing "F"
+- The doors will no longer automatically close
+- 5th difficulty level; "MISSION:IMPOSSIBLE". You cant use any cheat in this difficulty level and the enemies are VERY MUCH STRONGER! (like that a guard have 60 HP instead of 25 so you can imagine the SS and the bosses ;))
+- Gun Bobbing
+- Full Screen display with HUD (not the Ripper tutorial)
