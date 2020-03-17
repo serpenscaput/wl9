@@ -1,0 +1,183 @@
+YET ANOTHER UNFINISHED PROJECT
+By Dugtrio17
+
+Yeah, I didn't even get around to naming this one. I did have an assload planned
+out for it, though. That's not really unusual for my projects; it's a lot easier
+to plan to do something than it is to actually do it.
+
+Anywho! The main concept of the mod is that it's supposed to make plenty of use
+of the use key (usually space bar unless you're some kind of weirdo); the final
+version was supposed to manifest this in objects that you pick up (and equip
+like weapons), walls that let you transform into other characters, and just
+stuff in the environment that you can interact with, like stuff to talk to and
+weird easter eggs to find. The groundwork for that is all there; with the engine
+I made I could feasibly put all that in, but that's still a lot of work.
+
+*****
+Also, I DID NOT INCLUDE THE SDL DLLS WITH THIS ZIP. YOU NEED SDL.DLL AS WELL AS
+SDL_MIXER.DLL TO RUN THIS ABOMINATION.
+*****
+
+Alright, enough preamble, let's get right to how to navigate this crazy thing:
+
+CONTROLS
+
+Your normal Wolf3D controls work (or they should, I didn't even bother to test
+that). As I was making this, I found that I preferred some changes to movement,
+especially in a game that was less of a nonstop actionfest than Wolfenstein. To
+that end, I lowered the movement speed, enabled WASD-style movement, made it so
+the player always runs, and made turning faster. However, I made all of this 100%
+optional, and by default I'm pretty sure all of that's disabled. You can enable
+it all individually in Options->Control->Advanced. For the record, I couldn't
+think of a description to put for "Faster turning?", so that's why it says what
+it does.
+
+What, you thought that was all I changed? I wouldn't make a dedicated section for
+the controls if it was. I added a few other keys:
+H:   Holsters your current item, if it can be holstered. This basically lets you
+     carry two items, though if one of them can't be holstered then you can't
+     switch to the other one until you drop the unholsterable one. I probably
+     should have made a drop key for that reason.
+F10: Gives you info on whatever you're holding. For erroneous reasons, it refers
+     to your knife as your hands. I would have preferred to use the text box
+     that the debug windows use, but if I remember correctly it was giving me
+     headaches so I copped out with the standard gray text boxes. 
+F11: Gives you info on the current level. It only has info for the first level,
+     which was to be a tutorial level. It was supposed to have a ton of sample
+     stuff to play around with to get a feel for the game, like weapons to pick
+     up, transformations to goof around with, and probably some form of enemy or
+     target generator. Also, there's stop signs everywhere. More on those in a
+     minute.
+
+ITEMS
+
+I could have just called this section "Weapons".
+
+KNIFE: Pretty sure there's almost nothing changed here. One thing that was
+       changed is the fact that the knife now deals "Cutting" type damage, which
+       means it slices enemies in half in a gory fashion.
+GFI PISTOL: GFI obviously stands for "Go For It", a reference to yet another
+	    unfinished project I gave up on and released to the public eons ago.
+	    This is how I originally envisioned the pistol from that game, but
+	    because I couldn't figure out a good way to model the laser I just
+	    changed the whole concept. Fun fact: the laser is made up of some
+	    hundreds (thousands?) of a new object type I defined specifically
+	    for it, an object I dubbed the "particle". It's basically an actor
+	    minus a ton of information that decorative stuff doesn't need. I
+	    probably would have used my new object type for other stuff.
+	    Also I'm sorry the pistol charging sound is so obnoxious.
+FIREWORKS: A remake of the spark volcano thing from Switch Seventeen. This time
+	   the graphics look less like they were drawn by a cracked-out monkey,
+	   and a new one doesn't magically appear in your hands when you drop
+	   it.
+STAFF: A remake of the entire Wizardry weaponset from Switch Seventeen. I guess
+       I was going full nostalgia with this mod? The first three attacks are the
+       same as they were before, plus a bit of polish, but Lunar Boost was
+       replaced with a frost nova. Magic regeneration is a bit different this
+       time around, too; how, I don't entirely remember. I know it takes a few
+       seconds after using a spell to start replenishing your power, a change I
+       made because the old way meant that the lightning spell was basically the
+       only useful spell in the original version. I think I made the fire spell
+       cheaper to compensate, as well.
+       You know, I could easily just go look at the source code and see what I
+       changed. It's literally right here, on this computer. Hell, I even coded
+       it all where I'm sitting, which probably sounds more impressive after I
+       tell you that I'm in a place I visit only a few times a year. Little
+       coincidences like that fascinate me.
+
+TRANSFORMATIONS
+
+Pretty much where the player was intended to get his real firepower from.
+Transformations can change everything about you, though your health remains
+constant between them. Everything else is fair game; your weapons, your speed,
+how you react to different types of damage, and sometimes even how you move.
+
+BLADE MAN: My favorite boss from Mega Man 10 for some reason. In order to use
+	   his signature triple blade attack you have to wait a little between
+	   attacks, as indicated by the number in your ammo slot. You can
+	   attack rapidly just fine, but it'll just be a melee slice. Blade
+	   Man is weak to explosive damage, but I think the only way this can
+	   manifest is by planting some fireworks and then quickly changing to
+	   Blade Man. Maybe Giftmacher's missiles are explosive?
+	   It goes without saying that as a robot Blade Man is resistant to
+	   gunfire.
+ASTEROIDS: Or rather the ship from Asteroids. Or was it just called Asteroid?
+	   Jesus, the internet's right in front of me and I still can't be
+	   hassled with looking that up, what the shit.
+	   Anywho, this is one of the cooler things in this mod, and it was
+	   basically to be included as dickwaving and as a way of shocking the
+	   player right from the get-go with the idea that transformations
+	   could truly change everything about how the game played (all three
+	   transformations included were supposed to be in the tutorial level).
+	   One hit kills you in this form, but at least I didn't make it so a
+	   brush with a wall blew you up; that would just be silly.
+SS:	   A pretty plain transformation, also included as a demonstration of
+	   sorts. You move and fire at exactly the same rate as an SS, though
+	   unlike an SS you don't have to fire in set bursts. I wanna say
+	   the damage table for the SS is different from the player's, but
+	   don't quote me on that.
+
+CHEATS
+
+I didn't remove the requirement for --goobers or activating debug mode because
+I'm an idiot.
+
+Tab+X: Gives you an item; 0 is the knife, 1 is the GFI pistol, et cetera.
+Tab+Q: Doesn't quit the game because that's the worst fucking idea for a debug
+       cheat ever, holy shit. I can't count the times I've gone for tab and hit
+       Q with it by accident and agh God fucking dammit
+       Oh, and this lets you change transformations, so you can be Blade Man in
+       other stages and chop guards into bits.
+There might be others that do minor things necessary for debugging. I don't
+remember.
+
+OTHER SHIT
+
+-The stop signs are there to tell you how to play the game. If you read this
+ document, you probably already know how. All their messages are hard-coded;
+ I probably should have figured out a way to externalize them. At least they're
+ not all represented by different internal objects; I believe the engine tells
+ which is which by their exact coordinates and map, which is probably even
+ worse. The graphics are not my best work, but then my best work isn't much
+ better.
+-Damage types are present in the game, though since there's so little they
+ weren't fully utilized. I think there's 18 damage types, with the important
+ ones being Cutting, Laser, Explosive, and Bullet. There's also a neutral
+ damage type, for convenience's sake.
+-Bullets were planned to be a serious threat to the player; you'll notice they
+ always do a decent chunk of damage, sometimes all the way up to 80. They also
+ always make the screen really red when they hit, probably to convey the fact
+ that getting shot really fucking hurts (as opposed to getting blown up or
+ sliced open?).
+-The game was planned to take away the player's ability to save any time. I
+ know, it seems like kind of a dick move, but I think I wanted to avoid save
+ scumming to beat a level, which is less like playing a game and more like
+ going through a series of motions. Maybe that should be a choice best left
+ to the player, though. To counteract this radical change, I simultaneously
+ planned to make progress independent of prior progress; you started each
+ level with full health and whatever gear the level dictated you started with,
+ regardless of what you beat the last level with, and you were to be able to
+ select any stage you'd already gotten to. Lives were to be removed entirely.
+-You could still save, but only at designated churches. The churches were
+ intended to have priests outside asking if the player had been saved, and the
+ Hitler Ghost in front of the church in the first stage is the first step of
+ that.
+-The Hitler Ghost is immune to laser damage, as a means of testing the ability
+ of enemies immune to laser damage to stop the piercing laser attack of the
+ GFI pistol.
+-Did I mention the animation that happens when you kill somebody with a cutting
+ attack? Because it's pretty fuckin' awesome. I'm rather proud of it, especially
+ the fact that the sprite splitting is done entirely by the engine.
+-Probably some other stuff I forget agh Jesus people it's 4:30 in the morning
+ and technically since daylight savings time happened tonight it feels like 5:30
+ give me a fucking break I typed this all up on a whim
+
+CREDITS
+
+I'm using Alumiun's sound code and WSJ's message code. Honestly it's hard to
+remember who all I should credit. Probably Poet? I think I still use his weapon
+tutorial as a checklist for everything I should change. Let's thank my mom while
+I'm here, specifically for not drowning me in the bathtub even though she had
+plenty of chances and I soooo deserved it. And Zero X. Diamond for playtesting
+what little I made and giving me incentive to keep going by providing positive
+feedback.
