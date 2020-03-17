@@ -1,0 +1,14 @@
+	These are the new maps that I created for Wolfenstein 3D. It is still
+buggy, but if you are tired of the original game, why don't give it a try. I
+found out quite some bugs and replaced the archive with the fixed file, So
+if you are having problems try ftp the file again. Enjoy.
+
+Friend.
+
+06-01 Fixed the bug of level 7 elevator.
+06-02 Level 8,9,10 non-treasure bug fixed.
+06-04 Fixed the bug of level 3 elevator.
+06-04 Fixed various disconnection problem on level 1.
+06-04 Added difficulty to L8,9,10
+06-04 Added the Elevator to level 10 (Is this wise?)
+06-06 Added more difficulty to level 8,9,10
