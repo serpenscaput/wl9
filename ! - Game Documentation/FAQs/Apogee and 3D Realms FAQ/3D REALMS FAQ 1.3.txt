@@ -1,0 +1,1020 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+        T h e                " O f f i c i a l "
+    ____                                                        
+    ` // -_____          -__ /\               ,,
+     //    ' | -,          || \,          _   ||
+     \\   /| |  |`        /|| /    _-_   < \, || \\/\\/\\  _-_,
+      ))  || |==||        \||/-   || \\  /-|| || || || || ||_.      FAQ
+     //  ~|| |  |,         ||  \  ||/   (( || || || || ||  ~ ||
+    /'    ~-____,        _---_-|, \\,/   \/\\ \\ \\ \\ \\ ,-_-   Version 1.3
+         (                                                      
+                        Current as of November 15, 1995
+
+     (changes and additions since v1.2 are denoted by leading '}' marks)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Contents:
+
+ [1]  Introduction
+   [1.1]  A word from me
+   [1.2]  About this FAQ
+     [1.2.1]  Obtaining the latest version of the FAQ
+}    [1.2.2]  Revision history
+   [1.3]  Obtaining other 3D Realms related FAQs
+   [1.4]  What is 3D Realms?
+   [1.5]  How 3D Realms markets its games
+   [1.6]  Getting the latest information
+     [1.6.1]  Electronic news
+     [1.6.2]  3D Realms' internet mailing list
+}    [1.6.3]  Finger files
+}    [1.6.4]  World Wide Web
+   [1.7]  3D Realms' staff
+
+ [2]  Historical Information
+   [2.1]  Other companies
+}    [2.1.1]  What's 3D Realms' relationship with Apogee?
+   [2.2]  History of specific games
+     [2.2.1]  Terminal Velocity
+     [2.2.2]  Blood
+
+ [3]  Lists
+   [3.1]  Games
+     [3.1.1]  What games are currently available from 3D Realms?
+     [3.1.2]  The games are too big to download!  Are there "split" versions?
+     [3.1.3]  What upgrade patches are currently available?
+     [3.1.4]  Hardware requirements and support
+     [3.1.5]  Which of 3D Realms' games are good?
+       [3.1.5.1]  Rules of the voting system
+   [3.2]  Past projects
+     [3.2.1]  Working titles of 3D Realms games
+}    [3.2.2]  Cancelled projects
+   [3.3]  Previews
+}    [3.3.1]  What slide shows are currently available from 3D Realms?
+}    [3.3.2]  What are upcoming releases from 3D Realms?
+
+ [4]  The Almanac
+   [4.1]  Release dates
+     [4.1.1]  Games
+     [4.1.2]  Slide shows
+     [4.1.3]  Miscellaneous
+   [4.2]  Cast of characters
+}    [4.2.1]  Heroes
+     [4.2.2]  Villains
+   [4.3]  Behind the scenes
+}    [4.3.1]  Programmers
+     [4.3.2]  Artists
+     [4.3.3]  Musicians
+     [4.3.4]  Sound engine programmers
+     [4.3.5]  Level designers
+     [4.3.6]  Producers
+}    [4.3.7]  Advertising layouts
+
+ [5]  Obtaining the Games
+   [5.1]  The Shareware Episodes
+     [5.1.1]  Software Creations BBS
+     [5.1.2]  Anonymous FTP
+     [5.1.3]  CompuServe
+     [5.1.4]  America Online
+     [5.1.5]  Fidonet
+   [5.2]  The Registered Episodes
+     [5.2.1]  Ordering information
+
+}[6]  Playing the Games
+}  [6.1]  Network services
+}    [6.1.1]  Dwango
+}    [6.1.2]  TEN
+   [6.2]  Cheating
+     [6.2.1]  Complete cheat list
+}  [6.3]  Secrets and other fun things
+   [6.4]  Troubleshooting
+     [6.4.1]  Things to try first
+
+ [7]  Contacting 3D Realms
+   [7.1]  By phone
+   [7.2]  By fax
+   [7.3]  By snail mail
+   [7.4]  Through networks
+
+ [8]  Credits
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Legal Quagmire:  This FAQ is copyright (c) 1994-5 by Samuel Stoddard.  No part
+of this FAQ may be distributed unless it remains intact, with all credits,
+attributions, and other miscellaneous praises to myself preserved. You may
+keep as many copies of this FAQ as you like, on whatever and however many
+different mediums that you like, and you can even read more than one copy
+at one time.  All trademarks herein are acknowledged implicitly if not
+explicitly as well.  The header for this FAQ was done with the aid of
+"Figlet."  I take no responsibility for anything that occurs as a result of
+this FAQ, especially if the information it contains is so enthralling as to
+cause a Dear Loved One to enter into a coma from sensory overload.  The
+management will not be held responsible for lost valuables, and no dogs
+allowed.  Or cats.  Or gerbils.  Or hippopotami.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[1]  Introduction
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[1.1]  A word from me
+
+Who am I?  I'm an avid game player, probably a lot like you.  I spend as much
+time playing games as I do sleeping or studying; sometimes more than both
+put together.  I'm not a 3D-games-only kind of gamer, but 3D games are a
+particular favorite of mine.  I don't guarantee that all of the facts in this
+FAQ are true, but I try to make this as informative and truthful a document as
+I humanly can.  If you have some tidbits of information, or, heck, a whole
+flood of information tidbits, let me know and I'll put it in the FAQ along
+with your name in the credits.  The best way to reach me is through the
+internet.  Try these addresses in this order:  ss1@christa.unh.edu,
+stoddard@ctron.com.
+
+[1.2]  About this FAQ
+
+This FAQ is copyrighted (see above) by Samuel Stoddard.  While it is
+authorized and "officialized" by 3D Realms, it is not the property nor the
+work of 3D Realms.  However, 3D Realms has contributed generously to its
+creation and growth; for that, I offer my sincere thanks.
+
+If you are browsing this FAQ for the first time, but think it looks familiar,
+that's probably because you've also browsed the Apogee FAQ.  I'm the
+maintainer of both and modeled the 3D Realms FAQ after the Apogee FAQ.
+
+[1.2.1]  Obtaining the latest version of the FAQ
+
+ - Via anonymous FTP:  a latest version of the 3D Realms FAQ can be found
+   in the following places:
+       - ftp.uml.edu       /msdos/games/3drealms/faq/3drealms.faq
+       - wcl-l.bham.ac.uk  /pub/djh/faqs/3D-Realms.faq
+       - ftp.wustl.edu     /pub/MSDOS_UPLOADS/game_faq/3drealXX.faq
+       - ftp.wustl.edu     /pub/MSDOS_UPLOADS/games/Apogee/3drealXX.faq
+   "XX" is the version number.  Note that since I upload to ftp.wustl.edu
+   directly, this site will receive new versions more quickly than the
+   other two sites.
+ - Through Usenet:  I try to post the FAQ in alt.games.apogee,
+   comp.sys.ibm.pc.games.misc, and comp.sys.ibm.pc.games.action on a regular
+   basis.  New versions will be posted to all three newsgroups immediately
+   upon release.
+ - Email:  write me at ss1@christa.unh.edu or stoddard@ctron.com.
+
+[1.2.2]  Revision history
+
+The revision history of this FAQ is as follows:
+
+} Version 1.3  - 11/15/95 - Minor revisions and reorganization.
+  Version 1.2  - 10/08/95 - Added history sections, expanded credits sections.
+                            Other revisions.
+  Version 1.1  - 09/01/95 - Institution of the voting system.  Minor updates.
+  Version 1.0  - 06/25/95 - First public release.
+  Version 0.1  - 05/05/95 - Sent to Joe Siegler for suggestions.  Not publicly
+                            released.
+
+[1.3]  Obtaining other 3D Realms related FAQs
+
+Several other FAQs relating to Apogee are available.  You can obtain these
+by FTPing to ftp.uml.edu and downloading the appropriate file in the
+/msdos/games/apogee/faq or /msdos/games/3drealms/faq directory.  Most of these
+FAQs are also available at wcl-l.bham.ac.uk under /pub/djh/faqs.  If you do
+not have access to FTP, you can try emailing the author directly.  If this
+fails, too, you can post a request for the desired FAQ in alt.games.apogee
+or comp.sys.ibm.pc.games.action.  In the interests of preserving Usenet
+bandwidth, however, please use this method only when other means are not
+fruitful.
+
+   Subject            Author                 Email
+   -------            ------                 -----
+   Apogee             Sam Stoddard           ss1@christa.unh.edu
+   Duke Nukem 3D      Zeuxis                 zeuxis@wwa.com
+   Terminal Velocity  Adam Williamson        adam@scss.demon.co.uk
+   Wolfenstein 3D     Adam Williamson        adam@scss.demon.co.uk
+   Rise of the Triad  Derek Greentree        derekg@compass.net
+   Commander Keen     Bill Amon              wamon@mitre.org
+
+[1.4]  What is 3D Realms?
+
+3D Realms is a games distributor for PC games, specializing in 3D games.
+These include flight simulators, 3D shooters, and the widely acclaimed
+3D action games that came into popularity with Apogee's and id's
+Wolfenstein 3D and id's Doom.  3D Realms aims are to make its games as cutting
+edge as possible, pushing the limits of technology with each release.
+3D Realms acts as a distributor for games written by other companies, but it
+also has its own staff of programmers, artists, and musicians, who write most
+of 3D Realms' games.  3D Realms markets their games by releasing a portion of
+each as shareware and making the complete games available upon registration.
+
+The 3D Realms motto is:  "Reality is our game."  The following excerpt is a
+statement from 3D Realms' catalog:
+
+Focusing on cutting edge 3D action games.  That single sentence sums up our
+vision.  3D Realms is 100 percent dedicated to developing and publishing
+immersive 3D games.  It's our specialty.  We're wildly driven by our vision.
+We're not going to be distracted by making platform games, puzzle games,
+fighting games or adventure games -- we'll only make 3D games.
+
+[1.5]  How 3D Realms markets its games
+
+In 1987, Apogee came up with a unique method of marketing their games.  Since
+then, other shareware companies have adopted their strategy.  Their scheme is
+this:  each game they produce is divided into three to four, sometimes even
+six episodes.  The first episode is free.  It can be downloaded from
+CompuServe, BBS's, or the Internet, or bought in a store that distributes
+shareware games for disk copying charges.  You can distribute the shareware
+episode to your friends yourself, if you like, provided you leave all the
+original files intact.  When 3D Realms was born as a sister company to Apogee,
+Apogee's shareware scheme was adopted.
+
+If you like the shareware episode of a game, 3D Realms requires that you
+register it.  This is the normal rule regarding shareware.  Upon registration,
+you will receive the complete game.  3D Realms uses this marketing scheme so
+that people can have a good idea about the game they are buying before they
+put their cash on the line.
+
+[1.6]  Getting the latest information
+
+There are a few ways to get the latest information about 3D Realms, even if
+you want it more quickly than keeping up with the latest revisions of this FAQ
+would do.  These methods are mentioned briefly in the following sections:
+
+[1.6.1]  Electronic news
+
+On Usenet, the newsgroups alt.games.apogee, comp.sys.ibm.pc.games.misc.action,
+and comp.sys.ibm.pc.games.misc all carry discussion about 3D Realms' latest.
+3D Realms monitors these, plus the gaming, shareware, and the Apogee support
+conferences on Fidonet, Rime, Intelec, ILink, and U'NI-Net.
+
+[1.6.2]  3D Realms' internet mailing list
+
+3D Realms has an Internet mailing list.  Whenever new games or slide shows are
+released (or other important information), 3D Realms sends the information out
+in a mailing.  If you would like to be on this mailing list, contact Joe
+Siegler (apogee.software@apogee1.com or apogee@metronet.com, in that order).
+Those email addresses send directly to Joe Siegler, and not to a list daemon
+or robot.  The mailing list is free of charge.
+
+This mailing list is the same one as the Apogee mailing list; if you're
+on one, you're on the other.
+
+[1.6.3]  Finger files
+
+}On the internet, you can finger apogee@3drealms.com, and receive all
+the latest information about 3D Realms.  Usually this entails both recent and
+upcoming releases, among other things.
+
+[1.6.4]  World Wide Web
+
+}You can reach the 3D Realms and Apogee home pages by connecting to one of
+}the following:
+}
+}            3D Realms home page:  http://www.3drealms.com/
+}               Apogee home page:  http://www.apogee1.com/
+
+[1.7]  3D Realms' staff
+
+    George Broussard  - President, Co-owner
+    Scott Miller      - Vice President, Co-owner
+    Steven Blackburn  - VP Operations
+    Tom Hall          - Creative Director
+    Greg Malone       - Creative Director
+    Dennis Scarff     - Vice President, World Operations
+    Joe Siegler       - On-Line Support Manager & Technical Support
+    Kevin Green       - Customer Support Supervisor & Technical Support
+    Dan Linton        - SysOp/Owner of Software Creations BBS
+    Lee Jackson       - Technical Support
+    Dennis DeSmeth    - Technical Support
+    Bryan Turner      - Technical Support
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[2]  Historical Information
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[2.1]  Other companies
+
+[2.1.1]  What is 3D Realms' relationship with Apogee?
+
+3D Realms and Apogee are sister companies, both divisions of Action
+Entertainment, Inc.  Originally, Action Entertainment's next-generation
+of 3D games were going to be published under the Apogee name.  However,
+in late August of 1994, 3D Realms was born, and the four next-generation
+3D games that Action had under production (namely, "Shadow Warrior," "Blood,"
+}"Duke Nukem 3D," and "Ruins: Return of the Gods" [this latter was later
+}cancelled], all of which use the "build" engine) moved under the 3D Realms
+label.
+
+[2.2]  History of specific games
+
+[2.2.1]  Terminal Velocity
+
+Written by Mark Randel, the lead programmer of Microsoft Flight Simulator 5.0,
+Terminal Velocity was the first game ever to be released under the 3D Realms
+label.  The slide show was released on April 4, 1995, and the game itself
+followed on May 1.  And thus, 3D Realms emerged into the "realm" of the
+computer gaming world.
+
+There's a second distinguishing fact about Terminal Velocity; namely, that
+it made the cover of the April 1995 issue of the gaming magazine, "Computer
+Player."  This is the first time in the history of computer gaming that a
+shareware game made the cover of a popular gaming magazine before its
+release.  In the article, many praising comments are made:  "The 3D
+environments are simply breathtaking. Utilizing cutting-edge real-time
+techniques, the graphics engine creates worlds that are like nothing seen
+before in computer games."  And, "A great deal of attention was spent to
+balance the fast action with the spectacular environment.  Terminal Velocity
+has achieved what many have unsuccessfully tried in the past:  an incredible
+combination of scenery and game play."
+
+There are two noteworthy remarks contained in 3D Realms' initial press
+release for the game.  One is, "Climb into Terminal Velocity now, and you'll
+never go back to flight simulators that offer combat as an 'option.'"
+Wrapping up 3D Realms' plot synopsis is the comment, "You're outgunned,
+outmanned, and strapped into a flying coffin.  But just think how good
+'Saved the Known Galaxy' will look on your resume."
+
+[2.2.2]  Blood
+
+What follows is a slightly modified account of the history of Blood as told
+by Peter Freese, vice president of Q Studios.
+
+Blood is a 3D action horror game that pits your wits and skill against the
+undead denizens of several ghastly worlds.  It is being developed by
+Q Studios and will be published by 3D Realms.  Q Studios is a game
+development company located out of Redmond, Washington, and was formed by
+peter Freese and Nick Newhard during the summer of 1994 in order to create
+Blood as well as other games.  Presently, Nick Newhard is the president of
+Q Studios, and Peter Freese is the vice president.  Both take an active part
+in Blood's development.
+
+Blood was originally conceived by Nick Newhard in late 1993, with the idea of
+being something like a 3D Gauntlet-style game.  Nick was researching 3D engines
+at the time and decided to leave a programming position at Edmark Corporation
+(developing educational games) to begin work on the project with Chris Rush,
+artist and longtime friend.  Nick's idea was to develop a networked game that
+would be PC based and run in arcades.  A deal was made with Apogee to work on
+the game and set up "Apogee West," a West coast division of Apogee that would
+recruit and work with local talent.  In the spring of 1994, the situation
+changed somewhat as Apogee/3D Realms decided they wanted Nick to work
+exclusively on the project rather than setting up Apogee West.  By this time,
+the game had moved to being a shareware release and the concept had taken on
+a horror theme.  Peter Freese began working part-time, doing some of the
+programming.  In late spring, Chris Rush left the project.  Throughout the
+summer, Nick and Peter began discussing the formation of a company.  In July,
+Kevin Kilstrom and Erik Klokstad, both artists, were hired.  In October, Erik
+left, and Peter started working full-time.  Q Studios became incorporated in
+November 1994.  Artist Terry Hamel was hired in June 1995 and level designer
+Jay Wilson (aka "Shade") in August.  The music and sound effects will be
+produced by LoudMouth.
+
+Blood uses what's called the "build" engine, which is the 3D rendering
+technology behind it.  This was written by Ken Silverman, who also wrote
+"Ken's Labyrinth," a 3D game with a Wolfenstein-like engine published by Epic
+Megagames some years ago.  He has been working for 3D Realms creating the
+build engine since late 1993.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[3]  Lists
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[3.1]  Games
+
+Please note that this information is constantly changing, especially when new
+games are added to the list of 3D Realms products.  Some of the information
+given here could become out of date rather quickly.
+
+[3.1.1]  What games are currently available from 3D Realms?
+
+A list of 3D Realms games follows.  The filename given is the file -- on
+CompuServe, BBS's, and the Internet -- which contains the first episode of
+each game.  On CompuServe, there are no numbers or punctuation in the
+filenames at all.
+
+The price given is the cost of the *complete* game with all episodes. The "Ep"
+field contains the number of episodes in the complete version. The "Ver"
+field contains the latest version number of the game.  "Gph" is the best
+graphics mode that the game utilizes.
+
+ Name                         Size  Genre Filename      Price  Ep  Ver  Gph
+ ----                         ----  ----- ------------  ------ --  ---  ---
+ Terminal Velocity            3955k 3DSho 3dtv12.zip    $39.95  3  1.2  SVGA*=
+
+ * - There is a disk based version of Terminal Velocity, available for $29.95,
+            which contains everything on the CD except for the cinematics,
+            high-res textures, the bonus planet, and the extra shareware games.
+            The CD version of Terminal Velocity is $39.95.  Version 1.0 of the
+            shareware version does not contain SVGA support.
+
+ ~ - These games contain some measure of graphic violence, and may be
+            unsuitable for young game players.  Each has an official notice
+            about violent content.
+
+ = - There's a Dwango client for Terminal Velocity, available as TVDWANGO.ZIP,
+     which allows you to play Terminal Velocity on a Dwango network.  The
+     Dwango client software is included in all versions of TV 1.2 and the
+     registered version of 1.1.  This separate client is only necessary if you
+     have a version of TV different from one of these.
+
+[3.1.2]  The games are too big to download!  Are there "split" versions?
+
+There are split versions of the larger games available at Software Creations
+and on the Internet.  Other forums do not carry the split versions.
+
+ Game              Split Filenames
+ ----              ---------------
+ Terminal Velocity 3dtv12a.zip  3dtv12b.zip  3dtv12c.zip
+
+[3.1.3]  What upgrade patches are currently available?
+
+These are the upgrades that are available on BBS's and networks only; if
+you need an upgrade that isn't listed, call 3D Realms.  The "S/R" field says
+whether the patch is for the shareware or registered version of the game.
+
+     Filename        Game               S/R              From  To
+     --------        ----               ---              ----  ---
+     tv12cdpt.zip    Terminal Velocity  CD Registered    1.1   1.2
+     tv12fdpt.zip    Terminal Velocity  Disk Registered  1.1   1.2
+     tv12swpt.zip    Terminal Velocity  Shareware        1.1   1.2
+     tv11spt.zip     Terminal Velocity  Shareware        1.0   1.1
+
+[3.1.4]  Hardware requirements and support
+
+[Terminal Velocity]
+
+ Required:       486DX-40, VGA, 8 megs RAM (4 megs for v1.0)
+ Recommended:    486DX2-66 (486DX4-100 for SVGA), VGA, 8 megs RAM (12 megs for
+                 hi-res textures; 16 megs for hi-res textures and SVGA), Local
+                 Bus
+ Features:       8 player network play, modem play, null modem cable play,
+                 control config, 4 skill levels, saved games
+ Notes:          On my 486DX-33, this game runs with a small but tolerable
+                 frame rate with no noticeable slowdowns except when entering
+                 or exiting tunnels.
+
+[3.1.5]  Which of 3D Realms' games are good?
+
+What follows is a series of evaluations for each game.  Ratings are given on
+a scale of 1-10, 5 being the minimum "good" rating.  (A rating of 10 does not
+mean perfection, for in the gaming world, perfection is never achieved;
+someone will always come out with something better later.)
+
+Ratings are given for different categories.  For all but the last category,
+the ratings are my own personal ratings.  The final category contains the
+results of the rating system, whereby game players far and wide may contact
+me via Internet email with their own evaluations of each game.  To send
+your own evaluations, please see the instructions and rules in the next
+section.
+
+For the "Grph" field, the letter indicates (T)ext, (C)GA, (E)GA, (V)GA,
+or (S)VGA.  "Snd" is sound.  "Msc" is music.  The "Enem" field rates how
+unique and interesting the enemies are.  The "Lvl" field rates the design of
+the levels.  The "Game" field rates the gameplay, or how well the game "works"
+as a game.  The "Overall" field is not an average, but rather how lastingly
+enjoyable the game is to play.  The "Vote Results" field gives two values:
+the first is the average rating from the voting system; the second is the
+number of people who have given ratings for that particular game.
+
+ Name                       Grph Snd Msc Enem Lvl Game Overall  Vote Results
+ ----                       ---- --- --- ---- --- ---- -------  ------------
+ Terminal Velocity          V 9   5   4    5   6    6     6       5.0   1
+
+[3.1.5.1]  Rules of the voting system
+
+To send in your votes, send mail to one of:  ss1@christa.unh.edu or
+stoddard@ctron.com.  Include something on the order of "3D Realms Votes" in
+the subject line.  The body of the message should contain one or more Apogee
+games that you're voting on, one vote per game.  Your vote will be a rating
+from 1 through 10, inclusive.  Use whole numbers -- the decimals in the
+results are given for accuracy.  Include one vote per line, something like
+this:
+               10     Terminal Nukem
+               8      Shadow Velocity
+               6      Blood Warrior 3D
+
+The games you can vote on are those listed in the above section ONLY.  Don't
+vote on non-3D Realms games, discontinued 3D Realms games, or beta versions
+of yet to be released 3D Realms games.
+
+So what will your votes do?  Your votes will be averaged in with all the other
+votes.  The average and the total number of voters will be listed in the
+ratings section.  Your votes will be taken into consideration for the next
+release of the 3D Realms FAQ, and, from then, forever after.  There is no need
+to resend votes unless you want to change a vote.
+
+[3.2]  Past projects
+
+[3.2.1]  Working titles of 3D Realms games
+
+Sometimes, over the course of a game's development, the game's title can
+change, once, twice, or more.  Here is a list of some of 3D Realms' games with
+their former titles.
+
+Terminal Velocity                                              Velocity Brawl
+
+}[3.2.2]  Cancelled projects
+}
+}Frequently, projects that get started never get finished.  This can happen for
+}a number of reasons.  Legal problems is one common cause; slow progress and
+}little promise is another.  What follows is a list of projects that, for one
+}reason or another, never saw the light of day.  Dates are approximations of
+}the time each game spent under development.
+}
+}Game                    Genre       Date     Comments
+}----                    -----       ----     --------
+}Ruins: Return of the    3D Action   1994-5
+}  Gods
+
+[3.3]  Previews
+
+[3.3.1]  What slide shows are currently available?
+
+     Filename       Gph   Game(s)
+     --------       ---   -------
+     dnswshot.zip   VGA   Duke Nukem 3D and Shadow Warrior
+     tvshow.zip     VGA   Terminal Velocity
+
+}Two shots of "Shadow Warrior" are available in Apogee's Hocus Pocus slide
+}show; however, these shots are very old and do not look anything like the
+}final product will.  In addition, there are two early shots of the cancelled
+}project "Ruins: Return of the Gods."
+}
+}There are five Duke3D shots in the Terminal Velocity v1.1 archive, and five
+}different shots in the TV v1.2 archive.  There are twelve on the TV registered
+}CDs, but ten of them are the same five and five that are mentioned here.
+}There are seven more in the DNSWSHOT.ZIP file.  As for Shadow Warrior, there
+}are ten shots on the TV registered CDs and four more in the DNSWSHOT.ZIP file.
+
+[3.3.2]  What are 3D Realms' upcoming releases?
+
+     Game                          Genre          Release Date
+     ----                          -----          ------------
+}    Shadow Warrior                3D Action      Winter 1995/1996
+     Duke Nukem 3D                 3D Action      Winter 1995/1996
+     Blood                         3D Action      Winter 1995/1996
+     Prey                          3D Action      1996
+
+  And from Apogee:
+
+     XenoPhage: Alien Bloodsport   Fighting       Winter 1995
+     Stargunner                    Shooter        Winter 1995/1996
+     Ravager                       Platform       Spring 1996
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[4]  The Almanac
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[4.1]  Release dates
+
+   What follows are lists of games and slide shows and the dates they
+   were released.  The lists are not complete.
+
+[4.1.1]  Games
+
+   Game                             Version     Date Released
+   ----                             -------     -------------
+   Terminal Velocity                  1.2         07/07/95
+   Terminal Velocity                  1.1         05/30/95
+   Terminal Velocity                  1.0         05/01/95  *
+
+* - This indicates the first U.S. release of the game.
+
+[4.1.2]  Slide shows
+
+   Game                              Date Released
+   ----                              -------------
+   Duke Nukem 3D and Shadow Warrior    08/11/95
+   Terminal Velocity                   04/04/95  *
+
+* - This indicates the first U.S. release of a slide show of the particular
+    game.
+
+[4.1.3]  Miscellaneous
+
+   Product           Filename       Associated With...      Date Released
+   -------           --------       ------------------      -------------
+   TV Dwango Client  tvdwango.zip   Terminal Velocity       06/19/95
+
+[4.2]  Cast of characters
+
+[4.2.1]  Heroes
+
+ Game                      Name                    Comments
+ ----                      ----                    --------
+}Duke Nukem 3D             Duke Nukem              His third adventure.
+
+[4.2.2]  Villains
+
+ Game                         Villains
+ ----                         --------
+
+[4.3]  Behind the scenes
+
+[4.3.1]  Programmers
+
+  Name               Games
+  ----               -----
+  Allen H Blum III   Major Stryker*     Duke Nukem 3D^
+  Peter Freese       Blood^
+} Frank Maddin       Crystal Caves*     Monster Bash*      Realms of Chaos*
+                     Shadow Warrior^
+  Nick Newhard       Blood^
+  Jim Norwood        Bio Menace*        Shadow Warrior^
+  Mark Randel        Terminal Velocity
+  Todd J Replogle    The Thor Trilogy*  Monuments of Mars* Dark Ages*
+                     Duke Nukem I*      Cosmo's Adventure* Duke Nukem II*
+                     Duke Nukem 3D^
+  Ken Silverman      Shadow Warrior^    Duke Nukem 3D^     Blood^
+
+ * - An Apogee game.
+ + - An id game.
+ ^ - Not yet released.
+
+[4.3.2]  Artists
+
+  Name               Games
+  ----               -----
+  Karl Hagood        Terminal Velocity
+  Terry Hamel        Blood^
+  Drew Haworth       Terminal Velocity
+  Brad Heitmeyer     Terminal Velocity
+  Stephen A Hornback Major Stryker*     Cosmo's Adventure* Duke Nukem II*
+                     Rise of the Triad* Terminal Velocity  Duke Nukem 3D^
+  Mark Humphrey      Terminal Velocity
+  Chuck Jones        Rise of the Triad* Shadow Warrior^    Duke Nukem 3D^
+  Dirk Jones         Realms of Chaos*   Duke Nukem 3D^
+  Kevin Kilstrom     Blood^
+  Erik Klokstad      Blood^
+  Jim Norwood        Jumpman Lives!*    Secret Agent*      Crystal Caves*
+                     Duke Nukem I*      Bio Menace*        Shadow Warrior^
+  Ray Rodrigeuz      Terminal Velocity
+  Chris Rush         Blood^
+  Terry Simmons      Terminal Velocity
+  James Storey       Rise of the Triad* Terminal Velocity  Duke Nukem 3D^
+
+ * - An Apogee game.
+ + - An id game.
+ ^ - Not yet released.
+
+[4.3.3]  Musicians
+
+  Name               Games
+  ----               -----
+  Lee Jackson        Rise of the Triad* Duke Nukem 3D^
+  Bobby Prince       Major Stryker*     Keen: Galaxy*      Keen: Aliens+
+                     Cosmo's Adventure* Bio Menace*        Wolfenstein 3D*
+                     Spear of Destiny+  Duke Nukem II*     Blake: Aliens*
+                     Blake: Strike*     Rise of the Triad* Realms of Chaos*
+                     Duke Nukem 3D^
+  Kyle Richards      Terminal Velocity
+
+ * - An Apogee game.
+ + - An id game.
+ ^ - Not yet released.
+
+[4.3.4]  Sound engine programmers
+
+  Name               Games
+  ----               -----
+  Jim Dose'          Hocus Pocus*       Wacky Wheels*      Boppin*
+                     Rise of the Triad* Realms of Chaos*   XenoPhage*^
+                     Duke Nukem 3D^     Shadow Warrior^
+  Mark Randel        Terminal Velocity
+
+ * - An Apogee game.
+ + - An id game.
+ ^ - Not yet released.
+
+[4.3.5]  Level designers
+
+  Name               Games
+  ----               -----
+  Allen H Blum III   Major Stryker*     Duke Nukem I*      Cosmo's Adventure*
+                     Duke Nukem II*     Duke Nukem 3D^
+  Richard Gray       Duke Nukem 3D^     Blood^
+  Tom Hall           Keen: Vorticons*   Keen: Galaxy*      Keen: Aliens+
+                     Wolfenstein 3D*    Spear of Destiny+  Rise of the Triad*
+                     Prey^
+  Nick Newhard       Blood^
+  Jim Norwood        Bio Menace*        Shadow Warrior^
+  Mark Randel        Terminal Velocity
+  Eric Reuter        Shadow Warrior^
+  Joe Selinske       Rise of the Triad* Terminal Velocity  Shadow Warrior^
+  Jay Wilson         Blood^
+
+ * - An Apogee game.
+ + - An id game.
+ ^ - Not yet released.
+
+[4.3.6]  Producers
+
+Note:  Scott Miller and George Broussard produced, co-produced, and/or 
+executive produced _all_ 3D Realms and Apogee games, so they are not
+listed explicitly below.
+
+  Name               Games
+  ----               -----
+  Tom Hall           Rise of the Triad* Terminal Velocity  Prey^
+  Greg Malone        Shadow Warrior^    Duke Nukem 3D^
+  Nick Newhard       Blood^
+
+ * - An Apogee game.
+ + - An id game.
+ ^ - Not yet released.
+
+}[4.3.7]  Advertising Layouts
+}
+}Robert Atkins and Michael Hadwin are responsible for all Apogee/3D Realms
+}advertising layouts in magazines, manuals, flyers, and so forth.  Originally,
+}Steve Maines held the position, but, when he left, he was replaced by Robert
+}Atkins.  Michael Hadwin came aboard in the summer of 1995.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[5]  Obtaining the Games
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[5.1]  The Shareware Episodes
+
+[5.1.1]  Software Creations BBS
+
+3D Realms' home BBS is the Software Creations BBS.  There are over a hundred
+lines.  Apogee's games are released here and on their own web pages first
+before anywhere else in the world.  The numbers are:
+
+Full Member High Speed Lines:   508 368-7139  14.4k Dual Std. USR
+                                508 365-4616  16.8k Dual Std. USR
+                                508 365-9352  28.8k Dual Std. Hayes
+                                508 368-3424  28.8k Dual Std. USR
+
+Associate Member Lines:         508 365-2359  2400E Courier   USR
+                                508 368-7036  14.4k Dual Std. USR
+                                508 365-2032  16.8k Dual Std. USR
+                                508 368-6604  28.8k Dual Std. USR
+
+You can also reach Software Creations through the World Wide Web by connecting
+to the URL http://www.swcbbs.com/.
+
+[5.1.2]  Anonymous FTP
+
+The official FTP site for 3D Realms is ftp.uml.edu.  uml has several mirror
+sites which can be used in the event that uml is down or too crowded.  Mirrors
+are generally updated on a daily basis.  A list of sites follows:
+
+  Site Name            Directory                         Notes
+  ---------            ---------                         -----
+  ftp.uml.edu          /msdos/games/3drealms             the official site
+  ftp.uwp.edu          /msdos/games/3drealms             uml mirror
+  ftp.ulowell.edu      /msdos/games/3drealms             uml mirror
+  wuarchive.wustl.edu  /systems/msdos/msdos-games        uml mirror
+  ftp.uni-paderborn.de /pcsoft/msdos/games               uml mirror
+  ftp.sun.ac.za        /pub/msdos/uml                    uml mirror
+  nctuccca.edu.tw      /Ulowell/msdos                    uml mirror
+  src.doc.ic.ac.uk     /computing/systems/ibmpc/         uml mirror
+                                      msdos-games/games
+
+[5.1.3]  CompuServe
+
+Type "GO REALMS" at a ! prompt.  The CompuServe forum is a combined forum,
+containing Apogee games as well as 3D Realms games.
+
+[5.1.4]  America Online
+
+Use the keyword "3d Realms" to go to 3D Realms' forum.  This same area also
+holds Apogee games.
+
+[5.1.5]  Fidonet
+
+If you are a Fidonet SysOp, you can get 3D Realms' games on the Fido Filebone.
+Talk to your local filebone hub about the Apogee FDN areas.  See
+FILEBONE.NA for more information.  Send netmail to 1:124/9006 for more
+information on these areas.
+
+[5.2]  The Registered Episodes
+
+The registered versions of the software are the complete versions, and, as
+they are not shareware, cannot legally exist on public BBS's or FTP sites.
+The registered versions of the software must be purchased directly from
+3D Realms or from one of 3D Realms' dealers.
+
+[5.2.1]  Ordering information
+
+To order directly from 3D Realms, call 1-800-3DREALMS.  The line is open 24
+hours a day.
+
+Use the ORDER.FRM file, which comes with virtually all of 3D Realms' games, if
+you want to send in an order by mail.  Send it to:
+
+3D Realms Entertainment
+P.O. Box 496419
+Garland, TX 75049
+
+Or, you can fax a copy of your order to (214) 278-4670.  Use a copy of the
+ORDER.FRM file.  Please include a return fax number if you make use of this
+facility.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[6]  Playing the Games
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+}[6.1]  Network services
+}
+}[6.1.1]  Dwango
+}
+}Terminal Velocity 1.2 and the registered version of 1.1 were shipped with
+}Dwango client software; for other versions of TV, you can obtain the Dwango
+}client software by downloading the TVDWANGO.ZIP file from any official Apogee
+}area, or simply upgrading to version 1.2.  All versions of Terminal Velocity
+}will work with Dwango if it has the client software installed.
+}
+}[6.1.2]  TEN
+}
+}TEN (Total Entertainment Network) is a prominent online gaming service, which
+}provides multiplayer games via the Internet.  While no 3D Realms games support
+}TEN at this time, the following upcoming games will:  Duke Nukem 3D, Shadow
+}Warrior, and Blood.  Most likely, Terminal Velocity will support TEN also.
+}
+}TEN is a service not yet publically available.  You can visit TEN's web pages
+}by connecting to http://www.ten.net/ for more information.
+
+[6.2]  Cheating
+
+3D Realms has almost always made a point of putting cheats in their games,
+both documented and undocumented.  Sometimes these cheats are available in all
+versions of the game; other times they are only available in the registered.
+Documented cheats are listed in the game manuals of the registered versions,
+and sometimes in the XXXXHELP.EXE files that come with both the shareware
+and registered versions of the games.
+
+The cheats listed in the complete cheat list are subdivided by category.
+The customer cheats are the cheats listed in the hint sheet, hint file, or
+game manual that comes with the game.  Some of the games also have a debugging
+mode, which is not generally documented.  Their original purpose is to aid in
+the beta testing of the game.  Lots of times, however, the debugging mode is
+left intact, available for the regular game-player to use.  Finally, there are
+technical support parameters, which are not really cheats, but are used to
+correct some technical problems.
+
+[6.2.1]  Complete cheat list
+
+This section contains a variety of cheats from various 3D Realms games.  It's
+as complete as is humanly possible to make it.
+
+Note that while the customer cheat keys are officially supported by 3D Realms,
+the debug keys are not.  If you use the debug keys, 3D Realms cannot provide
+any support, since this alters game performance to a state where their
+standard support comments and issues might not apply.  In short, neither
+3D Realms or I can be held responsible for damage caused by usage of the debug
+keys.  (Though, as a word of reassurance, I have never heard of such a thing
+happening, save where expressly noted below.)
+
+
+[Terminal Velocity]
+
++ Customer Cheat - The following cheats are available by typing in the given
+                   codes, one character at a time:
+
+         trigods - Invincibility toggle.
+         trishld - Restore shields.
+         trinext - Skip to the next level.
+         trihovr - Hover in place.
+         trifir8 - Afterburner.
+         maniacs - Afterburner.
+         triburn - Fast afterburner.
+         trscope - Toggles music oscilliscope.
+         trframe - Count frames per second.
+         trwarpX - (where X is a level #)  Warp to level X of current episode.
+         3DREALM - "Smokin'"; power up everything.
+         trifir9 - Thirty seconds of invisibility.
+         trifir0 - Thirty seconds of invincibility.
+         trifir1 - PAC ammo.
+         trifir2 - ION ammo.
+         trifir3 - RTL ammo.
+         trifir4 - MAM ammo.
+         trifir5 - SAD ammo (registered version only).
+         trifir6 - SWT ammo (registered version only).
+         trifir7 - DAM ammo (registered version only).
+
++ Extra Keys - Each of the following must be invoked from the main menu.  If
+               they don't work on their own, try holding [ctrl] down before
+               pressing the desired letter.
+
+       [Z] - Display benchmark statistics for your computer.
+       [M] - Play a MOD file.
+       [B] - Play a TVI animation file.
+       [S] - Sound debug mode.
+       [R] - Record a demo.
+       [P] - Play a demo.
+
+
+[6.3]  Secrets and other fun things
+
+Frequently, game programmers will embed little fun things into their games.
+Usually, these things would not crop up under ordinary game play.  Sometimes
+it requires doing certain things, typing certain codes, or even activating
+the program on a particular day or time.  Sometimes these little things are
+called "easter eggs."  Below are some such things that can be found in some
+of Apogee's games, and the instructions for getting to them.
+
+[Terminal Velocity]
+
+}When you start a new game in the registered CD version, you can get to the
+}hidden planet by entering "Terminal" as your name and "Reality" as your
+}call sign.  (Both of these are case sensitive.)  The hidden planet is not in
+}the shareware version or the disk based registered version.
+
+Also, in level 3-1 of Terminal Velocity, fly close to the ground near the
+coordinates (63,227).  You will see a photographic image of the Terminal
+Reality team.  If you fly too high, the fog will obstruct the view.  A
+clearer version of this can be found as a GIF file on the Terminal
+}Velocity CD in the PREVIEW directory.
+
+[6.4]  Troubleshooting
+
+[6.4.1]  Things to try first
+
+If you have a program with a 3D Realms game not starting correctly, there are a
+few things you can try.  First, make sure your system meets the hardware
+requirements of the game.  If they don't, you probably can't run the game
+without upgrading your hardware.
+
+Second, make sure you have the most recent version of the game.  Many older
+versions of games have bugs that are fixed in the most recent versions.
+
+Third, if there is a XXXXHELP.EXE file that came with the game, read it.
+(Most registered 3D Realms games have such a file on the first game disk;
+with shareware versions, you might find it there and possibly in the directory
+the game was installed to as well.)  This file will contain numerous common
+technical problems with their solutions.  There are plans underway to make
+a file available on-line which will contain all the current versions of
+the technical support files in them.
+
+If the game is failing to start due to insufficient memory, you can try
+removing TSRs, or booting "clean."  With MS-DOS 6.0 or greater, you can do
+this by holding down either the shift key or F5 while the system is booting.
+This causes your autoexec.bat and config.sys files to be bypassed.  If you
+are running a memory manager, try removing the manager altogether; this
+seems to fix most problems 3D Realms games have with EMS/XMS memory.
+Additional suggestions on how to free up memory may be in the XXXXHELP.EXE
+file.
+
+Also, you may want to check the cheats section of this FAQ, as, for some
+games, it lists several technical support parameters you can pass to the
+game.  Sometimes this fixes problems with certain pieces of hardware.
+
+If you've tried everything and still can't get a 3D Realms game to work
+correctly, contact 3D Realms' technical support services.  These are listed
+under "Contacting 3D Realms."
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[7]  Contacting 3D Realms
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[7.1]  By phone
+
+3D Realms' technical support line is (214) 278-5655.  It is open from 8am-6pm
+Central Time on Mondays through Friday.  It is also closed for major national
+holidays and on the weekends.
+
+You can contact George Broussard at (214) 278-7828.
+
+[7.2]  By fax
+
+3D Realms' fax number is (214) 278-4670.  Include a return fax number.
+
+[7.3]  By snail mail
+
+Send mail to:
+
+3D Realms Entertainment
+P.O. Box 496419
+Garland, TX 75049
+
+[7.4]  Through networks
+
+You can contact a 3D Realms representative from the computer networks
+listed below by using one of the given addresses.
+
+   Internet            / 3d.realms@3drealms.com
+   CompuServe          / 102052,513
+   AOL                 / realms999
+   Fidonet             / 1:124/9006
+   Rime                / ->APOGEE
+                         ->1674
+
+You can contact George Broussard on CompuServe at 73121,2743.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[8]  Credits
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+In no particular order, thanks to:
+
+  - To Mitch Burton <bwizard@bga.com> for Terminal Velocity cheats.
+  - To kcobain95@aol.com <Cary Liao> for Terminal Velocity secrets.
+  - To Adam Williamson <adam@scss.demon.co.uk> for the Wolfenstein 3D FAQ and
+    the Terminal Velocity FAQ.
+  - To Zeuxis <zeuxis@wwa.com> for the Duke Nukem 3D FAQ.  
+  - To Peter Freese <74170.543@compuserve.com> for the history of Blood.
+  - To Joe Selinske <joe.selinske@swcbbs.com> for information and suggestions.
+  - To Joe Siegler <joe.siegler@apogee1.com> for the endless flow of wisdom
+    he has actively and continually emanated in my direction.
+
+Apologies if I missed anyone.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
