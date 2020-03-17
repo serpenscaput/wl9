@@ -1,0 +1,63 @@
+-----------------------------------------------------------------------------
+ WLFMP1.ZIP - Custom maps pack                                       5-30-93
+-----------------------------------------------------------------------------
+3 games designed for use with the registered version of the program.
+For hints on each game, see the file WLF-HINT.TXT included in this ZIP.
+
+To use the custom maps, backup your original GAMEMAPS.WL6 and MAPHEAD.WL6
+files and then copy the new versions in the ZIP over the old ones.
+-----------------------------------------------------------------------------
+
+** Game I. Castle Mavstein (4 levels) **
+
+  A mixed assortment of devious mazes jam packed with angry German troops.
+
+  Scenario:  Kill Germans, find the exit.
+
+-----------------------------------------------------------------------------
+
+** Game II. Castle Blitzstein, Episode 1 - Breaking In (10 levels) **
+
+  Castle Blitzstein is designed on a 16x20 grid (as opposed to the normal
+  64x64 grid) to give a "quick" game.  Because the playfield is so much
+  smaller, the action is much faster and often much more dangerous.  The
+  only exception is the spacious Blitzstein dungeon which can take longer
+  to get out of than all the other levels combined...
+
+  Scenario:  Storm through the castle until you get to the prison level
+  where you are to rescue a captured allied spy (represented by a `power
+  up.')
+
+-----------------------------------------------------------------------------
+
+** Game III. Castle Blitzstein, Episode 2 - Escape (10 levels) **
+
+  The first version of Blitzstein involved breaking out.  Stay out of
+  the dungeon and everything should be ok.  You may notice that some
+  architectural modifications have been made since your first visit
+  to the castle.
+
+  Scenario:  This time YOU are the captured allied spy and since nobody
+  will be sent to rescue you you have to break out on your own.  Should
+  be a piece of cake...
+
+-----------------------------------------------------------------------------
+
+** Game IV. Ochsenkopf Prison, work in progress (1 level) **
+
+  The first level of a planned ten level castle.
+
+  Scenario:  Break into the prison, kill more Germans.
+
+-----------------------------------------------------------------------------
+
+** ATTENTION MAPEDIT USERS **
+
+  I have included versions of my MAPDATA.DEF and OBJDATA.DEF files for your
+  use.  I have included comments on my maps and you cannot view these unless
+  you use my MAPEDIT files.
+
+-----------------------------------------------------------------------------
+** Custom levels created by The Maverick  [70671,1524] **
+Thanks to all the MAPEDIT developers for making this madness possible...
+-----------------------------------------------------------------------------
