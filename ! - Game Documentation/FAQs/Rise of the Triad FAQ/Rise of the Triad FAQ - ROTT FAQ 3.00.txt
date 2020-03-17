@@ -1,0 +1,3695 @@
+Rise of the Triad
+Official FAQ
+Version 3.00
+by Derek Greentree
+
+Laudatory Quotes!!!:
+"1994 Best Shareware Game of the Year!"
+    - InterActive Gaming
+
+"ROTT provides everything an action gamer could want."
+    - Computer Game Review
+
+"Weapons so powerful, they blow you out of the game!"
+    - Joe Siegler, Apogee
+
+"Gross!  Was that his eyeball?"
+    - Anonymous
+
+"Swim Swim Hungry."
+    - The Dopefish
+
+Legend:
+(X) Chapter
+[X-X] Section(Major Topic)
+[X-X-X] Topic
+[X-X-X-X] Subsection(Minor, though important, information)
+
+-------------------------------------------------------------------------
+Table of Contents:
+(1) Official Stuff
+    [1-1] Copyright/Trademark Info
+        [1-1-1] Trademarks
+        [1-1-2] RotT FAQ Copyright and Distribution Info
+        [1-2] Legal purchasing of RotT
+    [1-3] The Issue of Pirating
+        [1-3-1] How do I report pirating?
+(2) What is RotT?
+    [2-1] What is RotT?
+    [2-2] What company makes RotT?
+        [2-2-1] Who are the authors of RotT?
+        [2-2-2] What other games has Apogee made?
+        [2-2-3] Apogee?  Isn't that id?
+        [2-2-4] What was RotT written in?
+            [2-2-4-1] What is that DOS/4GW thing?
+            [2-2-4-2] What is protected mode?
+    [2-3] The RotT storyline
+    [2-4] Why RotT?  Where did the idea come from?
+    [2-5] Flavors of RotT
+        [2-5-1] Shareware Version
+        [2-5-2] CD/Disk/Site License Versions
+            [2-3-2-1] The CD Goodies
+        [2-5-3] Installing RotT
+            [2-5-3-1] SNDSETUP
+    [2-6] Versions
+        [2-6-1] What is the current version of ROTT?
+        [2-6-2] Version 1.3 Fixes
+        [2-6-3] I have vXxx.  How do I update my copy of RotT?
+            [2-6-3-1] Software Creations BBS
+            [2-6-3-2] The World Wide Web
+            [2-6-3-3] FTP
+        [2-6-4] Why aren't my saved games compatible between versions?
+    [2-7] Where can I get RotT?
+        [2-7-1] Where can I get shareware RotT?
+        [2-7-2] Where can I get registered RotT?
+    [2-8] Where can I find online information about RotT?
+    [2-9] What is a DIP?
+(3) Stuff in the Game
+    [3-1] Enemies
+        [3-1-1] Enemies Not Used
+    [3-2] Items
+    [3-3] Bosses
+        [3-3-1] How do I defeat General Darian?
+        [3-3-2] How do I defeat Sebastian Krist?
+        [3-3-3] How do I defeat the NME?
+        [3-3-4] How do I defeat El Oscuro?
+        [3-3-5] How do I defeat Snake Oscuro?
+    [3-4] Players
+        [3-4-1] What are the strengths/weaknesses of each player?
+    [3-5] Weapons
+    [3-6] The Shareware Version End Credit Silliness :)
+    [3-7] Bonuses in the game and after....
+(4) Level Authors
+    [4-1] Very short level hints.
+(5) Cheating
+    [5-1] What are the cheat codes?
+(6) Playing RotT
+    [6-1] What do I need to run ROTT?
+        [6-1-1] How do I make more memory available for RotT?
+    [6-2] What are the command line options?
+        [6-2-1] What is RotT DOPEFISH?
+    [6-3] Game Controls and Keys
+    [6-4] What input devices can I use for RotT?
+    [6-5] An Apogee Industry First - Variable Violence
+    [6-6] Official RotT Player's Guide
+(7) Multiplayer(COMM-BAT) RotT
+    [7-1] The SETUP Program
+    [7-2] What do I do to play over the modem?
+    [7-3] What do I do to play over a network?
+    [7-4] What if the players have different versions of ROTT?
+    [7-5] Can I play RotT over the Internet?
+        [7-5-1] IHHD - The Internet Head to Head Daemon
+    [7-6] What is COMM-BAT?
+        [7-6-1] What are the different kinds of COMM-BAT in RotT?
+    [7-7] Troubleshooting Multiplayer Connections
+    [7-8] Multiplayer Options
+(8) Add-ons
+    [8-1] Level Editing with RottED
+        [8-1-1] What is RottED?
+        [8-1-2] Where can I get RottED?
+        [8-1-3] How do I use RottED?
+        [8-1-4] What are .RTC and .RTL files?
+        [8-1-5] I've made a neat level and I want to distribute it.  Where
+        can I put it?(And where can I get levels?)
+            [8-1-5-1] The .RTD Authoring File (SAMPLE)
+            [8-1-5-2] SPECTRUM.COM.AU
+    [8-2] Hey, I'm a programmer and I want to make an editor!
+        [8-2-1] Technical info?
+    [8-3] Will there ever be official add-ons for RotT like SOD was for Wolf3d?
+    [8-4] Levels Created at the Time of this FAQ
+(9) The Creators
+(10) Troubleshooting RotT
+(11) Secrets in the Game
+(12) A Note From the Author
+----------------------------------------------------------------------
+(1)
+OFFICIAL STUFF
+    [1-1]
+        [1-1-1]
+Trademarks
+All of the following are registered trademarks and are so acknowledged:
+Rise Of The Triad(RotT), Doom, id Software, Apogee Software, COMM-BAT
+Wolfenstein 3D,
+RottED, Pro Audio Spectrum, Sound Blaster, Gravis
+Ultrasound(GUS), Gravis Gamepad, IHHD(the Internet Head to Head Daemon),
+Creative Labs, Gravis Corporation, Media Vision, Roland, Microsoft, MS-DOS,
+IBM, Intel Corporation, Watcom, Borland, C++, Rational Systems, the DOS/4GW
+extender, the Apogee FAQ, the Doom FAQ by Hank Leukart, Cyberman, Wingman.
+All other trademarks not mentioned are(hypothetically! :) )acknowledged.
+        [1-1-2]
+Copyright Information
+This article, the Official Rise of the Triad FAQ v3.00, is Copyright 1995
+Derek Greentree
+You are hereby granted the following rights:
+I.  To make copies of this work in original form, so long as
+      (a) the copies are exact and complete;
+      (b) the copies include the copyright notice and these paragraphs
+          in their entirety;
+      (c) the copies give obvious credit to the author, Derek Greentree;
+      (d) the copies are in electronic form.
+II. To distribute this work, or copies made under the provisions
+    above, so long as
+      (a) this is the original work and not a derivative form;
+      (b) you do not charge a fee for copying or for distribution;
+      (c) you ensure that the distributed form includes the copyright
+          notice, this paragraph, the disclaimer of warranty in
+          their entirety and credit to the author;
+      (d) the distributed form is not in an electronic magazine or
+          within computer software (prior explicit permission may be
+          obtained from Derek Greentree);
+      (e) the distributed form is the NEWEST version of the article to
+          the best of the knowledge of the distributor;
+      (f) the distributed form is electronic.
+      You may not distribute this work by any non-electronic media,
+including but not limited to books, newsletters, magazines, manuals,
+catalogs, and speech.  You may not distribute this work in electronic
+magazines or within computer software without prior written explicit
+permission.  These rights are temporary and revocable upon written, oral,
+or other notice by Derek Greentree. This copyright notice shall be governed
+by the laws of the state of Florida.
+        If you would like additional rights beyond those granted above,
+write to the author at "derekg@compass.net" on the Internet.
+I am not associated with Apogee in any way.
+    [1-2]
+The Legal Purchase of RotT
+According to Apogee Software, the following methods of purchasing RotT are
+legal:
+Directly from Apogee Software, in a retail store in a box distributed by
+FormGen, or from one of our authorized overseas dealers.  A list can be
+found in the dealers.exe file that accompanies Rise of the Triad.  You
+can also purchase and download the registered version from the Software
+Creations BBS (current as of September 9th).
+    [1-3]
+The Issue of Pirating:
+    I would like to take a minute to discuss a very important issue facing the
+software community today : pirating.  Pirating, as I'm sure you know, is
+the illegal distribution of copyrighted software.  Great software like RotT
+is the result of a lot of work by a lot of honest, nice people.  They
+deserve compensation for their long hours developing the product that you
+use.  That's why pirating is so terrible.  You may not consider it, but
+every time an illegal copy is distributed these people are hurt, as well
+as all their dependents.  If you have the registered version of RotT, and
+you got it by one of the legal ways listed above, thank you for supporting
+the shareware and software ideal.  If you haven't, pay now.
+    Pirating is a crime.  You may not think that you can be caught, but
+you can, and the penalties are severe.
+        [1-3-1]
+How can I report pirating?
+    If you encounter pirating, or the willful participation of any of the
+illegal methods of software distribution listed above, please call the
+Software Pirating Association(which Apogee is a member of):
+1-800-388-PIR8
+REMEMBER!  SUPPORT THE SHAREWARE IDEAL!
+(2) What is RotT?
+    [2-1]
+Now, the good stuff!
+What is RotT?
+    Rise of the Triad, or RotT, is a first person perspective adventure game
+made by Apogee software.  RotT is a great blast-fest, and features a
+RSAC violence rating of 4(wanton and gratuitous violence), making
+it the most violent game ever!
+    However, Apogee has led the way with an Industry First: an Adjustable
+Violence level. The violence level in the current game can be changed from
+none to excessive, and can be password protected.  For more information on
+this feature, please see section 6-5 of this FAQ.  RotT also includes:
+ - an excellent Multiplayer Option, called COMM-BAT(see Chapter 7), supporting
+   modem, network, and serial cable games
+ - multiple-story levels(up to sixteen stories high!)
+ - fully-digitized actors, as opposed to the clay model techniques of certain
+   other software developers who shall remain nameless
+ - hazards upon hazards, including SpinBlades, Firechutes,
+   Wanderwalls, and more!  You'll die in many, many ways!
+ - 20 MB of graphics and sounds
+ - 5 unique characters, each with their own strengths
+ - super power-ups(Godfire!Godfire!Godfire!)
+ - a unique save game feature, allowing you to view a "screen shot" of where
+   you saved your game
+ - 11 player network play
+ - excellent AI for enemies
+ - never-before-seen effects like parallaxing skies, fog, and lighting!
+ - 32 levels plus 40 COMM-BAT ZONES(on the CD version, disk version
+   has 30 COMM-BAT ZONES)
+ - An infinite random level generator, so there is no end to the game.
+   Well, all right it's not REALLY infinite.  There are actually only
+   2,147,483,648 random level sequences( that's 2 billion, 146 million,
+   483 thousand, 648).  If you're not a programmer, that number would have
+   no significance to you.  However, if you're among the anointed, you
+   would know that 2,147,483,648 is the maximum value for a LONGINT, which
+   is a signed 32-bit number.  So there.
+ - REMOTE RIDICULE(a PC first!) - send pre-recorded messages during COMM-BAT
+   play and cruelly taunt your opponent.  Version 1.3 supports Live recording
+   of messages during Net Play: simply speak into the microphone and all your
+   opponents will hear your insult!
+ - registered version supports : add-on game levels, add-on COMM-BAT levels,
+   and add-on COMM-BAT sounds!  Doom Level Designers, go nuts over how easy
+   it is to create levels!  No more sectors or sidedefs!
+ - and MORE!
+    [2-2]
+What company makes RotT?
+RotT was created and published as shareware by Apogee Software, Ltd.
+RotT was published commercially by FormGen, Inc.
+        [2-2-1]
+Who are the authors of RotT?
+Well, folks, credits go out like this:
+Designer/Producer:
+Tom Hall
+Programming:
+Mark Dochtermann
+Jim Dose'
+Nolan Martin
+William Scarboro
+Art:
+Stephen Hornback
+Chuck Jones
+Tim Neveu
+Susan Singer
+Cygnus Multimedia
+Music:
+Lee Jackson
+Bobby Prince
+Additional Level Design:
+Joseph Selinske
+Joe Siegler
+Marianna Vayntrub
+Manual Design:
+Robert M. Atkins
+Tom Hall
+Les Dorscheid(Cover Illustration)
+See Chapter 9 for some stuff about these folks.
+        [2-2-2]
+What other games has Apogee made?
+    Apogee is the distributor of Wolfenstein 3D, and the makers
+of : Duke Nukem', Blake Stone: Aliens of Gold,
+Raptor, Boppin', Wacky Wheels, Hocus Pocus, and more!
+    Apogee will now release their cutting-edge 3D games through a company
+called 3D Realms.  3D Realms has also released their first game, Terminal
+Velocity, and quite a game it is.  But that's a whole different FAQ, by
+Adam Williamson.
+        [2-2-3]
+Apogee?  Isn't that id?
+    No, it is not.  Apogee and id have always been separate software
+companies and always will be.  You see, Apogee is a developer and publisher
+of software.  Almost all the games you see with the Apogee logo are written
+by Apogee.  However, id wrote a few games and distributed them through Apogee,
+namely a some Commander Keen episodes and Wolfenstein 3D.  Later on, however,
+id switched to distributing their own games.
+There is no bad will between the Apogee and id people, in fact, they are
+good friends.
+        [2-2-4]
+What was RotT written in?
+    RotT was written in Watcom C++ v10.0 with the Rational Systems DOS/4GW
+extender.
+            [2-2-4-1]
+What is this DOS/4GW thing?
+    The DOS/4GW extender in a shell for programs that are written in protected
+mode.  Another protected mode shell is the resident DPMI extender distributed
+with Borland C/C++.
+            [2-2-4-2]
+What is protected mode?
+In the old days of computing, DOS programs had only 640 KB of memory to work
+with.  In fact, ol' Bill Gates, President of Microsoft, once said, "640 KB
+ought to be enough for everybody".  It wasn't.
+    The next advance came with
+the development of extended memory.  Extended memory provided a way for
+programs to load their needed resources in a separate memory location and
+free up more of that 640 KB to directly access.
+   The most recent development came with the DOS protected mode extender. The
+protected mode extender provides a way for programs to be able to directly
+access all of the memory on a computer.  If your computer has a total memory
+size of 8 MB, then a protected mode program can use that entire 8 MB area.
+The ROTTHELP.EXE file distributed with RotT contains a more detailed
+explanation of protected memory.  All right, if you really must know,
+protected memory uses look-up values in a table which is stored in that
+640 KB.  So you can't access that extra memory really directly, you
+take a side turn and access it through a look up table.   But that's a
+whole different FAQ.
+    [2-3] The RotT Storyline
+  You are a member of the HUNT, the top secret High-risk United Nations
+Task Force, sent on extremely covert operations to possible trouble spots
+outside the three-mile boundary waters of member countries.  You are on a
+routine reconnaissance mission on San Nicolas Island, located in the Pacific
+twenty miles west of Los Angeles.  Your team is investigating possible cult
+activity in an old monastery, when suddenly troops pour out of nowhere!
+In the distance your boat explodes.  Just before your radio goes all static,
+you hear desperate newsmen describing the systematic destruction of Los
+Angeles. An escaped prisoner informs you that a pyrotechnics expert and a
+rich studio head have joined forces with the Oscurido cult.  Their plan:
+kill millions of innocent people for the glory of their master, El Oscuro.
+Having no other escape route, the HUNT heads into the monastery, taking the
+only course of action left: stop the Oscuridos or die trying.
+    [2-4]
+Why RotT?  Where did the idea for RotT?
+To "Why RotT", Joe Siegler(Apogee's Online Support Manager) says:
+   "Why not?  :)  Besides, if the market is so small as to only allow
+    Doom, then we might as well pack up and go home now.  Besides, if you
+    look at the list of features in ROTT, there's a lot in ROTT that can't
+    be done in Doom."
+To "the idea", Joe says:
+   "Originally, the project was
+    to be nothing more than new levels for Wolf3D, with a few extra added
+    graphics.  It then turned into a Wolf sequel.  The original name was
+    "Wolfenstein 3D II: Rise of the Triad".  The Wolf references got
+    dropped, but the work done in that era is easy to see in ROTT."
+    [2-5]
+"Flavors" of RotT
+        [2-5-1]
+The ShareWare Version
+This shareware version contains one episode entitled "The Hunt Begins", and
+consists of 8 levels in episode one and 2 secret(warp-only) levels.
+The shareware version supports only 4 COMM-BAT modes:
+Normal
+Collector
+Hunter
+Tag
+The end credits to the shareware version are pretty silly. See section 3-6.
+Also, read this note from Joe Siegler:
+    "There is an extra version called Rise of the Triad: The HUNT Begins
+    SPECIAL EDITION.  This is marketed in retail by LaserSoft.  It is the
+    same as the regular shareware episode, except is has 3 extra levels, and
+    3 extra COMM-BAT Levels that are not available on ANY other version.
+    Apogee does not distribute this version, it is only available in stores
+    from LaserSoft."
+        [2-5-2]
+The CD/Disk/Site License Versions
+    The Disk version retails for $29.95, and contains 32 game levels and 30
+COMM-BAT Zones.  Available for the disk version is the Triad PowerPack, for
+$10, which contains an additional 10 COMM-BAT Zones.  The CD Version(Super
+Triad) contains 32 game levels and 40 COMM-BAT Zones, as well as shareware
+versions of many of Apogee's popular games.  The CD Version has
+all the levels contained in the disk version plus the PowerPack, and it
+retails at $34.95, which saves you five bucks.
+    Both the CD and the Disk versions contain 4 game episodes.
+    The Site License version is for Net Players.  It is CD only, and costs
+$84.95.  The Site License version contains 50 COMM-BAT Zones in all, as well
+as 11 command cards.  The Site License version is the only registered
+version that can be played on a network unless each computer on
+the network has it's own separate copy of RotT.  The shareware version
+can be played on a network, but with a limit of 5 players.
+See section 2-7 for How to Order This Really Cool Game.
+            [2-5-2-1]
+The CD Goodies
+    On the CD is a directory called GOODIES, and it contains a lot of
+extra stuff from Apogee.  It contains the following:
+all the songs from the game in MIDI format
+all the sounds from the game in .WAV format(including some not used in
+the game)
+some of the textures from the game in .BMP format
+lots of scanned pictures from that hard-working gang at Apogee!
+Zipped-up shareware versions of lots of Apogee games for easy uploading
+RandRott, the Rise of the Triad random-level generator
+RTSMaker, for making your own remote-ridicule sounds
+
+The v1.3 CD has two more things.  First, there's a directory in GOODIES
+called RottED that has Wayne Sikes' Rise of the Triad Level Editor.
+There's also a directory off the root called PREVIEW that has screen
+shots from Duke Nukem 3D and Shadow Warrior.
+ * The person who grouped the software together to put on CD was Joe Siegler,
+   so you can tell him how much you like those groovy pictures. His e-mail
+   address is in Chapter 11.
+        [2-5-3]
+Installing RotT
+    To install RotT from the Disk Version, simply put in the first disk
+and type install, then follow instructions.  After the files are successfully
+copied, type SNDSETUP to configure your sound card for RotT.
+    To install RotT from the CD, put the CD in your CD-ROM drive, switch
+to that drive, and type INSTALL.  Apogee's graphical interface will let
+you choose two install options, to either play from your hard drive or
+play from your CD.  To play from your CD, you need lots of memory and a
+fast computer and CD-ROM drive.  Hard disk installation is recommended.  The
+install program on the CD also allows you to install lots of other shareware
+Apogee games.
+            [2-5-3-1]
+The SNDSETUP Program
+    In SNDSETUP, you configure your sound card for RotT.  Select Music from
+the Main Menu and choose your sound card.  Then do the same for Sound FX.
+The menu for Number of Voices determines how many voices can be played
+simultaneously during game play.  The more voices that are played at
+the same time, the slower the game will run.  The next menu allows you
+to choose 8-bit or 16-bit mixing.  The 16-bit option provides better sound
+quality but sacrifices game speed.
+    [2-6]
+Versions
+        [2-6-1]
+What is the current version of RotT?
+    The current version of RotT for both the shareware and registered games
+is 1.3.
+        [2-6-2]
+Version 1.3 fixes
+þ Reverb Added.  In large rooms, sounds now tend to echo more.
+þ Ability to limit the amount of time you wish to play in the standard game.
+  Please see the section on command line parameters for more info.
+þ Support added for the Logitech Wingman Assassin.
+þ Support added for virtual reality hardware.
+þ Dog Mode BarkBlast crashes in registered version fixed.
+þ Problems with El Oscuro related crashes in registered version fixed.
+þ Boss Key now works in standard game.
+þ Live RemoteRidicule back in the game (and works on a GUS now, too!)
+þ Fixed Gravis UltraSound init problem.
+þ Other small miscellaneous bugs fixed.
+    [2-6-3]
+I have vX.xx.  How do I update my copy of RotT?
+    There are three areas where you can update your version.
+            [2-6-3-1]
+Software Creations BBS
+BBS    (508)365-2359   2400 baud
+       (508)368-7036   9600-14.4K baud
+       (508)365-4035   28.8K baud
+    Software Creations BBS is Apogee's official #1 file site.  Just call up
+from your terminal program, fill out the presented questionnaire, and
+set your modem a-downloadin'.
+            [2-6-3-2]
+The World Wide Web
+    You can reach update patches through the Software Creations Web BBS, the
+first Web BBS.  The Software Creations Web BBS is located at:
+http://swcbbs.com
+            [2-6-3-3]
+FTP
+    The official Apogee FTP site is "ftp.uml.edu" in the directory:
+/msdos/games/Apogee/
+        [2-6-4]
+Why aren't saved games compatible between versions?
+    When each version of RotT is released, the saved games from a
+previous version can't be used on the new version.  This is because, in
+order for the saved games to be compatible with the new .WAD and .EXE file,
+the data structures in the save game file change slightly.  That's
+why they can't be used.  In fact, they are automatically deleted by the
+patch program.  Sorry!
+    [2-7]
+Where can I get RotT?
+        [2-7-1]
+Where can I get shareware RotT?
+    The shareware episode of RotT is available at:
+FTP    ftp.uml.edu   /msdos/games/Apogee
+WWW    http://www.swcbbs.com
+BBS    (508)365-2359   2400 baud
+       (508)368-7036   9600-14.4K baud
+       (508)365-4035   28.8K baud
+TELNET swcbbs.com
+Where can I get Registered RotT?
+1. A store
+2. Apogee  1-800-APOGEE1
+3. Online purchasing at Software Creations BBS
+4. Coming Soon - Online Purchasing at the Web BBS
+5. FAX the ORDER.FRM file to (214)278-4670
+6. Mail a check or money order to:
+Apogee Software
+P.O. Box 496389
+Garland, TX 75049
+Please include $5 Shipping and handling.
+    [2-8]
+Where can I find online information about RotT?
+A newsgroup exists:
+alt.games.apogee
+Or, there are 2 good WWW pages:
+    http://www.swcbbs.com/apogee/apogee.htm
+    This is Joe Siegler's Official Apogee Homepage
+
+    http://cyberspace.org/u/rhfactor/www/apogee.htm
+    This is RHFactor's<RHFactor@GlobalOne.net> WWW page.
+
+    Rise of the Triad's official WWW page can be gotten to directly at
+    http://www.swcbbs.com/apogee/rott.htm
+    [2-9]
+What is a DIP?
+A DIP is a Developer of Incredible Power.  This is what the Apogee
+design team calls themselves. Tom Hall sent out a memo, and at the
+end he said, "If we do this, we will be the Developers of Incredible
+Power."  It stuck. See Chapter 9 for more.
+(3) Game Stuff
+    [3-1]
+Enemies
+    The following is a list of all the enemies in the game plus a short
+description of each.  Since Apogee used digitized shots of all their employees
+in costume for the enemies, the names of who is what enemy(and who made the
+sound for it) are listed in parentheses after each enemy.  Unless otherwise
+specified, the voices are done by the same person.
+
+Low Guards(Actor:Steve Quarrella, Former Tech Support)
+----------
+There are lots of these.  They wear gray shirts and black slacks. They are
+armed with pistols.
+Note from Joe Siegler:
+"There's two ways to get a Lightning
+guard in the game.  You can either tell the game to put one there.  The other
+way is to put a low guard.  In order to further maximize the actor randomness,
+the game will look at the map grid before starting, and every time it sees that
+there is to be a low guard, it will randomly pick a low guard, or a lightning
+guard.
+
+In regards to random guards, there is such a guard as "random".  When
+constructing a ROTT map, this special guard will be different every time you
+go into the level.  What the game does is looks and sees which guards are
+actually placed in the level.  For example, if the entire map has Triad
+Enforcers, Low Guards, & High Guards, it will pick the random actor from these
+three.  Strike Team guards will not be picked randomly in this example, since
+they weren't placed in the level by the designer.
+
+I've never tried to see what happens if *ALL* the guards in a level are random
+guards.  I also do not think it will pick a BOSS as a random guard, if you put
+a random guard on a level with a BOSS."
+
+HP:
+Easy 30
+Medium 40
+Hard 50
+Crezzy 60
+
+High Guards(Actor:Steve Blackburn, Apogee's VP of Operations)
+-----------
+These guards wear olive green jackets, have black beards, and carry MP40's.
+Sometimes, when they die, you can take their MP40 machine guns(10 percent
+chance).
+HP:
+Easy 35
+Medium 50
+Hard 65
+Crezzy 80
+
+Lightning Guards(Actor:Kevin Green, Customer Supp. Manager;Voice:Kevin Green
+----------------  and William Scarboro)
+These guards also wear olive green jackets.  If they're right next to
+you, they'll steal your weapons.  Some of them also beg for mercy when
+they're about to die. Beware, some have bazookas!
+The ones that beg will just fall over and "die" if you don't kill them.
+However, they don't really die, because if you turn your back on them, they
+will get back up and start shooting again!
+
+HP:
+Easy 45
+Medium 50
+Hard 60
+Crezzy 75
+
+Triad Enforcers(Actor:George Broussard, Executive VP of Apogee)
+---------------
+These guards wear black and carry a chain gun.  They throw hand grenades
+at you("here,catch!").
+P.S. George Broussard is now the President of 3D Realms, which is a sister
+company of Apogee.  They are distributing a game called Terminal Velocity.
+You outta check that puppy out(ftp.uml.edu/msdos/Games/3DRealms).
+HP:
+Easy 425
+Medium 475
+Hard 525
+Crezzy 525
+
+Strike Team(Actor:Scott Miller, President of Apogee)
+--------------
+These guards wear white uniforms and will duck and roll 2 door lengths when
+shot at.
+Joe Siegler:
+"They'll dodge missiles, too.  They also try and dodge wanderwalls, but that
+doesn't usually work.  :)"
+
+HP:
+Easy 40
+Medium 50
+Hard 60
+Crezzy 70
+
+Overpatrols(Actor:Nolan Martin, Former Programmer)
+-----------
+They are dressed in black uniforms and shoot nets at you.  If you are trapped
+in an Overpatrol net, I hope you have the knife.
+HP:
+Easy 50
+Medium 55
+Hard 60
+Crezzy 70
+
+Death Monks(Actor:Lee Jackson, Musician;Voice:Tom Hall, Director)
+----------
+Death Monks are dressed in brown robes and waddle around.  If they are next
+to you they will drain your life.
+HP:
+Easy 200
+Medium 250
+Hard 275
+Crezzy 300
+
+DeathFire Monks(Actor:Allen H. Blum III, Programmer;Voice:Tom Hall)
+---------------
+DeathFire monks are the same as Death Monks except they shoot fireballs.
+HP:
+Easy 200
+Medium 250
+Hard 300
+Crezzy 350
+
+Robot Guard(based on a model by Gregor Punchatz;Voice:Sound CD #4005)
+-----------
+Small metal robots that shoot explosive disks.
+HP:
+Easy 100
+Medium 125
+Hard 150
+Crezzy 175
+
+Ballistikraft(Gregor Punchatz model;Voice: Sound CD #4005)
+-------------
+Large metal robots.  Slow-moving; fast firing.  Run.  Run fast, run hard.
+Look at HP to see why.
+HP:
+Easy/Medium/Hard/Crezzy INFINITE
+
+BOSSES
+Bosses can't be harmed by bullet weapons.
+General Darian(Actor:Steve Maines, Former Art Director;Voice:Mark Dochtermann,
+--------------  Programmer)
+Tall boss with a rocket launcher.
+Quotes:
+"They'll bury you in a lunchbox!"
+"You're toast!"
+HP:
+Easy 1500
+Medium 2300
+Hard 2400
+Crezzy 2800
+
+Sebastian "Doyle" Krist(Actor:Joe Siegler, Online Support Manager)
+-----------------------
+The boss who sits in a chair and has a monocle.  His chair is a duded-up
+office chair, and, though you can't see it, the controls on the arms
+are office staplers.  Joe says he almost stapled his hands during filming.
+The Chair used is Stephen Blackburn's Comfy Office Chair, with Marianna
+Vayntrub's paper and glue.
+Quotes:
+"Hey, where ya' going?"
+"Come back here!"
+From Joe Siegler:
+"I also say "Bleh", and "It wasn't supposed to turn out like this".  I also
+recorded two other bits that weren't used in the game, but do appear in the
+WAV file directory on the CD.  They are "Dammit", and "I won't fail like
+Darian did"."
+
+HP:
+Easy 2500
+Medium 3400
+Hard 3600
+Crezzy 3800
+
+NME(based on a model by Gregor Punchatz;Voice:Sound CD #4005)
+---
+The Nasty Metallic Enforcer.  Hard to kill.
+Very hard to kill.  If you can say you beat the NME without
+cheating, you've made quite and accomplishment.  The NME, is, in fact,
+the hardest boss in the game.
+P.S. - It's very hard to notice, but on the back of the NME's head is
+a Texas license plate that says "SPRAY".  This was the design team's nickname
+for the NME.
+Quotes:
+"Whirr-click!"
+"Buzzzz"
+HP:
+Easy 3000
+Medium 4500
+Hard 5000
+Crezzy 5900
+
+El Oscuro, all forms(Actor:Tom Hall, Creative Director)
+--------------------
+The Main Boss.
+From Joe Siegler:
+"The things that El Oscuro says are true Latin.  I forget what they mean
+offhand, but it's stuff like "I'll kill you".  Except for one.  One of the
+things that Oscuro says means "Eat Your Veggies".  That's a reference to the
+old Commander Keen series where "Eat Your Veggies" is the name of the song
+that appears in the Dopefish level.  :)   (The Veggies Latin one starts with
+the word "Comedi".)"
+
+HP(El Oscuro):
+Easy 3000
+Medium 3600
+Hard 2500
+Crezzy 4800
+HP(Snake Oscuro;per head):
+Easy/Medium/Hard/Crezzy 1000
+
+PLAYERS
+Taradino Cassatt(Voice:Joe Selinske)
+Thi Barrett(Voice:Susan Singer)
+Doug Wendt(Voice:Lee Jackson)
+Lorelei Ni(Voice:Pau Suet Ying *)
+Ian Paul Freeley(Voice:Jim Dose')
+
+* Pau Suet Ying is a waitress at a Chinese restaurant
+about half a mile from Apogee's HQ.  :) Ahhh, Chinese food.  The fodder of
+programmers everywhere.  Chinese food and Jolt Cola, that's the stuff.
+
+For Dog Mode, the Dog's snout and paw are:
+Loki(George Broussard's dog), the Carpet Wetting Maestro
+Joe Siegler says:
+   "The dog's snout and paw are actually Loki.  It was not easy getting the
+    dog to behave so it could be videotaped for scanning.  :)"
+For God Mode, the Hand of God is:
+Tim Neveu's Hand
+        [3-1-1]
+Enemies Not Used
+    The following alternate enemies were digitized but not used at the end.
+Joe Siegler says:
+   "The female guards were removed from the game at the end of development
+    after the manual was already printed.  The reason for this is that the
+    plan was to have the game randomly pick between a male/female guard of
+    the same type.  So, the game would have to keep the sounds/graphics
+    for both the male and female guards in memory at once, and because of
+    this, it really increased the amount of memory needed to play the
+    game.  It was impossible to do this and make it work nicely in 8 megs,
+    or AT ALL in 4 megs, so the idea was dropped.  However, the manuals
+    were already printed, so there wasn't anything that could be done about
+    it.  If you play ROTT all the way through, and finish it (the
+    registered version) the right way, you'll see a (VERY LONG) list of
+    credits.  At the end is a list of "Actors who were cut from the game".
+    Since they were already digitized, we made use of a single frame of
+    them, and stuck 'em in.  There were alternates to the low guard, the
+    Overpatrol, and the Strike guards.  The rest didn't have female
+    counterparts."
+
+The following alternate enemies were not used:
+
+Alternate Low Guard(Actor:Marianna Vayntrub, Mark Dochtermann's Fiancee;
+Voice:Colleen Compton)
+Alternate High Guard(Actor:Steve Hornback, Main RotT Artist)
+Alternate Overpatrol(Actor:Pat Miller, Scott Miller's Mom)
+Alternate Strike Team(Actor:Ann Grauherholz, Tom Hall's Friend)
+Alternate Lightning Guard(Actor:William Scarboro, RotT programmer)
+Alternate DeathFire Monk(Actor:Mark Dochtermann, RotT programmer;
+Voice:Tom Hall)
+
+    [3-2]
+Items
+    The following items are listed from the foreground tile
+summary section of RottED. Items followed by a plus(+) in
+parentheses are registered version only.  Items followed by a (SS) are
+Super Secret, rarely if ever seen in the game!
+
+INTERACTIVE/DECORATION
+----------------------
+Ceiling Lights, 4 versions
+Dead Guy, 3 versions
+Metal Light Pole
+Empty Healing Basin
+Statue with knife on it(+) - Touching this statue will give you the
+knife
+Crate of TNT
+Bonus Barrel - Barrel with white label on it
+Fire Urn
+Jump Pad - constant, periodic, or one-time only jumping
+Floor garbage, 4 varieties
+Floor grating
+Metal scraps
+Empty key pedestal
+Table
+Stool
+Brown pillar
+Gray pillar
+Dark pillar
+Oscuro Larvae(+) - In last level only
+Collector Item- Triad that spawns in Collector and Scavenger COMM-Bat
+Tree in pot
+Plant in pot
+Urn
+Statue w/o knife(+)
+Monk bed
+Barrel
+Bulletproof vest - blue; no bullet damage
+Asbestos vest - gray; no fire damage
+Gas mask
+GADs - Gravitational Anomaly Disks.  The gray disks that float at a certain
+height.  EGADs(Elevator GADs) rise and sink.  TGADs(Train GADs) move along
+a path.
+
+KEYS
+----
+Gold Key Pedestal - Contains Gold Key
+Silver Key Pedestal- Contains Silver Key
+Iron Key Pedestal- Contains Iron Key
+Oscuro Key Pedestal- Contains Oscuro(red) key
+
+HEALTH/LIVES
+-------------
+Monk Meal(called Guard Gruel in the manual) - oatmeal-like substance in Green
+bowl; replenishes 10 hit points
+Priest porridge cold - red substance in brown bowl; replenishes 10 hit points
+Priest porridge hot- red substance that glows in brown bowl; replenishes 50
+hit points.  Priest porridge hot can be make from Priest Porridge cold
+by detonating a missile near it.
+Small monk crystal - thin glowing crystal; worth 10 hit points
+Large Monk crystal - large glowing crystal; worth 50 hit points
+1Up - Looks like a powerup containing a glowing blue ankh, gives extra life
+3Up - Same as 1Up except ankh glows green, gives 3 extra lives!
+Healing Basin - Large, ornate basin containing water; worth random number of
+hit points, from 25 to 100
+Life Item, 1 point - Gray circle with ankh inside it, worth 1 life
+point(collecting 100 life points gives you an extra life)
+Life Item, 5 points - Gold circle with ankh inside it
+Life Item, 10 points - Gold Studded circle with ankh
+Life Item, 25 points - Two revolving circles surrounding red ankh
+
+SUPER SECRET
+------------
+Developer Ball(D, I, and P)(SS)(+) - The Developer balls don't really
+"do" anything.  They are super secret items, and the three exist
+on three different levels in the game.  If you collect them all, you get
+a 100,000 point bonus at the end of the game.  The DIPs put them in because...
+well, they're just cool, let's put it that way.
+Scott's Mystical Head(SS)(+) - a digitized frame of Scott
+Miller(the President of Apogee)'s head.  This super-secret item gives
+you 2,764,331 points. A sound clip also says, "Scott's Mystical Head!"  This
+item is found on the level called "the room".  1-800-276-4331 is Apogee's
+order number.  Hint, hint.
+Joe Siegler says:
+    "It's a digitized shot of Scott Miller, the President of Apogee.  The
+    idea was to find something really super secret, and the frame used was
+    one of him in shock.
+    Remember "The Wizard of Oz", and the "Pay no attention to the Man
+    behind the curtain" bit?  Well, the joke was based off of that.  The
+    real reason isn't all that interesting I suppose, it's just funny to
+    us.  :)"
+
+
+HAZARDS
+-------
+Firechutes, 4 directions - shoots fireballs
+Spinblade Stabber, from Ceiling - a rotating, bladed pole comes
+out from the ceiling
+Spinblade Stabber, from Floor- same as ceiling, but comes from floor
+Spinblade Stabber, attached to Ceiling - a rotating, bladed pole is attached
+to the ceiling and remains exposed
+Spinblade Stabber, attached to Floor - same as ceiling but attached to floor
+Raising gun emplacement, 4 directions(+) - raises when you are near and
+shoots in one direction
+Four-way gun emplacement(+) - Shoots directly at you when near
+Rolling Boulder, 4 directions(+) - drops and rolls in 4 directions
+Heat pit
+Pit trap(+) - normal looking floor that breaks under you and causes damage
+Path-Following Spinblade - This is a SpinBlade, or series of them, that
+follow a path along the floor or ceiling
+Firejet - A plume of flame shoots from the floor or ceiling
+Stabbers - A revolving series of spears comes out from the floor or
+ceiling.  Not fun.
+Crushing Cylinders(+) - Floor or Ceiling. If the ceiling is high enough, the
+cylinders that come from the floor will lift you up.
+
+PUSHWALLS/TRIGGERS
+------------------
+Touchplates - Trigger remote events; have four levels of visibility
+Turbo WanderWall- A wall that moves around a room and is lethal
+Pushpillar - will move when activated, 3 colors(brown, gray, or dark)
+
+POWERUPS/POWERDOWNS
+-------------------
+God Mode Powerup - powerup with a rotating hand in it; makes you ten feet
+tall and able to shoot Godfire(which seeks out and utterly discorporates
+people); YOU ARE INVINCIBLE.
+Dog Mode Powerup(+) - powerup with a rotating bone it;makes you 3 feet tall
+and gives you the BarkBlast; YOU ARE INVINCIBLE.
+Mercury Mode powerup - powerup with a winged shoe in it;makes you fast and
+allows you to fly with PGUP and PGDN
+Random Powerup(+) - Random powerup or powerdown
+Shrooms Mode Powerdown - powerup with a mushroom in it; colors explode
+everywhere and your vision wanders sickeningly
+Elasto Powerdown - powerdown with a ball in it;reduces your friction factor
+to nothing, and you bounce off walls
+
+    [3-3]
+Bosses
+    Help me with a boss, you say.  Right here, I say!
+        [3-3-1]
+How do I defeat General Darian?
+    Darian does not have any special weaknesses, but a trick to know
+when fighting Darian is how to avoid the SpinBlade Stabbers he uses.
+If you stand underneath a light, Darian can't use his Stabbers against
+you.  If you do it right, you can blast him through an open door and
+then scoot out of the way.
+        [3-3-2]
+How do I defeat Sebastian "Doyle" Krist?
+    There are no tricks to defeat Krist, but
+Joe Siegler says:
+    "... Krist, if he escapes
+    the room, and goes up on a stairwell of GAD's will stay up there, and
+    won't come back down.  That's a bug.  It was fixed in v1.3 registered,
+    but is cute to see if you don't have v1.3 registered."
+        [3-3-3]
+How do I defeat the NME?
+    Joe Siegler says:
+    "NME can't fire at you if you land on him, but if you land
+    on top of NME, you're pretty much SOL anyway, since as soon as you
+    jump off, you're hosed.
+
+    Oh yeah, don't lead NME out of the room he's in.  We never intended
+    for him to leave the room he's in, and if you do, and get him down
+    near the SpinBlades, the game will crash."
+So there are no tricks to defeat the NME.
+For those of you who were expecting a little more and are disappointed,
+this is the exact answer that I got straight from the horse's
+mouth(Joe Siegler):
+   "I have a standard answer for all other bosses
+    besides El Oscuro:
+    As for the boss creature, there is no trick that I can tell you like
+    'move the left arrow five times, hit the up arrow, dance a jig, fire 7
+    times'.  It's really just a timing thing.  You need to watch the guy,
+    and see what his pattern is.  All Apogee boss creatures have patterns,
+    and if you watch them, you'll see where you can safely go and where
+    you cannot go."
+    [3-3-4]
+How do I defeat El Oscuro?
+Joe Siegler:
+    "The trick to El Oscuro in the "Lair of El Oscuro" level is to not fire
+    at him at all.  You need to just avoid him for awhile, and he'll
+    eventually expend his own energy and die.  Firing at him only makes
+    him stronger.
+    Bear in mind that this is not the last level, there are two more
+    levels with some variant of El Oscuro."
+        [3-3-5]
+How do I defeat Snake Oscuro?
+    Joe Siegler says:
+    "Here's how to really do it.
+    (This solution implies that you save your game several times, since
+    you'll probably die a few times doing all this if you've never done
+    it before.)
+
+    To defeat El Oscuro properly in the "In the Dark Nest" level, you need
+    to first get rid of the two rooms of larvae that are at the start of
+    the level.  Do NOT go up the stairs right away.  Back up, and get one
+    of the heat vests, and look around on the left hand wall.  There's a
+    bunch of larvae in there.  Destroy them, and while you're in there, go
+    over towards the Oscuro wall, and you'll hit a touchplate.  Then, go
+    back to the stairwell, but do not go up, go into the similar room of
+    larvae on the other side, and you'll note that a wall has moved back,
+    and you'll be able to get the Oscuro key behind a wall that was in the
+    way (it would have been in the way if you went to this room first).
+    Get rid of all the larvae in this room too, and THEN you can go up the
+    stairwell (you might as well grab a fully charged weapon and another
+    heat vest before you go up there).
+
+    Go to the top of the stairs, but do not go over yet.  Look down, and
+    you'll see two "rooms" in front of you.  The rightmost one is the one
+    you want to go at first.  If you just walk off gently, you'll fall on
+    a mercury mode that is suspended in the air.  If you run off, you'll
+    miss it.  There's a touchplate around the outside of the aforementioned
+    "room" that will allow access inside.  (This goes for all 4 "rooms" in
+    the main battle chamber, but this one is the one we want to concern
+    ourselves with now).  Anyway, inside there is a touchplate.  Hit that
+    touchplate, and a firewall at the far end of the room, a firewall will
+    move out of the way revealing a doorway which is opened with the
+    Oscuro key you got before you came up the stairs.  To get over the
+    wall, you need to do one of these things.
+
+    Try not to let Snake Oscuro get trapped in here with you, or it will
+    make things very difficult.
+
+    1) Fly over it (if you got the mercury mode when falling off the steps)
+    2) Grab the firevest, and then the firebomb.  Turn around, and point
+        the firebomb at the floor.  You'll fly up in the air, and over the
+        wall.
+
+    Once over, there's a pushwall to be pushed.  Follow the now opened up
+    pathway, and you'll be led to the third room of larvae.  Look out in
+    this room, as there are a lot of Deathfire Monks in here, too.  Once
+    you dispose of all the larvae, SAVE YOUR GAME!  :)  You can then go
+    back out the way you came in, and defeat the Oscuro Snake, and on to
+    final victory.
+    Note: The Oscuro snake can only be hurt when he's over a firepit."
+    [3-4]
+Players
+    There are five available characters in the registered version.  They are
+listed below.  Only the first is available in the shareware episode.
+
+1) Taradino Cassatt
+2) Thi Barrett
+3) Doug Wendt
+4) Lorelei Ni
+5) Ian Paul Freeley(Get it?  I.P. Freeley.)
+        [3-4-1]
+What are the strengths/weaknesses of each player?
+Taradino Cassatt:
+    Cassatt is Mr.Average.  That's why he's in the shareware episode.  He
+has average life, average speed, and average weapons accuracy.  If nothing
+special is called for, Cassatt's a good choice.
+Thi Barrett:
+    She's pretty average, too.  She's a female average character, in case
+you don't like Cassatt or you prefer a female character.  She's a little
+faster than Cassatt.  My personal favorite.
+Doug Wendt:
+    This guy is a tank.  He's pretty slow, and only has average weapons
+accuracy, but, man, he can take tons of damage.  Lots o' hit points here.
+Lorelei Ni:
+    Not many hit points.  Fast.  Extremely good weapons accuracy.  Not
+for beginners.
+Ian Paul Freeley:
+    Freeley is a player who is provided for a happy medium between players
+like Cassatt or Barrett and Wendt.  He's got more hit points than Cassatt
+or Barrett, but he's slower.  On the other hand, he doesn't have as many
+hit points as Wendt, but he's faster.
+    [3-5]
+Weapons.
+Hee hee hee.
+Keep in mind that firing rate is only an approximation by me.  Initial Ammo
+is how much ammo you have when you pick up the weapon.  Once again, a weapon
+followed by a (+) is in the registered version only.  The things one
+can do with a stopwatch and a lot of time on one's hands.
+BULLET WEAPONS:
+Pistol - Standard start off weapon.  Better upgrade quick unless all you
+    want to do is see yourself die, which is pretty cool in itself.
+    Initial Ammo : Infinite
+    Firing Rate : 2.5 shots/sec
+    Damage : 13 HP
+Dual Pistols - Better than the regular pistol but still not good enough.
+    Initial Ammo : Infinite
+    Firing Rate : 3.25 shots/sec
+    Damage : 26 HP
+MP40 - Good weapon.  You should use this on lower enemies and save your
+    ammo.  For instance, if you get a heat seeker and you're in a room of low
+    guards, use your MP40.  Save the heat seeker.
+    Initial Ammo : Infinite(Thank you, DIPs!!!!!)
+    Firing Rate : 4.25 shots/sec
+    Damage : 10/bullet
+MISSILE WEAPONS:
+All the missle weapons have a firing rate of
+2.2 missles/sec
+except the Split Missle.
+
+Bazooka - Pretty straight forward.  Point, shoot, boom.  Best weapon, I think,
+    to get ludicrous gibs.
+    Initial Ammo: 10 missles(NOTE:
+    if you get this weapon by killing a lightning guard, it will only have
+    3 shots left).
+    Damage : 160-222
+Heat Seeker - This works better the farther away you are from your enemy.  If
+    you are too close, it's likely that the missle will not be able to turn in
+    time and will miss.  This is a good weapon, but the missles aren't very
+    powerful.
+    Initial Ammo : 7 missles
+    Damage : 100-162
+Drunk Missle - Without a doubt the most fun weapon.  Not the most powerful,
+    but, man, it's really cool.  Even the sound is cool. Upon firing, a
+    cluster of 5 missles shoots out which then heat seek.  The results are
+    _messy_ :).
+    An individual missle is pretty weak.
+    Here's a neat little story about Drunk Missles from
+    Joe Rovang(jrovang@netcom.com):
+       "I love trying to outrun drunk missiles in Comm-bat play.  Once I
+        was killed three separate times in a row by the same single shot of
+        drunk missiles.
+        Another time I was trying to outrun drunk missiles, I managed to
+        dodge them and get them to chase me as I ran toward my opponent (the
+        one who shot them).  I slipped around him and into a corridor just in
+        time to have him get splattered by his own drunks, while I got away
+        without a scratch."
+    Initial Ammo : 7 clusters of 5 missles each
+    Damage : 25-56/missle
+Firebomb - Dangerous to you and to enemies.  This is a long range weapon
+    only.  You should be very careful.  Some of us have been fragged more
+    than once by being too trigger happy and using it in close quarters.  >:)
+    Upon firing, little mushroom clouds spread out in a "X" formation.  Good
+    for checking behind corners.  Another good use of the firebomb(when you
+    have an asbestos suit) is if you shoot it down(so the missle detonates
+    right next to you) it will fling you up and away.  A workable alternative
+    to not having Mercury Mode.
+    Initial Ammo : 5 missles
+    Damage : 150-242
+Flamewall - One of the best weapons to use.  Whenever you use it you
+    should try not to hit people with the missle but have it hit the ground in
+    front of them.  This is because the missle isn't powerful enough to kill
+    with a direct hit, but on hitting the ground, a wall of fire spreads out
+    and goes away from you. All regular enemies are instantly fragged by this
+    fire.  The flamewall is great for Multiple Frags.  NOTE: If you have a
+    fast player, you can actually run into your own wall of fire.  It's
+    not pretty, especially in COMM-BAT.  Doh!
+    Initial Ammo : 5
+    Damage : death or destroys Asbestos vest
+Split Missle(+) - This weapon is pretty cool.  It works like this:
+    You hold down the fire button and a missle shoots out.  When you release
+    the fire button, the missle splits into 2 missles which go out at 45
+    degree angles and heat seek.  This is good because the individual
+    warheads are about average strength, and while's they're combined
+    they're a bit stronger than a bazooka shot.  The missles release like
+    this:
+                                 (You)
+                                   |(Missle)
+                                   |(You release fire button here)
+                                 /   \  (Missle)
+                      (Missle) /       \
+    Initial Ammo :  7 missle clusters of 2 each
+    Firing Rate : N/A(will not fire constantly if you hold down the fire
+    button)
+    Damage : 100-162/missle
+MAGICAL WEAPONS:
+Excalibat(+) - A glowing bat that you can hit enemies with(which
+    isn't very powerful but it really cool to see).  If you hold down the
+    fire button, after a period of time(See firing rate) a 180 degree wall
+    of glowing, explosive baseballs fire out, and those baseballs are really
+    powerful.  It's called an Excaliblast.
+    You can really have fun with this one.
+    Initial Ammo : Infinite swings, 10 Excaliblasts
+    Firing Rate : 1 Excaliblast/3.5 seconds
+    Damage(Swing) : 10-50
+    Damage(Excaliblast) : 160-122/ball  <---  Yep.  Per ball.
+Dark Staff(+) - Super powerful and really cool looking.  The fire from
+    this weapon in a black sphere rippling with energy.  One shot will
+    destroy all regular enemies(not bosses).  NOTE:  The Dark Staff's
+    sphere will travel through a door or an enemy if you are right next
+    to them.  So, shoot through a Door.  It's cool.  Come on, live a little.
+    Initial Ammo : 7 Kinetic Energy Spheres
+    Firing Rate : .6 shots/sec(1 shot/1.704 sec)
+    Damage : 280-432
+POWERUP WEAPONS:
+God Mode - You're ten feet tall.  Your weapon is Godfire.  YOU ARE INVINCIBLE.
+    You laugh at all enemies.  Godfire will seek out and discorporate all
+    enemies in the area near you, and a few shots will destroy a boss.  If
+    you're playing COMM-BAT, the person who's in God Mode flickers with
+    many different colors.  God Mode lasts 30 seconds.  Fire away.
+    Initial Ammo : Infinite Godfire
+    Firing Rate : 1.2 shots/sec
+    Damage : 500/Godfire
+Dog Mode(+) - You're 3 feet tall.  YOU ARE INVINCIBLE.
+    You can rip people to shreds or explode
+    them with the BarkBlast(which is unleashed by holding down the fire
+    button.  If you're playing COMM-BAT, the person in Dog Mode looks like
+    a miniature player with a dog's head.  The dog's head has glowing eyes.
+    Dog Mode lasts 30 seconds.
+    Initial Ammo : Infinite biting and BarkBlast.
+    Firing Rate : 1 Barkblast/3.5 seconds
+    Damage(Bite) : 30
+    Damage(BarkBlast) : 100
+
+    [3-6]
+Shareware End-Credit Silliness.
+    If you've played and beaten the Shareware version, and waited for
+a while at the end screen, you'd notice that the last message on the screen
+would occasionally change.  These messages are silly little things put
+in by the programmers.  They change as the version number changes(they
+get progressively sillier).  Here's a list of them, courtesy of Joe
+Siegler:
+Version 1.0:
+    1) You've won the battle, Cassatt.  But when the Oscuridos return,
+    will you be ready as they wage their Dark War?
+    2) Armed with only a pistol and 30 bucks, you must stop the minions
+    of El Oscuro before they kill millions of innocent people.
+    3) Take a vacation.  You've earned it.  Maybe on San Nicolas Island...
+    4) Thanks for playing.  If you liked "The HUNT Begins", check ordering
+    info for information about continuing your adventure.
+    5)
+    6)
+    7)
+    8) Look, this is pointless.  You are done.  Push off.
+    9)
+    10) Wow, you must like this fine background screen.
+    11)
+    12)
+    13) Sigh.
+    14) All right, um . . . you found the secret message! Congratulations!
+    15) Didn't work, huh?  Okay, how about this . . .
+    16) THE END
+    17) Dang. Thought I had you there.
+    18) Stop watching.  Pretty please?
+    19) With sugar on top?
+    20) Wait . . . I could just go to the demo loop!  See ya.
+    After #20, one of the patrol robots comes on the right side of the screen
+    and the text "Am I late?" appears over his head.
+Version 1.1
+    #1-#12 Same as Version 1.0
+    13) Fnord.
+    #14-#18 Same as Version 1.0
+    19) Bet you were expecting some new messages in Version 1.1.
+    20) Well, too bad.  This is the only one.
+    21) OK, I lied.  There are 2 different messages.  So sue me.
+    22) Actually three is a nice number.  That's it.  Hope you enjoyed it.
+        P.S. did you find the new cheat codes?
+    After #22, the patrol robot comes out.
+Version 1.2
+    #1-#12 Same as Version 1.1
+    13) "Bob"
+    #14-#18 Same as Version 1.1
+    19) You know that if you registered, there would be a lot more cool stuff
+    happening right now.
+    20) Episode IV : A New Hope  *(FAQ Author's Note: For those of you living
+        in the Stone Age, this is from the first Star Wars movie)*
+    21) Just think of all the new secret messages you could find hidden in
+    the registered version!
+    22) Someone right now is probably enjoying the really exciting ending of
+    the registered version.
+    23) ROTT was filmed before a live audience.
+    24) No animals were harmed during the creation of this video game,
+    although one dog did get its butt spanked when it peed on the carpet.
+After #24, the patrol robot comes out.
+There were no changes in V1.3 over V1.2.
+    [3-7]
+Bonuses in the game and after...
+    If you've played RotT, you've probably noticed that you get some
+bonuses after some levels.  If you want to know what they mean, here they
+are(note, they are also included in the ROTTHELP.EXE file supplied with
+version 1.3).
+    BONUS                  WHAT IT MEANS
+    Supercharge Bonus      Got all powerups on level
+    Adrenaline Bonus       100% Kills
+    Bleeder Bonus          used all health items on level
+    Skin of Teeth          ended level with 1 dot of health
+    Republican Bonus 1     Got all missile weapons on level
+    Republican Bonus 2     Destroyed all plants on level
+    Democrat Bonus 1       Never used a handgun on level
+    Democrat Bonus 2       All shrooms & healing basins used on level
+    Ground Zero Bonus      Hit with your own missile (hint: FW)
+    Bull in China Shop     Destroyed all life items on level
+    Curiosity Bonus        Every switch, pushwall, pillar, sound area
+                           pushed, messed with, or whatever
+    Bonus Bonus            Got all bonuses
+
+    It is REALLY hard to get the Bonus Bonus.
+
+    There are more bonuses at the end of the whole game in Dark War.  They are
+    pretty tough to get, too.
+
+  Genocide Bonus         Kill every one of the same type of actor in the game.
+                       This can be gotten multiple times depending on how many
+                       different types of actors you can wipe out.
+    DIP Bonus              Collect all three developer balls.
+(4)
+Level Descriptions
+From Joe Siegler:
+Here is a listing of all the levels for Rise of the Triad, and who
+designed them.  The vast bulk of levels were done by Tom Hall, so to
+avoid typing his name a zillion times, assume it was done by Tom Hall
+unless you see a name after the level.
+
+Also, the individual registered episodes have their own names, but this
+information was never really publicized much.  Their names are also
+listed here.
+
+Rise of the Triad: The HUNT Begins (Shareware)
+----------------------------------------------
+1-1  The HUNT Begins
+1-2  Foggy Mountain                          Shareware Warp Only Levels
+1-3  The Fourth Door                         --------------------------
+1-4  Dark Tunnels                            2-1  Too Tall
+1-5  Metal Threat                            2-2  Play Room
+1-6  Ride 'em Cowboy (Joe Siegler)
+1-7  Boom Boom Boom
+1-8  Wall to Wall (Joe Siegler)
+
+Rise of the Triad: Dark War (Registered)
+----------------------------------------
+Episode 1: Approach                        Episode 2:Monastery
+===================                        ===================
+1-1 The Thick of It                        2-1 Into the Castle
+1-2 Winding Way                            2-2 Great Halls of Fire (Marianna)
+1-3 Burned and Amazed                      2-3 The Room
+1-4 Too Much Room                          2-4 Spiraling In (Marianna)
+1-5 Two Key Return                         2-5 Rocky Plateau
+1-6 Spring Surprise                        2-6 Four Way Chamber
+1-7 General Darian                         2-7 Sebastian Krist
+1-8 Turn of the Screw (Marianna Vayntrub)  2-8 Elevator Trouble
+
+Episode 3:Caves Below                   Episode 4:The Slow and the Dead
+=====================                   ===============================
+3-1 Robotricks                           4-1 "Monky" Business
+3-2 Down & Over (Marianna Vayntrub)      4-2 Fire and Brimstone
+3-3 Dead in Five Seconds                 4-3 Crushing Defeat
+3-4 Clear and Present Dangers            4-4 Diamonds & Rust
+3-5 The Angry Quilt                      4-5 Backfire
+3-6 Movin' Walls                         4-6 Circles of Fire
+3-7 Know Thine NME                       4-7 Lair of El Oscuro
+3-8 Eight Ways to Hell (Joe Siegler)     4-8 Switched Around (Joe Selinske)
+                                         4-9 Canyon Chase
+Registered Warp Only Levels             4-10 In the Dark Nest
+---------------------------
+5-1 Dead in Two Seconds
+5-2 The Vomitorium
+5-3 This Causes an Error! (Joe Siegler)(This level is a joke level)
+
+Rise of the Triad COMM-BAT Levels
+---------------------------------
+Shareware Comm-Bat                   Registered Comm-Bat (Continued)
+==================                   ===============================
+The Corpseyard (William Scarboro)    Batter Up!
+Falling for It                       Attonement
+Fun House                            Memorize This
+The Labryinth                        Swimmin' Pool
+Dark Warrens                         The Sanctum of Rocking (William)
+Hill and Hill Again                  Think Up!
+Iron Tower                           Ziggurattack
+The Great Divide                     Free Flight
+                                     Cross Purposes (Joe Siegler)
+Registered Comm-Bat                  Joustin' Time (Mark Dochtermann)
+===================                  Captured
+One Stop Gun Shop                    Yellow Brick Road
+The Well                             Crystal Fields
+Way Too Tiny
+Sign Language                        Site License Comm-Bat
+Land Bridge                          ---------------------
+Checkers                             King of the Hill (Joe Selinske)
+Tree House                           The Castle
+Mazewar '94                          It's the Pits (Joe Selinske & Tom Hall)
+Impossible Land                      Popcore (Joe Selinske with Tom Mods)
+Picture This                         Round 'n' Round
+Mark's Madness (Mark Dochtermann)    Hey! More Barrels! (Joe Selinske & Tom)
+Bazooka Joke                         Too Tight
+Above All This                       Race Track (Mark Dochtermann)
+Four Square                          Cave In (Joe Selinske with Tom Mods)
+Giza                                 Glen Park
+Ramp                                 Urge to Kill (Jim Dos‚)
+Into the Fray                        Death Tree
+Lotta Lava                           Oh Yeah! (Joe Selinske)
+The Machine                          Staff Meeting
+    [4-1]
+Hints
+If a level has a hint that I can find, here it is.
+These hints come from the RotT Players Guide(See Ch.11), and I
+can't very well copy that entire book into here, so if a hint seems
+too cryptic, tough.  Use the map cheat or something else.
+E1A1  Get the four one-ups on this level.  The first is easy:
+Wait 2 minutes and shoot some guys while the elevator comes.  The
+second is hard : run like the wind to outrun the closing wall.
+The third is easy : Use a jump pad to land on a pillar and
+push the wall back.  The fourth is hard : Avoid the fireballs.
+E1A2  Getting the two 1 ups while in Dog Mode is the big thing here.
+E1A3  The way to the secret level is fairly easy.  Leap to get
+the Mercury Mode power up in the maze, then fly to the secret room,
+shoot, push the pushwall, and fly to the exit.  Don't forget the 2
+one-ups.
+E1A4  Use the God and 2 Dog power-ups.
+E1A5  You can get all the ankh coins in the room with the cage.
+It takes practice.  Try all the jump pads in the room.  The optional
+area is harder; in fact, these are the toughest jumps in the whole game.  The
+next-to-last jump is nasty.
+E1A6 The elevator area is the hardest.  Use the jump pads to skip
+part of the puzzle.
+E1A8 Don't miss the 2 power-ups, especially the one the touchplate
+maze.
+E2A1 The Excalibat is hidden by a bunch of pushwalls just off the
+secret bird-shaped room.
+E2A2 Get the gas mask hidden in the hallway before entering the gas room.
+Don't miss the one-up in the touchplate tunnel.
+E2A3 This map has Scott's Mystical Head.  Get the Mercury power-up, destroy
+the gun emplacements, and meet Scott.
+E2A4 There are 2 one-ups in this level, but I hope you like pushwalls.
+E2A5 There's 2 one-ups(one easy, one hard), and a secret exit to the secret
+level.
+E2A6 The first Developer Ball is in this level.
+E2A8 2 one-ups.
+E3A1  3 one-ups and a God powerup.
+E3A2  2 one-ups and Godmode.
+E3A3  The I Developer Ball is easy to get here, use the fireproof vest
+hidden behind a maze pushwall.
+E3A4  Go into each side room to move the pillars out of the way
+on the East side of the level.  If you have Shrooms mode, the pushable
+push pillar will glow; this is true of any pushpillar maze.
+E3A5 Bring big weapons when you round the corner.
+E3A6 Traps guard the way to the secret level...
+E3A8 A power-up kind of level.
+E4A1 Get the Dog and God mode powerups for Monky Fun.
+E4A2 Four 1-ups and Dog Mode.
+E4A3 Don't panic at the start, just walk forward.
+E4A4 3 one-ups for the true explorer.
+E4A5 Getting out alive here is a trick.
+E4A6 Don't let the calm at the beginning of the level fool you; it's a
+trap.  The P Developer Ball is here.
+E4A8 10 one ups.
+E4A9 One up hidden near the end.
+(5)
+Cheating
+    [5-1]
+What are the cheat codes?
+    Type in each cheat code, letter by letter, to get the
+desired effect.  You can type in either the "code" or
+the "alternate".  Note that for the codes, the slash
+is a backslash, not a forward slash.  The codes are not
+case sensitive.  The "dipstick" code must be given before
+any others, to enable the other cheats.  Note that any
+cheats marked by an asterisk work only in the registered
+version of the game.  All other cheats work in both the
+shareware and registered versions.  Codes that give a message on the
+screen are followed by "confirmation message".
+
+         Code  Alternate       Description
+         ----  ---------       -----------
+         \ECC  DIPSTICK        Enable/disable cheat codes.
+                               Confirmation Message:
+                               "Cheat Codes Enabled!"
+  Transport:
+         \GTL  GOTO            Provides a menu to the accompaniment of the
+                               "Fish Polka" and allows you to choose a level.
+         \GOO  GOOBERS         Restart from first level.
+         \REL  REEN            Re-enter level.
+         \L8R  GOGATES         Exit to DOS.
+         \ECL  GOARCH          Exit current level.
+         \FUN  [none]          Pause and enter rotation mode (use mouse).
+                               Left and right buttons zoom in and out.
+         \EKG  [none]          Extreme Gib mode.
+                               Every kill you make will be the kinds that
+                               bring up the message "Ludicrous Gibs!". In
+                               other words, the kills you make will be
+                               EXTREMELY messy.
+                               Confirmation Message:
+                               "EKG Mode On!"
+         \LEE  MAESTRO         Game jukebox.  Choose a song!
+
+  Gameplay:
+         \WWW  CHOJIN          Woundless with weapons.  This is the
+                               "invulnerability" code.  With this code,
+                               you also have all the weapons, and you
+                               will never run out of ammo for anything.
+                               After a while, this just sucks the fun out
+                               of the game.
+                               Confirmation Message:
+                               "Woundless with Weapons On."
+         \GOD  TOOSAD          God mode.
+                               Confirmation Message:
+                               "God Mode!"
+      *  \DOG  WOOF            Dog mode.
+                               Confirmation Message:
+                               "Dog Mode!"
+         \MER  FLYBOY          Mercury mode.
+                               Confirmation Message:
+                               "Mercury Mode! Press PGUP and PGDN to fly."
+         \SHR  BADTRIP         Shrooms mode.
+                               Confirmation Message:
+                               "Shrooms Mode POWERDOWN!"
+         \ELA  BOING           Elasto mode.
+         \RFA  SPEED           Enable autorun(all movements will be running).
+         \PAN  PANIC           Reset to normal; full health; no modes, keys,
+                               or extra guns.
+                               Confirmation Message:
+                               "Back to normal.  Ahhh."
+         \OOF  WHACK           Hurt yourself.
+         \DIE  86ME            Kill yourself.
+                               Confirmation Message:
+                               A voice says "Youuuu suuucckkk."
+  Effects:
+         \DON  DIMON           Light diminishing on.
+         \DOF  DIMOFF          Light diminishing off.
+         \FON  LONDON          Fog on.
+         \FOF  NODNOL          Fog off.
+         \SON  SHINEON         Light sourcing on.
+         \SOF  SHINEOFF        Light sourcing off.
+         \CON  GOTA386         Turn off floor and ceiling textures.
+         \COF  GOTA486         Turn on floor and ceiling textures.
+
+  Equipment:
+         \BAR  SHOOTME         Bulletproof armor.
+         \FAR  BURNME          Asbestos armor.
+         \GAR  LUNGDUNG        Gas mask.
+         \GAI  SIXTOYS         Get items (keys, bulletproof armor, health).
+                               Confirmation Message:
+                               "Items Aplenty!  Bulletproof armor!"
+         \BUM  SLACKER         Get all keys required to finish the level.
+                               Confirmation Message:
+                               "Slacker Pack."
+         \OFP  HUNTPACK        Outfit player (bulletproof armor, keys,
+                               heatseeker, and, in the registered version,
+                               a split missile).
+                               Confirmation Message:
+                               "Outfit player!"
+         \GW2  JOHNWOO         Double pistols.
+         \GW3  PLUGEM          MP40 machine gun.
+         \GW4  VANILLA         Bazooka.
+         \GW5  HOTTIMES        Heakseeker.
+         \GW6  BOOZE           Drunk missile.
+         \GW7  FIREBOMB        Firebomb.
+         \GW8  BONES           Flamewall.
+         \GW9  SEEYA           Hand of god (permanent god mode).
+      *  \GWA  SPLIT           Split missile.
+      *  \GWB  KESOFDEATH      Kinetic energy sphere.
+      *  \GWC  HOMERUN         Excalibat.
+      *  \GWD  CUJO            Dog weapon (permanent dog mode).
+
+  Views:
+         \CAM  RIDE            Missile camera on/off.
+         \HUD  WHERE           HUD on/off (x,y,room coordinates).
+
+  Demos:
+               RECORD          Record a demo (does not work in v1.0).
+               STOP            Stop a demo (does not work in v1.0).
+               PLAY            Play a demo (does not work in v1.0).
+
++ Misc Command Line Parameter - In the registered version, "dopefish" will
+                                cause Scott's Mystical Head to appear on
+                                the main log on screen to the accompaniment
+                                of belches performed by Joe Siegler.  :)
+(6) Playing RotT
+Unless otherwise stated, this material comes almost verbatim from
+the ROTTHELP.EXE file for version 1.3.
+    [6-1]
+What do I need to run RotT?
+þ Rise of the Triad's minimum requirements are a 386DX/40 with 4 megs of total
+  memory.  However, Apogee strongly recommends a 486DX2/66 with 8 megs of
+  total memory, and a local bus video card.  A fast hard drive will also
+  help things a lot.  A sound card is also strongly recommended.
+  *FAQ AUTHOR'S NOTE: I run RotT on a 486 DX-33, at it runs fine.*
+        [6-1-1]
+How do I make more memory available for RotT?
+  The best way around this is to "boot clean."  This means to boot your
+  system without loading any unnecessary memory resident programs.  The
+  easiest way to do this is to create a bootable floppy disk according to
+  the instructions in your DOS manual (see the FORMAT /S command) and
+  create a file called CONFIG.SYS and a file called AUTOEXEC.BAT on that
+  disk.  Please refer to your DOS manual for instructions on creating these
+  files.
+
+  These files should contain the following lines:
+
+   CONFIG.SYS
+   ==========
+   FILES=30
+   BUFFERS=30
+   STACKS=9,256
+   <if your sound card requires a line in config.sys, put it here>
+   <if you use disk compression, make sure to load that driver>
+   <if you require a driver to access your hard drive, make sure to use it>
+
+   AUTOEXEC.BAT
+   ============
+   @echo off
+   <your path line>
+   <your prompt line>
+   MOUSE <if you play with a mouse>
+   SET BLASTER=<see section on SET BLASTER for more help on this line>
+
+  The <your path line> and <your prompt line> items in the sample
+  AUTOEXEC.BAT file refer to the lines that start with the words PATH and
+  PROMPT in the AUTOEXEC.BAT file that is on your C:  drive.  These lines
+  are optional, but including them will make navigating your hard drive a
+  little easier.
+
+  If you have DOS 5, you will need to create a boot disk and make
+  CONFIG.SYS and AUTOEXEC.BAT files, using the above examples.  If you have
+  DOS 6 or higher, you have two ways of booting clean without the need for
+  a boot disk.
+
+  For DOS 6 and higher, the fastest way is to reboot your computer and
+  watch for a message that says "Starting MS-DOS" (IBM versions will say
+  either "Starting PC DOS" or "Starting IBM DOS").  When you see this
+  message, press your F8 function key.  You will then be prompted to
+  confirm each line of your current CONFIG.SYS and AUTOEXEC.BAT files.
+  This will allow you to temporarily turn off the programs that you do not
+  need or that may be causing problems.  ONLY ANSWER "YES" TO THE LINES
+  SHOWN ABOVE AND THE "OK to process AUTOEXEC.BAT?"  QUESTION.  When
+  finished, you will be left at a plain C:\> prompt.
+
+  NOTE:  Pressing the Left Shift or F5 function key at the "Starting
+         MS-DOS" prompt will not work properly.  ROTT requires at least
+         30 available "file handles" to operate properly.  This is defined
+         by the FILES=30 statement in your CONFIG.SYS file.  If you bypass
+         your CONFIG.SYS file completely by pressing Left Shift or F5, you
+         are stuck with the DOS default of 8 file handles.  You will
+         experience errors if you attempt to run the game this way.
+
+  If you are more familiar with DOS, we strongly recommend that you set up
+  a multi-boot option.  These newer versions of DOS allow you to set up
+  multiple boot configuration sections in your CONFIG.SYS and AUTOEXEC.BAT
+  files, mostly eliminating the need for boot disks.  Again, please consult
+  your DOS manual for instructions on how to create a boot disk, or a
+  multi-boot configuration using the parameters stated above.
+
+  ROTT is a protected mode program, and it does not require the services of
+  such memory managers as QEMM, EMM386, etc.  Please read the section on
+  protected mode programs for more information.
+    [6-2]
+What are the command line options?
+  The command line parameters for ROTT are stackable, which means that you
+  can use more than one at a time, if you need to.  An example of a stacked
+  set of command line parameters would look like this...
+
+  ROTT NOSOUND CYBERMAN
+
+  Please note that while these are intended for use with the ROTT game, you
+  can use them on the setup program.  The setup program will pass any command
+  line parameters to the ROTT game that were given to it.
+
+  Here is a list of the command line parameters you can use with ROTT.
+  NOTE : These command line params are from v1.3 and some have no
+  effect on earlier versions.
+
+  ?                     ¯ Gives you a list of all the common command line
+                          parameters used by Rise of the Triad.
+
+  NOSOUND               ¯ This option turns off all sounds (both music and
+                          sound effects) for the game, and makes it silent.
+
+  QUIET                 ¯ Disables all displays of text (except error msgs)
+                          that would normally occur before the title screen.
+
+  NOJOYS                ¯ This turns off joystick detection.  Useful if you
+                          are getting false joystick detection.  Use this if
+                          the menus just start scrolling on their own, with
+                          no input from you.
+  NOMOUSE               ¯ This turns off mouse detection.  If your menus start
+                          scrolling on their own, and the NOJOYS parameter
+                          didn't fix it, try this instead.  If you still get
+                          self-scrolling menus, try using both NOJOYS and
+                          NOMOUSE together.
+
+  NOECHO                ¯ Disables reverb/echo sound.
+
+  DEMOEXIT              ¯ Forces the game to exit to DOS if the demo loop is
+                          interrupted (by a keypress).
+
+  TEDLEVEL              ¯ Used with Apogee's Internal ROTT Level Editor.  Has
+                          no useful function other than for Apogee's use.
+
+  SPACEBALL             ¯ This turns on detection for the Spaceball controller.
+
+  CYBERMAN              ¯ Turns on detection for the Cyberman controller.
+
+  ASSASSIN              ¯ Turns on detection for the Logitech Wingman Assassin.
+
+  ENABLEVR              ¯ Enables driver for virtual reality hardware.  Contact
+                          your VR hardware vendor for support.
+
+  TIMELIMIT             ¯ Allows you to play for a certain amount of time
+                          with unlimited lives.  Killing enemies and picking
+                          up life items adds time to the clock.  (This is for
+                          standalone play only.)  If you use this, you MUST
+                          also use MAXTIMELIMIT.
+
+  MAXTIMELIMIT          ¯ Sets the maximum time limit you can play, so you can
+                          only earn up to this many seconds of time.
+
+  WARP                  ¯ Warps to a specific level number from 1 to whatever.
+
+  DOPEFISH              ¯ See section 6-2-1.  :) :) :)
+
+  FILE                  ¯ This is the name of a user added wad file for ROTT.
+                          For example, if you wanted to use a custom wad file
+                          named FNORD.WAD, you'd need to type in this...
+                          ROTT FILE FNORD.WAD   You can add three such files
+                          using this method.
+
+  SOUNDSETUP            ¯ Makes ROTT go through setting up your sound card.
+
+  VER                   ¯ Shows the version of ROTT you are playing.
+
+  SLOWDEATH             ¯ When you die in ROTT, this will let you see your
+                          death in slow motion, as opposed to the normal speed
+                          it's shown at. "Wicked."
+
+  NOWAIT                ¯ This will bypass all opening cinematics and screens,
+                          and will place you at the Main Menu.
+
+  NOW                   ¯ This will bypass all menus and screens, automatically
+                          placing you into the game in Level 1 as the default
+                          default character and using the default difficulty.
+
+  PAUSE                 ¯ This will bring up a "Press any key to continue"
+                          prompt when you first run the game.  This is useful
+                          if you need to contact Apogee for help, and they need
+                          to ask you a few questions about ROTT and your
+                          system.
+
+  NET                   ¯ Tells ROTT that you're playing a multi-player game.
+                          This is listed here for completeness' sake, but
+                          should never be used.  It's really used by the setup
+                          program to pass data to the communication vectors.
+                          In other words, the real explanation isn't worth all
+                          the time it would take to explain it.  :)
+
+  MAPSTATS              ¯ This will output the map statistics (ie: Number of
+                          different walls, doors, etc.) of the current level
+                          to the file MAPINFO.TXT.
+
+  TILESTATS             ¯ This will output the tile statistics (ie: Number of
+                          different actors, plants, objects, etc) of the
+                          current level to the file MAPINFO.TXT.
+
+  LEVELSIZE             ¯ Computes the amount of memory needed to run a
+                          particular level.
+
+  IS8250                ¯ This parameter is passed by ROTTSER.EXE.  It will
+                          tell ROTT you are playing with an 8250, and in which
+                          case, it will turn off the music for modem games.
+
+The final three command line parameters were only used during development, so
+we could make sure that the levels we were designing didn't blow up the game!
+
+There are also some command line parameters that are used by the ROTTIPX.EXE
+and ROTTSER.EXE programs to control various aspects of modem/serial and network
+game play.  They are being provided here for completeness sake.  The incorrect
+usage of these can cause problems.  Apogee recommends that you not use these
+directly, and start all multi-player games from the setup.exe program provided.
+Both sections require the use of the NET command line parameter for them to be
+of any use at all.
+
+These parameters relate to ROTTSER.EXE (Serial and Modem play)...
+
+   VECTOR       interrupt vector with which to communicate with ROTT
+   ANSWER       answer mode
+   DIAL         dial mode
+   PAUSE        pause before launching
+   STATS        print out run time stats after ROTT returns
+   PLAYER       0 - makes you the master
+                1 - makes you not the master
+                must be used on both systems with different values, to work
+                properly
+
+These parameters relate to ROTTIPX.EXE (IPX Network play)...
+
+   VECTOR       interrupt vector with which to communicate with ROTT
+   PAUSE        pause before launching
+   NODES        number of players in game
+   SOCKET       network socket to use
+   SERVER       specify this computer to be a server
+   STANDALONE   specify this server to be standalone
+                else client on top of server
+   REMOTERIDICULE turn on RemoteRidicule support
+   MASTER       This will force a specific client in Comm-Bat ROTT to be Player
+                1 (or the Master).  Only the first use of this in a game will
+                be honored.  Any uses beyond the first will be ignored.  If
+                this is not used, the first person to launch into a NetROTT
+                game will be the Master. (This parameter can cause instability
+                in Comm-Bat ROTT.  We recommend against it's use.)
+        [6-2-1]
+What is ROTT DOPEFISH?
+    If you type in ROTT DOPEFISH, the first screen you see is a head swirling
+around the screen, and lots of belching.  The head is Scott's Mystical
+Head(See the items section), and the belcher is Joe Siegler.  :)
+The full story of the Dopefish is printed here from the APOGEE FAQ, which I
+recommend you check out.  It's chock full of info.
+(from the Apogee Faq)
+Lee Jackson's history of the Dopefish, added to by Joe Siegler:
+
+Dopefish is the product of the fertile mind of Tom Hall.  It was one of 24
+drawings he did of ideas for characters for Commander Keen: Good-bye, Galaxy!
+while part of id Software.  Dopefish was one of the characters from these
+drawings that made the cut.  According to Tom, "I just drew this stupid
+little fish," and the rest is history.
+
+Dopefish is described in the cast of characters for Secret of the Oracle as
+the second dumbest creature in the universe (the number one ranking is
+anyone's guess).  His thought patterns go, "swim swim hungry, swim swim
+hungry."  Dopefish "will eat anything alive and moving near them, though they
+prefer heroes."
+
+Dopefish was "adopted" by the Tech Support staff at Apogee soon after Joe
+Siegler, Steve Quarrella, and myself came onboard.  Dopefish was Joe's
+favorite character, and Steve was the resident Keen expert -- I provided a
+few vocal effects and some art.  We got hold of some screen capture software
+and went to town.
+
+The Dopefish "product line" started with an ANSI screen which Joe and I did --
+he converted a screen capture to raw ANSI, and I cleaned it up and made it
+presentable.  You can see the results by logging into Software Creations and
+typing DOPEFISH (or just DO for short) at the menu prompt.  After this, we
+convinced Jay Wilbur of id to have some Dopefish polo shirts made from an EPS
+file of the front-facing burping Dopefish (a.k.a. "Burpfish").  When Christmas
+rolled around, my wife decided we needed to bring Dopefish into the real
+world, so she made 20 or so stuffed Dopefish dolls (mostly side view, with a
+couple of Burpfish for good measure).  These were done in both EGA (green)
+and CGA (purple) versions and were given out at the Apogee Christmas party
+that year.  When Jay Wilbur heard of this, his first thought was that we
+needed to get a life.  This past Christmas, Brenda (my wife) took a printed
+enlargement of a screen capture and did pixel-for-pixel-accurate needlepoint
+tree ornaments, and Joe had coffee cups made with a Burpfish on them.  Below
+the Burpfish on the mugs is the caption, "Eat Your Veggies!", which is the
+title of the music for the level that Dopefish appears in, composed by Bobby
+Prince.  Brenda also made a mobile of Dopefish for Christmas 1994, but due to
+extreme delays in getting it done, it was never delivered until July 1995.
+
+Please note that this Dopefish merchandise is not, and was not ever, for
+sale to the general public.  They were all strictly in-house gags, so
+please don't swamp Apogee with requests for any of these items.  However,
+if you're a Dopefish fan yourself, and have created some goofy Dopefish
+items yourself, Joe Siegler would love to hear about it.  See the sections
+on "contacting Apogee" for information on how to reach him.
+
+Other Dopefish-related items that have appeared include several Windows and
+OS/2 desktops/icons (including the "official" OS/2 Apogee icon on the only
+OS/2 machine at the office, mine), screen savers, and fax images.  There's
+also a BMP that Tom Hall put together that, when tiled, looks great as a
+Windows background.  The OS/2 logo and the Windows BMP are both available in
+Apogee's CompuServe forum.  Joe Siegler has a full-page Dopefish that will
+occasionally mysteriously show up in someone else's fax machine.  Dopefish has
+also appeared in countless taglines, Internet signature files (described by
+Tom Hall as "Pisces Swimeatus"), and even in a reinterpretation of the birth
+of the universe, where the Big Bang is replaced by the Big Burp.  Steve even
+holds the title, granted via a mail-order ordainment service, as "Pope of the
+Church of the Dopey Fish."  The title is legally recognized, by Texas state
+law.
+
+Why Dopefish?  Well, he swims, he eats, and he burps.  What more can you ask
+for?  I personally think that the latter reason is why Joe likes him so much.
+Joe is known for a few wall rattlers and personally did the voice of Dopefish
+in Wacky Wheels and Rise of the Triad.  He really practiced for it, too.
+Sitting at his computer at four in the morning with a two liter bottle of
+Diet Coke, he ran through take after take, hurting himself a couple times
+in the process, until he came up with just the right length and resonance.
+
+To date, Dopefish has been involved in three Apogee games:  Commander Keen:
+Good-bye, Galaxy! (as a character), Wacky Wheels (making a secret cameo
+appearance), and Rise of the Triad (as a command line parameter and the
+subject of a song, the "Fish Polka," composed by me).  In addition, the first
+level in the rejected ROTT level set is called "Use the Fish."  If you load
+this level up, use the map cheat, and look at the map, you'll see that the
+entire level is essentially the Dopefish -- you're playing inside.  The title
+"Use the Fish" comes from the fax that Jay Wilbur of id Software sent Apogee
+when he granted them permission to use the Dopefish as a cameo character.
+
+Even though he belongs to id Software, he is a welcome adopted member of the
+Apogee family.  If there are ever any new Keen games, you can wager a goodly
+amount that the Dopefish will be in it.
+
+    [6-3]
+Game controls and keys(from F1 in RotT)
+The standard defaults are:
+    KEY               RESULT
+    ---               ------
+    Left Arrow        Left Rotation
+    Right Arrow       Right Rotation
+    Up Arrow          Forward
+    Down Arrow        Backward
+    Pgup              Look/Fly up
+    PgDn              Look/Fly Down
+    Insert            Scroll through weapons
+    Enter             Toggle weapons
+    Home              Aim Down
+    End               Aim Up
+    Backspace         Volte-face(180-degree turn)
+    Tab               Map view
+    Ctrl              Fire
+    <                 Strafe left
+    >                 Strafe Right
+    Esc               Main Menu
+    Shift             Run
+    Caps Lock         AutoRun
+    1-4               Weapon change
+    Del               Drop Weapon
+    F2                Save Game
+    F1                Help
+    F3                Restore Game
+    F4                Controls/Sound/Music
+    F5                Detail Level
+    F6                QuickSave
+    F7                Messages On/Off
+    F8                End Game
+    F9                QuickLoad
+    F10               Quit
+    F11               Gamma Correction
+    F12               Boss Key(v1.3 only, a "The Boss Is Coming" screen.
+                               Shows the Dos Prompt.  Any keypress restores
+                               Game).
+    COMM-BAT
+    --------
+    F1-F11            Remote Ridicule Messages
+    F12               Live Remote Ridicule, NETPLAY ONLY
+    T                 General Message
+    Z                 Direct Message
+
+    CYBERMAN/3 BUTTON MOUSE
+    -----------------------
+    Movement          Move or turn
+    Button 1          Fire
+    Button 2          Sidestep
+    Button 3          Use object/open door
+
+    GRAVIS GAMEPAD(Or, as one of my friends says, "BEAVIS GAMEPAD")
+    --------------
+    Pad Direction     Move or turn
+    Button 1          Fire
+    Button 2          Sidestep
+    Button 3          Use object/open door
+    Button 4          Run
+
+    JOYSTICK
+    --------
+    Stick direction   Move or turn
+    Button 1          Fire
+    Button 2          Use object/open door
+
+    SPACEPLAYER
+    -----------
+    Movement          Move or turn
+    Button 1          Use object/open door
+    Button 2          Automap
+    Button 3          Fire
+    Button 4          Aim
+    Button 5          Switch weapons
+
+    [6-4]
+What input devices can I use for RotT?
+þ For game play the following devices are optionally supported:
+  Keyboard, Mouse, Cyberman, Space Player, Gravis GamePad, Logitech Wingman
+  Assassin, & virtual reality hardware(The Assasin and VR hardware
+  are only supported in v1.3).
+    [6-5]
+Variable Violence
+    This is an adjustable violence level, and can be password protected.
+You must end your game to change the violence level.  Violence ranges
+from NONE to EXCESSIVE.
+    [6-6]
+The Official RotT Player's Guide
+    There is a book available from Apogee called "The Official
+RotT Player's Guide".  This book is written by Bernie Yee, and contains
+a complete inventory of all RotT objects, obstacles, and enemies.  It
+also has a complete map as well as a walkthrough for every level
+of the game, Q and A from the creators of RotT, and Tom Hall's tips
+on creating your own levels.  I highly recommend it(I got a lot of
+good stuff from it, but I couldn't very well put _everything_).
+It's specs are:
+Publisher=Infotainment World
+ISBN= 1-57280-053-4
+(7)
+Multiplayer(COMM-BAT) RotT
+    [7-1]
+Using the SETUP Program
+If you want to play a network, modem, or serial game, you must use the
+SETUP.EXE program, found in your game's directory.  This setup program will
+allow you to launch any of the multi-player games mentioned above, as well as
+allow you to select alternate level packs, graphics, and sound (if you have
+them), and access other miscellaneous game options.  This section of the
+technical help file will explain and show you how to use the options that the
+setup program offers.
+
+Here is a brief summary of the options inside the ROTT setup program:
+
+þ MODEM GAME
+
+  This option will let you setup the parameters needed to play ROTT over a
+  modem.  When you select this option, you will see a new menu with the
+  following items listed:
+
+  ¯ Quick Dial Default Number - This option will dial your default player
+                                phone number without having to do anything
+                                else.  If you have not set up any phone numbers
+                                in the phone book, this will not be highlighted.
+
+  ¯ Number List - This will bring up a screen where you can set up the various
+                  phone numbers of your ROTT opponents.  You can use the up
+                  and down arrows to scroll around the list.  Press "E" to
+                  edit the parameters.  Pressing Space next to an entry will
+                  define it as a default. You can only have one default number.
+                  Pressing Enter on a selected phone number will dial that
+                  number immediately.
+
+  ¯ Manual Dial - This will let you manually enter and dial a phone number
+                  that is not set up in your Number List.
+
+  ¯ Wait for Call - This will put your modem into answer mode, so your friend
+                    can call you to play.
+
+  ¯ Change Modem Setup - This option will bring up another screen where you
+                         can select your modem type from the supplied list of
+                         modem strings.  After you select one of the modems,
+                         you can then alter the init and hangup strings if you
+                         so desire.  The file that these strings is kept in is
+                         called MODEM.PCK, and is editable/listable with any
+                         standard ASCII file editor/viewer.
+
+  ¯ Change Dial Out Prefix - This option will be useful for people who might
+                             need to enter a 9 to reach an outside line to
+                             dial on, disable call waiting, etc.
+
+þ NETWORK GAME
+
+  This option will let you play ROTT via an IPX/SPX network.  Please note you
+  need to have your IPX/SPX software loaded before picking this option, or the
+  network driver will tell you it cannot find an IPX network.  There are two
+  ways to play network ROTT.  You can either have one computer dedicated as a
+  ROTT "Server", with all players launching the game from standalone "Client"
+  systems, or you may have one player's computer act as both Server *and*
+  client while all other players launch as Clients.  If you have more than 8
+  players, you must have a dedicated server.  Please see the "Setting up an
+  IPX/SPX Network Game" section for more information on starting network games.
+
+þ SERIAL GAME
+
+  This option will let you play via a serial (null-modem) cable.  Please make
+  sure you have your COM port correctly defined before selecting this option.
+  Please note that if you are playing a serial game, both players MUST select
+  the same port speed, or the game will not work properly.
+
+þ SETUP COM PORT
+
+  This option will allow you to set up the various options of your COM port
+  for modem or serial play.  This must be done before attempting to play either
+  a serial or modem game, or you will have problems.  Pressing enter here will
+  bring up a submenu of COM port setup options.  They are:
+
+  ¯ Select COM port - This will tell ROTT which com port you are using.  If you
+                      are unsure, check your computer's manual for more info.
+
+  ¯ Select IRQ - This will let you alter the default IRQ settings for your COM
+                 port.  This can be dangerous, and unless you know you need to
+                 alter this, it is a good idea to leave this option alone.
+
+  ¯ Select UART - This will let you alter the COM I/O port that your computer
+                  uses to communicate.  A Hexadecimal number is required here.
+                  This can be dangerous, and unless you know you need to alter
+                  this, it is a good idea to leave this option alone.  This is
+                  NOT where you indicate the type of UART chip you have.  The
+                  UART chip type cannot be changed from the setup program.
+
+  ¯ Select Port Speed - This option will allow you to select what port speed
+                        you wish to open your com port at.  This is not to be
+                        confused with a connect rate.  If you run into trouble
+                        with modem/serial games, it's probably a good idea to
+                        start with a low number and work your way up until you
+                        find the fastest rate at which your systems can connect
+                        successfully.  Also, the 115200 rate is only available
+                        if you have a 16550 or higher serial chip/card.  While
+                        8250 and 16450 are supported in v1.1+ it is recommended
+                        that you use a 16550, due to the 16550's far larger
+                        buffer size.  8250 and 16450 buffers are far smaller,
+                        and can cause problems with multi-player ROTT games.
+
+  ¯ Select PULSE/TONE - This option will let you tell ROTT what type of phone
+                        you have; pulse or tone.  By default, this is set to
+                        tone.  If you only have pulse dialing, this is where
+                        you can alter this option.
+þ USE MODIFIED STUFF
+
+       ( This option is non-functional in the shareware version of ROTT )
+
+  This option will allow you to play ROTT with various alternate files, from
+  new levels, to different sounds and graphics.  Normally, these things are
+  kept in the same directory as the ROTT game is, but if you wish to keep these
+  files separate from the game itself, you can alter the directory that ROTT
+  will look for them in by choosing the "Change Alternate Directories" Option.
+  Any of the other options here will allow you to select which alternate file
+  you wish to use.  In this example, I will use 'Alternate Game Levels'.  You
+  would scroll down to "Choose Alternate Game Levels", and then press enter.
+  You will be presented with a list of all the alternate game levels that are
+  present in your defined level directory.  You would scroll to the one you
+  wish to play, and press the space bar.  A û would appear next to the selected
+  file, and it would then be loaded when you played ROTT.  Please note that if
+  you select alternate files like this, you MUST run ROTT from the "Run ROTT"
+  option.  Alternate level selections are not saved.  If you wish to play with
+  alternate files, you will need to select them every time you wish to play
+  the game.
+
+þ CHANGE CODENAME
+
+  When you play in multi-player mode, you are given the choice to enter a name
+  that you are identified as.  This option in the setup program will let you
+  choose a default name so you don't have to keep typing it in every time you
+  play a game; whatever you enter here can be overridden when you start the
+  game.  This is only here as a convenience.
+
+þ MODIFY MACROS
+
+  When you are in Comm-Bat mode, you can send preset pieces of text to your
+  opponents instead of having to type the same message over and over again.
+  This is where you set them up.  Use the arrow keys to scroll to the macro
+  you wish to edit, and press ENTER.  You can type in your macro here.  Please
+  see the section on Comm-Bat play on how to use these in the game.
+
+þ CONFIGURE SOUNDS
+
+  This option will let you set up your sound card for music and sound effects.
+  You can alter the volume level for both music and sfx here.
+
+þ RUN ROTT
+
+  This option so incredibly runs Rise of the Triad!
+    [7-2]
+What do I do to play over the modem?
+þ There are a few global rules that will apply no matter what you do in
+  playing ROTT over the modem.  These rules are as follows:
+
+ ¯ You must have a 9600bps modem or higher.
+ ¯ When connected to another computer, both sides MUST use the same port speed.  I
+ ¯ The init string you are using MUST disable data compression.
+ ¯ The init string you are using MUST disable error correction.
+ ¯ Make sure you are running from DOS.  Multi-tasking environments such as
+   Windows or DesqView are not supported.
+ ¯ This isn't a requirement, but we strongly recommend that you have a 16550
+   chip as your serial chip.  Serial ports that use 8250's and 16450's are old,
+   and do not have very large buffers, and can cause problems with modem play.
+ ¯ This isn't actually a requirement, but we strongly recommend that you do
+   this in your init string.  Have your init string monitor the DTR, and if
+   dropped, have the modem enter command state.  This will allow ROTT to hang
+   up the phone properly.  If you do not do this, ROTT may not be able to
+   properly hang up the telephone when it's done.  This command is usually &D1.
+   Please consult your modem manual for more information.
+
+þ Please check your modem manual for the proper init strings.  Apogee technical
+  support is unable to assist with specific modem string setups.  The reason
+  for this is that in order to provide a tested string, we would have to have
+  that modem, and since we do not have all modems at Apogee HQ, it is not
+  possible for us to provide support on a modem that we do not have. The modems
+  we do have are listed in the MODEM.PCK file under "Tested Modem Strings". If
+  you find you need to make your own string, please consult your modem's manual
+  or contact either the modem manufacturer or the computer vendor or
+  manufacturer for assistance.  They will be able to provide much better info
+  that Apogee's Tech Support department, since they are intimately familiar
+  with their own product.  This goes for any error received during modem or
+  serial play.  Virtually all of them are related to a bad modem init
+  string.
+
+þ If you have trouble getting your modem working with ROTT, but have been able
+  to properly play either Doom or Heretic by id Software with your modem, you
+  might wish to try the init string from Doom or Heretic in ROTT.  We've found
+  that a lot of Doom modem strings work with Rise of the Triad.
+
+So, you're sitting there saying, "I just want to set up and play!".  OK, here's
+a list of the steps you'll need to follow to get ROTT up and running via modem.
+Please consult the section on using the setup program for detailed help on how
+to do these various things.
+
+1) Type in "setup" to begin.
+2) Go to "Setup COM Port" and ensure that the COM port you're using is setup
+   properly with the right port speed, and adjust PULSE/TONE, if you need to.
+   NOTE: For modem play, it is recommended that both sides open the port at
+         the same speed.  If you are playing via serial mode, you MUST have
+         both sides opening their ports at the same speed.  Start at 9600, and
+         see if it works OK; you can then pick higher speeds if you wish to.
+3) Go to "Modem Game" and set up your modem with the Change Modem Setup option.
+   If you need to, also change the dial out prefix.
+4) Go to the "Number List" & set up all your friends in the dialing directory.
+5) If you are going to be called, just go to "Wait for Call".  If you are going
+   to be doing the dialing, select someone and call them!
+6) Once connected, you're ready to play Comm-Bat ROTT!  Please consult the
+   section on Comm-Bat play for details on how to set up the various Comm-Bat
+   play options of ROTT.
+    [7-3]
+What do I do to play over a network?
+þ There are a few global rules that will apply no matter what you do in
+  playing ROTT over a network.  These rules are as follows:
+
+  ¯ The network has to have IPX/SPX protocols.
+  ¯ Make sure you are running from DOS.  Multi-tasking environments such as
+    Windows or DesqView are not supported.
+
+Setting up network play is easier than setting up modem or serial mode.  Here
+are the steps necessary for getting Comm-Bat IPX play working in ROTT.
+
+1) Make sure your IPX/SPX protocols are loaded on all computers.  The ROTTIPX
+   driver will not run without your protocols loaded.
+2) Decide which computer will be acting as the ROTT server, and whether this
+   computer will be playing or not.  If the server computer will also be
+   playing, it should be a fairly powerful computer (we recommend at least a
+   486 (not an SX) with at least 8 megs of memory, preferably more.  The reason
+   for this is that the server computer will be at a slight disadvantage if
+   playing, and more memory or a more powerful computer will help alleviate
+   the problem.
+3) Figure out how many people are playing.
+4) If you are playing multiple games of ROTT on the same network at the same
+   time, you will need to make use of the "Change Socket Number" option.
+   Please see your network administrator for more info regarding what to put
+   here.  This is something specific to your network.
+4) Go to the ROTT Server and run the setup program, then go to 'Network game',
+   and select "Launch as Server".
+5) Enter the number of players and press ENTER.  The ROTT server will then
+   wait for the designated number of players to join.
+6) If the server computer is to be playing, pick "Client on top of Server."
+   If there is a standalone server, pick "Standalone Server".
+7) Go to the Client computers, run the setup program, and then select
+   "Launch as Client".  Once the server is found, you will see a message
+   telling you which player you are.  If the other players are slow getting
+   into the game, they will be ridiculed on your computer!
+8) At this point, you're ready to play!  Consult the Comm-Bat section on how
+   to set up all the various play options of ROTT Comm-Bat play.
+
+Here are some miscellaneous network items to keep in mind:
+
+þ Each player must have a registered copy of Rise of the Triad on their
+  computer, or there must be a site-licensed version of ROTT in use.  This
+  does not apply if you are using Shareware only.
+
+þ It is not possible to play a network game using a shared copy of the game on
+  the network.  Each player must have an installed copy on their local machine.
+
+þ ROTT will not work properly if players are on different LANs that are
+  connected together.  Make sure that all players are on the same LAN,
+  or you may not be able to play.
+
+þ Live RemoteRidicule will only work in network mode.  Check your microphone
+  before you play NetROTT to make sure that it is set up properly.
+
+þ When playing NetROTT, we urge you to not select your network server as the
+  ROTT server.  The reason for this is that if someone on your network starts
+  making extensive use of your server and doing heavy disk access, you will
+  note ROTT slowdowns.  The ROTT server can be any computer, not necessarily
+  your network server.
+
+þ Everyone should be at the DOS prompt before launching the ROTT server.
+  Once the server is launched, the first person to launch as a client will
+  be the "Master", if playing with a standalone server.  If playing with a
+  Client on top of a Server, then the server will always be the Master.
+  (See the Comm-Bat section for a description of Masters & Clients)  If you
+  are playing with a standalone server, this can be overridden with the
+  'MASTER' command line parameter.   If this is used, the first person to
+  enter into the game with the MASTER command line parameter will become
+  master, and any subsequent uses of the MASTER parameter in that game will
+  be ignored.  The MASTER parameter will be ignored if you are playing with
+  a Client on Top of Server setup.
+    [7-4]
+What if the players have different versions of RotT?
+If you are playing Rise of the Triad's Comm-Bat mode, we strongly recommend
+that all players either have the same type of game (shareware, registered,
+CD, or Site License).  It is possible to play one version against another one,
+but the process to start will be different.  If you need to play mixed versions
+like this, it is recommended that the master computer be the version of the
+game that is the lowest.  In other words, if one of the versions is shareware,
+then that person should be the master.  This is the easiest way to do it.
+If the lowest version is master, then you need to do nothing different.
+
+If you are playing mixed versions, and the Master is not the lowest version,
+then the Master must always select the Comm-Bat level set that is on the
+lowest computer playing the game.  This is done by selecting the "Use Alternate
+Comm-Bat Levels" option in the setup program.  In other words, if you have
+three people playing, two of whom have ROTTCD versions, and one who has just
+the registered version, the Master MUST select DARKWAR.RTC or an error will
+occur.
+The master is the player who calls the other, or, in NetPlay, the first
+player to start RotT.
+    [7-5]
+Can I play RotT over the Internet?
+    You may be able to using a program called IHHD, the Internet Head-to-Head
+Daemon.
+        [7-5-1]
+IHHD
+From Hank Leukart's Doom FAQ(modified by permission):
+        Enter IHHD -- the Internet Head to Head Daemon designed by Jim
+Knutson.  With this brilliant little piece of code, multiplayer gaming has
+soared to new heights.  With IHHD, you'll be able to play Head to Head
+against other human opponents all over the world, with the only cost to you
+being the regular prices you pay to connect to or use your Internet host.
+Best of all, it's free.
+      First of all, your host needs to be running UNIX as its operating
+system.  If you aren't sure what your host is running for its operating
+system, check the information given at the login prompt or send mail to
+your administrator.
+      Other than that, you should be able to run IHHD with ease.  Your
+first order of business is to get the IHHD software.  It is available via
+anonymous FTP at "cactus.org" in the "pub/IHHD/src" directory.
+      To get it:
+      (1) FTP to cactus.org  ("ftp cactus.org" at UNIX prompt)
+        (2) At the login prompt, enter "anonymous"
+        (3) At the password prompt, enter your E-mail address
+        (4) At the command prompt, type "cd pub/IHHD/src"
+        (5) Type "binary"
+        (6) Type "get dialer1.6.4.shar"
+        (7) Type "bye"
+      If you followed the above steps, you should now have the
+"dialer1.6.4.shar" file in your home directory.  Type "ls" at your host's
+command prompt to verify its existence.  If you don't see it, try the
+above steps again or call for help.
+      Next, if you've successfully retrieved the "dialer1.6.4.shar" file
+from the FTP site, you need to prepare the IHHD to run on your UNIX system.
+For UNIX veterans, the "dialer1.6.4.shar" file is in fact a shar file, and
+contains a makefile for easy compiling on your system.  For the rest of
+us, follow these steps to get the IHHD up and running:
+      (1) Create a directory to put the IHHD software in.
+           Type "mkdir IHHD" at the command prompt.
+        (2) Move the IHHD file to the new directory.
+            Type "mv dialer1.6.4.shar IHHD"
+        (3) Go to the IHHD directory.
+            Type "cd IHHD"
+        (4) Unpack the IHHD files.
+            Type "sh dialer1.6.4.shar"
+        (5) Compile the IHHD software to run on your system.
+            Type "make"
+        (6) You should now see a whole mess of files in the IHHD directory.
+            The important filenames you're looking for should be:
+                "dialer"
+                "tcpdialer"
+                "tcpanswer"
+                "call"
+                "showlog"
+        (7) If you've got these, you're cool.  Otherwise, try the above
+            steps again, re-retrieve the "dialer1.6.4.shar" file from
+            "cactus.org" using the instructions above, or call for help.
+If everything checks out, you're ready to rumble!
+Here's how you get connected using IHHD:
+        (1) Set up a time to play with another Internet RotT player.
+            Ideally, you should use E-mail to make the prior arrangements.
+            Make sure you and your opponent use the same baud rate and line
+            settings for your modems.
+            Make sure data compression, error correction, and hardware
+            flow control on your modem are off.
+        (2) When it's time to play, start your favorite terminal program
+            and call up your Internet host using your modem.  Make sure that
+            your baud rate and line settings correspond to your opponent's.
+        (3) Login to your Internet host normally.
+        (4) Contact the other player by sending a short E-mail message
+            indicating that you are on the net and ready to play.
+        (5) Once you both establish that you're there and ready to go,
+            return to your UNIX prompt.
+        (6) Type "cd IHHD" to enter your IHHD directory.
+        (7) You may have to type "terminal download," if you do not have it
+            activated already.
+        (8) Type "dialer opponent's.host" to start the IHHD connection.
+            For example, if you were playing against knuston@cactus.org,
+            you would type "dialer cactus.org" to initiate the connection.
+            Another way is to type "tcpdialer opponent's.host" while your
+            opponent types "tcpdialer -answer".  Or reverse roles, where
+            you type "tcpdialer -answer" while your opponent types "tcpdialer
+            your.host".  Don't ask me what the difference is; I don't know.
+            So, to recap, there are two methods of IHHD connection.
+            Method 1: dialer.  You each type "dialer other.guy's.host"
+            Method 2: tcpdialer.  One of you types "tcpdialer other.guy's.host"
+                      while the other types "tcpdialer -answer".
+        (9) Regardless of which method you use to connect, type short text
+            messages followed by a carriage return until you see your opponent
+            acknowledge you.  Unless you have "local echo" set to ON in your
+            serial settings, you will not see the text you type.
+       (10) If you don't see your opponent after a reasonable amount of time,
+            exit dialer or tcpdialer by pressing "CTRL-C" (i.e. hitting
+            the "CTRL" and "C" key simultaneously.)  Contact your opponent
+            again by E-mail and agree to try the other method of
+            connecting.
+       (11) If you're connection looks fine and your opponent has acknowledged
+            you and you have acknowledged him, exit your terminal program
+            and change to your ROTT directory.  Run SETUP.EXE, and select
+            "Run Serial Game."
+       (12) If everything goes well, RotT will start up and bring you to
+            your first game over the Internet!  Congratulations, you are
+            now connected by IHHD.  You can now proceed to play RotT as if
+            you were connected via a regular phone line.
+        Unfortunately, because of the nature of the Internet, delays and
+warping may occur with your IHHD connection, depending on the quality of the
+connection between your and your opponent's host machines.  These delays
+are often sporadic, and depend largely on what's going on the Internet
+at that particular times.  Then again, you might just be extremely unlucky
+and have a cruddy Internet connection.
+        To gauge the quality of the connection, try to "ping" your opponent's
+computer from your host.  At the UNIX prompt, type "ping -s opponent's.host".
+You should get a listing of "ping times", which you may stop at any time by
+pressing "CTRL-C".  Try pinging some other hosts you know to get an idea of
+how much ping times vary, and use this data to guesstimate the quality of the
+connection between your host and your opponent's.
+        Another way to judge the quality of your connection is to simply look
+at the other player.  If he's jumping all over the place, you've got a
+cruddy connection.  If he's relatively smooth and steady, you've got a good
+connection.
+    [7-6]
+What is COMM-BAT?
+    COMM-BAT is Multiplayer RotT, whether it be through a modem, serial,
+network, or Internet connection.
+        [7-6-1]
+What are the different kinds of COMM-BAT in RotT?
+There are nine different Modes (or games) you can play in Comm-Bat mode.  Only
+three of them are available in shareware.  The other 6 are registered only.
+They can all be played in Team mode, except "Tag".  When you play in team mode,
+everyone with the same color will be on the same team.  Capture the Triad has
+a limit of two teams.  Every other game can have as many teams as you want,
+with the exception of TAG, which cannot be played in Team Mode at all.
+
+¯ NORMAL - This is just you and your buddies blasting each other into
+           oblivion.  There are no special parameters for this game, and
+           everyone is your enemy.  Shoot at will!
+
+¯ SCORE MORE - This is very similar to NORMAL, with one notable exception.
+               You get more points for more difficult kills.  The different
+               point values you can get are:
+
+               1 point  - Killing an enemy with a missile weapon on the ground.
+               2 points - Killing an enemy with a bullet weapon on the ground.
+               2 points - Killing an enemy with a missile in the air.
+               3 points - Killing an enemy with a bullet in the air.
+               4 points - Crushing someone (ie: standing on their head).
+
+¯ COLLECTOR - In this game, the object of the game is to collect more
+              "Triads" than your opponent(s). There are small colored Triads
+              scattered throughout the levels, and you need to collect more
+              than your friends to win.  There are no weapons in this game.
+              This game is very well suited for young children.
+
+¯ SCAVENGER - This is very similar to Collector, except that there are
+              weapons in this game.  You can shoot at your opponents as they
+              try to get the Triads.
+
+¯ HUNTER - In this game, one player is the "Prey".  This player will be
+           unarmed.  It is everyone's job to find that player and kill
+           them.  A player is prey for a defined amount of time (this time
+           is declared by the Master).  At the end of that time, the
+           prey becomes a hunter, and another player is then chosen to be
+           the prey.  During play, the Prey will have no weapon on their
+           screen.  That picture and screen name of the Prey will be in the
+           upper left side of the screen, so that everyone will know who
+           the Prey is.  The person with the most amount of points wins the
+           game.  If you are playing hunter in team mode, then your entire
+           team is "Prey" at the same time.
+
+¯ TAG - In this game, one person at a time is defined as "it".  This player
+        is denoted in the upper left hand corner of the screen.  If you are
+        "it", it is your job to run up to another player and tag them.
+        You tag someone by going up to them and pressing the 'use' key (by
+        default, this is the space bar).  Once you tag that person, they
+        become "it."  One point gets added to their score, and it becomes
+        their responsibility to seek out other players and tag them.  The
+        person with the lowest number of points at the end of the game will
+        win.  This game cannot be played in team mode.
+
+¯ ELUDER - In this game, you chase roving "Eluders" (they look like small
+           coloured Triads - similar to the objects in Collector).  Your object
+           is to tag them by running up to them and pressing the 'use' key.
+           Each one you tag earns you a point.  The person with the most points
+           at the end of the game wins.
+
+¯ DELUDER - Very similar to ELUDER, except that you need to destroy the roving
+            "Eluders" instead of tagging them.
+
+¯ CAPTURE THE TRIAD - In this game, you play teams (if there are only two
+                      playing, it is two teams of one).  Each team gets a Triad
+                      to protect.  It is the object of the other team to steal
+                      your Triad from your home base and take it back to their
+                      home base.  This is the only mode of ROTT that has to be
+                      played in team play.
+
+    [7-7]
+Troubleshooting Multiplayer Connections
+MODEM/SERIAL
+þ If you have trouble connecting at higher rates, try a lower port
+  speed.  These are not actual connect rates, these are port opening speeds.
+  We recommend you start at 9600, and then go from there to see what levels of
+  port speed you can successfully connect and play at.
+
+þ When you play Rise of the Triad via modem/serial, you will note a line of
+  text that reads "UART is a ..."  This will either be 8250 or 16550.  If you
+  have an 8250, it means that you have a slow serial chip, and you may be
+  prone to modem jerkiness and other game slowdowns.  Apogee strongly
+  recommends a 16550 or greater serial chip, since these have larger buffers
+  and can deal with the influx of data better.  If you have a 16450, it will
+  be detected as an 8250, since a 16450 is virtually identical to an 8250.
+  Also, software driven 16550 ports will most likely not be properly detected.
+  You will need a "real" 16550 port in order to have it detected as such.
+
+þ If you have an 8250/16450 and experience slowdowns, try these steps to
+  speed things up:
+
+  ¯ Make sure you are using 8 Bit Mono sound.  16 Bit Stereo sound sometimes
+    makes things go slower on certain system configurations.
+
+  ¯ Try setting the number of voices from 8 down to 4.  If this doesn't help,
+    keep trying to lower the number of channels down until you get something
+    that is acceptable.
+
+  ¯ Try with all sound and music off.  If it is still slow, then the problem
+    lies elsewhere.
+
+  ¯ Make sure the init string you are using is correct for your modem.  Quite
+    often, incorrect strings will cause VERY slow game play.
+
+þ Slowdowns during game play can be caused by several things.  It can be your
+  modem string, or it can be something simple like a bad phone connection,
+  general bad phone lines in your area (or your opponents), or an 8250 chip.
+
+þ If you are the person making the call, you are player one.  You will be
+  the "Master", and will be the one choosing the battle parameters and options.
+
+þ If you experience modem flakiness after connecting once, you might wish to
+  physically turn your modem off and then back on again.  Some modems do not
+  reset properly, or react better if you switch them off and then on again. If
+  you have an internal modem, try resetting your system by pressing the reset
+  switch on your computer or by powering down, waiting a few seconds, and
+  powering back up again.
+
+þ The MODEM.PCK file is a standard ASCII file.  You can edit this as you
+  desire, but you must follow the convention that is used in the file.  If you
+  alter the file format, you may not be able to pick modems properly.  Please
+  see the notes in the MODEM.PCK file for editing information.
+NETWORK
+þ If you get the error "Unknown Packet During Setup" when launching the
+  server, it means that someone who was playing a previous game using
+  that server is still in the game.  Ensure that everyone has exited and
+  is at DOS before starting the server.
+
+þ If you launch as a client, and the server is not found, this means that
+  something has become unsynced.  At this point, ensure that every computer
+  is at the DOS prompt before launching the server.  It also helps to reboot
+  all computers playing ROTT before attempting to play.  If possible, make
+  ROTT the first thing you run after rebooting.  This can help in certain
+  memory/computer configurations.
+
+þ It is possible to play more than one game on a network at one time. However,
+  you can not START more than one game at a time.  In other words, if your
+  party wants to play NetROTT, and there is another group playing the game,
+  then you will have to wait until all of them are in the game and playing
+  before any of the second group can start.  To start another game while one
+  is in play, you need to make use of the "Change Socket Number" option in
+  the setup program.  Please see your local network administrator for more
+  information regarding what to use here.
+
+þ If you are getting an error where the game finds more players then there are
+  actually playing, make sure all players are on the same LAN, everyone is
+  booted clean, and try a different socket value.
+
+þ If you are playing a network game, and you get the error message "IPX not
+  detected", it means that you haven't loaded your IPX protocol.  This will
+  need to be loaded before any ROTT programs are run.  Please ensure that the
+  IPX protocols are loaded before running the setup program.
+
+    [7-8]
+Multiplayer Options
+There are many different options you can select to alter RotT's Comm-Bat
+play.  Here is a description of them.
+
+¯ GRAVITY - You can select Low, Normal, or High.  Normal is pretty Normal.
+            Low gravity can make it seem like you're flying, and it will
+            take a long time for anything to fall to the ground.  Low gravity
+            makes it easier to get objects in the air (including the other
+            players in the game).  High gravity makes things fall like a
+            rock, and it is very difficult to get objects in the air that are
+            in hard to reach places in this mode.
+
+¯ SPEED - You can select either Normal or Fast.  In Fast mode, the players run
+          very fast, and it is a bit more difficult to control this way.
+
+¯ AMMO PER WEAPON - You can select One, Normal, or Gunfinity.  In Normal, you
+                    have the regular number of shots per weapon.  In One, you
+                    only get one shot per weapon, and then the weapon goes
+                    away.  In Gunfinity, there are an unlimited number of
+                    shots per weapon.  Be warned that Gunfinity makes it very
+                    easy for a player to sit in a corner and defend their
+                    position, creating a very unfair advantage.
+
+¯ HIT POINTS - You can alter the number of "hit points" per character.   You
+               can select one of the options listed, anywhere from 1 to 4,000.
+               At one, you take one hit from any weapon, including the pistol,
+               and you die.  On the other end of the spectrum, having 4,000
+               hit points makes it very difficult to kill someone unless you
+               have Gunfinity or God Mode.  You can also select "By Character"
+               which means each character has their normal number of hit
+               points as defined by their abilities.
+
+¯ RADICAL OPTIONS - These options radically change the game play of Comm-Bat.
+                    You can control whether things respawn, and how powerful
+                    they are.  Here is a listing of what they are.
+
+   Spawn Dangers - This controls whether you will get items such as firejets,
+                   boulders, spinblades, etc.
+   Spawn Health  - If you're daring, you can play the level without health.
+   Spawn Weapons - This controls whether you want weapons in the level.  If
+                   you choose this, there will not be any rocket weapons.
+   Spawn Mines   - If you turn this option on, it will turn all the health
+                   in a level to mines, which are very painful to run over!
+                   (Mines are not in the shareware version of Triad.)
+   Respawn Items - This controls whether you want items such as the vests
+                   to reappear after they've been picked up/used.
+   Weapon Persistence - Normally, when you pick up a weapon, there is none
+                        left behind.  If this is switched on, the weapon will
+                        still be there after you pick it up.  Furthermore, you
+                        cannot drop your weapon (this is done by hitting your
+                        'delete' key by default) with this switched on.
+   Random Weapons - Normally, a specific weapon will appear in the same place
+                    every time.  If you turn this on, there will be different
+                    types of weapons appearing each time you play.
+   Friendly Fire  - If this is turned on, you will lose points if you kill
+                    yourself playing solo, or your team will lose points if
+                    anyone on your team kills themselves or another teammate.
+                    If this is turned off, then you can kill your own teammates
+                    or yourself and you don't lose any points.
+
+¯ LIGHT LEVELS - There are 6 levels of lighting you can choose from.  They are
+                 Dark (everything is dark), Normal (as defined by the level
+                 designer), Bright (everything is really bright), Fog
+                 (everything has a foggy look to it), Periodic (this means the
+                 light level pulsates during play), and Lightning.
+
+¯ POINT GOAL - You can choose from a variety of point goals.  You can choose
+               1, 5, 11, 21, 50, 100, Random (the computer makes one up),
+               Random Blind (the computer makes one up but doesn't tell you),
+               and Infinite (play till the cows come home).  If you reach a
+               defined point goal before the time you chose expires, your
+               game will end.  Also, if you are playing with Random Blind, you
+               cannot press TAB to see everyone's Killcounts.
+
+¯ DANGER DAMAGE - You can control how much damage the various hazards in the
+                  level cause when you hit them.  You can choose Normal, Low
+                  (not much damage at all), or Kill (you instantly die when
+                  you hit something).
+
+¯ TIME LIMIT - You can choose how long your game will last in minutes.  You
+               can select from 1, 2, 5, 10, 21, 30, 99, and NONE (play till
+               the cows come home).  If you reach the selected time limit
+               before you reach the point goal you selected, your game will
+               end.
+
+During Comm-Bat play, there are some extra features that are not available
+when you are playing the game by yourself.  They are:
+
+¯ RemoteRidicule - You can press F1 through F10, and a sound will play on the
+                   computers of your opponents (assuming they have sound
+                   cards).  Imagine the fun of walking up behind someone who
+                   doesn't know you're there, and making his computer say
+                   "Behind Ya!", and then whack him in the head with a
+                   baseball bat!
+
+¯ Live RemoteRidicule - If you have a Sound Blaster or 100% compatible, you
+                        will be able to speak live to all other players in
+                        the game by plugging a microphone into your Sound
+                        Blaster and pressing F12.  What you say will be
+                        transmitted to all the others in the game.  Only one
+                        player at a time can use this function.  Please note
+                        that this option is only available in network play.
+
+                        Please note that while Live RemoteRidicule can be
+                        heard by everyone, you need a Sound Blaster, Sound
+                        Blaster Compatible, or Pro Audio Spectrum in order to
+                        record (transmit) sounds that everyone else can hear.
+                        If you have a sound card that's supported by ROTT, but
+                        is not specifically listed here, you will not be able
+                        to transmit messages using Live RemoteRidicule.
+
+¯ Messages - You can send text messages to other players, too.  If you want to
+             send a message to everyone, depress the "T" key, and then type
+             away.  When you're done, press ENTER, and your message will be
+             transmitted to everyone.  If you want to send a message to a
+             specific person, you need to depress the "Z" key.  After you type
+             in your message and press ENTER, you will be shown a list of
+             people playing.  You can then select whom you want the message to
+             go to.
+
+¯ Macros - If you want to send messages, but you don't want to type the same
+           messages over and over again, you can make use of the Macro system.
+           Macros are set up in the setup program (see the section on using
+           the setup program for more info).  When you're playing, you need
+           to press "T" or "Z" like a normal message, but after that, you can
+           press ALT-x where x is a number key between 1 and 0 on your keyboard
+           for your macros.
+
+¯ Viewing - If you are playing in team mode, you can press the "9" key to look
+            through the eyes of your teammates.  Continue pressing "9" to
+            scroll through the views of all of your teammates until you return
+            to your own.
+
+When you are playing ROTT by yourself, the F5 key will change the detail level,
+and the F7 key will turn messages on and off.  These can still be accessed when
+playing Comm-Bat RotT, but you need to use the Shift key as well.
+(8)
+Add-ons
+    [8-1]
+Level Editing with RottED
+        [8-1-1]
+What is RottED?
+    RottED is a RotT level editor/creator made by Wayne Sikes.  It is
+currently the only such editor for RotT.  RottED is for Windows.
+        [8-1-2]
+Where can I get RottED?
+    You can get RottED by FTP from:
+        spectrum.com.au     /games/Rott/
+There is also a link to it(and another editor) from the Rott Page:
+http://www.swcbbs.com/apogee/rott.htm
+        [8-1-3]
+How do I use RottED?
+    Once you've gotten RottED to run properly, the obvious question is how
+to make levels using RottED.  I'm going to abbreviate RottED to RE for the
+rest of this section.  The first time you run RE, you're going to be confused.
+If you double-click on a tile, you'll see a screen that will really confuse
+you, since you don't have the vaguest idea what a "Sprite Plane" is.
+Well, first, you should print out a listing of all foreground and background
+tiles.  To do this, go into help, pick Foreground Tile Summary, and then
+choose File...Print Topic.  Do the same for Background Tile Summary.  Now,
+I'm going to show you a glossary for RottED.
+    PLANE - A field where data is stored.
+    SPRITE - Any interactable object, such as an enemy, a health item,
+             a powerup, a touchplate, etc.
+    WALL - In RottED, Wall can mean an actual wall, a door, or a floor area.
+    TILE - In the editing screen of RottED, you will see a large grid.  Each
+           separate rectangle in the grid is a TILE.  Each TILE contains
+           information.
+    SPRITE PLANE - Each tile has a sprite plane where information about
+            sprites on that tile are stored.
+    WALL PLANE - Each tile has a wall plane where information about what floor
+    pattern, wall, or door is on that tile.
+    INFO PLANE - Each tile has an info plane where special information about
+    that tile is stored.
+The grid you see in the editing screen is actually a top-view of the map
+you're going to create.  However, there is an area of the editing screen
+which is not a physical component of the map you're going to create.
+The first 5 tiles in the top row if the map contain critical information
+for that map.  These five tiles determine:
+The height of the map you wish to create
+The light level of your map
+Environmental effects such as fog and lightning
+The ceiling pattern of your map
+The song that will be associated with your map.
+
+Until you become more familiar with RottED, I suggest that you start
+each map by pressing CTRL-C.  This will make RottED load some default
+values to the critical tiles.
+
+Now, to begin creating.
+I suggest that you use the RottED tutorial that is included with RottED,
+but I will include a short tutorial here.
+
+Creating A Room
+First, start RottED and make a new level.  For it's name choose
+"FIRST.RTL".
+To make a room, you need an area bounded by walls on four sides.  This is
+easy.  First, choose what you want your wall to look like by picking a
+value from the background tile summary printout(see, you really SHOULD
+have printed it out).  I usually use number 23.  Then, double click which
+tile you want to be the upper-left corner of your room.  Put 23 in the
+wall plane space and press OK, but FIRST remember which tile you are
+modifying(the tile's coords are on the top of the screen).  Then, pick
+up the wall data from that tile by holding down the W key and clicking
+on the tile.  The cursor should change from the standard mouse pointer
+to a text-editing like cursor.  Now, click and drag a straight, horizontal
+line across the screen, make it at least 8 tiles long(remember which tile
+you ended at).  Now, click and drag a vertical line down from the
+tile your horizontal line ended at.  Now, another horizontal line going
+to opposite from your first and going the same length.  Finally, a vertical
+line going up to the very first tile you edited.  Do you follow?  Though
+you can't see it, you've made a rectangular area bounded by the wall tile
+you chose:
+
+     (Your first tile)
+             |
+            \|/  LINE 1
+             X---------------X
+             |               |
+             |               |
+      LINE 4 |               |LINE 2
+             |               |
+             X---------------X
+                 LINE 3
+If you want to see this area, choose View...Tile Brightness, then click
+on Default Tile Brightness, then OK.  If your area is deformed or the walls
+have "holes", try again.  Now press END.  This takes you out of the "COPY
+WALL DATA" mode.  Now, you need a floor.  Put your mouse cursor in the
+middle of the area you created, and hold down the F key while you click the
+left mouse button.  This brings up a screen with all the background tiles.
+Choose a floor tile by clicking on it, a good one is the white tile with
+the "X" through it.  Now, as you can see, your area's floor has been covered
+with the floor you chose.
+Now, you need to add a vital piece of info, and that's a first person
+starting point.  Choose a tile to start at and double click on it.
+In the SPRITE PLANE space, put the value 20.  This is a first person start
+facing east.  Now, choose another tile that you want to be an end-level tile.
+Double click on it and put the value 107 in the SPRITE PLANE.  Next, on
+that same tile, choose the box that says "Level Info" and put the value 0.
+Press OK.  You should see that the tile you selected for an exit has a red
+X and a red 0 on it.  This is because there aren't any other levels in this
+RTL, so when you hit the exit tile, you'll go back to the beginning of
+the first level.
+Now, save your level.
+Move your level to the ROTT directory and enter setup.  Choose the "Alternate
+Stuff" option.  Next choose the "Alternate Game Levels Option", highlight
+your level's filename, and press the spacebar.  Go back to the main
+menu and "Save and Run Rott".  Start a new game.  You should be in your level.
+You should now be able to use the RottED tutorial to add new options.
+Here's one thing that RottED doesn't mention, however:
+To make an elevator, you need to first create the boundaries.  It should
+look Like this:
+                +-----------------------+
+                |ELEVA- |ELEVA- | WALL  |    Make this elevator where
+                | TOR   | TOR   |       |    you want it, and make
+                | WALL  |WALL   |       |    one exactly the same(with
+                +-----------------------+    The Same Number Tile) where
+                |ELEVA- |NUMBER | ELEV- |    You want it to exit.
+                |TOR    |TILE   | ATOR  |    That's how it works.
+                |SWITCH |(90-97)| DOOR  |    An elevator with a Number Tile
+                +-----------------------+    Of 90 will exit to the
+                |ELEVA- |ELEVA- | WALL  |    other elevator with the tile
+                | TOR   | TOR   |       |    of 90.
+                |WALL   | WALL  |       |
+                +-----------------------+
+TIPS FOR LEVEL CREATING(AND ERRORS):
+In Comm-Bat levels, don't make things too complex.  Mark Dochtermann
+implemented a new packet transfer technique for modem play, but
+it still can't be TOO complex.
+All life items(and items in general) should be obtainable.
+Show the player something they want, but create a barrier they
+must overcome.
+Never create a place where the player can't get out; and if you
+do, make sure they can kill themselves.
+When you create an important item, put a touchplate in front of it
+that dumps enemies all over the player, but don't do this too often.
+Try to use themes.
+In COMM-BAT, never have a super-defensible weapons "pick-off-the-other-guy"
+location.  Or, if you do, always provide a non-horribly-hard way to
+pick off the waiting person.
+        [8-1-4]
+What are .RTC and .RTL files?
+    Files with a ".RTC" extension are COMM-BAT files.  Files with a
+".RTL" extension are regular game levels.
+        [8-1-5]
+How can I distribute levels I've made?
+            [8-1-5-1]
+The .RTD Author File
+Whoa, there, Tonto.  First you need to fill out a .RTD file.  You really
+don't HAVE to, but just show a little consideration and do so.  A sample
+file follows.
+
+RTL Authoring Template v1.0
+================================================================
+Title                   : The Name of your Level(or group of levels)
+Filename                : The Filename for your levels.
+Author                  : Your name here
+Email Address           : Your e-mail address
+Misc. Author Info       : Other e-mail addresses, a URL, something.
+
+Description             : Put something like "3 COMM-BAT levels" or
+                          if your level has a theme, put that.
+Additional Credits to   : Did someone help you?  Give a little credit.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : What Rott Level does this replace?(N/A for Comm-bat)
+Single Player           : No for COMM-BAT, Yes otherwise
+Comm-Bat Level          : Yes or No
+Difficulty Settings     : If you have different enemies for different
+                          difficulties, put implemented.
+* Construction *
+
+Base                    : New level from scratch?  Modification?
+Editor(s) used          : Pretty much always RottED.  The guys at Apogee
+                          use TED.
+Known Bugs              : I think this is self-explanatory.
+
+
+* Copyright / Permissions *
+
+Authors MAY/MAY NOT use this level as a base to build additional levels.
+
+You MAY/MAY not modify this file.
+
+* Where to get this RTL *
+
+FTP sites:
+
+BBS numbers:
+
+Other:
+            [8-1-5-2]
+The incoming levels site is a FTP:
+SPECTRUM.COM.AU
+in the dir "games/Rott/incoming".
+    [8-2]
+Hey, I wanna make an editor!
+        [8-2-1]
+Technical Info?
+    You can get a technical info file from:
+    ftp.uml.edu /msdos/games/Apogee/
+    the filename is rottspec.zip
+    or from spectrum.com.au
+    [8-3]
+Will there ever be any add-on packs for RotT?
+    Joe Siegler says that Apogee is tossing around an idea now of creating
+an add-on pack.
+    [8-4]
+Levels created at the time of this faq-
+The following are .RTD files for levels available at spectrum.com.au at
+08/25/95.  If you uploaded a file but didn't include a .RTD file, then
+sucks to you.
+================================================================
+Title                   : ANT 2
+Filename                : ant2.rtl
+Author                  : Unknown
+Email Address           : 100344.3715@compuserve
+Misc. Author Info       :
+
+Description             : Some com-bat levels
+
+Additional Credits to   :
+================================================================
+
+* Play Information *
+
+Episode and Level #     :
+Single Player           : No
+Comm-Bat Level          : Yes
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Rotted 1.0
+Known Bugs              :
+
+* Copyright / Permissions *
+
+(Dunno.. The author didn't make a rtd file so I made one for him - AR)
+
+* Where to get this RTL *
+
+FTP sites: spectrum.com.au:/games/rott/incoming
+
+BBS numbers:
+
+Other:
+================================================================
+Title                  : Ant's Rott Episode
+Filename               : ANT4.RTL
+Author                 : Ant.
+Email Address          : 100344.3715@compuserve.com
+Misc. Author Info      :
+
+Description            :An entire episode for Rott, including a secret level.
+
+Additional Credits to  : Su for helping create some of the levels.
+             Wayne Sikes for creating ROTTED.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Episode 1, levels 1-7 +secret
+Single Player           : Yes
+Comm-Bat Level          : No
+Difficulty Settings     : Yes
+
+More details on the levels, are included in the file ant4.txt,
+included in the ant4.zip file.
+
+* Construction *
+
+Base                    : New levels created from scratch
+Editor(s) used          : ROTTED 1.1
+Known Bugs              : None that I know of.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels,
+as long as they give me some credit for using my levels.
+
+You MAY distribute this RTL, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you distribute the ant4.zip file in its
+entirety.
+
+
+
+* Where to get this RTL *
+
+FTP sites: spectrum.com.au
+
+Other: Compuserve Action Games forum
+       Compuserve Apogee forum.
+
+================================================================
+Title                   : A.T.F. C.B.L. 1
+Filename                : ATF_CBL1.ZIP
+Author                  : Alex T. Frase
+Email Address           : Anonymous
+Misc. Author Info       :
+
+Description             : Alex T. Frase's Comm-Bat Levels
+
+Additional Credits to   : Peter E. Frase; for ideas, inspirtaion
+                          and proofing of levels
+================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A
+Single Player           : No
+Comm-Bat Level          : Yes
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : RottED 1.0
+Known Bugs              : "Confusion" has been known to crash is played
+                          before or after another Comm-Bat level
+
+* Copyright / Permissions *
+
+Authors MAY use these levels as a base for other levels, but I would
+request recognition in any text files as the original author. You MAY
+distribute these levels to others, on the condition that none of the
+files are altered in any way.
+
+* Where to get this RTL *
+
+FTP sites: spectrum.com.au:/games/rott/incoming
+
+BBS numbers: None
+
+Other: None
+================================================================
+Title                   : Comm-Bat for Two
+Filename                : DCOMM.RTC
+Author                  : Derek Greentree
+Email Address           : derekg@compass.net
+Misc. Author Info       :
+
+Description             : 3 pretty fun COMM-BAT Levels
+
+Additional Credits to   : No one.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A
+Single Player           : No
+Comm-Bat Level          : Yes
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Wayne Sikes' Excellent RottED v1.1
+Known Bugs              : First Level is a little slow over modem play,
+complex.  Works fine, though.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+However, I request that you send me an e-mail letting me know where to
+find the levels that you built from this.
+
+You may do whatever you want with this file, as long as my name remains
+somewhere on it as the original author.
+
+* Where to get this RTC *
+
+FTP sites: ftp.spectrum.com.au/games/rott/incoming
+
+BBS numbers:
+
+Other:  E-mail me at derekg@compass.net and I will send you a copy.
+================================================================
+Title                   :    The Front line
+Filename                : Frntline.rtl
+Author                  : TIGERS1003
+Email Address           : TIGERS1003
+Misc. Author Info       : Fell free to E-mail me with any qeustions
+
+Description             :  5 levels made with ROTTEDv1.1
+
+Additional Credits to   : Wayne sikes ,The author of ROTTED
+================================================================
+
+* Play Information *
+
+Episode and Level #     :5 levels
+Single Player           : Yes
+Comm-Bat Level          : No
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New  levels from scratch
+Editor(s) used          : ROTTEDv1.1
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+
+You MAY distribute this RTL, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.
+================================================================
+Rotlev2.zip ----- Massive Head Trauma, Death Trap, The Mourge, Iron Works
+Title                   : Massive Head Trauma, Death Trap
+Filename                : LOST.RTL, SCOT.RTL
+Author                  : Geddylee
+Email Address           :
+Misc. Author Info       : Thanks to Wayne Sikes for the great editor!
+
+Description             : MHT = underground levels
+                        : DT = outside
+                        : The Morgue = outside, Gad infested
+                        : Iron Works = Metal walled level
+
+Additional Credits to   : Scot Fitzgerald
+================================================================
+
+* Play Information *
+
+Episode and Level #     : 1
+Single Player           : Yes (reccomended 2 player)
+Comm-Bat Level          : Yes
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Rotted v1.1
+Known Bugs              : none (please report any bugs or suggestions to
+                          PATRICKKEL@AOL.COM)
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+
+You MAY distribute this RTL, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.
+================================================================
+Title                   : Rise of the Triad Reject Comm-Bat Levels
+Filename                : REJECTS.RTC
+Author                  : Tom Hall, Joe Selinske, & Joe Siegler
+Email Address           : apogee@metronet.com
+Misc. Author Info       : Created by ROTT Level Designers
+Description             : These levels were created for the official
+                          release of Rise of the Triad, but were rejected
+                          for various reasons.  They are being released
+                          here so that you can enjoy them.
+================================================================
+* Play Information *
+
+Episode and Level #     : Various
+Single Player           : No
+Comm-Bat Level          : Yes
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : Ted (Apogee's Real ROTT Editor)
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional levels.
+
+You MAY distribute this RTL, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this RTL *
+
+FTP sites: swcbbs.com
+
+BBS numbers: Software Creations at 508-368-7036
+             The Arsenal of Freedom at 214-271-5410
+
+Other: Apogee's CompuServe forum coming in Aug 95.
+
+==============================================================================
+
+Notes: There are 21 levels in this pack.  This is a listing of all the
+       level designers.  All levels in this pack (with the exception of
+       the "This Causes an Error" level were originally created for use
+       in Rise of the Triad.  For whatever reason, these levels were not
+       used, and since they were just lying around, we figured we'd just
+       throw them out in the public for free for whomever wanted to play
+       them!  Here's a list of all the levels in this pack, who designed
+       them, and notes on a few of them.
+
+01) Use the Fish -> Designed by Joe Selinske
+    Fans of the Keen IV game might recognize this level.  If you rename this
+    file to rejects.rtl, and look and use the map cheat to see the whole map,
+    you should recognize this map.  :)
+
+02) Wan Fife -> Designed by Joe Selinske
+    Fans of id Software's Doom might recognize this level.  Thanks to John
+    Romero of id Software for the inspiration for this level.
+
+03) The Pound -> Designed by Tom Hall
+    This level is spent almost entirely in Dog mode.
+
+04) Valhalla -> Designed by Tom Hall
+    The idea behind this level is to knock the other guy off the side of the
+    level with a Godball.  Woe be the person who isn't in God mode.
+
+05) Aztec Paramecium -> Designed by Joe Selinske
+
+06) Death Box -> Designed by Tom Hall
+    For those people who complain about large levels.  :)
+
+07) Battle Squid -> Designed by Joe Selinske
+
+08) Great Wally -> Designed by Tom Hall & Joe Selinske
+
+09) Lumpy's Delight -> Designed by Joe Selinske
+
+10) Pillar Killers -> Designed by Joe Selinske
+
+11) Red Rum! Red Rum! -> Designed by Joe Selinske
+
+12) Barreling Down -> Designed by Tom Hall & Joe Selinske
+
+13) Spears of Density -> Designed by Joe Selinske
+
+14) Balconexus -> Designed by Joe Selinske
+
+15) Spinblade Runner -> Designed by Tom Hall & Joe Selinske
+
+16) Five Windows -> Designed by Joe Selinske
+
+17) Storm's Eye -> Designed by Tom Hall & Joe Selinske
+
+18) Skylands -> Designed by Joe Selinske
+
+19) Speed -> Designed by Joe Selinske
+
+20) Twin Falls -> Designed by Joe Selinske
+
+21) This Causes an Error! -> Designed by Joe Siegler
+    This level was thrown on at the last second.  If you rename this
+    file to REJECTS.RTL, and load it up as a regular level file, and not
+    a Comm-Bat level file, you'll have some fun in this level.  Keep in mind
+    that this level is a joke, and the error created is intentional.
+================================================================
+Title                   : Wolfenstein 3D
+Filename                : WOLF3D.RTL (External Zip is WOLFROTT.ZIP)
+Author                  : Joe Siegler
+Email Address           : joe.siegler@apogee1.com
+Misc. Author Info       : Level Designer for ROTT
+Description             : I had decided to clone Wolf3D Level 1 for Rise of
+                          the Triad, but when id Software did it for Doom 2,
+                          the idea was dropped.  I had forgotten about it
+                          until now, so I decided to release it on my own. :)
+
+Additional Credits to   : Tom Hall and id Software for the original level
+                          geography of Wolf3D Episode 1 Levels 1 and 10.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1L1
+Single Player           : Yes
+Comm-Bat Level          : No
+Difficulty Settings     : Not implemented
+
+* Construction *
+
+Base                    : New level from scratch (Sort Of)
+Editor(s) used          : Ted (The Editor Apogee used to make our levels)
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional levels.
+
+You MAY distribute this RTL, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this RTL *
+
+FTP sites: swcbbs.com
+
+BBS numbers: Software Creations at 508-368-7036
+             The Arsenal of Freedom at 214-271-5410
+
+Other: CompuServe's Apogee Forum (Coming Aug 95)
+---
+(9)
+The Creators
+                       THE DEVELOPERS OF INCREDIBLE POWER
+We got our name from a memo of Tom's about work hours.  At the end, it read:
+[some text about working together well, and if we do...] We will be...
+The Developers of Incredible Power!  It kind of stuck after that.  We don't
+mean it to be bragging--we mean it to have a sense of humor about ourselves.
+So many companies take themselves so bloody seriously all the time.
+Anyway, here we are....
+
+WHO                TITLE               WHAT THEY REALLY DID
+Tom Hall           Creative Director   Designed game. Did most of levels.
+                                       Drank lemonless, spoonless iced tea.
+Mark Dochtermann   Head Programmer     Wrote engine, comm code.  Ate a lot of
+                                       Chinese food, and looked weirdly into
+                                       the air at times.  Flew many sad
+                                       (sometimes leaky) airplanes.
+William Scarboro   Programmer          Wrote actor code.  A lot of it.  Also
+                                       has this thing for buddah and pushing
+                                       buttons in elevators with heads.
+Jim Dose'          Programmer          Wrote sound code, some menu code.  Also
+                                       locks keys inside his running car when
+                                       outside of liquor stores.
+Stephen Hornback   Artist              Did most of the wall textures, most of
+                                       the actors, the cool explosions, most
+                                       of the items in the game, & the Apogee
+                                       earth background.  Dreams of working on
+                                       Cosmo 6D with a Pink Floyd soundtrack.
+Chuck "D9" Jones   Artist              Did the snake door, tech door, some
+                                       cinematics, and the Game Over picture.
+                                       Has this incredible talent of hiding
+                                       from people at pool parties and making
+                                       them look silly!
+
+                              ASSOCIATE DEVELOPERS
+                        These people helped us out a lot
+
+Lee Jackson        Our master musician won a world-championship pun-off. Three
+                   times.  Also spent a lot of time pining for the fjords. (Not
+                   fields or fiords.)  Fnord.  Ruh.  Warp.
+Joe Selinske       He did a bunch of battle levels and some game levels, also
+                   spent too much time eating sushi and watching Japanimation.
+                   Later went on to wear very silly hats with horns on them.
+Joe Siegler        He did some game levels, including several that really make
+                   people mad like "The Vomitorium".  Drinks Diet Coke like
+                   most people inhale air.  Also wrote the ROTTHELP file.
+Robert Atkins      He did the awesome printed manual for Dark War, and admired
+                   Princess Leia in a "special" way.
+Marianna Vayntrub  She did some game levels in Dark War, Krist's chair, Mark.
+
+                               FORMER DEVELOPERS
+               These folks have left the Developers of Incredible
+                     Power, but left their mark on the game
+
+Tim Neveu          He drew many cinematic screens, the weapons, and the menu
+                   pictures.  Dreams of working for the Moon Pie people.
+Nolan Martin       He programmed most of the menus and the setup program,
+                   and loved donuts.
+Susan J. Singer    A former Artist who did many side textures, above textures,
+                   the female modem players, the five characters' faces, Tom.
+
+(10)
+Troubleshooting
+þ Apogee strongly recommends that you consult your hardware and software
+  manuals for your system before you make any suggested changes to your
+  current system setup.  Your manuals will tell you if you are about to
+  make changes that may irreparably alter your computer or its
+  configuration.  Modifying your system or software can be dangerous if not
+  done properly.  Apogee will not be able to assist you with any problems
+  resulting from such modifications.
+
+þ If you get the error "Get Static for Index", it means your game data has
+  become corrupt.  Run SCANDISK (if you have MS-DOS v6.20 or higher) or
+  CHKDSK /F (if you have any other DOS version - see your DOS manual for
+  instructions), then delete the game and reinstall.  If the problem persists,
+  it's possible your disks have some bad data; obtain another copy.
+þ If your copy of ROTT locks up randomly and you have a sound card, you might
+  be experiencing a DMA conflict.  These are caused by having more than one
+  hardware device sharing a DMA (Direct Memory Access) channel with your sound
+  card.  DMA channels are used by ROTT to send sounds to your sound card.  When
+  you have more than one piece of hardware on a single DMA channel, the chip on
+  your motherboard that controls DMA transfers may become confused and send the
+  sound to the wrong place.  When this happens, your system will lock up.
+
+  Devices that usually cause DMA conflicts include CD-ROM drives, older
+  dedicated FAX boards, tape backup drives connected to an accelerator card
+  (not including tape drives plugged into your floppy drive controller cable),
+  and in newer systems, the ECP/EPP parallel port on your I/O card or on the
+  motherboard itself.  If any of these devices are present on your system, they
+  may be the source of your lockups.
+
+  DMA conflicts cannot usually be spotted by diagnostic software (e.g., PC
+  Tools SI.EXE, Norton Utilities NDIAGS, etc.).  Apogee does not recommend the
+  use of such software to determine if you have a DMA conflict.  Instead, if
+  you suspect a DMA conflict, try the following test:
+
+       1.  Run the SNDSETUP program and select NONE for your Sound FX card.
+       2.  Play ROTT and watch for lockups.
+
+  If the game no longer locks up, then you were definitely experiencing a DMA
+  conflict between your sound card and some other device.
+
+  The ONLY way to resolve a DMA conflict is to physically move the conflicting
+  device to another DMA channel.  In all but the rarest cases involving devices
+  that "download" their configuration at boot-up time, you cannot do this
+  through software.  You also cannot solve the problem by simply unloading the
+  driver for the conflicting device.  Since this is a true hardware conflict,
+  the problem can persist even if the device driver is not loaded when you boot
+  your machine. In laymen's terms, booting clean won't solve the problem.  You
+  will most likely have to move a "jumper" (see your manuals for a description)
+  to physically reconfigure the conflicting device.  If you need assistance
+  with reconfiguring your device(s), please consult your system's manuals or
+  contact the manufacturer of the device(s) in question.  Apogee Software
+  cannot provide assistance for reconfiguring your hardware.
+
+  For best performance, do not move your sound card to a different channel:
+  leave it where it is (usually channel 1 for 8-bit cards, or channels 1 and 5
+  for 16-bit cards).  Instead, move the conflicting device.  After you have
+  resolved the DMA conflict, you may re-run the SNDSETUP program and re-select
+  your sound card under the Sound FX setup.
+
+  If your copy of ROTT still locks up, you may wish to check some settings in
+  your CMOS configuration as a last resort.  If any of these are on, then
+  switch them off:   Hidden Refresh, Hardware Video Shadowing, Turbo Switching.
+  Also, if you have either of these, turn them on: HD1 Block Mode; IDE HDD
+  Block Mode.
+
+þ If you have a Diamond SpeedStar video card, disable Zero Wait State.
+
+þ If you hear static when you are playing with a Sound Blaster or
+  compatible card, make sure to turn the MIC and LINE volumes to zero.
+  Your card may be seeing input from these, resulting in static.  For a
+  Sound Blaster Pro, the program that adjusts these is called SBP-SET:  see
+  your card's manual for precise instructions on how to do this.  If you
+  still continue to hear static after doing this, try disconnecting any
+  parallel port devices.  IRQ5 and IRQ7, which are used by sound cards, are
+  often frequently used by printers as well.  If you have both plugged in,
+  the result may be static and poor sound performance.
+
+þ If you are running a Compaq computer with a VGA card and the game tells
+  you that you do not have a VGA card, or if you experience lockups on a
+  Compaq computer with a VGA card, you will need to contact Compaq for a
+  special video driver.  The reason for this is that Compaq has some video
+  cards that do not conform to all proper detection methods.  There is a
+  device driver available from Compaq that will fix this problem.  The
+  driver's name is FINDVGA.SYS.  This file used to be available on their BBS
+  with the filename of SP0117.ZIP, but as of the writing of this document,
+  it is not available.  Please contact Compaq if you cannot locate the file
+
+þ If you are playing with a joystick, and your performance seems erratic, make
+  sure to calibrate the joystick inside the ROTT program.  Also, check and
+  make sure that the joystick port you are using for ROTT is speed adjustable.
+  If it is, then try tinkering with the speed.  If it is not, then there may
+  not be anything you can do to alleviate the problem, short of buying a game
+  card that provides speed adjustable game ports.  Check your port's manual for
+  more info.  Also, make sure you do not have more than one active joystick
+  port on your machine at any time.  If you have a game card that provides two
+  game ports, make sure that no other game ports (such as those on a sound card
+  or I/O card) are active.
+þ Help!  My Space Player is not recognized by ROTT!
+  The reason for this is that you must tell ROTT that you have this controller,
+  and you're using it.  This is done with the SPACEBALL command line parameter.
+  Please see the section on Command Line Parameters for more info.
+
+þ Help! My Cyberman is not recognized by ROTT!
+  The reason for this is that you must tell ROTT that you have this controller,
+  and you're using it.  This is done with the CYBERMAN parameter.  Please see
+  the section on Command Line Parameters for more info.
+
+þ Help! My Wingman Assassin is not recognized by ROTT!
+  Yup.  You guessed it.  You need to tell ROTT that you have this type of
+  controller, and that you're using it.  This is done with the ASSASSIN
+  command
+  line parameter.
+þ If you get an error that starts with either "FX SETUP ERROR", "MUSIC
+  ERROR", or some other error that has "sound" in the error, it means that
+  something is awry with your sound setup.  Delete the SOUND.ROT file in
+  your game directory and re-run the SNDSETUP.EXE program that comes with
+  ROTT.  Make absolutely sure that you select the proper sound card, since
+  an incorrect selection can cause errors.  If this doesn't work, try
+  reinstalling the game.
+
+þ If you have a GUS and you are not getting sound effects, or if your GUS
+  sound effects are scratchy or distorted, make sure your GF1 IRQ is set to
+  7 or lower.  This is controlled by the SET ULTRASND= command in your
+  AUTOEXEC.BAT file.  A sample of this command line would be:
+
+                        SET ULTRASND=220,1,1,7,5
+
+  The next to last digit on this line (the 7, in this example) is your GF1
+  IRQ.  This number must be 7 or less for ROTT to operate properly.  If it
+  is higher than 7, you will need to edit your AUTOEXEC.BAT and change it
+  to 7 or lower.  Save the change, exit your editor, and reboot so that the
+  change will take effect.
+
+þ If you get an error that starts with "Z_Malloc", or get "Max Precache
+  Reached", it means that you are having memory problems, usually due to a
+  lack of memory available for ROTT.  Make sure you are booting without a
+  memory manager, or things like disk caches that take up valuable memory
+  that ROTT needs to run properly.
+
+þ If you get an error that says "Different number of Pushwalls/Doors/etc when
+  trying to load a savegame", it means that either your map data or your save
+  game has become corrupt.  Go to the load save game menu, and delete the save
+  game in question.  If this doesn't solve the problem, reinstall ROTT.
+
+þ If you are playing a net/serial/modem game, and you get an error that has
+  "Player x is unsynced at ...." it means that you had bad packets or otherwise
+  had a bad connection.  Quit the game in progress and try again.
+
+þ If you get an error that says "Illegal Load Game Value", it means your save
+  game is corrupted.  Either save over it, or delete it.
+
+þ If you have an AWE32 Sound Card, and get the error "MPU-401 Initialization
+  Error", you will need to turn your computer totally OFF, wait about 5-10
+
+  seconds, and then turn it back on again.  Delete SOUND.ROT, and try
+  reselecting your music/sfx again.  This error is caused by picking incorrect
+  settings; if you pick the wrong settings for an AWE32, you need to power
+  down and retry, not just reboot.
+
+þ If you have an AWE32 Sound Card, and get the error that the AWE32 card is
+  not being detected when you try and select music, do the following steps
+  to set up AWE32 music:
+
+  1) Do a full reset of your computer; this means totally powering down, and
+     then restarting your computer (just in case the AWE32 is in a bad state).
+  2) Set up sound fx by running SNDSETUP.EXE. Do not setup music at this time.
+  3) From the DOS prompt, type "EDIT SOUND.ROT". (Or use your favorite text
+     editor; SOUND.ROT is an ASCII file)
+  4) On line 19, you should see the following: "MusicMode          0".
+     Change this to read "MusicMode          5".
+  5) On line 76 you will see settings for the Sound Blaster.  They will look
+     something like this:
+
+;
+; Sound Blaster Settings
+SBType             6
+SBPort             $220
+SBIrq              5
+SBDma8             1
+SBDma16            5
+SBMidi             $330
+SBEmu              $0
+
+     On the line that say "SBEmu", change the number that follows from "$0"
+     to be the same as the number following the "SBPort" parameter (in this
+     case, "$220").  For this example, you would have:
+
+;
+; Sound Blaster Settings
+SBType             6
+SBPort             $220
+SBIrq              5
+SBDma8             1
+SBDma16            5
+SBMidi             $330
+SBEmu              $220
+
+  6) Save the file and exit to DOS.  ROTT should now be able to detect your
+     AWE32 properly.  If you still have trouble, then you may have incorrect
+     values for the ports on your sound card.
+
+þ If you notice the game running slowly on your system, here are a few
+  suggestions on improving game performance.
+
+  ¯ Disable your disk cache.  Since ROTT does its own internal caching,
+    external caches get in the way.  This can result in anything from slow
+    performance to complete lockups.  Disk caches also take away memory that
+    the game could use to operate more efficiently.
+
+  ¯ Disable your upper memory manager (QEMM, 386Max, EMM386, etc).  Since
+    ROTT is a protected mode game, the services of these programs are not
+    needed.
+
+  ¯ Turn the option for "Auto Detail Adjust" on.  This will adjust the graphics
+    level of the game on the fly, and will attempt to keep the game moving at
+    a fast speed all the time.  When you hit a snag, or a possible slowdown,
+    ROTT will bump the graphics level down a bit until things speed up again,
+    and then will adjust the graphics back up.
+
+  ¯ Try reducing the screen size.  When playing the game, you can press either
+    '-' to reduce your screen size, or '+' to increase it.
+
+  ¯ Turn off the ceilings and floors.  This will usually speed things up
+    considerably, since the game will not have to draw or keep track of any
+    ceiling or floor graphics.
+
+  ¯ Try reducing the amount of digital channels that you have set for sound
+    effects.  Some system configurations have problems with having ROTT set
+    for higher than 4 digital channels.
+
+  ¯ Try reducing the mixing selection on your sound card from 16 bit to 8
+    bit.  This is done from the SNDSETUP.EXE program, under the "SETUP
+    SOUND FX" menu item.  8 Bit Mono is the fastest music/sound combination
+    there is in ROTT, so if you have slowdown problems, try selecting 8
+    Bit Mono.
+(11)
+Secrets in the Game
+(from the Apogee FAQ)
+If you start ROTT when your system clock indicates that it's one of five
+different holidays, the "group picture" of the five main characters is
+changed slightly.  In addition, on Christmas, the music for the first
+level is changed to a familiar Christmas tune.  The holidays and effects
+are as follows:
+
+   Easter             <varies>    Lorelei Ni wears Easter Bunny ears.
+   Cinco de Mayo       05/05      Ian wears a sombrero.
+   Independence Day    07/04      Doug holds an American flag.
+   Halloween           10/31      Thi wears a witch's hat.
+   Christmas           12/24      Taradino wears a Santa Claus hat; new music
+                       12/25      for the first level.
+
+Also, there's a way to get all five "holiday hats" in Rise of the Triad to
+show up on the screen at the same time.  If you finish the game the right way,
+and destroy all the larvae in the last level, watch ALL the credits (takes
+several minutes).  You'll get to a screen that says "The HUNT is victorious.
+The End."  Do nothing.  Let it sit there for about a minute or two, and
+you'll get another "The End" screen where all five "holiday hats" are shown
+at once.
+
+In the secret level "Eight Ways To Hell" (episode 3, area 8), designed by
+Joe Siegler (a noted and revered Dopefish follower), there's a hidden area
+about half way through the level.  It's a long, narrow hallway with
+boulders running down the middle and elasto-modes on the sides.  There's
+a touchplate at the beginning of the hallway which, when triggered, will
+open up a secret room.  The gray walls in the middle of the secret room
+spell a message written in the Commander Keen language (see the Keen
+secrets section, below).  Look at all the gray walls from all angles, or
+use the \MAP cheat (see the cheats section).  Then look at the map to see
+the letters.  Translated, it says, "Dopefish Lives!"
+
+Bosses play big roles in Rise of the Triad.  There are four, one at the end
+of each episode, and arranged in order of weakest to strongest.  There are
+ways to kill two of the bosses that the programmers at Apogee never thought
+to try.  These "loopholes" are "fixed" in version 1.3 of ROTT, but version 1.2a
+and previous versions still have the loopholes.  For Sebastian "Doyle"
+Krist, you can lure him out of the room by hitting the touch plate diagonally
+away and to the right of the gold door as you enter it.  The triggering the
+touchplate will block the gold door and open a passageway.  Lure Krist
+through here carefully, then through the brown door.  Then go up the
+staircase!  Krist, in his wheelchair will follow you up.  However, due to
+a bug in Krist's programming (he was never intended to ascend stairs), he
+won't fall back down to the ground.  He'll fire missiles at you, but with
+you safely beneath him, they won't hit.  Shoot him until he's dead.  You can
+also lure the NME out of the room he starts in, but if he's led into the
+nearby spinblades, the game will crash.
+
+The second loophole involves the final boss, El Oscuro, in his final form
+(the snake-like form).  Get a firebomb and an asbestos vest.  Then find
+El Oscuro and lure him into a corner.  Keep the corner at your back.  Aim
+the firebomb down and fire it -- this will thrust you up into the air.
+Land on El Oscuro and wait for him to exhaust himself.  (The intended method
+of killing him is to not fire at him at all, but dodge his own attacks until
+he dies of exhaustion.  Firing at him simply makes him stronger!)
+
+Several people have run across the curious message "I'm Free" while playing
+ROTT, and don't know what it means.  If you get this, you're probably playing
+either the "This Causes An Error" level in the registered version, or you're
+playing a user-made level.  The cause of the note is whenever a moving wall
+crosses the boundary of a level and just keeps on going.  The game detects the
+problem, but, before crashing with a regular error message, manages to put up
+the picture saying, "I'm Free" (drawn by Tom Hall).  The "This Causes An
+Error" level, originally titled "WanderWall Bug Map," has a pushwall in it
+that leaves the level, crashing the game with the "I'm Free" message.
+In the rejected ROTT levels (ROTT_REJ.ZIP), there is a level called "This
+Causes An Error Too."
+
+What all this is, is a manifestation of in-house humor.  If you don't get it,
+that's good, because you're not supposed to.  It's one of those "you had to
+be there" things.  At any rate, the story goes...during the development of
+ROTT, when a level was tested wherein a pushwall was inadvertantly directed
+out of the level bounds, someone joked, saying, "I'm free."  He probably
+wishes he hadn't, for all the confusion it's caused customers who have run
+across it -- either that, or, if he were more like me, he feels a deep sense
+of satisfaction in having successfully dumbfounded a significant enough
+percentage of the gaming community to warrant mention in FAQs such as these.
+(12)
+A Note From The Author
+    Well, that's all that I have to tell you.  I've written this
+file partially to save bandwidth on the newsgroup alt.games.apogee,
+and partly because I really like RotT.  It's a lot of information
+that I've included here, and I hope that you like it.  I've tried
+to make it the best I can, and if you do like it, thank you very much.
+You can tell me so at derekg@compass.net, I always enjoy getting
+mail.  If you didn't like it at all, tough nuggets.  If you think
+it should be altered, mail me.
+I can also be reached through my WWW page(which I think is pretty
+cool, but, hey, it's mine):
+http://www.compass.net/~derekg/
+I know I've had fun writing this,
+and I hope you had fun reading it.  A lot of the stuff in here is
+the result of people's help, so I'd like to thank the following people:
+
+Bernie Yee for writing the Rise of the Triad Official Player's Guide.
+Jon Durward<jgdurwar@uwaterloo.ca>, a friend and the author of Hex, for
+providing me with some good talks
+Joe Rovang<jrovang@netcom.com>, who proofread and made some good
+suggestions
+Sam Stoddard<his adresses usually change>, author of the Apogee FAQ,
+for lots of good information, which I put in this FAQ
+Hank Leukart<ap686@freenet.columbus.edu>, author of the Doom FAQ, for
+good stuff about the IHHD(which he gave me permission to use)
+and a really complete copyright notice
+Adam Williamson<adam@scss.demon.co.uk>, author of the Wolf3D and
+Terminal Velocity FAQ, for inspiration, though he doesn't know it
+
+and, last, though certainly not least,
+Joe Siegler<joe.siegler@apogee1.com>, for:
+1. Giving his Time.
+2. Giving Answers.  Lots of them.
+3. Not going insane from a constant barrage of
+questions and telling me to push off.
+4. Belching so well.  :)
+Without Joe, this FAQ would not be.
+
+           _|\_
+       \  /    \   Pisces Swimeatus
+       |>< |>  OO    The Dopefish
+       /  \___/UU
+
+"I just drew this stupid little fish."        -- Tom Hall
+
