@@ -36,3 +36,4 @@
 -uploaded newmaps readme
 -uploaded wlfnwmap and WON_GORY, fixed a few file names
 -uploaded WLFMP1.ZIP
+-uploaded new Mega Wolf release
