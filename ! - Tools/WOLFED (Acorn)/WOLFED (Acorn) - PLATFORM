@@ -1,0 +1,17 @@
+PLATFORMS
+---------
+
+This program was written and developed on a Risc PC 10M. No one else that 
+I know with Acorn equipment has anything other than a Risc PC, so testing 
+has been a little difficult.
+
+It definitely works under RO3.5, and there is no reason why it shouldn't 
+work under RO3.1x. In theory, if you have the Wimp Borders module, it should
+ work completely under RO2.xx as well, but I can't guaruntee it. If anyone 
+out there has RO2.xx, and finds that it works or not, I would very much 
+appreciate it if you could get in contact with me, and tell me. I might 
+be able to fix it so that it does (see the Docs.Legal file).
+
+Unfortunately, this program requires a Hard Disc, due to the size of the 
+files that can be produced, ie a patched ASWAP file can get as large as 
+1.5Mb long. Many apologies to those of you without a HDD.

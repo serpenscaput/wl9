@@ -1,0 +1,74 @@
+Archimedes Wolfenstein-3D
+
+ASWAP File Format Specification
+
+(c) 1994 Powerslave Software
+
+Written by Eddie Edwards 16/06/94
+
+This document describes the format used by the ASWAP file in the Powerslave
+Software conversion of Wolfenstein 3D.
+
+OVERALL STRUCTURE
+-----------------
+
+The first 4096 bytes contains the directory of the rest of the file.
+The next chunk of file contains the wall bitmaps
+The next chunk of file contains the object bitmaps (RL-encoded)
+The next chunk of file contains the samples
+
+DIRECTORY FORMAT
+----------------
+
+The first 8 bytes contain global information:
+
+Bytes 0/1       - Total number of items in the directory = W + O + S
+                  ORd with &8000 to indicate that this is an ASWAP and not
+                  a VSWAP file
+Bytes 2/3       - Total number of walls = W
+Bytes 4/5       - Total number of walls and objects = W + O
+Byte 6          - Major format number (currently 0)
+Byte 7          - Minor format number (currently 1)
+
+Then there are (W+O+S) 4-byte numbers, each of which is a file offset of that
+resource.  The last byte of a resource is always the byte before the first
+byte of the next resource.  There is a final 4-byte number, which is the length
+of the file (or the file offset of the next logical resource).  The rest of
+the 4K chunk is reserved and should be set to all binary zeros.
+
+The first W offsets point to wall bitmaps.
+The next O offsets point to object bitmaps.
+The last S offsets point to samples.
+
+WALL BITMAPS
+------------
+
+These are 4096 bytes each, and consist of raw data (each byte represents one
+pixel, with the Mode 13 palette). The bitmaps are stored column by column,
+i.e. the pixels are in order (0,0),(0,1)...(0,63),(1,0)...(1,63)...(63,63).
+
+OBJECT BITMAPS
+--------------
+
+These are run-length encoded. The actual data is in Mode 13 format, but it is
+encoded as follows:
+
+First byte - 0 = end of row
+             1-127 = that number of data bytes follow
+             128-255 = skip 256-that number of bytes (mask)
+
+There are 64 rows (and 64 columns). As an example, the following row:
+
+      ....XXXXXXXXX.....AAABBCD....
+
+would be stored as:
+
+252 9 X X X X X X X X X 251 7 A A A B B C D 0
+
+Only the mask is RL-encoded, the data per scanline is raw.
+
+SAMPLES
+-------
+
+These are in 8-bit logarithmic format, and should be played back at around
+6.5KHz.

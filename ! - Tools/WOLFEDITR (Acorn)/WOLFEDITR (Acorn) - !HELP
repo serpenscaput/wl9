@@ -1,0 +1,48 @@
+Name    : !WolfEditr
+Purpose : Provide an editor for Wolfenstein 3D for HDD users.
+Version : 1.00 (06.03.95)
+
+Author  : Nemesis (Author)             : Quantum general enquiries (Cobra)
+        : 9 Rosedale Avenue            : 7 Jervaulx Close
+        : Chesterfield                 : Boston Spa
+        : Derbyshire                   : Wetherby
+        :                              : West Yorkshire
+        : S40 2UY                      : LS23 6RY
+        : 01246 551948                 : 01937 844902
+
+Notes   : This program should work under all versions of RISC OS, it has
+        : been tested on a 4Mb ROS 3.11 A310, a 4Mb ROS 3.11 A5000, and requires
+        : 352k free memory.
+
+Status  : This program is Freeware, it may distributed freely but may not be
+        : altered in any way.
+
+General Use :
+===========
+
+The program requires the Wolfenstein directory to be located so it can access
+the ASWAP file. The program has editing windows for walls, objects and samples.
+Each window allows the user to flick through the current objects, which are
+displayed, the samples cannot be played (yet!). Inserting new sprites/samples
+could not be easier, simply drag the file to the relevant icon then save your
+new ASWAP file somewhere, NOT over your original ! Then quit the editor move
+your original and out your new one in place, then run !Wolf !! The ripper saves
+the ripped files inside the relevant directories in the editor, the samples are
+raw logarithmic.
+
+The files that you load in should be : Sprites, Mode 13 64x64 : Samples, raw
+logarithmic stamped as data files, the background to be masked on objects should
+be set to black (If you have any objections to this tell me and I'll see what I
+can do since it means you can't have black in the objects!!)
+
+Possible updates : 1. Specifiable directory for ripped objects.
+                   2. Loading any full ASWAP files.
+                   3. Sample playing/testing.
+
+I see no point in making this usable for floppy disk users as the ASWAP file is
+split over two disks anyway. It would make file access slower and file saving
+near impossible.
+
+If you want to swap PD write to the above address, also for bugs etc.
+
+Also any Metallica fans want to write then do so !!!

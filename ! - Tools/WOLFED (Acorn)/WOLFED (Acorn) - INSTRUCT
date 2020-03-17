@@ -1,0 +1,271 @@
+WHAT THIS PROGRAM WILL AND WON'T DO
+-----------------------------------
+
+This program will : Edit and Patch the Wolfenstein ASWAP data file, enabling you
+to change any of the graphics or sounds in Wolfenstein.
+
+This program will NOT : Create or Edit the Wolfenstein map files. I will be 
+starting on a program to do this once I receive the format of the map files from
+Eddie Edwards
+
+If you have any comments, suggestions or bugs (That my alpha tester hasn't found
+), please contact me at the addresses shown at the end of the Docs.Legal file
+        
+
+
+INSTRUCTIONS FOR USE
+--------------------
+
+Before you start, you must really make a backup of your original AWAP file.
+It makes life a lot easier in the long run!
+
+Naturally, you double click the !WolfEd icon in the filer window, and
+everying  being okay, the icon should appear on the icon bar.
+
+If you look at the iconbar menu, you will see 3 of the options are greyed
+out.  You will need an ASWAP file to continue.
+
+Double click on the ASWAP file, and the 3 options should not be greyed. Here is
+a description of what all of these options are.
+
+
+
+CHOICES
+-------
+
+This window lets you set up the program.
+
+ The way that the program works is to read the ASWAP file, and store the data 
+somewhere. The top selection of buttons (Storage)  refers to where the data is
+cached to. It's a personal thing as to where you put it. 
+
+If you want the system slightly faster, you can use RAMFS (Naturally, you
+need  a RamDisc open FIRST. It's up to you, the program just assumes you have
+a RamDisc), The Scrap directory, or the !WolfEd directory itself.
+
+The second set of buttons (Display) is used to speed up the scrolling through 
+of sprites. If you have "Always" set, then when you click on an arrow, the
+sprite and description is redrawn. If "Only..." is set, then when you click
+on an arrow, then only the description is changed. This is useful if you want
+to zip through the list.
+
+
+CONTROL
+-------
+
+This window can be obtained by clicking Select on the !WolfEd icon.
+
+This is the main control window of the whole program.
+
+The top writeable icon is the file spec of the "Source" ASWAP file. This is the
+file that the program takes all the data from. To give a "Source" name, double 
+click the ASWAP file (In the Wolfenstein directory, under Originals.ASWAP), or
+type in the file spec.
+
+The 2nd is the file spec of the "Destination" ASWAP file. This is the file that
+the program will construct. To give a "Destination" name, type it in, or press
+middle button over the window. This brings up a menu, then a Save window. Drag
+the file to the appropriate directory. 
+
+**WARNING** DO NOT DRAG IT INTO THE ORIGINALS DIRECTORY, (UNLESS YOU HAVE A 
+BACKUP). IF YOU DO, IT WILL QUERY THE ACTION. IF YOU CLICK ON "OK" IT WILL
+THEN DELETE THE FILE
+
+The "Create ASWAP" icon initiates the construction of the "Destination" file.
+This will build a new file, including any files that you have give it (See
+WALLS, OBJECTS and SOUNDS).
+
+NOTE : Save ASWAP from the quick menu (see below) is different to the save from
+the this window. The one from the quick window uses the directory as a source.
+The one from the this window uses any files that have been dragged to the wall,
+object or sound windows.
+
+
+The "Quick Window" icon opens up a window which is useful for large scale import
+or export of data from the ASWAP file. (See below)
+
+The "Single Task" icon, when clicked, switches into a Monotasking mode. This
+means that the ASWAP file is created quite a bit quicker than in multitasking
+mode. Press any key to return to multitasking mode, while in monotasking mode.
+
+The "Pause" and "Continue" icons. Guess what they do!
+
+The "Stop" icon will stop the creation of the new ASWAP, and close all relevant
+files.
+
+ 
+
+QUICK WINDOW
+------------
+
+This window can also be opened by clicking adjust on the !WolfEd icon on the
+icon bar.
+
+This window is split up into 2 main parts.
+
+The top part is the export window. It contains a draggable directory icon,and 
+two writeable icons. Drag the directory icon to a filer window where you want to
+save the data from the ASWAP file. You then type in the range of the data.
+Currently :
+
+    Walls are from 0 to 105, Objects 106 to 541, Sounds 542 to 587.
+    
+eg, if you want to save all the walls, you would put 0 into the top box, and 
+105 into the bottom box, and so on.
+
+To actually extract the data (called resources in the window), click "Extract".
+The format of the resulting directory structure is shown below.
+
+The other section of the window, is the "Quick ASWAP creation"
+
+If, for example, you have 50 sprites which you want patched into an ASWAP file,
+it would take a long time to do it by hand, so what you do is: create the 
+correct directory structure (see below), and name all the sprite files
+correctly, and then drag the directory containing them all onto the arrow.
+
+When you press "Make ASWAP", the program will scan the directory that you
+specified, looking for the correctly named files. If it comes across one, it
+will patch it into the resulting ASWAP file. If it can't find the file, then it
+will just copy the original out of the source ASWAP. 
+
+The format of the directory is as follows :
+
+"ResDir" means the name of the directory that you have chosen as input or output
+directory.
+
+
+ResDir----Objects-----------SubObjt0------Ojb00
+        |               |               |
+        |               |               |..
+        |               |               |
+        |               |               |-Obj76
+        |               |
+        |               |...........
+        |               |
+        |               |
+        |               |
+        |               |---SubObjt5------Obj??
+        |                               |
+        |                               .....
+        |                               |
+        |                               |.Obj??
+        |
+        |-Sounds-----------SubSound0------Sound00
+        |                               |
+        |                               |..
+        |                               |
+        |                               |-Sound45
+        |
+        |
+        |-Walls------------SubWall0-------Wall00
+                        |               |
+                        |               |..
+                        |               |
+                        |               |-Wall76
+                        |
+                        |
+                        |--SubWall1-------Wall77
+                                        |
+                                        |..
+                                        |
+                                        |-Wall105
+                                        
+The name of the walls has to be Wall??. The first 0-76 are in subwall0, the 77
+to 105 are in subwall1. The objects have to be Obj???. The first 000-076 are in
+subobjt0, the next group of 77 are in subobjt1 and so on. The files HAVE to be
+in the correct directories, otherwise, they won't get detected.                                 
+ Create a directory with just a couple of resources in, to get the idea of the
+structure. If you use the list of descriptions given in the file SprMsg inside
+the WolfEd directory, it is possible to reconstruct an entire aswap in one go.
+
+NOTE : Save ASWAP from the quick menu is different to the save from the
+"Control" window. The one from the quick window uses the directory as a source.
+The one from the control window uses any files that have been dragged to the
+wall, object or sound windows.
+
+
+
+WALLS
+-----
+
+This window shows the different walls in the game. You can step through them by
+using the arrows in the window, or by typing in the number of the wall you 
+want, by pressing return while the caret is in the window, or by clicking "View
+Sprite".
+
+When you click the arrows, the sprite might or might not update (depending upon 
+the current choices)
+
+To incorporate a new wall sprite, you just drag the sprite FROM A FILER WINDOW
+onto the sprite in the window. The sprite file must have only one mode 28 (8bpp)
+64 * 64 sprite, with or without a mask. If the sprite isn't correct, then the
+program will inform you. If it has more than 1 sprite in the file, it will only
+use the first. If it has a mask, it may be displayed incorrectly in the Walls
+window. It should work properly in the game though.
+
+To save a sprite, you press middle button over the window. This will open up a 
+save window. You can then drag the sprite to a filer window.
+
+NOTE. This program doesn't support RAM transfer, due to the large numbers and 
+volumes of files produced.
+
+
+
+OBJECTS
+-----
+
+This window shows the different objects in the game. You can step through them 
+by using the arrows in the window, or by typing in the number of the object you want, 
+by pressing return while the caret is in the window, or by clicking "View Sprite".
+
+When you click the arrows, the sprite might or might not update (depending upon the 
+current choices)
+
+To incorporate a new object  sprite, you just drag the sprite FROM A FILER 
+WINDOW onto the sprite in the window. The sprite file must have only one mode 28 
+(8bpp) 64 * 64 sprite, with a mask . If the sprite isn't correct, then the 
+program will inform you. If it has more than 1 sprite in the file, it will only use 
+the first.
+
+To save a sprite, you press middle button over the window. This will open up a 
+save window. You can then drag the sprite to a filer window.
+
+NOTE. This program doesn't support RAM transfer, due to the large numbers and 
+volumes of files produced.
+
+
+
+SOUNDS
+------
+
+This window gives you access to the sounds inside the game. Use the arrows to 
+find the sound that you are looking for, or alternatively, type the number into 
+the writeable icon.
+
+To listen to the sound press return, or click "Hear"
+
+To incorporate a sound, you just drag the file FROM A FILER WINDOW onto the 
+window. The sound file must have its type set to &631. This is a logarithmic 
+format. The sound must be normalised to 6.5KHz, ie if played back at 6.5kHz, it 
+sounds correct. This program won't do this, but there are many out there
+that will.
+
+To save a sound, you press middle button over the window. This will open up a 
+save window. You can then drag the sound file to a filer window.
+
+NOTE. This program doesn't support RAM transfer, due to the large numbers and 
+volumes of files produced.
+
+
+GENERAL NOTES ABOUT USE
+-----------------------
+
+When creating an ASWAP, all other file activity for the program should be
+stopped. In order to do this, I have disabled the dragging of files to any of
+the windows, and stopped the recognition of a double click on an ASWAP file.
+Also stopped is the saving of resources from the windows.
+
+If, when using a Risc PC, and you kill the program with an AltBreak, when file
+accessing is going on, there is a high possibility that a file will be left
+over. This may cause a problem when the program is next run, or when !Wolf is
+run.
