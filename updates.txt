@@ -34,3 +34,4 @@
 17.03.2020
 -uploaded 1993 Xmas Wolf
 -uploaded newmaps readme
+-uploaded wlfnwmap and WON_GORY, fixed a few file names

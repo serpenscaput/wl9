@@ -1,0 +1,26 @@
+This is a sample floor map of what can be accomplished with Wolfenstein Map 
+Editor.  Change the original or create your own from scratch.  Make the floor
+harder by adding more guards, make the floor easier by adding more ammunition
+and bigger guns.  Add secret passages to the original maps.  Its your choice.
+
+To use this new floor map, replace the original map files MAPHEAD.WL1 and
+MAPTEMP.WL1 with the files included.  Either copy the old files to another
+directory or rename them.  These new floors were designed for a challenge,
+so it is recommended to play at the hardest skill level to get the full effect.
+NOTE: These files are for version 1.0.
+
+The Wolfenstein Map Editor is very user friendly.  You can change the walls,
+floors, guards, dogs, guns, ammunition, treasure, tables, beds, etc.
+Everything on the floor map can be changed.  The program is menu-driven with
+functions like copy block, fill block, and print floor to file.  Copy rooms
+from one level to another.  You will not be disappointed with the quality and
+features of the editor.
+
+The editor can edit version 1.0 and I am working on version 1.4.
+
+To receive the map editor and all future updates, send $10 to:
+
+                        Jef Duncan
+                        c/o Tad Ashlock
+                        P.O. Box 1619
+                        Edgewood, NM  87015-1619
