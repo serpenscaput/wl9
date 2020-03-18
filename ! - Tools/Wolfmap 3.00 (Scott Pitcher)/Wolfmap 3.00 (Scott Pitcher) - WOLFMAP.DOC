@@ -1,0 +1,112 @@
+WOLFMAP 3.00, Scott Pitcher 1992 - FREEWARE
+===========================================
+
+
+DISCLAIMER:
+
+	THIS  PROGRAM IS  PROVIDED AS IS  WITH NO  WARRENTY
+	WHAT-SO-EVER.  IT IS UP  TO THE  USER TO  DETERMINE
+	ITS FITNESS FOR USE. I WILL NOT BE HELD RESPONSIBLE
+	FOR ANY DAMAGES THAT ARRISE THROUGH THE USE,MISUSE,
+	INABILITY TO USE, OR ABUSE OF THIS PROGRAM.
+
+
+
+OVERVIEW:
+
+ This program is a map maker for the Wolfenstein 3D and Spear of Destiny
+games. It will create ascii maps for all four versions ...
+
+	Wolfenstein 3D 10 level game
+	Wolfenstein 3D 60 level game
+	Spear of Destiny 2 level demo game
+	Spear of Destiny 21 level game
+
+Note: these level totals include all the secret levels.
+
+
+CREDITS:
+
+	Source Code 			- ME!!!
+	Object & Map Codes 		- (most) Digital Aasvogel Group
+					  (some) ME!!!
+	Wolf6 help (data files)		- John
+
+
+USE:
+
+ To use the WOLFMAP program you must supply a valid command line,
+containing map numbers, and an output file. Optional switches are
+as follows ...
+
+/WL6	...	Use this for Wolfenstein 3D 6 game/60 level version.
+
+/SDM	...	Use this for Spear of Destiny 2 level demo version.
+
+/SOD	...	Use this for Spear of Destiny 21 level version.
+
+[***NOTE: if you do not use one of the above 3 switches, then the game
+defaults to the Wolfenstein 3D 10 level demo version.]
+
+/HELP	...	Supply some command line help.
+/H
+/?
+
+/DIR=	...	Use this to specify the drive/directory in which the 
+/D=		game is installed.
+
+/HEXDUMP ..	Use this one to create a hex dump of the finished map.
+/HD		Useful for discovering those 'unknow' codes.
+
+/ALL	...	This one can be used instead of individual map numbers. It
+/A		should work with Wolf6, but god knows how your going to
+		view the humungeous text file that it will produce! HAS NOT
+		BEEN TESTED WITH WOLF6.
+
+/KEY	...	Forces (sounds kinky) the program to write a key with all
+/K		the objects and map data that it knows. Prints the name,
+		ascii character and hex code.
+
+/NOWARN	...	If you don't want a list of unknown object and map data that
+/W		the program finds when it dumps a map, use this. I added this
+		when I had a bell '\a' character in the string that displayed
+		the warning. I removed that in the end anyway!
+
+The command line is structured as follows ...
+
+C> WOLFMAP [switches] [game numbers] [output file]
+
+e.g.
+
+C> WOLFMAP /WL6 /D=\games\wolf3d 1 2 18 19 maps.txt
+
+[**notice that to display games 2-6 you use the game number * 10
+plus the map number]
+
+
+NOTES ON PRINTERS & EDITORS:
+
+ You may have trouble getting your editor to read the text files correctly.
+I have used the DOS EDIT command, and the MicroEMACS editor. Both work fine.
+As far as printers go, mine would not print any of the maps completely but
+if you can disable the high-bit ascii codes then it should work. The
+reason for this is that some of the map codes are control characters, and
+I have not had the time to go and change them all (only set the high bit
+for codes < 0x20). I'll mess around with this some time in the future.
+
+
+SOURCE CODE:
+
+ You can do what ever you want with the source code. If you recompile the
+program though I would appreciate some credit. The program was written for
+Turbo C++ 3.0, although it should compile with just about any compiler. A
+make file for TC has been included. All object files and the .EXE have been
+compiled using the small memory model (-ms).
+
+I would appreciate any help with finding the unknown map and data codes. You
+can contact me on FidoNet in the Australian Games conference.
+
+			- Scott Pitcher
+
+[Wolfenstein 3D and Spear of Destiny are copyright by Id Software]
+

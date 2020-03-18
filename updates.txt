@@ -52,3 +52,4 @@
 -uploaded NEOWOLF
 -uploaded BLAKEMAP 1.1
 -uploaded Darkstar 1.0
+-uploaded Wolfmap 3.00
