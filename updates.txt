@@ -50,4 +50,5 @@
 -uploaded BSNEWF
 -uploaded SODEDIT
 -uploaded NEOWOLF
--uploaded Doom resource packs
+-uploaded BLAKEMAP 1.1
+-uploaded Darkstar 1.0
