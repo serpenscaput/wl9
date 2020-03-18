@@ -1,0 +1,86 @@
+^P
+^G 16 16 [M_CURS1]
+^C[Red]QUICK COMMAND REFERENCE
+^c00
+^C[Red]Arrows ^c00move. ^C[Red]Ctrl ^c00shoots. ^C[Red]Alt ^c00strafes. ^C[Red]1-6 ^c00select weapons.
+
+^C[Red]F1			^c00Help
+^C[Red]F2			^c00Save game ^C[Red](F8 for Quick save)
+^C[Red]F3			^c00Load game ^C[Red](F9 for Quick load)
+^C[Red]F4			^c00Sound menu
+^C[Red]F5			^c00Resize view window
+^C[Red]F6			^c00Controls menu
+^C[Red]F7			^c00End Game
+^C[Red]F10		^c00Exit to Desktop
+^C[Red],			 ^c00Strafe left
+^C[Red].			 ^c00Strafe right
+
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkBlue]WOLFPAK 1 ^C00- a compilation of my early levels, made from 1996-2006
+
+^C[DarkBlue]WOLFPAK 2 ^C00- a compilation of vanilla Wolf3D mods, made from 1993-2001 (hi-res)
+
+^C[DarkBlue]HALTEN SIE! ^C00- A conversion of Halten Sie to ECWolf, available in low or hi-res
+
+^C[DarkBlue]ESCAPE FROM TOTENHAUS ^C00- another conversion, only available in Low-Res
+
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkBlue]SECOND ENCOUNTER ^C00- A conversion of the Mac/SNES Levels, in low or hi-res.  Obsolete after Executor's version.
+
+^C[DarkBlue]ASTROSTEIN (Spifferaneous) ^C00- A conversion of Spiff's version of Astrostein.  Regular or HiRes
+
+^C[DarkBlue]ASTROSTEIN (Mac) ^C00- a fix for the Mac version of Astrostein, PC Compatible, requires dev version of ECWolf
+
+^C[DarkBlue]MAC GFX PACK 
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkBlue]THE RENOVATION ^C00- A conversion of BJ Rowan's 1994 level set to ECWolf
+
+^C[DarkBlue]CONFLICT IN THE FATHERLAND ^C00- A conversion of BJ Rowan's 1999 level set to ECWolf
+
+^C[DarkBlue]SPEARPAK ^C00- Like "WOLFPAK 2", this is a compilation of old school Spear scenarios.
+
+^C[DarkBlue]WOLFBEL ^C00- A conversion of Brian Lowe's level sets to ECWolf
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 16 16 [NPSMALL1]
+
+
+
+
+
+
+
+
+
+
+^C00A mod for "Super 3D Noah's Ark", aliens have come to Earth to rape its resources!  Only Noah can stop them!
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^C00I've been making mods for Wolfenstein 3D off and on
+since around 1996.  I have just recently started messing
+around with ECWolf, and this (so far) is the culmination
+of these efforts.
+^P
+^G 16 16 [ASTROCRP]
+^C00Aside from modding Wolf, I also enjoy making music and
+editing/creating images in Photoshop.  My GFX work is
+mostly done in these games, but you can check out my music
+at soundcloud.com/aquafiend.
+^P
+
+
+^C Sam Feichter (AstroCreep) 2016
+^C[Red]Wolfenstein 3D ^C00by iD Software
+^C[Gold]ECWolf ^C00by Braden Obrzut (Blzut3)
+
+ To download more of my mods, check the ECWolf Forum
+http://forum.drdteam.org/viewforum.php?f=174
+^E

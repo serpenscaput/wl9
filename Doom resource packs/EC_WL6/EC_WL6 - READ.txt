@@ -1,0 +1,29 @@
+ECWolf Vanilla-Style Resource Pack
+by Astrocreep 3/15/19
+
+This is a simple editing resource pack, designed to get anyone
+up and going making vanilla-styled levels for ECWolf with 
+extended features such as elevators, switches, and other stuff.
+
+NOTE:  To enable plane depth, zheights, and brightness levels, you need
+to uncomment the lines that you want to use in the XLAT file,
+until then those features are disabled.  I did not define flats,
+since this is a "vanilla-themed" resource pack.
+
+This includes a .WMC file for WDC with extra tiles already
+programmed, a few variants of the bosses that drop keys 
+instead of ending the game, and a couple weapons borrowed
+from Coffee Break, plus a few SOD actors
+
+TO USE
+
+create a new project in WDC, set MAXPLANES to 4 (if you want
+to use switches and other info plane stuff) and load ec_wl6.wmc
+as the map definition file.
+
+I highly recommend you read the XLAT tutorials included as well.
+
+CREDITS:
+
+Extra walls and resources from Coffee Break by Executor
+and Spear of Destiny

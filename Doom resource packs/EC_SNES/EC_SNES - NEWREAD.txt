@@ -1,0 +1,6 @@
+EC_SNES
+by AstroCreep
+
+this is a modified version of ec_macwolf, frankensteined with the SNES assets.
+The WDC hasn't been edited, but all match up to their SNES counterparts.
+

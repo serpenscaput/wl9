@@ -1,0 +1,14 @@
+SPEAR TRAP DECORATE ACTORS
+
+Two environmental hazard actors, based off of the spear traps from ROTT
+
+Sprites - AstroCreep, adapted from ROTT Original Specs and Rise of the Triad
+Sounds - Rise of the Triad
+DECORATE script and SNDINFO - AstroCreep
+
+Feel free to use this for any projects!  (credit provided of course)
+
+KNOWN BUGS
+
+Sound doesn't seem to be positional in ECWolf yet, so if this actor is used you will continuously hear the sounds
+within the level.

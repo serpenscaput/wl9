@@ -1,0 +1,14 @@
+FIRE JETS / FIRE PIT DECORATE ACTORS
+
+Three environmental hazard actors, based off of the fire jets and fire pit from ROTT
+
+Sprites - AstroCreep, adapted from Rise of the Triad
+Sounds - Rise of the Triad
+DECORATE script and SNDINFO - AstroCreep
+
+Feel free to use this for any projects!  (credit provided of course)
+
+KNOWN BUGS
+
+Sound doesn't seem to be positional in ECWolf yet, so if this actor is used you will continuously hear the sounds
+within the level.

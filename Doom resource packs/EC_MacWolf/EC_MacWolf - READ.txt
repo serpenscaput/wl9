@@ -1,0 +1,50 @@
+Mac Wolfenstein 3D ECWolf Mapping Pack
+by AstroCreep 3/31/19
+
+This is a simple mapping pack for use with the dev version of
+ECWolf and WDC, to make it a bit easier to use the extended 
+features that ECWolf enables, like remote-activated doors/pushwalls,
+flats, plane heights, light levels and more!  Not to mention
+the fact that WDC cannot make MacWolf maps, this at least works
+as an in between (pc format maps using Mac assets) 
+
+Since MacWolf's resources are stored and translated differently,
+the XLAT has been rewritten completely for use with this pack.
+
+To use this, simply use this PK3 as a base for your project,
+and using WDC, start a new project using Wolfenstein 3D as 
+your base project, set MAXPLANES to 4 and 
+load ec_macwolf.wmc as your map definition file.  To play MacWolf
+in ECWolf you must first MacBin your data files (the application and the
+Second Encounter level file) and rename to wolf3d.bin and wolflvls.bin
+(easiest way being on a modern mac type macbinary encode in a terminal window
+and drag and drop files to window and press enter)
+then open IWADINFO.txt in ecwolf.pk3 and remove the Preview flags from the
+MacWolf defs.  Only the dev version of ECWolf supports MacWolf
+
+To use the new features, I recommend reading my tutorials on
+Zombie's WOLFSOURCE website, which details some of the 
+features in depth.
+
+Also note, Mac Wolf support is incomplete.  It mostly works
+gameplay wise but it mainly doesn't handle the intermission
+and menu graphics and scenario map information.  These can
+be fixed in your mod by providing the missing graphics (mainly
+fonts and menu graphics, plus the intermission is missing a
+font and the pic is the wrong palette) and defining a mapinfo
+file.  This pack includes the basics to get those working.
+
+Since I am aware that MacWolf is incredibly hard to find,
+I am also including the assets (sounds, imf format music,
+walls and sprites) in a seperate pk3 file, so that this can be
+loaded and used with PC Wolf3D, to use simply copy the assets to ec_macwolf.pk3
+add the defs from textures.txt to the textures.txt in ec_macwolf.pk3 and then
+use the pk3 as a base for your project.
+
+
+Additional textures by AstroCreep
+Switch sound effect and menu graphics from Wolfenstein 3D
+
+NOTE:  If you try to play a vanilla MacWolf mod or
+regular ol MacWolf with this, it probably won't work right.  
+Best to use a shim file and write a new MAPINFO.

@@ -1,0 +1,19 @@
+Super 3D Noah's Ark ECWolf Mapping Pack
+by AstroCreep 3/31/19
+
+This is a simple mapping pack for use with the dev version of
+ECWolf and WDC, to make it a bit easier to use the extended 
+features that ECWolf enables, like remote-activated doors/pushwalls,
+flats, plane heights, light levels and more!
+
+To use this, simply use this PK3 as a base for your project,
+and using WDC, start a new project using Super 3D Noah's Ark as 
+your base project, set MAXPLANES to 4 and 
+load ec_noah.wmc as your map definition file.
+
+To use the new features, I recommend reading my tutorials on
+Zombie's WOLFSOURCE website, which details some of the 
+features in depth.
+
+Additional textures by AstroCreep
+Switch sound effect from Wolfenstein 3D

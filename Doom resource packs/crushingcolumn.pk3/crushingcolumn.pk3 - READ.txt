@@ -1,0 +1,9 @@
+CRUSHING COLUMN DECORATE ACTOR
+
+an environmental hazard actor, based off of the crusher from ROTT
+
+Sprites - AstroCreep, adapted from Wolfenstein 3D and Rise of the Triad
+Sounds - Rise of the Triad
+DECORATE script and SNDINFO - AstroCreep
+
+Feel free to use this for any projects!  (credit provided of course)

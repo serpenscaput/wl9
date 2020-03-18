@@ -1,0 +1,11 @@
+This resource PK3, when used with ec_macwolf.wmc, makes it so you can
+use the Mac version assets with PC files, copy
+the contents of this pk3 to your mod (along with ec_macwolf.pk3, paste this afterwards, copy the texture defs manually and paste in file)
+Afterwards, all tiles will load properly with PC Wolfenstein
+
+CREDITS:
+sprites from:
+Sprite Fix Project by PSTrooper
+Walls and sounds from Mac version of Wolf3D (added for max compatibility with mac scenarios)
+all other resources by AstroCreep
+
