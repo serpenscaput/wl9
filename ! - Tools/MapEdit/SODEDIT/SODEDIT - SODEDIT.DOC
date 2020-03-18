@@ -1,0 +1,461 @@
+ SODEDIT 1.1  -  Spear of Destiny (SOD) Map Editor
+ -----------  -  ----- -- ------- ----- --- ------
+
+
+*******************
+*   QUICK START   *
+*******************
+
+!!!  important  warning  !!!  important warning  !!!  important warning  !!!
+-----------------------------------------------------------------------------
+-- BE SURE YOU HAVE BACKUP COPIES OF YOUR MAP FILES PRIOR TO USING SODEDIT --
+-----------------------------------------------------------------------------
+!!!  important  warning  !!!  important warning  !!!  important warning  !!!
+
+Read the file  EDITTIPS.DOC  that is included with SODEDIT.   This is a
+collection of hints and tips that were compiled by Warren Buss after many
+hours of constructing and editing maps.  It is an excellent source of
+information for both the new and experienced user, and can eliminate a
+great deal of frustration if read prior to experimentation with SODEDIT.
+
+To use SODEDIT, place all SODEDIT associated files (see the MANIFEST file)
+in your SPEAR OF DESTINY subdirectory.
+
+Type SODEDIT to start the editor.
+
+A swap directory is required for temporary use during execution of SODEDIT.
+You will be prompted for a drive letter upon which a temporary subdirectory
+will be created.  See the note below for swap size requirements, optimization
+suggestions, and potential clean-up problems.
+
+
+
+----------------------------------
+    SPEAR OF DESTINY MAP FILES
+----------------------------------
+
+Important note:  Be sure you have back-ups of the following
+                 files prior to using SODEDIT.
+
+Spear of Destiny uses two files to store the gamemaps.  These files are
+named MAPHEAD.SOD and GAMEMAPS.SOD.
+
+SODEDIT reads and modifies these two files, so be sure you have a back-up
+filed away somewhere prior to running SODEDIT.
+
+
+
+--------------------------
+    SODEDIT SWAP SPACE
+--------------------------
+
+SODEDIT requires temporary disk space to be available as a "swap directory"
+during execution.  You will be prompted for a drive letter to use for this
+swap space.  A subdirectory named SODSWAP.DIR will automatically be created
+on this drive.  Assuming the program terminates normally, this directory will
+be deleted automatically.  If, for some reason, SODEDIT aborts, you will have
+to manually remove all of the temporary files that are created in this
+directory and then remove the directory from the drive.
+
+The amount of swap space required is dependent on the complexity of the maps,
+and will vary as you make edits.  A good rule of thumb is to have at least
+twice as much space available as the size of the original GAMEMAPS.SOD file.
+(This will usually be about 600k to 700k bytes.)
+
+When SODEDIT is first started, all of the levels are read from the
+GAMEMAPS file into the swap disk.  In addition, as you scroll through
+the levels using the up and down arrow keys, levels are swapped to and
+from disk.  Due to this inherent I/O time, it is recommended that you
+use a RAM disk for swap space.  This will eliminate disk access except for
+the initial reading of the GAMEMAPS file and writing the edited version upon
+exiting SODEDIT.
+
+
+
+------------------------
+    SODEDIT HOT-KEYS
+------------------------
+
+    F1 - display full-screen help
+
+     1 - display only level 1 guards
+     2 - display only treasure and one-ups
+     3 - display only level 3 guards
+     4 - display only level 4 guards
+     5 - display only super guards
+     6 - display only ammo, guns, food, first aid, and one-ups
+     # - display only level 1 and level 3 guards
+     $ - display only level 1, level 3, and level 4 guards
+     % - display only guards (all levels)
+
+     A - display All objects
+     C - Clear level (grey brick around the outside inside filled with
+                      selected map value)
+     E - Exchange clipboard map with screen map
+     F - toggle display of Floorcodes on/off
+     M - Memorize present map (into clipboard)
+     N - change the Name of the current level
+     O - toggle display of Objects on/off
+     Q - Quit (you will be prompted to save)
+     R - Read a floor file from disk into clipboard
+     S - toggle between Statistics and help summary display
+     T - Transfer clipboard map to screen
+     W - Write screen map to a floor file
+     Z - 'Zap' all floorcodes within room under cursor to the floorcode
+            currently assigned to the left mouse button
+
+<Space>- toggles legend mode between map and object items
+<Pgup> - scrolls legend display up
+<Pgdn> - scrolls legend display down
+
+<Up Arrow>    - go to next level
+<Down Arrow>  - go to previous level
+
+<Left Arrow>  - display left mouse button selection
+<Right Arrow> - display right mouse button selection
+
+
+
+-------------------------------------------
+    GENERAL DISCUSSION OF MAP DATATYPES
+-------------------------------------------
+
+In Spear of Destiny there are two different types of data that can be assigned
+to a given square.  One is known as "map" data, and the other is "object"
+data.  Examples of "map" data are: various wall types, doors, and "floor
+codes".  "Object" data is all of the other scenery (treasure, food, ammo,
+tables, etc.)  Guards are also considered to be object data.  SODEDIT
+requires map and object "definition" files to specify the symbol and
+provide a short bit of text to remind you of what each specific item is.
+These definition files are described below.  At any time, SODEDIT is in
+either "Map Mode" or "Object Mode" depending on which Legend is currently
+being displayed on the right of the screen.  You toggle the mode by either
+pressing the space bar or clicking the appropriate box below the Legend
+window.
+
+The left and right mouse buttons can each be assigned a "map" code and
+an "object" code.  Thus, you can have 4 different codes (2 map and
+2 object) at your fingertips.  You switch between them by toggling the
+Legend.  You can assign values to the mouse buttons in 2 ways: (1) by
+selecting the desired item in the Legend window, or (2) by "memorizing"
+an item by holding either shift key and clicking the desired mouse button
+while pointing to the desired item in the Map window.  Note that the
+datatype (map or object) that is memorized depends on the current Legend
+mode.
+
+The map or object datatype that is currently assigned to a mouse button
+is displayed in the lower left corner of the SODEDIT window.  To switch
+between display of left and right values, use the left and right arrow
+keys.  To switch between datatypes, toggle the legend mode by either
+pressing the spacebar or clicking on the appropriate box in the legend
+window.  The mouse button annotation consists of two characters to
+indicate what is currently being displayed (left/right and map/object)
+followed by the symbol and the descriptive text.
+
+
+
+------------------
+    MAP WINDOW
+------------------
+
+Whenever the mouse is in the map window, the map and object data for the
+selected square will be displayed beneath the window.  Clicking either
+mouse button will change either the map or object data in the map to the
+item currently assigned to that button.  The datatype that is assigned
+(either map or object) depends on the current Legend mode.
+
+Holding down the SHIFT key and selecting a map/object value using the
+left/right mouse button will memorize that value for that button.  (See
+General Discussion above)
+
+Holding down the CONTROL key while pressing either mouse button and
+pointing to an object (with the legend in object mode) modifies the
+display to only show objects of that type.  This functionality is similar
+to use of the '1' through '6' and associated shift keys shown above.
+
+Holding down the CONTROL key while pressing either mouse button and
+pointing to any wall code (with the legend in map mode) modifies the
+display to only show locations with that wall code.
+
+Holding down the CONTROL key while pressing either mouse button and
+pointing to any floor code (with the legend in map mode) modifies the
+display to only show locations with that floor code (as well as all
+walls, but no objects).
+
+Note that when displaying only specific items (either through the
+CTRL+Click combination or use of the '1' through '6' and associated
+shift keys) the map and legend borders change to red and map changes
+are prohibited until all objects and map codes are re-displayed by
+using the 'A' command (or scrolling to another level).
+
+Holding down the CONTROL and ALT keys while pressing either mouse button
+will change all map or object types of the kind pointed at to the type
+that has been assigned to that mouse button.  The types that are changed
+depend on the current mode (map or object).  (This can be a dangerous
+operation.  Use with caution.)
+
+To use the "Rubberband" feature, click and drag the mouse to form a
+rectangle.  This allows you to rapidly draw boxes of any map data type
+(walls and floorcodes).
+
+
+---------------------
+    LEGEND WINDOW
+---------------------
+
+The window on the right side of the screen displays the map/object legend.
+Clicking on UP/DOWN or pressing the page up/down keys scrolls through the
+list.  Clicking on MAP/OBJ or pressing the spacebar switches between the
+map and object lists.  Clicking on an item in the list with either mouse
+button makes it the "current" item for that button.
+
+After each guard in the object list, there is a 3 character description
+which indicates what difficulty level the guard appears on, whether they
+are moving or stationary, and what direction they are facing/walking.  For
+example, "1/S/E" means a level 1 guard, stationary, facing east.
+
+
+
+-------------------------------------------------
+    MEMORIZE, TRANSFER AND EXCHANGE FUNCTIONS
+-------------------------------------------------
+
+With these operations you can move maps from one floor to another.  All of
+these operations involve the floor that is currently displayed. If you
+want to copy a floor, move to the floor you want to copy and press the 'M'
+key.  The Memorize line in the help display will turn yellow indicating that
+you have stored a floor in the clipboard.  This will now stay yellow for the
+rest of the session because there will always be something stored.  You can
+now Transfer (Paste) the clipboard floor wherever you want.  Move to the
+floor where you want the stored floor to be and either press 'T' to Transfer
+the stored floor from the clipboard to the current floor or press 'E' to
+exchange the clipboard floor with the current floor.  If the Memorize line
+in the Help display is not yellow (nothing stored) these functions won't work.
+They will flash red in this case.
+
+Transfer causes the clipboard floor to be copied on top of the displayed
+floor, thus losing it. If you don't wish to lose the current floor, then
+either use the Exchange function or save the floor by writing it to disk
+before using Transfer.
+
+
+
+--------------------------------
+    READ AND WRITE FUNCTIONS
+--------------------------------
+
+Use the 'W' command to write (or export) a floor file to disk.  You will
+be prompted for a filename.  Enter up to eight characters plus an optional
+1 to 3 character extension. To read (or import) a floor file from disk,
+use the 'R' command.  Again, you will be prompted for the filename.  The
+file will be read into the clipboard.  In order to place it into the actual
+map file, use either the 'E' or 'T' command.
+
+A major advantage of exporting/importing by file is that you now can share
+your floors with others without having to give them your gamemap/maphead
+files.  All you have to do is give them the file saved using the write
+command.  They can then import the file and use either the 'E' or 'T'
+command to place it into their map file.
+
+Note that this is basically the only use for the floor files.  They are in
+a binary format and may not be printed or viewed without SODEDIT.
+
+
+
+-------------------
+    CLEAR LEVEL
+-------------------
+
+Pressing the 'C' key will Clear the current floor placing grey brick on the
+outside edge and filling the inside with the left mouse button map value.
+Prior to pressing the 'C' command, be sure to select the desired "fill" value
+with the left mouse button.
+
+
+
+-------------------
+    ZAP COMMAND
+-------------------
+
+To instantly set all floorcodes within a selected room to a given code,
+first set the left mouse button to the desired code.  Then make sure that
+the floorcodes are displayed (F toggle).  Position the cursor over the
+room to be altered, and press the Z key.  All floorcodes except those
+previously set to 6A (deaf guard code) within the room (bounded by walls
+and doors) will be set to the selected code.  (To set ALL floorcodes in a
+room to the selected value - including deaf guards - press ALT+Z.)
+
+
+
+--------------------
+    NAME COMMAND
+--------------------
+
+To modify the level name (shown in the lower left corner of the edit
+window), use the N command.  The name may be up to 16 characters, and
+may consist of any numeric or alphabetic characters as well as spaces,
+'.', '_', and '-'.  Note that this name will not be preserved in a
+floor file written with the W command, but will be saved in the
+GAMEMAPS.SOD file.
+
+
+
+------------
+    HELP
+------------
+
+The major hot-keys are listed in the help display below the legend window.
+(Press the 'S' key to toggle between the help summary and the statistics
+display.)  Hit F1 to get a full-screen display of all of the hot-keys.
+
+
+
+--------------------------
+    STATISTICS DISPLAY
+--------------------------
+
+The statistics display keeps track of the following information:
+
+     Number of Static Objects
+     Total number of Guards
+     Total number of Doors
+
+     Number of Level 1 Guards
+     Number of Level 3 Guards
+     Number of Level 4 Guards
+     Number of Boss Guards
+
+     Number of Secret Doors
+     Number of Treasure and Extra Lives
+
+This information can be very useful in designing levels.  There are
+some program limits that must not be exceeded.  These limits are:
+
+    400 Static Objects
+    150 Guards
+     64 Doors (Unlocked + Locked + Elevator Doors)
+
+When these limits are exceeded, the text changes to red as a visual
+warning.
+
+You can control what object information is displayed in the map using
+the '1' ... '6' and '#', '$', and '%' keys (see hot-key list above).
+This allows you to easily balance the number of guards, etc, as you are
+designing your maps.
+
+
+
+---------------------------------------
+    MAP AND OBJECT DEFINITION FILES
+---------------------------------------
+
+MAPDATA.SOD and OBJDATA.SOD
+
+If you figure out a new object or want to change the description, you can
+add/change it's description to the object/map list by editing the
+MAPDATA.SOD or OBJDATA.SOD file.  Each line in the file contains 3 items:
+
+0000 0000 Objectname
+
+The first four digits are HEX for the object number.
+
+The second four digits define how the object will look in the map.
+The first two digits are the primary/secondary colors.  The third
+digit is the graphic type, and the fourth digit is the character
+string to use if the graphic type is "text".
+
+Colors:
+   0 - black
+   1 - blue
+   2 - green
+   3 - cyan
+   4 - red
+   5 - magenta
+   6 - brown
+   7 - light grey
+   8 - dark grey
+   9 - light blue
+   a - light green
+   b - light cyan
+   c - light red
+   d - light magenta
+   e - yellow
+   f - white
+
+Graphic types:
+
+   0 - text (uses fourth character of graphic definition)
+   1 - solid box
+   2 - checkered
+   3 - solid box (primary) with decoration (secondary)
+   4 - checkered box (primary) with decoration (secondary)
+   5 - large filled circle (primary) with smaller circle (secondary)
+   6 - horizontal bar
+   7 - vertical bar
+   8 - two color box (used for landscape view)
+   9 - single pixel centered
+   a - 3x3 pixel block
+   b - 3x5 pixel block
+   c -
+   d - X (primary)
+   e - rectangle
+   f - arrow  (secondary color indicates direction: 0=n,1=ne,2=e,3=se,
+                                                    4=s,5=sw,6=w,7=nw)
+
+
+
+---------------------
+    VERSION NOTES
+---------------------
+
+    Ver 1.0  - Bryan Baker (Removed support of Wolfenstein 3-D from MapEdit
+                            version 7.1;  implemented rubberband-drawing
+                            feature written by Wayne Skala; added "ctl+click"
+                            functionality to display single object types)
+
+
+---------------------
+    (The following notes detail the evolution of MapEdit.)
+
+    Ver 7.1  - Bryan Baker (Eliminated output of shareware levels, added
+                            room "ZAP" feature, added full-screen help,
+                            added level name input)
+
+    Ver 7.0  - Bryan Baker & Dave Huntoon (Expanded statistics features,
+                                           Read/Write filename may now be
+                                           specified, Improved program error
+                                           reporting & logic during startup)
+
+    Ver 6.1  -  Matt Gruson (Spacebar toggles between Map and Object modes,
+                             PAGEUP/PAGEDWN scroll legend display, add right
+                             mouse button to have own value, Shift + left mouse
+                             button memorizes value from map)
+
+    Ver 6.0  - Dave Huntoon Modification (Help, Copy, Paste, Exchange,
+                                          Write and Read)
+    Ver 5.0  - Bryan Baker  Modification (Display of critical statistics)
+    Ver 4.1a - Dave Huntoon Modification (Spear of Destiny compatibility)
+    Ver 4.1  - (c) 1992 Bill Kirby
+
+
+
+---------------
+    SUPPORT
+---------------
+
+SODEDIT is freeware and is entirely user-supported.  It is intended to be
+used only by registered owners of Spear of Destiny.
+
+Levels created with this software may not be sold for profit, nor may
+they carry any endorsement of Id Software or FormGen Corporation.
+Any such endorsement may constitute a copyright violation to which the
+map level creator and distributor must be held solely liable.
+
+I assume no responsibility for levels created and distributed with this
+software.
+
+If you have any questions or problems associated with SODEDIT ver 1.0,
+you may contact me via e-mail on CompuServe.
+
+Bryan Baker     71121,3376
+
