@@ -1,0 +1,46 @@
+                         Digital Aasvogel Group 1992
+                            Wolfman V2.0 10Jun92
+                       Wolfenstein 3D Mapping utility.
+
+Digital Aasvogel Group accepts no responsibility for your use of this S/W.
+  This software is FreeWare & we don't care, we've already spent all
+the late nights hacking this, and no renumeration can ever remedy that.
+
+Important stuff - 
+  1. You must have a valid copy of Wolfenstein Game.
+  2. You must have a VGA card in your PC.
+  3. This is a SPOILER utility.
+  4. Some screen characters may vary on different VGA cards. 
+     This can be fixed by editing the OBJCODE.DAG and MAPCODE.DAG files.
+
+ - play hard :-[
+
+  Transmitted from
+  The Torps BBS +61-3-818-0986    FidoNet 3:635/574
+  InterNet  zaphod@godzilla.cgl.rmit.oz.au
+
+  Please share any discoveries you make.
+  all messages forward to 'wolfman'.
+
+лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+WARNING: PLEASE BACKUP THE MAPHEAD.WL1 and MAPTEMP.WL1 FILES BEFORE
+YOU EDIT THE LEVELS.
+лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+
+
+Included in this ZIP file, 
+
+	WOLFMANX.TXT - A text file describing the command line options,
+						and debugging keys avaliable in Wolfenstein 3d
+
+	OBJCODE.DAG  - 
+	MAPCODE.DAG	 -	Text files used by WOLFMAN to describe all of the walls,
+						and objects in the mapping/editing utility.
+
+
+	WOLFMAN.EXE  - The WOLFMAN mapper/editor.
+
+	WOLFMAN2.TXT - Documentation for WOLFMAN, including useful hints & tips.
+
+
+

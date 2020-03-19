@@ -1,0 +1,47 @@
+		     WOLF3D Command line options
+		    Other information about Wolf3d
+	       Compiled by Digital Aasvogel Group 1992
+			Revision Date 10Jun92
+
+DEBUG MODE :
+
+Invoke wolf3d with following option
+WOLF3D -next
+and when the game level has started, press
+<ENTER> <TAB> <CTRL>
+and you enter the debug mode, the following options are now available
+pressing 'TAB' and the desired option.
+
+<TAB>
+	B - border color
+	C - statistics
+	E - Exit level 
+	F - x,y,angle
+	G - God mode ON/OFF
+	H - Hit (take a hit)
+	I - Free Items
+	M - memory usage
+	N - clipper ON/OFF (wall boundary checking)
+	O - mapper (Ed. Note - Shit map)
+	P - Pause
+	Q - ###BAD### access disk & HANG
+	S - Slow Motion ON/OFF
+	T - Graphics Display (wall, sprite & audio)
+		Section short-cuts (W)all (S)prite au(D)io (I)info (L)oad?
+		left & right cursor arrows scroll through the list.
+	V - Extra VBL's (0-8) (Ed. Note - Vertical Blanks ?)
+	W - Warp to level #
+	X - Extra Stuff (?)
+	
+
+COMMAND LINE OPTIONS :
+
+wolf3d <-tedlevel #> <-nowait> <-hard> <-easy> <-next>
+	tedlevel # - start at level '#' (0-9)
+		     Note no save games available
+	nowait - straight into the game, no promo.
+	hard - difficulty 4 'Death Incarnate'
+	easy - difficulty 1 'Can I play, Daddy?'
+	next - see above description.
+	
+

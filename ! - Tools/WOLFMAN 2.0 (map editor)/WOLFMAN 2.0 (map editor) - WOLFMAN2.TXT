@@ -1,0 +1,252 @@
+		     Digital Aasvogel Group 1992
+			 Wolfman V2.0 10Jun92
+	       Wolfenstein 3D Mapping/Editing utility.
+
+Digital Aasvogel Group accepts no responsibility for your use of this S/W.
+  This software is FreeWare & we don't care, we've already spent all
+the late nights hacking this, and no renumeration can ever remedy that.
+
+Important stuff - 
+  1. You must have a valid copy of Wolfenstein Game.
+  2. You must have a VGA card in your PC.
+  3. This is a SPOILER utility.
+  4. Some screen characters may vary on different VGA cards. 
+     This can be fixed by editing the OBJCODE.DAG and MAPCODE.DAG files.
+
+ - play hard :-[
+
+  Transmitted from
+  The Torps BBS +61-3-818-0986    FidoNet 3:635/574
+  InterNet  zaphod@godzilla.cgl.rmit.oz.au
+
+  Please share any discoveries you make.
+  all messages forward to 'wolfman'.
+
+
+栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢
+WARNING: PLEASE BACKUP THE MAPHEAD.WL1 and MAPTEMP.WL1 FILES BEFORE
+YOU EDIT THE LEVELS.
+栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢栢
+
+The Editor:
+
+	The editor has two modes (or three, if you include 'Off'). 
+
+	Edit Mode Obj:   
+			Allows you to alter the OBJECT layer. Guards,
+Dogs, Secret Walls, treasure, plants, bones, tables, etc...
+
+	Edit Mode Map:
+			Allows you to alter the MAP layer. Walls, Floor
+types, Doors, Exits.
+
+
+How to use the editor:
+  The edit mode is toggled with the 'E' key, from OFF to OBJ to MAP
+and back to OFF.   When in edit mode, the current object or map is
+displayed on the bottom line of the screen, with the ACTUAL cursored
+object and map displayed on the right hand side (in blue).
+  Placing - You may place an object/map with the 'SPACE BAR'.
+  Choosing - choose a new object/map with the ',' and '.' keys
+(scroll through list) or '<' and '>' for rapid scrolling (jumps
+0x10).
+  Grabbing - move cursor to desired object/map location, and grab the
+object or map code with the 'G' key.
+  Saving - Save your new levels with the 'S' key.
+  Experiment and you will get the hang of it.
+
+  To build a level that works properly, we recommend that this
+document is read & understood, especially the section on Enemy,
+before editing.
+
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+Technical Stuff -
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+Preamble 
+
+Reverse engineering a game can be very tricky, and we can only guess
+at the reasoning and functionality of the game's coding mechanics,
+therefore the following information is based on deduction, NOT fact.
+
+
+Floor : 
+  Each area has a different floor code to that of a neighboring area
+(or room).  If a provoking action takes place in area 0x70, for example,
+this will alert all area 0x70 enemy objects (non-guard posted). (see
+Enemy & Enemy vectors).  A provoking action could be opening a door,
+or shooting an enemy.
+
+Walls :
+  The wall pieces are a unit square brick, with two texture maps
+(East&West, North&South).  The texture map has been cleverly designed
+in tessellation form so two walls placed side-by-side match, and a
+wall by itself appears to have matched patterns around it.  Placement
+is described in the MAP LAYER, of a level.
+
+Secret Doors :
+  There are no secret walls, the secret feature is part of the OBJECT
+LAYER (ie a secret location, not the WALL itself). When pushed, a
+secret door (WALL piece) will slide back two units, leaving the
+secret location, and becomes a standard wall.  The secret status is
+removed from that location.  The level score tally 'Secret Ratio' is
+based on the number of secret doors you push.
+
+Enemy :
+  There are different levels of guards, and depending what level of
+difficulty you are playing will determine how many of the guards
+appear (including the guard dogs).  The first two levels of
+difficulty appear to be the same, as far as guards appearing goes (we
+assume the difference between level one & two, is the guards are
+slightly quicker to aim & shoot).
+  The enemy objects are as follows :
+  Brown Guards - standard guards armed with pistol.
+  Blue Guards - SS Guards armed with Machine gun.
+  Guard dogs - guard dog
+  BIG Blue Guard - 'Guten Tag' SS guard armed with 2 chain guns.
+  Note : through experimentation placing multiple 'Guten Tag' men
+around can cause CRASH problems, but makes for adrenalin pumping
+action. 
+  Guard posts - are sentry placements descibed in the MAP LAYER. 
+Guards stationed here will stay here (not roam) until prompted. 
+It appears though that prompted guards that lose sight of you can
+return to, and be re-posted at, the guard post.
+  See OBJECT.DAG file for actual enemy listing.
+
+Enemy Vectors :
+  There are also two types of enemy, static & active.  All dogs, and
+half the guards are active.  Active means they are mobile at all
+times (The active guards are denoted in the textual description of
+the OBJECT.DAG file with an asterisk '*').  Using the mapping
+facilities of WOLFMAN, you will notice enemy vectors on existing maps.
+These vectors give the active enemy a marching path to follow, until
+provoked.  This path can include going through a door.  Study the
+given MAPS using WOLFMAN to fully understand enemy vectors.
+  Note : not giving active enemy an enemy vector to follow can have
+them walk into a wall and stay there, walking into a wall.
+  Always use enemy vectors when using active guards.
+  Current theory on active enemy is once provoked, they change statis
+to 'provoked', and will seek you.  If they 'lose interest' they will
+wonder, possibly using 'Left-hand maze rule', and if they stumble
+across an enemy vector, will be reset in standard active mode (ie
+marching) again - but this is speculation and hard to test.  
+
+Exit Trigger :
+  This is found on the last level, just before the 'outside' walls. 
+When crossed this will trigger the 'you escape' sequence.  Placing
+this trigger anywhere else can cause a crash, therefore this is best
+left as is.
+
+
+Designer hints :
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+1. Don't build walls with-out building solid corners. For example
+   ####			    #####
+  #	it should always be #
+this will prevent glitches and, stop enemy guards shooting through
+the cracks.
+
+2.  Always have at least 1 secret door, treasure, enemies, to prevent
+the level score tally from getting a 'divide by zero' error.
+
+3.  Don't build huge open spaces with too many objects in it, the
+rendering process has a heart-attack, and LOCKS up.
+
+4.  If you put more than one 'you start here' codes in the level the
+last one in the list will be used.
+
+5. Use different floor types for neighboring areas (rooms), to keep
+the enemy in their area until provoked.  If your map only uses one
+floor type, the enemy guards will pour in from all neighboring areas
+when they hear gun shots.  This can get very bloody, and not go as
+you planned (see Floor description).  Don't just alternate the floor
+type either (see Floor description).
+
+6. Don't place objects in the same space as a door.  For example
+placing a pot-plant on a door.  The pot plant will be visible from
+both sides of the door.  The door will behave as a door, but the pot
+plant, looses its blocking ability, and you can walk through it.
+
+7. Place active enemy one space away from their faceing walls, or
+doors, or "walk-through" walls can occur (see BUG 3).
+  There are two types of enemy objects, static & active.  Active
+means they are moving all the time.  All dogs are active, only
+certain guards are active.  Static guards stand still until
+provoked.  Take more care when placing active enemy to avoid
+"walk-through" walls, and always use enemy vectors (See Technical -
+Enemy & Enemy Vectors).
+
+(For additional designer tips see BUGS)
+
+
+
+TRIVIA :
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+1. Static objects, such as pot plants, only have one view point. This
+is a 3D trick, and saves on heaps of rendering time, 3D descriptions,
+and texture map information.  Whereas active objects, such as dog and
+guards, have multiple view points (as well as their animation
+frames).  Special interest note - the 'Guten Tag' blue guard, only
+has front on view points mapped (that is you can never view him
+side-on, he always rotates to face you).
+
+2. Files :
+  AUDIOHED.WL1 - header info for AUDIOT.WL1
+  AUDIOT.WL1 - data for audio cards (eg soundblaster)
+  MAPHEAD.WL1 - byte offsets into the MAPTEMP.WL1, for the individual
+map levels.
+  MAPTEMP.WL1 - header info, followed by MAP LAYER & OBJECT LAYER
+pairs.
+  VGADICT.WL1 - header info for font desciption in VGAGRAPH.WL1
+  VGAGRAPH.WL1 - opening promo graphics and graphic font description.
+  VGAHEAD.WL1 - assumed header into VGAGRAPH.WL1
+  VSWAP.WL1 - graphics texture maps, walls, objects etc.
+  
+3. Gun Status : you have a gun level (1-4) this means if you pick up
+the 'Chain gun4' first, you can then choose the 'machine gun3'
+without ever picking it up. 
+
+
+
+UNKNOWN STUFF :
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+1. No idea how the two lifts on level 1 take you to level 2, and to
+the secret level.  The lifts and surrounding area are the same for
+both lifts.
+
+2. Not all the MAP & OBJECT codes are known.  Some are known to crash
+the system.  The unknown codes description is marked as '##????' in
+the OBJCODE.DAG and MAPCODE.DAG files.  If you decode any drop
+'WOLFMAN' as note.
+
+
+BUGS :
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+1.  When a secret door slides past a wall, and stops blocking a door,
+you see a momentary glitch of the door side pieces mapping over the
+wall.
+
+2. BAD OBJECTS or MAP codes can cause a re-boot, or even worse your
+CMOS to be reset.
+
+3.  Placing an active enemy facing a wall (or door) can somehow alter
+the property.  This can result in enemy objects running 'through'
+closed doors or walls, and you also can run through the door/wall.
+The door will still function, as in open & close.
+
+4.  Placing two doors next to each other at right angles 
+   example   	|
+            ##-##   
+	    12 34  can confuse wall(#) 3 as to where the side panel
+texture panels should be mapped.  The normal facing for the texture
+map should be a west facing, but the bug can cause a north facing
+texture map as well.
+
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+Send any information, bugs, queries, or challenging levels to:
+
+'wolfman' on The Torps BBS +61-3-818-0986    FidoNet 3:635/574  
+or InterNet     zaphod@godzilla.cgl.rmit.oz.au
+
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+
+
