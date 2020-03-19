@@ -1,0 +1,93 @@
+^P
+^C7d Brutal Death Dealer of Annihilation 3D
+
+^C26 Cela oblast je zamorena. Vsechny pokusy o jejich vyhlazeni selhaly, je jich prilis mnoho... Nezbyva nez pouzit zbrane hromadneho niceni - musime ho tam poslat, je to nase posledni moznost.
+
+^C00 Podrobnejsi informace naleznete v souborech GameMechanics.txt a Readme.txt v adresari hry...
+
+^P
+^C7d Zbrane:
+
+^G32,250,91
+^C00 Sekera: Stejne vhodna na stipani lebek jako na stipani dreva.
+
+^G70,250,92
+^C00 Pistol: Zere 1 naboj, narozdil od ostatnich zbrani se jeji ucinnost se zvysujici se vzdalenosti snizuje jen malo.
+
+^G116,250,93
+^C00 Brokovnice: Zere 2 naboje, velmi ucinna na blizko, na delsi vzdalenosti prakticky nepouzitelna.
+
+^P
+^G16,250,94
+^C00 Samopal: Dela ratatata, vhodny na vsechno krome bossu a uberzombie. Ucinnost se vzdalenosti klesa.
+
+^G68,250,95
+^C00 The Destroyer: Zkombinuje 20 naboju do jedne, extremne ucinne, vybusne strely. Ucinnost neni zavisla na vzdalenosti.
+
+^P
+^C7d Potvory:
+
+^G32,250,30
+^C00 Zombie: Moc toho nevydrzi, jsou ale hodne rychly a kdyz jich je vic tak dokazou nadelat slusnou neplechu.
+
+^G86,250,31
+^C00 PistolGuy: Snazi se te upizlat pistolkou a vetsinou jim to moc nejde, pomalu ale uziraj HP - to pak muze chybet. Nesou pistol a 4 naboje.
+
+^P
+
+^G16,250,32
+^C00 UberZombie: Lezou pomalu, ale vydrzi hodne a kdyz k tobe prilezou umi dat poradnou facku. Dobre na ne funguje brokovnice z bezprostredni blizkosti.
+
+^G70,250,33
+^C00 ShotgunGuy: Na dalku nejsou moc nebezpecny, na blizko jsou ale naprosto smrtici. Nesou brokovnici a 4 naboje.
+
+^G124,250,34
+^C00 MachineGuy: Pekny svine, delaj ratata a ty pak delas klepklepklep. Nesou samopal a 4 naboje.
+
+^P
+
+^G16,250,35
+^C00 GhostlyDoll: Prvni boss, vydrzi toho docela dost a litaj z nej ohnivy koule. V idealnim pripade ho chce odpalit Destroyerem, ale samopal funguje taky vcelku dobre.
+
+^G84,250,3
+^C00 BigMoFo: Druhej boss, vydrzi kotel a ma rotacak. Upizlat ho cimkoliv jinym nez Destroyerem muze trvat dost dlouho, chce to dost munice.
+
+^P
+^C7d Objekty:
+
+^C26 Maximalni mnozstvi munice, ktery uneses je 666. Maximalni pocet HP je 250.
+
+^C00 Krev: +1 HP, pokud tvoje HP < 101.
+
+^C00 Jidlo 1: +5 HP.
+
+^G100,24,4
+^G100,224,5
+
+^P
+
+^C00 Jidlo 2: +25 HP.
+
+^C00 Lekarna: +50 HP.
+
+^C00 Naboje 1: +10 munice.
+
+^C00 Naboje 2: +50 munice.
+
+^G124,48,88
+
+^P
+
+^C00 Zlato 1: +100 bodu, zlato 2: +500 bodu, zlato 3: +1000 bodu, zlato 4: +5000 bodu
+
+^C00 Klice: Slouzi k otevreni nekterych dveri.
+
+^G124,24,89
+
+^P
+
+^C7d Zkratky ve hre:
+
+^C00 F1: zobrazeni tohodle manualu; F2: ulozit hru; F3: nahrat hru; F4: nastaveni zvuku; F5: velikost obrazu; F6: nastaveni ovladani; F7: ukoncit hru; F8: rychle ulozeni; F9: rychle nacteni; F10: vypnout hru; ESC: zpet do hlavniho menu
+
+^E

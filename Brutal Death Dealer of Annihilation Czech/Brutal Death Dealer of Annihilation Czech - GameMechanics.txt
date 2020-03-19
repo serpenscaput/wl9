@@ -1,0 +1,83 @@
+----damage given to enemies (per 1 hit)----   note: max player ammo == 666
+
+		       short   middle  long   (distance from target)
+	      	axe:	30      --      --   //melee
+	     pistol:	30 	25 	20   //clasic pistol
+	    shotgun:	120	80 	15   //-2 ammo and firing is slower than pistol
+shotgun with 1 ammo:	60	40 	8    //(only -1 ammo obviously...)
+   	 Machinegun: 	35 	20 	15   //clasic machinegun...
+   	  destroyer: 	200 	200 	200  //-20 ammo, fires exploding projectiles
+
+----damage taken from enemies (per 1 hit)----   note: max player health == 250
+
+distance from player:	short   middle  long
+
+'I WANT TO BE IMMORTAL' DIFFICULTY:
+	     zombie:	5       --      --
+	 uberzombie:	10      --      --
+	 shotgunguy: 	20 	15 	3
+	ghostlydoll:	8	8	8  //Per one touch of the fireball
+	    bigMoFo:	5	4	3
+	      other:	10 	7 	6
+
+'I JUST WANT TO KILL SOMETHING' DIFFICULTY:
+	     zombie: 	10      --      --
+	 uberzombie:	20      --      --
+	 shotgunguy: 	40 	30 	5
+	ghostlydoll:	20	20	20  //Per one touch of the fireball
+	    bigMoFo:	10	7	5
+  pistol/machineguy: 	20 	15 	10
+
+'I WILL PWN EVERYTHING I MEET' DIFFICULTY:
+	     zombie: 	15      --      --
+	 uberzombie:	30      --      --
+	 shotgunguy: 	60 	40 	10
+	ghostlydoll:	25	25	25  //Per one touch of the fireball
+	    bigMoFo:	15	10	7
+  pistol/machineguy: 	30 	20 	15
+
+'I AM A MASOCHIST' DIFFICULTY:
+	     zombie: 	20      --      --
+	 uberzombie:	40      --      --
+	 shotgunguy: 	80 	60 	15
+	ghostlydoll:	30	30	30  //Per one touch of the fireball
+	    bigMoFo:	20	15	13
+  pistol/machineguy: 	40 	30 	25
+
+----enemy health and abilities----
+
+'I WANT TO BE IMMORTAL' DIFFICULTY:
+	     zombie:	50	// fast speed, melee attack
+	 uberzombie:	400	// slow speed, fast melee attack
+	  pistolguy:	50	// average speed, single shots, drops pistol and 4 ammo
+	 shotgunguy:  	80	// average speed, single shots (very deadly at close range), drops shotgun and 8 ammo
+	 machineguy: 	100	// average speed, rapid fire rate, drops machinegun and 4 ammo
+	ghostlydoll:	600	// average speed, conjures slow moving fireballs which are very deadly on touch
+	    bigMoFo:	1200	// average speed, very rapid fire rate
+	
+'I JUST WANT TO KILL SOMETHING' DIFFICULTY:
+	     zombie:	60	// fast speed, melee attack
+	 uberzombie:	450	// slow speed, fast melee attack
+	  pistolguy:	60	// average speed, single shots, drops pistol and 4 ammo
+	 shotgunguy:  	100	// average speed, single shots (very deadly at close range), drops shotgun and 8 ammo
+	 machineguy: 	120	// average speed, rapid fire rate, drops machinegun and 4 ammo
+	ghostlydoll:	900	// average speed, conjures slow moving fireballs which are very deadly on touch
+	    bigMoFo:	1500	// average speed, very rapid fire rate
+
+'I WILL PWN EVERYTHING I MEET' DIFFICULTY:
+	     zombie:	70	// fast speed, melee attack
+	 uberzombie:	500	// slow speed, fast melee attack
+	  pistolguy:	70	// average speed, single shots, drops pistol and 4 ammo
+	 shotgunguy:  	120	// average speed, single shots (very deadly at close range), drops shotgun and 8 ammo
+	 machineguy: 	150	// average speed, rapid fire rate, drops machinegun and 4 ammo
+	ghostlydoll:	1200	// average speed, conjures slow moving fireballs which are very deadly on touch
+	    bigMoFo:	2000	// average speed, very rapid fire rate
+
+'I AM A MASOCHIST' DIFFICULTY:
+	     zombie:	100	// fast speed, melee attack
+	 uberzombie:	600	// slow speed, fast melee attack
+	  pistolguy:	100	// average speed, single shots, drops pistol and 4 ammo
+	 shotgunguy:  	150	// average speed, single shots (very deadly at close range), drops shotgun and 8 ammo
+	 machineguy: 	200	// average speed, rapid fire rate, drops machinegun and 4 ammo
+	ghostlydoll:	1500	// average speed, conjures slow moving fireballs which are very deadly on touch
+	    bigMoFo:	2500	// average speed, very rapid fire rate
