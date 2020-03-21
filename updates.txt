@@ -67,3 +67,4 @@
 
 21.03.2020
 -added SOD patch for Wolfmap 1.2
+-added WOLF_MAP 1.00

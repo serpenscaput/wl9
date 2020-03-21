@@ -1,0 +1,225 @@
+                      WOLF_MAP Version 1.00
+
+    - Wolfenstein 3D Map processor for MapEdit 7.0 saved maps. -
+
+
+Disclaimer
+----------
+
+The program is delivered to you as is. Although copyrighted, we are not
+liable for any damage whatsoever when using this program, either in it's
+original form or any altered form.
+
+Although distributed freely, this is copyrighted material. You are hereby
+granted the rights to use and/or modify the program for your personal use.
+You may (re)distribute this program or your own modifications, PROVIDED you
+distribute the complete set of original files with your own modified ones
+and you distribute them without charging any money or any other form of
+compensation.
+
+This program is intended to be for your personal use only.
+Distribution of any modified maps may be construed as a
+copyright violation by Apogee/ID.
+
+Description
+-----------
+
+To convert the MapEdit 7.0 individual saved maps to an ASCII output.
+
+
+History
+-------
+26-Oct-1993
+After using MapEdit 7.0 for a few days I could not remember what each map
+look like.  I found I saving duplicates.  Solution was simple - write a
+program to convert the saved maps into ASCII.
+
+27-Oct-1993 0.50
+First working program.  Map 128 by 64.  But was to big to print out or view
+easily on screen.
+
+28-Oct-1993 0.80
+Added second map size. Map 64 by 64.  I can now print it out if I increase
+the number on lines/inches to 7.  Can see most of the map on the screen.
+But left the default as the bigger map.
+Added the use of wild card characters to the floor filenames.  If no
+extension on filename the extension of .FLR is assumed.
+Added auto -U update of changed maps.
+Added generation of new maps only with -N -n.
+
+29-Oct-1993 0.90
+Added legends output for both size maps.  The legends will reflect any
+changes in the WOLF_MAP.DEF file.
+
+02-Nov-1993 1.00
+Release date.
+
+Usage
+-----
+
+Usage: WOLF_MAP [-M|m] Floor[.ext] [[-M|m] Floor[.ext]]...
+
+    Floor = One floor map from MAPEDIT 7.0.  Output = Floor.MAP
+              Wild card characters allowed
+    ext = if none given .FLR is assumed.
+    -M = Output large map 128x64. (default)
+    -m = Output small map 64x64
+
+WOLF_MAP [-U] [-N|n] Floor[.ext] [[-N|n] Floor[.ext]]...",
+
+    -U = Update all floors who file date is different than the map date
+         The size of the maps will remain the same.  No new maps
+    -N = include New large maps for floors with no maps
+    -n = include New small maps for floors with no maps
+       Default is no maps for new floors.
+
+WOLF_MAP -L|l
+
+    -L = Output legend of large map symbols.  LEGEND.MAP
+    -l = Output legend of small map symbols.  LEGENDs.MAP
+
+
+Commands
+--------
+
+Wolf_map can execute several commands. A detailed description of each
+command follows below.
+
+-? or error
+    Show usage information on the screen.
+
+Floor
+    Individual saved floor map from MAPEDIT 7.0 will be converted to a map
+    file named Floor.MAP.  Wild card characters allowed
+
+ext
+    Filename extension, if none given .FLR is assumed.
+
+-M
+    Output large map 128x64. Each map location will have a two character code
+    (Guard fixed G1 G3 G4). Giving more detail of what is where.
+    If there is an object at the same location of a none space map location
+    the second map character will be replaced by the first object character.
+    Thus an actor standing inside a wall (making a walk thru wall) will show
+    up.
+
+-m
+    Output small map 64x64.  Each map location will have a one character code
+    (Guard any h g G).  The walk thru walk will be indicated by a W, this is
+    fix and can not be changed.
+
+-U
+    Update all floors who file date is different than the map date.  The size
+    of the maps will remain the same.
+
+-N
+    New large maps for floors with no maps.  Floors with maps will not change.
+
+-n
+    New small maps for floors with no maps.  Floors with maps will not change.
+
+-L
+    Output legend of large map symbols.  LEGEND.MAP
+
+-l
+    Output legend of small map symbols.  LEGENDs.MAP
+
+
+Definition file format
+----------------------
+
+The current known objects are stored in a text file, WOLF_MAP.DEF.  This
+file must be in the default directory or in the same directory as the program.
+
+Since this file is in text format, you can edit it using any normal ASCII
+editor. If you figure out a new object, you can add it's description
+to the map / object list respectively.  Each line in the file contains
+4 fields (you MUST follow this exact format):
+
+11 22 3 4string
+
+Field 1
+    Map/Object in HEX  one or two character.  Two is best for alinement.
+
+ONE SPACE only
+    Some of the field 2 & 3 are space characters.
+
+Field 2
+    ASCII code for map.  2 character. Starts after 1st space. For proper
+    display the first character must not be a space unless the code will be
+    two spaces.  The second character can be a space.
+
+ONE SPACE only
+    Some of the field 2 & 3 are space characters.
+
+Field 3
+    ASCII code for map.  1 character. (smaller map)
+
+Field 4
+    Character description.  Only 30 characters will be used.
+
+
+Object and Map character 00 is not need - will show a blank.
+
+
+Any missing code will show as ??/? on map.  The number of unknown code will
+be indicated at the bottom of the map.
+
+
+For comments use ' at the start of the line.
+
+
+Map tricks
+----------
+
+1. Place an actor inside a wall.  Makes a walk thru wall.
+
+2. Place the 'Floor (dumb guard)' on both sides of a door.  Makes the door
+   invisible, will not allow you to walk thru but the actors can.  The
+   actors still see it as a door and will open it to walk thru.  While
+   open you can walk out.
+
+3. Place the 'Floor 1 (secret)' in front of the elevator to get to the
+   secret level 10.
+
+
+Comments
+--------
+
+When you have comments or find bugs, please do not hesitate to contact me.
+Also, if you have ideas on how to expand the program or have suggestions
+for
+new commands or options, please contact me.
+
+I can be contact at Exec PC BBS - Milwaukee, WI USA
+
+'Phillip Forrestal'
+
+Thanks to:
+----------
+
+          *************************************************
+          *    MapEdit 7.0  - Wolfenstein Map Editor      *
+          *************************************************
+
+    Ver 7.0  - Bryan Baker & Dave Huntoon
+    Ver 6.1  - Matt Gruson
+    Ver 6.0  - Dave Huntoon Modification
+    Ver 5.0  - Bryan Baker  Modification
+    Ver 4.1a - Dave Huntoon Modification
+    Ver 4.1  - (c) 1992 Bill Kirby
+
+
+Error
+-----
+
+I found that maps generate by MapEdit Ver 4.1 will cause a runtime error
+when reading into MapEdit 7.0 (I don't have the other versions.)  To fix
+this error, 4 characters need to be added to the end of the data
+file MAPGAMES.WL1.
+
+I used:
+
+ECHO ....>> MAPGAMES.WL1
+
+This will append 6 characters to the end of the 4.1 MAPGAMES.WL1 files.
