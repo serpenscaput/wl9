@@ -1,0 +1,237 @@
+
+Here is what I compiled from severeal news groups.
+I'd be very happy if someone would take over for me and make it
+some kind of frequently asked questions list (FAQL) which could be sent
+to other people on request.
+
+Some information about 1WOLF3D of APOGEE:
+
+	Jamie Walsh (jwalsh@aspentec.com) [6 May 92 12:58:45 EST]
+
+	Apogee just released Wolfenstein 3D.  I saw it in uploads of
+	Channel 1 BBS yesterday, presumably uploaded by Scott Miller
+	of Apogee. I called Software Creations BBS voice phone, and
+	sysop Dan Linton confirmed that it was genuinely released two
+	days ago with the filename #1wolf3d.zip.
+
+	It requires VGA and a 286 or better CPU to run.
+	Being of a violent nature, and showing bloody graphics, 
+	Apogee gave the game a parental warning rating of "PC-13."
+
+	Stephan Petersen (IFF291@DJUKFA11.BITNET) [7 May 92 12:40:33 GMT]
+
+	I've heard that this game violates German law and can't
+	therefore be distributed by the German representatives of
+	Apogee, nor should it be uploaded to a German ftp site or
+	bulletin board. I haven't seen the game and can't judge
+	whether these measures by the German authorities are
+	appropriate, but if it's illegal to use/distribute it in
+	Germany it's not because of "nothing". Please kindly consider
+	the above when mailing or uploading to German sites as this
+	might cause trouble for the system administrators.
+
+Sites:	(Anonymous ftp)
+
+	wuarchive.wustl.edu:/pub/MSDOS_UPLOADS/1wolf3d.zip
+	info.umd.edu:info/Computers/PC/AfterHours/Recreation
+	ftp.ulowell.edu(129.63.32.1):/msdos/Games/Apogee/1wolf3d.zip
+
+	The program has also been posted to comp.binaries.ibm.pc.archives.
+	It consisted in 15 parts. Decoding it yields
+	"1wolf3d.zoo" [size: 651701 bytes].
+
+Sound:
+
+	Loss of sound after encounter with a dog:
+	F4 and ESC.
+
+1WOLF3D on OS/2:
+
+	No special sounds like gun firing:
+	Use sounds option (F6). 
+
+	Settings:
+	Try turning HW_TIMER on and VIDEO_RETRACE_EMULATION off.
+
+
+Video:
+
+	Some paradise cards and the video board built into the Dells card
+	support the split screen mode needed to pull of the effects.
+	The programmers are looking into a fix.
+
+
+	"The score numbes and status areas are all messed up."
+	This is due to a problem with the images in latch memory.
+	Apogee is working on it.
+
+	"The game messes up one way or another. I am using QEMM 5.11."
+	Upgrade to QEMM 6.0 or higher.
+
+	"The game hangs when I'm blasting around the levels.
+	Especially when I'm in a long hall."
+	You can't see it, but you got a divide by zero error.
+	It's been noted and the next version will correct the problem.
+
+Play:
+
+	If a door won't open then you must have missed the key.
+
+	If there's a pool of blood on the floor, you can "SLUUURRP" it.
+	Interesting sound effect.
+
+	"How do you kill that big guy that says 'Guten Tag!' ?"
+	You can kill him in one pass if you have the heavy machine gun.
+	After you open that door, backu up immediately, like you should
+	ALWAYS do, and hold down the fire key.
+
+
+	Edward Lee (edlee@chinet.chi.il.us):
+
+	The following trick is old news, but it may be worth mentioning
+	here.  When you travel through a maze like the ones in this game,
+	you can use the strategy of moving through the maze as if one of
+	your hands were always on a wall.  This will get you through the
+	entire maze except for the rooms whose walls are not directly
+	connected with the rest of the maze walls (ignoring the floor and
+	ceiling).
+
+	The reason this strategy works is that you can imagine the entire
+	maze as one elastic surface, a bubble.  You can squeeze the bubble
+	and make a long corridor, then stretch out different parts of the
+	corridor to make other corridors, and so on.  When you look at the
+	final maze, it may bear little resemblance to the original bubble,
+	but all of the walls that were formed from the original bubble are
+	still connected to each other, continuously.  When you keep the same
+	hand on the wall at all times while travelling through the maze,
+	you will eventually come back to where you started from.  This is
+	easiest to see in the case of a maze with just one corridor.  This
+	traversal method is known as the depth-first search strategy.  It
+	is one of the strategies used in computer programs to visit all
+	the nodes (rooms) in binary trees and in other similar graphs.
+
+	In Wolfenstein 3D, there are sometimes small, isolated bubbles
+	within the larger bubble of the maze.  So, for these, you may want
+	to temporarily switch hands.
+
+
+Cheat:
+
+	Start the game like this:
+
+	WOLF3D /TEDLEVEL #
+
+	Where # is the "level number" or "level name".
+
+	# := "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" |
+		"boss" | "secret"
+	
+	Note: # = "0"  has the same effect as # = "1".
+
+	Remark:
+	This switch also works with KEEN 4, although it's buggy.
+	When you finish the level, or if you try to quit the game,
+	it hangs (on my computer anyway).
+
+
+	Manfred Rost		Manfred.Rost@p7.f61.n246.z2.fidonet.org
+				[13 May 92 11:23:00 GMT]
+	Cheat programs:
+	(Radio Baldham 2:246/61):
+	W3CHTINC.LZH     2508  24.04.92   <3> Castle Wolfenstein 3D, Cheat
+	WOLFTRN.LZH      2273  24.04.92   <3> Castle Wolfenstein 3D, Trainer
+
+	You can get directly to level 10 by finding the secret door on
+	level 1 near the elevator.  There are two secret doors inside
+	of that secret area. One has a secret elvator, and another had
+	an extra man once.
+	But there is a program that prints out the maps for all levels:
+
+	Bill Neisius (bill@solaria.SCG.HAC.COM) [15 May 92 14:21:59 GMT]
+	There is a program called WMAP21.ZIP on wuarchive.wustl.edu in
+	/pub/MSDOS_UPLOADS that prints maps for all 10 levels of W3D.
+	Also  included on the maps:  First aid kits, Ammo, Food, Guns,
+	Keys, Treasure,as well as Dogs, and Guards (both kinds).
+
+	Larry Hastings	(funkster@cats.ucsc.edu) has announced
+	[17 May 92 09:36:29 GMT] a slight change of this program.
+	It will now print the level maps in standard ASCII.
+		
+
+	Bill Kirby (bkirby@cs.umr.edu) [16 May 92 03:35:00 GMT]
+	Wolfenstein 3-D graphics editor:
+	First, kudos to the author of that WMAP program.  I've been
+	digging around in that d*mn maptemp.wl1 file for about a week
+	now and couldn't figure anything out. I've had a LOT more fun
+	trying to figure out these file formats than actually playing
+	this game.  :-)
+
+	Anyway, I have a program that lets you edit the 64x64 pixel
+	graphic images that are "texture mapped" onto the walls.  The
+	file VSWAP.WL1 contains graphics for both the wall images and
+	the guards, etc.  But I haven't figured out the way the guards
+	are stored, so you can't do anything with them yet.
+
+	The program requires VGA (duh) and a mouse.  It's not very clean,
+	but it works.  If there is enough interest, I'll clean it up a
+	bit and upload it to wuarchive.
+
+	Jeffrey Michael Bryer (umbryer@ccu.umanitoba.ca) [Thu, 14 May 1992 20:18:11 GMT]
+	Wolfenstein 3D - Map Update(4):
+
+	Due to popular demand I have made the PostScript verision of my
+	maps available.  The PS version is courtesy of George Dolbier
+	(georged@sequent.com) and is simply a conversion from the PCX
+	format to Encapsulated PS.
+
+	As a bonus the files are roughly the same size but (of course)
+	PS compresses much nicer than PCX where the PCX zoo archive is
+	167KB the PS zoo archive is only 37KB.
+
+	Both formats are available at ccu.umanitoba.ca in pub as
+	1wolfmap.zoo.ps  for the PS  version
+	1wolfmap.zoo.pcx for the PCX version
+
+	Are people still interested in an ascii version of the maps
+	(now that the size of the files has been greatly reduced due to
+	the use of PS)?  I realize that not all people have access to PS
+	printers and I have not seen the quality of printing that the
+	maps have on dot-matrix or inkjet printers.
+
+	Once our scanner is accessable again (May 26) I will add levels
+	4-10 and get them converted to PS.
+
+
+
+Troubleshooting
+
+Memory:
+
+	We had problems on some machines that used QEMM memory management.
+	Wolfenstein writes directly to video memory, and QEMM was trying to
+	move it, or only recognized part of the video RAM and had put
+	high-RAM in some areas.  It ran okay without QEMM loaded.
+	Apogee is working on fixes.
+
+
+Acknowledgements
+
+Some of the included information has been taken from postings of the
+following people:
+
+	Ben Ziegler		bpz4r@holmes.acc.Virginia.EDU
+	Charles Evans		cee1@Ra.MsState.Edu
+	Jian Liu		jiliu@copper.ucs.indiana.edu
+	Stephen M Smith		smsmith@magnus.acs.ohio-state.edu
+	Bill Kirby		bkirby@cs.umr.edu
+	Ryan tanner		tannerr@prism.cs.orst.edu
+	G. Steve Arnold		sarnold@bgsu.edu
+	Jamie Walsh		jwalsh@aspentec.com
+	John W. Kale		jwk3@po.CWRU.Edu
+	Bill Rubin		rubin@watson.ibm.com
+	John Abanco		ujabanco@uxa.ecn.bgu.edu
+	?			ozymandias@desire.wright.edu
+
+Thanks to all people who sent information the news groups.
+
+Sven
