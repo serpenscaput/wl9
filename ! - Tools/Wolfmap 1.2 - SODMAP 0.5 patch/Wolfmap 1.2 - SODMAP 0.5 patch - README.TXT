@@ -1,0 +1,46 @@
+MAPSOD Patch Batch Version 0.50 (Not even a full version!)
+
+By R.S. Bradbury   Compuserve 75561,1550
+
+     I don't know about you but I can't get enough of the Wolfenstein and
+Spear of Destiny duo. I am disappointed when I see the mapping utilities
+for Wolfenstein 3D but none for Spear of Destiny! I am not a crack 
+programmer yet, but where there is a will (and desire) there is a way.
+I made a batch program that will make the program WOLFMAP aka WOLFMP.ZIP
+work with the Spear of Destiny game set. WOLFMAP will process your SOD
+Mission One (for now) gamemap and maphead and generate maps that rival
+those that FORMGEN'S GAME CREATOR makes.
+
+Copy my MAPSOD.BAT and SODMAP.CFG files to the directory you have your
+copy of WOLFMAP installed.
+
+Copy the Spear of Destiny gamemap.sod and maphead.sod files you want mapped
+to the WOLFMAP program directory.
+
+Run the file MAPSOD.BAT and you will have your files changed to .wl3 type.
+You will see WOLFMAP execute itself three times and in the process it will
+make:
+Episode 1 Levels 1-10 which is actually Spear of Destiny floors 1-10
+Episode 2 Levels 1-10 which is actually Spear of Destiny floors 11-20
+Episode 3 Level 1 which is actually Spear of Destiny floor 21
+(You will see Episode and level numbers printed at the top of your maps
+but the map files will be named in the manner that FORMGEN'S GAME CREATOR
+names- Floor01.map up to Floor21.map. This scheme should be no harder to get
+used to than the debugcodes such as the -tedlevel command.)
+
+MAPSOD.BAT is primitve, as I know, but it does the work when nothing else is
+available! The finished product is what you are shooting for anyway! MAPSOD
+does all the renaming of files for you via the primitive DOS commands- no
+C programming here! I did work my butt off re-configuring the WOLFMAP.CFG
+file to make it work predictably with Spear of Destiny.
+
+{WOLFMAP Version 1.2 by David Lummis} Thank you for inspiration David!
+
+Enjoy! If you come up with a better way (and I know someone will) let me
+have a copy. For now we all will use mine!
+
+Revision (3/9/95) Version 0.75 patch batch for David Lummis' WOLFMAP V 1.2
+mapping program. Included now is sod3map.cfg and mapsod3.bat to map your
+Spear of Destiny Missions 2 & 3. Also included is a simple batch that cleans
+up after you get your floor files out of the WOLFMAP directory- it only
+deletes the *.map files and nothing else.
