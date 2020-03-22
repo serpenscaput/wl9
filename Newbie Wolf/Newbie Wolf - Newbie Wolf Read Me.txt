@@ -1,0 +1,20 @@
+Newbie Wolf by Milanor
+
+Hi all, this is my a demo of my first mod that I have created.  I worked on another mod back 
+a few years ago but then took a break from it, and now I have come back to restart another 
+project. This mod is basically a noobie friendly mod, where people with no experience or some 
+experience for the game would be introduced to the old school wolf3d like mods. 
+
+There are a few changes in source code, which includes having much more ammo, even more health to 
+begin with, and also the knife is a silent weapon. The MLI cheat is disabled since there is no point in 
+using it in an already easy mod. The ammo and health given is extremely forgiving. I have also decided to make 
+this a seamless mod as well as enabling a read this! option in the menu (yes the read this is still vanilla but 
+will be modified in the final version). 
+
+This is only a demo so I don't have many levels out, except for a few. This is still a work in progress, 
+but I thought I'd share my work that I have made in a few days and get feedback from others. I'm not really 
+a pro at coding stuff, but I'm still learning myself. 
+
+Also, there are still some minor bugs that I am trying to fix such as trying to get BJ's face to scale 
+properly, I found a temporary workaround, but creates another problem, which is where BJ's face is changing 
+much earlier than scaling later on. 

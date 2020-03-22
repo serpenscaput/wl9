@@ -1,0 +1,21 @@
+NOTES (DO NOT INCLUDE THIS FILE):
+
+Changed ceiling color = 0083 + Blue Stone 1 (ALT)
+Move modifier set = Garbled image 10
+Pause music = 0078 + Garbled image 7
+Silent digital sounds = 0079 + Garbled image 7
+Silent FM sounds = 007C + Garbled image 7
+Weapon switching to knife = 008E + Garbled image 7
+Vertical line zone = Invalid + 00D0
+Give additional weapons = 008F + Steel Panel
+Give additional keys = 008D + Steel Panel
+Give large ammo = 008C + Steel Panel
+Give small ammo = 008B + Steel Panel
+Give large health = 008A + Steel Panel
+Give small health = 0089 + Steel Panel
+Victory without BJ = 0092 + Landscape Wall
+Double wall heights = Comment C + Landscape Wall
+Next Episode = Comment H + Steel Panel
+Next Level = 0079 + Steel Panel
+Increase secret by 1 = Comment J + Steel Panel
+Increase secret huge = Comment K + Steel Panel
