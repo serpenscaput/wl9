@@ -1,0 +1,33 @@
+Ghosts is a 16 level game based on the “A Doll’s House” exe and graphics.
+
+For this last mod of mine I have for the first time invited others to contribute levels. Find all credits listed within the game. “Ghosts” has new level music contributed by Tricob.
+
+“Ghosts”, like “A Doll’s House”, features my missile launcher using exploding missiles with an explosive radius, hurting or killing the enemies, or the player, depending on the distance to the explosion 
+within the radius. A Doll’s House/Ghosts also features a completely new weapon. I call it a Plasma gun. It shoots balls of plasma that bounce off walls and objects at a correct angle relative to the angle 
+you hit the wall or object with. The ball will stop bouncing after three bounces, or when it hits an actor or the player. Certain enemy types use these weapons as well. In addition there are other new 
+weapons, new enemies, explodable objects (explosive radius), breakable objects and more.
+
+A Doll’s House/Ghosts has all new wall textures, object graphics, ghost graphics and interface graphics. Most actor graphics are modified from the original Wolfenstein 3-D and “The Lost Episodes”.
+
+Some useful hints:
+
+Level 1 and level 4 include tricks you have to succeed in performing in order to be able to progress. At least for level 4 it is highly recommended that you keep a backup save position at the beginning of 
+the level!
+
+There are two boss levels, level 15 and level 16.
+As the only level of Ghosts, level 15 utilises the elevator feature of A Doll’s House. This feature takes the player between floors in the same level.
+
+In “Ghosts” you start every level with 100% health and just a knife. The objective of each level is the same as in A Doll’s House. Save the girl!
+
+Like in A Doll’s House and several others of my previous games the cross has a special purpose. When you pick up a cross it will appear on the status bar. With a cross on the status bar you are able to 
+pick up a death chalice. This means it enables you to go through a passage blocked by such a death chalice. The moment you pick up a death chalice the cross disappears from the status bar. IMPORTANT: It 
+is possible to take more crosses while you have a cross on the status bar, but as long as there are more death chalices on the floor additional crosses should be left for later!
+
+Gold and tin chalices add 25 and 10 points to your health respectively.
+Pools of water will take all ordinary ammo (not missiles and plasma balls) unless your health is at 20% or lower in which case the water puddle instead will add 3 points to your health.
+
+The ghosts in “Ghosts” can be neutralized, unlike the PacMan ghosts of Wolf3D. But unless you have already played A Doll’s House and know it, you will have to figure out how to do it yourself.
+
+Enjoy Ghosts!
+
+Paal Olstad (Poet).
