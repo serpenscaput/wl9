@@ -1,0 +1,347 @@
+Text file accompanying the Wolf-Extra add-on to Wolfenstein 3-D.
+
+
+1. Introduction and installation.
+
+2. Changes to the graphics, enemies not included.
+
+3. About the add-on.
+
+4. About the levels.
+
+5. The Story.
+
+6. Bonus Level.
+
+7. Release notes.
+
+PS Notice on number of guards.
+
+
+
+					1.
+
+Thank you for wanting to play my add-on to Wolfenstein 3-D, Wolf-Extra.
+
+Wolf-Extra has been created by using MapEdit by David Huntoon, Bryan Baker and Warren Buss to make the floors,
+and WolfEdit by Bill Kirby for some changes to the graphics file (Vswap.wl6).
+
+You will need the full registered version of Wolfenstein 3-D, including the Nocturnal Missions, by id Software/Apogee
+to play my add-on.
+Wolf-Extra includes 4 episodes, episodes 1-3 and 6, each including a secret floor.
+
+How to install Wolf-Extra.
+In a directory where you have the Wolfenstein game files, replace the files Gamemaps.wl6, Maphead.wl6 and Vswap.wl6
+with the files included in Wolf-Extra.
+IMPORTANT. Remember to keep back-ups of the original game files.
+
+					
+
+					2.
+							
+It is possible to run Wolf-Extra with the original Vswap.wl6 the lack of some of the changes will not be noticed while the
+lack of others will make things look a little strange.
+I have included some wall patterns and objects that I believe are from "Spear" and the Lost Episodes.
+I don't own these games but I have picked up the images from other add-ons.
+In Wolfenstein each wall consists of two images. A north/south side and an east/west side which is usually a darker version
+of the north/south one. Some wall types come in different versions for variety.
+
+These are the changes I have made to the graphics.
+
+Walls.
+Purple Brick, in - Purple Stone with blood, out.
+Four versions of Brown and Gray Stone
+including Nazi Flag and Gold Swastika, in - Four versions of Brown Cave, out.
+One version of Brown Cave (without blood), back in - Gray Brick with big Adolf Hitler Poster, out.
+Gray Steel Panel, in - Gray Brick with Map of British Channel, out.
+Gray Marble-like Stone, in - Gray Stone version 3, out.
+Colored Glass Swastika, in - Light side (north/south) of Entry Elevator Door, out.
+An additional elevator image, in - "Empty" side (north/south) of Dead Elevator Control, out. (This side was never visible
+in the original game.)
+
+Objects.
+Green Ghost, in - Light red Ghost, out.
+Red and Yellow Ceiling Lights, in - Debris 1 and 2, out.
+A modified version of Bloody Bones, in - Debris 3, out.
+
+In addition the Water Puddle substitutes Pool of Blood and Bloody Bones as health powerup when below 10%.
+I don't use this much, but have performed this change for those who got sick of that particularity.
+
+There are a couple of other changes too, but these are not noticeable.
+
+
+
+Some enemies that are not included in my levels.
+
+Dogs. These are the least dangerous of the enemies (although they drain you of ammo without leaving any). They take up
+space as guards, so I have left them out in favor of other enemies.
+Besides I always hated to kill those poor dogs. And eating their miserable food afterwards made me feel guilty :-)
+
+Gretel Grosse.
+I never thought it a good idea to make you have to fight a girl. So Gretel is not included.
+
+
+
+					3.
+
+How this add-on came around.
+Originally I created a dozen or so fairly big individual floors. Not finding time then to complete a full game I abandoned
+the idea temporarily. Later I started to make several smaller floors often centered around special ideas.
+Then I thought I should try to put all this together in missions. I expanded some of the smaller floors and created a few
+extra big ones.
+
+
+Please notice!
+The "Death Incarnate" difficulty level in my set is designed to be as difficult as possible without being impossible!
+All levels have been tested on "Death Incarnate" starting with only a pistol and 8 shots.
+Starting with a more powerful gun and more shots will make it somewhat less difficult.
+
+
+
+					4.
+
+About the floors.
+Getting through the levels involves both maze-solving and heavy fighting, enemies may be alarmed at varying moments and
+start moving through different paths.
+There is a lot of pushwalls (secret doors) and keys and elevators are sometimes found behind them, but during play you may
+get hints on where to look for them.
+Sometimes you may get guards to open a locked door for you, making it unnecessary to find the key.
+
+Episode 3, floor 9! The silver key is the second key to be found on this floor. To get it you have to have someone opening
+a door wich requires this very key (I mention this to prevent players from looking for pushwalls everywhere, thinking that
+the silver key is in a secret area.)
+
+Some doors into rooms or areas that you don't need to enter are locked, to prevent the player from moving in there initially.
+Have someone opening them and you may get to secret areas or short cuts.
+Some levels have areas where you may get locked in, either by locked doors or pushwalls. But there will always be a way out.
+Exceptions to this are a few single rooms with doors requiring keys. A player should notice this and get out before the door
+closes. Anyway, when a guard opens a locked door it is always wise to shoot him in the doorway to make the door stay open.
+
+Dead guards.
+I have positioned initially dead guards in some places. There are special reasons for this, you will soon find out what
+these are.
+
+I have taken care to prevent guards from moving in the way of pushwalls that you need to open. Some very rare situations may
+occur however where you may have shot a guard in front of a pushwall that you later may need to push from the other side.
+This will happen only VERY rarely. But, and unless you want to play without saving at all, you should save your game at
+several places and in different slots.
+
+If you really feel stuck somewhere send me some words about it (what floor you are stuck on etc.). You may of course also
+look at the maps using the Wolf-Extra Hint Manual (or Mapedit), or have someone else doing it to give you some vague hints
+without spoiling the gameplay. 
+
+
+Small floors.
+Most of the small floors are found in Episode 1. They cover the same area and the elevator positions correspond with the
+starting positions that follow. This gives the impression of moving up through an underground castle. Each floor has its
+own wall pattern. These small levels are not easy, there is a lot of enemies and puzzles to solve.
+
+
+Bonuses.
+You will not always be able to get 100% on "secrets". Pushing some walls eliminate the possibility of pushing others.
+So you should not go for that bonus.
+
+You will almost always be able to get 100% on "kill". There are a few exceptions, but in these cases you will understand
+why you can't get the bonus.
+
+You will always be able to get 100% on "treasure". So try to get this bonus.
+
+Whatever you do you will almost always be able to get to all the rooms one way or another.
+There are a few exceptions:
+On a floor in episode 2 there is a room with a pushwall that moves sideways revealing dead guards.
+Pushing this secret door the wrong way prevents you from getting to several secret areas.
+On a floor in episode 3 some secret doors eliminate others without there being other entrances to the rooms that
+get blocked.
+
+
+The 1-Up.
+In my version of Wolfenstein 3-D (V1.4) the 1-Up gives you 25 shots (on all difficulty levels).
+I have read that in some versions the 1-Up gives full ammo (99 shots).
+I have calculated with 25 shots when I have put 1-Ups into the levels.
+If your version of Wolfenstein 3-D gives you 99 shots with a 1-Up, quite simply fire 74 shots minus what you had
+into the nearest wall. (just kidding).
+
+
+Stationary objects.
+Guards can shoot at you past stationary objects (and you at them). If super guards with missiles, syringes etc. are
+placed in such a position they too will try to hit you past stationary objects, but these objects will actually stop
+the on-coming missiles. The super guards will in that case not "notice" this but will continue to try to hit you,
+while you can empty your chaingun on them at your ease.
+Such a situation never occurred in the original game, and also in my levels the possibility of getting a row of columns
+or other stationary objects between the player and such a super guard is eliminated.
+In a couple of instances there is a theoretical possibility of getting into such a position though. But the chances that
+you should manage this are very small.
+
+
+I have made my levels not to include bugs/strange effects such as guards remaining deaf, guards shooting at you without
+hurting you (floor code problems) or walls you can walk through. Should you come across any of these or other illogical
+things, send me some words.
+
+
+Deaf guards.
+Some guards in Wolfenstein are "deaf", they will never act on hearing you, but only if they see you or get shot at.
+They have what one might call a "wider angle of view", but if you are straight behind them they will not notice you
+before you enter the square next to them.
+
+Super guards are always "deaf". They seem to be constantly looking in your direction, but (and this may be of interest
+for those who want to create their own levels) like other "deaf" guards they have a blind side. If you encounter a
+super guard from this side he will not notice you (although he appears to see you) before you start shooting or enter
+the square next to him.
+
+In my levels you will always be noticed by a super guard immediately.
+
+For most of the super guards the blind side is towards north. Exceptions are Fake Hitler, Otto Giftmacher and
+Gretel Grosse (not used in my levels). These have the blind side towards south.
+
+
+
+					5.
+
+The Story.
+
+You start in episode 1 where you find yourself locked up in a cell. You were gathering information about Operation
+Eisenfaust, and it is essential that you break out of your cell and fight yourself through the underground castle of
+Wolfenstein to get on to Castle Hollehammer to stop Doctor Schabbs.
+
+In episode 2 you enter Hollehammer and encounter the mutants. You know you have to kill Schabbs on floor 9.
+But beware! He may be lurking around in secret areas on some of the other floors.
+If you find him (or he finds you!), remember to save the game before fighting him. 
+Once he is killed the episode ends. Then you reload and spare him for another occasion, (there is always a way to get
+to the elevator.)
+
+After finally defeating Doctor Schabbs you don't have much time. Some of the mutants have already been put to work, and
+the Nazis are determined to conquer the world with every other means as well, such as chemical and nuclear warfare.
+The man who is to carry out all this is General Fettgesicht. You move on to episode 6 to stop him.
+
+Then you move to episode 3.
+The Nazi regime is crumbling. Adolf Hitler has only one thing in his mind. To ruin the whole world.
+Only you stand between him and his final goal. Good luck!
+Like Schabbs Adolf is lurking around in secret areas on some of the floors prior to floor 9.
+
+
+
+					6.
+
+Bonus Level.
+
+Like in the original Wolfenstein I had planed to put in a competition (I even designed my own "Aardwolf" sign).
+All who found it would have been able to mail me, and receive a Bonus Level.
+But knowing that honest players could try hard to find it without succeeding while others would just look at the maps,
+I canceled it. (The same reason that id/Apogee once had).
+
+I originally put the "Hero" sign nearby a bed in a room with no enemies. This is the only place in my set of levels where
+there is a bed. I thought of this room as a "Hero's retreat". Where the sign used to be there is now a One-Up.
+Where the One-Up was originally there is now a Chaingun. The Chaingun was originally nearby too.
+
+So the Bonus Level is included in the set, making the set consisting of a total of 41 levels.
+You get to play the Bonus Level by starting episode 4. In this level you fight Otto Giftmacher.
+(This level fits in the story between Episode 2 and Episode 6.)
+
+
+
+					7.
+Wolf-Extra release notes.
+
+The current version of Wolf-Extra is v2.04. Final version.
+
+Since the original release I have made some changes to Wolf-Extra. The main reason for this is that while working
+on it I failed to save several minor though in some cases important changes.
+I discovered this after having released the add-on, when I played some of the levels.
+All levels have now been tested anew. Corrections have been made as well as some new improvements.
+It is very unlikely that there will be any more changes to Wolf-Extra.
+Should it happen however the changes will be documented on
+http://home.online.no/~p-olstad/wolfenstein/release.html.
+
+Wolf-Extra is freeware and may only be distributed free of charge.
+All four files must be included, and no other.
+
+The author of Wolf-Extra kindly requests people not to modify Wolf-Extra nor use part of it in other add-ons.
+
+
+
+
+
+Making this set of levels for Wolfenstein 3-D was hard work but great fun.
+I hope players will find these levels interesting and fun to play.
+
+
+
+Paal Olstad.
+
+
+
+Any comments on Wolf-Extra? p-olstad@online.no
+
+
+
+PS
+
+IMPORTANT NOTICE ON NUMBER OF GUARDS.
+In Wolfenstein there is a limit to how many guards there can be on a floor. The number is 149.
+If there are more guards than that in a level, an error message, "get newactor-no free spots in objlist",
+will occur as soon as the level is loaded.
+
+The running hero at the end of Episode 1 counts as 1 moving object. The total number of guards that can be
+put in a level with such an ending is therefor 148.
+If there is one more the error message will occur when the hero starts running.
+
+The Adolf Hitler super guard uses two moving objects, Mecha Hitler and Adolf Hitler. Here too the total number is 148.
+If there is one more the error message will occur when Hitler loses his armor.
+
+On floors with super guards with special shooting devices (like missiles etc.) the number is further reduced,
+due to the fact that these devices take up space as moving objects. When a super guard (or boss) with such a weapon
+starts shooting, the before mentioned error message will occur if the number of missiles flying through the air at the
+same time plus the number of guards in the level (dead or living) succeeds 149.
+The longer the distance to the super guard the more missiles will fly simultaneously.
+
+There is in fact no way one can say for sure how many guards it is "safe" to put in a level together with such a super guard.
+
+
+
+Super guards with missiles or other flying weapons in Wolf-Extra.
+
+Giftmacher and Fettgesicht.
+Otto Giftmacher (see Bonus Level) and General Fettgesicht appear in one level each. These levels have a fairly big
+number of enemies (Death Incarnate), but substantial testing has proven that you don't get the error message in any of them.
+
+Doctor Schabbs.
+The same has been tested with Doctor Schabbs. This super guard throws his syringes with lesser frequency
+than the others shoot missiles or fire balls.
+
+Fake Hitler.
+Levels with Fake Hitler (Ghost Hitler) are most vulnerable regarding this particular error message since this super guard
+shoots quite a lot of fire balls in a row.
+The Fake Hitler appears in some of my levels. A couple of them have a big number of enemies (Death Incarnate).
+Episode 3 floor 9: Your first encounter with Fake Hitlers on this floor is in a hallway where there are two of them.
+If you manage to get to one end of this hallway while both of them are at the other end firing, you may get the
+mentioned error message. This will not happen in normal play, but you may enforce it.
+Episode 3 floor 10: In this level it is possible that you might get the error message if you manage to
+get the Fake Hitler into one of several long corridors, but normally you will not do that.
+
+The error message will prompt you to call Apogee. DON'T DO THAT. Take it out on me instead :-)
+
+IN SHORT: THIS PARTICULAR ERROR MESSAGE WILL NOT APPEAR IN ANY OF MY LEVELS EXCEPT POSSIBLY IN THESE TWO, AND
+THEN ONLY IF YOU TRY HARD.
+
+All the same, should you get this error message unintentionally let me know!
+
+
+
+Some other notes.
+
+In the original Wolfenstein game you could sometimes get an error message, "no purgable blocks", when loading a saved game.
+This may also happen when playing my levels. Again don't call Apogee.
+
+Walls changing pattern.
+Some times wall blocks change pattern (to Gray Stone). It seems it can happen if you whirl around a lot while fighting.
+This too could also happen in the original Wolfenstein game.
+
+Lastly.
+While working on the add-on and testing the levels I experinced a couple times that when I got killed and started at the
+beginning of the level with a new life, the view port had shrunk and the border was flashing.
+I have no explanation to this. I have seen it happen in other add-ons, but never in the original game.
+Should it happen just choose the "change view" option, resize the view port and go back to the current game
+or load a saved one.
+
+
+P. O.

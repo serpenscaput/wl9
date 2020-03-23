@@ -1,0 +1,31 @@
+Wolf-Extra Ultimate 4SDL
+
+
+Thank you for wanting to play Wolf-Extra Ultimate.
+
+In order to play Wolf-Extra Ultimate you need to own a registered version of Spear of Destiny by ID Software.
+Copy the AUDIOHED and AUDIOT files from Spear of Destiny to Wolf-Extra Ultimate and change the extensions accordingly:
+
+Audiohed.wxu
+Audiot.wxu
+
+
+Wolf-Extra Ultimate was originally meant to be a full 21 level set. Unfortunately I do not have the time for that.
+I have made one very special level which I think is as good as my very best ones! :-)
+Be prepared for surprises and new special features!
+
+The "Death Incarnate" difficulty level is designed to be as difficult as possible without being impossible!
+
+Wolf-Extra Ultimate has been tested and won on "Death Incarnate" in a little less than 40 minutes (par time) with total ratios of 100% in all three categories.
+Finishing the game without 100% ratios will make it less difficult to beat the par time.
+
+Remember to leave saved games in different slots so that you may go back to different stages of the game if you need to.
+
+The zip includes the Chaos Edit definition files for Wolf-Extra Ultimate, and a walk-through txt file with accompanying maps. WARNING SPOILERS!
+
+
+
+Paal Olstad (Poet).
+
+
+p-olstad@online.no
