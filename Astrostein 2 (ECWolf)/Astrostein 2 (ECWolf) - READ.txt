@@ -1,0 +1,44 @@
+ASTROSTEIN 2 Mac Version Quick-Fix for ECWolf (PC Compatibility Patch)
+Original Version by Laz Rojas
+Fix by Sam Feichter (AstroCreep) 	
+12/08/2018
+
+
+DIFFERENCES FROM ORIGINAL
+
+Menu graphics adapted from WolfenDOOM Version of Astrostein, Wolf 3D, and the ECWolf Tech Demo by Executor.
+Includes fonts from Tech Demo by Executor
+includes imf macwolf songs by Andy_Nonymous
+Reverted to original Astrostein weapons, due to lack of ripped sprites.
+
+
+This is only a temporary build, as this is designed for the crippled version currently
+being run by the dev versions of ECWolf.  As such, this WILL NOT WORK with the official releases yet, only the dev versions
+which support MacWolf.  Dev versions can be found at http://devbuilds.drdteam.org/ecwolf/
+
+This also includes a modified Astrostein 2 mod needed to run this fix, already
+MacBinary'd up.
+
+TO RUN:
+Extract ZIP file
+Drag and drop "Astro2_Data.bin" and "astrostein2_fix_PC.pk3" onto the ecwolf executable
+
+OR
+
+run "ecwolf --file Astro2_Data.bin astrostein2_fix_PC.pk3"
+
+This may be a side effect of my old ass computer but I have noticed
+a slight lag while playing Astrostein.  I haven't experienced it with any
+other mod except the mac version of the Astrostein mods, so I 
+assume that it is the large amount of custom assets in the original file.
+
+CREDITS - 
+
+Wolfenstein 3D by iD Software
+Mac version by iD Software and MacPlay
+"Astrostein" originally by Laz Rojas
+Fix by AstroCreep
+Extra resources from Wolfenstein 3D (PC) and WolfenDooM version of Astrostein
+
+
+ 

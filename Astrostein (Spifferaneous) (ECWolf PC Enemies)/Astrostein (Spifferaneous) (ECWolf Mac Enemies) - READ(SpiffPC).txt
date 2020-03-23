@@ -1,0 +1,52 @@
+ASTROSTEIN (Spifferaneous Version) - Conversion to ECWolf 1.3.2 (HD VERSION)
+based off of Macintosh Wolf3D mod "Astrostein"
+created by Gerald Heffner (Spifferaneous)
+converted by Sam Feichter (AstroCreep
+
+This update enhances the graphics of the original conversion of Spiff's Astrostein.
+In the style of my "HD" Halten Sie! mod, this updates the walls and most static sprites to 
+128x128 graphics, adds floor graphics and brightness levels, and replaces the actors with
+cleaned up versions of themselves (in this case, Laz's WolfenDoom sprites).  I have also updated
+sounds, and used the mac versions of the weapons.
+
+
+(Original info)
+This is a quick conversion of Spifferaneous' version of Astrostein for the PC
+version of Wolfenstein 3D.  This version was originally made because there was
+no Astrostein mod for the PC version, save Bruce Ryder's 3 level demo.  For
+some reason (prob the WolfAddict drama back in the day), it was never completed.
+So, Spiff took it upon himself to make his own version of Astrostein, with different
+enemies and levels.  There are 6 new episodes.  More info can be checked out in the
+"SpifRead.txt" and "SpifInfo.txt" files within the pk3.
+
+I also took the liberty of including Bruce Ryder's 3-level demo as a bonus
+episode.
+
+
+CHANGES FROM ORIGINAL
+
+Deleted doubles of graphics, using DECORATE to replicate Giftmacher and Officer
+Added extra "disintegrate" sound effect during death
+new HUD graphics and title screen and such!  This wasn't possible when this was originally released!
+Extra music from Spear of Destiny and Blake Stone!
+Bruce Ryder's shitty enemy sprites replaced with Laz's much nicer ones
+Nicer walls!
+Floors!
+Light levels!
+Weapons from the Mac version! (I've hidden the 2 extra weapons in random secret places)
+Beef
+
+
+CREDITS:
+
+Wolfenstein 3D by iD Software
+ECWolf by Braden "Blzut3" Obrzut
+Astrostein originally created by Laz Rojas
+Original 3-Level PC Demo by Bruce Ryder
+Levels by Spifferaneous, edited by AstroCreep
+Fonts from Tech Demo by Executor
+Walls originally by Laz Rojas and edited by AstroCreep
+Sprites from Mac version by Laz Rojas and HD Pack by CeeJay, heavily edited by AstroCreep
+Floor textures from Blake Stone and Doom
+Sounds from Doom, Astrostein (Mac), Astrostein (WolfenDOOM), Astrostein (Spifferaneous)
+Conversion to ECWolf by AstroCreep

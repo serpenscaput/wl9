@@ -1,0 +1,52 @@
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkBlue]WOLFPAK 1 ^C[Black]- a compilation of my early levels, made from 1996-2006
+
+^C[DarkBlue]WOLFPAK 2 ^C[Black]- a compilation of vanilla Wolf3D mods, made from 1993-2001 (hi-res)
+
+^C[DarkBlue]HALTEN SIE! ^C[Black]- A conversion of Halten Sie to ECWolf, available in low or hi-res
+
+^C[DarkBlue]ESCAPE FROM TOTENHAUS ^C[Black]- another conversion, only available in Low-Res
+
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkBlue]ASTROSTEIN (Spifferaneous) ^C[Black]- A conversion of Spiff's version of Astrostein.  Regular or HiRes
+
+^C[DarkBlue]MAC GFX PACK 
+
+^C[DarkBlue]THE RENOVATION ^C[Black]- A conversion of BJ Rowan's 1994 level set to ECWolf
+
+^P
+
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+
+^C[DarkBlue]CONFLICT IN THE FATHERLAND ^C[Black]- A conversion of BJ Rowan's 1999 level set to ECWolf
+
+^C[DarkBlue]SPEARPAK ^C[Black]- Like "WOLFPAK 2", this is a compilation of old school Spear scenarios.
+
+^C[DarkBlue]WOLFBEL ^C[Black]- A conversion of Brian Lowe's level sets to ECWolf
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^C[Black]I've been making mods for Wolfenstein 3D off and on
+since around 1996.  I have just recently started messing
+around with ECWolf, and this (so far) is the culmination
+of these efforts.
+^P
+^G 16 16 [ASTROCRP]
+^C[Black]Aside from modding Wolf, I also enjoy making music and
+editing/creating images in Photoshop.  My GFX work is
+mostly done in these games, but you can check out my music
+at soundcloud.com/aquafiend.
+^P
+
+
+^C[Blue]ASTROSTEIN 2 ^C[Black]by Laz Rojas
+^C[Green]port ^C[Black]by Sam Feichter (AstroCreep) 2018
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+^C[Gold]ECWolf ^C[Black]by Braden Obrzut (Blzut3)
+^E
