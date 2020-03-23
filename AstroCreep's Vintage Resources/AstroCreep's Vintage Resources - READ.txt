@@ -1,0 +1,23 @@
+ASTROCREEP'S VINTAGE RESOURCE PACK
+
+This is a giant pack of PNG images ripped from most of my vintage mods,
+dating from between 1998-2006.  Not much of super value in here,
+but there are some cool things like a few weapons and walls, as well
+as some early MS Paint edits of mine, which are always good for a laugh lol.
+Stuff was ripped with WDC directly to WAD file, so if these things should
+be used with DOS/SDL Wolf projects they will need to be converted to BMP 
+and the sprites need to have a 64x64 image boundary size.  I may do a straight
+BMP rip later on.
+
+CREDITS
+
+Source Mods:
+Gorenstein, Gorenstein 2, SamWolf, Technostein SSD, Hodge Podge 3D, Gore Spear, Heil Hitler
+
+Many resources originally from Laz Rojas' WolfenDOOM scenarios, Doom, MacWolf, ROTT, Heretic,
+Hexen and Goldeneye Doom TC.  
+
+All original content by Sam Feichter (AstroCreep)
+I apologize if anything is miscredited, as some of this stuff I have not seen in 
+almost 20 years!  If anything is miscredited and you know of the original source,
+please drop me a line!
