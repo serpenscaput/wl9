@@ -1,0 +1,16 @@
+Sorry for the long wait, but here - at long last - is the Construction Kit for MyMod4SDL, a.k.a. the Base Of Operations demo.  Included is the files to use when editing under ChaosEdit.
+
+There are some things you should know about how the mapping is laid out here:
+
+* The Wall Patches are marked with a "[!]" symbol, and are located in the Objects section.
+* "Blocker permanent" and "Blocker temporary" function the same;  they block guards from moving on and beyond squares with such marks.  But the "temporary" blocks are removed when BJ moves over them.
+* "Stationary" dogs are available in the maps now.  So are dead dogs, dead SSs, dead Mutants, and dead Officers.  Check the Objects section.
+* The third plane of the map activates an "object spawner" when its value equals 36510.  It spawns a vine in that tile, whether or not an object or guard is already located in that same square.  The ceiling textures mark this with a green "X" in ChaosEdit's 3DEdit window.
+* "Ceiling light (green)" and "Blue light" now have "failing" counterparts.  "Red light" and "Bare light bulb" do not.
+* Remember, "Flag horizontal" and "Flag vertical" count as *two* static objects in the EXE, not one like ChaosEdit says.  This is because there's the non-directional flag pole, and the 3D Directional flag that overlaps it.
+
+You'll notice that some features put in the game aren't used in the demo level at all.  "Failing green light" is one, as well as four of the six "Shelf" Wall Patches.
+
+Hope this kit is useful to fellow Wolfers.  :-)
+
+- Tricob.

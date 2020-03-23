@@ -1,0 +1,45 @@
+GENERAL FEATURES: 
+MAP CHOICES: Here are the “index” values for the palette as they are stored in the game. There are 90 different choices for Ceiling/Floor colour:  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 
+20, 24, 27, 29, 32, 35, 39, 41, 44, 47, 48, 50, 52, 53, 56, 57, 58, 59, 60, 61, 62, 63, 65, 67, 69, 71, 72, 74, 76, 78, 81, 83, 85, 86, 87, 90, 92, 94, 96, 99, 102, 105, 113, 115, 117, 122, 124, 126, 128, 
+130, 132, 134, 136, 146, 150, 154, 158, 161, 163, 165, 167, 169, 171, 174, 178, 185, 188, 197, 201, 205, 209, 215, 221	
+TELEPORTING: 
+		
+		
+		
+		
+		
+LOCKED DOOR SETTINGS: 
+[27,0] = Gold/Yellow Locked Doors  [28,0] = Silver/Blue Locked Doors 	[29,0] = White Locked Doors  [30,0] = Red Locked Doors	
+You can now tell who can open the locked door by minimum enemy type... e.g.: if you don't want Guards or SS to open those doors, but you want the Officers or better to use the door... then you put the 
+proper wall value on that coordinate... 
+The values are: 
+0 = All, 1 = Guard, 2 = SS, 3 = Officer, 4 = Mutant, 5 = Hans, 6 = Gretel, 7 = Gift, 8 = FatFace, 9 = Schabbs, 10 = MechaHitler, and 11 = Real Hitler, 12 = No one
+Ghosts and Dogs can't open doors so there is no setting for them.
+HEALTH ITEM SETTINGS: [31][0] First Aid Kit Value  [32][0] Food Plate Value  [33][0] Dog Food Value  [34][0] Gibs Value	AMMO/WEAPON SETTINGS: [35][0] AmmoBox Value  [36][0] Full Clip Value  [37][0] Used 
+Clip Value  [38][0] Ammo for Weapon Pickup	
+ENEMY HEALTH SETTINGS:
+[39][0] - 0 = Enemies can't pick up Health; 1+ = They can pick up Health if needed
+BONUS ITEM SETTINGS (* 100):
+[40][0] 1Up Bonus Value  [41][0] Cross Value  (Cross - Wall value 1 = 100 points) [42][0] Chalice Value  (Chalice - Wall value 5 = 500 points)	[43][0] Chest/Bible Value (Chest/Bible - Wall value 10 = 
+1000 points) [44][0] Crown Value. (Crown - Wall value 50 = 5000 points)	
+
+[48][0] = 0 Guards Drop Ammo; 1+ Guards drop Pistol... 
+[49][0] = 0 SS Drops Ammo; 1+ SS drops the Machinegun...
+[50][0] 0 = Disable Weapon Jam; 1 = Enable Weapon Jam 
+[51][0] if Weapon Jam Enabled 0 = Weapon Jam Only; 1 = Loose Weapon on Jam
+WHAT THE BOSSES DROP:  
+[54,0] = Hans Drop Value  [55,0] = Gretel Drop Value  [56,0] = Giftmacher Drop Value  [57,0] = Fatface Drop Value  [58,0] = Schabbs Drop Value  [59,0] = Mecha Hitler Drop Value  [60,0] = Real Hitler Drop 
+Value	Drop Values (0= drop nothing?, 1=Gold key, 2=Silver key, 3=White key, 4=Red key, 5=Master key, 6=1up?)	
+OTHER VARIABLES: 
+[61,0] = Starting Weapon (0 = Player will start with Knife, anything else start normal) 
+[62,0] = Par time Minutes (1 = 1 min, 2 = 2 min, etc) 
+[63,0] = Par time Seconds (0 = 0 secs, 1 = 15secs, 2 = 30secs, 3 = 45secs) 
+
+THE LEFT SIDE OF THE MAP VARIABLES:
+
+
+BackSpace-D = Kill everything on Level - To Calculate Total Score for a level.  BackSpace-C = Count all objects on Level  BackSpace-E = End the Level  BackSpace-F = Spot where BJ is Facing (location)  
+BackSpace-G = God Mode Toggle  BackSpace-I = Free Items	BackSpace-K = Give Key  BackSpace-M = Memory Info  BackSpace-N = No Clipping  BackSpace-Q = Quit  BackSpace-S = Slow Motion  BackSpace-T = 
+ShapeTest  BackSpace-V = Extra Vlb's (Fastmonitor)  BackSpace-Z = Picture Grab	
+
+Just place A Blank or Undefined (0) walltile on mapspot [63][63] = no level reset (THIS IS FOR MOD PURPOSES ONLY)

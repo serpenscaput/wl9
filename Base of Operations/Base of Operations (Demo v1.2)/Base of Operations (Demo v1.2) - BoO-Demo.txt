@@ -1,0 +1,24 @@
+Greetings from Tricob.  This is the newest official version of the Base Of Operations demo.
+
+The High Scores table has a new set of high scores on it.  If you want to beat these scores, you have to get 100% on *everything* on Death Incarnate!
+
+Saved games from older versions of this demo will *not* work here!  I've included a number of bugfixes in this release -
+
+* The walls and the floor/ceiling tiles were updated one frame apart from each other.  This is now fixed.  (WL_DRAW.CPP)
+* Dogs no longer bleed when very slightly injured (WL_STATE.CPP)
+
+I do apologize for the bugs that plagued this code in the past.  :-(
+
+The level in this demo has been updated.  New secrets are included, and one hidden area is somewhat easier on the top difficulty.
+
+"Failing" ceiling lights have been updated, so now their flickering appears to be more random than before.
+
+Note also that Self-running Demos are now running more smoothly, and are now allowed to run longer.  The EXE uses external demo files now.
+
+I also updated the statusbar image, the Credits screen, and I *finally* fixed the texture in the Sign-on screen!
+
+Ubuntu users:  I could not get "Code Blocks" to work, so I've included a Ubuntu shortcut that'll run the game in the WINE emulator.
+
+Enjoy the demo.  :-)
+
+- Tricob.

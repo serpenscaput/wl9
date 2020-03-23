@@ -1,0 +1,16 @@
+Greetings from Tricob.  This is the newest official version of the Base Of Operations demo.
+
+The High Scores table has a new set of high scores on it.  If you want to beat these scores, you have to get 100% on *everything* on Death Incarnate!
+
+Saved games from versions older than 1.2 of this demo will *not* work here!  I've included a number of bugfixes in this release -
+
+* Fixed a bug in the routine that replaced "unused" sprites with "used" ones;  the routines were spawning a new object instead of just replacing it.
+* In v1.2 of the demo level, a northwest Pushwall made a vine abruptly appear when the wall was pushed.  Fixed!
+
+I do apologize for the bugs that plagued this code in the past.  :-(
+
+Ubuntu users:  I could not get "Code Blocks" to work, so I've included a Ubuntu shortcut that'll run the game in the WINE emulator.
+
+Enjoy the demo.  :-)
+
+- Tricob.

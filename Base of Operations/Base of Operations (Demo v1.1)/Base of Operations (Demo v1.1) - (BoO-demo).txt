@@ -1,0 +1,9 @@
+Greetings from Tricob, making his first 2012 submission.  This is the first official version of the Base Of Operations demo, and it fixes a few problems the original demo game had.  The first key room should be easier and less tedious to play now, a floorcode mistake is corrected, and other minor things are changed.
+
+The High Scores table now has a new set of high scores on it.  If you want to beat these scores, you have to get 100% on *everything* on Death Incarnate!
+
+I also included the picture file I used as a base for making the sign-on screen.  I hope to release this demo's complete "construction kit" soon.
+
+Enjoy the demo.  :-)
+
+- Tricob.
