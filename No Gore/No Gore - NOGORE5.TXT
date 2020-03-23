@@ -1,0 +1,7 @@
+NOGORE version 0.5 (for Wolfenstein 3D 1.4 shareware) 
+
+Here's a patch from Conner94 that has all the gore effects taken out (apart from the walls). A new patch (version 1.0) with the wall gore effects taken out too will be issued later.
+
+2/18/2005
+
+Schabbs.
