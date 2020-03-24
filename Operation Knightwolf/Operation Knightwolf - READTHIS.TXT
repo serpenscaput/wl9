@@ -1,0 +1,45 @@
+                    ***********************
+                    *Operation: KnightWolf*
+                    *  by Paul Gibson     *
+                    ***********************
+
+     Welcome, and thanks for downloading these first few levels of my
+ Wolfenstein adventure. I've been enjoying other people's levels and
+ gamesets for years, and felt it was time to start giving back a little!
+ 
+     I am a novice at level building, but I've tried to make these 
+ somewhat interesting- changing some graphics, sounds, etc., without 
+ totally abandoning the original games concept. I am trying to follow a 
+ theme...since we always seem to deal with castles, I've tried to add a 
+ "medieval" flavor to them. 
+
+     Our hero, B.J., is held in a cell in the bowels of a castle, deep
+ in the Rhineland. However, it is not just occupied by his captures...
+ some of the original inhabitants are still around, sealed off after 
+ some brown guards "disappeared" while reconning some treasure rooms.
+ He must not only escape, but deal with some of the spectral guests to
+ complete his escape.
+
+     These are the first levels of what I want to complete as a multi-
+ episode set. I really would appreciate some credible, constructive 
+ feedback to help me develope the idea and concept to a better result.
+ please email me to let me know.
+
+     This level set requires the registered version of Wolfenstein. It 
+was modified using mapedit 8.4, wolfsnd, and wolfedit 4.2. This set
+consists of 4 regular and 1 secret level. The secret level is available
+from level 1. Simply rename the files with extension ".KWF" to ".WL6",
+then copy them over your existing maphead, vswap, and gamemaps files. Be
+sure you keep a safety copy of your original game.
+
+     I have tested these levels and found them to work well, Please inform
+me of any bugs you find.
+
+     Watch for the "Armory" rooms, and the hidden treasure rooms; some of 
+the keys are hidden! 
+
+     The nice redbrick, and toilet, is by B.J. Rowan. Other graphics and
+sound changes were done by me.
+
+ thanks; Paul Gibson  3/1/2000
+         artgum@aol.com
