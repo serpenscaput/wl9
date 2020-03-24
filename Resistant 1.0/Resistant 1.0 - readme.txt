@@ -1,0 +1,33 @@
+Resistant - A TC (total conversion) of ID Software's original game Wolfenstein 3D.
+
+Made by Warthower
+
+
+New features:
+==========
+-no story
+-new graphics
+-new game menu
+-new sounds (sound table was also changed)
+-new background music
+-new levels (13)
+-no secret levels
+-textured floors and ceilings
+-no score/live system
+-one new enemy type
+-destroyable objects (f.e. hanging flesh)
+-new bosses
+-new kinds of level progression
+-crosshair added (press T)
+-gun bobbing
+-debug-cheatcode changed
+-MLI cheat...just try it out ^^
+-no joystick support
+-two new weapons (you can get them only through the debug keys)
+
+
+Tip: If you don't want to see the title screen of Resistant, start the game with 'nowait' as parameter.
+
+
+Enjoy playing!
+Warthower
