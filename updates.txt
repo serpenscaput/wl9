@@ -119,3 +119,4 @@
 -added Resistant 1.0
 -added Return to Wolfenstein
 -added Wolfenstein 3D The Second Encounter
+-fixed Spear of Dreams
