@@ -1,0 +1,2 @@
+Floor     is LOCKED.
+Try another floor.^XX

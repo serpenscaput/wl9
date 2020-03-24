@@ -1,0 +1,37 @@
+^BCe3^SCe1^ST1^SP1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 1 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^SL^PX0e6^PY025^SH090^RL^RM0e0
+Accessing......current location:
+
+^RJ^FCeb
+STAR INSTITUTE
+General Operations
+^FCab
+
+^LJ^DMAgent Stone... Reports confirm that Goldfire is aware of your arrival. My sensors indicate movement toward the 9th floor shuttle bay. Sir...I can only extrapolate from past behavior to determine Goldfire's current intent.
+^EP
+^FC3a^FN1^CEMISSION 1 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aAssessment:^FCab Dr. Goldfire plans to flee the Institute. He realizes you are a threat to his plan, and perceives an increased measure of personal safety on the Floating Fortress. Control of greater destructive capabilities is a certainty as well.
+^EP
+^FC3a^FN1^CEMISSION 1 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aObjective:^FCab Proceed to Floor 9. Kill the Spider Mutant guardian alien of the STAR Institute and take the shuttle to the next link in Goldfire's operation, the Floating Fortress. You will receive additional instructions when you arrive at the fortress complex.
+^EP
+^FC3a^FN1^CEMISSION 1 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabInformant Bio-Techs have been located throughout the STAR Institute. Information, ammo, and tokens may be obtained from these individuals.
+
+If I may offer an opinion: Think before you shoo...Yes Sir...Good luck, Sir!
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...

@@ -1,0 +1,18 @@
+^BCe3^SCe1^ST1^FN1^BX1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 3 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+Intelligence has confirmed that the Underground Network was a major holding chamber for Goldfire's mutant legions. By destroying this compound, you've delayed Goldfire's ability to storm the earth with his mutant creatures. Now, his only means of invasion is by teleportation. Well done, Commander Stone!
+^EP
+^FC3a^FN1^CEMISSION 3 SUCCESSFUL
+^FC36^FN2^CEBRITISH INTELLIGENCE LOW-BAND ENCODED TRANSMISSION:
+
+^FN4^FCab
+We now know that the STAR Port is a major site of operations for Goldfire's earth-based objectives.
+
+Proceed to the preset rendezvous point to receive further detailed information about your next mission.
+
+<End Transmission>
+^EP
+^XX...

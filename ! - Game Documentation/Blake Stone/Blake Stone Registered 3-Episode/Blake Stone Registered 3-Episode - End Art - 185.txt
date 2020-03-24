@@ -1,0 +1,28 @@
+^BCe3^SCe1^ST1^SP1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 4 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^SL^PX0e6^PY025^SH093^RL^RM0e0
+Accessing......current location:
+
+^RJ^FCeb
+STAR PORT
+Alien Controlled Quarters
+^FCab
+
+^LJ^DMAgent Stone...this is the last remaining supply base on Earth that is receiving shipments from Goldfire. It must be rendered useless to save the planet.
+^EP
+^FC3a^FN1^CEMISSION 4 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab^FC3aObjective:^FCab Locate the shuttle bay for launch to HABITAT II. Intelligence cannot pinpoint the exact location of the bay, but it is apparently at the top of the structure and well guarded by a powerful mutant, the Cyborg Warrior. Destroy the mutant and take a shuttle to the HABITAT II complex.
+^EP
+^FC3a^FN1^CEMISSION 4 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabAgent Stone? Beware, I cannot offer an assessment of Goldfire's future actions. He is becoming extremely agitated; decidedly irrational.....Good Luck, Sir!
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...

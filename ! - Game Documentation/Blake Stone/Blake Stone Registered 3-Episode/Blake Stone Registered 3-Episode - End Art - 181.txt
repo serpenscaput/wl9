@@ -1,0 +1,39 @@
+^BCe3^SCe1^ST1^SP1^LCc5^DCc3
+^FC3a^FN1^CEMISSION 2 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^SL^PX0e6^PY025^SH091^RL^RM0e0
+Accessing......current location:
+
+^RJ^FCeb
+FLOATING FORTRESS
+Transport Arrival
+^FCab
+
+^LJ^DM
+
+^AYfbNice flying...You made bloody good time, Blake! The minister will be glad to know that all that time in the flight simulator paid off.
+
+^AYfbGoldfire, however, remains a threat. Readings indicate he is within the complex.
+^EP
+^FC3a^FN1^CEMISSION 2 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aAssessment:^FCab It is apparent that Goldfire respects your abilities as an agent. Again...I foresee his attempts to cause your demise....Affirmative Sir. But my programming...Yes Sir!
+^EP
+^FC3a^FN1^CEMISSION 2 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCab
+^FC3aObjective:^FCab Continue your search to destroy Dr. Goldfire's creations. Make your way to deck 9 where you must eliminate one of Goldfire's strongest mutants, the Acid Dragon. Find a shuttle and take off for the secret Underground Network on Earth.
+^EP
+^FC3a^FN1^CEMISSION 2 BRIEFING
+^FC36^FN2^CE(R.E.B.A. VOICE INTERFACE)
+
+^FN4^FCabSir...If Goldfire is unsuccessful, he will...with all probability...retreat to HABITAT II. Take care...Sir. Readings indicate that many guards and patrols loyal to the doctor are here within the fortress complex. Informants, however, may give more information which will be of assistance.
+
+Idle...R.E.B.A.///end.
+^EP
+^XX...
