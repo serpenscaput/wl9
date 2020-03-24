@@ -120,3 +120,4 @@
 -added Return to Wolfenstein
 -added Wolfenstein 3D The Second Encounter
 -fixed Spear of Dreams
+-uploaded different Spear Resurrection SDL version
