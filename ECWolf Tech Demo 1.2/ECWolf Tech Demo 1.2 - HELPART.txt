@@ -1,0 +1,214 @@
+^P
+^C[Olive]QUICK COMMAND REFERENCE
+^c00
+Arrows move. Ctrl shoots. Alt strafes. 1-6 select weapons.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to Desktop
+,			 Strafe left
+.			 Strafe right
+
+^P
+^c[Brick]										ECWOLF TECH DEMO
+^c[Olive]										TABLE OF CONTENTS
+^c00
+
+WELCOME	.	.	.	.	.	.	.	.	.	.	.	.	.	.	3
+STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	7
+MANUAL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	11
+ALSO FROM EXECUTOR	.	.	.	.	19
+COMING SOON	.	.	.	.	.	.	.	.	.	.	.	24
+MODDING FOR ECWOLF	.	.	.	.	.	26
+
+^P
+^C[Olive]A WORD FROM BLZUT3
+^C00ECWolf originally started at the end of 2008 with the goal to bring an experience similar to ZDoom to Wolfenstein 3D. Now, after three and a half years, it is finally ready for general use.
+
+It has always been amusing to me how for a game released as long as this one, that there really hasn't been a good source port available. From what I've seen ports have either been bug ridden or complete rewrites. Even the official console ports range from crap to mildly annoying. (Seriously, the otherwise perfect Xbox
+^P
+port doesn't have a run button?) From what I can tell the best ports of Wolfenstein are those based upon the SNES/Jaguar/3DO/Mac base, and those really could be considered a completely different game.
+
+Of course, for anyone who has played with the Wolf3D source code would know that it is quite a mess to work with. Honestly, you'd have to be somewhat insane to want to clear up all the inline assembly and then even more so to try to force modern moding capabilities into the engine. I have Moritz "Ripper" Kroll and the rest of the
+^P
+contributors to Wolf4SDL to thank for their excellent job in cleaning up the ugliest parts of the Wolf3D code base. Wolf4SDL does, at least in my opinion, deserve the distinction of being the first truely great port of Wolf3D that I've used, but it leaves one big problem unsolved. That problem is future-proofing all the great mods for the original game.
+
+Enter ECWolf. For the first version of ECWolf the target was to merge Spear of Destiny, its expansion packs, and Wolfenstein 3D into a single binary. Instead of hacking things together to work, I
+^P
+decided to do things properly and what you see here is the result of that effort. As a Doom mod author, I've enjoyed the relative ease it was to start working with the ZDoom engine and I've sought to bring a similar experience here. I've even goes as far as to literally use some of the code from ZDoom to make ECWolf.
+
+So what we have here is a source port that allows you to create mods that can have any amount of custom content that you desire and have it work on all the platforms supported by the engine. At the same time it is capable of playing the base
+^P
+games with a relatively vanilla feel compared to the ports that take the rewrite approach.
+
+This is only the beginning! The scripting capabilities of this first version only scratch the surface of what is possible with the engine. Looking towards the future ECWolf will eventually gain the ability to play other games based upon the Wolfenstein 3D engine. As of this writing, my first target is, of course, going to be the Mac Wolf. (Sorry for anyone waiting for a Blake Stone port. We still have a ways to go.)
+^P
+Finally, I would like to thank all of you for sticking with me as I slipped my deadline. Hopefully what you see here will not disappoint.
+
+Special thanks to Executor for creating this tech demo and putting up with ECWolf in its most crash happy phase.
+
+^>Braden Obrzut
+^P
+^G16 16 [BLAZE]
+^C00The year is 1944. You are Captain William "B.J." Blazkowicz, a top Allied spy and the OSS' first choice for covert wetwork. You were assigned to investigate a secret German biological warfare project centered around Castle Hollenhammer, known only as "Operation Eisenfaust".
+
+Your investigation, however, did not go as planned.
+^P
+^G16 16 [CASTLE]
+^c00On your way to Castle Hollenhammer, you were captured by the SS and brought to the infamous Castle Wolfenstein for interrogation and execution. No prisoner has ever escaped from the dungeons of Wolfenstein. Will you be the first.
+
+You can hear a guard walking down the corridor to your cell. You clench your fists and prepare to strike...
+^P
+^C[Olive]HOW TO PLAY
+
+^c00Much like in the original Wolfenstein 3-D, you begin the game in a cell in the basement of Castle Wolfenstein, and your objective is to traverse the nine floors of the castle to find your way out.
+
+You start with no weapons, only your fists. You can find weapons either hidden throughout the castle or on the bodies of dead guards. All guards drop their weapon when killed.
+
+^P
+^C[Olive]HOW TO PLAY
+^C00
+At the end of each floor you will find either stairs or an elevator to take you to the next floor. Once you leave a floor you cannot return.
+
+Bonuses will be calculated at the end of each floor based on your time and the degree to which you explored the level. Acquiring bonuses, killing guards, and picking up treasure items will increase your score. You will gain an extra life every 40,000 points.
+^P
+^C[Olive]KEYS AND LOCKS
+
+^G32 16 [STKEYS5]
+^G32 32 [STKEYS6]
+
+
+
+^c00Unlike the original game, there are four keys to collect instead of two--gold, silver, bronze and iron. Most maps require you to collect all for keys to complete the level.
+
+Except for certain special guards, guards ^c28cannot ^c00open locked doors. Guards who can open locked doors will drop their key when they die.
+^P
+^C[Olive]KNOW YOUR ENEMY
+^C[Brick]Wehrmacht ^c00soldiers are the most common enemies you will face in Castle Wolfenstein. These inexperienced troops are slow to react but can be dangerous in groups.
+
+^C[Brick]SS ^c00soldiers are the elite of the Nazi armed forces. They react and move faster than Wehrmacht guards and wear flak jackets under their uniforms, making them hard to kill.
+
+^C00In addition, the Nazis have deployed many ^C[Brick]guard dogs ^c00around the castle. Dogs go down easily, but move faster than guards.
+^P
+^C[Olive]KNOW YOUR ENEMY
+^C[Brick]Officers ^C00lead and command other soldiers within the castle, and come in both Wehrmacht and SS varieties. Officers are lightly armed but move and react faster than other guards. They can be dangerous in ambushes.
+
+^C[Brick]Kommandos ^C00are the personal bodyguard of the castle's commander Oberst Hans Grosse, equipped with heavy body armor and MG42 machineguns. They are extremely dangerous, especially in groups.
+^P
+^G32 12 [SHOVICON]
+^G108 0 [PISTICON] 
+^C[Olive]WEAPONS
+
+
+^C[Red]Entrenching Tool (1)
+^C00Uses no ammunition
+Melee range only
+Best for surprise attacks
+
+
+
+
+^C[Red]		Luger P08 Pistol (2)
+^C009x19mm ammunition
+Semi-automatic fire
+Low offensive capability
+
+^P
+^G32 12 [MP40ICO2]
+^G108 12 [RIFLICON]
+^C[Olive]WEAPONS
+
+
+^C[Red]MP40 Submachine Gun (3)
+^C009x19mm ammunition
+High rate of fire
+Short effective range
+
+
+
+
+^C[Red]Mauser K98k Rifle (4)
+^C00 7.92x57mm ammunition
+Very low rate of fire
+Extreme long-range damage
+
+^P
+^G32 12 [MG42ICON]
+^G100 12 [FLAMICON]
+^C[Olive]WEAPONS
+
+^C[Red]MG42 Machine Gun (5)
+^C00 7.92x57 belt ammunition
+Maximum damage output
+Extreme ammo consumption
+
+
+
+
+
+^C[Red]FmW 35 Flamethrower (6)
+^C00 Uses gasoline cans
+Projectile weapon
+Excellent for crowd control
+^P
+^G 16 16 [WSPIC]
+^C[Olive]ALSO FROM EXECUTOR
+
+^C[DarkBrown]Wolfenstein Sextilogy 3 ^c00(2011) recreates the first three episodes of Wolfenstein for an older build of ECWolf, merging the original storyline and atmosphere with greatly enhanced graphics and features. 
+
+Wolfenstein Sextilogy 3 incorporates updated versions of the maps from the earlier Wolfenstein Sextilogy 2 and Episode One Revisited mods. A hard drive crash ended development of episodes 4-6.
+^P
+^G 16 16 [SRPIC]
+^C[Olive]ALSO FROM EXECUTOR
+
+^C[Blue]Spear Revisited ^c00(2007) was my first serious test of the abilities of limitless source ports using the Wolf4GW engine. The 21 levels of this game are vastly more complex than any I had developed before, and still hold up well.
+
+Spear Revisited was developed under Windows XP's VDM, and has issues under DOSBox. Vista compatibility is not guaranteed.
+^P
+^G 16 16 [E1RPIC]
+^C[Olive]ALSO FROM EXECUTOR
+
+^C[DarkGray]Episode One Revisited ^c00(2006) was originally intended to be a drop-in replacement for the original Episode 1 levels as I was tired of the TC-like direction of the first mods. My levels were however too complex for the original engine and I migrated to Wolf4GW.
+
+These ten maps are available in Wolfenstein Sextilogy 3 but E1R can use the original game's graphics, accomodating players who want a more "classic" feel.
+^P
+^G 16 16 [TFAPIC]
+^C[Olive]ALSO FROM EXECUTOR
+
+^C[Cyan]The Final Assault ^c00(2004) was my second released mod for Wolfenstein, running on a slightly modified Project Totengraeber engine. It is noticeably cruder than my later works but was better than what I was making earlier.
+
+The only released version of this was an 8-level demo. Development ceased in late 2004 due to lack of interest.
+^P
+^G 16 16 [TRTDPIC]
+^C[Olive]ALSO FROM EXECUTOR
+^C[Red]The Road to Despair ^c00(2003) was my first released mod, after a long and tortuous development starting in December 2000 (the first map was written on Christmas Day). I learned the fundamentals of modding in this project, and it shows.
+
+Levels are sloppy, graphics are mismatched, and the quality is generally substandard. Everyone has to start somewhere, I guess. You should have seen the crap I made in '99...
+^P
+^C[Olive]COMING SOON
+^C[DarkGreen]Operacion Serpiente
+^c00The year is 1989. A CIA operative sent in to investigate a secret military project in the fascist Latin American republic of San Salvacion, you discover that the reality is worse than anyone had feared.
+
+^C[Blue]Spear Revisited Iron Cross Edition
+^c00This ECWolf-powered overhaul of Spear Revisited will feature 35 massive levels, greatly expanding and improving the original game. Fight through the halls of Castle Nuremberg and uncover the terrible secret behind the Spear!
+
+^P
+^C[Olive]COMING NOT SO SOON
+
+^C[Brick]Wolfenstein Episodes
+^C00This series of four 30-level missions will be built on the future 2.x versions of ECWolf and provide a true display of the engine's potential. Experience huge outdoor environments, 3D multilevel battlefields, devastating new weapons, and ZDoom-like triggers and scripting to bring the levels to life.
+
+Bombed out cities, Egyptian tombs, Arctic wastes, and the Fuhrer himself all await your guns in 120 explosive levels!
+^P
+^C[Olive]MODDING FOR ECWOLF
+^C00This is only a demonstration of ECWolf's power. You too can make your own mods and TCs with ECWolf's flexible definition and scripting languages, even if you have no programming experience. Enemies, weapons, objects, game settings, map sizes, and other features are all within your control, and even more capabilities will be added in the future.
+
+The next generation of Wolfenstein modding has arrived. This is only the vanguard.
+^C19	--Executor
+		tankermottind@gmail.com
+^E

@@ -1,0 +1,52 @@
+--WALLS--
+Dungeon Wall: FormGen, with spliced bitmaps by Id Software, Tristan van Putten, and AREyeP
+Green Plaster: Megabyte, with spliced bitmaps by B.J. Rowan and Laz Rojas
+Cobble Stone: Id Software, with spliced bitmaps by AREyeP and FormGen
+Extra Brown Stone decorations: FormGen, Id Software
+Extra Wood Panel decorations: Lord Raffles/Doom Juan
+Plaster Panels: Laz Rojas
+Wood bookcase: Ryan de Haast
+Red wall: Ryan de Haast
+Cobble Stone w/ Wainscoting: Laz Rojas
+Old Panel: Megabyte, with spliced bitmaps by Laz Rojas and Lord Raffles/Doom Juan
+Stone with Lower Panels: Spliced from pieces by Raven Software, Id Software, and Megabyte
+Brown/Red Wall: MacPlay Entertainment, with center red part by AREyeP
+White Brick: MacPlay Entertainment, with spliced bitmaps by Id Software, Megabyte, and Laz Rojas
+Blue Wall: Spliced from pieces by AREyeP, Megabye, Laz Rojas, and MacPlay Entertainment
+Remote Door: B.J. Rowan
+Summer Hedgerow: AREyeP
+Outside Wall: WSJ, flag by Id Software
+
+--FLATS--
+Id Software
+AReyeP
+Raven Software
+Laz Rojas
+Apogee Software
+
+--SPRITES--
+FG42: WildWeasel
+Fallschirmjaeger: WSJ
+Lukas Jaeger: Majik Monkee
+Jurgen Luftmensch: WSJ
+Final Boss (???): Laz Rojas, muzzle flash by Captain J
+Rocket: WSJ
+Foliage: AREyeP and Doomjedi
+
+--SOUNDS--
+FG42: Battlefield 2
+Rockets: Infinity Ward (Call of Duty 2)
+Bosses: Laz Rojas
+Alarm: WSJ
+
+--MUSIC--
+Lunar: The Silver Star (ep1m4, ep1m8)
+Final Fantasy VII (ep1m2)
+Blake Stone: Aliens of Gold (ep1m3)
+Rich Nagel (ep1m9)
+
+--MISC--
+Wolfenstein 3D (c) 1992 Id Software.
+Concept inspired by Escape from Totenhaus by Laz Rojas
+All original game media by Id Software. No revenue was gained in the making of this TC.
+Apologies to anyone whose work was used but either overlooked or forgotten when I audited the mod assets.

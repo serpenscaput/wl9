@@ -1,0 +1,12 @@
+^P 
+^C[Olive]A DARK SECRET
+^c00The elevator, old and dusty from disuse, slowly screeches to a halt after descending for what seems like an eternity. The door opens to reveal what appears to be an old hospital.
+
+The area appears to have been recently abandoned. You cannot hear any German conversations, orders, or guards running to take firing positions. All is silent...except for bizarre, inhuman moaning sounds.
+
+^P
+^c00In the dim light you can see the broken bodies of prisoners and Nazi soldiers alike, rotting where they fell. The stench of death is in the air, and you can feel hostile eyes upon you.
+
+Watching you. Waiting.
+
+^E

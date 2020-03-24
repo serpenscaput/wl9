@@ -1,0 +1,18 @@
+^P
+^C[Olive]CONGRATULATIONS!
+^C00
+Having defeated Hans Grosse and his SS bodyguard, you dash through the gates of the Castle and escape into the woods, leaving the burning Castle Wolfenstein hehind.
+
+Now that you have escaped to freedom, it is time to go to Castle Hollenhammer and pay Operation Eisenfaust a visit, but that's another story...
+
+^P
+^c[Olive]MORE ECWOLF
+^c00
+Congratulations on beating the ECWolf Tech Demo! Stay tuned for more ECWolf mods such as Operation Serpent and Spear Revisited Iron Cross Edition in the future!
+
+Or better yet, open WDC and SLADE3 and make your own mod with the incredible power of ECWolf. Experience the freedom to add or change almost anything at will and make your own vision come to life!
+
+--Executor
+12/16/12
+
+^E

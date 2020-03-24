@@ -1,0 +1,150 @@
+ECWOLF TECH DEMO CREDITS LIST
+
+-WALLS-
+Gray stone 1: Tristan van Putten
+Gray stone 2: Tristan van Putten
+Gray Stone w/ Flag: Wall by Tristan van Putten, flag by Lord Raffles/Doom Juan
+Gray Stone w/ Hitler: Wall by Tristan Van Putten, painting by DHW TC team
+Gray Stone 3: BJ Rowan
+Silver Doors: BJ Rowan, Tristan van Putten
+Gray Door: Megabyte
+Wooden Doors: Megabyte, FormGen
+Gray Stone w/ Sign: Tristan van Putten
+Gray Stone w/ SS Flag: Wall by Tristan van Putten, flag by Lord Raffles/Doom Juan
+Red Brick: MacPlay Entertainment, Laz Rojas
+Black Rock: ArEyeP, Megabyte
+Wood: BJ Rowan, ArEyeP, Ryan de Haast, Laz Rojas
+Doors: Tristan Van Putten/BJ Rowan
+Steel: Tristan Van Putten
+Elevator: Megabyte
+Gray Stone w/ Slime: BJ Rowan
+Stained glass: WLHack
+Brown Marble: Ben Blaufarb
+Tan Plaster: Laz Rojas, with spliced pieces by Lord Raffles/Doom Juan and Megabyte
+White Marble: Raven Software with spliced pieces by Laz Rojas and BJ Rowan
+Stairs: Raven Software
+Castle Wall: Raven Software, with spliced pieces by Id Software, Lord Raffles/Doom Juan, and Megabyte
+White Plaster: Megabyte, with spliced pieces by Laz Rojas and BJ Rowan
+Cellar Wall: Raven Software, with spliced pieces by ArEyeP
+Bathroom Tiles: Assembled by Executor with spliced pieces from Id Software
+Shelves: ArEyeP
+Crates: WSJ
+Hospital Wall: Tristan van Putten
+Unused Cabinet Wall: Megabyte
+Hedgerow: ArEyeP
+
+All propaganda posters by the National Socialist German Workers' Party. Because why settle for fake Nazi propaganda when you can have the real thing?
+
+--FLATS--
+Id Software
+Apogee Software
+Laz Rojas
+Megabyte
+ArEyeP
+Raven Software
+
+-SPRITES-
+Luger: WildWeasel
+Clip: Codetech
+MP40: WildWeasel
+Ammo Box: Id Software
+Entrenching Tool: WildWeasel
+Basic Guards: WSJ
+Kommando: Skulltag Team
+Food: Laz Rojas
+Health packs: ArEyeP
+Chandelier: WLHack
+Column: Tricob
+Drum: ArEyeP
+Floor lamp: Laz Rojas
+Ceiling lamp: Laz Rojas
+Keys: Laz Rojas
+Water: ArEyeP
+Barrel: Megabyte
+Alpo: Megabyte
+Armor: WSJ
+Blood and guts: ArEyeP, Rogue Entertainment, Megabyte
+Bed: Tricob
+Cages: BJ Rowan
+Flag: ArEyeP
+Green plant: Spliced and recolored from parts of the original and Laz Rojas' recoloring of the Mac version, with additional editing by Executor
+Green plant 2: BJ Rowan
+Sink: JaM Productions
+Spear rack: WlHack
+Table: Megabyte
+Table with Chairs: ArEyeP
+Light Bulb: BJ Rowan
+Brazier: ArEyeP
+Desks: ArEyeP
+Mold: ArEyeP
+Oil Slick: ArEyeP
+Fern: ArEyeP
+Chests: Laz Rojas
+Shower: ArEyeP
+SS uniform: Megabyte
+Rock column: Tricob
+Toilet: ArEyeP
+Torch: ArEyeP
+Trash can: Laz Rojas
+Utensils: BJ Rowan, Megabyte
+Wood Chandelier: WSJ
+Candelabra: Id Software
+Radio: ArEyeP
+Brown Vase: Laz Rojas
+Wooden Celing Lights: Laz Rojas
+Floor lamp 2: Laz Rojas
+Metal ceiling light: JaM Productions
+Chopping block: ArEyeP
+Thorny Growth: Ryan de Haast
+Ceiling Brazier: Ryan de Haast
+Cobweb: Ryan de Haast
+File cabinet: Laz Rojas
+The Easter Egg: Scuba Steve
+Shit: 3D Realms
+Chair: Laz Rojas
+Long Tables: Laz Rojas, 3D Realms
+Water Cooler: Laz Rojas
+Box: Laz Rojas
+Exam Tables: FormGen, JaM Productions, Megabyte
+Wells: ArEyeP
+Vase on Pedestal: WlHack
+Shrubs and Trees: ArEyeP (fetch me a SHRUBBERY!)
+MG42: WildWeasel
+Mauser: WildWeasel, Lippeth
+Flamer: Laz Rojas
+Hans: Assembled by Executor from pieces by Id Software, Megabyte, and ArEyeP
+Dog: Tricob
+Fist: Scuba Steve
+Mutant: WlHack
+Unused Bullet Puff: FreeDoom
+Treasure: ArEyeP
+
+-GRAPHICS-
+Bigfont: Kinsie
+BJ Face: Laz Rojas
+Helpart borders: Tristan van Putten
+
+Sounds
+Nazis: WSJ, Laz Rojas, FormGen, Infinity Ward
+Weapons: WildWeasel, Rogue Entertainment, Id Software, Raven Software
+Menu: Id Software
+Pickups: MacPlay Entertainment, Wildweasel, Laz Rojas, Id Software
+Boss: WSJ
+Mutant: Marty Kirra
+Ambient: Laz Rojas
+Misc: Id Software, MacPlay Entertainment, Eriance
+Fur Elise: Ludwig van Beethoven
+Heidi Heido Heida: Dieter Derks
+
+-MUSIC-
+Id Software (from Spear of Destiny)
+David Shaw
+Mark Klem
+Bethesda Softworks (from Daggerfall)
+Game Arts (from Lunar 2)
+Frank Klepacki (from Command and Conquer)
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this TC.
+Apologies to anyone whose work was used but either overlooked or forgotten when I audited the mod assets.
