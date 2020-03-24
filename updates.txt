@@ -98,4 +98,4 @@
 
 24.03.2020
 -directory structure fixes
--uploaded Andy's patch notes for Wolfmaster
+-uploaded DOSMENU for Wolfmaster
