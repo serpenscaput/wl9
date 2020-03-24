@@ -1,0 +1,239 @@
+--------------------------------------------------------------------------------------
+--                                                                           NOTICE --
+--------------------------------------------------------------------------------------
+From the source code you will find lot's of features from / references to the Trail of Schabbs, 
+but as they are dated back to the early stages of the development, there is no quarantee 
+that they will work with the current code (at least you need to make a lot of adjustments) and 
+even if they do, you need the files from the TOS SDL-demo (released 2010) to make the game run.
+
+Despite that I decided to keep them in the source just in case. Who knows, maybe you
+find some features usefull in your mod (e.g. animated walls/floor/ceilings). I need to warn
+you though, the old TOS code is quite a spaghetti so prepare to see some unexpected effects.
+
+One last thing. To activate the TOS side of code, just uncomment the "TRAILOFSCHABBS"
+definition from the version.h-file but remember to comment out the "FALSESPEAR" definition.
+Also I suggest that you implement WSJ's sprite offset for new actors, especially if you
+are going to add more guards.
+
+                                                                        - WLHACK, 2013
+
+--------------------------------------------------------------------------------------
+--                                                                 VERSION HISTORY  --
+--------------------------------------------------------------------------------------
+TFSsource_21 (FINAL):
+* Added zooming for rifle.
+* Rifle has 10 shooting frames and 5 reloading frames
+* Rifla has reloading sound during shooting
+* Added special sprite for zoom-mode
+* Player movement is slower in zoom mode.
+* Added "headshot" death for guards shot by a sniper rifle
+
+TFSsource_20:
+* Added separate object for player rockets
+* Replaced projectile related functions with WSJ's ones
+* Added 'spc' to KillActor and DamageActor to identify special frames
+* Mines now blow up enemies
+
+TFSsource_19:
+* Panzerfaust is now heavier and slower to shoot
+* Adjusted the movement speed of players projectiles
+* Players fireballs only move a small distance
+* Aded new non-rotating projectile for players fireballs
+
+TFSsource_18:
+* Fixed bug with deaf guards
+* Fixed bug with bosses dealing no damage
+* Made mutants bit slower abd weaker
+* Simplified splashdamage-code (Matthew+WSJ)
+* Made rifle more accurate and powerfull
+* Shotgun has wider spread and is weaker against targets in distance
+* Cheat activated godmode/berserk has no limit (toggleable)
+* Fixed berserk-mode
+* Added new cheat Tab+E -> level skip
+* Player can not put panzerfaust to holster anymore
+* Fixed ambient sounds
+* Limited screen size
+
+TFSsource_17:
+* Guards can now reload their weapons
+* Added missing sounds
+* Added missing ambients for levels
+
+TFSsource_16:
+* Fixed the opening door blocking the bullets
+* Shooting forest won't cause bullet puffs
+* Made reloading faster
+
+TFSsource_15:
+* Fixed bug with enemy health
+* STG-guards do more damage than normal guards
+* Added palette for end credits
+* Mutants respawn in every difficulty except survivor and the first one
+
+TFSsource_14:
+* Added STG-guard
+* Added standing frames for mutants
+* Added few new items
+* Adjusted palette more
+* Changed the bullet limits back
+* Fixed bug with completing boss-levels
+
+TFSsource_13:
+* Adjusted palette and removed unnecessary ones
+* Fixed bug with lightmap not being cleared
+* Fixed bug with the ammotypes being wrong
+* Shotgun only shoots one bullet at time
+* Changed the bullet limits
+
+TFSsource_12:
+* Fixed bug with guard reacting to player
+* Fixed shotgun strenght and reloading
+* Added cleavers for mutants if difficulty > gd_medium
+
+TFSsource_11:
+* Fixed invisible blocking tiles from actors
+* Fixed ambient sounds
+* Fixed floor/ceiling fixs
+
+TFSsource_10:
+* Place shade black color under/over walls (not pushwalls)
+* Place metallic textures under/over doors
+
+TFSsource_09:
+* Added duckhunt dog
+* Added separate sounds for rifle and pistols
+* In harder difficulties mutants respawn
+* Fixed projectile weapon sounds
+* Fixed damage sounds when invulnerable
+* Fixed weapon changing bug
+
+TFSsource_08:
+* Fixed exploding mutants
+
+TFSsource_07:
+* Fixed music menu and int-/helpart
+* Added ambient souds and removed unused ones
+* Fixed special bonus system by Deathhead
+
+TFSsource_06:
+* Fixed the level end screens
+
+TFSsource_05:
+* Added three phase final boss
+* Added new projectiles and puffs
+* Changed vines to non-directional sprites
+* Fixed the end game bug
+* Removed some unused sounds
+
+TFSsource_04:
+* Fixed non-alerted guards bug
+* Split ceiling/floor textures above dir3dsprites
+
+TFSsource_03:
+* Added WSJ's multiple channels for sounds
+* Added CodeTech64's realtime framecount
+* Added fixes for atmosphere (moon + weather)
+
+TFSsource_02:
+* Fixed bugs with the original ToS-code
+
+TFSsource_01:
+* Ported all importand features from original DOS source.
+* Excluded the ToS-side of code from the source
+
+--------------------------------------------------------------------------------------
+--                                                                         FEATURES --
+--------------------------------------------------------------------------------------
+NOTE: This is not the full list of features.
+
+Ripper:
+- Wolf3dSDL 1.6 - source
+
+Adam Biser:
+- Map name in "get psyched"
+- Alternative paths (TOS)
+- "See through" forest walls
+
+AlumiuN:
+- Advanced Soundmanager
+- Bullet tracing
+
+BrotherTank:
+- Helpart/Intermissions
+- Switch controlled pushwalls
+- Timer display
+
+Chris:
+- MAXWALLTILES/MAXDOORS limits
+
+Codetech 64:
+- Locked difficulty setting
+- Realtime framecount
+
+Deathhead:
+- Bonussystem
+
+Dugtrio:
+- Gun bobbing
+- Full screen with statusbar
+
+Flamer74:
+- Gun changing bob
+
+Insurrectionman:
+- Animated walls (TOS)
+- Bullet puffs + splatter
+
+KyleRTCW:
+- Disquise
+- Feature-menu
+
+Matthew:
+- Paraller search-algorithm
+- Exploding barrels
+
+MCS:
+- Enemy blocking tile
+- In-game changeview
+- Timed items
+- Teleporters (used as ladders)
+
+Paal Ostad:
+- Different door textures/doors
+- Exploding barrels/columns
+
+Raziel:
+- Transparent hud
+
+Richter Belmont:
+- Animated floor/ceiling (TOS)
+
+TexZK:
+- Quake, zoom , shock
+
+The_Fish:
+- Advanced shading / flashlight
+
+Tricob:
+- Doomlike movement
+
+WSJ:
+- In game-messages
+- Dead guards affect enemy
+- Reloading weapons
+- Soundchannels
+- Simplified projectile-functions
+- Enemies light when shooting / under lamps
+
+Other:
+- Compass (TOS)
+- Binoculars / gasmask (TOS)
+- Mutants and soldiers fight each other (TOS)
+- Moving barrels by shooting
+- Backpack
+- Picking / dropping dead guards
+- witch opened doors
+- Transparent ceilings
+- Weapon reloading enemies
+- Damage type can now be passed to DamageActor/KillActor
+- Flamethrower with radius

@@ -1,0 +1,28 @@
+^P 
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+^G32,144,36
+
+ 
+^C25 The Story so far... 
+^C00 
+^C15 After the plane crash, you find yourself lying on the ground in a forest near Offenbach.
+^C00 
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 You take a look around and notice that one of your comrades is lying dead near you. 
+^C00
+^C15 Now there is one thing for you to do... Search for the other members of your crew and complete the mission given to you. 
+^C00
+^C15 Good luck Captain Blazkowicz, we'll be counting on you...
+
+^E 

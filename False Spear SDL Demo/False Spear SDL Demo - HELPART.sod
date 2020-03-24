@@ -1,0 +1,219 @@
+^P 
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+ 
+^C25 Game manual... 
+^C00 
+^C00 Within these pages you found information of this game: 
+^C00 
+^C15 Story.....................................Page 02-10
+^C15 Enemies...............................Page 11-14
+^C15 Credits..............................Page 15
+^C00 
+^C00 For more detailed info, prefer the "ReadMe.txt"...
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C25 Story:
+^C00
+^C15 Germans are on the fall and despite all of their campaigns to turn the course of war... Outcome has nearly always been disastrous. 
+^C00
+^C15 Even though the Soviets haven't started their march to Berlin, the outcome of the war has become clear: There is no escape for nazis any more, they will surely lose the war. 
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 Events of the last months has been a preloque to this conclusion: Assassination of the "genuine Aryan" family Grosses, Rommels defeat in El Alamein and many other failures of German battleunits. 
+^C00
+^C15 But the most destructive losses has been caused by a one man: ^C80Captain William Blazkowicz, ^C15who put an end to the threat of chemical warfare (may Otto Giftmacher and General Fetgesicht burn in peace), 
+
+^p
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 and captured the ^C45 Spear of Destiny ^C15 from the cluthes of Adolf Hitler...
+^C00
+^C15 But humans are known to commit desperate acts to survive, and the nazis aren't an exception.
+^C00 
+^C15 Somewhere under the ^C25 Rheinstaad, ^C15 the order of Himmler (nazis of the round table) has gathered to put a plan in action to seal the glorious victory of the Third Reich...
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C55 The HQ of O.S.S, location: classified
+^C00  
+^C15 It is a cold midsummer night when B.J arrives to the O.S.S headquarters... Everyone seems to be busy (like allways), but this time there is panic in the air. 
+^C65"Blazkowicz, here immediately!!!", ^C15cold voice yells from the doorway of the warroom and with half-run steps B.J moves towards the sound.
+^C80"Good afternoon colonel McMire... What is it this time?" ^C15 B.J asks from a man sitting in front of him in an armchair. 
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 The man rises from his chair and gives B.J a desperate look... 
+^C65"No time for this peppy chit chat... 
+^C15 Colonel McMire looks out of the window, ^C65"Two hours a go we got a radio transmission from agent Bryson. 
+^C65 we have a reason to suspect that the nazis got him." ^C15A man with a filefolder suddenly rushes in... Three words can easily be spotted on the cover of the file: ^C45"Spear Of Destiny".
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 The expression on the face of colonel McMire is now more desperate (the man places the files on the colonels desk and takes his leave)... 
+^C65 "Where was I?" ^C15the colonel continues... 
+^C80 "Possible capturing of Mr. Bryson, Sir." 
+^C65 "Ah, yes... Mr. Bryson, very fine man." ^C15 McMire closes the window shutters with nervous look on his face... 
+^C65 "Listen carefully William... This is very important. For the last few months Bryson has been investigating suspicious enemy activities nere the area of Rheinstaad."
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 McMire sits back to his chair. 
+^C65 "How familiar are you with Dr. Schabbs or his work?"
+^C80 "He is the big bald guy, one of Hitlers top scientists... Wasn't he experimenting with humans?"
+^C65 "Yes, you're correct... Again... We have a reason to believe that Dr. Schabbs has managed to create some sort of a new weapon and Bryson was investigating that."
+^C80 "And you have a reason to believe that Mr. Bryson found something important?"
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C65 "Yes, exactly and thats why we, Eisenhover and I, have decided to sent you to the Rheinstaad to investigate and possibly to eliminate Schabbs. Also to destroy all possible weaponry his team has managed to make... Questions?"
+^C80 "Well..."
+^C65 "Good, we have no time, the plane will be leaving in two hours and deliver you to a small village where Bryson used to hide... With some luck you will hopefully found more clues.
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C15 Two hours later B.J finds himself sitting with general Hackley and few others inside a plane heading towards their target near Rheinstaad.
+^C00
+^C55 Over the forest near Rheinstaad...
+^C00
+^C15 A loud bang fills the air and the plane starts to lose altitude very fast...
+^C25 "EVERYONE JUMP!!!" ^C15 general Hackley yells and takes his parachute, and everyone follows his example and jump outside. 
+^C15 Everything fades to black.
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+^G48,16,92
+
+^C25 Enemy info:
+^C00
+^C00 
+^C00 
+^C00
+^C00
+^C00
+^C00 
+^C25 1. Guards:
+^C15 The spine of the nazi warmachine... They can be found nearly everywhere. When they're alone they don't pose a threat, but when there is lots of them...
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+^G48,16,92
+
+^C25 Enemy info:
+^C00
+^C00 
+^C00 
+^C00
+^C00 
+^C00
+^C00 
+^C25 2. The SS:
+^C15 They present the very elite of the nazi army... Armed not only with a machinegun but also with a twisted mind. You don't negotiate with these guys... 
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+^G48,16,92
+
+^C25 Enemy info:
+^C00
+^C00 
+^C00 
+^C00
+^C00 
+^C00
+^C00 
+^C25 3. Mutants:
+^C15 Devilous weapons producted by Schabbs. Their agility and firerate makes them most dangerous enemies you find so better run and hide when you see them around.
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+^G48,16,92
+
+^C25 Enemy info:
+^C00
+^C00 
+^C00 
+^C00
+^C00 
+^C00
+^C00 
+^C25 4. Officers:
+^C15 They're fast from their feet and protected with a bulletproof vest. You propably need to kill lots of them to reach your goal.
+
+^P
+
+^G0,0,98
+^G8,0,100
+^G8,312,101
+^G176,8,99
+
+^C25 Credits:
+^C00
+^C15 id-software,
+^C15 Adam Biser, AlumiuN, AreyeP, BrotherTank, Codetech64, doomjedi, Dr. Chainsaw, Dugtrio17, Flamer47, Havoc, Insurrectionman, KyleRTCW, Kuki, Laz Rojas, lilmanjs, Lord Raffles, Matthew, MCS, Noni, Poet, reactor, Richter Belmont, Ripper, Schabbs, ronwolf1075, TexZK, the_fish, Thomas, thejosh and WSJ
+
+^E 

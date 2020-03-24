@@ -1,0 +1,59 @@
+So you have decided to download the False Spear SDL... 
+I hope that you enjoy playing it as much I enjoyed making it. 
+
+I have tried my best to retain the atmosphere of original TFS while
+updating it to the modern standards.
+
+NOTE: There is no items necessary for level progression hidden in secret areas!
+Also guards in secret areas can be killed without finding the entrance
+to that area.
+
+---------------------------------------------------------------------
+What is new to original TFS:
+- Advanced sound manager,
+- Updated palette,
+- New maps and more levels,
+- More doortypes, weapons and enemies,
+- Reloadable weapons,
+- Exploding barrels move when shot,
+- Advanced enemy behavior,
+- 5th difficulty level (unlockable),
+- Difficulty level affects gameplay,
+- Portable medikits,
+- Switch activated pushwalls and gates,
+- And much more...
+
+---------------------------------------------------------------------
+Default controls:
+
+Arrow keys to move
+Ctrl to shoot, 
+Alt to strafe,
+Shift to run,
+Space to open doors and use objects,
+'Z' to use portable medikits,
+'X' to pick/drop dead guards and
+'C' to put weapon in holster
+
+---------------------------------------------------------------------
+Credits:
+
+ID-Softaware,
+Whole Diehar Wolfers and Wolf3d Haven - community,
+
+Adam Biser, AlumiuN, AreyeP, BrotherTank, Codetech64, doomjedi,
+Dugtrio17, Flamer47, Havoc, Insurrectionman, KyleRTCW, Kuki,
+Laz Rojas, lilmanjs, Lord Raffles, Matthew, MCS, Noni, Poet, 
+reactor, Richter Belmont, Ripper, Schabbs, ronwolf1075, TexZK,
+the_fish, Thomas, thejosh and WSJ.
+
+If you did see your work in this game but couldn't find your
+name from the credits list - email me and will add your name
+to the finished list...
+
+Musical credits will be included in fullversion
+
+---------------------------------------------------------------------
+NOTE: This is a demo so there might be a lot of bugs, so 
+contact me for bug-reports, feedback or ideas: tsalop@gmail.com
+---------------------------------------------------------------------
