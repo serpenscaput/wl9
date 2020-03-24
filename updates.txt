@@ -111,4 +111,6 @@
 -uploaded BMSE older version + patch
 -uploaded Macenstein Second 2008 version
 -uploaded Macenstein 2012 version
+-more Macenstein fixes
 -uploaded more Map Making Mania Melee documentation
+-uploaded Monthly Maps for Klooni
