@@ -1,0 +1,305 @@
+              
+
+           A Wolfenstein 3-D Campaign by Luke Strauman 
+         Game Manual
+				    	    1. Monologue & Dedication
+    2. Story 
+      3. Mission 
+       4. Controls 
+        5. Status Bar
+       6. Weapons & Ammunition
+      7. Health & First Aid 
+     8. Keys & Artifacts
+                  9. Treasure 
+             10. Interactive Objects 
+               11. Enemies & Bosses
+        12. Hints Strategies/Cheats
+     13. Sorcerers Wrath
+      14. Credits & Epilogue 
+
+Dedication & Monologue
+
+This TC is dedicated to my son Riley Strauman & and my girl friend Jolene Hildebrand.
+
+Operation: Arctic Wolf is a total conversion. Recreated under the five star first person shooter Wolfenstein 3d.  This TC tests the Wolfenstein 3d engine to max and more.
+
+Story
+
+1942-		
+For Months now, Allied Intelligence has suspected that the Nazi’s have had a hidden biological engineering facility. 
+
+Sketchy reports point out, that the facility maybe hidden within a Nazi compound, located in the Arctic Circle.  Due to the lack of information we have never been able to investigate these reports.
+
+1943-
+	A defected Nazi scientist now working for the Allied Nations, has confirmed that the Nazi’s have been working on a project called Operation: Arctic Wolf.  The scientist has revealed that intense 
+biological “experiments” have been conducted on decayed body tissue and both human remains.  The experiments are reported to be used for the preparation and creation for the ultimate weapon, the 
+“Uber Soldat” or Super Soldier.  We do know that the man in charge of the project is Admiral Erestn Klettefass, one of the Reich’s top military scientists. 
+
+Klettefass has appointed a new head biological engineering scientist to succeed the deceased Dr. Schabbs.  The scientist’s name is Dr. Nein.  He was once Dr. Schabbs right hand man and apprentice in 
+biological engineering. The Uber Soldat is nearing completion and is in final testing stages.  
+
+	Agent Blazkowitz we are counting on you, to stop Operation: Arctic Wolf.  Unfortunately the facility is hidden underneath the thick ice and cannot be reached by land or air.  The Nazi’s have been 
+using their prototype M-6 nuclear submarine, to access in and out of the area undetected.  You will be airlifted into the Arctic Circle at night when the snow and fog will land us some cover for the 
+element of surprise.  From there on you must find your way up the mountain, to the Nazi compound where Admiral Erestn Klettefass is awaiting to be escorted to the M-6 submarine.  He will personally 
+see the rise of the Uber Soldat in facility.
+
+	Your mission is: Enter the Nazi compound, board the M-6 submarine, destroy the Uber Soldat and if you come across Klettefass or Dr. Nein, retire both of them.  Like we said earlier, we want to 
+achieve the element of surprise so you will be given only a knife for your assault weapon.  However if you come across a guard, acquire his gun.  Your plane leaves at 03:35 SHARP, be there.  And 
+B.J. good luck… 
+
+Your Mission
+
+Operation: Arctic Wolf’s 17 levels are divided up into "sections", each in a different location with its own theme. The level progression is as follows:
+
+Levels 1-3: Mountain Top			
+						
+You must find your way carefully up the mountain top avoiding guards, landmines and other hazards.  On your way up the mountain, health and supplies are thin so if you come across health you might want 
+to hold on to it.  Rather then using it right away. 
+
+
+
+Levels 4-6: Compound
+
+The Nazi base is heavily guarded in some areas.  Why not blend in with them rather then shooting your way through?
+
+Level 7: Boat Launch
+
+After searching the compound top to bottom, you find yourself outside where the M-6 submarine should be docked.  However an alarm was triggered and the submarine has left the harbor.  A huge hole has 
+been left in ice, why not grab some scuba gear and catch up to it?
+
+Level 8: Under Water
+
+Use extreme caution!  The water is filled with bombs and man-eating sharks.  Looks like your guns won’t work either.  We need an alternative weapon… 
+
+Level 9: M-6 Submarine
+
+The submarine is very narrow but has numerous small rooms, as well as lots of secrets.
+
+Level 10: Glacier
+
+The submarine has come to a halt.  But stepping out of the submarine does not look like a biological testing facility.  It looks like a tunnel underneath the ice caps.
+
+Levels 11-12: Testing Facility 
+
+Certain areas have been quarantined by the Nazi’s due to mutant uprisings.  See what happens when you play god.
+
+Levels 13-14: Dr. Neins Office
+
+This area is where all mutants and experiments are personally given the OK by Dr. Nein.  Security is at a high level here.   
+
+Level 15: The Uber Soldat 
+
+Unfortunately we have no information for you at this time.
+
+Level 16: Secret Level
+   “Lower Chambers”
+
+A hidden area in the M-6 submarine.  What is down here you wonder.?.
+
+
+
+Level 17: ???  
+   “Super Secret Level”
+
+Unfortunately we have no information for you at this time.
+
+Controls
+
+Use the arrow keys to move. Use the Alt key together with the left/right arrow keys to strafe sideways. Use the right Shift key together with the arrow keys to run (move faster than normal).
+
+NOTE: Learning to strafe and run are extremely important when fighting stronger enemies!
+
+Use the Ctrl key to use your knife or fire your weapon. If you are using a machine gun or venom gun, you can hold down the Ctrl key for rapid continuous fire.
+
+Use the Space key to open doors, activate elevators and to activate secret "pushwalls". Each level contains at least one exit elevator or exit level. Activating an elevator takes you to the next level. 
+If a level ends with an exit level you will also move on to the next level.
+
+Use the M key to use portable medical kits when appearing on your status bar.
+
+Use the H key to holster your gun when disguised as a Nazi guard described in the Interactive Objects Part.
+
+Status Bar
+1.	Displays Your Current Level
+2.	Displays Your Score
+3.	Displays Your Lives
+4.	Displays Your Status
+5.	Displays Your Health
+6.	Displays Your Ammo
+7.	Displays Your Keys
+8.	Displays Your If You Wearing A Uniform Or Not 
+9.	Displays Your Weapon
+10.	Displays Your Items
+
+Weapons & Ammunition 
+
+ 	-Knife: Powerful when up-close but very vulnerable against packs of enemies. 
+
+  
+   	  -Ammo Clip : Holds 6 Bullets
+		  -Ammo Crate: Holds 16 Bullets
+		  -Ammo Rack: Holds 25 Bullets 
+  
+-Lugar: Most frequently seen weapon in the game.  Holds 6 Bullets.      
+-MP40: Good offensive weapon against packs of enemies.  Holds 10 Bullets.
+-4-10 Rifle: Good against both enemies and bosses.  But takes a few seconds to reload. Holds 4 Bullets.
+-Venom Gun: Rip through anything and anyone in your way.  Holds 8 Bullets.
+ 
+           -Rockets: Holds 2 Rockets
+           -Rocket Crate: Holds 5 Rockets
+
+-Panzerfaust: Powerful able to injure yourself, if to close to the blast radius.  Good against bosses and swarms of enemies.  But takes a few seconds to reload.  Holds 1 Rocket.
+
+Health & First Aid
+
+-Syringe: Heals 5% of your health.  
+-Medical Pack: Heals 10% of your health.
+	            -Medical Kit: Heals 20% of your health.
+
+		-Portable Medical Kit: Heals 20% of your health.
+
+Keys & Artifacts
+
+-Each key card is assigned a different locked.
+-An Artifact can heal your health and give you an extra life.
+Treasure
+-Chalice: Gives you 100 Points.
+		-Cross: Gives you 200 Points.
+		-Heretic Helmet: Gives you 350 Points.
+		-Gold Dust: Gives you 500 Points.
+
+Interactive Objects
+		-Barrel: Some barrels can explode if shot. 
+Note:  When exploding you any anyone around it can be injured
+Depending on the distance.
+
+		-Mine: In some areas there are land mines on the battlefield so watch out.
+                        Note: Landmines can injure you but also your enemies.
+                      
+ 
+                       -Ammo Shelve: See Weapons & Ammo and Controls for information.
+                       -Portable syringe: See Health & First Aid and Controls for information.
+
+                       -Scuba Gear: Used for when entering the underwater level.
+
+	           -Nazi Uniform: When you find a Nazi uniform it is suggested that you where it.  Even though you may look like a Nazi you might want to holster your weapon so that you don’t arouse 
+suspicion.  See Controls for more information.
+	          -Water Bomb: Can be found only in the water.  This spinning menace can be annoying at times.  Though they can be destroyed but then you have a bomb going off in your face. 
+
+		-Pissed Off Frosty: Appears when your in a area that your shouldn’t be in.
+	
+		-Canister: Some canisters contain mutants inside, it would be a good idea to shoot them before the mutant breaks out of it.
+		Note: When the canister is shot the falling glass will not hurt you.
+
+Enemies & Bosses
+Basic Guards are divided up to into categories easy, medium, hard etc.
+
+Easy:
+	
+-Soldier: Most common seen enemy in the game.  If killed they drop their
+Lugar.
+-Dog: Fast and can inflict a nice chunk of your health if they bite you.
+-Shark: Hard to attack in the water when they are moving.  When they
+attack watch out because it takes a decent slice of your health.
+
+Medium:
+		-Infantry: Armed with a 4-10 Rifle and are known to be excellent shots with it to.  If killed they drop their 4-10 Rifle.
+		-Mutant: Fast and can fire and outstanding rate so make sure you have your weapon ready.
+		-Mutant 2: Everything the above mutant is x2.  Except weaker in strength. 
+
+Hard:
+
+	-Mountain Ranger: Armed with a MP40 and are well dressed for the weather so watch out because you might as well be facing big foot.  If killed they will drop their MP40.
+
+	-SS Storm Trooper: Armed with an MP40, protected with body armor and are very fast on their feet.  So keep shooting until they drop.  If killed they will drop their MP40.  
+
+Elite:
+		-Turret Guard: A mounted Gattling-Gun with a Storm Trooper on the back of it.  Stay far away from them because at close range you will be annihilated you. 
+
+		-SS Enforcer: Though they are slow, their Venom Gun and body armor make up for their speed.  If killed they will drop their Venom Gun.
+
+		-Pyro: Armed with a Flame Thrower, they can drain your health in a matter of seconds so stay clear.
+
+		-Suicide Rocketeer: These guys are nuts they will fire rockets in any direction, if it means blowing themselves up or their allies they will gladly do it just to get to you.
+
+Bosses:
+
+		-Admiral Erestn Klettefass: The man in charge of Operation: Arctic Wolf. Armed with a Rocket Launcher and Venom Gun, he is going to make sure you don’t ever interfere in his affairs again.
+
+		-Uber Mutant: Not only does it have a mounted Venom Gun in its stomach but also throws knives from all for of its arms.  Beware and stay clear.
+
+		-Dr. Nein: The mad scientist in charge of the Uber Soldat program though 
+he has no combat experience don’t ever doubt his intelligence.
+ 
+
+ 		- Unfortunately we have no information for you at this time.
+
+Hints Strategies/Cheats
+
+	If you have ever played the original Wolfenstein 3D game then you will have experienced a game where you basically grab the Chain-gun and basically annihilate everything in your path.  Well that 
+won’t be happening in this game.  All that will do for you is get you killed right away.  Like MCS and Aryep, who are developing Spear End Of Destiny they want to bring you a challenge and a whole 
+new world for Wolfenstein fans, as do I.  In some levels you will have to think rather then shooting your way through the level.  I don’t want to give a lot away but another quick example is, in one 
+of the levels the level is set on a timer meaning if you don’t beat the level in time you die.  Though these somewhat problem solving levels give you a challenge they are not very difficult to 
+figure out. 
+
+Find that the game is to tough, well here is a cheat for you: RPS which gives you 100% health and all weapons but removes your high score.  If your thinking what the hell does that mean?  It is my sons 
+first, middle and last name initials.  Now your thinking where is the God mode and Warp code?  Well they are there waiting to be discovered after you beat the game.
+
+Sorcerers Wrath
+
+	-If you have been in the Wolfenstein community for along time you might have played a demo called Sorcerers Wrath.  This TC has been under development since 2001, and will be using the Wolfenstein 
+Engine.  This TC will be set in the medieval times and will be following the story line of several games you may have played before such as: Legend Of Zelda The Ocarina Of Time, Zelda A Link To The 
+Past, Hexen, Heretic, Legacy Of Kane and Wolfenstein Spear Of Destiny.  Wondering how the hell are you going to make any sense of a TC with all those games?  Did I not just tell you everything has 
+been under development for over 3 years already. 
+
+The games I listed above as you may or may not know, some are RPG and First Person Shooter games.  I am planning on combining an RPG based game into a First Person Shooter game.  So you will be playing 
+a First Person Shooter style but interacting like an RPG style.  I won’t go into much detail yet but for the story line, the ending of Sorcerers Wrath will continue on into the Wolfenstein Spear Of 
+Destiny game. As for features, the basic new generation floor/ceiling, shading etc. etc. will be used of course. But as for new features: civilian dialogue interaction, booby traps, teleporting/spawning 
+enemies, better Ai this of course is just some of things being listed.
+
+Credits & Epilogue
+
+This TC would have not been possible if not for the following people: The Creator of Wolfendoom’s Operartion: Arctic Wolf, MCS, Brother Tank, Ripper, Darkone, Mr. Lowe, Demolition Man, Simon Williams, 
+TexZK, WSJ and anyone else I didn’t mention in here and of course you the Wolfenstein 3d Fans.  
+
+Like I said above under the Sorcerers Wrath section, I want to retire from TC making with that Sorcerers Wrath being my final project.  MCS and Brother Tank have been pushing me to complete this for 
+years now.  Now that I have finished all the TCs I have ever wanted to do its time to do the grand daddy of them all and say goodbye.  So if you haven’t played Operation: Arctic Wolf what are you 
+waiting for?  This TC and also my other projects can be downloaded from my website listed below:
+			
+The * beside the TC is what it is rated: 1-5
+	
+	Operation: Buzz Bomb		**
+	This was my first TC.  So long ago forgot what it is all about
+
+	Project Esiam:			**1/2
+	In this TC Dr. Schabbs has created an army of mutants threatening the world.
+
+	Wolfenstein Special Edition: 	***1/2
+	I enjoyed making this TC, it had the very first reloading weapon: Doom’s single shot Shotgun.  But the thing I enjoyed designing the most was the second episode.
+
+	Himmler’s SS:			****
+	A lot of people I talked to enjoyed this TC because it had a lot of cool graphics and a ton of new features, which included the older model Flame Thrower.
+
+Area 51:				****1/2
+	I got this idea from Nintendo 64’s Perfect Dark.  It had so much many new things that I don’t even remember, what was in it except a whole new game.  Though I never finished it I will some day go 
+back redo the entire source and complete this project.
+	Operation: Arctic Wolf		****1/2
+	After playing this game in the Wolfendoom engine I got the urge to import it into the Wolfenstein engine.  A must play. 
+
+	The Rise Of NOD:			N/A
+One of the best TCs I have made.  Everything in this TC is new including a grenade launcher.  Definitely a must play. 
+
+	Sorcerers Wrath:			N/A		
+	Though I haven’t designed this TC yet there however a crappy little demo of it on my website.  Believe me its nothing like what the real game will be like just basically a little preview of what you 
+will be playing in the final version. 
+
+	Also if you ever need to ask me a question about the source, Wolfenstein or if you just want to chat.  Here is how you can contact me:
+	
+	Website: http://
+Email Address: boytoy_east@hotmail.com  
+	MSN Nickname: rollin down the street smokin indo sippin on jin and juice
+
+ Inclosing all I have to say is support your local green machine…  
+     
+
+            
+            
