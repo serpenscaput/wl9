@@ -2,12 +2,9 @@ DieHard Wolfers Forums: Map Making Mania Melée
 
 README.TXT
 
-A contest consisting of entrants each submitting a maximum of three levels to be 
-played with the original 60-level full version of Wolfenstein 3-D (including original 
-VSWAP). Original concept by Zach Higgins.
+A contest consisting of entrants each submitting a maximum of three levels to be played with the original 60-level full version of Wolfenstein 3-D (including original VSWAP). Original concept by Zach Higgins.
 
-All files are included in this version, along with the complete thread concerning 
-the contest from the Die Hard Wolfers Forum.
+Just the map files, a new exe and the demo's are included in this version, along with a text only version of the complete thread concerning the contest from the Die Hard Wolfers Forum. Other files need to be supplied from the full 60 level version of Wolfenstein 3D. Most 1.4 versions should be compatible. An all files version of this contest is also available.
 
 Just a few statistics:
 
@@ -36,8 +33,7 @@ Score: 80
 FLOOR 03: Boss Level: Arielus (3/3)
 Good: Well decorated, but not cluttered, good variation in guard use.
 Bad: None.
-Neutral: A bit too symmetrical for my taste, but not a fault (just a preference of 
-mine).
+Neutral: A bit too symmetrical for my taste, but not a fault (just a preference of mine).
 Score: 90
  
 
@@ -121,8 +117,7 @@ EPISODE 5
 
 FLOOR 01: Opening Level: David O' Rafferty (1/3)
 Good: Extensive, fairly good designs and good use of guards.
-Bad: Very little decoration with objects - though compensated somewhat with good 
-wall decoration and interesting layout.
+Bad: Very little decoration with objects - though compensated somewhat with good wall decoration and interesting layout.
 Neutral: None.
 Score: 70
 
@@ -151,8 +146,7 @@ Score: 85
 FLOOR 02: Middle Level: Chris (2/3)
 Good: Good design and decoration, a lot of detail.
 Bad: Not so large (though very detailed so not that bad).
-Neutral: Took me a long time to activate the areas that were needed to pass the level.
-
+Neutral: Took me a long time to activate the areas that were needed to pass the level.
 Score 85
 
 FLOOR 03: Boss Level, also with an exit elevator to level 4: Chris (3/3)
@@ -162,32 +156,21 @@ Neutral: Very difficult to exit via the elevator to level 4.
 Score: 60
 
 FLOOR 04: Boss Level: Harry Sr 
-Not submitted for judging. It was originally made for 'Beyond Mutantstein SE', the 
-John Bucksnort Tribute Set, though it didn't get a place there, as every map slot 
-was already occupied. Slightly amended to fit the original Wolfenstein 3-D's VSWAP.
-
+Not submitted for judging. It was originally made for 'Beyond Mutantstein SE', the John Bucksnort Tribute Set, though it didn't get a place there, as every map slot was already occupied. Slightly amended to fit the original Wolfenstein 3-D's VSWAP.
 
 
 Final comments:
 
-Most of the levels were of good quality. I gave 7 of them a score of 90 points each 
-and some others 80 or 85. This reflects how difficult it was for me to choose among 
-them. 
+Most of the levels were of good quality. I gave 7 of them a score of 90 points each and some others 80 or 85. This reflects how difficult it was for me to choose among them. 
 
 Some levels had good guard use but many just had still and deaf guards. 
 
-Some levels were quite symmetrical. I don't like symmetrical levels very much but 
-that is just a preference of mine and I didn't mark any levels down because of it. 
-Re the use of 'tricks' in some levels, like holowalls, I was neutral to these and 
-didn't mark them up or down.
+Some levels were quite symmetrical. I don't like symmetrical levels very much but that is just a preference of mine and I didn't mark any levels down because of it. Re the use of 'tricks' in some levels, like holowalls, I was neutral to these and didn't mark them up or down.
 
 All results and comments were made before knowing who made each level.
 
-Some of the ceiling colours have been changed, particularly on episode 4 where the 
-original colours did not fit well with the levels. Also, the episodes' names have 
-been substituted by the authors' names, and the music order and some par times have 
-been changed. In this latest version, the demo's have been changed too.
+Some of the ceiling colours have been changed, particularly on episode 4 where the original colours did not fit well with the levels. Also, the episodes' names have been substituted by the authors' names, and the music order and some par times have been changed. In this latest version, the demo's have been changed too.
 
 
 Brian E. Lowe (Schabbs),
-Tuesday January 27, 2004.
+Sunday January 25, 2004.
