@@ -1,0 +1,114 @@
+    _.----------------[ The   DOCUMENTATION   to ]------------------._
+   /  .------------------------------------------------------------.  \
+  |  |          ______ ____________   ___      ________             |  |
+  |  |        /  _____|____    ____| /   \    |   ____  \           |  |
+  |  |       (  (___       |  |     /     \   |  |____)  )          |  |
+  |  |        \____  \     |  |    /   ^   \  |   __    /           |  |
+  |  |_____________)  )    |  |   /  /~~~\  \ |  |   \  \ __________|  |
+  |   _______________/     |__|__/__/   __\__\|__|    \_____________   |
+  |   ________  \          /  /   \    |   ____  \   /  ____________   |
+  |  |        \  \   __   /  /     \   |  |____)  ) (  (___         |  |
+  |  |         \  \ /  \ /  /   ^   \  |   __    /   \____  \       |  |
+  |  |          \  ` /\ '  /  /~~~\  \ |  |   \  \ _______)  )      |  |
+  |  |           \__/  \__/__/     \__\|__|    \____________/       |  |
+  |  |                              3-D                             |  |
+   \  `------------------------------------------------------------'  /
+    `--------------------[ Version 1.0 3-19-94 ]---------------------'
+
+
+Star Wars 3D is simply an add-on for Apogee's and IDGames's Wolfenstein 3D
+Shareware version 1.0.  It will only work with 1.0, so don't try it with
+v1.4 or anything else.
+
+--INSTALLATION------------------------------------------------------------
+Installation is simple.  Create a new directory on you Hard Drive and
+install a fresh copy of Wolfenstein 3D v1.0 into it.  (the file
+W3D1-ASP.EXE) Then unzip this file into that directory, answering yes when
+it askes you to overwrite any files.
+
+--RUNNING THE GAME--------------------------------------------------------
+The first time, type SW3D or WOLF3D and choose the proper options (sound,
+window size, controls).  From now on you can type WOLF3D to get into the
+game, SW3D to quickly get into the game, or type SW for the quickest way,
+but you go right to level 1, without the chance to load any save games
+or change the difficulty level.
+
+--THE CHEAT CODES---------------------------------------------------------
+The cheat codes only work if you type SW or SW3D, not if you type WOLF3D.
+To enter the cheat codes, you must be in the game, not on any menu screens.
+Hold down TAB-CTRL-ENTER to enter cheat mode.  Then you hold town TAB and
+press the folowing keys for diferent cheat:
+
+G - GOD MODE (nothing hurts you)
+I - FREE ITEMS (once for gun #3, again for gun #4)
+W - WARP TO ANY LEVEL (type in the level number when it asks you to)
+N - NO CLIPPING (walk through walls)
+Q - QUIT (quits quickly, rather then pressing ESC then ESC-Y)
+S - SLOW MOTION (and slow is an understatement)
+E - BEAT CURRENT LEVEL
+Q - QUIT QUICKLY
+O - OVER HEAD MAP
+
+There are others, but these are the most helpfull ones. TAB E and TAB Q
+doesn't seem to allways work on my computer, sometimes it just freezes up
+and erases the config file.  Wierd. Also, try not to cheat unless you're
+stuck, otherwize it takes out all the fun!
+
+--THE SW 3D GRAPHICS------------------------------------------------------
+All SW-3D is, really, is an edited graphic file.  I think it's great and
+really fun to play.  2 graphics (originally steel plating, and purple
+wall [with various decorations]) only appear in 1 level each. They are
+some of the best graphics in the game, so if you find 'em then have fun.
+
+--THE SW3D LEVELS---------------------------------------------------------
+The levels that come with SW3D are really the same as the originals, but
+they are slightly modified so you can see more graphics.  4 graphics
+(originally grey stone 3, grey stone w/ signs,  steel plating w/ signs, and
+red w/ eagle) were in the graphics file, but were never put into the game.
+In my levels, they are.  What this means, is you won't see the 3rd section
+of the 3 panel Star Destroyer wall, or the new graphic for the Steel
+w/signs and grey w/ signs if you play these graphics with the original
+levels.
+
+--MAPDATA.DEF & OBJDATA.DEF-----------------------------------------------
+For those of you who have MAPEDIT or a similar program, you will know what
+these files are.  The names off the walls and some of the objects have
+been changed in these file so if you wanna edit maps with SW3D graphics,
+it's easier.  Do not use these files with the registered version, or SOD,
+or even shareware version 1.4, because I took out all of the graphics from
+those versions.  Also, do not put down any "unknowns" when editing, it
+could freeze up your computer when you try to play a level with it in it.
+
+--WHAT'S TO COME IN FUTURE VERSIONS OF SW3D-------------------------------
+v1.0 just has different walls, you still fight nazis.  v1.5 will have
+edited sounds and weapons.  The knife will become a light saber, the guns
+blasters, etc.  And if I get a WOLF3D editor that you can edit the
+background music, all 10 levels will have various SW music from the
+SW 4CD music anthology set.  If v2.0 ever comes out, the nazis will become
+Storm troopers, and the last guy will become Darth Vader.  Vader'll be
+cool, he say stuff from the movies (like the force is with you and stuff).
+If v2.5 ever comes out, It'll have 10 new levels.  If v3.0 ever comes out,
+It'll be for the registerred version of WOLF3D, and Hitler will be replaced
+with the Emperor, the others guys the red stormtroopers, etc. That ones
+gonna be cool, if it ever comes out.
+
+--THANKS------------------------------------------------------------------
+Thanks for Bill Kirby for creating WOLFEDIT, and MAPEDIT, without wich none
+of this would have been created.  Thanks to whoever made Graphip Workshop,
+without wich almost all of the walls couldn't have been made.  And thanks
+to each and every user of the FIDONET STAR WARS CONF, without their
+encouragement and GIF sending I would have never have even made this.  I
+probably wouldn't be a huge SW fan, either.  Thanx also to everyone else
+I forgot.
+
+--FINAL WORDS-------------------------------------------------------------
+If you know who I am, do not send me any money.  Send it to Apogee.
+Register WOLF, register Blake Stone, go out and buy Spear of Destiny, I
+don't care.  Or send it to ID and register DOOM, just as long as I
+don't get any money.  I apologize if I offended anyone at Apogee or ID
+for creating this, but I'm obviously not the first to do it, so you're
+probably used to it by now.  I'm also sorry if I offended anyone at
+LUCASARTS, but I *really* hope that Lucasarts will instead like the idea
+and make a SW3D of their own.  The level in Rebel Assualt was great, but
+we want more STAR WARS!
+
