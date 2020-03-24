@@ -1,0 +1,50 @@
+Thank you for downloading Castle Totenkopf, an add-on for
+Wolfenstein 3d
+
+============================================================
+
+Title: Castle Totenkopf 
+Filename: tkopf.zip
+Author: Wolf Skevos-Jones
+Email Address: wolf@shadaux.com
+Description: 21-level Wolfenstein adventure, with some new features
+
+============================================================
+
+*Files Included*
+
+AUDIOHED.WL6
+AUDIOT.WL6
+ENDART1.WL6
+GAMEMAPS.WL6
+HELPART.WL6
+MAPHEAD.WL6
+VGADICT.WL6
+VGAGRAPH.WL6
+VGAHEAD.WL6
+VSWAP.WL6
+WOLF3D.EXE
+
+*Play Information*
+
+Game: Wolfenstein 3d
+Levels: 21
+Source Code Changes: Yes
+New Sounds: Yes
+New Graphics: Yes
+New Objects: Yes
+New Weapons: Yes
+New Enemies: Yes
+New Music: Yes (from Spear of Destiny)
+Demos: Disabled
+
+*Construction*
+
+Build Time: about a month
+Editor(s) Used: FloEdit, Borland 3.1, Paint Shop Pro, Sound Forge 5.0 
+Known Bugs: all known bugs have been fixed 
+
+*Changes*
+
+This is version 1.3 of Castle Totenkopf.  It is pretty much the same as the original except that level 10 was made easier and a few bugs (such as the "GetNewActor" error) were fixed.  The "I+L+M" cheat code has been removed.
+
