@@ -101,3 +101,4 @@
 -uploaded DOSMENU for Wolfmaster
 -uploaded Frayed DOS
 -uploaded ECWolf tech demos
+-uploaded DOS Hallowein readme
