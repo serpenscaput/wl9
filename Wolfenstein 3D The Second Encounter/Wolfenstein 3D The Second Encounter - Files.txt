@@ -1,0 +1,17 @@
+After your download, the package should and must contain these files (if one is missing download the game again!):
+
+	- AUDIOHED.TSE
+	- AUDIOT.TSE
+	- GAMEMAPS.TSE
+	- MAPHEAD.TSE
+	- VGADICT.TSE
+	- VGAGRAPH.TSE
+	- VGAHEAD.TSE
+	- VSWAP.TSE
+	- SECOND.EXE
+	- Files.TXT
+
+Additional files that might be necessary:
+
+	- CONFIG.TSE (Created after first quitting the game!)
+	- SAVEGAM0 to SAVEGAM9 (These files are made after you save your game!)
