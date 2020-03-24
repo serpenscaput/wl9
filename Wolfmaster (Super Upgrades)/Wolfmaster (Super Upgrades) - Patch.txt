@@ -1,0 +1,24 @@
+
+Patch for DOSMenu set-up for Wolf3d Super Upgrade Pack  12/17/09
+
+If you have saved any games previously, they will always have a filetype of .WL6
+They *should* be associated with the game on the menu: Game AA should have saved games
+with names ending in .AA, Game C should have .C, etc. Only the plain Wolfenstein game
+should have .WL6 saved games. The ability to have 10 saved games for each menu item
+is what this patch restores; currently there can only be 10 saved games in total. Also,
+it is now possible to load a saved game from a different set of levels than the active
+game - very bad!
+
+Before applying this patch, any saved game should be renamed to its respective map. The
+filetype should match that of its parent GAMEMAPS/MAPHEAD files. If you have no idea which
+game the saved game files are from, I would recommend deleting them.
+
+If you have no saved games, merely apply the patch:
+
+The enclosed swap.bat file should replace the current one in the WOLFREG subfolder.
+Now you're ready to go!
+
+I'm sorry for any inconvenience I may have caused.
+
+Andy
+
