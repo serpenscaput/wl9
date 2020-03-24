@@ -1,0 +1,449 @@
+^P
+^C2f THANK YOU FOR DOWNLOADING DOUBLE TROUBLE
+
+^C00 Thank you for Download Double Trouble, this TC is a sequel to my first TC Rising Evil, and continues from where it stopped. To read the story of Double Trouble go to the story section found in the MAIN MENU. The next few pages will guide you through Double Trouble.
+This TC took me 3 years to create and contains completely new graphics, levels and some new sounds and even uses the Spear of Destiny engine, and contains many of the features found in Rising Evil and many more.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d CONTROLS
+^C00 You can use the keyboard, mouse, joystick or a Gravis PC gamepad to play the game.
+
+To navigate around the menus, use the ^C37 arrow ^C00 keys to move from item to item, then press ^C37 Enter ^C00 to select that item. ^C37 Esc ^C00 always backs out. You can also use the first letter of a menu item to go straight to that item.
+
+You can also navigate the menus with the mouse, joystick or gamepad.
+
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d CONTROLS - COMMANDS
+
+^C00 Use the ^C37 arrow ^C00 keys to move. Use ^C37 Alt ^C00 together with the ^C37 left/right arrow ^C00 keys to strafe. Use ^C37 Shift ^C00 together with ^C37 arrow ^C00 keys to move fast. Use ^C37 Ctrl ^C00 to shoot. Use the ^C37 Space ^C00 key to open doors/activate switches/activate secret pushwalls.
+
+With a mouse or joystick, button 1 acts as the Ctrl (shoot) key, and button 2 acts as the Alt (strafe) key. Gamepads have a 4th button which acts as the Shift (run) key.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d CONTROLS - FUNCTION KEYS
+^C00 Pressing the Esc key at any time during the game will take you to the Main Menu, the "F" keys can be used to take you directly to certain options.
+^C37 F1  ^C00 Manual (You're reading it)
+^C37 F2  ^C00 Save game (F8 for Quick save)
+^C37 F3  ^C00 Load game (F9 for Quick load)
+^C37 F4  ^C00 Sound menu
+^C37 F5  ^C00 Resize view menu
+^C37 F6  ^C00 Controls menu
+^C37 F7  ^C00 End game
+^C37 F10 ^C00 Exit game     ^C37 F12 ^C00 Take Screenshots
+^p
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d MAIN MENU
+^C00 When you start Double Trouble you first go through a couple of intro screens, until you get to the Main Menu. In the Main Menu you'll find the following options. ^C37 New Game ^C00 (This will allow you to start your mission), ^C37 Sounds ^C00 (Turn sounds on/off), ^C37 Manual ^C00 (you're reading it), ^C37 Story ^C00 (The Story behind DT), ^C37 Save Game, Load Game ^C00 (Save/Load a saved Game), ^C37 Change View ^C00 (Adjust Gameplay Screen size), ^C37 Controls ^C00 (Change default controls), ^C37 Jukebox ^C00 (Plays game music), ^C37 View Scores, Back to Demo ^C00 (View demos), ^C37 Quit.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G80,16,23
+^G110,280,24
+^G140,16,25
+
+^C2d MAIN MENU - NEW GAME
+^C00 When starting a new game, you'll be able to select from one of five different difficulty levels to play.
+
+^C37 I want my dummy: ^C00 Easiest skill level, best for beginners.
+
+^C37 I am fragile: ^C00 Just like the first skill, but with tough enemies.
+
+^c37 Let's kick butt: ^C00 More enemies, harder than the first two skill levels.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,26
+^G90,280,27
+
+^C2d MAIN MENU - NEW GAME
+
+^C37 Whatta workout: ^C00 Difficult with tons more enemies.
+
+^C37 Suicidal Prophecies: ^C00 Just like the "Whatta workout", but the enemies are ten times stronger and much quicker, and you are unable to cheat.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d PLAYING THE GAME - THE STATUSBAR
+^C00 During the game, at the bottom of your screen is a statusbar which provides information on your current status during the game.
+
+
+
+
+
+^C2e NOTE: The picture of the statusbar is a resized version of it (Sorry for the lack of detail, it's just a brief view).
+^P
+^c2f DOUBLE TROUBLE - MANUAL
+^G49,15,192
+
+^C2d PLAYING THE GAME - THE STATUSBAR
+
+^C37 1- ^C00 The level you are currently playing on;
+^C37 2- ^C00 Your visual appearance;
+^C37 3- ^C00 The status of your health;
+^C37 4- ^C00 The keys you currently possess;
+^P
+^c2f DOUBLE TROUBLE - MANUAL
+^G49,15,192
+
+^C2d PLAYING THE GAME - THE STATUSBAR
+
+^C37 5- ^C00 Your current score;
+^C37 6- ^C00 The image of your currently selected weapon (1-7);
+^C37 7- ^C00 Your remaining lives;
+^P
+^c2f DOUBLE TROUBLE - MANUAL
+^G49,15,192
+
+^C2d PLAYING THE GAME - THE STATUSBAR
+
+^C37 8- ^C00 The status of your armour;
+^C37 9- ^C00 The remaining seconds of certain items;
+^C37 10- ^C00 The ammo remaining for the currently selected weapon.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 You'll start off with a Dagger and you'll encounter 6 other weapons in your mission. There are 7 weapons in total:-  Dagger, Pistol, Machine Gun, Chaingun, Rocket Launcher, M3, and Flamethrower.
+Once you have more than one weapon, you can choose any weapon by choosing the numbers 1-7. Pressing ^C27 1 ^C00 selects the Dagger, ^C27 2 ^C00 the Pistol, ^C27 3 ^C00 the Machine Gun, ^C27 4 ^C00 the Chaingun, ^C27 5 ^C00 the Rocket Launcher, ^C27 6 ^C00 the M3, and ^C27 7 ^C00, the flamethrower.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C37 Dagger: ^C00 The Dagger is your first weapon you'll start your mission off with, and apart from being an alternative when out of ammo. You can use it to dispatch enemies silently so as not to alert others nearby. Take Note that the Dagger is useless against certain enemies, such as a boss.
+If you just have a dagger and no other weapon, the you'll be able to get a pistol by killing a guard or a machine gun by killing an SS.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G70,16,190
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C37 Ammunition: ^C00 During your mission you'll use 4 different types of ammo.
+^C00 The first Amunition type, is a stand type of ammunition and is used by three different weapons:- The Pistol, Machine Gun, and Chaingun. The Ammo for these guns come in clips of 8 (or 4 if dropped by a dead guard) and then in crates of 25 and is a lot more common than any other ammo. You can carry up to 150 rounds of Ammo for these weapons.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G70,16,190
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The ^C27 Pistol ^C00 is good against single enemies, and should not be used when faced against hordes of nazis. The pistol is also used by the Standard guard and officer.
+^C00 The ^C27 Machine Gun ^C00 is great for sorting out small groups of nazis, but is not recommend when fight big groups of enemies or bosses. The machine gun is used by the SS.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G70,16,190
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The ^C27 Chaingun ^C00 is a very useful for taken on huge groups of enemies and is recommend to be used against bosses. 
+Take Note that although the chaingun is a very powerful weapon to use when in combat against your enemies, it may, without warning "Jamm" leaving you with the Dagger. 
+^C2e NOTE: Various Chainguns have been perfected not to Jamm, and are being used by certain bosses.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,191
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The Second Ammunition type is of a far more deadlier type and should be used wisely, the rockets are for the Rocket Launcher.
+
+The Rockets for the Rocket Launcher are scarcely located and should be used wisely, and comes in single loads or in crates of 5. You can carry up to 15 Rockets at time.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,191
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The ^C27 Rocket Launcher ^C00 is a very powerful weapon and can blow apart the fired upon enemy and kill others nearby with the result of the blast and is very effective at taking out more than one enemy at a time. It also has it drawbacks: ^C37 1- ^C00 its slow rate of fire means longer loading time; ^C37 2- ^C00 its blast range is deadly and cann't be used in small areas or in close encounters with enemies as you to could also get injured while using it. 
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,177
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The Third Ammunition type is similar to the first but much more effective. The M clips or Manipulator clips is for the M3.
+
+The M clips are of a larger callibre than the first type, and come in clips of 8 and crates of 25 and is not as common as the first, but can be found in reasonable quantities. You can carry up to 150 clips of Ammunition.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,177
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The ^C27 M3 ^C00 (aka Triple Barreled Manipulator) was created as en experimental weapon to perfect on the Chaingun's weakness. The M3's firing rate is faster than that of the Chaingun, therefore using the ammunition up very quickly. The M3 is the ideal weapon for taking out enormous hordes of enemies, but use it wisely.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,178
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The Fourth and last ammuntion type is that of firey type. The fuel canisters are for the Flamethrower, and can be found in 4 litre bottles or in 10 litre bottles. 
+
+You can carry up 50 litres of fuel at a time, but use it wisely as the fuel bottles are very scarcely found throughout your mission.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,178
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 The ^C27 Flamethrower ^C00 can roast an enemy with one squeeze of the trigger. Unlike the Missile launcher, the flamethrower can shoot flames out at a continuos rate. The Flamethrower should only be used in close encounters, as in far distances the flames die out after a couple of feet of you.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,83
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+^C00 During your mission you may even encounter a ^C27 backpack ^C00 which gives you small extra bit of ammunition and it even gives your health and armour a boost (15% Health and 20% armour), these backpacks allow you to carry twice the amount of ammo usually carried for each weapon.
+
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,89
+
+^C2d PLAYING THE GAME - HEALTH/FIRST AID
+^C00 During your mission you'll encounter items (found in the castle or outdoor ares) that'll increase (or decrease) your health, up to 100%.
+
+In ^C27 indoor areas, ^C00 you'll find small medikits that add 5% to your health, the cooked meals add 10%, the heath kits add 25% and the first aid boxes add 50%.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,89
+
+^C2d PLAYING THE GAME - HEALTH/FIRST AID
+^C00 In ^C27 outdoor areas, ^C00 survival kits can replenish your health by 25%. 
+
+There are also berry bushes that'll increase your health up 10%, but beware as certain berry bushes are poisonous and'll reduce your health by 16%. 
+
+^C2e NOTE: When an enemy is injured he to will use a health item to replenish himself.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,89
+^G140,280,171
+
+^C2d PLAYING THE GAME - HEALTH/FIRST AID
+^C00 Throughout the forest areas there are also mushrooms that'll add 5% to health, but there's a disadvantage to eating one of these as they're lethal and within a couple seconds you could die unless you find a blueberry bush. Although these blueberry bushes maybe able to help you, they are scarce, and using one when not poisoned, could cause you DEATH later.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,188
+
+^C2d PLAYING THE GAME - ARMOUR
+^C00 During your mission you'll encounter armour to help take the damage from the various enemies and dangerous items you encounter on your mission.
+
+The armour-pads add 15% to your damaged armour. If you can't find any armour-pads and your armour is below 20% then you'll be able to pick up an armour jacket that'll increase your armour to 100%.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,172
+
+^C2d PLAYING THE GAME - KEYS
+^C00 To progress through each level, you'll need to find various keys located within the level in order to open certain locked doors.
+There are 5 key types and 1 access card - the gold key, silver key, ivory key, bronze key, and rusted key and then the  elevator access card. 
+
+
+^C2e NOTE: Necessary keys are never hidden in secret areas
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,172
+
+^C2d PLAYING THE GAME - KEYS
+^C00 All keys match the corresponding colour lock found on the locked doors, but take note that the rusted key is the only key that can unlock two different door types: The wooden doors found on various castle floors, and the locked iron gate found in outdoor areas.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,176
+
+^C2d PLAYING THE GAME - TREASURE
+^C00 The nazis robbed the locals of their valuables and have scattered them throughout the levels. The cross is worth 100 points, the chalice is 500 points, the chest 1000 points, the treasure mound 2500 points, and the crown is worth 5000 points.
+^C2e NOTE: Dependent on skill level, extra lives are granted for every 40000, 60000, 75000 or 100000 points earned.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d PLAYING THE GAME - ARTIFACTS
+^C00 With the Spear being in the hands of the nazis, and being used for evil experiments, it has created various artifacts that'll aid you throughout your mission, and destroy the evil hands that have possesion over the spear. There are three different types of Artifacts that will aid you throughout your mission.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,38
+
+^C2d PLAYING THE GAME - ARTIFACTS
+
+^C37 Life Artifact: ^C00 Raises your health to 125% (multiple artefacts can raise it to 200%). Sometimes gives you 1 extra life.
+^C37 Godmode Artifact: ^C00 Grants you invulnerability for a limited time.
+
+^C37 Displacement Artifact: ^C00 Teleports you to another location within a level.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G100,16,85
+
+^C2d PLAYING THE GAME - INTERACTIVE OBJECTS
+^C00 There are various items found throughout your mission that you'll be able to interact with, and may even serve some purpose in your mission.
+
+^C27 Barrels: ^C00 Certain barrels, when shot upon, may explode. The explosion caused by the barrels will hurt enemies nearby and even you too, if you're too close. Some barrels that explode may leave a toxic waste behind that could hurt you if trodden on.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,94
+
+^C2d PLAYING THE GAME - INTERACTIVE OBJECTS
+^C27 Collomns: ^C00 Various collumns in the castle are old and weak, and can also be destroyed to allow access to other areas. Destroying a weak collumn will not harm you or the enemy. 
+It's preferable to take out a collumn with a knife so as not to waste any ammo.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d PLAYING THE GAME - INTERACTIVE OBJECTS
+^C27 Landmines: ^C00 Scattered throughout the outdoor areas are mines that have been planted in the ground. Stepping on one will cause considerable amount of damage to your health and armour. Not only are they dangerous to you, but they can also be an advantage if used correctly in certain situations, as they are just as harmful to an enemy. Landmines are very hard see, so be careful when walking through a forest area. ^C2e NOTE: Certain enemies are clever enough to avoid stepping on a landmine!
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G46,16,175
+
+^C2d PLAYING THE GAME - INTERACTIVE OBJECTS
+^C27 Switches: ^C00 As a security precaution, various switches have been placed throughout the castle levels. These switches have certain purposes.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G46,16,175
+
+^C2d PLAYING THE GAME - INTERACTIVE OBJECTS
+
+
+
+
+
+
+
+
+^C37 1- ^C00 Gives you access to the next level, but beware as there are also trick switches, that when activated will cause  sudden death.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G46,16,175
+
+^C2d PLAYING THE GAME - INTERACTIVE OBJECTS
+
+
+
+
+
+
+
+
+^C37 2- ^C00 Allows access past steel locked doors. These steel locked door look similar to the standard type but has red knob by the handle.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d PLAYING THE GAME - ENEMIES
+^C00 On your mission you encounter various enemies each with their own weaknesses and strengths. (A wounded enemy is able to use health to replenish it self, except for mutants/clones).
+These have been distinuished into four different types:
+^C37 1- ^C00 Standard Enemies - Common guards;
+^C37 2- ^C00 Special Enemies - Guards with specific purpose;
+^C37 3- ^C00 Elite Enemies - Guard important areas;
+^C37 4- ^C00 Bosses - Masterminds behind this plot.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,97
+
+^C2d PLAYING THE GAME - ENEMIES(STANDARD)
+^C00 Standard enemies are the most commonly found type of enemy. When killed, most will leave behind an ammo clip.
+
+
+
+^C37 1- ^C27 Guard: ^C00 Easy enough to dispatch of individually, but potentially dangerous in groups.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,97
+
+^C2d PLAYING THE GAME - ENEMIES(STANDARD)
+^C37 2- ^C27 Aero Drone: ^C00 These evil mutations are tough and have been made from human micro-organism and waste material. These mutations are quick so kill them before they kill you.
+^C37 3- ^C27 SS: ^C00 Equipped with machine guns, the SS are, needless to say, very tough, and extremely dangerous in groups.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,97
+
+^C2d PLAYING THE GAME - ENEMIES(STANDARD)
+^C37 4- ^C27 Officer: ^C00 Very agile and accurate opponents. Although equipped only with a pistol, officers wear bullet resistant vests that make them almost as tough as an SS.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,102
+^G130,16,173
+
+^C2d PLAYING THE GAME - ENEMIES(SPECIAL)
+^C00 Special enemies can only be found in certain areas or in the upper regions of the castle. When killed, most leave behind an ammo clip.
+
+^C37 1- ^C27 Forest Guards: ^C00 Found in forest areas, similar to the standard guard, but faster and stronger. Certain forest guards are also snipers, and are very silent.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,102
+
+^C2d PLAYING THE GAME - ENEMIES(SPECIAL)
+^C37 2- ^C27 Areo Drone Clone: ^C00 Just like the Aero Drone, but with a hand mounted gun, these organic waste material, certainly are a nuisance.
+^C37 3- ^C27 Forest SS: ^C00 Equipped with machine guns, the Forest SS are, very tough, and extremely dangerous in groups.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,102
+
+^C2d PLAYING THE GAME - ENEMIES(SPECIAL)
+^C37 4- ^C27 SA Troopers: ^C00 The StormTroopers Hitler's specially trained officers, assigned to protect Dr Schabb's. These guards are very tough, agile, and accurate. Equipped with just a pistol, they are extremely quick on the draw.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,103
+
+^C2d PLAYING THE GAME - ENEMIES(ELITE)
+^C00 Elite enemies are very tough, and have been trained to use specific powerful weapons, and can only be found in important areas of the castle. When killed none of them will leave behind the weapon they used for the correpsonding ammo.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,103
+
+^C2d PLAYING THE GAME - ENEMIES(ELITE)
+^C37 1- ^C27 GT: ^C00 The GT (aka Guardian Transporters) are heavily armoured transporters with guards. This is enemy is very tough, but beware as the come with two different weapon types: ^C27 1- ^C00 Rocket Launchers, and ^C27 2- ^C00 Mini guns. You'll soon discover how to distingiush the two.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,103
+
+^C2d PLAYING THE GAME - ENEMIES(ELITE)
+^C37 2- ^C27 Flamethrower SS: ^C00 A Specially trained SS, to use the flamethrower. Beware of his flames as they are deadly close range but not in far ranges. Becareful not to be standing nearby when killing one of these guys, as due to the full carrying their back, will cause an explosion (hurting you or enemy nearby).
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,103
+
+^C2d PLAYING THE GAME - ENEMIES(ELITE)
+^C37 3- ^C27 MTroop: ^C00 The Manipulator Troopers are very agile troopers, and have been specifically trained to use the M3 to their advantage, well enough said about them!!! 
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,88
+
+^C2d PLAYING THE GAME - ENEMIES(BOSSES)
+^C27 Super Aero Drone: ^C00 The Super Aero Drone, created by the late Franz Schabbs, had thought to been eliminated in the explosion that had hit the lab that Franz ran. These "drones" are twice the size of the standard Aero Drones, and is alot stronger. Equiped with an M3, and is a very fast and dangerous enemy. It is beleived that he guards the lower castle areas.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,91
+
+^C2d PLAYING THE GAME - ENEMIES(BOSSES)
+^c27 General Meigler: ^C00 The General is in charge of training the officers and torturing the local peasants. His appealing knowledge for the changun, and his love for the new M3, his armed himself with both weapons, and is willing to use them on you. It's believed you'll find him in his torture chamber, getting ready to torture you.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,90
+
+^C2d PLAYING THE GAME - ENEMIES(BOSSES)
+^C27 Super Drone Clone: ^C00 The Super Drone Clone or else known as the "Super Aero Drone Clone". Just like the Aero Drone, these cloned experiments are twice as deadly, and armed with an arm mounted chaingun sure ain't the best foe to encounter.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,87
+
+^C2d PLAYING THE GAME - ENEMIES(BOSSES)
+^C27 Koppler Batton: ^C00 Koppler Batton is in charge of the experimentations that are being performed in the lab. Koppler is armed with the classical Chaingun and Rocket launcher. He is to found in his lab, getting ready for B.J so as to use him as a guinea-pig in his experiments.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,86
+
+^C2d PLAYING THE GAME - ENEMIES(BOSSES)
+^C27 Herr van Schintz: ^C00 Another one of Hitler's personal soldgiers, and is responsible for the Spear being the hands of the nazis. He has been assigned to protect Dr Schabbs in his mission to create a perfect race, and can be found in the upper regions of the castle. He's armed with two M3's, and is willing to take you on.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+^G50,16,92
+
+^C2d PLAYING THE GAME - ENEMIES(BOSSES)
+^C27 Artz Schabbs: ^C00 Having taken over from where his brother stopped. Dr Schabbs revenging is brother's death and would like nothing else but to get rid of B.J, armed with twin shoulder mounted rocket launchers and two M3 is going to do just that.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d CREDITS
+^C00 Rising Evil II: Double Trouble was created by myself "Ryan de Haast (aka Haasboy)", and I would also like to thank everybody at the Diehard Wolfers forum (http://diehardwolfers.areyep.com) for their contributions and help throughout the creation of Double Trouble. I'd also like to thank iD Software for creating Wolfenstein 3D and Spear of Destiny and for releasing the source codes for both games. To view all those that helped read credits.txt file included with the game.
+^P
+^C2f DOUBLE TROUBLE - MANUAL
+
+^C2d CREDITS
+^C00 I'd also like to thank my beta testers, for their hard work in trying to make this game a great game to play.
+^C27 Beta Testers:
+
+^C2d Contact the Author
+^C00 If you'd like to contact me e-mail me at ^C18 rddehaast@mweb.co.za. ^C00 You can even visit my web site The Wolfenstein Cabin at ^C18 www.thewolfensteincabin.cjb.net. ^C00 On my website you'll find my projects, tutorials, and much more...
+^E

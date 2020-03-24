@@ -1,0 +1,40 @@
+-- Features --
+
+* Spear of Destiny engine
+* 35 New levels (27 Standard levels, 4 Secret ,4 Super Secret)
+* New Enemies & Bosses
+* New fonts
+* New menus
+* Animated Sprites
+* Directional Sprites
+* Shading
+* Floor & ceiling textures
+* Outside Atmosphere
+* New Helpart
+* Intermission Art
+* Switches
+* Triggers
+* New weapons
+* Armour
+* New & reorganised Statusbar
+* New signon screen
+* Exlploding barrels & missiles
+* New Sounds
+* 5th Difficulty
+* Armour
+* 65+ Walls
+* In-game messages
+* Gun Bobbing
+* Robert's Jukebox
+* Random Enemy Alerts & Death Sounds
+* Story Art
+* New warning (Confirmation - Quit, Overwrite, etc) messages
+* Animated Walls
+* New Ammo types
+* New Statusbar number system
+
+
+
+
+
+NOTE: This is not the full features list, these are only noticable ones, there are many other features through out the game that'll only be encountered on various levels, and are used to create a certain effect to the games atmosphere.
