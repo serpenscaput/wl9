@@ -117,3 +117,4 @@
 -uploaded Operation Arctic Wolf manual
 -added early version of Resident Evil 2
 -added Resistant 1.0
+-added Return to Wolfenstein
