@@ -1,0 +1,5 @@
+When loading a saved game. You have to start a new game and load it from there, then it works fine.
+
+But you can't just start the game and load it first.
+
+Sorry about this!

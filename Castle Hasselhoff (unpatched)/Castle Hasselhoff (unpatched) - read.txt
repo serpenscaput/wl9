@@ -1,0 +1,162 @@
+Castle Hasselfhoff
+by Michael Collin '07
+
+Story;
+You David Hasselhoff were given the orders to inflitrate 
+Castle Wolfenstein and assasinate Hitler. All was going 
+peachy until you were captured along the way. Not only 
+this but the nazis have broken into your castle in 
+order to play out weird experiments.
+
+Your new mission is to escape from Wolfenstein's dungeons, 
+kill Hitler and get back home in time for Dinner.
+
+Yes I know it's not excatly the most epic and exciting storyline ever
+but I did this so that the story unfolds during the game.
+
+Bulid Time;
+19 Friday January - 19 Monday February
+
+Funny thing about this is that the original Castle Hasselhoff that 
+was back in 2005 was lost to the infamous Hard Drive wipe.
+
+So from January this year I decided to remake it and its way better 
+than it once was.
+
+---------------------------------------
+
+Features;
+20 New Levels (No Secret)
+Ceiling + Floor Textures
+Shading
+Full Screen
+Exploding Barrels
+Breakable Columns
+More Objects
+New Enemy
+Directional Sprites
+Seamless Level Progression
+Motorbike
+Cloud Sky
+Ingame Messages 
+Level name on the Get Psyched screen
+Changed Cheat Codes
+In Game Screen Shots
+Inter Mission Screens
+Ammo Walls
++ More
+
+---------------------------------------
+
+Credits;
+
+//Code Toturials;
+
+Brothertank;
+Inter Mission Screens
+
+ZuljinRaynor;
+Exploding Barrels (Also used for the Breakable Columns)
+
+Kuki;
+Adding Motorbike
+
+MCS;
+Adding Objects + Walls
+Enabling Helpart/Endart
+New Enemy
+
+Ripper;
+Directional Sprites
+Removing the scalers
+Shading
+Full Screen Mode
+Outside Atmosphere
+Cloud Sky
+Mirrored Images
+
+KyleRTCW;
+Ammo Wall
+
+Darkeone;
+Floor and Ceiling Textures
+
+WSJ;
+Animated Objects
+In-Game Messages
+
+//Grahpics;
+
+Walls;
+Woods - Max
+Flags - Lord Raffles
+Gray stone, GS-Nazi flag, GS-Hitler, GS-gold eagle - BJ Rowan
+Grey Wall - Triston Van Putten
+EoD Blue/green/red Wall - Areyep (some edited by me)
+Wood - BJ Rowan
+Wood Boxes - Areyep
+Book Case - Areyep
+Steel - Triston Van Putten
+Red bricks - Triston Van Putten
+Hellish stuff - ID software (DOOM)
+
+Sprites;
+Blue Guns - Lost Episodes
+Blood 'N Bones - Areyep
+Toilet - Areyep
+Oil Drums - Areyep
+Computer - Areyep
+Column - Areyep
+Tables - Areyep
+Swastika Banner - Areyep
+Torches - Areyep
+Wooden Frame - WLHack
+Gore guts - Max
+Blue Guard - Richard Kelly (death frames from TobiXY and edited by me)
+Professor Turbozahn - TobiXY
+Blood man - Blood (Ripped by Monkee)
+Triad Guard - Monkee
+Chainsaw Physco - Officer by TobiXY Chainsaw by Max
+
+Sounds; 
+Max, Id software
+
+Music;
+Iron Maiden, Black Sabbath, Super Mario, Europe, Judas Priest,
+Popcorn, Alice Cooper, Axel Foley, Queen, Duke Nukem
+
+Original Wolf3d Graphics by Id Software
+
+//Tools used;
+Borland 3.1 C++: Code Compiling
+Paint/Fireworks: Graphics/textures/sprites editing
+FloEdit/ChaosEdit: Importing graphics/textures/sprites/sounds/ and editing maps
+Notepad: Soure Code Editing/This/Helpart etc
+Mapedit; Level Creation
+IMF Creator; Music
+
+//Other Credits;
+Speical Thanks to  these guys who 
+helped me with the original CH;
+WLHack,Brothertank,Kyle RTCW
+
+And of Course ID Software for the classic Wolf3d and Spear of Destiny.
+
+---------------------------------------
+
+Hints;
+When you see a key being blocked by something there is usually
+a push wall near by.
+
+When using the bike use the Shift Key and back arrow to manoeuvre easily.
+
+You may also experience the sound cutting out. If this happens just press T-A-B to fix it.
+
+---------------------------------------
+
+Thank You for Playing Castle Hasselhoff,
+If you would like to commet on the game drop me an Email.
+
+Michael Collin '07
+
+mikecollin@btinternet.com
