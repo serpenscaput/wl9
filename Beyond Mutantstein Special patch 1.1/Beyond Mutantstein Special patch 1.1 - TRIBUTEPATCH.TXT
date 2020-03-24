@@ -1,0 +1,18 @@
+
+
+BEYOND MUTANTSTEIN SPECIAL EDITION - A Tribute to John Bucksnort
+
+Revised map files (gamemaps.sod and maphead.sod)
+Date of issue: Jan 4, 2003
+
+The original map files in tributev11.zip (released Dec 24, 2002) gave an error on level 15. The white key required to open the exit elevator door was not accessible. These revised files have fixed the problem.
+
+Also, a minor change was made to level 6 involving a pushwall in a section south of the exit elevator. It's now possible to navigate the section without treading on a landmine.
+
+Thanks to Paal for pointing out these errors.  
+
+Schabbs.
+
+
+
+
