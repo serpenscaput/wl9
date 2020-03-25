@@ -1,0 +1,186 @@
+	
+	
+
+
+	====== CHAOS Software proudly presents: =====
+  
+                   OPERATION: Zusammenkunft
+  
+        ==============<DEMO Version 1.0>=============
+
+
+	
+	FOREWORD:	
+        ---------
+	This is the user-manual to the excellent new
+	DEMO-version of OPERATION: Zusammenkunft, it
+	contains storyline, help-guide and some other
+	words by the creators of this add-one.
+
+
+
+	STORYLINE:
+        ----------
+        In the dark winter of 1943, Hitler sends a
+	squad of SS-soldiers into the deep snow, that
+	covered the roof of the world: the Himalaya-
+	Mountains. Hitler is possessed by the highest
+	icons of Christanity. His servants are on a
+	quest to find the Holy Grail, the mysterious
+	icon that contains the blood of Jesus Christ.
+	On another missions, Waffen-SS special forces
+	has stolen the "Spear of Destiny" from the
+	castle of Versailles and others has taken the
+	nails from the cross. Finally, Hitler search
+	the grail to complete his collection of icons
+	and unleashed a unexpected power ...
+
+	APRIL 1944 - Somewhere in England
+	You are B.J. one of the best special 
+	enspionage soldiers of the Allies Forces.
+	You has become a letter, that commands you 
+	to the Allies HQ in London. 
+	In the room of Commander Meyers, he explain
+	your mission. 
+	
+	"B.J., our secret-service has intercept a
+	 encrypted message from the germans... this
+	 message include informations, that Hitler
+	 has found the Holy Grail. You must take
+	 the Grail back and destroy the dark plans."
+ 	  
+	Your mission is hard, but isn´t impossible and
+	it´s a fact: YOU THE BEST ONE FOR THIS JOB !!
+
+	MAY 1944 - Somewhere in South-Germany
+	You has killed two lame Wehrmachts-soldiers 
+	and take their weapons and uniforms. You find
+	a small entry to the canal-system down under
+	the castle "Drudenhord", now your mission begun !
+	Be faithfull and silent, your enemy wills show
+	no mercy.
+
+
+
+	HELP-GUIDE:
+	-----------
+	This version of OPERATION: Zusammenkunft contains
+	un-seen and total new features to the world of
+	WOLFENSTEIN 3D. Here is an easy and small 
+	description of these features.
+
+	
+	LIGHT-SHADING:
+	As one ofd the first WOLFENSTEIN 3D - adventures,
+	this one contains LIGHT-SHADING effects. 
+	It´s permanent and you don´t must do anything to
+	use it. Don´t wonder if the screen is 2-3 sec
+	black after GET PSYCHED!!!, in this time WOLFENSTEIN
+	generates the SHADE-table and it´s not a error
+	(it´s quiet normal!!!).
+	
+	FULLSCREEN-Mode:
+ 	You can now change screen-size to full-screen mode.
+	You can do this at the SCREEN SIZE option at the
+	main menu. For full-screen mode, press down-button
+	and the screen is black, press ENTER and all is 
+	done. You can also use F5-button, if you wish to
+	change screen-size in-game-
+
+	WOLFENSTEIN JukeBox:
+	You can use the WOLFENSTEIN JukeBox in the main 
+	menu to listen the complete WOLFENSTEIN soundtrack.
+	Choose your track by pressing ENTER on it, the
+	actual track will be colorized to yellow.
+	Use UP and DOWN on the list, to scroll soundtrack-
+	list.
+
+	RE-SPAWNING:
+	If you know the orginal WOLFENSTEIN 3D, you will be
+	fast realized, that our has a 5th difficult-level
+        to choose. This difficult level contains the 
+	RE-SPAWNING mode. All enemys (without Dogs, Zombie 
+	and Bosses) will return after some seconds, if
+	you has kill them.
+
+	DEBUG-Mode:
+	Maybe, you know, WOLFENSTEIN 3D has an nice debug-
+	mode and OPERATION: Zusammenkunft has it too.
+	But, fairly i must say, the words to activate it
+	has changed, the key-combination is the same.
+	(no MIL-mode anymore, the same like above !!!)
+
+	GRAIL OF DEATH:
+	A little suprise awaits everyone who find the 
+	secret GRAIL OF DEATH, make a try !!!
+
+
+	
+	WORDS FROM THE CREATORS:
+	------------------------
+	"I love it, i hope you too !!!" - Philipp Luy 
+	"Oh, from where came this zombie ?!?" - Andreas Schuler
+	"What the f**k means MOV AL,BYTE [mapmasks3-1+BX] ?!?!?" - Philipp Luy 
+	"SHIT!! WOLFENSTEIN makes very nice blue-screens..." - Andreas Schuler
+	"WOLFENSTEIN 3D FOREVER !!!" - CHAOS Software
+
+
+
+	COMMING SOON:
+	-------------
+	OPERATION: Zusammenkunft FULL VERSION 
+	
+	Including:
+	
+	 - MAP
+	 - RAEM(c) - Randomized Aggression Enemy Mode
+	 - 10 BEAUTYFULL LEVELS
+	 - and many more suprises
+ 
+
+
+	CONTACT AND DISTRIBUTION:
+	-------------------------
+ 	E-Mail: chaos-software@overcmail.de
+	Page: HTTP://nexusofwar.hypermart.net
+
+
+
+	TECHNICAL SUPPORT:
+	------------------
+	If problems occupied with WIN32, play in MS-DOS mode.
+	If you find any errors or bugs, please send a e-mail to us.
+	Thx.
+	
+	
+
+	THANKS & GREETS:
+	----------------
+
+	Thanks goes to:
+
+	Flo for his great FloEdit and the source-code for the light-shading .
+	etrain271 for help on the bug in the 3th level .
+
+	Greets goes out to: 
+
+	Brian for nice support on his great WOLFENSTEIN 3D News site, keep on 
+	the good work !!! 
+	Tristan Van Putten for nice conservation over e-mail and the great GFX
+	i has used.
+
+	Greetings goes out, of course to the WOLFENSTEIN 3D COMMUNITY !!!
+
+
+	
+	
+
+		
+	
+
+		
+
+	
+     
+
+
