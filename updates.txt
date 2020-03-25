@@ -163,3 +163,4 @@
 -fixed BSE90 (hi ack! mooooooooo)
 -fixed Fraggerstein 2
 -uploaded Halls of Stonehenge maps readme
+-uploaded Nazi Operation demo
