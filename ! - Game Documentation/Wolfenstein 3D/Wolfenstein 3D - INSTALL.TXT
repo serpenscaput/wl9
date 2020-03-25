@@ -1,0 +1,49 @@
+ 
+ Thanks for purchasing and installing Wolfenstein 3D. Here are some
+ quick and helpful notes about the game.
+ 
+ 1) To run the game, enter simply WOLF3D from whatever game directory
+    you installed it to.  (By default, C:\APOGEE\WOLF3D)
+ 
+ 2) If you chose to install the disk based manual during
+    installation, you can see it by entering MANUAL from your game
+    directory.  If you did not choose that option, you can read it
+    from the root directory of the CD-ROM also by typing MANUAL.
+ 
+ 3) This game was written in 1992, and as such, the sound engine
+    doesn't recognize some newer sound cards.  If your Sound Blaster
+    IRQ is higher than 7, you will not get sounds (or will get
+    lockups).  There is no way around this at all, you must have a
+    lower IRQ to play the game.  Alternately, you could use the NOAL
+    and NOSB command line paramters to disable Wolfenstein 3D's use
+    of a sound card.
+ 
+ 4) If you run into problems, please consult the w3dhelp.exe file in
+    your game directory.  It has solutions to many common problems.
+    Your answer might be there.  In the meantime, you might try
+    running the game like this: WOLF3D NOEMS NOXMS.  That sometimes
+    solves lockups unrelated to sound code.
+ 
+ Please Read!
+ 
+ At a point during the game Wolfenstein-3D, you may see a sign in a
+ room that says, "Call Apogee - Say 'AARDWOLF'".  Please do not call.
+ The "AARDWOLF" sign and the maze it is located in were to be part of
+ a contest that Apogee was forced to cancel before it could be
+ announced, so you will save yourself some long-distance phone
+ charges if you do not call.
+ 
+ Also, you might find yourself locked inside a room in the maze once
+ you have found this sign (located in Episode 2, Level 8). The only
+ way out in this situation is to restore a saved game at a point
+ prior to where you were locked in.  Also, it is not possible to get
+ 100% of the secrets on this level.  For these reasons, Apogee
+ Software does not recommend that you try to complete the maze,
+ unless you want the challenge of mapping it yourself.  Apogee does
+ not provide support on completing the maze, so be sure to save your
+ game often if you try!
+ 
+ We apologize for any inconvenience that this may cause, and we hope
+ that you enjoy your game!
+ 
+ October 10, 1994
