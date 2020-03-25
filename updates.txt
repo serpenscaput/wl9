@@ -155,3 +155,4 @@
 -DOSMENU improvements
 -uploaded misc Haven Mapset files
 -uploaded old version of Valts' SOD project
+-uploaded Spear Revisited old version credits
