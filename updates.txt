@@ -164,4 +164,4 @@
 -fixed Fraggerstein 2
 -uploaded Halls of Stonehenge maps readme
 -uploaded Nazi Operation demo and editor files readme
--uploaded Operation Mutant Strike 2 DOS
+-uploaded Operation Mutant Strike 1, 2 DOS

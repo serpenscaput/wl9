@@ -1,0 +1,139 @@
+INTRODUCTION:
+
+"Operation: Mutant Strike" Prologue/Story (by Dumscheissekopf)
+
+
+"Operation Letzterschutz" has been foiled.  Through the bravery and heroics of BJ Blazkowicz, the Nazi plan to build a secret army in South America and develop the deadly weapon, the "gyropanzer" has fallen apart, and peace has returned to South America (well...as much as it was there to begin with).  BJ hopped in a jeep and returned to the United States for a much needed rest.
+
+...but sometimes things aren't that easy...
+
+Years later, reports begin to trickle in of strange activity in the region where the "Triumvirate" had been operating.  Sightings of zombies and strange creatures have gotten the locals spooked, and the area has become widely abandoned.  The reports find their way to the US government, who makes note of them and files them away.  "Monsters" and other such nonsense don't interest the OSS...they have other things to worry about.
+
+...if only they knew...
+
+BJ's destruction of the "gyropanzer" and Wolfgang Eisenkrieger, leader of the Triumvirate, was the end of "Operation: Letzterschutz", but by no means the end of the Nazis' diabolical schemes.  Eisenkreiger was a wise leader, and planned for everything, even his own death.  He refused to let his legacy end simply because he was defeated in battle, and had made preparations for an even more sinister plan to take effect if "Operation: Letzterschutz" were to fail.
+
+...and so it did...and so the new plan began...
+
+The US government should have known.  Shortly after BJ returned to the US, a "cleaner" team was sent to South America to assist the cleanup operation.  When they arrived, though, what they found was shocking.  All evidence of BJ's occupation in the area was still intact, but not a single body could be found in the area.  What had become of them all?  The US leaders assumed some sort of cleanup action had already taken place, and called it "case closed" so they could get on with other business.
+
+...little did they know it was a sign of what was to come...
+
+Hidden in a series of underground catacombs, an army of hideous mutants was preparing to invade the free world and avenge the destruction of the Triumvirate.  The new operation, code named "Operation: Mutant Strike", was being lead by the evil Nazi SS commander, Colonel Muller.  It was through his actions that the zombies had been spawned, and it would be under his leadership that the hideous death mutants would march across the face of South, and eventually, North America, unless they were stopped.
+
+Muller had been chosen for his task because of his natural cowardice.  Eisenkrieger knew that he would stay hidden during an allied invasion of the Triumvirate territory if ordered to do so, and at the first sign of BJ's presence, Muller had gone into hiding in the catacombs.  He wasn't on the list of known Nazi or South American targets, and BJ never had a reason to perform a search for him.  Surrounded by his trained SS guards, Muller remained there until he received either an "all clear" alert, or news of Eisenkrieger and the Triumvirate's destruction.
+
+...then the day of destruction came...
+
+The first phase of "Operation: Mutant Strike" was for Muller to contact a shaman known as "The Raven".  Muller performed this task, and The Raven quickly summoned some local natives to cart ever single body BJ  had left behind into the underground catacombs.  The Nazis were given proper buriel, but The Raven had other plans for the bodies of the South American soldiers, per the orders of Eisenkreiger.
+
+...and so it began...
+
+The Nazi scientists quickly went to work patching  up the corpses into "useable" condition.  Using a mixture of herbal concoctions and strange tribal magic, The Raven reanimated the bodies, much as Schabbs had done with his mutant serum.  This time, though, the mutants were much more intelligent, and able to be equipped with much more advanced weapons.  Muller and the Raven lured innocent residents into the catacombs to be used as target practice for their mutant army, and prepared for the day when they would seek revenge for the death of their leader, Eisenkreiger.
+
+...that day was drawing near...
+
+The South American officials who had reclaimed power since the elimination of El Presidente began to panic.  Reports of mutant sightings were growing more and more frequent.  Well aware of BJ's mission to stop the Triumvirate, the South American government began to blame the United States for the mutants, and demanded that something be done about it at once.  Tensions began to build between the US and South America.
+
+...something had to be done quickly...
+
+The US government still refused to take the reports seriously.  The end of WWII had signified the beginning of a long recovery process, and they had little or not interest in the affairs of remote South America.  Still, hoping to avoid any unnecessary unpleasantries, the government requested that a single agent be sent to perform an investigation.  There was too much demand for agents in the intelligence department as it was, and they could only spare one man.
+
+...or in this case, one woman...
+
+Enter special agent Jill Hunter.  Trained in the art of stealth, subterfuge, and the other finer points of intelligence gathering, as well as an expert shot with a rifle, agent Hunter was still considered expendable because of the sexist state of the agency at the time.  This made little sense, since it was her qualifications that got her the special recognition she needed to get the position in the first place, but it was of little consequence.  She was glad to accept the assignment, whether there was anything to it or not.
+
+After only a matter of days, with some help from the South American locals, agent Hunter was able to ascertain the location of the entrance to the catacombs from which the mutants had come.  There was definite evidence that something evil had been taking place in the underground passages.  Without any form of backup or outside assistance, Jill Hunter made her way into the dark, dank underground passages and cocked her rifle.  She could handle this mission, and she would handle it her way.  After all, she was afraid of no man...or monster...
+
+...and so it begins...
+
+
+POSSIBLE GLITCHES:
+
+There's not very many specific to this game, but here are a couple that might occur, and the best way to correct them.
+
+- the occasional crash of the game, caused by too many projectiles released by "hitler ghost" replacements. The best way to avoid this is to get rid of them before they spawn too many projectiles. This didn't happen very often when I was testing, but can occur on rare occasion when there is a lot of distance between you and the enemy spewing the projectiles, allowing more to be fired before the initial ones have hit a wall and vanished. 
+
+- sometimes with the animated sprites, some of them won't be animated. It's just because of the way they were done for the game, based over Pac Man ghosts, and there's nothing wrong with your PC. There was no rhyme or reason to which ones did this when when we were testing, but it won't affect gameplay. 
+
+- sometimes the sound cuts out when you face a mini boss or lots of enemies at the same time.  Go to the sound menu, select the no sound option, then reselect your sound source and return to your game.
+
+
+MISSION BRIEFING:
+
+Welcome, Agent Hunter...
+
+Sorry there isn't much information to go on.  Here's what's been learned so far about the situation.
+
+As you know, reports have indicated that Colonel Muller, a Nazi SS commander, managed to escape detection during BJ Blazkowicz's mission to stop the Nazis in South America.  In addition, it is suspected that a group of German scientists who were part of an organization called "Regenschirm Corporation", a secret biological weapons research company, came to South America with the Nazis, and the scientists are somehow assisting Muller.
+
+We know basically nothing about what Muller has been doing hidden away all this time, but we know he hasn't been idle, and that he's up to something.  Local reports have indicated that a well known shaman named "The Raven" is assisting Muller's scientists with some sort of experiments.  The Raven has no known technological expertise, so we can only assume it's some sort of bio-organic experimentation taking place.
+
+We'll be honest with you...this mission is not considered top priority.  Our analysts suspect this is nothing more than another effort by the Nazis to conduct some sort of reanimation experiments, thus all the missing bodies left over from BJ's mission.  We can't take the risk though, with Regenschirm Corporation involved, that some sort of biological weapon may be in production.  That's why we're sending you, and hoping that the investigation is quick and painless.
+
+There's no telling what sort of oposition you'll be facing, but there have been reports of SS soldiers sighted in the region of the catacombs.  We suspect they're Muller's personal body guards, so be careful...you know how pleasant the SS can be to deal with.  You will probably come across the scientists from Regenschirm Corporation as well, and we have no idea how they'll react to your presence.  Aside from SS, scientists, possibly The Raven, and Muller himself, we don't suspect you'll come across much of anything.  There's been no evidence to support the stories of zombies from what we've seen, and it's probably all local superstition.
+
+Your mission is simple:  find and apprehend Muller, and bring back any research notes and data you might come across to tell us what the Nazis are up to.  This mission should be simple for you, but remember...once you're inside the catacombs, you'll be on your own.  Good luck, Agent Hunter...we're counting on you...
+
+
+MISSION INFO:
+
+Unlike a lot of the other manuals for our projects, this one will be very brief.  You will have to discover pretty much everything about the game yourself, and from the moment you begin, you're on your own for ten whole levels.  At the end of certain levels, however, you will be rewarded with a bit of the story as it progresses, and, if you encountered any new enemies in the previous levels, you will receive information about these enemies as well.  Occasionally, there will be a gameplay tip included after the story, so pay careful attention to the information given to you...it might save your life (or save you a lot of frustration).
+
+
+CHANGES:
+
+There are a few noticeable changes in OMS, but for the most part, things have been kept as true to the original Wolfenstein formula as possible.  As was the goal with Majik Monkee's "Operation: Lezterschutz", OMS is meant to feel like a legitimate progression of the Wolfenstein story.  Here are the changes in the game:
+
+- the rifle (pistol replacement) is almost twice as strong as the pistol is in the original Wolfenstein, making it a useful weapon for dealing with individual enemies, even when you have plenty of ammo.
+
+- ammo limit has been set to a max of 250 bullets instead of 99.  This is useful, since you will face a lot of tough enemies, and won't always have time to run around picking up bullets after you start fighting.
+
+- some of the boss behavior etc has been changed.  The result is that there are several "mini boss" type enemies you may encounter throughout the game, who will drop various items.  The ghosts have been made stationary, and now serve another purpose in the game...
+
+- levels are now seamless.  There are only ten of them, but you don't have to  pick which episode you want to play.  This is good, since there are no levels after the first ten...trust me.  Oh...and there is no secret level...sorry, but secrets don't make friends... :)
+
+- there are some other changes, but they are classified in nature.  Sorry, but to reveal much more about them would be to spoil some surprises, and where's the fun in that?
+
+
+GENERAL TIPS:
+
+I'm not going to cover Wolfenstein basics.  If you've never played the original, you really ought to go play it first...at very least, the shareware version.  For those of you who have played the originals, though, you already know the basics, so this will just cover stuff that is a little different in OMS.  Here goes...
+
+- Keep your eyes open for enemies at all times.  You might be staring right at a potential threat and not know it.  You'll see what I mean after the first few minutes of the game.
+
+- Muller is a huge coward, and takes security very seriously.  As a result, you will almost never find keys just lying around for someone to pick up (if you do, assume some poor fool dropped it and didn't notice).  They will almost always be in the care of an enemy you must defeat, so don't run from battles...even the tough ones...nothing would suck more than to have an enemy with a key you really need wander off where you can't find them because you ran away from a fight.
+
+- There are a few different kinds of harmful objects that should be obvious to you.  If you are having trouble passing them without getting hurt, try facing away from them as you pass by.  This will reduce the chance that you get injured, or at very least, reduce the damage you take.
+
+- Expect the unexpected.  That's what this game is about...keeping things a surprise until you come across them.  You may have seen some of the enemies in other games before, but until you come across them, there's always the fear and the excitement of the unknown.  Plus, there's some stuff you've probably never had to fight before to look forward to.
+
+- Keep trying.  This mod is difficult, but by no means impossible.  There is always a way to overcome every obstacle.  If direct confrontation isn't working for you, try something else.  You can do it...it's all worth it to reach the final confrontation... :)
+
+
+KREDITS:
+
+HUGE thanks go out to everyone who helped with this project.  Even if you helped indirectly, your contributions are appreciated greatly!  Thanks to:
+
+ - Adam Biser - for code changes and for converting the music to the proper format for the game.  Also, thanks for the graphics you contributed from other games.  Couldn't have done it without you!
+
+- WSJ - because I borrowed the following graphics with either minor or no modifications:  rifle, SS and gray mutant from "Coming of the Storm", and the Venom soldier from "Operation: Heimzahlung".  Your graphics kick arse, and your mods are excellent!
+
+- ack - for designing levels 8 and 9, and doing an excellent job of making them fit the theme and feel of the rest of the game.  Your maps are some of the best of I've seen!
+
+- Majik Monkee - for the story idea, the rest of the graphics changes, the sounds, and for creating the map for level 7 when I'd gotten burned out on mapping.  Thanks also for doing the title screen and the VGAGRAPH artwork.
+
+- To CANONIR1 - for sending a modified machinegun pickup sprite with an ammo clip in it that fit the game better. Thanks for the contribution! 
+
+- myself - for everything else, including putting it all together, and coming up with the specifics for the code changes and story details. (and for my incredible modesty).
+
+- Squaresoft - for the kick-arse music I took from "Final Fantasy Tactics" that you will find in some of the levels, mostly near the end.
+
+- the original Wolfenstein crew (ID Software) for making the original Wolfenstein, releasing the source code, and for the graphics from the original game I kept and either changed very little or not at all.
+
+- Brian Lowe - for posting this on the Dome site, and for creating and maintaining the Dome to begin with.
+
+
+That's all, folks!  Enough reading!  Go play!  If you like this game, and want to shoot me an email, my address is:  samueliams@yahoo.com  Thanks for playing!
+
+- Dumscheissekopf-
