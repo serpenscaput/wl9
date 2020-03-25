@@ -1,0 +1,36 @@
+Herein are the files containing my First Wolfenstein 3-D level
+which is IMHO reasonable. Feel free to distribute it.
+
+Installation:
+
+1. Install a fresh copy of Wolf3D into a new directory.
+2. Copy AND replace the files in this package to the
+   directory you just created (which contains the
+   fresh copy).
+3. OPTIONAL - You might want to rename the WOLF3D.EXE file
+              to "ZW1-1.EXE" to avoid confusion.
+4. Run the normal EXE, start a new game and HAVE FUN!
+
+Note 1: My next release will be an entire episode with
+        this level as the first level.
+Note 2: I did not distribute this as a MapEdit Floor File,
+        because you would see the level overview when
+        importing it. IMNSHO that spoils the fun.
+Note 3: The name ZW1-1 means: Z=it's from me (Zeurkous),
+        1=is't Episode 1 (My first episode), and it's
+        only the first level (Level 1).
+
+Please send all (positive and negative) comments to:
+
+N-O-S-P-A-MWolfN-O-S-P-A-MZeurN-O-S-P-A-M@N-O-S-P-A-Mzonnet.nlN-O-S-P-A-M
+
+Have fun!
+
+--De Zeurkous
+
+(Remove all N-O-S-P-A-M texts to get my valid email.)
+
+07-04-2004 (NL)
+04/07/2004 (US)
+
+(Original download: http://home.zonnet.nl/wolfzeur/zw1-1.zip
