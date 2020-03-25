@@ -1,0 +1,17 @@
+Here's the editor files for Nazi Operation.
+
+I know it's not as big as seen Totengraeber or Spear Ressurection files be released.
+But I hope you will take a look in my maps, because my skills are getting better and better.
+
+This game was finished at December 29th, 2005.
+
+In this zip is also a debugmode parameter for the game. 
+
+TAB+G for Godmode.
+TAB+N for No-Clip mode.
+TAB+Z for Screenshot.
+
+And that's about it.
+
+Thomas Weiling
+03/18/06
