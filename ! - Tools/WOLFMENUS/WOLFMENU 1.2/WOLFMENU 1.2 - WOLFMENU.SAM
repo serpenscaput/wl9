@@ -1,0 +1,39 @@
+rem The first six items are the "patchable" games. If you don't want any of
+rem them to show up on the menu, just rem them out. The fields are column-
+rem dependent and are as follows: 1-3 are identifier letters (don't change 
+rem these, please), 5-34 are full directory paths to the games, 36-69 are
+rem the titles that appear on the main menu, and 71-120 are the command line
+rem parameters you want to run for each game. You can change the order
+rem of all of these items, and you can change the title fields too.
+
+WL0 C:\WOLFTEST\WOLF10             Wolfenstein 3-D shareware v1.0     WOLF3D -nowait -hard -tedlevel 0 -next
+WL1 C:\DOS\GAMES\WOLF\WOLFSHR      Wolfenstein 3-D shareware          WOLF3D -nowait -hard -tedlevel 0 -goobers
+WL6 C:\DOS\GAMES\WOLF\WOLFREG      Wolfenstein 3-D registered         WOLF3D -nowait -hard -tedlevel 0 -goobers
+SOD C:\DOS\GAMES\WOLF\SPEAR        Spear of Destiny                   SPEAR -nowait -hard -tedlevel 0 -debugmode
+SDM C:\DOS\GAMES\WOLF\SPEARDMO     Spear of Destiny demo              SOD -nowait -hard -tedlevel 0 -debugmode 
+BS6 D:\GAMES\BSTONE                Blake Stone registered             CALL BSTONE POWERBALL
+
+rem This line contains the DOS browser you want to use to look at 
+rem documentation files, followed by any command-line switches at column 36.
+
+TXT C:\DOS\GAMES\WOLF\BROWSER\LIST /M
+
+rem Titles on the main menu. Order can be changed, titles can be edited here.
+
+BAT                                Wolfenstein 3-D
+ADD                                Standalone Wolfenstein 3-D add-ons
+MEN                                WolfMenu Editor
+FAQ                                Frequently Asked Questions
+TIP                                Tips for the Player
+CHT                                Cheat keys
+WM1                                About WolfMenu
+WM2                                WolfMenu basics
+WM3                                Getting started
+WM4                                How to use the editor
+WM5                                Adding patches
+WM6                                Adding add-ons
+WM7                                Known problems 
+rem WM8                                Your file here (named WOLFMEN8.TXT)
+rem WM9                                Your file here (named WOLFMEN9.TXT)
+END                                Exit to DOS
+

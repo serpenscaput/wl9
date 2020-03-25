@@ -1,0 +1,44 @@
+
+WolfMenu upgrade to version 1.20   6/16/00   by Andy Nonymous
+
+New!  - Shareware v1.0 and Blake Stone registered patch swapping support 
+      - Command line editing in WOLFMENU.CFG (or can leave blank, which
+        defaults to enabling debug mode)
+      - Edited AUDIOT files can be associated with graphics patches
+
+The WMUPGD12.ZIP archive will upgrade your WOLFMENU setup to version 1.2
+by simply unZIPping it into your WOLFMENU folder. The following files are
+included:
+
+ ADDON.SAM       06-08-00  00:28                updated sample file
+ CHEAT.TXT       06-16-00  01:39                updated document
+ GRAPHICS.BS6    06-16-00  01:20                new file for Blake Stone
+ GRAPHICS.WL0    06-08-00  13:43                new file for shareware v1.0
+ LEVELS.BS6      06-15-00  02:48                new file for Blake Stone            
+ LEVELS.WL0      06-08-00  13:44                new file for shareware v1.0
+ WOLF.BAT        06-16-00  01:20                updated batch file              
+ WOLFMEN1.TXT    06-16-00  01:20                updated document
+ WOLFMEN3.TXT    06-16-00  01:25                updated document             
+ WOLFMENU.EXE    06-16-00  01:20                updated executable
+ WOLFMENU.SAM    06-16-00  01:20                updated sample file             
+
+None of your current configuration files will be overwritten, so until you
+start editing your WOLFMENU.CFG as shown in WOLFMENU.SAM, your setup will
+look and run exactly as before.
+
+Enjoy!
+Andy
+-----------------------------------------------------------------------------
+
+History :
+
+Version 1.0  12/10/99  Initial (limited) release.              
+Version 1.01  5/09/00  Fixed bug in browse of README2.TXT for addons
+Version 1.02  5/30/00  New read/write method (and format) for COLOR.CFG
+Version 1.10  6/02/00  Added VGAGRAPH support for graphics patches and
+                       now ignore ADDON.CFG entries beyond 80 spaces
+                       New read/write method (and format) for MENUFLAG
+Version 1.20  6/16/00  Added version 1.0 shareware support, Blake Stone
+                       (registered) patch support, AUDIOT support for 
+                       graphics patches, and custom command-line entries
+                       in WOLFMENU.CFG

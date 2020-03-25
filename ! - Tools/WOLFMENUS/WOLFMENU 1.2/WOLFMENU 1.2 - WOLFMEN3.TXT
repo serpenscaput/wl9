@@ -1,0 +1,60 @@
+   
+   WolfMenu comes with the following files:
+
+   WOLF.BAT       <- batch file that launches the menu and starts the games
+   WOLFMENU.EXE   <- executable that provides the menu interface
+   MENUFLAG.WLF   <- special information file used between the above two
+   COLOR.CFG      <- color and border data for WolfMenu
+   WOLFMENU.CFG   <- configuration data for WolfMenu
+   ADDON.CFG      <- configuration data for add-ons installed
+   GRAPHICS.???   <- graphics patch data for WL1, WL6, SOD, SDM, WL0, and BS6
+   LEVELS.???     <- levels patch data for WL1, WL6, SOD, SDM, WL0, and BS6
+
+   The last four are in text format for easy editing, and a sample of each is
+included with the extension .SAM.
+   
+   There are also various documentation files, all accessible from WolfMenu.
+
+   The first step in setting up is editing the WOLFMENU.CFG file. Use MS-DOS
+EDIT.COM or any ASCII (text) editor. The fields are column-dependent, with   
+the following format:
+
+1-3 5-34                           36-69
+ext full DOS directory path        title that appears on main menu
+
+WL1 C:\WOLF\WOLFSHR                Wolfenstein 3-D shareware 
+WL6 C:\WOLF\WOLFREG                Wolfenstein 3-D registered
+SOD C:\WOLF\SPEAR                  Spear of Destiny                        
+SDM C:\WOLF\SPEARDMO               Spear of Destiny demo                            
+   
+   The order of the entries is the display order. The extension (ext) in 
+columns 1-3 must match the type of game or function indicated in columns 5-34. 
+36-69 are the titles that appear on the display. The directories in which the 
+games reside can be anywhere on your system, so just edit this file; you don't
+have to move your games or rename your directories!
+  
+   You can specify a DOS file browser for WolfMenu to use. I recommend
+Vernon Buerg's LIST (www.buerg.com) because it can be mouse-enabled with
+the /m switch and it can be color-configured with the F5-F8 keys, followed
+by Alt+C to save the color settings. With the right colors, it provides a
+seamless transition to and from WolfMenu.
+
+1-3 5-34                           36-69
+ext browser command                browser parameters
+
+TXT E:\SYSTEM\LIST.COM             /M  
+
+   If your browser is in your PATH, you don't need a full filespec, but it
+might make things a *teeny* bit faster, as DOS doesn't need to search the
+PATH for the command. If you still want to use it, the shorter form is:
+
+TXT LIST                           /M                                       
+
+   Any items you don't want can be rem'ed out so they won't display on the
+menu. Like this:
+
+rem SDM C:\WOLF\SPEARDMO 
+
+   The remaining items are mostly text files in the WOLFMENU directory,
+so they have no file spec. BAT and END are the top title on the main menu
+(disabled for beta) and the exit to DOS function, respectively.

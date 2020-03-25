@@ -1,0 +1,31 @@
+                After starting the game with WOLF.bat:
+ 
+      For basic game controls, check out "READ THIS!" under Options 
+
+                      Then after Get Psyched:
+
+   Press M+I+L simultaneously to give you both keys, maximum health, and
+           maximum ammo.  This will also reset your score to zero.  
+
+Ver 1.4 debug mode : press LEFT SHIFT+LEFT ALT+BACKSPACE simultaneously
+Ver 1.0 debug mode : press TAB+LEFT CTL+ENTER simultaneously
+   
+       Then:
+             TAB+G - GOD MODE !!!! (health never decreases)
+             TAB+I - add 100,000 points to score, add 50 ammo, upgrade weapon
+             TAB+W - warp to any level
+             TAB+E - end current level (instant elevator to next level)
+             TAB+N - turn clipping off (SoD and v1.0 only)
+             TAB+C - statistics
+             TAB+B - change border color
+             TAB+S - slow motion
+             TAB+M - display memory usage
+             TAB+F - coordinates
+             TAB+T - shows graphic images (use right, left arrows to scroll)
+             TAB+H - decrease health level
+             TAB+Q - immediately quit 
+
+Note: WolfMenu automatically enables debug mode for Wolfenstein 3-D and 
+      Spear of Destiny. Some of the add-ons with changed EXE files may 
+      use different cheat keys or have different debug command-line parameters
+      (specify these in ADDON.CFG) or may have debug mode disabled entirely.

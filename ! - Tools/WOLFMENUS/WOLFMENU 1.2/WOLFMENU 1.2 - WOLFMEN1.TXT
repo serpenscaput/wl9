@@ -1,0 +1,27 @@
+
+   WolfMenu is a DOS-based, easy-to-use menu system for Wolfenstein 3-D.
+Some features:
+
+   - supports shareware and registered Wolfenstein 3-D, Spear of Destiny
+     and its 2-level demo, and Blake Stone : Aliens of Gold registered.
+     All patches for a game can be stored in that game's directory.
+
+   - swaps up to 60 maps/levels and 60 graphics patches for each of the
+     above games. Graphics patches can now include VGAHEAD/VGAGRAPH and
+     AUDIOHED/AUDIOT files.
+
+   - supports up to 60 standalone add-ons/TC's such as Project Totengraeber,
+     Beyond Wolfenstein, Chokage, Operation: Panzerschiff, etc.
+
+   - keeps saved games associated with their maps/levels, so they can be
+     re-loaded whenever the same levels are selected.
+
+   - browses documentation for all of your games using the DOS browser of
+     your choice (I recommend Vernon Buerg's LIST, at www.buerg.com).
+
+   - is user-configurable: add, delete, move and edit the titles that appear
+     on the menus, change the menu's colors and borders.
+
+   - allows use of both the mouse and the keyboard.
+
+   - user can define their own command line (default is debugmode enabled).
