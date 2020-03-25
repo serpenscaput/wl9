@@ -126,4 +126,5 @@
 -major False Spear update
 -uploaded Totenkopf 1.0
 -uploaded Last Mission SDL
--Community Map Pack update
+-Community Map Pack update, Six Depths of Terrorism version 1.2
+-WolfDX updates and new versions
