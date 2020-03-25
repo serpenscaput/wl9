@@ -1,0 +1,11 @@
+
+   The mouse does not work correctly when a Windows GUI is active, i.e. either
+in a DOS prompt or running WolfMenu from a desktop shortcut. This occurs in
+both Windows 95 and 98. The right-click exits all the way out of WolfMenu, 
+and the double-click seems to "bleed through" a bit, too.
+   
+   The keyboard works fine under any circumstance.
+   
+   So, either keep to the keyboard if you're a Windows user, or just say no
+to Windows (reboot in DOS mode or use real DOS), and the mouse will work
+correctly.

@@ -1,0 +1,27 @@
+
+   The addons are specified in the ADDON.CFG file. The purpose of ADDON.CFG
+is similar to the GRAPHICS.xxx and LEVELS.xxx files, but the format is 
+different, since each of the entries can be in its own directory rather than 
+all entries being in one. A sample file ADDON.SAM is included.
+The format:
+
+1-23                    25-47                   49-80
+name that appears       command with switches   full directory spec
+
+Ultimate Wolfenstein    wolf3d -goobers         C:\WOLF\ULTIMATE
+Project Totengraeber    toten                   C:\WOLF\TOTEN1
+Chokage                 call chokage            C:\WOLF\CHOKAGE
+
+   NOTE: if the command is a batch file (.bat extension) you must precede
+the command with call (see Chokage above). Otherwise, you will be dropped 
+at a DOS prompt in the particular add-on's directory when you leave the game.
+
+   Also, the documentation files must be named README.TXT and README2.TXT for
+the browser to find them.
+
+   BTW, you needn't limit yourself to Wolfenstein add-ons or even games. You
+can run any DOS application from this part of WolfMenu.
+
+   Like the patch config files, all entries must be valid: no blanks, remarks, 
+or miscellaneous stuff in ADDON.CFG. So when you delete an entry, you must
+remove it completely, not just rem it out.

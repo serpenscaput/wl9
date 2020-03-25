@@ -1,0 +1,16 @@
+
+   The WolfMenu Editor is easy and fun to use. Just select it from the main 
+menu and you can change the color of the menu body, the highlight field, 
+the border around the menu, and the type of border. Enter, space, or double-
+click the mouse on an entry, and the new appearance comes up immediately for
+your perusal.
+
+   The settings you choose will only be saved if you select the option to
+save the settings. A message will appear that the settings have been saved
+in COLOR.CFG to confirm this. Otherwise, when you exit the Editor, the 
+original colors (which you entered the Editor with) will be restored.
+
+   Tip: the most conventional borders are 1, 2, 3, 4, 176, 177, 178, 219,
+and maybe 255, but feel free to experiment! 
+
+    

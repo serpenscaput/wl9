@@ -1,0 +1,20 @@
+   
+   To start WolfMenu, just type WOLF at the DOS prompt and hit enter.
+
+   Within WolfMenu move the highlighted area around with the arrow keys
+or a click of the mouse to where you want the highlight to move. Hitting
+enter or space or double-clicking the mouse will select the highlighted 
+entry. The escape key, q, or a right click of the mouse will exit any menu 
+one level back. On some menus there is also a highlightable entry to return 
+to the main menu or exit to DOS. 
+
+   Entering a ? key (or / key) from a patch or add-on title will bring up 
+the documentation for that item. If a second document file exists, it will 
+come up after the first is exited.
+ 
+   The F1 key brings up a quick help message to help out if you forget any
+of this.
+
+   On the patch selection menus, the space key will select without exiting
+the menu, whereas the enter key or double-clicking the mouse will select and
+exit to the play menu.
