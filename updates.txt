@@ -161,3 +161,4 @@
 -uploaded Auferstehung earlier beta
 -uploaded Blake Stone AOGX
 -fixed BSE90 (hi ack! mooooooooo)
+-fixed Fraggerstein 2
