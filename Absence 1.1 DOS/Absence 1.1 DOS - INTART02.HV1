@@ -1,0 +1,35 @@
+^P
+^C02 LEVEL 2 - Alpha Labs 1
+
+^C01 Briefing:
+^C04 Hmm.....looks like these little drones are attacking humans now. They seem to have slaughtered a lot of scientists in the "entrance hall". The weird thing about this is that they don't seem to attack the infected people, like the security guards. Well, at least you managed to get into the lab complex in one piece. Okay, you're now in the Alpha Labs. As far as we know, these labs were concerned with implant technology. You're currently in Sector 1 and here you'll find the administration area
+
+^P
+^C02 LEVEL 2 - Alpha Labs 1
+
+^C04 for the rest of the Alpha Labs. Try to get to Sector 2 of the Alpha Labs. There you'll surely find more information about the implant technology, and maybe even some information about the current situation here. Now move it, soldier!
+
+^C01 Primary objective:
+^C04 - Get to the Alpha Labs 2
+
+^C01 Secondary objective:
+^C04 - Try to find information about the experiments and the current situation
+
+^P
+^C02 GENERAL INFORMATION ABOUT THIS AREA
+
+^C04 The Alpha Labs Sector 1 contains offices only and is responsible for administering the experiments in the lower Alpha Labs.
+
+^P
+^C02 BESTIARY: ^C01 Drones
+
+^G36,16,153
+^C04 The drones were the first series of robots in this complex and were primarily created to do the dirty work in the complex, like repairing broken cables. Their attacks are rather harmless, but if a group of them is attacking you, you better run!
+
+^P
+^C02 BESTIARY: ^C01 Zombie security guards
+
+^G36,16,154
+^C04 These poor people were once humans, but due to the failure of a virus experiment and a leak in the ventilation system, they mutated into brainless humans that only want to shoot people for no known reason.
+
+^E

@@ -1,0 +1,29 @@
+^P
+^C02 LEVEL 11 - Delta Labs 1
+
+^C01 Briefing:
+^C04 That was out of the blue! We didn't know that such a creature was being developed. Well, at least you killed it and we can forget about it. Okay, back to your mission. You're now in Delta Labs Sector 1, one of the most advanced research facilities in the complex. We don't know much about the experiments in the Delta Labs, because here we gave the scientists the freedom to conduct research they didn't have to tell us about until it was completed. Just try to make it to Delta
+
+^P
+^C02 LEVEL 11 - Delta Labs 1
+
+^C04 Labs Sector 2 and if you can, find some information about these experiments.
+
+^C01 Primary objective:
+^C04 - Get to the Delta Labs 2
+
+^C01 Secondary objective:
+^C04 - Find information about the experiments in the Delta Labs
+
+^P
+^C02 GENERAL INFORMATION ABOUT THIS AREA
+
+^C04 The Delta Labs Sector 1 primarily works on testing the creatures that were invented in other labs. The testing is designed to ensure that the creatures are 100% effective.
+
+^P
+^C02 BESTIARY: ^C01 Ogre
+
+^G36,16,160
+^C04 He's the second attempt to create a cyborg from scratch, but in this case the scientists were disappointed with the result and locked the creature away. After all the humans in the complex were either killed or changed into zombies, the complex's electricity supply was cut and the creature could flee. Not only that, it wanted revenge!
+
+^E

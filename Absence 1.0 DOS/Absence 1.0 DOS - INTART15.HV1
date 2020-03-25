@@ -1,0 +1,29 @@
+^P
+^C02 LEVEL 15 - Caverns Area
+
+^C01 Briefing:
+^C04 Alright, we know that some scientists in Delta Labs Sector 4 have sabotaged the cyborg known as the "Cybernator". We also know that Professor Tom Baker had become paranoid. On top of that it seems that there was a cave-in in Sector 4, but at least you found an alternate route. A new lab was meant to have been constructed in these caverns, but this lab will never be finished. We know there's an elevator to the Reactor Area at the end of these caverns. Make your way through
+
+^P
+^C02 LEVEL 15 - Caverns Area
+
+^C04 the caverns towards the Reactor Area. Hopefully there won't be any more surprises! By the way, there might be some mineworkers still stranded in the Caverns Area. If you find any, take them with you.
+
+^C01 Primary objective:
+^C04 - Get to the Reactor Area
+
+^C01 Secondary objective:
+^C04 - Rescue the mineworkers
+
+^P
+^C02 GENERAL INFORMATION ABOUT THIS AREA
+
+^C04 The caverns area was meant to have become the Gamma Labs. This area connects the Delta Labs with the Reactor Area.
+
+^P
+^C02 BESTIARY: ^C01 Cybernator
+
+^G36,16,162
+^C04 Once he was one of the leading security guards in the complex, but what he really wanted was to become the first new generation cyborg. He is very mobile due to his tank-like locomotion, and thanks to his special rocket launcher and steel claw he is also very dangerous.
+
+^E
