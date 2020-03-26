@@ -1,0 +1,487 @@
+Corridor 7: Alien Invasion Manual
+
+
+COMMANDING GENERAL'S WARNING: Corridor 7 causes addiction, family irritation, late night insomnia and may complicate marriages. Play with extreme caution!
+
+
+
+TABLE OF CONTENTS
+
+REQUIREMENTS................................		2
+INSTALLING THE GAME......................	2
+BEFORE YOU START PLAYING..........	3
+INTRODUCTIONS................................	4
+MAIN MENU.......................................	7
+MOVEMENT.......................................		10
+GAME PLAY......................................		11
+KEY COMMANDS SUMMARY.............	15
+MISSION BRIEFING............................	16
+MILITARY WEAPONS.........................	17
+ALIEN WEAPONS..............................	18
+IMPORTANT ITEMS............................	19
+ALIEN INTRUDERS.............................	21
+TROUBLE SHOOTING.........................	23
+CREDITS............................................		25
+HINTBOOK.........................................		25
+
+
+REQUIREMENTS
+
+To play Corridor 7 you will need to have the following equipment:
+
+	* A 386-16mhz or higher IBM or fully compatible system with 590,000 bytes of available conventional memory and 2 MB of toral RAM
+
+	* A VGA or better monitor.
+
+	* A hard disk with 8 MB-free.
+
+	* MS-DOS 5.0 or higher.
+
+	* Supports the AdLib, SoundBlaster, SoundBlaster Pro, and all SoundBlaster Compatible cards.
+		Note: Please make sure that your sound card is set to IRQ 7
+
+	* Joystick or Mouse recommended but not required.
+
+INSTALLING CORRIDOR 7
+
+1.	Turn the computer on.
+
+2.	Put Corridor 7 Disk #1 into the appropriate drive and type the letter of that drive, followed by a colon.
+		For example: B:
+		Press ENTER
+
+4.	Type the word INSTALL. Press ENTER.
+
+5.	Follow the on-screen step-by-step instructions.
+
+6.	At the end of installation, in the setup procedure, choose the correct sound device for your system. If your particular sound card is not listed, use it's compatible card.
+
+7.	Select the appropriate control of keyboard, mouse, or joystick.
+
+NOTE: To make configureation changes, type SETUP at the CORR7 directory before beginning the game.
+
+BEFORE YOU START PLAYING...
+
+Before you start playing, you must have enough memory available. If you have DOS 5 or higher, make sure that the memory manager program is running or you are using another type of memory manager. Please 
+do not try to run this program under Windows through the DOS icon.
+
+	After installation, Follow these steps to start the game:
+
+1.	Enter the appropriate directory at the C: prompt by typing:
+	CD\CORR7 followed by the ENTER key.
+
+2.	Type in RUN and press the ENTER key to start the game.
+
+
+INTRODUCTION
+
+	Earth's fighting days were believed to be over. Most of America's military funds were being directed toward research and space exploration. In 2012, Dr. Donald Fox, a U.S. exobiologist on one of the 
+first manned missions to Mars, returned with a metallic object taken from an area near one of Mars' curious, face-like formations. Scientists were elated, but the government, ever so cautions, 
+removed the artifact to an underground research facility called Delta Base. Delta Base, a small weapons development and research center located in the Nevada desert, is the only facility of its kind 
+able to test such an object. The object was taken to the lowest level, a maze-likeseries of hallways and test chambers, to the laboratory known as Corridor 7.
+
+	The age of the object was impossible to determine. Most scientists believed it to be ancient, but it showed no traces of its age and its surface could not be sampled even at the molecular level. The 
+standard battery of tests were issued. In the back of the chamber the object was subjected to varying levels and types of radiating. During the Gamma phase of testing, the object began to change.
+
+The Invasion Begins....
+
+	Most of the lab in Corridor 7 was destroyed. The object changed and grew in size as personel in the upper levels watched their monitors in astonishment. It began to resemble a ball of lightning.
+
+	The base was put on alert. The obnect seemed to power itself, and no one knew how to shut it down. Nor did they have the time. From inside the object something emerged.. short, humanoid in form, but 
+clearly not human.. and carrying what was unmistakably a weapon in one of its arms.
+
+	Alien invaders rushed through the object's opening and seized the base. The artifact was a trap planted thousands of years earlier by the aliens to infor them of presence of advanced races. They 
+launched the objects in small foldspace cruisers programmed to seek hospitable solar systems, and in Earth's case, the gate device was planted on Mars. When Earh's fledging culture reached the 
+spacefaring stage, discovery was inevitable.
+
+	The aliens wiped out the base personnel. Currently, alien technicians are almost finished installing a device that creates an impenetrable shield around the base, allowing them time to move in more 
+troops, assess the environment, and change it to their needs. While Earth has developed some advanced weapons, they pale next to the aliens' technology. Conquest looms ahead. They wil destroy and 
+enslave the populace and plunder our resources.
+
+Your Mission
+
+	Headquarters does not realize what happened inside the base. You are an experienced special forces marine given immediate orders to enter the research facility, proceed to the 30th floor, to 
+Corridor 7, assess the situation and regain communication with the outside world.
+
+	After a brief helicopter trip, you're face-to-face with Delta Base. Communicating with HQ, you are informed that a large energy force has been detected underground, too large to be man mage. Just 
+then, your communications are cut as a blue haze surrounds the facility. The air becomes thich and your lungs feel the pressure. Your only option is to enter the base, preceed to the last level, and 
+destroy the object.
+
+Against the Odds
+
+	Several factors are working in your favor. First, you have the element of surprise: they don't know you're there. Second, they believe they've killed everyone and are now budy modifying the base to 
+suit their needs. They have posted sentries around the uper levels as safeguards against any possible survivors, so they are not worried about someone as outnumbered and insignificant as yourself. 
+They further you descend, more signs of alien habitation are present; walls have been modified to resemble the alien's home environment; aliens weapons and munitions are also present.
+
+	While the aliens vary in size, shape and color, they all have one element in common; they are geared for war. Some aliens may look deceiving, but they are armed with weapons beyond out capabilities, 
+moving with speed and in numbers. To add to the tension, some aliens are invisible. Only your infrared vision goggles can aid you in their detection. If you are smart, you will learn their habits, 
+adapt and overcome their strengths. Out-gunned and alone, can you survive the slaughter and repel the aliens with only pure courage? Your life is on the line as the Country fears what they do not 
+know. Only you can decide out fate. Good luck..
+
+
+MAIN MENU
+
+1. NEW MISSION
+This selection will allow you to begin a new game. Select the level of difficulty on this screen by the appropriate rank:
+
+Corporal
+This is the easiest level. It contains the fewest aliens, body armor, and a full map. Recommended for first-time gamers.
+
+Second Lieutenant
+This level is a little more challenging. There is no body armor but a map will be given. Recommended for non-arcade players.
+
+Captain
+This is the best level of play. The map will only show a partial view until the floor map is found. This level will pose a challenge to most gamers.
+
+Major
+This is the toughest level, recommended for those with patience and a desire to succeed against the odds. It will contain the most number of aliens and they will be harder to kill. We are not liable for 
+any mental or physical problems that arise from playing this level.
+
+2. Adjust Audio/Visual
+This selection will allow you to adjust your sound card volume and your visual display. The following changes are possible:
+
+	SCREEN SIZE: The largest screen will give you the best visual effects. For slower machines reduce the screen for a faster response.
+	NOTE: The status bar in the maximum screen size is different than any other mode. If you wish for a self explanatory status bar, choose any level other than the 	maximum visual display.
+
+	MUSIC VOLUME: This will adjust your background music level.
+
+	DIGITIZED VOLUME: This setting will only adjust SoundBlaster PRo cards for any digitized sounds.
+
+3. Retrieve Mission
+This will allow you to play previously saved games.
+
+4. Store Mission
+This will allow you to save up to ten games. Select a slot and press the ENTER key. Type in a file name and press ENTER.
+
+NOTE: An auto save feature has been included. This will automatically save the last level completed and allow you to begin at the new floor in the elevator.
+
+5. Resume Current Mission
+This function will allow you to continue only if a game was started and paused.
+
+6. Abort Current Mission
+This will quit the current game in progress.
+
+7. High Score
+The score board will keep track of your best games.
+
+8. Exit Building
+This will allow you to quit Corridor 7 and return to a DOS prompt.
+
+
+MOVEMENT
+
+You will start the game in front of the Delta Base entrance. Follow the steps below to proceed.
+
+MOVEMENT		- Use the appropriate ARROW keys. The RIGHT MOUSE button will move you forward.
+
+RUN			- Hold down the RIGHT SHIFT key with the UP ARROW key.
+
+SLIDE			- Hold the ALT key and the LEFT or RIGHT ARROW key.
+
+USE WEAPON		- Choose the appropriate Numeric key:
+				1. 	Taser
+				2. 	M-24 CAW
+				3.	M-343 Tribarrel Powerblaster
+				4.	Alien Dual Blaster
+				5.	Plasma Rifle
+
+FIRE WEAPON		- Press the CTRL key or the LEFT MOUSE button for a shot or hold it down for a burst.
+
+OPEN DOORS/		- Press the SPACE BAR to open a door. If the door has a red or blue strip above it, the corresponding access card color will be needed to open it.
+SECRET DOORS
+
+ELEVATOR		- An elevator will allow you to go to the next level when the floor is secured. The Alien counter must be at zero if you are playing the Captain or 			 Major levels of difficulty.
+
+The screen shot above shows a typical scene within the depths of Delta Base. The following numbered items will provide you with a description of how to use the information on your display.
+
+1. HEALTH LEVEL INDICATOR
+This line informs you of your remaining health. When it is close to zero, locate some medic kits or health chambers to boost you back to normal. Like actual life, you are only given one chance with no 
+repeats... watch this status bar!
+
+2. ARMOR STRENGTH RATING
+This line denotes whether or not your character is wearing any type of armor to aid you in your fight. Armor will not keep you from taking damage. Instead, any damage taken is divided up between the 
+armor and your health. The aliens are using some power energy weapons (for which the armor was not designed) so it will only reduce the damage, not protect you fully.
+
+3. AMMO REMAINING
+This bar will display the amount of ammo remaining in you M-24 or M-343 in terms of rounds. The alien weapons use energy and will deplete accordingly in terms of a percentage. When the percentage is at 
+zero only an alien charge pack will enable it again. Only 200 rounds can be carried at a time without aid from the extra items.
+
+4. PROXIMITY MINES
+You may place a mine in front of you by pressing the M key. They can easily kill any man and most of the aliens. Place these as traps to cover your back when proceeding into a level and if you're lucky 
+they will take out more than one alien.
+
+5. VISOR ENERGY REMAINING
+Your helmet contains a visor with three different settings. To activate the settings use the ENTER key. Each time it is pressed it will switch into one of three different modes:
+	
+	1. Normal Vision - This will take up no energy and should be used throughout most of the game.
+	
+	2. Night Vision - This will turn the surroundings into a bright green color. This mode is good to see down long corridors in which the normal setting will not help. 	While this setting is on, your 
+energy level will deplete.
+
+
+	3. Infrared Vision - This mode will detect heat sources. There are various laser beams throughout the base that can only be detected in this mode. They will inflict a 	small amount of damage if not 
+avoided. Also, some aliens are invisible and can only be seen in this mode by the heat they produce. Use your energy wisely. You 	might need it later.
+
+Your visor energy level will deplete whenever you are in modes two or three. You may replenish the energy with visor batteries located throughout the base.
+
+6. PASS CARDS
+This will show whether or not you have the red or the blue pass cards. On each level there are computers that can be accessed to obtain a security clearance. Once you are given this color clearance, the 
+card will open up the corresponding colored doors for that level only. Most clearance codes can be obtained within the security rooms.
+
+7. WEAPON IN HAND
+This shows the current weapon that is ready to fire. In the beginning you are given the standard issue Taser and a M-24 C.A.W (Close Assault Weapon) with 100 rounds of ammunition. As you progress there 
+are more weapons to obtain. To change weapons, type in the appropriate number from 1 to 5. Press the CTRL key to fire and hold it down for automatic fire.
+
+8. ALIENS REMAINING
+This displays the number of aliens left on the current floor. All aliens must be eliminated to secure the floor and proceed to the next level (only if you are playing captain or major levels).
+
+9. FLOOR LEVEL
+This is the floor you are currently on. Proceed to the 30th level, locate Corridor 7 and destroy the alien object to close the gate and end the invasion.
+
+10. SCORE
+This is your score display which changes for every alien you kill. Any secret passages you locate will be added to your score at the end of each level as a bonus.
+
+11. PROXIMITY MAP
+If the TAB key is pressed, an area map will be displayed for a limited range only. When you pick up a flor map icon, the entire map will be given. The following Colors are represented:
+	
+	LIGHT BLUE - Your character's location
+	YELLOW (flashing) - Displays the moving aliens.
+	BLUE (flashing) - Proximity mine's location.
+
+A floor map icon is located on every level.
+
+NOTE: This map is essentially a motion detector. It will only show the aliens that are moving. Be careful, some aliens can disguise themselves as ordinary objects. Hidden sections are not shown as well 
+(for security reasons).
+
+
+KEY COMMANDS SUMMARY
+
+WEAPON SELECTION
+
+KEY	ITEM
+ 1	Taser
+ 2	M-24 C.A.W
+ 3	M-343 Tribarrel Power Blaster
+ 4	Alien Dual Blaster
+ 5	Plasma Rifle
+
+M key			-Drop proximity mines
+MOVEMENT		-Use the appropriate keys
+RIGHT SHIFT key	-Quick action (with other keys)
+ALT key		-Slide
+CTRL key		-Fire
+SPACE BAR		-Open doors, operate computer, use medic pack, visor charge and search for secret doors.
+TAB key		-Activate proximity map
+S key			-Toggle score on/off
+I key			-Toggle items/remaining aliens/level on/off
+ENTER key		-Toggle visor settings:
+			 normal/night vision/infrared
+ESC			-Main Menu
+PAUSE			-Pause game
+
+F2	-Save mission			F6		-Control toggle
+F3	-Load mission			F7		-End Mission
+F4	-Sound toggle			F8		-Auto-quick save
+F5	-Music toggle			F9		-Quick load
+
+MOUSE COMMANDS
+LEFT mouse button					-Fires
+RIGHT mouse button					-Moves forward
+
+
+TOP SECRET
+MISSION BRIEFING
+
+TO:  SPECIAL FORCES AGENT
+FR:  COMMAND HQ ; S-4 INTELLIGENCE
+
+SUBJ:  BRIEFING INFORMATION
+
+
+
+
+THE FOLLOWING PAGES WILL GIVE A BRIEF DESCRIPTION OF THE EQUIPMENT AVAILABLE TO YOU AND THE ALIENS THAT WILL BE ENCOUNTERED WITHING DELTA BASE.
+
+
+
+MILITARY WEAPONS
+
+The following weapons can be used within the depths of Delta Base by selecting the appropriate key.
+
+Taser
+Use the NUMBER 1 key to select this weapon. This is a standard sidearm for all security specialists. It is capable of stunning an opponent and can be deadly. It has unlimited energy but a slow rate of 
+fire.
+
+M-24 Close Assault Weapon (C.A.W.)
+This weapon is standard for close combat purposes and is activated by pressing the NUMBER 2 key. It fires 7mm explosive tipped, caseless rounds that will eliminate any opponent. It can hold 200 rounds 
+and can fire in full automatic mode by holding down the CTRL key or the LEFT mouse button. This is your best weapon available at the beginning of the game.
+
+M-343 Tribarrel Power Blaster
+This weapon is still under development, but available for use when found by pressing the NUMBER 3 key. If fires 2 CM phosphorus slugs which cause tremendous amounts of damage.
+
+Proximity Mines
+These can be found within the base and cause vast amounts of damage. Press the M key to drop and activate a mine. Anything that passes near it will be destroyed or severly damaged.
+
+
+ALIEN WEAPONS
+
+The weapons listed below are left behind by some of the aliens. They only use energy packs, which can also be picked up. They will inflict much more damage than the human weapons.
+
+Dual Blaster
+This alien weapon is small for the damage it can inflict. Use the NUMBER 4 key to activate it.
+
+Plasma Rifle
+This is the top of the line alien weapon. Once found, you may select it by pressing the NUMBER 5 key. The rate of fire is slower than the Dual Blaster, but it inflicts more damage.
+
+Each time an alien weapon is fired, the energy level will drain 50%, then it will slowly recharge. To avoid full energy drain, fire in short bursts. Two points of energy will dissipate after each press 
+of the CTRL key or Left mouse button.
+
+
+IMPORTANT ITEMS
+
+THE FOLLOWING ITEMS WILL AID YOU IN YOUR MISSION. THEY ARE AS FOLLOWS:
+
+PROXIMITY MAP
+WHEN THE [TAB] KEY IS PRESSED, A FULL MAP WILL APPEAR IN THE RIGHT CORMER OF THE SCREEN.
+	YELLOW DOT - ENEMY LIFE FORCE
+	LIGHT BLUE DOT - YOUR POSITION
+	BLUE DOT - ACTIVATED PROXIMITY MINE
+
+SECURITY COMPUTERS
+FOUND THROUGHOUT EACH LEVEL. PRESS THE [SPACE BAR] TO ACCESS A SECURITY CODE. ALARM WILL DOUND IF DENIED.
+	RED & BLUE ACCESS - ALLOWS ENTRY INTO APPROPRIATE AREAS.
+NOTE: ACCESS CARD WILL ONLY WORK FOR THAT PARTICULAR LEVEL.
+
+MEDIC PACKS
+FOUND THROUGHOUT EACH LEVEL. PRESS THE [SPACE BAR] TO LIFT DOOR. [SPACE BAR] AGAIN TO USE KIT.
+NOTE: THIS WILL INCREASE HEALTH BY 25%
+
+HEALTH CHAMBERS
+FOUND SPARINGLY THROUGHOUT BASE. EXPERIMENTAL REVIVING CHAMBERS FOR NON-MORTAL WOUNDS. ENTER THROUGH DOOR THEN PRESS [SPACE BAR] TO ACTIVATE.
+NOTE: CAN RESTORE UP TO 100% OF HEALTH DEPENDING ON ENERGY LEVEL REMAINING IN THE CHAMBER BEFORE USE.
+
+ADRENALINE BOOSE
+PURE ADRENALINE THAT WILL INCREASE YOUR HEALTH BY 300%.
+
+INVULNERABILITY SPHERE
+THIS ITEM WILL MAKE YOUR CHARACTER INVULNERABLE FOR A LIMITED AMOUNT OF TIME.
+
+BODY ARMOR
+PUTTING THIS ITEM ON WILL GIVE YOUR CHARACTER A 200% ARMOR RATING.
+NOTE: CAN BE USED IN MULTIPLES
+
+AMMUNITION BAYS
+PLACED THROUGHOUT EACH LEVEL. CONTAINS AMMO FOR THE M-24 & M-343 IN 50 ROUND CLIPS.
+NOTE: BAYS ONLY CONTAIN 1 CLIP BUT THERE ARE USUALLY MORE THAN ONE PER LEVEL.
+
+AMMO PACK
+CAN HOLD 500 ROUNDS OF ADDITIONAL AMMO (NOT INCLUDED) AND TWO MAY BE CARRIED.
+
+CHARGE PACKS
+THESE ENERGY PACKS RECHARGE ALIEN WEAPONS
+
+VISOR BATTERY RECHARGE
+THIS UNIT HOLDS A RECHARGABLE BATTERY FOR YOUR HELMET'S VISOR.
+
+PROXIMITY MINES
+ONCE PLACED THEY WILL CAUSE AN EXTREME AMOUNT OF DAMAGE TO ANYTHING IN THEIR AREA. THEY WILL APPEAR ON YOUR PROXIMITY MAP AS A BLUE DOT UNTIL DESTROYED.
+
+
+ALIEN INTRUDERS
+
+AILOPROBE
+THIS IS THE ALIEN'S STANDARD SENTRY. ITS MAIN PURPOSE IS TO INFORM OTHERS OF AN INTRUDER'S PRESENCE. THEY ARE RATHER WEAK BUT ATTACK IN FORCE.
+
+RODEX
+THESE LITTLE CREATURES ARE PURE HAVOC. THEY STAY IN PACKS AND ATTACK WITH SPEED. THEY CARRY SMALL WEAPONS SO THEY SHOULD NOT POSE TOO MUCH OF A PROBLEM.
+
+BANDOR
+THIS CREATURE IS A STANDARD CENTURION GUARD. THEY ROAM IN SMALL GROUPS AND REACT FASTER THAN THE PREVIOUS ALIENS. THEY HAVE THE ABILITY TO MORPH INTO OTHER OBJECTS AND SURPRISE THEIR PREY AT CLOSE RANGE.
+
+ANIMATED PROBE
+THIS IS THE MOST EFFICIENT GUARD ROAMING THE LEVELS. IT RESPONDS QUICKLY TO ANY NOISE AND WILL FIRE RELENTLESSLY. SOME ARE PUT ON AMBUSH MODE AND WILL BE PLANTED ON THE CEILING UNTIL A DOOR IS OPENED 
+(LEAVING THEM UNDETECTED ON THE PROXIMITY MAP) AND WILL ATTACK UNTIL THEY ARE DESTROYED.
+
+TTOCS
+THIS ALIEN IS ONE STEP ABOVE THE OTHERS. IT HAS MORE EXPERIENCE AND WILL POSE A GREATER THREAT IF YOU ARE ARMED WITH THE M-24 ONLY.
+
+OTREBOR
+THIS IS A LOWER LEVEL TECHNICIAN, BUSY CHANGING THE HUMAN SURROUNDINGS INTO ITS OWN. THEY HAVE MORE FIRE POWER AND CARRY TWO WEAPONS.
+
+TENAJ
+THIS ALIEN IS THE MAIN TECHNICIAN SETTING UP THE ATMOSPHERE CONVERSION. HE IS INTELLIGENT AND MOVES EXTREMELY FAST.
+
+MECHANOID WARRIOR
+THIS FORMIDABLE OPPONENT WREAKS HAVOC. HE CAN BE HEARD AND FELT FROM FAR AWAY. ONCE KILLED, HE MAY LEAVE HIS WEAPON BEHIND.
+
+TYMOK
+THIS IS A 100% PURE WARRIOR. HE IS ONE OF THE TOUGHEST AROUND. FIRE AND MOVE TO AVOID HIS DEADLY BLASTER. HE WILL FOLLOW YOU WHEREVER YOU GO. THIS IS WHERE YOUR MINES WILL COME IN HANDY.
+
+SOLRAC
+HE RESEMBLES A DEMON IN HIS ACTIONS AND APPEARANCE. HE FIRES BLASTS OF ENERGY FROM HIS EYES AND IT USUALLY TAKES AN ALIEN WEAPON TO KILL HIM. WHEN YOU MEET HIM, YOU'VE COME A LONG WAY.
+
+ENIRAM
+THIS CREATURE IS ONLY VISIBLE WHEN IT IS FIRING ITS WEAPON. THEY GENERALLY USE THEIR CLOAKING ABILITY TO SURPRISE THEIR PREY. ONLY THE INFRARED VISION OR THE PROXIMITY MAP WILL REVEAL THEIR PRESENCE.
+
+
+TROUBLE SHOOTING
+
+The following is a list of solutions to standard problems that might occur when trying to run Corridor 7.
+
+PROBLEM:	I've typed in RUN and it will not run or start correctly.
+
+SOLUTION:	You may not have enough free conventional memory. Run the CHKDSK command in DOS and make sure the 'BYTES FREE' is at least 590,000. If it is not, make a floppy 		boot disk and try 
+again (refer to you DOS manual for this procedure).
+
+OR:		You tried to run the program through the DOS icon in WINDOWS. This program was not designed to run through WINDOWS.
+
+PROBLEM:	I cannot adjust the screen size to the full setting.
+
+SOLUTION:	You do not have enough conventional memory free to support the full screen size. Eliminate any TSR programs and re-boot the machine or create a DOS boot disk (refer 		to your DOS manual).
+
+PROBLEM:	Game freezes after the initial screen.
+
+SOLUTION:	Are you using DOS 6.X with the Double Spacing feature (or any other program that compresses space)? This program cannot be compressed. Please put this game in 		the uncompressed portion 
+of your hard drive.
+
+PROBLEM:	I have a sound card and the game sounds are distorted.
+
+SOLUTION:	The digitized sound effects will often be cut off mid-play if there is any type of interrupt conflict. The original default for Soundblaster cards was INT 7. The optimum 		performance is 
+achieved at this setting. If using the Soundblaster emulation of a Pro-Audio Spectrum card, make sure that the Pro-Audio Spectrum and Soundblaster 		interrupts are different.
+
+If you get an error you do not understand and cannot solve, please write down the exact error and contact our Customer Service Department, Monday through Friday, between 9 a.m. and 6 p.m., Eastern 
+Standard Time. Before you do, please make sure you're near your computer and that it's up and running.
+
+Here is the address and phone number:
+
+IntraCorp, Inc.
+7200 N.W. 19 Street, Suite 500
+Miami, Florida 33126
+(305) 591 5900
+1 (305) 591 5633 (FAX)
+1 (305) 471 8962 (BBS)
+
+
+CREDITS
+
+EXECUTIVE PRODUCER:	LEIGH ROTHSCHILD
+PRODUCER:			DAVID TURNER
+DIRECTOR:			AMY SMITH BOYLAN
+PROGRAMMER:		LES BIRD
+				JEFF SCHULZ
+				JOE ABBATI
+ARTIST:			RUBEN CABRERA
+				CARLOS IBARRA
+				SCOTT NIXON
+MANUAL:			RICHARD HENNING
+MUSIC & SOUND:		JOE ABBATI
+QUALITY ASSURANCE:		JAMES WHEELER
+
+HINTBOOK
+
+FOR A MODEST FEE, YOU MAY PLACE YOUR ORDER FOR THE HINT BOOK BY CALLING:
+1-800-468-7226 OR (305) 591-5900
+FROM 9 AM TO 6 PM EASTERN STANDARD TIME.
+
+Program & manual 1994 IntraCorp, Inc. All Rights Reserved. Portions of the program 1994 Id Software. Wolfenstein is a trademark of Id Software. All Rights Reserved. Corridor 7: Alien Invasion, Capstone 
+and The Pinnacle of Entertainment Software are trademarks of IntraCorp, Inc. All other trademarks acknowledged.

@@ -1,0 +1,53 @@
+Corridor 7 Addendum
+
+The following information is provided as an addendum to the Corridor 7 Alien Invasion Manual. A few things may have changed or may have been added since the manual was 
+sent to the printers.
+
+
+CHANGES
+
+1. Proximity mines now appear as RED blinking blips on your map instead of BLUE as stated in the manual. This was done during final beta testing because we found it too difficult 
+    to distinguish between dropped mines and the players position.
+
+2. Securing the floor for the different difficulty levels requires kills of certain percentages as follows:
+
+DIFFICULTY              KILLS REQUIRED
+==========              ==============
+Corporal                      10%
+2nd Lieutenant           75%
+Captain                        100%
+Major                           100%
+
+On Corporal and 2nd Lieutenant levels a message will appear (and be heard on SoundBlasters & compatibles) when the appropriate percentage of aliens have been killed stating
+"Elevator Clearance Acquired". This means that at any time you may go to the  elevator and proceed to the next floor.
+
+
+ADDITIONS
+
+Alternate elevators can be found on some floors (usually guarded by boss aliens). These elevators will take you to "bonus levels". You do not have to secure the floor on a bonus 
+level to complete the game. Bonus levels are for points only. You enter the bonus level with whatever items you are currently carrying and leave the bonus level with the same items (including health and 
+ammo). You cannot die on bonus levels - instead, you are awarded points for kills and shooting accuracy, then taken to the next floor. You play the bonus level 
+until your health has expired or until you return to the elevator.
+
+** NOTICE **
+It may be a good idea to save your game when you are taken to a bonus level. This way, you can replay the bonus level as often as you wish until you kill all aliens and gain as many points as possible.
+
+
+TROUBLESHOOTING
+
+If you are experiencing difficulties with digitized sound effects such as sporadic playback, distortion or choppiness there are a few things you can try that may alleviate the problem before you call for 
+technical support. The problems mentioned above are most often the result of an interrupt conflict. The playback of digitized sounds in applications using DMA (Direct Memory Access), such as the case with 
+SoundBlaster and compatibles, relies heavily on your chosen interrupt to keep the actual sound data moving from memory to the DAC (Digital to Analog Converter) of the sound card.
+
+The most commonly used interrupts for sound cards are 5 and 7. Corridor 7 supports interrupts 2, 3, 5 and 7. A printer will also often use one of these interrupts. A sound card and printer that share 
+common interrupts will in many cases cause digitized playback problems. Other specialized add-in cards such as network or scanner cards, may also be using a system interrupt. In such a case using a DOS 
+boot disk or temporarily commenting out the loading of specialized drivers from your "autoexec.bat" and "config.sys" files can alleviate the problem. The sound cards' interrupt should be reserved SOLELY 
+FOR ITS USE. 
+
+If possible use interrupt 7 (the original SoundBlaster default) for your sound card. If using a Pro-Audio Spectrum card in SoundBlaster emulation mode, once again set the SoundBlaster interrupt to 7 if 
+possible (there should be a hardware jumper on the card for the SoundBlaster interrupt), and make sure that the actual PAS interrupt and the SB interrupt are not the same (this can again result in a 
+conflict).
+
+It is possible that you may not have access to the faders in the game that control music and digitized volume. This is because these functions were designed around the mixer chip used in SoundBlaster 16 
+and SoundBlaster Pro cards. If you do not have one of these sound cards you will not be able to use the audio-mixer section. This problem may be resolved soon as we await more comprehensive standards in 
+regards to sound card functions and compatability.
