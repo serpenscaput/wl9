@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Adding more than 3 map planes</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+<h1>Adding a third map plane</h1>
+<p>If you want to use 3 map planes in Wolfenstein 3D, you need to make a small source code change. Open
+up your id_ca.h and change</p>
+
+<pre>#define MAPPLANES 2</pre>
+
+<p>to</p>
+
+<pre>#define MAPPLANES 3</pre>
+
+<p><b>Note: The coding changes you need to make in order to add more than 3 map planes depend on the way
+you're saving your maps: Either in the id Software file format or WDC file format. If you're unsure
+which way you're saving your maps, you can check it by looking into the <a href="../2-Editing/mapconfigurations.html">map configurations</a>
+dialog, and see, if the option "Save maps WDC compatible" is checked (WDC file format) or unchecked
+(id Software file format)!</b></p>
+
+<h1>Adding even more map planes</h1>
+
+<p>If 3 map planes are not enough for your project, then you've to make some more changes to the source
+code:</p>
+
+<ol>
+	<li>Change MAPPLANES in your id_ca.h to the desired number of map planes (e.g. 4)</li>
+	<li>
+		In the same file go a little bit down, until you find a struct called "maptype" and change it
+		like this:<br><br>
+		
+		<table border="1">
+		<tr>
+			<td><b>Wolfenstein 3D DOS (16-bit):</b></td>
+			<td><b>Wolf4SDL:</b></td>
+		</tr>
+		<tr>
+			<td>
+				<pre>typedef	struct
+{
+	<span style="color: #ff0000">long		planestart[MAPPLANES]; // Changed
+	unsigned	planelength[MAPPLANES]; // Changed</span>
+	unsigned	width,height;
+	char		name[16];
+} maptype;</pre>
+			</td>
+			<td>
+				<pre>typedef	struct
+{
+    <span style="color: #ff0000">int32_t planestart[MAPPLANES]; // Changed
+    word    planelength[MAPPLANES]; // Changed</span>
+    word    width,height;
+    char    name[16];
+} maptype;</pre>
+			</td>
+		</tr>
+		</table>
+		<p style="margin-left: -40px"><b>Additional code changes, when you're using the WDC file format:</b></p>
+	</li>
+	<li>
+		Open your id_ca.c (16-bit) / id_ca.cpp (Wolf4SDL) file and scroll down, until you find a struct called "mapfiletype" and change it
+		like this:<br><br>
+		
+		<table border="1">
+		<tr>
+			<td><b>Wolfenstein 3D DOS (16-bit):</b></td>
+			<td><b>Wolf4SDL:</b></td>
+		</tr>
+		<tr>
+			<td>
+				<pre>typedef	struct
+{
+	unsigned	RLEWtag;
+	<span style="color: #ff0000">int		numplanes; // Changed
+	int		mapnamesize; // Changed</span>
+	long		headeroffsets[100];
+	byte		tileinfo[];
+} mapfiletype;</pre>
+			</td>
+			<td>
+				<pre>typedef	struct
+{
+	word		RLEWtag;
+	<span style="color: #ff0000">int		numplanes; // Changed
+	int		mapnamesize; // Changed</span>
+	int32_t		headeroffsets[100];
+} mapfiletype;</pre>
+			</td>
+		</tr>
+		</table><br>
+	</li>
+</ol>
+
+<p>This concludes all necessary code changes.</p>
+
+<p>Now, the only other thing left to do is to increase the number of planes inside of HWE with the help
+of the <a href="../2-Editing/planemanager.html">plane manager</a>. After that you're all set. Have fun
+with your additional map planes!</p>
+</body>
+</html>
