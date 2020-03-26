@@ -185,3 +185,4 @@
 -uploaded Super Gorenstein 3D
 -uploaded Super Wolfenstein (early Neo Wolf)
 -HWE 0.3.2 + directory structure fixes
+-uploaded more Krankenstein versions
