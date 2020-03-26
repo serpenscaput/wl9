@@ -1,0 +1,16 @@
+Castlestein.txt
+
+Castlestein.ZIP is a 10 level set which is an add-on for Wolfenstein 3-D shareware version 1.4.
+
+The original levels were made by Daniel Patterson for the PC, but I have modified them slightly so that they work OK on Acorn/Archimedes machines.
+
+There's little difference between this version and the one for the PC.  A few of the levels, notably 3 and 4 are slightly smaller.
+
+Enjoy.
+
+Brian E. Lowe
+Website url: http://www.users.globalnet.co.uk/~brlowe
+email: brian@brlowe.globalnet.co.uk
+
+Dated: January 8, 1999.
+
