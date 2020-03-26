@@ -1,0 +1,55 @@
+Vojak:
+Je najslabší a objavuje sa v celej hre.
+                               Náboje:5
+                                Hey!:uvidí ťa,počuje strelbu
+                                 Smrť-rôzne zvuky
+                               
+SS:
+                                               Je silnejší a objavuje sa v celej hre.
+                                                Haltz!:uvidí ťa,počuje strelbu
+                                                Náboje:ked nemáš MP-40 tak MP-40,ak máš                                                 tak 5                                         tak 5
+                                                 Smrť-„uua“
+
+                                                      Oficier
+                                             Ako vojak a objavuje sa skoro v celej hre
+                                              Haltz!:uvidí ťa,počuje strelbu
+                                             Smrť:Mein got!
+                                               Náboje:5
+
+                                                         Vojak:Schar Geverh
+[puškovy oddiel]
+                        Medzi SS,vojakom,je má silnú palebnú strelbu
+                                         Nič:uvidí ťa,počuje strelbu
+                                         Smrť:„uua“
+                                         Náboje:5   
+
+                                                      Vezen
+                         Slabý,ale rýchly,vyskytuje sa najviac za                 mrežami                             mrežami
+                                          „Haha“:uvidí ťa,počuje strelbu
+                                           Smrť:Bum![zvuk]
+                                           Náboje:nič
+ 
+
+                                                         Ostatné sily
+ 
+                                 Auto
+  
+                                          Je rýchle,presná palebná sila,dáva zlatý klúč.
+
+                                                            Gulometnik
+                                                Primerane silný,nie moc presná palebná sila   
+                                                  nič nedáva.
+
+                                                         Tank!
+   
+
+                                   Dosť silný,rýchly,presná palebná sila,      
+                                                          dáva zlatý klúč.
+               
+                                  General Artur Fox
+
+                                                            ???
+
+                                                             Boss
+                                    ???
+                                                            
