@@ -1,0 +1,247 @@
+
+BlakenStone : a sound and graphics patch for Wolfenstein 3-D shareware v1.4
+
+   You know, I never would have considered it "hacking" until I saw the first
+object I extracted from the Blake Stone VSWAP file: a message from the 
+designers that says "HACKER! HELLO FROM THE GUYS AT JAM!" with a Jam logo
+underneath it.  What a cool surprise that was!
+   
+   Anyway, after a couple of weeks of extracting and inserting, the final 
+product is a Wolfenstein 3-D shareware graphics patch that converts your 
+game into Blake Stone Aliens of Gold.
+
+   The following text has been adapted from Loren G. Dobert's DOOMenstein 
+documentation.  That patch can be found in America Online's software library,
+and on various Wolfenstein web sites as DOOMSTEN.ZIP.  I highly recommend it.
+
+And now for something completely legal:
+
+        BLAKE STONE, AND WOLFENSTEIN 3-D ARE COPYRIGHTED BY ID SOFTWARE,
+        JAM PRODUCTIONS, APOGEE, AND PROBABLY OTHER PEOPLE.
+        THIS PATCH HAS BEEN TESTED WITH A SHAREWARE COPY OF VERSION 1.4
+        WOLFENSTEIN 3-D.  IT WORKED WITH NO PROBLEMS.  ANY DIFFICULTIES 
+        ENCOUNTERED BY THE USER INCLUDING BUT NOT LIMITED TO HARDWARE 
+        FAILURE, ERASURE OF ANY DATA, AND PERSONAL TRAUMA ARE SOLELY THE 
+        RESPONSIBILITY OF THE USER.  THE USER WILL NOT TRY TO CONTACT APOGEE,
+        ID SOFTWARE, OR JAM ABOUT ANY PROBLEMS THIS PATCH MIGHT INCUR ON 
+        HIS/HER COMPUTER SYSTEM.  I GIVE NO GUARANTEES AND ACCEPT NO 
+        RESPONSIBILITY FOR ANY OF THE ABOVE-MENTIONED PROBLEMS.  IF YOU ARE 
+        UNSURE ABOUT THIS, THEN ERASE THE VSWAP FILE AND CONTINUE PLAYING 
+        PLAIN OLD, BORING WOLF 3-D.  YOU MAY COPY AND DISTRIBUTE THE PATCH 
+        AT WILL, AS LONG AS YOU KEEP THE VSWAP FILE INTACT.  IF YOU WANT TO 
+        USE SOME OF MY GRAPHICS OR SOUNDS IN A PATCH OF YOUR OWN, PLEASE FEEL 
+        FREE, JUST GIVE ME CREDIT.
+
+Well, you get the picture.  Please read the following sections on
+BlakenStone:
+
+         I. WHO
+        II. WHY
+       III. WHEN
+        IV. WHAT
+         V. The Problems
+
+I. WHO
+First of all, the credits:
+        id software for creating Wolfenstein
+        Jam Productions for creating Blake Stone
+        Apogee software for the distribution thing
+        Blackadder (Michael Adcock) and Loren G. Dobert for inspiration
+        Andy Nonymous for slicing and dicing the ingredients
+
+II. WHY
+I wanted to add another graphics patch to my Wolfenstein 3-D collection,
+and looked on the Internet for one with Blake Stone, but couldn't find 
+anything.  Some Blake Stone walls and objects are present in Blackadder's
+Barneystein patch, so I thought it would be possible somehow to create a
+full Blake Stone patch.
+
+III. WHEN
+I started this about the last week of October, 1995 and finished on 
+November 12, 1995.  I added the vending machines on December 26, 1998,
+and replaced the landscape/night scene panels with space panels from
+MegaWolf 3-D on January 4, 1999.
+
+IV. WHAT
+The following programs were used in creating this patch:
+
+Original Graphics & Sounds:        
+        Blake Stone Aliens of Gold
+                Jam Productions
+        Wolfenstein 3-D
+                id Software
+Graphics Insertion:        
+        Wolfedit v2.1
+                Bill Kirby
+Sound Insertion:        
+        Wlfaud v1.1
+                Bill Neisius                                                
+Graphics Processing:
+        CHANGE.COM
+                Michael J. Mefford
+        MS-DOS Batch
+                programming by yours truly
+        Paintshop Pro v3.0
+                JASC, Inc.
+Sound processing:        
+        BLASTER Master v6.2
+                Gary Maddox
+        Sound Impression v3.8
+                Dennis J. McMahon
+VSWAP inspection:
+        PC-Valet Shell Version 89.09.04 
+                John A. Junod
+Graphics and Sound Extraction:        
+        QuickBasic 4.50 
+                programming by yours truly
+
+V. The Problems
+At first, I tried using Wolfedit v2.1 on the Blake Stone VSWAP file. 
+Not a good idea (system hang).  I later tried to use a Wolfenstein 3-D
+panel editor that has the same name (no other credits or version numbers,
+it might be an earlier version of Bill Kirby's), and I could load the wall
+panels, but the colors were WAY off and the panels were off-center.  This 
+panel editor did not allow for insertion and extraction of individual panels, 
+either.  So I started with nothing except some knowledge of the Wolfenstein 
+VSWAP file from using Wolfedit v2.1 and reading its documentation.
+
+V1. Walls
+Using QuickBasic programming, I extracted the raw data from the Blake Stone 
+VSWAP and inserted it into a Wolfenstein VSWAP, then viewed the results with 
+Wolfedit.  The colors were still way off!  Evidently, BS uses a very 
+different palette than Wolf, so more work was necessary.  I wrote another
+program to extract a wall from the Wolf VSWAP, change the raw data to what I 
+thought was a close match to how the colors should look (batch file), and 
+re-insert the data.  Some walls were easier than others, some trial and error 
+was used.  The biggest problem was matching BS's periwinkle blue, as Wolf's 
+closest matches were sky blue, aqua, and teal.  Also, Wolf's medium blue was 
+too vivid, no match for the nice navy blues of BS.
+
+V2. The Objects
+I used the same methods as above.  To save myself some work, I borrowed 
+Blackadder's chair, table, chair with table, potted plants, candy, etc. from 
+the Barneystein patch.  Somehow, he got these (and some walls) from Blake
+Stone.  I noticed that the BS walls he used in Barneystein did not quite match 
+the corresponding walls I extracted from BS.  He either reproduced these by 
+hand or somehow captured the images from the game while playing it.
+
+V3. Enemies
+Some minor problems occur here, most involving sizing.  I did not want to do
+any scaling of the objects, to avoid pixelation.  So I just trimmed some of
+the images.  Also used the same coloring process as above.  Here's a 
+commentary on them all:
+        
+        Brown Guards replaced with Bio-Technicians.  Some images needed
+        trimming/slimming to fit.  Those that came out too thin were replaced
+        with copies of other images.  This one came out pretty good.
+
+        SS Guards replaced with Sector Patrol.  Sizing was perfect, but
+        the blue used was too vivid, had no choice here.  When you kill the
+        first one, the gun he drops does not match what he carried, but so
+        what, right?
+
+        The Dogs replaced with Plasma Spheres.  Easy one.  Dog death sequence 
+        has one less frame than the Plasma death sequence, so the falling
+        sparkles don't quite make it to the ground now.
+
+        Hans Gr”sse replaced with the High Security Genetic Guard.  Great fit,
+        only one frame needed a little bit of trimming. 
+
+V4. You and your weapons
+Not too difficult... 
+
+        The knife I left as is.  I wanted to replace it with the auto charge 
+        pistol you get to start the BS game, but the image was much bigger 
+        than BJ's knife and arm.
+
+        The pistol replaced with the slow fire protector.
+
+        The machine gun replaced with the rapid assault weapon.
+
+        The chaingun replaced with the plasma discharge unit.  The dual 
+        neutron disruptor was another possibility, as it acts more like Wolf's 
+        chaingun, but the plasma discharge unit looked better.  A little bit 
+        of muzzle flash had to be trimmed to fit.
+
+        Your victory run.  Colored BJ's hair and eyes and eliminated the
+        blood and rips on his clothing.  Not Blake Stone, but an incredible
+        simulation! :)
+
+V5. Sounds
+Experimented with data extraction from the end of the BS VSWAP, and was able
+to load it into MASTER Blaster in small chunks as RAW data format.  Edited
+as appropriate and saved as VOC files, which WLFAUD could insert into Wolf's
+VSWAP.  The secret wall sound and the token pick-up sound were recorded on 
+tape and WAV files were made from these tapes, then inserted with WLFAUD. 
+These two sound effects replace Wolf's digitized secret wall and slurp. 
+I don't know where the sound effects are stored (AUDIOT file ?), or in what
+format, but it was easier to record them than to find them.  
+
+I hope you enjoy the patch!
+
+Andy Nonymous 1/4/99
+
+
+
+Update 1/22/99 by Brian E. Lowe.
+
+Firstly, many thanks to Andy for his excellent work with the graphics.
+
+This ZIP now contains Gamemaps and Maphead files. I have made one new level
+(the first), and the other 9 are the original Wolf3D shareware v1.4 levels. 
+The new level works OK on both PC and Acorn/Archimedes machines.
+
+I will probably update the 9 levels at a later date.
+
+My email address is brian@brlowe.globalnet.co.uk
+My website URL is http://www.users.globalnet.co.uk/~brlowe 
+
+My website is called Mr. Lowe's Wolfenstein 3D Page, and it has many Wolf3D 
+and Spear of Destiny add-ons to download.  There's also a list of links to 
+many other Wolf3D related sites. The main page is for the PC, but there's 
+also a page for Acorn/Archimedes fans.
+
+All levels work OK on the PC and Acorn/Archimedes machines.
+
+
+Update 2/2/99 by Brian E. Lowe.
+
+Secret level completed.
+
+
+Update 3/13/99 by Brian E. Lowe.
+
+Three more levels completed.  Levels 1 thru 4, plus the secret level, are 
+now done.
+
+
+Update 4/1/99 by Brian E. Lowe.
+
+New VSWAP file sent to me by dla. The dark side of the orange wall now has 
+the red patches removed. I decided to issue this as an alternative version 
+called BlakeWf2.ZIP.
+
+
+Update 4/18/99 by Brian E. Lowe.
+
+Two further levels completed (the 5th and the 6th).
+
+
+Update 5/7/99 by Brian E. Lowe.
+
+Three further levels completed (7th, 8th and Boss).
+All levels have now been completed.
+  
+If you're interested, there's a Wolf3D Fan Club.
+Join it if you want. 
+It's on http://clubs.yahoo.com/clubs/thewolfenstein3dfanclub.
+
+There's now a 2nd fan club too (The Wolf3d and Quake Club).
+This one is at http://clubs.yahoo.com/clubs/wolf3dandquakeclub.
+
+
+
+
+  
+
+
