@@ -1,0 +1,70 @@
+Flo's Wolfenstein-Editor
+-beta-pageClick here to download newest screenshot (05.08.99)
+Here are today's news from the editor (updatet 04.08.99):
+I MADE IT !!!! Now, you can extract (and soon CHANGE) any
+VGAGRAPH-Bitmaps! Look at some nice images I extracted
+from VGAGRAPH.WL1:
+** I updated the screenshot... Have a look at it... **
+1 of 4 8/4/99 10:03 PM
+Wolfenstein-Editor beta testers page wysiwyg://146/http://www.wolfenstein.iwarp.com/So, now there are only a few hundered lines of FLOEDIT-sourcecode between me and a
+WL1-Version where my picture appears on the status bar instead of BJs picture...
+But there is still a problem:
+The TITLESCREEN (amount of free memory, sound blaster detected, ...) which contains
+the ID-Logo is placed in file SIGNON.OBJ in the \OBJ directory of the sourcecode. It's no
+problem for me to write a little bit of code that can change this image to allow you to
+create full-customizeable wolf-versions, but if I'd do it this way, you're forced to recompile
+wolfenstein to insert the new title screen into the game. I think this is not linked to the
+WOLF3D.EXE, but to some other file in a wolf-directory. As soon as I found it
+(VSWAP???), I'll write the code that gives you the possibility to change the title screen
+without recompiling the project... I Hope this will work...
+Features of the editor:
+Supports WL1/WL6/SOD, Verision 1.1 or higher (SOD v1.0); WL3, SDM and
+gameversion 1.0 are NOT supported directly, but you can import user-defined types
+containing as much levels as you like (and your engine supports), so you can also
+import WL3 and SDM!
+2 of 4 8/4/99 10:03 PM
+Wolfenstein-Editor beta testers page wysiwyg://146/http://www.wolfenstein.iwarp.com/Export and import (replace) any VSWAP graphics and sounds
+Unlimited undo/redo support
+Unlimited multi-clipboard support
+Savegame editor wizard
+Import/export levels
+Manage all your editing projects from one single copy of the editor
+Use different symbols for every editing project
+Professional mode gives those EXE-hackers full access to the database - useful for
+adding new walls/objects/monsters
+Auto-floor-inserter: Don't worry about those floor commands - when you've finished
+your level, click on the "Auto fill" toolbar button, and the editor automatically inserts
+another floor command in every room you've created!
+Well, now you all know how the editor looks like. And if you look at the screenshot, you'll
+ask: "What is an 'Objecttype' ?". So I'll explain. Whenever you connect to a wolf/spear
+directory, the 'Objecttypes' page will be activated automatically. Then you can chose to
+take the standard-type "Wolfenstein Shareware", "Wolfenstein full version" or "Spear Of
+Destiny". Or you can select a user-defined Objecttype or create a new one. If you only
+modify maps, you won't need to create any own Objecttypes. Objecttypes manage the
+symbols that are used by the editor to represent map/object items. So when you modify a
+version of Wolfenstein where you want YOUR picture instead of the standard picture of
+Adolf Hitler appearing on the grey brick, you do it like this:
+Define a new objecttype
+Name it to "Wolfenstein full with me"
+Replace the grey symbol with the yellow point in it with a blue symbol with a purple
+point in it (or any other symbol)
+Change the symbol description to "Grey brick / me"
+3 of 4 8/4/99 10:03 PM
+Wolfenstein-Editor beta testers page wysiwyg://146/http://www.wolfenstein.iwarp.com/Replace the graphics
+That's all. When you reconnect to any wolf/spear folder then, you can decide if you are
+editing the normal version with the normal symbol, or if you're editing the new version
+with the new symbol.
+When you copy clipboard objects from one wolf-version to another, the clipboard object
+previews will be rerendered automatically to represent the new symbol table.
+There's also a professional mode in the editor: If you're one of those guys who not only
+change maps/sounds/grafx but also recompile the exe-file to insert new
+wall/objects/guards, you can use the professional mode to insert new IDs to the databases
+(the editor supports 500 walls and 500 objects)...
+(Since "int" is a 32-bit signed value in Borland C++ Builder 4, you can create more than
+2,000,000,000 different Objecttypes. I think that's enough for everybody...)
+This won't be the final page where end-users can download WOLFEDIT,
+just for beta-phase...
+Flo:)
+EMail: webmaster@wolfenstein.iwarp.com
+4 of 4 8/4/99 10:03 PM
+Wolfenstein-Editor beta testers page wysiwyg://146/http://www.wolfenstein.iwarp.com/

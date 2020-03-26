@@ -1,0 +1,7 @@
+Megademo source
+
+Please note:
+If you want to recompile the sourcecode of this demo, you need the Borland C++ 3.1 compiler!
+It's not possible to compile this stuff with any other version (5.2 doesn't work!).
+And don't use Turbo C++ - It will miscompile two important files!
+

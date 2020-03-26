@@ -1,0 +1,26 @@
+
+                  To:
+                                     X_human@cyberjunkie.com shawnmos@yahoo.com
+                                    brian@brlowe.globalnet.co.uk willmann@online.ee gitlance@knology.net
+                                    I.Larkin@sheffield.ac.uk gragland@ix.netcom.com dj_blazkowicz@yahoo.com
+                                    lwd@presys.com bj_blazkowicz@cyberdude.com wolftrap1@yahoo.com
+                                    johnnys1@prodigy.net nayt1@usa.net bandit@coldmail.com 
+                  From:
+                                     =?iso-8859-1?Q?Florian_St=F6hr?= 
+                  Subject:
+                                     music of wolf
+                  CC:
+                                     
+
+
+
+                 Hey guys,
+
+                 we've got a bad problem: I talked to Robert Prince, the composer of the
+                 wolf-music and asked for the source of the MIDI-to-IMF-converter so that I'd
+                 be able to write the conversion code IMF->MIDI and MIDI->IMF. But he
+                 told me that the converter was writen by a guy who left ID before wolfenstein
+                 was released and he doesn't know where this man is today. But I'll try to
+                 contact John Romero / ID software and ask them for the converter!
+
+                 Flo:)

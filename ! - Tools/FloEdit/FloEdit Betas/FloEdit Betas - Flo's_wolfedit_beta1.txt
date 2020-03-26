@@ -1,0 +1,56 @@
+BETA 1 available now!
+
+                     ** System requirements **
+
+                    - 486+ CPU (Pentium II would be good)
+                            - Windows 95/98/NT4
+                             - DirectX 5 or better
+       - HiColor or TrueColor display and 1024x786 strongly recommendet
+                 - 32 MB RAM (Works with 4 MB too, but...)
+
+                 ** Known bugs  - please do NOT report! **
+
+     - Random garbage in map-window after system came back from standby.
+   (I think this is a problem of  DirectX itself rather than a problem of FLOEDIT.
+               Restart windows to go on working with the editor!)
+    (Please do NOT tell me to use "lpDDSPrimary::IsLost()"
+                        function. Doesn't work.)
+
+   - Size of GAMEMAPS file will be larger than GAMEMAPS files produced by
+                                 MAPEDIT.
+          (And, since MAPEDIT files are larger than original files (simple
+                         0xABCD-compression instead
+              of "Carmackized" 0xA7A8+0xABCD compression), 
+        FLOEDIT's files will also be larger than original wolfenstein files.)
+     But they work perfectly with any wolfenstein-version >=1.1 (Spear 1.0) 
+
+
+                       ** Features of beta 1 **
+
+                          - Whole map-editing engine 
+                  - Map exporter wizard, map importing feature
+                       - View and VGAGRAPH-graphics
+
+                       ** Not supported yet **
+
+                                 - Add levels
+                            - Add/replace graphics
+                             - Auto-floor-inserter
+                      - VSWAP-gfx (wall/objecttextures)
+                            - Sound import/export
+                             - Undo/redo support
+                                 - Help files
+                             - Professional mode
+                     - SIGNON.OBJ / Titlescreen replacer
+                           - Savegame editor wizard
+
+                                       
+
+              Note: You are using this software at your own risk!!!
+
+     Now, click the following link to download BETA_1.EXE (about 3500K).
+ This is a self-extracting InstallShield executable (since FLOEDIT requires Borland
+                              Database Engine,
+           there's no other possibility than installation via InstallShield).
+              Sorry for the filesize... I removed anything possible...
+

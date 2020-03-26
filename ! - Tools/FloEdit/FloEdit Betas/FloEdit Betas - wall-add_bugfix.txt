@@ -1,0 +1,23 @@
+
+                  To:
+                                     banditws6@coldmail.com nayt1@usa.net johnnys1@prodigy.net
+                                    wolftrap1@yahoo.com bj_blazkowicz@cyberdude.com lwd@presys.com
+                                    dj_blazkowicz@yahoo.com gragland@ix.netcom.com
+                                    I.Larkin@sheffield.ac.uk gitlance@knology.net willmann@online.ee
+                                    brian@brlowe.globalnet.co.uk shawnmos@yahoo.com
+                                    X_human@cyberjunkie.com 
+                  From:
+                                     =?iso-8859-1?Q?Florian_St=F6hr?= 
+                  Subject:
+                                     News from the wall-add bug
+                  CC:
+                                     
+
+
+
+                 Now I've figured out how to get that crash. I also know the lines who cause
+                 the crash. (Sprite renderer code). I think this is a problem of the
+                 VSWAP-write routine... I'm working on that. As soon as I fixed the bug, I'll
+                 immediately mail a bugfix to you.
+
+                 Flo:)

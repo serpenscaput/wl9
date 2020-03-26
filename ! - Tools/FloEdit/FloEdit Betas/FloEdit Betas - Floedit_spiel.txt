@@ -1,0 +1,32 @@
+FloEdit is the ONLY available tool that gives you the following functionality:
+
+
+- Edit, ADD and REMOVE maps form the game
+- Edit and ADD images (like title screen, BJ-Face on the statusbar, statusbar font, ...)
+- Edit and ADD walls and sprites (no engine recompilation required to add walls, 
+  and NO SIZE LIMIT like in old DOS-tools for sprites)
+- Edit and ADD digitized sound without size limits (max. 64K per sound, but that's a limit of
+the wolf-engine)
+- Edit mapdata definition table while editing (all from within the editor, unimited projects
+supported)
+- Test your game while still editing it!
+- Print maps
+- Save maps as BMP-files
+- Import MAPEDIT *.FLR-files
+- Export as many levels as you like to a single *.LVL-file
+- Unlimited undo/redo for map editing
+- Cut&Paste
+- Multi-clipboard support: Copy as many object as you like to the clipboard
+  and browse them visually!
+- Detailed help file explaining how to add the new objects to the engine
+- "Creating good maps" tutorial
+
+
+
+FloEdit system requirements:
+
+- 800x600 or better display (640x480 is not enough)
+- 16 MB RAM (64 MB recommendet)
+- Pentium 60 or better processor
+- DirectX 5 or better installed on target system (DirectX runtime files are NOT included in
+the FloEdit installer)

@@ -1,0 +1,93 @@
+
+------=_NextPart_001_0007_01BF286C.109A7440
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_002_0008_01BF286C.109A7440"
+
+
+------=_NextPart_002_0008_01BF286C.109A7440
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I've fixed that terrible bug that caused so much trouble.
+
+The problem was that FloEdit only reserved 4096 bytes for the VSWAP =
+header. In the header, there is lenght- and offsetinformation stored for =
+every chunk. But in 4096 bytes, there's only space for 682 chunk infos. =
+If you added too much walls, there was an overflow: When you reloaded =
+the VSWAP, FloEdit interpreted random garbage data as offset- and =
+lenght-information: If anyone of you has to deal with software =
+development, he can imagine that it will force the program to run beserk =
+on it's new "offset" data...
+
+But now, it's fixed. By the way, I added a new error-checking routine. =
+If you try to add too much walls (so that the ID would be 106), you'll =
+now get the following message:
+
+
+
+But ... only 57 walls are used in original wolfenstein I think, so =
+there's ENOUGH space for you ;-)
+
+And now, here's the new executable without that terrible bug---
+
+If you still get problems with this executable, tell me
+
+Flo:)
+
+------=_NextPart_002_0008_01BF286C.109A7440
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2014.210" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2>Hi, I've fixed that terrible bug that caused so much =
+
+trouble.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2>The problem was that FloEdit only reserved 4096 =
+bytes for the=20
+VSWAP header. In the header, there is lenght- and offsetinformation =
+stored for=20
+every chunk. But in 4096 bytes, there's only space for 682 chunk infos. =
+If you=20
+added too much walls, there was an overflow: When you reloaded the =
+VSWAP,=20
+FloEdit interpreted random garbage data as offset- and =
+lenght-information: If=20
+anyone of you has to deal with software development, he can imagine that =
+it will=20
+force the program to run beserk on it's new "offset" =
+data...</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2>But now, it's fixed. By the way, I added a new =
+error-checking=20
+routine. If you try to add too much walls (so that the ID would be 106), =
+you'll=20
+now get the following message:</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG align=3Dbaseline alt=3D"" border=3D0 hspace=3D0=20
+src=3D"cid:000501bf2863$ae7a7ec0$010000a8@bulle"></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2>But ... only 57 walls are used in original =
+wolfenstein I=20
+think, so there's ENOUGH space for you ;-)</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2>And now, here's the new executable without that =
+terrible=20
+bug---</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2>If you still get problems with this executable, tell =
+
+me</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2>Flo:)</FONT></DIV></BODY></HTML>
+
+[rubbish text redacted for brevity]

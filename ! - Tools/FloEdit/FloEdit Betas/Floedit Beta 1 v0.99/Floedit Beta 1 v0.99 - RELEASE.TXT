@@ -1,0 +1,56 @@
+** RELEASE NOTES FOR FLOEDIT 0.99 BETA 1 **
+-- Do NOT redistribute this software!!! --
+
+This is  the very  first beta of the FLOEDIT project, so you might
+get lots of crashs with this. This version covers:
+
+- Map editing
+- Clipboarding
+- Export/Import multi-level files
+- View VGAGRAPH graphics
+
+I wanted  to include the possibility to REPLACE gfx already in the
+first beta,  but the  recompression of the gfx-chunks from a given
+huf-dictionary (rather than comressing and creating a new dict) is
+much more  complex than  I thought it would be. So this will be in
+beta 2,  since I  do not  want to  let you  wait any  more (I will
+create up to 3 betas for this project).
+
+When you  work with  the editor,  do NOT  do one  of the following
+things since I do not know how FLOEDIT will handle things:
+
+- Copy a map from spear and insert it into WL1/WL6
+- Copy a map from WL6 and insert it into WL1
+
+Note: The  editor is  not  yet  capable  of  displaying  "unknown"
+objects in the map, so you might get a crash if you do so.
+
+------------------------------------------------------------------
+
+Every memory allocated in the code using "new" is done like this:
+
+try
+{
+    test=new myobject();
+}
+catch (std::bad_alloc)
+{
+    G->Fatal(1, "ERoutine::MakeTest()");
+}
+
+So if  Windows is out of memory, the exception will be catched and
+the editor will terminate. If you get this, WRITE DOWN __EXACTLY__
+what the  "Fatal error"-dialog  box reports,  and mail  it  to  me
+(telling the routine that raised the exception).
+
+But all  memory allocated  by Win32's  "GlobalAlloc()"-function is
+not yet  error-protected, so  you might  get some  strange crashed
+(exception handled by C++ Builder 4 default handler). This handler
+does not shut down the application, but I STRONGLY RECOMMEND to do
+so!!!
+
+------------------------------------------------------------------
+
+Have fun-
+
+Flo:)

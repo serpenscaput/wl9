@@ -1,0 +1,1709 @@
++$#KInfo
+Welcome to FloEdit, world's best editing tool for the popular ID-Software games "Wolfenstein-3D" and "Spear Of Destiny". This is the only tool available that gives you the following functionality:
+
+•	Edit, print and import/export maps: Things made easier by FloEdit, giving you unlimited undo/redo support, multi-clipboarded cut&paste and auto-insertion of floor commands!
+•	View, import/export, change, replace and ADD images, walls and sprites (no size limits in your sprites!)
+•	Hear, import/export and ADD digitized sound
+
+Please note that if you’d like to change the size of anything or if you want to add new sprites, images or sounds,  you’ll always have to recompile the game! (This is not necessary for adding new walls).
+
+FloEdit is freeware. You're allowed to share it with your friends.
+But you are ___NOT___ allowed to put it on your website,
+except you've got the permission from me!
+
+This is because of the hit-counter on my homepage. Since this server is in Germany, it is possible that it is too slow for you if you try to download it from Russia or USA. But perhaps I'll give you 
+mirror download possibilities. You can reach them from the official FloEdit homepage at
+
+http://www.wolfnode.de
+
+
+You'll (soon) also find a Wolfenstein-demo (with source code) showing you FloEdit features.
+
+For additional Wolfenstein-related homepages, see the FloEdit-Info dialog box (Help | Info...) !
+
+Hope you enjoy this...
+
+FloEdit was created with Borland C++ Builder 4 Professional – Thanks to those guys at Borland for such a great tool!
+
+ 
++$#KConnecting to Wolfenstein
+To edit a game, your first step is to connect to its directory. To connect, select File | Connect or press Ctrl-O or click the connect-button in the main window:
+{bmc bm0.BMP}
+
+After you clicked this button, the Dialog box "Connect" appears. You can select the folder of your Wolfenstein-game there.
+
+ 
++$#KSaving your project
+To save your modified project, select File | Save all or press Ctrl-S or click the save-button in the main window:
+{bmc bm1.BMP}
+
+If the button is grayed, your project is up to date.
+
+ 
++$#Dialog box "Connect"
+{bml bm2.BMP}
+
+This dialog box appears if you connect to a game. Select the folder of your game by selecting drive and directory. If you want to connect to one of the following games (look at the file extensions), 
+select the "Auto-Detect" radio button:
+
+•	Wolfenstein Shareware / 10 Levels (*.WL1)
+•	Wolfenstein Full Version / 60 Levels (*.WL6)
+•	Spear Of Destiny / 21 Levels (*.SOD)
+
+if you'd like to connect to any other game type (Spear demo, for example), select the "User-defined" radio button. Then enter the file extension and the number of levels. (This feature is for experts 
+only). Please note that if you enter the wrong number of levels, FloEdit will give you the following message box:
+{bml bm3.BMP}
+
+(If you'd like to change the number of levels of your game, use FloEdit's professional mode Extra | Professional mode)
+
+Objecttypes are organized by their number of levels. If you connect to a new user-defined version for the first time, FloEdit will ask you if you'd like to create a new objecttype for your new game:
+{bml bm4.BMP}
+
+You have to select Yes in this dialog box, or FloEdit will cancel the connection. If you pressed Yes, the two Dialog boxes "Create new objecttype" will appear, asking you for an objecttype name and a 
+default symbol table.
+
+Tip:
+If you want to stop the connection to any game, fire up this dialog box, and click the cancel-button. Your connection will be closed then.
+ 
++$#KTesting your project
+It is simple to test your project. Since FloEdit only opens any Wolfenstein-files while  reading/writing them, you can even test your project while editing it.
+
+To test your project, select File | Test your project! or press Ctrl-T or click the test-button in the main window:
+{bmc bm5.BMP}
+
+If you click this button, FloEdit will execute a file called ‘TEST.BAT’ in the active directory (the folder you selected in the Dialog box "Connect"). You can create this file with any text editor and 
+write something like
+
+WOLF3D –GOOBERS
+
+or
+
+SPEAR –DEBUGMODE
+
+in it.
+
+If FloEdit cannot find the file, it will just spawn a DOS-prompt in the active directory.
+ 
++$#KMap editing overview
+If you use FloEdit for the first time, it's good to read the mapediting introduction first:
+
+•	Fundamental principles of the mapeditor 
+•	Objecttypes
+ 
+
+All toolbar buttons of FloEdit deal with features of the map editor. To get detailed information and explanation of the different elements of map editing, choose from the following subtopics:
+
+•	Mapeditor mode buttons 
+•	Map commands 
+•	Editing commands 
+
+
+
+ 
++$#KMapeditor mode buttons
+There are two groups of mapeditor mode buttons.
+
+The first group lets you select the editmode. You can decide between MAP, OBJECT and FLOOR editing:
+{bmc bm6.BMP}
+
+
+
+The second group lets you select the active editing tool. Click on any button in the following image to get detailed information on the behavior of the clicked tool!
+{bmc bm7.SHG}
+
+
+
+ 
+$#Paint-tool
+Use the paint-tool for standard, one-pixel wide drawing
+
+ 
+$#Dropper-tool
+Use the dropper-tool to assign the clicked element to your left or right mousebutton. This affects the paint-tool as well as the fill-tool.
+
+ 
+$#Fill-tool
+Use the fill-tool to fill areas of the same element (=color) with the active element. For example, if you've got a big room made of wood and you'd like to change it to steel, assign steel to the left 
+mouse button, then set the editmode to "map" and click one of the wood-elements. All wood-elements hanging together with the clicked wood element will now change to steel
+
+ 
+$#Selection-tool
+Use the selection-tool for marking a rectangular part of your map. You need this for the cut/copy/delete operations of the clipboard. Press the right mouse button to cancel the selection and return to 
+normal editing mode
+ 
++$#KMap commands
+The following commands are called map commands, since they always affect the entire map, not only a part of it. They are also available in the Map and File menus.
+
+Level I/O commands (Available in the File menu):
+{bmc bm8.BMP}		Import map(s) from a LVL- or FLR-file
+{bmc bm9.BMP}		Export map(s) to a LVL-file
+
+Map navigation commands (Available in the Map menu):
+{bmc bm10.BMP}	Ctrl-P	Load prior map (level)
+{bmc bm11.BMP}	Ctrl-N	Load next map (level)
+
+Map exporter commands (Available in the Map menu):
+{bmc bm12.BMP}		Save the current map to a BMP-file (to use it within other programs)
+{bmc bm13.BMP}		Print the current map
+ 
++$#KEditing commands
+The following commands are called editing commands, since they only affect parts of a the map. They are also available in the Edit and Extra menu.
+
+The FloEdit clipboard is a thing that is probably new to you, since it is different from the standard clipboard functionality you know from other applications. The FloEdit clipboard does not use the 
+Windows clipboard in any way (you cannot insert any copied object to another application). Of course, this means that any objects copied to the Windows clipboard by another application will stay there 
+without being removed.
+What makes FloEdit's clipboard system so cool is that it allows you to copy more than one object to the clipboard. If you'd like to paste any previously copied object to your map, you can decide 
+between the copied objects using FloEdit's multi-clipboard manager. Or you can just paste the last copied object. (See also )
+
+Clipboard commands (Available in the Edit menu):
+{bmc bm14.BMP}	Ctrl-X	Copy the selection to multi-clipboard and remove it from map
+{bmc bm15.BMP}	Ctrl-C	Copy the selection to multi-clipboard
+{bmc bm16.BMP}	Ctrl-V	Paste the last copied object into the map
+{bmc bm17.BMP}	Ctrl-M	Open multi-clipboard manager (you can decide which object to paste into map)
+{bmc bm18.BMP}	Ctl-Del	Delete selection
+
+Undo/Redo commands (Available in the Edit menu):
+{bmc bm19.BMP}	Ctrl-Z	Undo last operation (unlimited)
+{bmc bm20.BMP}	Ctrl-R	Redo last operation (unlimited)
+
+Please note that FloEdit removes all object from its undo stack if you
+•	Warp to another map
+•	Save your project
+•	Disconnect from active folder
+
+AutoFloor™ command (Available in the Extra menu):
+{bmc bm21.BMP}		Insert a different floor command in every empty room of your level!
+ 
+ 
++$#KFundamental principles of the mapeditor
+First of all, I'd like to explain the word 'editmode' to you:
+The editmode defines what kind of element on a particular map position (e.g. 12/34) you'd like to change. This is because any coordinate pair of the map has two things assigned with it: A MAP and an 
+OBJECT item. MAP (as well as FLOOR) items are e.g. "Steel with blood", "Wood with iron cross" or also "Secret elevator floor". OBJECTS are e.g. "Barrel", "Pool of blood", "Table with chairs" and also 
+all the guards, keys, jewels, ... 
+Don't worry about those FLOOR commands: It's easier than you might think: Every room separated by a door requires a different floor command, since changing the floor command blocks the sound between 
+the rooms: If you shoot someone in a room with floor 0x6A, the guys in the next room with Floor 0x6B won't hear you. But you do not need to insert a different floor command in every room you create: 
+FloEdit brings you "AutoFloor", reachable in the Extra menu or with the {bmc bm21.BMP} toolbar button. If you click this button, FloEdit removes all manually inserted floor commands it can find in 
+your level and inserts a different floor command in every room. So most of the work should be done. The only things you have to do by hand are the "Secret elevator floor" and the "Deaf guard" floor. 
+Use the fist one in the elevator to the secret floor (just fill the whole elevator room with it). You use the second one if you want a "deaf guard". This is a guard who starts attacking you when he 
+sees you, not when he hears you.
+So back to the 'editmode': As you know, any coordinate pair has got a MAP and an OBJECT element: If you now click on the element, and you've selected MAP or FLOOR editmode, FloEdit will replace the 
+MAP-part of the map element with the new MAP or FLOOR element you've assigned to the mousebutton you're clicking the map element with. This won't affect the OBJECT part of the coordinate pair. If you 
+selected OBJECT editmode and you click the element, the MAP/FLOOR part will stay unchanged and the OBJECT part will be replaced with your assigned element.
+
+The FloEdit main window is divided into two subtabs:
+
+1.	The FloEdit main page (this is the default page you'll see after connecting to Wolfenstein). This page is divided into seven subtabs. Look at their short description:
+(The blue tabs do NOT deal with map editing):
+
+•	Walls/Objects/Floor	
+You can assign an element to the left and right mouse button by clicking it. Any drawing in the active editmode (this can be either MAP, OBJECT or FLOOR) will be done using the elements you selected on 
+this page. FloEdit remembers two elements (one for each mouse button) for every editmode.
+
+•	Graphics/Digitized sound
+These tabs don't deal with map editing. Use them to change or add graphics and digitized sounds of the game
+
+•	Descriptions and symbols
+In this tab, you can redefine the symbol colors you'd like to use with the active objecttype (See also Objecttypes)
+
+•	Objecttypes
+You can select the active objecttype or create a new one in this tab (See Objecttypes)
+
+
+2.	The map editing page. On this page, you can see the map of the active level. You can enable/disable some visual things with the checkboxes on the top right. But the state of these checkboxes does 
+not change anything on the "real" map. However, while level designing is in progress, I strongly recommend to disable the "Show Floor" checkbox since some floor commands might look like objects. 
+
+{bml bm22.BMP}
+For detailed information on the different toolbar buttons, please have a look at the following sections:
+
+Mapeditor mode buttons (the big ones on the left)
+Map commands (to change active level, ...)
+Editing commands (cut&paste, undo, ...)
+
+
+ 
++$#KObjecttypes
+Objecttypes are a powerful, but maybe complex thing. To show you what Objecttypes are and how to use them, I wrote a little step-by-step tutorial for you. So read this carefully and DO NOT BOMB MY 
+EMAIL ACCOUNT WITH YOUR QUESTIONS !!!
+
+Imagine there’s a nice girl and you want to put her picture on a wall and replace the Hitler-picture. The symbol of the “Grey stone / Hitler” wall in FloEdit is a dark gray square with a yellow pixel 
+in it by default. But you want to have a light green square with a red pixel for your new wall. It would be easy to change the symbol in the “Descriptions and symbols” tab, but then the objecttype 
+“Wolfenstein shareware” we’re using here would always display the new symbol, so  we’ll create a new type for our modified wolf version:
+
+Go to the “Objecttypes” tab in FloEdit, then click the “New Objecttype” button: {bmc bm23.BMP}
+
+In the next dialog box, enter the name of the new objecttype. Since the name of the girl is “Nadja”, we’ll call our new version “Wolfenstein Nadja”.
+
+Note: We’re connected to a Wolfenstein shareware version now, so you’ll only be able to load the new objecttype when you’re connected to Wolfenstein shareware. You cannot share Objecttypes between 
+different versions of wolf!
+{bml bm24.BMP}
+
+Whenever you connect to a wolf-version that is of the same type like the type you used when creating your new objecttype (this was WL1 in our example), your screen will look like this:
+{bml bm25.BMP}
+
+Now select your new objecttype and click the “Descriptions and Symbols” tab. Then change your symbols and their descriptions. In our example, we’ll change the “Grey brick / Hitler” thing:
+{bml bm26.BMP}
+
+And here's our new version:
+{bml bm27.BMP}
+
+You do not need to save anything, FloEdit saves your symbol changes automatically. By the way: you don’t need to re-connect to any folder for changing the active objecttype. Just go to “Objecttypes” 
+tab and select the new one. The map window and the clipboard will immediately reflect the new symbol colors!
+
+
+ 
++$#KImage editing overview
+It's easy to change the images of the game with FloEdit. At the moment, FloEdit is the only tool available for changing these things like statusbar pictures, titlescreen, and help text images! 
+
+
+Please note that there are some limits when working with images:
+
+•	Images MUST NOT be greater than 320x200 pixels
+•	Images MUST BE 256 color
+•	Images MUST BE in Wolfenstein-palette
+•	Compressed image size MUST NOT exceed 64 Kbytes
+
+Here you can see another problem of the old 16-bit engine used in Wolfenstein-3D. The size of a compressed image must not exceed 64 Kbytes, since this is not supported by the CA_FarRead() function of 
+the caching-manager. Wolfenstein images are Huffman-compressed. So the image size does NOT depend on the number of RLE-compressible pixels, but on the COLOR itself. It is possible to get the 
+compression size mismatch error with a PURE YELLOW 320x200 image: The yellow color (for example) is not used very often throughout the Wolfenstein images. So its Huffman key is longer than 8 bits. But 
+the RED color is used very often in the images, so its Huffman key is (perhaps) only 3 bits long. You see, it's not easy to say which image you can use and which you can't. The only way to find it out 
+is by trial and error. If the image fits, it's OK. If it doesn't, you'll see the following message box:
+{bml bm28.BMP}
+But no problem, the 64K limit might only happen for very large (near 320x200) images, like the title screen. I think you won't have any size problem changing BJs face or the statusbar images...
+
+Now what about that 'Wolfenstein-palette'? Every 256-color images produced by any paint software uses the palette feature. This means that a single pixel of an image is represented by an entry to the 
+palette rather than by a color value (like in 24-bit RGB mode called 'TrueColor'). The palette consists of 256 entries (->256 colors) with three 8-bit values for every color (Red, Green and Blue 
+component = RGB).
+So make sure that you convert your (24-bit ???) images to the original Wolfenstein-palette when importing them into FloEdit. FloEdit DOES NOT DO any palette conversion ("nearest-matching-color" or 
+"error-diffusion") offered by almost every (even shareware) paint software! FloEdit just replaces the palette of the image you import with the original Wolfenstein-palette! Now how to get the original 
+palette? Export ANY image from FloEdit (they've all got the original Wolfenstein-palette) and open it with your paint software. Then save the image's palette to a file like "WOLF.PAL" or anything like 
+that (you'll usually find this in a menu called "Color"). Then create your new image(s) as 24-bit TrueColor. When you're finished, reduce the color depth of your image to 256 color and import the 
+palette file you've previously saved. Your software will convert your image to the original palette. Some colors which do not exist in the original palette will be destroyed by this step, but this is 
+the only way. FloEdit won't tell you anything about a wrong palette when importing an image, but you'll see the result in the game...
+
+Please do not send me emails telling me that FloEdit uses the wrong palette in some Spear Of Destiny images! This is a well-known problem. Spear does not use only one palette like Wolfenstein, but 3 or 
+4 (I don't know exactly). Some images (title screen, end screens, ID guys picture, ...) use a different palette. Since I don't have this additional palettes, I can't give you a possibility to set it to 
+the images! Sorry about that. But if you have a VGA-grabber who works while Spear is running, you can get the right palette. Then you can export the images, set the right palette, edit your images and 
+reimport them. FloEdit will still display them wrong, since it always shows you images in the standard Wolfenstein palette, but they'll look OK in the game.
+
+Adding images to the engine might be tricky. See help chapter Adding new images to the engine for further information!
+ 
++$#KWalls and sprites editing overview
+It's very easy to import a new wall. There are only some things you have to take care about:
+
+•	Image size MUST BE 64x64 (FloEdit won't accept any other format)
+•	Images MUST BE 256 color
+•	Images MUST BE in Wolfenstein-palette (see Image editing overview for further information about that 'Wolfenstein-palette)
+
+Important: Look at the door pictures! In file WL_DRAW.C from the Wolfenstein engine, you'll see the following line:
+
+#define DOORWALL     (PM_SpriteStart-8)
+
+This means that the door images are the last 8 map images. If you want to use more than 8 doors in your project, adjust the Number of door images in this project value. FloEdit will add your new images 
+before the door images. If you want to add new doors to your game, do it with the following steps:
+
+1.	Use the default value (this is 8)
+2.	Click the Add new object button once for every door (NOT for every door image, since one click to this button always inserts 2 images (=one object)
+3.	Adjust the Number of doors value
+4.	Add your images, but MAKE SURE YOUR DOOR IMAGES ARE THE LAST ONES!
+
+The MAP-ID value you see when editing walls and sprites is the ID you have to put into the map. After you added your new wall(s), start FloEdit's "Professional mode", (Extra | Professional mode), click 
+the Add new button and enter this MAP-ID value. You can now use your new map in your project.
+
+By the way: The maximum number of walls is limited! Don't worry, you can add about 50 (!) new walls to original Wolfenstein until you reach the limit: The WALL-ID must not be greater or equal than 106, 
+since IDs > 106 are FLOOR commands.
+
+Some beta-testers told me that you get problems with IDs > 64, since Wolfenstein then starts over with the image for ID1. I haven't looked at that part of the engine yet, but I think it's not so 
+difficult to remove that problem from the engine.
+
+Be sure not to assign any Wall-ID twice! For example, the ID 50 is assigned to “Fake door” in original Wolfenstein. If you add a new wall, FloEdit will tell you that the new ID is 50. Well, that’s 
+correct. And it will work in your game. But FloEdit will show you the wrong symbol in its map window. To solve this problem, go to the professional mode dialog box, and click the Delete record button 
+for the "Fake Door" / "Door excavation", ... IDs.
+
+Also don't look at the MAP-IDs FloEdit will tell you for the doors! Doors are handled in a different way (see engine), but since FloEdit cannot determine if an image is used for a door or not, it just 
+reports the ID to you and this ID is definitely WRONG for doors!
+
+That's all for walls. But things are a lot more complicated with sprites:
+
+•	Color #255 (a kind of violet) is the last color of the palette and is used to indicate transparency
+
+It is now possible to change the size of the sprites. You can now -for example- replace the ‘dog food’-sprite with the ‘Death Knight’ sprite. But this does not mean that you can use full 64x64 pixels 
+for your gfx. The problem is, that the Wolfenstein engine can only handle up to 4096 bytes per ‘page’. Well, 64x64 is 4096, but the problem is that sprites are stored in a very tricky format in the 
+VSWAP file (tricky? terrible !!!!!). The more ‘breaks’ you insert into every column of the image (one pixel wide, so there are up to 64 columns (reduce image width or reduce number of columns)), the 
+more space will be required for storing the image. A break is one ore more transparent pixels followed by color pixels. (space-color-color-color-space-space-space-color-space-space, .....). Every break 
+(even if it is only one transparent pixel) consumes 4 bytes in VSWAP.
+
+Sorry for that, but this is a problem of the Wolfenstein engine, not a problem of FloEdit!
+
+Note:
+I said ‘reduce image width’. Do not try to import any 42x38 image or so! Only 64x64 images with a color depth of 8 bits (=256 colors) will be accepted. I mean you should just draw a smaller image in 
+your 64x64 bitmap!
+
+But that's not the only bad thing with sprites. You cannot add new sprites without recompiling the Wolfenstein source code. Look at Adding new sprites to the engine help chapter for further information!
+
+ 
++$#KSound editing overview
+It is possible with FloEdit to export, import and add digitized sounds. You cannot do anything of this with PC-speaker- and AdLib-sounds, as well as you cannot do anything with the music.
+
+Note: The maximum size of a digitized sound is 64 Kbytes!
+
+When importing a sound from a WAV-file, make sure the WAV-file has a RIFF-header (Windows PCM standard format) and the following audio-format:
+
+•	6896 Hz
+•	Mono
+•	8-Bit
+•	Unsigned
+
+FloEdit won’t accept any other format. I think you can’t do this with "Audiorec" from Windows, so use CoolEdit, SoundForge, WaveLab or anything like that.
+
+To add a new sound to your game, press the Add new sound button. FloEdit will insert an empty sound (you won't hear anything if you click the Play digitized! button). Just select this new, empty sound 
+and import a WAV file.
+
+Note:
+Perhaps your audio-software tells you that the desired format is not supported when you try to play any Wolfenstein sound. It will work if you click the ‘Play digitized’ button in the editor, since 
+FloEdit uses DirectSound to play the chunks and DirectSound resamples the sound to a supported format if necessary. To play the sound with your audio software, select ‘Wave Mapper’ as your default 
+audio device in your application’s options box.
+
+If FloEdit imports the sound without telling you any error, but you don’t hear it in full length, you’ve got a problem with your audio software. Try to do it this way:
+
+1.	Create your new sound with 41 kHz
+2.	Copy whole file to clipboard
+3.	Create a new, empty file with 6896 Hz / Mono / Unsigned / 8-Bit
+4.	Insert clipboard (audio software should now resample the sound)
+5.	Save file
+
+(I tell you since I got this problem with CoolEdit Pro 1.1)
+
+If you want to know what to do in the Wolfenstein engine code to use your new sounds, see chapter Adding new sounds to the engine !
+ 
++$#KDesigning good maps overview
+The original tutorial was written by...
+Brian J. "Blazkowicz" Rowan
+Designer of "The Renovation" and "Conflict in the Fatherland"
+(C)opyright 1994-1999
+
+(Modified for use with FloEdit by F.Stöhr / 1999)
+
+Table of Contents
+1.0 - Designing new levels: MAP mode 
+  1.1 - Getting started 
+  1.2 - Walls 
+  1.3 - Floor codes 
+    1.31 - What happens if you mess up... 
+    1.32 - "Deaf Guard" floor code errors 
+  1.4 - Doors 
+  1.5 - Secret doors (Pushwalls) 
+  1.6 - Elevators 
+  1.7 - Secret elevators 
+  1.8 - Overall tips and strategies for level design 
+  1.9 - Ceiling colors 
+
+2.0 - Designing new levels: OBJECT mode 
+  2.1 - Guards 
+    2.11 - Moving (patrolling) guards 
+    2.12 - Stationary guards 
+  2.2 - Tricks 
+  2.3 - Ammo and weapons 
+  2.4 - Food and health packets 
+  2.5 - Treasure 
+  2.6 - Keys 
+  2.7 - Furniture 
+  2.8 - Other objects 
+
+3.0 - Other tips / strategies 
+  3.1 - Number of objects in view 
+  3.2 - Special wall types 
+  3.3 - Hiding secret areas 
+  3.4 - Rearranging the order of your levels (without EXE modification) 
+
+4.0 - Playtesting your new level(s) 
+  4.1 - Common problems 
+
+A.1 - Wolfenstein level limits 
+A.2 - Treasure/Ammo/Health calculations, etc. 
+
+B.1 - Wolfenstein ceiling color chart 
+B.2 - Spear Of Destiny ceiling color chart 
+
+
+ 
++$#K1.0 - Designing new levels: MAP mode
+First of all: After you connect to a Wolfenstein/spear folder, click the "Map editing page" tab. You'll now see the map of the first level (look at the level name). To clear the whole map, click the 
+selection tool, mark the whole page and click the delete toolbar button or press the del key. The whole map will be cleared and filled with the map element assigned to the left mouse button.
+Please note:
+You must have at least a 1-tile thick wall around the outer edge of the map! Don't ever forget this, or your game will crash!
+ 
++$#K1.1 - Getting started
+The first thing I always put in is the entrance to the level and the Player Start Position (by default a little green arrow). You can either have the player, B.J. Blazkowicz, start out in a "dead" 
+elevator (an elevator whose switch does not work) or just in front of a "Level Entrance" wall type. Wolf3D always uses the latter, while Spear always uses the former. Just make sure that if you put the 
+player inside a dead elevator that you use the "Fake Elevator" or "Elevator Rails" (see section 1.6) wall type, not the standard "Elevator" wall, or the player will be able to just spin around, throw 
+the switch, and finish the level right off! Believe me -- I've seen that before.
+
+I always design the walls of a room first, then I put in the doors, and then the use the "AutoFloor™" command to create the floor codes. You may not want to do it this way, but I find it easier to 
+erase and re-design walls using the "backspace" method (assigning "Nothing" to right mouse button and clear the rooms with it or using the "Fill" command).
+ 
++$#K1.2 - Walls
+I get a little annoyed at some of these queer levels that have wall graphics on one wall all mixed up; for instance, they'll have a "Wood / Iron Cross" stuck in the middle of a "Grey Brick" wall, or a 
+"Grey Stone" stuck in the middle of a "Blue Stone" wall...what's with that? It might sound cool in the editor, but in the game it looks ridiculous and unrealistic. You never see that kind of craziness 
+in the original Wolf maps, so if you're trying to be true to the originals, do everyone a favor and avoid this. Try to give each stretch of wall (or each series of rooms, ideally) its own unique 
+texture, and only mix the ones that are meant to be mixed (like "Grey Stone" and "Grey Stone / Banner"). The only way I would say you could connect totally different wall types and have it look 
+anywhere near decent would be if you were to recess the different wall type 1 square into from the wall, like this:
+
+{bml bm29.BMP}
+
+Also, it looks a bit silly to make an entire wall Hitler pictures (or some other decoration), especially if the wall is more than 4 blocks long. 
+
+Try not to use too many discrete wall textures in a single level. There is such a thing as too much variance. I was guilty of this in my first 60 levels, and it's a little annoying to see a different 
+texture every time you open a door. I suggest letting various "areas" of the level use different textures, not just various "rooms". A series of wood-paneled rooms could be like an office area, while 
+another sector of the level might be all red brick. As a general rule, I would try not to use more than 4 or 5 different texture styles on a level. Of course, that doesn't mean individual textures, 
+like "Blue wall / swastika". A texture style would be, for example, the entire "Blue wall" set of textures, including "Blue wall", "Blue wall / swastika", and "Blue wall / skull".
+
+Overall, if you want to design a level of the same quality of id Software's, you have to look at the original level whose slot you're about to replace, and keep in mind what wall textures were used for 
+the most part, and of what style most rooms were. Then, when you create your level, give it a certain subtle similarity to the original level and I guarantee you'll be satisfied with the results.
+ 
++$#K1.3 - Floor codes
+There seems to be a little misunderstanding with the use of floor codes. I've seen a lot of levels where the whole thing is one floor code. Sure, that's fine, but only if you want every guard on the 
+entire floor to wake up if you do so much as fire a shot (as long as they're not "deaf"). Warren Buss, member of the Mapedit team, recommends using a different floor code for each individual room. What 
+I do is take a composite of these two ideas. I assign individual floor codes to each contiguous GROUP of rooms in a level. That may be a whole series of dungeon cells, or three rooms and a hallway, or 
+just two adjacent rooms. Whatever your pleasure, just keep in mind that whenever you fire a shot on a certain floor code, every guard standing on that code ANYWHERE on the level will come to life and 
+start to make their way towards your position. On occasion, this might be the effect you want. For instance, near the beginning of the level you could arrange for the player to initiate a firefight on 
+one particular floor code. Meanwhile, somewhere else on the level, you could place a few guards on that same floor code. They would wake up and start to chase the player down, but the player wouldn't 
+realize it. Use this technique to introduce some randomness into your levels, particularly if they are designed in a non-linear sense. While they're busy exploring, a door might suddenly fly open and 
+an Officer might come running through with his gun blazing -- and the player never heard him bark a warning! Use this knowledge to put floor codes to good use. 
+
+Note: The easiest way to insert a different floor command into every room can be done with FloEdit by using the "AutoFloor™" command (Menu Extra).
+
+I mentioned guards being "deaf" in the above paragraph. What I mean is, guards who are standing on the special "Deaf Guard" or "Ambush Guard" floor code (code 006a). Any guard placed on this floor code 
+will not respond to the sound of your gun firing, but he will still respond to the sight of you. Indeed, a deaf guard's eyesight is increased dramatically. He is able to see for one tile in all 8 
+directions around him. So if you plan to sneak up on this guy, you'd better shoot before you get too close! Take note that the "deaf guard" floor code cannot be used on moving (patrolling) guards, 
+those guys who casually walk around on a defined path before they see you. More on the specific applications of this floor code is explained in sections 2.11 and 2.12.
+
+The specific placement of floor codes in secret rooms is very important. The floor code in a secret room (accessed by a pushwall) MUST BE the same as the room from which you entered. For instance, if 
+you have a big room with a secret door on one side that reveals a secret treasure cache when pushed, the floor code in the treasure room would have to be the same as the floor in the big room. Making 
+it something different won't crash the game (most of the time), but it will create another very big problem. If you use a different floor code in a secret room, none of the guards in the secret room 
+will respond to you, unless you shoot and hit them. They'll be like stone statues, blind and deaf. The original maps of Wolfenstein and Spear of Destiny usually don't have guards hidden in secret rooms 
+(at least not the first room of a sequence), but you as the designer are not required to follow this rule. One thing you have to remember when you put guards in a secret room is: The guards must be 
+marked "deaf" or they'll come running when you fire a shot in the room outside; therefore they might block the pushwall when you try to open it. Again, we return to that rule of thumb: Whenever you 
+fire a shot on a certain floor code, all guards on that same code, no matter how far away, will wake up and start hunting you down. If you want to hide guards in your secret area but you don't want to 
+make them deaf, you could put another room adjacent to the secret room, separated by a normal door, and give the new room its own unique floor code. The guards, when put in that room, wouldn't have to 
+be deaf, and they won't hear you when you shoot up the Nazis outside.
+ 
++$#K1.31 - What happens if you mess up...
+Don't ever put a square or two of one floor code in a room with a different floor code. This will generate very strange results! The last time I accidentally did this, not only did the ceiling change 
+color as I went in and out of rooms ("What's happening here?" I thought in confusion), but at the end of the level, my treasure ratio was 109%! Weird, huh? If you want to mess with your players' minds 
+(and generally be thought of as a lousy level designer), you can do this. Otherwise...
+ 
++$#K1.32 - "Deaf Guard" floor code errors
+Two important things to remember when making guards deaf via the use of the "deaf guard" floor code:
+
+•	Never put a deaf guard directly directly in front of or behind a door. When the game is run, the door in question will not be seen; rather there will be a blank space which the player will not be 
+able to cross (some people have called this the "invisible forcefield effect"). This is fine if you meant to have it happen (another realism-destroying effect), but bad if done inadvertently. 
+
+•	Too many deaf guards all grouped right next to each other will ultimately cause a strange effect with some of these guards. One or more of them will be "paralyzed", and just sit there being 
+unresponsive until you shoot them down -- the same way they act if you put a different floor code in a secret room, as I explained in section 1.3. Let me tell you, does it ever look stupid when you put 
+two dozen guards in a key room or elevator room, all standing adjacent to each other, and make them all deaf -- and then when you walk inside the room, everyone just stands there like idiots!
+ 
++$#K1.4 - Doors
+You can have a maximum of 63 doors on one level (not including pushwalls). Any more than that will cause Wolf3D to kick out an error to the effect of: "64+ doors on level!" after the "Get Psyched!" 
+screen. There are some rules to follow when placing doors: 
+
+•	You can't put more than one door right next to each other without having at least one square of wall between it, or something weird will happen (trust me). 
+
+•	If one side of a vertical door is connected to a square that is next to a horizontal door, the door frame will replace that square (I know that wasn't explained very well, so here's a drawing): 
+
+{bml bm30.BMP}
+
+One way to avoid this situation is to place the two doors so that they each share this square, as shown below:
+
+{bml bm31.BMP}
+
+Take note that the problem with a "phantom door slot" will not always occur. Only if the doors are facing a certain way will it happen. Don't ask me why...
+
+ 
++$#K1.5 - Secret doors (Pushwalls)
+If you looked at the original Wolfenstein maps, particularly Episode 6, you may have noticed in a couple places that secret doors are expected to slide back only 2 squares, and if they slid back any 
+more they would block your way into the passage beyond. I have found that if a secret door is able to move 3 spaces (it has nothing behind it), it WILL move three spaces. This is a bug in the game 
+engine that was never corrected. It exists in Spear of Destiny as well (though not in any of Wolfenstein's spin-off sequels, such as Blake Stone or Corridor 7).
+Therefore, you should, at all costs, avoid placing secret pushwalls so that they would have to move less than 3 squares in order for you to get by. Basically, it is safer for you to assume that a 
+pushwall WILL move 3 squares if it has the room to do so, and adjust your designs accordingly.  
++$#K1.6 - Elevators
+Designing elevators can be tricky business, especially if you want to stray from the usual 1-tile square elevator car. Elevator wall types are one of only very few others that look one way when aligned 
+north/south (vertically), and look a totally different way when aligned east/west (horizontally). Below is an example:
+
+{bml bm32.BMP}
+
+So, if you align an elevator left/right (horizontally), the switch will be on the wall in front of you as you enter, with the rails on each side. Illustration:
+
+{bml bm33.BMP}
+
+If you align it up/down (vertically), you'll have to put the switch on either the left, right, or both sides as you come in. Another illustration:
+
+{bml bm34.BMP}
+
+If you have the switch on only one side, you'll have to choose another wall type ("Steel" works well) to use on the other side, as you can't put rails on the side of a vertical elevator. Oh, yeah, if 
+you're making a level for Spear, you can use the new wall type "Elevator Wall", which the original Wolf3D doesn't have. Just perfect for vertical elevators, it displays a normal elevator wall when 
+aligned either way. When I make new levels, I tend to extract that graphic from Spear and replace one of Wolfenstein's with it. It comes in very handy.
+
+In the FloEdit Walls tab legend, there are two additional Elevator textures that deserve mention. One is the "Elevator Rails" wall type. The "Elevator Rails" and "Elevator" wall codes, when placed, 
+actually look the same in the game. The difference is that, at least in version 1.4, the switch on the "Elevator Rails" wall cannot be operated (seems to me like I got it to work on my old version 
+1.2). The other wall that deserves mention is the "Fake Elevator" wall type. On the east/west sides of this tile is the elevator switch in the upward position (already thrown). It is non-functional and 
+cannot be used to end the level. You've probably seen this wall type used in the original game levels. The curious thing about this wall type though, is that on the north/south sides, it is completely 
+blank! It's just filled with dark gray. What a waste of good texture space! Of course, you can go into the VSWAP file with FloEdit and put any texture there that you like.
+ 
++$#K1.7 - Secret elevators
+Secret elevators are ones that take the player to the secret level and are always (unless you want to spoil the challenge) hidden behind pushwalls and in complicated secret areas, making them hard to 
+find in most cases. Secret elevators are just like normal elevators except for one thing: The floor code inside the elevator must be 006b ("Secret Elevator Floor" in FloEdit's Floor tab legend).
+
+IMPORTANT! The secret elevator must always be on the same level as it was originally, or the player will return to the wrong level after finishing the secret floor. For example, the game is programmed 
+to return to level 2 after finishing the secret floor in episode 1, because the secret elevator was on floor 1. So if you put the secret elevator on floor 6, it'll still go back to floor 2 when the 
+player gets done on the secret level. That was my biggest disappointment when I first started making levels. If you want to change this, you'll need to alter and recompile the source code. It may be 
+possible to change this in the existing WOLF3D.EXE with a hex editor, but I don't know anyone who's managed it yet.
+
+Oh yeah, and if you're designing a huge maze to lead to your latest and greatest secret level, don't forget to put in a conventional way out of the level!
+ 
++$#K1.8 - Overall tips and strategies for level design
+Try to be creative about your design of levels (but not creative to the point of abstraction, because that's not what this game is meant to do). Ask yourself: How might a realistic Nazi castle be laid 
+out? What sort of rooms would this level have? What is the purpose of this entire installation? Plan what sort of theme each level will have ahead of time. For instance, will level 1 be more of a 
+"basement", or will it be a "weapons storage" level, or maybe even just a huge security bunker full of Nazis? Dependant on how you want your level to be thought of, you should use certain types of wall 
+codes to give it the corresponding look. For example, one of my "Renovation" levels was called "Sewers", so I composed the level's walls almost completely of gray stone w/slime. As you get further up 
+in an episode, I suggest using more "distinguished" wall types like the brown marble or wood panels. As you get up toward levels 7 and 8 in an original Wolf3D mission, things usually start to look like 
+an "officers only" club. Of course, depending on the story for your episode or mission, that may be reversed, or totally untrue whatsoever.
+
+There are some practical and technical matters that should be taken into consideration, too. Avoid making huge rooms that take up half the level; as you get further and further away from a wall or 
+object the detail is toned down significantly and it ends up looking a little weird (like it actually isn't real!). That's because of something called aliasing, but I won't go into that now. Try using 
+some strangely-shaped rooms every so often to liven things up a little; plain old rectangular rooms and halls get a little boring after a while. Also, avoid using the "landscape" wall type anywhere but 
+behind white pillars or other static object the player can't get past. If the player is allowed to get to close to the landscape wall, they begin to wonder why they bump into the blue sky rather than 
+fleeing from the castle. All these are considerations which help preserve the realism of the game. It's hard enough to maintain a true sense of realism in a game running at 320x200 in 256 colors with 
+orthogonal walls that are all the same height and no light shading (Well, go to http://www.wolfnode.de ... Flo added light shading to the Wolfenstein engine... whoa...! :) Don't make it harder on 
+yourself.
+
+IMPORTANT! Choose whether you're going to align the landscape walls north/south or east/west on a level, and orient ALL of them in that direction. The landscape wall is special because it shows a green 
+landscape (day) on the north and south sides, and a starry sky (night) on the east and west sides. So, displaying both views on the same level doesn't exactly make sense. For their original levels, id 
+Software chose whether they would make an entire episode take place during the day or night. You'll never find a mixture of the two in any episode. Just for the record, here's a chart of their 
+decisions: 
+
+Episode 1: Day
+Episode 2: Night
+Episode 3: Unknown (Landscape wall never used in episode)
+Episode 4: Day
+Episode 5: Unknown (Landscape wall never used in episode)
+Episode 6: Night 
+
+Finally, another tip on landscape walls: When you put them somewhere, don't put them flush with the walls around them. This looks, for lack of a better word, dumb. Below is another artistic example:
+
+{bmc bm35.BMP}
+
+WRONG.
+Don't do this. It makes the normal wall type look like it has no depth.
+
+{bmc bm36.BMP}
+
+RIGHT.
+This looks better.
+ 
++$#K1.9 - Ceiling colors
+CONSIDER CEILING COLORS!!
+
+I know this might sound a little ridiculous to some of you, but it's really a good idea to think about the color of the ceiling on a particular level before you start making any plans about which wall 
+textures to use. The whole purpose of doing this hinges on the fact that some wall types look really awful with certain colors, while others look really good. Of course, if you don't care about that, 
+go ahead and skip this section, but I'm telling you -- it makes a difference. Id Software obviously chose the ceiling colors to match with the textures they would be using on each level. Episode 1 is 
+the exception, because it's all that damn gray that I HATE (palette index 1d, or 29 for the hexadecimal impaired). But take Episode 4, level 6 for instance. What's the ceiling color? Blue. What texture 
+is used for at least the first half of the level? Blue stone. They match perfectly. Do you think that was done accidentally? Uhhhh...no! So when you're designing your own levels, unless you have access 
+to the source code where you can change the colors of the ceilings, plan to use textures that go well with the ceiling color for that particular floor. Appendix B of this file contains a chart of what 
+colors are used on which floors. The hexadecimal/decimal values following the color description are the palette index numbers for that color. This may help you source code hacking fellows out there. 
+Spear of Destiny uses the same colors on different levels, while adding several new ones. Appendix B-2 contains a chart of the Spear of Destiny colors.
+
+The different ceiling colors will have varied effects on the overall "feel" of the level you're playing. A brighter ceiling color will seem to have the effect of brightening the ambient light of the 
+whole level. This visual illusory stuff is pretty much the only way to alter the "lighting" in Wolfenstein. If I had the knowledge, I'd write some additional code for the game that would allow for 
+light shading with distance. Maybe if I had some source from another raycasting engine that had light shading, I could do it. But right now I think that's a little beyond me, alas – and I don't even 
+know if it's possible.
+
+I've noticed that only certain wall types look good with certain ceiling colors, and I made up a chart of some suggestions. It's a little incomplete, as I haven't laid down one wall of every color on 
+every level with a different ceiling color just to test it, but I have a general idea.
+
+•	DARK GRAY: 
+Looks good with almost any wall type, especially gray stone or gray brick. Also good with gray stone w/slime. This color looks particularly odd with brown walls, including brown weave, brown stone, and 
+brown marble. Generally, all of the shareware textures look good here because – well, all the ceilings in the shareware game were gray! Duhhh! 
+
+•	PURPLE: 
+Looks good basically only with purple walls. Anything else looks disgusting.
+
+•	MUSTARD YELLOW: 
+Best with gray stone w/slime. Regular gray stone also looks good. Pretty cool with red brick and wood, too. Most people hate this color but I really like it for some reason. Maybe because Episode 2 has 
+always been my favorite...and not because of the damn mutants! 
+
+•	LIGHT BLUE: 
+Good with gray stone and gray stone w/slime. This color is at its best with blue stone or plain blue walls. I think it looks good with everything. 
+
+•	DARK BLUE / MEDIUM BLUE:
+Best with blue stone, while it's not bad with wood or red brick, either. 
+
+•	DARK RED: 
+Usually paired with red brick or gray stone. Not bad for gray brick. Kinda nasty w/blue walls. 
+
+•	DARK BROWN: 
+Best w/brown walls. Especially wood. Fine w/red brick. Looks good with just about anything, but blue walls again do the worst here. 
+
+•	LIGHT BROWN: 
+Can be disgusting with certain wall types. This is a perfect match with "brown weave", that rock texture used on E5L6. A little strange with wood, but I like it. Not bad w/gray stone or red brick. I'm 
+not sure, but this probably looks its worst against something dark like blue stone or purple. 
+
+•	CYAN: 
+Best with steel, where it matches perfectly. Looks a bit peculiar with dark walls. Gives a "lighted" impression to a level (not to mention your monitor), especially w/gray brick, stone, or blue walls. 
+Blue stone looks pretty good, also.
+ 
++$#K2.0 - Designing new levels: OBJECT mode
+After you've got your walls, doors, and floor codes in a room, you're ready to put in the objects. The category "Objects" in FloEdit includes statics, or the stuff like ceiling lamps and tables that 
+just sit there, and Actors, which are the Nazis themselves. FloEdit's Object mode also includes a few miscellaneous items like starting points and turning points. Some of you may want to design the 
+rooms and the walls before you even think about objects, but I don't go by that strategy. I like to fully design parts of a level at a time, then play that part, check for errors, then fix them when I 
+go back to the editor to continue designing it.
+
+You can have a maximum of 399 static objects on a level. Guards (including the dead SA), secret doors, turning points, and the player start positions are NOT considered statics, and are not part of 
+this tally. I typically find that static objects are the things I run out of space for first, because I like to place lots of decorations and such in my levels. It tends to improve the overall look of 
+the whole thing.
+
+Of course, the most important type of "objects" (even though they're called actors) are the Nazis themselves. Following them, there's ammo, weapons, health, and treasure. These are things the player 
+can pick up up and use to his/her advantage. Then there's "furniture", the purely decorative elements such as plants and tables that do nothing but sit around and look good (or bad, depending on where 
+you put them). Finally, there's another category of objects that are "invisible", such as the turning points, the endgame trigger (Wolf3D only), and the player start points. Turning points direct the 
+path of moving guards. The endgame trigger tells the game to end the episode when the player crosses it (used in the original episodes 1 and 5, boss levels). Finally, the player start positions 
+are...oh, come on. You can figure that one out, can't you? 
+
+IMPORTANT! This one's fun: Note that if you use the maximum number of objects, you may find yourself running low on ammo as you blaze through the level's content of Nazi guard. Why? Because you've got 
+so many objects on the level, the Nazis you juice can't afford the memory to drop their ammo! If you've got the maximum number of objects, only one clip of ammo can be dropped at a time. If you never 
+pick up that one clip, you won't get any more until something causes some other objects to be removed from memory -- such as the player picking up treasure items. The point here is that this can be 
+sort of a nice challenge if that's the effect you want! 
+
+ 
++$#K2.1 - Guards
+Maximum number of guards on a level: 149 
+
+There are two types of guards: Stationary and moving (patrolling) guards. I shouldn't have to explain the differences; stationary guards just stand there, while moving ones walk calmly along a path you 
+specify by using "turning points", previously mentioned. Since placing stationary guards is pretty easy (though there are a few tricks you can employ), I'll talk about placing patrolling guards first.
+ 
++$#K2.11 - Moving (patrolling) guards
+Putting moving guards in an area can be a little tricky. If there are a lot of static objects in a room, you might have some trouble maneuvering the guards around them (barrels, pillars, tables, etc). 
+Of course, you could have them walk right through them, but then that object becomes transparent to even the player and, for instance, your "maze" of barrels will be easily penetrable (more info on 
+that one under "Tricks"). You control where and in which direction the guards walk by using those white arrows called "Turning Points", under OBJECTS in the editor. You don't have to keep putting them 
+in every square the moving guard will walk on. Just place one where you want him to turn.
+
+If, by chance, you put a guard on a path that intersects with the path of another moving guard, and the two guards collide, both will simply stop moving completely (either the character's animation 
+will freeze or one guard will be walking against the other guy like a toy robot). Any guard behind him scheduled to walk on the same path will bump into him and also freeze. This chain-reaction will 
+eventually hit every guard on the same path, so when you get around to coming in the room, they'll all be packed in a corner somewhere. This is most common when dogs and any other guard are on the same 
+path; dogs move faster than any guard and will eventually ram into them, causing both sprites to freeze in mid-animation. Take note, however, that this seems to be a common problem when laying out 
+long, winding paths for guards with turning arrows, particularly paths with diagonal turning points. And strangely enough, I get the "guards packed in the corner" problem more in v1.4 of the game than 
+I did with v1.2.
+
+Since recompiling the Wolfenstein source code, I re-enabled the No Clipping cheat in Wolf3D so I can check up on the patrolling guards. As Warren Buss explained in his own map tips file, this cheat can 
+be used to pass through walls and disrupt the normal checking of floor codes, so you can oftentimes drop in on guards without being seen. Ever put a pushwall into a room, and make that room have a 
+different floor code? Pushwalls don't act as "triggers" that connect and disconnect different floor codes, like regular doors do, so the floor codes on each side have to be the same. If you walk onto a 
+different floor code without crossing through a door, most of the time any guards in that area will not see you because you're "not officially on their floor code". It's kind of weird. Anyway, the No 
+Clipping cheat allows this to happen, so you can see your guards walking around without them noticing you and breaking their motion path to attack you. You can use this cheat in Spear of Destiny 
+without changing anything, or Wolfenstein if you re-enable it in the code like I did. Watch out, though, because sometimes enabling the No Clipping mode can make Wolfenstein act a little weird until 
+you quit and restart the game.
+ 
++$#K2.12 - Stationary guards
+Stationary guards are much easier. You can place them anywhere you want. A special attribute you can assign to stationary guards is the "deaf guard" attribute, something I already mentioned in section 
+1.3. This is achieved by placing the "deaf guard" floor code (a gray "X" in the mapdata legend) on the same square the guard is standing on. This means that unless the guard sees you or is hit, he 
+won't react to your shooting. This is useful for guards waiting right behind a door; making them "deaf" will cause them to wait there and ambush the player when he/she comes through the door. It's also 
+useful for guards in secret rooms. Since secret rooms accessed by a pushwall need the same floor code as the room on the other side of the pushwall, any guards inside will hear you shooting outside, 
+and they may block the pushwall from moving later. Making them "deaf" (or putting them in a room behind a regular door) will prevent this. Take note that you cannot assign the deaf guard floor code to 
+a moving guard.
+
+Not only will a guard on the "deaf guard" floor code not be able to hear you, he sees like a hawk. This guy can see for one square in all eight directions around him (yes, he can see what's behind him, 
+too), and sometimes he can even see through the corners of the walls! It's a little surprising, to say the least, when you hear a guard suddenly sound off and there's no one in the room with you -- 
+because he saw you through the corner of a wall. That effect is created (by accident) in episode 1, level 4, of my "Renovation" maps. You're just strolling down a hall and suddenly: "Schutzstaffel!" 
+And it isn't until a few seconds later when the player enters another room, that they see the mystery SS barging towards them. Weird.
+ 
++$#K2.2 - Tricks
+There's a couple of special tricks I've learned with placing guards on a level. These are kind of "cheesy" tricks, and sometimes you might want to warn the people who will play the level about it, 
+because it can be a little unfair if they don't know this is ahead of them. They also tend to have a nasty habit of destroying the realism of the whole gaming experience, so unless you're aiming for 
+that, I would avoid these.
+
+Like I mentioned a little while ago, you can place moving guards in such a way so as they make normally blockable objects penetrable to the player (and other guards). In some cases this can eliminate 
+the need for secret doors, so all you have to do is walk against the wall and you'll fall in. This is also an interesting trick to use to make the player think the elevator is blocked by that barrel 
+when, in fact, the barrel has been walked through, so now it's transparent! You could have such a moving guard in a room with a bunch of other normal moving guards moving around the perimeter of the 
+room. Have him start off walking through an object, then include an extra turning point in his path so that after walking through it he falls into step with the rest of the guards. That'll make your 
+special guard nice and inconspicuous. The other trick you can use with guards is to put them inside a wall. In that instance, you can be walking through a room that looks empty - but as soon as you 
+walk past, half a dozen Nazis come pouring out of the woodwork (quite literally!). Putting stationary guards inside wall squares doesn't work too well; since they're not on a floor code at all, weird 
+effects are created. To accomplish the "penetrable" object or wall effect, what you have to do is this: Place a moving guard in your level, 1 tile away from (and facing) a static object or wall tile 
+that you want to make penetrable. If it is an object, the guard will keep walking in the original direction, and you can place additional turning points to direct him along a normal patrolling path. If 
+it is a wall that you want to make penetrable, then put two turning points facing each other inside the wall, like this:
+
+{bmc bm37.BMP}
+
+The guard will walk into the wall and stay in there, out of sight. Then, when the player comes in, the guards see him immediately and -- pang! The poor dope gets quite a scare. When you do this, the 
+wall square(s) the guards walked through become transparent to the player, like the objects trick I mentioned above. Therefore, behind these transparent walls is a prime (although unrealistic) place to 
+hide secret rooms, because the wall looks solid, but the player doesn't know it's not until he or she bumps up against it and falls in.
+ 
++$#K2.3 - Ammo and weapons
+It's important to leave at least a little ammo scattered around the level for the player to pick up; after all, the whole point of the game is shooting at people. If the player should happen to die, 
+they'll have to restart the level with a pistol and 8 bullets. For this reason, it's also a good idea (unless you're really nasty) to put a machine gun somewhere close to the player's start position, 
+or an SS that'll drop his MP-40 when you kill him. Also, it's polite to stick a chaingun in a secret area someplace on every level or so. I think every level I made for "The Renovation" had a chaingun 
+tucked away someplace -- in fact one had 4 -- but sometimes it wasn't so easy to get! You don't have to give them away. Make the player work for their chainage!
+ 
++$#K2.4 - Food and health packets
+These are very important items too. If a level is totally devoid of any medkits or food, the average player could die rather quickly, especially on "Death Incarnate" – and if they've come from the 
+previous level with a lot of bullet wounds. Leave a stash of healing somewhere near the beginning of the level, and drop some chicken or dog food along the way to the keys & the elevator. Don't just 
+leave chicken meals scattered in the hallway or something, though. That looks ridiculous. I know the Nazis are idiots, but would even they just leave dinner on the floor in the castle hallways? What's 
+with that? Make a kitchen or a mess hall area with tables, pots and pans, etc. to leave food in. Even just a small room with a set of table and chairs and one or two chicken meals is good. Anyway, also 
+keep in mind that 1-ups (extra lives) bring your health straight to 100% and your bullet count up by 25 when you grab 'em.
+ 
++$#K2.5 - Treasure
+Treasure is important, too. It is for this very reason that I wish more games would have scoring systems, with treasure or something you can get to rack up points. I know it's not very realistic, but I 
+like trying to get a high score by grabbing all the treasure on a level! Remember that the amount of treasure collected is tallied up at the end of each level (except for secret and boss levels). There 
+are five types of treasure, and here they are ranging from least to most point value:
+
+1-Up: 			0 Points (but gives you 100% health and 25 bullets)
+Cross: 		100 Points
+Chalice: 		500 Points
+Treasure Chest: 	1000 Points
+Crown: 		5000 Points
+
+While 1-Ups do not provide you with any points, they do count as part of the treasure ratio. If you're going to put treasure on a level, it's most realistic to hide it, or at least the more "expensive" 
+varieties, as I'm sure you've already guessed.
+
+Note: Keep in mind that the player can only carry 9 lives at one time. Also, the player will get an extra life for every 40,000 points they accumulate. 
+
+One more thing. I believe somewhere it says that if you have no treasure on a level the game will give out an error when it goes to count up your treasure ratio? Not so, at least not in version 1.4. 
+This also applies to the other categories. They'll just end up being 0%.
+ 
++$#K2.6 - Keys
+There are basically four ways, using key placement, to make a player complete a level:
+
+•	You can require no keys to be obtained before the level can be finished (but what fun is that?). 
+
+•	You can require only one key to be obtained before the level can be finished. 
+
+•	You can make one key necessary to open the door to the other key, which in turn is necessary to open the door to the elevator. 
+
+•	You can have both keys equally hard to obtain, and the elevator locked behind both silver and gold key doors to make the level an even bigger stumper. 
+
+Personally, I prefer the third choice, the one the original Wolfenstein designers usually went for. In my "Renovation" levels I used mostly the fourth way, but in my second level set ("Conflict in the 
+Fatherland") I almost always require the silver key to open the gold key room (or at least the path to it), which in turn opens the elevator room.
+ 
++$#K2.7 - Furniture
+REMINDER: Maximum number of statics on a level: 399 
+
+This category includes stuff like ceiling lamps, columns, oil drums, plants, kitchen utensils, and whatever other "static" or "decorative" objects the game has. I think this kind of object has a 
+definite impact on the look and feel of a level. For instance, a room without ceiling lights is nasty. It looks really bad to me for some reason. Adding static sprites is really important. Without 
+them, your level ends up looking like a working demo for a crusty old raycasting engine. Just having walls is a no-no. Here's my philosophy: Try to put a lot of decorative objects like plants, lamps, 
+and tables in areas that are normally visited by Nazis, such as a "kitchen" area in the middle of an episode. A secret level or sewer level should have fewer objects (except maybe vines) to give it 
+that "uninhabited" look. The original episode 2, level 10, is sort of like that; kind of the "Nobody ever gets time to dust down here" look. 
+
+Flags, suits of armor, and other high-class decor objects are useful for visually tagging important areas of a level. For instance, the door to the elevator room could have a flag on each side of it. 
+Another major way to "tag" important areas is the placement of walls with pictures, shields, etc.
+
+But please, avoid situations like this:
+
+{bml bm38.BMP}
+
+And, look at the following problem of the engine:
+
+{bml bm39.BMP}
+{bml bm40.BMP}
+
+Both images show the same situation: You'll always see the same image for the rack (the same problem with any other sprite). The engine does not use textured polygons for sprites (like Quake does), so 
+do not use racks in normal rooms (use them in small, 1-square wide tunnels, so that it's not possible to see them from any other angle than 90°)
+ 
++$#K2.8 - Other objects
+•	Turning points, as I already mentioned, are used to control the path of moving guards. 
+
+•	Start position markers are placed in the position and angle at which you want the player to begin the level. If you don't put one of these in and then try to playtest your level, the display will 
+be garbled, the game will suddenly run at quarter-speed, and you'll have to quit – since the game's trying to place you at coordinates 0,0 where a wall must always reside. Whoops! 
+
+•	Finally, Endgame triggers are those things at the end of episodes 1 and 5 to determine at what point the view swings around to show our friend B.J. leaping up and yelling in triumph. Knowing 
+exactly where to place these can get a bit complicated. If you place them too close to the end wall (usually a landscape view), the "camera" will back up so far that it will back into the wall and mess 
+the display all up. Therefore, place Endgame triggers at least six squares from the wall. 
+
+Another important thing about endgame triggers. They must be placed so that the player will cross them from the south side. No other side will work, as the "camera" is only programmed to swing around 
+to face the south, NOT to face wherever the player might be. Unfortunately, this means you cannot have the player finish an episode by running out into a starry night sky. :( Believe me, I've tried, 
+and all I got was a camera that strafed sideways and captured a brick wall as B.J. ran off to the north.
+
+ 
++$#K3.0 - Other tips / strategies
+Here are just a few more words I wanted to get across about level design, a few more problems you might encounter, and a few more things you should try NOT to do.
+ 
++$#K3.1 - Number of objects in view
+It's important to remember not to put too many static objects in one room. If you get approximately 56-64 or more objects (including guards) in view at once, the screen won't be able to refresh fast 
+enough and some of the objects will start "disappearing" or becoming invisible. This can easily happen when you get into a room that you've stuffed with vines, or a room with a maze of barrels. But 
+when guards that are shooting at you start becoming invisible, the player starts to panic. Yes, even this problem is apparent in the original Wolfenstein maps, on E4L8 and E4L10 among other places. 
+There, an officer suddenly popped up right in my face, after I thought I'd already cleared the room 5 seconds earlier.
+
+ 
++$#K3.2 - Special wall types
+Please don't use the special wall types, like the landscape view, to make up the walls of a room! If you do that, half of the room will be day and the other half will be night! It might make the player 
+think that spending too much time playing Wolfenstein can have a permanent effect on you (not). The only place I might suggest doing something totally ridiculous like this is on a level whose theme is 
+supposed to be one of total lunacy (the original Episode 3, level 10, is not even crazy enough for that). If you want to destroy the realism of the game, go ahead. I played a level like this once. I 
+wonder if the author thought it was cool to do that. I happened to think it was pathetic. Creative perhaps, but pathetic.
+ 
++$#K3.3 - Hiding secret areas
+An interesting place to hide secret areas is directly off fake elevators. The player usually just opens the door, sees the switch is already thrown, and ducks out. Or they see that there's a barrel 
+blocking the switch and don't even come in. Well, hide a pushwall were they least expect it! The only thing you have to be careful of is those elevator siderails. On the other side of them will be a 
+workable switch! Make sure to take into account the position the elevator walls will end up in if you let the player push them, and if a switch side is exposed, re-engineer your design. The best wall 
+type to use in an elevator besides the side rails is steel, or in Spear of Destiny, the "elevator wall" tile (yellow square with a green dot inside it by default). It's also tricky to hide a key behind 
+a pushable wall... Combined, it looks like this:
+
+{bmc bm41.BMP}
+
+As you can see, this is not a normal fake elevator, but the starting fake elevator of the level (this is taken from the official FloEdit-demo in map5. You'll need the silver key to complete the 
+level... tricky... hahaha...
+
+Another very cool possibility to hide secret areas can be found on the same level. Look at this:
+
+{bmc bm42.BMP}
+
+If you push the middle wall, you won't be able to go to the secret room any more. To get into it, you first have to push the two walls with the yellow square in it, the push the wall with the cyan 
+square to the left or right, and the finally push the red brick wall behind it!
+
+ 
++$#K3.4 - Rearranging the order of your levels (without EXE modification)
+I learned a special way of organizing levels from Keith Heitmann, who wrote at least 10 of his own levels which I have played. Instead of having a secret level, the boss level is level 10 (the player 
+just goes straight through from 1 to 10). Experimenting with this method, I have found a way to make level 9 the secret level, and have the player skip from 8 to 10 if they don't find the secret exit. 
+This is done by putting the secret elevator on level 8, but placing a standard floor code in it so that it will progress to level 9, which is the secret one. The regular elevator will have floor code 
+006b (secret) inside, which takes the player to level 10 (the boss level in this case). Finally, on the new secret level (9), put the "secret" floor code in the elevator so it'll go to the final level! 
+Sort of a neat way to mess up the player's mind, isn't it. This way they won't know what to expect!
+
+There is yet another way to arrange your levels differently that I came up with myself. You may not want to use this, as it can majorly shorten the episode, but here goes: Place the secret elevator on 
+the correct floor, as usual. But then put the boss on that floor, too! That way, if the player doesn't find the secret floor, the game ends for them and they've won. Otherwise, they've got SEVERAL 
+secret levels to play! Just put a boss or endgame trigger on the final secret level too so the player can end the game then.
+ 
++$#K4.0 - Playtesting your new level(s)
+The final important step in creating a new Wolfenstein or Spear level is to playtest it. Why? To see if there are any errors, make sure it looks right, and...to make sure you can beat it without 
+cheating, of course! That means you'll have to play with God Mode off (horrors!) and on Death Incarnate. If you distribute this level and the player can't beat it without a cheat code, they may get 
+aggravated because cheating DOES take the fun out of the game -- at least in the long run. 
+
+More bad news: playtesting can be a royal pain in the butt, especially if you keep getting killed, but if you eventually beat the level, you'll know that it IS possible and you are then free to dish 
+the level out to your friends. Try to test a level before it's finished. Work up about a quarter of the map and test it before you go on. That way it takes less time to cover all of the territory 
+you've designed to check for errors, and it reduces the possibility of you forgetting to visit a certain area since it isn't crucial to level completion.
+ 
++$#K4.1 - Common problems
+These are some common problems you might encounter once, twice, or several times throughout your level-making experiences: 
+
+•	Placing an object in a wall instead of a floor code, so you get this wall (likely mismatched with the rest of them) in the middle of the room. Usually happens when you put objects down before you 
+put down a floor code. 
+
+•	Guards not responding to gunfire or sight of you. Almost always due to a floor code mishap of some sort. See section 1.3, "Floor Codes", for details. 
+
+•	Secret doors that jam up or move too far, covering the path beyond. Especially common if you try to duplicate id Software's famous "pushwall mazes" where you can push more than one wall in order to 
+mess up the remainder of the maze – E4L2 comes to mind! Always make sure any big mazes you design can be completed while you're still in the map editor; you probably won't want to test them firsthand 
+(bore!). Here's a nice tip on checking up on your mazes: Go to the level where your maze is and plot out the correct path by using turning points indicating the correct pushwalls. Then, export the 
+level to an individual LVL-file and - voila! You have an instant map to call up at any time. I'm glad I did this - one of my mazes had a critical error in pushwall placement that I was able to find and 
+correct through this method. It's also good to save the wall as a BMP file or print it out, and look at it while navigating through your maze – you won't have any problems then!
+
+•	"Phantom Door Slot" (PDS) bug. See section 1.4, "Doors", for details. 
+
+•	Solid static object placed in front of a secret door or regular door by mistake, impeding passage into the area beyond. Should be easy enough for you to find and fix. 
+
+•	Moving guards behaving strangely, results usually being something like all of them clustering in a corner and getting stuck. Usually due to misplacing turning points somewhere along the line. 
+Sometimes the cause of this problem will not be obvious; in that case you'll either have to live with the problem or rearrange the movement path (and pray that it works!). 
+
+•	Too many static objects on the level. Wolfenstein will crash with one of the infamous "Call Apogee" messages (of course, Apogee will not give you any tech support for a level you've created!) 
+
+•	Up/down (Vertically) aligned fake elevators that accidentally have working switches. Insert a "Fake Elevator" wall to fix this (see section 1.6: "Elevators" for instructions). 
+
+•	No player start position. If you forget this essential item, you'll see some screwy graphics when you enter the level and you won't be able to move. Wait! Don't reset your computer - just quit to 
+DOS and restart; it should work.
+ 
++$#KA.1 - Wolfenstein level limits
+Maximum Number of Static Objects:	399
+Maximum Number of Guards:		149
+Maximum Number of Doors:		63
+ 
++$#KA.2 - Treasure/Ammo/Health calculations, etc.
+* Treasure *
+
+Cross: 		100 Points
+Chalice: 		500 Points
+Treasure Chest: 	1000 Points
+Crown: 		5000 Points
+1-Up: 			No points; full health and 25 bullets
+
+* Ammunition *
+
+Fresh Clip: 		8 Bullets
+Used Clip: 		4 Bullets
+Weapon: 		6 Bullets
+
+* Health *
+
+Dog Food: 		4 Percent
+Chicken Dinner: 	10 Percent
+1st Aid Kit: 		25 Percent
+ 
++$#KB.1 - Wolfenstein ceiling color chart
+Episode and Level Ceiling Color (pal. index)
+
+E1L1 - E1L9 	Dark Gray (1d / 29)
+E1L10 	Purple (bf / 191)
+E2L1-E2L3 	Med. Mustard (4e / 78)
+E2L4 		Dark Gray (1d / 29)
+E2L5 		Light Blue (8d / 141)
+E2L6 		Med. Mustard (4e / 78)
+E2L7		Dark Gray (1d / 29)
+E2L8 		Dark Red (2d / 45)
+E2L9 		Dark Gray (1d / 29)
+E2L10 	Light Blue (8d / 141)
+E3L1-E3L5 	Dark Gray (1d / 29)
+E3L6 		Dark Red (2d / 45)
+E3L7 		Dark Brown (dd / 221)
+E3L8-E3L9 	Dark Gray (1d / 29)
+E3L10 	Medium Blue (98 / 152)
+E4L1 		Dark Gray (1d / 29)
+E4L2 		Dark Blue (9d / 157) 
+E4L3 		Dark Red (2d / 45) 
+E4L4-E4L5 	Dark Brown (dd / 221) 
+E4L6 		Dark Blue (9d / 157) 
+E4L7 		Dark Red (2d / 45) 
+E4L8 		Lighter Mustard (4d / 77) 
+E4L9 		Dark Gray (1d / 29) 
+E4L10		Dark Brown (dd / 221) 
+E5L1 		Cyan (7d / 125) 
+E5L2 		Dark Gray (1d / 29) 
+E5L3-E5L4 	Dark Red (2d / 45) 
+E5L5 		Dark Brown (dd / 221) 
+E5L6 		Light Brown (d7 / 215) 
+E5L7-E5L9 	Dark Gray (1d / 29) 
+E5L10 	Dark Red (2d / 45) 
+E6L1-E6L4 	Dark Gray (1d / 29) 
+E6L5-E6L6 	Dark Brown (dd / 221) 
+E6L7 		Cyan (7d / 125) 
+E6L8-E6L10 	Dark Brown (dd / 221) 
+
+ 
++$#KB.2 - Spear Of Destiny ceiling color chart
+Level Number Ceiling Color (pal. index)
+
+01 	Green (6f / 111) 
+02 	Dark Olive (4f / 79)
+03 	Dark Gray (1d / 29) 
+04 	Dark Brown (de / 222) 
+05 	Very Dark Brown (df / 223) 
+06 	Dark Red (2e / 45) 
+07 	Dark Cyan (7f / 127) 
+08 	Dark Blue (9e / 158) 
+09 	Dark Purplish Blue (ae / 174) 
+10 	Dark Cyan (7f / 127) 
+11 	Dark Gray (1d / 29) 
+12 	Dark Brown (de / 222) 
+13 	Very Dark Brown (df / 223) 
+14 	Dark Brown (de / 222) 
+15 	Very Dark Brown (df / 223) 
+16 	Dark Brown (de / 222) 
+17 	Cyan (e1 / 225) 
+18 	Medium Brown (dc / 220) 
+19 	(Secret 1) Dark Red (2e / 45) 
+20 	(Secret 2) Dark Gray (1d / 29) 
+21 	(Angel of Death) Medium Brown (dc / 220)
+
+ 
++$#KTroubleshooting
+
+PROBLEM: The game dies when I die and displays the error "Out of Memory" but I have plenty of memory for the game.
+
+SOLUTION: This problem was more common with older Wolfenstein versions. For some reason, the game bombs either the first or second time you die in certain levels. The only apparent remedy is to 
+continually restart up Wolfenstein 3D or to be sure not to die. I have never had this problem myself, and I think it is all but gone in version 1.4 of the game.
+
+
+PROBLEM: When I restart the level after dying, the screen is reduced to half-size and the border around it is flickering between bright red and transparent.
+
+SOLUTION: This was the most common problem I encountered while playtesting my maps. I believe it has something to do with the outside border of the level architecture. If it is one tile thick at any 
+point, this problem might crop up. Try to make your outside borders at least two blocks thick, and you may solve this problem. To correct the screen glitch when it happens, hit F5 and bump the screen 
+size back up to maximum (or wherever you had it).
+
+
+PROBLEM: All kinds of walls spontaneously change to dark grey stone walls for no reason.
+
+SOLUTION: This is another strange bug. The game temporarily overwrites the normal picture for the wall and replaces it always with gray stone wall. Perhaps it does this because it runs out of memory 
+for storing so many types of walls. This problem can easily be cleared up by saving, quitting and restarting the game if the levels start to look too ugly, because the problem is not stored in the 
+saved games.
+
+
+PROBLEM: I see a lot of vertical lines, like "ripples", appearing on my screen when I move that shouldn't be there.
+
+SOLUTION: If you have an older version of the game, this will be much more likely. There must be 50 potential problems that cause this glitch to occur, one of which is opening a door that has no floor, 
+just a wall, on the other side. Some of the other problems are only a nuisance. Others produce random errors that can kill your game, destroy saved games and do other drastic things. I can't provide an 
+answer for all of these problems and I don't know the cause of most of them. I did find that pushing blocks next to doors often causes this.
+
+
+PROBLEM: I sometimes get stuck in the same square as something else and I can't move.
+
+SOLUTION: This happens if an enemy walks into you without seeing you (which can only happen when No Clipping is on), or if you push a secret door and leap into the space it is pushed to. In any case, 
+you are doomed and have to load a game or restart. If you are careful, this won't happen.
+
+
+PROBLEM: Another problem occurred that wasn't mentioned here.
+
+SOLUTION: This may be one of the mystery problems that show up every once in a while, annoy you and then dwindle off and never appear again. If you find a continuing problem, email me explaining it and 
+when it occurs so I can look it over. You might even want to save the level to an individual LVL-file in FloEdit and mail it to sexgott@firemail.de, so I can see the problem myself.
+ 
++$#KDialog box "Professional mode"
+This dialog box gives you full access to FloEdit's symbol database. You can
+•	Add new wall/object IDs
+•	Edit them
+•	Delete them
+•	Change the number of levels in your game (and the extension)
+
+{bml bm43.BMP}
+
+Changing number of levels:
+
+As you can read in the picture, you'll have to rename the files of the game when you want to increase/decrease the number of levels. FloEdit does the renaming automatically for you, all you have to do 
+is to give it the number of levels and the new (max. 3 characters!) file extension. Then press the Apply now! button (Do NOT click the Close button, this will not change your levels!)
+When you change the number of levels, your project will be saved first, then the number of levels will be adjusted, and finally FloEdit disconnects from the directory (this is because it needs to reset 
+all internal tables for the adding process). All your new levels (if you added some... otherwise, the un-used levels will just be truncated) will be Grey Stone 1 without any objects.
+To edit your new ground-breaking user Wolfenstein version, reconnect to the directory. Select user-defined in the Dialog box "Connect" and enter the correct extension AND the correct number of levels. 
+FloEdit won't open anything if you give it a wrong number of levels!
+After connecting to your new user game, FloEdit will ask you for a new object type name. This will only happen if you connect to your new game for the first time and only if there's no objecttype 
+available for this number of levels (Objecttypes are organized by number of levels in the game). For detailed information about this, refer to the chapter Objecttypes)
+
+Note: 
+Changing the number of levels requires recompiling and modifying the Wolfenstein-3D engine! Look at the Changing number of levels in the engine help chapter for further information!
+
+Editing database:
+
+Don't worry if you look at the table and don't understand anything... Let me explain:
+As you can see, there are four columns in the table
+
+•	ID
+This is the ID of the element (map or object) used by the Wolfenstein engine. Please note that FloEdit cannot process any IDs greater than 499! And be careful not to assign a floor command to any map 
+ID, since the floor commands do not appear in this table!
+
+•	Description
+Well, I think it's not necessary to explain this field...
+
+•	IsAMap
+If any object in this column is "Wahr" (or "True"), it is a MAP element. If it is "Falsch" (or "False"), it is an OBJECT element.
+
+•	Position
+This can be any value you want (less or equal than 65535). It is just used for sorting the database: Records will be shown from low to high numbers in the tables. As you can see in my original 
+databases, not all numbers are used, but that is good: Imagine you have four different types of "Grey Stone". Their position numbers are 100-103. Now, you add a new record at the end of the database. 
+But you want FloEdit to show this new symbol (which is also a "Grey Stone") after the other four ones, and not at the end: Give it position 104, and everything will be fine.
+So my tip: This will only work if you CAN give it #104. If you used 104 for "Blue Stone 1" or anything like this, it won't work. So give number 120 to your "Blue Stone 1" or whatever you add, then 
+you've got enough space to add any other objects to the prior object type. Look at my original database, I've done so in all the three default tables and this works fine!
+
+Now, as you know the meanings of the four columns, look how to edit or add some data:
+
+Deleting a record is very simple. Just press the button. There won't be any confirmation box, so be careful with this command, since no undo is available for this operation.
+
+Editing and adding records is also simple. Just press the button. The Dialog box "Edit / Add dataset" appears)
+
+Click the Close button to close the dialog box. FloEdit will now recalculate all the image lists and will immediately reflect your changes. You do not need to save anything, since database changes will 
+always be saved automatically immediately when clicking the OK button in the add dialog box.
+
+
+ 
++$#KDialog box "Edit / Add dataset"
+This dialog box appears if you press the Edit or Add button in the Dialog box "Professional mode"):
+
+{bml bm44.BMP}
+
+Note: 
+You won't see any text in the edit fields if you invoked this dialog box with the Add button!
+
+Be careful with the ID value!
+1.	There MUST NOT exist the same value for any wall/object!
+2.	IDs must be between 0 and 499 (0 is used for "Nothing")
+
+As you can see, there is no possibility to change the symbol definitions here. After adding your symbols, click the Descriptions and symbols tab of the FloEdit main window to change them!
+
+
+ 
++$#KDialog box "Create new objecttype"
+This dialog box appears if you click the New Objecttype button on the Objecttypes tab in the FloEdit main window.
+
+{bml bm45.BMP}
+
+Enter the name of your new objecttype in the edit field. The name must not be longer than 30 characters and it must not be defined yet. If you create a new objecttype from a standard basetype (this is 
+WL1, WL6 or SOD), there won't appear any other dialog box. But if you create a new objecttype from a user-defined type or if you connect to a user-defined objecttype game for the first time, you'll see 
+the following dialog box:
+
+{bml bm46.BMP}
+
+You can select a basetype of your objecttype there. This means, you have to tell FloEdit which symbols you want to add to your database. Since this is for professional users only (those guys who want 
+to get the most out of Wolfenstein, I recommend to select WL6, since you've got lots of symbols in here and I guess you'll create your add-ons from the well-known 1.4-version if the original WL6 game 
+and use the VSWAP/VGAGRAPH of this version. Of course, you have to change a lot of them, but this should not be any problem for you...)
+By the way, the "basetype" does not care about the VSWAP file you're using. It's no problem to load WL1 symbols when having a SOD VSWAP for example.
+ 
++$#KChanging number of levels in the engine
+Changing the number of levels the game uses is simple. It is also easy to reduce the number of episodes or the number of levels per episode, but since I give you the official FloEdit-demo game source 
+code, I'll use this example. Please note that my demo does not use episodes (like spear...). So here we go:
+
+WL_MENU.C:
+
+Look at the following code of the CheckForEpisodes(void) function and replace the WL6-extension to your new extension:
+
+//
+// ENGLISH
+//
+#ifndef UPLOAD
+#ifndef SPEAR
+	if (!findfirst("*.WL6",&f,FA_ARCH))
+	{¬
+		strcpy(extension,"WL6");
+
+		(...)
+	}
+
+ID_CA.H:
+
+Change the #define NUMMAPS 60 line in this file!
+
+
+ 
++$#KLevel import/export
+The level import/export function is a lot better than you know it from other Wolfenstein editing tools: You can export as many levels as you like and if you import some level(s), FloEdit won't paste 
+them into the active map but copies them to FloEdit's multi-clipboard. 
+
+You can export levels only in the FloEdit LVL-format. Do not change this extension! You might get problems reimporting them! 
+
+FloEdit also supports importing MAPEDIT level files (*.FLR). Also, if you'd like to import a MAPEDIT file, don't change its extension, it MUST be FLR !
+
+ 
++$#KMulti-clipboard
+FloEdit does not use the Windows clipboard. Any object you copied into the Windows clipboard will stay there unchanged, no matter how much you use FloEdit's internal clipboard while working with it. 
+FloEdit's clipboard supports more than one copied object. You can have as much objects as you like in the clipboard (limited by system resources and memory). When you'd like to insert any copied object 
+into the map, you can either paste the last copied object or you can use FloEdit's multi-clipboard manager where you can choose which object you'd like to insert:
+
+{bml bm47.BMP}
+
+Just select the object you want and click the Paste into map button. Be careful with the Clear list command, since this will remove everything from FloEdit's clipboard. You can free system resources by 
+removing objects you don't need anymore by clicking the Remove object button.
+
+You can also use FloEdit's multi-clipboard for exchanging maps with other versions of Wolfenstein (if you want to use these maps more often, I recommend exporting those maps to a LVL file, see Level 
+import/export).
+
+If you change the Objecttype or the version (well, this means nearly the same for my clipboard...), FloEdit automatically updates the preview images of your copied objects.
+ 
++$#KAdding new sprites to the engine
+Adding new sprites to the engine is not as easy as adding new walls, since you have to recompile the engine. This is because there are lots of different sprite types:
+
+•	Static objects (plants, tables, ...)
+•	Food
+•	Ammo
+•	Treasure
+•	Guards
+•	Flying rockets
+•	...
+
+First of all, since FloEdit places your new images after all other images (by default, the last image is the firing chaingun), you have to add constant(s) AFTER the other constants in WL_DEF.H file 
+(everything printed red is ADDED):
+
+//
+// player attack frames
+//
+SPR_KNIFEREADY,SPR_KNIFEATK1,SPR_KNIFEATK2,SPR_KNIFEATK3,
+SPR_KNIFEATK4,
+
+SPR_PISTOLREADY,SPR_PISTOLATK1,SPR_PISTOLATK2,SPR_PISTOLATK3,
+SPR_PISTOLATK4,
+
+SPR_MACHINEGUNREADY,SPR_MACHINEGUNATK1,SPR_MACHINEGUNATK2,
+MACHINEGUNATK3,SPR_MACHINEGUNATK4,
+
+SPR_CHAINREADY,SPR_CHAINATK1,SPR_CHAINATK2,SPR_CHAINATK3,
+SPR_CHAINATK4,
+
+SPR_FLODEMO_1,
+};
+
+Don't forget the ',' after the last constant!
+
+If your new sprite is NOT a guard, but anything else – like static objects, ammo, guns, food, treasure – add the constant(s) you've defined in our previous step to the statinfo[] structure array in 
+file WL_ACT1.C:
+
+//
+// NEW PAGE
+//
+#ifdef SPEAR
+{¬SPR_STAT_48,block},			// marble pillar
+{¬SPR_STAT_49,bo_25clip},		// bonus 25 clip
+{¬SPR_STAT_50,block},			// truck
+{¬SPR_STAT_51,bo_spear},		// SPEAR OF DESTINY!
+#endif
+
+{¬SPR_STAT_26,bo_clip2},	      // Clip (This IS 71)
+{¬SPR_FLODEMO_1,block},             // Our new entry!
+{¬-1}					      // terminator
+};
+
+Look at that 'Page' organization (I think a new page starts every 8 things). The second info ('block') means that the player can't walk through the sprite. Look at the source code if you want an 
+overview of all the possible constants here!
+
+Different types of sprites are "spawned" by different engine routines. The spawner routine is ScanInfoPlane() from file WL_GAME.C. Look at the code snipped:
+
+			switch (tile)
+			{¬
+			case 19:
+			case 20:
+			case 21:
+			case 22:
+				SpawnPlayer(x,y,NORTH+tile-19);
+				break;
+
+For static objects (starting at ID 23), the code is:
+
+                 (...)
+                 case 70:
+                 case 71:
+                 case 72: // This (predefined) is our new ID!
+                 case 73: // Unused
+                 case 74: // Unused
+				SpawnStatic(x,y,tile-23);
+				break;
+
+You see, adding static objects is not so hard. You only have to take care about that you don't assign any ID twice! When you look at the code, you'll see that IDs 72-97 are not used yet, so you can 
+assign these map ID to your objects. It's YOUR decision what you want your new sprite to be – a static objects, a guard, ... Just what you want. (By the way, IDs > 300 are not used by the engine, too. 
+So you have about 220 free objects for your game, since FloEdit supports IDs 0-499). But remember, if you want special behavior of your objects (for example a new boss), you'll also have to write their 
+Spawn() functions! Now, why did I take '72' as the new ID and not '75' or '300' ? Well, we use SpawnStatic(x,y,tile-23) here. And now have a look at the code of SpawnStatic:
+
+void SpawnStatic (int tilex, int tiley, int type)
+{¬
+	laststatobj->shapenum = statinfo[type].picnum;
+     (...)
+}
+
+Since we use tile-23, out new sprite will be 72-23 = 49. If we had used 300 as our new ID, the routine would search for a 300-23 = 277 entry in the statinfo[] array. This does not exist. Just count the 
+entries in the structure. And you see: The last object we added to statinfo[] was at index position 49 (first item is always 0). If you added lots of sprites, you can of course modify the SpawnStatic() 
+routine so that it automatically subtracts 277 from a parameter or anything else. But this is easy, if you can't do that, you should not try to rewrite a 3D-engine! The same if you want to add new 
+doors or new guns or new keys... Look at the code, I told you what to do for static objects now. Things are quite the same for the other things, you just have to add your code on other lines...
+ 
++$#KAdding new sounds to the engine
+Adding new sounds is easier than adding sprites. You just have to add constants in two sections of the code:
+
+First, just add a name of your new sound (constant definition) to the table in file AUDIOWL6.H:
+
+#define NUMSOUNDS		 88   // Do NOT change this!
+#define NUMSNDCHUNKS		290   // Do NOT change this!
+
+//
+// Sound names & indexes
+//
+typedef enum {¬
+		HITWALLSND,              // 0
+		SELECTWPNSND,            // 1
+		SELECTITEMSND,           // 2
+		HEARTBEATSND,            // 3
+		MOVEGUN2SND,             // 4
+		MOVEGUN1SND,             // 5
+		NOWAYSND,                // 6
+		NAZIHITPLAYERSND,        // 7
+		SCHABBSTHROWSND,         // 8
+		PLAYERDEATHSND,          // 9
+		DOGDEATHSND,             // 10
+		ATKGATLINGSND,           // 11
+		GETKEYSND,               // 12
+		NOITEMSND,               // 13
+		WALK1SND,                // 14
+		WALK2SND,                // 15
+		TAKEDAMAGESND,           // 16
+		GAMEOVERSND,             // 17
+		OPENDOORSND,             // 18
+		CLOSEDOORSND,            // 19
+		DONOTHINGSND,            // 20
+		HALTSND,                 // 21
+		DEATHSCREAM2SND,         // 22
+		ATKKNIFESND,             // 23
+		ATKPISTOLSND,            // 24
+		DEATHSCREAM3SND,         // 25
+		ATKMACHINEGUNSND,        // 26
+		HITENEMYSND,             // 27
+		SHOOTDOORSND,            // 28
+		DEATHSCREAM1SND,         // 29
+		GETMACHINESND,           // 30
+		GETAMMOSND,              // 31
+		SHOOTSND,                // 32
+		HEALTH1SND,              // 33
+		HEALTH2SND,              // 34
+		BONUS1SND,               // 35
+		BONUS2SND,               // 36
+		BONUS3SND,               // 37
+		GETGATLINGSND,           // 38
+		ESCPRESSEDSND,           // 39
+		LEVELDONESND,            // 40
+		DOGBARKSND,              // 41
+		ENDBONUS1SND,            // 42
+		ENDBONUS2SND,            // 43
+		BONUS1UPSND,             // 44
+		BONUS4SND,               // 45
+		PUSHWALLSND,             // 46
+		NOBONUSSND,              // 47
+		PERCENT100SND,           // 48
+		BOSSACTIVESND,           // 49
+		MUTTISND,                // 50
+		SCHUTZADSND,             // 51
+		AHHHGSND,                // 52
+		DIESND,                  // 53
+		EVASND,                  // 54
+		GUTENTAGSND,             // 55
+		LEBENSND,                // 56
+		SCHEISTSND,              // 57
+		NAZIFIRESND,             // 58
+		BOSSFIRESND,             // 59
+		SSFIRESND,               // 60
+		SLURPIESND,              // 61
+		TOT_HUNDSND,             // 62
+		MEINGOTTSND,             // 63
+		SCHABBSHASND,            // 64
+		HITLERHASND,             // 65
+		SPIONSND,                // 66
+		NEINSOVASSND,            // 67
+		DOGATTACKSND,            // 68
+		FLAMETHROWERSND,         // 69
+		MECHSTEPSND,             // 70
+		GOOBSSND,                // 71
+		YEAHSND,                 // 72
+		DEATHSCREAM4SND,         // 73
+		DEATHSCREAM5SND,         // 74
+		DEATHSCREAM6SND,         // 75
+		DEATHSCREAM7SND,         // 76
+		DEATHSCREAM8SND,         // 77
+		DEATHSCREAM9SND,         // 78
+		DONNERSND,               // 79
+		EINESND,                 // 80
+		ERLAUBENSND,             // 81
+		KEINSND,                 // 82
+		MEINSND,                 // 83
+		ROSESND,                 // 84
+		MISSILEFIRESND,          // 85
+		MISSILEHITSND,           // 86
+           FLOSND1,                 // 87  (this is our new constant)
+		LASTSOUND
+	     } soundnames;
+
+//
+// Base offsets
+//
+#define STARTPCSOUNDS		  0 // Don't change these lines!
+#define STARTADLIBSOUNDS	 87
+#define STARTDIGISOUNDS	174
+#define STARTMUSIC		261
+
+Note:
+Do not change ANYTHING of the #define lines. It's not necessary as you'll see when you dig through the code!
+
+The second step is to add the constant and a value for it into the wolfdigimap[] structure in file WL_MAIN.C:
+
+/*
+=====================
+=
+= InitDigiMap
+=
+=====================
+*/
+
+static  int     wolfdigimap[] =
+		{¬
+			// These first sounds are in the upload version
+			HALTSND,                0,
+			DOGBARKSND,             1,
+			CLOSEDOORSND,           2,
+			OPENDOORSND,            3,
+			ATKMACHINEGUNSND,       4,
+			ATKPISTOLSND,           5,
+			ATKGATLINGSND,          6,
+			SCHUTZADSND,            7,
+			GUTENTAGSND,            8,
+			MUTTISND,               9,
+			BOSSFIRESND,            10,
+			SSFIRESND,              11,
+			DEATHSCREAM1SND,        12,
+			DEATHSCREAM2SND,        13,
+			DEATHSCREAM3SND,        13,
+			TAKEDAMAGESND,          14,
+			PUSHWALLSND,            15,
+
+			LEBENSND,               20,
+			NAZIFIRESND,            21,
+			SLURPIESND,             22,
+
+			YEAHSND,			32,
+
+#ifndef UPLOAD
+			// These are in all other episodes
+			DOGDEATHSND,            16,
+			AHHHGSND,               17,
+			DIESND,                 18,
+			EVASND,                 19,
+
+			TOT_HUNDSND,            23,
+			MEINGOTTSND,            24,
+			SCHABBSHASND,           25,
+			HITLERHASND,            26,
+			SPIONSND,               27,
+			NEINSOVASSND,           28,
+			DOGATTACKSND,           29,
+			LEVELDONESND,           30,
+			MECHSTEPSND,		31,
+
+			SCHEISTSND,			33,
+			DEATHSCREAM4SND,		34,	// AIIEEE
+			DEATHSCREAM5SND,		35,	// DEE-DEE
+			DONNERSND,			36,	// EPISODE 4 BOSS DIE
+			EINESND,			37,   // EP. 4 BOSS SIGHTING
+			ERLAUBENSND,		38,	// EP. 6 BOSS SIGHTING
+			DEATHSCREAM6SND,		39,	// FART
+			DEATHSCREAM7SND,		40,	// GASP
+			DEATHSCREAM8SND,		41,	// GUH-BOY!
+			DEATHSCREAM9SND,		42,	// AH GEEZ!
+			KEINSND,			43,	// EP. 5 BOSS SIGHTING
+			MEINSND,			44,	// EPISODE 6 BOSS DIE
+			ROSESND,			45,	// EPISODE 5 BOSS DIE
+                 FLOSND1, 			46,   // Our new sound!
+
+#endif
+			LASTSOUND
+		};
+
+As you see, the number after each constant is just the index in the digisound table. Since FloEdit adds your new sound after the last one (this is 'ROSESND', as you can hear if you press the Play 
+digitized button in FloEdit), just give your new sound the next number. Easy, huh?
+
+You can now play your new sound wherever you want using the following line:
+
+SD_PlaySound(FLOSND1);
+
+If you want to assign your new sound to the spawning/death of any object or enemy, just look at files WL_ACT1.C and WL_ACT2.C... I think you'll have to put in your code there. But that's not so hard... 
+ 
++$#KAdding new images to the engine
+Attention: Adding new images might be tricky! 
+
+First, add a new constant in file GFXV_WL6.H:
+
+typedef enum {¬
+		// Lump Start
+		H_BJPIC=3,
+		H_CASTLEPIC,                         // 4
+		H_BLAZEPIC,                          // 5
+		H_TOPWINDOWPIC,                      // 6
+		H_LEFTWINDOWPIC,                     // 7
+		H_RIGHTWINDOWPIC,                    // 8
+		H_BOTTOMINFOPIC,                     // 9
+		// Lump Start
+		C_OPTIONSPIC,                        // 10
+		C_CURSOR1PIC,                        // 11
+		C_CURSOR2PIC,                        // 12
+		C_NOTSELECTEDPIC,                    // 13
+		C_SELECTEDPIC,                       // 14
+		C_FXTITLEPIC,                        // 15
+		C_DIGITITLEPIC,                      // 16
+		C_MUSICTITLEPIC,                     // 17
+		C_MOUSELBACKPIC,                     // 18
+		C_BABYMODEPIC,                       // 19
+		C_EASYPIC,                           // 20
+		C_NORMALPIC,                         // 21
+		C_HARDPIC,                           // 22
+		C_LOADSAVEDISKPIC,                   // 23
+		C_DISKLOADING1PIC,                   // 24
+		C_DISKLOADING2PIC,                   // 25
+		C_CONTROLPIC,                        // 26
+		C_CUSTOMIZEPIC,                      // 27
+		C_LOADGAMEPIC,                       // 28
+		C_SAVEGAMEPIC,                       // 29
+		C_EPISODE1PIC,                       // 30
+		C_EPISODE2PIC,                       // 31
+		C_EPISODE3PIC,                       // 32
+		C_EPISODE4PIC,                       // 33
+		C_EPISODE5PIC,                       // 34
+		C_EPISODE6PIC,                       // 35
+		C_CODEPIC,                           // 36
+		C_TIMECODEPIC,                       // 37
+		C_LEVELPIC,                          // 38
+		C_NAMEPIC,                           // 39
+		C_SCOREPIC,                          // 40
+		C_JOY1PIC,                           // 41
+		C_JOY2PIC,                           // 42
+		// Lump Start
+		L_GUYPIC,                            // 43
+		L_COLONPIC,                          // 44
+		L_NUM0PIC,                           // 45
+		L_NUM1PIC,                           // 46
+		L_NUM2PIC,                           // 47
+		L_NUM3PIC,                           // 48
+		L_NUM4PIC,                           // 49
+		L_NUM5PIC,                           // 50
+		L_NUM6PIC,                           // 51
+		L_NUM7PIC,                           // 52
+		L_NUM8PIC,                           // 53
+		L_NUM9PIC,                           // 54
+		L_PERCENTPIC,                        // 55
+		L_APIC,                              // 56
+		L_BPIC,                              // 57
+		L_CPIC,                              // 58
+		L_DPIC,                              // 59
+		L_EPIC,                              // 60
+		L_FPIC,                              // 61
+		L_GPIC,                              // 62
+		L_HPIC,                              // 63
+		L_IPIC,                              // 64
+		L_JPIC,                              // 65
+		L_KPIC,                              // 66
+		L_LPIC,                              // 67
+		L_MPIC,                              // 68
+		L_NPIC,                              // 69
+		L_OPIC,                              // 70
+		L_PPIC,                              // 71
+		L_QPIC,                              // 72
+		L_RPIC,                              // 73
+		L_SPIC,                              // 74
+		L_TPIC,                              // 75
+		L_UPIC,                              // 76
+		L_VPIC,                              // 77
+		L_WPIC,                              // 78
+		L_XPIC,                              // 79
+		L_YPIC,                              // 80
+		L_ZPIC,                              // 81
+		L_EXPOINTPIC,                        // 82
+		L_APOSTROPHEPIC,                     // 83
+		L_GUY2PIC,                           // 84
+		L_BJWINSPIC,                         // 85
+		STATUSBARPIC,                        // 86
+		TITLEPIC,                            // 87
+		PG13PIC,                             // 88
+		CREDITSPIC,                          // 89
+		HIGHSCORESPIC,                       // 90
+		// Lump Start
+		KNIFEPIC,                            // 91
+		GUNPIC,                              // 92
+		MACHINEGUNPIC,                       // 93
+		GATLINGGUNPIC,                       // 94
+		NOKEYPIC,                            // 95
+		GOLDKEYPIC,                          // 96
+		SILVERKEYPIC,                        // 97
+		N_BLANKPIC,                          // 98
+		N_0PIC,                              // 99
+		N_1PIC,                              // 100
+		N_2PIC,                              // 101
+		N_3PIC,                              // 102
+		N_4PIC,                              // 103
+		N_5PIC,                              // 104
+		N_6PIC,                              // 105
+		N_7PIC,                              // 106
+		N_8PIC,                              // 107
+		N_9PIC,                              // 108
+		FACE1APIC,                           // 109
+		FACE1BPIC,                           // 110
+		FACE1CPIC,                           // 111
+		FACE2APIC,                           // 112
+		FACE2BPIC,                           // 113
+		FACE2CPIC,                           // 114
+		FACE3APIC,                           // 115
+		FACE3BPIC,                           // 116
+		FACE3CPIC,                           // 117
+		FACE4APIC,                           // 118
+		FACE4BPIC,                           // 119
+		FACE4CPIC,                           // 120
+		FACE5APIC,                           // 121
+		FACE5BPIC,                           // 122
+		FACE5CPIC,                           // 123
+		FACE6APIC,                           // 124
+		FACE6BPIC,                           // 125
+		FACE6CPIC,                           // 126
+		FACE7APIC,                           // 127
+		FACE7BPIC,                           // 128
+		FACE7CPIC,                           // 129
+		FACE8APIC,                           // 130
+		GOTGATLINGPIC,                       // 131
+		MUTANTBJPIC,                         // 132
+		PAUSEDPIC,                           // 133
+		GETPSYCHEDPIC,                       // 134
+           FLOPIC,                              // 135, our new one!
+
+		ORDERSCREEN=136,
+		ERRORSCREEN,                         // 137
+		T_HELPART,                           // 138
+		T_DEMO0,                             // 139
+		T_DEMO1,                             // 140
+		T_DEMO2,                             // 141
+		T_DEMO3,                             // 142
+		T_ENDART1,                           // 143
+		T_ENDART2,                           // 144
+		T_ENDART3,                           // 145
+		T_ENDART4,                           // 146
+		T_ENDART5,                           // 147
+		T_ENDART6,                           // 148
+		ENUMEND
+	     } graphicnums;
+
+Be careful with the numbers! The table starts with 3 and not 0, since some chunks are used for info and for the two Wolfenstein fonts.
+
+Look at the line "ORDERSCREEN=136". This is no problem. If you want to insert new images, just remove the "=136" from this line:
+
+GETPSYCHEDPIC,
+FLOPIC,
+NEWPIC1,
+NEWPIC2,
+ORDERSCREEN,
+ERRORSCREEN,
+(...)
+
+This doesn't matter. But never forget to adjust the following line in the same file:
+
+//
+// Amount of each data item
+//
+#define NUMCHUNKS    150
+#define NUMFONT      2
+#define NUMFONTM     0
+#define NUMPICS      133 // Original value is 132. Add '1' for each
+                         // new image you want to use !
+#define NUMPICM      0
+#define NUMSPRITES   0
+#define NUMTILE8     72
+#define NUMTILE8M    0
+#define NUMTILE16    0
+#define NUMTILE16M   0
+#define NUMTILE32    0
+#define NUMTILE32M   0
+#define NUMEXTERNS   13
+
+This line tells Wolfenstein the correct number of images in VGAGRAPH file.
+
+I think you can adjust the other values you find in this file if you want correctness – but since the error screen and the do-not-distribute screen should not appear in your game, you can just leave 
+this values as they are. You can play around with them if you like, but I think it is not necessary, Wolfenstein will run without problems and will use your new images, even if some values in this file 
+are wrong. Of course, if you don't adjust the variables, you will get CA_xxx errors when you finished the last level and Wolfenstein tries to display the ReadMe-screens. But it's easy to solve this – 
+just disable the ReadMe screens:
+
+To disable the ReadMe popup, open file WL_INTER.C and remove the EndText(); function call in the Victory(); function. This is the last command in the whole function.
+
+Also, if you don't adjust everything, Wolfenstein will always terminate with an error when you quit it ("Out-of-memory").
+
+A tip from me: If you just add the number of images you added to every of the following lines, Wolfenstein should terminate OK. But the ReadMe screens still won't work (well, who cares about that?)
+
+NOTE: You don't need to adjust the LATCHPICS_LUMP_END value for additional title screens! The image will flicker if you do so. But I think you need it for little pictures (like additional guns on the 
+status bar. So place your small images before the large ones and set this value to the end of the small ones. Just play around with this for a while, I don't have the time to write another manual about 
+this. And don't send your questions about that to me! If you want to create a ground-breaking add-on with 20 new guns, 10 new enemies and lots of other cool stuff you can build into your game with 
+FloEdit, you'll just need some time to figure out the correct values in this file. It is tricky, I know, but this is Wolfenstein source...
+
+#define STARTPICM    135
+#define STARTSPRITES 135
+#define STARTTILE8   135
+#define STARTTILE8M  136
+#define STARTTILE16  136
+#define STARTTILE16M 136
+#define STARTTILE32  136
+#define STARTTILE32M 136
+#define STARTEXTERNS 136
+
+Have fun...
+ 
++$#KGeneral things about editing the engine
+Let me say one thing before you go on and read the adding chapters:
+
+Don't-boring-me-with-your-questions-about-that-engine!
+
+OK? I needed several MONTHS to understand how some things of the engine work. And if you think you want to modify the engine, you'll have to learn how it works, too. I explained most of the simple 
+things, but there are also lots of problems (adding guard sprites and their sounds, for example), I don't tell you. You have to figure this out yourself. It's possible, I know some of my beta-testers 
+who wrote very cool add-ons.
+
+And you can also download the full source code of my FloEdit demo. This code shows you:
+
+•	Light shading for Wolfenstein-3D
+•	Number of levels reduced to 6
+•	No episode separation
+•	No memory startup screen
+•	Text message startup (faded)
+•	New gun
+•	New walls
+•	New sprites
+•	New sounds
+
+This source code won't be available yet when I release FloEdit, but I think I'll upload it in December 1999 to FloEdit's WHQ at http://www.wolfnode.de! Check out this page... for updates, demos, 
+source...

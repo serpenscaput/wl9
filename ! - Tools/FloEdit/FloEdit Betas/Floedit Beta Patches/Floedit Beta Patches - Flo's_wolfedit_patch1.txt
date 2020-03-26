@@ -1,0 +1,37 @@
+
+                         Now is the time!
+                Download patch1 for beta1!
+         This will allow you to CHANGE any
+                           VGAGRAPH-
+                                objects!
+
+                                  Note:
+ Do __NOT__ erase any files from the installed
+                                beta1!!!
+           The patch only contains a modified
+                         FLOEDIT.EXE,
+        no runtime-files or BDE. So just unzip
+                       FLOEDIT.EXE to
+ your beta1-directory and OVERWRITE the old
+                         FLOEDIT.EXE.
+
+  !! The code is already able to add/remove gfx
+                      from VGAGRAPH,
+       but the buttons for this operation are not
+                  inserted yet. It is also able
+    to change image sizes. But remember, if you
+                        change image size,
+ you HAVE TO recompile WOLF3D.EXE, or it
+                             will crash !!
+
+     Make sure not to change the palette of any
+               image, or it will look strange.
+  To replace any gfx using correct palette&size,
+                           do it like this:
+                      - Export gfx to a file
+ - Edit the bitmap file with PaintShopPro, Corel
+                          Photo-Paint, ...
+  - Save the file (256 colors, KEEP ORIGINAL
+                             PALETTE)
+                - Import the file to the editor
+                       - Save your project

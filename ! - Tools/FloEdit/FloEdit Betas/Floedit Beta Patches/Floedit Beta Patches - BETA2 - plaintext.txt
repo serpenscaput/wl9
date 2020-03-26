@@ -1,0 +1,123 @@
++$#KFeature overview
+This is the overview of the new features in this version:
+•	Project files accessible while editing them
+•	Browse through any gfx/walls/sprites/sounds using a scroll bar instead of two buttons (this is better for your mouse...  )
+•	Test your project with a single mouseclick! (See Project testing)
+•	Unlimited undo/redo for map editor (stack will be cleared if you change active map or save)
+•	Change wall gfx
+•	Change sprite gfx – no more size restrictions (not really true... see Change sprite size)
+•	Change digitized sound – in every version without size restrictions (max size is still 65535 bytes per sound, but that’s a limit of the wolfenstein-engine!) (see Change digitized sound)
+•	Map window removed. Now everyting is stored in only one window. To do this, I had to change the size of the main window. It is larger now, but if you use 800x600, there is enough space to see the 
+whole window and your Windows-taskbar (width of window is exact 800...)
+•	AutoFloor™ added (see AutoFloor™)
+•	Import MAPEDIT *.FLR-files
+•	Support for “unknown” walls/objects in map window/clipboard (telling you the number of the unknown thing)
+
+Some things that were made better:
+•	DDraw-rendering multithreaded. Better performance on slower systems, faster window refreshing on fast systems
+•	Open/Save files now multithreaded
+•	‘Save All’ only rebuilds files you’ve modified
+
+Fixed bugs:
+•	Wrong color when displaying triangle/arrow in map window (sometimes)
+•	Any dark-green gfx ignored (not drawn) in map window
+
+ 
++$#KProject testing
+It is now simple to test your project. Since FloEdit only opens any wolfenstein-files while reading/writing them, you can even test your project while editing it.
+
+FloEdit now contains a new toolbar button: 
+{bml bm0.BMP}
+
+If you click this button, FloEdit will execute a file called ‘TEST.BAT’ in the active directory (the folder you selected in the connect-dialog box). You can create this file with any text editor and 
+write something like
+
+WOLF3D –GOOBERS
+or
+SPEAR –DEBUGMODE
+
+in it.
+
+If FloEdit cannot find the file, if will just spawn a DOS-prompt in the active directory.
+
+ 
++$#KChange sprite size
+It is now possible to change the size of the sprites. You could now -for example- replace the ‘dog food’-sprite with the ‘Death Knight’ sprite. But this does not mean that you can use full 64x64 pixels 
+for your gfx. The problem is, that the wolfenstein engine can only handle up to 4096 bytes per ‘page’. Well, 64x64 is 4096, but the problem is that sprites are stored in a very tricky format in the 
+VSWAP file (tricky? terrible !!!!!). The more ‘breaks’ you insert into every column of the image (one pixel wide, so there are up to 64 columns (reduce image width ro recuce number of columns)), the 
+more space will be required for storing the image. A break is one ore more transparent pixels followed by color pixels. (space-color-color-color-space-space-space-color-space-space, .....). Every break 
+(even if it is only one transparent pixel) consumes 4 bytes in VSWAP.
+
+Sorry for that, but this is a problem of the wolfenstein engine, not a problem of FloEdit!
+
+Note:
+I said ‘recuce image width’. Do not try to import any 42x38 image or so! Only 64x64 images with a color depth of 8 bits (=256 colors) will be accepted. I mean you should just draw a smaller image in 
+your 64x64 bitmap (background color MUST be color #255 to indicate transparency !!!)
+ 
++$#KChange digitized sound
+You can now change digitized sound.
+Note: The maximum size of a sound is 64 KBytes!
+
+When importing a sound from a WAV-file, make sure the WAV-file has a RIFF-header (Windows PCM standard format) and the following audio-format:
+
+•	6896 Hz
+•	Mono
+•	8-bit
+•	unsigned
+
+FloEdit won’t accept any other format. I think you can’t do this with audiorec from Windows, so use CoolEdit or SoundForge, WaveLab or anything like that.
+
+Note:
+Perhaps your audio-software will tell you that the desired format is not supported when you try to play and wolfenstein sound. It will work if you click the ‘Play digitized’ button in the editor, since 
+FloEdit uses DirectSound to play the chunks and DirectSound resamples the sound to a supported format if necessary. To play the sound with your audio software, select ‘Wave Mapper’ as your default audio 
+device in your application’s options box.
+
+If FloEdit imports the sound without telling you any error, but you don’t hear it in full length, you’ve got a problem with your audio software. Try to do it this way:
+
+1.	Create your sound with 41 kHz.
+2.	Copy whole file to clipboard
+3.	Create a new, empty file with 6896 Hz
+4.	Insert clipboard (CoolEdit now re-samples the clipboard contents to fit the destination format)
+5.	Save file
+
+(I tell you since I got this problem with CoolEdit Pro 1.1)
+
+ 
++$#KAutoFloor(tm)
+Don’t care about those floor commands any more! When your new ground-breaking map is finished, click the AutoFloor™ button, and FloEdit will insert a different floor command in every room of your new 
+map (Note: This will remove any existing floor commands of your map (except deaf guard and secret elevator) before inserting the new ones).
+
+
+The AutoFloor™ button: {bmc bm1.BMP}
+ 
++$#KObjecttypes
+OK. I didn’t mail the description of objecttypes to all of you, so I’ll tell you how to use objecttypes  with an example.
+
+Imagine there’s a nice girl and you want to put her picture on a wall and replace the Hitler-picture. The symbol of the “Grey stone / Hitler” wall in FloEdit is a dark gray square with a yellow pixel in 
+it by default. But you want to have a light green square with a red pixel for your new wall. It would be easy to change the symbol in the “Descriptions and symbols” tab, but then the objecttype 
+“Wolfenstein shareware” we’re using here would always display the new symbol, so  we’ll create a new type for our modified wolf version:
+
+Go to the “Objecttypes” tab in FloEdit, then click the “New Objecttype” button: {bmc bm2.BMP}
+
+In the next dialog box, enter the name of the new objecttype. Since the name of the girl is “Nadja”, we’ll call our new version “Wolfenstein Nadja”.
+Note: We’re connected to a wolfenstein shareware version now, so you’ll only be able to load the new objecttype when you’re connected to wolfenstein shareware. You cannot share objecttypes between 
+different versions of wolf!
+{bml bm3.BMP}
+
+Whenever you connect to a wolf-version that is of the same type like the type you used when creating your new objecttype (this was WL1 in our example), your screen will look like this:
+{bml bm4.BMP}
+
+Now select your new objecttype and click the “Descriptions and Symbols” tab. Now change your symbols and their descriptions. In our example, we’ll change the “Grey brick / Hitler” thing:
+{bml bm5.BMP}
+
+Here’s our new version:
+{bml bm6.BMP}
+
+
+You do not need to save anything, FloEdit saves your symbol changes automatically. By the way: you don’t need to re-connect to any folder for changing the active objecttype. Just go to “Objecttypes” tab 
+and select the new one. The map window and the clipboard will immediately reflect the new symbol colors!
+
+Did you know?
+FloEdit has it’s own clipboard and does not use Windows’ clipboard. So the objects you copied in other applications will stay in clipboad when you’re using FloEdit...
+
+
