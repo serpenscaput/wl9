@@ -1,0 +1,1 @@
+This will install the programs of VSWOLFTOOLS : VSWAPED for graphics and sounds, VSMAPED for gamemaps, VSVGAED for game environment and VSMUSED for IMF music.
