@@ -1,0 +1,55 @@
+ZW1 Phase 2 1-Level Preview
+
+By De Zeurkous
+
+Copyright (C) Erik Bogeholt, 2004
+E-Mail: aWolfaZeura@zonanet.nl (remove all the ``a'' characters)
+
+Document last changed: 08-14-2004 19:44
+
+Frequently Asked Questions
+
+Who are you?
+
+I'm a Dutch male, 17 years old.
+
+What is ZW1?
+
+ZW1 is a project from me to create a 60 level pack
+for the original Wolfenstein 3-D. No new graphics,
+no funky source code changes, no new sounds, but
+just levels.
+
+What other episodes of ZW1 are avaiable at the time
+of writing?
+
+- A Preview of Episode 1, which is now obsolete and no longer supported.
+- Episode 1 (ZW1PH1.ZIP)
+
+Note: Episode 1 is still included, but this file will be replaced
+      when the full Episode 2 is out.
+
+What is the difference between ``Phase'' and ``Episode''?
+
+Short, sweet, and simple: None.
+
+How do i install these levels?
+
+1. Install a clean copy of Wolfenstein 3-D Full Version
+   in a new directory.
+2. Extract _and_ overwrite the contents of the
+   archive ``ZW1DEM2.ZIP'' into the new directory.
+3. Run the normal EXE, and have fun!
+
+How do i contact you about these levels?
+
+Send an E-Mail to the above adress, and put
+the text ``ZW1DEM2'' into the subject line. It
+helps me sort mails.
+
+What if i find a bug?
+
+Follow the above instructions and explain
+the bug to me, where it happened (episode and
+level #), and what version of Wolfenstein 3-D
+you're using.
