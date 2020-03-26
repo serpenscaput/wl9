@@ -1,0 +1,11 @@
+Future Gorenstein
+
+
+Backup your Wolfenstein files, then replace your VSWAP.WL6 and GAMEMAPS.wl6 AND 
+MAPHEAD.WL6 files.  This requires the registered Wolf3d.
+
+
+
+
+
+Sam Feichter
