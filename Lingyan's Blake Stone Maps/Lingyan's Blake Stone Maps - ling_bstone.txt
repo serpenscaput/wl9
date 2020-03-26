@@ -1,0 +1,10 @@
+Ling's Blake Stone Levels
+78 levels for "Blake Stone"
+(c) 2008 by Ling Yan Li
+
+Installation:
+- Create backups of your original "maphead.bs6" and maptemp.bs6" files.
+- Overwrite existing files with the ones from this addon.
+
+Hint:
+Some of these levels require you to find barrier switches in secret/super secret levels to get past them.
