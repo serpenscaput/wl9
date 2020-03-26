@@ -1,0 +1,79 @@
+^P
+^C21 Index
+^C00 Hello, my name is Kyle Albert, I am 14 years old and I made the TC 'Operation: Todpfad' (v1.04)! Hope you enjoy it!
+
+^C00 Contents
+	2-3: Mini Story
+	4-6: Source Code Changes
+	7: Using Some Features
+	8: Programs Used
+	9: Known Bugs
+
+^P
+^CBC Operation Todpfad - Story
+
+^C99 1945: ^C00 A couple of days have passed by since Mr. Blazkowicz had brutally murdered Adolf Hitler in Castle Wolfenstein in Germany. After Mr. Blazkowicz mudered him, he thought that the whole Third Reich would fall to the depths of the sea and disappear forever, and that the world would restore itself and continue back where it left off before World War II.
+Mr. Blazkowicz is still currently in the United States Army, ready to serve his country anytime to protect it from any harm. Eva Braun had a castle built for her,
+^P
+little after her husband died, she became depressed and turned her base outside of Berlin in a huge castle into a war scene. It had taken her time to come up with a plan to attack the United States and make sure Mr. Blazkowicz was dead. The HQ tells you that you must sabotage the plans and castle by any means nesscary and assassinate Eva.  You're our only hope BJ! You could be a much bigger hero!
+^P
+^C21 Source Code Changes
+^C00 - Added Ceiling and Floor Textures (Darkone)
+- Shading (Ripper) ^C21 *
+^C00 - Optional Fullscreen Mode (Ripper) ^C21 *
+^C00 - Added Missile Launcher (Paal)
+- Seamless Level Progression (MCS)
+- Armor (BrotherTank)
+- Breakable Columns (MCS)
+- In Game Messages with Switch (WSJ) ^C21 *
+^C00 - Gun Bobbing (Dugtrio17) ^C21 *
+^C00 - Ammo Racks (Joe) ^C21 *
+^C00 - Ingame Screenshot ^C21 *
+^C00 - Silencer (my own routine)
+^P
+^C00 - Decreased Speed with certain weapons (TexZK)
+- Teleporter Added (MCS)
+- Added New Unlocked Door (MCS)
+- New Static Objects (Luke)
+- Music Changed / 3 songs from Spear added
+- Secret Level Changed
+- JukeBox Added in Control Menu (MCS)
+- New Chaingun Guard
+- 4 Keys (Paal)
+- Border Colors Changed (Mr. Lowe & Parafriction)
+- New status bar with Armor Display and Kill Display
+^P
+- Menu Colors Changed
+- 25 Ammo Box / 10 Missile Box
+- Demos Removed
+- Start with a Knife (Paal)
+- No Clipping Added (Dome)
+- Ghosts Removed
+- MLI Cheat Changed
+- Debugging parameter changed
+More... 
+^P
+^C21 Using Features
+^C98 Shading Switch: ^C00 - Press the ^C21 F11 ^C00 key to toggle.
+^C98 Fullscreen Mode ^C00 - To view the status bar, hold the ^C21 TAB ^C00 key.
+^C98 Ammo Racks ^C00 - Go up to the Ammo Rack and press the ^C21 Open Button ^C00 to collect ammo (50 Bullets)
+^C98 Gun Bobbing: ^C00 - Press ^C21 BackSpace + B ^C00 keys to toggle.
+^C98 In-Game Msgs: ^C00 - Press ^C21 BackSpace + M ^C00 keys to toggle.
+^C98 Crosshair: ^C00 - Press the ^C21 X ^C00 key to toggle.
+^C98 Screenshot: ^C00 - Press ^C21 BackSpace + Z ^C00 keys to take a BMP screenshot.
+^P
+^C21 Programs Used
+^C00 Borland C++ 3.1 - Coding
+MapEdit 8.4 - Levels
+WDC - Graphics
+Paint Shop Pro 8 - Graphics
+ChaosEdit Beta 2 - Graphics
+Metapad - Helpart, Endart
+^P
+^C21 Known Bugs
+^C00 - Digitized Sounds get cut out a lot, just press ^C21T ^C00to fix this.
+^C00 - A lot of times, the inner sides of the border flash, just press ^C21T ^C00to fix this.
+^C00 - When a level is filled with guards and you fire the rocket launcher too much at a time, it crashes with 'No free objs on the objlist' or something, but this is likely isn't going to happen.
+^C00 - Popup Status Bar (Fullscreen) sometimes blinks if against wall or door.
+^C00 If you find more bugs, email me at ^C21 K007auf@wowway.com ^C00 ! Thanks
+^E

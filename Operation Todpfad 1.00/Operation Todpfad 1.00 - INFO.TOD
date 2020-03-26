@@ -1,0 +1,95 @@
+^P
+^C21 Index
+^C00 Hello, my name is Kyle Albert, I am 14 years old and I made the TC 'Operation: Todpfad'! Hope you enjoy it!
+
+^C00 Contents
+	2-3: Mini Story
+	4-5: Credit Info
+	6-8: Source Code Changes
+	9: Using Some Features
+	10: Programs Used
+	11: Known Bugs
+
+^P
+^CBC Operation Todpfad - Story
+
+^C99 1945: ^C00 A couple of days have passed by since Mr. Blazkowicz had brutally murdered Adolf Hitler in Castle Wolfenstein in Germany. After Mr. Blazkowicz mudered him, he thought that the whole Third Reich would fall to the depths of the sea and disappear forever, and that the world would restore itself and continue back where it left off before World War II.
+Mr. Blazkowicz is still currently in the United States Army, ready to serve his country anytime to protect it from any harm. Eva Braun had a castle built for her,
+^P
+little after her husband died, she became depressed and turned her base outside of Berlin in a huge castle into a war scene. It had taken her time to come up with a plan to attack the United States and make sure Mr. Blazkowicz was dead. The HQ tells you that you must sabotage the plans and castle by any means nesscary and assassinate Eva.  You're our only hope BJ! You could be a much bigger hero!
+^P
+^C21 TC Information
+^C98 Project Creator: ^C68 Kyle Albert
+^C98 Project Help from: ^C68 Whole Wolf Community ;)
+
+^C98 Individual Credits: ^C00 (In no particular order)
+
+^C68 Mr. Lowe ^C00 - Distribution, Coding Tutorials
+^C68 MCS ^C00 - Coding Tutorials
+^C68 AReyeP ^C00 - Graphics, Sounds
+^C68 Chris ^C00 - Many bug fixes and a lot of help
+^C68 Majik Monkee ^C00 - Boss Graphics, Other Graphics
+^P
+^C68 WSJ ^C00 - Various GFX and Sounds
+^C68 B.J. Rowan ^C00 - Lots of Graphics and Sounds ^C21
+^C68 Rocketboy680 ^C00 - Chaingun Guard
+
+For all the people mentioned, I'd like to thank you all, without you, my TC wouldn't be as good as it is now.
+^P
+^C21 Source Code Change
+^C00 - Added Ceiling and Floor Textures (Darkone)
+- Shading (Ripper) ^C21 *
+- Optional Fullscreen Mode (Ripper) ^C21 *
+^C00 - Added Missile Launcher (Paal)
+- Seamless Level Progression (MCS)
+- Armor (BrotherTank)
+- Breakable Columns (MCS)
+- In Game Messages with M Key Switch (WSJ)
+- Gun Bobbing (Dugtrio17) ^C21 *
+^C00 - Ammo Racks (Joe) ^C21 *
+^P
+^C00 - Decreased Speed with certain weapons (TexZK)
+- Teleporter Added (MCS)
+- Added New Unlocked Door (MCS)
+- New Static Objects (Luke)
+- Music Changed / 3 songs from Spear added
+- Secret Level Changed
+- JukeBox Added in Control Menu (MCS)
+- New Chaingun Guard
+- 4 Keys (Paal)
+- New status bar with Armor Display and Kill Display
+- Menu Colors Changed
+- Border Colors Changed (Mr. Lowe & Parafriction)
+^P
+- 25 Ammo Box / 10 Missile Box
+- Silencer (my own routine)
+- Demos Removed
+- Start with a Knife (Paal)
+- No Clipping Added (Dome)
+- Ghosts Removed
+- MLI Cheat Changed
+- Debugging parameter changed
+More... 
+^P
+^C21 How to use some features
+^C98 Shading Switch: ^C00 - Press the ^C21 F11 ^C00 key to toggle ingame shading.
+^C98 Fullscreen ^C00 - Go to Change View on the menu and go out all the way until the screen is all black, this is fullscreen. To view the status bar, hold the ^C21 TAB ^C00 key.
+^C98 Ammo Racks ^C00 - Go up to the Ammo Rack Wall and press the Space Bar (The Open Button) to collect ammo (50 Bullets)
+^C98 Optional Gun Bobbing: ^C00 - Press the ^C21 B ^C00 key to toggle Gun Bobbing.
+^C98 Optional Crosshair: ^C00 - Press the ^C21 X ^C00 key to toggle the crosshair.
+^P
+^C21 Programs Used
+^C00 Borland C++ 3.1 - coding
+MapEdit 8.4 - levels
+WDC - graphics
+Paint Shop Pro 8 - Graphics
+ChaosEdit Beta 2 - Graphics
+Metapad - Helpart, Endart
+^P
+^C21 Known Bugs
+^C00 - Digitized Sounds get cut out a lot, just press ^C21T ^C00to fix this.
+^C00 - Sometimes, the inner sides of the border flash, just press ^C21T ^C00to fix this.
+^C00 - When a level is filled with guards and you fire the rocket launcher too much at a time, it crashes with 'No free objs on the objlist' or something, but this is likely isn't going to happen.
+^C00 - Popup Status Bar (Fullscreen) sometimes blinks if against wall or door.
+^C00 If you find more bugs, email me at ^C21 K007auf@wowway.com ^C00 ! Thanks
+^E
