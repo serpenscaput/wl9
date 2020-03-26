@@ -1,0 +1,182 @@
+=======================================================================
+
+ Spear Reloaded - Version 1.21
+
+ Date: 11.03.2012
+
+=======================================================================
+
+ Overview:
+
+=======================================================================
+
+ This is continuation to the Reloaded series.
+ If you are interested, Wolf Reloaded is also
+ available for DOS at our homepage.
+
+ This mod can be run from DOS or Windows.
+
+ Profiles are located in "Profiles" directory,
+ along with backup instructions.
+
+ DOS:     Run SOD.exe
+ Windows: Run sodreloaded.exe
+
+ Thank you for downloading, we hope that you
+ enjoy playing.
+
+=======================================================================
+
+ Credits:
+
+=======================================================================
+
+ Megabyte:
+
+ - Mapping
+ - Most textures and object sprites
+ - Enemy sprites
+ - Enemy sound effects
+
+ Codetech84:
+
+ - Coding
+ - Weapon sprites
+ - Object sprites
+ - Enemy sprites
+ - Sound effect editing
+ - Enemy sound effects
+
+ Ripper:
+
+ - Wolf4SDL 1.6 (used as a base for SDL version)
+ - Creating vertically opening doors
+ - Modifications to allow us control player eye-level
+ - Directional 3D sprites
+
+ Adam Biser:
+
+ - Middle opening doors
+ - Multiple floor ceiling textures (DOS)
+
+ Sources for sound effects:
+
+ - Half-Life: Mine cart sound
+ - Forgotten Hope 0.7: Various weapon sounds
+ - Serious Sam: Chaingun sound
+ - RTCW: Various sounds
+ - KFH Games: The enemy sounds :D
+
+ ID Software:
+
+ - For making Spear of Destiny
+ - Releasing the source codes to public
+
+ Bobby Prince Music:
+
+ - Original musics / sound effects
+
+ Patch BETA testers:
+
+ - Richter Belmont
+ - Tricob
+ - Insurrectionman
+ - Schabbs
+ - lilmanjs
+
+ Diehard Wolfers community:
+
+ - Thanks to everyone who supported us!
+
+ Balames87:
+
+ - For making video walkthroughs on YouTube
+ - http://www.youtube.com/user/Balames87
+
+=======================================================================
+
+ Version History:
+
+=======================================================================
+
+ 1.21 (11.03.2012)
+
+ - Fixes a small bug that makes the screen appear to be frozen on fullscreen. Thanks Chris! (SDL)
+
+ 1.2 (10.03.2012):
+
+ - In windowed mode, window will always start centered (SDL)
+ - Added mousewheel weapon selection (SDL)
+ - Added option to enable/disable Mouse Y-Axis movement (SDL)
+ - Added direct strafe option (SDL)
+ - Dropped bodies no longer keep blocking doors when lifted off the doorway. (SDL)
+ - Fixed a buffer overflow in savegame filename. (SDL)
+ - Added a new screen to "Personal records" (SDL)
+ - On version change, it said that old savegames will not load, which wasn't true. (SDL)
+ - Savegames from 1.0 and 1.1 can be loaded in 1.2 (SDL)
+ - Personal records now also display percentages. (SDL)
+ - "View Scores" renamed to "Scoreboards". (SDL)
+ - Secret area notification is more visible. (SDL)
+ - You can now start from select map and difficulty via "Personal Records". (SDL)
+ - Hints are closed faster. (SDL)
+ - Fixed a possible crash in the hint system. (SDL)
+ - Changed the "Attention!" screen text. (SDL/DOS)
+ - Proper scaling applied to moon sprite. (SDL)
+ - Game name was changed to Spear Reloaded. (SDL/DOS)
+ - Console messages now display centered to screen. (SDL)
+ - Updated engine to Wolf4SDL 1.7 (SDL)
+ - Added ten times more precision to angles. (SDL)
+ - Added proper scaling to moon and stars. (SDL)
+ - Fixed gamma correction affected shadetable generation. (SDL)
+ - Added number of optimizations. (SDL)
+ - Replaced (c)2008 from memory screen and main menu (SDL/DOS)
+ - Modified "Read This" (SDL/DOS)
+ - Fixed beta-testing credits. Two missing names: lilmanjs and Schabbs
+ - Fixed enemy minecarts appearing without triggering on Level 4 (SDL/DOS)
+ - Fixed all minecart movement related issues (SDL/DOS)
+ - Suicide messages (SDL/DOS)
+
+ 1.1 (18.6.2010):
+
+ - You can now disable stars and cloud coverage (SDL)
+ - Fixed enemy minecarts "skipping in place" after killed (SDL/DOS)
+ - Fixed a crash to desktop when riding a cart to a door (SDL/DOS)
+ - Adjusted running over people with minecart (SDL/DOS)
+ - Fixed a crash when moon entered view on custom resolution (SDL)
+ - Only resolutions that are multiples of 320x200 are supported (SDL)
+ - Disabled unsupported commandline arguments (SDL)
+ - Re-enabled "nowait" commandline argument (SDL/DOS)
+ - DOS savegames are now printed in red as they should be (SDL)
+ - Fixed frozen guards in certain maps (SDL)
+ - Included credits in the internal readme and in the text file
+
+
+ 1.0 (25.1.2010):
+
+ - Original release
+
+=======================================================================
+
+ Contact information:
+
+=======================================================================
+
+ Comments are welcome and discussion is open at:
+
+ - http://diehardwolfers.areyep.com/viewtopic.php?t=5257
+
+
+ Official website:
+
+ - http://www.kfhgames.com
+
+
+ Official facebook:
+
+ - http://www.facebook.com/kfhgames
+
+
+ Codetech84 & Megabyte
+ KFH Games
+
+=======================================================================

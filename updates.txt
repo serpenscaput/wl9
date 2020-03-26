@@ -187,4 +187,5 @@
 -HWE 0.3.2 + directory structure fixes
 -uploaded more Krankenstein versions
 -uploaded Romanstein 2 Gold DOS patch
--small Romanstein Gold 3 alpha update
+-small Romanstein Gold 2 and 3 updates
+-Spear Reloaded small overhaul
