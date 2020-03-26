@@ -1,0 +1,29 @@
+===========================================================================
+
+                        --- 로맨슈타인 호텔 ---
+                            Hotel Romanstein 
+
+                               골드 에디션 3
+                              Gold Edition 3
+                              Alpha Version 
+
+		           by Kyung Kook Choi
+
+===========================================================================
+Title                   : Hotel Romanstein
+Author	                : Kyung Kook Choi (Nick Name - WADMAN)
+Email Address           : d2kkr@hanmail.net
+Home Page               : http://cafe.daum.net/CUBEFPS
+Game Engine             : Wolfenstein 3d + Wolf4SDL
+Level                   : 6
+Release date            : 25th/October/2009
+Version                 : RG3-V0.8
+===========================================================================
+
+
+ 
+  
+ 
+
+
+
