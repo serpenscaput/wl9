@@ -1,0 +1,242 @@
+^PAGE 1
+
+^c00
+^G12,16,30
+^c00
+
+
+
+
+
+
+
+
+
+
+Press Enter...
+^PAGE 2
+
+^c2e										TABLE OF CONTENTS
+^c00
+								STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	3
+								CONTROLS	.	.	.	.	.	.	.	.	.	.	4
+								QUICK KEYS	.	.	.	.	.	.	.	.	.	7
+								BONUS ITEMS	.	.	.	.	.	.	.	.	9
+								WEAPONS	.	.	.	.	.	.	.	.	.	.	.	11
+								LEVELS	.	.	.	.	.	.	.	.	.	.	.	.	12
+								ENEMIES	.	.	.	.	.	.	.	.	.	.	.	13
+								BOSSES	.	.	.	.	.	.	.	.	.	.	.	.	15
+								CHEAT CODES	.	.	.	.	.	.	.	.	16
+								TROUBLESHOOTING	.	.	.	.	17
+								CONTACT ME	.	.	.	.	.	.	.	.	18
+
+^PAGE 3
+^G16,16,33
+^C2eSTORY - EPISODE 1:
+50 CENT'S PRISON BREAK
+^C00
+You are 50 Cent and you've been framed!  Your mission is to escape from prison and 
+find your way back to Queens where you will confront the jealous rapper who framed 
+you.
+
+You will face many opponents on your journey, haters, crooked cops, prostitutes. 
+ Don't let them stand in your way!
+^PAGE 4
+^c2eCONTROLS
+^c00
+Life on the Streets allows input from the keyboard, mouse, joystick, or Gravis Gamepad.
+
+
+
+Use the arrow keys to move around the menu.  Press Enter to make a selection and 
+Esc to go back.  Using the mouse, joystick, or gamepad to navigate the menu works 
+too.
+
+^PAGE 5
+^c2eCONTROLS (continued)
+^c00
+Once in the game use the arrow keys to move forwards and backwards and turn around. 
+ Holding the shift key makes you run fast.  Also use Alt together with the left and 
+right arrows to side step.
+
+Press Ctrl to fire your weapon.
+
+Press Space to open and close doors as well as activate switches.
+
+Press Tab to toggle display of your status bar.
+
+^PAGE 6
+^c2eCONTROLS (continued)
+^c00
+Keys 1-5 are used to switch weapons.
+
+When using the mouse or joystick, use button 1 to shoot, and button 2 to side step. 
+ With a three-button mouse, the third button can be used to open doors.
+
+Gravis Gamepads have a fourth button, which is useful as a run button.
+
+Control configurations and mouse sensitivity can be reassigned in the Control Options 
+menu.
+^PAGE 7
+^c2eQUICK KEYS
+^c00
+Esc			Main Menu
+F1				Instruction Manual
+F2				Quick Save Game
+F3				Quick Load Game
+F4				Sound Options
+F5				Control Options
+F6				Refresh Screen
+
+Use F6 to refresh the screen if the picture appears too small or is flickering.  
+I'm working on fixing these issues for an updated version. 
+^PAGE 8
+^c2eQUICK KEYS (continued)
+^c00
+F7				Toggle Crosshair Display
+F8				Toggle On-Screen Messages
+F9				Toggle Floor/Ceiling Detail
+F10			Quit Game				
+F11			Restart Level
+
+
+Disabling floor and ceiling detail is recommended only for users with slower computers 
+experiencing lag.  Messages and crosshair display are included just for personal 
+preference.
+^PAGE 9
+^G37,243,32
+^c2eBONUS ITEMS
+^c00
+First aid kits can be found all over the place.  The larger the kit the more it heals 
+you. Simple.  Ammo also comes in several different sized boxes.
+
+The maximum amount of health and ammo you can carry is very high so pick up everything 
+you see.  If you get killed you start at the beginning of the level with nothing 
+but your knife.  Continues however, are unlimited.
+^PAGE 10
+^G67,16,31
+^c2eBONUS ITEMS (continued)
+^c00
+There are many secret areas containing items.  Press Space bar up close to a discolored 
+wall to reveal a hidden area.
+
+Hidden once in every level of the game is a magic 40oz.  These rare 40s are rumoured 
+to have powerful healing properties.
+
+Colored doors may require either a red or yellow key-card to open.  The key-card 
+will be found in the same level.
+^PAGE 11
+^G110,33,112
+^c2eTHE WEAPONS
+^c00
+Usually weapons are acquired by defeating an enemy although sometimes they're found 
+lying around.  There are three different ammo types, rounds shared by the pistol 
+and machinegun, shells for the shotgun, and individual rockets for the rocket launcher.
+
+
+
+
+
+1) Pocket Knife 2) Pistol 3) Shotgun
+4) Machinegun 5) Rocket Launcher
+^PAGE 12
+^c2eTHE LEVELS
+^c00
+Levels 1-2: The Prison
+Break out of jail and flee to the desert.
+
+Levels 3-5: The Desert
+Find your way back to Queens
+
+Level 6: Return to the Hood
+Fight thugs and find out who framed you
+
+Levels 7-10: The Enemy's Lair
+Invade the enemy gang's headquarters.
+
+This list excludes the many secret levels.
+
+
+^PAGE 12
+^G32,22,129
+^G94,158,130
+^c2eTHE ENEMIES
+^c00
+THE COPS
+These crooked cops are the first enemy you'll encounter.  Even when you're locked 
+up in your cell, these assholes still might shoot at you. 
+
+STREET THUGS
+Street thugs use various types of weapons.  Most of these guys are just loose change.
+
+^PAGE 13
+^G32,175,90
+^G94,22,111
+^c2eTHE ENEMIES (continued)
+^c00
+STREET HOOKERS
+Some hookers are harmless but most of them pack heat and will attack you.
+
+TOUGH GUYS
+These are the most difficult enemies, rarely encountered on easier difficulties, 
+these guys will fuck your shit.
+
+^PAGE 12
+^G22,22,113
+^G96,22,114
+^G94,258,115
+^c2eTHE BOSSES
+^c00
+THE SHERIFF
+This is the main man in charge of all the crooked cops.  Watch out!  He carries a 
+shotgun.
+
+THE NEIGHBORHOOD PIMP
+This man is always found surrounded by women, be cautious of his rocket launcher 
+pimp cane.
+
+Who is this mysterious man who framed 50?
+
+
+
+^PAGE 12
+^c2eCHEAT CODES
+^c00
+The command line parameter GETRICH enables the following in game cheat codes:
+
+LShift + A - Weapons and full ammo
+LShift + H - Full health
+LShift + W - Warp (enter level 1-15)
+LShift + G - Godmode (invincibility)
+LShift + K - Both key-cards
+
+Enter DOPEBEATS on the command line for a music test.
+
+Cheating is discouraged of course.
+^PAGE 12
+^c2eTROUBLESHOOTING
+^c00
+Most Windows related problems can be solved using an emulator such as DOSBox. Windows 
+XP users having problems hearing music can try running under VDMSound.
+
+DOSBox
+^c7ewww.dosbox.com
+^c00
+VDMSound
+^c7evogons.zetafleet.com/viewtopic.php?t=2071
+^c00
+For more extensive information see the file README.TXT in your STREETS folder.
+
+^PAGE 13
+^c2eCONTACT ME
+^c00
+If you want to report a bug or have any feedback at all e-mail me. But most bugs 
+probably won't be fixed unless they're really major ones (there's just too many). 
+Anyone making mods or whatever else, all the art and sounds and everything in the 
+game files are free to be used for other projects. Also if anyone wants a copy of 
+my source code let me know. I didn't put it up just because didn't think there would 
+be anyone interested.
+^c7e
+racquetball1987 (at) hotmail.com
+
+^E
