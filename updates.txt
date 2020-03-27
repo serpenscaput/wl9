@@ -222,3 +222,4 @@
 -added Sonic
 -uploaded The Tower SDL
 -uploaded Wolf-Extra III SDL
+-slashed down directory count
