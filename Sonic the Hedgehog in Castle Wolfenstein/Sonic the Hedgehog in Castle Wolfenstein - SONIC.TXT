@@ -1,0 +1,39 @@
+
+also the game is setup to run in the C:\WOLF2   directory. cio!
+
+
+
+
+SONIC THE HEDGE HOG
+IN
+CASTLE WOLFIENSTIEN
+
+Race through levels and beat your best time!
+Watch out! though shareware based these levels
+are full of TRICKS and SUPRISES that will get 
+you!!
+
+The Wall graphics are based on what i've seen
+of the Sonic the Hedgehog game. The bad guys
+Were custom made to have 'some' resembelence
+to the robo baddies. I admit I couldn't 
+get the 'animations' to work out properly.
+
+I made this way back in 1993/1994
+Nobody seemed interested in it back then.
+Doom wasnt even out at that time.
+
+So for all those who like the original wolf'
+and those who like sonic.
+Enjoy!!
+
+P.S. Feel free to edit the music/sound or 
+character bar.
+
+BTW i tried a variety of wall graphics and found
+that many detailed ones COULDNT be used. The 3d
+engine ended up 'mangeling' them into a mess of
+static and confusion.
+
+By Robert Kalin
+kalin@bellsouth.net
