@@ -226,3 +226,4 @@
 -uploaded Wolfenstein 3D in Hungarian
 -added ECWolf versions of Mac scenarios
 -uploaded Third Person mod
+-uploaded Klooni modding guides

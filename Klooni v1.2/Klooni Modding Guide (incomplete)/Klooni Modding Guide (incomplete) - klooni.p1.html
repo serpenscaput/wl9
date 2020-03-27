@@ -1,0 +1,82 @@
+<html>
+<head>
+	<title>Klooni - Complete modding guide</title>
+
+<style type="text/css">
+<!--
+p
+{
+   padding-left: 20pt;
+}
+
+.tablemain
+{
+  border: 4px solid #000000;
+  background-color: #6D7155;
+}
+-->
+</style>
+
+</head>
+<body background="img/bg.gif">
+<br><center><img src="img/klooni.gif" width="400"></center><br>
+<table cellpadding="10" width="640" align="center" class="tablemain">
+<tr><td>
+
+<b>Klooni modding standard</b>
+<p>Klooni was build for modding and our intention from day one was
+to run mods without overwriting any gamedata so you can play any mods and the main
+game without any of them interfering with each other. And for that reason I created
+Klooni modding standard.</p>
+
+<p>The only purpose is to make sure we have error-free mods and also
+running mods wouldn't require user to do anything except run the mod
+from the batch file.</p>
+
+<b>Mapping limitations</b>
+<p><table cellspacing="0" cellpadding="0">
+<tr><td>Monsters:&nbsp;</td><td>150</td></tr>
+<tr><td>Static objects:&nbsp;</td><td>190</td>
+<tr><td>Doors:&nbsp;</td><td>32</td>
+<tr><td>Trigger tiles:&nbsp;</td><td>80</td>
+<tr><td>Actor triggers:&nbsp;</td><td>80</td>
+</table></p>
+<b>Engine limitations</b>
+<ul>
+<li>Wall patches can’t be in the door-rail tiles.
+<li>Door rails must not be in tiles with value over 63.
+<li>There may not be more than 60 visible objects/monsters.
+<li>Player can't see more than 10 visible opening doors.
+<li>6 episodes, with 60 maps each maximum.
+</ul>
+
+
+<b>Requirements</b>
+<ul>
+<li>Mod name must be unique, no two mods may share a name.
+<li>Mod is packaged in a standard way to either .rar or .zip format.
+<li>Mod has a properly named startup batch file.
+<li>All maps have to have an accessible exit.
+<li>Mapping or engine limitations are not exceeded.
+<li>All additional files go inside the mod directory.
+</ul>
+
+<b>Packing your mod for release</b>
+<p>&lt;modname&gt; = The name you used for the directory that contains your maps.
+<p><b>Step 1:</b><br>Create a rar or zip archive and name it "&lt;modname&gt;.rar" or "&lt;modname&gt;.zip"</p>
+<p><b>Step 2:</b><br>Add the launch file "&lt;modname&gt;.bat" to the archive.</b></p>
+<p><b>Step 3:</b><br>Add directory &lt;modname&gt; to the archive, it should contain your episodes and any other extra files.</p>
+
+<b>Uploading mods</b>
+<p>If you want your mod uploaded to KFH Games website,
+make sure your mod meets the requirements of Klooni modding
+standard, and send it to us for verification.</p><br>
+
+Happy modding!<br>
+KFH Games
+
+</tr></td>
+</table>
+</div>
+</body>
+</html>

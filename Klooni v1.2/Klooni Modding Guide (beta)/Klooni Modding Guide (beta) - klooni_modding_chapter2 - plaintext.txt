@@ -1,0 +1,99 @@
+Klooni - Complete modding guide
+
+
+If you follow all the chapters, we’ll build an example mod with two maps and a secret level. I encourage everyone to complete these chapters just to get familiar with modding Klooni, before doing 
+anything in a larger scale.
+
+
+Chapter 2: Knee-Deep in Chaos-Edit
+
+Preparing Chaos-Edit for Klooni
+
+Once you have installed and launched Chaos-Edit. Extract the contents of “klooni.chaosedit.rar” to the main directory of Chaos-Edit, make sure that the files inside the archive go to the set folders.
+
+Now launch Chaos-Edit and go to the configuration tab, 
+by first selecting the “Customize –tab” from the top and then choose the “Config –tab”.
+
+ 
+
+Now you should see this window at the bottom of the page, you can ignore the rest of the page, the settings should be ok by default.
+
+Click twice, slowly, on a blank spot in the Extension column and select the options illustrated in the picture.
+
+Extension: 	WAD
+Mapsymbols: 	Klooni
+Palette:	Doom
+
+If for some reason you can’t find these from the list, make sure you have extracted the file correctly in the first step, if you had Chaos-Edit running while you extracted the files, restart Chaos-Edit.
+
+ 
+ 
+Loading game resources
+
+Before we start, we will load sprites and textures so that we can see enemies and objects in 3d-edit and also that we can edit ceiling/floor textures. 
+
+To load the sprites click  -icon on the statusbar on the left side of the window. Browse to the directory where Klooni is installed and select “VSWAP.WAD”. We will also load the textures by clicking  
+-icon and again select the “VSWAP.WAD”.
+
+Loading maps
+
+Load the maps by clicking on the  -icon. Browse to the “tutorial” and select “Ep1” and load “GAMEMAPS.WAD”. The map should be empty.
+
+Creating our first map
+
+This chapter will assume that you have the basic knowledge of the editing function in Chaos-Edit.
+
+Now go create a small map, make your own or create something similar to the one in the screenshot here. You should only make a simple map with only 1-3 rooms so keep to a simple design for starters.
+
+This small map features a starting position and two “former human” enemies. There is no exit on this map and player can open door behind him, that we will later seal shut.
+
+
+g
+
+
+We will be making some changes to this map, first we make an exit for this map. In order to do that we must place a “trigger” that will exit the map.
+
+Select “Floors -tab” and find an item that says “Trigger - End level” and select that. Without going into details in this chapter, place that tile to the empty room in the north, like shown in the 
+picture.
+
+ 
+
+Without placing a switch, this trigger will work as a “touchplate”. So whenever player walks over this tile it will trigger the event that is associated to it, in this example it will exit the map.
+
+In this example however, I want it to be a switch, so we have to place a switch object to a wall next to it. Go to the “Object -tab” and find an object called “Switch Off (Red light)“ and place it to 
+the wall above the exit trigger, like shown in the picture.
+
+ 
+
+Now we will lock the doors, the exit door with the blue key and the start door will be jammed so it cannot be opened. You might have noticed that there is no locked door in the object list. Doors are 
+locked by placing a key object that is required to open the door in the same tile with the door. Go select the “Blue key” and place one in the room with the former human enemies and the other in exit 
+door tile. Like shown in the picture.
+
+ 
+
+To render the start door useless, making it a sort of fake door, we will place a door jammer in the door tile. You can find it from the end of the “Objects -Tab”. Place the “Door jammer” object like 
+shown in the picture.
+
+ 
+ 
+
+Texturing
+
+The map is now playable, but it lacks textures from ceiling and floor. To enable editing of the ceiling and floor we must enable first enable the “third map plane”.
+
+Make sure you have the “MapEdit -tab” open.
+
+ 
+
+To enable the third map plane that will be used to save the floor/ceiling textures. Enable “ProfMode”, “Splitmap” and “3rd Plane”.
+
+
+
+
+
+
+
+
+
+
+

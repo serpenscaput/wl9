@@ -1,0 +1,301 @@
+<html>
+<head>
+	<title>Klooni - Complete modding guide</title>
+
+<style type="text/css">
+<!--
+p
+{
+   padding-left: 20pt;
+}
+
+.tablemain
+{
+  border: 4px solid #000000;
+  background-color: #6D7155;
+}
+
+.imgb
+{
+  border: 2px solid #000000;
+}
+
+pre
+{
+  background-color: #4E513D;
+  border: 2px solid #000000;
+  color: #ffffff;
+  display: block;
+  margin-left: 40px;
+  overflow: auto;
+  padding: 5px;
+  width: 60%;
+}
+-->
+</style>
+
+<script language="javascript">
+
+function ChangeText (id, text)
+{
+  var obj = document.getElementById(id);
+  obj.firstChild.nodeValue = text;
+}
+
+function GetText (id)
+{
+  var obj = document.getElementById(id);
+  return obj.firstChild.nodeValue;
+}
+
+function toggle (obj)
+{
+   var el = document.getElementById(obj);
+   if (el.style.display != 'none')
+   {
+      el.style.display = 'none';
+      ChangeText (obj+"_lnk", "show");
+   }
+   else
+   {
+      el.style.display = '';
+      ChangeText (obj+"_lnk", "hide");
+   }
+}
+
+</script>
+
+</head>
+<body background="img/bg.gif">
+<br><center><img src="img/klooni.gif" width="400"></center><br>
+<table cellpadding="10" width="640" align="center" class="tablemain">
+<tr><td>
+
+<h2>Chapter 1: The basics</h2>
+
+<b>Creating a directory</b>
+<p>Klooni uses command line to execute custom mods. So to create a
+mod you do not have to and you should not overwrite any gamedata.</p>
+
+<p>So first off, pick a directory name for your mod. Since DOS recognizes
+only 8 characters, the directory name must not exceed that limit.</p>
+
+<p>In this tutorial we create a directory called <b>“tutorial”</b> to the game
+directory. As you can see it’s exactly 8 characters long, so it’s ok.</p>
+
+<b>Episode structure</b>
+<p>Each episode will be a sub-directory in <b>“tutorial”</b> directory. To
+create our first episode we create a directory <b>“Ep1”</b> inside the
+tutorial directory.</p>
+
+<p>This will be the place for all the files for the episode number one.
+You can create up to 6 episode directories. <b>“Ep2, Ep3, …”</b>.</p>
+
+<p>Each episode directory will contain the following required files
+in order to be recognized.</p>
+
+<b>Required files</b>
+<p>Now that we have created a directory for the mod, copy empty <b>“gamemaps.wad“</b>
+and <b>“maphead.wad”</b> which can be found in the same archive you
+copied this document from.</p>
+
+<p>We will not open Chaos-Edit just yet. First we will define a name for our
+episode and the three maps. To do that we will create a file called
+<b>“episode.ini”</b>. Make sure the episode.ini is an ASCII file.</p>
+
+<p><b>Contents of episode.ini:</b>&nbsp;(<a href="javascript:toggle('episodeini')"><span id="episodeini_lnk">hide</span></a>)</p>
+<pre><div id="episodeini">Tutorial episode
+{
+First map;
+Triggers;
+Ooh, a secret;
+}
+</div></pre>
+
+<p>Do not deviate from this syntax. Do not add tabs or any other spaces than
+those that you use to separate words. Don’t forget <b>“;”</b>.</p>
+
+<p>The first line contains the episode name in this case it’s called <b>“Tutorial
+episode”</b>. The episode name length is limited to 26 characters, that is
+because the episode title must be copied to the menu and menu does not allow
+strings longer than 26.</p>
+
+<p>Map names will be defined inside the brackets, separated with a <b>“;”</b>
+and <b>a line break (enter)</b>. In this example I define three maps, one of which will later become a
+secret level. Map name is limited to 32 characters.</p>
+
+<p>
+<b>Map 1:</b> First map<br>
+<b>Map 2:</b> Triggers<br>
+<b>Map 3:</b> Ooh, a secret<br>
+</p>
+
+<b>Music</b>
+<p>Having music in the maps is not a requirement, but if you do not define
+any songs the music will not play. If you define only one song, that one
+song will play in all the maps.</p>
+
+<p>To have music in your levels, we’ll create a standard ASCII file,
+just like in the previous step, and name it <b>“songs.ini”</b>.</p>
+
+<p><b>Contents of songs.ini:</b>&nbsp;(<a href="javascript:toggle('songsini')"><span id="songsini_lnk">hide</span></a>)</p>
+<pre><div id="songsini">261,
+277,
+302,
+</div></pre>
+
+<p>Notice how I add a <b>“,”</b> after each entry. The comma is used to tell
+the parser that this is the end of the number. It is required even for the
+last number in the list.</p>
+
+<p>The first number is the music for the first map, the second number is
+the music for the second map, and so on.</p>
+
+<p>The song number must be in the range of 261-302. To know what song is which
+number. You have to get a version of Chaos-Edit that supports music chunks
+that are bigger than 64k.</p>
+
+<b>Previewing songs in Chaos-Edit</b>
+<p>Requires Chaos-Edit preRelease v1.26 or above. First load the music by clicking on the <img src="img/loadmus.gif">
+-icon on the toolbar to the left. Select file named <b>“Audiot.wad”</b> it should be in the game’s root directory.</p>
+
+<p>Switch to the music tab by first selecting the <b>“Audio” tab</b> from
+the top and then choose <b>“Music” tab</b>.</p>
+<p><img class="imgb" src="img/mustab.gif"></p>
+
+<p>The number we use to define the song is the chunk number that can be seen on the bottom right of the Chaos-Edit window.
+You can see that the first map is using the first available song <b>261</b>, <b>“At Doom’s Gate”</b>.</p>
+<p><img class="imgb" src="img/muschunk.gif"></p>
+
+<b>Par times</b>
+<p>Par times are displayed on the bottom of the Intermission screen.</p>
+<p><img class="imgb" src="img/partime.gif"><br>
+<font size="2">In this map the par time is 65 seconds, which makes it 1 minute and 5 seconds.</font></p>
+
+<p>So to create par times for our maps we define the time in seconds.
+Just remember the maximum time is <b>90 minutes (90 x 60 = 5400 seconds)</b>.</p>
+
+<p>As a general rule, par time is the least amount of time you have to spend on
+the map. To beat the time you must run through the map as fast as you can,
+killing only the enemies that get in your way.</p>
+
+<p>To set par times we’ll create a file called <b>“partimes.ini”</b>, the file
+format is the same as in <b>“songs.ini”</b>, except this time the number that
+we use is the par time in seconds. If you look at the above example the par
+time is set to 65 seconds, but at the intermission the game will convert
+it to minutes and seconds.</p>
+
+<p><b>Contents of partimes.ini:</b>&nbsp;(<a href="javascript:toggle('partimesini')"><span id="partimesini_lnk">hide</span></a>)</p>
+<pre><div id="partimesini">65,
+85,
+95,
+</div></pre>
+
+<p><b>65 = 1:05 (60s + 5s)<br>
+85 = 1:25 (60s + 20s + 5s)<br>
+95 = 1:35 (60s + 30s + 5s)</b></p>
+
+<b>Intermission text</b>
+<p><img class="imgb" src="img/intermission.gif"><br>
+<font size="2">Intermission text from E1M9.</font></p>
+
+<p>The intermission text is a piece of text that can be displayed
+before or after any given map. The background can be any texture
+in the game.</p>
+
+<p>In this example we create one of these text files. It will
+be displayed after the intermission of the second level.</p>
+
+<p>The filename syntax is <b>“text*.ini”</b> where <b>“*“</b>
+is the map after which the text is displayed. If you create
+<b>“text0.ini”</b> the text will be displayed before entering
+the first map of the episode, whereas <b>“text1.ini”</b> will
+be shown after the first map’s intermission screen and so on.</p>
+
+<p>Create a new ASCII file, named <b>“text2.ini”</b> for this example.</p>
+
+<p>First we should load the textures in Chaos-Edit. Click on the <img src="img/loadtex.gif">
+-icon on the toolbar to the left. Select a file named <b>“Vswap.wad”</b> from
+the game’s root directory.</p>
+
+<p>Select the <b>"Textures"</b> tab.</p>
+<p><img class="imgb" src="img/textab.gif"></p>
+
+<p>The value we use for the background texture is the <b>“Wallnum”</b>
+that can be seen on the bottom right of the Chaos-Edit window. You can
+browse the textures using the scrollbar.</b>
+
+<p><img class="imgb" src="img/wallnum.gif"></p>
+
+<p>Now edit the <b>"text2.ini"</b> that we previously created.</p>
+
+<p><b>Contents of text2.ini:</b>&nbsp;(<a href="javascript:toggle('text2ini')"><span id="text2ini_lnk">hide</span></a>)</p>
+<pre><div id="text2ini">88,<br>
+Congratulations!\p <br>
+You have completed the tutorial episode.
+</div></pre>
+
+<p><b>Formatting intermission text:</b></p>
+
+<p><table cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><b>”88,”</b>&nbsp;&nbsp;</td><td valign="top" height="35">
+The texture number that we chose for the background. Note the “,”.</td>
+</tr>
+<td valign="top"><b>”\p ”</b></td><td>
+This will change the paragraph. It will create one empty line
+and moves the cursor to the beginning of the new line, enter will not
+change the line and will not be treated as a space. Note there’s a space
+included in the <b>“\p ”</b> command so it’s treated as a word.</td>
+</tr>
+</table></p>
+
+<p>Other than that, there’s no special syntax.</p>
+
+<p><img class="imgb" src="img/text2.gif"><br>
+<font size="2">The result looks like this.</font></p>
+
+<b>Secret maps</b>
+<p>It is not necessary to have secret maps in your episode, but it is a nice
+addition. Since Klooni 1.2, you need a new file called <b>"secrets.ini"</b>
+in the episode directory.</p>
+
+<p>For the tutorial episode we will set E1M2 as the source map and E1M3 as the
+destination map. Each pair of numbers are separated by a <b>","</b> and <b>a line
+break (enter)</b>.</p>
+
+<p>First number in the pair is the source map and the second number is the
+destination level. Remember that level numbers start from 0 not 1. Secret maps
+must be the last maps in the episode, because the level prior to last secret level
+is considered to be the final map of the episode. <i>Don't forget to put the
+secret exits in the right maps!</i></p>
+
+<p><b>Contents of secrets.ini:</b>&nbsp;(<a href="javascript:toggle('secretsini')"><span id="secretsini_lnk">hide</span></a>)</p>
+<pre><div id="secretsini">1,2,</div></pre>
+
+<p>That was for our tutorial mod, but I'll give an example for a ten level mod
+with two secret levels.
+
+<p><b>secrets.ini example:</b>&nbsp;(<a href="javascript:toggle('secretsiniex')"><span id="secretsiniex_lnk">hide</span></a>)</p>
+<pre><div id="secretsiniex">3,8,<br>5,9,</div></pre>
+
+<p>In this example level 9 is accessed from level 3 and level 10 from level 5.
+Notice that the numbers in the ini are the actual level numbers minus one.</p>
+
+<b>Running your mod</b>
+<p>So you can later test your mod, we will also create a batch file
+that will launch it. It is also a requirement of Klooni modding standard.</p>
+
+<p>Mods are run from command line like this: <b>"klooni.exe /&lt;modname&gt;"</b></p>
+
+<p>Create a file called <b>"tutorial.bat"</b>, or "<b>&lt;modname&gt;.bat"</b> if you
+have a custom mod, where "<b>&lt;modname&gt;"</b> is the directory name of your mod.</p>
+
+<p><b>Contents of tutorial.bat:</b>&nbsp;(<a href="javascript:toggle('tutorialbat')"><span id="tutorialbat_lnk">hide</span></a>)</p>
+<pre><div id="tutorialbat">klooni.exe /tutorial</div></pre>
+
+</td></tr>
+</table>
+</div>
+</body>
+</html>

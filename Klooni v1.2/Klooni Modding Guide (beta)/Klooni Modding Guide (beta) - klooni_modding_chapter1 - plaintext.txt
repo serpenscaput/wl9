@@ -1,0 +1,154 @@
+Klooni - Complete modding guide
+
+
+If you follow all the chapters, we’ll build an example mod with two maps and a secret level. I encourage everyone to complete these chapters just to get familiar with modding Klooni, before doing 
+anything in a larger scale.
+
+
+Chapter 1: The basics
+
+Creating a directory
+
+Klooni uses command line to execute custom mods. So to create a mod you do not have to and you should not overwrite any gamedata.
+
+So first off, pick a directory name for your mod. Since DOS recognizes only 8 characters, the directory name must not exceed that limit.
+
+In this tutorial we create a directory called “tutorial” to the game directory. As you can see it’s exactly 8 characters long, so it’s ok.
+
+Episode structure
+
+Each episode will be a sub-directory in “tutorial” directory. To create our first episode we create a directory “Ep1” inside the tutorial directory.
+
+This will be the place for all the files for the episode number one. You can create up to 6 episode directories. “Ep2, Ep3, …”.
+
+Each episode directory will contain the following required files in order to be recognized.
+
+Required files
+
+Now that we have created a directory for the mod, copy empty “gamemaps.wad “ and “maphead.wad” which can be found in the same archive you copied this document from.
+
+We will not open Chaos-Edit just yet. First we will define a name for our episode and the three maps. To do that we will create a file called “episode.ini”. Make sure the episode.ini is an ASCII file.
+
+Contents of the file:
+
+
+
+
+
+
+
+
+Do not deviate from this syntax. Do not add tabs or any other spaces than those that you use to separate words. Don’t forget “;”.
+
+The first line contains the episode name in this case it’s called “Tutorial episode”. The episode name length is limited to 26 characters, that is because the episode title must be copied to the menu 
+and menu does not allow strings longer than 26.
+
+Map names will be defined inside the brackets, separated with a “;” and a line break (enter). The last map will be the secret level. Note, only one secret level is allowed.
+
+Notice secret level has to be specified, if you’re not going to have a secret level you’re going to have to create an empty map for it and give it a name, otherwise you can’t go to your last map.
+
+In the example I define two normal maps and the secret level.
+
+Map 1: First map
+Map 2: Triggers
+Secret: Ooh, a secret
+
+Music
+
+Having music in the maps is not a requirement, but if you do not define any songs the music will not play. If you define only one song, that one song will play in all the maps.
+
+To have music in your levels, we’ll create a standard ASCII file, just like in the previous step, and name it “songs.ini”.
+
+Contents of the file:
+
+
+
+
+
+Notice how I add a “,” after each entry. The comma is used to tell the parser that this is the end of the number. It is required even for the last number in the list.
+
+The first number is the music for the first map; the second number is the music for the second map, and so on.
+
+The song number must be in the range of 261-302. To know what song is which number. You have to get a version of Chaos-Edit that supports music chunks that are bigger than 64k.
+
+First load the music by clicking on the  -icon on the toolbar to the left. Select file named “Audiot.wad” it should be in the game’s root directory.
+
+Switch to the music tab by first selecting the “Audio –tab” from the top and then choose the “Music –tab”.
+
+ 
+
+
+The number we use to define the song is the chunk number that can be seen on the bottom right of the Chaos-Edit window. You can see that the first map is using the first available song (261) “At Doom’s 
+Gate”.
+
+ 
+The chunk number
+Par times
+
+Par times are displayed on the bottom of the Intermission screen
+
+ 
+In this map the par time is 65 seconds, which makes it 1 minute and 5 seconds.
+
+So to create par times for our maps we define the time in seconds. Just remember the maximum time is 90 minutes (90 x 60 = 5400 seconds).
+
+As a general rule, par time is the least amount of time you have to spend on the map. To beat the time you must run through the map as fast as you can, killing only the enemies that get in your way.
+
+To set par times we’ll create a file called “partimes.ini”, the file format is the same as in “songs.ini”, except this time the number that we use is the par time in seconds. If you look at the above 
+example the par time is set to 65 seconds, but at the intermission the game will convert it to minutes and seconds.
+
+Contents of the file:
+
+
+
+
+
+65 = 1:05
+85 = 1:25
+95 = 1:35
+ 
+Intermission text
+
+ 
+Intermission text from E1M9.
+
+The intermission text is a piece of text that can be displayed before or after any given map. The background can be any texture in the game.
+
+In this example we create one of these text files. It will be displayed after the intermission of the second level.
+
+The filename syntax is “text*.ini” where “*“ is the map after which the text is displayed. If you create “text0.ini” the text will be displayed before entering the first map of the episode, whereas 
+“text1.ini” will be shown after the first map’s intermission screen and so on.
+
+Create a new ASCII file, named “text2.ini” for this example.
+
+First we should load the textures in Chaos-Edit. Click on the  -icon on the toolbar to the left. Select a file named “Vswap.wad” from the game’s root directory.
+
+Select the “Textures –tab”.
+
+ 
+
+
+The value we use for the background texture is the “Wallnum” that can be seen on the bottom right of the Chaos-Edit window. You can browse the textures using the scrollbar.
+
+ 
+
+
+Okay, we have now selected a texture for the background, now it’s time to get familiar with the file format.
+ 
+Open the “text1.ini” in notepad or any editor that supports ASCII –format. 
+
+Contents of the file:
+
+
+
+
+
+”88,”	The texture number that we chose for the background. Note the “,”.
+
+”\p ”	This will change the paragraph. It will create one empty line and moves the cursor to the beginning of the new line, enter will not change the line and will not be treated as a space. Note 
+there’s a space included in the “\p ” command so it’s treated as a word.
+
+Other than that, there’s no special syntax.
+
+ 
+The result looks like this.
