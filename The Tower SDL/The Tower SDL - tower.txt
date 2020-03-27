@@ -1,0 +1,26 @@
+The Tower 4SDL
+
+
+Thank you for wanting to play The Tower.
+
+In order to play The Tower you need to own a registered version of Spear of Destiny by ID Software. Copy the AUDIOHED and AUDIOT files from Spear of Destiny to The Tower and change the extensions accordingly:
+
+audiohed.twr
+audiot.twr
+
+
+The Tower has 21 levels.
+
+The Tower combines hard puzzles with heavy action.
+
+Important: Save your progress in one slot and leave backup saved games at intervals in other slots so that you may go back to different stages of the levels you are on if you become stuck!
+
+The end of unit- secret- and boss levels have fixed bonuses.
+In all other levels it is possible to get 100% ratio in all three categories, giving a total of 3 x 100% at the end of the game.
+
+
+
+Paal Olstad (Poet).
+
+
+p-olstad@online.no
