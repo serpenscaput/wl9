@@ -227,3 +227,4 @@
 -added ECWolf versions of Mac scenarios
 -uploaded Third Person mod
 -uploaded Klooni modding guides
+-uploaded WOLFCHAT

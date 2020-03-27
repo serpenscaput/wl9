@@ -1,0 +1,515 @@
+OnlineHost     Welcome to the auditorium!  Remember, your comments are seen only
+by other members of your row.
+OnlineHost     * * *   Copyright 1992
+               * * *        America Online, Inc.
+               * * *             All Rights Reserved
+               * * * 
+               * * *   Serving America Online, Promenade, 
+               * * *             and PC Link
+               * * *
+OnlineHost     Welcome to the Rotunda, America Online's auditorium
+               for special Computing and Software events. Online
+               auditoriums differ from other online rooms in that
+               they are designed to hold an unlimited number of
+               people.
+OnlineHost     The auditorium is divided into two areas:
+                               
+               * The stage, where presenters and hosts are.
+                               
+               * The chat rows, where you are. 
+                               
+               Each chat row holds a maximum of 8 people.
+OnlineHost     You can hear what is said on stage and what is said
+               by others in your row.
+                
+               Comments made by others in your row are preceded
+               by the row number. Comments made by those on stage
+               have no number in front of the comment.
+OnlineHost     Please note that you can speak to others in your row,
+               but what you say cannot be heard by those on stage.
+               To ask a question of or make a comment to those on
+               stage, you must use the Ask a Question function of
+               the Apple software or the Interact function of the PC
+               software.
+OnlineHost     The total number of people in the auditorium is
+               displayed at the top of your screen. If you are on a
+               Macintosh or an Apple II, you will also see your name
+               at the top of the screen in addition to the names of
+               those on stage. This does not mean you are on stage.
+OnlineHost          Every effort will be made to get
+                    to as many questions as possible
+                    within the time available.
+OnlineHost     Apogee was started in 1987 with the release of the
+               popular shareware game Kingdom of Kroz. From that
+               point they have grown steadily, and in the past year
+               and a half Apogee has grown from five people to 26.
+OnlineHost     Recent releases of such games as Commander Keen and
+               Duke Nukum demonstrates how well Sega Genesis and
+               Nintendo games can be duplicated on the IBM PC. And
+               Duke Nukeum adds even more innovations to Apogee's
+               list of accomplishments--primarily, Duke Nukum is the
+               first IBM game with multi-layered levels.
+OnlineHost     Apogee is the only publisher committed to bringing
+               these types of games to the IBM world. And this
+               committment has paid off.Commander Keen has been
+               ranked number one on the ASP Shareware Top Ten List
+               for many months, and Duke Nukum is currently
+               skyrocketing to the number one position.
+OnlineHost     Commander Keen was a breakthrough game for Apogee,
+               since it demonstrated our ability to create
+               Nintendo-style games on the IBM PC, with full-screen
+               scrolling and smooth animation. No other game
+               publisher had ever done this prior to Commander Keen.
+OnlineHost     We're also committed to the shareware concept as a
+               marketing tool. Our innovative marketing method is
+               to release episode one of a game series as shareware,
+               such as with Duke Nukum, and hope that players who
+               enjoy the game will want to continue their adventure
+               in the follow-up episodes, only available through
+               Apogee.
+OnlineHost     Apogee is located in Garland, Texas, just outside
+               ofDallas. It is headed by Scott Miller (President)
+               and George Broussard (Executive Vice President).
+OnlineHost     Id Software, the creators of Commander Keen, have
+               broken new ground with their all-new Wolfenstein 3D.
+                
+               This is very first ever "texture-mapped" three
+               dimensional (3D) game with REAL-TIME scrolling and
+               panning!
+OnlineHost     Most 3D games, such as all the flight simulators
+               available commercially, use the polygon fill method.
+               Wolfenstein 3D uses a 3D technology that has NEVER
+               been seen commercially.
+OnlineHost     Wolfenstein 3D is simply a technology breakthrough!
+               As an escaped prisoner in a German war camp, you will
+               move smoothly through a 3D world full of amazing
+               detail and animation.  Unlike other 3D games, you'll
+               move SMOOTHLY through an incredible and realistic 3D
+               environment, with intelligent moving guards and
+               opponents.
+OnlineHost     And now, we welcome both Apogee and ID to the
+               Rotunda!
+AFL Bobloo     Greetings, Jay
+ID Softwr Hello...good to be here
+PC Simon  Hi, Jay..and welcome to the Rotunda, the Games Forum....
+PC Simon  from a lot of your fans out there in the audience :D
+PC Simon  For those of us who knew your previous games....
+PC Simon  and had seen their development...we were STILL, I think,
+PC Simon  all put away by what you folks created in Wolfenstein
+PC Simon  It was like the proverbial (albeit somewhat cliched) quantum leap :D
+PC Simon  How DID you get the idea for doing this game? :D
+ID Softwr We are all Applie II fans from way back and as many have guessed...
+ID Softwr Wolf3d has it's roots in Castle Wolfenstein from MUSE software....
+ID Softwr In fact we had intended to include ALL of the neat tricks of Castle
+Wolfenstein...
+PC Simon  RIght..I played that on both the Apple // and the C64
+ID Softwr in Wolf3d.  The problem was that play became a problem with the...
+ID Softwr interface getting  in the way of the fun.  So we decided to make it a
+straight shooter...only 3-D.
+
+PC Simon  One question that a few members had was how you managed to get the rights
+to a game that was
+PC Simon  originally published by another company.
+ID Softwr Our commercial distributor, FormGen, carried the torch on that one...
+ID Softwr They hired the legal dudes to wade throught the paperwork and get the
+rights...
+ID Softwr We just signed a check for the fees. :)
+PC Simon  Well...we are all certainly glad you got them...because even without all
+the tricks, this one is 
+PC Simon  even more fun than the original (at least for me :D)...but I'm a sucker
+for
+PC Simon  high-tech glitz and good scrolling :D
+ID Softwr Not to mention the blood and guts! :)
+PC Simon  Do we have any questions from the audience yet, Bob?
+AFL Bobloo     Sure do...
+AFL Bobloo     Jamie2527 has a problem he'd like some help with...
+Question       The digitized sounds in Wolf 3D is locking my computer up! Any
+ideas?  I am using the new
+Question       version!
+PC Simon  Well..I just pretend that they're rubber bullets, Jay :D
+ID Softwr Ok I have the answer!
+ID Softwr It's here somew
+AFL Bobloo     Can't ask for more than that!
+ID Softwr CAPT COMIC had the same problem and found the answerr for us
+ID Softwr It seems his serial card was at fault....
+ID Softwr The answer is detailed in a message from CAPT COMIC in the APOGEE
+section....
+ID Softwr in a sentence he had to work with his hardware addresses to straighten
+it out...
+ID Softwr I suggest you have a look at the message.
+AFL Bobloo     How2Flirt wants to know:
+Question       With the other episodes will there be other characters besides
+guards and dogs?
+PGM Guest1     Yes, there are Mutants, Officers and, of course, cool Bosses!
+AFL Bobloo     CrazyCanuk has a hope...
+Question       Grenades???  Please???  I understand the interface could be a
+prob... But it would just be
+Question       so much fun!!!  Hehehe...
+PC Simon  Our new guest, on the PGM Guest account is John Romero!
+PGM Guest1     Perhaps the NeoGeo version will have grenades...
+AFL Bobloo     Nouveau1 asks...
+Question       Will the other 5 episodes feature the ability to get german uniforms
+or any other weapons
+Question       or items?  You mention new sounds and guards..what are some new
+things that will be found in the
+Question       next 5...
+PGM Guest1     No getting of uniforms or anything better than a chaingun...
+PGM Guest1     ...because we wanted PURE ACTION and not a lot of garnish!
+PC Simon  (John is Systems Engineer for ID Software, by the way :D)
+PC Simon  And you got lots of pure action :D
+AFL Bobloo     CraigB4711 says...
+Question       Several people I know have complained that the secret doors are
+discovered by chance
+Question       rather than logic.  I'venoticed it also.  Was there a reason for
+that?
+PGM Guest1     They aren't required, but a sort-of general rule is to look...
+PGM Guest1     ...behind pictures, etc.  There's no visual hints.
+AFL Bobloo     Brigand G asks:
+Question       What does it cost to register Wolfenstein? Just curious.
+PGM Guest1     It cost $35 for the trilogy, $50 for all six, or $20 for the...
+PGM Guest1     ...episodes 4-6.  And $10 for the 70+ page Hint Book
+AFL Bobloo     And with that...
+PC Simon  HOWEVER... somebody is going to get it for a lot less than that right
+now!!
+AFL Bobloo     Yepper!
+AFL Bobloo     It's time for our door prize...
+AFL Bobloo     Or.. one of several, I should say.
+AFL Bobloo     And... who is our winner?
+OnlineHost     And our winner is Nouveau1 !! Congrats
+PC Simon  Indeed, yes
+AFL Bobloo     Congtrats!!!
+PC Simon  Congrats, Nouveau1 !!!!
+ID Softwr All right Nouveau1.   Enjoy.
+PGM Guest1     CongaRats!
+AFL Bobloo     Nouveau...send your REAL name and address to me, and I will forward
+it on
+PC Simon  Nouveau..also include the disk size you need...3.5 or 5.25...
+AFL Bobloo     To the folks who can get your prize out to you :)
+PGM Guest1     Can I win one, too?
+AFL Bobloo     Indeed. Thanks for reminding me of that part, Simon. :)
+AFL Bobloo     that was my question, John... hehehe
+PC Simon  Ummm...John...are you sure you WANT another one, John? :D
+AFL Bobloo     Anyhow...
+PC Simon  Do we have more questions, Bob? :)
+AFL Bobloo     Here is a good follow up question....
+AFL Bobloo     to all of this...
+AFL Bobloo     From DCampbell
+Question       Have you shipped the sequels yet?
+ID Softwr Yes...but we are filling a ton of back orders to fill...
+ID Softwr Apogee expects to have them filled by late this week...
+PC Simon  Those disk dupe units at Apogee must be going full tilt :D
+ID Softwr You know it.  Overheating is more like it. :)
+AFL Bobloo     Tovarishch has a follow up question regarding the sound problem
+Question       Is this the same when the sound comes and goes randomly?
+PC Simon  By the way.....when using the Apogee boards..you should always post tech
+questions for a game in the
+ID Softwr Not sure...we can't duplicate it here in the office.
+PC Simon  specific folder for that game...it'll get answered faster that way.
+AFL Bobloo     CraigB4711 has a question...
+Question       Each time I run the game, I have to set the sound effects to use my
+AdLib card.  Is there
+Question       a way to have it maintain that automatically?
+PGM Guest1     It should be saved in the CONFIG.WL? file.  You must be having...
+PGM Guest1     ...some kinda weirdo problem!  Is it a REAL Adlib card?
+AFL Bobloo     And Nouveau1 has a question that he will know the answer to
+shortly..:)
+Question       Will the new episodes work with ROLANDS and PRO AUDIO SPECTRUM
+16's????
+
+PGM Guest1     No.
+AFL Bobloo     BrigandG wants to know
+Question       Are you looking at any other applications of Wolfenstein's 3D view? 
+(e.g. space combat,
+Question       golf, etc..)
+PGM Guest1     A new shareware game is being developed that uses the Wolf...
+PGM Guest1     ...engine.  There are a couple more games that use our next...
+PGM Guest1     ...generation engine.
+AFL Bobloo     Duane 777 says...
+Question       Any thought on making a car game, totally different and exciting
+like wolf? (if you need
+Question       suggestions i have plenty!)
+PGM Guest1     We were thinking of making an F-Zero-type game, but we...
+PGM Guest1     ...trashed it in favor of some new technology we need to...
+PGM Guest1     ...develop.
+AFL Bobloo     Tovarishch wants to know:
+Question       What is the maximum possible score on scenario 1?
+PGM Guest1     Somebody knows.  I can get 500,000+ points by making it out...
+PGM Guest1     ...in 5:20!
+AFL Bobloo     ZenGEOS asks...
+Question       why are episodes 4-6 less than the 1st trilogy?
+AFL Bobloo     (Sheesh... you FLOORED me with that score.. and TIME... )
+PGM Guest1     Because it'
+PGM Guest1     is a GREAT DEAL!  You need to have already purchased the...
+PGM Guest1     ...first trilogy to execute it, though!
+PGM Guest1     ga
+PC Simon  You have to have  a 1-3 registered in order to purchase 4 -6 separately
+:)
+AFL Bobloo     Another question from CraigB4711
+Question       I've seen a program that reads a file of Wolf 3D and creates
+printable maps.  Do you have
+Question       a problem with people doing that?
+ID Softwr No...in fact we are thinking about an official Map printer/editor.
+ID Softwr And it will work with v1.1.
+AFL Bobloo     How2Flirt is curious:
+Question       Will there be more cool "cartoons" like at the end of part 1??
+ID Softwr DEATHCAM!....
+PC Simon  Yes...we should mention to Craig...that the old map editor we had will
+NOT work with 1.1 :)
+ID Softwr When you toast some of the bosses in the later episodes you get to....
+ID Softwr see the action at a different angle with DEATHCAM. :)
+AFL Bobloo     hehehe.. I like it :)
+AFL Bobloo     A question now
+AFL Bobloo     From Iam Online
+AFL Bobloo     Who wants to know
+Question       Are the sequels that same thing with different maze? Or completely
+different?
+PGM Guest1     The sequels have lots of new wall graphics, new bosses, but...
+PGM Guest1     ...there are still the same enemies.
+AFL Bobloo     Here is a fascinating question. Thanks for asking it, Craig!
+Question       Did the response to Wolf 3D surprise you?  I've been amazed at the
+interest people have
+Question       had in the game.  Of course, I'VE been amazed with the game! :-)
+PGM Guest1     We were expecting this game to get a huge response because...
+
+PGM Guest1     ...of the technology and because we put it in shareware.
+AFL Bobloo     How2Flirt has a comment for you...
+Comment        I really wish you'd tackle a RPG ....
+PGM Guest1     Someone else is tackling an RPG: Scott Host of Galactix fame.
+PC Simon  Great :D
+AFL Bobloo     JamesW7802 asks a great question, too...
+Question       I have Version 1.0.....will the patch or 1.1 help me more and in
+what way?
+PGM Guest1     Yes, it will fix lots of niggling little bugs and it's half the...
+PGM Guest1     ...download size!
+AFL Bobloo     What do you say, Simon...
+AFL Bobloo     That time again?
+PC Simon  I think so, Bob :)
+AFL Bobloo     I couldn't agree more...
+OnlineHost     ... Nor I :)
+OnlineHost     I get to do the fun part!
+AFL Bobloo     That you do, Hostie :)
+OnlineHost     How about it, PatrickMc
+PC Simon  Congrats, Patrick!
+OnlineHost     Want a FREE copy of Wolfie? :)
+AFL Bobloo     Send me your REAL name and address...and disk size
+AFL Bobloo     (3.5" or 5.25")
+ID Softwr Great Patrick.
+AFL Bobloo     And I'll forward it on to those who will ship it out to you!
+AFL Bobloo     Congrats again :)
+AFL Bobloo     Well now... 
+PC Simon  Do we have more questions, Bob?
+AFL Bobloo     Back to questions
+AFL Bobloo     We sure do :)
+AFL Bobloo     EDJ wants to know
+Question       Do you plan on adding extra utlilties to Wolf 3-D other than walls,
+like extra objects or
+Question       enemies for this game or sequels?
+PGM Guest1     In episodes 2-3 there's Mutants and Officers.  In 4-6 there's...
+PGM Guest1     ...new wall graphics and of course, new bosses.  The retail...
+PGM Guest1     ...version of Wolf will have new bosses as well.  And, I can't...
+PGM Guest1     ...forget to say there's also a DeathCam in 2-6!
+AFL Bobloo     KB27 wants to know...
+Question       CAN YOU GIVE US SOME MORE INFORMATION ABOUT THE CONTESTS THAT  YOU
+KEEP REFERING TOO?
+PGM Guest1     Aw geez!!! Speak o' the devil!  We're not sure what's going on...
+PGM Guest1     ...with the contest since there's map editors and all.  We're...
+PGM Guest1     ...still thinking about it.
+AFL Bobloo     Nouveau1 played the Apple version as did many of us... and asks..
+Question       In the old Wolfenstein for the apple the guards would SCREAM &
+SCREETCH when you shot
+Question       them... any new audio effects in these new episodes...also Will you
+be creating more than just 6
+Question       episodes in the future???
+PGM Guest1     There's TONS of new screams and stuff!  The dogs scream ...
+PGM Guest1     ...when you shoot them and on the Secret Levels there's a ...
+PGM Guest1     ... chance that someone will "cut the cheese"!  HA!
+AFL Bobloo     Oh My!!
+AFL Bobloo     hehe
+
+AFL Bobloo     How2Flirt asks another
+PC Simon  LOL :D
+Question       Are you considering Cd-rom products?
+PC Simon  An interesting effect, to be sure.....
+PGM Guest1     Yes, we're thinking about buying King's Quest V sometime...
+PGM Guest1     ...Just kidding.  The new "Gryphon" system that Microsoft is...
+PC Simon  :D
+PGM Guest1     ...behind will be a fine candidate for a port!
+AFL Bobloo     EDJ asks another
+Question       Will there be a larger selection of weapons and will the scenes of
+violence become more
+Question       graphic?
+PGM Guest1     How could they?  Please offer any suggestions!
+AFL Bobloo     CraigB4711 wants to know...
+Question       What does the hint book provide?  Maps, codes, anything else?
+PGM Guest1     Maps, hints, lots of Wolfenstein Lore and the hints are FUNNY!
+AFL Bobloo     Nouveau1 wants to know
+Question       Will there be more than just 6 wolf3d episodes in the future???
+PGM Guest1     The hint book also speaks of ... A SECRET JUKEBOX!!!
+PC Simon  ::perking up:: Secret Jukebox? :D
+AFL Bobloo     Hmmmm Shades of Elvis... 
+PGM Guest1     Yes, the retail version will have 20 levels, the Lynx version...
+PGM Guest1     ...will have 30 levels and the NeoGeo will have ?? levels.
+AFL Bobloo     Sort of a follow up
+AFL Bobloo     From James W
+AFL Bobloo     Who asks
+Question       In the other episodes, are they as many levels as episode 1 and then
+the secret level (10)
+Question       or are they more levels and more secret levels....like secret level
+in a secret level? :)
+PGM Guest1     Every episode has 10 levels - 9 plus a secret level and the...
+PGM Guest1     ...secret level in the 3rd episode is AWESOME!
+AFL Bobloo     Here is something I hadn't really thought of...
+Question       Why do the objects always face you? (example:The feet of dead guards
+always face you, the
+Question       knights always faceyou, etc)?
+PGM Guest1     That's called "uniaxial rotation" and that lets us have more...
+PGM Guest1     ...graphics in memory by not having eight rotations of every...
+PGM Guest1     ...object in the game!
+AFL Bobloo     You asked for it.. And EDJ has some thoughts for you :)
+Comment        Head shots, more splattering blood, more ways of dying.
+AFL Bobloo     And Jake T says...
+Comment        Will you be auditioning for those "special" sound effects you
+mentioned earlier?   :D
+AFL Bobloo     hehe
+ID Softwr We'll if you want to fly to Dallas....:)
+AFL Bobloo     ROTFL!!
+PC Simon  Notice...he did NOT say...
+PC Simon  WE'LL fly you to Dallas :D
+PC Simon  (Sounds like a possible contest :D)
+AFL Bobloo     Hmmm.. I wonder if that would be deductible :)
+AFL Bobloo     Here is another follow up for you...
+Question       What is a LYNX version, and who will DISTRIBUTE your retail version
+of wolf3d?
+PGM Guest1     FormGen is our retail distributor, based in Canada.  As for...
+PGM Guest1     the Lynx question: do you live under a rock?  The ATARI LYNX!
+AFL Bobloo     ZenGEOS has some more gory suggestions for you...
+Question       how about moans from not quite dead guards & slowly flowing blood
+for some time...neat to
+Question       go back to a room &see the blood trail from a not quite dead guard
+moving to another room!
+PGM Guest1     A future project is being considered: Bilestoad 3-D!  Does...
+PGM Guest1     ...anyone remember the old Apple version?
+AFL Bobloo     Zoomdude says...
+Question       I've heard mention of a two player game using the 3D engine in
+Wolfenstein.  Any previews?
+Question       Btw...I am a Wolf addict...GREAT JOB and thanks for your support on
+America Online! :)
+PC Simon  That sounds familiar, John..but it's been a lotta years and a lotta games
+:D
+PGM Guest1     That two player idea was the F-Zero game that got trashed.
+AFL Bobloo     ZenGEOS has a general question about ID software...
+Question       When will the next game series from ID be released (tentatively) &
+what will it be about?
+Comment        How about additional weapons (ie. rocket launcher, tear gas, hand
+grenaded,etc.)?
+PGM Guest1     First of all, it's "Id" as in "did".  Our next project will be...
+PGM Guest1     ...the final Commander Keen trilogy!
+AFL Bobloo     And.. 
+AFL Bobloo     From Uncertain... comes...
+Question       Will any of demos of the other sequels to Wolf be offered ??  And
+if so, when will they be
+Question       available ?? :)
+PGM Guest1     Wasn't episode one enough of a demo?  
+AFL Bobloo     :)
+AFL Bobloo     And with that...
+PC Simon  I think 10 levels is more than generous..and it really doesn't qualify
+as a demo......it's more of 
+PC Simon  a game than some you buy in the stores :D
+OnlineHost     Yep It's that time again, huh, Simon?
+PC Simon  I think so, Bob...another registered Wolfenstein 1-6!!
+AFL Bobloo     Let's see
+AFL Bobloo     Wanna pick me, hostie?? :)
+OnlineHost     Sorry, Bob
+OnlineHost     I think I've got a winner right here!
+AFL Bobloo     Ok!
+OnlineHost     Jake T.. What do YOU say??
+AFL Bobloo     Ohhh! Neat
+AFL Bobloo     Congrats, Jake!
+PC Simon  Congratulations, Jake! :D
+ID Softwr Enjoy the game Jake.
+OnlineHost     Send AFL Bobloo your REAL name and Address and disk size
+PC Simon  Now..back to some questions! :)
+OnlineHost     And he will forward it on to the people with the software :)
+AFL Bobloo     Sounds good to me..
+AFL Bobloo     Nouveau1 asks...
+Question       Please elaborate on your Bilestoad comment...I loved that game on
+the apple II...
+
+ID Softwr We have been tossing the idea of a 3-d Bilestode type game around.
+ID Softwr We all loved the game and would love to play it in 3-D.
+AFL Bobloo     Iam Online now asks..
+Question       How 'bout doin' ALIENS in Wolfenstein format? Now thats a game!
+PC Simon  :D
+PC Simon  I should interject that there does seem to be a very great interest these
+days in games with a
+PC Simon  space setting among our members....
+ID Softwr We can only afford to go after so many copyrights in one year. :)...
+PC Simon  LOL!!!
+AFL Bobloo     hehehe
+ID Softwr We had wanted to do an Aliens game, but pushed it aside to do Wolf3d.
+AFL Bobloo     Zoomdude asks
+Question       What are your opinions and plans to work with some of the newer
+sound cards coming out
+Question       such as the new Sound Blaster Pro and the PAS 16.  Do you plan on
+writing future games to take
+Question       advantage of this technology?
+ID Softwr We aleady work with the SBPro.  No plans to do anything with the PAS16,
+but you never know...
+ID Softwr If we get the specs, we may just suppport it.
+AFL Bobloo     Sounds good
+AFL Bobloo     This one
+AFL Bobloo     is from JamesW
+AFL Bobloo     Who asks
+Question       Since map editors prevent you from having a contest in Episode
+1....what about the other
+Question       episodes?
+ID Softwr The map editor authors will quickly have their programs wirking with the
+other episodes.
+AFL Bobloo     And this, from ZenGEOS
+Question       Will the final KKeen be all new like 4-6 was compared to 1-3?
+PC Simon  It's always tough, I know......we've seen that with so many games.... :D
+ID Softwr Tom Hall here:  It will be 256 color VGA, background AND...
+ID Softwr foreground parallax, cool music, sounds, and very interesting...
+ID Softwr gameplay.  We have time finally to really do Keen up as good...
+ID Softwr as we possibly can.  Keen 7 will be cool.
+AFL Bobloo     <--- color me drooling...:)
+AFL Bobloo     That sounds really marvelous...
+AFL Bobloo     I can't wait. 
+PC Simon  Me too, Bob....I want THAT one :D
+AFL Bobloo     I assume there is no release date in mind on that one?
+ID Softwr It will be done...when it's done.  (Apologies to Tim Swihart.)
+AFL Bobloo     LOL!!
+AFL Bobloo     Boy... have I heard Tim say that a lot.
+PC Simon  Yeah :D
+PC Simon  Since we have no more questions in the queue, Bob...
+PC Simon  I suggest we close up shop here..and adjourn to the PC Games Meeting
+Room....
+AFL Bobloo     Sounds like a good idea to me!
+PC Simon  where we can meet informally with Jay and John :)
+PC Simon  Take it away, Bob! :)
+OnlineHost        *  *  *  *  WHAT'S HAPPENING ONLINE??  *  *  *  *
+                 
+                You can quickly find out about other events that you
+                might enjoy online if you use KEYWORD:
+                 
+                  *      TITF:  Tonights Happenings in the forums
+                  *   SERVICE:  The FREE What's New & Online Support
+                  * COMPUTING:  Takes you to the heart of the Forums
+OnlineHost        *    *    *    *   THANK YOU    *    *    *    *
+                
+                  We are pleased that you have chosen to include
+                  America Online in your computing library.
+                  We look forward to having you join us again soon.
+                
+                  Thank you, and good night.
+OnlineHost     * * *   Copyright 1992
+               * * *        America Online, Inc.
+               * * *             All Rights Reserved
+               * * * 
+               * * *   Serving America Online, Promenade, 
+               * * *             and PC Link
+               * * *
+AFL Bobloo     Thanks for joining us, folks.
+AFL Bobloo     You can find the Games Forum by pressing a Control K, and then
+typing in PC GAMES
+AFL Bobloo     See you all there!
