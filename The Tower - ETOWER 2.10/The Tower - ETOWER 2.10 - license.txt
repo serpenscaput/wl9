@@ -1,0 +1,22 @@
+
+ETOWER V2.1.
+
+This version of The Tower, called etower.exe, is meant for add-on makers.
+All features from The Tower are included with the exception of some hard coded features found in levels 14 and 20 of The Tower. Making add-ons with these features would have strange and erroneous results in these two levels.
+
+To make add-ons to The Tower you are obliged to use the VGA files included in this package.
+You are to make one change to the Vgagraph. Where it says 'Your name' in the credit screen, replace that with your name.
+
+Put all the files in this package into a new directory, copy the remaining game files from your Tower directory.
+Now you may start to edit Gamemaps.
+The package includes customized versions of the mapedit files Mapdata and Objdata.
+
+Due to the fact that the Wolf3D/Spear resource files are copyrighted, any released add-on to The Tower must require that the player owns a registered version of Spear of Destiny. The way to achieve that in this instance is to not include the audiohed file in the released package.
+IMPORTANT:
+If you want to release add-ons based on The Tower, you must contact me first.
+
+Good luck, and have fun making new levels for The Tower.
+
+Paal Olstad.
+
+p-olstad@online.no

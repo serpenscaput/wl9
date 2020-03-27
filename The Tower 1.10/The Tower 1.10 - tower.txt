@@ -1,0 +1,74 @@
+
+The Tower v1.10.
+
+
+Text file accompanying The Tower, a Wolfenstein adventure.
+
+
+Thank you for wanting to play The Tower.
+
+The Tower is compiled for Spear of Destiny, using the Wolf3D/Spear source code released by Id Software.
+
+The Tower also uses much of the resources of the original game, such as graphics, sounds and music.
+To protect the copyright of the owner of the original game, the audiohed file is not included in the zip.
+You must own a registered version of Spear of Destiny to supply this file.
+
+There are also several new graphics in The Tower, including the outdoor areas.
+
+There is a new audiot file.
+All songs are original Wolfenstein songs, but I have included some songs from Wolf3D that are not originally found in Spear.
+I edited the audiot without having to edit the audiohed.
+I guarantee that the audiohed with the date 5th of January 1993 works with my version of the audiot,
+other original Spear audiohed files may also work.
+If my version of the audiot does not work use an original Spear audiot file with a corresponding audiohed file.
+Only the order of songs will be changed.
+
+
+How to install and run The Tower.
+Create a new directory called Tower.
+Unzip TOWER.ZIP in the Tower directory.
+Copy the audiohed file from your original Spear of Destiny directory to the new Tower directory.
+Start TOWER.EXE
+
+All levels are tested on "Death Incarnate" starting with just a knife,
+and getting 100% in all three bonus categories.
+
+The story of The Tower is displayed during the intro loop.
+Each of the 12 screens has about one minute reading time.
+Hitting a key will take you to the menu screen.
+
+General hints.
+The Tower combines hard action and challenging puzzles.
+Know that not shooting an enemy immediately may be necessary to open doors.
+Sometimes letting the door close before opening fire is necessary to prevent being heard by enemies in nearby areas.
+Several items have different functions under different conditions.
+Picking up items in the right order may sometimes be necessary to get through the levels
+Remember to save often and in different slots. Always leave a save at the beginning of the level you are currently on.
+
+There are some secret levels.
+The last one of these is a complete castle itself, with several floors of its own.
+You move up and down through these floors using elevators.
+When you get down to a floor you have been to previously you will find it in the state you left it.
+Each floor in this secret level has its own ceiling color and wall textures.
+
+See also The Tower Hint Manual, but be aware that looking at it may spoil the challenge of playing The Tower.
+Have someone else looking at the Hint Manual to give you vague hints without spoiling the gameplay.
+
+A notice to add-on makers.
+Some features found in two of the Tower's levels are not general features.
+They are hard coded especially for these levels.
+Making an add-on using The Tower as a basis you will experience strange and unpredictable things in these two levels.
+If you want to make add-ons to The Tower please contact me first.
+
+
+The Tower is freeware and may only be distributed free of charge.
+All 9 files (including this text file) must be included, and no other.
+
+The author of The Tower kindly requests people not to modify The Tower nor use part of it in other add-ons.
+
+
+
+Paal Olstad.
+
+
+p-olstad@online.no
