@@ -1,0 +1,1 @@
+Majik Monkee has issued an updated fix for 'Operation: Letzterschutz'. It replaces the fix that was sent out a few months ago. It corrects the same map errors as the original fix, plus fixes some minor wall usage mistakes in the first episode. The fix (updated maps only) is available here.
