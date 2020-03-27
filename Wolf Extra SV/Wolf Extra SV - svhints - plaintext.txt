@@ -1,0 +1,70 @@
+Wolf-Extra special version hints.
+This hint document refers to version 2.5.
+
+You can use the standard Wolf-Extra Hint manual with the special version.
+This file describe the altered order of levels and the small changes done to some of them.
+
+Wolf-Extra special version has six episodes with 4 levels each, except episode 1 which has 5 levels, all including a secret level.
+
+This version also has a few source code changes including:
+Bosses are as hard to beat as in Wolf Hour.
+"Death Cams" disabled.
+Two extra keys added (some levels have two keys, some have three keys, and one has four keys).
+The Ubermutant included.
+Mutant and Ubermutant cleavers that really hurt.
+The 25 shot ammo box included, several of these are found in the Hitler levels, this boss is now a lot harder to beat.
+Hitler and Fettgesicht drop a red key.
+Schabbs, Giftmacher and the Ubermutant drop a white key.
+(Grosse drops a gold key like before.)
+
+Each episode has a small exit level with end game trigger objects (the running hero).
+
+In the description below the levels are named after where they are found in the standard Wolf-Extra version (i.e. E2F7 means episode 2 floor 7 in the standard version, E3FS means the secret floor to 
+episode 3 in the standard version).
+
+Wolf-Extra special version.
+
+Episode 1.
+Level 1: E6F1. Nothing changed.
+Level 2: E6F2. Nothing changed.
+Level 3: E2F6. The entrance elevator which also was the real elevator is now a secret elevator. An ordinary elevator is now found in the south west secret room. The chaingun has been taken out of the 
+level.
+Level 4: E2F7. Some of the mutants near the elevator have been moved to the start of the corridor leading to the elevator. A white key door is put before the elevator, you have to defeat Schabbs in the 
+secret area to get to the elevator.
+Secret level: E3F8. Accessed from level 3. The chaingun has been taken out of the level.
+
+Episode 2.
+Level 1: E2F5. The ordinary elevator is moved to the upper of the two dummy elevators (the one with the pushwall to the gold key). The central elevator is now a secret elevator, a white key door is put 
+before it. You have to defeat Schabbs in the secret area to get to the elevator (unless a mutant opens the locked door).
+Level 2: E1FS. Nothing changed.
+Level 3: E6F8. The last Grosse that was in the elevator has been taken out. Instead an Ubermutant is put in the little room immediately before the elevator. The elevator door requires a white key (from 
+the Ubermutant).
+Secret level: E6F6. Accessed from level 1. Some health + ammo and a chaingun added
+
+Episode 3.
+Level 1: E2F1. The chaingun has been taken out of the level.
+Level 2: E3F4. A small change done to the elevator area. You have to open the secret door and defeat Hitler for a red key to the elevator.
+Level 3: E2F9. An elevator with a white key door added to the northern powerup room in the Schabbs section.
+Secret level: E3F5. Accessed from level 1. Nothing changed.
+
+Episode 4.
+Level 1: E6F3. Nothing changed.
+Level 2: E6F5. Nothing changed.
+Level 3: E3F6. You need the gold key found in the central area to get through one of the rooms leading to the south western secret area with Hitler. You need the red key to get into the last room before 
+the elevator. The key which was the second gold key is now a white key. (You need the SS to open the door, the key is found within to ensure that you get out again.)
+Secret level: E6FS. Accessed from level 1. Nothing changed.
+
+Episode 5.
+Level 1: E1F9. An elevator is put where the corridor to the exit originally started. Some health added.
+Level 2. E3F7. Like before you can get to a secret elevator without finding the secret room with Hitler. But once you are there you have to defeat him, for a red key, to get into the last secret 
+elevator (found in this area).
+Level 3: E6F9. An elevator with a red key door added to the north west secret room.
+Secret level: E3FS. Accessed from level 2. Nothing changed.
+
+Episode 6.
+Level 1: E4F1. An elevator with a white key door added to the wood panel room with the cyan key.
+Level 2: E2F8. The ordinary elevator is moved a little to the north. The original elevator is now a secret elevator and only accessed through the secret area with Schabbs. A white key door is put before 
+it.
+A little health added.
+Level 3: E3F9. An elevator with a red key door added to the leftmost of the two rooms south of the green maze.
+Secret level: E2FS. Accessed from level 2. Nothing changed
