@@ -1,0 +1,14 @@
+
+WOLFENSTEIN MEETS PACMAN
+
+Tired of the same old Nazi Guard scenerio?  The attached VSWAP.WL1
+replaces the Brown Guard with Pacman images created using the
+DKB raytrace program. (based on 'PACMAN.DAT') 
+
+
+Comments/Suggestions:
+
+Bill Neisius
+bill@solaria.hac.com
+
+
