@@ -1,0 +1,74 @@
+Controls:
+---------
+
+| Controls for Player 1                        |
+|----------------------------------------------|
+| Key                  | Action                |
+|----------------------|-----------------------|
+| Left Arrow           | Turn Left             |
+| Right Arrow          | Turn Right            |
+| Up Arrow             | Move Forwards         |
+| Down Arrow           | Move Backwards        |
+| Control              | Shoot                 |
+| Alt                  | Strafe                |
+| Shift                | Run Speed             |
+| Left Mouse Button    | Shoot                 |
+| Right Mouse Button   | Open/Use              |
+| Middle Mouse Button  | Toggle Minimap        |
+| Mouse Wheel Down     | Cycle Next Weapon     |
+| Mouse Wheel Up       | Cycle Previous Weapon |
+| Page Up              | Toggle Minimap        |
+| Page Down            | Change Color          |
+| 1                    | Select Knife          |
+| 2                    | Select Pistol         |
+| 3                    | Select MP40           |
+| 4                    | Select Chaingun       |
+
+| Controls for Player 2                        |
+|----------------------------------------------|
+| Key                  | Action                |
+|----------------------|-----------------------|
+| A                    | Turn Left             |
+| D                    | Turn Right            |
+| W                    | Move Forwards         |
+| S                    | Move Backwards        |
+| Q                    | Shoot                 |
+| E                    | Open/Use              |
+| X                    | Toggle Minimap        |
+| Z                    | Cycle Next Weapon     |
+| C                    | Change Color          |
+
+| Controls for Player 3                        |
+|----------------------------------------------|
+| Key                  | Action                |
+|----------------------|-----------------------|
+| Keypad 4             | Turn Left             |
+| Keypad 6             | Turn Right            |
+| Keypad 8             | Move Forwards         |
+| Keypad 5             | Move Backwards        |
+| Keypad 7             | Shoot                 |
+| Keypad 9             | Open/Use              |
+| Keypad 2             | Toggle Minimap        |
+| Keypad 1             | Cycle Next Weapon     |
+| Keypad 3             | Change Color          |
+
+| Controls for Player 4                        |
+|----------------------------------------------|
+| Key                  | Action                |
+|----------------------|-----------------------|
+| J                    | Turn Left             |
+| L                    | Turn Right            |
+| I                    | Move Forwards         |
+| K                    | Move Backwards        |
+| U                    | Shoot                 |
+| O                    | Open/Use              |
+| ,                    | Toggle Minimap        |
+| M                    | Cycle Next Weapon     |
+| .                    | Change Color          |
+
+| Minimap Controls                             |
+|----------------------------------------------|
+| Key                  | Action                |
+|----------------------|-----------------------|
+| [                    | Zoom In               |
+| ]                    | Zoom Out              |

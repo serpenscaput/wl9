@@ -1,0 +1,21 @@
+A magyarításról:
+----------------
+
+A Wolf3D magyarítás a Wolf4SDL port forráskódjából lett felépítve és a ChaosEdit-tel lett megszerkesztve grafikai feliratok, szinkronok, stb. gyanánt.
+A forráskódot kkk911 építette fel, aki segédkezett a fordítás bizonyos részében is.
+
+
+Egyéb infók:
+------------
+
+* Felirat: magyar
+* Szinkron: magyar
+
+A teljes csalások használatához futtasd a WCheatSDL.bat fájlt.
+
+
+Stáblista:
+----------
+
+kkk911 - forráskód felépítése és fordítás
+szemi gi - fordítás és szinkronizálás

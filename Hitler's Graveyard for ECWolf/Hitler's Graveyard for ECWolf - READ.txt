@@ -1,0 +1,38 @@
+HITLER'S GRAVEYARD Mac Version Quick-Fix for ECWolf (PC Compatibility Patch)
+Original Version by Laz Rojas
+Fix by Sam Feichter (AstroCreep) 	
+12/23/2018
+
+
+DIFFERENCES FROM ORIGINAL
+
+Menu graphics adapted from WolfenDOOM Version of Astrostein, Wolf 3D, and the ECWolf Tech Demo by Executor.
+Includes fonts from Tech Demo by Executor
+includes imf macwolf songs by Andy_Nonymous
+
+
+This is only a temporary build, as this is designed for the crippled version currently
+being run by the dev versions of ECWolf.  As such, this WILL NOT WORK with the official releases yet, only the dev versions
+which support MacWolf.  Dev versions can be found at http://devbuilds.drdteam.org/ecwolf/
+
+This also includes a modified Astrostein 2 mod needed to run this fix, already
+MacBinary'd up.
+
+TO RUN:
+Extract ZIP file
+Drag and drop "graveyard_data.bin" and "graveyard_fix_PC.pk3" onto the ecwolf executable
+
+OR
+
+run "ecwolf --file graveyard_data.bin graveyard_fix_PC.pk3"
+
+CREDITS - 
+
+Wolfenstein 3D by iD Software
+Mac version by iD Software and MacPlay
+"Hitler's Graveyard" originally by Laz Rojas
+Fix by AstroCreep
+Extra resources from Wolfenstein 3D (PC)
+
+
+ 

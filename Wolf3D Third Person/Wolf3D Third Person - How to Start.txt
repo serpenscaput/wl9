@@ -1,0 +1,14 @@
+Q: Who programmed the original?
+A: Created by LinuxWolf and DoomJedi - Team RayCAST. It stands in the README.txt. Thank you guys!
+
+Q: How to start the game?
+A: Extract the "Wolf 3D - Third Person" file. Start "Wolf4SDL-wolf3d_full.exe" in the "Base" folder.
+ 
+Q: Where is the "Base" Folder?
+A: There are one Base in all Folders for example:Play as BJ/Base/Wolf4SDL-wolf3d_full.exe
+
+Control: 
+-W,A,S,D 
+-Shift to RUN
+-Ctrl/Mouse1 to Shoot
+-Chance Weapons/Charakter 1,2,3,4

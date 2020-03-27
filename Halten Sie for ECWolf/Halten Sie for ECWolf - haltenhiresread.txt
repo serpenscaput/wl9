@@ -1,0 +1,50 @@
+This is a conversion of Halten Sie! by Laz Rojas to ECWolf,  This is a pretty simple
+straightforward copy and paste conversion, with the exception of map 2, which I mapped
+out from the original MacWolf scenario (it was also in the WolfenDoom addon.  It was
+scrapped from this version due to only 10 levels being in an episode, and most likely
+because it was the least detailed level)  
+
+VERSION 2.0 NOTES
+
+This is the Hi-Res version.  This includes walls, weapons, and items from my
+previous GFX packs, with a few modified walls and brightness levels for all maps.  All other sprites were replaced
+with versions from the Sprite Enhancement pack.  All of the walls that I modified
+can be used for any of your own projects.
+
+VERSION 3.0 NOTES
+This is an update to the HIRES version.  The main change in this one are the floor textures, which
+were used from the tech demo.  Other changes include decorate versions of bosses, 
+silver doors and metal (because the floors and lighting REALLY made them look bad), new title
+and sign on screen, and a few more optimizations.
+
+Editors used:
+SLADE, HWE, ChaosEdit, Ultimate Paint, Audacity 
+
+Sources:
+Walls, Items, Weapons - Wolfenstein 3D (Macintosh Version)
+Enhanced Wolf3D Sprites - Wolf3D Sprite Fix Project by PSTrooper
+Custom Hi-Res Walls by AstroCreep (Sam Feichter), based off of work originally by Laz Rojas
+Truck Sprite from The Portal by Laz Rojas (WolfenDOOM)
+Additional Music from Spear of Destiny
+Original Maps by Laz Rojas, MAP02 ported from Mac version by AstroCreep
+Floors from ECWolf Tech Demo by Executor
+
+
+ORIGINAL TXT FILE:
+
+Title: Halten Sie!
+Author: Laz Rojas
+Email Address: filmman@earthlink.net; wolfdoom@aol.com
+Web sites: http://www.geocities.com/TimesSquare/3744/
+http://www.doomworld.com/wolfendoom
+Description: 10 levels for Wolf 3D, replacing the first episode
+
+Story: Things were going good for the Allies. Paris had been liberated, the Nazis were in retreat all across Europe, and the end of the war seemed finally in sight.
+
+You and two buddies were selected to sneak behind enemy lines on a secret reconnaissance mission to prepare the way for the final push into Germany. Penetrating enemy territory, you expected to find the Nazis demoralized and in disarray... but instead, you found them gearing up for a brand new major offensive that could catch the Allies completely offguard and totally turn the tables. Even worse, you and your buddies were captured before you could report back what was going on.
+
+That was two months ago, and you've spent the past two months buried deep within the bowels of a heavily guarded Nazi prison. Your two buddies are already dead, preferring to die at the hands of vicious Nazi interrogators than tell them what they want to know. Now it's your turn, and you know that for the sake of the unsuspecting Allies, you must live long enough to escape and warn them of the impending Nazi attack. It's all up to you. So when they come to your cell to get you, you waste no time. Before anyone knows what's happening, there's one dead Nazi guard on the cold floor beside you, and his gun is in your hand. But no sooner do you step out into the corridor than you hear a shout of "Halten Sie!"... and you realize without a doubt that the fate of the free world depends on what you do next.
+
+Installation: Rename your gamemaps.wl6, maphead.wl6, vswap.wl6, vgagraph.wl6 and vgahead.wl6 files, then put the files in this archive into your Wolf 3D directory.
+
+If you have any problems with the included vgagraph and vgahead files, just use the originals that come with Wolf3D. All the new ones do is replace the title screen.

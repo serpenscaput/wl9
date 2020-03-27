@@ -223,3 +223,6 @@
 -uploaded The Tower SDL
 -uploaded Wolf-Extra III SDL
 -slashed down directory count
+-uploaded Wolfenstein 3D in Hungarian
+-added ECWolf versions of Mac scenarios
+-uploaded Third Person mod
