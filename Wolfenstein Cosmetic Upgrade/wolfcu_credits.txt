@@ -1,0 +1,157 @@
+WOLFENSTEIN COSMETIC UPGRADE CREDITS LIST
+
+-WALLS-
+
+Gray stone 1: Id Software (Mac/Jaguar)
+Gray stone 2: B.J. Rowan
+Gray Stone w/ Flag: Wall by Id Software (Mac/Jaguar), flag by Doom Juan
+Gray Stone w/ Hitler: Wall by B.J. Rowan, painting by DHW TC team
+Gray Stone 3: B.J. Rowan
+Gray Stone w/ Sign: B.J. Rowan
+Blue Stone: Id Software (Mac/Jaguar), sign by Tristan van Putten, cells by Id Software
+Wood: B.J. Rowan
+Doors: B.J. Rowan
+Elevator: Originals by Id Software, recolored parts by B.J. Rowan, background material by ArEyeP, edited and assembled by Executor
+Steel: B.J. Rowan
+Red Brick: Id Software (Mac/Jaguar), with editing by Executor
+Gray Stone w/ Slime: B.J. Rowan
+Stained glass: WLHack
+Blue Wall: Id Software (Mac/Jaguar)
+Gray Brick: Base texture by Id Software (Mac/Jaguar), resized by Laz Rojas, edited by Executor
+Panel Wall: Base by Id Software, crown molding by B.J. Rowan, assembled by Executor
+Brown Marble: Ben Blaufarb
+Spear of Destiny walls (except purple brick): Id Software with editing by Executor
+Purple Brick: Tristan van Putten, recolored by Executor
+
+-FLATS-
+Laz Rojas
+Bungie (Marathon)
+Megabyte
+Id Software (Doom/Doom II)
+Raven Software (Shadowcaster)
+Bethesda Softworks (The Elder Scrolls I: Arena)
+
+-SPRITES-
+
+Demo sign: Wolf Skevos-Jones
+Water pool: AREyeP
+Oil drum: AREyeP, recolored by Executor
+Table w/ chairs: AREyeP
+Floor lamp: Ben Blaufarb
+Chandelier: WLHack
+Dog Food: Megabyte
+Column: Wolf Skevos-JOnes
+Green plant: Spliced and recolored from parts of the original and Laz Rojas' recoloring of the Mac version, with additional editing by Executor
+Sink: JaM Productions
+Ceiling light: Ben Blaufarb
+Table: Megabyte
+Suit of armor: Wolf Skevos-Jones
+Wolf3D Cages: B.J. Rowan
+Spear Cages: Base by B.J. Rowan, additional editing by Executor
+Keys: Laz Rojas
+Food: Wolf Skevos-Jones
+Medikit: Thomas Weiling
+Clip: B.J. Rowan
+Pistol: Blox
+MP-40: Pickup by Apogee Software (from ROTT original specs). in-hand sprites by Blox with additional editing by Executor
+Chaingun: Pickup by Wolf Skevos-Jones, in-hand sprites by Blox
+Treasure: Tristan van Putten
+Barrel: Megabyte
+Well w/water: Id Software, water recolored by Executor
+Nazi flag: Wolf Skevos-Jones
+Utensils: BJ Rowan
+Stove: Wolf Skevos-Jones
+Spear rack: WLHack
+Bones and blood: AREyeP
+Guard: Double(Super)Shotgun
+Dog: Tobbé
+Officer: Architect
+SS: Parts by Wolf Skevos-Jones and B.J. Rowan, edited and assembled by Executor
+Mutant: WLHack
+Hans Grosse: Parts by Megabyte, edited and assembled by Executor
+Dr. Schabbs: Id Software
+Fake Hitler fire: Id Software (Doom)
+Hitler: Id Software, edited by Megabyte and Executor
+Otto Giftmacher: B.J. Rowan with weapon muzzle flash by Megabyte and additional editing by Executor
+Gretel Grosse: Captain J with muzzle flash by Megabyte and minor editing by Executor
+General Fettgesicht: Id Software, edited by Megabyte and Executor
+Knife: Id Software (Jaguar)
+Trans Grosse: Laz Rojas, with editing by Executor
+Other Spear bosses: Edited by Executor
+Rockets: Wolf Skevos-Jones
+Geist flame: Id Software, recolored by Executor
+Angel of Death spark: Id Software, explosion by JaM Productions
+Angel of Death flame: Raven Software (Hexen), edited by Eriance, recolored by Executor
+Spear of Destiny: Shaft by ArEyeP, head by Id Software, recolored and assembled by Executor
+
+-VGAGRAPH-
+Menu assets by Id Software (Spear of Destiny), recolored by Executor
+Wolf3D title screen by Executor with parts by Id Software
+Spear title screen by Id Software with editing by Executor
+High Score screen by Id Software, with editing by Executor
+Intermission letters by Executor
+Status bar keys by Wolf Skevos-Jones
+Bigfont by Kinsie
+Smallfont by Executor
+Status bar by Executor
+Intermission B.J.: doomjedi
+
+-MUSIC-
+All music by Bobby Prince, converted and remastered by Executor
+
+-SOUNDS-
+
+Guard: Sight/death by WSJ, pain by Valve Software
+Dog: CeeJay
+Door: BJ Rowan
+Knife swing: MacPlay Entertainment
+Knife hit/draw: Sounds of Skyrim
+MP-40: WildWeasel
+Pistol: WildWeasel
+Chaingun: WildWeasel, made from sounds by Infinity Ward and Valve Software
+SS: CeeJay
+SS attack: Firearms Half-Life
+Hans Grosse: Wolf Skevos-Jones
+Hitler: MacPlay Entertainment
+Blood gurgling: CeeJay
+Officer: CeeJay
+Boss firing: MacPlay Entertainment
+Player pain: MacPlay Entertainment
+Player death: Id Software (Doom)
+Pushwall: MacPlay Entertainment
+Bonus items: MacPlay Entertainment
+Tally screen sounds: Click by doomjedi, cash register from Prime Target
+Dog food: Kinsie
+Food: Kinsie
+Medikit: Id Software (Quake II)
+Menu move: doomjedi
+Menu select: doomjedi
+Menu escape: Id Software (Quake II)
+Schabbs throw: Raven Software
+Fake Hitler flamethrower: Per Kristian
+Needle hit wall: Sounds of Skyrim
+Needle impact: MacPlay Entertainment
+Hitler sight: MacPlay Entertainment
+Hitler stomp: MacPlay Enterainment
+Hitler "Scheisse!": Laz Rojas
+Hitler armor collapse: CeeJay
+Otto Giftmacher: Laz Rojas
+General Fettgesicht: Laz Rojas
+Gretel Grosse: Gray Matter
+Mutant death: Vosvoy
+20mm cannon: City of Heroes
+Rocket launch: Longbow Digital Arts
+Angel of Death spark: Raven Software
+Angel of Death fire breath: Sounds of Skyrim
+Death Knight walk: CeeJay
+Death Knight rocket: Per Kristian
+Ubermutant death: CeeJay
+Ammo clip: MacPlay Entertainment
+Angel of Death head explosion: Kinsie
+Ammo belt: LilWhiteMouse
+Geist: Id Software (Doom II)
+
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this TC.

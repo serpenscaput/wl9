@@ -1,0 +1,37 @@
+^PAGE 1
+^c1cQUICK COMMAND REFERENCE
+^c00
+Arrows move. Ctrl feeds. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to DOS
+
+Read on for more information.
+
+^PAGE 2
+^c1cKEYBOARD COMMANDS
+^c00
+Once you are in the game, use the arrow keys to move. Hold down ^c6eShift ^c00to run fast.
+Press ^c6eCtrl ^c00to feed the animals.
+Use ^c6eAlt ^c00 with the left and right arrows to slide side to side instead of turning left or right.  This is called "Strafe Mode."
+Press ^c6eSpace ^c00to open doors.
+
+^PAGE 3
+^c1cJOYSTICK/MOUSE
+^c00
+When using the mouse or joystick, use button 1 to shoot, button 2 to strafe.
+With a three-button mouse, use the third button to open doors.
+Gravis PC Gamepads have a fourth button, useful as a run button.
+
+^PAGE 4
+^c1cFEEDING TOOLS
+^c00
+If you have more than one feeding device, use keys 1-6 to change between the one you are using.
+
+^E
