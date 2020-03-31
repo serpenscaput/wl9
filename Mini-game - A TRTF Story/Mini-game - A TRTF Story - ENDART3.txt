@@ -1,0 +1,12 @@
+^P
+^G16,16,5
+^C7eGood Job!
+^C00
+a Alison like robot is now defeated but there is still more machines to kill.
+
+now on to the central FB Inc
+^P
+^c7eMore MiniGame
+^c00
+but there's a problem you made such a ruckus that the main entrance to FB Inc central is guarded so you go to it through the sewers...
+^E

@@ -1,0 +1,6 @@
+TREASURE HUNT
+
+by Serpens
+Ported to ECWolf by Executor
+
+This is a direct port of Serpens' Episode 1 replacement Treasure Hunt, originally released for DOS and SDL back in 2014. Everything here is as true as possible to the original release. The DOS/SDL readme by Serpens is included. This port should be compatible with any texture, weapon, or gameplay mods made for ECWolf that do not have their own maps or alter MAPINFO. Any bug reports should be directed to spaceforce-temp@hotmail.com.
