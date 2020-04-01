@@ -1,0 +1,25 @@
+
+  ******************************************************************
+  *                                                                *
+  * The SODED1.ZIP file should have contained the following files: *
+  *                                                                *
+  ******************************************************************
+
+**   Documentation
+
+README   1ST  - Version notes
+SODEDIT  DOC  - SODEDIT Documentation
+EDITTIPS DOC  - Map construction hints and tips
+MANIFEST      - This file
+
+**   Files Required During Execution
+
+SODEDIT  EXE  - SODEDIT executable
+EGAVGA   BGI  - Borland BGI driver
+
+MAPDATA  SOD  - Map definition file
+OBJDATA  SOD  - Object definition file
+
+*** Note - Read the SODEDIT.DOC file for a complete description of
+           the *DATA.SOD files and their proper use.
+
