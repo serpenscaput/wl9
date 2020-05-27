@@ -1,0 +1,22 @@
+This text file will explain you how to use these map definition files, how do you implement them into the editor tools! So let's begin, but first we have to download our tools first! 
+http://wolf3d.net/utilities/ you can download most of the editors on this page, however if you want to work with NMap, you can find that here http://toastytech.com/files/nmap.html
+Once you have the editors you need, you can start implementing the mapdefinitions into the editors!
+
+ChaosEdit: If you work with ChaosEdit, then open up the folder called ChaosEdit, you will find another folder called The Second Encounter, you have to insert that inside ChaosEditors mapobjects folder. Once that's done open up extensions.txt and add this line anywhere you want to: TSE,The Second Encounter,Spear of Destiny(1)
+Save the .txt file and we're done!
+
+FloEdit: Open up FloEdit folder and copy it's content inside the editor's folder! Since I had lots of problems with this editor, I hope everything will work fine and I think you can use the mapdefs with each versions of FloEdit. Important, you have to set maps to 60 with extension set to "TSE"! That would be it!
+
+HWE: Simple one! Open HWE folder, grab TSE folder and drag it inside the folder called MapDefs that is located inside the editor's folder! Done!
+
+MapEdit8.5: Fire up MapEdit8.5 folder, grab the files and insert them inside the editors folder! Extract the package that contains the mapdefs. Next step is to open MAPEDIT.INI and change this line def_file_extension=WL6 to this def_file_extension=TSE. I have included files GAMEMAPS.WL6 and MAPHEAD.WL6 that contains 60 maps, the original 30 and 30 unused empty maps. If you want to add your maps to your game then you have to use another editor to open up the .WL6 files and export your maps then import them into your .TSE files!
+
+NMap: Easy Peasy, open up your NMap folder grab those 3 files and add them within the editor's folder and also include the game's mapfiles too (GAMEMAPS.TSE and MAPHEAD.TSE) and we're done!
+
+TED5: Open up your TED5 folder and put the files egadict, egagraph and EGAHEAD inside the editors folder, that's all! However I recommend to keep the .IFF files, if you want to change the mapdefinitions you have to open those files, I recommend use DeluxePaint to edit those files, then you have to put your new .IFF files inside the igrab folder, use GRAB.bat to import the image files and the .bat file will create egadict, egagraph and EGAHEAD files containing your new map symbols.
+
+VSWolfTools 2: You can find 2 files inside VSWolfTools 2 folder, grab fig.bmp and drag it inside the editor's folder, your OS will ask you if you want to overwrite the already existing file, so I recommend you to have a backup of the original fig.bmp file if you need it later on! Then grab The Second Encounter.txt file and add it inside the VSMAPED folder!
+
+WDC: Simple! Open up the WDC folder, and copy TSE.wmc, inside the editor's folder look for another folder called MapDefs and paste your TSE.wmc file there! Done!
+
+Final note: Editors like HWE, MapEdit, NMap, TED5 are for mapping purposes only, if you want to go beyond mapping and want to work on sprites, vgagraphs, sounds and such then use editors like WDC, ChaosEdit, VSWolfTools 2 and/or FloEdit!

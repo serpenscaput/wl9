@@ -1,0 +1,204 @@
+^p
+^G10,65,3
+
+
+
+
+
+^c28 WELCOME
+
+^c00 Thanks for playing the full version of Escape from Castle Holle. This 31 level version is vastly different to the 10 level demo which was released on the 16th April 2006. It has 21 more levels, more coding, new wall & sprite images, a new 'mystery' treasure item plus a whole lot more!
+
+^p
+^c28 WELCOME
+
+^c6d This full version includes
+
+^c6d * ^c00 31 Consecutive levels
+^c6d * ^c00 4 secret and 1 Super secret levels
+^c6d * ^c00 25 Ammo box added
+^c6d * ^c00 Additional health item added
+^c6d * ^c00 New Mystery treasure item
+^c6d * ^c00 Many new wall textures 
+^c6d * ^c00 Intermission screens
+^c6d * ^c00 Increased sprite and guard count
+^c6d * ^c00 Changed Music order
+^c6d * ^c00 Spear of Destiny music added
+^c6d * ^c00 Plus much more!
+
+^p
+^c28 STORY
+^G35,16,85
+
+^c00 You are BJ Blazkowicz war hero and solver of problems. One day your commanding officer calls you and informs you that they have just uncovered secret Nazi papers that refers to a hidden castle captured by the Nazi's that has been reverted into some sort of strange scientific base. Looks like your services may be required BJ!
+
+^p
+^G10,65,3
+
+
+
+
+
+^c28 STORY (Cont.)
+
+^c00 You go on to read that the worst part is that there has been testing on human subjects and with many men still missing in action your superiors fear the worst! It is rumoured that the castle has been renamed 'Holle' (Hell in German) and is located somewhere in the North of France.
+
+^p
+^G10,65,3
+
+
+
+
+
+^c28 STORY (Cont.)
+
+^c00 You jump on the next flight and soon find yourself en route to France and back into the heart of the Nazi war machine. You parachute in under the cloak of darkness and make your way to one of the areas that some of the missing guards were last reported as being seen.
+^p
+^G10,65,3
+
+
+
+
+
+^c28 STORY (Cont.)
+
+^c00 Meeting up with a contact from the resistance, he informs that he thinks he knows where the Castle is and will take you this evening. You are hidden in the back of a lorry and driven into the night. You stop several hours later and hearing German voices outside the lorry. 
+^p
+^G10,65,3
+
+
+
+
+
+^c28 STORY (Cont.)
+
+^c00 Suddenly the doors burst open and you are commanded to exit the lorry immediately. You gingerly make your way out into bright lights to find yourself surrounded by Nazi soldiers. So much for trusting an old connection! Looks like you may be finding you way to Castle Holle after all...
+^p
+^c28 ENEMIES
+^G35,16,4
+
+^c6d German Sherpard
+
+^c00 These vicious canines patrol the castle looking for intruders so BJ must beware. They are trained well and attack on sight with their sharp teeth. They usually hunt in packs but are no match for an accurate shot from BJ. If BJ is low on health there is quite often some dog food left lying around nearby that he can eat to help top up some health.
+^p
+^c28 ENEMIES
+^G35,16,30
+
+^c6d Guard
+
+^c00 Armed with a pistol these guys are the most common type of guard in the Castle. BJ shouldn't underestimate them though, they can still do plenty of damage especially when in groups! They can move around when attacking so it's better for you to either find them stationary or make sure you shoot with an accurate shot!
+^p
+^c28 ENEMIES
+^G35,16,31
+
+^c6d SS
+
+^c00 Armed with a machine gun these guys are tough. They have been decorated and wear gold stars on their lapels to show their status. They can really cut BJ up with their fire power especially at close range or when attacking in multiples. They are trained higher in tactics and can quite often be found in more strategic places than just plainly out in the open.
+^p
+^c28 ENEMIES
+^G35,16,32
+
+^c6d Officer
+
+^c00 These are the most decorated of Hitler's guards and can be harder to kill than regular guards. Although only armed with a pistol they have been trained in evasive methods and can be hard to pin down. They are usually located higher in the castle but can also be found on the lower levels.
+
+^p
+^c28 ENEMIES
+^G35,16,33
+
+^c6d Mutants
+
+^c00 Other than the bosses these are by far the most dangerous creatures in the castle. They are mutations created by the evil Dr. Schabb's. They, along with Dr. Schabb's must be destroyed. But beware as these guys are pretty tough, especially in groups. Bigger firepower may be required to dispatch these mutants!
+
+^p
+^c28 TOOLS
+
+^c7c Want to know what I used to make the game?
+
+
+^c6d Floedit II v2.0: ^c00 Level design
+
+^c6d Borland C++ 3.1: ^c00 Source code compilation
+
+^c6d Adobe Photoshop CS2: ^c00 VGA graphic Images.
+
+^c6d Microsoft Paint v5.1: ^c00 VGA graphic Images
+
+^c6d DHW Forum: ^c00 Tutorials, ideas & advice.
+
+^p
+^c28 THANKS
+
+^c6d Walls: ^c00 Architect, BJ Rowan, AReyeP & Noni
+^c6d Sprites: ^c00 BJ Rowan, AReyeP 
+^c6d Guards: ^c00 Wolf Skevos-Jones (Heer pack)
+^c6d Audio: ^c00 Tricob
+^c6d Original Wolf3D game: ^c00 ID Software
+^c6d Beta testing: ^c00 Tricob, AReyeP & Liza.
+
+^c7c Thanks to ^c6d BrotherTank, MCS, Tricob ^c7c & ^c6d Chris Chokan ^c7c for help with coding.
+
+^c7c Thanks to ^c6d Tricob, Thomas, BrotherTank, Andy_nonymous, Dr. Chainsaw, Chris Chokan, MCS ^c7c & ^c6d AReyeP ^c7c for general help & advice.
+^p
+^c28 THANKS
+
+^c7c A very big thank you goes out to the following mappers for the levels they made for 'Escape from Castle Holle'.
+
+^c6d Tricob: ^c7c Level 20
+^c00 Thanks for supplying the level, it was great working with you.
+
+
+^c6d Thomas: ^c7c Levels 13 & 29
+^c00 We've worked on many projects together and it's a great pleasure to have 2 of your levels in my mod.
+^p
+^c28 OTHER MODS RELEASED
+
+
+^c6d Hitlerworld 
+^c00 (Released 22/02/06)
+
+^c6d Escape from Castle Holle: Demo
+^c00 (Released 16/04/06)
+
+^c6d Wolf Community Mappack
+^c00 (Released 27/08/07)
+
+
+For these and many others go to the
+Wolf 3D Dome ^c7c(www.wolfenstein3d.co.uk)
+^p
+^c28 FUTURE PROJECTS
+
+
+^c6d Hitlerworld: Remastered
+^c00 A reworking of my first mod now expanded to 11 levels with Textured floors & ceilings, switch operated walls, new guards, shading plus a whole lot more!
+^c7c - Due for release during 2008
+
+^c6d Dean Wolf
+^c00 A remake of the original Wolf 3D levels with a few interesting twists released 1 episode at a time as they are mapped.
+^c7c - Due for episodic release during 2008
+^p
+^c28 CONTACTS
+
+^c00 Please contact me via the following with any suggestions or feedback.
+
+email:
+
+^c7c deananthonyhorton@hotmail.com
+
+^c00 Or PM me at:
+
+^c7c Diehardwolfers Forum
+(http://diehardwolfers.areyep.com)
+
+^p
+^c28 CONTACTS
+
+^c00 I have been collecting Wolf 3D mods for a long time now and currently have over 750 in my collection but there's a few old and no longer available titles that are missing from my collection. If you have a hard to find mod or mapset that you think I may not have in my set them please contact me via either of the methods mentioned on the previous page. Thanks! :) 
+^p
+^c28 CONCLUSION
+
+^c00 Thanks for playing Escape from Castle Holle. Lookout for more mods from me coming soon.
+^G80,16,5
+
+^E

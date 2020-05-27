@@ -1,0 +1,42 @@
+Thank you very much for downloading Abandon 2020, a faithful restoration of my first Wolfenstein 3D mod.
+I conceived this mod as more or less a map set in September 2004, but as I went along, it only felt natural to expand
+the scope with whichever possibilities I had. Back then, I was blissfully unaware of numerous editors, only having
+MapEdit 4.2 and WolfEdit at my disposal. I soon advanced to FloEdit, but had numerous issues in getting some of the
+work I had made in WolfEdit to fit; I suppose it had to do with the formatting, but as I said, in those days I simply did
+not know my way around the technical side of things too much. In many ways I still don’t!
+Running into compromises even made me change the storyline; when I found out about seamless level flow versus
+episodic flow; all levels were now episode-by-episode. When I found out I could not undo certain things to sprites,
+suddenly we were stuck with “Nazi biscuits” and “radar tables” and who knows what else. Officer frames that made
+no sense… Mutants, which were only replaced with Mr. Wolf’s Uzi guards at the last minute, all these things, only
+made for an uneven and confused gameplay.
+Even when I was in the progress of making the mod, I knew the outcome would be terrible and so many things in the
+mod were held together by a very thin thread. Furthermore, MapEdit 4.2 had insufficient definitions, causing most
+textures to be “UNKNOWN XXXX” which is where my memory played its part in remembering all these numbers and
+which walls we were talking about. Another thing I was not aware of at this point was two things, actually: Difficulty
+and position. I had no idea that Guard 3/S/W meant guard on skill 3, standing west. I was just guessing. For a long
+time, I used any guard that was 1/S/S because to me, it looked believable enough. As such, gameplay gets cluttered
+and uneven with only skill 1 guards represented. That said, I have seen countless instances where skill 1 guards rule
+the roost and yet the authors got away with it; mainly ack and Arielus. Then again, their sense of placement and
+overall gameplay were absolutely miles beyond where my mind was at this time.
+For Abandon 2020, I have rectified some of these mistakes, and added a slew of skill 3 and 4 guards, especially in areas
+where gameplay got ridiculously difficult. I also remember making a map and being satisfied with it, only to run into
+the “Too many objects” bug. I frequently went over the 399 object limit, and had to remove items. For some strange
+reason it was always the food and ammo pickups that got the boot. I regret that immensely, as the gameplay suffered
+heavily from being way too difficult without any sufficient replenishment of health or ammo; so ammo and health
+pickups have been added as well. Floor codes were also an alien concept to me; but all levels have now been fixed so
+the player can play a level with a natural flow rather than having a tons of deaf guards waiting for you, or to have 130
+guards chasing you from the get-go.
+Furthermore, Abandon 2020 uses AlumiuN’s executable originally made for Frantic Passages, Stranded and KowTow,
+and is currently in use by me for my next mod. This sees a number of enhancements to Abandon’s original gameplay,
+in which – at last – seamless level flow is produced, in addition to an increased ammo rate that should keep the Hitler
+ghosts and numerous Hans Grosse’s at bay.
+Abandon 2020 is much more in the vein of a map set or a “classic” type set, as they say. Too many of the objects and
+guards that featured in the original 2004 release were more or less tacked on near the end. The only objective from
+the get-go I knew I wanted was the laboratory scenario, including nuclear barrels and wall textures to fit. As such,
+many objects were replaced rather than added on, making for earlier levels looking out of place. If a potted plant
+featured at E2M4 but became a laboratory table at a later time, then its placement in e.g. a castle or a dormitory
+makes little sense. This I only realised after the fact. The “new” sprites have now been added as separate objects.
+Abandon 2020 merges the earliest surviving set of levels I made (released as Abandon v0.0 in 2006) and these levels
+are featured early on in the mod. All other Abandon levels survive, with the exception of E2M2 which was only
+constructed out of anguish of corrupting a different level. All other levels are maintained, in a more humane, and
+hopefully more fun, manner for the player to play. I hope you will enjoy the set.
