@@ -1,0 +1,184 @@
+format:
+E#M# : (Name)
+Author: (name)
+Misc Info: (text)
+
+-------------------EPISODE 1: Castle Verruckter----------------------
+E1M1: At Wolf's Gate
+Author: Roebloz
+Misc Info: The second map to be created for the pack, it is your basic first level but
+it does serve as an introduction for what's to come. Has the exit to the secret level.
+You will first meet Guards, Officers, the Spectres and (If playing on the highest difficulty)
+the Skeletal SS.
+
+E1M2: Guard's Room
+Author: Roebloz
+Misc Info: The first map created for the pack. Contains the first Machine Gun and a lot of
+secrets.
+
+E1M3: Skeletal Mazes
+Author: Asuka2
+Misc Info: This map reintroduces the SS if you were not playing on I Am Death Incarnate!, the Mutant and the Chaingun as well. To access the chaingun, you need a Golden Key that is found in a secret in the final room before the teleporter. 
+
+E1M4: The Barracks
+Author: Roebloz
+Misc Info: Features small pathways outside and a good amount of secrets. You will meet one of
+your worst enemies here again.
+
+E1M5: Laboratory Hideout
+Author: Asuka2
+Misc Info: Mainly features wood and steel, this map is the first hard times you will really get. Prepare to die, or save a lot. Or both. Features some ambushes too.
+
+E1M6: Untitled Boss Level
+Author: Roebloz
+Misc Info: A pretty hard map as well, be sure to have a Chaingun for this one, as you will meet Hans Grosse again here but don't be fooled. This isn't the end of the episode or the
+level when you beat him, you still have some rooms to fight through. Features good secrets
+and annoying boner ambushes.
+
+E1M7: Dark and Light Halls
+Author: Asuka2
+Misc Info: Cool map. Huge amount of secrets. Lots of textures. Dont take the fake elevator.
+'Nuff said.
+
+E1M8: Treasure Keep
+Author: Roebloz
+Misc Info: One of the reasons why this needs ECWolf. You can either walk straight to the elevator and finish this map in 5 seconds, or push the multicolor brick to reveal a small
+hall with a chaingun and some ammo. Open the door, and there is two outcomes. Either die
+like a moron, or come out victorious and the treasure is yours.
+
+E1M9: Exit of the facility
+Author: bitbob
+Misc Info: Bitbob's first map in this add-on, features 5 Soldiers from Hell and 1 Gretel Grosse. Also the first Chaingun not in a secret! The final map of the episode by the way.
+
+E1M10: Purple Halls of Doom
+Author: Asuka2
+Misc Info: The first secret level and definitely the easiest. Not easy though! It features
+epic battles, not-so-epic ambushes, and a maze of skulls with more ambushes (and a secret
+in each of them). You will also meet the Melee Cacodemon and perhaps even 3 One-Ups.
+
+-------------------------EPISODE 2: Abschaffungsportal----------
+E2M1: Deep Under the Castle
+Author: bitbob
+Misc Info: The first level of Episode 2. Contains a few secrets and a chaingun,
+along with some mutants.
+
+E2M2: Monochrome Halls
+Author: Asuka2
+Misc Info: Hefty amount of ambushes and some secrets, gets his name from the
+black and gray halls. Will definitely give you a hard time.
+
+E2M3: Skeletal Quarantine
+Author: Roebloz
+Misc Info: Roebloz's first level in Episode 2.
+Features a lot of Skeletal SS and a good amount of healing. Once you get to the metal halls,
+prepare for it.
+
+E2M4: Symmetrical Design of Doom
+Author: Roebloz
+Misc Info: Almost fully symmetrical map (Aside from the exit and the secrets) this map is the
+true first hardcore map. You will need to improvise, adapt, and overcome.
+
+E2M5: The Laboratories
+Author: Bitbob
+Misc Info: Features a lot of mutants, an obnoxiously blue ceiling for some reason,
+and a combo of mossy, steel and purple halls. Return of the red bricks!
+
+E2M6: Corrupted Floor
+Author: Asuka2
+Misc Info: Pretty hard map, has a Chaingun you could easily miss in the silver
+key room. Hell's presence seems to be floating through the air.
+
+E2M7: The Terrible Truth
+Author: Roebloz
+Misc Info: Pretty short map with only 4 enemies. Here you will learn the
+truth about what happened.....
+
+E2M8: The Gateway to Hell
+Author: Bitbob
+Misc Info: After learning the truth in E1M7, you go to the deepest parts
+of the castle, where the portal to hell is located. Your task here is simple:
+Enter the portal and activate the elevator inside to block the demons's 
+access to Earth...Pretty long map, features a pushwall maze that leads to the
+secret level, as well as the secret boss.
+
+E2M9: Tower of Babel
+Author: Roebloz
+Misc Info: Recreation of the Tower of Babel from Doom 1. Very hard map as it
+is the final map of the episode. You are now in hell but to progress forward
+you will need to destroy the Cyberdemon Lord, and all of his bodyguards
+present. Kill or be killed.
+
+E2M10: Queen's Keep
+Author: Roebloz
+Misc Info: The location of the secret boss fight. You are given a chaingun
+at the start. Get ready to defeat the two demons that are so dangerous
+that the demons needed to contain them. This will finish the episode too.
+
+----------------------------EPISODE 3: Hell Beneath------------------------
+
+E3M1: Evil Incarnation
+Author: Roebloz
+Misc Info: One of the most hellish maps in difficulty due to the obligatory
+pistol start. Features each type of enemies (Minus the Cacodemons) and no
+chaingun. Prepare for the two Officers at the start. Tip: The red walls with
+a golden and purple "orb" on them are pushwalls, and are present throughout
+all the levels and I will nickname them "Hell Doors". Normal secrets DO
+still exist.
+
+E3M2: Baphomet's Fortress
+Author: Asuka2
+Misc Info: Tough. Dumb. Lots of enemies. Secret Silver Key that isnt required to finish the level, but opens up to a lot of healing. The Hell Door in the golden key room will lead you to a LONG hallway with the exit to the secret level. However, be aware that once you are in the secret level, there is no going back.
+
+E3M3: The Abyss
+Author: bitbob
+Misc Info: Features a lot of mazes and enemies, a lot of skull walls and
+blue walls, however you do get some healing. Beware of the mutants in the blue
+maze. Also, Spectres. If that wasnt enough, you get to have a rematch with
+the Cyberdemon at the end! Note that since it is required that 2 of them are
+placed (So that killing one doesn't make the episode end), it is impossible
+to get 100% kills.
+
+E3M4: Back to the Castle
+Author: Asuka2
+Misc Info: At the very start you enter a portal and you are back from hell!
+You will go back at the end of the level though. :( Features a TON of secrets
+and way less demonic enemies (Unless you count the SS as such, even then not
+that much). Be sure to inspect the walls for secrets, even IN other secrets!
+
+E3M5: The Icons of Hell
+Author: Roebloz
+Misc Info: A lot of enemies, probably one of the hardest maps in the episode.
+Features a Team FIR2 icon as the level layout, and a Swastika! Yay. Another
+Cyberdemon rematch, which means you cant get 100% kills yet again.
+
+E3M6: Twisted Verruckshit
+Author: Various parts from Episode 1, Asuka2
+Misc Info: The best parts of Episode 1, twisted to give you a hard time!
+You better remember where the secrets were, if you do you WILL be rewarded.
+
+E3M7: Calm Before The Storm
+Author: bitbob
+Misc Info: The first break from the SS soldiers since E1M3! Celebration!
+Although there is NO weapons for you here. Probably one of the shortest maps,
+you only have to go through 5 rooms before exiting. Features only one
+Soldier from Hell fight. If you decide to go through the Hell Door you
+will find a small pathway leading to many riches.
+
+E3M8: No Rest for the Living
+Author: Roebloz
+Misc Info: The penultimate map of the map pack, this one has had a lot of
+effort put into it. You will definitely die. Watch your ammo. You will need it. Features a lot of enemies, a lot of ambushes, a lot of everything. It is
+the penultimate map after all. If you manage to beat this, congratulations!
+You can now proceed to the fight with the Destroyer, escape and seal hell.
+
+E3M9: Final Showdown
+Author: Roebloz
+Misc Info: No Mecha Hitler fight here! You will need to get the two keys before proceeding to main fight (and thus fight Gretel Grosse for the third
+time). Before you enter the arena, save. You will have to kill the Destroyer
+however his arena features two Soldiers from Hell again, as well as 1 Cacodemon. If you wish to venture into the small corridors at the back of the arena, beware as there are 4 SS guards that will attempt to ambush you, as well as two more Cacodemons lurking. You can however find 8 clips and two extra lives there, so it might be a good choice! The boss itself is a General Fettgesicht replacement. If you win, congratulations! You have beaten the map pack! However if you have yet to try it, attempt the secret level of this episode.
+
+----------------------THE FINAL CHALLENGE--------------------------------
+E3M10: Satan's Club
+Author: Roebloz, Asuka2, bitbob. Original layout by ID.
+Misc Info: The final challenge. A dickification of E1M1 from the original
+Wolfenstein. Every single ammo clip counts here. Pro Tip: To kill everything here, shoot at it until it dies. Good luck.
