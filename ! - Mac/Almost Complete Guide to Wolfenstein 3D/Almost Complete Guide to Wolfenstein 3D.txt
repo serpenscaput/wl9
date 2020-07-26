@@ -11,9 +11,12 @@
                                                     and created using DOCMakerŞ v4.1.1
 
 
-This document is the result of many hours of experimenting, searching for documentation, and compiling data.  It is intended to be a handy reference for those wishing to create better levels with WolfEdit, as well as a detailed description of the idiosyncrasies of Wolfenstein 3D.
+This document is the result of many hours of experimenting, searching for documentation, and compiling data.  It is intended to be a handy reference for those wishing 
+to create better levels with WolfEdit, as well as a detailed description of the idiosyncrasies of Wolfenstein 3D.
 
-This document is nowhere near complete.  There are, for example, WolfEdit hacks that IŐve heard of, but don't know what the file names are, who wrote them, where to get them, etc.  I would like to be able to make The (Almost) Complete Guide to Wolfenstein 3DŞ more complete.  If you have (or know where to get) anything that isn't listed in this document, or know of something about the game that isnŐt covered in this document, please let me know.
+This document is nowhere near complete.  There are, for example, WolfEdit hacks that IŐve heard of, but don't know what the file names are, who wrote them, where 
+to get them, etc.  I would like to be able to make The (Almost) Complete Guide to Wolfenstein 3DŞ more complete.  If you have (or know where to get) anything that 
+isn't listed in this document, or know of something about the game that isnŐt covered in this document, please let me know.
 
 I can be reached at the following addresses:
 
@@ -25,20 +28,37 @@ Or, you can reach me by mail or phone:
                                                                  Sepulveda, Ca.  91343-5920-33
                                                                  (818) 892-1748
 
-This document was written using the Geneva (9,10,12,14), Monaco(7,9) and Courier(10) fonts.  This document is now formatted for pagination when printing.  The PRINT feature of this document is now enabled.  Also, this document has the ability to use the Drag Manager under System 7.5 (or the extension under System 7.0 or newer).  This means you can select text in any chapter and drag it to a Drag Manager aware word processer (or text editor), or copy the selection to the clipboard for pasting into a non-DM aware word processer (or text editor).  All style and color information will be intact.  You can also save the text of the document to a TEXT file, but the style and color information will be lost.  Pictures cannot be copied, dragged or output to an external file, but you can use a utility (such as ResEdit) to get copies of the pictures from the PICT resource.
+This document was written using the Geneva (9,10,12,14), Monaco(7,9) and Courier(10) fonts.  This document is now formatted for pagination when printing.  The PRINT 
+feature of this document is now enabled.  Also, this document has the ability to use the Drag Manager under System 7.5 (or the extension under System 7.0 or newer). 
+ This means you can select text in any chapter and drag it to a Drag Manager aware word processer (or text editor), or copy the selection to the clipboard for pasting 
+into a non-DM aware word processer (or text editor).  All style and color information will be intact.  You can also save the text of the document to a TEXT file, 
+but the style and color information will be lost.  Pictures cannot be copied, dragged or output to an external file, but you can use a utility (such as ResEdit) 
+to get copies of the pictures from the PICT resource.
 
-This document is not for sale, and may not be included with any package that is for sale or at a cost to the receiver without prior written consent of the author/compiler (namely, me).  It may be freely distributed through any electronic forum which allows such free dissemination without charge, except the usual fees attached with permitting access to the BBS where applicable.
+This document is not for sale, and may not be included with any package that is for sale or at a cost to the receiver without prior written consent of the author/compiler 
+(namely, me).  It may be freely distributed through any electronic forum which allows such free dissemination without charge, except the usual fees attached with 
+permitting access to the BBS where applicable.
 
-While I cannot claim copyright to many of the materials eluded to in this document (ie., Wolfenstein 3D, WolfEdit, the patches to WolfEdit, the extensions for use with Wolfenstein 3D, and some of the written material; as well as the DOCMakerŞ SAD itself), I do claim copyright to this document as a whole and the written form of the data which I myself have produced.  Information whose copyright belongs (or may belong) to another person or group is noted as such within this document.  With that said, this document is © 1995 by Wayne Campbell, All Rights Reserved.  See the Credits chapter for a list of copyrights and other authors. 
+While I cannot claim copyright to many of the materials eluded to in this document (ie., Wolfenstein 3D, WolfEdit, the patches to WolfEdit, the extensions for use 
+with Wolfenstein 3D, and some of the written material; as well as the DOCMakerŞ SAD itself), I do claim copyright to this document as a whole and the written form 
+of the data which I myself have produced.  Information whose copyright belongs (or may belong) to another person or group is noted as such within this document. 
+ With that said, this document is © 1995 by Wayne Campbell, All Rights Reserved.  See the Credits chapter for a list of copyrights and other authors. 
 
 
 Introduction to The (Almost) Complete Guide to Wolfenstein 3DŞ
 
-This document includes all of the data that I have been able to accumulate about the Wolfenstein 3DŞ game for the Macintosh, whether by self-determination or by finding documentation of someone else's work.  I have attempted to put everything into an order that will allow the reader to deal with a given topic without being exposed to other unrelated topics.
+This document includes all of the data that I have been able to accumulate about the Wolfenstein 3DŞ game for the Macintosh, whether by self-determination or by 
+finding documentation of someone else's work.  I have attempted to put everything into an order that will allow the reader to deal with a given topic without being 
+exposed to other unrelated topics.
 
-Most of the information in this document was produced by my own hand (experimenting with WolfEdit 1.1 and using ResEdit to unravel the resources), but certain data was produced by others.  The Credits chapter contains a list of all of the sources used to compile this document.
+Most of the information in this document was produced by my own hand (experimenting with WolfEdit 1.1 and using ResEdit to unravel the resources), but certain data 
+was produced by others.  The Credits chapter contains a list of all of the sources used to compile this document.
 
-While I have attempted to cover all 3 versions of Wolfenstein 3DŞ, the obvious route to take for level development is tending to lean towards 3rd Encounter Episode files, as these are the easiest way to produce levels for the game that don't require writing changes to the game itself.  Therefore, most of the discussion concerning the creation of levels will be written toward that end.  Note that to use the same data for 1st or 2nd Encounters, you need only to save the level(s) as WolfEdit files, and follow WolfEdit's instructions for installing into Wolfenstein 3DŞ.  Of course, there are certain restrictions to the use of enemies, weapons and objects in a given level when installing into 1st or 2nd Encounters.  I have attempted to cover this as thoroughly as possible.
+While I have attempted to cover all 3 versions of Wolfenstein 3DŞ, the obvious route to take for level development is tending to lean towards 3rd Encounter Episode 
+files, as these are the easiest way to produce levels for the game that don't require writing changes to the game itself.  Therefore, most of the discussion concerning 
+the creation of levels will be written toward that end.  Note that to use the same data for 1st or 2nd Encounters, you need only to save the level(s) as WolfEdit 
+files, and follow WolfEdit's instructions for installing into Wolfenstein 3DŞ.  Of course, there are certain restrictions to the use of enemies, weapons and objects 
+in a given level when installing into 1st or 2nd Encounters.  I have attempted to cover this as thoroughly as possible.
 
 Wolfenstein 3D 3rd Encounter includes the following resources also found in the external episode files:
 
@@ -49,9 +69,13 @@ Wolfenstein 3D 3rd Encounter includes the following resources also found in the 
  145  GamePal
  147  Music List
 
-Of these, 147 (Music List) is the only one that would be required in an episode file, as the list differs according to the number of levels in that episode.  Wolfenstein 3DŞ 3rd Encounter has the Music List resource of 2nd Encounter, making that resource not required if you are placing the 2nd Encounter levels into an Episode file for 3rd Encounter.
+Of these, 147 (Music List) is the only one that would be required in an episode file, as the list differs according to the number of levels in that episode.  Wolfenstein 
+3DŞ 3rd Encounter has the Music List resource of 2nd Encounter, making that resource not required if you are placing the 2nd Encounter levels into an Episode file 
+for 3rd Encounter.
 
-I don't yet understand exactly what GamePal (145) is, or what it contains.  I do know that all 3 versions of Wolfenstein 3DŞ contain the resource, as well as each of the external Episode files of 3rd Encounter.  I also know that all of the versions of Wolfenstein 3DŞ and all of the Episode files use the same GamePal.  It is always the same item ID, the same size, and as far as I can tell the exact same data.
+I don't yet understand exactly what GamePal (145) is, or what it contains.  I do know that all 3 versions of Wolfenstein 3DŞ contain the resource, as well as each 
+of the external Episode files of 3rd Encounter.  I also know that all of the versions of Wolfenstein 3DŞ and all of the Episode files use the same GamePal.  It is 
+always the same item ID, the same size, and as far as I can tell the exact same data.
 
 Other than the above resources (and each levels map resource), episode files also include the following resources:
 
@@ -62,16 +86,24 @@ Other than the above resources (and each levels map resource), episode files als
 
 Signature only has 7 text characters, which spell Wolf 3D.  The Map list resource is unique to each episode.
 
-To be safe, I suggest creating a ŇblankÓ episode file that includes all of the resources found in the original episode files, and using a copy of it for adding the unique Map list, Music List, and Map Level resources with WolfEdit.
+To be safe, I suggest creating a ŇblankÓ episode file that includes all of the resources found in the original episode files, and using a copy of it for adding the 
+unique Map list, Music List, and Map Level resources with WolfEdit.
 
-The purpose of this document is to bring together in one place the bulk of the knowledge so far obtained about the inner workings of Wolfenstein 3DŞ, data concerning the extensions available for Wolfenstein 3DŞ, and knowledge about the level editor WolfEdit (and it's complement, the WolfMaker auto-level maker).
+The purpose of this document is to bring together in one place the bulk of the knowledge so far obtained about the inner workings of Wolfenstein 3DŞ, data concerning 
+the extensions available for Wolfenstein 3DŞ, and knowledge about the level editor WolfEdit (and it's complement, the WolfMaker auto-level maker).
 
-I hope that this will allow those who are creating levels for Wolfenstein to create better levels, as well as to allow the authors of WolfEdit, WolfMaker, and (yes) even Wolfenstein 3DŞ to produce programs that are even better than the current versions.
+I hope that this will allow those who are creating levels for Wolfenstein to create better levels, as well as to allow the authors of WolfEdit, WolfMaker, and (yes) 
+even Wolfenstein 3DŞ to produce programs that are even better than the current versions.
 
-If you know about something that isn't covered in this document, please send me email containing the information that you have.  My email addresses (and my postal address) are on the title page of this document. 
+If you know about something that isn't covered in this document, please send me email containing the information that you have.  My email addresses (and my postal 
+address) are on the title page of this document. 
 
 
-I downloaded a file called ÔWolfenstein 3D 1.0.3.sitŐ from LAMG out of the Vault ŐO Files archive (a CD-ROM that they receive periodically with the latest shareware stuff on it).  The sit contained a Stuffit Installer file named Wolfenstein 3DŞ Installer.  The installer created a folder named Wolfenstein 3DŞ folder.  The folder contained 3 files; Read Me, Wolfenstein 3DŞ Set, and Wolfenstein 3DŞ First Encounter.  A Get Info call showed that the version number of the 1.0.3 file is 1.0.1.  The file size and creation date, however, didn't jive with what I already have.  As an aside, the Read Me included with 1.0.3 is identical to the Read Me included with the 1.0 -> 1.0.1 patch file, and the archive also included the same set file (for the Gravis gamepad) that the 1.0 archive originally included.
+I downloaded a file called ÔWolfenstein 3D 1.0.3.sitŐ from LAMG out of the Vault ŐO Files archive (a CD-ROM that they receive periodically with the latest shareware 
+stuff on it).  The sit contained a Stuffit Installer file named Wolfenstein 3DŞ Installer.  The installer created a folder named Wolfenstein 3DŞ folder.  The folder 
+contained 3 files; Read Me, Wolfenstein 3DŞ Set, and Wolfenstein 3DŞ First Encounter.  A Get Info call showed that the version number of the 1.0.3 file is 1.0.1. 
+ The file size and creation date, however, didn't jive with what I already have.  As an aside, the Read Me included with 1.0.3 is identical to the Read Me included 
+with the 1.0 -> 1.0.1 patch file, and the archive also included the same set file (for the Gravis gamepad) that the 1.0 archive originally included.
 
 Note that throughout this discussion, the following definitions apply:
 
@@ -80,7 +112,9 @@ Note that throughout this discussion, the following definitions apply:
 1.0.3 = the new one I downloaded
 The patch file is a ResCompare patch file that I downloaded when I first got Wolfenstein 3D 1st Encounter 1.0
 
-Using a copy of the Wolfenstein 3DŞ 1st Encounter 1.0.1 file I already had, I used ResCompare to see what differences it could detect.  For those unfamiliar with ResCompare's output, the blue line represents the data that is changed between the Master file (left side) and the Update file (right side).  The following 3 Alert resources were different:
+Using a copy of the Wolfenstein 3DŞ 1st Encounter 1.0.1 file I already had, I used ResCompare to see what differences it could detect.  For those unfamiliar with 
+ResCompare's output, the blue line represents the data that is changed between the Master file (left side) and the Update file (right side).  The following 3 Alert 
+resources were different:
 
 Differences from resource ALRT 130
 Master:	Wolfenstein 3DŞ First Enc 1.0.3, version 1.0.1, on ASA-Rand HD
@@ -143,7 +177,8 @@ Update attributes:					                    	Ą
 |0000|0000:                         00 8B 44 44 00 00       |           ‹DD  |
 ==============================================================================
 
-Each of these shows that the values of the patched version were changed in the 1.0.3 version all in the same places (From the range of 00 to 0D, 01-07 were changed in each resource).
+Each of these shows that the values of the patched version were changed in the 1.0.3 version all in the same places (From the range of 00 to 0D, 01-07 were changed 
+in each resource).
  
 Using ResEdit, I did furthur investigating to find out the reason for the 20011 byte difference in file size.  I found the following.
 
@@ -166,7 +201,12 @@ Differences:        1.0 <-- 1.0.1   1.0.1 <-- 1.0.3   1.0 <-- 1.0.3
 
 The patch file seems to be 4 days newer than the 1.0.3 version of the game.
 
-I cannot explain the 20011 byte difference between the 1.0/1.0.1 and 1.0.3 versions data forks, except to say that it is the same size as the 2nd Encounter game's data fork.  3rd Encounter has 105754 bytes in its data fork.  I used HexEdit 1.0.4 to read the data forks of both 1.0.1 and 1.0.3, and copied the data into 2 separate resource files in ResEdit, and then used ResCompare to see what the differences were.  The result was over 1 meg of data showing insertions, changes and deletions (as well as identical data) that was too much to deal with.  I did the same with 2nd Encounter, and compared its data fork to the 1.0.3 version's data fork.  While the sizes of the data forks (2nd Encounter and the 1.0.3 version) are the same, the contents are not identical.  Since the size is prohibitive towards duplicating the entire ResCompare output, I have elected to include only the differences:
+I cannot explain the 20011 byte difference between the 1.0/1.0.1 and 1.0.3 versions data forks, except to say that it is the same size as the 2nd Encounter game's 
+data fork.  3rd Encounter has 105754 bytes in its data fork.  I used HexEdit 1.0.4 to read the data forks of both 1.0.1 and 1.0.3, and copied the data into 2 separate 
+resource files in ResEdit, and then used ResCompare to see what the differences were.  The result was over 1 meg of data showing insertions, changes and deletions 
+(as well as identical data) that was too much to deal with.  I did the same with 2nd Encounter, and compared its data fork to the 1.0.3 version's data fork.  While 
+the sizes of the data forks (2nd Encounter and the 1.0.3 version) are the same, the contents are not identical.  Since the size is prohibitive towards duplicating 
+the entire ResCompare output, I have elected to include only the differences:
 
 =======================================================================================
 |00000010|00000010:          40            |         7D             |   @    |   }    |
@@ -177,11 +217,17 @@ I cannot explain the 20011 byte difference between the 1.0/1.0.1 and 1.0.3 versi
 |00014638|00014638: 00 00 00 00 01 8C 00 00|62 61 72 06 4C 69 6E 65 |    Ś  |barLine|
 =======================================================================================
 
-ResCompare doesn't compare data forks, and this would explain the difference between the 1.0.1 and 1.0.3 versions, but it doesn't explain the differences in the Alert resources.  Also, a comparison of the 2nd Encounter resources shows that the Screen Size resource (130) is identical to the 1.0.3 Screen Size resource, but the 2 Shareware alert resources are different.  Now, this makes sense, considering that the shareware notices in 2nd Encounter are different from the shareware notices in 1st Encounter, but brings up the question of why are the shareware resources in 1.0.1 and 1.0.3 different from each other when they are supposed to be the same notices?
+ResCompare doesn't compare data forks, and this would explain the difference between the 1.0.1 and 1.0.3 versions, but it doesn't explain the differences in the 
+Alert resources.  Also, a comparison of the 2nd Encounter resources shows that the Screen Size resource (130) is identical to the 1.0.3 Screen Size resource, but 
+the 2 Shareware alert resources are different.  Now, this makes sense, considering that the shareware notices in 2nd Encounter are different from the shareware notices 
+in 1st Encounter, but brings up the question of why are the shareware resources in 1.0.1 and 1.0.3 different from each other when they are supposed to be the same 
+notices?
 
-I took a virgin copy of Wolf 3D 1.0, and a virgin copy of the 1.0 -> 1.0.1 patch and (after restarting with all extensions off) created a new patched version.  The new patched version turned out exactly the same as the patched version I used to compare to the 1.0.3 version I downloaded.
+I took a virgin copy of Wolf 3D 1.0, and a virgin copy of the 1.0 -> 1.0.1 patch and (after restarting with all extensions off) created a new patched version.  The 
+new patched version turned out exactly the same as the patched version I used to compare to the 1.0.3 version I downloaded.
 
-Before doing any of the above work, I called MacPlay's order line to see what the current versions of Wolfenstein 3DŞ are.  A followup call to customer support verified the order line's response.  The current versions are:
+Before doing any of the above work, I called MacPlay's order line to see what the current versions of Wolfenstein 3DŞ are.  A followup call to customer support verified 
+the order line's response.  The current versions are:
 
 1st Encounter:  1.0.1
 2nd Encounter:  1.0.1
@@ -196,7 +242,9 @@ The questions are:
 5) Is the 1.0 -> 1.0.1 patch file an official patch, or did someone just make a patch and distribute it?
 6) Are there supposed to be any differences between the 1.0.3 and 2nd Encounter data forks?
 
-Based on a return phone call from MacPlay Tech Support, the programmers stated that the 1.0.3 file doesn't sound like the 1.0.1 version that MacPlay released (they believe that it is a hacked version).  I have uploaded a copy of the archive to the Interplay BBS so that the programmers can get a first-hand look at it and determine it legitimacy.  Chris (tech support) has agreed to inform me of the programmers determination when they have reached a conclusion.
+Based on a return phone call from MacPlay Tech Support, the programmers stated that the 1.0.3 file doesn't sound like the 1.0.1 version that MacPlay released (they 
+believe that it is a hacked version).  I have uploaded a copy of the archive to the Interplay BBS so that the programmers can get a first-hand look at it and determine 
+it legitimacy.  Chris (tech support) has agreed to inform me of the programmers determination when they have reached a conclusion.
 
 As of 12/30/95, Interplay has not verified anything to me.  I can only assume that their original hypothesis that the 1.0.3 version is a hack is true. 
 
@@ -327,9 +375,17 @@ Organized, it looks like this:
  18      317  013D          35      334  414E
                             36      335  014F
 
-Each of the values in hex represents a separate entry in the resource, for a total of 64 entries.  The entries 013A-013D represent the Daytime Landscape, Nighttime Landscape, Lift Wall and Lift Control Panel sprites, respectively.  Since each of these sprites represents only one aspect of a wall block (east-west or north-south view), there is only a single entry for each.  The 414B-414E entries represent the plain, gold-key, silver-key doors and door jamb sprites.  With these also, since they represent one aspect of a wall block (or object), there is only a single entry for each.  I don't yet know why these have bit 7 set.  The last entry is the lift door.  I still don't know why it doesn't have bit 7 set when the other doors and door jamb do.
+Each of the values in hex represents a separate entry in the resource, for a total of 64 entries.  The entries 013A-013D represent the Daytime Landscape, Nighttime 
+Landscape, Lift Wall and Lift Control Panel sprites, respectively.  Since each of these sprites represents only one aspect of a wall block (east-west or north-south 
+view), there is only a single entry for each.  The 414B-414E entries represent the plain, gold-key, silver-key doors and door jamb sprites.  With these also, since 
+they represent one aspect of a wall block (or object), there is only a single entry for each.  I don't yet know why these have bit 7 set.  The last entry is the 
+lift door.  I still don't know why it doesn't have bit 7 set when the other doors and door jamb do.
 
-With all of the other walls, the 2nd entry for each is the same value as the Res ID plus bit 8 is set.  At first, I thought that this had something to do with the walls that had alternate codes for display in the map section of the level resource.  However, there are 4 walls that have no alternate code.  Every wall type is represented in this resource, so it had to be something else.  Then it dawned on me.  The items with the second value were the walls that had 2 views (east-west and north-south view).  It was from this, and the codes in the wall code list that enabled me to determine which walls were the landscape, lift and control panel walls, and which were the doors and door jamb.
+With all of the other walls, the 2nd entry for each is the same value as the Res ID plus bit 8 is set.  At first, I thought that this had something to do with the 
+walls that had alternate codes for display in the map section of the level resource.  However, there are 4 walls that have no alternate code.  Every wall type is 
+represented in this resource, so it had to be something else.  Then it dawned on me.  The items with the second value were the walls that had 2 views (east-west 
+and north-south view).  It was from this, and the codes in the wall code list that enabled me to determine which walls were the landscape, lift and control panel 
+walls, and which were the doors and door jamb.
  
 Sound Effect List Resource
 
@@ -349,7 +405,8 @@ This is what the Sound Effect List Resource looks like:
  00A4 00A5 00A6 00A7
  00A8 00A9 FFFF
 
-It appears that there are 42 sound effects in the game, with each sound having a call code in the range of 64 to 105.  I assume that $FFFF is the end of sound effects marker.  It may be possible that there are other sound effects, but these are the only ones identified. 
+It appears that there are 42 sound effects in the game, with each sound having a call code in the range of 64 to 105.  I assume that $FFFF is the end of sound effects 
+marker.  It may be possible that there are other sound effects, but these are the only ones identified. 
 
 
 Level Map Resource
@@ -357,13 +414,23 @@ Level Map Resource
 Originally by: Greg Ewing
                       greg@cosc.canterbury.ac.nz
 
-ACGW: I believe that the discrepancies in the descriptions of segments in Greg Ewing's BSP Tree format may well be a contributor to the various problems encountered in levels created with WolfEdit, if these descriptions have been followed to the letter by Greg in WolfEdit.  My observations have shown me that the descriptions, if followed to the letter in building the BSP Tree, will create a segment map that is sideways and flipped over from what the map actually looks like.  The following is a detailed synopsys of the format of the level resources in the BRGR resource, using Greg Ewing's level format description, and adding notes where they were applicable.  For the test level, I chose Level 1-9 from the 3rd Encounter episode Escape From Wolfenstein.  That level has the benefit being relatively smaller in the area used than most other levels in the game, and has the fewest objects.  This made the resource smaller, and enabled me to compile the following in it's entirety instead of having to chop parts out because of length.  Even so, all of the related material spans the next 4 chapters as well as this one because of the length.  As an aside, all of the ÔgraphicsŐ included here are in 7-point Monaco text (Monaco for the mono-spaced font, and 7-point to fit the screen width), except for the Object List ÔgraphicŐ (which was small enough to fit without shrinking it).  Address locations are for the test level.
+ACGW: I believe that the discrepancies in the descriptions of segments in Greg Ewing's BSP Tree format may well be a contributor to the various problems encountered 
+in levels created with WolfEdit, if these descriptions have been followed to the letter by Greg in WolfEdit.  My observations have shown me that the descriptions, 
+if followed to the letter in building the BSP Tree, will create a segment map that is sideways and flipped over from what the map actually looks like.  The following 
+is a detailed synopsys of the format of the level resources in the BRGR resource, using Greg Ewing's level format description, and adding notes where they were applicable. 
+ For the test level, I chose Level 1-9 from the 3rd Encounter episode Escape From Wolfenstein.  That level has the benefit being relatively smaller in the area used 
+than most other levels in the game, and has the fewest objects.  This made the resource smaller, and enabled me to compile the following in it's entirety instead 
+of having to chop parts out because of length.  Even so, all of the related material spans the next 4 chapters as well as this one because of the length.  As an 
+aside, all of the ÔgraphicsŐ included here are in 7-point Monaco text (Monaco for the mono-spaced font, and 7-point to fit the screen width), except for the Object 
+List ÔgraphicŐ (which was small enough to fit without shrinking it).  Address locations are for the test level.
 
 Map Section
 
-The map section is 4096 bytes long, organized as a 64 by 64 grid.  Each byte in the map represents either a solid block, a door or an empty space.  If bit 7 of the byte is 1, then it represents a solid block or door, and the rest of the bits determine what kind of wall or door it is.
+The map section is 4096 bytes long, organized as a 64 by 64 grid.  Each byte in the map represents either a solid block, a door or an empty space.  If bit 7 of the 
+byte is 1, then it represents a solid block or door, and the rest of the bits determine what kind of wall or door it is.
 
-If bit 7 is 0, the byte contains a room number.  A room is a contiguous space which is completely divided off from other rooms by walls or doors.  There may be up to 64 rooms, numbered 0 to 63.  Each byte in the map representing an empty space contains the room number to which the space belongs.
+If bit 7 is 0, the byte contains a room number.  A room is a contiguous space which is completely divided off from other rooms by walls or doors.  There may be up 
+to 64 rooms, numbered 0 to 63.  Each byte in the map representing an empty space contains the room number to which the space belongs.
  
 Start of Map: 0000
 
@@ -439,11 +506,13 @@ Sound Area Table
 
 Start of Sound Area Table: 1000
 
-This is a 64-byte table containing a sound area number for each room.  When you fire your gun, guards in rooms belonging to the same sound area can hear you.  If they're not "shoot only on sight" guards, they will seek you out.
+This is a 64-byte table containing a sound area number for each room.  When you fire your gun, guards in rooms belonging to the same sound area can hear you.  If 
+they're not "shoot only on sight" guards, they will seek you out.
 
 ACGW: Wolfenstein normally has all unused rooms set to null (0). 
 
-WolfEdit 1.1 does not provide any way of setting sound areas; each room is placed in a separate sound area. (Note, however, that an area separated from a room by a secret door is considered part of the same room.)
+WolfEdit 1.1 does not provide any way of setting sound areas; each room is placed in a separate sound area. (Note, however, that an area separated from a room by 
+a secret door is considered part of the same room.)
 
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
  0 1 2 3 4 5 6 7 8 9 A B C D E F 0 1 2 3 4 5 6 7 8 9 A B C D E F 0 1 2 3 4 5 6 7 8 9 A B C D E F 0 1 2 3 4 5 6 7 8 9 A B C D E F
@@ -475,9 +544,11 @@ The object table contains an entry for each object appearing on the level.  Each
 	1	byte	 y-coordinate of map cell (0 to 63)
 	2	byte	 Object type
 
-ACGW: If the object type is 64 or 65, then the object represents an exit control panel.  64 is the code for the normal exit from the level (next level), and 65 is the code for exit to a secret level (alternate next level).  The map location associated with this object is usually a lift wall/control panel ($8F).
+ACGW: If the object type is 64 or 65, then the object represents an exit control panel.  64 is the code for the normal exit from the level (next level), and 65 is 
+the code for exit to a secret level (alternate next level).  The map location associated with this object is usually a lift wall/control panel ($8F).
 
-If the object type is $62, then the object is a secret door.  In the map, a secret door appears as an empty space, and there is an extra byte in the object table entry containing the wall type:
+If the object type is $62, then the object is a secret door.  In the map, a secret door appears as an empty space, and there is an extra byte in the object table 
+entry containing the wall type:
 
 	3	byte	 Wall type of secret door (object type $62 only)
  
@@ -547,19 +618,27 @@ Start of BSP Tree: 113D
 
 About the BSP Tree
 
-A Binary Space Partitioning or BSP tree is used to divide the map space up into portions in such a way that the rendering engine can efficiently determine which parts are visible.
+A Binary Space Partitioning or BSP tree is used to divide the map space up into portions in such a way that the rendering engine can efficiently determine which 
+parts are visible.
 
-The BSP tree consists of two types of nodes, terminal and non-terminal.  Each node corresponds to some rectangular portion of the map.  A non-terminal node is further subdivided into two child nodes.  A terminal node is not subdivided any further and has no children; it is a "leaf" of the tree.
+The BSP tree consists of two types of nodes, terminal and non-terminal.  Each node corresponds to some rectangular portion of the map.  A non-terminal node is further 
+subdivided into two child nodes.  A terminal node is not subdivided any further and has no children; it is a "leaf" of the tree.
 
 A terminal node consists of a collection of segments.  A segment represents part of a wall - a boundary between an empty and a filled-in region of the map.
 
-The coordinate system used to describe segments has twice the resolution of the map cell coordinate system used in the object table.  Furthermore, instead of referring to cells, segment coordinates refer to the dividing lines between cells.  So, whereas cell coordinates range from 0 to 63, segment coordinates range from 0 to 128(*).  Even segment coordinates correspond to the lines running between map cells- odd segment coordinates refer to lines which pass through the middle of map cells.  (The reason for this will become clear later.)
+The coordinate system used to describe segments has twice the resolution of the map cell coordinate system used in the object table.  Furthermore, instead of referring 
+to cells, segment coordinates refer to the dividing lines between cells.  So, whereas cell coordinates range from 0 to 63, segment coordinates range from 0 to 128(*). 
+ Even segment coordinates correspond to the lines running between map cells- odd segment coordinates refer to lines which pass through the middle of map cells.  
+(The reason for this will become clear later.)
 
 ACGW: * Greg states 128, but the range is 0 to 127, or 128 possible positions.
 
-Each segment is described by three coordinates.  For segments running east-west these are its position in the y direction and the x-coordinates of its two endpoints.  For segments running north-south, the roles of x and y are reversed.
+Each segment is described by three coordinates.  For segments running east-west these are its position in the y direction and the x-coordinates of its two endpoints. 
+ For segments running north-south, the roles of x and y are reversed.
 
-Each segment also faces in a particular direction.  An east-west segment can face either north or south, and a north-south segment can face either east or west.  The direction a segment faces determines from which side it will be visible; the rendering engine doesn't bother drawing segments which are facing away from you.
+Each segment also faces in a particular direction.  An east-west segment can face either north or south, and a north-south segment can face either east or west. 
+ The direction a segment faces determines from which side it will be visible; the rendering engine doesn't bother drawing segments which are facing away from you.
+
 
 A terminal node of the tree contains a collection of segments such that no segment can obscure part of any other segment from any viewing position.
  
@@ -583,7 +662,14 @@ Each non-terminal node takes up one entry structured as follows:
     For an east-west split, this is the y-coordinate of the splitting line; for north-south, the x-coordinate.
     Byte Values     00-7F  Even = cell border, Odd = cell center
 
-ACGW: There may be a problem with the above description.  Every use of x/y coordinates I've ever seen, as used for display on a screen, the x is the vertical (or column) coordinate, and the y is the horizontal (or row) coordinate.  Also, east/west splits and north/south splits are usually described as being east separated from west, and north separated from south, respectively.  In light of this, either Greg's use of x and y are reversed from what I know as normal, or his use of east/west and north/south splits are reversed from what I know as normal, or he just made a mistake when typing in the description.  Simply, I used his descriptions of east/west and north/south and x and y according to what I know as normal, and the BSP map I built from the tree for the level I used for testing turned out sideways and flipped over.  What should have been north was east, south was west, west was north, and east was south.  When I switched the x and the y, the BSP map came out correctly.  Also, there is an additional note that he didn't include, though someone not familiar would need to know it.  If Entry 0 is a North/South Split then the x coordinate is 0, if Entry 0 is an East/West Split then the y coordinate is 0.  I suggest using the following as a guide:
+ACGW: There may be a problem with the above description.  Every use of x/y coordinates I've ever seen, as used for display on a screen, the x is the vertical (or 
+column) coordinate, and the y is the horizontal (or row) coordinate.  Also, east/west splits and north/south splits are usually described as being east separated 
+from west, and north separated from south, respectively.  In light of this, either Greg's use of x and y are reversed from what I know as normal, or his use of east/west 
+and north/south splits are reversed from what I know as normal, or he just made a mistake when typing in the description.  Simply, I used his descriptions of east/west 
+and north/south and x and y according to what I know as normal, and the BSP map I built from the tree for the level I used for testing turned out sideways and flipped 
+over.  What should have been north was east, south was west, west was north, and east was south.  When I switched the x and the y, the BSP map came out correctly. 
+ Also, there is an additional note that he didn't include, though someone not familiar would need to know it.  If Entry 0 is a North/South Split then the x coordinate 
+is 0, if Entry 0 is an East/West Split then the y coordinate is 0.  I suggest using the following as a guide:
 
     East/West Splits:  Dividing line runs vertically, use x (column) coordinate
     North/South Splits:  Dividing line runs horizontally, use y (row) coordinate
@@ -605,7 +691,14 @@ According to GregŐs description, the above is reversed.
     covered by this node is split to create the subspaces of its child nodes.  0 means the splitting line runs
     east-west, 1 north-south.
 
-ACGW: I believe that Greg has the above description backwards.  Refer to the previous note for the explanation.  0 means north/south and 1 means east/west.  Also, the test level I used showed Entry 0 as being value 00 on the flag byte.  If 00 is an east/west dividing line, then Level 1-9 of 3rd encounter episode 1 is displayed (in the map section) sideways and flipped over from what it really looks like.  In the game map (see the Map Section), it shows to be a long side running north/south (with start in the south and exit in the north and on the east) and a short side running east/west (with the large secret room on the west, and a small secret room on the east just south of the exit).  According to Greg's description, this level should be long side east/west (with start in the east and exit in the west and on the south), the large secret room on the north, and the small secret room in the south just east of the exit.  That is the way that the BSP map I built originally looked.  Switching the x and the y, and counting the value 00 as a north/south dividing line (east-west split) and 01 as an east/west dividing line (north/south split) caused the BSP map to look the same way that the map is displayed in the map section.
+ACGW: I believe that Greg has the above description backwards.  Refer to the previous note for the explanation.  0 means north/south and 1 means east/west.  Also, 
+the test level I used showed Entry 0 as being value 00 on the flag byte.  If 00 is an east/west dividing line, then Level 1-9 of 3rd encounter episode 1 is displayed 
+(in the map section) sideways and flipped over from what it really looks like.  In the game map (see the Map Section), it shows to be a long side running north/south 
+(with start in the south and exit in the north and on the east) and a short side running east/west (with the large secret room on the west, and a small secret room 
+on the east just south of the exit).  According to Greg's description, this level should be long side east/west (with start in the east and exit in the west and 
+on the south), the large secret room on the north, and the small secret room in the south just east of the exit.  That is the way that the BSP map I built originally 
+looked.  Switching the x and the y, and counting the value 00 as a north/south dividing line (east-west split) and 01 as an east/west dividing line (north/south 
+split) caused the BSP map to look the same way that the map is displayed in the map section.
 
      Flag Bits
       7  0 = Non-Terminal
@@ -629,9 +722,11 @@ ACGW: I believe that Greg has the above description backwards.  Refer to the pre
 	4	word*	Second child
     Entry number of the other child node.
 
-The coordinates of the region covered by each node are not explicitly stored in the node- rather, they are implicit in the coordinates of the splitting lines at each step, and the fact that the root node covers the whole of the map.
+The coordinates of the region covered by each node are not explicitly stored in the node- rather, they are implicit in the coordinates of the splitting lines at 
+each step, and the fact that the root node covers the whole of the map.
  
-ACGW: The child node values are the entry number that the node points to.  To find the node, count the entries (beginning with entry 0) and count (in hex) until you find the entry with the same number.
+ACGW: The child node values are the entry number that the node points to.  To find the node, count the entries (beginning with entry 0) and count (in hex) until 
+you find the entry with the same number.
 
 Each terminal node takes up one entry for each segment as follows:
 
@@ -700,11 +795,14 @@ ACGW: Again, I believe that these are reversed.  east-west segments are y and no
 
 About Doors
 
-Associated with a door are four special segments, one each side of the door facing inwards, and one along each face of the door itself (the sliding part).  The latter two are positioned in the middle of the map cell containing the door.
+Associated with a door are four special segments, one each side of the door facing inwards, and one along each face of the door itself (the sliding part).  The latter 
+two are positioned in the middle of the map cell containing the door.
 
-The side segments have byte 4 of the segment entry set to $80.  The sliding segments have this byte set to $80 plus the door number: each door on a level has a unique number from 1 upwards.
+The side segments have byte 4 of the segment entry set to $80.  The sliding segments have this byte set to $80 plus the door number: each door on a level has a unique 
+number from 1 upwards.
 
-ACGW: The level I used for testing showed 6 segments per door.  They are arranged in the following manner (for generic purposes, the sides of the sliding part of the door will be referred to as Side A and Side B):
+ACGW: The level I used for testing showed 6 segments per door.  They are arranged in the following manner (for generic purposes, the sides of the sliding part of 
+the door will be referred to as Side A and Side B):
 
      Side A and Side B both occupy the same placement
      Jamb segments left and right of door, two segments for each jamb
@@ -713,17 +811,24 @@ ACGW: See the BSP Tree listing for the test level.
 
 About Lifts
 
-The lift control panel and the side panels with hand railings are represented in the map by the same code ($8F).  If you are looking at the east or west face of the block, it appears as a lift control panel; if you are looking at the north or south face, it appears as a hand railing.
+The lift control panel and the side panels with hand railings are represented in the map by the same code ($8F).  If you are looking at the east or west face of 
+the block, it appears as a lift control panel; if you are looking at the north or south face, it appears as a hand railing.
 
-However, the lift control panel also has an object with a code of $64 at the same location.  It is the presence of this object which causes the block to behave like a lift when you operate it.  If this object is not present, the control panel is just another piece of wall.  Conversely, placing a $64 object on top of some other type of wall will make it behave like a lift.  This could allow for some very unfair levels...
+However, the lift control panel also has an object with a code of $64 at the same location.  It is the presence of this object which causes the block to behave like 
+a lift when you operate it.  If this object is not present, the control panel is just another piece of wall.  Conversely, placing a $64 object on top of some other 
+type of wall will make it behave like a lift.  This could allow for some very unfair levels...
 
 ACGW: If the code present in the object list is a $65, then the object is an exit to a secret level.  I have added the following segment to Greg's original treatise.
 
+
 Exit Lift to Secret Level
 
-In WolfEdit, all exit lift controls are given a code (in the object list portion of the level resource) of $64.  The code for an exit to secret level is $65.  All you have to do is replace the $64 for a specified lift control to $65 in the object list to engage this.  However, there is more that you will have to do with the Map List resourceÉ
+In WolfEdit, all exit lift controls are given a code (in the object list portion of the level resource) of $64.  The code for an exit to secret level is $65.  All 
+you have to do is replace the $64 for a specified lift control to $65 in the object list to engage this.  However, there is more that you will have to do with the 
+Map List resourceÉ
  
-In WolfEdit, all levels in the map list are given a next level and an alternate level of $FFFF.  This won't work with secret levels.  For secret levels, you have to organize the list, as $FFFF is used to denote the last level of the game.  Use the following as a guide.
+In WolfEdit, all levels in the map list are given a next level and an alternate level of $FFFF.  This won't work with secret levels.  For secret levels, you have 
+to organize the list, as $FFFF is used to denote the last level of the game.  Use the following as a guide.
 
 In Episode 1 of 3rd Encounter, Level 1-0 (the 10th level) is the secret level.  The map list resource shows the following:
 
@@ -758,20 +863,25 @@ Organized, it looks like this:
  08  FFFF  FFFF  0096  0001   0009
  09  0001  0001  00C3  0001   0000
 
-If this episode had been created with WolfEdit, all of the Next and Alternate level values would be $FFFF.  Since that wouldn't work, the values would have to be changed to agree with the above.
+If this episode had been created with WolfEdit, all of the Next and Alternate level values would be $FFFF.  Since that wouldn't work, the values would have to be 
+changed to agree with the above.
 
 $FFFF is used by Wolfenstein 3D to mark the last level, meaning no next level and no alternate next level.
 
-Notice that all of the Next level values are consecutive through entry #7, with values of 1 through 8.  Entry #8 then shows last level by the value $FFFF.  Entry #9 then shows a Next Level of 1.  The Alternate next levels start with 9, then are consecutive fom 2 through 8, then the last level, then 1.
+Notice that all of the Next level values are consecutive through entry #7, with values of 1 through 8.  Entry #8 then shows last level by the value $FFFF.  Entry 
+#9 then shows a Next Level of 1.  The Alternate next levels start with 9, then are consecutive fom 2 through 8, then the last level, then 1.
 
-What this all means is that Level 1-1 has 2 exits, one to the next level, and one to Level 1-0 (the secret level).  Level 1-0 returns to the level following Level 1-1.  This, in combination with a lift control on level 1-1 with a code of $65, will allow the player to go to the secret level using that lift, and to the next adjacent level using the regular lift (code $64).
+What this all means is that Level 1-1 has 2 exits, one to the next level, and one to Level 1-0 (the secret level).  Level 1-0 returns to the level following Level 
+1-1.  This, in combination with a lift control on level 1-1 with a code of $65, will allow the player to go to the secret level using that lift, and to the next 
+adjacent level using the regular lift (code $64).
 
 Continued in next Chapter
 
 
 Continued from last Chapter
 
-Only one exit to secret level may exist on any given level.  However, you may have more than one secret level in your game, provided that the following criteria are adhered to:
+Only one exit to secret level may exist on any given level.  However, you may have more than one secret level in your game, provided that the following criteria 
+are adhered to:
 
      1. Each level containing an exit to a secret level must have an alternate level defined that is separate
          from the logical next level.
@@ -820,27 +930,45 @@ If Episode 1 was modified so that level 1-5 became a secret level reached from L
 
 This, in combination with a lift added to Level 1-3 with a code of $65 in the Object List section of the level map resource, will make Level 1-5 a 2nd secret level.
 
+
 A note to Greg Ewing (if anyone can forward this to him I'd be grateful):
 
-For adding the secret level access, simply make it where the next and alternate levels default to the next one unless a $65 item is placed.  On the level in which the item is placed a dialog will have to be displayed informing the user that a secret level lift has been placed, and prompting for a level number to use for that level.  If the level doesn't yet exist, inform the user that the level must be created for it to work correctly, and if the level doesn't exist when saving and/or quitting, inform the user that the level doesn't exist.  The user can be allowed to input level according to the floor-level format (ie. 1-5, for example) and WolfEdit can then resolve it's location in the map list.
+For adding the secret level access, simply make it where the next and alternate levels default to the next one unless a $65 item is placed.  On the level in which 
+the item is placed a dialog will have to be displayed informing the user that a secret level lift has been placed, and prompting for a level number to use for that 
+level.  If the level doesn't yet exist, inform the user that the level must be created for it to work correctly, and if the level doesn't exist when saving and/or 
+quitting, inform the user that the level doesn't exist.  The user can be allowed to input level according to the floor-level format (ie. 1-5, for example) and WolfEdit 
+can then resolve it's location in the map list.
 
-For end game level, include a checkbox in the level's get info for 'make last level'.  If no level has the box checked, the last level in the set is given the $FFFF game end token.  Otherwise, the level with the box checked is given the $FFFF game end token.  Of course, there will have to be checking to see if the last level is a secret level, and if so, make the previous level the end game level.
+For end game level, include a checkbox in the level's get info for 'make last level'.  If no level has the box checked, the last level in the set is given the $FFFF 
+game end token.  Otherwise, the level with the box checked is given the $FFFF game end token.  Of course, there will have to be checking to see if the last level 
+is a secret level, and if so, make the previous level the end game level.
 
-To allow for adding secret level lifts, you need only to allow a maximum of 2 lifts per level.  If one lift has been placed, it automatically becomes the normal exit.  If a second one gets placed, it automatically becomes the secret level exit.  You could also add code to allow the user to switch the codes if 2 exits exist on a level, and the user wishes the first to be secret level and the 2nd to be next level.
+To allow for adding secret level lifts, you need only to allow a maximum of 2 lifts per level.  If one lift has been placed, it automatically becomes the normal 
+exit.  If a second one gets placed, it automatically becomes the secret level exit.  You could also add code to allow the user to switch the codes if 2 exits exist 
+on a level, and the user wishes the first to be secret level and the 2nd to be next level.
 
 About Hidden Passages
 
-The secret blocks which move back when you push on them involve special arrangements in the map, object table and BSP tree.  In the map, the location of the secret block is an empty space, and the area to which it leads is part of the same room as the area it leads from.
+The secret blocks which move back when you push on them involve special arrangements in the map, object table and BSP tree.  In the map, the location of the secret 
+block is an empty space, and the area to which it leads is part of the same room as the area it leads from.
 
-An object with code $62 is placed at this location: this is the object you operate when you push on the block.  The object table entry for this object has an extra byte appended, containing the wall code which would otherwise have been placed in the map at that location.
+An object with code $62 is placed at this location: this is the object you operate when you push on the block.  The object table entry for this object has an extra 
+byte appended, containing the wall code which would otherwise have been placed in the map at that location.
 
-The secret block has two segments associated with it.  One of them is positioned on the outside of the block in its initial position, facing towards the player as he stands in front of the block ready to push it.  The other segment is positioned on the other side of the block, but facing in the same direction - in other words, it is in the place the first segment would end up after the block had been pushed one map cell.  Byte 4 of both these segments refer to the block's initial location.
+The secret block has two segments associated with it.  One of them is positioned on the outside of the block in its initial position, facing towards the player as 
+he stands in front of the block ready to push it.  The other segment is positioned on the other side of the block, but facing in the same direction - in other words, 
+it is in the place the first segment would end up after the block had been pushed one map cell.  Byte 4 of both these segments refer to the block's initial location.
 
-It is also necessary to place an ordinary block of the same type two cells away in the direction of motion, i.e. in the place where the secret block will end up after it has been pushed.  If this is not done, not only will the block vanish after opening, but for some strange reason it may not display properly in its initial position.
 
-ACGW: The level I used for testing showed 4 segments per secret door, two as described by Greg, and two for the sides of the adjacent walls on either side of the secret door facing the cell (facing each other) where the secret door resides originally. 
+It is also necessary to place an ordinary block of the same type two cells away in the direction of motion, i.e. in the place where the secret block will end up 
+after it has been pushed.  If this is not done, not only will the block vanish after opening, but for some strange reason it may not display properly in its initial 
+position.
 
-Also note that the segments associated with doors and secret doors do not always occur consecutively in relation to the door that they are associated with.  In the test level the segments were arranged as follows:
+ACGW: The level I used for testing showed 4 segments per secret door, two as described by Greg, and two for the sides of the adjacent walls on either side of the 
+secret door facing the cell (facing each other) where the secret door resides originally. 
+
+Also note that the segments associated with doors and secret doors do not always occur consecutively in relation to the door that they are associated with.  In the 
+test level the segments were arranged as follows:
  
      Entry #    Segment          Description        Door # (Associated Door#)
      16         Door Jamb        Facing West        (4)
@@ -881,7 +1009,9 @@ Also note that the segments associated with doors and secret doors do not always
      D9         Door Jamb        Facing North       (1)
      DA         Door             Facing West        1
  
-Here is the Segment List from the test level I used.  Pay special attention to the color codes, as they represent the split and face of terminal segments, and the split and border of non-terminal segments.  Entries with an * following them are associated with secret doors.  I have also added another version of the list below the segment list named Segment List Tree.  This list is the same, except that the entries have been placed in a tree structure so you can see how they relate.
+Here is the Segment List from the test level I used.  Pay special attention to the color codes, as they represent the split and face of terminal segments, and the 
+split and border of non-terminal segments.  Entries with an * following them are associated with secret doors.  I have also added another version of the list below 
+the segment list named Segment List Tree.  This list is the same, except that the entries have been placed in a tree structure so you can see how they relate.
 
         Blue = non-terminal node east-west split, cell border
    Dark Blue = non-terminal node east-west split, cell center
@@ -1276,7 +1406,8 @@ Continued in next Chapter
 
 Continued from last Chapter
 
-ACGW: The following is the non-terminal node map for the test level.  It originally came out sideways and flipped over from this configuration, until I switched the x and y from Greg's description, and counted 00 as east-west split and 01 as north-south split.
+ACGW: The following is the non-terminal node map for the test level.  It originally came out sideways and flipped over from this configuration, until I switched 
+the x and y from Greg's description, and counted 00 as east-west split and 01 as north-south split.
 
    00000000000000001111111111111111222222222222222233333333333333334444444444444444555555555555555566666666666666667777777777777777
    0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF
@@ -1415,7 +1546,8 @@ Continued in next Chapter
 
 Continued from last Chapter
 
-ACGW: The following is the terminal node map for the test level.  The green represents the walls and doors, the magenta the segment lines running to the segment coordinates, and the blue and red are the remanants of the non-terminal node lines.
+ACGW: The following is the terminal node map for the test level.  The green represents the walls and doors, the magenta the segment lines running to the segment 
+coordinates, and the blue and red are the remanants of the non-terminal node lines.
 
    00000000000000001111111111111111222222222222222233333333333333334444444444444444555555555555555566666666666666667777777777777777
    0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF
@@ -1554,7 +1686,8 @@ Continued in next Chapter
 
 Continued from last Chapter
 
-ACGW: These pictures are actually text.  They consist of lines of zeros in Monaco 2-point.  I used the map section as the basis, changing all of the non-zero numbers to zeros.  The second picture I made by changing the color-coded zeros in relation to the segment table as I first decoded it.
+ACGW: These pictures are actually text.  They consist of lines of zeros in Monaco 2-point.  I used the map section as the basis, changing all of the non-zero numbers 
+to zeros.  The second picture I made by changing the color-coded zeros in relation to the segment table as I first decoded it.
 
 This is what the map looks like according to the map section:
 
@@ -1690,7 +1823,8 @@ This is what it looks like built according to Greg's segment descriptions of the
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 
 
-The following is a complete list of all of the codes used in Wolfenstein 3D 1st, 2nd and 3rd Encounters, including notes, in ascending order.  I found some interesting results.
+The following is a complete list of all of the codes used in Wolfenstein 3D 1st, 2nd and 3rd Encounters, including notes, in ascending order.  I found some interesting 
+results.
 
 Object List Codes
 
@@ -1875,13 +2009,23 @@ xx means no code, or no alternate code.
 40-80,A1,A5-C0,E5-FF display a trash sprite, but don't otherwise affect the game.
 
 A2,A3,A4,E2,E3,E4
-These codes can be used in any place in the map section where a door (of any type) occurs in the place of the normal door code as long as the object list section is left unchanged as far as the door codes are concerned.
+These codes can be used in any place in the map section where a door (of any type) occurs in the place of the normal door code as long as the object list section 
+is left unchanged as far as the door codes are concerned.
 
-This requires more discussion.  Normally, the code for a door in the map section and its corresponding code in the object list have a difference of $90 (ie, the difference between $DA and $5A).  If you were to change the door codes in the object list to correspond accordingly to A2,A3,A4 and/or E2,E3,E4, you would have 22,23,24 and/or 62,63,64, respectively.
+This requires more discussion.  Normally, the code for a door in the map section and its corresponding code in the object list have a difference of $90 (ie, the 
+difference between $DA and $5A).  If you were to change the door codes in the object list to correspond accordingly to A2,A3,A4 and/or E2,E3,E4, you would have 22,23,24 
+and/or 62,63,64, respectively.
 
-Obviously, this wouldn't work in the case of 62 and 64, as these codes are already used for secret door and exit, respectively.  Placing a 62 in the object list would cause the door when pushed to act like a secret door with one exception.  The door wouldn't move, you'd only hear the sound of a secret door opening.  Once the Ňsecret doorÓ was open, you could then walk through the closed door as though it weren't there at all, and there would be an invisible wall in the room it leads to in the spot where a wall block would be if it were really a secret door.  If the 64 were used, pushing on that door would exit the level, or end the game if there were no more levels.  In the case of the 62-64, the door would be displayed as a regular door, in spite of whatever type of door it was originally.  If you use the 63 (or the 22,23 or 24), the only thing that happens is that the door does nothing when pushed (BJ grunts).
+Obviously, this wouldn't work in the case of 62 and 64, as these codes are already used for secret door and exit, respectively.  Placing a 62 in the object list 
+would cause the door when pushed to act like a secret door with one exception.  The door wouldn't move, you'd only hear the sound of a secret door opening.  Once 
+the Ňsecret doorÓ was open, you could then walk through the closed door as though it weren't there at all, and there would be an invisible wall in the room it leads 
+to in the spot where a wall block would be if it were really a secret door.  If the 64 were used, pushing on that door would exit the level, or end the game if there 
+were no more levels.  In the case of the 62-64, the door would be displayed as a regular door, in spite of whatever type of door it was originally.  If you use the 
+63 (or the 22,23 or 24), the only thing that happens is that the door does nothing when pushed (BJ grunts).
 
-In all of the cases, if you have a lift door of the same orientation (ie north-south or east-west) as the door with the 22-24 and/or 63 codes, the lift door will be displayed as a plain door, and when pushed will not open that door, but open the first door that has the irregular code in the object list (and A2-A4 or E3 in the map section) of that orientation, while also changing that door (the one that opens) to a lift door, regardless of what type of door it originally was.
+In all of the cases, if you have a lift door of the same orientation (ie north-south or east-west) as the door with the 22-24 and/or 63 codes, the lift door will 
+be displayed as a plain door, and when pushed will not open that door, but open the first door that has the irregular code in the object list (and A2-A4 or E3 in 
+the map section) of that orientation, while also changing that door (the one that opens) to a lift door, regardless of what type of door it originally was.
  
 This description can be confusing, so here's a few examples.  All of the examples could use any type of door (DA-E1), not just the ones specified:
 
@@ -1990,7 +2134,8 @@ The following is a list of the sprites and walls resources (identified by # and 
  
 Missing Sprites and Walls
 
-The following is a list of the sprites and walls resources (identified by # and rsrc ID) missing from each of the 2 lesser versions of Wolfenstein 3D, showing which are missing and from which version.
+The following is a list of the sprites and walls resources (identified by # and rsrc ID) missing from each of the 2 lesser versions of Wolfenstein 3D, showing which 
+are missing and from which version.
 
      																			    		Game Version
                         1st                 2nd
@@ -2012,9 +2157,17 @@ The following is a list of the sprites and walls resources (identified by # and 
 
 Additional Sprite Info
 
-There are 174 total sprites (not including walls and doors) in Wolfenstein 3D.  Of these, 36 are identified as objects, 4 as ghosts, 1 as a dead brown guard, and 12 as other guards and bosses (including both armored and unaromored Hitler).  This is a total of 53 sprites identified out of the 174 total, leaving a massive 121 sprites not identified.
+There are 174 total sprites (not including walls and doors) in Wolfenstein 3D.  Of these, 36 are identified as objects, 4 as ghosts, 1 as a dead brown guard, and 
+12 as other guards and bosses (including both armored and unaromored Hitler).  This is a total of 53 sprites identified out of the 174 total, leaving a massive 121 
+sprites not identified.
 
-It is my belief that each of the outstanding sprites can be broken down into the following groups, weapons related animations and enemy related animations.  Based on observation, I have been able to determine that the enemies average 7 sprites each for their entire range of motion (walking, firing, wincing, and dying) and that the weapons BJ holds average 3 sprites each for animation of the weapon being used.  This makes an approximate total of 102 sprites used for enemy and weapons animations, and leaves an outstanding 19 sprites yet unidentified.  It may be that some of the guards or bosses use more than 7 sprites in their animations, and perhaps a couple of weapons use more than 3, but I can't say for sure.  Also, there is the animations of the fired artillery.  I believe that the grenades (launched from the bazooka) have at least 1 sprite, and probably 3 or 4 sprites, associated with their movement away from BJ, and possibly the same for the flamethrower's fireballs.
+It is my belief that each of the outstanding sprites can be broken down into the following groups, weapons related animations and enemy related animations.  Based 
+on observation, I have been able to determine that the enemies average 7 sprites each for their entire range of motion (walking, firing, wincing, and dying) and 
+that the weapons BJ holds average 3 sprites each for animation of the weapon being used.  This makes an approximate total of 102 sprites used for enemy and weapons 
+animations, and leaves an outstanding 19 sprites yet unidentified.  It may be that some of the guards or bosses use more than 7 sprites in their animations, and 
+perhaps a couple of weapons use more than 3, but I can't say for sure.  Also, there is the animations of the fired artillery.  I believe that the grenades (launched 
+from the bazooka) have at least 1 sprite, and probably 3 or 4 sprites, associated with their movement away from BJ, and possibly the same for the flamethrower's 
+fireballs.
 
         12 Enemies       6 Weapons       84 Sprites
      x   7 Sprites     x 3 Sprites     + 18 Sprites
@@ -2024,12 +2177,15 @@ It is my belief that each of the outstanding sprites can be broken down into the
      -  53 Sprites     - 102 Sprites
        121 Sprites        19 Sprites
 
-While I'm sure that Wolfenstein uses sprites for each part of the animations, I'm at a loss to explain how the dead enemies sprites are identified.  I assume that there is some internal code that allows the engine to identify the location in the map of a dead enemy, and which enemy it is, and display the proper sprite at that location.  I only know for sure that there are no map codes (outside the dead brown guard) for placing dead enemies in the initial map. 
+While I'm sure that Wolfenstein uses sprites for each part of the animations, I'm at a loss to explain how the dead enemies sprites are identified.  I assume that 
+there is some internal code that allows the engine to identify the location in the map of a dead enemy, and which enemy it is, and display the proper sprite at that 
+location.  I only know for sure that there are no map codes (outside the dead brown guard) for placing dead enemies in the initial map. 
 
 
 Addons
 
-ACGW: The only addons that I've seen are the extensions for installing a cheat-code menu and the screen INIT that allows the use of the 320x200 screen setting and having it displayed as a 640x400 screen.
+ACGW: The only addons that I've seen are the extensions for installing a cheat-code menu and the screen INIT that allows the use of the 320x200 screen setting and 
+having it displayed as a 640x400 screen.
 
 WolfenZoom 1.2
 
@@ -2079,9 +2235,13 @@ Version history:
 
 Wolfenstein Cheater 1.1 and WolfenCheat 2.0.1
 
-ACGW: Both of these are essentially the same INIT.  The name was changed on v2.0.1, along with a few alterations, but it is essentially the same as v1.1.  Here's the documentation (modified to remove duplication) that was included in each:
+ACGW: Both of these are essentially the same INIT.  The name was changed on v2.0.1, along with a few alterations, but it is essentially the same as v1.1.  Here's 
+the documentation (modified to remove duplication) that was included in each:
 
-You can access all of these without Wolfenstein Cheater (or WolfenCheat 2.0) just by typing in the words.  The list of cheats supported has been taken from a post by David Christoffersen on comp.sys.mac.games.  Please let me know if you know of any other cheats and I will add them to the list.  And finally, please send any bug reports or reports of incompatibilities.  Thanks to Patrick Gray for rewriting the menu strings (in WolfenCheat 2.0) to make them a little easier to understand.
+You can access all of these without Wolfenstein Cheater (or WolfenCheat 2.0) just by typing in the words.  The list of cheats supported has been taken from a post 
+by David Christoffersen on comp.sys.mac.games.  Please let me know if you know of any other cheats and I will add them to the list.  And finally, please send any 
+bug reports or reports of incompatibilities.  Thanks to Patrick Gray for rewriting the menu strings (in WolfenCheat 2.0) to make them a little easier to understand.
+
 
 I can be reached at:
                                Carl W. Haynes III
@@ -2091,19 +2251,26 @@ I can be reached at:
 
 This system extension has been released as freeware, but I reserve all copyrights to the software and its source code. Please feel free to spread it far and wide.
 
+
 NOTE: MACPLAY AND ID HAS NOTHING WHATSOEVER TO DO WITH THIS, BLAME ME, NOT THEM, FOR ANY PROBLEMS.
 
 Wolfenstein Cheater 1.1
-Wolfenstein Cheater is a system extension which adds an extra menu to Wolfenstein 3D and lets you access all the cheats that I know about.  To work, put the extension in the 'Extensions' folder and restart your mac. The extension requires system seven or later to run.
+Wolfenstein Cheater is a system extension which adds an extra menu to Wolfenstein 3D and lets you access all the cheats that I know about.  To work, put the extension 
+in the 'Extensions' folder and restart your mac. The extension requires system seven or later to run.
 
 WolfenCheat 2.0
 
-WolfenCheat 2.0 is a system extension which adds an extra menu to Wolfenstein 3D and lets you access all the cheats that I know about. Note that version 2.0 does not add any new cheats to the menu (as far as I know there are no new ones).  WolfenCheat 2.0 adds the ability to better locate hidden doors by changing the way they are displayed so that they better stand out against the adjoining walls.  To work, put the extension in the 'Extensions' folder and restart your mac. The extension requires system seven or later to run.
+WolfenCheat 2.0 is a system extension which adds an extra menu to Wolfenstein 3D and lets you access all the cheats that I know about. Note that version 2.0 does 
+not add any new cheats to the menu (as far as I know there are no new ones).  WolfenCheat 2.0 adds the ability to better locate hidden doors by changing the way 
+they are displayed so that they better stand out against the adjoining walls.  To work, put the extension in the 'Extensions' folder and restart your mac. The extension 
+requires system seven or later to run.
 
 DISPLAYING HIDDEN DOORS
-WolfenCheat 2.0 modifies the maps as they are read into memory so that hidden doors are more visible. Hidden doors are changed to a brick wall . (If the door was originally a brick wall it is changed to a blue wall).
+WolfenCheat 2.0 modifies the maps as they are read into memory so that hidden doors are more visible. Hidden doors are changed to a brick wall . (If the door was 
+originally a brick wall it is changed to a blue wall).
 
-Sometimes the door is displayed as garbage (a bunch of jumbled colored squares). This is because the level does not contain any walls of that type and thus has not rendered the drawing. This is ok and won't hurt anything and in fact makes it easier to spot the hidden walls.
+Sometimes the door is displayed as garbage (a bunch of jumbled colored squares). This is because the level does not contain any walls of that type and thus has not 
+rendered the drawing. This is ok and won't hurt anything and in fact makes it easier to spot the hidden walls.
 
 Here are the currently supported cheats:
 burger      = full weapons, yes there is more than the chain gun, full ammo based on how much you can carry.
@@ -2132,9 +2299,11 @@ Organization: Purdue University
 Lines: 42
 NNTP-Posting-Host: sage.cc.purdue.edu
 
-You should have expected someone would tell these sooner or later, well, I vote for sooner.  True, this does take some (or all) of the challenge out of the game, but if you want to just play around these can help.  Enjoy.
+You should have expected someone would tell these sooner or later, well, I vote for sooner.  True, this does take some (or all) of the challenge out of the game, 
+but if you want to just play around these can help.  Enjoy.
 
-p.s if you are wondering how I found these, well I have played the Dos version and Doom so I knew cheat keys were around.  Just opened Wolf 3D with Retreive IT and it's great "peek in any file" feature, and went to the end of the file and there was a list of several words etc.  
+p.s if you are wondering how I found these, well I have played the Dos version and Doom so I knew cheat keys were around.  Just opened Wolf 3D with Retreive IT and 
+it's great "peek in any file" feature, and went to the end of the file and there was a list of several words etc.  
 
 <Disclaimer> I may not have these exactly right as to what they do, I  tried them a little bit, so this is pretty close, but the keys are right:
 
@@ -2147,24 +2316,30 @@ appleiigs = tells you where all the secret doors are.  On the map, a  secret doo
 mccall = allows you to swtich to the beginning of any of the 3 levels
 xuscnielppa = no damage, and refills weapons to current capacity
 
-Hope you enjoy these, If you don't fine.  I like the game, only one thing I would like to have.   Marks on the wall as the bullets bounce off, like in Doom, adds a good effect.  Overall good, fast and detailed.
+Hope you enjoy these, If you don't fine.  I like the game, only one thing I would like to have.   Marks on the wall as the bullets bounce off, like in Doom, adds 
+a good effect.  Overall good, fast and detailed.
 
 David Christoffersen          Graduate Student
 Clinical Psychology            Purdue University
 
 Extras
 
-While I have heard of various hacks to the WolfEdit level editor program, I only have one of them.  If you know of any of the other hacks, and especially if you have or can get one of them in their original form, please contact me so that I may include them in this document.
+While I have heard of various hacks to the WolfEdit level editor program, I only have one of them.  If you know of any of the other hacks, and especially if you 
+have or can get one of them in their original form, please contact me so that I may include them in this document.
 
 WolfEdit 1.0 and 1.1
 
-ACGW: WolfEdit is the first level editor to come out for Wolfenstein 3D.  It is by Greg Ewing.  While 1.0 had virtually no documentation for use (except the ÔAbout WolfEditÉŐ splash screen), two users by the names of Sean Howard and Doug Ingram each have contributed to the documentation on their own.  Their contributions are in the chapter named ŇA Little Guide to Making Wolf3D Level FilesÓ (named for the document being made and updated by Sean Howard).
+ACGW: WolfEdit is the first level editor to come out for Wolfenstein 3D.  It is by Greg Ewing.  While 1.0 had virtually no documentation for use (except the ÔAbout 
+WolfEditÉŐ splash screen), two users by the names of Sean Howard and Doug Ingram each have contributed to the documentation on their own.  Their contributions are 
+in the chapter named ŇA Little Guide to Making Wolf3D Level FilesÓ (named for the document being made and updated by Sean Howard).
 
 ACGW: WolfEdit 1.1 included documentation in the form of 3 screens of information accessed by choosing ÔAbout WolfEditÉŐ from the Apple menu.
 
-ACGW: Greg has supplied other information through the Usenet News group devoted to Wolfenstein 3D.  Below are encapsulations of his additions to the bulk of Wolfenstein knowledge, and WolfEdit.
+ACGW: Greg has supplied other information through the Usenet News group devoted to Wolfenstein 3D.  Below are encapsulations of his additions to the bulk of Wolfenstein 
+knowledge, and WolfEdit.
 
-Several people have reported problems when using a large number of objects or enemies in one level.  Burger Bill has kindly supplied the following information about limits in Wolf 3D which may help to clear up these problems.
+Several people have reported problems when using a large number of objects or enemies in one level.  Burger Bill has kindly supplied the following information about 
+limits in Wolf 3D which may help to clear up these problems.
 
 You can have no more than:
 
@@ -2180,14 +2355,17 @@ If you exceed these limits, you can expect weird things to happen. The next vers
 |> BTW, WolfEdit brings out some funny limitations/bugs in Wolf too!  Ever tried placing a wall or something
 |> right behind a door? You don't see it!  Instead, you get to see what's behind it!
 
-That's not actually a Wolf limitation, it's an oversight on WolfEdit's part. If there isn't an empty space next to a wall block, it doesn't bother putting a wall segment there, which is sensible, except that I forgot about the case where the thing next to it is a door.
+That's not actually a Wolf limitation, it's an oversight on WolfEdit's part. If there isn't an empty space next to a wall block, it doesn't bother putting a wall 
+segment there, which is sensible, except that I forgot about the case where the thing next to it is a door.
 
 I hope to fix this in a later version.
  
 |> Ever been able to look at a secret wall from behind?  It's invisible, but still there.  Or seen it from the side?
 |> It doesn't have a side, only a front!
 
-That is a Wolf limitation, it seems. I tried to overcome it by putting segments on the back of secret walls, but that just exchanges one strange behaviour for another: you end up with what looks like a wall, but you can walk through it! I.e. if you push the wall, go through, turn around and look back, it looks like the wall is still there, but it's not. I decided that was worse...
+That is a Wolf limitation, it seems. I tried to overcome it by putting segments on the back of secret walls, but that just exchanges one strange behaviour for another: 
+you end up with what looks like a wall, but you can walk through it! I.e. if you push the wall, go through, turn around and look back, it looks like the wall is 
+still there, but it's not. I decided that was worse...
 
 |> Ever put a secret door that has to move more then two squares backwards?
 
@@ -2197,13 +2375,20 @@ ACGW: The following are inclusions by me according to observations that I've mad
 
 3rd Encounter Ghosts
 
-3rd Encounter includes 4 extra sprites for, what I call, the pac man ghosts.  The reason I call them this is because that's what they look likeÉ huge versions of the 4 ghosts you see in Pac-Man¨!  I have included the codes for these in the revised list below.  2nd Encounter Users:  Don't try to just add the 4 sprites to 2nd Encounter!  I don't know what is involved, but I can say that just adding the sprites to 2nd Encounter causes the program to crash when it tries to load the map data.  If someone knows the mechanics involved, maybe they can come up with a patch of some kind that will allow adding the ghosts sprites to 2nd Encounter.
+3rd Encounter includes 4 extra sprites for, what I call, the pac man ghosts.  The reason I call them this is because that's what they look likeÉ huge versions of 
+the 4 ghosts you see in Pac-Man¨!  I have included the codes for these in the revised list below.  2nd Encounter Users:  Don't try to just add the 4 sprites to 2nd 
+Encounter!  I don't know what is involved, but I can say that just adding the sprites to 2nd Encounter causes the program to crash when it tries to load the map 
+data.  If someone knows the mechanics involved, maybe they can come up with a patch of some kind that will allow adding the ghosts sprites to 2nd Encounter.
 
 Other 3rd Encounter Stuff
 
-2nd Encounter and 3rd Encounter saved games are not compatible.  I've attempted to open a 2nd Encounter saved game with 3rd Encounter and the game reports an incompatibility error.  I assume the same to be true of the reverse.  I believe that this is because of what has to be saved in each, as well as the fact that 3rd Encounter uses external files for each game's levels, where 1st & 2nd Encounter have that information stored within the game's resources.
+2nd Encounter and 3rd Encounter saved games are not compatible.  I've attempted to open a 2nd Encounter saved game with 3rd Encounter and the game reports an incompatibility 
+error.  I assume the same to be true of the reverse.  I believe that this is because of what has to be saved in each, as well as the fact that 3rd Encounter uses 
+external files for each game's levels, where 1st & 2nd Encounter have that information stored within the game's resources.
 
-WARNING:  WolfEdit DOES NOT create 3rd Encounter external files, nor any of the resources required for them.  Perhaps a future version of WolfEdit may do this, but I can't say.  (The hack described below makes this possible, but it is a far cry from being able to select bewteen installation in 1st, 2nd or 3rd Encounters,  plus it doesn't allow WolfEdit to CREATE Episode files.)
+WARNING:  WolfEdit DOES NOT create 3rd Encounter external files, nor any of the resources required for them.  Perhaps a future version of WolfEdit may do this, but 
+I can't say.  (The hack described below makes this possible, but it is a far cry from being able to select bewteen installation in 1st, 2nd or 3rd Encounters,  plus 
+it doesn't allow WolfEdit to CREATE Episode files.)
 
 WolfMaker 1.0 and 2.0
 
@@ -2245,7 +2430,8 @@ Warning: WolfEdit1.1 has a bug, 2nd Encounter guards are not guards but objects.
 Thanks to send me these two resources "Levl" 129  and "Enem" 128.  These resources will be incorporated in the next version of WolfMaker.
 
 General
-This progam may be copied freely for individual use. Commercial distribution without written permission is not allowed and is a violation of copyright law. WolfMaker is postcard. If you like it, please write me a postcard at :
+This progam may be copied freely for individual use. Commercial distribution without written permission is not allowed and is a violation of copyright law. WolfMaker 
+is postcard. If you like it, please write me a postcard at :
 
 											Cordier FrŽdŽric
 											34, rue Jean-Claude Vivant
@@ -2312,24 +2498,30 @@ Wolfenstein 3D Saved Game Editor v0.4 Release 1
 by Andrei Scheinkman
 
 Ą What is this
-Wolf 3D Saved Game Editor will let you change around the information on your saved games. You can give your games extra guns, lives, ammo, whatever. There's loads of neat stuff.
+Wolf 3D Saved Game Editor will let you change around the information on your saved games. You can give your games extra guns, lives, ammo, whatever. There's loads 
+of neat stuff.
 
 Ą Instructions
-Double click on the WolfEdit Icon. Use the dialog box to choose what saved game file you want to edit. Edit it. Finish. Press Return. Now play the game, and you'll have loads of new stuff.
+Double click on the WolfEdit Icon. Use the dialog box to choose what saved game file you want to edit. Edit it. Finish. Press Return. Now play the game, and you'll 
+have loads of new stuff.
 
 Ą Problems
 This is the first release so there might be some problems.  Mail me.
 
 Ą Mail me
-If you have problems, questions, suggestions, ideas for improvements, or just want to thank me... mail me at aschein@vertex.ucls.uchicago.edu. If you feel bad since you got this software and didn't pay a thing... monetary donations are welcome. Just send 5 bucks (in my name?) to your local PBS station.
+If you have problems, questions, suggestions, ideas for improvements, or just want to thank me... mail me at aschein@vertex.ucls.uchicago.edu. If you feel bad since 
+you got this software and didn't pay a thing... monetary donations are welcome. Just send 5 bucks (in my name?) to your local PBS station.
 
 Ą Distribution
-This is free. If you use it, send me a mail at aschein@vertex.ucls.uchicago.edu. Maybe make some suggestions. You can give it to whoever you want... just don't modify it and then distribute it. Also, don't charge for it (you got to be a sucker to pay). Ask me about anything else. If you want the source code... ask me too. I can mail it to you or whatever.
+This is free. If you use it, send me a mail at aschein@vertex.ucls.uchicago.edu. Maybe make some suggestions. You can give it to whoever you want... just don't modify 
+it and then distribute it. Also, don't charge for it (you got to be a sucker to pay). Ask me about anything else. If you want the source code... ask me too. I can 
+mail it to you or whatever.
 
 Ą More stuff
 I'll add more stuff. This is just a first release. So look out for release 2. It should be coming at you soon. If there is stuff you want added. Mail me.
 
-ACGW: The documentation and application don't contain any way to contact the author in case of problems.  Wolfenstein 3D Saved Game Editor v0.4 Release 1 is not compatible with 3rd Encounter saved games.  I don't know if it will work with both 1st and 2nd Encounter saved games.
+ACGW: The documentation and application don't contain any way to contact the author in case of problems.  Wolfenstein 3D Saved Game Editor v0.4 Release 1 is not 
+compatible with 3rd Encounter saved games.  I don't know if it will work with both 1st and 2nd Encounter saved games.
 
 Continued in next Chapter 
 
@@ -2338,9 +2530,14 @@ Continued from last Chapter
 
 Hacks
 
-ACGW: The following hacks are intended to be used with WolfEdit 1.1.  The ŇLiftsÓ hack can be implemented in 1st, 2nd and 3rd Encounters, whereas the ŇMoreÓ hack is a 2nd Encounter only hack  Both hacks are by ÔEFlanery@aol.comŐ.  The ŇMusicÓ hack is for use with 2nd and 3rd Encounters, and is by Lazaro Rojas.
+ACGW: The following hacks are intended to be used with WolfEdit 1.1.  The ŇLiftsÓ hack can be implemented in 1st, 2nd and 3rd Encounters, whereas the ŇMoreÓ hack 
+is a 2nd Encounter only hack  Both hacks are by ÔEFlanery@aol.comŐ.  The ŇMusicÓ hack is for use with 2nd and 3rd Encounters, and is by Lazaro Rojas.
 
-ACGW: These ŇhacksÓ are not really hacks at all; they are merely manipulations of WolfEdit using cicns and map section/object list editing to achieve the result, or in the case of the Music hack, just adding more items to the menu and modifying the MUS# resource to match.  The only real hack I've seen is the one that changes a portion of the code in the main code resource.  This hack changes the Install and Install InÉ items in the File menu to use 3rd Encounter Episode files instead of 1st or 2nd Encounter.  I don't know who came up with this hack originally.  It was included in a copy of Lazaro's Music hack that I found in a 3rd Encounter levels file archive by him.
+ACGW: These ŇhacksÓ are not really hacks at all; they are merely manipulations of WolfEdit using cicns and map section/object list editing to achieve the result, 
+or in the case of the Music hack, just adding more items to the menu and modifying the MUS# resource to match.  The only real hack I've seen is the one that changes 
+a portion of the code in the main code resource.  This hack changes the Install and Install InÉ items in the File menu to use 3rd Encounter Episode files instead 
+of 1st or 2nd Encounter.  I don't know who came up with this hack originally.  It was included in a copy of Lazaro's Music hack that I found in a 3rd Encounter levels 
+file archive by him.
 
 I take no responsibility for any harm you may cause with these files.
 I would welcome e-mail at "EFlanery@aol.com"
@@ -2373,7 +2570,12 @@ How to use:
   Quit resedit saving the copy of wolfenstein, but not your level file
   Enjoy!!
  
-ACGW: As an additional note, if you wish to place the object to the right or left of the block, you must change the 1st byte of the 3-byte object in the object list to value+1 (if the object is to the left) or value-1 (if the object is to the right).  By the same token, you can place it below the block, but the changes will be a little different.  You will still change the 2nd byte of the 3-byte object code to value-1, but this changes the row in which the object is found.  Since the object list is arranged in rows, you'll have to select the 3-byte code (all 3 bytes), cut them from their current location, and find the position in the previous row to paste them in.  They MUST be placed in the correct position.  I don't know what would happen if the object list was out of order, but I daresay that Wolfenstein would crash, or at the very least, some wierd behavior would be experienced.
+ACGW: As an additional note, if you wish to place the object to the right or left of the block, you must change the 1st byte of the 3-byte object in the object list 
+to value+1 (if the object is to the left) or value-1 (if the object is to the right).  By the same token, you can place it below the block, but the changes will 
+be a little different.  You will still change the 2nd byte of the 3-byte object code to value-1, but this changes the row in which the object is found.  Since the 
+object list is arranged in rows, you'll have to select the 3-byte code (all 3 bytes), cut them from their current location, and find the position in the previous 
+row to paste them in.  They MUST be placed in the correct position.  I don't know what would happen if the object list was out of order, but I daresay that Wolfenstein 
+would crash, or at the very least, some wierd behavior would be experienced.
 
 More 2nd enc. items
 
@@ -2436,31 +2638,59 @@ How to use:
 
 notes:
 Ą NOT COMPATABILE with wolf 3d first or wolfedit 1.0
-Ą That green/gray X is a wall that looks like the outside(day from top/bottom, night from side), however it WILL NOT work with the secret passage (wolfedit will let you place an arrow on the wall, but wolfenstein will crash.
+Ą That green/gray X is a wall that looks like the outside(day from top/bottom, night from side), however it WILL NOT work with the secret passage (wolfedit will 
+let you place an arrow on the wall, but wolfenstein will crash.
 Ą Certain combinations of sleeping bosses and walls will cause unusual graphics on the walls (it's harmless)
  
-ACGW: There is a reason why the above items have to be dealt with in this manner.  Primarily, it is because of the way in which WolfEdit places walls and objects.  Internally, WolfEdit places all objects that translate into $80 or higher into the map section (even though there is no wall for the code $80), and all objects that translate into $7F or lower into the object list.  Since the enemies listed above translate to $80-$89, WolfEdit places the code in the map section, making a wall out of them.  (Also, the codes $81-$89 are valid wall codes, and so cicns already exists in the positions (IDs) that the enemies would require.)  In the case of the Landscape, the Lift Controls object is placed in the position that the Landscape would normally occupy, and any other item placed here will still result in an $8F being placed in the map section and a $64 in the object list.  Essentially, WolfEdit will have to be revised to incorporate checking for items that can either be walls or objects according to their code before this can be resolved.
+ACGW: There is a reason why the above items have to be dealt with in this manner.  Primarily, it is because of the way in which WolfEdit places walls and objects. 
+ Internally, WolfEdit places all objects that translate into $80 or higher into the map section (even though there is no wall for the code $80), and all objects 
+that translate into $7F or lower into the object list.  Since the enemies listed above translate to $80-$89, WolfEdit places the code in the map section, making 
+a wall out of them.  (Also, the codes $81-$89 are valid wall codes, and so cicns already exists in the positions (IDs) that the enemies would require.)  In the case 
+of the Landscape, the Lift Controls object is placed in the position that the Landscape would normally occupy, and any other item placed here will still result in 
+an $8F being placed in the map section and a $64 in the object list.  Essentially, WolfEdit will have to be revised to incorporate checking for items that can either 
+be walls or objects according to their code before this can be resolved.
 
-Greg actually uses a simple manner of identifying the codes.  The cicn ID is the value of the code + 5000.  5144, for example, is 144 ($90) + 5000.  $90 is the code used in WolfEdit to identify the Lift Control.  $90 is also the code used in Wolfenstein to identify the Landscape.  What Greg could do is to identify a Ônext orderŐ cicn for things that have multiple roles.  For example, 6143 could be used for the Lift Control (corresponding to 5143 for the Lift Side Wall), freeing up 5144 for the Landscape.  The same could be done for the walls that conflict with the enemies.  6129 through 6137 could be used for the walls that have the code of $81 through $89, leaving 5128 through 5137 for the enemies that have the codes $80 through $89.  Other solutions could also be found.
+Greg actually uses a simple manner of identifying the codes.  The cicn ID is the value of the code + 5000.  5144, for example, is 144 ($90) + 5000.  $90 is the code 
+used in WolfEdit to identify the Lift Control.  $90 is also the code used in Wolfenstein to identify the Landscape.  What Greg could do is to identify a Ônext orderŐ 
+cicn for things that have multiple roles.  For example, 6143 could be used for the Lift Control (corresponding to 5143 for the Lift Side Wall), freeing up 5144 for 
+the Landscape.  The same could be done for the walls that conflict with the enemies.  6129 through 6137 could be used for the walls that have the code of $81 through 
+$89, leaving 5128 through 5137 for the enemies that have the codes $80 through $89.  Other solutions could also be found.
 
 The solution I favor is as follows:
 
-Essentially, the problem is this.  When WolfEdit sees that an item has an object code of $80 or higher, it places the object in the map section of the resource as a wall type.  If the object has a code of $7F or less, it is placed in the object list section.  The problem occurs when you have an object that is not a wall, but has a code value of $80 or higher.  In the case of the ambush (or sleeping) versions of the enemies and bosses, the code is in the range of $80 to $89.  Without an alternative ordering scheme, it might be impossible to overcome this obstacle.  Fortunately, Wolfenstein 3D has just such a scheme for the all codes in the range of $81 through $99.  The alternate codes are $C1 through $D9 (respectively).
+Essentially, the problem is this.  When WolfEdit sees that an item has an object code of $80 or higher, it places the object in the map section of the resource as 
+a wall type.  If the object has a code of $7F or less, it is placed in the object list section.  The problem occurs when you have an object that is not a wall, but 
+has a code value of $80 or higher.  In the case of the ambush (or sleeping) versions of the enemies and bosses, the code is in the range of $80 to $89.  Without 
+an alternative ordering scheme, it might be impossible to overcome this obstacle.  Fortunately, Wolfenstein 3D has just such a scheme for the all codes in the range 
+of $81 through $99.  The alternate codes are $C1 through $D9 (respectively).
 
-This leaves 4 other wall types in the range of $9A through $9D.  There are also 3 other wall codes that allow placement of the doors and the door jamb as walls that range from $9E through $A0.  With this configuration in mind, it would be possible to have the objects and walls identified separately by simply changing the value of the borderline from $80 to $8A.  In other words, all values of $89 and less are object list codes, and all values of $8A and above are map section wall codes.
+This leaves 4 other wall types in the range of $9A through $9D.  There are also 3 other wall codes that allow placement of the doors and the door jamb as walls that 
+range from $9E through $A0.  With this configuration in mind, it would be possible to have the objects and walls identified separately by simply changing the value 
+of the borderline from $80 to $8A.  In other words, all values of $89 and less are object list codes, and all values of $8A and above are map section wall codes.
 
-Wolfenstein 3D will recognize the $C1 through $D9 codes in the map section correctly, and as such the map section could be built using those codes.  Or, the codes could be altered to their $81 through $99 counterparts prior to being placed in the map section.  This would enable all of the objects and walls to be used in WolfEdit, and allow the user to place them without having to alter the BRGR resources later to correct wrong codes.
 
-The exit control objects can also be dealt with properly in this regard.  These two objects could be separate from any wall association, thereby allowing them to have their unique codes (and proper placement in the list of objects), and also allowing users to designate what wall object they wish to use for an exit control.  For a normal exit, the object representing the normal exit could be placed on top of a wall object in the same manner that hidden doors are now dealt with.  The secret level exit object would be used similarly.  The wall object with the exit object on it would have the wall placed in the map section, and the exit object placed in the object list section.
+Wolfenstein 3D will recognize the $C1 through $D9 codes in the map section correctly, and as such the map section could be built using those codes.  Or, the codes 
+could be altered to their $81 through $99 counterparts prior to being placed in the map section.  This would enable all of the objects and walls to be used in WolfEdit, 
+and allow the user to place them without having to alter the BRGR resources later to correct wrong codes.
+
+The exit control objects can also be dealt with properly in this regard.  These two objects could be separate from any wall association, thereby allowing them to 
+have their unique codes (and proper placement in the list of objects), and also allowing users to designate what wall object they wish to use for an exit control. 
+ For a normal exit, the object representing the normal exit could be placed on top of a wall object in the same manner that hidden doors are now dealt with.  The 
+secret level exit object would be used similarly.  The wall object with the exit object on it would have the wall placed in the map section, and the exit object 
+placed in the object list section.
  
-The only caveats that need to be heeded are that there are a maximum of 2 exits per level; one normal and the other secret, and that the Map List resource needs to be built differently.  These caveats are already covered in The (Almost) Complete Guide to Wolfenstein 3DŞ under the heading ÔExit Lift to Secret LevelŐ in the ÔLevel Resource Description, Part 1Ő chapter.
+The only caveats that need to be heeded are that there are a maximum of 2 exits per level; one normal and the other secret, and that the Map List resource needs 
+to be built differently.  These caveats are already covered in The (Almost) Complete Guide to Wolfenstein 3DŞ under the heading ÔExit Lift to Secret LevelŐ in the 
+ÔLevel Resource Description, Part 1Ő chapter.
 
 Music Menu
 
-ACGW: by Lazaro Rojas.  Lazaro didn't include any documentation on the hack, as it was supplied with various WolfEdit 2nd Encounter levels files.  However, installation and use are easy to understand.
+ACGW: by Lazaro Rojas.  Lazaro didn't include any documentation on the hack, as it was supplied with various WolfEdit 2nd Encounter levels files.  However, installation 
+and use are easy to understand.
 
 Use:
-This hack is a ResEdit resource file that adds the other music entries to the Level Music popup menu in the level Get Info dialog in WolfEdit 1.1.  It enables you to select music for your level other than the ones built-in to WolfEdit.
+This hack is a ResEdit resource file that adds the other music entries to the Level Music popup menu in the level Get Info dialog in WolfEdit 1.1.  It enables you 
+to select music for your level other than the ones built-in to WolfEdit.
 
 Installation:
 Ą Using ResEdit (or another resource editor), open the resource file and WolfEdit 1.1
@@ -2470,7 +2700,8 @@ Installation:
 
 Other Hacks
 
-ACGW: Lazaro mentioned to me in email about other hacks.  He includes with his 3rd Encounter levels a ResEdit resource file that includes his Music hack, as well as some other hacks that add additional items to WolfEdit.  Here is the email that we exchanged where he describes the various hacks:
+ACGW: Lazaro mentioned to me in email about other hacks.  He includes with his 3rd Encounter levels a ResEdit resource file that includes his Music hack, as well 
+as some other hacks that add additional items to WolfEdit.  Here is the email that we exchanged where he describes the various hacks:
 
           Wednesday, June 28, 1995 11:16:28 PM
           Message
@@ -2479,13 +2710,26 @@ ACGW: Lazaro mentioned to me in email about other hacks.  He includes with his 3
   To:             Wayne Campbell
 I'm sorry I haven't replied earlier, but I haven't signed on to LAMG in over a week.
 
-The hack with cicn resources I included with my levels does replace the "Some 2nd Encounter Items".  I didn't write it myself, but made it by putting together "Some 2nd Encounter Items" and a couple of other hacks which included the 3rd Encounter items such as the ghosts and the false doors.  The only hack I wrote is the music one.
+The hack with cicn resources I included with my levels does replace the "Some 2nd Encounter Items".  I didn't write it myself, but made it by putting together "Some 
+2nd Encounter Items" and a couple of other hacks which included the 3rd Encounter items such as the ghosts and the false doors.  The only hack I wrote is the music 
+one.
 
-Cicn #5059 is a dead brownshirt.  I think the only place it appears is right at the beginning of "Escape from Wolfenstein".  That game starts just after you've killed a guard in your jail cell, and you can see the dead guard lying on the floor in front of you.  I didn't find this sprite; it was one of the cicn's in one of the hacks I mentioned above.
+Cicn #5059 is a dead brownshirt.  I think the only place it appears is right at the beginning of "Escape from Wolfenstein".  That game starts just after you've killed 
+a guard in your jail cell, and you can see the dead guard lying on the floor in front of you.  I didn't find this sprite; it was one of the cicn's in one of the 
+hacks I mentioned above.
  
-I recently came across a hack on AOL for adding additional items to Wolfenstein levels, including sleeping dogs, blueshirts, bosses, mutants, Schabbs, and Hitler, as well as the daytime/nighttime landscapes.  The only way to use them, though, is to change some of the values in the actual BRGR resource for each level, a tedious process.  And the hack was created for 2nd Encounter, not 3rd.  I tried using it with 3rd, but it didn't work, and the game crashed every time.  However, I did find a way to use the daytime/nighttime landscapes, and informed the author of the hack.  The cicn's you uploaded don't correspond to the ones that came with this hack.  For instance, the ID# of your sleeping blueshirt is 5124, but the one in the hack is 5065, and 5124 is used for the red ghost.  Your sleeping mutant is 5125, but the one in the hack is 5067.  And your landscape is 5128, while the one in the hack is 5158.  I made a copy of WolfEdit 1.1 and pasted your cicn's in it, then made a small test level using those sprites, but it didn't work.  The landscape showed up as the type of pixel garbage secret doors show up as, and instead of the sleeping blueshirt, the red ghost appeared.  How did you find the ID numbers for your cicn's?  
+I recently came across a hack on AOL for adding additional items to Wolfenstein levels, including sleeping dogs, blueshirts, bosses, mutants, Schabbs, and Hitler, 
+as well as the daytime/nighttime landscapes.  The only way to use them, though, is to change some of the values in the actual BRGR resource for each level, a tedious 
+process.  And the hack was created for 2nd Encounter, not 3rd.  I tried using it with 3rd, but it didn't work, and the game crashed every time.  However, I did find 
+a way to use the daytime/nighttime landscapes, and informed the author of the hack.  The cicn's you uploaded don't correspond to the ones that came with this hack. 
+ For instance, the ID# of your sleeping blueshirt is 5124, but the one in the hack is 5065, and 5124 is used for the red ghost.  Your sleeping mutant is 5125, but 
+the one in the hack is 5067.  And your landscape is 5128, while the one in the hack is 5158.  I made a copy of WolfEdit 1.1 and pasted your cicn's in it, then made 
+a small test level using those sprites, but it didn't work.  The landscape showed up as the type of pixel garbage secret doors show up as, and instead of the sleeping 
+blueshirt, the red ghost appeared.  How did you find the ID numbers for your cicn's?  
 
-As for displaying the sprites and walls directly from the BRGR resource, I wish I knew of a way to do this, but unfortunately I don't.  I'd be very interested in creating my own wall textures and objects, in addition to creating textures for the floor and ceiling (I hate all that featureless grey!).  On top of that, I'd love to alter the characters as well.  Hopefully, someone might come up with a program to do all this, like the ones for Marathon.
+As for displaying the sprites and walls directly from the BRGR resource, I wish I knew of a way to do this, but unfortunately I don't.  I'd be very interested in 
+creating my own wall textures and objects, in addition to creating textures for the floor and ceiling (I hate all that featureless grey!).  On top of that, I'd love 
+to alter the characters as well.  Hopefully, someone might come up with a program to do all this, like the ones for Marathon.
 
 -- L
 
@@ -2493,7 +2737,8 @@ Lazaro Rojas wrote:
 
 > Cicn #5059 is a dead brownshirt.
 
-I figured this out after writing to you.  I had always wondered about these sprites.  I assume that there must also be sprites for dead versions of the other guards and bosses as well.  I'd like to get those some day too.
+I figured this out after writing to you.  I had always wondered about these sprites.  I assume that there must also be sprites for dead versions of the other guards 
+and bosses as well.  I'd like to get those some day too.
 
 > I recently came across a hack on AOL for adding additional items to Wolfenstein
 > levels, including sleeping dogs, blueshirts, bosses, mutants, Schabbs, and Hitler, as
@@ -2501,7 +2746,8 @@ I figured this out after writing to you.  I had always wondered about these spri
 > change some of the values in the actual BRGR resource for each level, a tedious
 > process.
 
-Really?  I've been waiting for those to come along.  I well know about the process of changing values.  That was how I determined the values of the items in the 3rd cicn resource file.
+Really?  I've been waiting for those to come along.  I well know about the process of changing values.  That was how I determined the values of the items in the 
+3rd cicn resource file.
 
 > The cicn's you uploaded don't correspond to the ones that came with this hack.  For
 > instance, the ID# of your sleeping blueshirt is 5124, but the one in the hack is 5065,
@@ -2512,11 +2758,23 @@ Really?  I've been waiting for those to come along.  I well know about the proce
 > garbage secret doors show up as, and instead of the sleeping blueshirt, the red ghost
 > appeared.  How did you find the ID numbers for your cicn's?  
  
-Well, I thought I clarified in the upload, but maybe I didn't.  I didn't determine WHERE the cicn's went in WolfEdit 1.1.  I used item IDs that weren't in current use in the version of WolfEdit that I have.  I was hoping that someone could forward my observations to the author of WolfEdit so that he could make the proper determinations of placement of the cicn's in WolfEdit, as well as possibly determining some of the other problems, such as the yet unidentified mutant and blueshirt guards showing up as other things instead of question marks.  I used the original 30 levels of Wold 3D 2nd encounter to determine the values of the characters in the BRGR resource.  I also compared these with 3rd encounter and found that they were the same values as 2nd encounter.  I also determined the values for the 4 ghosts in 3rd encounter.  However, I don't remember if I included these in my upload, as I believe that I determined them after originally creating the cicn's and uploading them elsewhere.  I just uploaded a copy of the same archive to LAMG.  I need to go back and see what needs updating now, since I have more information (including revising the cicn item IDs for the new items that you have provided).
+Well, I thought I clarified in the upload, but maybe I didn't.  I didn't determine WHERE the cicn's went in WolfEdit 1.1.  I used item IDs that weren't in current 
+use in the version of WolfEdit that I have.  I was hoping that someone could forward my observations to the author of WolfEdit so that he could make the proper determinations 
+of placement of the cicn's in WolfEdit, as well as possibly determining some of the other problems, such as the yet unidentified mutant and blueshirt guards showing 
+up as other things instead of question marks.  I used the original 30 levels of Wold 3D 2nd encounter to determine the values of the characters in the BRGR resource. 
+ I also compared these with 3rd encounter and found that they were the same values as 2nd encounter.  I also determined the values for the 4 ghosts in 3rd encounter. 
+ However, I don't remember if I included these in my upload, as I believe that I determined them after originally creating the cicn's and uploading them elsewhere. 
+ I just uploaded a copy of the same archive to LAMG.  I need to go back and see what needs updating now, since I have more information (including revising the cicn 
+item IDs for the new items that you have provided).
 
-To reiterate, of the 3 resource files in my upload, the first is replacement cicns for WolfEdit 1.1.  The 2nd file is replacement cicns for Some 2nd encounter items.  The 3rd file is the other items I identified in the BRGR resources that were as yet unidentified as far as WolfEdit is concerned.  These cicn's were NOT intended to be pasted into the current version of WolfEdit, but rather forwarded to the author of WolfEdit so that he could figure out where to place them, and how to identify them in the BRGR level resources.
+To reiterate, of the 3 resource files in my upload, the first is replacement cicns for WolfEdit 1.1.  The 2nd file is replacement cicns for Some 2nd encounter items. 
+ The 3rd file is the other items I identified in the BRGR resources that were as yet unidentified as far as WolfEdit is concerned.  These cicn's were NOT intended 
+to be pasted into the current version of WolfEdit, but rather forwarded to the author of WolfEdit so that he could figure out where to place them, and how to identify 
+them in the BRGR level resources.
 
-There should also be a text file in the archive,  unless I forgot to include it.  It should state the values (in hex) of all of the items that I identified in the BRGR resources, as well as the problems with display of these items in WolfEdit.  (Example, the 'sleeping' mutant shows up as a gray stone wall with embossed eagle in WolfEdit.)  If it's not there, I will reupload the archive with all information updated.
+There should also be a text file in the archive,  unless I forgot to include it.  It should state the values (in hex) of all of the items that I identified in the 
+BRGR resources, as well as the problems with display of these items in WolfEdit.  (Example, the 'sleeping' mutant shows up as a gray stone wall with embossed eagle 
+in WolfEdit.)  If it's not there, I will reupload the archive with all information updated.
 
 Wayne
 
@@ -2525,33 +2783,58 @@ Wayne
   From:           Lazaro Rojas
   Subject:        Re(4): 30 Wolf3D Levels
   To:             Wayne Campbell
-I no longer have the original copies of all the Wolfenstein hacks I've found (except for the one I sent you earlier today) because I've incorporated all of them permanently into a copy of WolfEdit 1.1.  
+I no longer have the original copies of all the Wolfenstein hacks I've found (except for the one I sent you earlier today) because I've incorporated all of them 
+permanently into a copy of WolfEdit 1.1.  
 
-As for saving the levels, the only way to save them into 2nd Encounter is with an unmodified copy of WolfEdit.  The code resource of the unmodified version contains the string APPL, allowing it to install levels into the game application.  The hack just changes the APPL to MAPS so it can install into 3rd Encounter level files.  As far as I know, levels created with the modified WolfEdit will install in both 2nd and 3rd Encounter, but they have to be installed in 2nd with an unmodified version.  So you can create levels for either 2nd or 3rd with the modified WolfEdit, and owners of 2nd Encounter can install them into their games with an unmodified WolfEdit.
+As for saving the levels, the only way to save them into 2nd Encounter is with an unmodified copy of WolfEdit.  The code resource of the unmodified version contains 
+the string APPL, allowing it to install levels into the game application.  The hack just changes the APPL to MAPS so it can install into 3rd Encounter level files. 
+ As far as I know, levels created with the modified WolfEdit will install in both 2nd and 3rd Encounter, but they have to be installed in 2nd with an unmodified 
+version.  So you can create levels for either 2nd or 3rd with the modified WolfEdit, and owners of 2nd Encounter can install them into their games with an unmodified 
+WolfEdit.
 
-I'm not sure what the actual size of the 3rd Encounter mission pictures is in pixels. I simply copied one of the originals, pasted it into my paint program and erased everything but the black outline, and I use this outline for every new picture I make.  As far as I know, you can't make a larger or smaller picture, because it won't show up properly.  In fact, I found that pasting in a new one doesn't work unless you include a 1-pixel perimeter of white space around the black outline.  The first time I tried it, I tried pasting in the new picture and the outline, and it didn't work properly.  So I pasted an original picture into my paint program again, and while it was still selected, I realized the selection area included this white space around it instead of being right on the black outline.
+I'm not sure what the actual size of the 3rd Encounter mission pictures is in pixels. I simply copied one of the originals, pasted it into my paint program and erased 
+everything but the black outline, and I use this outline for every new picture I make.  As far as I know, you can't make a larger or smaller picture, because it 
+won't show up properly.  In fact, I found that pasting in a new one doesn't work unless you include a 1-pixel perimeter of white space around the black outline. 
+ The first time I tried it, I tried pasting in the new picture and the outline, and it didn't work properly.  So I pasted an original picture into my paint program 
+again, and while it was still selected, I realized the selection area included this white space around it instead of being right on the black outline.
 
 -- L
 
 P.S. I just checked, and the size of the picture is 96x64.  
 
-ACGW: The APPL to MAPS hack, as I understand it, will change the CODE resource in WolfEdit 1.1 to install the levels into a 3rd Encounter Episode file instead of into 1st or 2nd Encounter.  (I have installed this hack, and it works, but you can't install into 1st or 2nd Encounters with it, so you'll have to keep a copy of the original without this hack to install into 1st or 2nd Encounters with.)
+ACGW: The APPL to MAPS hack, as I understand it, will change the CODE resource in WolfEdit 1.1 to install the levels into a 3rd Encounter Episode file instead of 
+into 1st or 2nd Encounter.  (I have installed this hack, and it works, but you can't install into 1st or 2nd Encounters with it, so you'll have to keep a copy of 
+the original without this hack to install into 1st or 2nd Encounters with.)
 
-The other hacks simply add the cicns from More 2nd Encounter items file to WolfEdit (thereby making it unneccessary to say ÔYESŐ to the load them prompt), and also add the objects from 3rd Encounter (ghosts) and the sleeping guards, dog, and bosses.  Also, once these cicns are all copied into WolfEdit, you can remove the More 2nd Enc items file from the WolfEdit folder, and WolfEdit won't prompt you anymore.
+The other hacks simply add the cicns from More 2nd Encounter items file to WolfEdit (thereby making it unneccessary to say ÔYESŐ to the load them prompt), and also 
+add the objects from 3rd Encounter (ghosts) and the sleeping guards, dog, and bosses.  Also, once these cicns are all copied into WolfEdit, you can remove the More 
+2nd Enc items file from the WolfEdit folder, and WolfEdit won't prompt you anymore.
 
 WolfEdit cicns
 
-This is a series of 3 ResEdit resource files that include replacement cicns for WolfEdit.  I created them when I made the 1st and 2nd Encounter level map PICTs that I have made available on InterPlay BBS, LAMG BBS, MVOL BBS, Digital Warehouse BBS, and (soon) Channel Z BBS.
+This is a series of 3 ResEdit resource files that include replacement cicns for WolfEdit.  I created them when I made the 1st and 2nd Encounter level map PICTs that 
+I have made available on InterPlay BBS, LAMG BBS, MVOL BBS, Digital Warehouse BBS, and (soon) Channel Z BBS.
 
-They are 16x16 pixel cicns in 256 colors.  They were made by taking screenshots of the various items in the game, and reducing them to the 16x16 pixel size.  (Of course, a few of them required slight modification to get the effect.)  The wall and plain door cicns were taken from the map that is displayed in the game.  (All screenshots were taken in 640x480 mode to get the greatest resolution.)
+They are 16x16 pixel cicns in 256 colors.  They were made by taking screenshots of the various items in the game, and reducing them to the 16x16 pixel size.  (Of 
+course, a few of them required slight modification to get the effect.)  The wall and plain door cicns were taken from the map that is displayed in the game.  (All 
+screenshots were taken in 640x480 mode to get the greatest resolution.)
 
-The only items not included in the above description are the guards, bosses (except the blue boss on Level 1-3 of 1st and 2nd Encounter), and ghosts.  There are 3 files:  WolfEdit cicns (for the cicns in WolfEdit), Some 2nd Enc Items cicns (for the external file), and Other cicns (sleeping guards and bosses, and ghosts, and landscape).
+The only items not included in the above description are the guards, bosses (except the blue boss on Level 1-3 of 1st and 2nd Encounter), and ghosts.  There are 
+3 files:  WolfEdit cicns (for the cicns in WolfEdit), Some 2nd Enc Items cicns (for the external file), and Other cicns (sleeping guards and bosses, and ghosts, 
+and landscape).
 
-Since I created these files, I found out about the other hacks, and have updated them to include the correct cicn ID #Ős to correspond with the hacks.  The archives I have already released don't reflect this change.  Channel Z will be the first BBS to receive the updated archive.  Also, I have now created cicns for all of the dogs, guards and bosses.  This means that all of the objects shown in WolfEdit now have a 256 color representation derived from screenshots of the objects in the game.
+Since I created these files, I found out about the other hacks, and have updated them to include the correct cicn ID #Ős to correspond with the hacks.  The archives 
+I have already released don't reflect this change.  Channel Z will be the first BBS to receive the updated archive.  Also, I have now created cicns for all of the 
+dogs, guards and bosses.  This means that all of the objects shown in WolfEdit now have a 256 color representation derived from screenshots of the objects in the 
+game.
 
-I have decided, since all of the ÔhacksŐ I found out about are so easy to install and use, to include all of the cicns in one file, with the appropriate ID numbers, and include a separate text file documenting the installation and use of all of the objects.  I'm even including the modified code resource to allow installation of levels into 3rd Encounter Episode files.  This way, all of the hacks (and my versions of the cicns) will be together in one place for those who don't have the resources to look all over to find different hacks.
+I have decided, since all of the ÔhacksŐ I found out about are so easy to install and use, to include all of the cicns in one file, with the appropriate ID numbers, 
+and include a separate text file documenting the installation and use of all of the objects.  I'm even including the modified code resource to allow installation 
+of levels into 3rd Encounter Episode files.  This way, all of the hacks (and my versions of the cicns) will be together in one place for those who don't have the 
+resources to look all over to find different hacks.
 
-I have called the file WolfEdit Hacks.  It has it's own accompanying document (a SimpleText file) that explains everything about it.  I'm including the doc file here so that this document is up-to-date.
+I have called the file WolfEdit Hacks.  It has it's own accompanying document (a SimpleText file) that explains everything about it.  I'm including the doc file 
+here so that this document is up-to-date.
  
 WolfEdit Hacks
 WolfEdit Hacks.rsrc is a ResEdit resource file that includes the following:
@@ -2568,41 +2851,79 @@ WolfEdit Hacks.rsrc is a ResEdit resource file that includes the following:
      Ą  RMAP and TMPL resources for viewing some of the BRGR resources.
 
 CICN Resources
-These cicns are 256 color and represent all of the objects, walls, and enemies in Wolfenstein 3D.  There are also four cicns included as replacements for the Ôman holding a gunŐ cicns that represent start position, as well as a replacement cicn for the Ômake other objects lift controlsŐ cicn that is one of the ÔhacksŐ for WolfEdit.  The cicn IDs for the Ambush versions of the dog, guards (except Brown SS and White SS Officer), and bosses were derived from another ÔhackŐ.  All of the cicns pictures were derived from screenshots of the various objects in the game.  The plain door and all other walls (except the lift control panel) were taken from screenshots of the maps of various levels in the game.  The rest (except the cicn for making other objects lift controls) were made by taking a screenshot of the object in the game, creating a black background around it that was (for the most part) square, and then selecting the area and reducing the selection until I achieved a 16x16 pixel picture.  The Suit of Armor had a little work done to it, as the reduction seemed to make it look like garbage instead of a suit of armor.  The Ômake other objects lift controlsŐ cicn was made by redoing the original cicn.  ClarisWorksŐ Paint application was used to do the work, and ResEdit was used to store the resulting pictures into cicn resources.  I've heard of another ÔhackŐ that adds the doors as walls, but haven't seen it.  I made my own, and it works.  I've included the cicn's for these walls.
+These cicns are 256 color and represent all of the objects, walls, and enemies in Wolfenstein 3D.  There are also four cicns included as replacements for the Ôman 
+holding a gunŐ cicns that represent start position, as well as a replacement cicn for the Ômake other objects lift controlsŐ cicn that is one of the ÔhacksŐ for 
+WolfEdit.  The cicn IDs for the Ambush versions of the dog, guards (except Brown SS and White SS Officer), and bosses were derived from another ÔhackŐ.  All of the 
+cicns pictures were derived from screenshots of the various objects in the game.  The plain door and all other walls (except the lift control panel) were taken from 
+screenshots of the maps of various levels in the game.  The rest (except the cicn for making other objects lift controls) were made by taking a screenshot of the 
+object in the game, creating a black background around it that was (for the most part) square, and then selecting the area and reducing the selection until I achieved 
+a 16x16 pixel picture.  The Suit of Armor had a little work done to it, as the reduction seemed to make it look like garbage instead of a suit of armor.  The Ômake 
+other objects lift controlsŐ cicn was made by redoing the original cicn.  ClarisWorksŐ Paint application was used to do the work, and ResEdit was used to store the 
+resulting pictures into cicn resources.  I've heard of another ÔhackŐ that adds the doors as walls, but haven't seen it.  I made my own, and it works.  I've included 
+the cicn's for these walls.
 
-Note about the Ambush version enemies and doors as walls hacks.  The cicn's for the Ambush enemies (except the Brown SS and White SS Officer) used cicn id's that made it where you had to change the value of the object in the object list from $41, $42, $43, $44, $45, $46, $47, $49, $4A and $4B to $80, $81, $82, $83, $84, $85, $86, $88, $89 and $87 (respectively).  This order doesn't concur with the order of the enemies, and is also more difficult to remember.  I determined that an order of $4x -> $8x would be easier to understand, and easier to remember.  Since the floor codes are $00-$3F, this was easy to accomplish.  The cicn's I've included use IDs that will make the objects occur in the following order: From: $40, $41, $42, $43, $44, $45, $46, $47, $48 and $49 To: $80, $81, $82, $83, $84, $85, $86, $87, $88 and $89.  I've also included a cicn for what I believe to be an Ambush version of the Green Pac Man ghost.  It's code will show up in the object list as $4B.  It should be changed to $8B.  There are no Ambush versions of the Red, Yellow or Blue ghosts, or cicns of the dead versions of any of the other enemies (besides the Brown SS guard) as there are no codes for them.
+Note about the Ambush version enemies and doors as walls hacks.  The cicn's for the Ambush enemies (except the Brown SS and White SS Officer) used cicn id's that 
+made it where you had to change the value of the object in the object list from $41, $42, $43, $44, $45, $46, $47, $49, $4A and $4B to $80, $81, $82, $83, $84, $85, 
+$86, $88, $89 and $87 (respectively).  This order doesn't concur with the order of the enemies, and is also more difficult to remember.  I determined that an order 
+of $4x -> $8x would be easier to understand, and easier to remember.  Since the floor codes are $00-$3F, this was easy to accomplish.  The cicn's I've included use 
+IDs that will make the objects occur in the following order: From: $40, $41, $42, $43, $44, $45, $46, $47, $48 and $49 To: $80, $81, $82, $83, $84, $85, $86, $87, 
+$88 and $89.  I've also included a cicn for what I believe to be an Ambush version of the Green Pac Man ghost.  It's code will show up in the object list as $4B. 
+ It should be changed to $8B.  There are no Ambush versions of the Red, Yellow or Blue ghosts, or cicns of the dead versions of any of the other enemies (besides 
+the Brown SS guard) as there are no codes for them.
 
-The doors as walls cicns use id's that produce the codes $9F, $A0 and $A1 in the map section of the resource.  The codes actually are $9E, $9F and $A0, respectively.  The doors show up as follows:
+The doors as walls cicns use id's that produce the codes $9F, $A0 and $A1 in the map section of the resource.  The codes actually are $9E, $9F and $A0, respectively. 
+ The doors show up as follows:
 
      From    To      Door Description
      $9F  -> $9E     East/West facing Plain Door
      $A0  -> $9F     East/West facing Silver Key Door & North/South facing Gold Key Door
      $A1  -> $A0     East/West facing Door Jamb & North/South facing Lift Door
 
-I would've liked to make it where all of the cicns produced the correct code (without needing to edit the resource), but the code to WolfEdit will have to be revised for this to happen.
+I would've liked to make it where all of the cicns produced the correct code (without needing to edit the resource), but the code to WolfEdit will have to be revised 
+for this to happen.
 
-Using the ÔMake other objects liftsŐ object.  The original hack included the instructions for use, placing the object to the right of the wall.  Note that Ôother objectsŐ means walls, not any other objects.  I experimented and found that to place the object on any of the other 3 sides requires different changes.  Below is how to use the object to make a lift on any of the 4 sides of a wall object.
+Using the ÔMake other objects liftsŐ object.  The original hack included the instructions for use, placing the object to the right of the wall.  Note that Ôother 
+objectsŐ means walls, not any other objects.  I experimented and found that to place the object on any of the other 3 sides requires different changes.  Below is 
+how to use the object to make a lift on any of the 4 sides of a wall object.
 
-Note:  In the object list, the 3-byte entry is designated Row, Column, Object.  In the examples below ÔyyŐ refers to row coordinate, ÔxxŐ refers to the column coordinate, and $50 refers to the code used with the ÔMake other objects liftsŐ cicn.  If you don't know how to add a secret level to your levels, DON'T use the $65 code!  Also, the use of this code produces an extra room in each level where it occurs when the object is originally placed in a solid wall (surrounded by other wall cells).  If placed in a wall that is viewable from another room, it will add an extra floor cell in that room.
+Note:  In the object list, the 3-byte entry is designated Row, Column, Object.  In the examples below ÔyyŐ refers to row coordinate, ÔxxŐ refers to the column coordinate, 
+and $50 refers to the code used with the ÔMake other objects liftsŐ cicn.  If you don't know how to add a secret level to your levels, DON'T use the $65 code!  Also, 
+the use of this code produces an extra room in each level where it occurs when the object is originally placed in a solid wall (surrounded by other wall cells). 
+ If placed in a wall that is viewable from another room, it will add an extra floor cell in that room.
 
-1. Wall is on the North:  Place the object in the adjacent cell above the wall cell.  Change the object list entry as follows:  Change the ÔyyŐ coordinate to current value + 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
+1. Wall is on the North:  Place the object in the adjacent cell above the wall cell.  Change the object list entry as follows:  Change the ÔyyŐ coordinate to current 
+value + 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
 
-2. Wall is on the South:  Place the object in the adjacent cell below the wall cell.  Change the object list entry as follows:  Change the ÔyyŐ coordinate to current value - 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
+2. Wall is on the South:  Place the object in the adjacent cell below the wall cell.  Change the object list entry as follows:  Change the ÔyyŐ coordinate to current 
+value - 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
 
-3. Wall is on the East:  Place the object in the adjacent cell to the left of the wall cell.  Change the object list entry as follows:  Change the ÔxxŐ coordinate to current value + 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
+3. Wall is on the East:  Place the object in the adjacent cell to the left of the wall cell.  Change the object list entry as follows:  Change the ÔxxŐ coordinate 
+to current value + 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
 
-4. Wall is on the West:  Place the object in the adjacent cell to the right of the wall cell.  Change the object list entry as follows:  Change the ÔxxŐ coordinate to current value - 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
+4. Wall is on the West:  Place the object in the adjacent cell to the right of the wall cell.  Change the object list entry as follows:  Change the ÔxxŐ coordinate 
+to current value - 1 to place the object on the wall cell.  Change the $50 to $64 (or $65 if you want to include an exit to secret level).
 
 MENU, MBAR and MUS# Resources
-The MENU resources are the replacement menus for the objects, walls and enemies in the game.  In addition to making the ÔLift ControlsŐ item in the Walls menu active, I have added an item for the ÔMaking Other Objects Lift ControlsŐ object.  It occurs in the Walls menu right after the ÔLift ControlsŐ item.  I have reorganized the menus, and even renamed one.  The menu titles are:  Walls,  Doors,  Items,  Treasures,  Weapons,  and Enemies.  The Treasures menu, besides containing the four treasure items, also contains the keys and health items.  The MBAR resource sets the order of the menus (the way they are placed in the menubar) so that the order matches the way I've listed them here.
+The MENU resources are the replacement menus for the objects, walls and enemies in the game.  In addition to making the ÔLift ControlsŐ item in the Walls menu active, 
+I have added an item for the ÔMaking Other Objects Lift ControlsŐ object.  It occurs in the Walls menu right after the ÔLift ControlsŐ item.  I have reorganized 
+the menus, and even renamed one.  The menu titles are:  Walls,  Doors,  Items,  Treasures,  Weapons,  and Enemies.  The Treasures menu, besides containing the four 
+treasure items, also contains the keys and health items.  The MBAR resource sets the order of the menus (the way they are placed in the menubar) so that the order 
+matches the way I've listed them here.
 
-The Music menu and associated MUS# resource are also included.  This menu will allow you to select from all of the level music resources in Wolfenstein for your levels.
+The Music menu and associated MUS# resource are also included.  This menu will allow you to select from all of the level music resources in Wolfenstein for your 
+levels.
 
 CODE Resource
-The CODE resource that makes it possible to install levels into 3rd Encounter Episode files is also included.  This resource is the ÔMainŐ resource from WolfEdit 1.1 that has 4 bytes patched to look for the file type MAPS instead of APPL.  If you install this resource, you won't be able to install levels into 1st or 2nd Encounters, so if you still want to be able to do that, save a copy of WolfEdit with the original ÔMainŐ CODE resource intact.
+The CODE resource that makes it possible to install levels into 3rd Encounter Episode files is also included.  This resource is the ÔMainŐ resource from WolfEdit 
+1.1 that has 4 bytes patched to look for the file type MAPS instead of APPL.  If you install this resource, you won't be able to install levels into 1st or 2nd Encounters, 
+so if you still want to be able to do that, save a copy of WolfEdit with the original ÔMainŐ CODE resource intact.
  
 RMAP and TMPL Resources
-These resources allow you to look at two of the resources in WolfEdit and four of the resources in the BRGR resource with a resource editor instead of the default Hex editor in ResEdit.  The first two were made by Lazaro Rojas.  They are the ÔPIC#Ő and ÔMUS#Ő TMPLs.  They are used to look at the PIC# and MUS# resources in WolfEdit.  Two of the TMPLs (and the associated entries in the RMAP resource) were created by someone else (I'm not quite sure who), and I got them from Lazaro Rojas.  They are the ÔĹĹĹĹŐ TMPL and the ÔÖÖÖÖŐ TMPL.  These templates are linked to the Map List (ÔĹĹĹĹŐ) and Music List (ÔÖÖÖÖŐ) BRGRs.  The last two (and their associated entries in the RMAP resource) I made.  They are the ÔWalLŐ and ÔSefLŐ TMPLs, and are linked to the Wall List (ÔWalLŐ) and Sound Effects List (ÔSefLŐ) BRGRs.
+These resources allow you to look at two of the resources in WolfEdit and four of the resources in the BRGR resource with a resource editor instead of the default 
+Hex editor in ResEdit.  The first two were made by Lazaro Rojas.  They are the ÔPIC#Ő and ÔMUS#Ő TMPLs.  They are used to look at the PIC# and MUS# resources in 
+WolfEdit.  Two of the TMPLs (and the associated entries in the RMAP resource) were created by someone else (I'm not quite sure who), and I got them from Lazaro Rojas. 
+ They are the ÔĹĹĹĹŐ TMPL and the ÔÖÖÖÖŐ TMPL.  These templates are linked to the Map List (ÔĹĹĹĹŐ) and Music List (ÔÖÖÖÖŐ) BRGRs.  The last two (and their associated 
+entries in the RMAP resource) I made.  They are the ÔWalLŐ and ÔSefLŐ TMPLs, and are linked to the Wall List (ÔWalLŐ) and Sound Effects List (ÔSefLŐ) BRGRs.
 
 Continued in next Chapter 
 
@@ -2610,9 +2931,23 @@ Continued in next Chapter
 Continued from last Chapter
 
 Installing the Resources
-To install the resources you want, use ResEdit (or another resource editor) to open a copy of WolfEdit 1.1 and WolfEdit Hacks.  If you want everything, simply select all of the resources in WolfEdit Hacks, copy them (from the EDIT menu), and paste them into WolfEdit 1.1.  When you are prompted to either use unique IDs, replace same IDs, or stop, choose replace same IDs.  Save WolfEdit 1.1 and quit.  You're now ready to use the updated WolfEdit 1.1.  If you are using the CODE resource, but still want to use the unmodified version (of that resource) for installing into 1st or 2nd Encounter, simply install all of the resources except the CODE resource into another copy of WolfEdit.  You might want to consider a naming convention so that you can remember which one is 3rd Encounter and which one is 1st and 2nd Encounter.  I used WolfEdit 1.1 (1st & 2nd Encs) and WolfEdit 1.1a (3rd Enc).  You can now also remove the More 2nd Enc Items file from the WolfEdit folder, since it's no longer necessary (and the prompt for it will go away).  Also, double-clicking a WolfEdit levels file seems to always run 1.1a on my system (the 3rd Enc installer), so I have to run WolfEdit 1.1 (1st & 2nd) and load the levels file from the File menu if I want to install the levels into 1st or 2nd Encounter.  You may see similar results.
+To install the resources you want, use ResEdit (or another resource editor) to open a copy of WolfEdit 1.1 and WolfEdit Hacks.  If you want everything, simply select 
+all of the resources in WolfEdit Hacks, copy them (from the EDIT menu), and paste them into WolfEdit 1.1.  When you are prompted to either use unique IDs, replace 
+same IDs, or stop, choose replace same IDs.  Save WolfEdit 1.1 and quit.  You're now ready to use the updated WolfEdit 1.1.  If you are using the CODE resource, 
+but still want to use the unmodified version (of that resource) for installing into 1st or 2nd Encounter, simply install all of the resources except the CODE resource 
+into another copy of WolfEdit.  You might want to consider a naming convention so that you can remember which one is 3rd Encounter and which one is 1st and 2nd Encounter. 
+ I used WolfEdit 1.1 (1st & 2nd Encs) and WolfEdit 1.1a (3rd Enc).  You can now also remove the More 2nd Enc Items file from the WolfEdit folder, since it's no longer 
+necessary (and the prompt for it will go away).  Also, double-clicking a WolfEdit levels file seems to always run 1.1a on my system (the 3rd Enc installer), so I 
+have to run WolfEdit 1.1 (1st & 2nd) and load the levels file from the File menu if I want to install the levels into 1st or 2nd Encounter.  You may see similar 
+results.
 
-Cicn IDs 1 to 7 are NOT to be copied to WolfEdit.  If you copy all resources, be sure to delete these from WolfEdit before you save and close.  These cicns are included as alternatives to the cicns I have used for those items.  The items are the daytime/nighttime landscape (5158) and the lift wall/control panel (5143).  Since each of these will produce a different wall in east/west orientation than the wall produced in north/south orientation, I decided it was best to use a split picture (half is one wall, the other half is the other wall).  I placed the day/night split cicn in the active cicn (5158) used in WolfEdit, but left the lift wall (5143) as the lift wall.  I thought that some of you may not like the way I had them, so I give you alternatives.  For the day/night, I give you night/day (3), just day (1), and just night (2) to choose from.  For the lift wall, I give you four options, lift wall/control panel (4), control panel/lift wall (5), lift wall (top)/control panel (bottom) (6), and control panel (top)/lift wall (bottom) (7). 
+Cicn IDs 1 to 7 are NOT to be copied to WolfEdit.  If you copy all resources, be sure to delete these from WolfEdit before you save and close.  These cicns are included 
+as alternatives to the cicns I have used for those items.  The items are the daytime/nighttime landscape (5158) and the lift wall/control panel (5143).  Since each 
+of these will produce a different wall in east/west orientation than the wall produced in north/south orientation, I decided it was best to use a split picture (half 
+is one wall, the other half is the other wall).  I placed the day/night split cicn in the active cicn (5158) used in WolfEdit, but left the lift wall (5143) as the 
+lift wall.  I thought that some of you may not like the way I had them, so I give you alternatives.  For the day/night, I give you night/day (3), just day (1), and 
+just night (2) to choose from.  For the lift wall, I give you four options, lift wall/control panel (4), control panel/lift wall (5), lift wall (top)/control panel 
+(bottom) (6), and control panel (top)/lift wall (bottom) (7). 
 
 
                                            WolfEdit 1.0 FAQ - Version 3
@@ -2637,25 +2972,31 @@ In the Second Encounter, which WolfEdit doesn't support yet.
 
 
 1 How do I set the starting position?
-Use one of the four "man pointing a gun" icons in the top left corner of the palette. Due to an oversight, there are no menu items for these.  The metal plate has no connection with the start position other than by convention.
+Use one of the four "man pointing a gun" icons in the top left corner of the palette. Due to an oversight, there are no menu items for these.  The metal plate has 
+no connection with the start position other than by convention.
 
 
 2 How do I create a lift?
-Use the Lift Control Panel item. You can only have a control panel which faces east or west - the north or south face will appear as a lift side panel, although it will work as a control panel. Similarly, a lift side panel viewed from the east or west will appear as a control panel, but won't work as one.
+Use the Lift Control Panel item. You can only have a control panel which faces east or west - the north or south face will appear as a lift side panel, although 
+it will work as a control panel. Similarly, a lift side panel viewed from the east or west will appear as a control panel, but won't work as one.
 
 
 3 Why does Wolfenstein run out of memory when I complete a level?
-Because you used the Get Info... box. Yes, this is a bug: changing anything with the Get Info box messes up the information telling Wolfenstein which level to play next.  This will be fixed in the next release.
+Because you used the Get Info... box. Yes, this is a bug: changing anything with the Get Info box messes up the information telling Wolfenstein which level to play 
+next.  This will be fixed in the next release.
 
 
 4 How do I work around number 3?
 (a) Don't use the Get Info... command.
 
-(b) If you know how to use ResEdit, you can repair a level which has been damaged by Get Info as follows: Open the level file and find the BRGR resource named "Map List". It consists of a 2-word header followed by a 5-word entry for each level.  The first 2 words of each entry should be FFFF FFFF. If they're not, make them that way. Then use WolfEdit to re-install the file and all should be well.
+(b) If you know how to use ResEdit, you can repair a level which has been damaged by Get Info as follows: Open the level file and find the BRGR resource named "Map 
+List". It consists of a 2-word header followed by a 5-word entry for each level.  The first 2 words of each entry should be FFFF FFFF. If they're not, make them 
+that way. Then use WolfEdit to re-install the file and all should be well.
 
 
 5 Why are the icons in the Apple and Application menus half their usual size?
-Because I was foolish enough to include a 16x16 cicn resource with and ID of 256 :-( This is Apple's fault, not mine. As far as I know it's a harmless oddity - don't worry about it.
+Because I was foolish enough to include a 16x16 cicn resource with and ID of 256 :-( This is Apple's fault, not mine. As far as I know it's a harmless oddity - don't 
+worry about it.
 
 
 6 Why do some of my guards and objects become invisible?
@@ -2672,7 +3013,8 @@ If you exceed these, you can expect weird things to happen.  The next version wi
 
 
 7 Why can I sometimes see objects through walls?
-This is a bug in Wolf 3D. If an object is close to a wall and you view the wall from a long distance away, it can get confused about which is in front. Moving the offending object further away from the wall may
+This is a bug in Wolf 3D. If an object is close to a wall and you view the wall from a long distance away, it can get confused about which is in front. Moving the 
+offending object further away from the wall may
 help.
 
 
@@ -2681,7 +3023,8 @@ Because its stack size is too small. Workaround: Don't fill more than about 1/4 
 
 
 9 Why does WolfEdit crash when I try to save or install?
-Maybe because you have a room that is too big. WolfEdit can also run out of stack space in this situation when you close, save or install a level. Workaround: Don't create such big rooms.  According to Burger Bill, this is fixed in the 3rd Encounter.
+Maybe because you have a room that is too big. WolfEdit can also run out of stack space in this situation when you close, save or install a level. Workaround: Don't 
+create such big rooms.  According to Burger Bill, this is fixed in the 3rd Encounter.
 
 Greg Ewing, Computer Science Dept, +--------------------------------------+
 University of Canterbury,          | A citizen of NewZealandCorp, a       |
@@ -2702,25 +3045,37 @@ NOTE:  STILL WORKING ON IT. IF YOU HAVE ANY IDEAS OR COMMENTS  PLEASE MAIL ME AT
 
 
 1. BUGS
-    A lot of people on the net have complained about disappearing bad guys, or see-through walls. Well, I've come into contact with a couple of these, and have solutions, and never come onto others but have theories.
+    A lot of people on the net have complained about disappearing bad guys, or see-through walls. Well, I've come into contact with a couple of these, and have solutions, 
+and never come onto others but have theories.
 
-    According to the level stats, there can be no more than 64 rooms.  You may not think that you'd use up these many, but remember that each room is a space completely enclosed on all sides.  That means, that those little one block hallways count as a room.  Might even mean that one square surrounded by blocks is a room, don't know.  At any rate, 64 rooms is a lot, and should be all means satisfy most people's needs.  I once tried to make a level which was a bunch of square rooms, and went over the 64 room limit.  What happens in that case is the doors that separate the rooms get stuck half open, making the two rooms only one.  You can't walk through the broken door, nor open it, but you can shoot through it.
+    According to the level stats, there can be no more than 64 rooms.  You may not think that you'd use up these many, but remember that each room is a space completely 
+enclosed on all sides.  That means, that those little one block hallways count as a room.  Might even mean that one square surrounded by blocks is a room, don't 
+know.  At any rate, 64 rooms is a lot, and should be all means satisfy most people's needs.  I once tried to make a level which was a bunch of square rooms, and 
+went over the 64 room limit.  What happens in that case is the doors that separate the rooms get stuck half open, making the two rooms only one.  You can't walk 
+through the broken door, nor open it, but you can shoot through it.
 
-    The invisible wall problem is a very simple one in most cases.  Any secret door can be viewed only on the side that can be pushed.  Well, actually, all sides can be pushed, but only the wall is drawn on one side.  So make sure that the secret doors always point away from you, and that you can't get to the other side without using the door.
+    The invisible wall problem is a very simple one in most cases.  Any secret door can be viewed only on the side that can be pushed.  Well, actually, all sides 
+can be pushed, but only the wall is drawn on one side.  So make sure that the secret doors always point away from you, and that you can't get to the other side without 
+using the door.
 
-    I have no idea what the problem is with the disappearing bad guys is, but I'm sure it has something to do with the number of objects (not just bad guys, but tables, ammo, and flags, etc..) on screen at one time.  It might help if you turn the music off, or use a smaller screen.  On my IIsi, smallest screen, no music, I've never seen any bad guys
+    I have no idea what the problem is with the disappearing bad guys is, but I'm sure it has something to do with the number of objects (not just bad guys, but 
+tables, ammo, and flags, etc..) on screen at one time.  It might help if you turn the music off, or use a smaller screen.  On my IIsi, smallest screen, no music, 
+I've never seen any bad guys
 disappear.
 
  
 2. FUN WITH SECRET DOORS
-    Secret doors have got to be the spiffiest thing about Wolf3D.  However, they are also easy to screw up.  I've seen several level files where there is a secret door, but no block behind it.  This makes the door move back two spaces, and disappear, but still act as a block.
+    Secret doors have got to be the spiffiest thing about Wolf3D.  However, they are also easy to screw up.  I've seen several level files where there is a secret 
+door, but no block behind it.  This makes the door move back two spaces, and disappear, but still act as a block.
 
 +--+--=--=--=--=--=--=--+--+  Let's say this is a simple map section.  The -> block is the secret
 |->|   XX    [] [] [] []|%%|  door. The XX is where the door disappears and becomes a block. The []
 +--+--=--=--=--=--=--=--+--+  is ammo. Because of the funny way secret doors are, the ammo will be
                               able to be seen through the door, but not be able to be gotten. Sucks.
 
-    So try, and put a block 2 blocks behind the door so that the door has something to disappear into.  This also helps level makers make sure that all items are gettable, and saves some stupid mistakes.  I once made a level where a door went back into empty space, and it was like a giant invisible wall was there.  This can be used for some spiffy effects tho, like putting a secret door over empty space, makes an invisible barrier that can be pushed.
+    So try, and put a block 2 blocks behind the door so that the door has something to disappear into.  This also helps level makers make sure that all items are 
+gettable, and saves some stupid mistakes.  I once made a level where a door went back into empty space, and it was like a giant invisible wall was there.  This can 
+be used for some spiffy effects tho, like putting a secret door over empty space, makes an invisible barrier that can be pushed.
 
     Also in the fun world of secret doors: Did you know that secret doors can be nested? Really,
 
@@ -2737,23 +3092,28 @@ disappear.
 
 
 3. MEAN TRICKS
-      A really great trick to really piss off the player is to make the lift a secret door.  After going through a long and grueling battle on the level, and finally getting to the lift, and finding out that there is more music to be faced.  Or you can make a fake lift, without the control panels, so it just doesn't work.
+      A really great trick to really piss off the player is to make the lift a secret door.  After going through a long and grueling battle on the level, and finally 
+getting to the lift, and finding out that there is more music to be faced.  Or you can make a fake lift, without the control panels, so it just doesn't work.
 
     MORE LATER
 
 
 4. SOME SPIFFY IDEAS
-    Split the level into different parts.  There are two different keys, so make the players find one key, then go back and go through a previously locked door, and find the other key.  A good obstacle in the way of the yellow key is always the Big Blue Guy(tm).
+    Split the level into different parts.  There are two different keys, so make the players find one key, then go back and go through a previously locked door, 
+and find the other key.  A good obstacle in the way of the yellow key is always the Big Blue Guy(tm).
 
     MORE LATER
 
  
 5. OTHER MISC TIPS
-    Always make the elevators face in an E/W Left/Right direction.  The wall has the controls on the left and right sides, and the elevator gray wall thing on the top and bottom sides. So the controls should face the player sideways.
+    Always make the elevators face in an E/W Left/Right direction.  The wall has the controls on the left and right sides, and the elevator gray wall thing on the 
+top and bottom sides. So the controls should face the player sideways.
 
-    Don't skimp on ammo. Most players are gonna play to shoot bad guys.  Unless you really want the player to run around with a knife, place lots of ammo, or bad guys.  Too much ammo is better than too little.
+    Don't skimp on ammo. Most players are gonna play to shoot bad guys.  Unless you really want the player to run around with a knife, place lots of ammo, or bad 
+guys.  Too much ammo is better than too little.
 
-    Dogs don't give ammo, so put a lot of them on a level short on ammo.  If the player is smart, he/she will use a knife to kill them, or else be out of ammo.  Plus, they make a cool sound when they die.
+    Dogs don't give ammo, so put a lot of them on a level short on ammo.  If the player is smart, he/she will use a knife to kill them, or else be out of ammo.  
+Plus, they make a cool sound when they die.
 
 From: Sean Howard
 Subject: Guide to Making Wolf3D levels
@@ -2781,10 +3141,12 @@ Doug Ingram -- ingram@u.washington.edu // "Carpe Datum"
 ACGW: WolfEdit 1.1 Usage Notes
 
 About WolfEdit
-The splash screen in WolfEdit 1.1 has 3 screens of information, as a means of including some rudimentary usage notes.  While it doesn't cover everything (Greg assumes you'll be able to understand most things intuitively), it does cover some of the less understood aspects of level creation.
+The splash screen in WolfEdit 1.1 has 3 screens of information, as a means of including some rudimentary usage notes.  While it doesn't cover everything (Greg assumes 
+you'll be able to understand most things intuitively), it does cover some of the less understood aspects of level creation.
 
 File Menu
-The File menu is basically the same as most other File menus.  However, there are two items that need a little explanation.  The splash screen mentions this, but doesn't (in my opinion) make it clear without re-reading it a couple of times.  So, for clarity, I include the item descriptions here.
+The File menu is basically the same as most other File menus.  However, there are two items that need a little explanation.  The splash screen mentions this, but 
+doesn't (in my opinion) make it clear without re-reading it a couple of times.  So, for clarity, I include the item descriptions here.
 
      Install         This item allows you to install all of the levels in the current file into 1st or 2nd
                            Encounters.
@@ -2795,7 +3157,8 @@ Edit Menu
 The Edit menu includes the standard items:  Undo, Cut, Copy, Paste and Clear.
 
 Levels Menu
-The Levels menu includes two sets of items.  The first set is for creating a new level, opening the currently selected level, and setting attributes of a level.  The second set is for placement of the starting position in the current level.
+The Levels menu includes two sets of items.  The first set is for creating a new level, opening the currently selected level, and setting attributes of a level. 
+ The second set is for placement of the starting position in the current level.
 
      New Level   is always active.  When no level is currently being edited, this item creates a new level and
                            opens it for editing.
@@ -2859,9 +3222,12 @@ The Levels menu includes two sets of items.  The first set is for creating a new
                           other music items to the popup menu.
 
 Walls, Furniture, Items, Treasures, Enemies and Doors Menus
-These menus contain most of the items in the cicn list (top of the window).  They are linked to the cicn list, in that when you select a cicn the associated item in one of the menus is checked, and when you select an item from one of the menus the associated cicn is selected.  However, the original menus are incomplete, and the Lift Controls item in the Walls menu is inactive.  There is no menu item for the floor space (the ÔblankŐ cicn in the upper left corner of the window).
+These menus contain most of the items in the cicn list (top of the window).  They are linked to the cicn list, in that when you select a cicn the associated item 
+in one of the menus is checked, and when you select an item from one of the menus the associated cicn is selected.  However, the original menus are incomplete, and 
+the Lift Controls item in the Walls menu is inactive.  There is no menu item for the floor space (the ÔblankŐ cicn in the upper left corner of the window).
 
-In the replacement cicns (and hacks) file I have compiled, I have included replacements for these menus.  The main differences are the organization.  The menus I include are:  Walls, Doors, Items, Treasures, Weapons and Enemies.
+In the replacement cicns (and hacks) file I have compiled, I have included replacements for these menus.  The main differences are the organization.  The menus I 
+include are:  Walls, Doors, Items, Treasures, Weapons and Enemies.
 
      The Walls menu includes all of the walls, as well as the Lift Controls (active), and the Other Lifts object.
      The Doors menu includes all of the doors, including secret doors.
@@ -2876,7 +3242,10 @@ In the replacement cicns (and hacks) file I have compiled, I have included repla
 	  
 	  
 Foreward
-When I registered the 1st Encounter game and received the 2nd Encounter game, I already knew that I wanted the 3rd Encounter game.  When I finally received the 3rd Encounter game, I had already found out about the commercial 90-level game.  In checking it out, I found out that the commercial game was essentially 2nd and 3rd Encounters in one game.  I had ResEdit, so I decided to see how difficult it would be to add the 2nd Encounter levels to the 3rd Encounter game.  It turned out to be even easier than I thought it would be.
+When I registered the 1st Encounter game and received the 2nd Encounter game, I already knew that I wanted the 3rd Encounter game.  When I finally received the 3rd 
+Encounter game, I had already found out about the commercial 90-level game.  In checking it out, I found out that the commercial game was essentially 2nd and 3rd 
+Encounters in one game.  I had ResEdit, so I decided to see how difficult it would be to add the 2nd Encounter levels to the 3rd Encounter game.  It turned out to 
+be even easier than I thought it would be.
 
 Ę
 
@@ -2892,9 +3261,11 @@ When I registered the 1st Encounter game and received the 2nd Encounter game, I 
 
 
 Adding Wolfenstein 3DŞ 2nd Encounter Levels to Wolfenstein 3DŞ 3rd Encounter
-So, you've gotten 2nd Encounter and 3rd Encounter, and you want to add the levels from 2nd Encounter to 3rd Encounter so that you don't have to keep 2 huge games on your hard drive at the same time!
+So, you've gotten 2nd Encounter and 3rd Encounter, and you want to add the levels from 2nd Encounter to 3rd Encounter so that you don't have to keep 2 huge games 
+on your hard drive at the same time!
 
-Have no fear, the answer is here!  Wolfenstein 3DŞ 3rd Encounter uses external files (known as Episode Files) to store the data for the levels so that each episode is usable separately (avoiding having to have so many levels in memory at once).  These episode files have a creator code of WOLF and a file type of MAPS.
+Have no fear, the answer is here!  Wolfenstein 3DŞ 3rd Encounter uses external files (known as Episode Files) to store the data for the levels so that each episode 
+is usable separately (avoiding having to have so many levels in memory at once).  These episode files have a creator code of WOLF and a file type of MAPS.
 
 Ę
 
@@ -2913,7 +3284,8 @@ Have no fear, the answer is here!  Wolfenstein 3DŞ 3rd Encounter uses external 
 
 
 
-If you don't have a resource editor such as ResEdit, you won't be able to do this, but for those of you who do, here's what to do to add the 2nd Encounter levels to 3rd Encounter.
+If you don't have a resource editor such as ResEdit, you won't be able to do this, but for those of you who do, here's what to do to add the 2nd Encounter levels 
+to 3rd Encounter.
 
 NOTE:  The following assumes you are using ResEdit.  You'll have to adapt if you're using another resource editor.
 
@@ -2930,7 +3302,10 @@ First, create a new resource file in the Levels folder in the Wolfenstein 3DŞ f
 
 
 
-Before doing anything else, Get File Info on the new untitled file you just created and change the file type to MAPS (case specific) and the creator code to WOLF (case specific).  While you are there, name the file something unique (I named mine 7 Castle Wolfenstein, using the file naming convention used by Wolfenstein).  Set the No INITs  checkbox so that it is marked.  NOTE: The Inited  checkbox will be handled by the Finder, so don't worry about setting it.  Now close the info window and save the changes.
+Before doing anything else, Get File Info on the new untitled file you just created and change the file type to MAPS (case specific) and the creator code to WOLF 
+(case specific).  While you are there, name the file something unique (I named mine 7 Castle Wolfenstein, using the file naming convention used by Wolfenstein). 
+ Set the No INITs  checkbox so that it is marked.  NOTE: The Inited  checkbox will be handled by the Finder, so don't worry about setting it.  Now close the info 
+window and save the changes.
 
 Ę
 
@@ -2969,7 +3344,10 @@ Next, it is time to create some resources.  The levels files used by Wolfenstein
 
 
 The PICT Resource
-We'll deal with the PICT resource first.  The PICT resource contains one item: the picture that will be displayed in the episode selection window in Wolfenstein 3DŞ when you hilite the selection.  I'm no artist, so I just used the same PICT resource that is contained in the file 1 Escape from Wolfenstein.  You may do this also, or you can create a PICT to use yourself.  The size of the picture rectangle is 96x64.  The rectangle area includes a 1-pixel white space around it instead of being right on the black outline.  (Thanks to Lazaro Rojas for this information.)
+We'll deal with the PICT resource first.  The PICT resource contains one item: the picture that will be displayed in the episode selection window in Wolfenstein 
+3DŞ when you hilite the selection.  I'm no artist, so I just used the same PICT resource that is contained in the file 1 Escape from Wolfenstein.  You may do this 
+also, or you can create a PICT to use yourself.  The size of the picture rectangle is 96x64.  The rectangle area includes a 1-pixel white space around it instead 
+of being right on the black outline.  (Thanks to Lazaro Rojas for this information.)
 
 Ę
 
@@ -2987,7 +3365,9 @@ We'll deal with the PICT resource first.  The PICT resource contains one item: t
 
 
 
-One thing, though.  The PICT in the resource item must have an ID of 1, and must contain a name.  The name is used to add the entry to the list of available games in the episode selection window of Wolfenstein 3DŞ.  I gave mine the same name as the file I created (again following the naming convention used by Wolfenstein 3DŞ); 7 Castle Wolfenstein.
+One thing, though.  The PICT in the resource item must have an ID of 1, and must contain a name.  The name is used to add the entry to the list of available games 
+in the episode selection window of Wolfenstein 3DŞ.  I gave mine the same name as the file I created (again following the naming convention used by Wolfenstein 3DŞ); 
+7 Castle Wolfenstein.
 
 Ę
 
@@ -2999,7 +3379,10 @@ One thing, though.  The PICT in the resource item must have an ID of 1, and must
 
 
 The BRGR Resource
-Next, we need to create the BRGR resource.  First, copy the resource item Signature from one of the other levels files, or create one yourself.  The resource item has an ID of 1, and a name of Signature (case specific), and contains the following text string (case specific): Wolf 3D (don't forget the space between Wolf and 3D).  If you create this resource item, you'll have to create the resource itself, so specify a resource type of BRGR.  Copying the Signature item from one of the other levels files will create the resource type for you.
+Next, we need to create the BRGR resource.  First, copy the resource item Signature from one of the other levels files, or create one yourself.  The resource item 
+has an ID of 1, and a name of Signature (case specific), and contains the following text string (case specific): Wolf 3D (don't forget the space between Wolf and 
+3D).  If you create this resource item, you'll have to create the resource itself, so specify a resource type of BRGR.  Copying the Signature item from one of the 
+other levels files will create the resource type for you.
 
 Ę
 
@@ -3025,7 +3408,8 @@ Next, we need to create the BRGR resource.  First, copy the resource item Signat
 
 
 
-Next, open the resource fork to Wolfenstein 3DŞ 2nd Encounter, and open the BRGR resource.  You'll need to copy the following resource items from here to the new file:
+Next, open the resource fork to Wolfenstein 3DŞ 2nd Encounter, and open the BRGR resource.  You'll need to copy the following resource items from here to the new 
+file:
 
  ID    Name
 -----  ---------------------
@@ -3040,7 +3424,9 @@ Next, open the resource fork to Wolfenstein 3DŞ 2nd Encounter, and open the BRG
   .
  229   (Map29, though not named in the resource)
 
-The Sound effect list (135), WallList (137),  GamePal (145), and Music List (147) resource items don't HAVE  to be copied.  Wolfenstein 3D 3rd Encounter already includes these resource items.  I state them here, and advise copying all relevant resources, to maintain convention with the design of the original episode files.
+The Sound effect list (135), WallList (137),  GamePal (145), and Music List (147) resource items don't HAVE  to be copied.  Wolfenstein 3D 3rd Encounter already 
+includes these resource items.  I state them here, and advise copying all relevant resources, to maintain convention with the design of the original episode files.
+
  
 Ę
 
@@ -3096,19 +3482,22 @@ Once you've copied these resource items to the new file, close the 2nd Encounter
 
 You're Done
 
-You're done.  Try it out!  You'll see a 7th game added to the episode selection window, and if you select it, you'll see the PICT that you placed in the PICT resource.  And when you play, you'll think you're playing the 2nd Encounter game (because you are!).
+You're done.  Try it out!  You'll see a 7th game added to the episode selection window, and if you select it, you'll see the PICT that you placed in the PICT resource. 
+ And when you play, you'll think you're playing the 2nd Encounter game (because you are!).
 
 Ę
 
 
 
 Acknowledgements
-The QuickTime movie was created using the graphic pictures from the intermission screen in Wolfenstein 3DŞ and an unregistered copy of the shareware utility MooVer 1.0 © 1994 by Eduard Schwan.
+The QuickTime movie was created using the graphic pictures from the intermission screen in Wolfenstein 3DŞ and an unregistered copy of the shareware utility MooVer 
+1.0 © 1994 by Eduard Schwan.
 
 Wolfenstein 3DŞ is a trademark of and is © 1992 id Software, Inc. and the Macintosh version is © 1994 by MacPlay
 Macintosh and QuickTime are trademarks of Apple Computer, Inc.
 
-The data resources described in this document are proprietary in nature, and this document is not intended or designed to authorize anyone to modify the product(s) named therein for distribution.
+The data resources described in this document are proprietary in nature, and this document is not intended or designed to authorize anyone to modify the product(s) 
+named therein for distribution.
 
 This document is soley for those users of Wolfenstein 3DŞ for the Macintosh who wish to modify their own personal copy(s) for their own use!
 
@@ -3131,7 +3520,9 @@ And all of the other Hack Authors, Wolf Players, and Level Makers who I can't na
 
                                         3rd Party Episodes & Levels
 
-The following is a list of all of the 1st & 2nd Encounter WolfEdit levels files and 3rd Encounter episode files I have found.  Lazaro Rojas, because of the work he has put into advertisment of his episodes and levels is listed first.  After that is a detailed list of levels by author, followed by the unknown author list.
+The following is a list of all of the 1st & 2nd Encounter WolfEdit levels files and 3rd Encounter episode files I have found.  Lazaro Rojas, because of the work 
+he has put into advertisment of his episodes and levels is listed first.  After that is a detailed list of levels by author, followed by the unknown author list.
+
 
 
 3rd Encounter episodes from Lazaro Rojas (also available in WolfEdit files for insertion into 2nd Encounter):
