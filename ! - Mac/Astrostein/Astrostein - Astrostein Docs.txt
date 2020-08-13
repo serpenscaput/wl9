@@ -1,0 +1,153 @@
+THE STORY
+
+It was the summer of 1943. and you were deep behind enemy lines on a top secret mission to infiltrate a Nazi stronghold. Unfortunately, the information given to you by headquarters was incomplete, and before you knew it, you had been captured. The last thing you remember before the lights went out was the sight of a Luger just about to meet your right temple.
+
+Two weeks ago, you regained consciousness, only to wake up in the strangest surroundings you'd ever seen. Smooth metal walls lined the interior of your small cell, and instead of a door, a curtain of light that hurt like an electric shock everytime you touched it blocked your way out. Wherever this was, it certainly wasn't a prison in Germany. Even your captors looked strange, wearing uniforms and sidearms you were completely unfamiliar with. Only the insignias emblazoned on their chests, and the gutteral German phrases they spoke, revealed they were Nazis at all. Whatever was going on. it certainly looked like the boys back at Allied Intelligence weren't doing their job.
+
+For two weeks, you went along with it, confined to your cell and eating the small meals brought to you once a day. And as you bided your time and put together bits and pieces of overheard conversation, the terrible truth eventually dawned on you. This was no longer 1943, but 2043! Following your capture back in Germany, you were placed into suspended animation for use in some twisted medical experiments. The installation where you were kept was abandoned and you were forgotten, and Germany went on to win the war. Now, a century later, the Nazis not only rule earth, they're extending their reign of terror across the solar system, and you've been revived and placed aboard a spaceship for transport to a penal colony in the asteroid belt. That's as much as you've been able to find out. and it's more than enough. You have absolutely no idea how to get back to your own time, but one thing's for sure. Somehow, you've got to get off this ship and get back to earth. If you can make it to the hangar deck, you might be able to steal a shuttle and use it to get to the Nazis' base on the moon, and from there, find a way back to earth. But first you've got to figure out how to get past that blasted curtain of light!
+
+THE GOAL
+Your objective is relatively simple: break out of your cell, find a shuttle and leave the ship, killing everyone and everything that gets in jour way. Although there are various hangars throughout the vessel, the only available shuttle is located outside the ship, attached to a docking port. When you reach the shuttle, however, you will find you cannot board it. Launching the shuttle requires clearance from the bridge, so you must continue all the way there and kill the captain before returning to the docking port. Once you leave the bridge, however, any remaining personnel onboard will try everything at their disposal to block your way to the shuttle.
+A FEW TIPS
+
+Remember the locations of locked rooms, as they may be located quite a distance from the keys that open them. They may also contain items absolutely essential to your survival.
+
+Even when you don't need certain items, remember where they're located. You may need them later.
+
+Some keys are located behind forcefields. In these situations, search the immediate area for a secret door. Some keys, however, are ruses.
+
+Some items, such as weapons and ammunition, may be kept behind forcefields, so always search for secret doors in the area. Some items, however, are unreachable.
+
+Some elevators aboard the ship are currently not in service.
+
+Listen for doors opening and closing. Silent alarms may alert enemies in areas not in your immediate vicinity, and they'll be looking for you.
+
+Empty closets can be deceptive. Some of them contain secret doors.
+
+Try to allocate at least 6000K to Wolfenstein.
+
+SOME KEY LOCATIONS ABOARD SHIP
+
+
+FLOOR 1-1: DETENTION LEVEL
+
+FLOOR 1-2: CARGO HOLDS
+
+FLOOR 1-3: CREW QUARTERS
+
+FLOOR 2-1: JUNIOR OFFICERS' QUARTERS
+
+FLOOR 2-2: SECURITY SECTION
+
+FLOOR 2-5: MAIN HANGAR DECK
+
+FLOOR 3-2: MAIN ENGINEERING
+
+FLOOR 3-4: MAIN SICKBAY
+
+FLOOR 4-1: AUXILIARY CONTROL
+
+FLOOR 4-2: EMERGENCY BRIDGE, SHIP'S COMPUTER
+
+FLOOR 4-4: RECREATION LOUNGE
+
+FLOOR 4-5: DOCKING PORT
+
+FLOOR 5-1: OFFICERS' QUARTERS
+
+FLOOR 5-3: OBSERVATION LOUNGE
+
+FLOOR 5-5: MAIN BRIDGE
+
+WEAPONS AND AMMO
+
+LASER RIFLE
+The standard sidearm of all shock troopers, these automatic weapons fire short bursts of pulsed energy.
+
+REPEATER
+Capable of sustained fire, these weapons pick up where the rifle left off, but they deplete energy reserves at a very fast pace.
+
+PLASMA CANNON
+These potent weapons can fire large bursts of plasma in quick succession and have no range limit.
+
+PHOTON CANNON
+The most powerful weapon in the Nazi arsenal, these cannons shoot powerful bolts of photon energy.
+
+POWER PACK
+Standard issue recharge for the laser-based weapons: pistol, rifle, and repeater. Good for five bursts.
+
+LARGE POWER PACK
+Larger recharge for laser-based weapons. Good for twenty-five bursts.
+
+PLASMA RECHARGE
+Recharge for the plasma cannon. Good for fourteen blasts.
+
+PHOTON RECHARGE
+Recharge for the photon cannon. Good for five blasts.
+
+BACKPACK
+Increases the amount of ammo you can carry, and also contains four power packs, four blasts for the plasma cannon and five blasts for the photon cannon.
+
+OTHER ITEMS
+
+BOOSTER PACK
+Gives a 4% boost to your health.
+
+DINNER
+Gives a 10% boost to your health. Usually found in mess halls and crew quarters.
+
+MEDKIT
+Gives a 25% boost to your health. Large stockpile in sickbay.
+
+ONE-UP
+Restores your health to 100% and gives you an extra life.
+
+ELECTRONIC KEYS
+Some areas aboard ship are restricted to unauthorized personnel. These cards will open all locked doors.
+
+ALIEN ARTIFACT
+Strange and valuable crystals collected by the Nazis on their conquests. Picking up 50 of them in any one level will give you a free life.
+
+ASTROSTEIN ENEMIES
+
+DEFENSE DRONE
+The electronic equivalent of a guard dog, these machines can usually be found patrolling along corridors.
+
+CREWMAN
+Assigned to carry out most regular ship functions, these non-coms are rather wimpy, but they're all over the place.
+
+SHOCK TROOPER
+Standard members of planetary assault teams, these guys wear blast-proof visors and carry laser rifles.
+
+OFFICER
+These are the guys in charge, usually found on upper decks and on the bridge. Smart and quick, they're not afraid to jump into the fight.
+
+COMMANDO
+These guys may look like regular crewmen, but they're far more dangerous. Their duties range from providing security to participating in planetary raids.
+
+LEVEL 1 SECURITY DROID
+Charged with shipboard security, these robots are programmed to wipe out any intruders. Armed with two pulse laser cannons and duranite shielding, they make a formidable adversary.
+
+LEVEL 2 SECURITY DROID
+A lot nastier than level one, and with twice the shielding and firepower
+
+HIGH-LEVEL DEFENSE DRONE
+Faster and far more powerful than their weaker brothers, these machines will mercilessly hunt down and destroy all intruders.
+
+UBERTROOPER
+Boasting a personal forcefield and shoulder-mounted plasma cannons, these guys are far worse than the regular versions.
+
+MEDICAL DROID
+Usually found in sickbay, these machines are trained to saved lives -- except yours.
+
+ENERGY ENTITY
+Completely non-corporeal, they cannot be killed. Coming into contact with one is like getting an electric shock.
+
+LASER TURRET
+Part of the ship's security system, these ceiling-mounted weapons are as dangerous as mobile enemies.
+
+CAPTAIN
+The head honcho. He likes to run a tidy ship... but he doesn't mind smearing it with your blood.
+
+SENTINEL
+Don't let their size fool you. These small probes pack quite a wallop, and their special shielding makes them indestructible.
