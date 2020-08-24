@@ -1,0 +1,51 @@
+Ę
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strangestein II was created with
+ Stratavision 3D 4.0, Photoshop 5.5
+     WolfEdit  2.0.4 , ResEdit 2.1.3 and SoundAppPPC. This scenario
+ has fourteen levels
+with new graphics and sounds,
+ and it is free .
+     Comments, suggestions,  e-mail me 
+George Rodriguez at:
+j58roldan@yahoo.com
+
+
+
+I Changed some images and sounds from the original game. To be able to play the scenario with the new sounds and graphics you will have to do the following:
+
+Installing the patch
+Ą Make a copy of Wolfenstein 3d third encounter
+Ą Open it with Res Edit (Wich memory i had increased to 1000k).
+Ą Select and delete the following resources
+  ˇPICT
+  ˇcsnd
+  ˇsnd
+Ą Open Strangestein scrc.
+Ą individualy copy and paste into Wolfenstein 3d the         
+   csnd,PICT and snd resources.
+Ą Save and close your copy of Wolfenstein 3D.
+Ą Play on!
