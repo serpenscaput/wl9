@@ -1,0 +1,36 @@
+^P
+^c[Brick]										UPOZORNENIE
+^c00
+
+Tato hra je parodia a vsetky postavy v nej su fiktivne. V ziadnom pripade nejde o propagaciu nasilia. Pouzivajte zdravy rozum!
+
+Prijemnu zabavu a vela padlych nackov!
+
+^P
+^G16 16 [BLAZE]
+^C00Pise sa rok 2016. Si kapitan Martin "B.J." Poliatschik, spickovy slnieckarsky spion. Dostal si za ulohu zistit o tajnom projekte fasistov znamom len pod krycim nazvom "Jebem tvojho Alaha". Na projekte sa pracuje v pevnosti Mazurhammer.
+
+Vysetrovanie vsak neprebehlo podla planu.
+^P
+^G16 16 [CASTLE]
+^c00Na ceste do pevnosti Mazurhammer ta zajali gardisti a priviedli do hradu Kotlebstein na vypocuvanie a popravu. Ziaden zajatec este neutiekol z hradu Kotlebstein. Budes prvy?
+
+Pocujes strazcu ako ide po chodbe k tvojej cele. Dopijes latte, zovries past a pripravujes sa na utok...
+
+^P
+^C[Olive]QUICK COMMAND REFERENCE
+^c00
+Arrows move. Ctrl shoots. Alt strafes. 1-4 select weapons.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to Desktop
+,			 Strafe left
+.			 Strafe right
+
+^E

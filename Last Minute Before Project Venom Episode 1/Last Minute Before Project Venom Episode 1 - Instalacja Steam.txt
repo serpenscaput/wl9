@@ -1,0 +1,6 @@
+Wystarczy posiadaæ Wolfensteina 3D wiêc tak
+warto przenieœæ swój plik "dosbox.exe" do innego folderu
+a folder "Last Minute Before Project Venom" skopiuj do
+Steam/steamapps/common/Wolfenstein3D/base i wklej 
+Last Minute Before Project Venom.exe i zamieñ jego nazwê
+na dosbox.exe i co¿ Ciesz siê! :D

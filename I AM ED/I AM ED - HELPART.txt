@@ -1,0 +1,196 @@
+^P^
+^C[Red]QUICK COMMAND REFERENCE
+^c[Black]
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Pussy Mode
+
+Read on for more information.
+^P^
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+
+^C[DarkRed]All mods (except VINTAGE) require the latest dev version of ECWolf
+
+^C[Red]COMPILATIONS
+
+^C[DarkBlue]WOLFPAK 1 ^c[Black]- a compilation of my early levels, made from 1996-2006
+
+^C[DarkBlue]WOLFPAK 2 ^c[Black]- a compilation of vanilla Wolf3D mods, made from 1993-2001 (hi-res)
+
+^C[DarkBlue]SPEARPAK ^c[Black]- Like "WOLFPAK 2", this is a compilation of old school Spear mapsets.
+^P
+^C[Red]VINTAGE
+
+^C[DarkBlue]Gorenstein 3D (1999) ^c[Black]- My very first mod ever!  From wayyyyy back in 1999, and filled with terrible modified graphics, once again defeat Hitler and save the day!  Replaces Episode 3 in registered Wolf3D.
+
+^C[DarkBlue]Hodge Podge 3D (2000) ^c[Black]- A VSWAP replacement, made up of even more terrible graphics!
+
+^C[DarkBlue]Technostein SSD (2000) ^c[Black]- Another VSWAP replacement made up of yet even MORE terrible graphics!
+^P
+^C[Red]VINTAGE
+
+^C[DarkBlue]Gorenstein II: The Gore Spear (2000) ^c[Black]- Another VSWAP replacement?!  This time for SOD, and was meant for a project that never started.  Idea recycled in next mod.
+
+^C[DarkBlue]Gorenstein 2: The Attack of Josef Hitler (2001) ^c[Black]- An episode 1 replacement, meant to be much bigger, but was eventually halted.  Has a few code changes by Brian Lowe and many new graphics from various sources.
+^P
+^C[Red]VINTAGE
+
+^C[DarkBlue]Heil Hitler!!! (2001) ^c[Black]- A 4 level demo of a mod that never came to be.  Features a modified source code by Brian Lowe and many new sprites and textures, mostly from WolfenDOOM mods.
+
+^C[DarkBlue]The Nuremburg Projects (2001) ^c[Black]- 60 Wolf Creator-generated levels.  I don't like claiming this one.  Let's forget this ever existed.
+^P
+^C[Red]VINTAGE
+
+
+
+^C[DarkBlue]SamWolf 3D (2006) ^c[Black]- the culmination of my vintage Wolf3D modding experiences (which wasn't great).  30 new levels and a new source code by Brian Lowe.  This represents the end of my first era of Wolf3D modding, in which I wouldn't return for 8 years.
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ASTROSTEIN (Spifferaneous) ^c[Black]- A conversion of Spiff's version of Astrostein.(now available in Special Edition)
+
+^C[DarkBlue]DIE HIMMLER DIE! ^c[Black]- A conversion of the Mac scenario, PC Compatible  
+
+^C[DarkBlue]THE RENOVATION ^c[Black]- A conversion of BJ Rowan's 1994 level set to ECWolf
+
+^C[DarkBlue]HALTEN SIE! ^c[Black]- A conversion of Halten Sie to ECWolf, available in low or hi-res
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]SECOND ENCOUNTER ^c[Black]- A hi-res version of Executor's port of the Mac Family levels
+
+^C[DarkBlue]CONFLICT IN THE FATHERLAND ^c[Black]- A conversion of BJ Rowan's 1999 level set to ECWolf
+
+^C[DarkBlue]AMERIKA THE BEAUTIFUL ^c[Black]- A fix for the original Mac scenario, PC Compatible
+
+^C[DarkBlue]WOLFBEL ^c[Black]- A conversion of Brian Lowe's level sets to ECWolf
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ASTROSTEIN ^c[Black]- A conversion of Laz's original Mac scenario (now available in Special Edition)
+
+^C[DarkBlue]ASTROSTEIN 2 ^c[Black]- A conversion of Laz's original Mac scenario
+
+^C[DarkBlue]ASTROSTEIN 3 ^c[Black]- A conversion of Laz's original Mac scenario
+
+^C[DarkBlue]HITLER'S GRAVEYARD ^c[Black]- A conversion of Laz's original Mac scenario
+^P
+^C[Red]CONVERSIONS
+
+^C[DarkBlue]ESCAPE FROM TOTENHAUS ^c[Black]- This is actually 4 different conversions.  2 for the PC version, one original and one Hi-Res, and also a port of both the original Mac version and the remastered Mac version!
+
+^C[DarkBlue]CLAW OF EISENFAUST ^c[Black]- A conversion of the SNES version of Wolf3D, complete with shitty censorship!  Featured on PCGAMER.COM!
+^P
+^C[Red]RESOURCE PACKS
+
+^C[DarkBlue]EC_WL6 ^c[Black]- A base project for ECWolf, containing extra stuff from Spear of Destiny, DECORATE weapons, and ECWolf specific features already enabled, such as remote controlled doors and ROTT elevators! Also available in a LITE version without the DECORATE stuff.  Includes a PK3 and a WDC map definition.
+
+^C[DarkBlue]EC_NOAH ^c[Black]- A similar project for S3DNA, including a base PK3 and a WDC map def.  Also includes flats from NOAHPAK.
+^P
+^C[Red]RESOURCE PACKS
+
+
+^C[DarkBlue]EC_MACWOLF ^c[Black]- A base project for ECWolf like EC_WL6, this time using MacWolf as a base.  Also includes an extra pk3 containing the assets for use with the PC base files.
+
+^C[DarkBlue]EC_SNES ^c[Black]- Yet another base project, this time using the SNES assets.  WDC def is identical to EC_MACWOLF, but is 100% compatible.
+^P
+^C[Red]RESOURCE PACKS
+
+^C[DarkBlue]ECWolf DECORATE Pack ^c[Black]- Quite a few DECORATE actors and other odds and ends, free for use by anyone for their projects.
+
+^C[DarkBlue]IMF Mega Collection ^c[Black]- All official ID/Apogee IMFS converted to Wolfenstein's frequency, plus a few extras
+
+^C[DarkBlue]AstroCreep's Original IMF Tracks, Vol. 1 ^c[Black]- Original music by AstroCreep, free to use by anyone for their projects (credit provided of course).  Some were used for SPICY.
+^P
+^C[Red]ODDS AND ENDS
+
+^C[DarkBlue]Wolf3D MegaMap ^c[Black]- The first 3 episodes, slightly condensed and smashed into 3 super-huge maps!  Can you finish an entire episode in one go?  Be mindful of the side objective!
+
+^C[DarkBlue]WOLFROTT Gameplay Mod ^c[Black]- Based on the ROTT original specs, this replaces weapons, decorations and enemies with ROTT counterparts, keeping to the style originally planned for ROTT.
+
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 8 32 [NPSMALL1]
+
+
+
+
+
+
+
+
+
+^c[Black]A mod for "Super 3D Noah's Ark", aliens have come to Earth to rape its resources!  Only Noah can stop them!  16 levels of alien-blasting action!
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 32 32 [NTSMALL1]
+
+
+
+
+
+
+
+
+^c[Black]Based off of Nitemare 3D, defeat Dr. Hammerstein and once again rescue your sweet Penelope!  Explore a haunted house, a subterranean labyrinth, and even an alternate dimension!
+^P
+^C[Red]MORE FROM ^C[Green]ASTROCREEP
+^G 32 32 [SPICY]
+
+
+
+
+
+
+^c[Black]10 super-difficult levels in the original Wolf3D style, enhanced with ECWolf specific features and a rockin' new IMF soundtrack!  Brave the dangers of Castle Furzsaugen and retrieve your stolen hot sauce from the undeserving tastebuds of the Nazis!  Also available in a DEMOLITION edition!
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^c[Black]Sam Feichter, known as AstroCreep, Wolf3D conversion and port doing, Keeper of the Seven Daves, IMF ninja and master of the photoshop arts. Grows hair on his head. Potentially extremely dangerous. Run away before he converts you. 
+
+-serpens, 2019, 
+https://wl6.fandom.com/wiki/AstroCreep
+^P
+^G 16 16 [ASTROCRP]
+^C[Red]ABOUT ^C[Green]ASTROCREEP
+
+^c[Black]I've been making mods for Wolfenstein 3D off and on
+since around 1996.  After a long hiatus, I discovered
+ECWolf, and have been making mods for it ever since.
+^P
+^G 16 16 [ASTROCRP]
+^c[Black]Aside from modding Wolf, I also enjoy making music and
+editing/creating images in Photoshop.  My GFX work is
+mostly done in these games, but you can check out my music
+at soundcloud.com/aquafiend.
+^P
+^G 16 16 [MODDB]
+^G 140 200 [WOLFSRCE]
+To download more of my mods, check my ModDB page
+www.moddb.com/company/astrocreep
+
+OR
+
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^c[Black]website
+wolf3d.net
+^P
+
+
+
+^C[Blue]Mod ^C[Black]by Sam Feichter (AstroCreep) 2019
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+^C[Gold]ECWolf ^C[Black]by Blzut3
+^C[Green]LZWolf ^c[Black]by LinuxWolf
+
+
+
+^E
+
