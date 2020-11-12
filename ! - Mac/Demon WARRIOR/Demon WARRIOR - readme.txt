@@ -1,0 +1,10 @@
+It's time for another mod and we've got a big one, although much more obscure than the typical Laz Rojas or Clubey stuff. A major release nonetheless, Demon WARRIOR is an interesting beast with 16 new Third Encounter maps and tons of new graphics and sounds. What is it about? I'm not actually sure. The documentations don't really outline much of a storyline and we only know that the Nazis have joined forces with magical creatures, so we end up in a World War II/fantasy setting of some sort. You're going to fight demons, witches, moving statues and some other arcane foes. Even the Wicked Witch of the West (who replaces Hitler and whom you must defeat to finish certain maps) makes an appearance. Where did they come from? Nobody knows, maybe Adolf caught a leprechaun and is holding him hostage.
+
+Maps are generally rather difficult, with tons of enemies (especially mutants) and a good number of bosses in your path. Still, the author assures us that the whole thing has been extensively tested to be beatable, plus all maps have at least two different ways to finish them. All of the new fantasy enemies are bosses (which sort of makes sense), so expect a tough fight whenever you meet one. Oh, and before I forget: unusually for a Mac mod, this one features a different floor color (brown instead of the usual grey). This doesn't actually require any code changes, simply altering the palette in the editor is enough, which makes me wonder why more mods don't make use of this feature. Oh well.
+
+The documentation also makes mention of a First Encounter mod called Daydream Warrior, but I was never able to find it anywhere online. Should anyone, by some miracle, have a copy lying around, I encourage you to PM me.
+
+Oh, and one thing. I know that some boss graphics look totally screwed up. They are the same way on Mac! I did my best to reproduce the exact way they are screwed up in, though it was a chore. I hope you're going to enjoy the mod anyway.
+
+===Credits===
+The author never actually states his name, the best I got is "BeetLman" (part of his e-mail address: BeetLman (at) aol.com).

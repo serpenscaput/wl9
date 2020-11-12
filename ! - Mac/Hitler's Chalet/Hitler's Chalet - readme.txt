@@ -1,0 +1,5 @@
+ This release is dedicated to the memory of everyone's favourite murderous tyrant; it's called Hitler's Chalet. And unlike most Mac mods, it's actually very well documented! A 3rd Encounter mod made by Ian Brown (who wants you to contact him at ian.brown (at) sparticus.net) during 2001 and 2002, it takes place in the Bavarian Alps where many top Nazis set up their hideouts and are on duty to protect Hitler himself. You'll find yourself fighting hordes of German soldiers as you battle through 12 rather compact but interesting maps, including the Eagle's Nest and Berghof residence (the titular chalet) where the man himself resides. It's a pretty neat mod that combines indoor and outdoor areas in some creative ways. Most graphics are new, some unique to this mod. And I know the intermission screen is broken; it's that way on Mac too, believe it or not.
+
+===Credits===
+
+Ian Brown. If you're reading this, kudos for writing up actual documentation for your mod. 

@@ -1,0 +1,4 @@
+After the events of the first Astrostein, wherein you woke up one hundred years in the future in the completely alien environment of a German spaceship, your battles culminating with killing the ship captain and stealing a shuttle, you are now headed to the Moon. But of course the Moon has long been colonized by the Third Reich and now you find yourself facing a lunar base full of Nazis. You will traverse the base's interior and even peek outside over ten maps full of new enemies, sounds and graphics (especially wall textures have been changed since the first Astrostein). Objective: find a cargo ship and head to Earth where you will finally deal with the menace once and for all.
+
+===CREDITS===
+All credits go to Laz Rojas, author of the Astrostein series.
