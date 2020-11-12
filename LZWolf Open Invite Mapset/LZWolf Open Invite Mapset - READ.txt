@@ -1,0 +1,131 @@
+LZWolf Open Invite Map Project
+a compilation of LZWolf maps, spanning across
+multiple online communities and 
+officially endorsed by WOLFSOURCE,
+the premier resource for all things Wolf3D!
+
+This is a project made from the collaboration
+of many people, in an effort to showcase the
+versatibility and features provided
+by LZWolf, a fork of Blzut3's ECWolf Engine
+maintained by Linuxwolf.  
+
+The levels contained in this mod vary radically,
+from vanilla classic-style maps with cool new
+actors, to intricate and stunning behemoths,
+some with features such as parallax skies and
+larger-than-64x maps.
+
+This is built off of a toolkit, designed
+by AstroCreep, that includes extra actors
+and tiles already defined, and then was
+distributed and used as a base to build
+the submitted maps off of.
+
+Base New Features:
+
+4 keys
+all static items from SOD and the Lost Missions
+Static items and textures from Wolf Overdrive by Thomas Weiling
+more textures from the Dunkel Collection
+switch and remote door textures by Executor
+An awesome animated menu backdrop (converted from a gif animation by AstroCreep)
+an even more awesome new title sequence by Dunkelschwamm
+Cool new IMF music, converted from midi by AstroCreep
+	*songs by various, listed by map further on
+A few new actors, such as new enemies and environmental hazards 	
+
+All other new features vary by map
+
+MAPLIST
+
+'Trap Filled Adventure' by QuakeDoomNukem
+	song - "TRIGGER.mid"
+	
+'The Doctor Is Out' by QuakeDoomNukem"
+	song - "RAGE.mid"
+
+'EISENEDIT!!!!!' by Linuxwolf
+	song - "AST_26", an original by AstroCreep
+	
+'Greek Ruins' by MorpheusKitami
+	song - "XPUTIT" from Spear of Destiny
+	
+'Gerolf's World' by Gerolf
+	song - "XFUNKIE" from Spear of Destiny
+	
+'Nazis Fuck Off!' by Thomas Weiling
+	song - "FUNKYOU" from Wolfenstein 3D
+	
+'The Sub' by MorpheusKitami
+	song - "SPRAY" from Rise of the Triad
+	
+'Satanworld' by AstroCreep
+	song - "FW17", an original by AstroCreep
+	
+'Sunset Raid' by AstroCreep
+	song - "SUCKTHIS" from Rise of the Triad
+	
+'Waste Tunnels' by AstroCreep
+	song - "FW01", an original by AstroCreep
+	
+'Cyber-Deathknight Factory' by Dunkelschwamm
+	song - "Flying Battery Zone, Act 2" from Sonic 3
+
+'Vignettes' by Dunkelschwamm
+	song - "RADAGIO" from Rise of the Triad
+
+'Three Steps of Escaping' by Orka
+	song - "ORKA_1", an original by Orka
+	
+'The Last Stop' by Orka
+	song - "ORKA_2", an original by Orka
+	
+'All Heil The Hunt For The Hidden Hitler: The Revenge' by MINOTAURiii975
+	song - "FW24", an original by AstroCreep
+
+Other Credits:
+Additional textures - Dunkel Collection by Dunkelschwamm,
+	Wolf Overdrive by Thomas Weiling, Schabbs, Mutant Maker 
+	and LSD AstroCreep walls by AstroCreep
+	switch and remote door textures by Executor
+Additional sprites - Wolf Overdrive by Thomas Weiling, 
+	Brown Boy by Harry Mass Sr, Clone by ArEyeP, 
+	MP40 officer by ZioMcCall, Scientist by TobiXY, 
+	allied soldier by Laz Rojas, 
+	Environmental hazards by AstroCreep (adapted from Wolf3D
+	and ROTT
+	others from Wolfers for Wolfers pack
+Additional sounds froM SOD and MacWolf
+Additional Music from SOD and ROTT 
+	Title Music - TITLSHIT, an original by AstroCreep
+	Menu / Read This! Music - DRUMSHIT, an original by AstroCreep
+	High Scores - GOINGUP from Rise of the Triad
+	Intermission Music - ENDLEVEL from Wolf3D (Midi2IMF reconvert by AstroCreep)
+Base pk3 DECORATE and XLAT scripting by AstroCreep
+Menu interface and graphics by AstroCreep
+Title Sequence by Dunkelschwamm
+MIDI to IMF conversion by AstroCreep
+Project compile and MAPINFO by AstroCreep
+Other modders
+
+Jukebox Songs:
+
+Head Like A Hole, March of the Pigs and Down In It by Nine Inch Nails
+Frankenstein by Edgar Winter Group
+Scary Monsters and Nice Sprites by Skrillex
+FW_18 by AstroCreep
+SEA by Chris Chokan
+SILENCE by Officer-Michael John
+LAMIOIR by Nep
+Eulogy by Tool
+Pirate Hooker by Zomboy
+Operation Nazi Slayer, track 1 by Orka
+Africa by Toto
+Never Gonna Give You Up by Rick Astley
+Dr. Wily Theme from Mega Man 2
+Eins Zwei Polizei by Mo-Do
+Coming of the Storm, track 1 by Wolf-Skevos Jones
+Nitemare 3D, Track 2 by David Schulz
+Tetris, Music A (Dance of the Sugar Plum Fairies)
+Double Dragon II (NES), Stage 2

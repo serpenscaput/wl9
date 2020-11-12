@@ -1,0 +1,43 @@
+Mac Wolfenstein 3D ECWolf Mapping Pack
+by AstroCreep 3/31/19
+V3 8/15/20
+
+This is a simple mapping and asset pack for use with the dev version of
+ECWolf/LZWolf and WDC, to make it a bit easier to use the extended 
+features that ECWolf enables, like remote-activated doors/pushwalls,
+flats, plane heights, light levels and more!  
+
+To use this, simply use this PK3 as a base for your project,
+and using WDC, start a new project using Wolfenstein 3D as 
+your base project, set MAXPLANES to 4 and 
+load ec_macwolf.wmc as your map definition file. 
+
+To use the new features, I recommend reading my tutorials on
+Zombie's WOLFSOURCE website, which details some of the 
+features in depth.
+
+The original version of this construction kit was 
+designed for making maps using the original MacWolf
+data files, however since A)those are very difficult to 
+find and B)MacWolf support is extremely incomplete, I have
+re-done this entire toolkit to rely on the PC Wolfenstein
+data files rather than the Mac files.  This includes 
+all assets, sprites, textures and sounds. I have also
+recreated the original MacWolf status bar using LATCHCFG. 
+Instead of ogg rip music, this contains IMF renditions of the
+MacWolf music.  If you would like to use the ogg rips, download
+the pack included with 37 1/2 Encounter.
+If MacWolf support is completed, I will
+make a stripped down version of this for use with those
+data files.  The very least needed to be done to make your
+own maps with this pack is to load up the WMC def in 
+WDC, make your map, and then export and package and 
+dump the WAD into the Maps folder in this PK3
+(Remember to write your MAPINFO lump!)
+
+Additional textures by AstroCreep
+Switch sound effect and menu graphics from Wolfenstein 3D
+
+NOTE:  If you try to play a vanilla MacWolf mod or
+regular ol MacWolf with this, it probably won't work right.  
+Best to use a shim file and write a new MAPINFO.

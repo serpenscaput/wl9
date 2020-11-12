@@ -1,0 +1,123 @@
+THE MIND OF EVIL
+Level Guide v. 1.0
+Spear of Destiny Modification
+Map Legend
+Start:
+Keys:
+Items: (food, medkit, ammo, weapons, treasure, 1up and more..)
+Enemies: (standing and walking, colors depend on enemy type and difficulty)
+Secrets: (pushable secrets and events are marked for better visibility)
+Level ending trigger:
+
+WARNING!
+
+I recommend you using this guide only if you get lost in the game or you want to get 100% level completion.
+
+LEVEL 1
+„Castle Entrance“
+Comment:
+Only level taking place in outdoor environment. That explains green floor,
+walls and cyan sky. This level has level a ending trigger (no elevator).
+
+LEVEL 2
+„Sewers“
+You need to kill the guard first to be able to push both walls.
+Comment:
+„Brown level“. I was kinda worrying to introduce „double-push“ secret
+straight in 2nd level. Especially when there is a gold key behind it, but I
+think you will manage it.
+
+LEVEL 3
+„Barracks A“
+
+LEVEL 4
+„Barracks B“
+You need to lure one of the guards out of the room,
+otherwise you won’t be able to push the wall.
+
+LEVEL 5
+„Headquarters“
+Comment:
+Boss „Captain Blitz“ can cause a lot of damage in such a small arena.
+Originally I intented to include secret level entrance in this level. Later on
+I decided to not put these in boss levels.
+
+LEVEL 6
+„Prison A“
+Comment:
+One of my favourite levels. Thanks to ambient sounds, music and overall
+creepy atmosphere of Nazi prison.
+
+LEVEL 7
+„Prison B“
+Be careful to not push the wall in or kill any guard at sides.
+Comment:
+More open variant of Level 6. This level has a level ending trigger (no
+elevator).
+
+LEVEL 8
+„Dark Cells“
+
+LEVEL 9
+„Gestapo Offices“
+Entrance to secret level located in this level.
+
+LEVEL 20
+„Secret Archive“
+(Secret Level 1)
+Comment:
+I decided to use one of the unused Wolf3D music tracks to give this level
+sort of „secret“ atmosphere.
+
+LEVEL 10
+„Gestapo HQ“
+Comment:
+You will surely not find boss „Panzersoldat“ easy prey. Be careful for his
+fellow Nazis.
+
+LEVEL 11
+„Security Depot“
+There is a stealth puzzle in this level. There is a guard
+going in loop. Quietly follow the guard to get through the
+gold-key door. If you kill or alert the guard, you won’t get
+out of the room!
+
+LEVEL 12
+„Danger Zone“
+
+LEVEL 13
+„Halls of SS“
+Comment:
+The largest level in the mod.
+
+LEVEL 14
+„Crossings“
+Comment:
+Cave maze level with little surprise along the way.
+
+LEVEL 15
+„Laboratory“
+Entrance to secret level located in this level.
+
+LEVEL 21
+„Proving Grounds“
+(Secret Level 2)
+
+LEVEL 16
+„Research Center“
+
+LEVEL 17
+„Mutant Revolt“
+Comment:
+I’ll be honest. I’ve got heavily inspired by „Mutant Uprising“ level from
+Totenkopf SDL by Wolf-Skevos Jones. All hail WSJ!L
+
+EVEL 18
+„Felgesicht's Lab“
+Comment:
+Music used in this level is „Getting too Tense“ track from DooM II.L
+
+EVEL 19
+„Mechamutant“
+To make Mechamutant mortal, you must turn off power
+generator in bottom-right corner of the map!

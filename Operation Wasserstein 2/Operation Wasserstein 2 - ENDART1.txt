@@ -1,0 +1,10 @@
+^P 
+^C[Red]													VICTORY!
+^c00 The putrid, stinking remains of Heydrich Holtzmann stain the marble floor of his lair. What untold horrors occurred here are better left unspoken. With Holtzmann dead, and the Peacemaker in your possession, Operation: Wasserstein has finally come to an end. 
+^P
+You make your way out of the Keep and back to Allied Command, where immediately upon arriving you are given a telegram: 'Captain Blazkowicz: the time has come. With Eisenfaust and Wasserstein in ruins, we will launch our assault on Berlin. Prepare yourself: you are headed for the Bunker...'
+^P
+Operation: Wasserstein was truly a labour of love for the Wolfenstein community, but there were still so many unrealized ideas that I knew a sequel was in order. My intention was to convey the very best that Wolfenstein 3D is and can be, and I hope I have succeeded in some small way. With Operation: Wasserstein II complete, I must now bid my adieu to the Wolfenstein community. Thank you for all your support. Happy modding!
+
+--gitlance
+^E

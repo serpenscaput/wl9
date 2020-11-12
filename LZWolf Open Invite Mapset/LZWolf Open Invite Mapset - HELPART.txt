@@ -1,0 +1,116 @@
+^P^
+^C[Red]QUICK COMMAND REFERENCE
+^c[Black]
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10			Quit Game
+
+Read on for more information.
+^P
+^G12,76,13
+^G66,16,3
+
+
+
+
+
+^c00This is a community map project for LZWolf, designed to show off the different features and the versatility of the LZWolf source port.
+^P
+^G16 16 [BLAZE]
+
+
+
+^c00This uses LZWolf's ability to load different map translator files to create a completely customizable experience for each mapper - therefore each map is like a self contained mod.  Some are very decidedly vanilla, while others really push the limits of what LZWolf can do!
+^P
+^c[Red]MAP LIST
+
+
+
+^c[DarkBlue]'Trap Filled Adventure' ^c[Black]by QuakeDoomNukem
+
+^c[DarkBlue]'The Doctor Is Out' ^c[Black]by QuakeDoomNukem
+
+^c[DarkBlue]'EISENEDIT!!!!!' ^c[Black]by Linuxwolf
+	
+^c[DarkBlue]'Greek Ruins' ^c[Black]by MorpheusKitami
+^P
+^c[Red]MAP LIST
+
+	
+
+^c[DarkBlue]'The Sub' ^c[Black]by MorpheusKitami
+	
+^c[DarkBlue]'Satanworld' ^c[Black]by AstroCreep
+	
+^c[DarkBlue]'Sunset Raid' ^c[Black]by AstroCreep
+	
+^c[DarkBlue]'Waste Tunnels' ^c[Black]by AstroCreep
+	
+^c[DarkBlue]'Cyber-Deathknight Factory' ^c[Black]by Dunkelschwamm
+^P
+^c[Red]MAP LIST
+
+
+
+^c[DarkBlue]'Vignettes' ^c[Black]by Dunkelschwamm
+
+^c[DarkBlue]'Three Steps of Escaping' ^c[Black]by Orka
+	
+^c[DarkBlue]'The Last Stop' ^c[Black]by Orka
+
+^c[DarkBlue]'All Heil The Hunt For The Hidden Hitler: The Revenge' ^c[Black]by MINOTAURiii975
+^P
+^c[Red]MAP LIST
+
+
+
+^c[DarkBlue]'Nazis Fuck Off!' ^c[Black]by Thomas Weiling
+
+^c[DarkBlue]'Redoubt' ^c[Black]by Gerolf
+
+^c[DarkBlue]'Abscond' ^c[Black]by Gerolf
+
+^c[DarkBlue]'Entryway' ^c[Black]by Phade
+^P
+^c[Red]OTHER CREDITS
+
+
+^c[Black]LMP Toolkit by AstroCreep
+	*extra stuff by various
+Menu interface by AstroCreep
+Additional music by various
+Title Sequence by Dunkelschwamm
+Compiled by AstroCreep and Dunkelschwamm
+Other modders
+
+For a more complete credit listing, check READ.txt within L_M_P.pk3
+^P
+^G 16 16 [DHW]
+^G 140 200 [WOLFSRCE]
+To download more mods, check out ^c[Blue]DieHard Wolfers Forum
+^c[Black]http://diehardwolfers.areyep.com
+
+OR
+
+^c[Green]Zombie's ^c[Red]WOLFSOURCE ^c[Black]website
+wolf3d.net
+^P
+
+
+
+
+^C[Red]Wolfenstein 3D ^C[Black]by iD Software
+^C[Gold]ECWolf ^C[Black]by Blzut3
+^C[Green]LZWolf ^c[Black]by LinuxWolf
+
+Thanks to everyone in the community!
+This would have not been possible without you!
+
+^E

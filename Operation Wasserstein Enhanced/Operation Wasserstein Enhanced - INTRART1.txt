@@ -1,0 +1,5 @@
+^P 
+^C[Red]									     	 		  INFILTRATION!
+^c00 You quietly stumble through the vines into the dark, damp undercroft of Castle Schwangau. These floors have been abandoned for years, long since given over to the inhuman enormities of Dr. Schabbs and his hideous experiments. Find your way through the sublevel to an elevator that will grant you access to the Castle above. Beware, unnatural things dwell in these halls...
+
+^E

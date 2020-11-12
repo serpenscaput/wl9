@@ -1,0 +1,7 @@
+^P 
+^C[Red]THE DOCTOR IS OUT									
+^c00 The bloody visage of Dr. Reinhard Eisenstadt collapses before you, defiant even in death. Searching through his desk, you managed to find a file labeled 'Top Secret: Friedensstifter Projekt.' It would appear that the Ubermensche was only Phase One in the Wasserstein plan. It was ultimately to be armed with a weapon of devastating firepower, capable of clearing an entire field of troops with one shot. An inhuman army with such weaponry would be unstoppable. 
+^P
+A prototype of the weapon is being kept deep in the castle, in a nearly impregnable vault, under the command of SS-Oberstgruppenfuhrer Heydrich Holtzmann. Break into the vault, steal the Peacemaker, and finally put an end to this madness.
+
+^E

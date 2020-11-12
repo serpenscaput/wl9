@@ -1,0 +1,5 @@
+^P 
+^C[Red]ESCAPE!
+^c00 'Achtung!' The shouts of the guards grow ever nearer as you frantically make your escape. Castle Schwangau looms ominously in the distance, where the remains of the hideous Ubermensche lie festering. That ghoulish creature may be dead, but now the entire inhuman force of the Third Reich is mobilized against its destroyer. Hurry! The guards are on your tail. You survey your weapons: rocket launcher, check; flamethrower, check; chain gun, always ready. You spy the forest ahead, and realize your only hope of survival is through it...
+
+^E

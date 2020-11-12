@@ -1,0 +1,37 @@
+WOLFENSTEIN 3D: CLAW OF EISENFAUST (x64 edition)
+Port of SNES Wolfenstein to ECWolf
+12/27/18 	AstroCreep
+v2 5/17/19
+
+This is a port of the SNES version of Wolfenstein 3D to
+ECWolf.  This uses Executor's Second Encounter port as a
+base, and then adds assets directly imported from the SNES
+version of Wolfenstein. All sprites,textures and sounds
+have been replaced with SNES counterparts, censorship and 
+all.  Save the free world from Staatmeister and his Master
+State!
+
+VERSION 2
+This version has been completely rebuilt, based off of
+the actual extracted SNES maps and ec_snes/ec_macwolf.
+
+X64 VERSION
+
+This version cuts out most of the new textures in favor
+of the original x64 textures, so now the mod only 
+includes censored alternates of the original walls
+(by AstroCreep) as well as a new brick texture
+to better fit the SNES styled texture (Thanks
+Dunkelschwamm - Red Block Wall from The Dunkelcollection)
+This also changes all the palettes with the exception
+of the title screen to the original Wolf3D palette.
+This also has a new status bar, based off of the 
+vanilla status bar but re-arranged in the way the
+SNES HUD was laid out.
+
+
+CREDITS:
+Assets ripped and modified from SNES Rom by AstroCreep (thanks to
+Adam Biser for his SNES ripping tool) 
+Brown Floor Wall Variations by Executor and edited by AstroCreep
+x64 texture censorship by AstroCreep

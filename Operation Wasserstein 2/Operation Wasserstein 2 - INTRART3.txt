@@ -1,0 +1,5 @@
+^P 
+^C[Red]INTO THE KEEP								
+^c00 The elevator grinds to a halt. Where you are, is anyone's guess. After escaping the dungeon, and fighting through the inhuman monstrosities in the forest, it would appear that there was more to Operation: Wasserstein than the happenings at Castle Schwangau. Go deeper into the keep, and put an end to whatever hideous plot is being devised. 
+
+^E

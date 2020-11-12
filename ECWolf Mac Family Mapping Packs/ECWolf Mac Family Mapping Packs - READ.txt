@@ -1,0 +1,33 @@
+8/15/20
+
+This is a simple mapping and asset pack for use with the dev version of
+ECWolf/LZWolf and WDC, to make it a bit easier to use the extended 
+features that ECWolf enables, like remote-activated doors/pushwalls,
+flats, plane heights, light levels and more!  This toolkit is based
+Off of the Mac family of Wolf3D ports, with 3 different pk3 files, each containing
+The necessary assets to replicate said version of Wolf3D within ECWolf.
+
+To use this, simply use this PK3 as a base for your project,
+and using WDC, start a new project using Wolfenstein 3D as 
+your base project, set MAXPLANES to 4 and 
+load ec_macwolf.wmc as your map definition file. 
+
+To use the new features, I recommend reading my tutorials on
+Zombie's WOLFSOURCE website, which details some of the 
+features in depth.
+
+This toolkit is based off of MacWolf's XLAT/WMC, with 3 diff base pk3s that can be used
+To play created levels with. The very least needed to be done to make your
+own maps with this pack is to load up the WMC def in 
+WDC, make your map, and then export and package and 
+dump the WAD into the Maps folder in this PK3
+(Remember to write your MAPINFO lump!)
+
+Included are 2 quick and dirty ports of the Mac and the Jaguar versions based on these toolkits and the maps ripped from the SNES version.  (They're basically the same thing
+Just with slightly different graphics.  Atari apparently sacrificed good sounds for
+Good weapon graphics lol)
+
+Additional textures by AstroCreep
+Switch sound effect and menu graphics from Wolfenstein 3D
+Updated WMC map definitions by Executor
+Status bar stuff by AstroCreep

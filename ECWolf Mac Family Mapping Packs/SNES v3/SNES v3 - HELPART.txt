@@ -1,0 +1,22 @@
+^P^
+^C[Red]QUICK COMMAND REFERENCE
+^c[Black]
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10			Quit Game
+
+Read on for more information.
+^P
+^G 16 16 [BLAZE]
+^C[Red]EXAMPLE HELPART
+
+^c[Black]Type some stuff here! 
+
+^E

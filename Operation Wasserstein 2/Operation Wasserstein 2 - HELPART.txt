@@ -1,0 +1,91 @@
+^P
+^C[Red]								OPERATION: WASSERSTEIN II
+^c00
+The story thus far.
+
+It has been six days since you infiltrated Castle Schwangau. Reichsmarshall Wasser and his insane associate, Dr. von Richter, are dead -- along with the fruit of their depravity: that hideous, superhuman Ubermensche. Making your way out of the Castle, suddenly an alarm sounds, and the hurried shouts of guards are heard. Grabbing your weapons, you rush headlong down the mountainside.
+
+^P
+Far in the distance you see the tops of trees below. The dark forest beckons, but the guards are closing in. You won't get out of this without a fight. BJ, do what you do best: destroy the enemy, escape from Castle Schwangau, and report back to Allied Command about Operation: Wasserstein. 
+^P
+I felt a Funeral, in my Brain,
+And Mourners to and fro
+Kept treading, treading, till it seemed
+That Sense was breaking through.
+
+And when they all were seated,
+A Service, like a Drum,
+Kept beating, beating, till I thought
+My mind was going numb.
+
+And then I heard them lift a Box
+And creak across my Soul
+With those same Boots of Lead, again.
+-Emily Dickinson
+^P
+^C[Green]										ACKNOWLEDGEMENTS
+^c00
+
+Operation: Wasserstein was twenty years in the making, and I am pleased to say this sequel has not taken quite so long! I have attempted to maintain the original atmosphere and gameplay of Wolfenstein 3D, as seen through my 1990s childhood imagination. Given the level of detail I have incorporated, the game is best played at higher resolutions. 
+
+I suggest the `Recommended` skill level. For a major challenge, choose `Extreme!`.
+^P
+Guns are selected using numbers 1-9 on the keyboard:
+
+1 - Knife
+2 - Pistol
+3 - Machine Gun
+4 - Chaingun
+5 - Riot Gun
+6 - Flamethrower
+7 - Rocket Launcher
+8 - Napalm Cannon
+9 - ??
+
+^P
+Keep in mind: secrets are your friend! Though there are no mandatory secrets, it will often be difficult to proceed without the goodies offered within them!
+
+I wish to thank all those whose artistic work influenced or contributed to this mod. I sincerely hope you enjoy my small offering to the Wolfenstein community.
+^P
+^C[Blue]														CREDITS
+^C00
+Music: 
+Adrian von Ziegler
+Peder B. Helland
+Ultima Underworld
+Kevin MacLeod
+Avery Alexander
+Nexus Music
+Purple Planet
+No Copyright Music
+MrDrMurry
+Arditi
+Drums of Drakkar
+David Fesliyan
+
+^P
+Graphics:
+Noni
+Areyep
+Majik Monkee
+DoomJedi
+Megabyte
+Xaser
+Laz Rojas
+id software
+Gary Ragland
+Ken O'Brien
+Apogee Entertainment
+FormGEN
+Bruno Deo Vergilio
+^P
+Spiritblade-Inc
+Satoru Akahori
+Shadowcaster
+The Great Wasabi
+Skelegant
+Horror Movie Guy
+Justy Zam
+Terraformer9x
+
+^E
