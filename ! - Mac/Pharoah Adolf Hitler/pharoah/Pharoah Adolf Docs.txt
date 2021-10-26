@@ -1,0 +1,11 @@
+﻿Now that the Fuhrer has established his armies on the African continent he has used some of his vast fortunes to build himself a pyramid that rivals even Giza itself. After an intense search you manage to find the secret entrance to this monument. Plowing down a few guards with your trusty sidearm you begin the search for the head man. This labrynth will test your mapping abilities as well as your dexterity because, rumor has it that the elevator system was build to protect the mummified corpse of Adolf when the day of his passing comes (which will be soon if you have anything to do with it you vow). Both the regular and alternate elevators will have to be used to unravel the twisted knot of level changes.
+
+Be aware that Hitler’s engineers have not marked all of the secret doors that permeate this ziggurat. So. search everywhere! Look for odd shaped holes in the map to aid you in your search. You will find that on the top level (if you make it that far) you won’t even hear the familiar propaganda of Hitler’s bosses who are hiding behind secret doors. Even they have taken vows of silence so as not to give away the location of the crucial portals.
+
+If you find that you can’t finish a level don’t worry (wimp), you can (and might have) to come back later to massacre Hitler’s legions of destruction. Gatling guns are scarce and the powerful weapons even more so. Conserve your bullets and use healing items carefully.
+This scenario was originally made with Greg Ewing’s WolfEdit 1.1C and then hacked by WolfHacker and Day/Night Scenes. I want to thanks Greg and Laz Rojas for the advice on making the elevators work correctly*. If you like this scenario then check out my other freeware games (like Adolf’s Gymnasium and Eagle's Nest) and then try Wolf Addict’s home page on the Internet for some professional stuff. Watch for future release of Wolfenstein games by me; they’ re only going to get better!
+
+Goodluck! Kick some Nazi $@#%!
+
+************ [WARNING] ************
+Do not open the original with WolfEdit to tinker or change anything. Doing so will cause WolfEdit to save the elevator settings incorrectly. If you damage the scenario in this way it just won’t be any fun. Thanks.

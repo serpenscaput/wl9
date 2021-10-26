@@ -1,0 +1,4 @@
+Time for the final mod (phew) and it's a doozy. The scenario file itself is called Ultimate Carnage, but the folder name is WolfenCarnage and that's what I'm going with. Ten maps for the First Encounter, to nobody's surprise. We get a curious storyline to accompany the mod: although the war is over, Hitler is dead and Germany is under Allied occupation, they're still powering up for another war. You decide to attack them again, but they got too strong (imagine that, an entire country being too much for one man). You were captured and must escape, killing hundreds on your way. The maps themselves are in fact a delight, often throwing one back to the sadly bygone times of famous FEAROV.zip, not nearly as sublime perhaps, but worthy of the comparison. A bloody brilliant Wolfenstien mapset, highly recommended. Play with the codes only.
+
+===CREDITS===
+Sadly the mapper did not think it right to introduce himself.

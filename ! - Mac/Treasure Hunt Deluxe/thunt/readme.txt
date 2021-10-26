@@ -1,0 +1,4 @@
+And finally, Treasure Hunt Deluxe, eleven maps for the Third Encounter. You know how the Third Reich used to plunder various national treasures after conquering European countries? Of course you do, you steal some of these back on every mission. It's now time to reclaim a particularly huge stash of goodies. In order to do so, you fight through several maps filled with enemies (sounds familiar?), conquer the treasure bunker, then - here's the plot twist - go back the way you came in, wading through the river of German blood you left behind. There is new opposition to be fought, and while enemies are somewhat less numerous, they are also positioned in annoying ways and the resource balance is now heavily tipped against you.
+
+===CREDITS===
+Laz Rojas. Stop asking!

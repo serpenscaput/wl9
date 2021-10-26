@@ -1,0 +1,4 @@
+This is the first of two maze mods! Although today's mods are small and fairly insignificant in the grand scheme of things, one of them is still made by Clubey, which might be enough to draw your attention. The name's Eucleidean Labrynth (sic!) and apparently it was meant to be a bigger mod, but ended up as two maps for the First Encounter. Let me muse for a little bit: if the name is a direct reference to the Minotaur labyrinth, why is it that every old depiction of said labyrinth show it as a long and twisty, but more or less single path to the center? And what was the use of Ariadne's thread then? Either way, these two maps are considerably easier to get lost in.
+
+===Credits===
+Clubey, duh

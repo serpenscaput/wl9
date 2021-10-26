@@ -1,0 +1,1 @@
+In order to hear the Totenhaus sounds, you'll need to paste in the included "snd" resource in a copy of Wolfenstein with ResEdit.  Also, you'll need to delete the following "csnd" resource from the copy of Wolfenstein: 165

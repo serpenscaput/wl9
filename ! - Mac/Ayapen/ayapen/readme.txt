@@ -1,0 +1,4 @@
+Here we have Ayapen and Ayapenmania by... wait for it... actually, his name is Butcha. All I know about Butcha is that he was a friend of Clubey. Ayapen is nine maps, while Ayapenmania is only 1 map long (Clubey citing the author's petering out enthusiasm as the reason), so we've got 10 maps for the First Encounter to speak of. Clubey warns that these maps are tough and some gameplay tricks (helpfully described on his old website https://web.archive.org/web/20060623160630/http://www1.linkclub.or.jp/~clubey/wolfenmania.html) might be necessary to beat them. Caveat emptor then, but if you bother with downloading these sets in the first place, you're probably familiar with the hardcore tricks anyway...
+
+===CREDITS===
+Butcha

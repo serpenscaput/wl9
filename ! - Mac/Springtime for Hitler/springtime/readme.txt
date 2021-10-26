@@ -1,0 +1,4 @@
+Springtime or Hitler is out third option in today's release, this time not by Richard Peck. Eight maps for the Second Encounter (using the Episode 6 thumbnail, not sure why), it's credited to scanmantim and Wayne (or Tim & Wayne for short). Actually there are two readmes, one with the above data, one claiming the author's unknown, so we have no choice but to treat this info with a grain of salt. But I have reason to believe the two author thing is correct, because the maps on display feature two rather distinct mapping styles; one very cramped, with some unorthodox areas, the other - more open and entirely square. But you can expect intense firefights in both.
+
+===Credits===
+Tim and Wayne

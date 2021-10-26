@@ -1,0 +1,5 @@
+Gorenstein Macenwolf Conversion
+by AstroCreep 6/24/21
+
+A quick conversion of my first mod from 1999 to Macenwolf. To play, simply unzip to your Macenwolf folder and run the included BAT file.
+

@@ -1,0 +1,8 @@
+The Armoury is a mod by Ian Brown, a fairly prolific Mac modder whom you already know if you have played Hitler's Chalet. The mod sports 12 maps for the Third Encounter and a lot of new graphics that add up to resemble a Luftwaffe site. That's indeed the focus of this mod's story: Hitler has ordered one of the Luftwaffe ammunition factories to manufacture a mechanized armor suit. If you ask me, the Luftwaffe should not be dabbling in land warfare (maybe that's why they lost the Battle of Britain), but never mind. Your job is to infiltrate (funny way to spell "rampage through") the factory, take note of how many suits of armor were produced so far, murder Hitler if you stumble upon him and casually walk towards the sunset.
+
+Compared to Hitler's Chalet, this mod is a rather different beast. While Chalet would offer you a lot of outdoor environments, you'll be spending all your time inside the Luftwaffe factory here. New walls are mostly brown and use a lot of real Nazi paraphernalia as decoration, some of them eerily familiar. The whole thing feels a bit like a PC mod, though combat is rather characteristic of Mac, with densely populated maps and multiple bosses per level. Map design is highly symmetrical and seems to be inspired by Laz, who's also mentioned (together with Clubey) in the credits section for providing the base for some graphics.
+
+This is a very interesting release all in all. Check it out.
+
+===CREDITS===
+Ian Brown.

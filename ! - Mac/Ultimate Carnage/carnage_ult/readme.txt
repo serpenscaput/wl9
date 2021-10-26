@@ -1,0 +1,4 @@
+In Ultimate Carnage we have 10 maps for the Second Encounter. They are pretty large and designed with some flair, though later on the author's creative juices seem to have evaporated and the last two floors are very short, simplistic affairs. Nonetheless, there's some interesting stuff to see here, and obviously many, many guards to dispose of. Once again there's no story of any sorts, the author just tells you he tried to make things balanced, but you're free to add health in the editor if you find gameplay too hard. Most of us would consider this to be blatant cheating nowadays, but the old Mac scene mentality apparently used to be pretty lenient about these matters.
+
+===CREDITS===
+Joe. He gives his e-mail as Joe695 (at) AOL.COM. I bet 100 bucks it still works. Somewhere in one of the maps, the initials J.M.G. can be found, but we shall never know what they actually mean. Machine Gun? Massive Girth? Meddling Gremlin? Me Gaman? It's a mystery.

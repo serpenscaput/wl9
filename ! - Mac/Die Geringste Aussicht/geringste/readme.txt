@@ -1,0 +1,4 @@
+In Die Geringste Aussicht we have five maps for the Third Encounter. The design is generally somewhat more involved than the average Mac mapset, although certain... traits still apply (you'll get more than enough bosses to kill, for example). The set is accompanied by a brief storyline: you're back in Castle Wolfenstein trying to hunt down your old pal Adolf, but first you have to confront ghosts of the past. Said ghosts are a rather goofy and colorful bunch though. That's the gimmick: most maps feature a couple Pacman Ghosts following you around and making your life generally miserable as you fight the already heavy Nazi opposition. Can you survive?
+
+===CREDITS===
+Ernst Röhm. (not really)

@@ -1,0 +1,204 @@
+
+An Original Wolfenstein 3DTM Adventure
+
+
+Graphic, Layout, and Design
+
+Jon Wigand
+
+	Graphic Assistance          Additional Layouts 
+
+	Laz Rojas                        Jan Patters
+
+Playtesting
+
+Jon Wigand
+MRP@utme m.dental.edu
+Laz Rojas
+
+* * *
+
+ The Story So Far  
+
+With the incredible success of the mutant and the Ubermutant, Dr Schabbs, that evil and twisted genius, is improving on his machinations in an effort to make the indestructible soldier.  While the ranks of mutants are swelling the Fuhrer's armies (leading to unbelievable victories) he is sending even more money and supplies to Schabbs to develop these ruthless soldiers.  Hitler has even built a fortress to house the research and design facilities of Dr Schabbs.  This fortress is so secret that only the elite SS are allowed to guard it.  And even they don't know its name: Die Abscheuhaus (The House of Horrors).
+
+After destroying the Sea Wolf, and while shutting down Hitler's abominable Oswiecim camp, you discovered, in Hitler's private quarters, several documents that American and British Intelligence are sure even his top generals know nothing about.  They reveal the location and goings-on of three heretofore unknown top-secret installations.  The first of these is Schabb's House.
+
+
+
+The documents also revealed the recent advances made by Schabbs: everything from the new Thunderhead Mutant model to The Grim Reaper model.  Some of the pages even listed the technical specs on his cloning machines.  As if that wasn't enough, the dates on the reports showed that they were less than a week old! 
+
+The allies reacted quickly!  They outfitted you with the necessary supplies and air dropped you within miles of the fortress.  Crawling through mud, avoiding dogs, and clipping barbed-wire as you went, you finally reached the darkest castle you have ever seen.  The whole surface of the structure was sheathed in black steel that camoflaged it perfectly with the dark dirty mountainous region it was located in.  It was then that you understood why this incredibly huge building had been left undisturbed.  In addition to being nearly invisible from the sky, there was absolutely no light or heat being emmitted from the structure!  It was as if the building just absorbed the light.  The sight sent shivers down your spine.
+
+* * *
+ 
+Your Mission 
+
+Here is a copy of your mission briefing:
+
+To: BJ Blazkowicz
+Date: July 31st, 1945
+Objective: destroy fortress Abscheuhaus at co-ord  [Classified]
+
+Primary Mission:
+
+Officer Bj Blazkowicz is to parachute to the coordinates above and secure passage to the fortress known as Die Abscheuhaus (The House of Horrors).  Once the destination is reached, you are to penetrate and destroy the medical and research facilities that it contains.
+
+Secondary Mission: 
+
+Any technology obtained during this assignment will be considered a bonus and should only be sought after the primary mission has been accomplished.
+
+Once you have entered the facility, all communciation from Red Riding Hood will stop.
+
+General Smith
+         	 
+* * *
+		 
+New Enemies
+
+The soldiers listed below are duplicated from the documents found in Oswiecim, Poland.  They are as complete a listing as we have been able to piece together from the original documents salvaged at that time of the operation there.  They ought to be of some use in the predicting of the types of troops that allied soldiers may be up against in future battles.
+
+This information is classified Top-Secret and should only be diseminated on a need to know basis.
+
+Norman Johansen
+Secretary of the Army
+
+The Dossier is as follows:
+
+
+DonnerSchlag Mutierend:
+
+The Thunderhead Mutant is named after the shifting
+appearance of his uniform.  It appears as a dark
+cloud in turbulent motion.  The purpose of this outfit
+is to camoflage the mutant, especially in the urban
+setting.  It also has the added benefit of unnerving
+the human viewer.  The suit apparently deactivates upon t
+the mutants termination.
+
+
+
+Haengend Mutierend:
+
+The purpose of the hanging mutant is yet to be 
+understood by either the American or British
+scientists.  It has been suggested that this model
+will be used for assassinations and other covert work
+when it is perfected.  It is less heavily defended than
+other models.
+
+
+
+Pygmie Schabbs Clones:
+
+These little humans were listed in the paperwork as 
+being almost finished.  Their appearance (Dr Schabbs)
+may provide a vital clue to the personality of the man
+himself.  The abilities of these c lones are as yet 
+unknown. They may be able to move very quickly, 
+but appear to be too small to carry armament.
+
+
+
+Eisenmutierend:
+
+This might be the most dangerous mutant soldier of all.
+He appears to be highly armored and his AK-47 has
+been replaced with an ultra-high speed german 
+model.  It probably fires as fast as the chain gun
+carried by most of Hitler's guards.  In addition to being
+much hardier than any other soldier, The Iron Mutant
+blends in well with dark surroundings.  We believe that 
+he, like most models, does not provide any audible
+warning before attacking.
+
+
+
+Haegend Ubermutierend:
+
+The Hanging Ubermutant is to the hanging version of 
+the mutants what the normal Ubermutant is to the green
+coated mutant soldiers.  He is crafty, quiet and quick.
+His flaw, like his smaller cousins, is that he is not as
+heavily armored as the normal version.  This is 
+probably due to a desire by its creators to rid 
+him of unnecessary weight.
+
+
+
+Der Grimmig Maeher:
+
+This is the apparent pinnacle of Schabb's work.  The
+Grim Reaper mutant is packing a high-speed gatling
+gun and two shoulder mounted rocket launchers.
+His alloy steel frame is covered in bullet
+proof armor plating.  One other feature of this new
+mutant, is the reduced number of biological
+components.  Next to Dr Schabb's himself, this is 
+your most dangerous enemy!
+
+
+There may be other enemies in the House of Horror.  Unofficial sources have hinted at the manufacturing of remote controlled killer walls and other objects that could be used to seriously wound any invaders.  It is almost certain that Dr Schabbs has other scientist, besides himeslf and his clones, working on these projects.  Watch out.  They may be armed.  Good Luck!
+
+* * *
+
+ New Objects 
+
+Deep in the House of Horrors are items that have never, until this time, been seen outside.  A few of these are listed below.  
+
+
+Fuel Cans:
+
+This item contains the nutrients that Schabb's
+hanging zombies require to maintain smooth 
+operation when active.  While they are not toxic and 
+actually do contain nutrients for the human
+body, the amount of health that you will gain 
+from them is minimal.  They can be identified by their 
+oil-canĘlike appearance and their magnetic bottoms
+(which allows them to hang upside down).
+
+
+Embalming Fluid:
+
+These vials contain the embalming fluid that alter
+the corpses of Schabb's "patients".  It changes the 
+cellular stucture to one that can be regulated by the 
+impulses of the mutant's electronic brain.
+
+
+
+Ubermutant Head:
+
+Because of the rare number of humans of the required
+size, many of the Ubermutants must have parts made
+for them.  The Ubermutant Head is one of these
+components.  It contains the neural net that powers the
+mind of not only the Ubermutant, but of those under his 
+command.  The technology that these contain could 
+help the Allied forces unimaginably.  Just by possessing
+one of these heads, Hitler may be forced to scrap the
+whole mutant project.
+
+
+The other items available inside Schabb's fortress will probably be recognizable, even though some of them may be used in an unorthodox manner.  
+  
+ Credits  
+
+This scenario took a little longer to put together than a few of the others that I have done.  I think that the reason for this is that my objective was not clearly defined.  I entered into the design of LSOH thinking I could build a scenario around one set of graphics (levels 2-1 through 2-9).  Unfortunately, that was like trying to ride a horse backwards.
+
+Another set-back for this scenario was the problems that WolfAddict experienced during December (1996).  I am glad to say that things seem to be getting better there.  While I am no longer affiliated with WolfAddict, I would like to express my thanks for all of Bruce's help.
+
+Laz Rojas deserves a big round of applause, because not only has he supplied me with a lot of the graphical advice, he has been a good friend.  His scenarios have inspired me to go the extra distance and make the best scenarios that I can.  In fact, I have learned a lot from him.  Thanks Laz!
+
+Mark and Jan Patters have provided not only comedic relief, but something even more valuable to a scenario designer-steady and reliable playtesting.  Mark's experience playing Wolfenstein 3D scenarios and Jan's in making them, made my job a whole lot easier. Live Long and Prosper.
+
+
+
+
+
+
+
+My address is Wizbang's Wolfware
+                           4204 N 31st Apt B
+                           St Joseph, MO 64506   

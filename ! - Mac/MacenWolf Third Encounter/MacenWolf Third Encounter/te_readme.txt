@@ -1,0 +1,1 @@
+This is the six-episode version of Mac Wolfenstein 3D known as the Third Encounter. Although nearly identical to the original DOS game at first glance, it's nevertheless not a direct port and contains some notable differences. Enjoy.

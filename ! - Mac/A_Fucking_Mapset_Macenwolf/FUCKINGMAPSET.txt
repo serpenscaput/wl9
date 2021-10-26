@@ -1,0 +1,19 @@
+"A Fucking Mapset" 
+another steaming pile of shit by AstroCreep
+7/6/2021
+
+This is a simple 4-level long mapset designed for use with Macenwolf, built in
+about 3 days.  Aside from the 4 new maps, this also features a few new songs
+(taken from my Mac-Style PC Wolfenstein remixes) and a quickly put together
+title screen (this is honestly probably the most vanilla mapset I've made since
+2006 lol)
+
+To run, simply unzip the archive into your Macenwolf folder and run the included BAT file.
+
+
+CREDITS:
+
+Maps, music remixes - AstroCreep
+Testing - Gerolf
+Title Screen - album art from "Thunder Kiss '65" by White Zombie
+Macenwolf - Serpens, Nexion

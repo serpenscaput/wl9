@@ -1,0 +1,4 @@
+This one's called Dungeon (why, yes, dungeons are today's theme, how did you know?) and it's a three-level Third Encounter mod by Miguel Faria. There's a couple new enemies and other miscellaneous graphic changes. You are an American tourist (!) carefreely sightseeing the Third Reich when the Land of Freedom decideds to join the war on the Allies' side. You end up captured and placed in a pretty harsh internment prison. One failed escape attempt later, you conclude that military staff is rather incompetent in these parts, and since you managed to stash away a pistol, your real escape should be that much easier. Oh, and according to rumors, Hitler himself will be visiting soon... Why not kill two birds with one stone then?
+
+===CREDITS===
+Miguel Faria, website www.geocities.com/scooter_31210, e-mail scooter_31210 (at) yahoo.com

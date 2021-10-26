@@ -1,0 +1,10 @@
+Brute Force
+Game level for Wolfenstein
+7 levels in this one.
+Another installment of a wolf map levels for the game.
+Drop it in the levels folder of Wolfenstein and start it up.
+This is the fourth game level creation. Look for "DeJa Vu", "Ice Man" and "Nukin' Nazis".
+They are worth the down load.
+Created with: ResEdit, WolfEdit 1.1C, and
+WolfMaker 2.0
+Created by Tim Smith trsmith@prairienet.org

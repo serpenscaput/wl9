@@ -1,0 +1,4 @@
+This mod is named Battle for New York Deluxe, six Third Encounter maps in (like the name suggests) an urban environment. So how does a Mac Wolf mod try to simulate a city? Mostly with textures. There's a good twenty new walls and they all appear to have been made from scratch, although some seem to be suffering from palette issues. If they actually come from another game, let me know. These walls and a couple early maps are the best part of the mod; mapping declines somewhat afterwards, and, surprisingly, there are no other new graphics. The author attempts to create a city using vanilla Wolf items and enemies, which sometimes works out, at other times... Well, a maze made of green potted plants in place of a park might raise a few eyebrows. But it's worth seeing with your own eyes.
+
+===Credits===
+Don't know. Clubey fished it out of the depths and fixed a broken pushwall while he was at it.

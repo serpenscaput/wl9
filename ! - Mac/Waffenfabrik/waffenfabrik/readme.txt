@@ -1,0 +1,6 @@
+Waffenfabrik. Five maps, Third Encounter. The plot says Dr. Schabbs (duh, who else) is hidden away in some unnamed mountain fortress slash factory, preparing an army of cyborg clone "assalt" weapons to destroy any and all opposition. You're sent to infiltrate the place alone, kick the doctor's ass and watch your own behind. Standard fare
+
+Content-wise, the mod is very strongly inspired by Laz Rojas. And by "very strongly" I mean pretty much all new walls are from Munchkinstein. The only other graphic changes involve rather creative reuse of a couple sprites; you'll know it when you see it, but your heart might skip a beat right beforehand. You have been warned. The Laz Rojas inspiration extends to maps; they bear some clear resemblance in both architecture and enemy usage.
+
+===CREDITS===
+Slightly uncertain, since in the readme, the author credits WolfAddict and Greg Ewing, but does not credit himself. However, the abstracts file on some old Mac FTP server suggests the mod was made by Mike Hunter, a name easily recognized by anyone following these releases closely (so no one).

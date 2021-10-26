@@ -1,0 +1,4 @@
+Remember Bicman aka Simon? When the whole Macenwolf things was launched, one of the first two mods we gave you was his First Encounter scenario compilation called Simon's Oldies. There were so many scenarios and maps, in fact, it was necessary to split it in two. Well, here's his other set of mapsets, and while this time it's "only" 26 Second Encounter maps spread over six separate scenarios, I believe it's a worthwhile release anyway. Simon's mapping is solid as always and often fairly extensive, providing lots of concent to enjoy. Or not. It's called Simon's Pak, by the way.
+
+===CREDITS===
+Simon/Bicman

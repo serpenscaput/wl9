@@ -1,0 +1,4 @@
+BJ's Revenge is another Third Encounter mapset with 9+1 levels. This time things are pretty simple, you want to finally get revenge for being captured, tortured and killed all the time, but little do you know that they're ready and waiting. The maps are overflowing with enemies and bosses and somewhat simple in design, but there's a twist: the flow of combat is regulated by numerous barrel barricades, locked doors and secret passages. Check it out, but be prepared for some rather slow-moving combat. Oh, one more thing: why "9+1"? Well, there's one map that's not accessible through regular Mac gameplay, but still present in the data. I have included it here, warp to floor 10 to play it. It's not a huge deal, just an alternate layout for the final proper map, but it's there.
+
+===CREDITS===
+Laz Rojas.

@@ -1,0 +1,4 @@
+And ultimately we arrive at Ultimate Wolfenstein. Released by Titus the Fox, it had coding changes, plenty of new graphics (taken largely from Lost Episodes and Blake Stone) as well as fifty new maps, which made it a major release back in 1999, although to be honest I was never a huge fan of the mapping. Ultimate Wolf for Mac - four First Encounter maps by Jared Pace - is... well, I don't really know much about it. Vanilla stuff, the floors are large but simple in design, one of them has the word "CURGER" written over it in big letters. Nothing epic, but you can't let a mod go unplayed, can you? Do it.
+
+===CREDITS===
+Jared Pace

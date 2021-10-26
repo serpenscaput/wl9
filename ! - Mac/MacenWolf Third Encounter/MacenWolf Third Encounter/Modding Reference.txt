@@ -1,0 +1,163 @@
+Some pointers to help you create mods with this engine.
+
+DEFINITIONS, MAPPING
+
+Currently there are complete, functioning WDC definitions. You can find them included under the name mac.wmc, in the Definitions folder. If you've never used WDC before, it uses a project-oriented setup. Install the software first: https://adambiser.itch.io/wdc After launching, go to File -> New Project to create one. Set the base data folder to your MacenWolf folder and the output folder to anything you like (as long as it's empty). 
+
+Now the crucial steps. *PAY ATTENTION*. Click Default Palette and select the included gamepal.pal file. Click Map Data File and select the included mac.wmc file. The next step you must do right here and now, or everything explodes. Switch to Other Options and select Use 128x128 VSWAP Images. Now you can click OK, your new project is ready and you can mod to your heart's content.
+
+We have also prepared ChaosEdit definitions. They're functional, but there is a catch: all enemies count as bosses in map stats. This is because enemies are non-directional. Setting them up as directional screwed up 3D Edit real bad. Given two bad choices, I decided to make the editor's unique feature look better at the cost of mapping statistics.
+
+To use these definitions with ChaosEdit, copy the folder to the mapobjects folder in ChaosEdit. Then run the editor and go to the Customize tab. You'll see a list of extension at the bottom. Expand the dropdown list next to WL6 and select the name of the folder you just copied. To set the right palette, copy gamepal.pal to the palettes folder, go to the Customize tab again, choose the Palette sub-tab and click on gamepal.
+
+Things to look out for when mapping:
+
+*current mapping limits: 64 doors, 750 enemies, 1500 objects
+*you may want to take the 1994 limits into consideration though (see readme for more details)
+*you now have 150 floor codes available and can add more than the current 64 freely
+*normal and secret elevators are handled by putting specific objects (85 and 84) over any wall, not necessarily an elevator wall. Even an empty tile. The switch can also be pressed from all four directions, regardless of which side and texture you're actually facing
+*consequently the secret elevator floor code is no longer useful
+*so is the deaf guard floorcode, now replaced by deaf guard variants for every enemy... including bosses
+*...meaning bosses on the same floorcode now react to your gunfire
+*enemies do not patrol and always face towards the player; even dogs are stationary
+*enemies hear other enemies shoot on the same floorcode
+*when setting up a pushwall, place a tile with the same texture exactly two tiles behind said pushwall. The pushwall will move into it. If you don't do that, you'll end up with an invisible wall there. That's how the Mac game works, don't blame us
+*1st and 2nd encounters have a vacuum spot trick: when you push a pushwall and stand around in the spot where the wall used to be, enemies cannot attack you
+*funney stuff: you can pick up objects inside walls or through corners. Also an enemy placed inside a wall can be woken up (and will move out of the wall) with a rocket or flames. Again, don't blame us.
+*in Third Encounter, enemies cannot open locked doors
+*there is a bunch of special objects at the end of the list. They are for making parts of a wall invisible. White area denotes the part to be transparent. Place the object over a wall to have the desired effect
+*even lower are special objects for doors. Door flushing means the door texture is pushed towards the face of the wall. No door sides is self explanatory
+*enemy AI was modified to match the Mac version, this includes enemies being pretty much unable to see or shoot you from a large distance
+*ghosts block the player now
+*the Death Knight drops the silver key, other non-Hitler bosses drop gold keys
+*there is no end episode trigger, you need to end the game with an elevator or place Hitler on the map
+*killing Hitler ends the game if you're on the last map, but on any other map it simply completes the level. Now there's a trick here... The map can only end when you're on the same floorcode as the now-dead Adolf. If you kill him then quickly run away, you can still roam the map for a while, collecting resources or treasure until you're ready to come back to that room.
+
+INTERFACE HANDLING
+
+The game uses a separate set of files (called IGA*.WL6) for handling the intermission screen assets. Yes this was necessary. You will have to load and manipulate these files separately. ChaosEdit is a good choice here.
+
+GRAPHICS
+
+The VSWAP was heavily rearranged to make my life easier, so you will find things completely out of the usual order. We did not rearrange walls and delete redundant ones though, because it was more trouble than it's worth. You're free to replace and re-introduce the missing walls, while sprites for new objects/enemies should probably go at the end of the list.
+
+GAMEDICT
+
+Numerous game settings are handled with an ini-type file called GAMEDICT.WL6. Currently it includes episode names, starting and ending maps, par times, secret exits, floor and ceiling colors, area numbers, palettes, music, wall shading and mirroring, optional parallax skies, shading and ceiling floor textures, and a compatibility switch. There are some more annotations within the file itself - refer to those.
+
+The 3rdenc compatibility flag, when enabled, does the following funney stuff:
+
+- shorter knife distance 
+- no vacuum spot trick (explained above)
+- enemies can't open locked doors 
+- knife displays 0 ammo
+- objects don't block projectiles. only cage and column block
+- red frame in difficulty menu
+- the amount of points needed for an extra life (20k in 1st/2nd Encounter, 40k in Third)
+- the point at which BJ's face becomes damaged (25% in 1st/2nd, 50% in Third)
+- map limits with the compatibility option enabled: 127 guards, 200 objects in 1st/2nd Encounter and 400 in 3rd, 64 objects visible at one time
+
+MUSIC
+
+There are currently eight tracks corresponding to the eight Mac music tracks. You can have eight more tracks, but they need to be called track09.ogg, track10.ogg... up to track16.ogg. Then use the gamedict file to assign them to specific maps.
+
+SOUNDS
+
+--ENEMY GREETINGS--
+
+DEATHSCREAM6SND.wav - enemy greeting
+SCHUTZADSND.WAV - enemy greeting (Halten sie)
+HALTSND.WAV - enemy greeting (Achtung)
+SPIONSND.WAV - enemy greeting
+DOGBARKSND.WAV - dog bark
+
+AHHHGSND.WAV - Ubermutant greeting
+DIESND.WAV - Hitler losing armor shout
+EINESND.WAV - Death Knight greeting
+GUTENTAGSND.WAV - Hans greeting
+KEINSND.WAV - Trans greeting
+SCHABBSHASND.WAV - Schabbs greeting
+SCHEISTSND.WAV - Hitler greeting fixed (unusued in vanilla game for reasons unknown)
+
+--ATTACKING-- 
+
+ATKGATLINGSND.WAV - player chaingun firing sound
+ATKKNIFESND.WAV - player knife swing sound
+ATKMACHINEGUNSND.wav - player small gun firing sound
+ATKPISTOLSND.WAV - player pistol firing sound
+DONNERSND.WAV - the sound of player knife hitting an enemy
+FLAMETHROWERSND.WAV - player flamethrower firing sound
+MISSILEFIRESND.WAV - rocket launcher firing sound, also enemy firing rockets
+
+BOSSFIRESND.WAV - boss chaingung firing sound
+NAZIFIRESND.WAV - non-SS enemy shooting
+DOGATTACKSND.WAV - dog bite
+SCHABBSTHROWSND.WAV - Schabbs throwing syringe sound
+SSFIRESND.WAV - SS firing sound
+
+MISSILEHITSND.WAV - rocket hitting a target
+
+--HURTING, DYING, MISERY--
+
+DEATHSCREAM1SND.wav
+DEATHSCREAM2SND.wav
+DEATHSCREAM4SND.wav
+DEATHSCREAM5SND.wav
+DEATHSCREAM7SND.wav
+DEATHSCREAM8SND.wav - generic death screams for all non-Dog, non-boss enemies
+
+MEINGOTTSND.WAV - BJ hurting sound
+MUTTISND.WAV - BJ hurting sound
+NAZIHITPLAYERSND.WAV - enemy pain grunts
+ERLAUBENSND.wav - player death
+
+ROSESND.WAV - body thump (for all enemy death sounds)
+
+--PICKUPS--
+
+BONUS1SND.WAV
+BONUS2SND.WAV
+BONUS3SND.WAV
+BONUS4SND.WAV - treasure pickup sounds, BONUS1SND is also for the backpack
+BONUS1UPSND.WAV - 1-up pickup sound
+GETAMMOSND.WAV - picking up ammo
+GETGATLINGSND.WAV - picking up the chaingun
+GETKEYSND.WAV - picking up a key
+GETMACHINESND.WAV - picking up the small gun
+HEALTH1SND.WAV - food and dog food pickup
+HEALTH2SND.WAV - medkit pickup
+
+--INTERMISSION, MENUS--
+
+ENDBONUS1SND.wav
+ENDBONUS2SND.wav - intermission "shooting" sounds
+YEAHSND.WAV - yeah! intermission sound
+PERCENT100SND.WAV - 100% ratio on the intermission screen
+
+MOVEGUN1SND.WAV
+MOVEGUN2SND.WAV - moving around in the menu
+ESCPRESSEDSND.WAV - quit to menu sound
+SHOOTSND.WAV - pressing enter in the Menu
+
+--OTHER SOUNDS--
+
+DONOTHINGSND.WAV - pressing space grunt
+LEVELDONESND.WAV - flipping the elevator switch
+MECHSTEPSND.WAV - Hitler stompin' about
+NOWAYSND.WAV - locked door, no key sound
+OPENDOORSND.wav - door opening
+PUSHWALLSND.WAV - pushwall moving
+
+WHAT ARE ALL THESE OTHER FILES?
+
+episode*.bmp are episode thumbnails visible in the game selection screen. They go up to 12.
+episode.bmp, episodeframe.bmp is the game selection screen
+difframe.bmp and difficulty.bmp are difficulty selection graphics
+*.BRGR files are all palettes. You can substitute your own palettes in ChaosEdit format or define your own names in the GAMEDICT
+gamepal.pal, gamepal2.pal - these are in-game palettes. The first file is in ChaosEdit format, the second one is JASC. This should provide compatibility with most every Wolf editing tool around
+mac.wl6, id.wl6, main.wl6 - these are actually renamed bmp files
+.dll files are all necessary for this to work, but you probably know that
+
+If you have any other questions, please post them on DieHard Wolfers or ModDB. We'll try to answer them and probably update this file with relevant info.
+
+==END OF FILE==

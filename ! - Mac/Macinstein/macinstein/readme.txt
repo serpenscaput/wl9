@@ -1,0 +1,6 @@
+This mod's called Macinstein 3D and according to the documentation, it's best described as Macintosh Desktop 3D world in Wolfenstein. It's only one map for the Third Encounter, but almost every wall texture has been modified to give you an illusion of walking around a (Japanese) Mac desktop. It's an interesting experience. You even get to watch a QuickTime "movie". But there's also danger afoot as drones sent by the evil, greedy Microsoft infest the place! You better be ready to repel their invasion and defeat their hideous leader.
+
+The mod comes with a nice Doom-style text file that tells us, among other things, that the scenario was made in four hours total and the author (SE7EN) likes ramen. You can mail them at yshrkato (at) across.or.jp, but somehow I doubt the e-mail is still active. The credits section mentions Laz Rojas for providing some "nice graphics", which I guess means the landscape and landscape/wall textures and maybe the base for enemy sprites. 
+
+===CREDITS===
+SE7EN with a pinch of Laz Rojas.

@@ -1,0 +1,4 @@
+Released alongside Mutants' Lair, The Haunted Castle (7 Third Encounter maps) is a slightly different matter. Different, with a quirky theme. Within the ranks of Allied secret agencies of espionage and assorted skullduggery, concerning rumors are popping up regarding the dreaded Castle Verboten (yes, really). To date, three secret agents have disappeared without a trace over there, so of course command is going ahead and sending you in as the fourth to-be-lost soul. Well, the first floor's easy enough, just some SS and officers, no big deal. But the second floor is empty. With a growing sense of dread you walk its abandoned halls until oh crap it's a ghost. That or a guy in a really flashy costume. Then you feel its cold touch suck the life force out of you. Nope, it's a ghost. Again, it's not *just* ghosts you'll be facing... But mostly them.
+
+===CREDITS===
+Everything by Laz Rojas

@@ -1,0 +1,4 @@
+This readme concerns two mapsets by the same author. Palm Sunday at the Reich (five maps, Second Encounter) and Spring has Sprung (six maps, Third Encounter) were both made by one Richard Peck. Richard was a rather prominent mapper back then, having release quite a number of mapsets with very creative names, the contents of which have absolutely nothing to do with said names. Rather solid mapping, there's a touch of chaos to his maps, what with many unconventional room shapes and enemies spread about nonchalantly. Heavy use of deaf guards too. According to documentation, Richard Peck never actually intended for his mods to be public, but Clubey talked to him via e-mail and managed to squeeze many mapsets out of him, for us to enjoy now.
+
+===Credits===
+Richard Peck.

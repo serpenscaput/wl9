@@ -1,0 +1,4 @@
+Originally all in Japanese, this mod's translated name is Wolfenstein: The Hell to Heaven. 11 maps for the First Encounter. It's a very old and obscure mod, made in 1996 in Japan, preserved by Clubey for the Western audience to enjoy, then ported by us for the PC audience to enjoy. You better have fun. The story is fairly interesting: you're captured and locked up in the dungeon of a fortress occupied by people who think Hitler is literally God. They are going to use religious brainwashing to convert humanity to Hitlerism, so better kill them all before you yourself fall for their mind control. That's how religion works.
+
+===CREDITS===
+Tomohisa Kishihata

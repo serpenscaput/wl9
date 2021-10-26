@@ -1,0 +1,62 @@
+Escape from Totenhaus
+It's the spring of 1943. and you’re working as an undercover agent behind enemy lines, passing yourself off as a German in a quaint Bavarian village. One afternoon, you’re sitting in a tavern sipping schnapps and flirting with a pretty fraulein when someone identifies you as an Allied spy. Before you can amiably protest and offer to buy the man a drink, somebody else hits you on the back of the head, and the lights go out. The next thing you know, you wake up in what appears to be the basement of a large mansion. But this is no ordinary mansion. This is Totenhaus (House of Death), the dreaded location where Allied spies are taken to be interrogated and executed. Until now. no one has escaped from Totenhaus alive. Will you be the first?
+
+Enemies
+
+KILLER DOGS
+These rabid German Shepherds are fierce, ferocious and go right for your throat.
+GUARD
+The guys in grey go down easy, but there's a lot of them.
+SS
+Members of the elite Shutzstaffel. these guys wear blue uniforms, bullet-proof vests. and tote machine guns.
+OFFICER
+These quick, smart soldiers wear white and see red.
+MUTANT
+These zombies are the work of the evil Dr.
+Schabbs. brought back to life and transformed into three-armed killing machines.
+HANS GROSSE
+This guy carries chainguns as big as cannons and isn't shy about using them.
+FRANZ GROSSE
+Hans' older brother. His chainguns are just as big. and his armor is even stronger.
+UBERMUTANT
+A bigger, badder variety of zombie, this fella barks like a dog and has a chaingun in his chest.
+DEATH KNIGHT
+This monstrosity boasts twin shoulder-mounted rocket launchers and tougher armor than any of the other bosses.
+GENERAL SHEISKOPF
+Totenhaus is his castle. He'll make sure it's your final resting place.
+
+Weapons and Ammo
+
+MACHINE GUN
+Efficient and powerful, it's the primary armament of the SS guards.
+CHAINGUN
+A destructive killing machine, but it has a healthy appetite for ammunition.
+FLAME THROWER
+Shoots out fireballs that'll take out anything in their way.
+ROCKET LAUNCHER
+This can take down a whole slew of troops with just a couple of shots.
+AMMO CLIP
+Contains 5 rounds for pistol, machine gun. and chaingun.
+AMMO BOX
+Contains 25 rounds for pistol, machine gun. and chaingun.
+GAS CAN
+Refills the flame thrower. Good for 14 shots.
+ROCKET CRATE
+Contains 5 rockets for the rocket launcher.
+BACKPACK
+Increases the amount of ammo you can carry. Also contains 20 rounds, 4 shots for the flame thrower, and 5 rockets.
+
+Other Items
+
+DOG FOOD
+Gives a 4% boost to your health. Better than nothing!
+DINNER
+Gives a 10%. boost to your health.
+MEDKIT
+Gives a 25% boost to your health.
+ONE-UP
+Restores your health to 100% and gives you an extra life.
+KEYS
+Some doors throughout the mansion are locked. These will open them.
+TREASURE
+Pick up 50 of these in any one level and you get an extra life.

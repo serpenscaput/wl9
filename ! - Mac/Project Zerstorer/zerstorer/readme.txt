@@ -1,0 +1,8 @@
+Project Zerstörer! Ah, yes. According to comments I've seen on ModDB, for some of you Zerstörer has already been sitting on top of your wishlist for a while. Time to bring it to the table. Ten maps for the Third Encounter and borderline-TC scope of changes, an interesting gimmicky theme and an ocean of new graphics and sounds. Heck, there's even separate sounds specifically for the final map. And lemme tell you, while on Mac you had to save your game before map 10 and paste the new sounds in ResEdit manually, MacenWolf is so AMAZING you don't actually have to do anything, it just works! Credits to John Romero who agreed to code this feature for a mere $666,666, and to Nexion for stealing his code.
+
+Right, but what about the mod itself? The storyline's innocuous enough: there's a new kind of chemical warfare coming up, with general Verruckte planning to deploy vast amounts of poison gas via V-2 missiles, potentially obliterating Allied troops stationed around Germany. The general with his staff are hiding out in castle Hundfelsen and - here's where the gimmicky nature of the mod comes in - they're protected by an all-female SS unit called the Valkyries. So over these ten floors you'll have to eliminate hundreds of tall, slender women clad in black, plus big Helga (their leader) and her darling general himself. And rats.
+
+The maps themselves are also gimmicky in that they really look like a castle when seen from top-down; you got towers in the four corners, long passages between them, and all. Of course the room layout is otherwise unique between the ten of them, so don't worry, it's not like you're getting the same thing times 10. If you're a fan of Laz or slaughtering women, definitely play this one.
+
+===CREDITS===
+Laz Rojas.

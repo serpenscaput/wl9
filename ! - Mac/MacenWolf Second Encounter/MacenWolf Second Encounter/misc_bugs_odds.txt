@@ -1,0 +1,127 @@
+====================== FUN STUFF
+
+The time is not perfectly accurate in some cases.
+
+>>> MAC			60 Hz
+TILE SIZE		256
+Max Player Speed: 	255
+
+PLAYER MOVE	RUNNING		TIME (~secs) 	TILE DISTANCE
+-------------------------------------------------------------
+full turn	no run		2.10 		-
+full turn	run		1.40 		-
+forward 	no run		1.55 		9
+forward 	run		0.83 		9
+backward 	no run		1.55 		9
+backward 	run		0.83 		9
+strafe		no run		3.40 		9
+strafe		run		1.80 		9
+
+>>> WOLF4SDL		70 Hz
+TILE SIZE		0x10000
+Max Player Speed: 	0xAFFF	
+
+PLAYER MOVE	RUNNING		TIME (~secs) 	TILE DISTANCE
+-------------------------------------------------------------
+full turn	no run		 3.40 		-
+full turn	run		 1.70		-
+forward 	no run		 1.80		9
+forward 	run		 0.90		9
+backward 	no run		 2.70		9
+backward 	run		 1.35		9
+single strafe	no run		 1.87		9
+single strafe	run		 0.93		9
+alt strafe	no run		 1.87		9
+alt strafe	run		 0.93		9
+
+
+
+> No endscreen, story and highscores.
+Also episode screen and intermission graphics have their palettes converted and lose some details.
+
+> Enemies have only front graphics and target player only at < 8 tiles.
+> Gun fire won't do any damage if the player somehow manages to go from < 8 tiles to 16 tiles distance before the shot happens.
+> Enemies have low chance (doubled on higher difficulty) of shooting up until 4 tiles to the player.
+> Enemies at < 4 tiles enter endless loop of shooting where they skip first walking frame while moving few pixels.
+> Enemies don't see the player at 16 tiles and beyond.
+
+> 640x480 resolution is basically 640x400 without black frame around and statusbar moved down.
+No extra resolution details. Also 512x384, 640x480 make it look like you can't get as close to enemies
+due to the weapon and statusbar being pushed down.
+
+> Less assets but higher definition and many things being simplified.
+
+> No damage flash because someone thoughts it's a great idea to stare into BJ's eyes.
+
+> Enemies can't open locked doors in 3rd Encounter.
+
+> Projectile Weapons
+First Encounter only has via cheat. In 2nd Encounter projectiles are blocked by all solid objects.
+3rd Encounter lets them pass through statobjects except for columns and cages.
+
+
+====================== BUGS/GLITCHES
+
+> STRAFING
+strafing right + strafing left  = strafe left + turn right
+strafing right 	+ turn right 	= strafe right (no strafe turning)
+strafing left 	+ turn left 	= strafe left (no strafe turning)
+strafing left  	+ turn right 	= strafe left + turn right
+strafing right  + turn left 	= strafe right + turn right (wrong direction)
+
+> Vacuum Pushwall ghost spot
+Blocks targeting of enemies. They forgot to remove nosight flag. 1st/2nd Encounter only.
+
+> Minor things that 3rd Encounter fixed.
+
+> Pick ups inside walls
+Can be picked up.
+
+> Pick ups radius
+They can be picked up over diagonal tile length.
+
+> Enemies inside walls
+Don't react to player until they get hit by a projectile.
+
+> Invisible Pushwalls
+Pushwalls can be only seen from one direction.
+
+> Sprites clipping
+over walls if behind walls at > 10 tile distance.
+
+> Sprites clipping at certain angles
+Sprites have aren't nailed well to the center of the tile. Big sprites can clip into walls
+when player turns away from them in extreme angels.
+
+> Partial walls 
+BSP exploit of editor or incomplete. Enemies don't see the player and shots don't go through.
+
+> Killing final boss and leaving room won't trigger the victory cam until player returns.
+
+> Ratio Crash
+Game crashes if there is no treasure, secret or enemy on the map due to intermission ratios
+dividing by the total stat of any of those.
+
+> Missing Ubermutant attack frame and Hitler sound.
+
+> Walls look cut off on some corners. BSP or scaling issue?
+
+> Sprites can have every few pixel columns being offbeat.
+
+> Talking Dogs
+Very small chance of weapon doing damage = 0 but dogs can yell in human voice if they got hit
+since they have only 1 hitpoint.
+
+> Player clipping
+If player movement is really high using mouse it is possible to clip out of a wall if
+player start position is on this wall. Max speed is tileglobal-1. Also possible to very rarely clip
+at high speed diagonally through objects or into the meeting point of 2 walls.
+
+> Max Actor Limit
+Limit is 128 and lower than the 150 in the DOS version. Third Encounter levels E2L8, E4L8, E6L1, 
+E6L7, and E6L10 exceed that. Game doesn't crash and stops spawning enemies towards the bottom 
+right corner of the map.
+
+> Max Static Objects Limit
+Limit is 200 for the 1st, 2nd Encounter and (around) 400 for the 3rd Encounter. 
+Like enemies any over the limit won't spawn. The max of 200 results in some watered down rooms.

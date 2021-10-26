@@ -1,0 +1,4 @@
+Kevin's Training. Six maps, Third Encounter. Don't ask me who Kevin is. The name indicates you're being deliberately put through difficult combat scenarios in some sort of deadly test, and in this regard, the mapset actually does not disappoint. Kevin keeps things fresh in terms of map design, but the mod's strongest point is enemy placement, designed to maintain variety and challenge you without overwhelming you with guard spam. Well, most of the time. Arguably there's still too many bosses on some maps, and if you've ever wanted to fight Hitler's many brothers alongside the man himself, you're in for a treat. But let's not spoil too much... play and see for yourself.
+
+===CREDITS===
+Kevin from Home Alone.

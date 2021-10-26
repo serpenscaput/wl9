@@ -1,0 +1,747 @@
+<html>
+<head>
+<title>S.U.C.K. Instructions</title>
+</head>
+<body bgcolor=black text="#166136">
+<P>
+<i><font color="#556136"><b><h1>SIMPLE USER CONFIGURATION KIT (S.U.C.K.)</h1></b></i>
+<p>
+<style>
+div
+{
+  border-left: 20px solid black;
+  border-right: 20px solid black;
+}
+</style> <div>
+Suck-ing is a super-easy method to modify the game and barely an inconvenience. Even your brother's dog can do it! 
+It's limited in scripted scope, not overly complex and has some loose screws but lets you do quick changes. With some creativity it gives you enough 
+room to turn the whole game upside down and all around. All you need is a text file, add some variables from below and rename the file to mod.cfg.
+<p>
+<u>To sum up the 4 steps to modding suckcess:</u><br>
+S - Set up a text file <br>
+U - Unleash the variables<br>
+C - Call the file ????<br>
+K - Killing Profit<br>
+<p>
+<b>Jump to a section:</b><br>
+<a href="#enemies">Enemies</a><br>
+<a href="#projectiles">Projectiles</a> <br>
+<a href="#weapons">Weapons and Ammo</a> <br>
+<a href="#levelstart">Level Start</a> <br>
+<a href="#misc">Various Things</a> <br>
+<a href="#static">Static Objects</a> <br>
+<a href="#items">Pick-up Items</a> <br>
+<a href="#hud">Statusbar</a> <br>
+<a href="#sprites">Additional Sprites and Rotations</a> 
+<p>
+<font color="#556136"><b>Gamedict.wl6</font></b><br></font>
+File contains various options to configure your levels and is described in detail in the original documentation. It gives you access to following features: <br>
+<img src="mod_files.png" width=286 height=216 border=0 align="right">
+<ul>
+<li>Floor and Ceiling Colors</li>
+<li>Floor and Ceiling Textures (uses plane 3)</li>
+<li>Shading Color and Strength</li>
+<li>Parallax Sky</li>
+<li>Music Order</li>
+<li>Episode/Scenario ending on specific map</li>
+<li>Episode/Scenario Names</li>
+<li>Episode Length</li>
+<li>Secret Level Order</li>
+<li>Par time</li>
+<li>Level Number on Statusbar</li>
+<li>Mirror Wall Sides (flips wall on x-axis)</li>
+<li>Darker Wall Sides (optionally via plane 3 if textured floor/ceil is off)</li>
+<li>Palettes</li>
+</ul>
+<p>
+<font color="#556136"><b>Level Specific Config</font></b><br>
+It is possible to have a config for each single level by adding the level number at end of the file name. If there is none it will fall back on the 
+main config.
+<p>
+<font color="#556136"><b>modcfg "name"</font></b><br>
+Add this in <font color="#4f6156">GAMEDICT.WL6</font> to set the name for the mod config or else it uses the default file name "mod.cfg". Configs should be located either 
+in "macenwolf/conf" or "macenwolf/modname/conf". The game checks the mod folder first before checking the main one. If there is no config 
+file the game will use the default game settings.<p>
+
+<u>For example:</u><br> 
+<font color="#4f6156">modcfg &emsp; "funguns"</font>
+<p>
+The game will look for a cfg file with the name "funguns.cfg", "funguns02.cfg" for level 2, "funguns37.cfg" for level 37 and so on. Default naming
+would be: mod.cfg, mod02.cfg, etc.
+<p>
+<font color="#556136"><b>Actor Limit</font></b><br>
+Maximum limit per level for a mod is 5000 right now. So be a bit wary when spamming around enemies and projectiles in a level.
+<p>
+<font color="#556136"><b>Multiple VSWAPS</font></b><br>
+You can have a vswap for each single map by naming the file accordingly. Vswap02.wl6 would be for level 2, vswap44.wl6 would be for level 44.
+<p>
+<font color="#556136"><b>Multiple Sound Folders</font></b><br>
+Same as the vswap you can have one for each level. Name the folder sounds02 for level 2 and so on. If it can't find a sound file in  macenwolf/mod/sounds02
+it will look for it in macenwolf/mod/sounds and afterwards go for macenwolf/sounds.
+<p>
+<a name="enemies"></a> 
+<font color="#556136"><b> ============================== ENEMIES ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+Here is a rundown of who is who:<br>
+grd = brown guards<br>
+ofc = white officers<br>
+mut = mutants<br>
+dog = dog<br>
+ss = big blue guards<br>
+hans = blue armored boss<br>
+sbbs = doctor with a needle<br>
+uber = ubermutant<br>
+trns = trans grosse aka brown haired hans<br>
+deth = deathknight<br>
+fake = fake hitler<br>
+mech = mecha hitler<br>
+hitl = adolfo 
+<p>
+<font color="#556136"><b>Rotations for Bosses and Standard Enemies</font></b><br>
+<font color="#4f6156">8-dir-enemies<br>
+8-dir-bosses</font>
+<p>
+Enables rotations for standard enemies (guard, officer, mutant, ss, dog) and/or the bosses. The rotations are moved to the end of the vswap. See also
+the extra sprites section. They use the same map id numbers (also for patrolling) as the classic dos version. Bosses don't have any new spawns. 
+Enemies can walk now on given patrol paths without looking like clowns.<p>
+guard standing frame (front): vswap #281<br>
+guard walking frame 1 (front): vswap #289<br>
+guard walking frame 2 (front): vswap #298<br>
+<p>
+<font color="#556136"><b>Hitpoints (_hp)</font></b><br>
+Health points of the enemies. Below is a list of the default values.<p>
+<font color="#4f6156">
+grd_hp &emsp; 6<br>
+ofc_hp &emsp; 12<br>
+mut_hp &emsp; 18<br>
+dog_hp &emsp; 1<br>
+ss_hp &emsp; 25<br>
+hans_hp &emsp; 250<br>
+sbbs_hp &emsp; 350<br>
+uber_hp &emsp; 400<br>
+trns_hp &emsp; 300<br>
+deth_hp &emsp; 450<br>
+fake_hp	&emsp; 400<br>
+mech_hp &emsp; 250<br>
+hitl_hp &emsp; 250
+</font>
+<p>
+<font color="#556136"><b>Damage inflicted by Enemies (_damage)</font></b><br>
+The amount of the player raging when being shot. The default values are random.
+<p>
+<font color="#4f6156">
+grd_damage &emsp; 10<br>
+ofc_damage &emsp; 33</font>
+<p>
+<font color="#556136"><b>Enemy Speed (_speed)</font></b><br>
+Turn the enemies into road runners. Below is a list of the default values.
+<p>
+<font color="#4f6156">
+grd_speed &emsp; 1280<br>
+ofc_speed &emsp; 2560<br>
+mut_speed &emsp; 1792<br>
+dog_speed &emsp; 2303<br>
+ss_speed &emsp; 1535<br>
+pac_speed &emsp; 3450<br>
+hans_speed &emsp; 1792<br>
+sbbs_speed &emsp; 1280<br>
+uber_speed &emsp; 2048<br>
+trns_speed &emsp; 1792<br>
+deth_speed &emsp; 1792<br>
+fake_speed &emsp; 1536<br>
+mech_speed &emsp; 1792<br>
+hitl_speed &emsp; 2048</font>
+<p>
+<font color="#556136"><b>Enemy Animation Speed (_animspd)</font></b><br>
+The amount of time each enemy frame should be displayed in tics (60 tics = 1 second). Default game has different times for different frame. Affects the 
+walking and attacking. Ranges from goofy to insane.
+<p>
+<font color="#4f6156">
+grd_animspd	70<br>
+ofc_animspd	10</font>
+<p>
+<font color="#556136"><b>Enemy Walk Routine (_chase)</font></b><br>
+<ul>
+<li><font color="#4f6156">default</font>: The usual Wolf3D behavior.</li>
+<li><font color="#4f6156">range</font>: Shooting from distance like the guards usually do.</li>
+<li><font color="#4f6156">melee</font>: Coming close like dogs.</li>
+<li><font color="#4f6156">boss</font>: Dancing like a real boss.</li>
+<li><font color="#4f6156">ghost</font>: Wandering through the vast floors without a real plan.</li>
+<li><font color="#4f6156">flee</font>: Catch them if you can.</li>
+</ul>
+<font color="#4f6156">
+grd_chase &emsp; "ghost"<br>
+ofc_chase &emsp; "melee"</font>
+<p>
+<font color="#556136"><b>Enemy Attack Routine (_attack)</font></b><br>
+<ul>
+<li><font color="#4f6156">default</font>: The usual behavior.</li>
+<li><font color="#4f6156">melee</font>: Bite like a dog.</li>
+<li><font color="#4f6156">bullet</font>: Lets you eat lead.</li>
+<li><font color="#4f6156">needle</font>: Get an free injection.</li>
+<li><font color="#4f6156">fire</font>: Spitting fireballs at you.</li>
+<li><font color="#4f6156">rocket</font>: Incoming missiles.</li>
+<li><font color="#4f6156">fakefire</font>: Add the fakehitler fireball sprites first.</li>
+</ul>
+<font color="#4f6156">
+grd_attack &emsp; "rocket"<br>
+ofc_attack &emsp; "melee"</font>
+<p>
+<a name="projectiles"></a> 
+<font color="#556136"><b> ============================== PROJECTILES ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+What's up with all those projectile names? <p>
+<font color="#4f6156">en_fire</font> = enemy flamethrower ball<br>
+<font color="#4f6156">en_miss</font> = enemy rocket<br>
+<font color="#4f6156">en_need</font> = enemy needle<br>
+<font color="#4f6156">en_ffir</font> = enemy fakehitler fireball<br>
+<font color="#4f6156">pl_fire</font> = player flamethrower ball<br>
+<font color="#4f6156">pl_miss</font> = player rocket<br>
+<font color="#4f6156">pl_need</font> = player needle<br>
+<font color="#4f6156">pl_ffir</font> = player fakehitler fireball<br>
+<p>
+<font color="#556136"><b>Projectile Speed (_speed)</font></b><br>
+How fast the projectiles travel. 
+<P>
+<font color="#4f6156">
+en_fire_speed &emsp; 4608<br>
+en_miss_speed &emsp; 8192<br>
+pl_fire_speed &emsp; 16896<br>
+pl_miss_speed &emsp; 16896</font>
+<p>
+<font color="#556136"><b>Projectile Lifetime (_lifetime)</font></b><br>
+Duration of projectile until it disappears. Normally they don't and only disappear if they hit something.<br>
+Time in tics (60 tics = 1 second).
+<P>
+<font color="#4f6156">
+en_fire_lifetime &emsp; 60<br>
+en_miss_lifetime &emsp; 360<br>
+pl_fire_lifetime &emsp; 360<br>
+pl_miss_lifetime &emsp; 1320</font>
+<p>
+<font color="#556136"><b>Projectile Animation Speed (_animspd)</font></b><br>
+The amount of time each frame should be displayed. <br>
+Time in tics (60 tics = 1 second).<P>
+<p><font color="#4f6156">
+en_fire_animspd &emsp; 6<br>
+en_miss_animspd &emsp; 3<br>
+pl_fire_animspd &emsp; 3<br>
+pl_miss_animspd &emsp; 12</font>
+<p>
+<font color="#556136"><b>Projectile Damage (_damage)</font></b><br>
+The amount of pain given to the target. Default values are random.
+<p><font color="#4f6156">
+en_miss_damage &emsp; 16<br>
+en_need_damage &emsp; 30<br>
+pl_fire_damage &emsp; 113<br>
+pl_miss_damage &emsp; 32</font>
+<p>
+<font color="#556136"><b>Projectile Splash Damage (_splashdmg)</font></b><br>
+The amount of pain given in a certain radius when the projectile hits and explodes. Damage drops off over distance.
+<p>
+<font color="#4f6156">
+en_miss_splashdmg &emsp; 116<br>
+en_need_splashdmg &emsp; 300<br>
+pl_fire_splashdmg &emsp; 13<br>
+pl_miss_splashdmg &emsp; 32</font>
+<p>
+<font color="#556136"><b>Projectile Splash Distance (_splashdist)</font></b><br>
+The radius of the splash damage in tiles.
+<p><font color="#4f6156">
+en_miss_splashdist &emsp; 1<br>
+en_need_splashdist &emsp; 7<br>
+pl_fire_splashdist &emsp; 2<br>
+pl_miss_splashdist &emsp; 64</font>
+<p>
+<font color="#556136"><b>Projectile Self Damage (_splashdist)</font></b><br>
+Who should be damaged by the splash damage?
+<ul>
+<li>player</li>
+<li>enemies</li>
+<li>all</li>
+</ul>
+<p><font color="#4f6156">
+en_miss_splashdist &emsp; "enemies"<br>
+en_need_splashdist &emsp; "player"<br>
+pl_fire_splashdist &emsp; "all"<br>
+pl_miss_splashdist &emsp; "enemies"</font>
+<p>
+<font color="#556136"><b>Projectile Player Knockback (_playerknock)</font></b><br>
+Knockback of player by the splash damage explosion (required). Over 500 can push you through walls.
+<p><font color="#4f6156">
+en_miss_playerknock &emsp; 200<br>
+en_need_playerknock &emsp; 30<br>
+pl_fire_playerknock &emsp; 126<br>
+pl_miss_playerknock &emsp; 13</font>
+<p>
+<font color="#556136"><b>Projectile Homing Factor (_homing)</font></b><br>
+The level of stubborness of a rocket or other flying things.
+<ul>
+<li>none</li>
+<li>low</li>
+<li>medium</li>
+<li>high</li>
+</ul><font color="#4f6156">
+en_miss_homing &emsp; "none"<br>
+en_need_homing &emsp; "high"<br>
+pl_fire_homing &emsp; "medium"<br>
+pl_miss_homing &emsp; "low"</font>
+<p>
+<a name="weapons"></a> 
+<font color="#556136"><b> ============================== WEAPONS ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+This time weapons are indicated by numbers. Shouldn't be too hard to memorize a handful of numbers or?<br>
+0 = knife<br>
+1 = pistol<br>
+2 = machinegun<br>
+3 = chaingun<br>
+4 = flamethrower<br>
+5 = rocket launcher
+<p><font color="#4f6156">
+weapon_type_wp &emsp; 0 &emsp; "rocket"<br>
+weapon_damage_wp &emsp; 3 &emsp; 20</font>
+<p>
+First one refers to the knife (0) and second refers to the chaingun (3).
+<p>
+<font color="#556136"><b>Weapon Type (_type_)</font></b><br>
+Type of weapon. You can make the knife shoot homing rockets.
+<ul>
+<li><font color="#4f6156">melee</font>: Hitscan but short range. Knives, swords, pans.</li>
+<li><font color="#4f6156">hitscan</font>: Knife but with longer distance. Commonly used in pistols. Instant hit or miss.</li>
+<li><font color="#4f6156">rocket</font>: This one doesn't go to space.</li>
+<li><font color="#4f6156">fire</font>: Flamethrower shot.</li>
+<li><font color="#4f6156">needle</font>: Ever wanted to play as Dr. Schabbs?</li>
+<li><font color="#4f6156">fakefire</font>: Fake ghosthitler fireball. Requires adding the fake sprites first.</li>
+</ul><font color="#4f6156">
+weapon_type_wp &emsp; 3 &emsp; "needle"<br>	
+weapon_type_wp &emsp; 4 &emsp; "melee"</font>
+<p>
+<font color="#556136"><b>Weapon Silencer (_silent_)</font></b><br>
+Adds a silencer to your weapon. In case you prefer to be a sneaky ninja. Enemies won't be alerted until one shoots at you.<br>
+<P><font color="#4f6156">
+weapon_silent_wp &emsp; 2<br>	
+weapon_silent_wp &emsp; 5</font>
+<p>
+<font color="#556136"><b>Weapon Damage (_damage_)</font></b><br>
+Make the enemies die slowly. Melee and hitscan damage. Drops off after distance of 10 tiles. Default game has random values.<br>
+For rockets see projectile damage.
+<P><font color="#4f6156">
+weapon_damage_wp &emsp; 3 &emsp; 26<br>	
+weapon_damage_wp &emsp; 4 &emsp; 50</font>
+<p>
+<font color="#556136"><b>Weapon Fire Rate (_firerate_)</font></b><br>
+The attack pattern of the weapon. If you want the chaingun to act like a pistol set it to 0.
+<ul>
+<li>0: single shot style</li>
+<li>1: default knife attack</li>
+<li>2: default gun attack</li>
+<li>3: machinegun style</li>
+<li>4: chaingun style</li>
+</ul><font color="#4f6156">
+weapon_firerate_wp &emsp; 3 &emsp; 0<br>	
+weapon_firerate_wp &emsp; 1 &emsp; 4</font>
+<p>
+<font color="#556136"><b>Weapon Speed (_speed_)</font></b><br>
+Animation speed of weapons. Default is 6.
+<P><font color="#4f6156">
+weapon_speed_wp &emsp; 3 &emsp; 8<br>	
+weapon_speed_wp &emsp; 4 &emsp; 12</font>
+<p>
+<font color="#556136"><b>Weapon Ammo Rate (_ammorate_)</font></b><br>
+How much ammo weapons should eat. Knife is ammoless! Rocket launcher uses rockets.
+<P><font color="#4f6156">
+weapon_ammorate_wp &emsp; 3 &emsp; 80<br>	
+weapon_ammorate_wp &emsp; 5 &emsp; 2</font>
+<p>
+<font color="#556136"><b>Weapon Self Knockback (_knockback_)</font></b><br>
+Kick of shooting a weapon. Reduces by 1/8 over time. Values over 500 can bomb you through walls.
+<P><font color="#4f6156">
+weapon_knockback_wp &emsp; 3 &emsp; 116<br>	
+weapon_knockback_wp &emsp; 5 &emsp; 56</font>
+<p>
+<font color="#556136"><b>Weapon Projectile Amount (_pamount_)</font></b><br>
+Amount of spawned projectiles when firing the weapon.
+<P><font color="#4f6156">
+weapon_pamount_wp &emsp; 3 &emsp; 4<br>	
+weapon_pamount_wp &emsp; 5 &emsp; 1</font>
+<p>
+<font color="#556136"><b>Weapon Projectile Angle (_pangle_)</font></b><br>
+Angle spread of the projectiles. Double, triple and quadruple shots!
+<P><font color="#4f6156">
+weapon_pangle_wp &emsp; 3 &emsp; 15<br>	
+weapon_pangle_wp &emsp; 5 &emsp; 5</font>
+<p>
+<font color="#556136"><b>Weapon Distance (_maxdist_)</font></b><br>
+Maximum reach of weapons. Counts in 1/4 of a tile. A value of 4 means 1 tile. For projectiles see pl_xxx_lifetime.
+<P><font color="#4f6156">
+weapon_maxdist_wp &emsp; 0 &emsp; 8<br>	
+weapon_maxdist_wp &emsp; 1 &emsp; 16</font>
+<p>
+<font color="#556136"><b>Weapon Start (_got_)</font></b><br>
+Start or don't start a level with weapon x in your hands. Without ammo the weapon will show up as soon as you collect some. 
+Do you want a weapon? "Yes" or "No".
+<P><font color="#4f6156">
+weapon_got_wp &emsp; 0 &emsp; "no"<br>	
+weapon_got_wp &emsp; 1 &emsp; "yes"</font>
+<p>
+<font color="#556136"><b>Ammo Capacity (ammo, rockets, gas) (_max)</font></b><br>
+The maximum amount of ammo you can carry.
+<P><font color="#4f6156">
+ammo_max &emsp; 99999<br>	
+gas_max &emsp; 1000<br>
+rocket_max &emsp; 7</font>	
+<p>
+<font color="#556136"><b>Backpack Increment and Capacity (_bag)</font></b><br>
+Ammo increment by backpack and max backpack storage
+<P><font color="#4f6156">
+ammo_bag &emsp; 100<br>	
+ammo_bag_max &emsp; 299</font>
+<p>
+<a name="levelstart"></a> 
+<font color="#556136"><b> ============================== LEVEL START ==============================</b></font>
+<p>
+<font color="#556136"><b>Start Map From Scratch</font></b><br>
+Start next level with weapons, health, ammo, items, score, backpack, lives being reset. Also known as pistol start.
+Excludes 'start' values set in config.
+<P><font color="#4f6156">
+start_from_scratch</font>
+<p>
+<font color="#556136"><b>Ammo Start (ammo, rockets, gas) (_start)</font></b><br>
+The amount of ammo you have in your pockets at entering the level. 
+<P><font color="#4f6156">
+ammo_start &emsp; 8<br>	
+gas_start &emsp; 1126<br>
+rocket_start &emsp; 38278</font>	
+<p>
+<font color="#556136"><b>Health Start (_start)</font></b><br>
+Start level with x health. 
+<P><font color="#4f6156">
+health_start &emsp; 13</font>	
+<p>
+<font color="#556136"><b>Lives Start (_start)</font></b><br>
+Start level with x lives. 
+<P><font color="#4f6156">
+lives_start &emsp; 61</font>	
+<p>
+<a name="misc"></a> 
+<font color="#556136"><b> ============================== MISC ==============================</b></font>
+<p>
+<font color="#556136"><b>Player Movement Speed</font></b><br>
+Speed at which the player moves around. Default is 150. If the game is still too slow for you.
+<P><font color="#4f6156">
+movement_speed &emsp; 300</font>	
+<p>
+<font color="#556136"><b>Player Health Capacity</font></b><br>
+Maximum health of the player.
+<P><font color="#4f6156">
+health_max &emsp; 3000</font>	
+<p>
+<font color="#556136"><b>info "insert text"</font></b><br>
+Shows the given text in the banana menu accessible in the main menu. Maybe you want to give some tips or just write Hello World.
+<p>
+<font color="#4f6156">
+info "THIS CONFIG WAS MADE BY CAPTAIN OBVIOUS"</font>
+<p>
+<font color="#556136"><b>Countdown Timer (in seconds, max. 3599 [1 hour])</font></b><br>
+Command lets you turn on a timer with 3 possible outcomes for the timer ending. Not everyone got as much time as the minotaur.
+<ul>
+<li><font color="#4f6156">die</font>: Kills the player.</li>
+<li><font color="#4f6156">endmap</font>: Sends you to the next map.</li>
+<li><font color="#4f6156">victory</font>: Ends the game in victory.</li>
+</ul><font color="#4f6156">
+countdown_time &emsp; 3599<br>
+countdown_end &emsp; "endmap"</font>
+<p>
+<font color="#556136"><b>Level Mission</font></b><br>
+Optional level mission to end the map or the game (see finalmap definition in gamedict.wl6).
+<ul>
+<li><font color="#4f6156">treasurehunt</font>: You need to collect all treasure items (cross, chalice, chest, crown, life).</li>
+<li><font color="#4f6156">killall</font>: 100% kills needed.</li>
+<li><font color="#4f6156">finditem</font>: Collect a specific item (map id).</li>
+</ul><font color="#4f6156">
+mission &emsp; "finditem"<br>
+targetitem &emsp; 43</font>
+<p>
+This would end the map as soon as you collect the gold key (map id = 43).
+<p>
+<font color="#556136"><b>darktable "name.extension"</font></b><br>
+Shade effect for vertical/horizontal walls, which can be set manually in the gamedict.wl6 via "dwalls" or by using the 3rd plane. It's not an actual palette 
+and just the numbers of your current palette shuffled around to remap the colors. If you set all values to 0 the color of the wall sides would turn into
+the first color of your palette. You could encode color specific messages on certain walls or have blood stains on walls being turned yellow.
+<p>
+<font color="#4f6156">
+darktable "light.pal"</font>
+<p>
+<font color="#556136"><b>vswap64</font></b><br>
+Writing <font color="#4f6156">vswap64</font> into your config will make the game use 64x64 textures and sprites. Prepare your vswap accordingly or
+have fun the salad on your screen.<br>
+File naming for individual levels goes as follows: <font color="#4f6156">vswap0264</font> for level 2, <font color="#4f6156">vswap8964</font> for level 89.
+<p>
+<a name="static"></a> 
+<font color="#556136"><b> ============================== STATIC OBJECTS ==============================</b></font>
+<p>
+You know those things that are plastered all over a level, always block your way, do nothing else except stare at you and laugh about you coming 
+by every 5 minutes.
+<p>
+
+<font color="#556136"><b>Solid Objects (_solid_)</font></b><br>
+Make objects solid ("yes") or not solid ("no").
+<p><font color="#4f6156">
+statobj_solid_id &emsp; 48 &emsp; "yes"<br>
+statobj_solid_id &emsp; 43 &emsp; "no"</font>
+<p>
+<font color="#556136"><b>Disable Pick-Up (_nobonus_)</font></b><br>
+Make a pick-up item (map id number) non-pickable. Below's example won't let you collect the medikit (map id = 48) anymore.
+<p><font color="#4f6156">
+statobj_nobonus_id &emsp; 48</font>
+<p>
+<font color="#556136"><b>Billboard Objects (_board_)</font></b><br>
+Turns objects into flat directional ones. 
+<p>
+Options are: vert_back, vert_front, vert_mid, horiz_back, horiz_front, horiz_mid
+<p><font color="#4f6156">
+statobj_board_id &emsp; 48 &emsp; "vert_mid"<br>
+statobj_board_id &emsp; 37 &emsp; "horiz_front"</font>
+<p>
+<font color="#556136"><b>Lit Objects (_lit_)</font></b><br>
+Make objects bright ("yes") or not ("no"). Requires shading to be enabled to have any effect.
+<p><font color="#4f6156">
+statobj_lit_id &emsp; 48 &emsp; "yes"<br>
+statobj_lit_id &emsp; 37 &emsp; "no"</font>
+<p>
+<a name="items"></a> 
+<font color="#556136"><b> ============================== ITEMS ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+<font color="#4f6156">cross</font> = cross, treasure item<br>
+<font color="#4f6156">chalice</font> = golden chalice, can be sold at auctions<br>
+<font color="#4f6156">chest</font> = full of fake diamonds<br>
+<font color="#4f6156">crown</font> = be the King of Wolfenstein<br>
+<font color="#4f6156">ammoclip</font> = ammo clip placed on map<br>
+<font color="#4f6156">ammoclip2</font> = ammo dropped by enemies<br>
+<font color="#4f6156">ammobox</font> = box full of little friends running faster than you<br>
+<font color="#4f6156">dogfood</font> = don't steal the food man's best friend<br>
+<font color="#4f6156">food</font> = dirty food on the floor <br>
+<font color="#4f6156">medikit</font> = it's good for you<br>
+<font color="#4f6156">life</font> = usually a blue sphere with a face on it<br>
+<font color="#4f6156">gascan</font> = ammo for the flamethrower<br>
+<font color="#4f6156">rockets</font> = missiles for the missile launcher or whatever you made out of it<br>
+<p>
+<font color="#556136"><b>Effects</font></b><br>
+<font color="#4f6156">_damage</font> = damage to the player<br>
+<font color="#4f6156">_health</font> = health for the player<br>
+<font color="#4f6156">_ammo</font> = ammo amount<br>
+<font color="#4f6156">_gas</font> = flamethrower ammo<br>
+<font color="#4f6156">_rockets</font> = missile amount<br>
+<font color="#4f6156">_time</font> = adds time to the countdown timer if enabled (in seconds)<br>
+<font color="#4f6156">_ignore "health"</font> = you can't pick it up if you have maximum health<br>
+<font color="#4f6156">_ignore "ammo"</font> = you can't pick it up if you have maximum ammo<br>
+<font color="#4f6156">_ignore "gas"</font> = you can't pick it up if you have maximum gas<br>
+<font color="#4f6156">_ignore "rockets"</font> = you can't pick it up if you have maximum rockets<br>
+<p>
+<u>Some examples:</u>
+<p><font color="#4f6156">
+chest_time 10<br>
+ammobox_time 10<br></font>
+Collecting the chest or ammobox item gives you 10 extra seconds for the countdown timer.
+<p><font color="#4f6156">
+food_ignore "ammo"<br></font>
+You can't pick up food if your ammo is at max.
+<p> <font color="#4f6156">
+cross_damage 10<br>
+cross_rockets 6<br></font>
+This gives you 10 damage and 6 rockets when picking up the cross.
+<p><font color="#4f6156">
+medikit_ammo 10<br>
+medikit_damage 50<br>
+medikit_rockets 42<br></font>
+Collect a medikit and get 10 bullets, 42 rockets and 50 damage.
+<p> 
+<a name="hud"></a> 
+<font color="#556136"><b> ============================== HUD/STATUSBAR ==============================</b></font>
+<p>
+<font color="#556136"><b>hud_x id amount</font></b><br>
+The id refers to the part of the hud you want to modify. "hud_x id 1111" and "hud_y id 1111" disable the given HUD part.
+The default alignment is bottom_center.
+<p><font color="#4f6156">
+hud_x id amount<br>
+hud_y id amount</font><br>
+hud_align id alignment ("bottom_right", "bottom_left", "bottom_center", "top_right", "top_left", "top_center")
+<p>
+1 = statusbar<br>
+2 = area<br>
+3 = items<br>
+4 = items total<br>
+5 = secrets<br>
+6 = secrets total<br>
+7 = score<br>
+8 = kills<br>
+9 = enemies<br>
+10 = face<br>
+11 = lives<br>
+12 = health<br>
+13 = ammo combined<br>
+14 = ammo gas<br>
+15 = ammo rockets<br>
+16 = ammo bullets<br>
+17 = key gold<br>
+18 = key silver<br>
+19 = timer
+<p>
+<font color="#4f6156">
+hud_x 1 1111<br>
+hud_y 1 1111</font><br>
+Disables the main statusbar.
+<p><font color="#4f6156">
+hud_x 9 16<br>
+hud_y 9 75<br>
+hud_align 9 "top_right"</font><br>
+Adds enemy count and moves it to the top right.
+<p><font color="#4f6156">
+hud_x 17 11<br>
+hud_y 17 33<br>
+hud_align 17 "bottom_left"</font><br>
+Moves the gold key to the bottom left.
+<p>
+<a name="sprites"></a> 
+<font color="#556136"><b> ============================== EXTRA SPRITES ==============================</b></font>
+<p>
+<font color="#556136"><b>Unused static objects</font></b><br>
+To make use of 12 unused static objects you need to add <font color="#556136"><b>12</b></font> sprites after the last sprite (BJ-automap-face). <br>
+Here are the corresponding <font color="#556136"><b>map id numbers</b></font> in the same order as the sprites: 
+<font color="#556136"><b>25, 28, 32, 33, 38, 41, 45, 60, 61, 68, 69, 70</b></font>
+<p>
+<font color="#556136"><b>Fakehitler</font></b><br>
+Followed by <font color="#556136"><b>13</b></font> sprites for Fake Hitler <font color="#556136"><b>(map id 160)</b></font>. The order is: <br>
+4 walk frames<br>
+1 attack frame<br>
+2 fireball frames<br>
+6 death frames<br>
+<p>
+<font color="#556136"><b>BJ's Endgame Run</font></b><br>
+Followed by <font color="#556136"><b>8</b></font> sprites for the BJ jump 'n' run animation, in case you want to use the endgame trigger.
+<p>
+<font color="#556136"><b>Rotations</font></b><br>
+After the endgame run come the rotations for the standard enemies or bosses.<br>
+If you have both enabled it is first the enemies and then the bosses.
+<p>
+If you want to just add the rotations and not the fakehitler or BJ jump you still need to add some filler sprites before the rotations.
+If you think this solution is stupid feel free to change it yourself.
+<p>
+<u>Vswap order with both rotations enabled: </u><br>
+victory | projectiles | enemies | static | pacman | weapons | boss fix frame | BJ automap (4) | unused stats (12) | Fake Hitler (13) | BJ run (8) | 8-dir enemies (200) | 8-dir bosses (280)
+<p>
+<u>Vswap order with only boss rotations: </u><br>
+victory | projectiles | enemies | static | pacman | weapons | boss fix frame | BJ automap (4) | unused stats (12) | Fake Hitler (13) | BJ run (8) | 8-dir bosses (280)
+<p>
+<u>Order of the enemy rotations:</u><br>
+| dog | guard | mutant | officer | ss |
+<p>
+<u>Order of the boss rotations:</u><br>
+| deathknight (starts at 241 or 441) | hans | hitler | ubermutant | mecha | schabbs | trans grosse |
+<p>
+<u>Order of enemy rotation in detail. 40 frames for each one.</u><br> 
+| 8 sprites standing | 8 sprites walk frame 1 | 8 sprites walk frame 2 | 8 sprites walk frame 3 | 8 sprites walk frame 4 |
+<p>
+Reference numbers with 8-dir bosses and 8-dir enemies enabled. If you are using WDC subtract 2 from the sprite num. In the screenshot it would be 209-2. 
+WDC doesn't count the first sprites, game over and victory.<p>
+<img src="mod_spr_ce.png" width=239 height=141 border=0 align="right">
+<img src="mod_spr_wdc.png" width=303 height=213 border=0 align="right">
+<style>
+table, th, td 
+{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+</style>
+<table>
+<tr>
+<th>SPRITE</th>
+<th>SPRITE NUMBER</th>
+</tr>
+<tr>
+<td>Automap BJ West</td> 
+<td style="text-align:center">207</td>
+</tr>
+<tr>
+<td>Unused Stat 1</td>	
+<td style="text-align:center">208</td>
+</tr>
+<tr>
+<td>Fakehitler Frame 1</td>	
+<td style="text-align:center">220</td>
+</tr>
+<tr>
+<td>BJ Jump 1</td>	
+<td style="text-align:center">233</td>
+</tr>
+<tr>
+<td>Dog Stand 1</td>	
+<td style="text-align:center">241</td>
+</tr>
+<tr>
+<td>Guard Stand 1</td>	
+<td style="text-align:center">281</td>
+</tr>
+<tr>
+<td>Guard Walk 1 Frame 1</td>	
+<td style="text-align:center">289</td>
+</tr>
+<tr>
+<td>Mutant Stand 1</td>	
+<td style="text-align:center">321</td>
+</tr>
+<tr>
+<td>Officer Stand 1</td>	
+<td style="text-align:center">361</td>
+</tr>
+<tr>
+<td>SS Stand 1</td>	
+<td style="text-align:center">401</td>
+</tr>
+<tr>
+<td>Deathknight Stand 1</td>	
+<td style="text-align:center">441</td>
+</tr>
+<tr>
+<td>Hans Stand 1</td>
+<td style="text-align:center">481</td>
+</tr>
+<tr>
+<td>Hitler Stand 1</td>	
+<td style="text-align:center">521</td>
+</tr>
+<tr>
+<td>Uber Stand 1</td>
+<td style="text-align:center">561</td>
+</tr>
+<tr>
+<td>Mecha Stand 1</td>	
+<td style="text-align:center">601</td>
+</tr>
+<tr>
+<td>Schabbs Stand 1	</td>
+<td style="text-align:center">641</td>
+</tr>
+<tr>
+<td>Trans Stand 1</td>	
+<td style="text-align:center">682</td>
+</tr>
+</table>
+<p>
+<!-- 
+If you can read this tnen you are a noob!
+Expected some wisdom or trivia here?
+Go play https;//moddb.com/mods/untergang 
+-->
+<p>
+<font color="#556136"><b><u>LINKS</u></b>
+<P>
+<a HREF="https://wl6.fandom.com/wiki/MacenWolf" target="_blank">MacenWolf on WL6 Wiki</a><br>
+<a HREF="https://www.moddb.com/mods/macenwolf" target="_blank">ModDB page</a><br>
+<p>
+</body>
+</html>

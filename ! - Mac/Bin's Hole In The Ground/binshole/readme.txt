@@ -1,0 +1,4 @@
+This is part of a four-mod release of Bin Laden-themed mods. Bin's Hole (In The Ground) is the name of Bin Ladenstein's scenario file, but it's also the name of another mod distributed as a separate scenario, with no additional files or documentation. It also has one map, in fact largely the same one as Bin Laden/Wolfenstein, but there are some differences in guard placements and the new graphics differ quite a bit between the two releases. The mods are obviously related to each other, but I can't tell which one came first, or if one is a prototype of the other. Just another Mac mystery, never to be solved.
+
+===Credits===
+Not sure, but probably George.

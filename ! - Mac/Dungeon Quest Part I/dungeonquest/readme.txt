@@ -1,0 +1,8 @@
+The big one is called Dungeon Quest Part I: Barons from the Underworld. Long title, long game: this mod by Alan B. Clem gives us 23 maps for the Third Encounter and is basically a total conversion; maps are all new and nearly every audiovisual resource in the game is replaced. There's even some new music! It's a major, pretty epic undertaking taking place in a suitably epic fantasy setting.
+
+The story is as follows. Twenty years ago, a villager has gone missing on his way to the city of Tarikana. Some of the more adventurous locals set out to find him, but they all end up murdered by supernatural beigns in a dark valley - or so the lone survivor says, but no one believes him. And yet, over the years, increasingly more people disappear in unclear circumstances. Fast forward to now and these incidents have gradually turned into outright terror raids as demons and witches ravage villages and towns. As it turns out, one man stands behind this invasion: he's called the Flash Deamon and this is his revenge on the people of Tarikana, who harassed and ruined his family.
+
+You are Thorax, a young adventurer skilled in both magic and blade. You have volunteered to infiltrate the Flash Deamon's fortress and defeat the evil mage, but of course he's protected by hordes of magical enemies. But you will succeed, won't you? You always do.
+
+===CREDITS===
+Made by Alan B. Clem, "additional image assistance" by Laz Rojas (gee, he sure shows up a lot, I wonder why?) and Casey Renz, playtesting also by Casey Renz

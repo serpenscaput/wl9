@@ -1,0 +1,6 @@
+Operation Indy is only one map for the First Encounter, but don't let appearances fool you, it's an interesting beast. Made by skavin (who has a PowerMac 61000 w/ 7.15 sys software), it puts you in the shoes of Indiana Jones, seeking to retrieve treasures stolen by the Nazis in Algiers, North Africa. Despite this introduction, the mod doesn't actually do much to reflect the theme in terms of visuals (in fact it's all vanilla), but the map itself is rather suitably Indy-like, with tons of secrets, tight passages, fake-outs, tricky areas, heavy oppositon... Your main goal is a single piece of treasure - a cross - and if you activate the elevator switch before collecting it, your mission is considered to be a failure.
+
+There were supposed to be four more levels for this mod, each focusing on the other four Wolfenstein treasures, but the author was only willing to give them away in a tradeware manner: you send him a piece of software or another Wolf scenario, he gives you the full set in return, the exchange being conducted via e-mail. However, I don't know if the full thing is available anywhere. Perhaps it's lost forever just like two entries of Cliff Drumeller's Run & Gun series, or maybe they never existed in the first place. Hey, skavin, if you're reading this - hand 'em over!
+
+===CREDITS===
+skavin

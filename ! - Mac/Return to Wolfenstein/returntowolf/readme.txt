@@ -1,0 +1,4 @@
+Although my files say 1998, Return to Wolfenstein for DOS by Kurt Funkyhouse was only released on the first day of 2000. With a storyline about Schabbs, 20 new maps and some changed graphics, it was an acceptable offering. Return to Wolfenstein for DOS has no new graphics and only 12 maps, but does smaller necessarily mean worse? Nah. Some maps are more interesting and some - less so, some are very small and some - expansive, but they average out to what I have to once again call "par for the course". Ultimately it's another Mac mapset, which means you will play it anyway. You might not think so at the moment, but stop kidding yourself; you will.
+
+===CREDITS===
+There was no readme included, so I don't know anything.

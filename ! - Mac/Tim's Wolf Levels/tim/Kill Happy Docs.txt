@@ -1,0 +1,9 @@
+Kill Happy
+Game level for Wolfenstein 3D
+This is, so far, the hardest game map I have come up with for Wolfenstein. Not much thinking involved here. Just run and blast everything that gets in your way. conserve ammo.
+This is the fifth game level I have worked on and it is quite different from the others, try them: "DeJa Vu", "Ice Man", "Brute Force", and "Nukin' Nazis".
+Created with WolfEdit 1.1C and ResEdit which is available on the net.
+Don't worry.... Be Kill Happy....
+Created by Tim Smith
+trsmith@prairienet.org
+http://www.prairienet.org/~trsmith/homepage.html

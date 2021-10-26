@@ -1,0 +1,4 @@
+OK, I'm afraid anything coming after Tim's maps is doomed to be a bit of an anticlimax, so apologies Tom, but Tom's Wolf Map (alternatively called Tom's Big Map) is next. Actually three maps for the Third (I hope) Encounter, the last of which is Tom's very first Wolfenstein map. Tom mentions some possible bugs in the readme, but I don't think any of those will be happening on MacenWolf (it's just that good (not really)). Map designs are OK aside from the final floor, it's not a momentous release by any means, but if you're reading this, you're probably going to try it anyway.
+
+===CREDITS===
+Tom. Williford.

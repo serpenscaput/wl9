@@ -1,0 +1,4 @@
+Schoolenstein, Schoolenstein. Combining Nazis, first person shooters and schools seems like extremely risky business, given what happened with Doom, but in the Wolf community it has been tried a bunch of times and nobody cared. Schoolenstein for DOS offers 10 new maps by Spiffingerroneous, while Schoolenstein for Mac comprises two new maps by ET Software/ERupinski. Both games come with a fair deal of new school-themed graphics, and while certain quirky details differ (like why are you looking for the Spear of Destiny in an American school?!), the overall storylines are similar: the Nazis have overtaken one school or more, get rid of them and kill the principal along the way. The two maps aren't very big and have a blocky desing that you would expect of a real building, but they're heavily decorated and overall competent, and so taking the time to explore what they have to offer should be worth your while.
+
+===CREDITS===
+ET Software / ERupinski (at) AOL.com

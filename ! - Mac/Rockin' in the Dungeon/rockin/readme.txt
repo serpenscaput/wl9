@@ -1,0 +1,6 @@
+So we got two releases by Josh Gershman today. The first one is called Party and gives us three new maps to fight through. The readme does not say much, so I guess you just get drunk, dance to some crappy music and complain about a pounding headache the day after. And where did all that blood come from? "Party" is not a massive creation by any means, as the maps range from very small to middling in size. Their difficulty level follows a steadily increasing pace wherein the initial light resistance of brown guards will slowly grow in numbers, eventually reinforced by the inclusion of SS, all within familiar cramped areas of traditional Mac mapping. Then you will hit something of a roadblock. Good luck.
+
+Then we have Rockin' in the Dungeon, which means it's time to renounce pop music and low brow electronica and do some headbangin' instead. While the number of maps has doubled (6 maps in total), they are instead all miniscule in size, very simplistic, and abandon all notions of difficulty progression. In short, another exciting Wolfenstein adventure.
+
+===CREDITS===
+Josh Gershman. As is often the case, he gives his e-mail address: Joshabc (at) aol.com. But AOL is not exactly at the height of its popularity these days, so...

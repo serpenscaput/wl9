@@ -1,0 +1,4 @@
+Operation Emerald Light is a Japanese First Encounter mapset by Yoshimichi Endoh, 10 maps all in all. I don't know much about it, the original readme is in Japanese and all garbled, and if it has a storyline (it should, given the interesting name...), Clubey (who rescued the scenario out of the depths of Japanese modding scene, as usual) says nothing on the topic. The maps themselves are of rather varied quality and complexity, low on decoration and high on guard congestion (especially later on), predictably climaxing in a battle with Hans (or two, or three)... Give it a go.
+
+===CREDITS===
+Yoshimichi Endoh

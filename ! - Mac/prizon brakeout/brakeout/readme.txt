@@ -1,0 +1,4 @@
+Welcome to prizon brakeout. Yes, that's the actual name, lack of capitalization and all. With four very compact Third Encounter maps, it's a simple snario whare you must escape some undetermined prizon, killing some gards (whak! thak! smak!) and picking up a sweet pistol (ripped from some very old Bungie game) along the way. The game also features a few new walls and one new enemy, though on Mac you don't get to see the latter because the game crashes when loading map 3. This does not happen on PC and you can actually play the entire thing, for better or worse. But who cares. The attached documentation is a delight and honestly the main reason for downloading this mod. Actually playing is optional. All in all, highly recommended.
+
+===Credits===
+zenoen (at) sbcglobal.net

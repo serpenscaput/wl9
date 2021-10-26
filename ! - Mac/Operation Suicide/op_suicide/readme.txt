@@ -1,0 +1,4 @@
+The pleasantly named Operation Suicide is three vanilla maps for the First Encounter, featuring some fairly interesting mapping though I believe slightly mired by the usual overwhelming Mac enemy crowds. Steal a fortress, kill some treasure, infiltrate guards... Doesn't sound like a big deal, right? But then you reach floor 3 and are faced with a large array of doors, and you realize it's a puzzle that requires real life knowledge to solve. Examine the readme, it tells you all you need to know. Get it right and achieve glory, get it wrong and have some death in the face. Sort of neat.
+
+===CREDITS===
+Sadly the author does not introduce himself anywhere in the readme

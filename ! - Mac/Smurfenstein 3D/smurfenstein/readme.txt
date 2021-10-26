@@ -1,0 +1,6 @@
+It's Smurfenstein 3D! Yeah, let's explain this one a little bit. See, back in 1983, a short time after the original Castle Wolfenstein on Apple II was released, a few high schoolers made what is probably one of the oldest examples of a video game mod: Castle Smurfenstein. They picked Smurfs because Nazis aren't quite as terrifying. This involved a changed title screen, new enemy graphics and an entirely new story. See, SMURF actually stands for Secret Military Underground Resistance Force. Created by Hitler and company in post-war Argentina, Smurfs were the key to establishing a Fourth Reich - peacefully (almost)! Overwhelmed by Smurf propaganda, other countries would simply lose the will to fight and fall over.
+
+You are Smurfbutcher Bob (applause please) and yes, you are the world's final hope. But the dastardly Smurfs have captured you and you find yourself imprisoned in the infamous Castle Smurfenstein. Well, no point in sitting around on your butt - kill them all and steal their plans of global conquest. Will you save the world and come home before dinner? Or are you just Smurf food?
+
+===CREDITS===
+Clubey. But since the thing is loosely based on the original Castle Smurfenstein, let's mention its authors too: Andrew Johnson and Preston Nevins with help from Rob Romanchuk.

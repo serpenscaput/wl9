@@ -1,0 +1,11 @@
+Ice Man
+Game level for Wolfenstein 3D
+Yet another game level.
+You will need to think through these 8 levels of "Ice Man".
+They can be tricky at times but don't worry; they are not frustrating or impossible 
+to finish.
+Once again, I have been conservative with the hidden doors.
+(when used, they make sense)
+Created with WolfEdit 1.1C which is available on the net.
+If you want to kill 'em all, play Ice Man
+Created by Tim Smith trsmith@prairienet.org

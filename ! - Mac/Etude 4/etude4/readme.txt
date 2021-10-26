@@ -1,0 +1,4 @@
+Etude 4 - 10 Levels for the 1st Encounter. The fun of making levels, brushing up editing skills etc. Clubey again says he used an entire scenario as the basis for this release, but doesn't remember what or whose scenario it was. This is an interesting claim, as we don't really know just how far did Clubey's edits go, and what we have here is three maps (8 to 10) that markedly differ from the remainder, especially the tenth one with its expansiveness and complexity. Perhaps those three final maps were the untouched ones while everything else suffered some nightmarish excising and reattachment surgeries. We'll never know.
+
+===CREDITS===
+Clubey.

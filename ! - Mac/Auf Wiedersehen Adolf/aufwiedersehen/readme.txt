@@ -1,0 +1,4 @@
+So starting with Laz Rojas, the first release is a mapset called Auf Wiedersehen, Adolf; 15 maps for the Third Encounter. Storyline: go kill Hitler. OK, there's a bit more to it... You're sent to a top secret Nazi installation, but having fought through the entire thing, you notice Hitler was never there in the first place. You do discover a system of secret passages underneath the building though. The following maps will bring you through a variety of fairly interesting designs, including some outdoor-style areas. As usual, they are all packed with enemies and you even get to kill a few Hitler impostors before you encounter the man himself. Pretty interesting stuff, not gonna lie.
+
+===CREDITS===
+Laz Rojas.

@@ -1,0 +1,10 @@
+I think it's been a while since our last major port. But what exactly does "major" mean? If I remember correctly, a certain person once said that nothing in the Mac modding scene is worthy of any attention except maybe for Laz and some Clubey mods. And since what we're about to unleash is a Clubey mod, it fits the bill perfecly.
+
+So there you have The Ghosts of Wolfenstein. Sadly only a demo (I can't find a full version anywhere an according to the most recent archive of Clubey's webpage, it never really progressed past the demo stage), it gives us six Third Encounter maps with significant visual changes. While the set starts off in a rather familiar environment - indeed it's just the opening Second Encounter map with increased opposition and some minor design changes - starting from map 2 you will again experience trademark, tight and cramped Clubey mapping where numerous nominally decorative objects serve as obstacles, delaying your progress towards eliminating hordes of dangerous enemies.
+
+I must warn you that this mod is very dark. And I don't mean in the sense that it explores grimdark psychological themes and grotesque bodily horrors. If you thought Witching Hour was dark, play this mod and you will never witch about darkness in Bitching Hour again. And unlike Doom 3, you don't get a flashlight.
+
+OK, so what themes *does* the mod explore? Let me quote the entirety of its storyline: "I'll make one when the full version comes along. There is one already in my head!". The only story so far is told by the mod's visuals, where you fight the eponymous ghosts hiding among all-encompassing darkness. The readme further tells us that Ghosts of Wolfenstein originated from an expriment with a dark map with changed ceiling colors, harking back to In The Wolves' Lair. Clubey further indicates that further progress on this mod would be dependent on user feedback, so I guess either nobody cared, or other things (like life) put a stop to it.
+
+===CREDITS===
+Clubey, duh.

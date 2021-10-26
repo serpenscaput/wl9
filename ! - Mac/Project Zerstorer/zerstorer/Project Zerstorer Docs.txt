@@ -1,0 +1,83 @@
+Project Zerstorer
+
+Allied intelligence has learned that SS-Obergruppenfuhrer Gunther Verruckte has designed a new battlefield weapon that threatens to turn the tide of the war in Germany's favor, and that Hitler has approved the project and commissioned its development. Code-named Zerstorer (Destroyer), the project involves the use of V-2 rockets to deliver high quantities of poison gas against Allied troops in Europe. The danger posed by this weapon cannot be minimized, and it must not be allowed to reach completion.
+
+Intelligence sources report that General Verruckte and the project's staff are holed up at Castle Hundfelsen in the Bavarian Alps, and that they are being closely protected by an elite, all-female SS unit known as the Valkyries. Not much is known about the Valkyries except that they are deadly, highly-trained, and hand-picked by their leader, Helga Fetthintern. Fetthintern, a former opera singer, is rumored to have been a paramour of Verruckte in their younger days, and she apparently formed the unit two years ago at his recommendation. Your mission is to penetrate the Hundfelsen stronghold, eliminate both Verruckte and Fetthintern, and steal the plans for the new weapon.
+
+Enemies
+RAT
+Don't let their small size fool you. They have razor-sharp teeth, and the basement cellar at Caste Hundfelsen is infested with them.
+
+GUARD
+Don't be fooled by the pigtails. Sugar and spice had nothing to do with the making of these girls, and they are certainly not nice.
+
+STORM TROOPER
+Armed with MP40 machine guns, these girls give new meaning to female domination.
+
+OFFICER
+These girls will pull out a Luger faster than you can say, "Gutentag, fraulein."
+
+ASSASSIN
+These quick and silent killers are as deadly as they are lovely.
+
+Bosses
+
+HILDEGARD LIESEL
+GRETCHEN BIRGIT
+These four ore the cream of the crop of the Valkyries and serve as Helga's personal bodyguards. Fiercely loyal and fanatical, they have taken a blood oath to protect their mistress to the death.
+
+HELGA FETTHINTERN
+A former opera singer, she found a new purpose in life as the leader of the Valkyries. It ain't over till the fat lady sings.
+
+GENERAL VERRUCKTE
+The leader of Projekt Zerstorer, this madman must be stopped at all costs, and his weapons must never see the light of day.
+
+Weapons&Ammo
+
+LUGER P-08
+Personal sidearm carried by most members of the Valkyries.
+
+MASCHINENPISTOLE 40
+Fast and automatic, the MP40 is the weapon of choice of storm troopers.
+
+MASCHINENGEWEHR 42
+The MG42 is a destructive killing machine, but it has a healthy appetite for ammo.
+
+FLAMMENWERFER
+Powered by a mixture of gasoline and flammol, this shoots fireballs that'll roast anything in their path.
+
+PANZERSCHRECK
+This portable rocket launcher can take out a tank... or a whole bunch of troops.
+
+AMMO BOX
+Contains 25 rounds for the Luger, MP40, and MG42.
+
+GAS CAN
+Refills the flame thrower. Good for 14 shots.
+
+ROCKET CRATE
+Contains 5 rockets for the panzerschreck.
+
+BACKPACK
+Increases the amount of ammo you can carry. Also contains 20 rounds, 4 shots for the flame thrower, and 5 rockets.
+
+Other Items
+
+DEAD RAT
+It may not look very appetizing, but it gives a 4% boost to your health.
+
+CHICKEN DINNER
+Gives a 10% boost to your health.
+
+FIRST AID
+Gives a 25% boost to your health.
+
+ONE-UP
+Restores your health to 100% and gives you an extra life.
+
+KEYS
+Some areas are restricted or off-limits.
+These will open all locked doors.
+
+TREASURE
+Pick up 50 of these in any one level and you get an extra life.

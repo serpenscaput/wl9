@@ -1,0 +1,4 @@
+Angst! by Kirk Clyne is a minor two-level mapset for the First Encounter, nothing spectacular, no fireworks, no sounds or graphics, just a small dish of decent Mac mapping. There is some decent design variety and non-linearity here, plus combat isn't as enemy spam-based as some other mods. Angst! Koikenstein is also a two-level mapset by the same author. I initially picked it up thinking it's a completely different release, but it's fact it's an updated version of Angst!, taking advantage of Second Encounter features. It also comes with a text file telling us some neat background about this mod; turns out, Kirk/Koik created this when thinking of some bad experiences related to the place he used to work at. As such, the second map represents a restaurant while the first sort-of represents the park it's placed at. So have fun shooting up a restaurant, and remember, Never Relax!
+
+===CREDITS===
+Kirk Clyne ver KOIK. He gives his contact info as KOIK@AOL

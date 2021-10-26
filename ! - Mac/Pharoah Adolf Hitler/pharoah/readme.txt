@@ -1,0 +1,4 @@
+Pharoah Adolf Hitler by John Wigand is a 10-map adventure for the Third Encounter with an unusual story. The conquests of Afrika Korps have encouraged Hitler so much, he's decided to build himself an actual pyramid, Giza style. Your mission is to break inside, find him and ensure his sarcophagus will soon be in use. The whole thing is a giant maze, not just in terms of mapping, but also the elevator system, where each exit might lead to an unexpected place. The premise is clearly established, each map has a bit of its own twist and they get progressively smaller like you would expect of a pyramid, in practice you also get tons and tons of nearly identical 3x3 brown rooms and samey passages. See if you can derive some fun from unraveling this twisted knot.
+
+===CREDITS===
+Jon Wigand of Wizbang Software.
