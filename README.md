@@ -8,7 +8,8 @@ I tried to cover every piece of software I could think of, but the ROTT section 
 about ROTT tools or mods. To be corrected in the future, I guess.
 
 Since many files contained long lines and so wouldn't wrap when displayed, they were batch modified to force a line break after 
-every 60-80 characters. Hope they don't look ugly, but things seem fine at first glance.
+every 60-80 characters. Hope they don't look ugly, but things seem fine at first glance. If you encounter a file that isn't wrapping, 
+click "Raw" when viewing it and your browser should do the job then.
 
 2. What's not here?
 
