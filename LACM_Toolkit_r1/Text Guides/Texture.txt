@@ -1,0 +1,2 @@
+The texture folder is where your wall/floor textures go.  The lump
+name is referenced in the respective XLAT entry.

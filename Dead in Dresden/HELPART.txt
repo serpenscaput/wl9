@@ -1,0 +1,69 @@
+^PAGE 1
+^c00^c7eFebruary 18th, 1945
+
+Your parachute touches down on the south end of the Grosse Garden. 
+Three days ago this was a park. 
+According to your briefing, the sewage treatment plant that was just a few kilometers from here is the only known entrance to the Fuchsbau, a vital nerve center for the Reich's strategic missile program.
+You are William J. Blazkowicz, renown nazi hunter and, according to Voice of America, a casualty of the recent air operation over Dresden. 
+
+^PAGE 2
+^G16,16 [CASTLE]
+^c00Your mission: Infiltrate the Fuchsbau and assassinate SS-Brigadefuhrer Walter Von Braun, eminent multidisciplinary scientist and de facto head of the German V2 program. Recently, Allied supreme command recieved reports that Von Braun had developed a way to streamline the manufacture of these weapons at a fraction of the cost. 
+
+^PAGE 3
+^G16,16 [CASTLE]
+This would have severe inplications for allied troop losses in europe and could give Germany sufficient leverage to negotiate a seperate peace with the western allies. More disturbingly, it's rumored that Von Braun has resurrected some of the Reich's more esoteric projects, including the work of Dr. Artz Schabbs. 
+
+^PAGE 4
+In light of these findings, you have been dispatched to assassinate Von Braun and destroy the facility along with anything inside.
+To ensure operational secrecy and to draw the Germans into a false sense of security, a burnt corpse containing your identifying documents was planted at a bomber crash site just outside the Dresden city limits. Even your own family thinks you have perished. 
+^PAGE 5
+^G16,16,11
+
+Captain William J. "B.J." Blazkowicz, you're a dead man walking and you've got a gun and ONE floor of hell to get through. Good luck!
+
+
+^PAGE 6
+^c7eTARGETS OF OPPORTUNITY
+^c00
+Although Von Braun is your main target, Allied command has become aware of two other persons of interest who may be present in the bunker. While obviously of lesser importance, eliminating either of these targets would prove invaluable to the war effort. 
+^PAGE 7
+^G20,16 [MEANDROV]
+^c7eMIKHAIL MEANDROV
+A high ranking Russian collaborator, Meandrov was pushed out of the USSR along with the Wermacht. Desperate to avoid the wrath of Stalin, Meandrov has worked to ingratiate himself to the reich and is said to be providing assistance on a project involving Soviet POWs. Meandrov is known to be privy to information concerning German agent networks in Soviet Russia. Since capture is out of the question, high command has marked him for elimination in the event these networks may still be needed after the war. 
+^PAGE 8
+^c7eSUBJECT UNKNOWN
+Most of the German scientific community resented labouring in the shadow of Dr. Schabbs while he was still alive and Von Braun is no exception. Since the death of his erstwhile rival, Von Braun has sought greater favor with Hitler by resuming some of Schabb's more extreme projects. Though little information is forthcoming, our agents in Dresden report seeing a large four-armed man stalking through the city late at night. Regardless of this creatures formal affiliation, it is clearly the result of a crime against nature itself and should be eliminated in due course. 
+
+^PAGE 9
+^c7eCREDITS
+
+Project Totengraeber resources by BJ Rowan
+Desk and Miscellaneous props by DoomJedi
+Chaingunner Sprites by MajikMonkee
+Miscellaneous props  by Erik Selfridge
+Wall texture bases by AReyeP and MCS
+PPSh-41 sprite by Justy Zam
+Propaganda assistance provided by RussianStorm and Balames87		
+Mikhail Meandrov voiced by DoomJedi
+
+^PAGE 10
+^c7eMUSICAL CREDITS
+Title- La Sindrome Di Stendhal by Ennio Morricone
+Menu Theme- Moon over Marin by the Dead Kennedys
+Read This- Gut Wrencher by Bobby Prince
+In Game Music- Escape from Midwich Valley by Carpenter Brut
+Arranged for MIDI by Jacob Morgan and George Burdell 
+Ending- The Ecstasy of Gold by Ennio Morricone
+^PAGE 41
+^G80,16,11
+^c7eCONCLUSION
+
+^c00Thanks for playing Dead in Dresden. 
+
+
+
+Now, go get 'em!
+-Zanu-AF
+(ESC to return to menu.)
+^E

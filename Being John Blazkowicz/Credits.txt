@@ -1,0 +1,18 @@
+The mod is based on AryanWolf3D's Wolf4SDL source code
+
+Coding: 
+Poet's code on disabling death cam & bosses dropping keys
+Chris', KyleRTCW's and Andy_Nonymous' code on seamless level progression and final ratio calculation
+Adam Biser's, Wolf Skevos-Jones', Chris' and KyleRTCW's code on displaying map names
+Wolf Skevos-Jones' code on displaying ingame messages
+MCS's code on the enemy blocking object
+
+Custom music (there aren't too many this time), custom walls, custom cultist enemy (fake hitler), custom Cyborg Soldat boss:
+Orka - that's me :)
+
+Barnacle Wilhelm fix:
+Wolf3DGuy
+
+Thanks to:
+Team Straycats for helping me figuring out and cleaning up my mistakes in the code.
+(Untergang is the best wolfenstein mod ever. Even better than Blade of Agony.)

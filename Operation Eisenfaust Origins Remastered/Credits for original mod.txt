@@ -1,0 +1,30 @@
+Mapping: Dean and RonWolf
+Coding: Tricob, AlumiuN, Andy_Nonymous, Havoc, LinuxWolf
+Art: DoomJedi 
+Story: RonWolf
+Music: Loser_42, Tricob, RonWolf
+
+Additional help:
+Vermil, BrotherTank (Misc code taken from Bunker SDL Source)
+
+Additional credits (random order):
+--------------------------------
+
+Graphics:
+Wolf3D by ID - scenery blood and skeletons
+Doom by ID - floor graphics and misc sprites
+W.S.J - Basic guard, MP40 officer, Rifle Nazi non-death frames
+Witchaven by Capstone - snow tree sprites base
+In Pursuit of Greed by SoftDisk - floor textures
+Spear of Destiny Mission Packs some wall textures and texture bases.
+Unreleased "wolf3d 2" sprite pack - Black Officer
+ROTT - freezing gas pipes (fire pipes in ROTT - recolored)
+Blake Stone - yellow barrels
+Daggerfall - woodpile, trees and bushes, skull...
+ShadowCaster - floor textures, especially wooden ones.
+
+Sound Effects:
+Spear of Destiny Mission Packs
+Unreal Tournament 2004
+Ballistic Weapons
+Red Orchestra

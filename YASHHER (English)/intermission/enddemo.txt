@@ -1,0 +1,25 @@
+intermission end_demover
+{
+	Fader	
+	{
+		Music = "0"
+		Background = "DEMOIMG", 0, "$GamePalette"
+		FadeType = FadeIn
+		Time = 320
+	}
+	Image
+	{
+		Draw = "DEMOEND", 48, 76
+		Time = 160
+	}
+	Image 
+	{
+		Time = 1600
+	}
+	Fader
+	{
+		FadeType = FadeOut
+		Time = 320
+	}
+	GotoTitle {}
+}

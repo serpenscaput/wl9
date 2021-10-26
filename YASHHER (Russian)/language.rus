@@ -1,0 +1,250 @@
+
+
+MOD2_CREATED = "Wolfenstein 3D (PC и SNES) by id Software\nDooM (1993 года) by id Software\nDooM 2 by id Software\nDoom RPG by Fountainhead Entertainment\nand id Software\nECWolf by Braden \"Blzut3\" Obrzut\n\nМод создал: Никита Зотов (aka TEPA6ANT)\n(2021 год)\n\n-Музыка-\nСемплы из Rytmik Studio";
+
+MNU_NOPICTURE = "Нет изображения";
+
+MNU_DIFFVERSION = "Неверная\nверсия";
+
+QUITSUR = "Вы действительно хотите выйти\nиз игры?";
+
+CURGAME = "Вы сейчас в игре.\nПродолжить?";
+
+GAMESVD = "Этот слот сохранения занят.\n      Перезаписать?";
+
+ENDGAMESTR = "Вы действительно хотите\nзакончить играть в\nэту игру? (Y или N)";
+
+DELETESVDGAME = "Вы точно хотите\nудалить это сохранение?\n\"%s\"";
+STR_NG = "Новая игра";
+STR_OPTIONS = "Настройки";
+STR_DISPLAY = "Экран";
+STR_AMOPTIONS = "Карта";
+STR_DEPTHFOG = "Туман смерти";
+STR_FULLSCREEN = "На весь экран";
+
+STR_VSYNC = "Вертикальная синхронизация";
+
+STR_SD = "Звук";
+
+STR_CL = "Управление";
+
+STR_LG = "Загрузить игру";
+
+STR_SG = "Сохранить игру";
+
+STR_CV = "Изменить вид";
+
+STR_VS = "Рекорды";
+
+STR_RT = "Информация";
+
+STR_EG = "Конец игре";
+
+STR_BD = "Обратно в демо";
+
+STR_BG = "Продолжить";
+
+STR_QT = "Выход";
+
+STR_LOADING = "Загрузка...";
+
+STR_SAVING = "Сохранение...";
+
+STR_LGC = "Игра загружена\n";
+
+STR_NONE = "Нету";
+
+STR_PC = "PC спикер";
+
+STR_ALSB = "Adlib/Sound Blaster";
+
+STR_DISNEY = "Disney Sound Source";
+
+STR_SB = "Sound Blaster";
+
+STR_WINDOWEDMOUSE = "Оконная мышка";
+
+STR_MOUSEEN = "Мышь";
+
+STR_JOYEN = "Джостик";
+
+STR_PORT2 = "Джостик (второй порт)";
+
+STR_GAMEPAD = "Gravis Gamepad включён";
+
+STR_SENS = "Чувствительность мыши";
+
+STR_JOYSENS = "Чувствительность джостика";
+
+STR_DISABLEYAXIS = "Включить ос Y";
+
+STR_CUSTOM = "Изменить управление";
+
+STR_HOWTOUGH = "Какую сложность?";
+
+STR_SUPEREASY = "Очень слабо";
+
+STR_EASY = "Слабо";
+
+STR_NORMAL = "Нормально";
+
+STR_HARD = "Тяжело";
+
+STR_MOUSEADJ = "Настройка чувствительности мыши";
+
+STR_MOUSEXADJ = "X чувствительность";
+
+STR_MOUSEYADJ = "Y чувствительность";
+
+STR_PANXADJ = "Плавная X чувст.";
+
+STR_PANYADJ = "Плавная Y чувст.";
+
+STR_SLOW = "-";
+
+STR_FAST = "+";
+
+STR_THINK = "думаю";
+
+STR_YOUWIN = "победа!";
+
+STR_TOTALTIME = "общее врем№";
+
+STR_AVERAGES = "в среднем";
+
+STR_BONUS = "бонус";
+
+STR_TIME = "врем№";
+
+STR_PAR = "par";
+
+STR_RATKILL = "убито";
+
+STR_RATSECRET = "секретов";
+
+STR_RATTREASURE = "предметы";
+
+STR_RAT2KILL = "убито врагов";
+
+STR_RAT2SECRET = "секреты";
+
+STR_RAT2TREASURE = "предметы";
+
+STR_NOSPACE = "Нет места на диске.\nСохранение не возможна!";
+
+STR_SAVECHT = "Ваше сохранение сломано.\nНо всё равно продолжить?";
+
+STR_SEEAGAIN = "смотрим снова!";
+
+STR_SOUNDCONFIG = "Настройки звука";
+
+STR_DIGITALDEVICE = "Цифровой звук";
+
+STR_ADLIBDEVICE = "ADLIB звук";
+
+STR_MUSICDEVICE = "Музыка";
+
+STR_SOFT = "-";
+
+STR_LOUD = "+";
+
+STR_ALWAYSRUN = "Всегда бежать";
+
+STR_CHEATER = "Здоровье восстановленно на 100%,\nУ тебя 99 патронов и ключи от всех дверей\n\nНо вы не будете\nв списке рекордов после игры.";
+
+STR_FLOOR = "этап"; // Floor X completed
+
+STr_COMPLETED = "пройден";
+
+
+STR_SELECTRES = "Разрешение экрана";
+
+STR_PLAYERCLASS = "Выбор игрока";
+
+STR_ESCQUIT = "Не возврашаться назад";
+
+STR_FAILWRITE = "Невозможно прочитать сохранение.";
+
+STR_FAILREAD = "Невозможно записать сохранение.";
+
+STR_AMROTATEOFF = "Разворот: Нет";
+
+STR_AMROTATEON = "Разворот: Да";
+
+STR_AMROTATEOVERLAY = "Разворот: Карта";
+
+STR_AMFLOORS = "Рисовать пол";
+
+STR_AMTEXTURES = "Рисовать стены";
+
+STR_AMOVERLAYOFF = "Карта: Выкл.";
+
+STR_AMOVERLAYON = "Карта: Вкл.";
+
+STR_AMOVERLAYBOTH = "Карта: Вкл. + Норм.";
+
+STR_AMTEXTUREDOVERLAY = "Текстура на карте";
+
+STR_AMPAUSE = "Поставить на паузу";
+
+STR_AMRATIOS = "Информация";
+
+STR_SCREENSIZE = "Размер окна";
+
+STR_SMALL = "-";
+
+STR_LARGE = "+";
+
+
+
+
+
+STR_DADDY = "Я просто смотрю.";
+
+STR_HURTME = "Полегче.";
+
+STR_BRINGEM = "Как все.";
+
+STR_DEATH = "Я кажись умру.";
+
+ENDSTR01 = "Тебе надоело? Y или N";
+
+ENDSTR02 = "Вы хотите выйти?\nНе доиграв?";
+
+ENDSTR03 = "Вы не хотите продолжать?";
+
+ENDSTR04 = "Наверно, у вас появились\nдела по лучше.\nЧем продолжать играть.";
+ENDSTR05 = "Ох страшно вырубай XD";
+
+ENDSTR06 = "Точно?  Y или N";
+
+ENDSTR07 = "А может не надо?";
+
+ENDSTR08 = "Есть две кнопки. Y и N.\nЯ не настаиваю, но предлагаю\nНажать на кнопку N,\nи продолжить играть.";
+
+ENDSTR09 = "Я буду ждать.";
+
+STR_WHICHEPISODE = "-=ВЫБОР ЭПИЗОДА=-";
+
+WL_EPISODE1 = "GAME\n---";
+WL_EPISODE4 = "test map\n---";
+
+WL_EPISODE5 = "test boss\n---";
+
+WL_EPISODE6 = "test";
+
+REGNOTICE_TITLE = "Спасибо";
+
+REGNOTICE_MESSAGE_DEMO = "Спасибо, что скачали демо-версию\nданной модификацию.\nПриятной игры";
+REGNOTICE_MESSAGE = "Спасибо, что скачали данную\nмодификацию.\nПриятной игры";
+
+MOD2_INKOGCOMPLETED = "ИНКОГ\nОСТАЛИСЬ\nНЕДОВОЛЬНЫ";
+MOD2_HELLCOMPLETED = "УЖАС\nЗАКОНЧИЛС№";
+
+YASHEND0 = "Джо: Вылетел из зоны действия. Зона свободна.";
+YASHEND1 = "Диспетчер: Принял.\n Ликвидируйте того подопотного с ПМ-Я9, что вы встретили.\nНам не нужны подверженные технологией Хэллки A979,\nхоть даже частично.";
+YASHEND2 = "Джо: Я его оставил там. Не думаю, что он выжил.";
+YASHEND3 = "Диспетчер: Принял.\n Мы ждём вас на пункте Латынь-812,\nваш код доступа 78-квадрат.";
+YASHEND4 = "Джо: Принял. Отправляюсь в пункт Латынь-812.";
+
+YASHENDB = "Ник Зор: Сукин сын.";

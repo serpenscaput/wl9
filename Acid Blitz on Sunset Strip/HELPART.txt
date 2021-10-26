@@ -1,0 +1,82 @@
+
+^PAGE 1
+^c00You are legendary WWII hero William J. Blazkowicz, recipient of sixteen purple hearts, two Victoria crosses and an order of Lenin. In the forties, you killed Hitler. In the fifties, you bought a house in the Texas suburbs, started a family, and got a job doing door to door sales for Sears-Roebuck.
+In the sixties, a boarder offered you "tabs" which "turned you on" and caused you to "drop out". Where did he get them? Far out, man!
+^PAGE 2	
+^c00The next few years are a blur of music festivals, poetry jams and violent confrontations with hardhats. Eventually, the universe coalesced around a trip to Portland to meet with Wavy Gravy for.....something. While driving up the pacific coast highway, you found yourself surrounded by small town cops who tore your microbus apart and found it. 2500 hits of sunshine acid shoved into a notebook behind the seat, right under 
+your discharge papers. 
+
+^PAGE 3
+^c7eJUNE 8TH, 1964
+^c00After a raucous night of interrogation, the sheriff threw you in a cell and promised that you'd get the chair if he had anything to say about it. This was not to be as within a few hours a pair of men in black suits arrived, posted your considerable bail, threatened the sheriff's family and marched you right out of the jail and into a waiting van. 
+
+^PAGE 4
+Without further delay, the men introduced themselves as representatives of the United States government. They knew of your abilities as a problem solver and wanted your help resolving a particularly hairy problem. When you showed hesitency, they brought up the rather serious and still  outstanding charges you were facing and suggested they might put you back in a cell and give the sheriff whatever he wanted. This brought you
+around quickly and they filled you in. 
+
+^PAGE 5
+^G16,16,9
+"This is SS Gruppenfuhrer Dr. Alfred Mondstrahl, pioneer of Tabun gas and a disciple of one Otto Giftmacher. After the death of his mentor, Dr. Mondstrahl defected from the Reich and made his way to Geneva, which is where we made contact with him. "
+^PAGE 6
+"In exchange for his cooperation, Mondstrahl was spared a place at the Nuremberg trials and we put his skills to work in the struggle against communism. Unfortunately, while he was developing novel chemicals at MIT he fell in with a crowd of subversives. That's where the problems started."
+"Mondstrahl quickly ingratiated himself to this group with his skill as a chemist, eventually making the acquaintance of this man."
+^PAGE 7
+^G16,16,6
+"This is Tonto Jitterman, predicate felon and guru of the church of the Id, a new-age religious movement with connections to organized crime and the American Nazi party."
+^PAGE 8 
+"Previously a petty criminal, Jitterman's underworld connections and dominating personality let him build a following of wayward youth whom he built into a new religious movement using psychedelic drugs and post-hypnotic suggestion. The church of the Id promotes racial 'higher consciousness' and the ultimate destruction of square society with nuclear weapons and has been connected to several racially driven murders in the last year."
+
+^PAGE 8
+"Shortly after his meeting with Jitterman, Mondstrahl diverted several shipments of lab equipment and precursor chemicals from MIT and disappeared.From what we've gathered from his private writings, we believe he intend to begin manufacturing bombs laced with large amounts of aerosolized LSD to be detonated over several major US cities. In the chaos that would follow, Mondstrahl would then use Jitterman and his followers as muscle to establish a fourth reich over large parts of the former US."
+
+^PAGE 10
+"While we can't be certain of Mondstrahl's location, our intelligence indicates that the church operates out of a decommissioned missile base located just outside of Los Angeles County. The existing infrastructure means that it make an ideal base of operations for such a conspiracy and we believe you will find him there.  Your mission, Captain Blazkowicz, is to infiltrate this facility, eliminate all resistance and terminate both Mondstrahl and Jitterman. Once you are successful, we will arrange for all currently outstanding criminal charges against you to be dismissed."
+
+^PAGE 11
+^G16,16,11
+Less than 24 hours later, you were crawling under freshly reinstalled barbed wire at the LA-65 missile facility. The men in black had dropped you off in Slab City and you were able to hitchhike the rest of the way to the base. Armed only with a knife and a luger (you insisted), you've got five floors of hell to get through. Good luck!
+^PAGE 12
+^c7ePOWER PLAYER TIPS AND TRICKS
+^c00 * Crates are a valuable source of ammo and healing items! Smash them open to get at the goodies inside!
+	 * The chaingun is a powerful weapon but is prone to jamming. Conserve it only for when you need it most.
+	 * BJ's skill with a knife has improved dramatically since his last outing. Don't hesitate to slice em up! 
+     * The flamethrower is effective against large groups but may fire too slowly to be useful at close range
+^PAGE 14
+^G116,244,16
+^c7eCREDITS
+
+Ilsa sprites by Justy Zam
+Gaz truck and misc textures by Doomjedi
+Vomit sprite by Erik Selfridge
+Chaingunner Sprites by MajikMonkee
+Flamethrower base by Mr. Wolf
+Hitler sprites by Cordell Falk and Anthony Litz
+Wall Textures by Tricob
+Gas effects by Astrocreep
+Additional Credit to Midway games and Robert Krumb
+^PAGE 16
+^c7eMUSICAL CREDITS
+^c00
+In order of appearance
+Title- "Kill the poor" by the Dead Kennedys
+Menu- "Alice's Restaurant Massacree" by Arlo Guthrie
+Helpart- "Rocket Launcher" by Bruce Cockburn 
+Stage 1 Music- "Get them before they get you" by Bobby Prince
+Stage 2 Music- "Going down the fastway" by Lee Jackson
+Stage 3 Music- "Chicken Farm" by the Dead Kennedys
+
+
+
+^PAGE 17
+Stage 4 Music- "Just Dropped In" by Kenny Rogers and the First Edition
+Stage 5 Music- "Sign of Evil" by Bobby Prince
+
+Secret Level Music- "Treasure Room" by Hal Canon
+^PAGE 18
+^c7eTHANKS FOR PLAYING
+^c00
+Thanks for playing Acid Blitzkrieg on Sunset Strip!
+Now go get 'em!
+-Zanu-AF
+(ESC to return to menu.)
+^E

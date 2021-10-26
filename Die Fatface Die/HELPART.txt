@@ -1,0 +1,56 @@
+^PAGE 1
+^G16,16,3
+^c7eApril 15th, 1971
+^c00You've spent hours watching the guards, waiting for a break in their patrols. When the opportunity hits, you slip into the old Spanish mission.
+
+
+
+
+Your mission: Find General Fettgesicht and terminate him.
+^PAGE 2
+^G16,16,4
+^c00You are legendary WWII hero William Joseph Blazkowicz, three-time medal of honor recipient and world-renowned nazi killer. Two weeks ago, you were stocking shelves at a grocery store in Midland, Texas. That's where they found you.
+They laid it all out; Fatface's survival, his surrender to the western allies, his escape to Bolivia and his service eliminating dissidents for the government and generating revenue by any means necessary.
+^PAGE 3
+^G16,16,11
+^c00Now, Fatface has become a liability. His appetites for food, cocaine and sex 
+have scandalized the people and dramatically increased support for anti-government
+guerrilla groups. The state department wants him gone before the situation 
+deteriorates any further. 
+
+That's where you come in. 
+
+
+^PAGE 4
+^c00Desperate to maintain the element of surprise, the G-men smuggled you overland into the country. 
+After a few close shaves,you finally arrived in Sacaba three days ago. 
+Equipping you with a knife, pistol and MP-40 submachine gun, your handlers gave you the location of Fatface's 
+compound and sent you merrily on your way. 
+Captain Blazkowicz, you've got a gun and three floors of hell to get through.
+Good luck!
+
+^PAGE 5
+^c7ePOWER PLAYER TIPS AND TRICKS
+^c00 * Crates are a valuable source of ammo and healing items! Smash them open to get at the goodies inside!
+	 * The chaingun is a powerful weapon but is prone to jamming. Conserve it only for when you need it most.
+	 * Watch out for barrels of flammable solvent. These will explode when shot.  
+     * It's the seventies. BJ isn't above a little recreational blow. Using the 
+	   cocaine lying around can give you the little extra boost you need to survive. 
+^PAGE 6
+^c7eCREDITS AND ACKNOWLEDGEMENTS
+^c00
+DoomJedi for crate sprites, GAZ truck textures and storage textures
+John Bucksnort for knight armor sprite
+B.J Rowan for Chaingun and MP40 sprites and sound effects from Project Totengraeber
+Astrocreep for Chaingun jamming code
+LinuxWolf for LZWolf platform
+and very special thanks to you for playing!
+
+^PAGE 9
+^c7eTHANKS FOR PLAYING
+^c00
+Thanks for playing what I hope will be the first of many Wolfenstein-3D Graphical Adventures!
+Now go get 'em!
+-Zanu-AF
+(ESC to return to menu.)
+^E

@@ -1,0 +1,21 @@
+^P
+^C7d Next Mission
+
+^C00 "Batman, we need your help!"
+
+"Gordon, what is it?
+
+"Victor Zsasz... He has taken several people hostage inside an abandoned Sionis Industries warehouse. He's going to kill them at the first sign of outside interference. We need you to take him out!"
+^P
+"Master Wayne?"
+
+"Yes, Alfred?"
+
+"One of your caves is near the scene. I suggest you pick up your EMP gun there. It will allow you to kill the lights in order to attack Zsasz before he sees you. If anyone sees you first, the hostages are dead."
+^P
+^C7d Mission Information
+
+^C00-If Zsasz hears any gunfire, he will kill the hostages. Don't alarm enemies. Carefully peek around corners and wait till the patrolling enemy has turned its back to you.
+-The EMP gun is essential for the completion of this level. Without it, Zsasz will always see you first and kill a hostage. When you exit the sewer, go to the right in order to retrieve it from the Batcave.
+-Zsasz does not kill any of the freed hostages.
+^E

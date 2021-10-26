@@ -1,0 +1,19 @@
+Operation "Eisenfaust Origins" - Remastered Edition (2020)
+====================================================
+
+Additional Coding: LinuxWolf
+Additional art/art fixes: DoomJedi
+Testing: WolferCooker
+Map fixes: Dean
+
+Mapping credits for new maps:
+==============================
+
+Mines Chart - Dean's remastering of map by Doomjedi which was scrapped from the original release. Map concept and general design: DoomJedi.
+Keyless Entry - Dean 
+Shooting Pits - Executor
+Cold Cold Heart - Executor
+Dos Claves - Executor
+Burning Village - Executor
+
+

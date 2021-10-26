@@ -1,0 +1,42 @@
+WOLFENSTEIN 3D in G Minor
+another steaming pile of shit by AstroCreep
+
+
+DESCRIPTION:
+
+This is a 1-level miniature game modification (also known as a "mini-mod") for Wolfenstein 3D using LZWolf, a source port
+maintained by Linuxwolf, based on ECWolf by Blzut3.  It may only be 1 map, but it's pretty large - 128x128 to be exact, which puts
+it at about 4 times the size of a normal Wolf3D map.  Asset-wise, this is a pretty vanilla mod - using only a select few Spear of
+Destiny and MacWolf actors and a few bosses from Dunkelschwamm's Wolf3D Boss Generator to spice things up a bit.  Feature-wise this
+uses a few tricks specific to EC/LZWolf, such as triggered pushwalls/doors, ROTT style elevators, changing music and trigger-activated DECORATE
+actors.  To put the icing on the cake, the entire mod is set to the classical music of Beethoven, to fit the classical vanilla overall theme.
+
+
+INSTALL INSTRUCTIONS (WINDOWS):
+
+Buy the full version of Wolfenstein 3D from GOG or Steam, or dust off your old floppies
+Download the latest LZWolf binary (https://wolf3d.net/lzwolf/)
+If purchased from Steam/GOG, LZWolf should autodetect your game files. Otherwise, dump all files with the extension .wl6 to the same folder as LZWolf
+drag and drop the pk3 to LZWolf.exe, or alternatively run from command line with 'c:\path\to\lzwolf.exe --file Wolf3DGMinor.pk3'
+Shoot Nazis
+INSTALL INSTRUCTIONS (MAC):
+
+follow steps 1 and 2 from the Windows instructions, however download the Mac binary instead
+put all .wl6 files in ~/Library/Application Support/LZWolf
+Open a terminal window
+Drag your LZWolf binary into the terminal window
+at the end of the path, type \Contents\MacOS\lzwolf and press the space bar
+drag the l_m_p pk3 to the terminal window
+curse Blzut3 for breaking drag and drop support
+Shoot Nazis
+
+You're on your own for Linux, as no binary packages exist at the present and you must compile from source. 
+The compile instructions for ECWolf work perfectly for LZWolf as well, 
+however you must (obviously) pull the source from the LZWolf bitbucket instead.
+
+CREDITS:
+
+Map, Title screen/Credit screen, IMF Conversion - AstroCreep
+Bosses - generated using Wolf3D Boss Generator by Dunkelschwamm
+Music - Beethoven, Erik Satie
+Special thanks - other modders

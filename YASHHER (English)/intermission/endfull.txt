@@ -1,0 +1,222 @@
+intermission end_full
+{
+	Fader	
+	{
+		Music = "NIKZDIE0"
+		Background = "NZD000", 0, "$GamePalette"
+		FadeType = FadeIn
+		Time = 2
+	}
+	Image
+	{
+		Background = "NZD001", 0, "$GamePalette"
+		Time = 2
+	}
+	Image
+	{
+		Background = "NZD003", 0, "$GamePalette"
+		Time = -1
+	}
+	TextScreen
+	{
+		Music = "NIKZDIE1"
+		Position = 160, 156
+		Background = "NZD004", 0, "$GamePalette"
+		Time = 1
+		Text = "$YASHENDB"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+	}
+	TextScreen
+	{
+		Position = 160, 156
+		Background = "NZD005", 0, "$GamePalette"
+		Time = 4
+		Text = "$YASHENDB"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+	}
+	TextScreen
+	{
+		Position = 160, 156
+		Background = "NZD004", 0, "$GamePalette"
+		Time = 3
+		Text = "$YASHENDB"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+	}
+	TextScreen
+	{
+		Position = 160, 156
+		Background = "NZD005", 0, "$GamePalette"
+		Time = 3
+		Text = "$YASHENDB"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+	}
+	TextScreen
+	{
+		Position = 160, 156
+		Background = "NZD004", 0, "$GamePalette"
+		Time = 6
+		Text = "$YASHENDB"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+	}
+	Image
+	{
+		Music = "NIKZDIE2"
+		Background = "NZD006", 0, "$GamePalette"
+		Time = 2
+	}
+	Image
+	{
+		Background = "NZD007", 0, "$GamePalette"
+		Time = 2
+	}
+	Image
+	{
+		Background = "NZD008", 0, "$GamePalette"
+		Time = 2
+	}
+	Image
+	{
+		Background = "NZD009", 0, "$GamePalette"
+		Time = -2
+	}
+	Fader
+	{
+		FadeType = FadeOut
+		Time = -2
+	}
+	VictoryStats {}
+	Fader	
+	{
+		Music = "ENDING0"
+		Background = "BGR", 0, "$GamePalette"
+		FadeType = FadeIn
+		Time = -3
+	}
+	TextScreen
+	
+	{
+		
+		Position = 160, 156
+	
+
+		Text = "$YASHEND0"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+		
+		Time = -4
+	
+	}
+	TextScreen
+	
+	{
+		Music = "ENDING1"		
+		Position = 160, 156
+		Background = "BGR1", 0, "$GamePalette"	
+		Text = "$YASHEND1"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+		
+		Time = -18
+	
+	}
+	TextScreen
+	
+	{
+		Music = "ENDING2"		
+		Position = 160, 156
+		Background = "BGR2", 0, "$GamePalette"	
+		Text = "$YASHEND2"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+		
+		Time = -4
+	
+	}
+	TextScreen
+	
+	{
+		Music = "ENDING3"		
+		Position = 160, 156
+		
+		Text = "$YASHEND3"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+		
+		Time = -12
+	
+	}
+	TextScreen
+	
+	{
+		Music = "ENDING4"		
+		Position = 160, 156
+		Background = "BGR", 0, "$GamePalette"	
+		Text = "$YASHEND4"
+		
+		TextAlignment = Center
+		
+		TextColor = "White"	
+		TextFont = "SmallFont"
+		
+		TextSpeed = 0
+		
+		Time = -4
+	
+	}
+	Fader
+	{
+		FadeType = FadeOut
+		Time = -2
+	}
+	GotoTitle {}
+}

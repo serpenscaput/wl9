@@ -1,0 +1,54 @@
+^PAGE 1
+^c4eQUICK COMMAND REFERENCE
+^c00
+Arrows move. Ctrl shoots. Alt strafes. (These are obviously adjustable in options)
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10		Exit to DOS
+
+^PAGE 2
+
+
+^c7e										Merry Crisis! - The Story
+^c00
+This particular mod covers the rather unusual tale of an imp, known as Sno. Their current occupation can only be summarized as one that involves surpressing paranoramal phenomena in the "living world", especially anything that can be linked back to Hell, their home. 
+Luckily, this task hasn't been a difficult one...  Until now. 											
+
+^PAGE 3
+^c00
+Possesed toy soldiers, snow monsters, tanks, aggressive biblical creatures that even existed before Christ himself, this was an invasion like no other. There was only known leader - RoboClaus. 
+This was indeed, a clusterfuck of a case. It seems that the very spirt of Christmas has ironically embodied itself as some form of Hell on Earth! Luckily, Sno is no stranger to Hell and is more than obligated to stop this wave of Yultide Fear. 
+
+Good luck, Sno. We're all counting on you!
+^PAGE 5
+
+CREDITS AND SPECIAL THANKS!! 
+
+AstroCreep -- Multiple Resources (code, graphics, sounds, IMF's, etc.), Troubleshooting, Help, Playtesting
+
+Dunkelschwamm -- Boss Generator (used in creation of RoboClaus), Playtesting, Troubleshooting
+
+Stormxzy -- Level Clear/Winner Graphic
+
+Brutes4Babes -- Title Screen Graphic
+
+^PAGE 6
+
+AREyeP -- Toilet Graphic and Steel Barred Window Sprite
+
+BYTEBROTHERS -- Additional Graphics and Sounds borrowed from "X-MAS NIGHTMARE For Doom I & II"
+
+Tripwire Interactive - Nutcracker & Roboclaus Audio
+
+ID Software - Wolfenstein 3D and snow imp sounds (and obviously because I edited off their imp sprites lol) 
+
+SNK -- Destroyable Snowman sprites (From Metal Slug series) 
+
+
+Carnevil - Toy Soldier lines taken and edited from Eyeclops monster

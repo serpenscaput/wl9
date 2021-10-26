@@ -1,0 +1,11 @@
+All DECORATE script files can be put here to be 
+referenced in the base DECORATE file in 
+the root of this pk3.
+
+EXAMPLE
+	#include "actors/player.txt"
+	
+Check out the ECWolf Wiki for more details on DECORATE
+scripting, or check out Dunkel's ECWolf tutorials:
+
+https://www.youtube.com/watch?v=WYSznTZTS08

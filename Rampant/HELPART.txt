@@ -1,0 +1,112 @@
+^P^
+^C[Red]QUICK COMMAND REFERENCE
+^c[Black]
+Arrows move. Ctrl shoots. Alt strafes.
+
+F1			Help
+F2			Save game (F8 for Quick save)
+F3			Load game (F9 for Quick load)
+F4			Sound menu
+F5			Resize view window
+F6			Controls menu
+F7			End Game
+F10			Quit Game
+
+Read on for more information.
+^P
+^C[Black]
+^G 15 100 [CASTLE]
+
+
+
+
+
+A new Allied Intelligence spy, named William J. Blazkowicz, is sent on a mission to locate the Spear of Destiny and stop Hitler from capturing it.
+^P
+^G 15 100 [CASTLE]
+
+
+
+
+
+
+The Allied command knew very well the only way to achieve this objective was for the new recruit to face an execution ordered by Hitler himself - in order to bring the Allied spy closer to the Nazi's search expedition for the Spear of Destiny.
+^P
+^G 15 100 [CASTLE]
+
+
+
+
+
+
+The Allied spy must fight his execution by any means necessary in order to stop Hitler and the Nazi search expedition from capturing the Spear of Destiny!
+^P
+^C[Red]THE UNITS
+
+^C[Black]The game, which consists of 5 main levels and 1 secret level, is broken up into several 'units', each with a different theme and objective. This is a very important section to read because it is very helpful for some of the units:
+^P
+^C[Red]UNIT 1 ^C[Black]--- Death March (Level 1)
+
+This first unit starts the player off in a heavily scripted level where BJ's execution is about to take place. The player must look for ways to help BJ escape his execution and then follow it up by defeating a large contingent of Nazi personnel. This unit tells the story of how the new recruit escapes his first execution in a spectacular display of survival and combat skill.
+^P
+^C[Red]UNIT 2 ^C[Black]--- Only Human (Levels 2-4)
+
+The next unit, consisting of 3 levels, flows more like a traditional Wolfenstein/Spear add-on with a few surprises included along the way. It features heavy combat, item management and navigational challenges. The mapping is inspired heavily by the original Spear of Destiny, the work of Thomas Weiling and the work of Gary Ragland. This unit tells the story of how the new recruit fights his way closer to the leader of the Nazi search expedition for the Spear of Destiny - Franz von Krueger!
+^P
+^C[Red]UNIT 3 ^C[Black]--- No Escape (Level 5)
+
+The final unit, consisting of a single map, is actually the size of two maps combined into one. In this unit you face the final boss who leads the Nazi search expedition for the Spear of Destiny. Be ready to go to war when you face Franz von Krueger. It is rumoured Franz likes to force his subdued victims to stare into the eyes of his four Gargoyle statues. The four Gargoyles are somehow symbolic to him of the power of the Spear of Destiny.
+^P
+^C[Red]CREDITS
+
+^C[DarkRed]MAP INSPIRATION
+^C[Black]Credits are owed to the following Wolfers as some of the new maps are based heavily on their work:
+      
+	^C[Black] * ^C[Red]"10 New Ones"  ^C[Black]by ^C[Blue]Thomas Weiling
+	^C[Black] * ^C[Red]"Schabbs 2000" ^C[Black] by ^C[Yellow]Gary Ragland
+^P
+^C[Red]CREDITS
+
+^C[DarkRed]NEW GRAPHICS
+^C[Black]Credits are owed to the following Wolfers for their contributions in new graphics:
+
+ * ^c05Atina ^C[Black]for her excellent classically inspired art additions
+
+ * ^C[DarkBlue]Dunkelschwamm ^C[Black]for his awesome Boss Generator!
+^P
+^C[Red]CREDITS
+
+^C[DarkRed]NEW MUSIC
+^C[Black]Music has been selected to set an appropriate tone for the story of this add-on. Even within a single map music may change as a way of telling the story. Music has been converted from MIDI tracks from the following games:
+       
+	* Heretic and Hexen
+	* Warcraft
+	* Little Big Adventure
+	* Shadow of the Beast
+	* Duke Nukem 3D
+^P
+^C[Red]CREDITS
+
+^C[Black] Special Thanks to:
+	  
+	  ^C[Green]AstroCreep ^C[Black]- For encouraging me to make a mod as a mostly solo effort.
+
+	  ^c05Atina ^C[Black]- For her art additions and support as a modder.
+
+	  ^C[Blue]Blzut3 ^C[Black]- For making ECWolf, the base project for LZWolf. This mod would not exist without ECWolf.
+^P
+
+Check out my Twitter for news and events related to add-ons:
+			^C[Red]https://twitter.com/wolf_linux
+
+^C[Black]Or e-mail me at:   
+			^C[Red]linuxwolf6@gmail.com
+
+^C[Black]Please send me any questions or comments about Rampant
+
+Good Luck ----
+
+Linux Wolf
+(c) 2021
+
+^E

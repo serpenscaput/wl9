@@ -1,0 +1,27 @@
+As a bonus, I included the MacWolf and SOD
+tracks, as well as Blake Stone/Planet Strike
+and ROTT tracks.  Simply reference the 
+music lump name in the map definition in your
+MAPINFO file.
+
+Any custom music you want to use should be tossed
+into the Music folder.
+
+(Side note, OGG and tracker music
+can be used instead of IMF as well, just put those in the music
+folder. MIDI can also now be used without 
+errors, as the MIDItoOPL code from Noah was
+recently ported to ECWolf/LZWolf)
+
+For this project I would prefer IMF, MID, or
+MOD format music to be used, as they are low
+in memory, OGG can make this project pretty
+hefty very quickly lol.
+
+
+CREDITS:
+
+SOD, Blake Stone, PS IMFs - Bobby Prince
+MacWolf MIDI files - Brian Luzietti
+ROTT MIDI files - Lee Jackson and Bobby Prince
+MacWolf and ROTT IMF Conversion - AstroCreep

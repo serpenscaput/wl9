@@ -1,0 +1,16 @@
+All graphics that are not sprites or textures get dumped
+into the graphics folder.  If they need to be scaled, you can do so
+in the textures lump, or by putting them in a folder called
+"hires".  the hires folder method will auto-scale the graphic;
+the textures lump method is a bit harder, but you have greater
+control over the scaling.
+
+Example Texture Definition (must be put into textures.txt
+in the root!):
+
+Graphic FONTN048, 16, 32
+{
+	XScale 2.000
+	YScale 2.000
+	Patch FONTN048, 0, 0
+}

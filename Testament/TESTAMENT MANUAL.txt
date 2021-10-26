@@ -1,0 +1,283 @@
+=======================================================================
+
+"All is not lost; the unconquerable Will,
+And courage never to submit or yield:
+And what is else not to be overcome?
+We may with more successful hope resolve
+To wage by force or guile eternal War." 
+-- John, Milton, "Paradise Lost"
+
+Title                   : Testament
+Filename                : TESTAMENT.RAR
+Authors                 : Tris, ronwolf1705
+Webpage                 : http://www.wolfenstein3d.nl
+Description             : A 21 level TC for one of the best shoot-em-up games, 
+			  Wolfenstein 3D by ID Software.
+
+Other Mods by Authors	: Kurlandfront
+			  https://www.moddb.com/mods/kurlandfront
+			  Final TFS
+			  https://www.moddb.com/mods/final-tfs
+			  
+Additional Credits to   : Wolf3DGuy - Pointers in statusbar and floor texture coding, BJ Faces
+			  Nexion - Implementing AlumiuN's Advanced Sound Manager in the code, other code pointers
+			  BJ Rowan - Various VGAGRAPH images base, enemies' blood splatters and armbands, jewels box sprite base
+			  Gary Ragland - Schabbs 2000 walltiles base
+			  FormGen - Dog sprites base
+			  Dunkelschwamm - Boss Generator for various boss alterations
+			  Ben Blaufarb - Misc. graphics bases such as statusbar, barrel, crate texture
+			  Apogee - Blake stone white brick texture base
+			  Chris Chokan - Chokage "Demo" sprite
+			  Majik Monkee - Brown guard base
+			  Robert Prince - various MIDI music compositions that were edited or enhanced for gameplay
+			  Daniel Bernstein - MIDI music composition that was edited or enhanced for gameplay
+			  Morey Goldstein - MIDI music composition that was edited or enhanced for gameplay
+			  Blackmill Games - various sounds
+			  Raven Software - various sounds
+
+Dedicated to		: Brian Lowe
+
+Shout-out to		:  ~Chad~
+			  Ack
+			  Adam Biser
+			  Adhesive_boy
+			  AlumiuN
+			  Andy_Nonymous
+			  AReyeP
+			  Arielus
+			  Aryan_Wolf3D
+			  Astrocreep
+			  Atina
+			  Barry Christian
+			  Biergut
+			  Blzut3
+			  BrotherTank
+			  Chris Chokan
+			  Codetech84
+			  Cyanosis
+			  Dean
+			  Doomjedi
+			  Dugtrio17
+			  dunkelschwamm
+			  Eric Vaughn
+			  Executor
+			  Florian Stöhr
+			  fraggeur
+			  Gary Ragland
+			  gerolf
+			  Haasboy
+			  Hair Machine
+			  Harry Mass Sr. (In memoriam)
+			  Havoc
+			  Ian Franken
+			  insurrectionman
+			  John Bucksnort (In memoriam)
+			  Joshua
+			  Kenny Riley
+			  Kuki
+			  KyleRTCW
+			  LinuxWolf
+			  Lozer_42
+			  Luke Strauman
+			  Majik Monkee
+			  Martin Krysiak
+			  Metal Overlord
+			  Metalor
+			  Military
+			  MrWolfForever
+			  Nate Smith
+			  Nexion
+			  Paal Olstad
+			  pst
+			  quartzdoll
+			  Raziel
+			  ReddimusVonAggrevatii
+			  Richter Belmont
+			  Ringman
+			  Ripper
+			  Ryan de Haast
+			  Sam Chiang
+			  Scott Croneberger
+			  serpens
+			  Sigma64
+			  Sockman
+			  Technopeasant
+			  TheTalentedMrLeo
+			  Thomas Weiling
+			  Tricob
+			  vermil
+			  WLHack
+			  Wolf Skevos-Jones
+			  Wolf3DGuy
+			  Zombie_plan
+			  ZulinRaynor
+			  ... And all the others that have kept Wolfenstein 3D alive!
+======================================================================
+
+* Mod Information *
+
+Episode and Level #     : Standalone, 21 levels
+Single Player           : YES
+Multiplayer		: NO
+DOS			: NO
+Wolf4SDL		: YES
+ECWolf			: NO
+Difficulty Settings     : YES
+Original game required	: NO (unpack all files in a new directory)
+New Art                 : YES
+New Music               : YES
+New Sound Effects       : YES  
+New EXE File            : YES
+
+* Construction *
+Base                    : From scratch 
+Editor(s) used	        : Mapedit 8.0, ChaosEdit, Photoshop CC, RecolorBMP, AIMP, FL Studio 6.0, Audacity, Notepad, MS Paint, 
+			  Codeblocks, Bandicam
+Construction time       : 240 days
+Known Bugs              : NONE, Please tell us...
+
+* Where to get this file *
+
+WEB site                : https://www.moddb.com/mods/testament
+			  http://www.wolfenstein3d.nl
+
+* Gameplay-information *
+
+Storyline:
+The  year is 1942. You are William J. “B.J.” Blazkowicz, the Allies’ bad boy of espionage and a terminal action seeker. 
+Chemical war is about to be waged on a massive scale against the free world unless you can stop the egregiously evil Nazi 
+General Fettgesicht from unleashing his toxic weaponry against mankind. You found the plans hidden in the dark woods near Kolberg, 
+a large Baltic seaport in the Gau of Pomerania. Rumors are that deep within the stronghold of Kolberg the diabolical General 
+Fettgesicht and his henchmen have perfected a technique for building a fierce arsenal of chemical weapons using heavy water 
+materials from installations in occupied Norway. It’s so far removed from reality that it would seem silly if it wasn’t so sick. 
+But what if it were true? 
+
+Armed only with a knife and a Walther P38 (so you can use any German ammo you might find), you must make your way to the 
+General's private quarters and put a halt to his diabolical doings. Hopefully you can find more substantial firepower somewhere inside.
+
+* Level guide *
+
+Level	Creator 	Environment
+----------------------------------
+01	Tris		Salt Mines
+02	Tris		Dungeons
+03	Tris		Caverns
+04	Tris		Barracks
+05	Tris		Sewers
+06	ronwolf1705	Waste Tunnels
+07	ronwolf1705	Offices
+08	Tris		Storage Facility
+09	Tris		Fortress Administration
+10	Tris		Fortress Bailey
+11	Tris		Security Complex
+12	ronwolf1705	Chapel
+13	ronwolf1705	Sanitation mines 
+14	Tris		Prison
+15	Tris		Manufacture
+16	ronwolf1705	Heavy Water treatment plant
+17	Tris		Ruined Temple Grounds
+18	Tris		Sanctuary
+19	ronwolf1705	Castle Keep
+20	Tris		General's Tower
+21	Thomas Weiling	Wilderness
+
+* Weapons * 
+At first, you have only your pistol and your knife for protection. When you run over a new weapon, you'll automatically equip yourself with it. 
+As the game progresses, you'll need to choose between firearms. The numeric keys select particular weapons. The weapons are:
+
+1. Knife: This stainless steel blade is a little better than nothing.
+2. Walther P38 pistol: The only weapon you start out with. But you'll use anything in a pinch, no matter how pathetic it may feel.
+3. MP-40 Schmeisser Machine Gun: Delivers a heavy punch at close range and a generous pelting from a distance.
+4. Chaingun: The prize of the military's arsenal. Great for clearing the room of those unwelcome guests. Shoot it and see for yourself.
+
+Ammo is found on dead enemies and also scattered around in both ammo clip and 25-bullet case variants.
+
+* Health *
+When you're hurt, you'll want to get your health back as soon as possible. Fortunately, food, Medikits and Stimpacks are frequently scattered around. 
+Grab them if possible. Stimpacks give you a quick injection of Pervitin methamfetamine that make you feel like a new man.
+Medikits include bandages, antitoxins, and other medical supplies to make you feel a lot healthier.
+
+* Enemies * 
+From the very first moment you enter the door, till the last gunshot of the game, you'll be fighting a host of baddies. 
+Some are just regular soldiers with a bad attitude, others are straight from Hell. Don't say we didn't warn you.
+
+Sturmabteilung Guards:
+These are the most common enemies in Testament. Their only attack is a Pistol, and they must freeze and aim for a moment before they can fire. 
+They can easily be killed with a pistol or knife, dropping a clip with 4 bullets.
+
+Schutzstaffel (SS):
+The SS are Machine Gun-toting men in black uniforms. These burly men are noticeably taller and larger than other enemies. 
+They have the highest HP in Testament for regular enemies, requiring on average 5-7 bullets each to kill. 
+Although their reaction before they unload on you is no faster than the guard, they fire in bursts and can inflict major damage with their weaponry.
+
+Dobermann Dogs:
+A canine of the German Doberman breed, this lil' woofy has a biting attack. Ouch.
+
+Sicherheitsdienst Officers:
+Officers are pistol-wielding baddies who are very quick and can also draw and fire their pistols much faster than regular guards. 
+This makes them a force to be reckoned with. 
+
+Mutants:
+Mutants are undead captured U.S. Army soldiers subjected to a gruesome zombification process.
+Mutants have guns surgically integrated into their chests, making them literal killing machines. 
+While only armed with an automatic Pistol, they are easily one of the deadliest enemies in Testament. 
+
+* Treasure *
+Throughout Testament, B.J. may find various treasure items. They may be found in plain sight of major hallways, or deep behind secret pushwalls. 
+These items have the sole purpose of boosting his score. The lineup of treasure is:
+
+Cross, for 100 points
+Chalice, for 500 points
+Chest, for 1000 points
+Crown, for 5000 points
+1Up, for an extra life, 25 ammo and maximum health.
+
+* Cheats * 
+
+The classic "MLI" cheat still works.
+We have also removed the necessity for goobers and the Alt + Shift + Backspace sequence.
+Tab keys you can use:
+
+Tab + G God Mode
+Tab + I Give Items
+Tab + N Noclip
+Tab + E End Level
+Tab + W Warp to Level
+
+* EXE Changes *
+
+- Added more textures to VSWAP
+- Seamless level flow / no episode select
+- Multiple floor textures
+- Enemies made stronger
+- Shading
+- Debugmode cheat removed, you can cheat with Tab-keys whenever you want
+- Heartbeat sound
+- Episode 6 endart shown at the end
+- 25 ammo box added
+- Ingame messages
+- Guards not walking through locked doors
+- Menu backdrop reinstated
+- Demos removed
+- Custom signon
+- Custom palette
+- Bossobj changed to regular enemy
+- Advanced Audio Manager (implemented by Nexion)
+- Different ceiling colors
+
+And various other basic changes and tweaks not worth mentioning.
+
+* Frequently Asked Questions *
+
+Q: So Tris, did you change all the graphics in the VSWAP and VGAGRAPH files?
+A: Yes.
+
+Q: But they look kinda similar to what they were?
+A: Yes.
+
+Q: So did you really change everything?
+A: Yes.
+
+Q: Can I use the source code, graphics and sounds for my own mods?
+A: Yes. You can download the source code from the moddb page or wolfenstein3d.nl .
+As Brian Lowe used to say, "Keep on modding"!

@@ -1,0 +1,131 @@
+//онвелс б ECWOLF 1.3.3 гюрелмемхе опнхяундхр якхьйнл ашярпн? х онвелс щрн ме хяопюбкъчр?
+
+intermission DemoLoop
+
+{
+
+Fader
+
+{
+	
+	Background = TitlePage
+	
+	Time = 15
+	
+	FadeType = FadeIn
+
+}
+
+Image
+
+{
+	
+	Time = TitleTime
+
+}
+
+Fader
+
+{
+	
+	Time = 15
+	
+	FadeType = FadeOut
+
+}
+
+Fader	
+
+{
+		
+Background = "CREDITS", 0, "$GamePalette"
+		
+Time = 15		
+	
+		FadeType = FadeIn	
+
+}
+	
+
+Image	
+
+{	
+	
+		Time = -10
+
+}
+	
+
+Fader	
+
+{
+		
+Time = 15
+		
+FadeType = FadeOut
+
+}
+	
+
+TextScreen
+
+{
+		
+Background = "CREDMOD", 0, "$GamePalette"
+
+		FadeTime = 15		
+		Position = 23, 12
+
+		Text = "$MOD2_CREATED"
+
+		TextAlignment = Left
+
+		TextColor = "Black"
+
+		TextFont = "BigFont"
+
+		TextSpeed = 0
+
+		Time = -10
+
+}
+
+Fader	
+
+{
+		
+Time = 15
+		
+FadeType = FadeOut
+
+}
+
+Fader	
+
+{
+		
+Background = HighScores
+	
+	Time = 15
+		
+FadeType = FadeIn
+}	
+
+Image	
+
+{	
+	
+	Time = -10	
+
+}	
+
+Fader	
+
+{		
+
+		Time = 15
+		
+FadeType = FadeOut	
+
+}
+}

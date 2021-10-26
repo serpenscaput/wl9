@@ -1,0 +1,177 @@
+The XLAT file is also known as the Map Translator -
+it is what converts GAMEMAPS format maps into ECWolf's
+internal UWMF format.  It basically is what defines every tile,
+actor and trigger in the game.  In order to place new
+actors/walls/triggers/flats/other cool shit in any new map,
+it must be added to the XLAT file and subsequently the WDC
+map definition file.
+
+Below is a basic reference for the XLAT:
+
+
+	include -
+		References an existing XLAT file.  Good for when you
+		simply want to add a couple tiles.
+	
+			Example:
+				include "xlat/wolf3d.txt"
+				
+	
+	enable globalmeta; -
+		This enables Blake Stone data tiles. As of the writing
+		of this tutorial it is incomplete and doesn’t function.
+	
+	enable lightlevels;
+		This enables the light and visibility levels from Rise of
+		the Triad. To use this, you must add the tiles 216-223 (for
+		brightness) and 252-267 (for visibility) to the walls plane in
+		your map editor, and then place the brightness tile in x2y0
+		and the visibility tile in x3y0 in the walls plane (1st plane).
+		This can actually be achieved easier and with more control
+		in MAPINFO with the commands “defaultlighting” and
+		“defaultvisibility”. The tiles are as follows:
+			
+			  Light Level
+				216 - 0 (Darkest)
+				217 - 1
+				218 - 2
+				219 - 3
+				220 - 4
+				221 - 5
+				222 - 6
+				223 - 7 (Brightest)
+			Visibility Level
+				252 - 0 (Lowest)
+				253 - 1
+				254 - 2
+				255 - 3
+				256 - 4
+				257 - 5
+				258 - 6
+				259 - 7
+				260 - 8
+				261 - 9
+				262 - 10
+				263 - 11
+				264 - 12
+				265 - 13
+				266 - 14
+			    267 - 15 (Highest)	
+				
+		enable planedepth;
+			This enables Rise of the Triad’s taller level feature. It
+			works, but is incomplete. Some things are quirky, like
+			doors extend all the way to the ceiling since it doesn’t
+			have ROTT’s animated doors or upper textures. It can be
+			used, but would require some workarounds to make it look
+			right. To use this, you must also add tiles 90-97 and
+			450-457 to the objects plane in your map editor, and the
+			tile must be placed in the upper left corner of the map
+			(x0y0) on the objects plane (2nd plane). Note: 90-97 are
+			also the patrol point tiles, they will work both ways
+			The tiles are as follows:
+				Level Height
+					90 - 1 (1 tile high, or 64x64)
+					91 - 2
+					92 - 3
+					93 - 4
+					94 - 5
+					95 - 6
+					96 - 7
+					97 - 8
+					450 - 9
+					451 - 10
+					452 - 11
+					453 - 12
+					454 - 13
+					455 - 14
+					456 - 15
+					457 - 16 
+
+		enable zheights;
+			This makes it so, in tandem with the prior effect,
+			actors will spawn at different heights. In order to use this, 
+			you must enable the info plane (4th plane) in your map
+			editor. On each object you want to spawn at a different
+			height, you must (in the 4th plane) on top of the object
+			place in High Byte mode, place tile 176 (hex: 0xB0).
+			Then, in low-byte mode, tiles 0-127 raise the object and
+			255-128 lowers the object in 4 unit (1/16th of a tile)
+			increments.
+			
+		music { track, track, etc }
+			ROTT’s music selection feature. ROTT determines
+			music track by a tile in top row in the info plane. The high
+			byte tile must be 186 and the low byte selects the index in
+			the table defined. This is completely unnecessary, as
+			MAPINFO defines the track played in ECWolf, inheriting
+			from ZDoom.
+			
+		tiles { tile 1 {....} }
+			This entire sub-section defines Plane 1
+			
+				modzone tilenumber [fillzone] ambush;
+					This is the “Deaf Guard” tile, it applies +AMBUSH to
+					whatever object occupies the spot this tile is placed.
+				
+				modzone tilenumber [fillzone] changetrigger action { properties }
+					This searches for all adjacent tiles for triggers with the
+					specified action, and then replaces it with whatever is
+					defined in properties. An example is the Secret Exit floor
+
+				tile tilenumber
+					This defines a wall tile. Tilenumber is the number of
+					the corresponding map symbol in your map editor.
+
+				trigger tilenumber { properties }
+					This assigns a trigger, such as a door to a tile.
+					Triggers can be referred to on the ECWolf wiki (https://
+					maniacsvault.net/ecwolf/wiki/
+					Universal_Wolfenstein_Map_Format#Triggers). The trigger
+					tile number made must match the tile number in the “tiles”
+					section.
+				
+				zone tilenumber {}
+					This defines a sound zone, also known as a floor
+					code. These determine the area that a guard can hear
+					your shots.
+					
+		things { triggers { thing defs}}
+			This entire sub-section defines Plane 2
+			
+				elevator tilenumber
+					Makes a ROTT elevator destination point. You must
+					place these between the door and the switch, and then the
+					elevator will “round robin” between these points. Elevator
+					starts in the uppermost spot if located vertically or leftmost
+					if located horizontally from each other.
+				trigger tilenumber { properties }
+					This also defines a trigger to a tile, but in the 2nd
+					plane instead of the first. This is what makes things such
+					as the push wall and the Victory Spin trigger.
+				{ tilenumber, actor, angles, flags, minskill }
+					This defines actors to a tile number. If your actor has
+					angles defined, you will need a tile number for each angle.
+					minskill indicates the minimum skill level this thing spawns
+					at starting at 0.
+						Flags:
+							Flags can be combined with a pipe. |
+							HOLOWALL - when placed into a wall, it makes the wall
+								non solid
+							PATHING - follows a patrol route instead of standing still
+							AMBUSH - deaf actor
+		
+		ceiling { “flat”, “flat”, “flat”, etc }
+		floor { “flat”, “flat”, “flat”, etc }
+			These define the textures for Plane 3 flats.  The first in the list 
+			will be tile 0, unless you change the first entry with the command
+			"= 1" (the number can be changed to any tile number), the purpose
+			of the command being to preserve the defaultfloor/defaultceiling
+			MAPINFO commands.  In the map editor, to use this properly you
+			must place the ceiling in high byte mode and the floor in low byte
+			mode
+			
+NOTE: This does not explain all features of XLAT,
+especially stuff added in LZWolf.  I recommend
+looking at the ECWolf wiki on the ECWolf home page,
+and the LZWolf wiki on the LZWolf Bitbucket page.

@@ -1,0 +1,28 @@
+These are where you put your sprites - enemies, pickups, statics,
+actors of any sort.  Be sure to set the offsets properly!  If
+you are using a 64x64 sprite, the offsets are x32,y64.  The
+bottom of the sprite image (or where the sprite touches the
+ground, if there is transparent space at the bottom) should
+align with the horizontal guide line in SLADE.
+
+You can also scale sprites in the textures lump, using the 
+hires folder method, or by using the scale function in the
+individial actor's DECORATE definition.
+
+Textures Lump example
+
+	Sprite Optional SPRTA0, 256, 256
+		{
+		XScale 2
+		YScale 2
+		Offset 256, 256
+		Patch SPRTA0, 0, 0
+		}
+		
+DECORATE actor example
+
+	actor ScaledTrans : Trans 
+		{
+		scale .5
+		}
+	

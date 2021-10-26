@@ -1,0 +1,196 @@
+The Astrostein ECWolf/LZWolf Toolkit
+designed for the LZWolf Astrostein Community Mapset
+2020 AstroCreep
+
+This is a simple ECWolf/LZWolf toolkit for
+use with SLADE and WDC, designed for
+the impending LACM (LZWolf Astrostein Community Mapset)
+this time coming in Astrostein flavor! 
+This includes this pk3 file, complete with 
+new actors, textures and more, 
+as well as a WMC tile definition 
+file for use with WDC.  
+
+For the most part, this is based off of what
+(I imagine) a proper DOS port of the original
+Astrostein would have been, using rescaled
+Mac textures and static sprites, as well as
+the enemy sprites featured in WolfenDOOM rather
+than the original terribly scaled Bruce Ryder
+graphics.  Furthermore this does include
+a few ECWolf specific features (namely
+remote-activated triggers and elevators)
+as well as a couple re-imagined boss actors.
+
+Basic Instructions:
+
+1. Set up your WDC project - set your base data
+	folder to your vanilla Wolf3D folder, your
+	extension to WL6, your output folder to a blank
+	folder of your choosing, and the map data file
+	to "astrokit.wmc" (included with this toolkit)
+	Go to Maximum Values and change the Map Planes to 4
+	if you wish to use the 4th Plane (switch tagging and 
+	other ECWolf specific features)
+	
+2. Make your map and save.  Export your map to WAD.
+	You can do this manually by exporting your map
+	to regular WDC format as PLANES.map and injecting
+	into a WAD (look at the demo map for an
+	example), or you can use the WAD exporter
+	(requires wl6map.txt, included with this
+	toolkit)  Refer to Dunkel's tutorial videos
+	for detailed instructions, or the guide in the MAPS folder 
+	(link - https://www.youtube.com/watch?v=GEO6fIn0VP8&list=PL-rUi0n65Qjx3tSauvU-6cglX13v0VKQm)
+	
+3. Dump your new map WAD file into the "Maps" folder
+	of this PK3.  Remember to make your definition
+	in mapinfo.txt!  Repeat steps 2-3 for each map
+	
+4. Play that shit!
+
+This is a quasi-vanilla themed kit, so no extra
+EC/LZ features such as flats, parallax skies,
+halo lighting, brightness or any other fancy bells
+and whistles are included. However they can very 
+EASILY be added to this pk3.  Refer to the ECWolf
+tutorial page on Wolfsource, the LZWolf wiki on
+bitbucket, or simply tear apart any of my mods
+to see how its all done!
+
+These are indeed only basic guidelines, and the
+included scripts/defs can easily be modified
+within SLADE and WDC!  Feel free to add things
+such as light levels, parallax skies and flats
+to create a completely new experience!
+
+SUBMISSIONS:
+
+	If you make a map with only the included assets,
+simply send me the Map Wad file and I can handle
+the rest, as long as you provide me with proper
+details such as music selection, par time,
+and ceiling/floor color selection 
+
+	If your map contains new custom assets 
+I would prefer you to package your new map in
+pk3 format, arranged in the same way as this
+toolkit - if you have new sprites/sounds/
+scripts/whatever, please put them in a folder
+with your name
+
+	EXAMPLE:
+		/sprites/astrocreep/
+		/actors/astrocreep/
+		etc
+	
+	Remember to make a new XLAT file!
+	Refer to the instructions in the XLAT folder.
+
+	Please design your map for pistol start and
+with no secret exits, maps will be accessed
+from a central hub map, much like the prior
+community mapset.  You can name the map
+wad whatever you like, as I will be arranging
+the maps in a logical fashion so the 
+teleport triggers function properly.
+
+HOW TO SUBMIT:
+
+	You can submit your maps to either myself
+or Dunkelschwamm - there are multiple ways
+to contact us:
+
+	A) DieHard Wolfers Forum, if you are a
+	member, simply drop one of us a message
+	with a link
+	(member names: AstroCreep; Dunkelschwamm)
+	
+	B) ZDoom Forums, if you are a member,
+	simply drop a message with a link
+	to AstroCreep
+	
+	C) Twitter, @AstroCreep5 and @dunkelschwamm
+	 respectively
+	 
+	D) Discord, we are both active members in
+	multiple Wolfenstein/Doom/id discords, such as
+	WolfSource, Team Raycast, ZDoom, 
+	The Wolf's Den, Wolf3D Fugitives, etc.
+	Feel free to send a message to one of us
+	and attach your map.  (We can both be found
+	easiest on WolfSource)
+	
+	E) ModDB, send a message with a link to
+	your map to AstroCreep
+	
+	
+FEATURES:
+
+*Analogs of most Astrostein enemies, including
+	all foot guards, most robots and bosses.
+	Some robots have different functions than
+	before, i.e. the Alarm Drone and the
+	Suicide Robot, which were originally
+	variations of Ubermutant and the Dog
+	respectively.
+*All vanilla Mac Astrostein static actors,
+	rescaled to x64, plus a few extras from
+	WolfenDOOM
+*All weapons featured from the original MacWolf
+	Astrostein, based off of the vanilla weapons
+	and Executor's Second Encounter PC Style
+	weapons.  I even kept the goofy out of place
+	knife, lol.
+*ALMOST all textures from the Mac Astrostein
+	scenarios, resized to x64 and cleaned up
+*A few re-imagined boss actors, inspired by
+	original bosses from the MacWolf Astrosteins
+	as well as Spifferaneous' version.
+		-Colonel Welder, 2 stage boss, based off of
+			Mecha Hitler, sprites by Spifferaneous
+		-Karl and Franz Grosse, basically the same
+			as each other, simple Grosse replacements
+			that drop either a gold or blue key
+		-RoboSchabbs, inspired by Spifferaneous'
+			original version, shoots Photons
+			sprites by AstroCreep
+		-RoboHitler, multi-stage boss, first
+		is spawn, second is stationary with
+		no attacks, third is a "flying" stage
+		with photon and plasma attacks, fourth
+		is the "death loop".  Inspired by original
+		RoboHitler from Astrostein 3.  
+		Sprites by AstroCreep
+*An assload of extra music from SOD, MacWolf,
+Blake, PS and ROTT
+
+CREDITS:
+
+-Astrostein Series by Laz Rojas
+	*original PC 3 level demo by Bruce Ryder
+	*PC Re-Imagining by Spifferaneous
+	*WolfenDOOM scenarios by Laz Rojas	
+-Sprite Rescaling/Finishing by AstroCreep
+-DECORATE scripting, XLAT, MapDefs and PK3 compilation by AstroCreep
+
+Individual Sprite Credits:
+	
+	MacWolf/WolfenDOOM stuff - Laz Rojas
+	Colonel Welder - Spifferaneous
+	RoboHitler, RoboSchabbs,
+		Small Vehicle Guard - AstroCreep
+	Taser - AstroCreep
+	
+- Music by Bobby Prince, Brian Luzietti
+	and Lee Jackson
+- MIDI 2 IMF conversion by AstroCreep
+
+- Some scripts contain things originally done
+	by Dunkelschwamm and Executor
+	
+- Hazard sprites from Planet Strike, ripped
+	by Executor
+SPECIAL THANKS: Other Modders
+	
+	

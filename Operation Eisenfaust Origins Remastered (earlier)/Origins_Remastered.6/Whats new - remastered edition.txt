@@ -1,0 +1,61 @@
+
+Overall changes are too long to list, tried to list the main ones.
+Artwise barely any art was left untouched, from small pixel and color fixes you might not notice, to larger changes and total sprite replacements one can't miss.
+
+Goals of this remastering edition is to make the best of this mod - without breaking existing maps.
+This means, among the rest, fixing some mentioned grumps in various playthroughs (big MP40 muzzle flash - the reason this remastering even started, biting dogs not being killable, wrong swastika directions, rifleman reaction time, rocket guys and Bosses AI too fast turret overheating etc etc.
+Later on additional goals were added (again, with limitations not to break existing maps):
+
+1. To take the farther from --you know what mod-- origins and closer to Eisenfaust/Wolf3D universe. To make it feel a bit like its own mod, and not --that mod-- reskin.
+Less interrogations and torture - and more creepy lab scenery/experiments. Don't get me wrong though - enough torture is left, not to break existing maps.
+This also includes replacing some of generic Wolf3D scenery into a more unique-looking ones. Replacements of Femstein-borrowed scenery.
+
+2. To add more visual immersion (lighting, weather effects...) and interactivity (interactive and destructable scenery) to the mod.
+
+======================================================================
+======================================================================
+
+Coding (LinuxWolf)
+
+1. New lighting effects for light sources
+2. New sniper scope effect/look
+3. Weather and outdoor daylight effects - including (but not limited to) fog, much more realistic and immersive snow and rain effect, fix for snow and rain resolution.
+4. Some non-animated scenery is now animated.
+5. Many of non-bullet-interactive scenery is now breakable/interactive, including glass windows.
+6. Glowing lab chambers/domes
+7. Tall floors support 
+8. Bugfixes
+
+=================================================
+
+Art (DoomJedi)
+
+Almost all art got changed in some way. From minor edits to total replacements.
+Some changes you might not notice at all, some - you'll say "damn, this somehow looks better, but I can't pinpoint why", and some you'll definitely notice.
+Too long to list all of the changes, will list some.
+
+1. Improved title screen and better HUD colors
+2. Improvements, changes, replacements (new art, including animated and breakable) to lab-related scenery, lab chamber/blood transfusion themes, replacement of lockers theme with a theme to bridge between the prison/mutants and lab experiments. One of the changes will sure get mentioned/discussed, heh.
+3. New sniper scope art
+4. New, more realistic rifle guy shooting frames
+5. Newly-animated scenery, improvement of digging animation, new ceiling drops animation, improved turret dude animations.
+6. Alot of interactive/breakable scenery. If you think bullet would damage it - it probably does.
+7. Improvement to almost all enemies and Bosses in terms of animation, shooting, pain frames etc. They are now more animated, better animated. Recoloring fixes, swastika direction fixes.... Muzzle shooting flash also interacts with them light-wise. Fix of "bearded Boss" death frame. More unique pain frames for enemies.
+8. Addition of scientists/doctors - for lab-related themes.
+9. Some improved textures and floors and a few new floors (like melted snow floor for campfire)
+10. All health pickups are now unique-looking.
+11. Improved "mutant getting hit" animation to match Sonder one. Improved other animations (including digging animation)
+12. Fixes of scenery for better perspective, to look less flat and to relate to view height.
+13. Improving contrast, colors of some scenery, better and more consistent looking skulls in scenery, less bright skeletons.... 
+15. New, more realistic seamless grass scenery
+16. Glass windows
+17. Corrected bread and broom colors to more realistic ones.
+18. Improved intermission animation
+19. Improved ending picture.
+
+===========================================================
+
+Mapping (Executor, Dean and DoomJedi)
+
+6 new maps (in 2 new map packs), including map scrapped from original release.
+See credits file for additional info.

@@ -1,0 +1,24 @@
+If you wish to use an alternate xlat for your map
+submission, please follow these basic guidelines:
+
+1. Reference the original XLAT!  This is REQUIRED
+in order for the map not to crash!  Put this at
+the top of your XLAT:
+
+	include "xlat/astrokit.txt"
+	
+	
+2. When adding new actor/wall tiles, start 
+in the 1000 range please. This will ensure no new
+tiles will overwrite prior base tiles.
+
+	EXAMPLE:
+		{1000, SchmonicDeHedjhawg,              0, 0, 0}
+		
+3. Keep it simple, stupid!  It's hard to find errors when
+an XLAT/Decorate script is messy!  Try to keep your
+tile numbers in order, and generally neat formatting.
+				
+				
+		
+		

@@ -1,0 +1,11 @@
+^P
+^G0,0 [splash4]
+^P
+^c7eCrete, Greece	
+^c7eMarch 3rd, 1958
+^c00Intelligence leaked from the Yugoslav UDBA indicates that Stjephan Tomo is 
+currently residing in Greece as a guest of the military. The reports suggest he 
+is being housed at the Koules Fortress on the island of Crete. A small passenger
+craft should allow you to infiltrate the fortress easily but be warned that 
+several of Tito's assassins have already died in the attempt...
+^E

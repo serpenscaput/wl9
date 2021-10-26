@@ -1,0 +1,77 @@
+Put your map wads into the Maps folder, to
+be referenced by MAPINFO.
+
+INSTRUCTIONS:
+
+A: The Hard Way
+
+	1. Make your map in WDC, save and compile.
+
+	2. Select Import/Export and then select Export to File
+
+	3. Save your map as PLANES.map
+
+	4. Make a new WAD archive in SLADE3
+
+	5. Make a new entry (the document icon with an E) and
+		name it whatever you want to call the map
+		(I usually follow MAPXX but you can call it anything
+		8 or less characters)
+		
+	6. Import PLANES.map
+	
+	7. Save your wad as the same name as your header entry
+		(example MAP01.wad)
+		
+	8. Import your saved wad into the Maps folder of this
+		pk3.
+	
+	9. Make your MAPINFO def in mapinfo.txt!  Example MAPINFO def:
+	
+		map "MAP01" //(MAP01 is your WAD's file name)
+			{
+			next = "MAP02" //(File name of the next map wad)
+			secretnext = "MAP10" //(Same, but for the secret map)
+			floornumber = 1 //(Floor number to display on the status bar)
+			par = 90 //(Par time, measured in seconds)
+			music = "GETTHEM" //(Level music, type the lump file name here)
+			cluster = 1 // Cluster number, refer to ECWolf wiki for more info
+			}
+		
+		(These are only basic options, there's much more you can do
+		in MAPINFO, go to the ECWolf wiki, the LZWolf wiki on bitbucket
+		or open up an existing mod for more information.)
+		
+	10. Test your map, and move on to the next!
+	
+B: The Easy Way
+
+	1. Make your map in WDC, save and compile.
+	
+	2. Select File and then select Export to WAD/PK3/PK7
+	
+	3. Click on the icon with 2 dots next to the bar 
+		labeled "Lump Name File"
+		
+	4. Select "wl6map.txt" (included with this toolkit)
+	
+	5. Check the box next to the map you want to export.
+		You are able to extract more than one map at once,
+		but when WADs are read from within a pk3 it will 
+		ignore all of the maps except the first one, so it
+		is best to export one at a time.
+		
+	6. Press the Export button, make sure that WAD format
+		is selected.  Save as anything, but remember to
+		keep it 8 characters or below.  I prefer MAPXX.wad.
+		
+	7. Follow Steps 8-10 of the Hard Way
+	
+	
+For more tutorials and info, check out Dunkelschwamm's
+tutorials:
+
+
+
+	
+	

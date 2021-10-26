@@ -1,0 +1,342 @@
+^P
+^C04INTRODUCTION
+^C00
+		Welcome to Batman: No Man's Land!
+
+^P
+^C04TABLE OF CONTENTS
+^C00
+		INTRODUCTION	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	 1
+		THE STORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	 3
+		PLAYING THE GAME	.	.	.	.	.	.	.	.	.	.	.	.	5
+		CONTROLS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6
+		WEAPONS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8
+		INVENTORY	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	13
+		ENEMIES	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	14
+		CREDITS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	18
+		SPECIAL THANKS	.	.	.	.	.	.	.	.	.	.	.	.	.	.	21
+		CONTACTING THE CREATORS	.	.	.	.	.	.	22
+		OTHER MODS BY TEAM RAYCAST	.	.	.	23
+
+^P
+^C04THE STORY
+^C00
+		The "Batman vs. Bane" story continues... 
+		The remaining escaped convicts and 
+		supervillains have taken refuge 
+		in West Gotham, the part of Gotham 
+		destroyed by Bane's earthquake device. 
+		The supervillains are split up in sections, 
+		which has escalated into a gang war. 
+		Knowing for sure they're up to no good, 
+		Batman and the GCPD try to arrest
+		them while also saving the
+^P
+^C04THE STORY 		(cont'd.)
+^C00
+		innocent people still trapped 
+		inbetween the fighting sections. 
+		But knowing these supervillains, 
+		arresting them will not be 
+		a walk in the park...
+^P
+^C04PLAYING THE GAME
+^C00
+The world in Batman: No Man's Land
+^C00contains great depth and detail. As you
+explore, you will come across many things
+you can interact with. Try to press the
+^CA0"use" ^C00key near objects or characters that
+look like ones that can be interactive.
+
+^P
+^C04CONTROLS
+^C00
+		The controls for No Man's Land are
+customizable. Their defaults are as follows:
+
+^C6BArrow keys	^C00- to move/turn
+^C6BCTRL ^C00						- Shoot
+^C6BALT ^C00							- Strafe
+^C6BSHIFT ^C00					- Run
+^C6BSPACE ^C00					- open doors,
+										- activate pushwalls, 
+										- interact with objects 
+											and characters
+^P
+^C04CONTROLS 		(cont'd.)
+^C00
+^C6BTAB ^C00							- Secondary HUD display 
+										 (additional/bonus keys 
+										 and score)
+^C6B1-7 ^C00							- Weapon Select
+^C6B U ^C00									- Check stats								
+^P
+^C04WEAPONS
+^C00
+		^C87FIST
+				^C00 As Batman, you are skilled 
+				in Martial Arts. Use your fists 
+				to beat down your foes.
+				Press ^CA0"1" ^C00to select.
+
+		^C87BOLAS
+				^C00 Use Bolas to subdue your foes
+				when they get too close!
+				Press ^CA0"2" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87BATARANG
+				^C00 Batman throws the Batarang 
+				to take down enemies at a distance. 
+				Can silently take out unsuspecting
+				foes.
+				Press ^CA0"3" ^C00to select.
+
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87BAT-TASER
+				^C00 The Bat-Taser fires bolts into 
+				your enemy and puts them into 
+				a state of cardiac arrest, 
+				unable to fight back. 
+				Within a limited distance you can 
+				transfer a thunder storm of 
+				electricity through your foe. It 
+				also has the capability to instantly 
+				paralyze an unsuspecting enemy 
+				when attacked from behind.
+					Press ^CA0"4" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87MINI BATARANG LAUNCHER
+				^C00Batman draws upon the 
+				Mini Batarang Launcher
+				when the situation warrants 
+				the use of advanced weaponry. 
+				It fires an ultra-fast 
+				miniature Batarang capable of 
+				knocking out most enemies 
+				in one-hit and comes fitted 
+				with remote flight controls.
+				Press ^CA0"5" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87GAS GUN
+				^C00Batman uses the Gas Gun 
+				to smoke out baddies. 
+				Stealthy, yet effective against
+				large groups as well.
+				Press ^CA0"6" ^C00to select.
+
+		^C87EMP GUN
+				^C00 The EMP blast from this weapon 
+				triggers a black out long enough 
+				to blind enemies and places them 
+				into a state of fear and panic. 
+				Batman uses night vision goggles
+
+^P
+^C04WEAPONS		(cont'd.)
+^C00 
+				to see through the darkness. 
+				Enemies inside the blast radius 
+				are sent into electric shock.
+				Press ^CA0"7" ^C00to select.
+^P
+^C04WEAPONS		(cont'd.)
+^C00
+		^C87TRASHCAN LID
+				^C00Batman will utilise the metal lids 
+				from trash cans on the street 
+				to defend himself from enemy 
+				gun fire. These lids are strong enough 
+				to knock out an enemy if thrown.
+				Press ^CA0"1" ^C00to select.
+
+		^C87MANHOLE (SEWER) COVER
+				^C00Too heavy to carry or throw at
+				enemies...and its weight will slow you 
+				down...but it's truly bulletproof.
+				Press ^CA0"1" ^C00to select.
+^P
+^C04INVENTORY
+^C00
+		^C6BKEYS
+				^C00This mod has 5 keys of different 
+				colors (and up to 6 are supported). 
+				One of them is a bonus key that you 
+				need to find a way to get. To see 
+				additional keys press "TAB" to show 
+				secondary HUD view. You can see 
+				your score there as well.
+
+		^C6BCOINS
+				^C00You have a few ways to get coins -
+				helping cops, but not only. 
+				Coins can be used at vending machines 
+
+^P
+^C04INVENTORY		(cont'd.)
+^C00
+				to get health, or to pay 
+				for information or inventory (armor) 
+				while interacting with some other 
+				characters. Note the HUD display. 
+				Coins can get you in trouble too...
+^P
+^C04ENEMIES
+^C00
+		^CBCHOBO
+				^C00After the city destruction, 
+				many Gotham citizens lost their homes 
+				and became hobos sleeping in parks or 
+				on public benches, begging for small 
+				change and making small thefts. 
+				By default they are not agressive and 
+				pretty harmless - but some 
+				situations, added to general hunger 
+				and lack of hope can make them very 
+				agressive...despite only melee attack
+				- they can be quite quick and skilled
+				and "damage" not only your health
+				(...)
+^C04ENEMIES     (cont'd.)
+^C00
+^P
+				(...) or body...won't say more at 
+				this point, but watch yourself from 
+				getting too close to them. All kind 
+				of things can happen.
+				
+		^CBCBURGLAR
+				^C00Face of unorganized and random 
+				street crime that took advantage 
+				of Gotham's lack of order after 
+				the quake - those brown-hooded 
+				robbers are everywhere around 
+				the city. Not too dangerous though, 
+				armed with only pistols.
+^P
+^C04ENEMIES     (cont'd.)
+^C00
+		^CBCTHUG
+				^C00Jeans-wearing gang members that 
+				can be quite deadly as they usually 
+				carry more than one pistol with them. 
+				You already met them in 
+				"Batman vs. Bane".
+				
+		^CBCRIDDLER GOON
+				^C00Fast but not too dangerous. 
+				Shoots handgun.
+				
+		^CBCTWO-FACE GOON
+				^C00They are armed with automatic fire 
+				
+^P
+^C04ENEMIES     (cont'd.)
+^C00
+				(...) and are quite dangerous
+
+		^CBCBLACK MASK BODYGUARD
+				^C00They are armed with automatic fire 
+				and are quite dangerous
+^P
+^C04CREDITS
+^C00
+		^CABDoomjedi
+				^C00Project Coordination
+				Art Direction
+
+		^CABRonwolf
+				^C00Level Design
+				Story
+				Music and Sounds
+
+		^CABLinuxwolf
+				^C00Lead Programming
+^P
+^C04CREDITS		(cont'd.)
+^C00
+		^CABLozer_42
+				^C00Audio Direction
+				Additional Sounds
+				Beta testing
+				
+		^CABBeta Testers
+				^C00Dean
+				WLHack	
+				Dark_wizzie
+				WolferCooker
+				Treesapthief
+^P
+^C04CREDITS		(cont'd.)
+^C00
+		^CABAdditional Art
+				^C00Wolfenstein 3D
+				Blake Stone
+				Mr Wolf
+				Hexen
+				Operation Bodycount
+				Strife
+				Batman Forever snes					
+^P
+^C04SPECIAL THANKS
+^C00
+		ID Software for making Wolfenstein 3D
+		Ripper for making Wolf4SDL
+^P
+^C04CONTACTING THE CREATORS
+^C00
+		Look for us on Mod DB!
+		
+^P
+^C04OTHER MODS BY TEAM RAYCAST
+^C00
+		^C96BATMAN vs BANE
+				^C0010-level Wolf3D TC inspired by the
+				Batman comics, games, movies and
+				cartoons. First part of in-work
+				trilogy.
+
+		^C96OPERATION EISENFAUST: LEGACY
+				^C00After Schabbs' demise, it was 
+				assumed that the Eisenfaust plans 
+				had been destroyed once and for all. 
+				But a former protege of Schabbs has 
+				taken the blueprints of the operation 
+				and is attempting to restart it. (...)
+^P
+^C04OTHER MODS BY TEAM RAYCAST		(cont'd.)
+^C00
+				(...) It is up to special agent B.J. 
+				Blazkowicz to stop the Nazi's from 
+				creating another mutant army. 
+				Will B.J. stop them, or is he about 
+				to find out that the operation might 
+				have progressed a lot faster than 
+				he thought, with its effects 
+				far more devastating...
+
+		^C96OPERATION EISENFAUST: ORIGINS
+				^C00A Sci-Fi "Wolfenstein 3D" mod/TC about
+				the origins of "Operation Eisenfaust".
+^P
+^C04OTHER MODS BY TEAM RAYCAST		(cont'd.)
+^C00
+		^C96SOD EXTREME
+				^C00A Spear of Destiny Mapset of
+				completely original maps without the
+				old object and enemy limits you're
+				used to.
+
+		^C96SPLITWOLF
+				^C00SplitScreen (coop) for up to 4 players
+				(currently optimized for 2) in
+				cooperative mode on a single PC!!!
+^E

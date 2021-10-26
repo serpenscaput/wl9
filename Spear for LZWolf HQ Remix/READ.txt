@@ -1,0 +1,29 @@
+HQ REMIX for LZWolf
+AstroCreep 2020
+
+This is a HQ remix of SOD for LZWolf, utilizing features such
+as light levels, scaling, halo lights and a few other tricks along with
+the 128x rotational sprites from ZDoom Forums to give a slightly updated
+experience.  
+
+Unlike the Wolf3D HD mod, maps 17, 18 and 21 had to be edited manually for visual effect, so those 3 edited maps are
+included in the MAPS folder.
+
+CREDITS:
+
+Spear of Destiny by iD Software
+128x sprites and textures by iD Software
+	edited by AstroCreep
+	rotations from 128x Wolf3D Rotation Project 
+		Ringman
+		Pallin
+		Doomjedi
+		CeeJay
+		CaptainJ
+		LkMax
+		DenisBelmondo
+		Wiw
+LZWolf by Linuxwolf
+MacWolf IMFs by AstroCreep
+PK3 Compilation and DECORATE scripting by AstroCreep
+XLAT and Map Defs based on EC_Mac_Family and EC_WL6 by AstroCreep

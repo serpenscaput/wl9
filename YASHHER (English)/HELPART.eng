@@ -1,0 +1,254 @@
+^P
+-=Warning=-
+-RUSSIAN-
+Автор плох в английском языке. По этой причине возможны ляпы и ошибки в тексте. 
+Прошу извинения. 
+-ENGLISH-
+The author is bad in English. For this reason, mistakes and mistakes in the text are possible.
+Excuse me for this.
+^P
+^G16 16 [hart0000]
+is modification for game WOLFENSTEIN 3D. Which works on port ECWOLF.
+
+The following pages will provide information about: store, characters and NPC (except secrets), item, etc.
+
+^P
+-=Сontent=-
+Story	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4
+Сharacters and NPC	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8
+Weapons	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16
+Items	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	19
+Authors	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	26
+
+^P
+-=Story=-
+21 century
+Humans went beyond native Earth, and started began to master space on a large scale.
+26 century
+Although they have mastered only a small part. But to someone space was not enough, and they decided to go deeper, beyond space and world.
+There were also opponents of such a thing, because of this, conflicts began to arise. Which have grown into one big war. Humans space dream is destroyed.
+So it began "Last Three Nation War".
+But this story in not about the war. This story is about one First solder Bill Ergon. Who not by choice became witnessed it.
+^P
+-=Story=-
+^G16 16 [hkpa]
+-First-
+"First" want unite all humans, one in the nations. For destruction other possible enemy from space.
+Introduce a long war with Hellki. Since they opened "The Gates of Hell".
+Main enemy - Hellki. 
+Have territory more than Inkog 59 times.
+
+^P
+-=Story=-
+^G24 16 [hcnh]
+-Inkog-
+Not the most strong. For people this nation, god is 
+their 
+leader. Therefore, they are trying to protect him with all their strength.
+Not like all, but war not arrange.
+Have small territory.
+
+^P
+-=Story=-
+^G24 16 [h3el]
+-Hellki-
+They think, but this world is big prison. Their task is to find a way out from it. But methods, for solve this task, very unusual. From experiments over humans, to create portal in to neighboring worlds. 
+However, is very strong among others nations.
+Create portal to neighboring world. But First believe that it is "The Gates of Hell". For this reason First declared war. Sometimes attack Inkog territory, for the production of the material.
+Have territory is 5 times bigger than First.
+^P
+^G26 16 [hhero]
+-=Characters and NPC=-
+-Ergon-
+Bill Ergon
+After failed. Will captive Hellki solders, and after transported to Bitop-9 on experiment. Where is the one successfully, but not completely, was exposed to impact A979-31-TEST009.
+The purpose A979-31, make PM-YA9 with saved mind and memory, what the human had before impact.
+^P
+^G26 16 [hhero]
+-=Characters and NPC=-
+-Ergon-
+Height - 178 cm
+Weight - 74 kg
+Date of birth - 
+1 February 2560 year
+^P
+-=Characters and NPC=-
+^G26 16 [hsci]
+-Worker-
+Station staff. Have with them pistol PIS-8.
+Their main task is do one's work. The work is more concerned with maintaining the normal operation of the complex. But there are also scientists, who have a completely different job.
+^G96 16 [hsolder]
+-Guard-
+Station staff. Have with them rifle ST-38. 
+Their main task to protect the staff and, in an accident, his evacuation.
+^P
+-=Characters and NPC=-
+^G26 16 [hofficer]
+-Officer-
+Station staff. Have with them pistol PIS-8.
+Their main task to keep order on the station, and to provide work to station personnel. 
+Can walk together with 1-3 guards.
+
+^G96 16 [hsupers]
+-Soldier-
+Military. Have with them rifle ST-38.
+Most ordinary soldier. 
+They wear quite strong armor that protects the entire body.
+^P
+-=Characters and NPC=-
+^G26 16 [hbazuker]
+-Solder with BG-80-
+Military. Have with them BG-80.
+Soldier with heavy weapon. Their main task quickly defuse a crowd of enemies or his technique.
+Since they have heavy weapon, they do not have armor with them. Walking alone.
+^G96 16 [hsrobot]
+-Security robot-
+Have with them rifle ST-38.
+Designed for continuous protection of the most important objects.
+In case of total damage. Head can be disconnected from the body, and be using like drone.
+^P
+-=Characters and NPC=-
+^G26 16 [hboss1]
+-Heavy soldier-
+Military. Have with them welded to suit BG-101-E. 
+Heavy type soldier. 
+Carry become heavy armour and weapon mass defeat. On small task their send from 1 before 5 units.
+^G96 16 [hboss2]
+-Robot EI-8-
+Special development. Have with them welded BG-100 and machine gun ST-48. 
+His task is to guard the main generator.
+On event if will remain without hands and legs, is armed blade and jetpack.
+^P
+-=Characters and NPC=-
+^G26 16 [hnikzor]
+-Nik Zor [No in demo version]-
+One of the main administrators of the Bitop-9 complex. His task at Bitop-9: control over the development of modifications A979.
+There is an assumption that he not human. Can cause powerful hallucinations in anyone. This feature allows him interrogate enemy soldiers and calm down rebellious prisoners.
+To his meeting, be better prepared.
+^P
+-=Characters and NPC=-
+^G26 16 [hrat]
+-Rat-
+Rat from Kirov-300 planet. The meat is quite nutritious. 
+Some of them escape from death. This is one of the reasons for their presence on the complex.
+
+^G96 16 [pmya9]
+-PM-YA9 (Yashher)-
+Anthropomorphic reptile with a thirst to kills, is resulting effects A979 on human.
+For Hellki used exclusively as cannon fodder.
+^P
+-=Weapons=-
+^G26 16 [hmachete]
+-Machete-
+Used workers for cut thick skin at rat. 
+
+^G58 16 [hpistol]
+-PIS-8-
+Pistol. 
+Popular model of the pistol. It is used for weapons in Hellki and Inkog. Popular because of lightness in production.
+Used bullet - ENERGYBUL-14
+^G120 16 [hrifle]
+-ST-38-
+Rifle. It is used for weapons in Hellki and Inkog.
+Used bullet - ENERGYBUL-14
+^P
+-=Weapons=-
+^G26 16 [hmgun]
+-ST-48-
+Machine gun. It is used for weapons in First and Hellki. Was created by First. But after publication information, about his production, author himself, weapon became for weapons in Hellki.
+Used bullet - ENERGYBUL-14
+^G90 16 [hshotgun]
+-SGH-12-
+Houston shotgun model #12. Is Not used for weapons no one. But very affordable.
+Used bullet - ENERGYBUL-14
+^P
+-=Weapons=-
+^G26 16 [hbazuka]
+-BG-80-
+Gun for mass destruction. It is used for weapons in Hellki. 
+Used bullet - ENERGYBUL-36TP
+Weapon very risky. During shot, it create fireball, which, in contact with anything, explode.
+Do not give it hand novice and crazy man. 
+^P
+-=Items=-
+^G26 16 [hammo]
+-ENERGYBUL-14-
+Bullet type, which approaches to many weapon. 
+One energy box enough for 8 shot. But, there is guns, which this little.
+
+
+^G96 16 [hammob]
+-ENERGYBUL-36TP-
+Bullet type, which fits to: BG-80, BG-100 and to others. 
+One clip enough for 3 shot. ОBut, there is guns, which this little.
+^P
+-=Items=-
+^G26 16 [hfood]
+-Metal jar with food-
+A jar with food in it.
+
+
+
+
+^G96 16 [hminimed]
+
+-Small first aid kit-
+Small first aid kit. Used Hellki for quick help slightly wounded. 
+^P
+-=Items=-
+^G26 16 [hmed]
+-First Aid Kit-
+First Aid Kit. Used Hellki for help seriously wounded. 
+
+
+
+
+^G96 16 [heatrat]
+-Rat corpse-
+Rat from Kirov-300 planet. The meat is quite nutritious. 
+^P
+-=Items=-
+^G26 16 [houp]
+-Object-1997-HELLKI-
+Very rare phenomenon. Appears in available, but in unpopulated places. Represents a flying and light naked body, like a human. Its appearance is personalized for each, everyone sees him as his twin. Upon contact with them, contact person:
+heal all wounds;
+has a deceptive feeling of "being reborn";
+Object-1997-HELLKI manifests itself in some complex in Hellki.
+^P
+-=Items=-
+^G26 16 [holdmny]
+-Old money with a nominal value of 10 rubles-
+The People have long ago left on electronic money. But they will always store old money. After all this is past. Past, where money could touch.
+
+^G96 16 [hpda]
+-PDA-
+Someone's PDA. You can read and learn some information. Or sell on the black market.
+^P
+-=Items=-
+^G26 16 [hbox]
+-Black case-
+Case, cost of which is more expensive than what is in it.
+
+
+
+
+^G96 16 [hfleshka]
+-Flash drive-
+Keep information in network, not the most best idea. Especially if you have a high rank. Why are any offline devices still used. But used only for those who has something to hide..
+^P
+-=Items=-
+^G26 16 [hkeys]
+-Special key cards-
+Allow to open some closed doors.
+^P
+Wolfenstein 3D (PC и SNES) by id Software
+DooM (1993 года) by id Software
+DooM 2 by id Software
+Doom RPG by Fountainhead Entertainment and id Software
+ECWolf by Braden "Blzut3" Obrzut
+
+Author this modification - Nikita Zotov <TEPA6ANT>
+
+-Music- 
+Rytmik Studio samples
+^E

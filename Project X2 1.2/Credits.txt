@@ -1,0 +1,51 @@
+TEXTURES
+
+Soldat 555, ID software, Team TNT, Laz Rojas, WSJ, Raven Software.
+
+OBJECT, ENEMIES & BOSSES
+
+Rogue Entertainment, TODM, Espi, Vader, Nash, Nanami, Maelstrom, Eriance, Rottking, hnsolo77, Neoworm, WSJ.
+
+SOUNDS
+
+Rogue Entertainment, Monolith Games, Zippy, Id Software, Blizzard Entertainment, CyClones, Raven Software, Eriance, Shadow Caster, Vader.
+
+MAPS
+
+Chapters 1,2,5 (Levels 7 8 9 and Boss),6 
+Penguindog55 
+
+Chapters 3 and 4
+Lingyan203
+
+Chapter 5
+WSJ
+
+Chapter 4 Level 1
+RichterBelmont12 With WSJ
+
+WEAPONS
+
+FPSBANANA Community (its Just too Many to list I'll Fix this When I have time)
+
+GFX
+
+Me (Richter Belmont), and Soldat 555.
+
+MUSIC
+
+Tecmo Koei, Konami, Apogee, SRB2 Team, Jesper Kyd, Sega, Pokemon Company, Tatio, 
+Iguana Entertainment, Rare, SNK, Capcom, Insomniac Games, Retro Studios, Jerry Lehr & Luke Wilson
+
+GRAMMER CHECKS
+
+QuakedoomNukem, Tricob
+
+PROGRAMMING
+
+Me (Richter Belmont)
+Ripper (Wolf4SDL engine)
+Havoc (Log Files)
+WSJ (Reloading)
+Andy (Shrinking Weapon Sprites)
+Drew Macaulay (Advance Episode Select and Growing Enemy Sprties)

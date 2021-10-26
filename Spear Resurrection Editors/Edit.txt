@@ -1,0 +1,10 @@
+This version of Spear Resurrection can be edited directly with both Floedit and Mapedit. Due to the number of images in the vswap, the old "Wolfedit" won't work. The definition files for Mapedit are included in this set of files, and the necessary Mapedit files, including the Mapedit executable itself, are among them. But there are a couple of things you should be aware of before you attempt anything:
+
+Firstly, do NOT run Mapedit directly! Rather, run the M.BAT batch file to run Mapedit. This renames the map files so that Mapedit will see levels past 21. It then renames them back again after you quit Mapedit. Running Mapedit without observing this rule may lead to problems, so please, don't say you weren't warned!
+
+Secondly, teleport artefacts (artefacts of displacement) - you can only have one of each "destination" point in each level. However, you can have as many artefacts as you wish - just bear in mind that each artefact of the same type will take you to the same destination point. One more thing - teleporting in some levels will cause the ceiling and/or floor textures to change (to create the effect you've warped "outside", for example) - these changes are only on certain levels, and are hard coded into the game, so you won't be able to alter this.
+
+That's pretty much it I think.
+
+Take care :)
+Steve (AReyeP)

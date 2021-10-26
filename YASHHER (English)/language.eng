@@ -1,0 +1,43 @@
+/* DEFAULT ENGLISH TRANSLATION */
+
+[enu default]
+
+MOD2_CREATED = "Wolfenstein 3D (PC и SNES) by id Software\nDooM (1993 года) by id Software\nDooM 2 by id Software\nDoom RPG by Fountainhead Entertainment\nand id Software\nECWolf by Braden \"Blzut3\" Obrzut\n\nAuthor this modification - Nikita Zotov (aka TEPA6ANT)\n(2021 year)\n\n-Music-\nRytmik Studio Samples";
+REGNOTICE_TITLE = "Thank you";
+REGNOTICE_MESSAGE = "Thanks for downloading\nthis modification.\nHave a good game.";
+
+STR_DADDY = "I'm just looking";
+
+STR_HURTME = "Easy";
+
+STR_BRINGEM = "As all";
+
+STR_DEATH = "I seem to die";
+
+ENDSTR01 = "You're tired? Y or N";
+
+ENDSTR02 = "You want to exit?";
+
+ENDSTR03 = "You don't want to continue?";
+
+ENDSTR04 = "Perhaps you have a case on is better.\nThan to continue to play.";
+ENDSTR05 = "Oh, scary!!! Turn off. XD";
+
+ENDSTR06 = "Exactly?  Y or N";
+
+ENDSTR07 = "Maybe not?";
+
+ENDSTR08 = "There are two buttons. Y and N.\nI'm not insist. But offer\npress the N button,\nand continue playing.";
+
+ENDSTR09 = "I'll be waiting.";
+
+MOD2_INKOGCOMPLETED = "INKOG WERE\nNOT\nSATISFIED";
+MOD2_HELLCOMPLETED = "THE HORROR\nIS OVER";
+
+YASHEND0 = "Joe: I'm flying out of action zone . Zone is free.";
+YASHEND1 = "Dispatcher: Roger that.\n Eliminate that subject from PM-YA9, what did you meet.\nWe don't need exposed Hellki technology A979,\nalthough half.";
+YASHEND2 = "Joe: I left it there. I don't think he survived.";
+YASHEND3 = "Dispatcher: Roger that.\n We wait you on point Latyn-812,\nyour access code 78-kvadrat.";
+YASHEND4 = "Joe: Roger that. I'm going to point Latyn-812.";
+
+YASHENDB = "Nik Zor: Son of a bitch.";

@@ -1,0 +1,22 @@
+Dark Dungeon I by Kenny Roels (wolf3d mod)
+original DOS release: 31 May 2002
+
+Original EXE and unchanged game elements (c) 1992 id Software
+
+New EXE for Windows based on Wolf4SDL source by Moritz "Ripper" Kroll
+
+Wolf4SDL version 1.7 revision 262 + DHW fixes compiled for Wolfenstein 3D
+Unique SDL config and saved game names
+Tab+S to toggle hitwall/spacebar sounds
+
+Further improvements in SDL version:
+
+Final ratios and warp limits adjusted to number of levels
+Pushwalls always move 2 spaces
+Extraneous maps removed
+Minor map fixes on E4M8, E5M6
+
+Many thanks to Thomas Weiling for beta testing this!
+
+
+
