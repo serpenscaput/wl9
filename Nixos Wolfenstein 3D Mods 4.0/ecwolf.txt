@@ -1,0 +1,28 @@
+medkit heals 25
+food heals 10
+dog food heals 5
+gibs heal 10 if life is 50% or less
+blood heals 5 if life is 50% or less
+
+OneUp heals 100, gives 100 ammo, 1 extra life
+
+ammo pack gives 25 ammo
+ammo clip gives 10 ammo
+ammo clip from a dead guard gives 5 ammo
+
+max ammo is 300, max ammo upgraded is 600
+backpack gives 25 ammo and upgrades by 300
+
+knife deals rnd(1,8)*15 dmg up from 0,15
+
+pistol "would" give 5 ammo (an ammo clip from a dead corpse gives 5 ammo anyway.)
+machine gun gives 10 ammo
+gatlin gun gives 25 ammo
+
+bj starts with 50 ammo
+
+damage has been lowered on easy, normal and hard difficulty:
+baby 0.25 --> 0.25
+easy 1.00 --> 0.75
+normal 1.00 --> 0.75
+hard 1.00 --> 0.75
