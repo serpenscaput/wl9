@@ -1,0 +1,30 @@
+PAC-MAN: Extendo Maze
+11/25/2020 AstroCreep
+
+This is an add-on for Pac-Man 3D for LZWolf, swapping
+the original maze out for a much bigger one, with 
+8 ghosts instead of 4.
+
+Also includes the soundtrack from PacMan CE.
+
+To run, simply load this pk3 alongside the Pac Man 3D pk3
+
+example:
+
+c:\path\to\lzwolf.pk3 --file PacMan3D.pk3 --file Pac_Extendo.pk3
+
+OR
+
+Open a command prompt box, drag your LZWolf exe inside,
+then drag PacMan3D.pk3, and finally drag Pac_Extendo.pk3
+and run.
+
+MAC INSTRUCTIONS:
+
+Open a terminal window, drag the LZWolf app inside,
+type \Contents\MacOS\lzwolf onto the path, drag
+PacMan3D.pk3 and then Pac_Extendo.pk3
+
+example:
+
+/Applications/LZWolf.app/Contents/MacOS/lzwolf /Users/astrocreep/Documents/ECWolf/Mods/PacMan3D/PacMan3D.pk3 /Users/astrocreep/Documents/ECWolf/Mods/PacMan3D/Pac_Extendo.pk3
