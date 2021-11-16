@@ -1,0 +1,4 @@
+I make an audiot for sdm (sod demo) with VSMUSED. It's in Wolf4GW
+format so you need SDM4SDL for it to play which you can find here:
+
+http://dhw.wolfenstein3d.com/downloads/SoD_DemoSDL_V1_6.zip

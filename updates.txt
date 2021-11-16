@@ -322,3 +322,6 @@ It's been a while.
 11.11.2021
 -Nixos spear mods
 -Pacman
+
+16.11.2021
+-DroidSDM???
