@@ -1,0 +1,125 @@
+Out of all the resources used for this mod, a number of them were borrowed from other mods and games.
+
+Attached here is a listing that gives credit to the original authors. Quite a pig to make, this!
+
+TEXTURES
+Checkered marble: Ringman
+Stained glass red, blue and green: Ringman
+Gray brick w/wreath: Parafriction (modified)
+Basement walls, blue and gray: BJ Rowan by way of The Legacy: Realm of Terror
+Basement wall, purple: BJ Rowan by way of The Legacy: Realm of Terror (modified)
+Brown marble w/shield: Giorgio
+Gray brick re-colored to brown: Giorgio
+Gray concrete w/blood: Wolf3DGuy by way of Mac Wolfenstein 3D
+Red lab panel: Wolf Skevos-Jones
+Tile wall: Tris
+Dungeon wall: Kuki by way of Heretic
+Slime wall: BJ Rowan by way of DOOM II
+Outside bushes: AReyeP
+Brown/olive brick wall: Tris
+Metal wall: Tris by way of Hexen
+Gray doors/doorways: Giorgio
+
+SPRITES
+Exploding oil drum: Wolf3DGuy
+Column: AReyeP
+Gray armor suit: Ben Blaufarb (modified)
+Silver key: BJ Rowan
+MP40: BJ Rowan
+Wells: Majik Monkee (modified)
+Toilet: BJ Rowan by way of Duke Nukem
+Standard light: AReyeP
+Corpse on stick: Ben Blaufarb by way of DOOM
+Well with blood: Michael Collin (modified)
+Bush and tree: AReyeP
+Table with chairs: BJ Rowan by way of the Spear Mission Packs (Lost Episodes)
+Globe: Ryan Steinbruner (modified)
+Desks: AReyeP
+Shower head: Majik Monkee
+Brown column re-colored to gray: Majik Monkee
+Table with chairs (red cloth/black chairs): BJ Rowan by way of the Spear Mission Packs (Lost Episodes)
+Bronze key: BJ Rowan
+Three-pronged crown: Mario Maniac & Mega Luigi
+Window: Tris
+Rail: Wolf3DGuy
+Cell door: Nate Smith
+Missile launcher: Nate Smith
+Box of missiles: Wolf Skevos-Jones
+Chainsaw & radiation suit: Havoc by way of DOOM
+Tesla coil: Kuki by way of Blake Stone (modified by Havoc)
+Exploding nuclear barrel: Havoc
+Green hazardous cloud: AlumiuN by way of the Spear Mission Packs (Lost Episodes)
+Exploding guard frames: Havoc
+Mutant in stasis: Wolf Skevos-Jones
+Komputermaschine: Kuki
+White table w/tube: Wolf Skevos-Jones
+Gurney: BJ Rowan
+Motorbike: Wolf Skevos-Jones (NEW)
+Green plant in gray pot: Laz Rojas (modified)
+
+VGA
+Status bar adapted from Majik Monkee
+Knife graphic: Gerolf
+Chainsaw/missile launcher adapted from DOOM by Havoc
+
+GUARDS
+Scientist guard, bald: Spifferaneous (with modifications by Wolf3DGuy)
+Scientist guard, orange hair: Wolf Skevos-Jones
+Black suited officer: Wolf Skevos-Jones
+Officer in blue suit: Wolf Skevos-Jones
+Standard guard in light gray suit: Ken O'Brien
+Standard guard in blue suit: Nate Smith
+SS guard in brown suit: Ken O'Brien
+SS guard in gray uniform: BJ Rowan
+SS guard in gray uniform w/goggles: BJ Rowan & Ian Skevos-Jones
+SA guard: Zach Higgins
+Melee mutant: Paal Olstad (modified)
+
+BOSSES
+Hans Grosse: Majik Monkee
+Doctor Schabbs: Wolf Skevos-Jones
+Adolf Hitler: Wolf Skevos-Jones
+Otto von Giftmacher: BJ Rowan
+Gretel Grosse: Wolf Skevos-Jones
+General Fettgesicht: Laz Rojas
+Trans Grosse: Kyle Albert
+Barnacle Wilhelm: Wolf Skevos-Jones (NEW)
+Ubermutant: Kyle Albert
+Death Knight: Wolf Skevos-Jones (NEW)
+Angel of Death: Wolf Skevos-Jones (NEW)
+
+SOUNDS
+Standard guard: BJ Rowan
+SS guard in brown suit: Laz Rojas
+Officer: Laz Rojas
+SA guard: Laz Rojas/Ben Blaufarb
+SS guard in gray uniform: Laz Rojas/Ben Blaufarb
+SS guard in gray uniform w/goggles: Wolf Skevos-Jones
+Black suited officer: Wolf Skevos-Jones/Ben Blaufarb
+Scientist guard, bald: Kuki/Patrick Hadorn
+Scientist guard, orange hair: Raphael (Maximator)/J. Andrzej Wrotniak (Mr. Matt; modified)
+Standard guard in blue suit: Raphael (Maximator)
+Bike sounds: Havoc
+Three-pronged crown pickup sound: Thomas Weiling & beer mug
+Other sound sources: AReyeP & MCS, Formgen, id Software, Mac Wolfenstein 3D, Bruce Campbell, Windows 95 sound themes
+
+All boss sounds (except Gretel Grosse) and brown suited SS death scream newly voiced by Thomas Weiling; edited by Wolf Skevos-Jones
+
+MUSIC sourced from the following...
+Bio Menace
+Blake Stone: Aliens of Gold
+Blake Stone: Planet Strike
+Corridor 7: Alien Invasion
+DOOM
+DOOM II
+EASYEYES.MID (Located by AReyeP; authorship unknown)
+Final Doom: TNT Evilution
+Genesis - Anyway
+The Golden Episodes, E2M2 (Unknown title; authored by Guido La Valle?)
+Harold Faltermayer - Fletch (Main Title)
+John Carpenter - Escape From New York (Main Title)
+Nine Inch Nails - Ringfinger
+Rise of the Triad: Dark War
+Wolf Skevos-Jones
+
+Some music chunks lifted by/remixed by/edited by AstroCreep
