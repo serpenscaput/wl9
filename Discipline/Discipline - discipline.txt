@@ -1,0 +1,71 @@
+===========================================================================
+Title                   : Discipline
+Filename                : GAMEMAPS.WL6, MAPHEAD.WL6, VGAGRAPH.WL6
+Release date            : 11/20/21
+Authors                 : Executor and Thomas Weiling
+Email Address           : spaceforce-temp@hotmail.com (Executor)
+Other Files By Authors  : Too many to list
+Misc. Author Info       : Two veteran Wolf3D mappers with numerous releases stretching
+			  back to the early 2000s, including All This and Wolf3D (Thomas),
+			  Operation Serpent (Executor), KowTow (Thomas), Coffee Break
+			  Episodes 1 & 2 (Executor), and many more.
+
+Description             : Vanilla-compatible replacement for the original Episode 5 of
+			  Wolfenstein 3-D. Roughly follows the visual style and progression
+			  of the original episode but is not a "literalist" homage like
+			  W3DTWID, certain parts of Conflict in the Fatherland, etc.
+			  Discipline is a difficult set and skill 4 is intended for veteran
+			  Wolf3D players only. Others should consider playing on skill 3.
+
+Additional Credits to   : Atina for the custom TITLEPIC
+===========================================================================
+* What is included *
+
+New levels              : 10
+Sounds                  : No
+Music                   : No
+Graphics                : Yes (TITLEPIC)
+Code Changes	      	: No
+Demos                   : Yes
+Other                   : No
+
+* Play Information *
+
+Game                    : Wolfenstein 3-D (WL6) v1.4
+Map #                   : E5M1-E5M10
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : About 10 days
+Editor(s) used          : MapEdit 8.4, WDC (for VGAGRAPH), SLADE3 (for ECWolf version)
+Known Bugs              : It is theoretically possible to lure guards into areas where
+			  they will attempt to shoot through barriers across floor codes,
+			  but very unlikely. The 64 visible objects limit may strike when
+			  playing E5M9 in the original DOS engine. The demos desync in
+			  vanilla 1.4 and Wolf4SDL due to having been recorded in
+			  Sam Dunne's WASD DOS build; there was no time for Thomas to
+			  record replacements.
+May Not Run With        : Vanilla Wolf3D versions earlier than 1.4
+Tested With             : Wolf3D vanilla v1.4 (Apogee), Wolf3D vanilla v1.4
+			  (GT/Activision), Sam Dunne's WASD build, ECWolf 1.3
+
+
+
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
