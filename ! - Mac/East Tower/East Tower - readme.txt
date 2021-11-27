@@ -1,0 +1,6 @@
+Moving on to happier thoughts, there's another mod waiting for us and we actually know stuff about it. East Tower by Miguel Faria is six Third Encounter maps including some graphics borrowed from Barneystein and Castle Wolfenstein 5.0, all done in a week. Storyline: you infiltrate a Nazi tower, that's it. The most important aspect of a mod like this is mapping though, and what can I say? Cramped surroundings, lots of guards, but also plenty of pickups and decoration on some maps. Long, difficult, tricksy fights abound. If this makes you scream in disgust, before you ragequit I'd just like to mention that map 4 at least deserves to be seen with your own eyes, regardless of what you think of usual Mac gameplay exemplified in these floors. Good fun, have luck.
+
+===CREDITS===
+Miguel Faria vel Scooter_31210 (at) yahoo.com
+
+On another note, the above mod comes with a number of extras. These include: the Wolf FKEY application and a Wolfenstein 3D saved game editor (neither included here because duh), several screenshots (included), the infamous Day of the Barney fanfiction (included!), and...

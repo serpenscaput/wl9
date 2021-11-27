@@ -1,0 +1,6 @@
+Here's another mod by Jon Wigand of Wizbang Software. This one's called The Oświęcim Operation and features 18 maps for the Third Encounter, along with plenty of new graphics and a new voice clip. The storyline seems innocuous enough: you locate and infiltrate an, uh, camp found in a part of Poland incorporated into the Third Reich afer 1939, hoping to rescue the prisoners and generally cripple the Nazi presence in the area. But as you'll eventually find out, not everything is as it seems to be and there are vile, otherworldly forces at work. Fight your way through a set of diverse, brutal maps with many tricks and traps in one of the most notable Mac mods, one that used to be a commercial release worth $10.
+
+===CREDITS===
+Jon Wigand as designer, Mark as playtester, plus Laz Rojas, Jan Patters and Jon Wigand's wife for various forms of advice and support
+
+(by the way, this is actually the first ported mod to make use of the S.U.C.K. kit features... specifically the capability to use custom darktables, as Jon Wigand was clever enough to modify the right part of the vanilla darktable instead of manually shading every wall)

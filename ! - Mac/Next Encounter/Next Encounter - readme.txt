@@ -1,0 +1,4 @@
+Truly amazing detective work, this one, but let it not distract us away from the final full release of this... release, namely Next Encounter. Three maps for the First Encounter by Erin Maguire, said maps are small-to-middling in size and offer a few decently varied, not overly crowded environments, the most notable of which is probably something akin to a pushwall maze on map 2. The other point of notability is that Next Encounter was part of yet another business attempt based on Mac modding: you were supposed to send Erin $2.50 and they would eventually send you back a full version with 20+ maps. And once again, since I don't see this "commercial" version anywhere, it presumably wasn't bought by enough people to have survived to our end times.
+
+===CREDITS===
+Erin Maguire MackMag (at) aol.com

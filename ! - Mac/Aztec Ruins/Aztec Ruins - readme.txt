@@ -1,0 +1,4 @@
+And for his last adventure, Blazkowicz goes to Mexico to combat drug trade I mean destroy the Nazi stronghold held inside... Aztec Ruins. How the hell were they able to establish a foothold in Mesoamerica? Is this the leading step towards a land invasion of the United States? Or are they vacationing too? Whatever the truth, you have five Second Encounter maps where your objective is to kill absolutely everyone and steal all Aztec tresure so the Germans don't use it to pay for their war effort (so that's what they're after)... You will also discover that the famous Aztec stonemasonry ain't all that it's drummed up to be - heck, I've seen walls like that in Neuschwanstein! At least architecture is mazy and confusing, which is realistic: the Aztecs wanted victims exhausted after wandering around for hours so they wouldn't resist too much during live sacrifice. An educational trip for sure.
+
+===CREDITS===
+I donnow.

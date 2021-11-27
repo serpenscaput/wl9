@@ -1,0 +1,4 @@
+Starting with Nexus by Dermuda, a Third Encounter scenario that only holds one map in theory, but it's a pretty meaty one. Nexus is a split start scenario (you'll know when you see it) divided into quadrants, each of which is a representation (or perhaps pastiche) of a mod by Laz Rojas, imitating the originals graphically as well as in details of mapping. It's also a looping map, meaning you will find plenty of exits that bring you back to the start of the map, but if you work hard enough, you'll eventually discover the path that brings you throughout the entire thing and lets you win the scenario. Keep going, it's possible!
+
+===CREDITS===
+Dermuda.

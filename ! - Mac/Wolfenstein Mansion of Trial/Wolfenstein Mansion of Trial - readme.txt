@@ -1,0 +1,4 @@
+I can tell you're already wide-eyed, so you're going to be outright shocked when you find out that we also have the Mansion of Trial on sale. Yes, a MANSION! What do you say to that? What do you say to four luxurious First Encounter floors? One of our foremost foreign architects designed them so they start out small and simple, but gradually increase in complexity, variety and difficulty, affording a nice sense of progression. But wait, why do I mention difficulty and what's up with that "trial" thing anyway? Well, you see, there's a gimmick involved. In order to reach the top floor, you will have to overcome certain obstacles. Said obstacles are mostly Nazis guarding keys. We chose Nazis because they are stalwart, sporting folks always up for a challenge. Can you make it all the way up there and claim the mansion as fully your own? 
+
+===THE ARCHITECT===
+Yohei Sasaki

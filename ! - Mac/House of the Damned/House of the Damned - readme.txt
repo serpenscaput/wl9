@@ -1,0 +1,4 @@
+Item one: House of the Damned. You can see our list opens with a very big oomph, as our first piece of merchandise stands among the plains of Hell itself! One of our finest architects brings you five floors of sheer brimstone. Most of them are rather small and cozy, only barely reaching 25% of available map editor space, except the last one which is rather sprawling and will satisfy your desire to live large both thru its size and variety in wall design. And of course, the entire thing is filled with souls of the damned. Meaning who, you might ask? Why, First Encounter Nazis of course. And their dogs. Floors 3-1 and on are especially filled to the brim with those pleasant companions who already yearn to accommodate you and the entire family. The place is ready for you! And cheap! Call us to find out about the price!
+
+===THE ARCHITECT===
+Anonymous

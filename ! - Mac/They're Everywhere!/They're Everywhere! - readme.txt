@@ -1,0 +1,4 @@
+"They're Everywhere! v1.0" is five First Encounter maps by Tim van der Leeuw. Actually there's a bit more to it than that, as Tim was gracious enough to distribute this with two companion scenarios called My First Level (Rambo) (this one's rather self-explanatory, don't you think?) and Crazy Mazy (which is not all that mazy), each being another 1st Enc map. You can choose those from the scenario selection screen. Whichever one you choose though, you will be facing swarms of guards in blue and brown, even more so than in your average Mac mod, so be prepared. Be prepared to examine the included readme files as well, as those are rather detailed and provide some development notes, a short backstory for the main scenario and even some map names. Plus a whole another file with hints for specific levels! Easily one of the best documented First Encounter releases around.
+
+===CREDITS===
+Tim van der Leeuw tnleeuw (at) cs.vu.nl

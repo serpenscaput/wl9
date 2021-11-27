@@ -1,0 +1,6 @@
+Battle Arena 2000. Yes, one of the extras is a mod in itself. Or should I rather call it a single-level scenario (Third Encounter)? It even comes with its own (broken) episode thumbnail. It's a simple deal a map-wide arena with a huge group of enemies to kill, a few corners and buildings to hide behind, guns, ammo, health... Try it, see it.
+
+But as long as we're talking about this, why not take care of Battle Arena 2001 while we're at it? It's not actually an extra of any sort, rather one of those scenarios distributed by Clubey after the author (still Miguel Faria) sent it directly to him. 2001 is rather late in the overall Mac modding scene activity cycle... But I digress. You get just what it says: another map-wide arena, but this time enemies surround you from all directions and you'll have to try pretty hard to find the right approach and survive. The readme warns of technical issues because the map is too big for Mac and suggests not running as much (???), but you can imagine this is not an issue in this day and age. Get them, kill them.
+
+===CREDITS===
+Both Miguel Faria.

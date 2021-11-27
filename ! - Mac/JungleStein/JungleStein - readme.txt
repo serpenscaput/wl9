@@ -1,0 +1,6 @@
+JungleStein gives us five maps for the First Encounter, strongly enhanced with a bunch of new textures and static object sprites. Its uniqueness lies within the setting said assets create, which is a jungle-like area as you would expect looking at the mod title. Some classic Wolfenstein texturing remains, but just enough to complement a mixture of forests, rough stone walls, wooden buildings and shabby huts. Gates made of rough-hewn planks hang unsurely on loose hinges, creaking in the wind. Some doors have native symbolism on them. You can even find Moai head lookalikes, slightly overgrown with moss. Are we actually on the Easter Island? What are we doing there? More to the point, what is Mecha-Hitler of all people doing there? Looking for ancient aliens or hoping to harness olde magics? Or maybe it's just an unfinished total conversion and the Nazis were meant to be replaced with other enemies at some point in the future?
+
+Sadly, reality is harsh: the only piece of documentation attached to this mod is Clubey's plea for any information available. We don't know the author, the storyline, any specifics; nothing at all. I bet we'll never find out either. 
+
+===CREDITS===
+I don't know, ask the Moai head.
