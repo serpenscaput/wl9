@@ -1,0 +1,98 @@
+DOSBOX CONFIGURATION FOR WOLF3D
+
+You may edit the dosbox config files and change the output from directdraw (ddraw) to something else, such as opengl,
+surface, or overlay.
+
+* I also did this for the dosbox.conf file in the game directory as well. 
+
+
+Edit dosbox.conf file, but there are 2 other dosbox config files in the game directory.
+
+1. Open to the game directory "/Program Files (x86)/steam/steamapps/common/Wolfenstein 3D/base/
+
+2. Open the file "wolf3d.conf" in notepad.
+
+3. Change "output=ddraw" to "output=opengl".
+
+4. Change line "scaler=none" to whatever scaler you like best (someone above recommended "scaler=normal3x")
+
+...
+
+core=dynamic
+...
+
+How to speed up DOSBox (by robertmo and mirekluza)
+
+2. Turn off all the scalers:
+
+Edit dosbox.conf and set:
+
+[sdl]
+fulldouble=false	(fullscreen to "false")
+fullfixed=false
+fullresolution=0x0
+output=surface		(output to "ddraw" or "opengl")
+
+[render]
+aspect=false		(aspect to "true")
+
+
+3. Run DOSBox in a fullscreen mode:
+
+hit Alt+Enter after running DOSBox. If you have black stripes go to your display driver settings and change refresh
+rate for 320x200 and 640x400 from "60Hz" and "default" to "70Hz" or higher. 
+
+4. Set mpu401/GeneralMIDI instead of Sound Blaster for music in your game's setup if it is possible.
+
+5. Set GUS/Gravis instead of Sound Blaster for sound/digital audio in your game's setup if it is possible.
+
+5. To use DOSBox in a windowed mode (which is slower than fullscreen) you should set your desktop to 16 bit color.
+
+6. To reduce audio quality:
+
+Edit dosbox.conf and set:
+
+rate=11025
+oplrate=11025
+rate=11025
+pcrate=11025
+tandyrate=11025
+
+7. You can use unstable dynamic core:
+
+Edit dosbox.conf and set:
+
+core=dynamic
+
+It may speed up the game but it may also make the game not runable or to crush often. So if your game crushes/doesn't work dont use it. Even if your game seems to work fine save often ;)
+
+8. Setting cycles/frameskip:
+
+...
+[sdl]
+fulldouble=false
+fullresolution=original
+windowresolution=original 	(windowresolution to "1024x768". If the window seems too small, try "1152x864", "1200x900" 
+				or "1280x960" as well)
+
+...
+try different output methods (setting "output" in DOSBOX.CONF). The most basic is "surface". For some people "overlay" works quicker. The third possibility is "opengl" or "openglnb" (one of them uses filtering - picture is less pixelated, but also less sharp).
+These methods have also different influence on the speed of DOSBOX in fullscreen. Fullscreen using "surface" is quicker than window, but fullscreen using "opengl/openglnb" is slower than window.
+"opengl/openglnb" is be also slower on non-NVidia graphic cards (DOSBOX uses some non-standard extension of OpenGL on NVidia cards to transfer textures quicker). 
+...
+
+CTRL + F7 = Decreases frameskip
+CTRL + F8 = Increases Frameskip
+CTRL + F11 = Slows down the game
+CTRL + F12 = Speeds up the game 
+...
+[cpu] section of settings:
+
+core=normal
+cputype=auto
+cycles=7000
+cycleup=200		or increase it by 200 (or press CTRL-F12).
+cycledown=200		or lower the amount of "cycles" (or press CTRL-F11).
+
+Select Sound Blaster for all Sound Options. 
+..

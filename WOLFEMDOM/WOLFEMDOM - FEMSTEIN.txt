@@ -1,0 +1,67 @@
+ABOUT WOLFEMDOM-3D:
+
+================================================
+WARNING! - the game is voluntarely rated PG-18 for intense feeling contents
+================================================
+
+FEATURES
+=======
+
+> Production time: 6 YEARS (really exhausting)
+> Enhanced "False Spear" engine: textured floors and ceilings, animated scenery, directional scenery,  weapon bobbing, ambient sounds,  4 keys, interactive textures, extended graphic set, parallaxed skies... 
+> Almost all new graphics and sounds.
+> 15 levels with strategy and progression of decoration and surprises
+> Push open to discover secret passages and get items from some closets
+> Hidden disguise to enter some areas and avoid being detected by guards -until you attack them-
+> Hidden coins can be used in specific closets to get health.
+> N or M change screen size.
+
+
+CREDITS:
+======
+
+> Story and graphics - Based on the Femstein model by Doomjedi and also a lot of Wolf3d Modders who created Krankenstein, Tara Carmichael, Frayed, Hotel Rommanstein...
+> Coding, mapping and level naming - Based on the Femstein model by WLHack.
+> Sounds edited from different japanese games - PG-18 for intense feeling contents
+> Maps, furniture and clothing based on Victorian and Georgian style in sepia tones. 
+> Wall pictures adapted from ww.arandaexpo.es
+> Servants' situations aimed at creating a FANTASY and intimate atmosphere of mutual ACCEPTANCE -PG-18 for intense feeling contents, in NO case abuse or offensive- from the work by Bernard Montorgueil, Franz Von Bayros, Riumu, Suehirogari...
+
+Special thanks to ID Software for making wolfenstein3D, which this mod is based off, and to the creators of Chaos Edit.
+
+
+ABOUT LSH-SPAIN:
+============
+
+I appreciate the creativity of some modders which has inspired me, and I thank them all! What I find very disappointing is the lack of modern settings different than II WW. That's why I enjoyed Doomjedi's Femstein project, and I tried to develop an own mod with the following features:
+
+- 1920-1930s decoration in walls and furniture, all in sepia color.
+
+- femenine enemies which are elegant based on film noir.
+
+- no violent guns but magic attack based on absorbing energy.
+
+- symmetrical maps with new pictures and sprites in locked areas or after deaf guards.
+
+- STRATEGY to plan your advance using a disguise, then dealing with guards. The level exit is easily found, but using keys is necessary also for finding energy and ammo. 
+
+- REALISTIC amount of guards and necessary location of windows, baths, lighting, rest rooms, horses as mean of transport, food... 
+
+Such a planned work have suffered a lot of changes. I.e. The distribution of a balanced amount of specific sprites for every 3 levels to create an own atmosphere, not to repeat too many in the same room, relate some guards to specific areas, progression with new sprites after finding specific keys...
+
+However, I am so exhausted that some BUGS are still there from the original Femstein mod. I would appreciate the contribution of anyone able to solve them: 
+
+- I found an error everytime I opened your mod with Chaosedit: Could not allocate memory for chunck 154. Wolf4SDL was not compiled for these data files: vgahead.sod contains a wrong number of offsets (174 instead of 170)! Please check whether you are using the right executable! (For mod developers: perhaps you forgot to update NUMCHUNKS?)
+
+- There are two items which reduce your energy, but eventually you can't lose a life picking up them.
+
+- I have not the knowledge to edit the original messages on the screen from Femstein.
+
+- The original Spear of Destiny ending sequence is shown with a terrible palette.
+
+
+Thanks for all the modders' examples and effort. I suggest to research and create more REALISTIC or FUNNY mods...
+Best Regards:
+
+Lshspain 2020
+.
