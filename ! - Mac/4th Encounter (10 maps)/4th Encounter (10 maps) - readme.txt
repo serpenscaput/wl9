@@ -1,0 +1,4 @@
+The other two 4th Encounters are closely related, though the exact nature of their relationship is a bit uncertain because of course there's no documentation attached. All I know is that there's a 10-level First Encounter version released in 1995, and a somewhat edited, smaller (!) 8-level Second Encounter version dated 1997. I'll be blunt, the maps are very simplistic, oddly decorated, and there isn't even much to fight, at least in the 1st Enc. version, because the 2nd Enc. one throws some Encounter-specific bosses into the fray, multiple ones per map. These go well along with all the ammo... or lack of ammo, as the case may be, as unfortunately at least one map when there's barely anything to pick up still has you face a boss (who can technically be evaded, but then you can kiss your 100% ratios goodbye). Oh well, go check them out yourself and see if this is your kind of entertainment.
+
+===CREDITS===
+Unknown, duh.

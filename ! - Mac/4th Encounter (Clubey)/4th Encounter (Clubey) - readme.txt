@@ -1,0 +1,4 @@
+As it turns out, calling something a fourth encounter (coming after the initial three) seemed like a good idea to more than one person. One of those other people was Clubey. His 4th Encounter is a 10-floor First Encounter mapset that received its name at least partially because it was also the fourth complete scenario created and released by Clubey. The readme talks about brushing up editing skills etc, but you'll already be seeing some rather familiar map features, specifically all the cramped spaces, extremely high enemy numbers and density, or crossfires you have to get out of, and fast. The documentation also mentions a "death version", though I actually don't know if this version is the death one, or where to acquire it if not. But I shudder at the thought of something even more packed with Nazis!
+
+===CREDITS===
+Cudgel- I mean Clubey.

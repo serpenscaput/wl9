@@ -1,0 +1,4 @@
+But wait, there's more! Still centered around the number 4 too. I'm sure you're delighted if you're into numerology or other pathetic attempts at finding order where there's none. Either way, our next scenario probably should have been called The Fourth Reich, but is actually named The Forth Reich, so that's how I'm distributing it. Either way, Clubey delivers another 15 maps for the First Encounter, although by his own admission, some of them are borrowed from other mapsets and probably modified to fit. True to this description, there are clear differences in style (and size) between many of those maps, so the whole thing is a bit of a potpourri, but you can identify some hallmark Clubey stuff if that's what you're after. Not that I'm willing to make any bets.
+
+===CREDITS===
+Clubey, mostly.
