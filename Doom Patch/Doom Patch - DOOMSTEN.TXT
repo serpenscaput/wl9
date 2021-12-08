@@ -1,0 +1,342 @@
+Well, here it is, after a couple of weeks of extracting and inserting, the
+complete DOOM patch for the registered version of Wolfenstein 3-D.
+
+You should have unzipped the following files from the archive:
+
+        FILE_ID.DIZ   <----The usual thing.
+        DOOMSTEN.TXT  <----This file.
+        DOOMIN.BAT    \____
+        DOOMOUT.BAT   /    The install and uninstall files.
+        VSWAP.DMS     <----The new DOOM Graphics and Sounds.
+        DATA001.EXE   \
+        DATA003.EXE    \
+        D_ULTIMA.MUS    >--Needed for the intro. 
+        GENMIDI.OP2    /
+        MUSPLAY.EXE   /
+        PLAY.COM      <----If you want to see the intro, type this to play.
+
+Just copy these files to a working Wolf 3-D registered directory and type
+DOOMIN to install DOOMenstein and DOOMOUT to restore the original graphics.
+
+And now for something completely legal:
+
+        DOOM, DOOM II, AND WOLFENSTEIN 3-D ARE COPYRIGHTED BY ID SOFTWARE,
+        AND PROBABLY OTHER PEOPLE.
+        THIS PATCH HAS BEEN TESTED WITH REGISTERED COPIES OF VERSIONS 1.1
+        AND 1.4 OF WOLFENSTEIN 3-D. THEY WORKED WITH NO PROBLEMS. ANY
+        DIFFICULTIES ENCOUNTERED BY THE USER INCLUDING BUT NOT LIMITED
+        TO: HARD DRIVE CRASHES OR ERASURE, CPU MELTDOWN, MONITOR BURN-IN,
+        ANY TYPE OF COMPUTER MECHANICAL FAILURE, ANY FAILURE OR BREAKDOWN
+        OF ANY PERIPHERAL ATTACHED TO ANY COMPUTER ANYWHERE, HAIRLOSS,
+        SLEEPLESS NIGHTS, DIVORCE, MARRIAGE, CHILDBIRTH, FLOODS, TORNADOS,
+        VOLCANIC ERUPTIONS, PLANETARY AXIAL SHIFT AND OTHER NATURAL
+        DISASTERS ARE SOLELY THE RESPONSIBILITY OF THE USER, OR
+        CORRESPONDING FORCES OF NATURE AND/OR GOD(S). THE USER WILL NOT
+        TRY TO CONTACT APOGEE OR ID SOFTWARE ABOUT ANY PROBLEMS THIS PATCH
+        MIGHT INCUR ON HIS/HER COMPUTER SYSTEM. IF YOU HAVE A PROBLEM WITH
+        IT AND YOU REALLY NEED HELP, YOU CAN CONTACT ME AT THE E-MAIL
+        ADDRESSES BELOW. I WILL TRY TO SOLVE THE PROBLEM, BUT GIVE NO
+        GUARANTEES AND ACCEPT NO RESPONSIBILTY FOR ANY OF THE ABOVE-MENTIONED
+        PROBLEMS. IF YOU ARE UNSURE ABOUT THIS, THEN ERASE THE PATCH FILES
+        AND CONTINUE PLAYING PLAIN OLD, BORING WOLF 3-D.
+        YOU MAY COPY AND DISTRIBUTE THESE FILES AT WILL, AS LONG AS YOU
+        KEEP THE ABOVE FILES INTACT. IF YOU WANT TO USE SOME OF MY GRAPHICS
+        OR SOUNDS IN A PATCH OF YOUR OWN, PLEASE FEEL FREE, JUST GIVE ME
+        CREDIT.
+
+Well, you get the picture. Please read the following sections on
+DOOMenstein:
+
+         I. WHO
+        II. WHY
+       III. WHEN
+        IV. WHAT
+         V. The Problems
+
+I. WHO
+First of all, the credits:
+        id software for creating both DOOM and Wolfenstein
+        Apogee software for the distribution thing
+        Blackadder for the door sounds & inspiration 
+          (and intro... sorry for the wobbles it seems to have...)
+        Loren G. Dobert for putting stuff through the blender
+                I can be reached at (in order of preference):
+                America Online: LorenD3207
+                The same via internet: LorenD3207@aol.com
+                Compuserve: 72332,507
+
+II. WHY
+I did this patch mainly to waste some time that I could have been putting
+to better use. Also, I know some people, sorry wretches that they are, who
+can't run DOOM due to a slow computer or small hard drive. They will
+be able to experience some of DOOM with this patch, that can be run on any
+machine capable of running Wolf3D.
+
+III. WHEN
+I started this about the third week of September, 1994. Then, when DOOM II
+was released, I took a break to get familiar with that version and got
+some new bad guys to put in the patch. Of course, I had to find an editor
+capable of extracting DOOM II graphics (more on that later). I finished
+on October 29, 1994 and started distribution.
+
+IV. WHAT
+The following programs were used in creating this patch:
+
+Original Graphics & Sounds:        
+        DOOM & DOOM II
+                id Software
+        Wolfenstein 3-D
+                id Software
+Graphics Insertion:        
+        Wolfedit v2.1
+                Bill Kirby
+Sound Insertion:        
+        Wolfsnd dated 8/3/92
+                Doctor Data - Freeworld Freeware                
+Graphics Extraction:        
+        Dmgraph v1.0 Mar 5, 1994
+                Bill Neisius
+Sound Extraction:        
+        Dmaud v1.0 Jan 1994
+                Bill Neisius        
+Sound & Graphics Extraction:        
+        DoomEd v2.60beta & v3.0alpha
+                Geoff Allan
+Graphics Processing:        
+        Adobe Photoshop v2.5
+                Adobe Systems
+        Graphics Workshop v1.0f
+                Alchemy Mindworks
+        Paintshop Pro v1.0
+                Jasc, Inc.
+        Improces v4.0
+                John M. Wagner
+Sound Processing:        
+        Cool Edit v1.31
+                David Johnston
+        Soundblaster Voice Editor v2.15
+                Creative Technology
+
+I had to get DoomEd v3.0a off the net to extract the DOOM II graphics, as
+no other editor would read them.
+
+V. The Problems
+When I started, I was just going to replace the Brown Guards with the 
+former humans from DOOM. Of course, it grew from there. The most often
+occurring problem was that the DOOM graphics were too big to fit into
+Wolf3D. So, some scaling was needed, this caused some pixelation of the
+graphics, so don't blame me, I had to make them fit. So, here's a rundown
+of each set of graphics and sounds and what was done to them.
+
+V1. Walls
+The walls were the easiest. I just had to find DOOM textures that fit
+properly and that would look good when the game was played with a standard
+set of maps. I got all the walls to match, so the original set of maps
+will work with no changes. Some of the patches I've seen didn't take this
+into account, and the levels ended up looking funny because a corridor that
+was supposed to be a single wall style with decorations was now a hodge-podge
+of different walls. DOOMenstein's walls all match the originals, so that
+won't happen. I had to tweak some of them to make them look good, as
+Wolfedit doesn't always import graphics with the same colors. A pallette
+matching problem, no doubt. Of course, most of the DOOM walls started out
+128x128 pixels and Wolf's are 64x64. Scaling was needed, and some of the
+wall textures didn't work out. Some were already 64x64, so I imported
+those directly. They were the computer readouts and displays that make up
+DOOM's COMPU wall textures. Most of the walls in DOOM are made of one or
+more PANELS which are tiled and overlayed by the game to make a wall
+texture. I used the panels by themselves and didn't try to recreate
+specific walls from DOOM.
+The only thing left to do after all the walls were in was to darken every
+other wall style to give a shadowed effect. Wolf uses two wall graphics
+for each style: one for north-south sides of the block and one for
+east-west. One set was darker to give the player a sense of depth when
+facing a corner. One wall would be lighter than it's 90 degree counterpart.
+I had not planned on darkening the walls, but some narrow corridors of the
+same wall style put together got confusing, as there was no distinction
+between north-south and east-west walls. So I used Paintshop Pro the adjust
+the brightness of opposing sets of walls 5-10% to get the necessary effect.
+I used a lot of the computer styles mentioned earlier, and these walls are
+unique on opposing sides, the north-south set is different from the east-west
+set. I had enough textures to put in, so I used them.
+A note here: most of the walls in Wolf are plain with various decoration
+blocks which are sometimes used to mark secret doors. This is sometimes
+reversed in DOOMenstein. A good example are the grey walls (they were
+greenish, but wolfedit imported them as grey) with the gargoyle heads. All
+the styles have a decoration, but the plain wall of this type takes the
+place of a block that normally has a decoration. You have to watch for this
+as most people are used to looking for a decoration to mark a secret door,
+but now a plain wall marks the secret door.
+
+V2. The Objects
+For the objects, it was just a matter of matching DOOM's to Wolf's. The
+life sphere was easy, but the treasures I had a problem with. DOOM doesn't
+have any treasures, just power-ups. So I used which ones fit the best. The
+CD treasure is supposed to be Type O Negative's Origin of the Feces, but
+I was limited by the object size and my artistic ability. I also didn't
+bother giving everthing a shadow, like in Wolf, maybe in a later release.
+Another problem was that DOOM doesn't have many of what I call "walk-
+through objects". These are the kind that are just for decoration and
+don't do anything. I had to make a few and repeat some, especially the
+gore ones. The ceiling lights were another problem, no corresponding DOOM
+object. I ended up using a couple of the fire balls from DOOM and let it
+go at that. The "non-walk-through objects" like the columns and suits of
+armor were easier, I just had to pick ones that fit, some needed to be
+scaled. I tried to use the vines from DOOM, but they didn't work, so I used
+the big tree to replace Wolf's vines. Some people may not find it easy to see
+past them, but that's what they're for. You just have to remember you can
+walk through them.
+One big problem I came up against was you can't have an object be 64 pixels
+wide. The shotgun graphic is 63 pixels, so I guess that's the limit.
+Apparently, the game has a problem trying to rotate a graphic so it's
+facing you all the time if it's 64 pixels wide. Since Wolf is basically a
+grid of map positions, it must consider an object "inside" the grid lines
+and when you rotate, the graphic must rotate with you. When it's to wide,
+it "touches" two grid lines at once and causes a crash. At least that's
+my theory. All I know is you must keep all objects less than 64 pixels wide.
+
+V3. Enemies
+Ah, the biggest problems occur here. Most were minor in that I had to get
+the new graphics to fit. Some scaling and trimming was necessary for most
+of them. Heres a commentary on them all:
+        
+        Brown Guards replaced with former humans. Just a lot of trial
+        and error on sizing.
+
+        SS Guards replaced with former human sergeants. Ditto
+
+        Officers replaced with imps. Same again.
+
+        The Undead replaced with Demons. For some reason, the maximum
+        image size on some of the facing left or right graphics were 500
+        units smaller than the rest. Had to scale them all down to fit.
+        This made for a smaller enemy, and one that doesn't quite fit the
+        role. I had run out of shooting enemies to put in, so the demons
+        chew on you from a distance.
+
+        The Dogs replaced with lost souls. A nice effect here. Again, scaled
+        to fit, but made them fly at head level so they chew on your face,
+        not your groin like the dogs did.
+
+        Hans Gr”sse replaced with former human commando. The best one, and
+        easiest. A direct import, no scaling needed. The only problem
+        was with the death sequence. It caused a crash until I connected
+        all the body parts that fly off when you shoot him (like the top
+        of his skull). When I connected the pieces so they all touched,
+        there was no crash. I didn't have this problem with the Arch-vile,
+        so who knows?
+
+        Dr. Schabbs replaced with a Baron of Hell. A good one here. Little
+        scaling, and made those hypodermics into fireballs. Looks good. A
+        problem here with the fireballs. I had them near the edge of the
+        scene, but that caused a crash. Moving them to the middle, and
+        positioning them so each frame had part of the fireball touching
+        the fireball in the next frame fixed it.
+
+        Hilter's Dummy (or Ghost) the one in black robes. Replaced with
+        cacodemons. A good one with a long death-scene. Replaced the
+        fireballs, also.
+
+        Hitler. Hmmmm... Had a great plan to use the spider demon and the
+        arachnotron here. I was going to have the spider demon replace
+        Hitler in his armor, then morph into an arachnotron to replace
+        Hitler himself. The problem was the spider demon graphics were
+        up to 195 pixels wide, and after scaling them to fit 64 pixels,
+        it looked rediculous. Dropped that idea and used a hell knight
+        which changes to an arch-vile. Not as effective, but it was all
+        I had left. It would have been better with the spider demons,
+        because they use chain-gun-like weapons, which would have matched
+        Hitler's better, as it is, you just get the Hell Knight throwing
+        invisible fire balls at you. Same with the Arch-vile.
+
+        Otto Giftmacher was replaced with a Cyber demon. They both have 
+        rocket launchers, so it was a natural. I had to do a little
+        altering with the death sequence, as I only had three frames to
+        do it with. Instead of the cyber demon exploding in a red mist,
+        he kind of melts. Not the best effect, but I didn't have much
+        to work with.
+
+        Gretel Gr”sse was replaced with a Mancubus. I needed another
+        chain-gunner and the Manucubus sort of fits the bill.
+
+        General Fettgesicht was replaced with a Revenant. I needed something
+        to match a chaingun and rocket launcher, so the Revenant was the
+        only choice.
+
+        The Pac-man ghosts were replaced with different-colored Pain
+        Elementals. A useless character if there ever was one. It would've
+        been better if they could be killed.
+
+V4. You and your weapons
+Not an easy one here. I had to scale to DOOM graphics a lot to make them
+fit. The effect wasn't what I hoped, but it's all I could do.
+
+        The knife replaced with the fist. Came across a problem here. In
+        DOOM, you walk around with your right hand ready and punch with
+        your left. This caused a crash in Wolf. Apparently, for the
+        animation to work, the objects in frame 1 must overlap or touch
+        the objects in frame 2, and so on. So, now you punch with your
+        right hand.
+
+        The pistol replaced with the pistol (what'd you expect?). Just
+        some scaling here.
+
+        The machine gun replaced with the shotgun. Scaling again.
+
+        The chaingun replaced with the chaingun. Ditto. I was thinking
+        of using the plasma rifle, because I could extract the sound for
+        that from DOOM. I couldn't get the chaingun sound from DOOM, but
+        there's not a hell of a lot of difference. And a plasma rifle
+        would look funny just firing without a ball of plasma shooting out.
+
+        Your victory run. Put in the soldier graphics and since there
+        was no jump for joy in DOOM, just had him shoot and used the 
+        barrel explosion for a sound effect. My credit screen here also.
+        Another note, this one about Wolfedit. I was fooling around with
+        the end sequence and noticed that Wolfedit will reduce
+        the maximum graphic size when you insert a graphic smaller than the
+        original. Most of the frames for this sequence were set at a
+        maximum size of about 1500 units. When I put in the new graphics,
+        scaled to fit the two frames that were set at 1024 units, they ended
+        up being around 1012 or so. The last two frames, since they were
+        smaller, were around 800. When I reopened the file to add my credit
+        line, the max size had been reduced to 1024. I had to reinsert
+        the last couple of enemies and the end sequence from a backup file
+        to get the max size back.
+
+V5. Sounds
+I thought I was going to have a big problem here, but it turned out to be
+easier than I had expected. I just extracted the necessary sounds from
+DOOM, resampled them to Wolf's sampling rate and inserted them. One hitch:
+not all the sounds are accessible from both programs. So, there are a few
+that have not been changed, either because I couldn't get them from DOOM,
+or I couldn't insert them into Wolf.
+I did run into a slight glitch. I had about 90% of the sounds inserted
+when I started to get crashes every time a former human soldier saw me and
+tried to yell out the warning. After a few minutes of swearing, I fooled
+around with the last couple of sounds I had inserted and found that the
+very last one had caused the problem. It's the one that Gen. Fettgesicht
+says when he dies. Wolfsnd reported this sound was (I think) 1.8 seconds
+long, but inserted the sound at 1.85 seconds. This was enough of an offset
+to throw things out of whack. But it only corrupted the guard's initial
+yell, if you played a level with no guards, the crash wouldn't happen.
+I extracted the sound, trimmed it to exactly 1.8 seconds, reinserted it,
+and had no problem after that. If anyone hears of a new or different
+program to edit Wolf sounds that lets you edit ALL of them, let me know
+where to find it. Same with DOOM. The only sounds not changed are the
+machine guns of the SS and big guards, the pistol sound of the guards,
+the treasure pick-up, the sphere pick-up, and some other minor ones.
+Another note to Type O Negative fans: check out the secret door sound,
+it's a clip from "Machine Screw" sampled straight from the CD. Since there
+is no corresponding sound in DOOM, I used it. 
+You'll probably notice that most of the sounds are louder than the original.
+This is probably due to resampling the DOOM sounds from around 11,000 mHz
+to fit in Wolf's 6896 mHz sampling rate. It turned out well, especially with
+the machine gun, which is now a fully automatic shot gun, and a powerful
+booming sound to go with it.
+
+Well, that's about it, hope you enjoy the patch, I'll be glad to hear
+any compliments, or flames, but don't be too critical. I have admitted
+I have no artistic talent, and all the credit goes to id. I just did
+some transferring and a lot of scaling.
+
+L.D. 10/29/94
