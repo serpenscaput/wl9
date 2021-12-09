@@ -1,0 +1,12 @@
+Now... October 2021 - a fitting time of release for what is called Oktoberbloodfest Demo, a new mod by JMC (the same person who brought you Wolfenstein Fatal Fuhrery). Gunther Koolman, a German military commander gone rogue, has been a great asset for the Allies for a while now, conducting deadly joint operations and generally wreaking havoc among his former comrades. Unfortunately, he was captured along with a multinational spec ops team of highly valuable and skilled agents. If you don't rescue them, the Nazis will literally drink their blood! Yes, that's where the name comes from. Your job is to attack the Wiesnstein Fortress, rescue the prisoners, and steal as much German gold and intel while you're at it. 
+
+While not a finished release, this Third Encounter mod (two floors long) still brings plenty of impressive new graphics to the table. Those are high quality and often delightfully tongue-in-cheek, as well as varied enough to ensure a large diversity of environments throughout the two maps. The first level presents a semi-realistic castle with a clearly festive atmosphere, while the second one is more of a cramped but extensive dungeon. Mapping is of high standard, with intricate, very detailed layouts; it also doesn't overwhelm you with hordes of enemies (though as a Mac fan you might actually expect it to)... 
+
+It's also worth noting that the scenario comes in three variants that differ in maps only, the differences being focused not so much on map design, as on compatibility with old Mac hardware. You see, apparently PowerMacs with G3 and G4 processors have stability issues with big and busy Wolf3D maps, so to deal with that problem we have the Sober, Tipsy and Drunk version of the scenario, which have few, many or all enemies being asleep (or in PC terms, deaf). According to JMC (who tested all three on actual old hardware), Tipsy is the best one to play but Drunk is the most stable on affected Mac computers. Of course, this is entirely irrelevant for MacenWolf, so just pick and play whatever sounds best for you. But if you're playing the original scenario on an old Mac - beware!
+
+Unfortunately there is no ETA on the full version release at the moment, but whenever it comes, we can probably expect many more levels and new enemy graphics (currently all enemies in the game are vanilla). But there's already plenty to enjoy. Prost!
+
+===CREDITS===
+JMC
+You can download the Mac files here:
+https://macintoshgarden.org/games/oktoberbloodfest-a-wolfenstein-3d-adventure
