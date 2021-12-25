@@ -1,0 +1,71 @@
+THE ARMY OF INSANITY CREDITS LIST
+
+-CODING-
+Chaingun: Executor
+Flamer: Executor
+Heavy Machine Gun: Executor
+Rifle: Executor
+Rocket Launcher: Executor
+Shotgun: Astrocreep
+Shotgun Projectile: Executor
+
+-GRAPHICS-
+Cursor: Shadowhazard_Studio
+Difficulty Icons: Shadowhazard_Studio
+HUD: Alvin and Richard Kelly
+
+-SOUNDS-
+Rifle: Raven Software
+Enemy rifle: Megabyte
+Explosion: JaM Productions
+Rocket launcher: MacPlay Entertainment
+Minigun sound: Digital illusions CE
+Minigun start/stop: WildWeasel
+Flamer: MacPlay Entertainment
+Flamer impact: Per Kristian
+Knife: MacPlay Entertainment
+Heavy Machine Gun: B.J. Rowan
+Erik Pride: Raven Software
+Heidi Pride-Grosse: Apogee Software
+General Richter: Majik Monkee
+Additional AdLib sounds: Id Software, JaM Productions
+Player death: MacPlay Entertainment
+Shotgun: Acclaim
+Switch: Apogee Software
+
+-SPRITES-
+Clip: Alvin
+Sub-Machinegun Pickup: MacPlay Entertainment
+Chaingun Pickup: MacPlay Entertainment
+Rifle: Turbo
+Heidi Pride-Grosse: Dunkelschwamm and id Software
+General Richter: Alvin
+Rocket Launcher: SamVision, ammo pickup by WSJ
+Heavy Machine Gun: B.J. Rowan, ammo pickup by Id Software
+Flamer: Gerolf, based on SNES Wolf3D, ammo pickup by WSJ
+Shotgun: JoeyTD, based on DOOM
+Dual Pistols: JoeyTD, based on Wolfenstein 3D
+Erik Pride: GamingMarine, JoeyTD & UnTrustable, based on SNES Wolf3D
+
+-MUSIC-
+CATACOMB: Bobby Prince
+EXCALIBR: Bobby Prince
+FASTWAY: Lee Jackson
+FF2EVIL: Nobuo Uematsu
+HEAVY1: Joe Abbati
+HESBACKA: Bobby Prince
+HOCUSP: Rob Wallace
+HOWDIDO: Lee Jackson
+INTER: Joe Abbati
+MISTACHE: Lee Jackson
+MMMENU: Lee Jackson
+PLOT: Bobby Prince
+SUCKTHIS: Lee Jackson
+TESTA: Joe Abbati
+TITLE: MacPlay Entertainment
+VICTORY: Lee Jackson
+YOUSUCK: Lee Jackson
+
+-MISC AND LEGAL C.Y.A.-
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this TC.
