@@ -1,0 +1,25 @@
+BIG WOLF3D for LZWolf
+LinuxWolf 2022
+
+This is the BIG mod for Wolf3D. The world with which you are familiar is
+scaled up by 2x in each axis. That translates to an increase in space to
+play in by 300%! The player, enemies and items are not scaled.
+
+The intent of this project is to allow the original game to be experienced
+in a bigger environment. Roam around with fewer obstructions and fight
+enemies at a distance.
+
+For best results run this PK3 using the latest LZWolf version and select
+either Wolfenstein 3D or Spear of Destiny. Other games are not supported.
+
+CREDITS:
+
+AstroCreep for his HQ remix for LZWolf on which this project is based. Only
+the HQ wall art and a few HQ sprites are taken from the HQ remix, as well as
+some helpful scripts.
+
+Wolf3D mapset by iD Software
+128x textures by iD Software
+	edited by AstroCreep (inherited from HQ remix)
+PK3 Compilation and DECORATE scripting
+	edited by AstroCreep (inherited from HQ remix)
