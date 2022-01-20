@@ -1,0 +1,4 @@
+And then we have Castle Ensprungen by Antoni Chan. This mapset has eight small maps (they basically all fit inside a quarter of available mapping space, though unusually given these circumstances, there's stll more elbow room than in many other sets); in the readme, the author promises a gradually increasing difficulty curve and plenty of traps, which is mostly true, as the levels do seem to get tougher overall and there's a good deal of unusual combat situations. We once again have separate First and Second Encounter versions, but differences are small and mostly concern balance issues (new stuff to pick up in a game with lots of items to collect already) and minor use of SE enemies, mostly Officers. Feels like a neat mod on the whole, not some sort of breakthrough, but a satisfying enough experience.
+
+===CREDITS===
+Antoni Chan.

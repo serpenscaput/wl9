@@ -1,0 +1,4 @@
+Moving on to ported mapsets, we lead with Castle Claustrophobia by Tovarich (or just Rich) Pizor. The set exists in two version as far as I know. The First Encounter (single map only) version presents a fairly long trek through lots of more or less identical 3x3 rooms arranged in the shape of a swastika. There is, however, a Second Encounter version to be found in some sort of small mod compilation called Wolfenstein Classics. This SE variant offers four maps; the original one reappears, significantly improved in terms of decoration and some overall variety. Three new maps follow, providing lots of (obligatory) secret passages and familiar combat in close quarters, culminating in a proper boss encounter. Still plenty of 3x3 rooms though.
+
+===CREDITS===
+Tovarich Pizor.
