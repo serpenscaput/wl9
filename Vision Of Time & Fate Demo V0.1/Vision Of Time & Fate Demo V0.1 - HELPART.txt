@@ -1,0 +1,200 @@
+^P //Page1
+^C[Black] Table Of Content:
+   Page 2 - About
+   Page 3 - Weapons
+   Page 9 - Items
+   Page 20 - Unique Door
+   Page 21 - Enemies
+
+^P //
+^C[LightGreen] ABOUT PAGE
+^C[Black] Hello, welcome to my first public released mod.It took me a little over a year to make.I had to restart twice because I didn't like the way I made it.This game is heavily inspired from a mod called Shadow Genesis. I wanted to thank Mario Maniac and Mega Luigi for making that mod. This mod is currently work in progress which mean there are probably some bugs. Some of them are intentional.
+
+
+^P //Page2
+^G 8 8 [WEAPON1]
+^C[Brown] WEAPON PAGE
+^C[Black] 1. Knife
+^C[DarkGray] Melee Dmg: 6-10
+^C[Black] Range: Short (Rate 1/4)
+Attachment: N/A Slot: 1
+Special Effect: N/A
+
+2. Luger/Double Luger
+^C[Yellow] Bullet Dmg: 45
+^C[Black] Range: Long (Rate 3/4)
+Attachment: N/A Slot: 2
+Special Effect: ^C[Green] Strong Vs Human +5%
+^C[Black] Backpack Storage: 0=25/1=50/2=75/3=100
+
+^P //Page3
+^G 8 8 [WEAPON2]
+^C[Black] 3. Machine Gun
+^C[Yellow] Bullet Dmg: 35
+^C[Black] Range: Medium (Rate 2/4)
+Attachment: N/A Slot: 3
+Special Effect: ^C[Green] Strong Vs Human +10%
+^C[Black] Backpack Storage: 0=50/1=100/2=150/3=200
+
+4. Gatling Gun
+^C[Yellow] Bullet Dmg: 55
+^C[Black] Range: Medium (Rate 2/4)
+Attachment: N/A Slot: 4
+Special Effect: ^C[Green] Strong Vs Boss +30%
+^C[Black] Backpack Storage: 0=50/1=100/2=150/3=200
+
+^P //Page4
+^G 8 8 [WEAPON3]
+5. Explosive STG
+^C[Yellow] Bullet Dmg: 75 
+^C[Orange] Explosive Dmg: 4-15
+^C[Black] Range: Infinite (Rate 4/4) 
+Attachment: N/A Slot: 3
+Special Effect: ^C[Green] Strong Vs Undead +25%
+^C[Black] Backpack Storage: 0=40/1=60/2=80/3=100
+
+6. Automatic Shotgun (Secret Weapon)
+^C[Yellow] Bullet Dmg: 295
+^C[Black] Range: Short (Rate 1/4)
+Attachment: N/A Slot: 4
+Special Effect: ^C[Red] Strong Vs Boss -25%
+^C[Black] Backpack Storage: 0=15/1=30/2=45/3=60
+
+^P //Page5
+^G 8 8 [WEAPON4]
+7. Hunting Rifle
+^C[Yellow] Bullet Dmg: 135
+^C[Black] Range: Infinite (Rate 4/4)
+Attachment: N/A Slot: 5
+Special Effect: ^C[Green] Strong Vs Monster +20%
+^C[Black] Backpack Storage: 0=15/1=20/2=25/3=30
+
+8. Flamethrower
+^C[DarkRed] Flame Dmg: 10-18
+^C[Black] Range: Medium (Rate 2/4)
+Attachment: N/A Slot: 6
+Special Effect: ^C[Green] Strong Vs Human +20%
+^C[Black] Backpack Storage: 0=150/1=200/2=250/3=300
+
+^P //Page6
+^G 8 8 [WEAPON5]
+9. Rocket Launcher
+^C[Red] Explosive Dmg: 220-350
+^C[Black] Range: Infinite (Rate 4/4)
+Attachment: N/A Slot: 7
+Special Effect: ^C[Green] Strong Vs Machine +15%
+^C[Black] Backpack Storage: 0=6/1=8/2=10/3=12
+
+10. Disintegrator
+^C[Blue] Electric Dmg: 50-100(x16)
+^C[Black] Range: Infinite (Rate 4/4)
+Attachment: N/A Slot: 8
+Special Effect: ^C[Red] Strong Vs Boss -40%
+^C[Black] Backpack Storage: 0=40/1=60/2=80/3=100
+
+^P //Page7
+^C[Brown] ATTACHMENT
+^C[Black] Currently there's no attachment but it will be added in the future.Attachment can change weapon's rate of fire, damage, range, and possibly more!They can only be found in secrets. You can't actually remove them once you pick them up.
+
+^P //Page8
+^C[Yellow] ITEM PAGE
+^C[Green] Health: DOYM = Depend on your MaxHP
+^C[Black] 1. Dog Food ^C[Green]+2/DOYM
+^C[Black] 2. Water Puddle ^C[Green]+3/25
+^C[Black] 3. Blood Puddle ^C[Green]+3/25
+^C[Black] 4. Meal ^C[Green]+5/DOYM
+^C[Black] 5. MiniKit ^C[Green]+10/DOYM
+^C[Black] 6. Medikit ^C[Green]+25/DOYM
+^C[Black] 7. BigKit ^C[Green]+50/DOYM
+^G 8 8 [HEALTH1]
+
+^P //Page9
+^C[Green] Health:
+^C[Black] 8. Field Surgeon Kit ^C[Green]+75/DOYM +25 MaxHP(not stackable)(last until the level end)
+^C[Black] 9. Portable Medkit ^C[Green] +20/DOYM
+^C[Black] You won't actually receive 20 health when you pick up the portable medkit. Instead it will add into your inventory. In order to use it, you need to press 1 repeatedly until you see the portable medkit icon. Then, press the shoot button to use it.Most of the time whenever your health is above your maximum health, the portable medkit will not work. 
+^G 8 8 [HEALTH2]
+
+^P //Page10
+^C[Purple] Artifacts:
+^C[Black] 1. ^C[Blue]Artifact of Life
+^C[Black] Grant you 200HP total, extra life, 1000 points and a box of luger(+10), machinegun(+25), and gatlinggun(+25) ammo.Whenever your health is 200 or more,and you pick another artifact of life, you will be granted 300 health.
+2. ^C[DarkGray]Artifact Of Death
+^C[Black]The origin of this artifact is unknown but once you touch it, you're dead. In order to remove it, you need the ^C[LightBlue]holy cross ^C[Black]. Enemies cannot die from this.
+^G 8 8[ARTFACT1]
+
+^P //Page11
+^C[Purple] Artifacts:
+^C[DarkGray] Artifact Of Decay
+^C[Black] Hence the name, grabbing one will start draining 2hp per 6 seconds. Picking up the total of 2 artifact of decay will slowly drain 3hp per 6 seconds. 3 artifact of decay will instantly kill you. Of course there are ways to remove it.
+List:
+Portable Medkit - Remove 1
+Field Surgeon Kit - Remove 2
+Artifact Of Life - Remove 2
+Soul Orb - Remove 2
+Blood Orb - Remove 2
+Insanity Orb - Remove 2 ^G 8 8 [ARTFACT2]
+
+^P //Page12
+^C[Purple] Artifacts:
+^C[Purple] Artifact of Displacement
+^C[Black] It teleport you to a different place.The gray artifact is a disable version of the purple artifact.You'll need to activate it before you can use it.I would recommend saving before you enter this artifact. It won't disappear whenever you use it.
+^G 8 8 [ARTFACT3]
+
+^P //Page13
+^C06 Orbs:
+^C[Black] Each of the orb give you 10000 points and reward,but they also give you bad effect. They count as treasure and remove Artifact Of Decay completely.
+^G 8 8 [ORB1]
+
+^P //Page14
+^C06 Orbs:
+^C[DarkBlue] Soul Orb
+^C[Black] It gives you ^C[Green] 50HP(stackable up to unlimited amount) ^C[Black]but you lose ^C[Red]20 Max Health(stackable up to 5). ^C[Black] Once you pick up 5 soul orbs, you won't die but instead you'll be left with 1 MaxHP.If you have 125 MaxHp,and you pick up the soul orb, then your MaxHp will be reduce back to 100.Picking it up another one will be reduce to 80. Picking up Field Surgeon Kit while having soul orb won't grant you 125 MaxHP total. The reduction of your maxhp will last forever until you exit the level.
+^G 8 8 [ORB2]
+
+^P //Page15
+^C06 Orbs:
+^C[DarkRed] Blood Orb Part1
+^C[Black] It ^C[Green] set your health to 100 ^C[Black] and give ^C[Green]Rage Effect which make your weapon deal more damage the lower your health is whenever it's at 95 or below ^C[Black].In exchange, ^C[Red]red screen will be display for 30 seconds ^C[Black]and ^C[Red]your weapon deal less damage the more your health is whenever it's at 101 or more ^C[Black]. For every 5 HP you lose, starting from 100, you deal ^C[Green]+25% Dmg ^C[Black].Having 1 HP will grant you ^C[Green]+600% Dmg ^C[Black]. From 101-125HP, you deal ^C[Red]-20% Dmg ^C[Black]. 126-150HP = ^C[Red]-40% Dmg ^C[Black]. 151-175HP = ^C[Red]-60% Dmg ^C[Black]. 176-200HP = ^C[Red]-80% Dmg ^C[Black]. 201 or more = ^C[Red]-99% Dmg ^C[Black]. ^G 8 8 [ORB3]
+^G 8 8 [ORB3]
+
+^P //Page16
+^C06 Orbs:
+^C[DarkRed] Blood Orb Part2
+^C[Black] All weapon will deal ^C[Green]600% full damage ^C[Black]whenever your health is at 1. The knife has a additional effect. Whenever your health is at 25 or below, you have a chance to one shot any enemies. The rage effect last until the level end.
+
+25-21HP = ^C[Green]25% Chance 
+^C[Black]20-16HP = ^C[Green]30% Chance 
+^C[Black]15-11HP = ^C[Green]35% Chance 
+^C[Black]10-6HP = ^C[Green]40% Chance 
+^C[Black]6-2HP = ^C[Green]45% Chance 
+^C[Black]1HP = ^C[Green]50% Chance ^G 8 8 [ORB3]
+^G 8 8 [ORB3]
+
+^P //Page17
+^C06 Orbs:
+^C16 Insanity Orb
+^C[Black]It grants you ^C[Green] +25% speed(last until the level end) ^C[Black],but it ^C[Red]replace your hub bar with the picture below for 45 seconds ^C[Black].No number will display on your hub bar until the duration end.
+^G 8 8 [ORB4]
+^G 8 8 [ORB5]
+
+^P //Page18
+^C[Yellow] Treasures:
+^C[Black] There are many treasures with different sprites and valves ,but there are some treasures that does damage whenever you pick it up.
+
+Name:          Point:   Damage:
+^C[White]White Skull      ^C[Black]400       ^C[Black]  5
+^C[Green]Green Helmet   ^C[Black]1200      	  ^C[Black]  15
+^G 8 8 [TREASUR1]
+
+^P //
+^C[DarkGray] Unique Door:
+^C[Black] This door require any keys. Once you go through this door and the door closed, you can't get out the same way you came in.
+^G 8 8 [DOOR1]
+
+^P //Page19
+^C[Black] Enemies:
+Too lazy to add all the enemies, but I will add them in the future. Sorry!
+
+
+
