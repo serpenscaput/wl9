@@ -1,0 +1,122 @@
+Game Guide 
+Info Tips and Help
+
+https://youtube.com/playlist?list=PLPC140EdzD3wOyJPyLA_kUuGIRGGAbUnH
+Sound Track YT Playlist 
+* INFO *
+https://youtube.com/playlist?list=PLPC140EdzD3xgD90XLnYkTFmu29BWVfHp
+Preview YT PlayList 
+
+Contact me at Falcon93ILM@GMail.com 
+(Yes I know ID software meant MLI but... Starwars)
+
+Your Chi(not ammo), the Chi within sacred artifacts(ammo), and the Chi of your vanquished foes(ammo) will power it, to charge the ring whisper and chant the Solomonic conjurations
+(aka Press Z). In contrast sometimes you must lure enemies out with gunfire to kill them and obtain their key to gain entry to locked areas. 
+
+Standard Pushwalls will kill enemies in their path. Pushwalls can be used to uncover secrets, as well as to create cover and other tactical advantages.
+Secrets are also hidden in other ways.  
+
+
+Controls 
+
+(I have included a config file for AntiMicro with controlls mapped for the game,in the game data files folder [KSS LXM],
+assuming you have a playstation style controller, just download AntiMicro and import it to use a game pad)
+ Keys 1-5 Change Weapons
+1 : Knife (Silent Point Black Range Attack)
+2 : Mars Ring (Silent Projectile Weapon for Range Attacks)
+3 : 9mm Weapons (3A semi auto Pistol 3B Machine Pistol) 
+4 : N/A
+5 : 7.92mm Weapons (5A Assault Rifle 5B Uber Machine Gun) 
+
+
+       Ctl Key Attacks  
+	   Z Key Reloads
+       Arrow Keys Move   
+	   Alt Key Strafes
+	   Shift Key Runs
+       SpaceBar Opens Doors, Activates Switches, Picks up Items, 
+	   Interacts with things, and Receives the Life Force of slain enemies from their corpses. 
+	   
+Security 
+There are 7 different types of doors. 
+There are 11 types of Keys. 
+Often the lock is color coded to the key, but a door can be locked with any key and some doors require 2 keys. 
+Some Keys are Skeleton Keys, Some are more "modern", some are special style, some keys look quite similar, to discern them look at the style, color, and notches. 
+ONLY The Gold and Silver Keys display on the status bar, just keep track of what and doors and types of areas are in the level, and what keys you have picked up. 
+The Security Corridors have key racks on the walls and keys on the floor. 
+4 types of keys are on wall racks, usually in the Armories. 
+Also some keys are hard to discern from certain floor textures. 	
+Different enemies drop different keys on different levels. 
+
+	   
+* TIPS *
+
+Tactical
+
+To Survive you will need to use tactics. 
+You cannot win this game on Death Harder Modes or even easy on some levels, without tactics, you will get slaughtered. 
+Some levels are overkill of enemies, it was partly designed from the mindset of an SS Commander setting up defenses for their facility. 
+There is also often allot of ammunition weapons and medkits in the security corridors, keys are also often there, but they are well guarded. 
+
+You will also need to use a silent attack at times, as the sound of firearms will alert to many enemies to overcome in well fortified areas. 
+
+Secrets 
+Many secrets are well hidden.  
+
+	   
+* HELP *  
+
+     Level Specific Help info & tips
+ [ ! Mild Spoiler Alert ! ]
+	   
+Level 1 
+There is a Secret network of Ice Caves & Tunnels
+
+Level 2 
+There is a a Secret Ice Cave 
+
+Level 3 
+This level is very difficult on Death Incarnate Mode.
+
+The SS men overheard in the mission briefing are a few meters in and to the left. 
+To Perimeter main gate is heavily fortified, the likelihood of surviving a frontal assault on the enemies defenses is low, there is a secret path to enter with less initial resistance circumventing the effectiveness of the SS defenses.  
+Also once inside you will need to use stealth as well as noise lures. 
+Watch your angles, keep moving, don't get flanked and shanked. 
+
+This level is a security perimeter fortification the whole point of this area is to keep out anyone who doesn't belong here.  
+
+Level 4
+Keep your wits about. 
+
+Level 5 
+This level is very difficult on Death Incarnate Mode.
+
+Use Guerrilla Tactics 
+
+Level 6 
+This level is quite difficult on Death Incarnate Mode.
+
+The staff key must be acquired before proceeding, it is only found behind locked doors, one of which can be gained fairly easily with wit and speed. 
+
+
+Level 7
+This level is rather difficult on Death Incarnate Mode.
+
+Watch your angles, keep your head on a swivel, and know when to advance and when to use cover. 
+
+Level 8 
+Stay objectively focused. 
+
+Level 9 
+This level is highly difficult, especially on Death Incarnate Mode.
+
+Fast Decisive Moves, Correct Tactics, and Swift Accurate Attacks are crucial to survive this level. 
+You can box in you enemies. 
+Also there is a well hidden secret that will greatly increase your likelihood of escaping alive. 
+
+
+
+Good Luck and Godspeed. 
+
+
+

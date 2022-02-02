@@ -1,0 +1,10 @@
+Known Bugs 
+Don't kill enemies in doorways in level 9 this may prevent the door from opening.
+
+Another (undisclosed) level has a bug which sometimes a certain causes a pushwall switch to change to the wrong graphic and not activate the pwall. 
+go through a door and kill an enemy and come back to it, it may resolve it and let it function. 
+
+There are issues with the Read This and Mission Briefings. If they malfunction just open the text file and read it. 
+SPOILER ALERT, DONT READ AHEAD OF YOUR MISSION PROGRESS. 
+
+SAVE OFTEN. 
