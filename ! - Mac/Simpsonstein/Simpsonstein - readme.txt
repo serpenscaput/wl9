@@ -1,0 +1,8 @@
+Our mod offering today is called Simpsonstein 2.0 and if you can't guess what it is about based on the name, then I cannot help you. Made by Erik Rupinski, Simpsonstein offers a simple storyline: you arrive at your place of work, the Springfield Nuclear Power Plant. Eerily, there's nobody around and there's a gun lying on the lobby desk, which you take. Soon enough, you encounter an unknown armed map who promptly takes aim at you. Unwilling to die just yet, you grab the newly acquired gun and fight back. Die, you unknown man who definitely isn't a Nazi! Die!
+
+As things stand, the mod offers three rather small maps and a bunch of new walls. But there was supposed to be more. Simpsonstein comes with an ordering form for version 3.0, which promises 20 new maps with all new walls, sprites and sounds, all for the small price of 7 dollars. I have no idea if this version 3.0 ever existed, and if our version 2.0 is an early release of a planned project or a demo of an existing product. The ordering form also mentions version 2.5 with new music. It's all very unclear.
+
+As for what we actually have, there's enough new graphics to represent the cartoon locale, although Nazi flags standing in a couple places might dispel the illusion at certain times. The three small maps are designed in a vaguely realistic way, so there's lots of symmetry and neatness in the design. Opposition is reasonably strong but not overwhelming, and of course there's some secrets to find and treasure to pick up. All in all, with a bit of suspension of disbelief it's a perfectly functional mod and a taste of something bigger that may or may not have existed at some point in time. Oh well.
+
+===CREDITS===
+Erik Rupinski.

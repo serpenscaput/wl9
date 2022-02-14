@@ -1,0 +1,4 @@
+Our first compilation of the day is called (amazingly enough) Compilation, but I'm not sure who made it. Clubey gives author as "unknown" and Dermuda's spreadsheet only ascribes authorship (by one Julien12) to one of the three variants. Well, perhaps he made all three. Versions are from years 1995, 1996 and 2002. Chronologically, Compilation started out as a First Encounter effort - six maps of variable size, varied design and lots of enemies. The 1996 version upgrades it to Second Encounter capabilities, in that almost all enemies on most maps were replaced by Officers in a rather puzzling design decision. The 2002 version apparently discards that and focuses on the 1995 output again, touching up a few things and making much more reasonable use of Second Encounter features. Play the 2002 one for optimal experience, or all three to see how a mod evolved over time.
+
+===CREDITS===
+Julien12?

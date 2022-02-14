@@ -1,0 +1,71 @@
+Thank You!
+
+Thank you very much for downloading Castle Xeen 2.0! This is an updated, better working version of Castle Xeen! Instead of 1 secret level, there's 2 of them, and one is from The Castle of Lost Souls!
+   
+The Story So Far...
+
+In 1944, when the Nazis were starting to lose against the Allies, a god came down from the heavens. His name was Xeenmoofy. Xeenmoofy said that the Nazis were right about what they believed, so he built this enormous castle of 39 levels, named Castle Xeen, which kept the Nazis' Fźźher, Hitler, safe and sound. About 10,000 Nazis were housed in Castle Xeen, which made it the most dangerous castle in all of Germany. Makes me scared! Well, you are Hans D. Fritz, cousin of B.J. Whatever, and you are a French soldier that accidentally wandered into Berlin when he was drunk. You were captured by the Nazis, and you were held captive until Xeenmoofy built Castle Xeen. Once Castle Xeen was completed, you were to be held there until further orders. Being led to the dungeon, which was full of rats, which you REALLY hate, you hit one of the guards, grab his gun and knife, and beat the crap out of him. Luckily, the other guards chickened out, so now you find an elevator, with a pistol and a knife. Once the elevator stopped. You are facing one of the grand officers of Germany! What's a French soldier to do?
+
+
+Your Mission
+
+Your mission is to make your way through the 38 levels of Castle Xeen and defeat Hitler on the final level. Then, after he dies...I'll tell you in a few sections.
+
+
+The Requirements:
+One heckuva fast Macintosh (don't use a 68030 machine)
+Wolfenstein 3D 3rd Encounter (unsure) or commercial version
+WolfEdit Enhanced or 1.1B or 1.1C (for WolfEdit versions)
+ResEdit 2.1.1 (for WolfEdit versions)
+Wits and Courage
+
+Getting Started...
+
+For the Wolfenstein 3D versions:
+1. Find the Levels folder for Wolfenstein 3D.
+2. Drag both "Castle Xeen" and "Mega-Trainer Demo" into the Levels folder.
+3. Open Wolfenstein 3D.
+4. Choose "Castle Xeen" or "Mega-Trainer Demo" to play. 
+5. Play on!
+
+For the WolfEdit Versions:
+1. Make a copy of Castle Xeen and Mega-Trainer Demo.
+2. Open ResEdit.
+3. Choose "Get Info" from the file menu.
+4. Locate Castle Xeen and Mega-Trainer Demo.
+5. Change File Type for both to "MAPS"
+6. Change Creator for both to "WOLF"
+7. Follow steps 1-5 in "Getting Started for Wolfenstein 3D Version." 
+
+Starting the Freakin' Thing
+
+You will be facing an officer (as mentioned in the story). Shoot him until he's dead. Go into the room to your left. Kill the S.S. and the two guards. Get the gold key and the ammo. Go back to the room with the officer and open the gold door. Kill the guard and the mutants. Proceed. Kill the two officers. Find the two secret doors. Get the ammo and kill the officer. Go into the next room, then the next. Grab your Gatling gun and start killing! Good luck, Hans! 
+
+What Happens AFTER You Kill	Hitler
+
+Okay, so you're on floor 7-5, and Hitler's almost dead. Keep avoiding the Nazis; there's lots of them. Kill Hitler, then IMMEDIATELY type MMCCALL. Voila! You're at the first secret level! 
+
+Continuing the Story...
+
+After warping yourself to this secret level, you realize that now you're in a cavern facing 92 officers. You manage to kill them all. Phew! you think. You suddenly realize you're trapped! But, lo and behold! A switch! You flip it. All of a sudden, you lose conscienceness! As you are pulled deeper and deeper, you see a glimpse of what's ahead for you. You see yourself facing lots of officers and guards, but they look smarter. Once you wake back up, you suddenly realize that you have been captured by the Nazis once again! What's a French soldier to do?   
+
+What Else is Available?
+
+The Castle of Lost Souls has just been released by yours truly, and it is the sequel to Castle Xeen! It is yet another 40 levels of misery to blast through, but version 2.0 will be even better! My Compact Maps are four 1-level scenerios called The Killer, The Jails, Castle Burlock, and Mission Whacko, which are all now part of Castle Xeen 2.0.
+
+
+Coming Soon:
+
+The Dragon Cavern!
+You are Hans D. Fritz. After defeating Hitler and Dr. Schabbs once again, you leap out of a window. Whoa! It's storming outside! In an attempt to get back into the castle, you are struck by lightning! You awake in a dark place! What's a French soldier to do?  
+	
+About the Maps
+
+Castle Xeen 2.0 is a beefed-up version of Castle Xeen. You no longer have to use the cheat code to get to the next level. Yaaaaay! It is 40 levels of absolute hell to blast through!  The Mega-Trainer Demo is a demo version (8 levels) of Castle Xeen's sequel, Mega-Trainer, renamed to The Castle of Lost Souls. You can find Castle Xeen at Doug Ingram's web site, which you can get to from WolfAddict's home page. My special thanks to Doug Ingram, WolfAddict Software, and Christian Vinaa for helping me make Castle Xeen 2.0.  
+
+E-Mail Me!
+
+Hey! If you have any questions or ideas about or for my maps (or my upcoming ones), mail me at horace@mail1.erinet.com. You can also mail me modified versions of my maps! Copy my maps! I don't care! I want EVERYONE to have my maps. You'll need WolfEdit if you want to change my maps. This is PUBLIC-DOMAIN, mind you!
+
+And Also...I need advice on binhexing and stuffiting files, so mail advice to me, too. If there's a new version of WolfEdit coming out, mail me on that too! Give me the ftp site for where it is. I'm also a Bolo, Doom II, Colonization, Civilization, The Legend of Kyrandia Book 3: Malcolm's Revenge, and World of Xeen fanatic, so mail me saves (or ftp sites) for those too! I want BoloStar 2.0, too! Mail me the ftp site for that one, too. Just remember, my Wolfenstein maps are for THE MAC ONLY! For those computer nerds out there, I created my maps on a Macintosh Performa 575 with a 250 and a 730 meg hard drive with 12 megs of RAM. If I were you, give WolfEdit AND Wolfenstein 3D about, say, 8 or 9 megs of RAM. Good luck!
+Castle Xeen 3 and TCOLS 2 will be made from the soon-to-come WolfEdit II!
