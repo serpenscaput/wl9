@@ -1,0 +1,8 @@
+Borgenstein Demo by Mike Hunter is a not-quite-total conversion featuring three maps, replacing roughly half the walls, a bunch of enemies, and almost all static sprites and pickups. I don't have the original readme on hand (Clubey didn't provide one, maybe there was none in the first place), but the game's carefully crafted setting clearly puts us on a starship, and certain graphics indicate strongly that our opponent is none other than the dreaded Borg. Get your 101 Best Borg Jokes books out of the drawer, it's time for quips about futile resistance and assimilation!
+
+The new maps are medium-to-large and decently put together. New graphics are of high fidelity and fit the theme perfectly; it's obvious the author knew what he was doing. At the same time, it can't be ignored that the game owes a lot to the Astrostein series. While most enemies are newly made Borg troopers, lots of other graphics are clearly inspired by Astrosteins, although at first glance they all seem to be original creations rather than mere recolors, so let's not make too big of a deal out of this. Another point of inspiration is in mapping itself, as Mike Hunter uses highly symmetrical, "realistic" designs and makes heavy use of static objects in threes blocking off certain things and passages.
+
+But don't let me make you think this mod is just some Astrostein ripoff; it stands well on its own, its three maps filled with well drawn Borg enemies are worth experiencing!
+
+===CREDITS===
+Mike Hunter.
