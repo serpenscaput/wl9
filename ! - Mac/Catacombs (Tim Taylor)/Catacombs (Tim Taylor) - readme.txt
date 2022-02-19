@@ -1,0 +1,10 @@
+So our first port is called Catacombs and it's a First Encounter mod by Tim Taylor. It's actualy a four-in-one deal of sorts, as Tim has released more than one version of his opus over time. For the sake of orderliness, I decided to bunch all those releases up in a single package. Chronologically, we begin with Catacombs 1.0, which offers a single, very large and quite interesting floor, maybe with a bit too many single-tile twisty passages. Then comes Catacombs 1.5, where the author seems bent on curtailing his original creations: a few small areas are removed, along with lots and lots of ammo and decorative objects. Perhaps the 1.0 version was too much for computers at the time? 
+
+But then we have version 2.0, which, as far as I can tell, restores the 1.0 first map almost exactly, and then attaches no less than six new floors to cap the whole thing off at 7 levels. The new maps aren't quite as extensive and elaborate as the initial offering, but they still offer some fairly creative mapping, often merrily giving away heaps of ammo to fight opposition of varying intensity with, culminating in a frantic finisher. 
+
+Oh, and then there's something also called Catacombs, a Third Encounter scenario file containing the Catacombs 1.0 map. It came with no readme and I have no idea where does it fit in the overall chronology, so I just appended it at the end, as the fourth "episode". Have fun.
+
+Before I forget, version 2.0 is the only one that comes with the author's readme and it grants a storyline for the whole series. Having escaped from Castle Wolfenstein, you survive the hell of evading Nazis on their own turf for a couple weeks, until you finally make it to France and join the local underground and meet up with your partner, Ben. But soon enough, you suffer betrayal as Ben proves to be a turncoat. The underground HQ is stormed by SS who kill everyone and haul you to the catacombs for further interrogation. A familiar situation. Now how do you get out?
+
+===CREDITS===
+Tim Taylor.

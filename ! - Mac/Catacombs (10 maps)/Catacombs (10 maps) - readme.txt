@@ -1,0 +1,4 @@
+Next up we have something called Catacombs (yeah, that is today's theme) by an unknown author. A word of explanation here: Clubey says the mod is *presumably* made by Tim Taylor and Dermuda follows his presumption in his Archive, but the scenario contains an entirely different set of maps as compared to the Catacombs described above. Looking at mapping style, there are a few small similarities, but definitely not enough to make me believe the hypothesis of shared authorship. The maps themselves start out interesting and reasonably creative, but become less developed in the second half of the game, but nonetheless there's enough shooting and looting to keep Wolfers busy.
+
+===CREDITS===
+Unknown, I say.
