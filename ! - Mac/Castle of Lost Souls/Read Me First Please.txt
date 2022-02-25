@@ -1,0 +1,69 @@
+The Castle of Lost Souls and Castle Xeen 2.0 Demo is by Josh Mills. E-mail me at horace@mail1.erinet.com.   The Castle of Lost Souls is 40 levels of absolute hell! Castle Xeen 2.0 Demo is a demo of Castle Xeen 2.0, the scenerio before The Castle of Lost Souls. Get Castle Xeen 1.0 at Doug Ingram's site (it's called Xeen). (Go there from WolfAddict's home page).
+
+The Castle of Lost Souls 1.0 Bundle Readme
+
+Thank you for downloading The Castle of Lost Souls 1.0 with Castle Xeen 2.0 Demo! The Castle of Lost Souls is one heck of a scenerio! The time you spent waiting for this downloading will be worth it!
+
+The story so far...
+															Year: 1945
+														Place: Australia
+
+You are Hans D. Fritz, cousin of B.J. Whatever. After escaping Castle Xeen and defeating Hitler, the Nazis worked hard trying to resurrect him. Soon, Dr. Schabbs and his zombies raised Hitler from the dead! Shortly after, the Nazis captured Australia and built the Castle of Lost Souls there. It is known to be the darkest place on earth. You were captured by the Nazis and thrown into the dungeon. Luckily, you kept your pistol and knife handy. On arrival in the dungeon, you encounter a guard and about 15 more of them. Struggling, you manage to kill them all off.  You look out into the night sky, staring out into the stars. You sight your lucky constellation, which fills you up with killing energy. At a running pace, you exit at the door to the left, hoping to find Hitler pretty soon...
+					
+About TCOLS and the	Requirements!
+
+The Castle of Lost Souls is as long as it's daddy, Castle Xeen, which was 40 levels long. But, beware, it is much, MUCH harder. Just remember, this IS version 1.0, but it's very stable!
+
+Requirements:
+
+Wolfenstein 3D 3rd Encounter (I hope) or commercial version (DUH!)
+About 359K of disk space
+One heckuva fast computer (68040 counts! Don't use a 68030 machine)
+Courage  
+
+About TCOLS and Requirements 
+																Getting Started...
+
+1. Open your Wolfenstein 3D folder.
+2. Open the Levels folder.
+3. Drag "The Castle of Lost Souls" and "Castle Xeen 2.0 Demo" into the "Levels" folder window.
+4. Open Wolfenstein 3D.
+5. Select "The Castle of Lost Souls" or "Castle Xeen 2.0 Demo." Like the graphic? I made it in ClarisWorks!
+6. Proceed to the next section here.
+ 
+Getting Started... 
+
+																Starting the 
+																Freakin' Thing
+
+You will be starting facing about 15 guards. Kill the one in front of you.  Don't worry about the others going after you; they can't. Kill them, too. Open the door to the left of you. Kill the four guards there. There's a secret door that takes you to the dead 15 guards. Now, open the next door, BUT DON'T GO IN! Kill the officer and the guards. Find the secret door. Kill the S.S. Now you have a machine gun! Go into the next room. Kill the three mutants. Take the door to the right. Kill the three dogs. Find the secret door. Kill the two guards and the officer. Go into the next room. Kill the guards, then the mutants. DON'T GO INTO THE NEXT ROOM! There are 5 Death Knights there! Go back to the room where you killed the three mutants. Take the door that you didn't take before, then the next one. Kill the 8 guards and take the key. Head back to where you started. Open the gold door, kill the guard, open the silver door, and kill that guard. Then, open the exit door, and kill the guard there. Flip the switch and you're out of the dungeon and in the castle! Good luck.
+NOTE: There's another secret door in this level, but it's under construction.
+  
+Staring the Freakin' Thing   
+
+																	What Else?
+
+Hey, soon I'll have a FAQ document. Once I get my hands on WolfEdit II, I'll make alternate lifts, so don't worry about those extra exits. Consider them a shortcut. I also plan to make new wall textures and enemies; wait until you see Indiana Jones and his whip! The Castle of Lost Souls 2.0 will be made from WolfEdit II. I'll also try to make a Castle Xeen 3.0. God, I might even have MY OWN WEB PAGE soon! You'll never know, but do look out for compact, 3-level map sets. 
+Other things I have available are Castle Xeen with the Mega-Trainer Demo (this is the full version renamed), Compact Maps (4 1-level scenerios: Castle Burlock, The Killer, The Jails, and Mission Whacko), and WolfEdit versions of all of these. I'm also tring to find a Doom II WAD editor so I can make a Doom II version of Castle Xeen and The Castle of Lost Souls.
+
+What Else? 
+																	About What's
+																	Included
+
+The Castle of Lost Souls 1.0 is 40 levels more levels of misery to blast through and it's the sequel to Castle Xeen. It is far harder than the original Castle Xeen, and it'll be harder once 2.0 comes out. Castle Xeen 2.0 Demo is a demo of Castle Xeen 2.0, a beefed-up version of Castle Xeen (sort of). It is 8 levels of the levels I liked best. The Castle Xeen story is in the next chapter.
+Castle Xeen 2.0 Demo, Castle Xeen, the Compact Maps, and The Castle of Lost Souls 1.0 were all made with WolfEdit 1.1B with some hacks. That's why I got the day/night scene thing in my maps. Hey, it took me about a month to do it all! My special thanks to Doug Ingram, Christian Vinaa, and WolfAddict Software for aiding me in making my maps. You can find Castle Xeen at Doug Ingram's web site. There's a link to it there from WolfAddict's home page.  
+
+About What's Included 
+																	The Story of Castle	Xeen
+
+In 1944, when the Nazis were starting to lose against the Allies, a god came down from the heavens. His name was Xeenmoofy. Xeenmoofy said that the Nazis were right about what they believed, so he built this enormous castle of 39 levels, named Castle Xeen, which kept the Nazis' Fźźher, Hitler, safe and sound. About 10,000 Nazis were housed in Castle Xeen, which made it the most dangerous castle in all of Germany. Makes me scared! Well, you are Hans D. Fritz, cousin of B.J. Whatever, and you are a French soldier that accidentally wandered into Berlin when he was drunk. You were captured by the Nazis, and you were held captive until Xeenmoofy built Castle Xeen. Once Castle Xeen was completed, you were to be held there until further orders. Being led to the dungeon, which was full of rats, which you REALLY hate, you hit one of the guards, grab his gun and knife, and beat the crap out of him. Luckily, the other guards chickened out, so now you find an elevator, with a pistol and a knife. Once the elevator stopped. You are facing one of the grand officers of Germany! What's a French soldier to do?  
+
+The Story of Castle Xeen  
+																		E-Mail Me!
+
+
+Hey, if you have any questions, comments, ideas or modified versions of my maps, send them to horace@mail1.erinet.com. Most of the time, I'll be dealing with WolfAddict Software, Doug Ingram (his page is cool; it also has Castle Xeen!), and some other Wolfenstein dudes, including the maker of WolfEdit! He doesn't know when WolfEdit II will be out. You can get all of these links from WolfAddict's home page.
+
+NOTICE! You NO LONGER need to use that cheat code to get to the next level.
+
+Good luck with the maps!!!
