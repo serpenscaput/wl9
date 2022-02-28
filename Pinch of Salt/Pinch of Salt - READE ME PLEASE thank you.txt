@@ -1,0 +1,36 @@
+-=+=- PINCH OF SALT -=+=-
+
+Hello player/reader! Thank you for downloading and playing Pinch of Salt!
+
+= CREDITS =
+Graphics:
+WSJ => Providing the base for the SS and officer edit, and the black HMG sprites.
+Wolfcooker => For the SS guard set that I used as a base, and for his flamethrower SS.
+Orka => For the guard set from which I took the brown tunic from.
+Jayngo => For the golden lynx sprite
+AReyeP => Boxes, hanging palnt, and toilet sprite.
+Dunkleschwamm => For his boss generator.
+TheJosh => For the hanging flag object sprite.
+Nex => For helping me make the Mauser C96 weapon set.
+
+Audio:
+nO_One & Karl Sternau => In einem Polenstadchen midi file (title music).
+=> New Pork Bossa midi from Mother 3 arranged by Astrocreep
+=> Blake stone track
+
+and you for playing my mod!
+
+NOTES:
+- All other maps have been erased. Only the first 3 are available and accessible from the first episode.
+- There are not coding changes, so this is playable in DOS, SDL, & EC/LZWolf
+- There is one notable bug, in which the gray wall will appear in places where it should not. To remedy this, try restarting thw whole game.
+
+If you would like to get in contact with me, you may find me on Discord:
+Justy Zam/Justiiue/Jus-STEN #0107
+
+My email: justyzam@gmail.com or justyzam@yahoo.com
+My YouTube: Justy the Woofian
+DHW: Justy Zam
+Haven: Justy Zam
+
+happy Wolfing and take care! :-)
