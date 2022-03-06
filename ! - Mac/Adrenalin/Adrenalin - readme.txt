@@ -1,0 +1,4 @@
+Adrenalin and Adrenalin II are two small mods by Blake Zuckertort I mean Zuckerman. They both feature a single map and a handful of modified graphics. The first game's sole floor is quite extensive and uses various enemies and bosses quite liberally. For graphics, the dog's death animation is now far more brutal, and the brown guard's death is much flashier as well. Adrenalin II, on the other hand, gets rid of those new animations and features a large number of new wall textures instead. Those are generally either taken from or based on Amerika the Beatiful, once again creating some sort of scenario where the player engages modern neo-Nazis in combat (although the presence of Hitler makes this inference questionable). The sequel uses the first game's map as a basis, but modified: there's even more enemies now, and of course new wall textures are on full display. Have fun.
+
+===CREDITS===
+Blake Zuckerman.

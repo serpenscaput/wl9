@@ -1,0 +1,75 @@
+G'day, mate! Welcome to Australia, the land of the boomers! You can call me Sook. A lot of weird things have been going on here. Last night I saw a  man fall from the dangerous "Castle of Lost Souls" into a pit. That pit is rumored to lead to the most dangerous place of all, the Dragon Cavern! Pretty dangerous place, if you'd ask me. Well, come on! Go to the next chapter to find out more, mate! By the way, take this paper! I found it in the sand, mate! 
+
+Welcome! 
+
+Are you ready...
+
+...to enter the worst place on earth? Welcome to the Dragon Cavern, one of the worst places on earth. No one has survived entering this place, for it is rumored to be haunted by DRAGONS! Only brave ones would dare to enter it. Read the next chapter to find out more...
+
+SPECIAL NOTE: This is the LATEST version of Dragon Cavern, with lots of bug fixes! EVERYTHING included in the package has been updated! Sometimes this is known as the "Official Dragon Cavern 2.0." See, there was this huge bug that made floors 3-0, 4-1, and 4-5 go to floor 1-1. Bob Thijs figured out the bug, and thanks to him, this is the 3rd release of the Dragon Cavern, and THIS time it works!   > 
+
+The Story So Far...
+
+
+Your name is Hans D. Fritz, cousin of B.J Blahblahblah. You have been in many adventures. You have been in Castle Xeen, the castle built by the evil god Xeenmoofy. After defeating Castle Xeen, you were taken to Australia, home of the Castle of Lost Souls. You were thrown into the halls of the Castle of Lost Souls. On the 40th level, you took Hitler down once again, then leaped out of the nearby window. You landed on a platform in a thunderstorm. You got struck by lightning, and you fell into a very deep hole. You awoke. You're facing a red, brick wall. According to the smell, you sense that you've just entered one of the most dangerous places of them all...THE DRAGON CAVERN! Rumors you've heard about this place tell the story of a huge dragon, named Luhki, who used to inhabit the area around the soon-to-be Castle of Lost Souls. Xeenmoofy felled him. The imprint left by Luhki formed 25 levels of dirt, fire, and lava. Later, when the Nazis moved in, they constructed the open spaces with their Nazi-style walls. You've entered that very area. What's a French soldier to do?
+
+Requirements
+
+Color Mac
+Wolfenstein 2nd, 3rd, or 4th (Commercial) Encounters
+Wolf FKEY (included) (for 2nd Encounter only)
+Courage
+
+To install the Dragon Cavern into Wolfenstein 3D 2nd Encounter, install the Wolf FKEY using its own instructions into 2nd Encounter, open 2nd Encounter, do command-shift-9, then select the "Dragon Cavern" scenerio.
+WARNING: Doing command-shift-9 twice will crash the program.
+To install the Dragon Cavern into 3rd or 4th (Commercial Encounters), just drag it into the "Levels" folder, open Wolfenstein, and play!
+To get the 1st Encounter version of the Dragon Cavern, download it from http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/game/
+com/wolf/tigers.hqx/
+or something like that. There's a bug in the Tiger Cavern so until I get an update onto the Info-Mac servers you'd have to e-mail me at horace@erinet.com to get the update. Thanks to Eric Parkinson (ecparkin@servtech.com) for pointing out the bug.  
+
+Specials Included
+
+The end of the Dragon Cavern is unique to other scenerios. When you kill Hitler, it doesn't give you the "VICTORY!" screen. Instead, it warps you to the final level: The Chase out of the Dragon Cavern! That'll teach you not to fall into holes again! Flip the switch at the end, and victory is yours. But beware of all of the Deathknights.
+
+Also included is a demo of The Castle of Lost Souls and Castle Xeen 3, not 2! The 8 levels in this scenerio are NOT going to appear in the full version, which will be named Return to Castle Xeen. There's also my Guide to Making Scenerios, which will appear with ALL products made by me from now on. The Wolf FKEY is included to put TCOLS Demo or CX 3 Demo into 2nd Encounter.   
+
+
+E-mail Me!
+
+If you have any comments, suggestions, complaints, bug reports, virus reports, or anything about anything I made, e-mail me at horace@erinet.com. I'm willing to answer any questions you ask. I also share a page with Joel Adams, from WolfAddict Software, where we review scenerios we pick or people send in. Send in scenerios to either horace@erinet.com or radams@winternet.com if you want them to be reviewed. Come visit our site at:
+http://www.winternet.com/~radams/joel/wolfarena.html/
+or something like that to see many reviews! We're also recruiting people to review scenerios. I'll be training recruitees on how to rate products reviewed using a unique rating system, developed by me, and I'll be assigning new reviewers scenerios to review. The following products have already been reviewed:
+WolfEdit Enhanced and WolfEdit 1.1a
+The All New MONDO Wolfenstein Sounds
+Wolfenstein 3D 1st Encounter
+Asylum
+Bio Castle
+Treasure Hunt
+WolfenCheat
+WolfenZoom
+Wolf 3D AutoTyper
+Laz's 2nd Encounter
+B.J's Revenge
+Operation: Annhilate!
+Mutants' Lair
+Great Escape
+Wake Up Call
+50 Ways to Die
+French Kiss
+Come Out and Play
+Mission Squirrel World #1
+...with many, many more to come, including scenerios you've never seen before!
+Don't waste any more time reading this! Visit our site now!
+ 
+How to Install the	Demos
+
+1. Open the "Castle of Lost Souls Demo Installer" or the "Castle Xeen Demos Installer" application.
+2. When prompted, find your "Levels" folder, and then either click "Save" or hit Return.
+3. Open Wolfenstein 3D.
+4. Play!
+
+As for you 2nd Encounter people, install them somewhere on your hard disk and use the Wolf FKEY to play them.
+
+Well, that's about it. Check out my other documents included to see other products available from me, how to get the full versions of TCOLS and CX 3.
+
+Coming soon...Return to Castle Xeen AND Fortress of the Hideous!
