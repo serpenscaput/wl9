@@ -1,0 +1,8 @@
+Porting ports still counts as porting, so you will have to suck this one up.
+
+In fact, porting a mod that was a PC-to-Mac port in the first place is not entirely new to this project. A while ago, in an Operation-themed post, I released Operation Overkill, a very well known PC mapset that Laz Rojas had meticulously ported to Mac many years ago. Now it's time for something similar. Conflict in the Fatherland, originally made by B.J. Rowan and ported by Laz Rojas. 60 maps for the First Encounter, which, due to the way the Mac port was built, will be distributed as six one-episode games. Each of these episodes has 10 maps and a slightly different assortment of new graphics, mostly walls (upscaled) and sometimes boss sprites (not upscaled). There's also a few sounds meant to be played in Nocturnal Missions. The mod comes with installation instructions for said sounds, but of course we don't deal with that here; everything works out of the box.
+
+As for the game being ported, I suspect most people know what's up. Conflict in the Fatherland is an iconic mapset, possibly (my opinion) the peak of 90s mapping. B.J. Rowan himself regards CifT as his very best work. It's a heavily focused, high quality mapset with not many flashy changes or features to detract from the classic experience. And yes, by now probably everyone has heard the story of a couple Episode 3 maps being based on Creator output. The story is true, but it doesn't outweight all the other goodies the set has to offer. In my eyes it's still strongly recommended.
+
+===CREATOR===
+B.J. Rowan made the game, Laz Rojas ported it
