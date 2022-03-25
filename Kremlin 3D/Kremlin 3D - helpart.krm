@@ -1,0 +1,32 @@
+^P
+^G10,15,30
+
+^C26 Vladolf Putler,
+a psychopathic ruler of an evil empire, is disturbing the global peace again.
+He has to be stopped before more lives are lost. Are you up to the task?
+
+^C00 Obviously, any resemblance of the game and its characters to the real world events and people is purely coincidental.
+
+^P
+^C7d In game shortcuts:
+^C00 F1 - See this text
+F2 - Save
+F3 - Load
+F4 - Sound settings
+F5 - View size
+F6 - Controls
+F7 - Suicide
+^C26 F8 - Quick save
+F9 - Quick load
+^C00 F10 - Quit to desktop
+F12 - Release/capture mouse - if you need to alt+tab or move the window around
+
+^P
+^C00 Launch the game executable with ^C26 --help ^C00 to see launch parameters (how to set resolution, windowed mode, etc...)
+
+You only have 1 life so remember to save often. ^C26 F8 ^C00 is your only friend in this game.
+At the bottom right corner of the screen there is a minimap to help with orientation. Grey color on the minimap represents a wall, orange is for door, teal is for blocking sprite (for example a barrel or a fence), light green is for your location and dark green represents your visibility.
+
+For more information read the readme.txt in the game directory.
+
+^E
