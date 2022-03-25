@@ -1,0 +1,37 @@
+-=+=- SWIFT MANEUVERS -=+=-
+
+Hello player/reader! Thank you for downloading and playing Swift Maneuvers: the demo! This mod is named such because, like my previous mod,
+it is a micro mod - only spanning two small levels made in the spirit of Tricob's Operation: Kill BJ.
+I originally intended for this mod to have 3 levels, but since the deadline (March 24) was fast approaching
+and I had little time to work on the mod, I had to leave it at 2 levels.
+To make up for this, I plan on making 2 floor for each episode to make a total of 12 episodes in the full release.
+Regardless, please enjoy and keep your eyes peeled for the future episodes!
+I am happy to be able to release this mod on my birthday.
+
+= CREDITS =
+Graphics:
+Chiseled = Chaingun sprites
+The Josh = Trench Warfare
+WSJ = Scientist and SS officer sprites
+
+Audio:
+
+=> New Pork Bossa midi from Mother 3 arranged by Astrocreep
+=> Tricob for his tracks
+
+and you for playing my mod!
+
+NOTES:
+- All other maps have been erased. Only the first 2 are available and accessible from the first episode.
+- There are not coding changes, so this is playable in DOS, SDL, & EC/LZWolf
+- There is one notable bug, in which the gray wall will appear in places where it should not. To remedy this, try restarting thw whole game.
+
+If you would like to get in contact with me, you may find me on Discord:
+Justy Zam/Justiiue/Jus-STEN #0107
+
+My email: justyzam@gmail.com or justyzam@yahoo.com
+My YouTube: Justy the Woofian
+DHW: Justy Zam
+Haven: Justy Zam
+
+happy Wolfing and take care! :-)

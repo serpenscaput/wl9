@@ -1,0 +1,6 @@
+What we have here is Project Wolfenstein, specifically Part II and Part III. No, I don't have the first part, nobody does as far as I can tell. The available parts (made by EPOMALL) both feature three maps for the First Encounter. One thing that can be said about these mods is that they have an interesting framing story. Even without the first part's readme we can figure out how it takes place on a post-apocalyptic world with some sort of Nazi genetic engineering going on. You just broke out of a prison and enter a ruined city swarming with Nazis; after you beat your way through said city, you enter The Agency, presumably some sort of twisted law encorcement centre. The story ends here, though it certainly seems like more parts were planned.
+
+So how does the above translate into gameplay? Well, as mentioned you get three maps per mod, ranging in size from middling to fairly small. They have some minor mazes, a lot of brown textures, and plenty of dogs with a smattering of guards and SS. Oh, and Hans is there too, more than once. Not much more can be said as the maps never really stray beyond standard Mac fare. If you're a connoisseur, dig in.
+
+===CREDITS===
+EPOMALL
