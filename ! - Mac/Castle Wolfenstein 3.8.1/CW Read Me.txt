@@ -1,0 +1,853 @@
+About Castle Wolfenstein...   0/Castle Wolfenstein
+©1999 by Josh Mills
+Freeware   ÝÜYou wouldn't have downloaded this if you didn't like Wolfenstein 3D. You WILL have a lot of fun playing this scenario. I've taken a lot of time to create it. Send comments and bug reports to: copperfield@worldnet.att.net 
+Castle Wolfenstein 
+3.8.1
+Fourth Public Release
+4/10/99
+
+Introduction
+
+Welcome to Castle Wolfenstein! This is one of the latest Wolfenstein 3D scenarios released to the outside world.
+
+Wolfenstein 3D has been around since 1994 for the Macintosh. After its release, Greg Ewing later discovered how Wolfenstein levels are constructed, and WolfEdit was born.
+
+From 1995 to 1997, many fine editors created some of the best Wolfenstein 3D levels ever. WolfAddict Software took advantage of WolfEdit 2.0's capabilities to add custom enemies, walls, and the like.
+
+Sadly, many games, such as Doom, Quake, Duke Nukem 3D and Unreal have overshadowed Wolfenstein 3D. Many former Wolfenstein players have flocked to these other games. WolfAddict Software perished in early 1997.
+
+I am the creator of Castle Xeen, The Castle of Lost Souls, Fortress of Fear (formerly Dragon Cavern), First Strike, and Temple of Doom. Over the years, I've learned how to make good Wolfenstein levels. I can assure you these levels are of the highest quality.
+
+Castle Wolfenstein is my latest and greatest creation. It's for all types of W3D players,  from novices to veterans. It  features new walls, new enemies, and new objects.
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+The Story
+
+The year is 1943. World War II is in full blow. The Nazis have just assaulted American troops off the shore of France. You are one of those who escaped. Your unit's ammo dumps and your fellow soldiers have been locked up in the great Castle Wolfenstein. Your job is to defeat Hitler and rescue them. Good luck!  
+
+About My Levels
+
+My levels are as rich and as complex as it gets. I have examined many a Wolfenstein scenario, and I have not seen one be as close as complex or as with as many traps as my Castle Wolfenstein.
+
+These levels are very likely going to frustrate you. I myself have trouble beating them. Castle Wolfenstein does start out pretty easy, but later it will become difficult. It is inevitable.
+
+You are challenged with a mixture of tough puzzles and hordes of enemies to kill. Timing and speed is essesntial. Especially in levels 3-1 on, you must watch your back every step of the way. These levels are much more unpredictable than you think.
+
+Also, beginning with version 3.8 of Castle Wolfenstein (released 3/1/99), illusions will further confuse you. Some walls are invisible. You don't know where they are.
+
+Most scenarios, with the exception of "The Haunted Castle," created by Laz Rojas, don't take advantage of Wolfenstein's ghosts. There are ghosts in Castle Wolfenstein, usually more than you want to put up with. Most of the time, you won't have to deal with them, but there are certain points where you must deal with ghosts.
+
+Around floor 6-4, things start to get really nasty. There will likely be more than 10 bosses on a level after 6-4. You are USUALLY given enough ammo to hold your ground. However, you do not know just how many bosses there will be. In order to stay alive, you may need to lure them somewhere else. I try to make it as hard as possible to get through levels without fighting more than a few bosses. If you play Castle Wolfenstein, you'll know what I mean. I've tested these levels. If I can beat them, so can you.
+
+Save your game often. You're likely to fall into a trap.
+
+Also, don't use cheats unless you ABSOLUTELY HAVE TO! It takes a lot of fun out of the game.
+
+Castle Wolfenstein is constantly being updated. To learn about changes made from the previous version, refer to "Recent Changes," included with Castle Wolfenstein.  
+
+Requirements
+
+Castle Wolfenstein 3.8 requires...
+Wolfenstein 3DŞ Full Version
+If you don't have Wolfenstein 3DŞ, e-mail me at copperfield@worldnet.att.net
+
+Also, Castle Wolfenstein requires a lot of memory to run. I reccomend at least 5 MB of memory. If you experience out-of memory messages with Castle Wolfenstein, e-mail me at copperfield@worldnet.att.net and tell me what type of Macintosh you have and how much memory you have.
+
+
+How to Install
+
+Drag Castle Wolfenstein into the "Levels" folder. Open Wolfenstein 3D. You will see a list of scenarios. Pick Castle Wolfenstein from the list, and click OK.
+
+Previous Versions
+
+Do NOT try to load any saved games from a previous version of Castle Wolfenstein on a newer version! THE LEVELS HAVE BEEN MODIFIED AND WILL CAUSE WOLFENSTEIN TO CRASH! If you are not finished with an earlier version of Castle Wolfenstein, simply keep the earlier version in the "Levels" folder along with the new version.  
+
+Enemies
+You must know what you're fighting against before you fight them. What follows is a listing of every type of Nazi or monster you will encounter in Castle Wolfenstein.
+
+Guard: Your basic, ordinary guard. Easy to kill, but they can gang up on you.
+
+S.S Officer: Blue. Carries machine gun.	Tough to kill. They pop up a bit more often than you want them to.
+										
+Elite Corporal: These guys are quick on their feet,	and can quickly end your life if you don't watch out.
+
+Mutant: Created by Dr. Schabbs, these guys are silent and hard to kill.
+
+Dog: I make sure dogs give you a hard time in Castle Wolfenstein. They usually attack in packs.
+
+Patrol: Watch out for these guys. They're tough to kill. Don't bother with these guys unless you have at least a machine gun.  
+
+Captain: Honestly, you do not want to deal with these fellows unless you have at least a flame thrower. Watch out! There's a lot of them.
+
+Goon: These guys may be dumb, but they're tough to kill.
+													
+Gremlin: Red. Throws deadly fireballs. One tough mother. You see this fellow often in floors 6-5 and 8-1.
+
+Grim Reaper: Really tough to kill AND they throw fireballs at you.
+										
+Hitler: Your arch-nemesis. 'Nuff said.
+
+Ghost: Invincible and will kill you.
+
+Other Ghosts: Three other ghosts exist. You don't know what they look like. You will likely find out. 
+
+Objects
+I'm big on objects. Objects make levels look more complete and realistic. I use objects to increase the complexity of my levels and to make them look professional. I especially love using glass.
+																					
+																					
+Urine: Blame it on the dogs. Luckily, they usually urinate near secret	doors.
+
+Barrel: They're not green in Castle Wolfenstein! Used to block you from	nasty enemies.
+
+Cots: Even Nazis need a place to sleep!
+
+Meeting Table:  Where Nazis gather	to discuss  matters. When you see these, that usually means there's more than a few Nazis in a room.
+
+Meat:  What the dogs eat. You can eat them, though.
+
+Statue: Before the Nazis invaded Castle	Wolfenstein, groups of Mauils (a small religious group) used to pray to these statues.
+
+Tree: Bare trees the Nazis uprooted	to block you from reaching your goal.
+
+Jeep: Stolen from the Americans. Another object to block your vision.\
+				
+Candlebra: Nazis like to keep their rooms smelling fresh. These	candles deliver a sweet, April-Fresh scent to the dank rooms of Castle Wolfenstein.
+
+Glass: Used very often in Castle Wolfenstein. You can't shoot flames OR missles through them. Quite irritating. At least you can see what's going on behind glass.
+															
+Other Objects: Everything else is pretty much the same as it was in the original Wolfenstein, except for a few color and cosmetic changes.
+
+Goodies
+You've seen the same old yellow treasures in almost every Wolfenstein scenario. I bet you're sick of them! Here are their replacements. You will probably find them quite interesting...
+																		
+Oxygen: The air's stuffy in	Castle Wolfenstein. Here's some	quick relief.
+
+Snack: A delicious ration package in a convenient little can. Perfect for the soldier on the go!
+
+Grog: Guybrush Threepwood and his fellow pirates drank it in Monkey Island. Now you, my friend, get to	enjoy the great taste of it, too.
+
+Erdšl: The Nazis' version of Coke. Just as tasty and delicious.
+
+Collect 50 of any of these and you get a free life! Goodies are scattered all across Castle Wolfenstein. The number of goodies on a level greatly varies. On one level, there might just be a couple of goodies. On other levels. there are as many as 90 goodies.
+
+Medicine
+You will likely get hurt in Castle Wolfenstein (unless you cheat, which I strongly discourage). You'll need medicine to fix you up.
+
+Little John: Boosts your health by	10%
+
+Big John: Boosts your health by 25%
+
+Also, you can eat dog food for a small health boost of 4%, and one certain mysterious item boosts your health all the way to 100% AND gives you a new life!
+
+Hints and Tips
+Little tidbits to make your trek through Castle Wolfenstein less harsh. Also included are names for the levels.
+
+Level 1-1: Enter!
+There's a ton of places to go and lots to see. Just about any place you go, you'll find treasures and ammo. There is one trap, though. Watch out.
+
+
+Level 1-2: A Life of Misery
+You don't have much space to fight, and the majority of enemies are corporals. Don't worry. You'll survive.
+
+
+Level 1-3: Secrets, Secrets Everywhere
+You receive your first machine gun on this level, provided you enter the right room. Explore and have fun, but beware! There an invisible wall keeping you from finding the blue key. YOU must find the way to it! Also, you may have a run-in with ghosts. (NOTE: Starting with version 3.8.1, the other blue key in the eastern portion of the level has been replaced with a Big John, so you HAVE to find the blue key the hard way!)
+
+
+Level 1-4: They're Coming From All Directions!
+Many places to go. Everybody is coming at you from all directions. Watch out! On top of that, there's many traps. Watch your back!
+
+
+Level 1-5: Ambush
+Your first big boss. And it's a Captain! You won't encounter him until the end of the level, though. Wide, open spaces. And plenty of enemies, too. You will see a ghost on this level, but it won't hurt you. Be quick on your feet.
+
+
+Level 2-1: Born to Be Frustrating
+Your first real puzzle. Don't have the see secret doors cheat active on this level or else it'll be no fun. Watch out for ghosts! Many special effects in this level.
+
+Level 2-2: It's A Good Day to Die
+Watch your back. The first part of this level is tricky. Lots of Corporals running around.
+
+
+Level 2-3: Rush Hour
+At one point in this level, a lot of enemies come rushing at you from all directions, including dogs. The dogs will most likely cause the most damage.
+
+
+Level 2-4: A Wonderful Weapon
+Plenty of rooms, ammo and enemies. Good, not so clean fun. In the second section, you get a flame thrower!
+
+
+Level 3-1: Captain's Quarters
+This is where you get to use that flame thrower! Not only that, you meet your first Goon here. He's mighty strong! A lot of Nazis live here.
+
+
+Level 3-2: A Scary Experience
+Who's behind those Jeeps? You'll find out if you take the right path. There is a point in the level where you have to choose one door out of about ten. The other nine or so conceal ghosts. This puzzle pops up in later levels, too.
+
+
+Level 3-3: Choose Your Fate
+Now things start getting tough. There are three ways to get the blue key. Fight a Grim Reaper, fight 22 mutants, or wade your way through a sea of ghosts. Also, there's more than one elevator. Only one is the real exit.
+
+
+Level 3-4: Ghost Mania
+I've beaten this level without cheats, so don't e-mail me whining that you can't beat it.
+
+
+Level 3-5: One Tough Mother
+Quite a unique level. I've never seen another level like this. The level grows as you progress. The exits will constantly move, and some exits will take you back to the first level. This is the level where you learn how to fight. Save often!
+
+
+Level 2-1: Born to Be Frustrating
+What?! You're back on level 2-1 after killing all those monsters?! You must be pretty frustrated. Actually, you're back on 2-1 for one reason: to get the missle launcher. Find it and you're off to level 4-1. And yes, you can get past those ghosts. I've done it without dying OR cheating. (Honest!)
+
+
+Level 4-1: Bloodlust
+A rather mild level compared to what's to come. Not much first aid on this level, so you'd better not get hurt.
+
+
+Level 4-2: A Tad Tipsy
+This level may be a bit confusing, but it won't take long to complete if you're quick. Have your missle launcher handy.
+
+
+Level 4-3: Tomorrow Always Dies
+There is one secret door that can cause you a LOT of trouble if you find it. Trust me.
+
+
+Level 4-4: A Choice
+Run and start shooting right away. Don't die on this level. There is more than one way to get the yellow key. It all depends which path you take. If you don't hurry up, you're toast. Don't have the see secret doors cheat active on this level. In the second section, you must choose one of two exits. Depending on which exit you pick, you're either going to have one more or one less level to fight your way through.
+
+
+Level 4-5: Blast From the Past
+This level actually came from Dragon Cavern/Fortress of Fear. It's still good, though. Not too hard.
+
+
+Level 5-1: Haven of the Mutants
+Mutant mania! Nothing but mutants and bosses from 5-1 to 5-3. In this level, you must find your way through a maze, and you're not going to get anywhere unless you rid yourself of a certain pest you can't kill that drains your life...you'll see. If you want this level to be fun, don't have the see secret doors cheat active. SAVE YOUR GAME before you hit the switch to the next level! You'll find out why below.
+
+
+Level 5-2: Run or Die
+If you're not quick on this level, you're toast. You do not walk on this level. You RUN! Have your flame thrower handy. In this level, the Mutants attack in packs. Mow them down with the flame thrower. Just to be mean, I'm not going to tell you how to get the blue key. I'll just say it's hard unless you know how to dodge.
+
+
+Level 5-3: Relief
+Pure, raw action. Enjoy!
+
+
+Level 6-1: The Comeback
+Many, many enemies to shoot at. Pretty easy if you ask me.
+
+
+Level 6-2: Four Quarters
+There are four zones: One zone has plenty of ammo and treasure. In another you can find the yellow key. In another, you can find the blue key, and in the last, the exits. One exit takes you back to 3-1. I'm not telling you which one.
+
+
+Level 6-3: All Roads Lead to Pain
+This level resembles Level 6-8 of Confrontation, one of the original Wolfenstein scenarios. You'll have a hard time getting past the ghosts at the end of the level.
+
+
+Level 6-4: Not for the Weak
+This level will give you headaches. Run like hell, my friend. And find all the secrets you can! You NEED the ammo. No ghosts on this level.
+
+
+Level 6-5: Another Tough Mother
+Ay carumba! So many bosses! I gave you tons of ammo. Use it. One more thing...don't bother trying to find the Grim Reaper with the blue key. You have to kill all the other bosses first. Trust me.
+
+
+Level 7-1: Torture
+You may think you can bypass all those bosses, but it's REALLY difficult unless you know where the yellow door (or is that yellow DOORS?) is.
+
+
+Level 7-2: Simplicity
+Wide open spaces. Not exactly one of my best, but if you don't play your cards right, you'll run out of ammo quickly.
+
+
+Level 7-3: Shoot 'Em Up
+"Where's the blue key? Where's the Grim Reaper? I've killed all these enemies and there isn't a blue key!" That's what you'll be saying while playing this level. Since when do you have to leave a Grim Reaper or a blue key out in the open? Don't have cheats active on this level. It'll ruin all the fun...hee hee hee!
+
+
+Level 7-4: No Turning Back
+At the time of writing, this level was near impossible. Makes you feel thankful I gave you so much space in my other levels. And THERE'S NO TURNING BACK! Grab everything you can before you leave the area ASAP or else the ghosts will get you. The last area of this level will cause your ammo supplies to dwindle. Those S.S Officers are SO HARD to kill!
+
+
+Level 7-5: Herr Hitler
+Two tips:
+1. Run like the wind and shoot at the same time.
+2. You have a run-in with Der Fźźher. He won't be dead when you kill him. He'll be back.
+
+
+Level 8-1: Make It Stop!
+Confusing. Very confusing. And difficult, too. You don't know where the exit to 8-2 is. It'll just take blind stupid luck.
+
+
+Level 8-2: Closed In
+A whole bunch of 3 X 3 rooms. What I call Castle Claustrophobia on steroids. This level is packed with gas for your beloved flame thrower. Not much space to fight.
+
+
+Level 8-3: The Labyrinth
+A giant maze. On top of that, there's invisible walls! Beware of ghosts!
+
+
+Level 8-4: Puzzling
+Before you can complete this level, you'll need to lure the ghosts into a different room. I've made this task a bit easier for you. You'll find out how I made it easier by exploring. Also, there is one point in the level where you're NOT supposed to kill all of the bosses. 
+ 
+Level Stats
+No other Wolfenstein author does or ever did this. I'm going to give you exactly how many enemies, goodies, secrets, objects, rooms, and doors there are in each level. Why? Because I want to. I don't need a reason. Enjoy! Please allow a 5-10% margin of error.
+
+Level 1-1
+Enemies: 77
+Goodies: 38
+Secrets: 12
+Objects: 250
+Rooms: 38
+Doors: 43
+
+Level 1-2
+Enemies: 36
+Goodies: 17
+Secrets: 3
+Objects: 106
+Rooms: 13
+Doors: 13
+
+Level 1-3
+Enemies: 70
+Goodies: 45
+Secrets: 17
+Objects: 258
+Rooms: 41
+Doors: 44
+
+Level 1-4
+Enemies: 83
+Goodies: 47
+Secrets: 10
+Objects: 247
+Rooms: 43
+Doors: 47
+
+Level 1-5
+Enemies: 88
+Goodies: 44
+Secrets: 6
+Objects: 239
+Rooms: 18
+Doors: 20
+
+Level 2-1 First Visit
+Enemies: 83
+Goodies: 34
+Secrets: 15
+Objects: 281
+Rooms: 42
+Doors: 54
+
+Level 2-2
+Enemies: 108
+Goodies: 38
+Secrets: 8
+Objects: 309
+Rooms: 25
+Doors: 36
+
+Level 2-3
+Enemies: 73
+Goodies: 26
+Secrets: 6
+Objects: 194
+Rooms: 21
+Doors: 24
+
+Level 2-4 Section A (Section B not shown)
+Enemies: 84
+Goodies: 30
+Secrets: 9
+Objects: 225
+Rooms: 42
+Doors: 46
+
+Level 3-1
+Enemies: 113
+Goodies: 31
+Secrets: 2
+Objects: 191
+Rooms: 35
+Doors: 38
+
+Level 3-2
+Enemies: 127
+Goodies: 32
+Secrets: 10
+Objects: 274
+Rooms: 28
+Doors: 31
+
+Level 3-3
+Enemies: 90
+Goodies: 22
+Secrets: 3
+Objects: 274
+Rooms: 43
+Doors: 59
+
+Level 3-4
+Enemies: 61
+Goodies: 4
+Secrets: 1
+Objects: 124
+Rooms: 8
+Doors:11
+
+Level 3-5 Section A
+Enemies: 25
+Goodies: 3
+Secrets: 1
+Objects: 53
+Rooms: 3
+Doors: 2
+
+Level 3-5 Section B
+Enemies: 40
+Goodies: 3
+Secrets: 1
+Objects: 60
+Rooms: 4
+Doors: 5
+
+Level 3-5 Section C
+Enemies: 50
+Goodies: 14
+Secrets: 5
+Objects: 105
+Rooms: 9
+Doors: 14
+
+Level 3-5 Section D
+Enemies: 79
+Goodies: 24
+Secrets: 1
+Objects: 191
+Rooms: 19
+Doors: 27
+
+Level 3-5 Section E
+Enemies: 94
+Goodies: 57
+Secrets: 5
+Objects: 289
+Rooms: 27
+Doors: 38
+
+Level 3-5 Section F
+Enemies: 127
+Goodies: 68
+Secrets: 7
+Objects: 274
+Rooms: 37
+Doors: 53
+
+Level 2-1 Second Visit
+Enemies: 125
+Goodies: 41
+Secrets: 14
+Objects: 312
+Rooms: 41
+Doors: 60
+
+Level 4-1
+Enemies: 127
+Goodies: 28
+Secrets: 3
+Objects: 296
+Rooms: 34
+Doors: 43
+
+Level 4-2
+Enemies: 122
+Goodies: 61
+Secrets: 6
+Objects: 325
+Rooms: 19
+Doors: 34
+
+Level 4-3
+Enemies: 127
+Goodies: 77
+Secrets: 14
+Objects: 290
+Rooms: 29
+Doors: 35
+
+Level 4-4 Section A (Section B not shown-it's too short)
+Enemies: 107
+Goodies: 20
+Secrets: 18
+Objects: 294
+Rooms: 29
+Doors: 58
+
+Level 4-5 (From Dragon Cavern/Fortress of Fear)
+Enemies: 117
+Goodies: 51
+Secrets: 3
+Objects: 164
+Rooms: 18
+Doors: 19
+
+Level 5-1
+Enemies: 127
+Goodies: 32
+Secrets: 21
+Objects: 279
+Rooms: 29
+Doors: 31
+
+Level 5-2
+Enemies: 127
+Goodies: 5
+Secrets: 5
+Objects: 202
+Rooms: 12
+Doors: 36
+
+Level 5-3
+Enemies: 114
+Goodies: 10
+Secrets: 1
+Objects: 188
+Rooms: 12
+Doors: 22
+
+Level 6-1
+Enemies: 127
+Goodies: 84
+Secrets: 6
+Objects: 288
+Rooms: 31
+Doors: 34
+
+Level 6-2
+Enemies: 122
+Goodies: 15
+Secrets: 2
+Objects: 268
+Rooms: 35
+Doors: 43
+
+Level 6-3
+Enemies: 127
+Goodies: 36
+Secrets: 3
+Objects: 278
+Rooms: 32
+Doors: 50
+
+Level 6-4
+Enemies: 127
+Goodies: 57
+Secrets: 9
+Objects: 310
+Rooms: 15
+Doors: 22
+
+Level 6-5
+Enemies: 127
+Goodies: 21
+Secrets: 25
+Objects: 327
+Rooms: 23
+Doors: 37
+Note: For those of you who are curious about this boss-packed level, there are exactly 40 bosses. How it came to be exactly 40, I don't know. Blind luck I guess.
+
+Level 7-1
+Enemies: 126
+Goodies: 24
+Secrets: 7
+Objects: 312
+Rooms: 26
+Doors: 33
+
+Level 7-2
+Enemies: 93
+Goodies: 18
+Secrets: 2
+Objects: 245
+Rooms: 5
+Doors: 18
+
+Level 7-3
+Enemies: 127
+Goodies: 10
+Secrets: 12
+Objects: 220
+Rooms: 57
+Doors: 64
+
+Level 7-4
+Enemies: 127
+Goodies: 24
+Secrets: 11
+Objects: 247
+Rooms: 13
+Doors: 16
+
+Level 7-5
+Enemies: 127
+Goodies: 24
+Secrets: 7
+Objects: 274
+Rooms: 42
+Doors: 49
+
+Level 8-1
+Not completely finished with this yet, so there's no need to show stats.
+
+Level 8-2
+Enemies: 127
+Goodies: 52
+Secrets: 10
+Objects: 359
+Rooms: 31
+Doors: 38
+
+Level 8-3
+Enemies: 127
+Goodies: 112
+Secrets: 7
+Objects: 402 (some objects may not be present in the level)
+Rooms: 6
+Doors: 5
+
+Level 8-4
+Enemies: 87
+Goodies: 14
+Secrets: 4
+Objects: 160
+Rooms: 23
+Doors: 28
+  
+Power Mac Compatibility
+
+I discovered with Temple of Doom that some of my levels are so complex they overload Wolfenstein 3D on Power Macs. I tested some of Castle Wolfenstein on a 266 MHz Power Mac G3. I found that on levels with enemies rushing at you and opening a lot of doors, such as on floor 3-1, Wolfenstein crashes.
+
+Castle Wolfenstein's compatibilty with Power Macs is questionable. However, it runs fine on '030 and '040 Macs. If you have trouble playing Castle Wolfenstein, try using WolfEdit 2.0 to take out doors. This will ruin some of the fun, but at least you can play the levels.
+
+Also, because Castle Wolfenstein exploits many features that were not present in the original Wolfenstein levels, the game may, at one point, not know what to do and crash.
+
+In the future, I will try to release a Power Mac compatible version of Castle Wolfenstein. It may never happen, but we'll see.  
+Don't Have Wolfenstein?
+
+Castle Wolfenstein requires the full version of Wolfenstein 3D. Most people don't have the full version. Unfortunately, MacPlay no longer distributes Wolfenstein 3D for the Mac.
+
+If you want the full version, e-mail me at
+copperfield@worldnet.att.net
+
+I will send you the Web addresses for both Wolfenstein 3D AND the full version of WolfEdit 2.0, so you can edit my levels.
+
+I also have the PC version of Wolfenstein 3D and its sequel, Spear of Destiny, but I cannot offer troubleshooting tips for either game.
+
+If you don't have the Internet, I will gladly send Wolfenstein and WolfEdit by e-mail.  
+
+Shareware? I think not!
+
+You know what ALWAYS annoyed me about those great Wolfenstein scenarios, such as Astrostein? They were shareware. You had to PAY for them. That made no sense to me. I don't believe in shareware. I think it's dumb. Therefore, I have always made my scenarios completely free. You own the full version of Castle Wolfenstein. You don't have to pay jack.
+
+All I'm asking is that if you edit Castle Wolfenstein and choose to upload it, tell me about it and change its name to something else.
+
+Also, I don't care if you steal the graphics. I stole most of the graphics (except the light blue wall, the puddle of urine, and the Patrol guards) from other scenarios. They probably don't care either.
+  
+A Little Slice of History
+
+The story of how I became such an excellent Wolfenstein author is long and twisted. Allow me to share it with you.
+
+Around 1994, I bought Wolfenstein 3DŞ First Encounter at a CompUSA for $5. I tried it, and it was OK, but it ended up on the shelf.
+
+Then, in 1995, a friend of mine gave me a copy of the full version of Wolfenstein 3DŞ. I played all the levels many times over. I wanted more.
+
+I gave up Wolfenstein after getting sick of all the levels until very late in 1995, when I tried out America Online. There, I discovered WolfEdit, a Wolfenstein level editing program. I downloaded it and created what would later become my very first scenario, Castle Xeen. It was completed in very early 1996. I have left the very first level I ever created hidden in the version of Wolfenstein 3DŞ I distribute to people who want it.
+
+Castle Xeen was poorly designed. There were tons of bugs. It was 40 levels long however, so the action lasted quite a while. Xeen made its first appearance at Doug Ingram's Wolfenstein 3D Page, along with Compact Maps Set 1, which can no longer be found ANYWHERE on the Web. Doug's page has since expired.
+
+Then, I started work on The Castle of Lost Souls, which was actually called Mega-Trainer for quite a while, and which I completed about a month later. It was marginally better than Castle Xeen. It was completed around March 1996, along with Compact Maps Set 2. The Castle of Lost Souls also surfaced on Doug's page.
+
+Everything about Xeen and Lost Souls was shoddy and immature. The levels weren't very good, and neither were the abstracts. They were incredibly immature and childish.
+
+I updated Xeen and Lost Souls and uploaded them to Info-Mac. They can still be downloaded today. The readmes were real immature and corny. What follows is a little promo for Dragon Cavern/Fortress of Fear found in the Castle Xeen 2.0 Readme:
+Coming Soon:
+
+The Dragon Cavern!
+	You are Hans D. Fritz. After defeating Hitler and Dr. Schabbs once again, you leap out of a window. Whoa! It's storming outside! In an attempt to get back into the castle, you are struck by lightning! You awake in a dark place! What's a French soldier to do?
+
+See what I mean? Immature.
+
+I started work on Dragon Cavern I promoted Dragon Cavern like there was no tomorrow. In reality, the levels weren't THAT good. They aren't at all as good as ANY level from Castle Wolfenstein.
+
+While working on Dragon Cavern, I met up with Joel Adams, who worked for WolfAddict Software. We became partners and created a VERY popular Wolfenstein 3D page, J.J's Wolfenstein 3D Reviews (or something like that). There, we reviewed anything that had to do with Wolfenstein 3D for the Macintosh. I even promoted Dragon Cavern there. Also, J.J's Reviews is where The Bugs and Daffy Voting Page (my brainchild) got its start. The site closed down around August.
+
+Dragon Cavern came out around April, but it had serious bugs which were fixed by a man named Bob Thijs. After that, Dragon Cavern 2.0 debuted. Along with Dragon Cavern 2.0 came Tiger Cavern, Compact Maps Set 3, Compact Maps fer 1st Set 1 (1st Encounter Compact Maps), The All NEW MONDO Wolfenstein Sounds (no longer found anywhere on the Net), Tiger Hacks, and The Wolfenstein Funhouse (the less I say about that disaster, the better). 
+
+Around June, I started work on Return to Castle Xeen, which later became First Strike.
+
+Return to Castle Xeen was the first scenario I created with WolfEdit 2.0. It took advantage of a few of its features. A later version, before it became First Strike, featured a few custom graphics.
+
+In late 1996, Return to Castle Xeen Beta 2.0 debuted on Info-Mac as part of Bad to the Bone, a small collection of my scenarios.
+
+I began work on Temple of Doom in mid-1997. This was the cruelest scenario I had ever created. There were tons of enemies to kill and tons of dirty tricks, as well as many custom graphics. Temple of Doom III debuted on Info-Mac in late 1997. Unfortunately, Temple of Doom III had a horrible bug which rendered it unplayable on Power Macs. First Strike 1.0 came out around this point, too.
+
+In early 1998, I began work on Castle Wolfenstein. Because  Temple of Doom had been so cruel and unkind to the player, I decided to make this a gentle scenario. The levels were top-notch. I even started to use some special effects. Version 1.1 debuted on Info-Mac in April 1998.
+
+I ceased work on Castle Wolfenstein with the exception of the creation of a few levels during the summer. Around August 1998, I started working on it again with a vengeance. I tossed the sissy nice-guy atmosphere and made the levels as cruel as humanly possible. I also added a TON of custom graphics. Castle Wolfenstein 3.0 debuted in November 1998.
+
+Also, I had noticed that nobody had uploaded anything to the Wolfenstein section of Info-Mac since April. So, I threw together 36 scenarios that I thought were good (most of them mine) and named it Awesome Resurrection. It debuted on Info-Mac around September.
+
+Following Castle Wolfenstein 3.0 came Wolfenstein Adventures, Temple of Doom 4.5 (the bug-fix of that grevious bug mentioned earlier), Fortress of Fear (Dragon Cavern renamed), First Strike II (with custom graphics), WolfenPC, and Compact Maps Set 5 (ALL of my Compact Maps).
+
+Packages of scenarios I distributed to Info-Mac included Awesome Resurrection 1 and 2, Wolfenstein Around the World, Macinstein 3D, Breakthrough Deluxe, The Scenarios of Laz, Through the Portal, and Wolfenstein Classics (included with Castle Wolfenstein 3.0).
+
+I again ceased work on Castle Wolfenstein until March 1999. I am in the process of adding special effects to all of the levels as well as the last final levels. The third and possibly final release will be in April or May.
+
+Will I continue work on Wolfenstein 3D? Only until I stop getting ideas for scenarios. I've already thought up names and themes for my second set of Wolfenstein Adventures.
+
+If you have any questions of anything I mentioned here, e-mail me at copperfield@worldnet.att.net  
+
+Version History
+I love version histories. I think they're interesting. Therefore, I've included a version history of Castle Wolfenstein.
+
+1.0-First version. Had light blue wall. 4 levels.
+
+1.1-First public release. 4 levels
+
+1.2-6 levels
+
+1.5.1-1.5.3- 20 levels, some new graphics
+
+2.0-33 levels. Many new graphics
+
+2.1-35 levels. Some more graphics changed.
+
+2.2-37 levels
+
+2.3-39 levels
+
+2.4-40 levels
+
+3.0-42 levels. First official public release.
+
+3.3-44 levels. Graphics added and changed.
+
+3.5-45 levels. Treasures changed to goodies.
+
+3.8-48 levels. Added many special effects to 1-1, 1-3
+
+3.8.1-48 levels. Added special effects to 1.4-3.1   
+Questions?
+
+If you're stuck in a level and can't figure out what to do even if you've looked at it with WolfEdit 2, you can always ask me.
+
+Just e-mail me at
+copperfield@worldnet.att.net
+
+My response time is usually less than two days.
+
+Also, visit my web page at:
+http://www.geocities.com/ResearchTriangle/System/1634
+or
+http://members.xoom.com/juhki/index.html
+
+Also, I'm looking for other places to distribute my scenarios. Apple killed Info-Mac (during the Gil Amelio Era...blechh!), and that was my primary source of distribution. If you know of any service similar to Info-Mac, send me an e-mail and tell me about it!
+
+Folks, Wolfenstein may be ancient, but it's still great. I'm one of the very few people still making Wolfenstein levels. Let's hope I keep making them.   
+ 
+Bugs and Future Releases
+
+Castle Wolfenstein 3.8 is not completely perfect. Levels 8-1 through 8-4 have not been extensively tested.
+
+If you have any bugs you wish to report, e-mail me at copperfield@worldnet.att.net
+
+Also, many scenarios on the Internet include a storyline. Past storylines for my previous scenarios have been rather childish and immature.
+
+Take a look at the storyline I have in this readme (Chapter 3). If you can come up with an intricate and interesting story based on what I've written, e-mail it to me at copperfield@worldnet.att.net
+
+If I like it, it will be included in the next release of Castle Wolfenstein and you will receive credit for writing it.   
+Other Products
+I have many, many other scenarios and related things circulating the Internet. Most of them can be found at Info-Mac, but you may never know where they pop up.
+
+Castle Xeen 1.0
+My first scenario ever. 39 levels. Pure, raw action with plenty of level flaws.
+
+Castle Xeen 2.0
+A marginal improvement over version 1.0.
+
+Castle of Lost Souls 1.0
+My second real scenario. 40 levels. Pure, raw action with a lot less flaws than Castle Xeen. Version 2.0 never came out.
+
+Dragon Cavern/Fortress of Fear
+My third real scenario. 25 levels. Simple puzzles and many enemies to shoot at. A perfectly good scenario. Some early versions had a serious bug that ended the game too early.
+
+Tiger Cavern
+Supposed to be a First Encounter version of Dragon Cavern. 6 levels. Didn't catch much notice, so I dropped it.
+
+First Strike/Return to Castle Xeen
+My fourth scenario and the first scenario designed with WolfEdit 2.0. 25 levels. A cross between Dragon Cavern and Temple of Doom. Not too easy, not too hard, but I never really finished it.
+
+Temple of Doom
+One of my masterpieces. 31 levels. Tough. Really tough. Cruel. Unkind to the player. Early versions crashed Power Macs. Version 1.5 corrects this partially.
+
+Castle Wolfenstein
+My latest scenario and one of my finest masterpieces. Currently at 40 levels, but always growing. Features new graphics.
+
+Compact Maps Sets 1-4
+Small, one to three level scenarios with levels lifted from my other scenarios.
+
+Wolfenstein Adventures
+Totally original levels of high quality. The replacement for the Compact Maps.
+
+Compact Maps Set 5
+All of my Compact Maps, including early versions of the then-unnamed Wolfenstein Adventures.
+
+Awesome Resurrection 1
+36 scenarios created by various Wolfenstein authors, including me, rereleased to the public.
+
+Awesome Resurrection 2
+36 more scenarios created by various Wolfenstein authors.
+
+Wolfenstein Around the World
+Scenarios from Demark and Japan.
+
+WolfenPC
+10 sounds from the PC version of Wolfenstein 3D ported to the Macintosh.
+
+Compact Maps Set 6
+One-level scenarios with levels taken from Castle Wolfenstein and Temple of Doom.
+
+---------
+Coming soon (maybe)....
+
+Castle Wolfenstein '99
+The final release. 40 levels total. Featuring new enemies, objects, walls, and treasures.
+
+Awesome Resurrection 3
+25-36 more scenarios for the true Wolfenstein addict!
+
+Fortress of Fear 2.0
+Featuring new graphics!
+
+First Strike III
+Featuring more new graphics!
+
+Wolfenstein Adventures II
+More original, short scenarios.
+
+Castle Claustrophobia III
+Combining the closed-in concept of Castle Claustrophobia and my dirty tricks to create a great scenario!
+
+Wolfenstein Around the World II
+Should I ever find another foreign web site with Wolfenstein scenarios, I will package them into Wolfenstein Around the World II!
+
+Custom Graphics Pak
+Currently in the works. A huge collection of custom graphics you can use in your scenarios.
+
+--------
+Readme updated 3/13/99
