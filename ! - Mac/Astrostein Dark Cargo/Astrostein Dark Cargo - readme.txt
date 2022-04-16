@@ -1,0 +1,6 @@
+On and on we go, where we end up nobody knows...
+
+We've had some pure mapsets lately, so I think it's about time for a total conversion. Actually, maybe that's a bit of a generous descriptor, since the new graphics in here come from other mods, but still... Astrostein: Dark Cargo by Casey Renz offers three maps set in the world of Astrostein, and by this I mean it takes a mixture of Astrostein graphics, predominantly from the second and third part of the series, and builds a three-level scenario on this foundation. These maps are medium-sized and somewhat resemble vanilla Astrostein mapping in style. Although the subtitle "Dark Cargo" sounds evocative, the very small accompanying text file provides sadly provides no backstory. There are also no new sounds, plus I had to use the Astrostein 3 IGA*/VGA* files as I encountered errors while extracting graphics from the scenario resource branch (the first time I've ever had any issues with that), so caveat emptor. I did all I could. It should still be an enjoyable experience if more Astrostein is just what you need today.
+
+===CREDITS===
+Casey Renz.
