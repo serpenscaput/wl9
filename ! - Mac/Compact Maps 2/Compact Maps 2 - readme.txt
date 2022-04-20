@@ -1,0 +1,4 @@
+It should go without saying (not really) that it's Josh Mills time now. Compact Maps 2 is the second out of at least six small map compilations released by Josh Mills over time. Just like the previous release of the series, Compact Maps 2 includes four floors. Castle of Lost Souls Dungeon is something we've already seen before, included for completionist reasons. The remaining maps - Chamber of Torture, Save the Lone Guard and Worse than Hell - are also based on Castle Xeen, Castle of Lost Souls and Dragon Cavern levels. Despite the name "compact", they actually vary significantly in size, but they do consistently offer lots and lots of enemies to kill. Go get some blood on your hands.
+
+===CREDITS===
+Josh Mills.
