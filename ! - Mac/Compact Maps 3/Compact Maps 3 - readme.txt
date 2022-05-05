@@ -1,0 +1,4 @@
+Compact Maps 3 by Josh Mills. I have said so much about the man in previous posts that I no longer know how to introduce him without repeating myself... Except, whoops, I just did! Never mind. Compact Maps 3 includes four single-map scenarios. In Bring Home the Cheese, the author promises lots of secret doors and suggests drinking a lot of Coke before playing (don't ask me why). In Call in Sherlock Holmes, there's... a lot of secret passages again. In If You Look Closely Enough... the author says you will have to depend on objects to win, and in Let's Play Tag, lots of quick Officers will stand in your way. That's all, have fun.
+
+===CREDITS===
+Josh Mills
