@@ -1,0 +1,6 @@
+Dermuda's very first scenario, Meginstein, consists of 22 maps (one secret) for the Third Encounter (although it was initially written in unregistered WolfEdit for the Second Encounter). The maps are generally small and quick, each offering its own challenges despite the limited size. You will encounter lots of enemies and every boss the game has to offer. There's often tons of ammo and weapons to counter the hordes of enemies you encounter, though this is not always true and sometimes you have to deal with severely limited resources. Generally speaking, the scenario was planned to be a quick, fun romp; as such, it does its job.
+
+Trivia: the name Meginstein is a conflation of "Mega" and "Wolfenstein". The scenario was good enough to earn a spot on Clubey's top scenarios list and stay there for the remainder of the website's lifespan. Part of the mod was designed in co-op mode, where Dermuda and his sister would sit in front of the computer and discuss map ideas; at least one quarter of the scenario was designed this way. Dermuda's sister was also planning a fruit-themed sprite set for Meginstein, but it was never completed. 
+
+===CREDITS===
+Dermuda and Dermuda's sister
