@@ -1,0 +1,10 @@
+Hey there! This time I'm bringing you, after a long time, the full version of a previously ported demo. It's a fairly well known one: Little Schabbs of Horror by Jon Wigand. Let me copy-paste the original post here:
+
+"This time I bring you the demo (unfortunately, so far I were unable to locate the full version) of what promised to be a major and pretty interesting mod. Called Little Schabbs of Horror and made by Jon Wigand with assistance from (among others) Laz Rojas, in its current form it has five maps for the Third Encounter, plenty new graphics and some sounds. The story is a slightly odd deal. Germany is losing the war, but doctor Schabbs' Mutants are growing in numbers and pulling off unexpected victories. Having shut down the Oświęcim camp and ransacked Hitler's private quarters (what was he doing there?), you find top secret documents outlining the existence of clandestine targets where the Mutant experiment is being continued and perfected. Fast forward a bit and you're airdropped next a black hole fortress that emits no light. Go inside, destroy a force of Mutants, and throw a wrench in Schabbs' experiments.
+
+Having consulted the attached documentation and corrections sent by Dermuda (thanks!), I have concluded that Jon Wigand used the help of WolfAddict software to distribute his mods. He also did some minor graphical work for them. When WolfAddict collapsed, Jon moved on to distributing mods on his own, the last remnant of their cooperation being in the shape of a very, very similar ordering form."
+
+The full version that I have comes with no documentation, so I can't say much other than you're getting 30 (often long and difficult) maps with almost all new sprites and textures (more than in the demo). Everything else in the description still applies. Have fun!
+
+===CREDITS===
+Jon Wigand with some outside help
