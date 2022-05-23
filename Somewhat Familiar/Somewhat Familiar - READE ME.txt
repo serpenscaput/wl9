@@ -1,0 +1,23 @@
+=+= SOMEWHAT FAMILIAR =+=
+
+Greetings player! Thank you for downloading and playing my fifth release, Somewhat Familiar!
+This is just a mapset with the good, old vanilla graphics. No new fancy additions this time...I think...
+This mapset spans 5 floors, 3 regular, 1 boss, and 1 secret, with each floor balanced for a pistol start.
+This can be played on any Wolf3D port, be it DOS, SDL, or EC & LZWolf.
+Just drag and drop a Wolf3D exe with no coding changes and other necessary files, and you're ready to roll!
+
+This mod was made using the following utilities:
+* WDC = for making maps
+
+Thank you again for downloading this mod! Happy Wolfing!
+If you'd like to contact me, you may find me at:
+
+Emails:
+justyzam@gmail.com
+justyzam@yahoo.com
+
+DHW: Justy Zam
+Wolfsource: Justy_Zam
+Haven: Justy Zam
+
+Made in May 2022.
