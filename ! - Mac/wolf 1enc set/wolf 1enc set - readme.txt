@@ -1,0 +1,4 @@
+Here is a set of five single-level scenarios for the First Encounter, made (probably) by Zonoenx. Each map is meant to represent a different kind of challenge. So, according to the readme: scenario 1 ("Tough luck") is made to check if you're always prepared for anything you can encounter in the castle. Scenario 2 ("The adventure") is meant to resemble a multiple-choice test with various tricks. Scenario 3 ("Espionage") has you infiltrating an enemy base - you have to make it outside without alerting them. Scenario 4 ("Boss pain") is just a ton of bosses. And scenario 5 ("Asprin don't work") has you hunt down several fake crosses filled with asprin and stolen by the nazzies. Good luck!
+
+===CREDITS===
+Zonoenx
