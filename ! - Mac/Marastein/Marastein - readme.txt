@@ -1,0 +1,4 @@
+In Marastein (demo) by Kris Norberg we have something fairly well known that nonetheless never progressed past a certain stage of development. My copy does not come with any documentation, but we can try and infer something. Kris Norberg was associated with WolfAddict (listed by name in some catalogues, if memory serves), so this was presumably going to be a scenario sold via WolfAddict. The new graphics (both textures and sprites) feature symbolism likely associated with some sort of organization, presumably evil. Throughout the single map, you fight enemies bordering on fantasy and science fiction, sometimes of wicked bodily proportions. All in all, it's an interesting proof of concept for something that never materialized.
+
+===CREDITS===
+Kris Norberg
