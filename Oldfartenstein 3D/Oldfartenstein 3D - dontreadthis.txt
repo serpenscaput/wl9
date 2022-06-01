@@ -1,0 +1,125 @@
+----------------------------------------------------------------------
+
+Title: 		Operation: Golden Years aka Oldfartenstein 3D
+Version: 	1.0
+Date: 		5th May 2022
+
+Authors: 	Team Fugitives
+Contact: 	http://diehardwolfers.areyep.com/
+		https://discord.gg/923N3gw7
+
+Webpage: 	https://www.moddb.com/mods/operation-golden-years
+		http://wl6.fandom.com/
+
+Maps: 		10
+New Graphics: 	Yes
+New Sounds: 	Yes
+New Music: 	Yes
+New Features:	Yes 
+
+
+
+30 YEARS OF WOLFENSTEIN 3D:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Anyone reads this far or even clicks on a readme file anymore?
+
+In 1992 and again in 1995 id Software released a game and tool that
+has spawned fun, ideas and creativity for players around the world 
+for many years. 
+
+Anyways, to celebrate Wolf3D's 30th Anniversary and 30 years of modding
+history, we, a group of dedicated lunatics, have gathered to create 
+a somewhat entertaining tribute.
+
+We hope to inspire more players to join this lunacy and keep the
+mod scene going for at least another 30 years.
+
+
+
+FEATURES:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+On demand the obligatory feature list. 30 years have passed some things 
+got rusty and to ensure newcomers don't get lost in vast mazes it comes 
+with a few changes.
+
+
+* Blood carnage (Aderlass to keep up with Wolf3D's edge for the next-gen audience)
+* Blood on the walls (Not the Manny Charlton Band song)
+* Vintage colors (The ray-printer ran out of ink)
+* Changed floor and ceiling colors (have more color in your life)
+* WASD controls (for the noobs)
+* Mouse forward movement toggle (for the newbs)
+* High quality ogg audio (We are not deaf yet)
+* Sprite shadows adjusting to floor color (fuck brown MAC shadows on grey floor)
+* Bullet trails (cause you are in the byte Matrix)
+* Wall marks (For extra carnage)
+* Extra Lives at 100K instead of 40K due to inflation
+* 6 postcards to drop (We couldn't afford any automap system)
+* Distance counter (Google maps didn't work so you got to play Marco Polo)
+* Adjusted player and enemy attributts (Bit of necromancy here and there)
+* Weapons are borked or not
+* Increased map limits so less expensive duct-tape is needed
+
+* 5th Difficulty for hitscan-maze-deficient people
+* Guide bot on the 5th difficulty helping the blind and reflexless 
+
+
+
+THE TEAM:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Reddimus of Nep		pixel plotting
+Tris			pixel plotting
+Justy Zam		pixel plotting
+Orka			pixel plotting, sound slapping
+Atina			pixel plotting, team terrorizing
+
+Nexion			matrix mayhem, pixel plotting, bot brains
+
+serpens			map making (E1M1, E1M4, E1M7), tale telling
+Thomas Weiling		map making (E1M2, E1M3, E1M5, E1M6, E1m8, E1m9)
+Gerolf			map making (E1M10), pixel plotting
+
+AstroCreep		music mixing
+Ryu-sama		vocal voicing
+
+id Software		Wolfenstein 3D and the engine.
+
+Community		30 years of mod madness and engine exploration.
+
+
+
+TECHNICAL HELP:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+You may try to run the executable using following commandline options 
+via a shortcut or a batch file.
+
+[.exe --nowait --windowed --res 1280 800]
+
+--goobers	Enables debug mode.
+--nowait	Skips the intro screens.
+--windowed	Game running in windowed mode.
+--res x y	To set the video resolution (e.g. --res 960 600)
+
+
+DIFFICULTY:
+
+If you have never played any shooter before in your life we recommend
+picking the 5th option in the difficulty menu or simply hit the 
+power button of your machine. 
+
+
+COLOR MODE:
+
+If the colors are blinding you try turning them off in the options.
+
+
+
+COMMING SOON:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Episode 2 and 3 featuring 20 confusing mazes.
+
