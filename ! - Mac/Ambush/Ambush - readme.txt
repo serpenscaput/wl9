@@ -1,0 +1,3 @@
+Our first mod is called Ambush. Made by JDG, it features 30 maps for the Third Encounter (although the last dozen are actually vanilla maps) and a bunch of... interesting new graphics. The story: it's the late 1940s and you're deep inside a Nazi dungeon. Having made some unspecified discovery on your way, you need to get out and relay your dangerous knowledge to your superiors. The maps that are actually new are mostly small, generally featuring close quarters, often snaking single-square corridors, although there are some exceptions among the earliest maps. Worth checking out if only to experience the rather unique graphics style.
+
+===CREDITS===
