@@ -1,0 +1,4 @@
+Wastelands (or Wolfenstein-Wastelands) by Patrick Ackerman. Nine maps for the Second Encounter with a lot of new walls. You are Philip Blazcowickz and you live in an alternate timeline where three main military groups rule over the world: the Nazis, the Tribe and the Alliance (the latter being the "good" one). When you were young, the Tribe leader killed and ate your family, and then you were captured by the Nazis. Having been given a gun by an Alliance member, you muster an escape attempt. There is a detailed storyline readme detailing your efforts throughout almost every map of the game: your actions will get you cryogenically frozen for 200 years and detonate a massive bomb that opens a mountainside tunnel for you to explore, among other things. An interesting scenario overall.
+
+===CREDITS===
+Patrick Ackerman

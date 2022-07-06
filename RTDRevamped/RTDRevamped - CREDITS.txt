@@ -1,0 +1,65 @@
+	"Wolfenstein 3D", "Wolfenstein Spear of Destiny", the "Wolfenstein 3D" logo, "Doom",  and all images or content taken
+from them are Copyright id software,
+
+MADE BY PABLO.GONZALES.2006
+
+--------------------
+
+	VileR - Remastered the tracks "POW" "Jazzin' Them Nazis" "Wondering About My Loved Ones" and "Death to the Nazis"
+	Bobby Prince - Composing the OG Spear of Destiny and Wolfenstein 3D soundtrack
+	BrainStewX - Remastering "Tiptoeing Around" "The Tower" "Funkie Colonel Bill" "The SS Gonna Get You" "Puttin' It To the Enemy" and "Evil Incarnate"
+	Nautilus - Remastering "Award Ceremony" "The Ultimate Challenge" "Twelfth Hour" "Nazi Anthem (Ominous)" "Zero Hour" and "U R A Hero!"
+	iLikeTheUDK - Remastering "Get Them Before They Get You" "Going After Hitler" "Into The Dungeons" "Searching For The Enemy" and "Suspense"
+	Linuxwolf - Making LZwolf
+	Blzut3 - Making ECwolf
+	Wolf Skevos Jones - Scientist Sprites, Chaingunner sprites, and SS flag sprite
+	Medal of Honor Allied Assault - Scientist alert sound
+	DoomJedi - Toilet Sprite
+	JustyZam - Eagle Decoration on the Marble, and the Smooth pillar
+	MeatySpag - concept for Floor 22
+
+--------------------
+
+Weapons:
+
+	-Knife
+	
+	-Pistol
+	
+	-Machine Gun
+	
+	-Chaingun
+
+--------------------
+
+Enemies:
+
+	-Attack Dog
+
+	-Guard
+	
+	-Officer
+	
+	-Scientist
+
+	-Schutzstaffel
+	
+	-Mutant Bat
+	
+	-???
+
+--------------------
+
+Software Used:
+
+	WDC by Adam Biser
+	Paint.net
+	Photoshop
+	Slade
+	ChaosEdit by ChaosSoftware
+	Audacity
+	Notepad ;)
+
+--------------------
+
+IF THERE WAS ANYONE I MISSED PLEASE LET ME KNOW IMMEDIATELY (big guy#3435)
