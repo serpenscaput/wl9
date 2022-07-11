@@ -1,0 +1,82 @@
+Officer Sprite:
+	WSJ
+	JustyZam
+	Formgen
+	
+SS sprite:
+	Orka
+	ID Software
+
+Pistol Sprite:
+	Chiseled
+	
+MP40 sprite:
+	Chiseled
+	
+Fancy Officer Sprite:
+	WSJ
+	JustyZam
+	DoomJedi
+	Formgen
+	
+Chaingunner Sprite:
+	WSJ
+
+Flamethrower Guy Sprite:
+	WSJ
+
+Rocketeer Sprite:
+	WSJ
+	Formgen
+	
+Guard Sprite:
+	Possibly WSJ???
+	ID Software
+
+Rocket Sprite: 
+	WSJ
+	
+Rocket Explosion Sprite:
+	ID software
+	
+Fire Sprite:	
+	WSJ
+	
+First Aid Kit Sprite:
+	Chiseled
+	
+Flag Sprite:
+	JustyZam
+	
+Desk Sprite:
+	WSJ
+	
+Barrel Sprite: 
+	AReyeP and MCS
+	
+Blood and Water Sprite:
+	WSJ
+	
+Well Sprites:
+	WSJ
+	
+Cage Sprites:
+	AReyeP and MCS
+	
+Suit Of Armor:
+	AReyeP and MCS
+
+Ceiling Light:
+	AReyeP and MCS
+	
+Key Sprites:
+	AReyeP and MCS
+	
+Table Sprites: 
+	The Artists of Trench Warfare
+	
+Barrel Sprite: 
+	JustyZam
+	
+CREDITS FOR TEXTURES ARE IN THE MAIN FOLDER!!!!
+	
