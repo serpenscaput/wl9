@@ -1,0 +1,4 @@
+Now then, Adolf's Gymnasium is a 15-map Third Encounter scenario by the prolific John Wigand. The readme promises rather wicked stuff in terms of storyline: you're assaulting Hitler's academy for the Third Reich elites, promising that you will learn something about Hitler's occult fascinations and fight his elite football team, among other things. In practical terms though, this scenario is a pure mapset, no graphical changes that would reflect the readme storyline in any way. Mapping is fairly varied and a bit inconsistent, ranging from interesting maps early on to what is essentially a huge straight line later on. I also get the feeling that some of the late maps are actually modified WolfMaker floors, although I can't say for certain; some hallmarks seem to be present, but it's possible I'm completely off the mark on this one. Either way, try it out and see how you like it.
+
+===CREDITS===
+Jon Wigand.
