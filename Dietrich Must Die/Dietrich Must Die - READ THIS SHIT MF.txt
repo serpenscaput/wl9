@@ -1,0 +1,93 @@
+	---STORY---
+
+		You are awoken by the sharp sound of a train whistle, a great contrast to the low rumble of 
+	the locomotive chugging down the track. You have no issue opening your eyes, considering you 
+	can't see anything anyways. Moments later the train seems to come to a screeching halt, and 
+	yells from Germans are hardly heard through the cold steel. The door is yanked open 
+	and a breeze flows in. Before you have a chance to react you are thrown from the train car onto
+	the dirt. 
+		As you look around the environment. Germans are everywhere. Herding these people into 
+	buildings like sheep. It's hard to focus. A rancid smell eminates from a building to your left, 
+	and former men and women are being sorted and dehumanized. One group sent to the "Labor," one 
+	sent to the "Arbeitsbereich," and one sent to the "Entsorgung," like hell I know what it means. 
+	They "Don't deserve names." Disgusting. When the guards aren't looking you sneak under a train 
+	carraige to the other side. 
+		As you fumble to your feet and rub your chin, a German engineer 
+	turns around, and his eyes open wide, realizing the situation, "Halt! Du solltest nicht wieder
+	hier sein!" Looks like we aren't welcome here. You grab a wrench from his toolkit and swing it 
+	fullforce towards his head. With a crunch and a splatter his jaw hit the floor. Didn't even have
+	a chance. You rummage through the various pouches and pockets in his uniform. "Nothin'." This 
+	facility needs to be taken care of, but I need to get back to allied heaquarters. Turning to the right, you 
+	discover a pistol sitting on a crate. "This'll come in handy." You top off 
+	the clip, cock back the slide...
+	
+	And get psyched.
+	
+	---MISSIONS---
+	
+	Mission 1: Trainyard
+	
+	Mission 2: Bahnhof
+	
+	Mission 3: First Class Ticket
+	
+	Mission 4: Dockyard
+	
+	Mission 5: U-Boat
+	
+	Mission 6: Outpost
+	
+	Mission 7: Basement
+	
+	Mission 8: Ground Floor
+	
+	Mission 9: Chamber
+	
+	Mission 10: Dietrich's Office 
+	
+	Secret Level: ?????
+	
+	---DISGUISE-MECHANICS---
+	
+	In level 4, you have successfully gained an officer's uniform, and using the documents you discovered 
+	on the Conductor's corpse, you learn that boarding the U-423 and travelling to a base miles away 
+	will be the only way back to the frontlines. 
+	
+	Press 6 on your keyboard to bring up your papers. SS guards will stand in front of vital doors you
+	will need to gain access to. Another type of sentry sits behind a glass wall. They require the highest
+	clearance possible, 3rd level, and can't be killed. Flash your papers and if you have the correct level, they will
+	let you pass. Giving them the wrong papers won't make them raise the alarm though. Just be sure to take
+	a good look around and don't be afraid to pick off a few special targets on your way. Taking out your 
+	weapon will alert any enemies that can see you, and while it's out your disguise is useless.
+	
+	---LEVEL-8---
+	An SAS force has been dispatched to rescue you, but you don't need rescuing. You've got a job to do.
+	
+	---ALARMS---
+	
+	Alarms will be tripped after a certain amount of time after being alerted. Shoot them!
+	
+	---VAULTS---
+	
+	With enough firepower, you can break through vault doors, and gain all the goodies inside.
+	
+	---CREDITS---
+	
+-RussianStorm on Youtube.com - playtester
+-Balames3D on Twitch.tv - playtester
+
+-ZikShadow  -  Nazi Passport
+-Master Sheet/Monolith
+-HazeBandicoot and worrior  -  STG44
+-WSJ  -  Various Enemy Sprites
+-Jazzmaster9  -  POW sprites
+-ZioMccall - "Schutzstaffel!" Sound
+-Reactor - IMFpack Music
+-AstroCreep - Various gore and gun sounds.
+-Rich Douglas - Epic music used in E1M10
+-MinecraftM153 on Freesound.org - Fan woosh sounds
+-InspectorJ on Freesound.org - Many of the ambient, and mechanics sounds.
+-Creators of MoHAA for various textures and sounds
+-Creators of BoA for some wonderful resources!
+-Creators of Operation Serpent for the Stalagmite and Tite sprites
+-ElectricPulse - Kar98k Sprites

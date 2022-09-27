@@ -1,0 +1,39 @@
+	---IMPORTANT FEATURES YOU MUST KNOW---
+	
+	
+	
+	-Barrels
+		-You can break wooden barrels. They always drop loot.
+	-Doors
+		-A door with RED lining at the bottom means you cannot enter from that side, but you can from the other.
+		-A door with GREEN lining at the bottom means it is a one-way door, but you are facing the side you can go through.
+		-A door with BLUE lining means that it requires a BLUE key.
+		-A door with GOLD lining means that it requires a BLUE key, and cannot be opened by enemies.
+	-Grenades
+		-Grenades are found in supply rooms, and sometimes dropped by officers, pressing 5 automatically throws a grenade, then prepares another. Press [FIRE] again and it will throw one more, and you can carry up to 3.
+	-Weapons
+		-Knife...	...Slot 1
+		-Pistol...	...Slot 2
+		-Mp40...	...Slot 3
+		-Chaingun...	...Slot 4
+		-Dual Chaingun...	...Slot 4
+		-Grenade...	...Slot 5
+
+
+		---CREDS---
+
+
+-ElectricPulse
+	-MP40 Sprites
+-Captain J
+	-MP40 Ammo Pouch
+-DoomJedi
+	-All enemy sprites, guy did some great work!
+-
+	-
+	
+	
+	-IF THERE WAS ANYONE I MISSED PLEASE LET ME KNOW.
+	
+	
+	

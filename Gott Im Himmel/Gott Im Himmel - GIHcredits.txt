@@ -1,0 +1,55 @@
+CREDITS
+-Mapping: Pablo.Gonzales.2006
+-Story: Pablo.Gonzales.2006
+-Music: Andrius Klimka (World of Tanks OST) and Bill Brown (RTCW ost)
+-Propaganda Ministry (Twitch.tv): RussianStorm, Robert_Douglas, and BalamesTV
+
+
+-"Daddy" Wolf Skevos Jones  -  Inspiration, many contributions to the modding community, and of course his enemy sprites, for every enemy except the mutants, dog and bosses! (Guard sprites, SS sprites, Officer sprites)
+
+-DoomJedi - many sprites I'm unsure of. Thanks!
+-Reactor - IMFpack Music
+-AstroCreep - Various gore and gun sounds.
+-Doom by ID - floor graphics and misc sprites
+-InspectorJ on Freesound.org - Many of the ambient, and mechanics sounds.
+-Creators of MoHAA for various textures and sounds
+-Creators of BoA for some wonderful resources!
+-JoeyTD - Alternate knife and mp40 sprite.
+-Wolf3D by ID - scenery blood and skeletons
+-Creators of Eisenfaust Origins - Wooden door textures
+-Mason - BJ sprites
+-Mutant Ubersoldier - created by me using Dunkelschwamm's Wolfenstein 3D boss generator.
+Rifle: Turbo
+
+Taken From Totenhaus:
+
+Doors: Tristan Van Putten/BJ Rowan
+Steel: Tristan Van Putten
+Elevator: Megabyte
+Brown Marble: Ben Blaufarb
+White Marble: Raven Software with spliced pieces by Laz Rojas and BJ Rowan
+Cellar Wall: Raven Software, with spliced pieces by ArEyeP
+Shelves: ArEyeP
+Crates: WSJ
+
+--FLATS--
+Id Software
+AReyeP
+Raven Software
+Megabyte
+Laz Rojas
+Apogee Software
+
+--SOUNDS--
+Nazis: WSJ, Laz Rojas, FormGen, Infinity Ward
+Weapons: WildWeasel, Rogue Entertainment, Id Software, Raven Software
+Ambient: Laz Rojas
+Misc: Id Software, MacPlay Entertainment, Eriance
+
+--MISC--
+Wolfenstein 3D (c) 1992 Id Software.
+All original game media by Id Software. No revenue was gained in the making of this TC.
+
+---IF THERE WAS ANYONE I MISSED PLEASE LET ME KNOW ASAP!!!!---
+
+ 
