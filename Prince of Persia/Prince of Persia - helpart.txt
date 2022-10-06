@@ -1,0 +1,8 @@
+^P
+^C[White]The credits for now
+^c[White]
+-Dunkelschwamm made this
+-AstroCreep helped advise for coding and engineered a bunch of music
+-Jordan Mechner made the original Prince of Persia
+The credits will be better when this isn't just an alpha playtest thing
+^E
