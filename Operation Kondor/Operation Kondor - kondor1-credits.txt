@@ -1,0 +1,53 @@
+Operation Kondor credits
+
+CODE
+----
+Flamethrower and Rocket Launcher - Executor (Coffee Break)
+
+GRAPHICS
+--------
+Intermission font - id Software (Jaguar/Mac version of Wolf3D)
+HUD Icons - JoeyTD
+Title sequence - AstroCreep and Dunkelschwamm
+
+MAPS
+----
+E1L1 - StormOmegaX95
+E1L2 - StormOmegaX95
+E1L3 - ???
+
+MUSIC
+-----
+Operation Nazi Slayer, Uncategorized Music and Unwanted Mission Pack Soundtracks - Orka
+
+SOUNDS
+------
+Adlib Sounds for New Ammo and Weapons - JaM Productions (Blake Stone)
+Battle Droid Sounds - Midway (Doom PSX/Doom 64)
+Bio Blaster, Brain Droid, Cyborg Hulk and El Diablo Sounds - id Software (DOOM 2: Hell on Earth)
+BJ Clone and Super Soldier Sounds - id Software (SNES version of Wolfenstein 3D)
+General Lukas Jäger Sounds - Monolith (BLOOD 2: The Chosen)
+Major Strasser and Seargent Schwarz Sounds - FormGen (Spear of Destiny's Lost Episodes)
+
+SPRITES
+-------
+Ammo Sprites for the New Weapons - Wolf Skevos-Jones (Weapons of Vengeance and his other mods)
+Ammo Box Sprite - id Software (Spear of Destiny)
+Backpack Sprite - Doomjedi (SplitWolf)
+Balrog, Battle Droid, Brain Droid, Cyborg Hulk and Mad Scientist Sprites - JaM Productions (Blake Stone Aliens of Gold and Blake Stone Planet Strike)
+BJ Clone, El Diablo, General Lukas Jäger, Major Strasser, Sergeant Schwarz abd Super Soldier Sprites - Majik Monkee (Monkee's Image World)
+Chaingun Sprites - id Software and JoeyTD (Wolfenstein 3D)
+Flamethrower and Rocket Launcher Sprites - gerolf and JoeyTD (Wolf3D.net)
+Knife and Pistol Pickup Sprites - gerolf (DHW Forums)
+Protomutant Sprites - General BlitzKanonier (Monkee's Image World)
+Sword of Corvin Sprites - Raven Software (Hexen)
+
+SPECIAL THANKS
+--------------
+id Software for making some of the greatest games ever made
+Majik Monkee for making one of the greatest yet hardest mod series ever: Operation Mutant Strike
+You for playing
+
+Wolfenstein 3D (c) 1992 id Software.
+All original game media by id Software. No revenue was gained in the making of this mod.
+Apologies to anyone whose work was used but either overlooked or forgotten when I audited the mod assets.
