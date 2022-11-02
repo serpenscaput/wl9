@@ -1,0 +1,15 @@
+
+STR_DADDY = "Relax and shoot";
+
+STR_HURTME = "Easy. Please";
+
+STR_BRINGEM = "Default";
+
+STR_DEATH = "I need it hard";
+REGNOTICE_TITLE = "Thank you";
+
+REGNOTICE_MESSAGE = "Thanks for downloading this\nmodification.\nHave a good game";
+
+EPISODE0_TITLE = "Episode 1: \nCastle Wolfenstein";
+EPISODE1_TITLE = "Episode 2: \nEnemy Factory";
+EPISODE2_TITLE = "Episode 3: \nSecret of Red Cross";
