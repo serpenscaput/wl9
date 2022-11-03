@@ -1,0 +1,68 @@
+===========================================================================
+Advanced engine needed  : ECWolf or LZWolf
+Primary purpose         : Single play
+===========================================================================
+Title                   : Zugzwang
+Filename                : zugzwang.wad
+Release date            : 10/31/22
+Author                  : Executor
+Email Address           : spaceforce-temp@hotmail.com
+Other Files By Author   : Spear Revisited, Wolfenstein Sextilogy 3, ECWolf Tech Demo, Return to Totenhaus, Coffee Break Episodes 1 & 2, Wolfenstein Missions 1st Encounter, Wolfenstein Cosmetic Upgrade, Discipline
+Misc. Author Info       : Wolfenstein level designer since 1999. At this point I've
+			  probably written at least 200 maps.
+
+Description             : A single map for ECWolf-compatible source ports built around
+			  the idea of forcing the player to move quickly and with purpose
+			  to escape the hordes of Nazis. The title means "compulsion to
+			  move" in German and refers to a situation in chess where every
+			  possible legal move will expose one to more danger.
+
+Additional Credits to   : Jimmy for the midi "Ron Paul's Robo Rangers"
+			  AstroCreep for IMF conversion
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : No
+DECORATE      		: No
+Other                   : No (describe if yes)
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Wolf3D (WL6)
+Map #                   : ZUGZWANG
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : About 6 hours
+Editor(s) used          : WDC v1.19.410
+Known Bugs              : Guards may trigger the climactic fight early if they take the
+			  wrong route through the map. Good luck surviving that going off!
+May Not Run With        : DOS, WOLF4SDL
+Tested With             : ECWolf 1.3, LZWolf development builds
+
+
+
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
