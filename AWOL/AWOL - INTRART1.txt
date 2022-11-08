@@ -1,0 +1,4 @@
+^P 
+^C[Red]ALARM!
+^c00 You've entered the communications center and the enemy is on high alert. There are alarms placed around the area and only the brown-shirted enemies can activate them. Be sure to kill them before they reach the alarm and call for reinforcements!
+^E
