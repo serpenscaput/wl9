@@ -1,0 +1,185 @@
+Oktoberbloodfest Demo 2
+
+A Wolfenstein 3D Adventure by JMC
+
+------------------------------------
+
+Mission Briefing
+
+B.J., welcome back to Headquarters. We have a new mission for you. A few days ago a prisoner escaped from Wiesnstein Fortress which is located in the Berchtesgaden Alps in Bavaria, Germany. The info he delivered was quite disturbing.
+
+I'm sure you've heard stories about the legendary German army commander Gunther Kuhlmann and his hatred for the Nazis, SS and The Fuhrer. After 20 years of service to Germany he went rogue and started assasinating Nazis, blowing up their secret bases and sabotaging all sorts of things. Until recently he'd been conducting operations with the Allies. He's been a great asset, unfortunately he's been captured along with a multi-national special operations team which includes Magnus Ellsworth of British SAS and Wyatt Brickhouse of US Army Special Forces.
+
+Now here's the sick part of this briefing. The Fuhrer has invited high level Nazis and SS to Wiesnstein Fortress to celebrate a new festival which he's named "Oktoberbloodfest". Large quantities of the finest Bavarian beer have been delivered for the event and "Beer, Brats and Blood" is the festivals slogan. Part of the entertainment will be executing prisoners in the most barbaric ways possible, but we're not going to let that happen. Your primary objective is to rescue Kuhlmann and his team from this grisly fate. They're currently being held in Wiesnstein Fortress and the ancient dungeons below it.
+
+The complex is also being used to store a hoard of stolen Nazi gold. Capture as much of it as you can. There are also rumors of some ancient pirate treasure hidden in the fortress and dungeons.
+
+Lastly, we're always in need of more intel. If you find any top secret Nazi or SS info laying around, secure that as well. It's always useful for the war effort.
+
+This operation is code named: Oktoberbloodfest, Good Luck!
+
+General Charles MacModding
+
+
+------------------------------------
+
+System Requirements and Compatibility
+
+Not all Macs are compatible with Wolfenstein 3D and the scenarios made for it. There's a problem with some G3 and G4 Macs that causes the game to freeze. I've tested this scenario on an iBook G3 Clamshell laptop running Mac OS 9.2.2 and a Power Mac 6500 running Mac OS 8.1. Both play the game without any problems. My G4 400 and 2005 Mac mini (running Mac OS 9) both have the freezing problem. Macs made before 1999 seem to be more stable.
+
+If you have access to Windows there's another option. A project called MacenWolf was created to reproduce the Mac Wolfenstein 3D experience and it can play ports of all of the scenarios made for it. More info about this program is at the bottom of this readme.
+
+------------------------------------
+
+Installation
+
+Place the scenario file in your Wolfenstein 3D "Levels" folder. Start the program, pick "OBF Demo 2" from the list of scenarios. Frag Drunk Nazis.
+
+
+------------------------------------
+
+Weapons
+
+B.J.'s Bloody Boot: When the Nazi's are finished stuffing their faces with potato dumplings and strudel offer them a heaping helping of your U.S. made, size 13, steel-toed combat boot.
+
+Colt M1911 Pistol: The standard issue pistol of the U.S. military. Your pistol is preloaded with 16 bullets.
+
+MP 40 Submachine Gun: The "Maschinepistole 40" is the standard issue weapon of the Nazi SS guards. It includes a handy foldout shoulder stock and carrying strap. Each MP 40 is preloaded with 6 bullets.
+
+The Bavarian Brutalizer Chaingun: This exotic weapon is gold plated and adorned with diamonds and gems. Several of these were given to the Fuhrer as a gift by Baron Otto von Hammerschmidt, a prosperous Nazi weapons manufacturer from Bavaria. The Chaingun is preloaded with 20 gold plated diamond tipped bullets!
+
+Beer Barrels: The horizontal beer barrels can be picked up and used as a weapon, spewing a torrent of the Bavarian beverage. The Apple logo items will refuel your barrel. Thanks to Balames for the inspiration for this weapon and for playing Oktoberbloodfest Demo 1 on his YouTube channel.
+
+"I wish I could use the keg." - Balames  https://www.youtube.com/watch?v=9pferbGdOvU
+
+Adlerfaust 999 Rocket Launcher: This weapon launches hypersonic eagle shaped rockets. To save space the rockets are stored and loaded with wings folded. The onboard guidance system is powered by cloned eagle brains. The rocket launcher is preloaded with 5 rockets. This incredible weapons name should always be spoken in a very loud voice "ADLERFAUST! NEIN! NEIN! NEIN!".
+
+
+------------------------------------
+
+Ammunition
+
+Luger Pistol: Each pistol includes 5 bullets. These bullets will be used with your other guns.
+
+Ammo Box: Each box includes 25 bullets for your shooting pleasure.
+
+Backpack: Each pack includes 20 bullets. The first pack increases your maximum to 199, the second 299.
+
+Apples: Each Apple contains 14 units of beer barrel propellant.
+
+Adlerfaust 999 Rockets: Each rocket crate includes 5 rockets.
+
+
+------------------------------------
+
+Objects
+
+Pretzels: These mouthwatering German pretzels are baked in a nearby village and delivered every morning by young blond-haired blue eyed maidens. Each pretzel will boost your health 4 percent. Just don't eat too many or you'll get fat.
+
+Bratwurst: These plump juicy German sausages are served with Sauerkraut and mustard on a wheat roll. Guaranteed to increase your health 10 percent!
+
+Beer Steins: These fancy beverage mugs contain some of the finest beer in the world. These will increase your health 25 percent. Buuurrrrppp!
+
+Nazi Folders: These red folders contain top secret information used by the Nazi party such as war plans, maps and communications with the German High Command. Recover as many as possible.
+
+Nazi SS Folders: These blue folders contain top secret information used by the Nazi SS such as prisoner info, blackmail, execution and assassination plans. Recover as many as possible.
+
+Nazi Gold: These boxes of stolen Nazi gold are strewn across Wiesnstein Fortress. Recover as much as possible.
+
+Treasure Barrels: These rare piles of pirate treasure are hidden throughout the fortress and dungeons.
+
+Prisoners: Rescue any prisoners you encounter. Each prisoner you save will increase your health to 100 percent and give you an extra life, 1-up!
+
+
+------------------------------------
+
+Tips
+
+Use the Map key to find unexplored areas. You can also use a cheat to find the secrets. Try to save the powerful weapon ammo for bosses, don't waste it on weaker enemies. If you're using a G3 or G4 Mac it's a good idea to save your game once in a while in case the game freezes.
+
+
+------------------------------------
+
+Cheats
+
+Type these cheat codes anytime while playing to activate.
+
+APPLEIIGS - Shows secret doors in map mode
+
+BURGER - Gives all weapons and full ammunition
+
+IDDQD - Gives invincibility / Turns off LEDOUX
+
+LEDOUX - Gives invincibility and both keys
+
+MCCALL - Jumps to next level
+
+SEGER - Gives both keys
+
+WOWZERS - Gives full ammunition
+
+XUSCNIELPPA - Gives invincibility and full ammunition
+
+
+------------------------------------
+
+About the Scenario
+
+Oktoberbloodfest Demo 2 is a scenario (a custom map, level or mod) for the Mac version of Wolfenstein 3D. It's compatible with the 3rd Encounter or Commercial version of the game. The demo includes five large levels with lots of new graphics including new wall and door textures, objects, enemy skins, weapon animations and a status screen that works with all four game resolutions. In the future I plan to add new boss skins, change the sounds and add more levels. The biohazard weapon and the rocky mine textures from Demo 1 have been removed but will be back when (if?) a final version of this mod is released. All graphics were created using the pixel editing software Aseprite. Some of the graphics are modified versions of the original Mac Wolfenstein 3D graphics. B.J.'s Bloody Boot animation is based on Duke Nukem 3D's kick. Enjoy!
+
+
+------------------------------------
+
+Other Scenarios I've Released
+
+Oktoberbloodfest Demo 1 - An earlier version released in October 2021.
+
+https://macintoshgarden.org/games/oktoberbloodfest-a-wolfenstein-3d-adventure
+
+
+Wolfen Fatal Fuhrery - This previously unreleased First Encounter scenario was originally created in 1996. It's now playable with Wolfenstein 3D 3rd Encounter or the commercial version. A Special Edition is also included that improves the original maps and adds three new ones. Both versions include a fatal ending that just might enrage you into a keyboard smashing fury. Sorry about that... Enjoy!
+
+https://macintoshgarden.org/games/wolfen-fatal-fuhrery-a-wolfenstein-3d-adventure
+
+
+------------------------------------
+
+Dermuda's Wolfenstein 3D Archive
+
+This is a huge collection of scenarios and utilities for Wolfenstein 3D for the Mac. It is an attempt to produce as complete a collection as possible of all the fan material released for the engine. It is the result of many years worth of work, starting from Dermuda's initial searches for new material to play in the late 1990s, and continuing to the present day.
+
+https://macintoshgarden.org/games/dermudas-wolfenstein-3d-archive
+https://macintoshgarden.org/forum/dermudas-wolf3d-archive-uploaded-help-needed
+https://macintoshgarden.org/forum/searching-mac-wolfenstein-3d-scenarios
+
+A big thanks to Dermuda for releasing this collection! You can check out one of his recent scenrios titled Crimson Kahnage 2021 at the Macintosh Garden.
+
+https://macintoshgarden.org/games/crimson-kahnage-2021-%E2%80%93-a-wolfenstein-3d-scenario
+
+
+------------------------------------
+
+MacenWolf
+
+This is a version of Wolfenstein 3D created by serpens and Nexion for Windows and is based on Wolf4SDL. It's goal is to replicate the look and feel of Mac Wolfenstein 3D. About 300 Mac scenarios have already been ported to MacenWolf which include most releases by Laz Rojas, Clubey, Dermuda, Josh Mills, Ian Brown, Aaron Teplitsky and many more.
+
+https://www.moddb.com/mods/macenwolf
+https://wl6.fandom.com/wiki/MacenWolf
+https://wl6.fandom.com/wiki/Category:Mac_Mods
+http://dhw.wolfenstein3d.com/viewtopic.php?t=8468&postdays=0&postorder=asc&&start=0
+
+Another big thanks to serpens and Nexion for creating this Wolfenstein 3D sourceport!
+
+
+------------------------------------
+
+JMC
+
+jdmck002@gmail.com
+macintoshgarden.org/users/jmc
+
+Made on a Mac... and a PC
+
+10/29/2022
+
+w00t!!!1
