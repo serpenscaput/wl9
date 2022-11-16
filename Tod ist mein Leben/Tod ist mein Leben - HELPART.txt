@@ -1,0 +1,73 @@
+^PAGE 1
+^C7eNovember 14th, 1944
+^c00You slip past the columns into the old castle. Gun at the ready, you scan for any sign of immediate danger
+before allowing yourself the privilege of a breath. 
+^PAGE 2
+Eight weeks ago, Allied intelligence recieved reports of suspicious activity at an old
+lead mine in northern Germany. German rail activity and captured personnel reports
+indicated that recovered Wermacht casualties were all being diverted to a single facility located on Rammelsberg
+mountain. More disturbingly, spies in the German civil administration reported that graveyards and mortuaries were being
+ransacked by armed gestapo agents, with no explanation as to what they were doing with the bodies...
+^PAGE 2
+The horrifying answer came only scant days later as Athens, so recently liberated
+by the Allies was overrun by grey-skinned soliders. Following the expulsion of 
+Allied forces, no reports were forthcoming from the city and subsequent inquiry
+reveals that the civilian population had been all but exterminated. Even worse, 
+aerial reconnaissance showed trains leaving the dead city bound for the same facility.
+
+^PAGE 3
+Further investigation revealed the ambitions of SS-Oberscharfuhrer Doctor 
+Ralf Krebsmeister. Another pretender to the legacy of Dr. Schabbs, Krebsmeister
+gained the favor of Hitler and was given a special dispensation to resume and improve
+on the work of his idol and given a blank check on raw materials and slave labor 
+needed to make this possible. 
+
+^PAGE 4
+Kreb's main center of operations in located in Rugensberg castle in upper Saxony.
+Recent renovations have undertaken to connect the castle to the myriad abandoned mineshafts cut through the 
+mountain below. Most of the production of undead soldiers takes place here to prevent containment breach
+but adiministrative tasks and advanced research takes place in the fortress above.  
+
+
+^PAGE 5
+^G16,16,11
+Your mission is to infiltrate the facility, assassinate Krebsmeister and plant 
+explosive charges along the foundation of the castle. This will bury the mutant production
+facility and eliminate any possibility of another hopeful resuming Schabbs diabolical work. 
+Captain William J. "B.J." Blazkowicz, you've got a gun and five floors of hell 
+ahead of you. Good luck!
+
+
+^PAGE 6
+^c7ePOWER PLAYER TIPS AND TRICKS
+^c00
+^c00 * German chainguns have a enhanced rate of fire but are prone to jamming. Use them judiciously. 
+	 * Pick your battles carefully. Don't get sucked into pointless firefights. Focus on the mission first!
+	 * The castle is connected by elevator to the main mutant production facility. Watch for ambushes!
+     * Don't be too proud to run if you're outnumbered. 
+	 
+^PAGE 7
+^c7eCREDITS AND COMMENDATIONS
+^c00Various sprite and soundwork by John Bucksnort
+Propaganda assistance provided by RussianStorm and Balames87
+Coding assistance by Astrocreep
+^c7eMUSICAL CREDITS
+^c2c"Soviet Connection" by Michael Hunter
+^c2c"Only God can judge me" by Tupac Shakur
+^c2c"Paradise" by Stephane Picq
+^c2c"Gangsta Rap" by Necro and Ill Bill
+^c2c"Easy Lover" by Genesis
+^c2c"233.C" by Bobby Prince
+^c2c"Cradle" by Grant Kirkhope
+^c2c"Escape from LA" by John Carpenter
+
+
+^PAGE 8
+^G80,16,11
+^c7eTHANKS FOR PLAYING
+^c00
+Thanks for playing Tod ist Mein Leben!
+Now go get 'em!
+-Zanu-AF
+(ESC to return to menu.)
+^E
