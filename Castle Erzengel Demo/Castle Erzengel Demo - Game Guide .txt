@@ -1,0 +1,61 @@
+Game Guide 
+Info Tips and Help
+
+DO NOT LET THE AUTO GAMEPLAY "DEMO" START
+crash will occur
+
+* INFO *
+
+Ring Weapon is Magick.
+Your Chi(not ammo), the Chi within sacred artifacts(ammo), and the Chi of your vanquished foes(ammo) will power it, to charge the ring whisper and chant the Solomonic conjurations
+(aka Press Z). In contrast sometimes you must lure enemies out with gunfire to kill them and obtain their key to gain entry to locked areas. 
+
+Standard Pushwalls will kill enemies in their path. Pushwalls can be used to uncover secrets, as well as to create cover and other tactical advantages.
+Secrets are also hidden in other ways.  
+
+
+Controls 
+
+
+ Keys 1-5 Change Weapons
+1 : Knife (Silent Point Black Range Attack)
+2 : Mars Ring (Silent Projectile Weapon for Range Attacks)
+3 : 9mm Weapons (3A semi auto Pistol 3B Machine Pistol) 
+4 : N/A
+5 : 7.92mm Weapons (5A Assault Rifle 5B Uber Machine Gun) 
+
+
+       Ctl Key Attacks  
+	   Z Key Reloads
+       Arrow Keys Move   
+	   Alt Key Strafes
+	   Shift Key Runs
+       SpaceBar Opens Doors, Activates Switches, Picks up Items, 
+	   Interacts with things, and Receives the Life Force of slain enemies from their corpses. 
+	   
+Security 
+There are 7 different types of doors. 
+There are 11 types of Keys. 
+Often the lock is color coded to the key, but a door can be locked with any key and some doors require 2 keys. 
+Some Keys are Skeleton Keys, Some are more "modern", some are special style, some keys look quite similar, to discern them look at the style, color, and notches. 
+ONLY The Gold and Silver Keys display on the status bar, just keep track of what and doors and types of areas are in the level, and what keys you have picked up. 
+Keys are on wall racks on the walls and keys on the floor. 
+4 types of keys are on wall racks. 
+Also some keys are hard to discern from certain floor textures. 	
+
+
+	   
+* TIPS *
+
+Tactical
+
+To Survive you will need to use tactics. 
+
+Secrets 
+Many secrets are well hidden.  
+
+
+Good Luck and Godspeed. 
+
+
+
