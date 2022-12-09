@@ -1,0 +1,63 @@
+^PAGE 1
+^c7eTHE STORY SO FAR...
+^c00
+^c7eAugust 15th, 1937
+^c00
+You frantically search the guard's body, prying the type 14 pistol from his fingers. The other guards almost
+certainly heard him cry out as you drove his head into the door frame.
+Taking possession of the gun and his bayonet, you steel yourself against the back wall of the holding cell.
+^PAGE 2
+You are Sun Anying. Six weeks ago you were selling oranges on the streets of Peking when the generalissimos 
+men approached you, speaking of the honor of serving in the national revolutionary army, that you would soon
+drive the Japanese imperialists from Chinese soil. 
+^PAGE 3
+Two weeks later, you and four hundred others were encircled by the imperial Japanese army outside Tianjin.
+With no other option besides total destruction, you and the others were taken as prisoners and transported
+to Water Purification facility 17, a prisoner of war camp located inside an old Portuguese fortress,
+under the authority of the ruthless Major Testuo. 
+^PAGE 4
+In the intervening weeks, your comrades were taken away one by one until only you remained. Their screams leaving no 
+secret as to their fate. Determined to avoid the same for yourself, you spent the last two weeks of your captivity 
+mentally preparing yourself to be killed rather than taken alive. 
+
+Conscript Sun Anying, you've got a gun and six floors of hell to get through. Good luck!
+
+^PAGE 5
+^c7ePOWER PLAYER TIPS AND TRICKS
+^c00
+-The IJA prefers Belt-fed machine guns over the Chainguns favoured by the Germans. Despite a slower rate
+of fire, these boast greater power and accuracy with a much lower chance of jamming. However, ammo can
+be frustratingly hard to come by.... 
+-Despite its low power and questionable reliability, the Nambu is surprisingly accurate at long ranges. 
+-Japanese commissioned officers are well-trained swordsmen as a rule. Avoid getting too close!
+^PAGE 6
+^c7eCredits
+^c7eTextures and Sprites
+^c00Doomjedi
+John Bucksnort
+Areyep
+MCS
+WSJ
+The Man Who Knows
+^c7ePPSH/Beretta 38 sprites by JustyZam
+^PAGE 7
+Musical Credits
+^c7eLee Jackson
+^c00Everybody Off
+Nin-Nin gets his
+Shellac
+Attention
+^c7eBobby Prince
+^c00In Hiding
+Say your prayers
+^c7eIgor Ugolnikov
+^c00ZanuAF Fanfare
+^PAGE 7
+^c7eTHANKS FOR PLAYING
+^c00
+Thanks for playing Shima!
+Now go get 'em!
+-Zanu-AF
+(ESC to return to menu.)
+^E
+
