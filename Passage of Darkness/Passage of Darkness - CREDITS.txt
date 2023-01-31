@@ -1,0 +1,21 @@
+
+CREDITS
+
+Base game:Wolfenstein 3D (id Software)
+
+Original sprites:Wolfenstein 3D (id Software)
+
+Map editor:Havoc's Wolf3D Editor (Havoc)
+
+New texture:The Dunkelcollection (Dunkelschwamm)
+
+Coding reference:ECwolf HDpack (CeeJay)
+  
+                :Wolf Overdrive (Thomas Weiling)
+                
+                :Totenhaus_ECWolf (Astro Creep/Laz Rojas)
+
+Title graphic:AI (TrinArt)
+
+
+Very very thanks!
