@@ -1,0 +1,50 @@
+^P
+^C7d EINS, ZWEI, DREI...LOS GEHT'S!
+
+^C00 Thanks for downloading Eins, Zwei, Drei! This is the biggest Wolf3D mod I've made so far, and a test to see if I am capable of making a full-scale 6-episode mod.
+
+^P
+^C7d EINS, ZWEI, DREI!
+
+^C26 Neigh! I'm Raymond, a red horseman. Though, in this demo, I'm invisible! This is what I'd call a 'sapling mod', where it starts out as a demo, but evolves into a full mod. As the title suggests, three episodes are planned. They will be coming soon.
+
+^P
+^C7d KNOW YOUR ENEMIES
+^G32,16,135
+
+^C7d Heer Guard: ^c00If you thought you'd never see these guys again, then you're wrong. They attack with a pistol. They make up the majority of a floor's population, and can be found in groups.
+
+^C7d SS infantry: ^c00These guys are back again, ready to win the fasion competition with their fancy trenchoats. They attack with a mp40, which they drop upon death.
+
+^P
+^C7d KNOW YOUR ENEMIES
+^G32,16,136
+
+^C7d Luftwaffe general: ^c00Now here's a new face! Like the guards, they attack with a pistol, but they run faster. These guys feel like they're the airplanes they drive!
+
+^C7d German scientist: ^c00The bright minds behind the macabre experiments that the Nazis are overseeing. They attack with a pistol and walk faster than a guard, but slower than a general.
+
+^P
+^C7d KNOW YOUR ENEMIES
+^G32,16,137
+
+^C7d Mutant: ^c00Dr. Schabb's notorious creations are back again! They never announce their presence and attack fiercely. Better get rid of them, fast!
+
+^C7d Melee mutants: ^c00Unlike the previous variant, these mutants don't have pistols implanted in them, so they attack with knives. They never announce their presence and attack like panthers. They make ideal opponents for a game of fencing!
+
+^P
+^C7d KNOW YOUR ENEMIES
+^G32,16,138
+
+^C7d Elite Heer: ^c00Machinegunners from the Heer. They attack with heavy machineguns, which they drop upon death. They deal more damage and have more health.
+
+^C7d Elite SS: ^c00Specially trained soldiers who attack with the flamethrower, which they, unfortunately, don't drop. Avoid the flames they shoot at all costs! 
+
+^P
+^c7d CREDITS
+
+^c00 WLHack => For making a plethora of graphics featured here. Their art style matches that of the MacWolf style, which is why I chose to include them here. Big thanks to them!
+^c00 WSJ => For the enemy sets and weapon sounds
+^c00 Work in 
+
+^E
