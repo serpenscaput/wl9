@@ -1,0 +1,1 @@
+Copy the folder "op_pegasus" and the .bat file *into* your MacenWolf folder. Then you can run the attached .bat file to launch the game.
