@@ -1,0 +1,32 @@
+
+CREDITS
+
+Original game : Wolfenstein 3D (id Software)
+
+Map editor used : Havoc's Wolf3D Editor (Havoc)
+
+New texture : The Dunkelcollection (Dunkelschwamm)
+              
+              Spear of Destiny (id Software / FormGen)
+
+New boss sprites : Wolf3d Boss Generator (Dunkelschwamm)
+
+New mini boss sprites : Monkee's Image World / Flach Schutz (Majik Monkee / Jackal)
+
+New objects sprites : Doomjedi artpack Spriters journey (Doomjedi)
+
+Coding reference : ECwolf HDpack (CeeJay)
+  
+                 : Wolf Overdrive (Thomas Weiling)
+                
+                 : Totenhaus_ECWolf (Astro Creep/Laz Rojas)
+
+
+* I edited the table sprites myself. 
+  Some textures were edited by myself based on Dunkelcollection.
+
+
+2023/3/7 
+
+Ozeki
+
