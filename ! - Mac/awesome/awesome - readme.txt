@@ -1,0 +1,4 @@
+Awesome by ToeJam917 / CB (?) brings us (count 'em) ten new maps for the First Encounter. These levels don't necessarily subscribe to the theories usually lectured at the University of Mac Mapping. Most importantly, they're more extensive and with wider open spaces. This means more room for maneuvering, but also unfortunately results in sparse decoration. Enemies, while numerous at first, seem to have a smaller presence in further maps, making for a slightly odd difficulty curve and again straying somewhat far away from typical Mac mapping. However, you can expect to meet bosses (generally multiple) on almost every floor.
+
+===CREDITS===
+ToeJam917 / CB (?)
