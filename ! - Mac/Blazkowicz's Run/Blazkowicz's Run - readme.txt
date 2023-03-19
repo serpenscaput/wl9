@@ -1,0 +1,4 @@
+Blazkowicz's Run (or Run, Blazkowicz, Run!) by Cay Boy - five maps for the Second Encounter. The storyline is simple enough (but at least there is one): Blazkowicz escapes from his prison cell down below and has to make his way to the surface, killing anyone in his way... including Hitler (what is he doing there?) The maps are nice, mostly medium-sized, with decent combat and some non-linearity, enough meat to keep things interesting. The author says the maps were tested under "regorous conditions", though if you want to try for pistol start, you're going to have a rather rough time, especially in the final floor.
+
+===CREDITS===
+Cay Boy
