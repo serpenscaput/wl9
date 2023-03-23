@@ -1,0 +1,4 @@
+Rin-Tin-Tinenstein, 12 maps for the Third Encounter, authorship unknown. The scenario is accompanied by a rather unusual story: tired of playing the role of K-9, Rin-Tin-Tin runs off to Germany where he assembles an army and takes over the world's supply of dog food. Infiltrate his superfortress and destroy him, or dogs worldwide will starve. However, if you feel enticed by the storyline, you might sadly find the actual maps lacking. Other than two or three decently developed floors, the remainder is either very tiny or generated in WolfMaker. Furthermore, it doesn't seem like the author intended these levels to be beaten without cheats, as you will often be facing overwhelming odds with very little in terms of resources available. Try it at your own risk, or just use ledoux.
+
+===CREDITS===
+Hello. Yes, this is dog.
