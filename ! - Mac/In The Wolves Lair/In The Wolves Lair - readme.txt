@@ -1,0 +1,4 @@
+One of the best known mods by Clubey, In The Wolves' Lair offers a rather unique setting and storyline as far as Wolfenstein mods go. It's 1945 and while war in Europe is over, the Pacific Theater has not yet been decided. It's close though. Japan is reduced to defending their home islands and watching helplessly as Hiroshima and Nagasaki turn to ruins in a flash. Emperor Hirohito wants to surrender and has personally recorded an official announcement on tape. However, the tape was intercepted by agents of the military (who still intend to continue the war). What do? Obviously, infiltrate their headquarters, reclaim the tape and release it to the public, murdering hundreds of fierce warriors along the way including Hideki Tojo himself... before the Yankees drop more bombs.
+
+===Credits===
+All credits, of course, go to Clubey.

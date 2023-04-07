@@ -1,0 +1,4 @@
+This release immortalizes one of the best, most underrated Nazis ever: you know who I'm talking about, Joachim von Ribbentrop! Experienced diplomat, excellent Minister of Foreign Affairs and great proponent of peace, Europe had only experienced one war during his term. To celebrate his grand achievements, here's Von Ribbentrop's Tea Party (yes, that's the name), 4 maps for the Third Encounter that have absolutely nothing to do with Ribbentrop or tea. It's premier entertainment.
+
+===Credits===
+I don't know. The mod's name would implicate Richard Peck, but there's no documentation to support that.
