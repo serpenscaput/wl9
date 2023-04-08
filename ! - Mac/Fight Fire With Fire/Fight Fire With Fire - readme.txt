@@ -1,0 +1,4 @@
+And then there's Fight Fire With Fire. Three maps! And we even know the author - it's Cyber1999. He seems to have appended the wrong text file to the scenario, but we can deal with that. These three levels offer a variety of combat situations - from open spaces to plenty of cover, to both. You'll be fighting a lot of enemies obviously, including multiple clones of Dr. Schabbs at one point (guess the old doc has been busy with his research). Level layouts seem to have been designed with function over aesthetics in mind. There's generally enough amo and health to handle the incoming enemies, sometimes right out in the open, somethimes if you look hard enough. If you don't mind lengthy fights with multiple bosses, this is a mapset for you.
+
+===CREDITS===
+Cyber1999.
