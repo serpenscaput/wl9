@@ -1,0 +1,282 @@
+=======================================================================
+Title                   : TFS4.0: Eisenfaustian Bargain Edition
+Authors                 : Tris
+Webpage                 : http://www.wolfenstein3d.nl
+Description             : A 22 level TC for one of the best shoot-em-up games, 
+			  Wolfenstein 3D by ID Software.
+Other Mods by Author	: Kurlandfront
+			  https://www.moddb.com/mods/kurlandfront
+			  Testament
+			  https://www.moddb.com/mods/testament
+Additional Credits to   : Thomas Weiling (testing, nagging me to finish the mod)
+			  MCS Amsterdam (original SDL code base)
+Dedicated to		: Brian Lowe
+Shout-out to		:  ~Chad~
+			  Ack
+			  Adam Biser
+			  Adhesive_boy
+			  AlumiuN
+			  Andy_Nonymous
+			  AReyeP
+			  Arielus
+			  Aryan_Wolf3D
+			  Astrocreep
+			  Atina
+			  Barry Christian
+			  Biergut
+			  Blzut3
+			  BrotherTank
+			  Chris Chokan
+			  Codetech84
+			  Cyanosis
+			  Dean
+			  Doomjedi
+			  Dugtrio17
+			  dunkelschwamm
+			  Eric Vaughn
+			  Executor
+			  Florian Stöhr
+			  fraggeur
+			  Gary Ragland
+			  gerolf
+			  Haasboy
+			  Hair Machine
+			  Harry Mass Sr. (In memoriam)
+			  Havoc
+			  Ian Franken
+			  insurrectionman
+			  John Bucksnort (In memoriam)
+			  Joshua
+			  Kenny Riley
+			  Klooni
+			  Kuki
+			  KyleRTCW
+			  LinuxWolf
+			  Lozer_42
+			  Luke Strauman
+			  Majik Monkee
+			  Martin Krysiak
+			  Metal Overlord
+			  Metalor
+			  Military
+			  MrWolfForever
+			  Nate Smith
+			  Nexion
+			  Paal Olstad
+			  Orka
+			  pst
+			  quartzdoll
+			  Raziel
+			  ReddimusVonAggrevatii
+			  Richter Belmont
+			  Ringman
+			  Ripper
+			  Ryan de Haast
+			  Sam Chiang
+			  Scott Croneberger
+			  serpens
+			  Sigma64
+			  Sockman
+			  Technopeasant
+			  TheTalentedMrLeo
+			  Thomas Weiling
+			  Tricob
+			  vermil
+			  WLHack
+			  Wolf Skevos-Jones
+			  Wolf3DGuy
+			  Zombie_plan
+			  ZulinRaynor
+			  ... And all the others that have kept Wolfenstein 3D alive!
+======================================================================
+
+* Mod Information *
+
+Episode and Level #     : Standalone, 22 levels
+Single Player           : YES
+Multiplayer		: NO
+DOS			: NO
+Wolf4SDL		: YES
+ECWolf			: NO
+Difficulty Settings     : YES
+Original game required	: NO (unpack all files in a new directory)
+New Art                 : YES
+New Music               : YES
+New Sound Effects       : YES  
+New EXE File            : YES
+
+* Construction *
+Base                    : From scratch 
+Editor(s) used	        : Mapedit 8.0, ChaosEdit, Photoshop CC, RecolorBMP, AIMP, FL Studio 6.0, Audacity, Notepad, MS Paint, 
+			  Codeblocks
+Construction time       : 6 months off and on
+Known Bugs              : None, please tell me
+
+* Where to get this file *
+
+WEB site                : http://www.wolfenstein3d.nl
+
+* Gameplay-information *
+
+Storyline:
+Germany, Autumn 1942. As the German Army continues it's advance deep
+into Soviet territories and the Ukraine, German U-boats have started
+the blockade of Britain. Lots of convoys are intercepted by Germans and
+are taken over or destroyed. Britain seems to get starved out. 
+The Allied High Command has no retort; more and more British
+freighters get destroyed by German U-boats. The Gestapo
+(Geheime Staats-Polizei, Secret Police of State) is now patrolling
+German occupied countries with even more effective escorts,
+inflicting heavy losses on the Allies. Nevertheless, the Allied
+High Command orders more and more soldiers, with even lower ages,
+into battle from their ports in various countries.
+
+The battle for control of the war is turning against the Allies.
+
+Many Allied operations have failed due to many German spies in the Allied
+Command and Allied Army. It seems that the Germans have infiltrated MI6.
+The Germans know every move the Allies make.
+
+However, the Allies have received word of a secret operation going on in
+a mountainious region in the mountains of Bavaria. This region is chosen
+strategically because of the weather conditions in those mountains. It
+always snows and the dawn comes at 1:00 PM. This means that nobody can
+see that there's anybody here. In the direct neighbourhood of an
+abandoned German airfield, Germans have made a network of various
+bunkers and castles located in the mountains so that there will be a
+pretty fast transport-possibility between the bunkers and castles.
+The main installation of the network is a fortress called Festung Adler.
+This castle, originally home of many German monarchs, was restorated by
+the Third Reich's official architect (Albert Speer) and converted to fortress.
+It's nickname is "The Eagle's Nest". It's well named, because you have to
+be an eagle to reach it. It lies at 3000 meters above sea-level. There's
+no connection with the valley below it, making it the perfect location for
+secret operations as it is impregnable. Those who tried to get atop didn't
+return. The Allies are uncertain if this was accomplished by the freezing
+temperature or any Nazi patrols.
+
+The castles within the network are interconnected by a system of tunnels. Originally 
+officiated as airstrike cover, these tunnels connect the various castles with each other. 
+To eliminate any spies, the entrances of these tunnels are protected by various SS and 
+Gestapo. To get through these slimey, gooey tunnels, you'll need a few bullets and a 
+good memory. Various parts of the tunnels look equal, but they are NOT.
+
+The rumored operation currently running is called Aufräumung(literally,
+Cleaning Mission), led by the Gestapo's main leader, Werner Gelassen, and
+the Fuhrer himself. This mission is going to be the biggest one yet. All
+Nazi weapons will be used for this mission, including a brand-new
+technique manufactured by a mysterious scientist by the name of
+Jurgen Schabbs. This man, who is not a Nazi but a scientist who gets
+orders of Hitler, has found a way to make dead soldiers live again.
+This option means that, if it would be used, the Third Reich will
+be unstoppable and unbeatable. However, the soldiers who are revived
+do have one little bug in their mechanical brain: they only obey Schabbs.
+
+The experiments of Schabbs are held inside the walls of Festung Adler. No
+one can possibly enter it because of the Gestapo controlling each nook and
+cranny of the neighbourhood areas and the SS stationed at every entrance
+possible. However, there's one abandoned castle in the neighbourhood of the
+network. This castle called Hasselhoff, was used at the beginning of the
+network-laying, but wasn't that strategical because of the many endless
+corridors leading to nowhere. In the basement of that castle is a small
+weapon-storage area with only Hitlerjugend-soldiers on duty. The entrance
+to this castle is quite hard to find, but crude maps drawn by spies will
+give you the location of it. 
+
+Realising that this is the perfect way to get inside Cleaning Mission-network,
+Allied High Command orders you to get in. Your mission includes:
+
+A. The destruction of Cleaning Mission-Network;
+B. The elimination of Schabbs dead minions;
+C. The liquidation of Schabbs, Gelassen and perhaps the Fuhrer himself.
+
+And in case you run into other high-ranked officers, liquidate them too.
+Be warned that only points A,B and C are neccessary, so don't do anything
+stupid. Fight hard in there! Good luck soldier. You'll need it.
+Description of the game's levels
+
+The game's levels are divided up in "units", groups of levels with a certain
+theme. All the levels in an unit have something to do with each other. 
+You don't have to do anything special to end an unit, by the way.
+
+Levels 1-5: Castle Hasselhoff
+
+You begin your mission in an old Prussian castle called Hasselhoff. It is the first 
+installation in the network, mainly used for storage of Schabbs' equipment. On floor 5 a 
+boss named Werner Gelassen is waiting for you. He is a Gestapo general with the duty of 
+protecting the network behind the castle.
+
+Level 6: Tunnel 1
+
+Levels 7-10: Festung Adler
+
+You finally reached "The Eagle's Nest". It lies atop of a mountain which is unaccessable from 
+the valley below. This stronghold belonged to German monarchs for centuries, but now the Fuhrer 
+has stamped it as the main installation for the operation. It's your task to run enough amok 
+here so the stronghold will need a renovation. Be careful, this castle is heavily guarded! On 
+floor 10 you'll face the Ubermutant, Schabbs' biggest and boldest mutant. Be careful!
+
+Level 11: Tunnel 2
+
+Levels 12-15: Felsendamm Dungeon
+
+The cold wind howls in your ears when you enter the dungeon system Felsendamm, part of Festung 
+Adler. Felsendamm, built in 1643, officiates as dungeon for captured spies. While being starved 
+and tortured, the Gestapo pulls the info out of them. No wonder this place smells like death: 
+blood, sweat and tears are part of the main smell. These cold, damp floors are protected by 
+guards and SS. It also covers the Luftburg-bunker, the next installation of the network. The 
+closer you get to the end, the less human guards you will encounter...
+
+Level 16: Tunnel 3
+
+Levels 17-20: Luftburg-bunker
+
+When you climb out of the tunnel, you have reached Schabbs' laboratories. Here you'll face the 
+dreaded mutant scum of Schabbs at last. Watch what you are shooting - there are many unarmed 
+mutants too! After painstakingly crawling through the bunker, you will reach Schabbs.
+
+Level 21: Contemporary Insanity
+Level 22: Tommy's Tailor
+
+In case you'll ever find the secret elevator leading to these levels, good luck!
+
+
+* Cheats * 
+
+The classic "MLI" cheat still works.
+I have also removed the necessity for goobers and the Alt + Shift + Backspace sequence.
+Tab keys you can use:
+
+Tab + G God Mode
+Tab + I Give Items
+Tab + N Noclip
+Tab + E End Level
+Tab + W Warp to Level
+
+* EXE Changes *
+
+- Seamless level flow / no episode select
+- Enemies made stronger
+- Debugmode cheat removed, you can cheat with Tab-keys whenever you want
+- Heartbeat sound
+- 25 ammo box added
+- Demos removed
+- Custom palette
+- Different ceiling colors
+
+And various other basic changes and tweaks not worth mentioning.
+
+* Frequently Asked Questions *
+
+Q: So Tris, did you change all the graphics in the VSWAP and VGAGRAPH files?
+A: Yes.
+
+Q: But they look kinda similar to what they were?
+A: Yes.
+
+Q: So did you really change everything?
+A: Yes.
+
+Q: Can I use the source code, graphics and sounds for my own mods?
+A: Yes. You can download the source code from the moddb page or wolfenstein3d.nl .
+As Brian Lowe used to say, "Keep on modding"!
