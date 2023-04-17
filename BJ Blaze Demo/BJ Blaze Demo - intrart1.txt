@@ -1,0 +1,7 @@
+^P^
+^G 16 16 [MISSION1]
+
+^C[DarkRed]STORY (SO FAR)
+
+^C00 You are William J. Blazkowics Jr., also known as B.J. Blaze, and as you approach Castle Corvin, you are immediately spotted by a guard, so you take the simple way out and stab him with his own knife, take his gun, and carefully plan out your strategy for such a dangerous mission. Now you are curious about your dad's disappearance. Let the Castle Corvin meltdown begin!
+^E

@@ -1,0 +1,17 @@
+^P
+^G 16 16 [MISSION2]
+
+^C[DarkRed] YOU WIN!
+^C00 You have found your dad! B.J. Blazkowicz Sr. was locked in a cell on the fifth floor of Castle Corvin, the Nazis that were slain by you, B.J. Blaze, are still dead, and you tell him of the ordeals you had to go through to rescue him.
+^C00 You explain to him that the his wife split up with him, thinking he was dead.
+^P
+^G 16 16 [MISSION2]
+
+^C[DarkRed] To be continued...
+^C00 As you remembered a silver key door in the entrance to the castle, you take your dad to the chopper, then you decide your mission is not yet over. You go back inside and advance to the door leading to a secret passageway.
+^P
+^G 16 16 [MISSION2]
+
+^C[DarkRed] To be continued...
+^C00 Even though Eugene Grosse is now dead, there was still a second suspect: Heidi Stoltz-Grosse. Using up the last of your bobby pins, you pry open the door and are immediately knocked out. Now the real nightmare begins. Good luck.
+^E

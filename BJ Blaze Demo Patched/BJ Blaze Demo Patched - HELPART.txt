@@ -1,0 +1,73 @@
+^P^
+^C[DarkRed]Thanks for downloading ^C00 ^C[DarkRed]"B.J. Blaze and the Castle of Death"! ^C00
+
+This is my next Wolfenstein 3D mod. This one started out as an expansion for Operation : Mutant Strike but soon it grew to be stressful as one. This is currently the first in a planned trilogy inspired by the likes of Duke Nukem, Evil Dead, Indiana Jones, Tomb Raider, and even Wolfenstein 3-D itself!
+Please read for more information about this mod!
+
+^P
+^C[DarkRed]FEATURES ^C00
+
+- (Currently) 1 new episode containing 6 levels, 5 main plus 1 secret
+- Increased ammo limits
+- 1 new item
+- (Coming soon) 1 new enemy
+- 3 new weapons
+- 3 new mini-bosses
+- New music composed by musicians behind Final Fantasy 3, Final Fantasy Tactics, Final Fantasy 8 and even Shogo: MAD
+
+^P
+^C[DarkRed]HOW TO PLAY ^C00
+
+This plays like the original game but with some additions. There are ^C[Blue]ammo boxes ^C00that will give you 25 ammo when picked up. There is also a ^C[Blue]heavy machine gun ^C00along with the additions of the ^C[Blue]flame thrower ^C00 and ^C[Blue]rocket launcher.
+
+^P
+^C[DarkRed]HOW TO PLAY ^C00
+
+There is also the addition of the ^C[Blue]golden helmet ^C00that will give you 2000 points when picked up. And finally the reintroduction of the ^C[Blue]backpack ^C00which doubles the amount of ammunition you have.
+
+^P
+^G 16 16 [MISSION1]
+^C[DarkRed]STORY (EPISODE 1) ^C00
+
+B.J. Blaze, or William Joseph Blazkowicz Jr., is the younger son of B.J. Blazkowicz Sr., and ever since the splitting of his parents, B.J. Jr. has been searching for answers to the mysterious disappearance of his father. ^C[DarkRed]Eugene Grosse, ^C00 the vengeful father of Trans, Hans and Gretel, is hoping to gather some Nazi remnants in the hopes of terrorizing the world.
+
+^P
+^G 16 16 [MISSION1]
+^C[DarkRed]STORY (EPISODE 1) ^C00
+
+Additional info: ^C[DarkRed]Eugene Grosse's ^C00daughter-in-law ^C[DarkRed]Heidi Stoltz ^C00is believed to be leading a highly trained cult and the new nazi army. She wields a rocket launcher and a chaingun and can wield them very well, so be careful about her marksmanship skills. Unless you want to be pumped full of lead!
+
+^P
+^G 16 16 [MISSION2]
+^C[DarkRed]STORY (EPISODE 2) [COMING SOON!] ^C00
+
+Having been knocked out, B.J. Jr. is captured and set to be shot, although he makes an escape, he now knows the only way to stop this new threat is to kill Heidi once and for all.
+
+^P
+^G 16 16 [MISSION2]
+^C[DarkRed]STORY (EPISODE 2) [COMING SOON!] ^C00
+
+Additional info: ^C[DarkRed]Heidi ^C00is the most professional and dangerous general in the world. She is also the wife of ^C[DarkRed]Hans Grosse ^C00and seeks to rebuild her husband's legacy, even if it means dying with you.
+
+^P
+^C[DarkRed]CREDITS ^C00
+
+Please, read the "bj_blaze-credits.txt" file for the credits.
+
+^P
+^C[DarkRed]MORE FROM ^C00 ^C[DarkGreen]JACENBLADE ^C00
+
+^C[DarkRed]"The Final Fight : Operation Phoenix" (2009) ^C00- My very first attempt to make a Wolfenstein 3-D mod that ended in pain for me.
+
+^C[DarkRed]"The Castle Secrets" (2009) ^C00- My second mod for Wolfenstein 3-D, this was definitely not an improvement over Operation Phoenix.
+
+You can find these on wolf3d.net!
+
+^P
+^G 16 16 [BLAZE]
+^C[DarkRed]GET PSYCHED! ^C00
+
+Now go and kick some nazi ass!
+
+
+^E
