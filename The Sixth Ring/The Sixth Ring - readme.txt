@@ -1,0 +1,4 @@
+The Sixth Ring is a demo of a Third Encounter scenario by Todd S. Meyer. Only four levels here, the full version promised a grand total of seventeen more. The catch? To "register" the set, you had to send $5 by cash or check, plus another $2.50 if you want the levels on floppy, otherwise it would be delivered by e-mail. The full version does not seem to have survived till today, perhaps because people playing the demo had decided it's all a scam. With the small exception of the first floor, these maps are all mazey, very small and extremely simplistic. I'm sad to say that the full version probably wasn't worth the price.
+
+===CREDITS===
+Todd S. Meyer.
