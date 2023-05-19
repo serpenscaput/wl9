@@ -1,0 +1,20 @@
+
+CREDITS
+
+Original game : Wolfenstein 3D (id Software)
+
+Map editor used : Havoc's Wolf3D Editor (Havoc)
+
+New music : Spear of Destiny (id Software/Bobby Prince)
+
+Coding reference : Wolf Overdrive (Thomas Weiling)
+                
+                 : Totenhaus_ECWolf (Astro Creep/Laz Rojas)
+
+
+
+
+2023/5/19
+
+Ozeki
+
