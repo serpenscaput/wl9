@@ -1,0 +1,58 @@
+================================================================
+Title                   : Crimson Kahnage
+File Name               : Crimson Kahnage
+File Size               : 2.2 MB
+Author                  : Hugo Janacek
+Email Address           : nebogipfel@hotmail.com
+
+Description             : 'Save' Earth from the clutches of
+                           an alien warlord
+                          
+Special Thanks to       : Greg Ewing for his marvellous editor
+                          ID Software / MacPlay / WolfAddict
+                          MacSoft / MicroProse / Josh Mills
+                          Laz Rojas /Jon Wigand / Stephen Baxter
+                          LucasArts / Sophie / Yohei Sasaki
+                          serpens / Nexion / JMC
+
+Specific Praise to      : Clubey (Keep up the good work!)
+================================================================
+
+* Play Information *
+
+Type of Scenario        : 3rd Encounter
+Levels                  : 53
+Difficulty              : Challenging, but possible
+New Walls               : Yes
+New Objects             : Yes
+New Enemies             : Yes
+New Music               : No
+New Sounds              : Yes
+New Projectiles         : Yes
+New Doors               : No
+New Title Screen/       : Yes
+ Get Psyched Screen
+Special Effects         : Yes
+  (ex: Quarter-block
+   walls)
+New Weapons             : Yes
+
+* Construction *
+Base                    : Built from the ground upwards
+Build Time              : On and off for three years
+Editor(s) Used          : WolfEdit 1.0 / Wolfedit 2.0.2
+Known Bugs              : Only engine bugs, including the Power
+                          PC problem
+
+* Copyright / Permissions *
+
+Authors may use this scenario as a base to build additional levels, provided that they credit me in the read-me file of the said scenario as designing the base levels, and send me a copy of the finished product.  
+
+You are encouraged to distribute this scenario, provided you include this file, with no modifications, along with the documentation. You may distribute this scenario in any electronic format, as long as you include this file, and send me a copy of the finished product as you plan to release it.
+
+* Where to get this SCENARIO *
+
+Right now, you can get this scenario only from the designer. This will hopefully change soon. Keep an eye out on your favourite websites for Wolfenstein, game mods, and Mac games for the Classic environment!
+
+----------
+This Specs Template was created by Josh Mills, formerly at copperfield@worldnet.att.net. It was originally distributed through Info-Mac and his former web site at http://www.geocities.com/ResearchTriangle/System/1634/index.html

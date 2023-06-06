@@ -1,0 +1,57 @@
+================================================================
+Title                   : Crimson Kahnage
+File Name               : Crimson Kahnage
+File Size               : 2 Megabytes
+Author                  : Hugo Janacek
+Email Address           : Nebogipfel@Hotmail.com
+
+Description             : 'Save' Earth from the clutches of an Intergalactic Warlord
+                          
+Special Thanks to       : Greg Ewing for his marvellous editor
+                          ID Software / MacPlay / WolfAddict Software
+																										Josh Mills / Laz Rojas / Jon Wigand
+																										Stephen Baxter / LucasArts / Sophie Janacek
+
+Specific Praise to      : Clubey (Keep up the good work!)
+================================================================
+
+* Play Information *
+
+Type of Scenario        : 2nd and 3rd Encounter
+Levels                  : 48
+Difficulty              : Challenging - but possible
+New Walls               : Yes
+New Objects             : Yes
+New Enemies             : Yes
+New Music               : No
+New Sounds              : No
+New Projectiles         : Yes
+New Doors               : No
+New Title Screen/       : Yes
+ Get Psyched Screen
+Special Effects         : Yes
+  (ex: Quarter-block
+   walls)
+New Weapons             : Yes
+
+* Construction *
+Base                    : Built from the ground upwards
+Build Time              : On and off for three years
+Editor(s) Used          : WolfEdit 1.0 / Wolfedit 2.0.2
+Known Bugs              : None (phew!)
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels, provided that they credit me in the read-me file of the said scenario as designing the base levels, and mail me a copy of the finished product.  
+
+You are encouraged to distribute this scenario, provided you include this file, 
+with no modifications, along with teh documentation. You may distribute this file in any electronic format (BBS, Diskette, CD, etc) as long as you include 
+this file intact and send me a copy of the finished product as 
+you plan to release it.
+
+* Where to get this SCENARIO *
+
+http://www1.linkclub.or.jp/~clubey/wolfenmania.html
+
+----------
+This Specs Template was created by Josh Mills, found at copperfield@worldnet.att.net, and is distributed through Info-Mac and his web site at http://www.geocities.com/ResearchTriangle/System/1634/index.html
