@@ -1,0 +1,49 @@
+^P
+
+^C[DarkRed]STORY
+
+^C00General Wagner, the brutal commander of the Nazis, is trying to create an army of zombie soldiers based on the materials left by Dr. Schabbs. 
+Invade the castle that is Wagner's secret base, destroy the research facilities, and eliminate Wagner.
+If you fail, the whole of Europe will be overrun by an army of the undead!
+
+^P
+
+^C[DarkGreen]LEVEL GUIDE
+
+^C[DarkBlue]FLOOR1-3
+^C00Floors 1 to 3 are regular castles.
+These include tunnels, dungeon halls, and so on.
+On Floor 3 awaits one of the abominable Grosse families.
+
+^P
+
+^C[DarkBlue]FLOOR4-6
+^C00Floors 4 to 6 are research facilities for manufacturing zombie soldiers.
+There are many situations where you fight in narrow passages, and the number of enemies will increase, so please proceed carefully.
+On Floor 6 there is a powerful experimental body called Goliath...
+^P
+
+^C[DarkBlue]FLOOR7-9
+^C00Floors 7 to 9 are the heart of the castle.
+It has the highest level of security.
+If you can reach Floor 9, you will face General Wagner!
+^P
+
+^C[DarkBlue]FLOOR10
+^C00It seems that the Nazis are conducting occult experiments in this castle.
+It has nothing to do with this mission, but it's worth investigating...
+^P
+
+Thank you for download this mod!
+I hope you enjoy it.
+
+2023/6/21
+Ozeki.
+
+
+^E
+
+
+
+
+

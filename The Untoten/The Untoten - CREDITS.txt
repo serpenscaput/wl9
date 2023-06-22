@@ -1,0 +1,48 @@
+
+CREDITS
+
+Original game : Wolfenstein 3D (id Software)
+
+
+Map editor used : Havoc's Wolf3D Editor (Havoc)
+
+
+New textures  : The Dunkelcollection (Dunkelschwamm)
+              
+                Spear of Destiny (id Software)
+              
+                Spear Mission Packs / Lost Episodes (id Software / FormGen)
+
+
+New sprites    : Wolf3d Boss Generator (Dunkelschwamm)
+
+                 Doomjedi artpack Spriters journey (Doomjedi)
+
+                 Spear of Destiny (id Software)
+              
+                 Spear Mission Packs / Lost Episodes (id Software / FormGen)
+
+
+New sounds   : Sper of Destiny / ECwolf Resource pack (id Software / Astro Creep)
+
+              
+Coding reference  : ECwolf Resource pack (Astro Creep)
+
+                    Wolf Overdrive (Thomas Weiling)
+                
+                    Totenhaus_ECWolf (Astro Creep / Laz Rojas)
+              
+                    ECwolf HDpack (CeeJay)
+
+
+Title graphic : AI (TrinArt)
+
+
+*I made some changes to some textures and sprites myself.
+
+
+2023/6/21
+
+Ozeki
+
+                 
