@@ -1,0 +1,4 @@
+Visiting Provincetown is a mapset for the Third Encounter created by an unknown author. We actually have two versions here: a five-level standalone release and a six-map set that came as part of a compilation named More Wolf. Neither of these releases comes with a readme, so all we can really do here is discuss the mapping style. The floors are predominantly composed of small square rooms and a maze of twisting one-tile passages, the only small exception being the additional map of the More Wolf version which feels a bit different, possibly made by another author. You generally should find enough resources to handle the (slightly less numerous than in your average Mac set) opposition, especially if you take care to look for secrets... which you really should do, since they often contain the keys necessary to progress in the level. Overall I can't really recommend this mapset, but who knows, maybe you'll find it fitting your taste.
+
+===CREDITS===
+Unknown.
