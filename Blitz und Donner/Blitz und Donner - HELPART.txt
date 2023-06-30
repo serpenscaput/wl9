@@ -1,0 +1,190 @@
+^P^
+^C[RED]FOREWORD ^C00
+
+^C[DarkBlue]Thank you for downloading ^C[Red]Blitz und Donner.
+^C[DarkBlue]This mod includes a new 10-level episode, as well as the following features:
+
+^C[Red]* ^C[Blue]New mac-styled graphics
+^C[Red]* ^C[Blue]New awesome sounds 
+^C[Red]* ^C[Blue]New music composed by ^C[Red]Eichon
+^C[Red]* ^C[Blue]New enemies
+^C[Red]* ^C[Blue]New arsenal of weapons
+^C[Red]* ^C[Blue]Parallax sky and snow effects
+^C[Red]* ^C[Blue]Ambient sounds
+^C[Red]* ^C[Blue]Dynamic lights
+ 
+^P
+^c00
+^C[Red]TOP SECRET
+^c00
+^C[Red]Schlangenschtadt, Bavaria, March 28 1944
+
+^C[Red]Agent Blazkovich, ^C[DarkBlue]as you know, the Nazis have already recovered from the defeat inflicted on them in our last operation and are preparing retribution. Partisans from the Kreisau circle report on the activity of the SS paranormal department near the infamous ^C[Red]Galgenberg Castle. ^C[DarkBlue]I bet we're talking about the mysterious occult project ^C[Red]"Blitz und Donner".
+^P
+^c00
+^C[Red]TOP SECRET
+^c00
+^C[DarkBlue]According to ^C[Red]Otto, ^C[DarkBlue]our contact in ^C[Red]Schlangenstadt, ^C[DarkBlue]operatives of the SS paranormal division are currently stationed in ^C[Red]Galgenberg. ^C[DarkBlue]Their work is led by ^C[Red]Hendrik Gruber, ^C[DarkBlue]a well-known German occult practitioner in narrow circles, like the ^C[Red]"Vril" ^C[DarkBlue]society. Based on the reports we have received, the SS high command has recently lost contact with ^C[red]Gruber ^C[DarkBlue]and his subordinates.
+^P
+^c00
+^C[Red]TOP SECRET
+^c00
+^C[DarkBlue]Based on the interrogation of the defector officer, it became clear what Gruber was doing in ^C[Red]Galgenberg ^C[DarkBlue]Castle. Under the code name ^C[Red]"Blitz und Donner", ^C[DarkBlue]some ancient diabolical ritual is hidden, the idea of which ^C[Red]Gruber ^C[DarkBlue]is obsessed with bringing to life. According to the defector, things happen in the castle that are terrible even by the standards of the Nazis - ^C[Red]Gruber ^C[DarkBlue]sacrifices his own subordinates to the devil. 
+^P
+^c00
+^C[Red]TOP SECRET
+^c00
+^C[DarkBlue]We chose you for this assignment because we know that you have already encountered paranormal and unexplained things during operations behind enemy lines. And you and I know that such things should not be underestimated - ^C[Red]"Operation Resurrection" ^C[DarkBlue]is a good example of that. If ^C[Red]Gruber ^C[DarkBlue]performs the ritual, it is unknown what forces he can unleash. We cannot delay.
+^P
+^c00
+^C[Red]TOP SECRET
+^c00
+^C[DarkBlue]The partisans from Kreisau will take you to the vicinity of ^C[Red]Schlangenstadt. ^C[DarkBlue]You will search for the underground passage leading to ^C[Red]Galgenberg ^C[DarkBlue]Castle alone. Be prepared for strong enemy resistance and various unpleasant surprises. There is a secret weapons laboratory on one of the floors of the castle. There are several samples of the latest weapons stored there, grab it at the first opportunity. 
+^P
+^c00
+^C[Red]TOP SECRET
+^c00
+^C[DarkBlue]Once in the laboratory, be ready to meet mutants and new German robots again. Your main task remains the physical elimination of ^C[Red]Gruber ^C[DarkBlue]and his henchmen, in order to prevent the ritual. In case you are late, and ^C[Red]Gruber ^C[DarkBlue]will still be able to complete the bloody ceremony, proceed according to the situation. No one knows what forces will break out into our world if ^C[Red]"Blitz und Donner" ^C[DarkBlue]comes true. 
+^C[Red]Good luck, agent Blazkovich.
+
+^P
+^c00
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]In the course of the operation, you will meet various enemies, both familiar and completely new - like heavy machine gunners or rocket drones. Here information will be provided only about the types of enemies known to intelligence - in battle you may encounter something unknown...
+^G 112 55 [ENEMIES]
+^P
+^c00
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]Ordinary privates don't pose much of a threat. They are slow, stupid, and bad at shooting. But do not underestimate them - large groups of these Krauts can really annoy you.
+^P
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]The fighters of the SS Paranormal Department wear gray uniforms and are armed with an STG-44 submachine gun. Under their tunic, a concealed-carry bulletproof vest is worn, they shoot very accurately and are ruthless to the enemy. Try to lure them into doorways and narrow passages - they are more vulnerable there than in the open.
+^P
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]Officers of the SS paranormal department wear white uniforms, shoot accurately, are very hardy and use narcotic stimulants on a regular basis. These ruthless ^C[Red]Gruber ^C[DarkBlue]fanatics do not even recognize ^C[Red]Hitler's ^C[DarkBlue]authority, and are ready to kill everyone on his orders, even their colleagues. Don't let them close the distance with you, and kill them while they run towards you.
+^P
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]A heavy machine gunner wears a thick bulletproof vest of the highest class under his cloak, is armed with a ^C[Red]VENOM ^C[DarkBlue]machine gun and is an incredibly dangerous opponent. It is especially necessary to beware of groups of these enemies. The best tactic is to shoot from around the corner with heavy weapons and constantly move.
+^P
+^C[DarkBlue]^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]^C[Red]Dr. Shabbs' ^C[DarkBlue]mutants are the vile creatures you've dealt with before. The new model has a ^C[Red]VENOM ^C[DarkBlue]machine gun implanted in the chest, in addition, they are much more aggressive than the first option. They have an instant reaction and absolutely no fear. Be careful in the fight with them.
+^P
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]The combat flying robot is the latest development of ^C[Red]Dr. Quarkblitz. ^C[DarkBlue]These machines use an unknown technology, thanks to which they can levitate in the air. They are armed with a rocket launcher and have a friend-or-foe system. These cans are stupid enough, and do not always understand that there is an obstacle in front of them - therefore they can destroy themselves with rocket fire. However, their missiles are deadly and the hull is very strong. Keep your distance and don't get exposed to their missiles.
+^P
+^C[Red]KNOW YOUR ENEMY
+^c00
+^C[DarkBlue]Also on your way you may encounter unknown types of threats, be prepared to resist, including paranormal forces.
+^P
+^C[Red]YOUR ARSENAL
+^c00
+^C[DarkBlue]During the fighting you will be able to find such weapons as ^C[Red]STEN, STG-44, VENOM ^C[DarkBlue]machine gun, ^C[Red]Flammenwerfer ^C[DarkBlue]and grenade launcher ^C[Red]Offenrohr.
+^G 80 75 [WEAPONS]
+^P
+^C[Red]ITEMS AND OTHER
+^c00
+^C[DarkBlue]Behind enemy lines, you can get a lot of useful things. Ammunition, medicines, jewelry. Behind enemy lines, you can get a lot of useful things. Ammunition, medicines, jewelry. Here you will be told about the main items that you can find on your way.
+^G 80 85 [ITEMS]
+^P
+^C[Red]ITEMS AND AMMO
+^c00
+^C[DarkBlue]Dog food gives you 4hp. A piece of cheese gives you 10 hp. The first aid kit gives you 25 hp. Hearty lunch gives full health, one life and a few rounds.
+^G 80 85 [HEALS]
+^P
+^C[Red]ITEMS AND AMMO
+^c00
+^C[DarkBlue]New Pistol clip gives you 8 rounds, dropped from a killed enemy gives you 4 rounds. The clip for the ^C[Red]STG-44 ^C[DarkBlue]gives you 8 rounds. A canistre of Gasoline gives 15 shots for the ^C[Red]Flammenwerfer. ^C[DarkBlue]The rocket gives 1 shot for ^C[Red]Offenrohr. ^C[DarkBlue]The backpack gives your 25 pistol bullets.
+^G 80 85 [AMMOS]
+^P
+^C[Red]ITEMS AND AMMO
+^c00
+^C[DarkBlue]Treasures give you points, as well as the satisfaction of a pleasant sound pick-up :P
+^G 80 85 [TRESURS]
+^P
+^C[Red]CREDITS
+^c00
+^C[Blue]Music:
+
+^C[Red]H-ON
+^C[Red]Leutenant Xandro
+^C[Red]Bobby Prince
+
+^P
+^C[Red]CREDITS
+^c00
+^C[Blue]Graphics:
+
+^C[Red]Velaron
+^C[Red]Leutenant Xandro
+^C[Red]ScreamingEagle12
+^C[Red]AReyeP and MCS
+^C[Red]Mac and Jaguar ports of Wolfenstein 3D
+^C[Red]NETSOFTWARE
+^C[Red]Tricob
+^C[Red]LkMax
+^C[Red]YukiHerz 
+^C[Red]DoomJedi
+^C[Red]Mike12
+^C[Red]W.S.J
+
+^P
+^C[Red]CREDITS
+^c00
+^C[Blue]Graphics:
+
+^C[Red]Executor
+^C[Red]Ringman
+^C[Red]Dunkelschwamm 
+^C[Red]ETTiNGRiNDER
+^C[Red]Mishmash 
+^C[Red]AstroCreep
+^C[Red]Ninlhil
+^C[Red]Captain J
+^C[Red]DenisBelmondo
+^C[Red]NiGHTMARE
+^C[Red]Amuscaria
+
+^P
+^C[Red]CREDITS
+^c00
+^C[Blue]Code:
+
+^C[Red]Ceejay
+^C[Red]gitlance
+^C[Red]AstroCreep
+^C[Red]Executor
+^C[Red]Velaron
+
+^P
+^C[Red]CREDITS
+^c00
+^C[Blue]Sound: 
+
+^C[Red]CeeJay
+^C[Red]Executor
+^C[Red]RTCW
+^C[Red]BiA HH
+
+^P
+^C[Red]SOME WORDS FROM ME
+^c00
+^C[Blue]Thank you for downloading ^C[Red]Blitz und Donner. ^C[Blue]This is my first ^C[Red]Wolfenstein 3d ^C[Blue]mod and I am very glad that I finally finished it. It was a pleasure to make it, and I hope it will be a pleasure for you to play it. During development, I used a lot of resources from other mods, including graphics, sounds and code. 
+If for some reason I have not indicated your authorship, let me know by writing on ^C[Red]ModDB or ^C[Red]ZDoom forum. ^C[Blue]I will definitely put you on the list. 
+
+^P
+^C[Red]SOME WORDS FROM ME
+^c00
+^C[Blue]I would also like to especially thank everyone who has supported me all these years and helped me with the mod for free, especially my old friend ^C[Red]H-ON, ^C[Blue]who composed a unique soundtrack for the mod.
+^G 83 0 [ORANGE]
+^G 83 65 [XANDRO]
+^G 83 135 [EICHON]
+^G 83 198 [PURGEN]
+
+^E

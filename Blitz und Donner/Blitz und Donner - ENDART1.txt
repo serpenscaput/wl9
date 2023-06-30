@@ -1,0 +1,25 @@
+^P 
+^C[Red]													VICTORY!
+
+^C[DarkBlue]Apparently, during the ritual, General Gruber lost his human essence and turned into a disgusting living dead. It would seem that it is impossible to kill him now, but you have proved the opposite. 
+^P
+^C[Red]													VICTORY!
+
+^C[DarkBlue]His fat, putrid body has fallen at your feet. By killing him, you severed connection with the otherworld. The ^C[Red]Blitz Und Donner ^C[DarkBlue]project is now history. Taking the key from the gate, you escaped from this cursed castle.
+^P
+^C[Red]													VICTORY!
+
+^C[DarkBlue]There was an elevator waiting for you on the street, on which you went down to the sewer, where resistance fighters were already waiting for you. Today at dawn they will lay dynamite and blow up the castle, forever burying all those unholy horrors that the Nazis brought to life.
+^G 112 55 [VICTORY]
+^P
+^C[Red]													VICTORY!
+
+^C[DarkBlue]You are going on a well-deserved vacation, because the Nazis will not soon recover from their defeat. 
+^C[Red]Great job, B.J.
+^P
+^C[Red]													VICTORY!
+
+^C[Blue]Thanks for playing! ^C[Red]Blitz Und Donner ^C[Blue]was created by me for many years in my free time from study and work. Perhaps the mod came out far imperfect, but I hope it brought you some pleasure. My friends, as well as other members of the Wolfenstein community, helped me a lot in creating it. The full list of credits can be found in the Read This section. If I have not listed you, be sure to let me know and I will add you to the list.
+
+^C[Orange]- Orange
+^E

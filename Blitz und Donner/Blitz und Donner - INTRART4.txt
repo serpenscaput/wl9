@@ -1,0 +1,10 @@
+^P 
+^C[Red]ZELLENBLOCK
+
+^C[DarkBlue]Hell, I was sure that this elevator was supposed to take me to the castle administration - there I would definitely have found the bastard Gruber and dealt with him, but I was wrong. It looks like I ended up in the castle's prison block. 
+This area is completely unknown to me, so I need to move with maximum caution. I am very lucky that I now have a formidable cannon with six barrels. According to intelligence, there is only one elevator in the prison block leading to secret weapons laboratories. 
+^P 
+^C[Red]ZELLENBLOCK
+
+^C[DarkBlue]It is used to deliver prisoners to the laboratory for diabolical experiments... I have to find this elevator.
+^E
