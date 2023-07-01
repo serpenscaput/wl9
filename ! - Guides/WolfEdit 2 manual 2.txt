@@ -1,0 +1,708 @@
+Introduction
+
+Welcome to WolfEdit 2, a scenario editor for Wolfenstein 3D.
+
+WolfEdit 2 lets you create totally new level collections for Wolfenstein 3D. You can design your own floor layouts and populate them with objects and guards. You can use all the items found in all current versions of Wolfenstein 3D, including the Commercial version.  You can change the appearance of walls, doors, objects and enemies. You can even pull some new tricks that the designers of Wolfenstein 3D never thought of!
+
+Much of WolfEdit's user interface should be fairly self-explanatory. If you want to get started as fast as possible, read the next two chapters, Quick Start  and Playing your Scenarios.  
+2. Quick Start
+
+Here's a lightning-fast tutorial to get you started with WolfEdit.
+
+1) Launch WolfEdit. 
+
+A new scenario will be automatically created, and a new level added to it and opened. The new level starts out filled up with stone blocks (except for a few things in the top left corner, which you should ignore for now). To create a room, we need to clear out some empty space. We'll use the Rectangle tool, which is handy for creating rectangular rooms.
+
+2) Click on the blue stone wall: 
+
+It's near the right hand end of the third row of the item palette at the top of the window.
+
+3) Select the Rectangle tool: 
+
+It's in the tool palette on the left.
+
+4) Click and drag in the middle of the map to select a rectangle. When you let go, you'll get an empty area surrounded by the wall type you chose:
+
+Now we'll set the starting position:
+
+5) Select Start Facing East:
+
+It's near the top left of the item palette.
+
+6) Select the Pencil tool:
+
+7) Click inside your room, near the west wall.
+
+And finally, we'll set the ending position:
+
+8) Select the Lift Control Panel:      
+
+It's about a third of the way along the fourth row of the item palette.
+
+9) Click on one of the blue stone blocks on the east wall of your room. You should now have something looking like this:
+
+
+10) Choose Save As... from the File menu. At the bottom of the dialogue, set the File Type to Wolfenstein. Enter a name for your scenario, and save it.
+
+To find out how to play the scenario you've just created, see the next chapter, Playing your Scenarios.
+ 3. Playing your Scenarios
+
+Before you can play your scenarios, you need to have the right version of Wolfenstein 3D. There are four Macintosh versions of Wolfenstein 3D in existence:
+
+1) First Encounter. This is the shareware demo version. It contains three levels, built into the application.
+
+2) Second Encounter. This is the version you get sent when you register the First Encounter. It contains 30 levels, built into the application.
+
+3) Third Encounter. This version comes with half a dozen scenarios, of about 10 levels each, in files separate from the application.
+
+4) Commercial. This is a combination of the 2nd and 3rd encounters, sold commercially.
+
+To play scenarios created with WolfEdit 2, you will need either the Third Encounter or Commercial version of Wolfenstein 3D, since they are the only ones capable of opening an external scenario file.
+
+
+Playing a Scenario
+
+If you haven't done so already, save your scenario file as type Wolfenstein. Then place it in Wolfenstein's Levels folder. When you launch Wolfenstein, your scenario should show up in the list.
+
+To edit a scenario saved as type Wolfenstein, drag it onto WolfEdit in the Finder, or use WolfEdit's Open command.
+
+
+Distributing your Scenarios
+
+If you're making your scenario available other people, I recommend that you distribute it in Wolfenstein format, rather than WolfEdit format, because Wolfenstein will only recognise files saved in this format. 
+
+4. Scenario Files
+
+This chapter describes the facilities for creating, opening, and saving scenario files, and creating, rearranging and deleting floors within a scenario file. It also describes how to edit some settings which apply to the scenario file as a whole.
+
+
+The File Menu
+
+The File menu contains commands which operate on whole scenario files:
+
+ New creates a new scenario file, adds one floor to it, and opens that floor.
+
+Open... opens an existing scenario file.
+
+Close closes the frontmost window. If this is a level list window (see below), the scenario file and all levels belonging to it are closed. If anything has been modified, you are asked whether to save changes.
+
+Save saves the current scenario, including all its floors, under the last-used file name and format.
+
+Save As... prompts for a new file name to save under. It also gives you two options for the file format:
+
+      WolfEdit format is WolfEdit's native file type. This format is
+      only useful while you are constructing a scenario and don't yet want
+      to play it. Double-clicking on a scenario saved in this format will
+      launch WolfEdit.
+
+      Wolfenstein 3D saves the file in a format which can be opened 
+      as a scenario file by the 3rd Encounter or Commercial versions of 
+      Wolfenstein 3D. You will have to save your scenario in this format
+      before you can play it.
+
+You'll probably want to use Wolfenstein 3D format most of the time. The only disadvantage of this format is that double-clicking on a Wolfenstein 3D format scenario will launch Wolfenstein instead of WolfEdit. However, you can still edit a Wolfenstein 3D format scenario by dragging it onto WolfEdit in the Finder, or by using WolfEdit's Open command.
+
+Revert undoes all changes made to the current scenario and any of the floors since it was last saved to disk.
+
+Scenario Info... leads to a dialogue for setting various pieces of information pertaining to the scenario as a whole:
+
+      a) Title Music sets the music to be played during the title screen if you get
+      killed and start the scenario afresh. (It won't be played when you first open
+      the scenario.)
+
+      b) Intermission Music sets the music to be played in between levels.
+
+      c) To set the picture which will be displayed in the level selection box of the
+          3rd Encounter or Commercial versions, use the Paste command in the Edit 
+          menu to paste a picture into the box at the right. The size of the picture should
+          be 96 by 64 pixels.
+
+Quit closes all open scenarios, prompting to save changes if necessary, and quits.
+
+
+The Level List Window
+
+When you open a scenario, you get a window listing all the floors in the scenario. When the Level List window is frontmost, you can click to select floors, and use the following commands in the Edit menu to operate on floors.
+
+New Level adds a new floor to the list and opens it for editing. The new floor is added at the end of the list.
+
+Open Level opens the currently selected floor for editing, or if it is already open, brings its window to the front. You can also double-click on a floor to open it.
+
+Cut, Copy, Paste and Clear can be used to rearrange floors in the list. They can also be used to transfer floors from one scenario to another, by opening both scenarios and cutting and pasting between their Level List windows.
+
+When you Paste in a level, it is inserted just before the currently selected level, or if no level is selected, it is added at the end of the list. If you're pasting in a series of levels and you want them in the order that you paste them in, deselect the previously pasted level (click beyond the end of the list, or shift-click the selected item) before pasting in each level.
+
+Level Info... leads to a dialogue for setting various pieces of information pertaining to the selected floor:
+
+      Floor Number sets the pair of numbers displayed at the bottom of the screen 
+       in Wolfenstein.
+
+      Par Time sets the par time displayed in the summary screen at the end of the 
+      level.
+
+      Music sets the music to be played during the level.
+
+      Alternate Next Floor sets the destination of the Ňalternate liftÓ. You can 
+      set it to any existing floor in the scenario, or to None, in which case activating 
+      the alternate lift will end the game. See the Lifts  section of the Map Editing  
+      chapter for more information about alternate lifts.
+
+Note: If you rearrange floors in the list after setting their Alternate Next Floors, the alternate lifts will lead to the floors occupying the same positions  in the list as before. So it's best to decide on the ordering of your floors before setting any of the
+Alternate Next Floors.  
+
+5. Map Editing
+
+This chapter describes the Map Window and the tools and menu commands available for editing the floors of your scenario.
+
+
+The Map Window
+
+The map window is divided into three parts. The largest area is the map area,  where you do your editing. Above that is the item palette,  which contains all of the items that you can place on the map. On the left is the tool palette,  which contains a selection of tools for operating on the map.
+
+
+The Map Area
+
+This area consists of a 64 by 64 grid of squares, which is the maximum size of a Wolfenstein floor. Each square can contain one item, which may be a wall block, door, object or guard.
+
+A new level starts out filled up with stone blocks. This is because, for various reasons, it is best not to have any unused empty spaces in a Wolfenstein level. So, remember that to create a room you need to clear out an empty space as well as surrounding it by the type of wall you want.
+
+At the top left of a new map you will notice a small group of items: a starting position, a secret door, a guard and a piece of treasure. These constitute the smallest possible valid Wolfenstein level. Each level must have a starting position, and at least one guard, one treasure and one secret door, otherwise Wolfenstein may crash. It is recommended that you leave these items there until you have placed one of each elsewhere on your map; that way, you will always have a level that works.
+
+
+The Item Palette
+
+The item palette is used to select items to be placed on the map. Clicking on an item  makes it the current item  to be used by the editing tools described below. You can also select items in the palette by using the Walls 1, Walls 2, Doors, Furniture, Items, Treasures and Enemies menus.
+
+
+The Tool Palette
+
+      Selection Tool
+
+This tool is used to select a rectangular region of the map for further operations. You can move a selected region by clicking inside it and dragging. You can move a copy of the selected region by holding the Option key down while you click and drag.
+
+      Pencil Tool
+
+The Pencil places or erases items on the map. If you click on a square containing some item other than the current item, the current item is placed there and anywhere you drag to before releasing the mouse. If you click on a square which already contains the current item, the pencil will erase squares until you release the mouse.
+
+      Eraser Tool
+
+The Eraser simply erases whatever it touches on the map.
+
+      Eyedropper Tool
+
+The Eyedropper Ňsucks upÓ the item you click on in the map, and makes it the current item. You can also temporarily select the Eyedropper while using the Pencil, Paint Pot or Rectangle tools by holding down the Option key.
+
+      Paint Pot Tool
+
+The Paint Pot is used to fill in areas of the map. The square you click on and all adjacent areas containing the same item are filled with the current item.
+
+      Rectangle Tool
+
+The Rectangle Tool creates a rectangular empty space bordered with the current item.
+
+      Sound Tool
+
+The Sound Tool is used to control the way sound propagates between rooms. See the section below on Sound Areas  for more information.
+
+
+Map Editing Commands
+
+The following commands in the Edit menu are available for map editing:
+
+      Undo can be used to undo most map editing operations.
+
+      Cut, Copy, Paste and Clear can be used on selected regions of the map, both 
+      within a floor and between different floors.
+
+      Flip Horizontal, Flip Vertical, Rotate Left and Rotate Right 
+      perform the indicated operation on the selected map region.
+
+      Level Status displays a dialogue reporting the current number of rooms, doors, 
+      objects, guards, treasures and secret doors in the map, together with the limits on 
+      these imposed by Wolfenstein 3D.   ¶ I     $     $           	             ‹               š  	             ß  	            ç  	 
+	  
+	  6. Map Items
+
+This chapter takes you on a tour of the Item Palette, explaining what each group of items is for, and pointing out any special considerations associated with their use.
+
+
+Starting Positions
+
+
+When WolfEdit 1.0 was released, it seems many people couldn't tell what these symbols were meant to represent. So I'll spell it out: they're top views of a man holding a pistol out in front of him. They're used to specify the initial position and orientation of the player.
+
+You can only place one of these on the map at a time. If there is another one already present, it is automatically removed.
+
+
+Objects
+
+These items are pretty straightforward and self-explanatory.
+
+
+
+Decorative items: puddle, drum, table, lamp, chandelier, tree, flagpole, pot plant, urn, bones, light, bow, armour, cage, tub, pillar, barrel, dead guard.
+
+
+Health items: Dog food, food, first aid kit, extra life.
+
+
+Gold and silver keys which open the correspondingly-marked doors.
+
+
+Treasures: Cross, goblet, chest, crown.
+
+Weapons: Rifle, machine gun, flamethrower, rocket launcher.
+
+
+Ammunition: Clip and box of pistol/rifle rounds, backpack, flamethrower fuel, rockets.
+
+
+Enemies
+
+
+Guard, SS soldier, dog, officer, mutant.
+
+
+Hans Gršsse, Dr. Schabbs, Trans Gršsse, †bermutant, Death Knight (fires rockets), Mecha-Hitler, Hitler without suit.
+
+
+Ghosts. (If you haven't seen these before, it's because you haven't found the secret PacMan spoof levels in the scenarios that come with Wolfenstein.)
+
+Each of the enemies come in two varieties, selected by commands in the Enemies menu:
+
+     Plain        Enemies like this will come after you as soon as they hear you.
+
+    Ambush  Enemies like this will not attack you until they can see you.
+
+
+Ordinary Walls
+
+
+
+
+
+All four sides of these wall blocks have the same texture.
+
+
+Special Walls
+
+    Handrail
+
+This is the handrail which is found on the sides of the lifts in the Wolfenstein levels. It will only look like a handrail when seen from the north or south side. From the east or west side it will look like a Lift Control Panel (but won't work like one).
+
+   Outdoors
+
+From the north or south, this wall block appears as a daytime landscape. From the east or west, it appears as a night sky.
+
+
+Doors
+
+There are four types of door, each of which comes in two orientations, for a total of eight door items. The four types are:
+
+           Plain door
+
+          Doors requiring gold key
+
+         Doors requiring silver key
+
+           Lift door
+
+The lift door doesn't have to be used for lifts Đ it's just another style of door.
+
+When placing a door, you should choose one with the appropriate orientation, as illustrated below.
+
+                                               Door for north-south passage
+
+
+                                                                                        Door for
+                                                                                        east-west
+                                                                                        passage
+
+
+Don't place a door so that it opens directly into a wall. This may sound like an unnecessary piece of architectural advice, but people have been known to do it, and it doesn't work properly.
+
+
+Lifts
+
+Lifts are created using the Lift Control Panel items. Note that these items will only look like lift control panels when seen from the east or west side. From the north or south side they will look like handrails (but will function like lift controls).
+
+      Lift Control Panel
+
+This lift leads to the next floor in the sequence. If this is the last floor, activating the lift will end the game.
+
+     Alternate Lift Control Panel
+
+The destination of this lift is set using the Alternate Next Level menu of the Level Info dialogue (from the Edit menu). If no destination has been set, activating this lift will end the game.
+
+
+Secret Doors
+
+
+
+These items are used to create secret doors Đ those innocuous-looking walls which move back when you push on them, and open up new and exciting territory (well, it's up to you to make the territory exciting).
+
+To create a secret door:
+
+1) Place a wall block of the type you want.
+
+2) Place a secret door arrow on top of  the wall block.
+
+3) Place another wall block of exactly the same type  two squares away in the direction of motion. This is the Ňdestination blockÓ, the place the secret door will end up after it's been opened.
+
+Step 3 is important. If there is no destination block, it's in the wrong place, or it's not the same wall type as the secret door block, undesirable effects may occur, ranging from the secret door not being displayed properly to a crash.
+
+As a consequence of these rules, a secret door cannot be placed less than two squares away from the edge of the map.
+
+Here's an example of how to place a secret door properly:
+
+
+
+
+
+
+
+
+
+Don't let the player see the back of a secret door before it's been opened, because it won't look right.
+ 
+7. Rooms and Sound Areas
+
+This chapter explains what a room is and lists the rules you need to follow when creating rooms. It also explains how to control the way sound propagates between rooms and wakes up enemies.
+
+Rooms
+
+A room  is an area of empty space separated from other rooms by walls and doors. For example, the following piece of map contains three rooms:
+
+
+
+                                            1                                              2
+
+
+
+
+                                            3
+
+
+
+However, two otherwise separate rooms connected by a secret door count as one room, so this map has only two  rooms:
+
+
+
+
+
+
+
+
+
+
+
+Wolfenstein 3D only allows a maximum of 64 distinct rooms on one floor. So, don't leave unused empty spaces in the map Đ they'll unnecessarily count against your room limit.
+
+Wolfedit will automatically warn you if you try to close a floor containing too many rooms.
+
+Never create a room whose interior reaches the edge of the map. If the player attempts to walk off the edge of the world, Wolfenstein 3D may crash.
+
+Be careful of rooms which meet at a corner like this:
+
+
+
+
+
+
+
+
+
+This counts as two separate rooms, but the walls don't completely block them off from each other. If there is an object in the corner of one room, and the player stands on the other side, he will be able to pick the object up, even though it's in a different room. For example, in this situation,
+
+
+
+
+
+
+the player will be able to get the treasure. This is okay if it's what you want, but you should keep it in mind so that you don't accidentally allow solutions to your floor that you didn't intend.
+
+Another consequence is that in this situation,
+
+
+
+
+
+the guard can shoot the player through the wall!
+
+
+Sound Areas
+
+Normally, each room is a separate sound area.  This means that when you fire your gun, any guards in the same room will hear you and come after you (unless they're ambush guards) but guards in other rooms will not. 
+
+You can link two or more rooms together into a single sound area using the sound tool.  Any sounds you make in one of the rooms will then be heard in all the other rooms belonging to the same sound area.
+
+Sound Tool
+
+To link rooms together into one sound area, use the sound tool to place a sound marker  in each room, and give all the markers the same sound area number. 
+
+To place a sound marker in a room, click somewhere inside the room with the sound tool. You will get a dialogue asking you for a sound area number from 1 to 64. It doesn't matter what number you choose, as long as you give all markers that are to belong to the same sound area the same number.
+
+Here is an example of a pair of rooms marked as belonging to the same sound area:
+
+
+
+The rooms in this example happen to be adjacent, but that's not necessary. You can connect rooms on opposite sides of the map if you want, and sound will obligingly travel from one to the other without passing through any of the rooms in between!
+
+To change the number of a sound marker, click on it with the sound tool to bring up the sound marker dialogue.
+
+To delete a sound marker, click on it with the sound tool and press the Remove button in the dialogue.
+
+Don't place a sound marker on top of a wall Đ it's meaningless to do so and might cause strange things to happen. (There's no problem with placing a sound marker on top of an object or guard, however, and sometimes you may have to do this.)
+
+Don't place more than one sound marker in one room. It's never necessary, and it could lead to confusion if they have different numbers.
+ 
+ 
+8. Special Effects
+
+This chapter describes some special features of WolfEdit 2 that can be used to achieve effects not seen in any of the original Wolfenstein levels.
+
+To gain access to these features, select one or more map squares and use the Special Effects command from the Edit menu. The Special Effects dialogue will appear, and the options you select will be applied to all of the selected squares.
+
+
+Door Effects
+
+The following options in the Special Effects dialogue apply to doors.
+
+Flush Door causes the door to be aligned flush with one edge of the map square, instead of in the middle of the square as is usual. For doors leading north-south, you should use the North or South option to indicate which edge to align the door with. For doors leading east-west, use the East or West option.
+
+No Door Side Panels prevents the usual side panels from being placed either side of the door. The underlying wall texture will show through instead.
+
+
+Quarter Blocks
+
+The Quarter Blocks option allows you to divide a wall block up into quarters. The four check boxes turn the quarters on or off; a checked quarter is ŇsolidÓ, and an unchecked quarter is ŇemptyÓ.
+
+Note, however, that this effect is partly illusory. The whole map square is still ŇsolidÓ as far as being able to walk into it is concerned, so that you can't walk into a half or quarter sized space, and you can't place an object there.
+
+Using quarter blocks, it is possible to create a half-sized gap in a wall that you can see through and shoot through. Guards, however, will behave as though there were an opaque wall there. They won't see you or attempt to shoot you through the gap, and, like you, cannot run through it.
+
+9. Art Editing
+
+A major new feature of WolfEdit 2 is the ability to replace the artwork. You can change the appearance of walls, doors, objects and guards, as well as the status bar and Intermission screen. By doing this, you can not only create new floors, but turn Wolfenstein 3D into almost a completely different game. This chapter explains how to use these faciliies.
+
+The artwork can be divided into three general categories: Wall and sprite  art, which covers wall and door images and objects that move around in the game; Interface  art, which includes the status bar at the bottom of the screen and the images of weapons held by the player; and Title and Intermission  art, which covers the artwork appearing on the Title and Intermission screens.
+
+
+Preparing Art
+
+First prepare your artwork using your favourite drawing or painting application. For best results, the image should be exactly the right size. For wall and sprite art, this is 128 by 128 pixels; sizes for other types of art are given in the relevant sections below. If the artwork is not the right size, WolfEdit will scale it to fit.
+
+For best colour rendering, your image should be prepared using the same colour palettes that Wolfenstein 3D will use during play. There are three palettes, the Title Palette, the Game Palette and the Intermission Palette. The Title Palette is used for the title screen, the Intermission Palette is used for the intermission screen, and the Game Palette is used for everything else.
+
+For your convenience, colour palette files for some popular graphics applications, containing the default Wolfenstein palettes, have been included with WolfEdit 2. 
+Also included are stationery files for those applications with the Wolfenstein Game palette installed and various settings arranged in a way suitable for Wolfenstein art creation.
+
+If you find that the colours available in the Wolfenstein palettes are not sufficient for your needs, it is possible to change the palettes; see the section on Colour Palettes  below.
+
+
+Installing Art
+
+When your artwork is done, select it and Copy it to the clipboard. Then go to the appropriate art editing window in WolfEdit. The art editing windows are all reached using commands in the Art/Music menu. Depending on the type of art window, you may need to select which item you want to change. Now choose Paste from the Edit menu, and your new artwork will appear.
+
+
+Wall and Sprite Art Windows
+
+There are five art editing windows for walls and sprites, reached via the following commands in the Art/Music menu:
+
+Walls               for editing wall images.
+
+Doors               for editing door images.
+
+Objects            for editing inanimate objects.
+
+Enemies           for editing the animation sequences of the enemies.
+
+Projectiles       for items that fly through or float in the air.
+
+These windows have some features in common, and some that are unique to each window. The common features will be described first, followed by the special ones.
+
+All five of these windows have a large square in the bottom left corner; this is the art box,  where the art that you paste in will go. All except the Projectiles window have a palette across the top for selecting which image you want to change.
+
+When you select an item from this palette, a thick black border should appear around the art box. (If not, click on the art box.) This border indicates that the art box is the current target of cut-and-paste commands. If you now choose Paste from the Edit menu, your artwork will appear in the art box.
+
+Now select some other item from the palette. The message "Compressing Image" will appear; this may take a few seconds. When it has finished, you will notice that the small picture, or ŇthumbnailÓ, of the item in the palette has changed to a shrunken version of the image you pasted in. The same image will now appear in the map palettes, and wherever you use the item in a map.
+
+If you select an item which already has a custom image installed, the image will appear in the art box. You can Copy this image to the clipboard. You can Clear it, which will remove any custom image associated with the item and revert it to the default image built into Wolfenstein. You can also Cut it, which will do both of these.
+
+You can transfer artwork from one scenario to another by opening the relevant art windows of both scenarios and copying and pasting between them.
+
+
+Installing Thumbnails
+
+Depending on your artwork, you may find that the default thumbnail created by scaling down the image is difficult to recognise or to distinguish from other, similar ones. If you want, you can install a custom thumbnail for the selected image by clicking on the small square at the top right of the image box and choosing Paste from the Edit menu.
+
+If an item has a custom thumbnail installed, the thumbnail will no longer be changed when you paste an image into the main image box. To remove a custom thumbnail, and thus re-enable automatic thumbnail generation, select the thumbnail box and Clear it.
+
+
+Wall Art Window
+
+The Wall Art window has various special features due to the nature of walls in Wolfenstein 3D. Each wall block has two views, a north-south view and an east-west view. Normally both these views are the same, but it is possible to assign a different image to each view. (An example of this in Wolfenstein is the day/night outdoors wall type.)
+
+The View option selects which view of the wall is displayed in the image box. If the Split View option is turned off (the default for most walls), pasting an image into either view will change it for both views. If Split View is turned on, you can paste a different image into each view.
+
+The Shade option causes the image to be displayed in a slightly darker shade for that view during play. Normally this option is turned on for one view and off for the other, to enhance the contrast between two walls of the same type when they meet in a corner.
+
+The Mirror option causes the image to be reversed left-to-right for that view during play when seen from the north or east side. Usually this option is only used for doors (see the Door Art Window  section below).
+
+
+Door Art Window
+
+The item palette in the Door Art window contains five items: the four types of door, and the door side panel, which is the image placed on either side of a doorway.
+
+The following effects are available for these images:
+
+The Shade option has the same effect as for walls (see the Wall Art Window section above). However, it's not as useful for doors, since a door only has one view. If this option is turned on, all doors of that type will be shaded, regardless of their orientation.
+
+The Mirror option causes the image to be reversed left-to-right during play when seen from the north or east side. This option is normally turned on for doors, so that the handle appears in the correct place according to which side of the door you're looking at.
+
+
+Object Art Window
+
+Object images differ from wall and door images in that parts of an object image may be transparent. In the Wolfenstein colour palette, there are two white entries - one at the top left, and another further along. The one at the top left is Ňtransparent whiteÓ, and the other one is Ňopaque whiteÓ.
+
+You should fill the background of your object (the areas outside the object itself) with transparent white, and make sure any white areas that you don't want transparent are painted with opaque white. Then you should select a 128 by 128 pixel area framing your object. The object should be positioned within the frame the way you want it to be during play. For instance, an object which is supposed to be on the floor should be at the bottom of the frame.
+
+Note that you can change the appearance  of an object, but you can't change its behaviour.  This means, for instance, that you can make the puddle into a 10-foot high statue, but the player will still be able to walk through it. And you can turn the machine gun into a wardrobe, but the player will still be able to pick it up and shoot things with it. So, when re-designing an object, you should pick one with appropriate characteristics.
+
+Note also that there is no palette entry for the Dead Guard object. This is because the Dead Guard uses the ŇDeadÓ frame from the Brown Guard animation sequence (see the Enemy Art Window  section below).
+
+
+Enemy Art Window
+
+Each item in the Enemy Art window has not just a single image associated with it, but a  series of animation frames, selected by a pop-up menu. You can also step back and forth through the frames using the two buttons underneath the menu.
+
+A thumbnail will only be created from the image that you paste into the first  animation frame. If you want some other frame to be used for the thumbnail, select and Copy that frame's image, then Paste it into the thumbnail box.
+
+
+Projectile Art Window
+
+This window is used to edit some miscellaneous images that are used for various purposes in the game. Because these images don't correspond to any map items, there is a pop-up menu for selecting them instead of a palette, and there is no thumbnail box.
+
+The original versions of these images are as follows:
+
+Outgoing Rocket is a rocket flying away from you.
+
+Fireball is a ball of flame made by the flame thrower.
+
+Game Over is the lettering that floats in front of you when you die.
+
+Incoming Rocket is a rocket flying towards you.
+
+Explosion 1 is the first stage of a rocket explosion.
+
+Explosion 2 is the second stage of a rocket explosion.
+
+Incoming Hypodermic is a syringe being thrown at you by the Mad Doctor.
+
+Victory is the lettering that floats in front of you when you win the game.
+
+
+Title Screen and Get Psyched Windows
+
+The Title Screen window is used to set the picture that Wolfenstein displays before starting a scenario. Be aware that this picture will not be shown when you first open a scenario, since it gets loaded before the scenario file is opened. It will be shown, however, if you get killed and start the scenario over again.
+
+The Get Psyched window is used to replace the ŇGet PsychedÓ message that appears just before beginning a level.
+
+The sizes of these pictures are as follows:
+
+              Title Screen              512 x 384
+              Get Psyched            239 x 71
+
+
+Interface Art Windows
+
+There are three different sizes of Interface Art in Wolfenstein, which are used for different playing window sizes. Consequently, there are three Interface Art editing windows, reached via these commands in the Art/Music menu:
+
+Interface 320     for the 320 pixel wide screen format.
+Interface 512     for the 512 pixel wide screen formats.
+Interface 640     for the 640 pixel wide screen format.
+
+All of these windows function identically. There is a list of items on the left hand side; selecting one of the items causes the appropriate image to appear on the right. You can then use the Copy and Paste commands to change the image.
+
+There are three classes of image found in this window: Status Bar images, Weapons and Intermission Digits. The first two classes appear in all three Interface windows, whereas the third only appears in the Interface 512 window.
+
+Status Bar Images
+
+The Status Bar images include the status bar across the bottom of the screen and everything that appears within it. Each of the status bar images has a particular size, which is displayed above the image when you select the item. For best results, the image you paste in should be the same size.
+
+Weapons
+
+The Weapon images represent the weapons as they are seen when you are holding them in front of you. They come in groups of four, forming an animation sequence for firing the weapon. Unlike the status bar images, the weapon images do not have a fixed size; you can paste in any sized image up to the maximum size displayed above the frame, and it will automatically be placed in the bottom centre of the frame.
+
+Weapon images may have transparent areas, and the same considerations concerning transparent and opaque white apply as for the object and enemy images.
+
+Intermission Digits
+
+These are the digits used on the Intermission screen. They're somewhat out of place here, since they don't really have anything to do with the game window, but for some reason Wolfenstein stores them along with the Interface 512 images. There is only one set of Intermission Digits, which is used regardless of the screen size setting. They are displayed using the Intermission Palette rather than the Game Palette (see below).
+
+Interface 512 Caveat
+
+There is a complication to be aware of when changing the Interface 512 art. Wolfenstein seems to pre-load the Interface 512 art before opening the scenario file. As a result, if the screen width in WolfEdit's Preferences file is set to 512 (which it will be if that is the size last used), and the user plays a scenario containing custom Interface 512 art, Wolfenstein will not use the new art, and will use its built-in art instead. 
+
+If this happens, to get the new art it is necessary to switch to a different screen size and back to 512 during play. This is a nuisance, but short of patching Wolfenstein there doesn't seem to be anything that can be done about it.
+
+This problem does not apply to the 320 or 640 wide screens, only the 512.
+
+
+Intermission Art Window
+
+There are two windows for editing art associated with the Intermission screen, reached via commands in the Art/Music menu:
+
+Intermission Background       for the background picture.
+Intermission Animation           for the animation of BJ huffing and puffing.
+
+The Intermission Background window is very simple to use Đ just Paste in a picture. For best results it should be 512 by 384 pixels.
+
+The first time you open the Intermission Background window, it will contain a template which indicates the positions where the animation and scores will be displayed during play. You can Copy this template and use it as a guide when preparing your own background.
+
+The Intermission Animation window has a list on the left for selecting which animation frame to replace. There are three frames; Wolfenstein alternates between the first two   for a few seconds, then displays the third.
+
+Warning: The colour palette that Wolfenstein uses for the intermission screen is very unbalanced Đ it contains a lot of reds, oranges and yellows, and hardly any greens or blues. If you paste an image containing green or blue into one of the Intermission windows, it will almost certainly have the wrong colours during play. See the next section for how to fix this.
+
+
+Colour Palettes
+
+You can use the following commands from the Art/Music menu to install custom colour palettes into your scenario:
+
+Title Colours                           for colours used in the Title screen.
+Intermission Colours        for colours used in the Intermission screen.
+Game Colours                        for colours used everywhere else.
+
+If you are installing custom Title or Intermission art, you will almost certainly want to replace the associated palette.
+
+However, replacing the Game palette is a much more onerous undertaking. The reason is that if you change a colour in the Game palette, it will affect every  use of that colour in every  image that appears in the game window, in both Wolfenstein's built-in art and any custom art that you have already installed in your scenario.
+
+So, if you change the Game palette, you are then responsible for replacing every single piece of game artwork Đ walls, doors, objects, enemies, interface, the whole works.
+
+If you really want to do this, you should decide on the game palette you want first,  before you install any custom artwork, because any change you make to the palette later will invalidate any artwork you have already installed.
+
+
+Colour Palette Windows
+
+The colour palette windows have a 16x16 grid which displays the current colour palette, and some buttons down the right hand side.
+
+The Standard button installs a copy of the relevant one of Wolfenstein's built-in colour palettes.
+
+The System button installs a copy of the Macintosh standard system colour palette, which provides a good general-purpose range of colours.
+
+The Import... button allows you to import a colour palette from a file. WolfEdit should be able to interpret the colour palette files produced by most drawing and painting applications, although there is no guarantee that it will understand all of them.
+
+(Technical note: WolfEdit can read any colour palette file that contains a standard 'clut' resource.)
+
+The Export... button allows you to export the current colour palette as a file, so that you can load it into a drawing or painting application. Since WolfEdit doesn't know the file types used by all such applications, it will ask you to find an existing  colour palette file, and replace its contents with the colour palette being exported.
+
+The Edit button allows you to change an individual palette entry. Click on the entry you want to change and press Edit, or double-click the entry. You will get the Colour Picker so that you can select a new colour.
+
+
+Game Colours Window
+
+The Game Palette editing window has a couple of extra features. Two special entries in the palette are marked 'F' and 'C'; these are the colours used for the floor and ceiling. To change one of these entries, click on the colour you want to replace it with, and click the Floor or Ceiling button. The two colours will swap places in the palette.
+
+Alternatively, you can select the floor or ceiling entry and Edit it as above, but it is probably better to use the swapping method, because it leaves the range of colours provided by the palette unchanged.
+
+Note: you cannot  change just the floor and ceiling colours without affecting anything else! Like any other change to the game palette, changing the floor or ceiling colour will change every occurrence of that colour in all the game artwork

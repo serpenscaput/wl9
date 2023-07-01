@@ -1,0 +1,128 @@
+HELLO,MY FREINDS!
+
+
+
+Welcome to the easy-ass way to learn how to make good Wolfenstein levels with WolfEdit 1.1,or higher!
+
+
+
+
+
+OK,HERE WE GOOOOO!!!!!!!! 
+
+
+
+Ok,Let's get started...
+
+
+First thing's first...
+
+(((Click me)))
+
+
+Oh,yeah...whenever you see an anarchy symbol,there's going to be something important behind it!
+
+Anyway...
+
+1. Always remember to test your levels whenever you make a new revision! I have seen too many levels where people obviously didn't do this,and inevitably missed something,beit a bug,glitch,missing exit,(seriously),inoperable doors or secrets,(which I have fixed in the past just to play the level),or even a missing wall (causing the game to crash my system),and it's BAD!
+(I don't mean crappy,I mean downright terrible!)
+
+2.Be creative! Continuity wouldn't hurt,either...
+TRY to hide the secrets..OK?
+It REALLY looks obvious when you see an entire wall of grey blocks--and then one red brick one in the middle. Thank you,Dr.Obvious...
+
+3.Now,I know this sounds unneccesary,but...
+The Wolfenstein 3D engine can only handle so much in a particular floor!
+DO NOT,and I repeat,DO NOT exeed its limits!
+This looks soooooo stupid!
+After a certain number of objects,guards,and items,64 per room,200 per floor,things will start disappearing and reappering at random...this may SOUND cool,but it doesn't look that way!
+At this point,slowdown will occur,as well;so go easy on the engine,will ya?
+
+4.Also,I don't find it cool to walk into a room and see a dozen guards staring at me,either.
+I really don't appreciate that kind of stuff,and neither will your audience.  
+
+Chapter 2:Getting started   
+
+CHAPTER 3: GUARDS!
+
+1.Your most useful guard (besides a boss) will be a sleeping guard. (You know,the one with a giant Z over his head?)
+They are extremely useful in the fact that the only shoot on sight. Try placing them around tight corners...OUCH!
+
+2.Remember:No Z,no control!
+Plain guards will hunt you down as soon as they can hear you.
+Use this in your strategy of level making.
+
+3.WOOF! Everyone's favorite,dogs!
+I will admit,they are VERY limited,(come on,they cant open doors,and don't drop ammo...wait,that could be used...),but they come in handy...
+One thing I like to do is put a couple of dogs somewhere,and then put some dog food closeby,you know,for novelty purposes?
+
+
+
+CHAPTER 4: BOSSES!
+
+
+1.This is a touchy area that I'm going to tackle,but if I must...
+Be careful with boss placement,don't put him too close to an entrance or exit...make the player sweat a little.
+
+2.Also,when using multiple bosses,make sure there is enough ammo & health to go between them.
+
+3.An exception,here: if using multiples,you'll probably already have all keys necsessary to complete the level;then,maybe putting a random boss directly at the exit is OK.
+
+
+CHAPTER 5: ITEMS!
+
+
+1.Well,just remember to have plenty of items to break up the monotony of killing people.
+
+2.Try to hide them by matching them as closely as possible with an object or wall texture.
+
+3.In big rooms,put 'em in far corners.
+
+4.Putting them in open spaces where guards would be triggered is not a bad idea,either...
+
+
+CHAPTER 6: TREASURE!
+
+
+1.Put some out in the open,some in hidden rooms,and some in inconspicuous places-make  'em hunt for it...
+
+2.Lots of treasure in rooms that bosses are in comes off pretty cool,too.
+
+
+CHAPTER 7: SECRETS!
+
+
+1.Don't make them too obvious--click me!Ę
+
+2.Another tip:did you know that the same block can be pushed over and over? It's true! Check the diagram...
+
+
+Decoration optional...
+
+3.Don't always put them in a corner or center of a wall...mix it up!
+Try putting them where they wouldn't have time to think about it...   
+
+
+CHAPTER 8: MICSELLANEOUS!
+
+
+1.THEME! THEME!! THEME!!!
+Repititititititititition sucks without a theme!
+Try to liven up your levels from time to time!
+Maybe some thought and originality,maybe?
+
+2.The Readme document...
+Take some time and think up a good story to go with your level-I know you can do it.   
+
+
+
+Well,that's all for now.
+If you have any questions,comments,or sugestions,e-mail me at:
+
+
+
+ MWatson361
+
+
+
+(Click here to quit)
