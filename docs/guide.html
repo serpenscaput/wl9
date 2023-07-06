@@ -65,7 +65,7 @@ Using the above knowledge, draw a room in the editor (or many rooms if you feel 
 <center><img src="pics/guide06.png" width=900 height=901 style="border:8px outset #956136;"></center>
 <p>
 
-Excluding special cases, objects can be roughly divided into two groups: decoratives and pickups. As the name suggests, the former mostly serve aesthetic purposes, though with some thought they can be made to perform other functions. Decorative objects either block you and your enemies (example: white column, table with chairs), or they don't (brown basket, vines). Blocking objects look nice, but they can also be used to affect enemy movement or hinder the player's movement. Vines can obscure the player's view.
+Excluding special cases, objects can be roughly divided into two groups: decoratives and pickups. As the name suggests, the former mostly serve aesthetic purposes, though with some thought they can be made to perform other functions. Decorative objects either block you and your enemies (example: white column, table with chairs), or they don't (brown basket, vines). Blocking objects look nice, but they can also be used to affect enemy movement or hinder the player's movement. Vines can obscure the player's view. Just make sure that your blocking objects don't prevent the player from actually finishing the map by obstructing a crucial path. Playtesting your map once in a while is a never a bad idea.
 
 <center><img src="pics/guide07.png" width=233 height=288 style="border:8px outset #956136;"></center>
 <p>
@@ -82,7 +82,9 @@ Finally, enemies. They're all wacky Nazis and their dogs. We have: doggos, brown
 &nbsp;&nbsp;&nbsp;1 - means the enemy will be present on all difficulty levels<br>
 &nbsp;&nbsp;&nbsp;3 - only on Bring 'Em On and above<br>
 &nbsp;&nbsp;&nbsp;4 - only on Death Incarnate<br></b>
-Enemies can also be moving or stationary. In terms of moving enemies, here's where the special "turning point" objects come in handy: you can create elaborate patrolling paths for a bunch of enemies, just be careful so they don't get into each other's way and don't walk into static objects. Oh, and dogs are always moving, they have no stationary variant. On the other hand, bosses are always stationary. As an interesting piece of trivia, bosses are oriented southward, so if you approach a boss from the north side, he or she will not actually see you.
+Enemies can also be moving or stationary. In terms of moving enemies, here's where the special "turning point" objects come in handy: you can create elaborate patrolling paths for a bunch of enemies, just be careful so they don't get into each other's way and don't walk into static objects. Oh, and dogs are always moving, they have no stationary variant. 
+
+A few words about bosses specifically. First, bosses are always stationary, but there's no point in using the deaf guard floor code on them as they don't react to the sound of your gunfire anyway. As an interesting piece of trivia, depsite appearances, each boss has his own orientation and will not notice you if you approach from the opposite side. Specifically, Fake Hitler, Gretel and Giftmacher face north, while all other bosses face south. This is only true for DOS though, so if you're mapping for SDL or ECWolf, don't worry about it.
 <p>
 <center><img src="pics/guide09.png" width=233 height=231 style="border:8px outset #956136;"></center>
 <p>
@@ -92,7 +94,7 @@ All right then. Put the start position inside the room you made before, then cre
 <center><img src="pics/guide10.png" width=905 height=905 style="border:8px outset #956136;"></center>
 <p>
 <i>
-A word of warning: the vanilla version of Wolfenstein 3D and Spear of Destiny has some limits. So, you can have up to <u>149 enemies, up to 399 static objects (you can technically have a bit more, but the enemies won't drop ammo) and up to 64 doors</u>. Think ahead with these in mind when mapping for vanilla Wolf... or ask someone to remove these limits for you.
+A word of warning: the vanilla version of Wolfenstein 3D and Spear of Destiny has some limits. So, you can have up to <u>149 enemies, up to 399 static objects (you can technically have a bit more, but the enemies won't drop ammo) and up to 64 doors</u>. There is also a limit of objects visible on the screen at the same time: if there's too many, some of them will disappear.  Think ahead with these limits in mind when mapping for vanilla Wolf... or ask someone to remove these limits for you.
 </i>
 <p>
 And that's all. You've completed your first simple map and you're ready to make another step. Oh, and while this guide was written with Wolfenstein 3D in mind, mapping for Spear of Destiny is almost identical in nature. You simply have a slightly different set of walls, objects and bosses to choose from. Now go and make some maps!
