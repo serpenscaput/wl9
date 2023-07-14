@@ -1,0 +1,4 @@
+If you remember the two Strangestein scenarios, this should be a treat. George Rodriguez comes back in Wolfenbot. Unfortunately this is only a single-map demo, but it does feature his signature enemies rendered in StrataVision (mostly robotic, as the scenario's name suggests). There's no storyline attached, just a brief readme explaining that creating a full scenario is a lot of work and he failed to do so before Christmas (that's Christmas 2002 folks, over 20 years ago), so have a demo instead. The one map included is decently fleshed out, if a bit mazy at times. Nonetheless, enjoy.
+
+==CREDITS===
+George Rodriguez
