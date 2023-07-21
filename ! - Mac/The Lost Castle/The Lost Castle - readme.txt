@@ -1,0 +1,8 @@
+The Lost Castle is a 21-level scenario meant to be played with either the Second or Third Encounter. I went for Third Encounter compatibility, but you can change that easily in the GAMEDICT. Either way, the mod was made by Alan Clem. We've already seen his work in Dungeon Quest and Operation Ravage before. 
+
+There's a short story attached to it: after the defeat of the Third Reich, a small band of the SS went into hiding for decades (where?), gradually rebuilding their army (how?). Now that they're out in the open again, the United Nations actually did something and concluded that the correct approuch to this proplem is to send you as an advanced one-man strike force preceding the actual armed assault. You're up against hundreds of guards and a bunch of new bosses, including the mysterious Spirit of the Swastika. 
+
+Gameplay-wise, it's a pretty interesting scenario. Maps are decent and varied: some are gimmicky, some non-linear, there's always something fun about them. They're also pretty tough (for example, when mutants start showing up in the second part of the set, they show up in LARGE numbers). There's a lot of new graphics: most notably, a few bosses come from the Lost Episodes, and instead of the chaingun you'll be wielding two machine guns akimbo. I'm not sure about other graphics, but at least some of the walls appear to be custom-made for this mod. All in all, a neat scenario worth trying out.
+
+===CREDITS===
+Alan Clem (who can't spell for crap).

@@ -1,0 +1,4 @@
+More Wolf is a compilation of five mapsets. Namely: The Natural, The Real Impact, Valentines Day Prisoner, Visiting Provincetown (yeah, again) and Whoa is Me. Authorship is unknown, but mapping style throughout all five sets strongly indicates the same authorship in every case. Said mapping style is rather familiar: long, narrow passages connect mostly rectangular rooms with enemies everywhere in-between. Maps are generally quite extensive, often filling up a considerable chunk of the 64x64 grid. Nothing more to say, really... There's no readme, no storyline, no trivia. Just 24 floors for you to enjoy. More, always more.
+
+===CREDITS===
+No clue.
