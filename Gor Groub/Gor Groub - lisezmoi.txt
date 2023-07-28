@@ -1,0 +1,108 @@
+                    **** GOR GROUB' - Wolfenstein 3D ****
+                               janvier 1994
+
+                        Une production Dan's & Jasm'
+
+
+Bienvenue dans ce monde fantastique, et un tantinet violent, qu'est
+Wolfenstein. Aujourd'hui nous avons le plaisir de vous proposer dix niveaux,
+difficiles … accomplir.
+Nous d‚clinons toute responsabilit‚ quant … tout problŠme physiologique ou
+psychique qui pourrait survenir lors de l'utilisation de cette disquette.
+Alors acharnez-vous, mais pas trop quand-mˆme ... .
+
+
+
+I/ HISTORIQUE :
+
+1/ Concepteurs :
+      FREDE & FRED : concepteurs et testeurs du niveau secret (10),
+      DAN'S : concepteur du niveau 1 et testeur,
+      JASM' : concepteur, testeur, r‚parateur et coordinateur.
+
+      Merci … tous.
+
+2/ Niveaux :
+      Il aura fallu environ 15 heures de patience pour la construction
+pure.
+      Les tests auront pris environ 10 heures.
+      Les recherches des divers bogues : env. 7 heures.
+      Divers (disquette, ce fichier, compactage, fichiers batch) : 2 heures.
+
+      Soit un total approximatif de 34 heures.
+   
+      Les niveaux sont rassembl‚s dans la mission 1, soient 10 niveaux 
+particuliŠrement charg‚s.
+      1207 ennemis sont … d‚gommer f‚rocement.
+
+3/ Remerciements:
+      Les auteurs ne demandent pas l'aum“me, mais ils seraient touch‚s
+d'un geste (par exemple un chŠque).
+
+      La pr‚sente version co–te 20 francs pour son utilisation ; uniquement
+si vous ˆtes satisfait de notre version.
+
+      Remarque : nous considŠrerons cela comme un encouragement … crŠer de
+nouveaux niveaux, puisque cela vous aura plu.
+
+      Notre adresse :   M. ROTH Daniel
+                        10, rue de la Savoureuse
+                        90200  LEPUIX-GY
+                        (FRANCE)
+
+
+
+II/ INSTALLATION :
+
+1/ Rendez vous dans le r‚pertoire dans lequel vous avez copi‚ cette version 
+et tapez "INSTALL".
+  
+Remarque : s'il apparaŒt "nom de fichier d‚j… existant ou fichier introu-
+vable", ne vous alarmez point.
+
+2/ Surtout ne faites plus rien, c'est le g‚nie des concepteurs qui prend le
+relai, vous dispensant de toutes manipulations fastidieuses (merci les
+auteurs !).
+
+3/ Une fois l'installation termin‚e lancez normalement votre jeu 
+"WOLFENSTEIN".
+
+Remarques : - il est n‚cessaire que le jeu soit d‚j… install‚ dans le r‚per-
+toire pour faire fonctionner le jeu et ainsi go–ter aux nouveaux niveaux
+particuliŠrement difficiles de "GOR GROUB'" (et ce n'est rien de l'affirmer),
+            - utiliser uniquement la mission 1 et choisissez "I'm a death
+incarnate", sauf … ˆtre un d‚gonfl‚ et dans ce cas ces niveaux ne vous
+concernent pas,
+            - en cas de dysfonctionnement, et ce malgr‚ le g‚nie d‚j… ‚voqu‚,
+n'h‚sitez pas … pr‚venir (gentimment) les auteurs : ils se feront un plaisir
+de montrer o— se situe votre erreur probable de manipulation,
+            - vos anciens fichiers sont sauvegard‚s avec l'extension "AR?".
+Ainsi vous pourrez toujours, une fois termin‚s les niveaux "GOR GROUB'" (et
+seulement dans ce cas !), rappeler vos niveaux ant‚rieurs et ainsi se rendre
+compte … quel point ils sont pitoyables (voir d‚sinstallation pour la
+proc‚dure).
+
+
+
+III/ DESINSTALLATION :
+
+Tapez tout simplement "UNINSTAL", et vous reviendrez … la situation
+ant‚rieure.
+Remarquez que par bont‚, nous laissons les fichiers "GOR GROUB'" dans le
+r‚pertoire sous l'extension "GG". Ainsi pour pourrez … tout moment vous
+replonger dans l'enfer, le vrai.
+
+
+Bon jeu.
+
+
+                                                                Les auteurs.
+
+
+
+
+
+
+
+
+

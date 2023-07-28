@@ -1,0 +1,30 @@
+
+                        °°±±²² WOLFDOOM °°±±²² 
+                        ----------------------
+         
+                             Version  1.0
+                             -------  ---
+
+                             PACKING LIST 
+
+     (This is a list of all files contained in the Wolfdoom package)
+     
+
+       FILE_ID.DIZ      - Wolfdoom information.
+
+       PACKING.LST      - List of files in the Wolfdoom package.
+
+       WOLFDOOM.DOC     - Instructions to install and run Wolf3d 
+                          with new graphics.
+
+       WOLFDOOM.ZIP     - Archive contain vswap.doo
+                          (vswap.wl6 file modified).
+
+       WDOOMON.BAT      - Install batch file
+
+       WDOOMOFF.BAT     - Uninstall batch file.
+
+       WOLF3D01.GIF     - Screen capture (Wolf3d with new graphics).
+       WOLF3D02.GIF
+       WOLF3D03.GIF
+       WOLF3D04.GIF
