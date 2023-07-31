@@ -1,0 +1,4 @@
+The year is God knows what and Hitler is controlling an army of zombies from beyond the grave, hoping to create the Sixth Reich. You have just escaped a musty German holding cell and you're surrounded by guard dogs, with only a pistol to defend yourself with. This is WolfenMeister by Rockin, 22 very difficult maps for the Second Encounter. This mapset is replete with layouts designed to make your life miserable and populated with hordes and hordes of guards, with quite a few bosses to boot. However, the author ensures us that every map is beatable, every encounter winnable, the amount of resources you get - calculated to be just enough. Give it a go if you're not afraid of death and similar conditions.
+
+===CREDITS===
+Rockin (at) AOL (dot) com
