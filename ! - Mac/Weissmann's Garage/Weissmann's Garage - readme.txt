@@ -1,0 +1,4 @@
+Weissmann's Garage by philshzone9 is a three-level scenario for the Third Encounter. There's no readme included, so one can only deduce and infer. Based on the title and included new graphics (quite a few walls and sprites, though a good deal of them appears to come from other mods), especially the number of vehicular enemies encountered throughout, we seem to be tasked with raiding and destroying some sort of German motorized corps. Perhaps my memory is failing me, but this theme seems to be much more common on Mac than among PC mods, where I can only think of Tankenstein and Letzterschutz. Although three maps does not seem like much, they are fair, neatly designed and pretty extensive. Not a bad job overall.
+
+===CREDITS===
+philshzone9
