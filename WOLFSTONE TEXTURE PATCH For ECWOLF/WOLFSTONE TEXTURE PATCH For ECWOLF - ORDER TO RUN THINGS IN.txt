@@ -1,0 +1,11 @@
+In order for the new textures to appear in game , you must run them in the order listed.
+
+1. Allied Powers Textures .PK3
+
+2. Wolfstone .PK3 (it must be the version of Wolfstone thats in this zip file otherwise it won't work
+
+3. Wolfstone Resources .PK3
+
+Drag and drop them into ECWOLF , and the textures will appear in game.
+
+-Enjoy!
