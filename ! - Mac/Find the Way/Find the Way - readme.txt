@@ -1,0 +1,4 @@
+Find the Way is a single-map Second Encounter scenario made by Francis Talbot. It does not say "Demo" or anything, but for all purposes, the scenario is unfinished. First of all, only one map? Second of all, there's a good number of new graphics and even sounds included, but a whole bunch hasn't even been used for anything, plus most enemy sprite sets lack custom death frames, so you'll have a Doom II chaingunner suddenly transform into an SS upon death, for example. Enemies are all from Doom, while most other sprites and wall textures are edited versions of vanilla assets. The readme is very short and completely incomprehensible. The sole map is nothing special and ends abruptly in a massive boss battle. All in all, seems very much like a work in progress. But hey, maybe you'll enjoy what's there. Give it a go, you never know.
+
+===CREDITS===
+Francis Talbot.
