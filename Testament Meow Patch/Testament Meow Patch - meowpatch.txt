@@ -1,0 +1,9 @@
+This patch fixes the "meow"-door closing sound.
+Place it in your Testament folder in the "sounds" folder.
+Replace the original sound.
+Voila!
+
+keep on wolfing!
+-Tris
+
+http://www.wolfenstein3d.nl
