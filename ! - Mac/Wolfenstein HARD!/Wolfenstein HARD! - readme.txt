@@ -1,0 +1,4 @@
+Technically eight scenarios named Floor 1 through Floor 8, Wolfenstein HARD! by Tyko Haapala is an 8-level First Encounter mod. There's not very much to say about it. The maps are all very small and very simple. Difficulty ranges from non-existent to extreme as you can find rooms filled to the brim with bosses in late floors. Stay alert. In the readme, the author promises a special offer: send him a clean floppy and he will send back "SPECIAL WOLFENSTEIN 5 LEVELS", whatever that means. Interestingly, the readme also says that Tyko didn't make everything in this set of maps, which is odd given how small and similar all the maps are. Did he borrow the designs from elsewhere and add more enemies, or something? Guess we'll never know.
+
+===CREDITS===
+Tyko Haapala.
