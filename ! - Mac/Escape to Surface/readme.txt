@@ -1,0 +1,4 @@
+Escape to Surface by BaitnSatan: five maps for the Third Encounter (although the readme only mentions four maps for some reason; also the build time is 3 hours). A bit more meat on this one. The story so far: the Allies are already fighting on the outskirts of Berlin and you're sent on a solo mission to capture Hitler so he doesn't get away on the basis of diplomatic immunity (clever bastard). Unfortunately, you're captured and have to fight your way out of a Natzee dungeon. Now where have I heard this before? The maps range from very small to somewhat robust and they provide some decent variety: there's even a kennel sort of level where you kill a truckload of dogs (I've heard this one before as well). Once again, the scenario was meant to be larger than what we have here, but it never happened. Shame.
+
+===CREDITS===
+BaitnSatan.            
