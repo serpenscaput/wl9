@@ -1,0 +1,29 @@
+
+CREDITS
+
+Original game : Wolfenstein 3D (id Software)
+
+Map editor used : Havoc's Wolf3D Editor (Havoc)
+
+New sprites    : Spear of Destiny (id Software)
+              
+New sounds   : Sper of Destiny (id Software)
+
+New music : Spear of Destiny (id Software / Bobby Prince)
+
+Coding reference  : ECwolf Resource pack (Astro Creep)
+
+                    Wolf Overdrive (Thomas Weiling)
+                
+                    Totenhaus_ECWolf (Astro Creep / Laz Rojas)
+              
+                    ECwolf HDpack (CeeJay)
+
+*Hans' new sprite was made by me.
+
+
+2023/9/1
+
+Ozeki
+
+                 
