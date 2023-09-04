@@ -1,0 +1,4 @@
+Hot on the heels of Compact Maps 5 come... Compact Maps 6 by Josh Mills! Don't worry, it's the last one. There are four single-map scenarios to be found here: Carter & Lucy Eat Chicken, Fishin' With Gil, Je Suis Francais and Luck Be a Lady Tonight; according to the readme they're taken from Temple of Doom and Castle Wolfenstein. Once again, while there's a good deal of enclosed, claustrophobic spaces, these maps aren't compact in the meaning of "small"; in fact they're all large to very large, with sizable par times to boot. Plenty of interesting layouts in this one. Guards abound, but you get a lot of ammo to handle the incoming hordes. Health appears to be a bit scarce though, at least at a glance, most of it doled out as dog food. There aren't that many Josh Mills scenarios left to port, so enjoy these while they last.
+
+===CREDITS===
+Josh Mills.
