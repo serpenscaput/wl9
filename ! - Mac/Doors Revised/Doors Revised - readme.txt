@@ -1,0 +1,4 @@
+Doors Revised is a three-level scenario for the First Encounter. Clubey says this was supposed to be a more extensive scenario, but after getting a new computer, he started experiencing the PowerPC Problem (I don't know what that is; Dermuda, help!), so Clubey decided to leave it alone, but not before revising it slightly to make the aforementioned problem less pronounced. The scenario consists of three maps with a huge number of doors and a similarly huge number of enemies behind these doors. Areas are extremely cramped, there's pretty much no elbow room and the scenario probably can't be beaten without tricks like corner shooting/stabbing.
+
+===CREDITS===
+Clubey.
