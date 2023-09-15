@@ -1,0 +1,4 @@
+Now comes Maze.1. Authorship is unknown, though the first map spells out "ERIC N' ALEX" in the editor. There's five maps in total, but only the first one has a real maze and it's a really hellish one. Think E6M2 but much, much bigger. The remaining maps are more "normal", so to speak, but there's still something odd about each of them, for example the second one is populated entirely by throngs of dogs, while in the third one you can go out of bounds and crash your game. Have fun.
+
+===CREDITS===
+Uncertain.
