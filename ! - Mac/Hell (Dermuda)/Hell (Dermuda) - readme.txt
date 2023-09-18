@@ -1,0 +1,8 @@
+We have three scenarios today, all single map Third Encounter releases. They are called Heaven, Pergetry (sic!) and Hell, and they're all courtesy of our resident Mac expert, Dermuda. A round of applause, please! Thank you! 
+
+Heaven is the earlies of these three, dating back possibly to 1996, then destroyed in an industrial accident and re-created from memory. This reconstruction involves the scenario as it was originally made, plus a successful trollign attempt by Dermuda's sister. You'll know it when you see it, I guess. Either way, the sole map largely consists of a huge room with the letters "HEAVEN" spelled with walls, as seen in the editor. In fact, spelling out the name like that is true for all three scenarios ported today. Thus, the same goes for Pergetry, which is a dyslexic version of the word "purgatory". Turns out it ain't so bad over there, what with all the free crowns and stuff. The sole map of Pergetry was later repurposed and used in Crimson Kahnage (and made considerably harder along the way).
+
+Then there's Hell. There are actually two versions of Hell: one dated to July 2000, and a newer, slightly revised one, a few months younger. Of course, we present you with both. Unlike the other two, Hell includes new graphics (in fact it was originally conceived as a total conversion): hellish wall textures abound, and some enemies have been given a new hell-themed look as well. The scenario's sole map is said to be very difficult; in fact, there are more enemies than you can possibly kill, so there will come a time when you will have no choice but run away. But you're not afraid of a little challenge, are you? Didn't think so. Play, die, play again. It goes on and on, on and on and on...
+
+===CREDITS===
+Dermuda.
