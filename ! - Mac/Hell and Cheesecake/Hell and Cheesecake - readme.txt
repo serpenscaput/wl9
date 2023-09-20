@@ -1,0 +1,4 @@
+Hell and Cheesecake by timberlanr is a 2-level scenario for the Second Encounter. There's a bit of a backstory to this one: you accidentally crash your plane into a mountain and wake up inside a secret Nazi cybernetics lab. Hitler is here, working on some dangerous projects, and it's up to you to stop him. Thankfully, your plane was transporting small arms for the front lines, so you find yourself among a scattered cache of resources. What does this mean in practice? Well, you get a huge amount of weapons and ammo and go blow away several bosses. Compared to the usual difficulty of Mac mods, this one is almost too easy.
+
+===CREDITS===
+Timberlanr.
