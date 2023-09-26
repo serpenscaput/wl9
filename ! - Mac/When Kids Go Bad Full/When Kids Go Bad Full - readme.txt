@@ -1,0 +1,6 @@
+Why Kids Go Bad by Clubey is a 20-map scenario for the First Encounter. It's a TC, almost all graphics having been replaced. You are Tettsun and you're fighting an unknown enemy. Your foe has deprived the world at large of all its chocolate and cakes. Obviously, this will not do. Take the fight to the enemy and destroy an army of your own clones in order to bring sweetness back to the people who desire it (mostly kids). The all new wall textures are predictably themed around diabetes inducers, predominantly chocolate and gingerbread, while new enemies are of the diminutive, cute kind. The twenty levels included are a diverse bunch: for some reason, the first six are all variations on First Encounter floors, while some of the latter appear to be built upon heavily modified WolfMaker output, but most of them are original and true to Clubey's usual manner of mapping. 
+
+The scenario also has a demo, totaling 6 levels. The only differences I noticed is the lack of some graphics in the demo version. It's nonetheless included, for completeness' sake.
+
+===CREDITS===
+Clubey!

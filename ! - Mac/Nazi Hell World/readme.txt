@@ -1,0 +1,4 @@
+We have two hell scenarios that comprise the official hell mod supplement. In Nazi Hell World by Painguy, we have six maps for the First Encounter. The designs involved are somewhat peculiar at times, some of the levels being not much more than a straight line filled with pickups, while another one is just the words "NO CHEATING" written with walls, with a bunch of bosses stuffed inside the O. Odd stuff indeed. To Hell and Back by an unknown author is a somewhat more traditional mapset for the First Encounter. Its maps start out small and slowly grow in complexity. This goes on for nine levels, the last of them being an unfinished stub of a floor. You decide if it's worth your time.
+
+===CREDITS===
+Painguy and unknown.
