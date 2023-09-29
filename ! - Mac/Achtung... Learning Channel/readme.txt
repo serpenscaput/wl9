@@ -1,0 +1,4 @@
+Achtung... Learning Channel by Richard Peck is an 8-level scenario for the Third Encounter. As you may already know, Richard Peck or RDP is a major name in the Mac modding scene. Having made dozens of scenarios (some of them probably unreleased), his sheer mapping body count goes into the hundreds, only matched by the likes of Thomas Weiling. His maps are rife with interesting combat scenarios and creative designs, though there's also a fair share of your basic square rooms and tight passages. Difficulty level is generally high, involving many enemies and obligatory secret pushwalls.
+
+===CREDITS===
+RDP
