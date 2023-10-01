@@ -1,0 +1,8 @@
+B-bonanza!
+
+After three long years (has it really been that long already?), it's finally time to start porting one of the most sizable of the Wolfenstein 3D Mac modding scene: Wolfenstein Blowout. I mean, technically I have already started it last time by porting Actung Shabbs, but now it's official. Part of Awesome Resurrection III, Wolfenstein Blowout consists of myriad scenarios for the First, Second and Third Encounter by Andres Vialpando and Taya. There are dozens of scenarios in there and it's about time to start bringing them to the table.
+
+We begin this monumental task by porting all of Taya's Third Encounter scenarios. A Quick Clean Battle is just what the title says: a single map where you fight just a few enemies in total... but some of them are tough cookies. A Very Silly Level (1 map) also has a fitting name; you're probably not going to beat this one without cheats. House of Death (1 map), in turn, is almost unreasonably generous with its pickups, but looking at the enemy rooster, you're going to need them. The 2-level scenario called The Education of Mutants does not actually feature all that many mutants. Its first map is the most extensive one in the whole release; among other things, it involves a room with every wall and object in the game. And finally, Today is Evil (Stupid Name) is mostly notable for its heavy usage of Pacman ghosts. Well, and officers. One level only.
+
+===CREDITS===
+Taya.
