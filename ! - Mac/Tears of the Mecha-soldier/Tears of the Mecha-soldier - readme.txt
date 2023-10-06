@@ -1,0 +1,4 @@
+After porting The Tears of Dolly last time, I thought I might as well follow it up with Tears of the Mecha-soldier by Yoshimichi Endoh. As far as I know, the similarly titled scenarios have nothing to do with each other, except for having been made by a Japanese author. Faced with constantly decreased recruitment rates, neo-Nazi organizations turn to science to salvage themselves, creating mechanized soldiers. The building you are currently surveilling turns out to be full of thousands of robots. Reinforcements will be late, so it's up to you to stop the ugly Nazis and their mecha-friends from taking over the city. The maps (there are five) are very square and symmetrical, and I'm pretty sure there are more bosses than regular guards on some of them. Two versions are provided: for the First and the Second Encounter. Both are included in this release.
+
+===CREDITS===
+Yoshimichi Endoh.
