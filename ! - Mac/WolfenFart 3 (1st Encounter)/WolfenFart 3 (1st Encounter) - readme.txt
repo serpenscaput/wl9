@@ -1,0 +1,6 @@
+WolfenFart 2 (1st Encounter) by Taya consists of four separate, small scenarios. In The big house, you will end up figthing several bosses in a very large room (as appropriate for the scenario's name). Triex outpost is a pretty basic romp through several simple rooms. Tutti Frutti is the most complex of all four scenarios in this release; there's some interesting room designs and combat scenarios. Finally, wachtendonk escape is the only scenario here with three levels (the others all have one map). A lof ot open spaces to fight in and a bushel of bosses to defeat.
+
+WolfenFart 3 (1st Encounter) also consist of four small scenarios. Assault on front Brownstein is a very simple, very brown and very bloody affair. Bloodstone HQ is a very extensive map populated mostly by brown guards, though there are also SS and bosses on your way towards 100% ratios. Hide and go seek is nothing to write home about, a very basic level. And finally, The Quest For The Holy Grail has two maps (all the other scenarios, again, have one) is very brown, featuring mostly narrow passages with merely intermittent combat to be had.
+
+===CREDITS===
+Taya.

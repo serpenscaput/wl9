@@ -1,0 +1,24 @@
+"Read Me" file
+RMWolf 3D  - 6 Million Encounter
+Version 0.88b
+
+Thanks for playing RMWolf 3D ! This "Read Me" file will hold information on how to setup game and go further. End notes includes copyright notice.
+
+Installing the map to your hard disk
+
+To install the game to your hard disk, just drag the "RMWolf 3D - 6 Million Encounter" to Wolfenstein 3D /Levels/ folder.
+
+Quick Start
+
+Set game difficulty to the most easy setting to speed up the game play as thought.
+
+Requirements
+
+RMWolf 3D  - 6 Million Encounter runs on all Macintosh computers with Wolfenstein 3D  Second encounter and up.
+
+License
+
+You may share RMWolf 3D  only in it´s full context. Whatever the software cause You and or others are not our problem so, use only at own risk. 
+
+
+RMWolf 3D Copyright (c) (p) 2016 NSOW and SMRLite. RMWolf 3D - 6 Million Encounter and RymdMus are copyright of NSOW. Some graphics may belong to public domain. All rights reserved to respective copyright owner.
