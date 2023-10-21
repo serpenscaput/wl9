@@ -1,0 +1,388 @@
+  /\
+ / (___     _         _     _   _  _  ___       _     ___
+ \   | |_| |_   |\ | |_ \/ |_) |_ |_)  |  |\/| |_ |\ | |  
+ _\  | | | |_   | \| |_ /\ |   |_ | \ _|_ |  | |_ | \| |   
+/
+\/\___/\
+        )
+       /
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> WHAT THE HELL IS THIS
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+Foremost the project has been a playground and experiment for my own fun and to 
+learn some new tricks. In other words just a fun thing between more serious 
+projects to try out some hacky ideas which have randomly crossed my mind. 
+
+The core gameplay is turned upside down with some features about weight, speed 
+and new fun guns while other options have been hammered into here and there.
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> INSTALLATION
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+REQUIREMENTS:
+  1 full version (.wl6 extension) of Wolfenstein 3D (Apogee 1.4 or GT Interactive 1.4)
+
+
+INSTALL:
+  You won't need voodoo magic to make this run but 1 copy of Wolfenstein 3D.
+  Copy the game files into the folder and run the exe or one of the batch (.bat) files
+  for a custom video resolution. The batch files can be edited with text editor.
+
+
+Following files should be inside your game folder:
+
+~ Wolf3D game files
+  audiot.wl6
+  audiohed.wl6
+  gamemaps.wl6
+  maphead.wl6
+  vgadict.wl6
+  vgagraph.wl6
+  vgahead.wl6
+  vswap.wl6
+
+
+~ The Nexperiment
+  sdl.dll
+  sdl_mixer.dll
+  dontreadthis.txt
+  .bat
+  overhowl.exe
+
+
+~ Additional (not included)
+  vswap128.wl6 *
+  meatsetup.bmp (see modding section)
+
+
+* The menu in the game has an option to use sprites and textures in 
+128x128 resolution (vswap128.wl6). The original sort of uses 64x64. 
+
+The easiest way to achieve 'hires' sprites is to:
+  Make a copy of your vswap.wl6
+  Download ChaosEdit
+  Start ChaosEdit
+  Load the walls and sprites (point it to vswap.wl6)
+  Click 'Toggle HiRes' in both
+  Save it as vswap128.wl6
+  Toggle the option in the game menu
+
+It will be just a simple upscale. For better effect make a pretty one yourself or 
+locate a custom-made vswap at a local data dealer near you.
+
+
+|-----------------------------------------------------------------------------------------|
+|  WOLF3D MOD COMPATIBILITY								  |
+|  											  |								  	  |
+|  The executable should handle vanilla mods but a few features hack some of the visuals. |
+|  If a mod exchanged one of those graphics the result may look rather grotesque. 	  |
+|  Nexperiment with those at your own desire.						  |
+|  Plain map sets without visual changes should work flawlessly.			  |
+|  											  |
+|  See: 										  |
+|       https://wl6.fandom.com/wiki/Category:Loose_files				  |
+|	https://wl6.fandom.com/wiki/Category:Map_sets				  	  |
+|-----------------------------------------------------------------------------------------|
+
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> HOW 2 PLAY 4 DUMMIES
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+|--------------------------------------------------------------------------------|
+|  Make sure you visit the [control options] in the menu at least once to get a  |
+|  grasp of what's needed.							 |
+|--------------------------------------------------------------------------------|
+
+Gameplay revolves heavily around [collecting and dropping items]. 
+
+
+~ WEIGHT (max 400)
+  You can drop your inventory and slice yourself for some blood loss. 
+  The more weight you lose, the faster you are but also the more fragile.
+
+  As a heavy tank you can take more damage but you will be very slow and over 300
+  you won't fit through a door. So either avoid doors or make sure it's below 300.
+
+  It also affects the speed when switching between weapons and the speed of doors.
+
+
+~ BODY WEIGHT (max 200) 
+  Body weight sort of represents your health. 
+  It can be reduced by hitting the run key and making use of your legs and gained
+  by eating food or having a drink. 
+  It will take a bit of time to recover from being drunk.
+  Having less than 20 body weight will slowly damage your health.
+
+
+~ THE VISION
+  This mode lets you see some of the invisible enemies and items.
+
+
+~ THE CHAINHOOK
+  You can use this tool to maneuver through rooms and to move over toxic green blood
+  spilled by some of the enemies.
+
+
+~ WEAPON UPGRADES
+  The mean fun toys can be upgraded and may gain a different effect afterwards.
+  The combo menu lets you upgrade each weapon once in exchange for a life.
+
+  - WEAPON -		- UPGRADE -		
+  THE SLICER 		Chainsaw Style
+  THE GUN		Laser Aim (shows secrets walls)
+  THE FAST FUCKIN GUN	Double Shot + Triple Shot
+  THE ICARUS GUN	Akimbo
+  THE EXPANDER		Shield up to 5 hits
+  THE SHRINKER		Homing if an enemy is nearby
+  THE TWISTER		Breaks walls
+   
+
+~ WEAPON COMBOS
+  The combo menu also shows your current combo streak without missing a target
+  and how many hits are needed to gain a level up, boosting your damage output.
+
+  - WEAPON ---- LVL ---- COMBO ---- NEXT ---- UPGRD
+   
+  WEAPON   Your arsenal.
+  LVL      Current damage level.
+  COMBO    Streak of perfect hits without missing an enemy.	
+  NEXT     Amount of perfect hits needed for the next LVL.
+  UPGRD    Upgrade status of each weapon.
+  
+
+~ THE MINI-MAN
+  Sometimes dropped by enemies. You become tiny and will deal less damage but 
+  most enemies won't see you and you can walk under tables. Hopefully you won't be 
+  stuck in a normally locked up area when the item time runs out.
+
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> FEATURES
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+The obligatory feature list, so everyone can sleep well at night.
+
+
+   F11 = Screenshot
+   F12 = Enable/Disable mouse on the fly (works in any Wolf4SDL mod)
+
+
+ - automap
+ - WASD and other new controls
+ - mouse y-axis movement option
+
+ - new weapons
+ - weapon upgrades
+ - additional items
+
+ - weighty gameplay changes
+ - health and inventory dropping
+ - more blood
+ - eating corpses and getting drunk
+ - getting drunk
+
+ - enemies in all kind of shapes and sizes
+ - enemy item drop preferences
+ - shrunk player and shrunk enemies
+ - ai adjustments (for door camping, strafing and more)
+
+ - shading modes (dark, darker, movie)
+ - color cycling
+ - various visual hacks
+ - vision mode for invisible things
+
+ - more than 1000 messages for all kind of things
+ - littered with bad puns, jokes, wordplays
+ - additional level statistics
+
+ - secret game with its own gameplay, graphics and features
+
+
+	And plenty other minor changes, tweaks and nonsense.
+
+
+
+ ADDITIONAL FOR MODDERS
+
+ - parallax sky
+ - snow and rain
+ - floor & ceiling textures
+ - 128x128 hires graphics
+ - feature flags set by external bmp image (meatsetup)
+ - creates a room on the fly if a map doesn't exist
+ - subfolder commandline for mods (--file "foldername")
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> MODDING
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+STATIC SPRITE LIMIT	3000 (sprites and items)
+ACTOR LIMIT		8000 (enemies and projectiles)	
+
+
+~ MEATSETUP
+  On boot the game will create a file called "meatsetup.bmp" if it doesn't exist.
+  The file is 8x1 pixel in size and in 8-bit (256-colors, Wolf3D palette).
+
+  black pixel 		turns feature off
+  non-black pixel	turns feature on
+  [ ] 			1 pixel 
+
+  [1][2][3][4][5][6][7][8]
+
+
+  [1]  			floor + ceiling color (MAP:x0-y0-WALL + MAP:x1-y0-WALL)
+
+  The 1st pixel determines if the game should look for a new floor and ceiling color. 
+  If it's set to non-black you can control the color by editing the map's wall layer 
+  in a map editor at the following location x:0 y:0 and x:1 y:0. The wall number you 
+  set will correspond to the color in the wolf3D palette 
+  
+
+  [2]  			enables parallax sky (turned on/off by MAP:x3-y0-WALL
+
+  The 2nd pixel enables parallax skies. Putting a wall tile with the value 0 in map
+  at the spot x = 3, y = 0 will turn it off. The number value determines which
+  wall texture will be the first to be used for the parllax followed by the next 16.
+  Setting the map tile to 43 will use the 
+  switch texture (wall num = 43 in ChaosEdit) + the following textures.
+  
+
+  [3]  			enables stars, snow, rain (set by MAP:x2-y0-WALL)
+
+  The 3rd pixel allows rain, snow and stars again depending on the map tile value.
+  Any value > 0 will enable stars. A wall value of 2 will enable rain, 3 will be snow.
+
+
+  [4]  			enables episode names in the episode menu
+
+
+  [5]  			enables	ingame messages and makes some description in the level end stats
+                        more or less generic.
+
+
+  Overview of the map coordinates (if enabled by meatsetup).
+  The map coordinates are all in the top left corner.
+
+  MAP (0:0:WALL NUMBER) 	ceil color
+  MAP (1:0:WALL NUMBER) 	floor color
+  MAP (2:0:WALL NUMBER) 	rain, snow	if > 0 -> stars | if 2 -> rain | if 3 -> snow
+  MAP (3:0:WALL NUMBER) 	parallax sky	number -> starts at that wall texture
+
+
+
+~ NEW OBJECT IDS
+ 
+  Following items can be placed manually via editors.
+
+  OBJ ID 72	Knife
+  OBJ ID 73	Pistol
+  OBJ ID 74	Expander
+  OBJ ID 75	Shrinker
+  OBJ ID 76	Drink
+  OBJ ID 77	Mini-Man
+  OBJ ID 78	Twister
+
+
+~ MULTI FLOOR & CEILING TEXTURES
+  Enable the 'Ground Construction' option in the menu and the edit the maps via 3rd plane.
+
+
+~ HIRES (4X GFX)
+  Create or find a VSWAP128.WL6 file and enable the option in the menu
+
+
+~ MENU BACKGROUND COLOR
+  The color can be changed by the color in the 1st pixel [0:0] in the 'options pic', 
+  load/save header pic and highscore pic. 
+  10 pixel from the top [0:10] sets the color of the the header stripes.
+
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  CYBER-SUPPORT
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+You can run the executable using following commandline options via shortcut, 
+batch file or command window.
+
+
+[overhowl.exe --nowait --windowed --res 1280 800]
+
+--goobers		Enables debug mode and cheats.
+--nowait		Skips the intro screens.
+--windowed		Runs the game in windowed mode.
+--fullscreen		Runs the game in fullscreen mode.
+--res x y		Sets the video resolution for multiple of 320x200 (e.g. --res 960 600)
+--resf x y		Sets the video resolution for other aspect ratios. 
+			Not everything was adjusted for those.
+--file foldername	Runs .WL6 game files from a sub folder.
+--???			Mystery command to leave this galaxy.
+
+
+Bugs are invading your room? Good for you, don't expect me to deliver you any insect spray. 
+I tried to make it bug-free but nothing ever is and as fun as this might have been 
+i prefer to move onto a more exciting project than to touch this weird thing ever again.
+
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> GRAVEYARD
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+Atina			Testing
+
+id Software		Wolfenstein 3D and the source code
+
+Community		Years of engine exploration and keeping the game alive
+
+
+
+
+
+Gateways: 	http://diehardwolfers.areyep.com/
+		https://wolf3d.darkbb.com
+		https://wl6.fandom.com/
+
+
+
+
+19th October 2023,
+
+
+    *   .            .
+ *  .    ......   *    .
+       ._........__
+ /| / /_..\/../././ /| /
+/ |/ /_.../\././_/ / |/
+ .     ..........  .
+   *  .  ......      *
+                                         
