@@ -1,0 +1,6 @@
+The war is long over. You, Grifty G. McGrift, are spending your last days in an insane asylum. It's usually a calm life, but this time, that guy called b.j. weirdnamei'mnotgoingtobotherwith has slipped some sort of pill into your meal. You eat it... and die! Or so it seems for outside observers, but in fact you are still alive, captured in a hallucinatory reverie. You will be trapped inside your own mind unless you find and kill Hitler (for some reason). Better get going!
+
+The Asylum is a Second Encounter scenario by Sushi. It comes with eight new levels and, true to the theme, a slew of off-kilter wall textures and a similarly distorted status bar. Don't worry, the game won't let you forget that you're stuck inside a hallucination. The intermission and title screen are also changed, but there's unfortunately nothing new in terms of sprites. As for the eight maps, they're a relatively diverse bunch. You have some mazes, some small and punchy floors, some rather simplistic boss arenas... The most meaty one is map 5, which sends you on a rather lengthy (especially if you want 100% ratios) key hunt culminating in a boss battle. Now go, Hitler awaits.
+
+===CREDITS===
+Sushi.
