@@ -1,0 +1,6 @@
+WolfenFart 3 (Second Encounter) by Taya consists of four very small scenarios. Castle Fartenstein - one map with mostly narrow corridors and two big battles at the end. Escape from prison x - two maps, you'll have to make do with very limited resources in the first one. Grosse family reunion - one map, a lot of one-tile passages again, also the title is rather self-explanatory. Lastly, Nazi City - one map, the scenario emulates a city by having you fight inside small wall blocks ("houses") surrounded by landscape textures.
+
+WolfenFart 4 (Second Encounter) starts off with a bang. Hotel Hitler comes with a total of eighteen maps! Unfortuantely this doesn't mean you get a lot of bang for your bucks, as the levels rather quickly lose focus and become very short and simplistic in the extreme. A quick clean battle and (especially) Days of the future past have more meat on them - better combat, more interesting room designs and all - but they're both single-level affairs. Finally, Holy Crapenstein offers three maps where you walk in mazy corridors and shoot enemies lying in ambush. Spoiler: at the end you fight Hitler. Sorry.
+
+===CREDITS===
+Taya.
