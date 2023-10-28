@@ -1,0 +1,4 @@
+Weish Fiesh is an interesting beast. Apparently made by Casey Renz and Alan B. Clem (at least according to Dermuda's invaluable spreadsheet), my version comes with no documentation whatsoever, so we can only guess at the authors' intentions with this one. There's a total of 11 Third Encounter maps and a whole bunch of new graphics. Mapping-wise, there's some solid designs here, although perhaps too rectangular at times. Lots of enemies all around, and I can't shake off the feeling that I've seen some of these maps somewhere. Probably just my professional paranoia. Regarding graphics, there's a very strong Doom influence, as some walls and sprites come directly from said game (hi Cyberdemon with chainguns akimbo). All in all, I can only guess at some sort of infernal plot behind the whole game. But forget the story and enjoy environmental storytelling instead. It's still a Wolf mod after all.
+
+===CREDITS===
+Casey Renz and Alan B. Clem
