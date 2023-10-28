@@ -1,0 +1,11 @@
+Put these in the same directory as ecwolf.exe.
+If you're on Windows, use the batch files to play with the settings you'd like.
+jag_normal.bat - normal, treasure is not replaced by enemies
+jag_hard.bat - treasure is replaced by enemies sometimes and enemy pain chance is lower
+jag_extreme.bat - treasure is always replaced by enemies sometimes and enemies never go into the pain state
+
+If you're playing on Android, place them into the Beloko Games folder (Android/data/com.belokogames.ecwolf/FULL/) and enter these parameters to play the mod with your preferred settings.
+(Remove the <> and the text after it.)
+<--file "Jaguars Claw.pk3"> - normal, treasure is not replaced by enemies
+<--file "Jaguars Claw.pk3" "JagHard.pk3"> - treasure is replaced by enemies sometimes and enemy pain chance is lower
+<--file "Jaguars Claw.pk3" "JagExtreme.pk3"> - treasure is always replaced by enemies sometimes and enemies never go into the pain state
