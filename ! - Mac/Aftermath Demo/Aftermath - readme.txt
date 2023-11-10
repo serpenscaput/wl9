@@ -1,0 +1,4 @@
+Aftermath is a WolfAddict mod for the Third Encounter, ot at least I think so. Now, as far as I can tell, Aftermath never had a full release. There are two demos instead. One of them has three maps, the other (so called 1.e demo) has six, although the latter is limited in that it only uses First Encounter enemies (but not walls). There only readme I could find was very short and mostly tells a few things about the maps included in the first demo, so there's no storyline to go with the scenarios. As for actual gameplay though, Aftermath offers some of the best mapping in the Mac scene. Area desings are above average creatively and the game doesn't flood you with incessant streams of enemies. Things are decently balanced and interesting. Fun stuff.
+
+===CREDITS===
+WolfAddict.
