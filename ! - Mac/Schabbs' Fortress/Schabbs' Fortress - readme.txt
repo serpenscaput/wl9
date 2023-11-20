@@ -1,0 +1,4 @@
+Schabbs' Fortress by Alan Clem brings 10 maps for the Third Encounter to the table. There's no readme attached this time, so we can only guess at the overall plot. Apparently Schabbs has been dabbling in genetic *and* mechanical engineering, as the enemy cast in this scenario consists mostly of veritable Frankenstein monsters, beings pieced and sewn together from Wolf and Doom body parts alike. There's also a good deal of new walls to top it off. As for mapping, it's mostly solid, but has some inexplicable weak points, like one map reusing Second Encounter 5-6, or another seemingly based on a WolfMaker map. But if you ignore these, there's a decent deal of solid gameplay with some creative enemy designs in here.
+
+===CREDITS===
+Alan Clem.
