@@ -1,0 +1,6 @@
+The year is 1945. The German Reich has apparently been defeated, but forty days after Victory Day, German nuclear submarines explode in key parts of the world, allowing the Nazis to reconquer the planet easily, but also plunging it into a century-long nuclear winter. Fast forward 100 years and the Nazi rulers are running out of resources to exploit. Their attention turns towards the planet of Frotos. You, Mr. Blaskowicz, will be sent to the Nazi base on Frotos with a fact finding mission: find out as much as you can about their intentions and report back. But things are never that easy...
+
+Amnesia was made by the WolfAddict team, including names as famous as Rueben Andajetsky. Three maps for the Second Encounter (but compatible with Third). Only three maps mean that this if, of course, just a demo. The full version isn't available anywhere as far as I can tell. Despite its demo status, the scenario comes with almost all wall textures fully replaced, plus some enemy and item sprites. They all have a consistent futuristic theme and I haven't seen most of them anywhere else before. Mapping is fine, sometimes gimmicky (all enemies on floor 2 are deaf), but never bad. Be wary, though, as you don't get a whole lot of health and ammo to help finish your mission. Now go, and don't let alien mutants bite.
+
+===CREDITS===
+WolfAddict, collectively.
