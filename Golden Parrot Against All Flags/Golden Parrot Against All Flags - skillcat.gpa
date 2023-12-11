@@ -1,0 +1,421 @@
+^P
+^C27 Skill catalog
+^C00 You can aquire skills in exchange
+of gold. To purchase a skill, enter
+its number (following this list)
+when prompted at the
+merchant.
+
+^P
+^C00 1. Castaway
+^C7d Increase maximum health to 115
+^C3e Cost: 2500
+
+^C00 2. Fisherman
+^C7d Increase maximum health to 130
+^C3e Cost: 4500 (requires skill 1)
+
+^C00 3. Poacher
+^C7d Increase maximum health to 160
+^C3e Cost: 7000 (requires skill 2)
+
+^P
+^C00 4. Priest
+^C7d Increase maximum mana to 115
+^C3e Cost: 2500
+
+^C00 5. Cleric
+^C7d Increase maximum mana to 130
+^C3e Cost: 4500 (requires skill 4)
+
+^C00 6. Bishop
+^C7d Increase maximum mana to 160
+^C3e Cost: 7000 (requires skill 5)
+
+^P
+^C00 7. Protector
+^C7d Increase maximum armor to 115
+^C3e Cost: 2500
+
+^C00 8. Defender
+^C7d Increase maximum armor to 130
+^C3e Cost: 4500 (requires skill 7)
+
+^C00 9. Guardian
+^C7d Increase maximum armor to 160
+^C3e Cost: 7000 (requires skill 8)
+
+^P
+
+^C00 11. Bosun
+^C7d Carry +5 ammo, +1 grenade
+^C3e Cost: 1000
+
+^C00 12. Midshipman
+^C7d Carry +10 ammo, +2 grenades
+^C3e Cost: 2500 (requires skill 11)
+
+^C00 13. Lieutenant
+^C7d Carry +15 ammo, +3 grenades
+^C3e Cost: 5000 (requires skill 12)
+
+^P
+^C00 14. Commander
+^C7d Carry +20 ammo, +3 grenades
+^C3e Cost: 7500 (requires skill 13)
+
+^C00 15. Captain
+^C7d Carry +20 ammo, +4 grenades
++10 cannonballs
+^C3e Cost: 10000 (requires skill 14)
+
+^P
+^C00 16. Bandolier
+^C7d Decreases reload time for
+pistol, blunder and musket 
+Increases their clip size by 2
+^C3e Cost: 6500
+
+^C00 17. Conquistador
+^C7d +15% resistance against firearms,
++1% chances of critical strike 
+^C3e Cost: 6500
+
+^P
+^C00 18. Logbook
+^C7d Allow to see ingame ratios (L key)
+^C3e Cost: 200
+
+^C00 19. Navigator
+^C7d See own and enemy positions 
+on the map
+^C3e Cost: 1200
+
+^P
+^C00 21. Pistol clip increase 1
+^C7d Increase clip size by 2
+^C3e Cost: 500
+
+^C00 22. Pistol clip increase 2
+^C7d Increase clip size by 2
+^C3e Cost: 800 (requires skill 21)
+
+^C00 23. Pistol clip increase 3
+^C7d Increase clip size by 4
+^C3e Cost: 2000 (requires skill 22)
+
+^C00 24. Pistol clip increase 4
+^C7d Increase clip size by 11
+^C3e Cost: 5300 (requires skill 23)
+
+^P
+^C00 25. Pistol faster reload 1
+^C7d Decrease reloading time
+^C3e Cost: 1500
+
+^C00 26. Pistol faster reload 2
+^C7d Decrease reloading time
+^C3e Cost: 2500 (requires skill 25)
+
+^C00 27. Pistol damage 1
+^C7d Increase damages by 4
+^C3e Cost: 2000
+
+^C00 28. Pistol damage 2
+^C7d Increase damages by 4
+^C3e Cost: 2750 (requires skill 27)
+
+^P
+^C00 29. Gunslinger
+^C7d Unlocks dual pistol wielding
+Faster reload
+Increase clip size by 3
++5% chances of critical strike
+Damage is reduced when firing both pistols
+^C3e Cost: 6000
+
+^P
+^C00 31. Duelist
+^C7d Grant 20% chances to dodge melee
+attacks with cutlass
+^C3e Cost: 3300
+
+^C00 32. Silver blade
+^C7d Converts cutlass physical
+damages into magical damages
+^C3e Cost: 6300
+
+^C00 33. Enchanted blade
+^C7d Unlocks cutlass secondary attack
+to throw magical blasts
+^C3e Cost: 10000 (requires skill 32)
+
+^P
+^C00 34. Swordsman
+^C7d +1 damage with cutlass
+^C3e Cost: 1300
+
+^C00 35. Gladiator
+^C7d +1 defense against melee attacks
+^C3e Cost: 1500 (requires skill 34)
+
+^C00 36. Knight
+^C7d +10 damages to thrust strike
+^C3e Cost: 1800 (requires skill 35)
+
+^P
+^C00 37. Jester
+^C7d A successful parade also
+gives 1 mana (max. once per enemy)
+^C3e Cost: 1250 (requires skill 36)
+
+^C00 38. Trapper
+^C7d A successful parade also
+instantly refills the pistol clip
+^C3e Cost: 2500 (requires skill 37)
+
+^C00 39. Krakenslayer
+^C7d Each strike also removes 15% of
+enemy remaining life. Applies to
+undeads, monsters and beasts
+^C3e Cost: 4500 (requires skill 38)
+
+^P
+^C00 41. Blunderbuss clip increase 1
+^C7d Increase clip size by 1
+^C3e Cost: 400
+
+^C00 42. Blunderbuss clip increase 2
+^C7d Increase clip size by 3
+^C3e Cost: 700 (requires skill 41)
+
+^C00 43. Blunderbuss clip increase 3
+^C7d Increase clip size by 3
+^C3e Cost: 1100 (requires skill 42)
+
+^C00 44. Blunderbuss faster reload 1
+^C7d Decrease reloading time
+^C3e Cost: 2500
+
+^P
+^C00 45. Blunderbuss bulk reload
+^C7d Reloads full clip in one time
+^C3e Cost: 5000 (requires skill 44)
+
+^C00 46. Blunderbuss damage 1
+^C7d Increase damages by 4
+^C3e Cost: 2000
+
+^C00 47. Blunderbuss damage 2
+^C7d Increase damages by 4
+^C3e Cost: 2000 (requires skill 46)
+
+^C00 48. Blunderbuss damage 3
+^C7d Increase damages by 4
+^C3e Cost: 3000 (requires skill 47)
+
+^P
+^C00 49. Grenade launcher
+^C7d Unlocks secondary attack
+which allows throwing grenades
+^C3e Cost: 2000
+
+^P
+^C00 51. Musket clip increase 1
+^C7d Increase clip size by 2
+^C3e Cost: 600
+
+^C00 52. Musket clip increase 2
+^C7d Increase clip size by 2
+^C3e Cost: 1200 (requires skill 51)
+
+^C00 53. Musket clip increase 3
+^C7d Increase clip size by 4
+^C3e Cost: 2400 (requires skill 52)
+
+^C00 54. Musket clip increase 4
+^C7d Increase clip size by 11
+^C3e Cost: 5200 (requires skill 53)
+
+^P
+^C00 55. Musket clip increase 5
+^C7d Increase clip size by 10
+^C3e Cost: 8600 (requires skill 54)
+
+^C00 56. Musket faster reload 1
+^C7d Decrease reloading time
+^C3e Cost: 1600
+
+^C00 57. Musket faster reload 2
+^C7d Decrease reloading time
+^C3e Cost: 3200 (requires skill 56)
+
+^C00 58. Musket faster reload 3
+^C7d Decrease reloading time
+^C3e Cost: 5500 (requires skill 57)
+
+^P
+^C00 59. Automatic rifle
+^C7d Unlocks secondary attack that
+fires in burst
+Damage is reduced in automatic mode
+^C3e Cost: 10000
+
+^P
+^C00 61. Cannoneer
+^C7d Decrease reloading time
+^C3e Cost: 3000
+
+^C00 62. Artificer
+^C7d Increase damages by 30
+^C3e Cost: 2400
+
+^C00 63. Quartermaster
+^C7d Carry 7 extra cannonballs
+^C3e Cost: 2000
+
+^C00 64. Master gunner
+^C7d Carry 10 extra cannonballs
+^C3e Cost: 3000 (requires skill 63)
+
+^P
+^C00 65. Cannon clip increase 1
+^C7d Increase clip size by 1
+^C3e Cost: 1000
+
+^C00 66. Cannon clip increase 2
+^C7d Increase clip size by 2
+^C3e Cost: 3000 (requires skill 65)
+
+^C00 67. Cannon clip increase 3
+^C7d Increase clip size by 2
+^C3e Cost: 4000 (requires skill 66)
+
+^P
+^C00 68. Explosion resistance 1
+^C7d Increases your resistance
+to explosions by 15%
+^C3e Cost: 1600
+
+^C00 69. Explosion resistance 2
+^C7d Increases your resistance
+to explosions by 25%
+^C3e Cost: 4000 (requires skill 68)
+
+^P
+^C00 71. Thief
+^C7d +10% chances of stealing
+You can steal gold coins
+^C3e Cost: 500
+
+^C00 72. Pickpocket
+^C7d +8% chances of stealing
+You can also steal gold bags
+^C3e Cost: 1500 (requires skill 71)
+
+^C00 73. Outlaw
+^C7d +6% chances of stealing
+You can also steal ammo
+^C3e Cost: 3500 (requires skill 72)
+
+^P
+^C00 74. Avidity
+^C7d You regenerate life when
+you pick up treasures
+^C3e Cost: 5000 (requires skill 73)
+
+^C00 78. Sorcerer
+^C7d Increase magical damages by 3
+^C3e Cost: 7000
+
+^C00 79. Angel
+^C7d Unlocks secondary attack
+for the holy chalice which heals
+Restores 1 life for 3 mana
+^C3e Cost: 7500
+
+^P
+^C00 81. Berserker
+^C7d +33% chances of critical strike 
+(double damage) with the boarding axe
+^C3e Cost: 8800
+
+^C00 82. Quiver 1
+^C7d Carry 8 extra bolts
+^C3e Cost: 600
+
+^C00 83. Quiver 2
+^C7d Carry 10 extra bolts
+^C3e Cost: 1000 (requires skill 82)
+
+^P
+^C00 84. Hunter
+^C7d Carry 6 extra bolts
+Chances to retrieve bolt
+after usage
+^C3e Cost: 2000 (requires skill 83)
+
+^C00 85. Multishot
+^C7d Carry 6 extra bolts
+Unlocks secondary attack
+Quickly releases 2 bolts
+Costs 3 mana + 1 arrow
+^C3e Cost: 3000 (requires skill 84)
+
+^P
+^C00 86. Estate 1
+^C7d Gives hideout hearts key
+^C3e Cost: 500
+
+^C00 87. Estate 2
+^C7d Gives hideout spades key
+^C3e Cost: 750 (requires skill 86)
+
+^C00 88. Estate 3
+^C7d Gives hideout diamonds key
+^C3e Cost: 1000 (requires skill 87)
+
+^C00 89. Estate 4
+^C7d Gives hideout clubs key
+^C3e Cost: 1250 (requires skill 88)
+
+^P
+^C00 91. Bird of prey
+^C7d Reduces parrot flight
+mana cost form 30 to 20
+^C3e Cost: 5000
+
+^C00 92. Teleport
+^C7d Unlocks secondary attack that
+teleports player at the current
+parrot position
+^C3e Cost: 7000
+
+^P
+^C00 93. Geologist
+^C7d Increase resistence to lava (2
+damages taken instead of 6)
+^C3e Cost: 2000
+
+^C00 94. Miner
+^C7d Loot more gold (about 10%) when
+finding treasure items
+^C3e Cost: 2000
+
+^C00 95. Push
+^C7d Allows to push and pull
+certain crates and barrels
+^C3e Cost: 1500
+
+^P
+^C00 96. Plunderer
+^C7d Grants chances to find gold on
+dead enemies and increases
+loot in crates
+^C3e Cost: 1800
+
+^C00 97. Rejuvenation
+^C7d Recovers 25 life and 15 mana
+at the end of each level
+^C3e Cost: 2000
+^E
