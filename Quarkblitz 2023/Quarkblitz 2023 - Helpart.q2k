@@ -1,0 +1,286 @@
+^P
+^C2f WELCOME TO QUARKBLITZ 2K23
+
+^G54,144,14
+^C00 Thank you for playing Quarkblitz 2k23. 
+Quarkblitz 2k23 is based off Tricob's Base of Operations source code. 
+The following pages are information about the game. I hope you enjoy this game. 
+Also in this file I will be crediting the people for their tips, tutorials, graphics and of course general support.
+^P
+^C2f QUARKBLITZ 2K23
+
+^C2d Index                               Page
+
+^C00 Mission                               3
+^C00 Manual                               10
+^C00 Credits                              32
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^C00 You are Wesley Stone, the son of Blake Stone and top Lance Corporal in the USMC. While resting in your Office, you receive a tip off from your childhood friend Adam about a new corporation. Quarkblitz INC, founded by Wlashica Quarkblitz, a megolamanic professor, with a passion for war and to transform the United States into a third world country.
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^G62,17,10
+^C00 Inhabiting an industrial estate of Texas, Quarkblitz has set up a range of institutions for his schemes of darkness. He's set up a teleporter which transits carriers to a mysterious dimension called the Nexus.
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^C00 Looking to follow in your father's footsteps as the hero who brought down STAR, you rose through ranks becoming the top Lance Corporal, being a decorated veteran of the USMC.
+
+^C00 Analysing information from your childhood friend, you recognise the co-ordinates and pack your father's original weapon you inherited, the Slow Fire Protector.
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^C00 Information informs you that Quarkblitz INC is already profiting from bringing in power from the Nexus. Quarkblitz is looking to create biological weapons to take over the World.  This Nexus is in unknown regions and has generators, capable of boosting super human strength by the receiver. Quarkblitz is en route there, leaving his military Commander Deaks on guard by the teleporter until his return.
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^C00 Quarkblitz has enslaved a number of nexus demons who dwelled in the Nexus. These originally docile beings were enslaved and now he's using them to guard the teleporter to the Nexus, hoping to bring more with him.
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^C00 Commander Deaks, the military commander of Quarkblitz's military is armed and dangerous. He's already present in the domain by the Teleporter. After analysis, a private jet collects you fom Office and transports you to the Industrial Estate.
+
+^P
+^C2f QUARKBLITZ 2K23 - MISSION
+
+^C2d STORY
+
+^C00 The private jet lands some miles to avoid being detected by any employees working for Quarkblitz. The Pilot says 'You'll have to do the rest on foot. I wish you the best. We're counting on you. All the best'. After some miles you find yourself at a ground station entrance, while miles away is beautiful green land.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+
+^C2d FEATURES
+
+^C00 - Seamless level flow
+- 21 Levels including a secret level
+- 5 weapons in total
+- 4 keys in total
+- New enemies
+- New code changes
+- New Helpart, & Endart
+- New Music, sounds, graphics etc
+- 200 Ammo
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+
+^C00 During your mission you'll be using 5 different weapons, so as you start with the knife and slow fire protector you'll be encounting 3 other weapons:- the rapid assault rifle, the duel neutron disruptor, and the plasma charge unit. Once you've received all these weapons you can choose any weapon by choosing the numbers 1-5. Pressing ^C27 1 ^C00 Knife, ^C27 2 ^C00 Slow Fire Protector, ^C27 3 ^C00 Rapid Assault Rifle, ^C27 4 ^C00 Dual Neutron Disruptor, ^C27 5 ^C00 Plasma Charge Unit.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,15
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+
+^C00 In your mission you'll be encounter 2 different packs of ammunition, i.e small charge packs and large charge packs, of which you'll be able to carry and then provided you have all 5 weapons, you're in good hands.
+The charge units are suitable for the Slow Fire Protector, Rapid Assault Rifle, Dual Neutron Disruptor and Plasma Discharge Unit.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,9
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+
+^C00 The slow-fire protector is useful when encountering single guards, while the Rapid Assault Rifle and Dual Neutron Disruptor are useful for taking big groups of guards. The Disruptor is best used when encounting a large group of guards or even against the bigger enemies you will encounter.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,16
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+
+^C00 The Plasma Discharge Unit is useful for dealing with tougher enemies such as the Nexus Demon and Pink Beast and Mech Prototype. It is scarce and common in secret areas.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,16
+^G100,16,15
+
+^C2d PLAYING THE GAME - WEAPONS/AMMUNITION
+
+^C00 The Plasma Discharge Unit can be found ocasionally in secret areas.
+
+^C00 During your mission you may even encounter a mix of charges and also a 25 ammo box. These units are scarce throughout your assignment.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,12
+
+^C2d PLAYING THE GAME - KEYCARDS
+
+^C00 During your mission you'll be encountering four different kinds of keycards
+^C27 Keycards: ^C00 The 4 keycards that you'll be encountering during your mission are the Yellow keycard, Blue Keycard, Green keycad and Red keycard. On some occasions, you'll need all 4 to complete a level.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,13
+
+^C2d PLAYING THE GAME - OBJECTS
+
+^C27 Flickering lights: ^C00 They are found regularly and are normally faulty or deliberately activated as a warning of intrusion.
+
+^C2c Flickeing lights are stationary objects that do not hurt the player, just flicker in their position.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,13
+
+^C2d PLAYING THE GAME - OBJECTS
+
+^C2c Science experiment: ^C27 These are on tables and used by the bio technicians to assemble Quarkblitz's bio weapons and also for training purposes.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,13
+
+^C2d PLAYING THE GAME - OBJECTS
+
+^C2c Explodable barrel: ^C27 This is a form of Quarkblitz's weaponry which he uses for sourcing. Blow them up and wreck his operations.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G50,16,7
+
+^C2d PLAYING THE GAME - HEALTH ITEMS
+
+^C00 There are different kinds of health items that you'll encounter on your mission, from the chocolate bar, which will add 4% to your health, the meat steak will add 10% to your health and the health pack will increase your health by adding 25% to your health, all of these addons increase your health up to 100%, aswell as the +1 token which restores your full health.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,19,4
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C00 There is several different enemy types you may encounter through out the game, some of which will drop charge packs killed. They can be human, robot or mutant.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,19,4
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 1. Bio Technicians: ^C00 Poor in combat but skilled in working on assignments for Quarkblitz. They helped create the teleporter to the Nexus. Easy to take out.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,19,4
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 2. Guard drone: ^C00 Drones patrolling the corridors and other areas. Harmful upon contact as they inflict a shock on their victim. Take them out as soon as you can!
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,19,4
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 3. Sentinel: ^C00 Quarkblitz's main military. They are equipped with the Rapid Assault Rifle which they drop upon death.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,19,4
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 4. Sector Guard: ^C00 Created using the dead to make new guards but are in testing and now combat ready.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,19,4
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 5. Sector Patrol: ^C00 These guards patrol the bases in the game and are much tougher than a Bio Technician. They are dangerous in packs so watch your back.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,16,56
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 Armored Gunner: ^C00 New mutant soldiers produced by Quarkblitz, ready to behave like a fighter and fire upon their opponent. They are deadly to be toyed with.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,16,57
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 Nexus Demon: ^C00 Once docile species, now enslaved by Quarkblitz and cannot tell from good or bad, hurling fireballs at their target. Deaks has thought of keeping some as pets.
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,16,58
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 Pink Beast: ^C00 Mutants of Quarkblitz equipped with a plasma discharge unit. Make sure you are well equipped or you could be blown up.
+
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,16,61
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 Prototype Mech: ^C00 Built by Quarkblits's technicians as guards for a number of his operations, especially high piority ops.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,16,60
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 Commander Deaks: ^C00 The leader of Quarkblitz' military. Please don't mess with him and make sure you're well equipped to go up against him.
+
+^P
+^C2f QUARKBLITZ 2K23 - MANUAL
+^G55,16,59
+
+^C2d PLAYING THE GAME - ENEMIES
+
+^C27 Professor Quarkblitz: ^C00 The CEO and founder of Quarkblitz INC, already charging himself up to create a war against Humanity with his intelligence and insane mind.
+^P
+^C2f QUARKBLITZ 2K23 CREDITS
+
+^C00 Quarkblitz 2k3 was written and designed by BlakeMaster, formerly known as JM2006. I'd also like to thank the following people :- Tricob (Source Code), AluminuM (Source Code support and tips), Zombie (Source code support), Jamerr Productions (Blake Stone & Planet Strike content), Brian Lowe (Wolf3d website), and ArEyEp (For Die hard Wolfers) I made some graphics while others came from ^C27"Blake Stone".
+
+^C2c Music: ^C27 Doom, Descent, Quake II and Duke Nukem 3D.
+
+^P
+^C2f QUARKBLITZ 2K23 CREDITS
+
+^C00 I give a special thanks to ID Software for creating Wolfenstein 3-D. You blessed me with entertainment so now I create it!
+
+^C2d CONTACTING THE AUTHOR
+
+^C00 If you'd like to contact me e-mail me at ^C18 j2k2201@outlook.com ^C00 You can even ping me via the DieHard Wolfers forum if interested in finding info on upcoming mods by me ^C18 http://diehardwolfers.areyep.com/index.php
+^C00 You can find other mods created by myself on www.wolfenstein3d.co.uk aswell as the Wolfenstein Wiki and try ModDb.com
+
+^P
+^C2f THANKS FOR PLAYING!
+
+^G32,17,3
+^C00 I thank you for download my mod! Now get ready and terminate Quarkblitz with extreme prejudice!
+
+^C00 Good luck Wesley Stone, all the best with your assignment!
+
+^C27 -BlakeMaster
+Author of Quarkblitz 2k23
+j2k2201@outlook.com
+^E
