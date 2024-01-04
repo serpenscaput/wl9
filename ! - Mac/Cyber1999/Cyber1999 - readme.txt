@@ -1,0 +1,4 @@
+So what do we have for you today? I thought you'd never ask! It's ten scenarios by Cyber1999, totaling 28 maps for the Second Encounter. They are: 10/21/96 6-level Auto, 4-level Auto, Auto 11/15/96 Good!, Hall, HArd Auto, My weird one, Pretty good Auto Level, Star Trek Arena, temp auto and White Guards. You can see the word "auto" popping up quite a few times. That's because the vast majority of maps in this release was generated with WolfMaker. Apparently the author picked a bunch that looked better than the others and decided to release them into the wide world. They come with the usual caveats specific to procedurally generated maps, namely simple and predictable layouts with rather random enemy placement. Well, random except the final room, which tends to host Hitler along with some bodyguards; you'll see. The remaining few maps are... well, let's just say they're unusual. That's about it.
+
+===CREDITS===
+Cyber1999.
