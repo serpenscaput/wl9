@@ -1,0 +1,38 @@
+
+CREDITS
+
+Original game : Wolfenstein 3D (id Software)
+
+Used editor : HWE (Havoc)
+
+              SLADE (Simon Judd)
+
+New graphics : Spear of Destiny (id Software)
+
+               The Dunkelcollection (Dunkelschwamm)
+
+               Wolf3d Boss Generator (Dunkelschwamm)
+
+               Monkee's Image World (Majik Monkee / Jackal / TobiXY)
+       
+               Doomjedi artpack Spriters journey (Doomjedi)
+
+New sounds : Spear of Destiny (id Software)
+
+             Spear Mission Packs (FormGen)
+            
+             ECwolf Resource pack (Astro Creep)
+
+
+Coding reference : Wolf Overdrive (Thomas Weiling)
+                
+                   Totenhaus_ECWolf (Astro Creep/Laz Rojas)
+
+
+*  Some textures were edited by myself based on Dunkelcollection.
+
+
+2024/1/8
+
+Ozeki
+
