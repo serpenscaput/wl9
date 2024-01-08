@@ -1,0 +1,4 @@
+GRUNT! is a Third Encounter scenario by none other than Bruce Ryder. I think it's actually a demo, as it only contains one map and some assorted, not completely visually consistent sprites and textures. There's no documentation coming with the mod, and relevant catalogues don't seem to yield any information, so I have no idea whether the scenario has any underlying storyline and if it was being distributed by WolfAddict at any point. I failed to find anything on Clubey's website too. Dermuda can probably provide some details on GRUNT! later, but to me, the mod is a total mystery. The only map is pretty decent, but nothing really special. Certainly an odd release overall.
+
+===CREDIT===
+Bruce Ryder.
