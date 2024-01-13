@@ -1,0 +1,22 @@
+Future Marine
+
+The Germans have kidnapped one of our scientists. We have right to believe that he has been taken to the high security and Biological testing base in Germany. You have also been captured by them and are in the bottom floor, the scientist is in the 5 th floor. Unfortunatly our sources can not tell us if he is dead or alive. The room which you are in has a secret room located in it, all you must do is find it.
+Your mission :-
+
+To rescue the scientist if he is still alive, and bring him back.
+
+To install just drag the levels file in to your Wolfenstein levels folder and restart Wolfenstein.
+
+This Demo contains the first 3 of 11 dangerous, and adrenalin rushing levels. If you would like the full version, please drag the file Readme.html to your web browser.
+
+Credits:
+
+Programming and design: Alan Boyd
+
+Artwork: MrMac
+
+Beta testers: Graeme Reeve, Alex Roberts and Dunstan Roberts.
+
+This program is Copyright Alan Boyd 1997 All rights reserved.
+
+You use this program at YOUR OWN RISK. If you computer self destructs becuase of running these levels. It’s your problem
