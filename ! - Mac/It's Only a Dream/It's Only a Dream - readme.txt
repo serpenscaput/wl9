@@ -1,0 +1,4 @@
+It's Only a Dream is a Third Encounter scenario by Pier Luigi Andreoni, a beta version of a scenario that apparently never fully materialized. Six maps and some new sprites and textures. The new graphics are a rather eclectic sort, sometimes odd or seemingly twisted, as you would expect of a dream... or Hell. You'll encounter stone eyes peering at you, swastikas plastered on hellish textures, or, well, pygmy soldiers. It's all rather interesting. Concerning mapping (always the most important meal of the day), you will meet a diverse set of experiences: some mazes (blargh), some non-linearity (not bad), some symmetry-inflicted confusion (passable) and some other set-ups I'm not going to reveal. A fun experience all in all.
+
+===CREDITS===
+Pier Luigi Andreoni.
