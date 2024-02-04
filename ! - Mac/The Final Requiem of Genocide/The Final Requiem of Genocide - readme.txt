@@ -1,0 +1,4 @@
+Requiem for Genocide and The Final Requiem for Genocide are two First Encounter scenarios by Isamu Mitsunaga, five and 29 maps respectively. Whatever storyline they had wasn't translated by Clubey (who found and published these scenarios), I can just guess that it's about some sort of retaliation against German war crimes. Even though it might seem like Final Requiem is an extension of Requiem, they actually contain completely different maps. Mapping style is very interesting and extremely varied, suggesting multiple authors. Generally speaking, these scenarios are worth your time.
+
+===CREDITS===
+Isamu Mitsunaga
