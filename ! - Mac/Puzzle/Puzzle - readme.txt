@@ -1,0 +1,4 @@
+Puzzle and Puzzle2 are two First Encounter scenarios by Stephen Keable. In fact, they appear to be identical, but they're two separate scenario files, so just in case I'm porting both. Both contain only four maps in total, no new graphics or sounds. Mapping is competent, but the levels are very small and easily beaten... with a couple exceptions where you get to fight bosses. All in all, perfectly adequate, if somewhat nondescript. One interesting thing is that the author offered a sequel to this scenario if you sent him five pounds; said sequel sadly appears to have drowned in the ocean of time.
+
+===CREDITS===
+Stephen Keable.

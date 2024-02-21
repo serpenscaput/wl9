@@ -1,0 +1,4 @@
+Quarantine FULL is a Third Encounter scenario by Ben Sims. Although there's no readme included, the name and some sprites clearly imply some sort of biological warfare scenario. For some reason BJ doesn't wear a mssk though; I suppose his heroic qualities make him immune to mere viruses. The mod includes a lot of new sprites and textures, most if not all of which are apparently unique to this scenario. They're not bad either. Unfortunately, the mod is dragged down by (in my eyex) lackluster mapping, which mostly presents itself as a smattering of randomly designed and placed rooms with randomly positioned enemies. Still, there seems to be enough resources to actually finish the thing, so maybe you will enjoy the game balance and new graphics. Try it out regardless of what I think.
+
+===CREDITS===
+Ben Sims.
