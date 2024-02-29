@@ -1,0 +1,13 @@
+Thanks for downloading this Wolf3D project!
+
+This project was created as a "Mapping Jam" in February 2024, mostly run through the Wolf3D.net Discord (https://discord.gg/Fee7PBY). Mappers were tasked with creating a map that tried to balance it's difficulty against a single gameplay change. In this case, enemies start with drastically lower health, but when an enemy is killed remaining enemies get a boost in health.
+
+The end result uses Wolf4SDL 2.1, with optional WSAD+mouse control schemes possible.
+
+To play, create a copy of your copy of Wolf3D and drop these files in with it. Then run Wolf4SDL.exe
+
+Submissions in order of maps:
+Mizuki
+Zombie
+Shodan
+Hydropolis Two
