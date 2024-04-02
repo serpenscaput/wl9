@@ -1,0 +1,23 @@
+This folder does not contain the following files:
+---------------------------------------------------
+
+Tastes Like Spelunky:
+a stand-alone mod for the freeware version of Spelunky made by Halibabica. It's now a roguelike platformer with a carnivorous plant protagonist. I included my custom levelset, "Make Love Not Meatloaf". To play custom levels, press F3 in the starting area.
+
+Chair!:
+A video by youtube user slicklego007. An ancient artifact of questionable value I keep around for sentimental reasons.
+
+CharlieVermin presents - THE HEIST:
+A story-driven Loderunner level set for Mad Monks' Revenge: Definive Edition. You can download and talk about the game at mmr.quarkrobot.com.
+
+gravinsect.png:
+A screenshot of a puzzle game that you will hopefully get to play in the future.
+
+robotbattle:
+A level from my Llama Fortress series, an as of yet unfinished set of Baba Is You levels that deliberately misses the point of the game by using it to implement custom mechanics instead of making the player solve word puzzles. Gotta have some variety. To play it, copy all the files into your "Baba Is You\Data\Worlds\levels" folder and it'll show up in your custom levels menu.
+
+Shrunk Sixtein:
+A set of three shareware wolf3d maps. Episode 1 compressed from 10 to 2 maps, and the maps themselves compressed from 64x64 to 16x16. The first level's easy, the second one less so.
+
+Toxic Turbulence:
+A short vanilla speedmap I made in 2019. Uses the track "Berserker Lord" by Varis Alpha.
