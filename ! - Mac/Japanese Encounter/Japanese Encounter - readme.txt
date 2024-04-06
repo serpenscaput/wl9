@@ -1,0 +1,6 @@
+Ohayo kamikaze sayonara konnichiwa banzai hime! That's pretty much all the Japanese words I know.
+
+Japanese Encounter Demo is a 5-map mod for the Third Encounter by Joel Brown. It comes with no documentation, so we can only guess what happens there. Let's try. B.J. (I'm assuming it's B.J. since his graphics haven't been changed in any way) is sent on a suicide mission in Japan, ordered to take on the entire imperial army by himself. In this demo, he's fighting through a variety of environments (lots of new walls, including some bamboo-style ones), killing various Japanese soldiers and also some guys with grey beards. How do they move so quickly despite their apparent age? Well, never mind. The new textures work just fine to give the game its own mood, and most enemies have been replaced with Japanese counterparts. The five maps available in the demo are rather well designed, using enemy placement correctly to stop you in your tracks though this might lead to some door side camping. Sometimes there's quite a bit of backtracking to be done too. No biggie though, overall. Recommended mod.
+
+===CREDITS===
+Joe Brown.
