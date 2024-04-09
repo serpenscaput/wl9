@@ -1,0 +1,120 @@
+======================================================================
+[]      []  [][][]  [][][]  []  []  []    []    [][][]  [][][]  [][][]
+[]      []  []        []    []  []  []  []  []  []      []      []
+[]      []  [][]      []    []  []  []  [][][]  [][]    [][]    [][]
+[]      []  []        []    []  []  []  []  []  []      []      []
+[][][]  []  []        []      []  []    []  []  []      []      [][][]
+======================================================================
+
+
+Thank you for downloading "Project: Liftwaffe"! The mod is based Being John Blazkowicz's source code which is based on AryanWolf3D's Wolf4SDL source code. Big thank you to Nexion for putting up with my bs. (Special screw you to DevCpp and CodeBlocks for trying to make my life harder than it already is.)
+
+Have fun!
+
+
+======================
+Coding based on:
+======================
+
+Poet's code on disabling death cam & bosses dropping keys
+Chris', KyleRTCW's and Andy_Nonymous' code on seamless level progression and final ratio calculation
+Adam Biser's, Wolf Skevos-Jones', Chris' and KyleRTCW's code on displaying map names
+Wolf Skevos-Jones' code on displaying ingame messages
+MCS's code on the enemy blocking object
+BrotherTank's code on implementing different ammo for the chaingun
+
+
+======================
+GFX:
+======================
+
+ID Software
+- everything else
+
+FormGen
+- everything else
+
+AReyeP
+- Guard[1*], Floor ammo clip and ammo box, Heinrich Gruber[4*]
+
+Barry
+- Multicolored brick textures
+
+Justy Zam
+- Baton guard, SMG pickup[2*] & weapon view sprites
+
+Majik Monkee
+- Red steel panel texture edits
+
+Orka
+- Guard[1*], SS[3*], Officer, Rocketeer mutant, Liftwaffekraft, Heinrich Gruber[4*] (Level 4 gold key boss), Ulrich von Jäger (Level 5 gold key boss), Explosion sprites, Flame projectile sprites, Liftwaffe pickup & weapon view sprites, Beer sprite, Treasure sprites, Barrier sprites, Bunker wall textures (Level 2), Elevator wall texture edits (Level 2-5)
+
+Tris 
+- Mutant sprites
+
+WSJ
+- SMG pickup[2*], Guard[1*], SS[3*], Chaingunner, Flame trooper, Heinrich Gruber[4*]
+
+Zack Higgins
+- Pistol weapon view sprites
+
+
+======================
+Sounds:
+======================
+
+3D Realms
+- Door opening & closing sounds - from Duke Nukem 3D
+
+Black Magic Software
+- Pistol attack sound - from Gloom Deluxe
+
+FormGen
+- Pushwall sound
+
+ID Software
+- Ammo pickup, SMG pickup sound, Slurping[1*] & food eating sounds, Medikit pickup, Flamethrower attack sound, Liftwaffe attack sound[2*], Liftwaffekraft dying[3*], SS alert voice ("Schutzkämpfer" - from the unity port of Doom 2)
+
+Midway
+- Guard / Baton guard / SS / Officer death cries - from Mortal Kombat 3
+
+Mirage Media S. C.
+- Guard & Baton guard alert sounds - from Mortyr 2093-1944
+
+Monolith Entertainment
+- Mecha stomping, Liftwaffe pickup, ammo box pickup sounds - from Shogo: M.A.D.
+
+SEGA
+- Guard / Baton guard / SS / Officer death cries - from Streets of Rage
+
+SNK
+- Guard / Baton guard / SS / Officer death cries - from Metal Slug
+
+Tibo Software
+- Guard / Baton guard / SS / Officer death cries - from Bad Toys 3D
+
+Majik Monkee
+- Mutant & Rocketeer mutant voices, Chaingunner & Flame trooper voices, Main boss voices
+
+Orka
+- Slurping[1*] sounds, Ubermutant voices, Liftwaffe attack sound[2*], SMG attack[4*] & Enemy SMG attack sounds[4*]
+
+RoboCop movie
+- Liftwaffe attack sound[2*], Liftwaffekraft sounds (dying[3*]) - ED-209's sounds (voices from the german dub)
+
+Thomas Weiling
+- Officer alert sound
+
+WSJ
+- Boss chaingun, enemy pistol sounds
+
+Madness Combat
+- Knife swing, enemy hit, metal hit sounds, SMG attack[4*] & Enemy SMG attack sounds[4*]
+
+
+
+======================
+Music:
+======================
+
+Orka (is it getting boring already?)
