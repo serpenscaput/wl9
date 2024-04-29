@@ -1,0 +1,4 @@
+SS Totenkopf is a rather different beast. There's a readme attached, mostly talking about difficulty levels and cheating and whatnow. Slightly more interesting is the storyline: you're breaking out of prison, through guard quarets and mess hall. What lies ahead is an SS training centre, plus some bigwig carrying orders straight from the Fuhrer himself, though in fact he's just another Hans clone. True to the storyline, you'll be figthing mostly guards in the (tightly designed) first map, then stuff opens up as more SS and their Hans overseers join the fray. Three maps in total.
+
+===CREDITS===
+Christian Vinaa.
