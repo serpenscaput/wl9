@@ -1,0 +1,348 @@
+============================================================================
+Title                   : Conflict in the Fatherland (BJW60II) 2024 VIP
+Author                  : Brian J. "Blazkowicz" Rowan
+VIP Author		: Tris
+Email Address           : bandit@coldmail.com
+Website                 : http://www.wolfenstein3d.nl
+
+Description             : The 2024 VIP of CITF you didn't know you needed.
+			  60 brand-new levels for Wolfenstein 3D, following
+                          closely to the style of the originals. Includes
+                          some new and improved graphics and a few new sound
+                          effects. New EXE, graphics from various sources, including Totengraeber, TFS and more.
+                        
+======================================================================
+
+* Play Information *
+
+Episode and Level #     : Episodes 1-6, all levels (60 total)
+Secret Levels           : Yes
+Difficulty Settings     : Implemented
+New Graphics            : Yes
+New Sound Effects       : Yes
+New Music               : Yes
+New EXE File            : Yes
+
+* Construction *
+
+Base                    : From scratch, with inspiration from the original
+                          Wolfenstein levels, the hint book, and anything
+                          that reminds me of the first few months I had this
+                          game, and everything was still an awesome mystery.
+                          :)
+
+Editor(s) used          : Mapedit 8.1 for levels
+                          WolfEdit 2.1 for graphics
+                          Wolfsnd 1.0 for sound effects
+			  Codeblocks for source code (thanks to KS-Presto for base code)
+
+Construction time       : About 2 years off-and-on for original, 4 weeks for VIP
+
+Known Bugs              : Been playtesting these since 1996, I would think
+                          that there wouldn't be any bugs left by now.
+
+
+Welcome to 60 New Levels of Absolute Carnage!
+---------------------------------------------
+
+Welcome to The Renovation II: Conflict in the Fatherland, the sequel to the
+reknowned 60-level conversion entitled The Renovation, released by Apogee
+software in the "Wolfenstein Super Upgrade" pack. Each and every level in
+Conflict in the Fatherland is hand-crafted by expert level designer Brian
+"B.J. Blazkowicz" Rowan, a total Wolfenstein addict for over 4 years now.
+More attention is paid to graphic appearance and playability than ever
+before...these levels are right on par with id Software's original levels. As
+the designer, I made sure that all the levels offered a good combination of
+hard-core Nazi-blasting action, and suspenseful atmosphere induced by
+multiple secret rooms and realistic environments. And it's all backed by 6
+involving storylines.
+
+Disclaimer
+----------
+
+It is of the utmost importance that you refrain from contacting either Apogee
+Software or id Software concerning these levels. They will not provide you
+with any support for a modified product. If you have a question or a
+constructive comment or you get an error message, feel free to send a message
+to me, B.J. Rowan, at my e-mail address: bandit@coldmail.com.
+
+System Requirements
+-------------------
+
+You will need the VGA FILES of the 6-episode registered version of Wolfenstein 3D 1.4 for these levels
+to work. 
+
+============================================================================
+
+WOLFENSTEIN 3-D: CONFLICT IN THE FATHERLAND
+EPISODE ONE: Operation Schutzstaffel!	
+
+
+The Story So Far...
+You're William J. "B.J." Blazkowicz, the Allies' bad boy of espionage and a
+terminal action seeker.
+
+Allied intelligence reports that a run-down WWI German castle has taken on a
+new use. It's now being converted into a training center for the
+black-shirted Schutzstaffel, also known as SS -- the ruthless "police force"
+of Nazi-controlled countries. Knowing the location of such a training center
+gives the Allies a tremendous chance to gain some ground in the war, and
+they're not taking any risks that might lose them that chance -- so they're
+sending you to infiltrate the fortess and liqudate the trainees and any other
+Nazis you encounter.
+
+The castle is bound to hold many secret passages and caches of ill-begotten
+treasure, not to mention a good number of SA, or Sturmabteilung -- the
+brown-shirted Nazi goon squad. Don't get cocky and start thinking that SS
+trainees are the only foes you'll face. There's bound to be some high-ranking
+Nazi officers there to train them. Along those lines, intelligence reports
+that the second-in-command of the SS -- Hans Grosse -- may be visiting the
+fortress. If you should encounter him, use utmost caution in engaging. He is
+a very dangerous little maniac indeed.
+
+The fortress will be heavily guarded. Himmler's SS are extremely dangerous
+enemies indeed. They may be accompanied by vicious guard dogs and their SA
+buddies, sometimes all at once -- be cautious when entering unfamiliar rooms
+and passageways. Do not assume secret areas are safe havens. The Nazis are
+tricky and they may hide where you least expect them: next to doors, in
+hidden rooms, and in niches in the walls. The castle is old and its
+architecture is filled with such opportunities for your foes, who, unlike
+you, know the layout of the castle. Essentially, they have the upper hand in
+both manpower and knowledge of the battlefield. But you, B.J., have the upper
+hand in brains, cunning, and killer instinctiveness. Which, I admit, would be
+an insult to anyone else, but....we all know you, Blazkowicz.
+
+One last note: you may find various opportunities to "bug out", as they say
+in the air force -- in essence, to escape the castle and return home. You may
+seize these opportunities if you choose, or, if your curiosity gets the
+better of you, you can stay to search for alternate elevator shafts to
+further areas of the fortress.
+
+Good luck, B.J. The Nazis don't know that we know about their secret training
+operation, and we'd like you to keep it that way until they're all lying
+dead.
+
+
+EPISODE TWO: Lethal Infestation
+-------------------------------
+
+In this episode, you are sent to investigate one of the Nazi's primary troop
+lodging bunkers. Your primary mission goal is not to destroy all the Nazis
+there; that's only your secondary objective. Your primary objective is to
+discover what kind of evil creatures have been dismembering the guards
+stationed there. The Allies have overheard Nazi reports that some kind of
+uncontrollable infestation is taking place at Castle Eisenschwert, set high
+atop a German mountain. The strangest of the intercepted reports center
+around suspicion that a Nazi doctor named Schabbs has turned traitorous and
+is somehow behind this whole mess. We have no further information on that
+subject.
+
+To prepare you for your mission, we have arranged this briefing for you.
+There is an underground sewer that will allow you to enter the castle's
+cellars unnoticed by the guards patrolling the area. The first level will
+take place in the sewer system, and the second and third levels you will have
+to work your way through are the basement floors of the castle. From there,
+you'll have to cover the miscellaneous barracks, cafeteria, storage areas,
+and other floors that make up the ancient castle. We currently have no data
+at all on the eighth or ninth floors, except to say that the ninth floor is
+most likely not used; it is a small floor that was added onto the top of the
+castle after its completion. As soon as you secure the castle and stop the
+infestation, get out of there as fast as you can and head home.
+
+Once again, your main mission goal is to find out who or what is killing off
+the Nazi guards on station in this castle. Not that we want to help the
+Nazis; we want to eliminate the possibility of them harnessing the
+destructive forces you'll be seeking and using them against the Allies. Good
+luck, B.J.!
+
+
+EPISODE THREE: Hitler's Hideout
+-------------------------------
+
+As the German troops in Russia are pushed further and further back and the
+Allies make one strategic strike after another, it has finally become clear
+to Adolf Hitler that the Third Reich has but a little time left. Unable to
+accept failure, Hitler, driven insane, retreats to the lower levels of his
+underground bunker in Berlin, surrounding himself with hundreds of Nazi
+soldiers. From there he continues to use increasingly desperate tactics to
+wage the second World War.
+
+Only recently, the Allies intercepted coded information as to the whereabouts
+of Hitler's titanic bunker. Having cracked the code, we've decided to send in
+one man to attempt what even Hitler's own generals could not do: eliminate
+the Fhrer. Captain Blazkowicz, we've selected you from the list of our best
+soldiers for the job; your last few espionage missions were entirely
+successful, and if anyone can complete this seemingly impossible task, we
+think it's you.
+
+Hitler's bunker is quite possibly the most heavily guarded structure in the
+world right now. If you're going to make it in and out of there alive, you'll
+have to keep your wits about you, and your firearm in hand at all times!
+You'll be entering the bunker from the disguised ground-level entrance, and
+proceeding down through the lower levels. This is going to be a tough
+mission, Blazkowicz. Fight hard out there.
+
+
+THE NOCTURNAL MISSIONS: Episodes 4-6
+
+EPISODE FOUR: Subterranean Terror	
+---------------------------------
+
+Corporal Blazkowicz, you've been called here today because we believe you're
+the best man for our latest espionage mission. Intelligence reports that they
+have found the location of Otto Giftmacher's headquarters. Otto is the
+designer of the Nazis' new chemical warfare unit. He and his "creations" pose
+a large threat to the rest of the outside world. It's imperitave that you
+infiltrate his headquarters and take him out before he can put his diabolical
+weapons into action.
+
+However, Giftmacher isn't the only one behind the chemical warfare unit.
+There are two other Nazis who are crucial to the implementation of these
+latest plans: Gretel Grosse and General Fettgesicht. Once you eliminate Otto
+Giftmacher, look around and see if you can discover where his other two
+cohorts are basing their operations. Get back to us with the details. Good
+luck!
+
+
+EPISODE FIVE: Bite the Bullet
+-----------------------------
+
+Having discovered the whereabouts of Gretel Grosse, overseer of the plant
+that manufactures the bomb casings for Giftmacher's chemical weapons, you
+(B.J. Blazkowicz) head for the office complex adjacent to the plant, where
+Gretel has her main base of operations. If you can take her out and bring the
+manufacture of the weapon casings to a grinding halt, the Allies will be but
+one step away from putting down the Nazis' chemical weapons plot -- and that
+step is the elimination of the supreme commander, General Fettgesicht!
+
+
+EPISODE SIX: The Command Bunker
+-------------------------------
+
+With Gretel Grosse dead, the General realizes his plans are all but foiled.
+Outfitting his impregnable command bunker with a heavy-duty assortment of
+crack troops and Himmler's SS, the General plans to prepare the prototype
+chemical weapons he keeps in his bunker and launch them against Allied
+Forces. It is imperative that you, B.J., get in there and liquidate the
+madman before he wreaks one helluva messy brand of havoc on the population of
+earth.
+
+This will be your most difficult mission to date, Blazkowicz. You'll be
+facing more than a thousand Nazi troops, all fighting for their beliefs in
+your very face! If you can survive the insane amounts of guard in the bunker,
+you still have to take on General Fettgesicht, who has armed himself with a
+chaingun and a Rocket Propelled Grenade launcher especially for your visit!
+Grit your teeth and slam that pistol clip home -- your in for the fight of
+your life!
+
+
+Your Enemies
+------------
+
+If you are familiar with Wolfenstein 3D, you'll have no problem recognizing
+most of the opposition. However, two of the enemies have been substantially
+changed in graphic appearance. They are the SS soldiers and boss Otto
+Giftmacher. The SS soldiers now wear the traditional black uniforms with
+eagle-and-swastika caps. Old Otto, meanwhile, has been promoted to the
+position of SS-Obergruppenfhrer; he's wearing a cyan-colored uniform which
+has been adorned with many decorations. He's still packing a missile
+launcher, so steer clear of him!
+
+
+Your Weapons: An Inside Look
+----------------------------
+
+* Weapon #2: Walther Pistole 38 (P38)
+The replacement for the P08 (Luger) handgun was the Pistole 38, or P38,
+manufactured by Walther. This was a more rugged hand-gun and at 2.1lb heavier
+than the P08. It also had an eight-round box magazine and fired its 9mm
+parabellum ammunition with a muzzle velocity comparable to that of the P08.
+It was a sturdy and highly popular weapon.
+
+* Weapon #3: MP40 Submachine Gun (SMG)
+The MP40 was an improved version of the MP38, which utilized cheaper
+manufacturing methods. Like the MP38, it was a 9mm calibre submachine gun
+with a 32-round box magazine feeding from underneath the weapon. It weighed
+8.75lb and had a cyclic rate of fire of around 500rpm. Although a few early
+models did have a wooden stock, the vast majority featured a collapsible
+metal stock.
+
+* Weapon #4: MG34 GPMG
+This versatile, belt-fed 7.92mm machine gun weighed just over 26.5lb and
+fired at a rate of 900rpm, with a muzzle velocity of 726mps (2500fps).
+Generally fitted with a bipod, it could also be mounted on a heavy tripod for
+the sustained fire role, and an anti-aircraft mount was also available. Like
+most weapons dating from pre-war days, it was exceptionally well made, albeit
+rather expensive to produce.
+
+
+Credits & Thanks To:
+--------------------
+
+* Bill Kirby for creating the original level editor program, MapEdit, and
+also to David Huntoon, Bryan Baker, Warren Buss, and Matt Gruson for all
+their work over the years on this fine program to make it what it is today.
+* All those who played my first 60-level creation, The Renovation, and sent
+me your comments. I appreciate it!
+* P„r Sundb„ck for all his help during my quest to compile the Wolfenstein
+source code. P„r sent me his .OBJ files, game resources and the other files I
+ended up needing to get the code working. Thanks a million P„r!
+* Gary Ragland for his help, and his awesome add-on, Schabbs 2000, which
+inspired me to drag the Wolfenstein source code out of the closet and try to
+compile it one last time - with success at last!
+* Krijn van den Helm for helping me try to figure out this source code stuff,
+and for the cool Wolfenstein utilities he is working on. Thanks to him,
+someday in the future we might even be able to change the graphics stored in
+VGAGRAPH.WL6!
+* Special thanks to Apogee Software and id Software, without whom we would
+never have seen Wolfenstein 3-D, or possibly the rest of the 3D action games
+which are so popular today.
+
+
+Equipment List
+--------------
+
+* Game levels were created using MapEdit versions 8.0 through 8.4.
+* New graphics were created using Paint Shop Pro 3.0 and 4.12, and inserted
+using WolfEdit 2.1. All sounds were edited using Cool Edit and Cool Edit
+Pro, and inserted using WolfSnd1.0.
+
+============================================================================
+
+OTHER WOLFENSTEIN STUFF BY B.J. ROWAN
+
+The Renovation
+--------------
+
+These were the first 60 Wolfenstein episodes I ever designed, dating back to
+January of 1994. They were part of a compilation known as Wolfmaster. This
+compilation, which was organized by Carlton Griffin, was a package containing
+well over 800 additional levels for Wolfenstein 3-D. It was sold by Apogee
+Software, along with other utilities, as the "Wolfenstein Super Upgrades
+Pack". Game C of Wolfmaster is The Renovation, containing 60 all new levels
+by this author. Nowadays they are also available on my website, as more of my
+contribution to history than anything else, since they really aren't that
+great by my current standards. Still, I got a lot of great comments about
+them back in the day!
+
+Project Totengraeber
+--------------------------------------------------
+
+Want more Wolfenstein? B.J. is at it again, in over 45 more pulse-pounding
+Wolfenstein levels, this time with brand new EXE file and a standalone game
+installation, totally independent of the original game files. Project
+Totengraeber is part of a whole new breed of Wolfenstein add-ons, featuring
+continuous level flow, two additional keys, changed music and ceiling colors,
+new graphics and sound effects, and five secret levels hidden somewhere for
+you to find - no longer hard-coded onto particular floors! And as always,
+designer Brian Rowan realizes that a great engine does not a great game make
+- and so Project Totengraeber's new executable is backed up by the same kind
+of professionally-designed levels as his last set - each intensely
+atmospheric and immersive For you absolute Wolf addicts, this third map set
+by "B.J. Rowan" is his greatest Wolf design accomplishment yet.
+
+Enjoy the Game!
+------------------------
+
+If you have a question or a comment, send e-mail to B.J. Rowan at:
+bandit@coldmail.com
