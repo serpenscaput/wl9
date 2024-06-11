@@ -1,0 +1,4 @@
+Labrynth Levels (by Dar325 / David R, five maps) and Wolfenstein-3-D-The labyrinth (by an unknown author, three maps) are two labyrinthine First Encounter scenarios. Except, that is, they're not labyrinths at all. In fact, they're your run-of-the-mill Wolf scenarios. In Labrynth Levels, you traverse relatively large, rather underdecorated rooms and often have to fight at least one very large group of enemies, so better get some heavy armaments. In Wolfenstein-3-D-The labyrinth, maps are rather small, with the exception of the expansive third one. Things are rather easy, as enemies are used sparsely and you never fight more than a few at a time. Definitely a short, casual romp.
+
+===CREDITS===
+Dar325 / David R and someone else
