@@ -1,0 +1,28 @@
+^P^
+^C2cWelcome! ^C00
+
+Hello! Thank you for downloading this mod! I hope you enjoyed my previous ones. In this mod I tried to keep the original Wolfenstein 3d look while also adding new things such as textures and sprites. Some of these sprites, textures, and sounds were made by me. This mod is meant to be a challenging one. If you find the game too hard, consider dropping the difficulty.
+^P^
+^C2cNew Things! ^C00
+
+-Textures
+-Sprites
+-Music
+-Sounds
+-Maps
+-Features
+-Special Doors
+-Obstacles
+^P^
+^G 32 8 [MANUAL1]
+^C2cUnused Enemy ^C00
+
+In the files you might have noticed an unused enemy. I provided a video showcasing him since you won't be seeing him ingame. If you can figure out how to program this enemy in your own mod, feel free to use all the sprites. You may also use the base code I layed out and you can try to fix it. Just give credit if you do decide to use him. Thanks!
+^P^
+^C2cEnough yapping ^C00
+
+This is all I have to say about the mod. Now get out there and foil the Nazi's plans once again!
+
+I hope you enjoy the mod!
+
+---Gaumenschmaus 18/03/2024

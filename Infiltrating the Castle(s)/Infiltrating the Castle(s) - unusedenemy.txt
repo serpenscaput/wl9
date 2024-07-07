@@ -1,0 +1,153 @@
+//--------Had to be scrapped :( Feel free to use this code and all the sprites if you can manage to make this work------ Just give credit :)
+
+actor Medic : WolfensteinMonster 269
+{
+	points 800
+	health 50
+	speed 1, 6.3
+	sighttime 2
+	dropitem "Clip"
+	dropitem "Canteen"
+	deathsound "guard/death"
+	attacksound "medic/attack"
+	secretdeathsound "guard/fart"
+	seesound "snitch/sight"
+	faction "MedicFaction"
+	enemyfaction "DeadNaziFaction"
+	damagetype "MonsterMeleeDamage"
+	obituary "Wow, how the hell did you even get killed by this guy lmaooo"
+	missilefrequency 0.01
+	minmissilechance 256
+	height 64
+	radius 22
+	painchance 256
+	meleerange 22
+	MONSTER
+	+ALWAYSFAST
+	states
+	{
+		Spawn:
+			MEDC A -1 NOP A_Look
+			stop
+		Path:
+			MEDC B 10 NOP A_Chase
+			MEDC B 2.5
+			MEDC C 7.5 NOP A_Chase
+			MEDC D 10 NOP A_Chase
+			MEDC D 2.5
+			MEDC E 7.5 NOP A_Chase
+			loop
+		See:
+			MEDC B 5 NOP A_Chase
+			MEDC B 1.5
+			MEDC C 4 NOP A_Chase
+			MEDC D 5 NOP A_Chase
+			MEDC D 1.5
+			MEDC E 4 NOP A_Chase
+			loop
+		Melee:
+			MEDC A 10 A_MeleeAttack(1, 1.0)
+			goto See
+		Pain:
+			TNT1 A 0 A_playsound ("hit/flesh")
+			TNT1 A 0 A_spawnitemex ("XBlood1",6,random(-8,8),random(-8,8))
+			MEDC I 5 A_JumpIf(health & 1, 1)
+			goto See
+			TNT1 A 0 A_playsound ("hit/flesh")
+			TNT1 A 0 A_spawnitemex ("XBlood2",6,random(-8,8),random(-8,8))
+			MEDC J 5
+			goto See
+		Death:
+			TNT1 A 0 A_playsound ("hit/flesh")
+			TNT1 A 0 A_spawnitemex ("XBlood1",6,random(-8,8),random(-8,8))
+			MEDC K 6 A_Fall
+			MEDC L 6 A_Scream
+			MEDC M 6
+			MEDC N -1
+			stop
+	}
+}
+
+actor RevivedGuard : WolfensteinMonster
+{
+	health 40
+	speed 4, 4
+	radius 22
+	sighttime 0
+	attacksound "guard/attack"
+	deathsound "guard/death"
+	secretdeathsound "guard/fart"
+	obituary "$OB_GUARD"
+	MONSTER
+	-COUNTKILL
+	states
+	{
+		Spawn:
+		See:
+			GARD B 5 NOP A_Chase
+			GARD B 1.5
+			GARD C 4 NOP A_Chase
+			GARD D 5 NOP A_Chase
+			GARD D 1.5
+			GARD E 4 NOP A_Chase
+			goto See
+		Missile:
+			GARD FG 15 A_FaceTarget
+			GARD H 10 bright A_WolfAttack
+			goto See
+		Pain:
+			TNT1 A 0 A_playsound ("hit/flesh")
+			TNT1 A 0 A_spawnitemex ("XBlood1",6,random(-8,8),random(-8,8))
+			GARD I 5 A_JumpIf(health & 1, 1)
+			goto See
+			TNT1 A 0 A_playsound ("hit/flesh")
+			TNT1 A 0 A_spawnitemex ("XBlood2",6,random(-8,8),random(-8,8))
+			GARD J 5
+			goto See
+		Death:
+			TNT1 A 0 A_playsound ("hit/flesh")
+			TNT1 A 0 A_spawnitemex ("XBlood1",6,random(-8,8),random(-8,8))
+			GARD K 6 A_Fall
+			GARD L 6 A_Scream
+			GARD M 6
+			GARD N -1
+			stop
+	}
+}
+
+actor DeadNazi
+{	
+	speed 0
+	radius 3
+	health 1
+	faction "DeadNaziFaction"
+	enemyfaction "MedicFaction"
+	PROJECTILE
+	states
+	{
+		Spawn:
+			GARD N -1
+			stop
+		Death:
+			GARD O 8.5
+			TNT1 A 0 A_Spawnitem("RevivedGuard")
+			stop
+	}
+}
+
+---------------XLAT Definitions---------------
+
+
+	{269, Medic,            4, HOLOWALL, 1}
+	{273, Medic,            4, PATHING|HOLOWALL, 1}
+
+
+---------------Faction Definition---------------
+
+actor DeadNaziFaction : Faction
+{
+}
+
+actor MedicFaction : Faction
+{
+}
