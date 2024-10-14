@@ -1,0 +1,183 @@
+0000 0000 Nothing
+0062 70e0 Secret door
+002b e00k Gold key
+002c b00k Blue Key
+0034 200 Cross
+0035 300 Chalace
+0036 400 Jewels
+0037 e00 Crown
+001d 60b0 Dog food
+002f a00 Food
+0030 400+ First aid kit
+0038 3350 Extra life
+0032 300g Machine gun
+0033 b00g Huge gun
+0031 30a0 Ammunition
+001b 0e50 Chandalier
+0025 0250 Ceiling light
+001a 2e50 Floor lamp
+003c 7050 Well
+003b 7150 Well w/water
+0017 9950 Water
+003a 60a0 Barrel
+0018 20a0 Oil drum
+002e 6e50 Basket
+0019 600è Table w/chairs
+0024 600T Table
+001e 7750 White column
+001f 200p Plant in pot
+0022 a00p Plant in vase
+0023 10a0 Vase
+0027 b00A Armor
+003e 400f Flag
+0021 f050 Sink
+0026 600u Utensils 1
+0043 500u Utensils 2
+0044 840º Stove
+0045 600Ê Rack
+002d 700B Bed
+0028 6050 Empty cage
+0029 6f50 Cage w/skeleton
+001c f00ô Hanging skeleton
+0020 700s Skeleton
+002a 200b Bones 1
+0040 e00b Bones 2
+0041 300b Bones 3
+0042 600b Bones 4
+0039 400b Bones w/blood
+003d 4450 Pool of blood
+0046 200X Vines
+006c 400 Guard 1/S/E
+006d 400 Guard 1/S/N
+006e 400 Guard 1/S/W
+006f 400 Guard 1/S/S
+007e 100 SS  1/S/E
+007f 100 SS  1/S/N
+0080 100 SS  1/S/W
+0081 100 SS  1/S/S
+0074 800 Leon 1/S/E (S)
+0075 800 Leon 1/S/N (S)
+0076 800 Leon 1/S/W (S)
+0077 800 Leon 1/S/S (S)
+00d8 200 Mutant 1/S/E
+00d9 200 Mutant 1/S/N
+00da 200 Mutant 1/S/W
+00db 200 Mutant 1/S/S
+0090 c00 Guard 3/S/E
+0091 c00 Guard 3/S/N
+0092 c00 Guard 3/S/W
+0093 c00 Guard 3/S/S
+00a2 300 SS Guard 3/S/E
+00a3 300 SS Guard 3/S/N
+00a4 300 SS Guard 3/S/W
+00a5 300 SS Guard 3/S/S
+0098 700 Leon 3/S/E (S)
+0099 700 Leon 3/S/N (S)
+009a 700 Leon 3/S/W (S)
+009b 700 Leon 3/S/S (S)
+00ea 900 Mutant 3/S/E
+00eb 900 Mutant 3/S/N
+00ec 900 Mutant 3/S/W
+00ed 900 Mutant 3/S/S
+00b4 d00 Guard 4/S/E
+00b5 d00 Guard 4/S/N
+00b6 d00 Guard 4/S/W
+00b7 d00 Guard 4/S/S
+00c6 b00 SS Guard 4/S/E
+00c7 b00 SS Guard 4/S/N
+00c8 b00 SS Guard 4/S/W
+00c9 b00 SS Guard 4/S/S
+00bc f00 Leon 4/S/E (S)
+00bd f00 Leon 4/S/N (S)
+00be f00 Leon 4/S/W (S)
+00bf f00 Leon 4/S/S (S)
+00fc a00 Mutant 4/S/E
+00fd a00 Mutant 4/S/N
+00fe a00 Mutant 4/S/W
+00ff a00 Mutant 4/S/S
+008a 500> Dog 1/M/E
+008b 500^ Dog 1/M/N
+008c 500< Dog 1/M/W
+008d 500v Dog 1/M/S
+0070 400> Guard 1/M/E
+0071 400^ Guard 1/M/N
+0072 400< Guard 1/M/W
+0073 400v Guard 1/M/S
+0082 100> SS  1/M/E
+0083 100^ SS  1/M/N
+0084 100< SS  1/M/W
+0085 100v SS  1/M/S
+0078 800> Leon 1/M/E (S)
+0079 800^ Leon 1/M/N (S)
+007a 800< Leon 1/M/W (S)
+007b 800v Leon 1/M/S (S)
+00dc 200> Mutant 1/M/E
+00dd 200^ Mutant 1/M/N
+00de 200< Mutant 1/M/W
+00df 200v Mutant 1/M/S
+00ae 600> Dog 3/M/E
+00af 600^ Dog 3/M/N
+00b0 600< Dog 3/M/W
+00b1 600v Dog 3/M/S
+0094 c00> Guard 3/M/E
+0095 c00^ Guard 3/M/N
+0096 c00< Guard 3/M/W
+0097 c00v Guard 3/M/S
+00a6 300> SS Guard 3/M/E
+00a7 300^ SS Guard 3/M/N
+00a8 300< SS Guard 3/M/W
+00a9 300v SS Guard 3/M/S
+009c 700> Leon 3/M/E (S)
+009d 700^ Leon 3/M/N (S)
+009e 700< Leon 3/M/W (S)
+009f 700v Leon 3/M/S (S)
+00ee 900> Mutant 3/M/E
+00ef 900^ Mutant 3/M/N
+00f0 900< Mutant 3/M/W
+00f1 900v Mutant 3/M/S
+00d2 e00> Dog 4/M/E
+00d3 e00^ Dog 4/M/N
+00d4 e00< Dog 4/M/W
+00d5 e00v Dog 4/M/S
+00b8 d00> Guard 4/M/E
+00b9 d00^ Guard 4/M/N
+00ba d00< Guard 4/M/W
+00bb d00v Guard 4/M/S
+00ca b00> SS Guard 4/M/E
+00cb b00^ SS Guard 4/M/N
+00cc b00< SS Guard 4/M/W
+00cd b00v SS Guard 4/M/S
+00c0 f00> Leon 4/M/E (S)
+00c1 f00^ Leon 4/M/N (S)
+00c2 f00< Leon 4/M/W (S)
+00c3 f00v Leon 4/M/S (S)
+0100 a00> Mutant 4/M/E
+0101 a00^ Mutant 4/M/N
+0102 a00< Mutant 4/M/W
+0103 a00v Mutant 4/M/S
+007c 400G Dead guard
+00d6 400ê Hans (Gold key)
+00c4 d00* Dr. Schabb
+00a0 a00F Robed Hitler
+00b2 d00& Armored Hitler
+00d7 a00@ Otto
+00c5 c00$ Gretl (Gold key)
+00b3 d00# The General
+0013 a0f0 Start position
+0014 a2f0 Start position
+0015 a4f0 Start position
+0016 a6f0 Start position
+005a f2f0 turning point
+005b f1f0 turning point
+005c f0f0 turning point
+005d f7f0 turning point
+005e f6f0 turning point
+005f f5f0 turning point
+0060 f4f0 turning point
+0061 f3f0 turning point
+0063 e0d0 EndGame trigger
+00e0 cf50 Red Pac Man
+00e1 ef50 Yellow Pac Man
+00e2 af50 Green Pac Man
+00e3 9f50 Blue Pac Man
+
