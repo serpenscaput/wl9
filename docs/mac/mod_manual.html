@@ -1,0 +1,1858 @@
+<html>
+<head>
+<title>S.U.C.K. Instructions</title>
+<style>
+div
+{
+  border-left: 20px solid black;
+  border-right: 20px solid black;
+}
+div.a 
+{
+  text-indent: 40px;
+}
+.t 
+{ 
+  border-style: none; color: #4f6156; 
+}
+.t th, .t td 
+{ 
+  padding-right: 20px;
+  border-style: none; 
+}
+</style>
+</head>
+<body bgcolor=black text="#166136">
+<P>
+<i><font color="#556136"><b><h1>SIMPLE USER CONFIGURATION KIT (S.U.C.K.)</h1></b></i>
+<p>
+<div>
+Suck-ing is a super-easy method to modify the game and barely an inconvenience. Even your brother's dog can do it! 
+It's limited in scope, not overly complex and has some loose screws but it lets you do some quick changes. With enough creativity it gives you plenty of 
+room to turn the whole game upside down. All you need is a text file, add some variables from below and rename the file to mod.cfg.
+It allows to tweak game variables per level. 
+You could have weapons and enemies behave totally normal in one level and then absolutely crazy in the next.
+<p>
+<u>To sum up the 4 steps to modding suckcess:</u><br>
+S - Set up a text file <br>
+U - Unleash the variables<br>
+C - Call the file ????<br>
+K - Killing Profit<br>
+<p>
+<b>Jump to a section:</b><br>
+<a href="#enemies">Enemies</a><br>
+<a href="#projectiles">Projectiles</a> <br>
+<a href="#weapons">Weapons and Ammo</a> <br>
+<a href="#levelstart">Level Start</a> <br>
+<a href="#sky">Sky</a> <br>
+<a href="#player">Player</a> <br>
+<a href="#misc">Various Things</a> <br>
+<a href="#msgs">Messages</a> <br>
+<a href="#textures">Textures</a> <br>
+<a href="#static">Static Objects</a> <br>
+<a href="#items">Pick-up Items</a> <br>
+<a href="#custob">Custom Objects</a> <br>
+<a href="#hud">Statusbar</a> <br>
+<a href="#xp">XP System</a> <br>
+<a href="#sprites">Additional Sprites and Rotations</a> 
+<p>
+<font color="#556136"><b>GAMEDICT.WL6</font></b><br></font>
+File contains various options to configure your levels and is also described in detail in the original documentation. It gives you access to following features: <br>
+<img src="mod_files.png" width=286 height=216 border=0 align="right">
+<ul>
+<li>Floor and Ceiling Colors</li>
+<div class="a">
+<font color="#4f6156">
+Default is the color for any level not specified.<p>
+
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Color</th>
+</tr>
+<tr>
+	<td>ceilcolor</td>
+	<td>2</td>
+	<td>66</td>
+</tr>
+<tr>
+	<td>floorcolor</td>
+	<td>21</td>
+	<td>42</td>
+</tr>
+<tr>
+	<td>floor_default</td>
+	<td></td>
+	<td>0</td>
+</tr>
+<tr>
+	<td>ceil_default</td>
+	<td></td>
+	<td>233</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Floor and Ceiling Textures</li>
+<div class="a">
+<font color="#4f6156">
+Uses plane 3 to set textures per tile.<p>
+texflats
+</font>
+</div>
+<li>Shading Color and Strength</li>
+<div class="a">
+<font color="#4f6156">
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Amount</th>
+</tr>
+<tr>
+	<td>shading</td>
+	<td>1</td>
+	<td>5</td>
+</tr>
+<tr>
+	<td>shadegreen</td>
+	<td>1</td>
+	<td>60</td>
+</tr>
+<tr>
+	<td>shadered</td>
+	<td>1</td>
+	<td>0</td>
+</tr>
+<tr>
+	<td>shadeblue</td>
+	<td>1</td>
+	<td>110</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Parallax Sky</li>
+<div class="a">
+<font color="#4f6156">
+The texture number from the vswap and how many textures it should use.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Num</th>
+</tr>
+<tr>
+	<td>parallaxstart</td>
+	<td>1</td>
+	<td>60</td>
+</tr>
+<tr>
+	<td>parallaxcount</td>
+	<td>1</td>
+	<td>16</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Music Order</li>
+<div class="a">
+<font color="#4f6156">
+Music is in the music folder in ogg format. Custom names are supported. Titlemusic is for the intro of the game and intermusic for the intermission screen.<br><p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Track</th>
+</tr>
+<tr>
+	<td>levelmusic</td>
+	<td>21</td>
+	<td>"PLODDING"</td>
+</tr>
+<tr>
+	<td>levelmusic</td>
+	<td>11</td>
+	<td>"my_new_music"</td>
+</tr>
+<tr>
+	<td>titlemusic</td>
+	<td></td>
+	<td>"epicsong"</td>
+</tr>
+<tr>
+	<td>intermusic</td>
+	<td></td>
+	<td>"BETWEEN"</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Sound List</li>
+<div class="a">
+<font color="#4f6156">
+Option to rename the default sound files. First you specify the file in the gamedict. The entire sound order can be found in the source code (asmcref.h)<br><p>
+<font color="#4f6156">sounds &emsp; "soundlist.txt"<br></font>
+<p>
+In SOUNDLIST.TXT:<p>
+<table class="t">
+<tr>
+	<td>snd</td>
+	<td>0</td>
+	<td>"test.wav"</td>
+</tr>
+<tr>
+	<td>snd</td>
+	<td>1</td>
+	<td>"player/test.wav"</td>
+</tr>
+<tr>
+	<td>snd</td>
+	<td>2</td>
+	<td>"player/44.wav"</td>
+</tr>
+<tr>
+	<td>snd</td>
+	<td>3</td>
+	<td>"guard/1.wav"</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Episode/Scenario ending on a specific map</li>
+<div class="a">
+<font color="#4f6156">
+End and start each episode on a specific level number. Finalmap can be used multiple times.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Episode</th>
+    <th>Level</th>
+</tr>
+<tr>
+	<td>startepisode</td>
+	<td>1</td>
+	<td>1</td>
+</tr>
+<tr>
+	<td>startepisode</td>
+	<td>2</td>
+	<td>30</td>
+</tr>
+<tr>
+	<td>finalmap</td>
+	<td></td>
+	<td>3</td>
+</tr>
+<tr>
+	<td>finalmap</td>
+	<td></td>
+	<td>32</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Episode Names</li>
+<div class="a">
+<font color="#4f6156">
+Scenario/Episode names for the menu. It got room for 20 episodes.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Episode</th>
+    <th>Name</th>
+</tr>
+<tr>
+	<td>episode</td>
+	<td>1</td>
+	<td>"Escape from Castle Golfenstein"</td>
+</tr>
+<tr>
+	<td>episode</td>
+	<td>2</td>
+	<td>"Operation: Eisenfrust"</td>
+</tr>
+<tr>
+	<td>episode</td>
+	<td>3</td>
+	<td>"Attack of the Space Mutants"</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Level Order</li>
+<div class="a">
+<font color="#4f6156">
+Beating the given level will take you to the specified map. Good for non-linear level flow in combination with the secret elevator and level loops.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Next Level</th>
+</tr>
+<tr>
+	<td>nextmap</td>
+	<td>1</td>
+	<td>5</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Secret Level Order</li>
+<div class="a">
+<font color="#4f6156">
+Which level should lead to a secret map and back. This example takes you via the secret elevator from level 1 to 10. Beating the secret map will lead to level 2.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Next Level</th>
+</tr>
+<tr>
+	<td>secretlevel</td>
+	<td>1</td>
+	<td>10</td>
+</tr>
+<tr>
+	<td>secretback</td>
+	<td>10</td>
+	<td>2</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Par time</li>
+<div class="a">
+<font color="#4f6156">
+Partime for the given level.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Seconds</th>
+</tr>
+<tr>
+	<td>partime</td>
+	<td>1</td>
+	<td>105</td>
+</tr>
+<tr>
+	<td>partime</td>
+	<td>14</td>
+	<td>442</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Mirrored Wall Sides</li>
+<div class="a">
+<font color="#4f6156">
+Flips wall textures on the x-axis. Commonly used in mods for truck textures. 1 = horizontal, 2 = vertical, 3 = both sides.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Wall id</th>
+    <th>Flip-side</th>
+</tr>
+<tr>
+	<td>mirwall</td>
+	<td>1</td>
+	<td>3</td>
+</tr>
+<tr>
+	<td>mirwall</td>
+	<td>33</td>
+	<td>2</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Darker Wall Sides</li>
+<div class="a">
+<font color="#4f6156">
+Darkened wall sides via the darktable. 333 = horizontal side, 666 = vertical side, 667 = both sides. 
+See custom darktable in <a href="#misc">Various Things</a>.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Wall id</th>
+    <th>Dark Side</th>
+</tr>
+<tr>
+	<td>dwalls</td>
+	<td>0 (door sides)</td>
+	<td>667</td>
+</tr>
+<tr>
+	<td>dwalls</td>
+	<td>11</td>
+	<td>333</td>
+</tr>
+<tr>
+	<td>dwalls</td>
+	<td>23</td>
+	<td>666</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Palettes</li>
+<div class="a">
+<font color="#4f6156">
+Color palettes used in the game. 1 = ingame, 2 = intermission, 3 = id logo, 4 = MacPlay logo, 5 = title screen, 6 = new game menu.
+The palettes are in the 768-bytes format used by ChaosEdit.
+<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Palette</th>
+    <th>File</th>
+</tr>
+<tr>
+	<td>palette</td>
+	<td>1</td>
+	<td>"wolfy.pal"</td>
+</tr>
+<tr>
+	<td>palette</td>
+	<td>2</td>
+	<td>"Intermission_Pal.BRGR"</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Level Number on Statusbar</li>
+<div class="a">
+<font color="#4f6156">
+Customized level number display.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>Display</th>
+</tr>
+<tr>
+	<td>areascnum</td>
+	<td>1</td>
+	<td>99</td>
+</tr>
+<tr>
+	<td>areascnum</td>
+	<td>2</td>
+	<td>74</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Readme + Intermission Text + End Text</li>
+<div class="a">
+<font color="#4f6156">
+Option to have readme in the banana menu and text screens after specified levels. 
+Leveltext displays it at start of the level and endtext at end of the final level.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>File</th>
+</tr>
+<tr>
+	<td>readme</td>
+	<td></td>
+	<td>"filename.xxx"</td>
+</tr>
+<tr>
+	<td>leveltext</td>
+	<td>3</td>
+	<td>"folder/level5.art"</td>
+</tr>
+<tr>
+	<td>leveltext</td>
+	<td>5</td>
+	<td>"story/helpart.wlt"</td>
+</tr>
+<tr>
+	<td>endtext</td>
+	<td>7</td>
+	<td>story/end1.txt</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Level-specific VSWAP</li>
+<div class="a">
+<font color="#4f6156">
+Option to pick vswap for specific levels. Allows to reuse vswaps without multiplying files which could be the case of the alternative method.<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>Level</th>
+    <th>File</th>
+</tr>
+<tr>
+	<td>vswap</td>
+	<td>1</td>
+	<td>"file.ext"</td>
+</tr>
+<tr>
+	<td>vswap</td>
+	<td>2</td>
+	<td>"vswap.wl3"</td>
+</tr>
+</table>
+</font>
+</div>
+<li>Tile Shading</li>
+<div class="a">
+<font color="#4f6156">
+Writing planelight in the config will enable the 4th (light) + 5th (teleporters) plane for the gamemaps and lets you adjust brightness for each tile. 
+You pick one of the editors that supports more than 3 planes (WDC, HWE [save maps with WDC compatibility]), enable 5 planes and set the value for each tile on plane 4. 
+Tile values range from 0 (bright) to 31 (dark). 
+The other shading variables in the gamedict need to be set as well.<br><p>
+<font color="#4f6156">planelight<br></font>
+</div>
+</font>
+<li>Teleporters</li>
+<div class="a">
+<font color="#4f6156">
+ First you specify the file in the gamedict. The game will enable the 5th plane which requires a suitable editor (WDC, HWE). <br><p>
+<font color="#4f6156">teleporter &emsp; "my_tele.txt" // put in conf folder</font>
+<p>
+In MY_TELE.TXT:<p>
+<table class="t">
+<tr>
+    <th></th>
+    <th>plane 5 id</th>
+    <th>o(neway) : exclude p(layer) e(nemy) a(ll) : player angle</th>
+</tr>
+<tr>
+	<td>teleport</td>
+	<td>1</td>
+	<td>"o:e:122"</td>
+</tr>
+<tr>
+	<td>teleport</td>
+	<td>3</td>
+	<td>"b:e:0"</td>
+</tr>
+<tr>
+	<td>teleport</td>
+	<td>4</td>
+	<td>"b:p"</td>
+</tr>
+<tr>
+	<td>teleport</td>
+	<td>63</td>
+	<td>"o:e"</td>
+</tr>
+</table>
+</font>
+</div>
+<p>
+The values (in this example: 1, 3, 4, 63) are placed on the 5th plane.</br>
+Place teleport.wav (default) in the sound folder if a sound effect is desired.</br>
+Each teleport is either paired (entry and exit or reverse) or a one-way ticket.</br>
+1 goes to 2 and vice-versa.</br>
+3 goes to 4</br>
+5 and 6</br>
+and so on</br>
+teleport 1 "b:e:122" means id = 1, both ways, player only and angle will be set to 122 after the player teleports. The angle can be left out.
+</font>
+</ul>
+<p>
+<font color="#556136"><b>Level Specific Config</font></b><br>
+It is possible to have a config for each single level by adding the level number at end of the file name. If there is none for a specific level 
+it will fall back on the main config.
+<p>
+<font color="#556136"><b>modcfg "name"</font></b><br>
+Add this in <font color="#4f6156">GAMEDICT.WL6</font> to set the name for the mod config or else it uses the default file name "mod.cfg". Configs should be located either 
+in "macenwolf/conf" or "macenwolf/modname/conf". The game checks the mod folder first if a mod is loaded (--file command) before checking the main folder. 
+If there is no config file the game will use the default game settings.<p>
+
+<u>For example in Gamedict.WL6:</u><br> 
+<font color="#4f6156">modcfg &emsp; "funguns"</font>
+<p>
+The game will look for a cfg file with the name "funguns.cfg", "funguns02.cfg" for level 2, "funguns37.cfg" for level 37 and so on. Default naming
+would be: mod.cfg, mod02.cfg, etc.
+<p>
+<font color="#556136"><b>Actor Limit</font></b><br>
+The maximum per level for a mod is 5000 right now. So be a bit wary when spamming around enemies and projectiles in a level.
+<p>
+<font color="#556136"><b>Auto-Level-Specific VSWAP</font></b><br>
+You can have a vswap for each single map by naming the file accordingly. Vswap02.wl6 would be for level 2, vswap44.wl6 would be for level 44.
+Alternatively vswap files can be also assigned via the gamedict.wl6.
+<p>
+<font color="#556136"><b>Multiple Sound Folders</font></b><br>
+Same as the vswap you can have one for each level. Name the folder sounds02 for level 2 and so on. If it can't find a sound file in  macenwolf/mod/sounds02
+it will look for it in macenwolf/mod/sounds and afterwards go for macenwolf/sounds.
+<p>
+<a name="enemies"></a> 
+<font color="#556136"><b> ============================== ENEMIES ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+Here is a rundown of who is who:<br>
+grd = brown guards<br>
+ofc = white officers<br>
+mut = mutants<br>
+dog = dog<br>
+ss = big blue guards<br>
+hans = blue armored boss<br>
+sbbs = doctor with a needle<br>
+uber = ubermutant<br>
+trns = trans grosse aka brown haired hans<br>
+deth = deathknight<br>
+fake = fake hitler<br>
+mech = mecha hitler<br>
+hitl = adolfo<br>
+pac = pac-man ghosts
+<p>
+<font color="#556136"><b>Rotations for Bosses and Standard Enemies</font></b><br>
+<font color="#4f6156">8-dir-enemies<br>
+8-dir-bosses</font>
+<p>
+Enables rotations for standard enemies (guard, officer, mutant, ss, dog) and/or the bosses. The rotations are moved to the end of the vswap. See also
+<a href="#sprites">Additional Sprites and Rotations</a> on how to set up the sprites. They use the same map id numbers for directions and patrols as the 
+classic DOS version. Check the map-editor definitions of Wolf3D (DOS) for paths and directional spawns.
+As of now Bosses don't have any new spawns definitions.<p>
+
+Short example from the setup in <a href="#sprites">Additional Sprites and Rotations</a> of how the vswap should look like.<br>
+guard standing frame (front): vswap #281<br>
+guard walking frame 1 (front): vswap #289<br>
+guard walking frame 2 (front): vswap #298<br>
+<p>
+<font color="#556136"><b>Hitpoints (_hp)</font></b><br>
+Health points of the enemies. Below is a list of the default values. Pac-Ghosts are an exception and vanish into thin air if shot.<p>
+<table class="t">
+<tr>
+	<td>grd_hp</td>
+	<td>6</td>
+</tr>
+<tr>
+	<td>ofc_hp</td>
+	<td>12</td>
+</tr>
+<tr>
+	<td>mut_hp</td>
+	<td>18</td>
+</tr>
+<tr>
+	<td>dog_hp</td>
+	<td>1</td>
+</tr>
+<tr>
+	<td>ss_hp</td>
+	<td>25</td>
+</tr>
+<tr>
+	<td>hans_hp</td>
+	<td>250</td>
+</tr>
+<tr>
+	<td>sbbs_hp</td>
+	<td>350</td>
+</tr>
+<tr>
+	<td>uber_hp</td>
+	<td>400</td>
+</tr>
+<tr>
+	<td>trns_hp</td>
+	<td>300</td>
+</tr>
+<tr>
+	<td>deth_hp</td>
+	<td>450</td>
+</tr>
+<tr>
+	<td>fake_hp</td>
+	<td>400</td>
+</tr>
+<tr>
+	<td>mech_hp</td>
+	<td>250</td>
+</tr>
+<tr>
+	<td>hitl_hp</td>
+	<td>250</td>
+</tr>
+<tr>
+	<td>pac_hp</td>
+	<td>1</td>
+</tr>
+</table>
+<p>
+<font color="#556136"><b>Damage inflicted by Enemies (_damage)</font></b><br>
+The amount of the player raging when being shot. The default values are random.
+<p>
+<table class="t">
+<tr>
+	<td>grd_damage</td>
+	<td>10</td>
+</tr>
+<tr>
+	<td>ofc_damage</td>
+	<td>33</td>
+</tr>
+</table>
+<p>
+<font color="#556136"><b>Enemy Speed (_speed)</font></b><br>
+Turn the enemies into road runners. Below is a list of the default values.
+<p>
+<table class="t">
+<tr>
+	<td>grd_speed</td>
+	<td>1280</td>
+</tr>
+<tr>
+	<td>ofc_speed</td>
+	<td>2560</td>
+</tr>
+<tr>
+	<td>mut_speed</td>
+	<td>1792</td>
+</tr>
+<tr>
+	<td>dog_speed</td>
+	<td>2303</td>
+</tr>
+<tr>
+	<td>ss_speed</td>
+	<td>1535</td>
+</tr>
+<tr>
+	<td>hans_speed</td>
+	<td>1792</td>
+</tr>
+<tr>
+	<td>sbbs_speed</td>
+	<td>1280</td>
+</tr>
+<tr>
+	<td>uber_speed</td>
+	<td>2048</td>
+</tr>
+<tr>
+	<td>trns_speed</td>
+	<td>1792</td>
+</tr>
+<tr>
+	<td>deth_speed</td>
+	<td>1792</td>
+</tr>
+<tr>
+	<td>fake_speed</td>
+	<td>1536</td>
+</tr>
+<tr>
+	<td>mech_speed</td>
+	<td>1792</td>
+</tr>
+<tr>
+	<td>hitl_speed</td>
+	<td>2048</td>
+</tr>
+<tr>
+	<td>pac_speed</td>
+	<td>1111</td>
+</tr>
+</table>
+<p>
+<font color="#556136"><b>Enemy Animation Speed (_animspd)</font></b><br>
+The amount of time each enemy frame should be displayed in tics (60 tics = 1 second). The default game has different times for each frame. Affects the 
+walking and attacking. Possible uses range from goofy to insane.
+<p>
+<table class="t">
+<tr>
+	<td>grd_animspd</td>
+	<td>70</td>
+</tr>
+<tr>
+	<td>ofc_animspd</td>
+	<td>10</td>
+</tr>
+</table>
+<p>
+<font color="#556136"><b>Enemy Walk Routine (_chase)</font></b><br>
+<ul>
+<li><font color="#4f6156">default</font>: The usual Wolf3D behavior.</li>
+<li><font color="#4f6156">range</font>: Shooting from distance like the guards usually do.</li>
+<li><font color="#4f6156">melee</font>: Coming close like dogs.</li>
+<li><font color="#4f6156">ghost</font>: Wandering through the vast floors without a real plan.</li>
+<li><font color="#4f6156">flee</font>: Catch them if you can.</li>
+</ul>
+<font color="#4f6156">
+grd_chase &emsp; "ghost"<br>
+ofc_chase &emsp; "melee"</font>
+<p>
+<font color="#556136"><b>Enemy Attack Routine (_attack)</font></b><br>
+<ul>
+<li><font color="#4f6156">default</font>: The usual behavior.</li>
+<li><font color="#4f6156">melee</font>: Bite like a dog.</li>
+<li><font color="#4f6156">bullet</font>: Lets you eat lead.</li>
+<li><font color="#4f6156">needle</font>: Get an free injection.</li>
+<li><font color="#4f6156">fire</font>: Spitting fireballs at you.</li>
+<li><font color="#4f6156">rocket</font>: Incoming missiles.</li>
+<li><font color="#4f6156">fakefire</font>: Add the fakehitler fireball sprites first.</li>
+<li><font color="#4f6156">idle</font>: Doesn't attack but plays attack animation.</li>
+<li><font color="#4f6156">noattack</font>: Doesn't attack and no animation.</li>
+</ul>
+<font color="#4f6156">
+grd_attack &emsp; "rocket"<br>
+ofc_attack &emsp; "melee"</font>
+<p>
+<font color="#556136"><b>Enemy State (_state)</font></b><br>
+Make enemies solid or lets the player walk through them.
+<p>
+<font color="#4f6156">
+grd_state &emsp; "clip"<br>
+ofc_state &emsp; "solid"<br>
+pac_state &emsp; "clip"</font>
+<p>
+<font color="#556136"><b>Enemy Feature (_feature)</font></b><br>
+Turn actors into flat sprites, make them translucent and fully bright if the shading option is enabled.
+<ul>
+<li><font color="#4f6156">vert_front</font></li>
+<li><font color="#4f6156">vert_back</font></li>
+<li><font color="#4f6156">vert_mid</font></li>
+<li><font color="#4f6156">horiz_front</font></li>
+<li><font color="#4f6156">horiz_back</font></li>
+<li><font color="#4f6156">dither</font></li>
+<li><font color="#4f6156">bright</font></li>
+</ul>
+<p><font color="#4f6156">
+grd_feature &emsp; "horiz_front"</br>
+grd_feature &emsp; "dither"</br>
+ofc_feature &emsp; "vert_mid"</br>
+dog_feature &emsp; "bright"</font>
+<p>
+<font color="#556136"><b>Enemy Sight (_sightdist)</font></b><br>
+Tile distance to get triggered by the player.
+<p>
+<font color="#4f6156">
+grd_sightdist &emsp; 16<br>
+ofc_sightdist &emsp; 4</font>
+<p>
+<font color="#556136"><b>Enemy Drop (_drop)</font></b><br>
+Spawns an object or enemy on death. Uses map id number. The guard could spawn another guard (id = 109) on death for infinite enemies or
+every enemy could drop a treasure item.
+<p>
+<font color="#4f6156">
+grd_drop &emsp; 23<br>
+ofc_drop &emsp; 124</font>
+<p>
+<font color="#556136"><b>Enemy Lifetime (_lifetime)</font></b><br>
+Removes the enemy after spotting the player in a given timeframe.
+<p>
+<font color="#4f6156">
+grd_lifetime &emsp; 11<br>
+ofc_lifetime &emsp; 200</font>
+<p>
+<a name="enemies_xp"></a> 
+<font color="#556136"><b>Enemy XP (_xp)</font></b><br>
+Experience points gained by killing enemies. See <a href="#xp">XP System</a>. Each level could use a config that gives the enemies more and more hitpoints
+but also more XP. Additionally the nextmap command could change the level order to function as a hub level for XP grinding.
+<p>
+<font color="#4f6156">
+grd_xp &emsp; 300<br>
+ofc_xp &emsp; 500<br>
+dog_xp &emsp; 10</font>
+<p>
+<font color="#556136"><b>Enemy Death Variants</font></b><br>
+With this you can define alternative death animations depending on the player weapon. The variables are taken from a sub-config file. First
+you define said file. 
+<p>
+<font color="#4f6156">
+deaths &emsp; "death.txt" &emsp; // in macenwolf/yourmod/conf</font>
+<p>
+<div class="a">in DEATH.TXT:</div>
+<p>
+Then you create the file and add work with the following variables. </br>
+The function works like this: <font color="#4f6156">weapon : animation speed : frames : spritenum start</font></br>
+The spritenum can be found in vswap section of several editors.</br>
+Weapons 0-3 are knife to chaingun, 4-7 are player projectiles (fire, rocket, needle, fakefire).
+<p>
+<font color="#4f6156">
+grd_death &emsp; "1:6:9:144"</font></br>
+translated it means: 1 = pistol : 6 speed : 9 frames : sprnum 144 (+9 frames)
+<p>
+<font color="#4f6156">
+ofc_death &emsp; "0:1:18:214"</font></br>
+translated it means: 0 = knife : 1 speed : 18 frames : sprnum 214 (+18 frames)
+<p>
+<font color="#556136"><b>Enemy Path Blocker</font></b><br>
+Invisible object that blocks the enemy (from entering rooms). Use your number as object id on plane 2. 
+In this example you could place object 500 in a circle around an enemy and the ai will never leave the circle. 
+Simple way to control the flow of a level and hordes of enemies.
+<P><font color="#4f6156">	
+enemy_block &emsp; 500</font>	
+<p>
+<a name="projectiles"></a> 
+<font color="#556136"><b> ============================== PROJECTILES ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+What's up with all those projectile names? <p>
+<font color="#4f6156">en_fire</font> = enemy flamethrower ball<br>
+<font color="#4f6156">en_miss</font> = enemy rocket<br>
+<font color="#4f6156">en_need</font> = enemy needle<br>
+<font color="#4f6156">en_ffir</font> = enemy fakehitler fireball<br>
+<font color="#4f6156">pl_fire</font> = player flamethrower ball<br>
+<font color="#4f6156">pl_miss</font> = player rocket<br>
+<font color="#4f6156">pl_need</font> = player needle<br>
+<font color="#4f6156">pl_ffir</font> = player fakehitler fireball<br>
+<p>
+<font color="#556136"><b>Projectile Speed (_speed)</font></b><br>
+How fast the projectiles travel. 
+<P>
+<font color="#4f6156">
+en_fire_speed &emsp; 4608<br>
+en_miss_speed &emsp; 8192<br>
+pl_fire_speed &emsp; 16896<br>
+pl_miss_speed &emsp; 16896</font>
+<p>
+<font color="#556136"><b>Projectile Lifetime (_lifetime)</font></b><br>
+Duration of projectile until it disappears. Normally they don't and only disappear if they hit something.<br>
+Time in tics (60 tics = 1 second).
+<P>
+<font color="#4f6156">
+en_fire_lifetime &emsp; 60<br>
+en_miss_lifetime &emsp; 360<br>
+pl_fire_lifetime &emsp; 360<br>
+pl_miss_lifetime &emsp; 1320</font>
+<p>
+<font color="#556136"><b>Projectile Animation Speed (_animspd)</font></b><br>
+The amount of time each frame should be displayed. <br>
+Time in tics (60 tics = 1 second).<P>
+<p><font color="#4f6156">
+en_fire_animspd &emsp; 6<br>
+en_miss_animspd &emsp; 3<br>
+pl_fire_animspd &emsp; 3<br>
+pl_miss_animspd &emsp; 12</font>
+<p>
+<font color="#556136"><b>Projectile Damage (_damage)</font></b><br>
+The amount of pain given to the target. Default values are random.
+<p><font color="#4f6156">
+en_miss_damage &emsp; 16<br>
+en_need_damage &emsp; 30<br>
+pl_fire_damage &emsp; 113<br>
+pl_miss_damage &emsp; 32</font>
+<p>
+<font color="#556136"><b>Projectile Splash Damage (_splashdmg)</font></b><br>
+The amount of pain given in a certain radius when the projectile hits and explodes. Damage drops off over distance.
+<p>
+<font color="#4f6156">
+en_miss_splashdmg &emsp; 116<br>
+en_need_splashdmg &emsp; 300<br>
+pl_fire_splashdmg &emsp; 13<br>
+pl_miss_splashdmg &emsp; 32</font>
+<p>
+<font color="#556136"><b>Projectile Splash Distance (_splashdist)</font></b><br>
+The radius of the splash damage in tiles.
+<p><font color="#4f6156">
+en_miss_splashdist &emsp; 1<br>
+en_need_splashdist &emsp; 7<br>
+pl_fire_splashdist &emsp; 2<br>
+pl_miss_splashdist &emsp; 64</font>
+<p>
+<font color="#556136"><b>Projectile Self Damage (_splashdist)</font></b><br>
+Who should be damaged by the splash damage?
+<ul>
+<li>player</li>
+<li>enemies</li>
+<li>all</li>
+</ul>
+<p><font color="#4f6156">
+en_miss_splashdist &emsp; "enemies"<br>
+en_need_splashdist &emsp; "player"<br>
+pl_fire_splashdist &emsp; "all"<br>
+pl_miss_splashdist &emsp; "enemies"</font>
+<p>
+<font color="#556136"><b>Projectile Player Knockback (_playerknock)</font></b><br>
+Knockback of player by the splash damage explosion (required). Over 500 can push you through walls.
+<p><font color="#4f6156">
+en_miss_playerknock &emsp; 200<br>
+en_need_playerknock &emsp; 30<br>
+pl_fire_playerknock &emsp; 126<br>
+pl_miss_playerknock &emsp; 13</font>
+<p>
+<font color="#556136"><b>Projectile Homing Factor (_homing)</font></b><br>
+The level of stubborness of a rocket or other flying things.
+<ul>
+<li>none</li>
+<li>low</li>
+<li>medium</li>
+<li>high</li>
+</ul><font color="#4f6156">
+en_miss_homing &emsp; "none"<br>
+en_need_homing &emsp; "high"<br>
+pl_fire_homing &emsp; "medium"<br>
+pl_miss_homing &emsp; "low"</font>
+<p>
+<a name="weapons"></a> 
+<font color="#556136"><b> ============================== WEAPONS ==============================</b></font>
+<p>
+<font color="#556136"><b>Names</font></b><br>
+This time weapons are indicated by numbers. Shouldn't be too hard to memorize a handful of numbers or?<br>
+0 = knife<br>
+1 = pistol<br>
+2 = machinegun<br>
+3 = chaingun<br>
+4 = flamethrower<br>
+5 = rocket launcher
+<p><font color="#4f6156">
+weapon_type_wp &emsp; 0 &emsp; "rocket"<br>
+weapon_damage_wp &emsp; 3 &emsp; 20</font>
+<p>
+First one refers to the knife (0) and second refers to the chaingun (3).
+<p>
+<font color="#556136"><b>Weapon Type (_type_)</font></b><br>
+Type of weapon. You can make the knife shoot homing rockets.
+<ul>
+<li><font color="#4f6156">melee</font>: Hitscan but short range. Knives, swords, pans.</li>
+<li><font color="#4f6156">hitscan</font>: Knife but with longer distance. Commonly used in pistols. Instant hit or miss.</li>
+<li><font color="#4f6156">rocket</font>: This one doesn't go to space.</li>
+<li><font color="#4f6156">fire</font>: Flamethrower shot.</li>
+<li><font color="#4f6156">needle</font>: Ever wanted to play as Dr. Schabbs?</li>
+<li><font color="#4f6156">fakefire</font>: Fake ghosthitler fireball. Requires adding the fake sprites first.</li>
+</ul><font color="#4f6156">
+weapon_type_wp &emsp; 3 &emsp; "needle"<br>	
+weapon_type_wp &emsp; 4 &emsp; "melee"</font>
+<p>
+<font color="#556136"><b>Weapon Silencer (_silent_)</font></b><br>
+Adds a silencer to your weapon. In case you prefer to be a sneaky ninja. Enemies won't be alerted until one shoots at you.<br>
+<P><font color="#4f6156">
+weapon_silent_wp &emsp; 2<br>	
+weapon_silent_wp &emsp; 5</font>
+<p>
+<font color="#556136"><b>Weapon Damage (_damage_)</font></b><br>
+Make the enemies die slowly. Melee and hitscan damage. Drops off after distance of 10 tiles. Default game has random values.<br>
+For rockets see projectile damage.
+<P><font color="#4f6156">
+weapon_damage_wp &emsp; 3 &emsp; 26<br>	
+weapon_damage_wp &emsp; 4 &emsp; 50</font>
+<p>
+<font color="#556136"><b>Weapon Fire Rate (_firerate_)</font></b><br>
+The attack pattern of the weapon. If you want the chaingun to act like a pistol set it to 0.
+<ul>
+<li>0: single shot style</li>
+<li>1: default knife attack</li>
+<li>2: default gun attack</li>
+<li>3: machinegun style</li>
+<li>4: chaingun style</li>
+</ul><font color="#4f6156">
+weapon_firerate_wp &emsp; 3 &emsp; 0<br>	
+weapon_firerate_wp &emsp; 1 &emsp; 4</font>
+<p>
+<font color="#556136"><b>Weapon Speed (_speed_)</font></b><br>
+Animation speed of weapons. Default is 6.
+<P><font color="#4f6156">
+weapon_speed_wp &emsp; 3 &emsp; 8<br>	
+weapon_speed_wp &emsp; 4 &emsp; 12</font>
+<p>
+<font color="#556136"><b>Weapon Ammo Rate (_ammorate_)</font></b><br>
+How much ammo weapons should eat. Knife is ammoless! Rocket launcher uses rockets.
+<P><font color="#4f6156">
+weapon_ammorate_wp &emsp; 3 &emsp; 80<br>	
+weapon_ammorate_wp &emsp; 5 &emsp; 2</font>
+<p>
+<font color="#556136"><b>Weapon Self Knockback (_knockback_)</font></b><br>
+Kick of shooting a weapon. Reduces by 1/8 over time. Values over 500 can bomb you through walls.
+<P><font color="#4f6156">
+weapon_knockback_wp &emsp; 3 &emsp; 116<br>	
+weapon_knockback_wp &emsp; 5 &emsp; 56</font>
+<p>
+<font color="#556136"><b>Weapon Projectile Amount (_pamount_)</font></b><br>
+Amount of spawned projectiles when firing the weapon.
+<P><font color="#4f6156">
+weapon_pamount_wp &emsp; 3 &emsp; 4<br>	
+weapon_pamount_wp &emsp; 5 &emsp; 1</font>
+<p>
+<font color="#556136"><b>Weapon Projectile Angle (_pangle_)</font></b><br>
+Angle spread of the projectiles. Double, triple and quadruple shots!
+<P><font color="#4f6156">
+weapon_pangle_wp &emsp; 3 &emsp; 15<br>	
+weapon_pangle_wp &emsp; 5 &emsp; 5</font>
+<p>
+<font color="#556136"><b>Weapon Distance (_maxdist_)</font></b><br>
+Maximum reach of weapons. Counts in 1/4 of a tile. A value of 4 means 1 tile. For projectiles see pl_xxx_lifetime.
+<P><font color="#4f6156">
+weapon_maxdist_wp &emsp; 0 &emsp; 8<br>	
+weapon_maxdist_wp &emsp; 1 &emsp; 16</font>
+<p>
+<font color="#556136"><b>Weapon Start (_got_)</font></b><br>
+Start or don't start a level with weapon x in your hands. Without ammo the weapon will show up as soon as you collect some. 
+Do you want a weapon? "Yes" or "No".
+<P><font color="#4f6156">
+weapon_got_wp &emsp; 0 &emsp; "no"<br>	
+weapon_got_wp &emsp; 1 &emsp; "yes"</font>
+<p>
+<font color="#556136"><b>Ammo Capacity (ammo, rockets, gas) (_max)</font></b><br>
+The maximum amount of ammo you can carry.
+<P><font color="#4f6156">
+ammo_max &emsp; 99999<br>	
+gas_max &emsp; 1000<br>
+rocket_max &emsp; 7</font>	
+<p>
+<font color="#556136"><b>Backpack Increment and Capacity (_bag)</font></b><br>
+Ammo increment by backpack and max backpack storage
+<P><font color="#4f6156">
+ammo_bag &emsp; 100<br>	
+ammo_bag_max &emsp; 299</font>
+<p>
+<font color="#556136"><b>Gun Bobbing</font></b><br>
+Adding this line will enable your weapons to sway around while you move.
+<P><font color="#4f6156">
+gunbobbing</font>
+<p>
+<font color="#556136"><b>Weapon Change Sound</font></b><br>
+Plays a sound when changing weapons. Uses sounds/selectweapon.wav (default).
+<P><font color="#4f6156">
+weapon_selectsound</font>
+<p>
+<font color="#556136"><b>Weapon Scope</font></b><br>
+Scope-Zoom for any assigned weapon (0-5). Key bind can be found in the controls.
+<P><font color="#4f6156">
+weapon_scope &emsp; 1 &emsp; // pistol</br>
+weapon_scope &emsp; 5 &emsp; // rocketlauncher</font>
+<p>
+<a name="levelstart"></a> 
+<font color="#556136"><b> ============================== LEVEL START ==============================</b></font>
+<p>
+<font color="#556136"><b>Start Map From Scratch</font></b><br>
+Start next level with weapons, health, ammo, items, score, backpack, lives being reset. Also known as pistol start.
+Excludes 'start' values set in config.
+<P><font color="#4f6156">
+start_from_scratch</font>
+<p>
+<font color="#556136"><b>Ammo Start (ammo, rockets, gas) (_start)</font></b><br>
+The amount of ammo you have in your pockets at entering the level. 
+<P><font color="#4f6156">
+ammo_start &emsp; 8<br>	
+gas_start &emsp; 1126<br>
+rocket_start &emsp; 38278</font>	
+<p>
+<font color="#556136"><b>Health Start (_start)</font></b><br>
+Start level with x health. 
+<P><font color="#4f6156">
+health_start &emsp; 13</font>	
+<p>
+<font color="#556136"><b>Lives Start (_start)</font></b><br>
+Start level with x lives. 
+<P><font color="#4f6156">
+lives_start &emsp; 61</font>	
+<p>
+<font color="#556136"><b>Armor Start (_start)</font></b><br>
+Start level with x armor. 
+<P><font color="#4f6156">
+armor_start &emsp; 15</font>	
+<p>
+<a name="sky"></a> 
+<font color="#556136"><b> ============================== SKY ==============================</b></font>
+<p>
+<font color="#556136"><b>Star Sky</font></b><br>
+Casts a black sky with stars in the given color.
+<P><font color="#4f6156">
+starsky &emsp; 35</font>	
+<p>
+<font color="#556136"><b>Weather</font></b><br>
+Cast rain or snow.
+<P><font color="#4f6156">
+weather &emsp; "snow"<br>
+weather &emsp; "rain"</font>	
+<p>
+<font color="#556136"><b>Clouds</font></b><br>
+The color option turns it on and changes the color obviously. Shades is the amount of colors being used and speed can be set to 0 for static clouds.
+<P><font color="#4f6156">
+cloudcolor &emsp; 32<br>
+cloudspeed &emsp; 4300<br>
+cloudshades &emsp; "32"</font>	
+<p>
+<a name="player"></a> 
+<font color="#556136"><b> ============================== PLAYER ==============================</b></font>
+<p>
+<font color="#556136"><b>Player Movement Speed</font></b><br>
+Speed at which the player moves around. Default is 150. If the game is still too slow for you.
+<P><font color="#4f6156">
+movement_speed &emsp; 300</font>	
+<p>
+<font color="#556136"><b>Player Health Capacity</font></b><br>
+Maximum health of the player.
+<P><font color="#4f6156">
+health_max &emsp; 3000</font>
+<p>
+<font color="#556136"><b>Player Armor Capacity</font></b><br>
+Maximum armor of the player.
+<P><font color="#4f6156">
+armor_max &emsp; 100</font>
+<p>
+<font color="#556136"><b>Player Movement Force</font></b><br>
+Makes the player accelerate and slide around. Not the most sophisticated ice-skating physics. Force_amount is in tics. 
+Setting force_decel to 0 will make the player slide forever.
+<P><font color="#4f6156">
+force_amount &emsp; 120<br>
+force_accel &emsp; 1<br>
+force_decel &emsp; 2</font>	
+<p>
+<a name="misc"></a> 
+<font color="#556136"><b> ============================== MISC ==============================</b></font>
+<p>
+<font color="#556136"><b>info "insert text"</font></b><br>
+Shows the given text in the banana menu accessible in the main menu. Maybe you want to give some tips or just write Hello World.
+<p>
+<font color="#4f6156">
+info "THIS CONFIG WAS MADE BY CAPTAIN OBVIOUS"</font>
+<p>
+<font color="#556136"><b>Countdown Timer (in seconds, max. 3599 [1 hour])</font></b><br>
+Command lets you turn on a timer with 3 possible outcomes for the timer ending. Not everyone got as much time as the minotaur.
+<ul>
+<li><font color="#4f6156">die</font>: Kills the player.</li>
+<li><font color="#4f6156">endmap</font>: Sends you to the next map.</li>
+<li><font color="#4f6156">victory</font>: Ends the game in victory.</li>
+</ul><font color="#4f6156">
+countdown_time &emsp; 3599<br>
+countdown_end &emsp; "endmap"</font>
+<p>
+<font color="#556136"><b>Level Mission</font></b><br>
+Optional level mission to end the map or the game (see finalmap definition in gamedict.wl6).
+<ul>
+<li><font color="#4f6156">treasurehunt</font>: You need to collect all treasure items (cross, chalice, chest, crown, life).</li>
+<li><font color="#4f6156">killall</font>: 100% kills needed.</li>
+<li><font color="#4f6156">finditem</font>: Collect a specific item (map id).</li>
+</ul><font color="#4f6156">
+mission &emsp; "finditem"<br>
+targetitem &emsp; 43</font>
+<p>
+This would end the map as soon as you collect the gold key (map id = 43).
+<p>
+<font color="#556136"><b>darktable "name.extension"</font></b><br>
+Shade effect for vertical/horizontal walls, which can be set manually in the gamedict.wl6 via "dwalls" or by using the 3rd plane. It's not an actual palette 
+and just the numbers of your current palette shuffled around to remap the colors. If you set all values to 0 the color of the wall sides would turn into
+the first color of your palette. You could encode color specific messages on certain walls or have blood stains on walls being turned yellow.
+<p>
+<font color="#4f6156">
+darktable "light.pal"</font>
+<p>
+<font color="#556136"><b>vswap64</font></b><br>
+Writing simply <font color="#4f6156">vswap64</font> into your config will make the game use 64x64 textures and sprites. Prepare your vswap accordingly or
+the visuals will be all over the place. Add "64" at the end of your file name (myfile64.wl6).<br>
+File naming via the auto-method for individual levels as followed: <font color="#4f6156">vswap0264</font> for level 2, <font color="#4f6156">vswap8964</font> for level 89.
+<p>
+<font color="#556136"><b>Door Mechanics</font></b><br>
+Door speed and how long a door should remain open (in tics). Speed is n of 65536 per tic and by default 1024.
+<P><font color="#4f6156">
+door_opentime &emsp; 60</br>	
+door_speed &emsp; 10000</font>	
+<p>
+<font color="#556136"><b>Pushwall Mechanics</font></b><br>
+How far a pushwall can go in tiles, at which speed and if it should kill enemies and the player.
+<P><font color="#4f6156">
+pushwall_kills</br>	
+pushwall_tiles &emsp; 20</br>	
+pushwall_speed &emsp; 5</font>	
+<p>
+<font color="#556136"><b>Automap Mechanics</font></b><br>
+The name options takes the map name from the gamemaps file (see editors for the option to change) and displays it on the automap.<br>
+Layers options: 1 = disables automap, 2 = displays walls, 3 = displays walls + objects, 4 = displays walls + objects + enemies
+<P><font color="#4f6156">
+automap_name</br>	
+automap_layers &emsp; 4</font>	
+<p>
+<font color="#556136"><b>Skip Intermission</font></b><br>
+Skips intermission and the Get Psyched screen in case you hate numbers and prefer a seamless flow.
+<P><font color="#4f6156">	
+skip_intermission</font>	
+<p>
+<font color="#556136"><b>Fixed Viewsize</font></b><br>
+Forces a viewsize for the screen and disables the option in the menu.
+<P><font color="#4f6156">	
+fixedview &emsp; 20</font>	
+<p>
+<font color="#556136"><b>Palette "file.xxx"</font></b><br>
+Allows for a different palette on each level if you have set up a config per level. The colors are plain shifted and not converted allowing
+for a few palette tricks. In exchange you will have to keep the HUD colors or it will look off color-wise. 
+The palette should be in 768-bytes ChaosEdit format.
+<P><font color="#4f6156">	
+palette &emsp; "pal/palette.pal" &emsp; // macenwolf/yourmod/pal/palette.pal</font>	
+<p>
+<a name="msgs"></a> 
+<font color="#556136"><b> ============================== MESSAGES ==============================</b></font>
+<p>
+<font color="#556136"><b>message "filename"</font></b><br>
+Option to display a message on top of the screen when you collect an item. First you specify the message file in the mod config.
+<P><font color="#4f6156">
+messages &emsp; "subfolder/msgs.txt"</br>
+messages &emsp; "myfile.xxx"</br>
+messages &emsp; "messages.wl6"</font>
+</font>	
+<p>
+Then you create a file called msgs.txt (or any of the above) and put for example following lines in it.<p>
+<div class="a">Inside MSGS.TXT:</br></div>
+<P><font color="#4f6156">
+<div class="a">itemtext &emsp; 37 &emsp; "is this edible?"</br>	</div>
+<div class="a">itemtext &emsp; 47 &emsp; "bad food"</br></div>	
+<div class="a">itemtext &emsp; 49 &emsp; "a clip of ammo"</br></div>
+<div class="a">itemtext &emsp; 71 &emsp; "used ammo clip"</font></div>	
+<p>
+The number refers to the object id number from plane 2. 
+<p>
+<a name="textures"></a> 
+<font color="#556136"><b> ============================== TEXTURES ==============================</b></font>
+<p>
+<font color="#556136"><b>textures "filename"</font></b><br>
+Option for interactive and animated textures. First you specify the texture file in the mod config.
+<P><font color="#4f6156">
+textures  &emsp; "my_tex_file.txt"</font>
+</font>	
+<p>
+Then you create a file called my_tex_file.txt and put for example following lines in it.<p>
+<div class="a">
+Inside my_tex_file.txt:</br>
+<p>
+<font color="#556136"><b>Wall Animation</font></b><br></div>
+<font color="#4f6156">
+<div class="a">wall_frames &emsp; 8 &emsp; 8 &emsp; // wall id + frame amount</br></div>
+<div class="a">wall_animspeed &emsp; 8 &emsp; 5 &emsp; // wall id + animation speed</font></div>
+<p>
+<div class="a"><font color="#556136"><b>Wall Usage (_use)</font></b><br></div>
+<div class="a">Makes a wall interactive. Does one or multiple of the following if the player presses the use key.<p></div>
+<div class="a">"weapon:" - gives the player a weapon</br></div>
+<div class="a">"health:" - gives the player health</br></div>
+<div class="a">"armor:" - gives armor</br></div>
+<div class="a">"ammo:" - gives ammo</br></div>
+<div class="a">"gas:" - gives cans of gasoline</br></div>
+<div class="a">"rocket:" - gives missiles</br></div>
+<div class="a">"treasure:" - hands out gold</br></div>
+<div class="a">"modspr:x:y:s" - modifies a sprite at the given coordinates</div>
+<p>
+<font color="#4f6156">
+<div class="a">wall_use &emsp; 8 &emsp; "ammo:100"</br></div>
+<div class="a">wall_use &emsp; 8 &emsp; "treasure:5"</br></div>
+<div class="a">wall_use &emsp; 8 &emsp; "ammo:25"</br></div>
+<div class="a">wall_use &emsp; 8 &emsp; "weapon:5" &emsp; // 5 = flamer, 6 = rockets</font></div>
+<p>
+<div class="a">The modspr function either removes or changes sprites while making them traversable.</div>
+<div class="a">One wall can modify up to 50 sprites.</div>
+<div class="a">You could turn a gang of blocking npc sprites into traversable blood pools with one wall button.</div>
+<p>
+<font color="#4f6156">
+<div class="a">wall_use &emsp; 8 &emsp; "modspr:09:07" &emsp; // will remove sprite at x=9 y=7</br></div>
+<div class="a">wall_use &emsp; 8 &emsp; "modspr:12:17:147" &emsp; // changes to sprite num 147 and makes it traversable</br></div>
+<div class="a">wall_use &emsp; 8 &emsp; "modspr:03:61:140" &emsp; // x=3, y=61, new spritenum = 140</font></div>
+
+<p>
+<div class="a"><font color="#556136"><b>Wall After Usage (_afteruse)</font></b><br></div>
+<div class="a">After pressing the use key the wall can be set to a new wall id.</div>
+<div class="a">For example you can jump to an empty shelf wall and make wall-8 only once usable</div>
+<div class="a">You could also chain them together and make wall-12 give something else.<p></div>
+<p>
+<font color="#4f6156">
+<div class="a">wall_afteruse &emsp; 8 &emsp; 12 &emsp; // old + new wall id</font></div>
+<p>
+<div class="a">
+<font color="#556136"><b>Flat Animation</font></b><br></div>
+<font color="#4f6156">
+<div class="a">flat_frames &emsp; 82 &emsp; 8 &emsp; // floor/ceil texture id + frame amount</br></div>
+<div class="a">flat_animspeed &emsp; 82 &emsp; 2 &emsp; // flat id + animation speed</font></div>
+<p>
+<div class="a"><font color="#556136"><b>Flat Usage (_use)</font></b><br></div>
+<div class="a">Gain damage or health while standing on a floor/ceiling tile (plane 3).</br></div>
+<div class="a">Effect is once per second.</br></div>
+<div class="a">Also affects enemies and can go over their max HP.<p></div>
+<p>
+<font color="#4f6156">
+<div class="a">flat_use &emsp; 82 &emsp; "damage:16"</br></div>
+<div class="a">flat_use &emsp; 65 &emsp; "health:20"</br></font></div>
+<p>
+<p>
+<a name="static"></a> 
+<font color="#556136"><b> ============================== STATIC OBJECTS ==============================</b></font>
+<p>
+A simple method to modify existing objects. You know those things that are plastered all over a level, always block your way and do nothing 
+else except stare at you when you come by every 5 minutes. Another way is to use the <a href="#custob">Custom Objects</a> method to create new objects
+from scratch.
+<p>
+
+<font color="#556136"><b>Solid Objects (_solid_)</font></b><br>
+Make objects solid ("yes") or not solid ("no").
+<p><font color="#4f6156">
+statobj_solid_id &emsp; 48 &emsp; "yes"<br>
+statobj_solid_id &emsp; 43 &emsp; "no"</font>
+<p>
+<font color="#556136"><b>Disable Pick-Up (_nobonus_)</font></b><br>
+Make a pick-up item (map id number) non-pickable. Below's example won't let you collect the medikit (map id = 48) anymore.
+<p><font color="#4f6156">
+statobj_nobonus_id &emsp; 48</font>
+<p>
+<font color="#556136"><b>Billboard Objects (_board_)</font></b><br>
+Turns objects into flat directional ones. 
+<p>
+Options are: vert_back, vert_front, vert_mid, horiz_back, horiz_front, horiz_mid
+<p><font color="#4f6156">
+statobj_board_id &emsp; 48 &emsp; "vert_mid"<br>
+statobj_board_id &emsp; 37 &emsp; "horiz_front"</font>
+<p>
+<font color="#556136"><b>Lit Objects (_lit_)</font></b><br>
+Make objects bright ("yes") or not ("no"). Requires shading to be enabled to have any effect.
+<p><font color="#4f6156">
+statobj_lit_id &emsp; 48 &emsp; "yes"<br>
+statobj_lit_id &emsp; 37 &emsp; "no"</font>
+<p>
+<a name="items"></a> 
+<font color="#556136"><b> ============================== ITEMS ==============================</b></font>
+<p>
+A simple method to modify existing items. Another way is to use the <a href="#custob">Custom Objects</a> method to create new items
+from scratch.
+<p>
+<font color="#556136"><b>Names</font></b><br>
+<font color="#4f6156">cross</font> = cross, treasure item<br>
+<font color="#4f6156">chalice</font> = golden chalice, can be sold at auctions<br>
+<font color="#4f6156">chest</font> = full of fake diamonds<br>
+<font color="#4f6156">crown</font> = be the King of Wolfenstein<br>
+<font color="#4f6156">ammoclip</font> = ammo clip placed on map<br>
+<font color="#4f6156">ammoclip2</font> = ammo dropped by enemies<br>
+<font color="#4f6156">ammobox</font> = box full of little friends running faster than you<br>
+<font color="#4f6156">dogfood</font> = don't steal the food man's best friend<br>
+<font color="#4f6156">food</font> = dirty food on the floor <br>
+<font color="#4f6156">medikit</font> = it's good for you<br>
+<font color="#4f6156">life</font> = usually a blue sphere with a face on it<br>
+<font color="#4f6156">gascan</font> = ammo for the flamethrower<br>
+<font color="#4f6156">rockets</font> = missiles for the missile launcher or whatever you made out of it<br>
+<p>
+<font color="#556136"><b>Effects</font></b><br>
+<font color="#4f6156">_damage</font> = damage to the player<br>
+<font color="#4f6156">_health</font> = health for the player<br>
+<font color="#4f6156">_armor</font> = armor for extra defense<br>
+<font color="#4f6156">_ammo</font> = ammo amount<br>
+<font color="#4f6156">_gas</font> = flamethrower ammo<br>
+<font color="#4f6156">_rockets</font> = missile amount<br>
+<font color="#4f6156">_time</font> = adds time to the countdown timer if enabled (in seconds)<br>
+<font color="#4f6156">_ignore "health"</font> = you can't pick it up if you have maximum health<br>
+<font color="#4f6156">_ignore "armor"</font> = you can't pick it up if you have maximum armor<br>
+<font color="#4f6156">_ignore "ammo"</font> = you can't pick it up if you have maximum ammo<br>
+<font color="#4f6156">_ignore "gas"</font> = you can't pick it up if you have maximum gas<br>
+<font color="#4f6156">_ignore "rockets"</font> = you can't pick it up if you have maximum rockets<br>
+<p>
+<u>Some examples:</u>
+<p><font color="#4f6156">
+chest_time 10<br>
+ammobox_time 10<br></font>
+Collecting the chest or ammobox item gives you 10 extra seconds for the countdown timer.
+<p><font color="#4f6156">
+food_ignore "ammo"<br></font>
+You can't pick up food if your ammo is at max.
+<p> <font color="#4f6156">
+cross_damage 10<br>
+cross_rockets 6<br></font>
+This gives you 10 damage and 6 rockets when picking up the cross.
+<p><font color="#4f6156">
+medikit_ammo 10<br>
+medikit_damage 50<br>
+medikit_rockets 42<br></font>
+Collect a medikit and get 10 bullets, 42 rockets and 50 damage.
+<p><font color="#4f6156">
+chest_armor	40<br></font>
+Collect a chest and get 40 armor.
+<p> 
+<a name="custob"></a> 
+<font color="#556136"><b> ============================== CUSTOM OBJECTS ==============================</b></font>
+<p>
+Method to create new sprite objects by using another sub-config file system. First define the file and place it inside the conf folder.
+<p><font color="#4f6156">
+sprites &emsp; "spr.txt"</font>
+<p>
+<div class="a">In SPR.TXT:</div>
+<p>
+<font color="#556136"><b>Assign Sprites (_num)</font></b><br>
+You assign a sprite (sprite number) to a map id (plane 2). With this you can place, for example, the object 54 in a map editor and it will spawn sprite 108.</br>
+<p><font color="#4f6156">
+spr_num &emsp; 457 &emsp; 364</br>
+spr_num &emsp; 4 &emsp; 77</br>
+spr_num &emsp; 54 &emsp; 108</font>
+<p>
+<font color="#556136"><b>Sprite Animation (_frames, _animspeed)</font></b><br>
+Animates the static object with a given speed and makes it a little bit less static. For example id 54 could have 11 frames.</br>
+<p><font color="#4f6156">
+spr_frames &emsp;  &emsp; 54 &emsp; 11</br>
+spr_animspeed &emsp; 54 &emsp; 3</font>
+<p>
+<font color="#556136"><b>Sprite State (_state)</font></b><br>
+Makes a sprite block (solid) or not (clip).</br>
+<p><font color="#4f6156">
+spr_state &emsp; 54 &emsp; "solid"</br>
+spr_state &emsp; 94 &emsp; "clip"</font>
+<p>
+<font color="#556136"><b>Sprite Features (_feature)</font></b><br>
+Hate that a sprite keeps spinning? Make it a directional sprite (billboard in abcDoom lingo) instead. A flat cardboard cutout that can be either centered or at the edge of a tile.
+They are often used to create windows and fences in mods. Make a sprite translucent with the dither option for a glass wall or a ghostly effect. 
+The bright option makes a sprite lit if light shading is enabled.</br>
+<ul>
+<li><font color="#4f6156">vert_front</font></li>
+<li><font color="#4f6156">vert_back</font></li>
+<li><font color="#4f6156">vert_mid</font></li>
+<li><font color="#4f6156">horiz_front</font></li>
+<li><font color="#4f6156">horiz_back</font></li>
+<li><font color="#4f6156">dither</font></li>
+<li><font color="#4f6156">bright</font></li>
+</ul>
+<p><font color="#4f6156">
+spr_feature &emsp; 54 &emsp; "horiz_front"</br>
+spr_feature &emsp; 94 &emsp; "vert_mid"</br>
+spr_feature &emsp; 94 &emsp; "dither"</br>
+spr_feature &emsp; 66 &emsp; "bright"</br>
+spr_feature &emsp; 23 &emsp; "vert_back"</font>
+<p>
+<font color="#556136"><b>Projectile Pass (_projectiles)</font></b><br>
+Lets a sprite pass (pass) or not (nopass) projectiles. In other words lets your rocket fly through a column or not.</br>
+<p><font color="#4f6156">
+spr_projectiles &emsp; 54 &emsp; "nopass"</br>
+spr_projectiles &emsp; 94 &emsp; "pass"</font>
+<p>
+<a name="custob_xp"></a> 
+<font color="#556136"><b>Sprite Use (_use)</font></b><br>
+Gives a sprite a deeper meaning than to just stand around and look pretty. It could be an item to pick up or be a log file.
+<p>
+<ul>
+<li><font color="#4f6156">treasure:n</font>: Gives you n-times treasure.</li>
+<li><font color="#4f6156">ammo:n</font>: Gun food.</li>
+<li><font color="#4f6156">gas:n</font>: Flamethrower gasoline.</li>
+<li><font color="#4f6156">rocket:n</font>: Gives you n-amount of rockets.</li>
+<li><font color="#4f6156">weapon:n</font>: Gives you a weapon of choice (0-5)</li>
+<li><font color="#4f6156">health:n</font>: Make it a medikit.</li>
+<li><font color="#4f6156">armor:n</font>: Or a piece of fancy body armor.</li>
+<li><font color="#4f6156">damage:n</font>: It could be a trap or poisoned food.</li>
+<li><font color="#4f6156">key:n</font>: n can be 1 or 2 cause there are only 2 keys.</li>
+<li><font color="#4f6156">time:n</font>: Time for timed missions. See Countdown Timer in <a href="#misc">Various Things</a></li>
+<li><font color="#4f6156">xp:n</font>: Gain experience points to level up.</li>
+<li><font color="#4f6156">lamp</font>: Makes the sprite fully bright if shading is enable.</li>
+<li><font color="#4f6156">push</font>: Makes it pushable by pressing the use key. Perhaps for some puzzles.</li>
+<li><font color="#4f6156">carry</font>: Carry the sprite around. Maybe to block a way for the enemies?</li>
+<li><font color="#4f6156">log:yourfile.xxx</font>: Use key will bring up a text screen (see Readme/Endart) using the specified file.</li>
+</ul>
+<p><font color="#4f6156">
+spr_use &emsp; 54 &emsp; "treasure:13"</br>
+spr_use &emsp; 34 &emsp; "ammo:25"</br>
+spr_use &emsp; 46 &emsp; "rocket:1"</br>
+spr_use &emsp; 95 &emsp; "gas:111"</br>
+spr_use &emsp; 24 &emsp; "weapon:4"</br>
+spr_use &emsp; 24 &emsp; "health:69"</br>
+spr_use &emsp; 25 &emsp; "damage:51"</br>
+spr_use &emsp; 26 &emsp; "key:1"</br>
+spr_use &emsp; 27 &emsp; "key:2"</br>
+spr_use &emsp; 28 &emsp; "time:240"</br>
+spr_use	&emsp; 29 &emsp; "armor:100"</br>
+spr_use	&emsp; 432 &emsp; "xp:301"</br>
+spr_use	&emsp; 433 &emsp; "lamp"</br>
+spr_use	&emsp; 434 &emsp; "push"</br>
+spr_use	&emsp; 435 &emsp; "carry"</br>
+spr_use	&emsp; 436 &emsp; "log:conf/story/HELPART.WLt"</font>
+<p>
+<a name="hud"></a> 
+<font color="#556136"><b> ============================== HUD/STATUSBAR ==============================</b></font>
+<p>
+<font color="#556136"><b>hud_x id amount</font></b><br>
+The id refers to the part of the hud you want to modify. "hud_x id 1111" and "hud_y id 1111" disable the given HUD part.
+The default alignment is bottom_center.
+<p><font color="#4f6156">
+hud_x id amount<br>
+hud_y id amount</font><br>
+hud_align id alignment ("bottom_right", "bottom_left", "bottom_center", "top_right", "top_left", "top_center")
+<p>
+1 = statusbar<br>
+2 = area<br>
+3 = items<br>
+4 = items total<br>
+5 = secrets<br>
+6 = secrets total<br>
+7 = score<br>
+8 = kills<br>
+9 = enemies<br>
+10 = face<br>
+11 = lives<br>
+12 = health<br>
+13 = ammo combined<br>
+14 = ammo gas<br>
+15 = ammo rockets<br>
+16 = ammo bullets<br>
+17 = key gold<br>
+18 = key silver<br>
+19 = timer<br>
+20 = armor<br>
+21 = stamina
+<p>
+<font color="#4f6156">
+hud_x 1 1111<br>
+hud_y 1 1111</font><br>
+Disables the main statusbar.
+<p><font color="#4f6156">
+hud_x 9 16<br>
+hud_y 9 75<br>
+hud_align 9 "top_right"</font><br>
+Adds enemy count and moves it to the top right.
+<p><font color="#4f6156">
+hud_x 17 11<br>
+hud_y 17 33<br>
+hud_align 17 "bottom_left"</font><br>
+Moves the gold key to the bottom left.
+<p>
+<font color="#556136"><b>hudpic_x pic</font></b><br>
+Draws any VGAGRAPH image on the HUD. Just pick the image slot number and the coordinates.
+<p>
+<font color="#4f6156">
+hudpic_x &emsp; 3 &emsp; 10  &emsp; // x = 10, y = 32, pic = 3<br>
+hudpic_y &emsp; 3 &emsp; 32<br>
+hudpic_align &emsp; 3 &emsp; "bottom_center"</font>
+<p>
+<a name="xp"></a> 
+<font color="#556136"><b> ============================== XP System ==============================</b></font>
+<p>
+The key to bring up the player status screen can be found in the control menu.</br>
+XP values are reset when a new game is started.</br>
+The msg_level command could be abused for plain story-telling. Player stats stay 0 and only 5 specific items in a level
+give points for a message to pop up. 1 item collected, story screen, 5 items collected, next story screen and so on.
+<p>
+First you define the sub-config file anywhere in <font color="#4f6156">GAMEDICT.WL6</font>.
+<p>
+<font color="#4f6156">xplevels &emsp; "xp.txt"</font>
+<p>
+<div class="a">In XP.TXT:</div>
+<p>
+<font color="#556136"><b>Word Definitions</font></b><br>
+For the level-up and status window.</br>
+<p><font color="#4f6156">
+str_stamina &emsp; "endurance"</br>
+str_hp &emsp; &emsp; "hitpoints"</br>
+str_defense &emsp; "def"</br>
+str_armor &emsp; "armor"</br>
+str_speed &emsp; "speedometer"</br>
+str_strength &emsp; "force"</br>
+str_ammo &emsp; "mana"</br>
+str_rocket &emsp; "magic"</br>
+str_gas &emsp; &emsp; "ether"</br>
+str_xp &emsp; &emsp; "wisdom"</font>
+<p>
+<font color="#556136"><b>Level Points</font></b><br>
+The amount of experience points you need for each level. You start at level 0 and need 100 points to level 1 and so on. 
+Points can be either gained by killing <a href="#enemies_xp">enemies</a> or collecting <a href="#custob_xp">items</a>.
+<p><font color="#4f6156">
+xptolevel &emsp; 0 &emsp; 100</br>
+xptolevel &emsp; 1 &emsp; 200</br>
+xptolevel &emsp; 2 &emsp; 350</br>
+xptolevel &emsp; 3 &emsp; 500</br>
+xptolevel &emsp; 4 &emsp; 1000</br>
+xptolevel &emsp; 5 &emsp; 2500</font>
+<p>
+<font color="#556136"><b>Level Stats (stat level amount)</font></b><br>
+The amount the player stats increase with each level.</br>
+<p><font color="#4f6156">
+max_damage &emsp; 0 &emsp; 10</br>
+max_damage &emsp; 1 &emsp; 16</br>
+max_damage &emsp; 2 &emsp; 23</font>
+</br>
+Additional damage to your weapon damage. If your weapon does 200 damage the overall damage will be 216 on level 1.
+<p><font color="#4f6156">
+max_health &emsp; 0 &emsp; 150</br>
+max_health &emsp; 2 &emsp; 170</br>
+max_health &emsp; 3 &emsp; 200
+<p>
+max_stamina &emsp; 0 &emsp; 200</br>
+max_defense &emsp; 0 &emsp; 10</br>
+max_armor &emsp; 0 &emsp; 10</br>
+max_ammo &emsp; 0 &emsp; 20</br>
+max_gas	&emsp; &emsp; 0 &emsp; 5</br>
+max_rockets &emsp; 0 &emsp; 1</font>
+</br>
+Max value for each level. Max health, max ammo, ... take priority over values in the mod config with the exception of max_speed.
+<p><font color="#4f6156"> 
+max_speed &emsp; 0 &emsp; 80</br>
+max_speed &emsp; 2 &emsp; 120</font>
+</br>
+movement_speed from the mod config has a higher priority. For possible case of ice-skating levels.
+<p>
+<font color="#556136"><b>Stamina</font></b><br>
+The amount the player stats increase with each level.</br>
+<p><font color="#4f6156">
+stamina_refresh &emsp; 0 &emsp; 1</br>
+stamina_refresh &emsp; 8 &emsp; 2</br>
+stamina_cooling &emsp; 0 &emsp; 120</br>
+stamina_cooling &emsp; 1 &emsp; 100</font>
+</br>
+The amount stamina regenerates on level 0 while not actively using it. Cooling is the amount of time (in tics) the player has to wait
+after draining all stamina.
+<p><font color="#4f6156">
+stamina_cost &emsp; 0 &emsp; 1 &emsp; // knife</br>
+stamina_cost &emsp; 1 &emsp; 2 &emsp; // pistol</br>
+stamina_cost &emsp; 2 &emsp; 3 &emsp; // mg</br>
+stamina_cost &emsp; 4 &emsp; 120 &emsp; // flamethrower</br>
+stamina_cost &emsp; 5 &emsp; 100 &emsp; // rocketlauncher</br>
+stamina_cost &emsp; 7 &emsp; 10 &emsp; // running</font>
+</br>
+Amount of stamina drain caused by each weapon (0-5) and running (7). There are no levels in use here. Just the universal cost of each.
+<p>
+<p><font color="#4f6156">
+stamina_color &emsp; 255</font>
+</br>
+Bar color for the <a href="#hud">Statusbar</a>.
+<p>
+<font color="#556136"><b>Level Message & Colors</font></b><br>
+The amount the player stats increase with each level.</br>
+<p><font color="#4f6156">
+msg_color &emsp; 155</font>
+</br>
+Font color for the status and level-up screen. Look up the palette index for the color.
+<p><font color="#4f6156">
+msgbox_color &emsp; 255</font>
+</br>
+Background color for the status and level-up screen. The value 255 will remove the background for the level-up.
+<p><font color="#4f6156">
+msg_level &emsp; 1 &emsp; "you leveled up and got +1 iq"</br>
+msg_level &emsp; 2 &emsp; "you leveled up and got +2 iq"</br>
+msg_level &emsp; 3 &emsp; "You have turned into the legendary Wolf Slayer and have aquired \nthe power to rip and tile. Health Stat is up by 100."</font>
+</br>
+Message that displays when levelling up. Long messages might require newlines to be put manually by adding \n.
+<p><font color="#4f6156">
+msg_default &emsp; "As you conquered the vast Waste Lands and, \nwe crushed the enemies before you\nthe sky darkened. 
+The gates of hell opened\nand a vile creatures greets you.\nA devilish djinn curses you with new powers,\nand vanishes into thin air
+a moment later.\nYou feel your blood pulsating with an unknown life force.\nYour muscles put even Hercules to shame and reached a state of infinite stamina."</font>
+</br>
+The default level-up message if no specific one is set for a level. Level 1-3 will display above message and then it will use the default one for any further
+level. The default one automatically counts and displays the stats at the bottom of the message.
+<p>
+<a name="sprites"></a> 
+<font color="#556136"><b> ============================== EXTRA SPRITES ==============================</b></font>
+<p>
+<font color="#556136"><b>Unused static objects</font></b><br>
+To make use of 12 unused static objects you need to add <font color="#556136"><b>12</b></font> sprites after the last sprite (BJ-automap-face). <br>
+Here are the corresponding <font color="#556136"><b>map id numbers</b></font> in the same order as the sprites: 
+<font color="#556136"><b>25, 28, 32, 33, 38, 41, 45, 60, 61, 68, 69, 70</b></font>
+<p>
+<font color="#556136"><b>Fakehitler</font></b><br>
+Followed by <font color="#556136"><b>13</b></font> sprites for Fake Hitler <font color="#556136"><b>(map id 160)</b></font>. The order is: <br>
+4 walk frames<br>
+1 attack frame<br>
+2 fireball frames<br>
+6 death frames<br>
+<p>
+<font color="#556136"><b>BJ's Endgame Run</font></b><br>
+Followed by <font color="#556136"><b>8</b></font> sprites for the BJ jump 'n' run animation, in case you want to use the endgame trigger.
+<p>
+<font color="#556136"><b>Rotations</font></b><br>
+After the endgame run come the rotations for the standard enemies or bosses.<br>
+If you have both enabled it is first the enemies and then the bosses.
+<p>
+If you want to just add the rotations and not the fakehitler or BJ jump you still need to add some filler sprites before the rotations.
+If you think this solution is stupid feel free to change it yourself.
+<p>
+<u>Vswap order with both rotations enabled: </u><br>
+victory | projectiles | enemies | static | pacman | weapons | boss fix frame | BJ automap (4) | unused stats (12) | Fake Hitler (13) | BJ run (8) | 8-dir enemies (200) | 8-dir bosses (280)
+<p>
+<u>Vswap order with only boss rotations: </u><br>
+victory | projectiles | enemies | static | pacman | weapons | boss fix frame | BJ automap (4) | unused stats (12) | Fake Hitler (13) | BJ run (8) | 8-dir bosses (280)
+<p>
+<u>Order of the enemy rotations:</u><br>
+| dog | guard | mutant | officer | ss |
+<p>
+<u>Order of the boss rotations:</u><br>
+| deathknight (starts at 241 or 441) | hans | hitler | ubermutant | mecha | schabbs | trans grosse |
+<p>
+<u>Order of enemy rotation in detail. 40 frames for each one.</u><br> 
+| 8 sprites standing | 8 sprites walk frame 1 | 8 sprites walk frame 2 | 8 sprites walk frame 3 | 8 sprites walk frame 4 |
+<p>
+Reference numbers with 8-dir bosses and 8-dir enemies enabled. If you are using WDC subtract 2 from the sprite num. In the screenshot it would be 209-2. 
+WDC doesn't count the first sprites, game over and victory.<p>
+<img src="mod_spr_ce.png" width=239 height=141 border=0 align="right">
+<img src="mod_spr_wdc.png" width=303 height=213 border=0 align="right">
+<style>
+table, th, td 
+{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+</style>
+<table>
+<tr>
+<th>SPRITE</th>
+<th>SPRITE NUMBER</th>
+</tr>
+<tr>
+<td>Automap BJ West</td> 
+<td style="text-align:center">207</td>
+</tr>
+<tr>
+<td>Unused Stat 1</td>	
+<td style="text-align:center">208</td>
+</tr>
+<tr>
+<td>Fakehitler Frame 1</td>	
+<td style="text-align:center">220</td>
+</tr>
+<tr>
+<td>BJ Jump 1</td>	
+<td style="text-align:center">233</td>
+</tr>
+<tr>
+<td>Dog Stand 1</td>	
+<td style="text-align:center">241</td>
+</tr>
+<tr>
+<td>Guard Stand 1</td>	
+<td style="text-align:center">281</td>
+</tr>
+<tr>
+<td>Guard Walk 1 Frame 1</td>	
+<td style="text-align:center">289</td>
+</tr>
+<tr>
+<td>Mutant Stand 1</td>	
+<td style="text-align:center">321</td>
+</tr>
+<tr>
+<td>Officer Stand 1</td>	
+<td style="text-align:center">361</td>
+</tr>
+<tr>
+<td>SS Stand 1</td>	
+<td style="text-align:center">401</td>
+</tr>
+<tr>
+<td>Deathknight Stand 1</td>	
+<td style="text-align:center">441</td>
+</tr>
+<tr>
+<td>Hans Stand 1</td>
+<td style="text-align:center">481</td>
+</tr>
+<tr>
+<td>Hitler Stand 1</td>	
+<td style="text-align:center">521</td>
+</tr>
+<tr>
+<td>Uber Stand 1</td>
+<td style="text-align:center">561</td>
+</tr>
+<tr>
+<td>Mecha Stand 1</td>	
+<td style="text-align:center">601</td>
+</tr>
+<tr>
+<td>Schabbs Stand 1	</td>
+<td style="text-align:center">641</td>
+</tr>
+<tr>
+<td>Trans Stand 1</td>	
+<td style="text-align:center">682</td>
+</tr>
+</table>
+<p>
+<!-- 
+If you can read this then you are a noob!
+Expected some wisdom or trivia here?
+Go play https;//moddb.com/mods/untergang 
+-->
+<p>
+<font color="#556136"><b><u>LINKS</u></b>
+<P>
+<a HREF="https://dhw.wolfenstein3d.com/viewtopic.php?t=8468" target="_blank">MacenWolf on DieHard Wolfers Forum</a><br>
+<a HREF="https://wl6.fandom.com/wiki/MacenWolf" target="_blank">MacenWolf on WL6 Wiki</a><br>
+<a HREF="https://www.moddb.com/mods/macenwolf" target="_blank">ModDB page</a><br>
+<p>
+</body>
+</html>
