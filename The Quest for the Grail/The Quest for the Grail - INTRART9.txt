@@ -1,0 +1,13 @@
+^P 
+^C[Red]The Story so Far
+^c[Brown] 	You are BJ Blazkowicz, the Nazi-killing and treasure-plundering OSS operative who has saved Europe more times than we can remember. But not yet. The Spear of Destiny is in Nazi hands, Adolf still shouts his little words over the radio, France has fallen to the enemy, the Soviet Union is on it's last legs, and this was your first mission.
+^P
+^C[Red]September, 1942
+^c[Brown] 	Your partner Fergus Reid sits quietly across from you in the back of the black OKW Staff Car donning two red banners on the front hubcaps. As it approaches the front gates of Schloss Nuremberg, the Castle in which OSS reports the Spear of Destiny is being held, you do one last inspection of your disguise. The Nazis don't quite know how to utilize the power of the Spear, but have been recruiting archaeologists to help them grasp the full scale of what powers the spear holds.
+^P
+^c[Brown] 	As you step towards the checkpoint, a pair of SS guards with MP40s burst through a door to your right, tackling you and your partner to the ground. The jig is up; a mole told the Nazis everything.
+^P
+^c[Brown] 	You wake up to the sound of muffled voices through the hard steel of the cell door. You're slouched in a puddle of blood, and though you are fading in and out of consciousness while the world around you spins nauseatingly, a few words catch your attention before your vision fades to darkness again; "...Speer..." "...verlegt..." "...Kelch Christi..." "...ewiges Leben..." The Nazis have relocated the Spear, and have uncovered the location of the Cup of Christ! The Spear is out of reach, but there is a greater threat now.
+^P
+^c[Brown] 	Allowing the Nazis the ability to obtain eternal life would surely mean the end of the war with the Germans the victor! Your partner is M.I.A. but right now your objective is to get out. A guard should be arriving soon to deliver the slop they call "breakfast."
+^E

@@ -1,0 +1,49 @@
+^P^
+^C7cWelcome ^C00
+Thank you for downloading my first mod!
+The next few pages will just be some information about this mod.
+There is no story because I'm too lazy. I do want you to read ^C[Dark Red]pages 3-4 ^C00though.
+^P^
+^C7cThis mod includes a huge amount of content: ^C00
+-New enemies
+-New Sprites
+-New Sounds
+-New Weapons
+-New Music
+-And much more!
+^P^
+^C7cThe Secret Level Problem: ^C00
+So, I decided to add a secret weapon exclusive to the secret level.
+This weapon is too powerful and would make the game too easy if the player
+were to have it during a playthrough.
+I have no idea how to take away weapons from players at the beginning of a level.
+Let me be clear! The player is only supposed to use this secret weapon
+while playing the secret level, ^C[Dark Red]NO OTHER WEAPONS.
+^P^
+^C00So there are some requests that I have, if you manage to find the secret level.
+Since this weapon is only meant for the secret level, I would
+appreciate it if you emptied all of the ammo before proceeding.
+And like I said in the last page, ^C[Dark Red]DO NOT ^C00use any other weapon while
+playing the secret level. By the way the secret exit is in map 03, not 01, if you even care.
+^P^
+^C7cCredits: ^C00
+-Pablo.gonzales.2006, for being such a big influence for me. You also provided
+a lot of the assets used in this mod. Such as sounds, sprites, etc. Seriously
+man, you are one of my favourite mod creators and I really enjoy playing your mods.
+-WSJ, for various assets. Also a big influence.
+-AReyeP, for wall textures, and a few sprites.
+^P^
+^C7cMusic: ^C00
+-Bobby prince (Kitchen ace and taking names, unused 30) [Secret level] [Menu Music]
+-Sam Fonteyn (Troop Movement) [Pg13 Startup]
+-DJ Williams (River City) [End of level]
+-Wayne Jones (Epic Battle Speech) [End of game]
+-Alain Johannes (Track 07. from Ghost Recon Wildlands) [Replaces CORNER]
+-13Ounce (OKAY) [Boss level music]
+-Cooper Cannell (Bach Cello Suite No. 1, G Major, Prelude) [Replaces ROSTER]
+^P^
+Thank you for taking time to read my crappy little info booklet.
+Also if there are any bugs or problems with this mod, I apologise. I know it
+was not the smartest idea to have this big ass mod for being my first one. I do
+have to say I am proud of it, even if there may be some flaws.
+Now, get out there and kick some nazi ass!

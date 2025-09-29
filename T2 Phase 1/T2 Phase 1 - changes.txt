@@ -1,0 +1,45 @@
+WL6APO12.EXE (old savegames compatible):
+
+- Pushwalls always move 2 spaces
+- PC13 now doesn't show red on right edge
+- Mutants set to Patrol now Patrol
+- "Out of Memory" error when dying fixed (Tricob)
+- Fixed the "Hitler getting stuck beside walls" bug
+- Fixed the "green border bottom-left flashes 2 colors" bug
+- Removed "Gray flickering line" early VBL in bonus/damage flash
+07/11/2015:
+- Fixed v1.1 "Moving pushwall gets stuck when saving/loading" bug
+08/18/2016:
+- Fixed v1.1 "Boss Walk: Bad Dir" crash in tight corners (Matthew)
+
+
+WL6MAX12.EXE (old savegames not compatible):
+
+All the above, and:
+- Don't save demo after dying last man fix
+- BJ now points to the Dog and Ghost when they kill him
+- Unused Functions and Variables removed
+- Unneeded sizes of obstruct variables reduced
+- 800 Static Objects, 260 Actors, 250 Visible, 127 Doors
+07/11/2015:
+- Fixed v1.x "Walls turning to Gray Stone" invalid floorcode bug
+- Fixed v1.x "Door side shows/vanishes when it shouldn't" bug
+06/25/2016:
+- Fixed v1.x "Enemy behind you turns invisible in doorway" bug
+- Fixed v1.1 "Phantom 0s after you die from 7-digit score" bug 
+05/25/2017:
+- Fixed v1.x rare VgaClearScreen/WallRefresh drawing bugs (Ripper)
+- Fixed v1.x quit messages before preload froze and didn't display
+09/08/2019:
+- Fixed v1.x FakeHitler shoots faster at high fps bug (WSJ)
+- Fixed v1.x two dead spots and jumping Hitler bug (Aryan)
+- Fixed v1.x invisible door (Aryan) and other ambush tile limits
+- Fixed v1.x Player can collect bonus items during death spin bug
+- Fixed v1.x Player can walk into enemies door/space too early
+- Fixed v1.x Diagonal backwards path enemies were always alerted
+- Fixed v1.x make knife corner-stabbing range similar for enemies
+
+                               
+WL3MAX12.EXE: WL6MAX12.EXE, +30 Actors (for 3-Episode WL3 only)
+
+

@@ -1,0 +1,312 @@
+VS2  0  171  84                                 spear
+     1 wall 01                                35
+     2 wall 02
+     3 wall 03
+     4 wall 04
+     5 wall 05
+     6 wall 06
+     7 wall 07
+     8 wall 08
+     9 wall 09
+    10 wall 0A
+    11 wall 0B
+    12 wall 0C
+    13 wall 0D
+    14 wall 0E
+    15 wall 0F
+    16 wall 10
+    17 wall 11
+    18 wall 12
+    19 wall 13
+    20 wall 14
+    21 Elevator
+    22 Fake elevator 
+    23 wall 17
+    24 wall 18
+    25 wall 19
+    26 wall 1A
+    27 wall 1B
+    28 wall 1C
+    29 wall 1D
+    30 wall 1E
+    31 wall 1F
+    32 wall 20
+    33 wall 21
+    34 wall 22
+    35 wall 23
+    36 wall 24
+    37 wall 25
+    38 wall 26                               152
+    39 wall 27
+    40 wall 28
+    41 wall 29
+    42 wall 2A
+    43 wall 2B
+    44 wall 2C
+    45 wall 2D
+    46 wall 2E
+    47 wall 2F
+    48 wall 30
+    49 wall 31
+    50 wall 32
+    51 wall 33
+    52 wall 34
+    53 wall 35
+    54 wall 36
+    55 wall 37
+    56 wall 38
+    57 wall 39
+    58 water 
+    59 wall 3B
+    60 wall 3C                            0 
+    61 wall 3D
+    62 wall 3E
+    63 All black 
+    85 wall 55                           40 
+    90 Door
+    91 Door
+    92 Door,Gold key
+    93 Door,Gold key
+    94 Door,Silver key
+    95 Door,Silver key
+   100 elevator Door
+   101 elevator Door
+   106 Floor, deaf guard
+   107 Floor, secret level
+   108 Floor 6C
+   109 Floor 6D
+   110 Floor 6E
+   111 Floor 6F
+   112 Floor 70
+   113 Floor 71
+   114 Floor 72
+   115 Floor 73
+   116 Floor 74
+   117 Floor 75
+   118 Floor 76
+   119 Floor 77
+   120 Floor 78
+   121 Floor 79
+   122 Floor 7A
+   123 Floor 7B
+   124 Floor 7C
+   125 Floor 7D
+   126 Floor 7E
+   127 Floor 7F
+   128 Floor 80
+   129 Floor 81
+   130 Floor 82
+   131 Floor 83
+   132 Floor 84
+   133 Floor 85
+   134 Floor 86
+   135 Floor 87
+   136 Floor 88
+   137 Floor 89
+   138 Floor 8A
+   139 Floor 8B
+   140 Floor 8C
+   141 Floor 8D
+   142 Floor 8E
+   143 Floor 8F
+    19_Start position
+    20_Start position
+    21_Start position
+    22_Start position
+    23_Defibrillator                         950
+    24_9Toxic Waste                          280
+    25_9Table w Chairs                       281
+    26_9Stretcher                            197
+    27_Chandelier                            283
+    28_9Tree                                 899
+    29_1Oxygen+4                             175
+    30_9Column                            9  286
+    31_9Green plant
+    32_Scale 
+    33_9Sink                             12  289
+    34_9TV                                   906
+    35_9Invisible Barrier                   1146
+    36_9Table                                292
+    37_Floor Lamp                            282
+    38_9Bed with Patient                 17  301
+    39_9Snowy Tree                           899
+    40_9Desk                                 948
+    41_9Operating Table + pt.                195
+    42_Shower                                945
+    43_4Gold Key
+    44_4Silver Key
+    45_9Bed 
+    46_Wheelchair 
+    47_1Food+10                              175
+    48_1First Aid Kit+25 
+    49_3Ammo
+    50_2Adrenaline Shots 
+    51_2Racing Wheelchair 
+    52_7Money 
+    53_7Mushrooms 
+    54_7Bottle 
+    55_7Golf Bag 
+    56_1Extralife->100 
+    57_11Blood bag+1                         285
+    58_9Couch                                948
+    59_111WC/water                           285
+    60_9WC                                   944
+    61_11Trash Can+1                         285
+    62_9Skeleton                             284
+    63_Ceiling Light                     42  932
+    64_Office Chair                          947
+    65_Golf Flag                             896
+    66_Cleaning                              949
+    67_9Laundry Wagon                        920
+    68_9Buste                                934
+    69_9Bench                                948
+    70_Meat                                  314
+    71_9Gravestone                       50  951
+    72_3Big Ammo pack                        200
+    73_Table on Wheels                   52  921
+    74_4To the Boss                      53  955
+    75_3Bedpans+2                       403  200
+    76_2Bedpan Launcher                 404  931
+    77_9Fence hor                       405  975
+    78_9Fence ver                       406  974
+    79_9Window hor                      407  971
+    80_9Window ver                      408  970
+    81_9Grid hor                        409  963
+    82_9Grid ver                        409  962
+    83_9Ottoman hor                     410  963
+    84_9Ottoman ver                     410  962
+    85_Flag                             413  190
+    90_Turning point
+    91_Turning point
+    92_Turning point
+    93_Turning point
+    94_Turning point
+    95_Turning point
+    96_Turning point
+    97_Turning point
+    98_Secret door
+    99_Trigger                               248
+   100_Trigger                               248
+   106_8Spider                          343  362
+   107_8Udo Krankenstein B              351  363
+   108_Guard 1                           60 
+   109_Guard 1                           58
+   110_Guard 1                           56
+   111_Guard 1                           54
+   112_Guard 1                           68
+   113_Guard 1                           66
+   114_Guard 1                           64
+   115_Guard 1                           62
+   116_Officer 1                        214 
+   117_Officer 1                        212
+   118_Officer 1                        210
+   119_Officer 1                        208
+   120_Officer 1                        222
+   121_Officer 1                        220
+   122_Officer 1                        218
+   123_Officer 1                        216
+   124_50Dead guard->walls               99  772
+   125_8Hermann                         292  381
+   126_SS 1                             149 
+   127_SS 1                             147
+   128_SS 1                             145
+   129_SS 1                             143
+   130_SS 1                             157
+   131_SS 1                             155
+   132_SS 1                             153
+   133_SS 1                             151
+   138_Dog 1                            109
+   139_Dog 1                            107
+   140_Dog 1                            105
+   141_Dog 1                            103
+   142_8Udo Krankenstein A              315  760
+   143_8Borrelia A                      303  761
+   144_Guard 3                           60
+   145_Guard 3                           58
+   146_Guard 3                           56
+   147_Guard 3                           54
+   148_Guard 3                           68
+   149_Guard 3                           66
+   150_Guard 3                           64
+   151_Guard 3                           62
+   152_Officer 3                        214
+   153_Officer 3                        212
+   154_Officer 3                        210
+   155_Officer 3                        208
+   156_Officer 3                        222
+   157_Officer 3                        220
+   158_Officer 3                        218
+   159_Officer 3                        216 
+   161_8Borrelia B                      328  762
+   162_SS 3                             149
+   163_SS 3                             147
+   164_SS 3                             145
+   165_SS 3                             143
+   166_SS 3                             157
+   167_SS 3                             155
+   168_SS 3                             153
+   169_SS 3                             151
+   174_Dog 3                            109
+   175_Dog 3                            107
+   176_Dog 3                            105
+   177_Dog 3                            103
+   180_Guard 4                           60
+   181_Guard 4                           58
+   182_Guard 4                           56
+   183_Guard 4                           54
+   184_Guard 4                           68
+   185_Guard 4                           66
+   186_Guard 4                           64
+   187_Guard 4                           62
+   188_Officer 4                        214
+   189_Officer 4                        212
+   190_Officer 4                        210
+   191_Officer 4                        208
+   192_Officer 4                        222
+   193_Officer 4                        220
+   194_Officer 4                        218
+   195_Officer 4                        216 
+   198_SS 4                             149
+   199_SS 4                             147
+   200_SS 4                             145
+   201_SS 4                             143
+   202_SS 4                             157
+   203_SS 4                             155
+   204_SS 4                             153
+   205_SS 4                             151
+   210_Dog 4                            109
+   211_Dog 4                            107
+   212_Dog 4                            105
+   213_Dog 4                            103
+   216_Mutant 1                         196
+   217_Mutant 1                         196
+   218_Mutant 1                         196
+   219_Mutant 1                         195 
+   220_Mutant 1                         196
+   221_Mutant 1                         196
+   222_Mutant 1                         196
+   223_Mutant 1                         196
+   234_Mutant 3                         196
+   235_Mutant 3                         196
+   236_Mutant 3                         196
+   237_Mutant 3                         196
+   238_Mutant 3                         196
+   239_Mutant 3                         196
+   240_Mutant 3                         196
+   241_Mutant 3                         196
+   252_Mutant 4                         196
+   253_Mutant 4                         196
+   254_Mutant 4                         196
+   255_Mutant 4                         196
+   256_Mutant 4                         196
+   257_Mutant 4                         196
+   258_Mutant 4                         196
+   259_Mutant 4                         196
+   260_9Fountain                        414  946
+   263_Curtain hor                      417  969
+   264_Curtain ver                      417  968
+   265_9door hor                        419  967
+   266_9door ver                        419  966
+   267_2Coffee                          420  929
+   268_9Utensils                        421  294
+   269_105Table with Clothes            422  187

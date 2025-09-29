@@ -27,8 +27,7 @@ What's new?
 =============
 Special difficulty level to keep it challenging for coop mode
 MG42 (randomly spawned in high enemy hp areas)
-Two-player turret vehicle, aka "tank" - one driver, one gunner, randomly spawned 
-in high enemy hp areas
+Two-player turret vehicle, aka "tank" - one driver, one gunner, randomly spawned in high enemy hp areas
 Explosive green barrels (upon simultaneous coop fire)
 Destructible wooden barrels (upon simultaneous coop fire)
 Many new Game Modes, including Instagib, Carry the Flag and Harvester
@@ -47,8 +46,7 @@ Installation instructions:
 ------------------------------------
 
 Simply unzip the files into your Wolf4SDL folder (with your original Wolf3D
-files) and use Run_SplitWolf.bat to play (you can select version, as described in 
-SplitWolf4SDL_versions.bat)
+files) and use Run_SplitWolf.bat to play (you can select version, as described in SplitWolf4SDL_versions.bat)
 
 How to play:
 ------------
@@ -142,9 +140,7 @@ Controls:
 New Features:
 ---------------
 
-1. Tank. Spawns in hard areas. "Use" key to become a driver (and to get off) and 
-"fire" for driving attack thrust, second player to arrive to it will become a gunner.
-
+1. Tank. Spawns in hard areas. "Use" key to become a driver (and to get off) and "fire" for driving attack thrust, second player to arrive to it will become a gunner.
 
 2. MG42 - press "use" key to get on it and then "fire" to use it.
 
@@ -153,39 +149,24 @@ Game Modes:
 
 CLASSIC - as it says.
 
-INSTAGIB - both players have only 1% health. Death of both players leads to full 
-level restart. Keep each other safe!
+INSTAGIB - both players have only 1% health. Death of both players leads to full level restart. Keep each other safe!
 
-(BOMB) DEFUSE - you have limited time (displayed in top left corner) to find a bomb 
-randomly spawned in the level and defuse it with "use" key.
+(BOMB) DEFUSE - you have limited time (displayed in top left corner) to find a bomb randomly spawned in the level and defuse it with "use" key.
 
-VAMPIRE - All enemies drop their hearts upon death, collect them to refill depleating 
-(coop shared) "blood" bar displayed on the top left corner that keeps both of you 
-alive. Search for more prey to keep yourself alive while looking for level exit.
+VAMPIRE - All enemies drop their hearts upon death, collect them to refill depleating (coop shared) "blood" bar displayed on the top left corner that keeps both of you alive. Search for more prey to keep yourself alive while looking for level exit.
+Some "themed" bloody scenery variants can give you additional blood using "use" key and some other scenery - by normal picking (walk over). 
 
-Some "themed" bloody scenery variants can give you additional blood using "use" key 
-and some other scenery - by normal picking (walk over). 
+CARRY THE FLAG - You need to carry the flag to level exit before time runs out. Killed flag carrier drops the flag, and the other player has 10 seconds to repick it before the flag returns to the base. Flag can be intentionally dropped for the other player with "use" key.
 
-CARRY THE FLAG - You need to carry the flag to level exit before time runs out. Killed 
-flag carrier drops the flag, and the other player has 10 seconds to repick it before 
-the flag returns to the base. Flag can be intentionally dropped for the other player 
-with "use" key.
-
-HARVESTER - After each kill you have limited time to harvest the killed soul from 
-a pillar nearby (additional kills reset the timer). Level restart if you fail.
+HARVESTER - After each kill you have limited time to harvest the killed soul from a pillar nearby (additional kills reset the timer). Level restart if you fail.
 
 MUTANT BJ - All enemies are replaced by mutant BJs with randomized weapons
 
-RAMPAGE - Rage bar, melee attack only. Rage bar adds you resistance to enemy damage 
-and gibbing power, and is increased by kills and collecting red "rage demon" heads.
+RAMPAGE - Rage bar, melee attack only. Rage bar adds you resistance to enemy damage and gibbing power, and is increased by kills and collecting red "rage demon" heads.
 
+ZOMBIE - Enemies respawn after some time and when out of view. They have larger health but only melee attacks. Can become hordes very fast.
 
-ZOMBIE - Enemies respawn after some time and when out of view. They have larger health 
-but only melee attacks. Can become hordes very fast.
-
-ZOMBIE HARVESTER - If you fail to harvest enemy soul, enemy will resurrect as zombie 
-with twice as health as before. Shorter harvest time to make it more interesting.
-
+ZOMBIE HARVESTER - If you fail to harvest enemy soul, enemy will resurrect as zombie with twice as health as before. Shorter harvest time to make it more interesting.
 
 Credits:
 --------

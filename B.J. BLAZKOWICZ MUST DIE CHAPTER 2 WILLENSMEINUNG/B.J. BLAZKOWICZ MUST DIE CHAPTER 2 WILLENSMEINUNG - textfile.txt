@@ -1,0 +1,120 @@
+===========================================================================
+Archive Maintainer      : ///
+Update to               : ///
+Advanced engine needed  : any version of GZDOOM
+Primary purpose         : single Wolfenstein inspired map, choose any difficulty
+===========================================================================
+Title                   : B.J. BLAZKOWICZ MUST DIE CHAPTER 2 WILLENSMEINUNG
+Filename                : WCH2WOLF.WAD
+Release date            : 05/30/2025
+                          
+                          
+Author                  : SUPREME BIO VIZIER
+Email Address           : ///
+Other Files By Author   : B.J. BLAZKOWICZ MUST DIE, CASTLE MASSACRE V.1 & V.2 +
+Misc. Author Info       : ///
+
+Description             : YEARS HAVE PAST BY
+                          YOU HAVENT CHANGED OUT OF YOUR PRISON CLOTHES SINCE THE LAST CHAPTER
+                          YOU HAVE NO CHOICE AFTER HEARING ABOUT A NAZI HANG OUT...
+                          THEY MUST ALL DIE
+                          but something strange is happening, you feel like this has all 
+                          been done countless times over threw the course of your life
+                          maybe life is a game...
+                          who are these diabolical map makers who wont let a death sprite be!
+                          i dont fucking know just play the game, hope its fun for ya.
+
+Additional Credits to   : \WADS
+                          Kriegsland_Enemies_Pack
+                          Wolf3D_TC_2.0.2
+                          WOLFEN_DOOM_LITE_CLASSIC.3
+                          wolfrise.1
+                          WolfensteinEC
+                          WolfensteinECHD
+                          Wolf3D_TC_3.1
+                          Wolfenstein_3D_but_not.2
+                          WOLFENSTEIN Console Collection
+                          Project_9
+                          boa_c31.1
+                          OBC FULL(MIKES TOY BOX)
+                          DeiMWolf094.ipk3
+                          boa_c31.1
+                          WolfenEDGE_final
+                          WUltra_4
+                         
+                          ***********************
+                          Microsoft Copilot
+                          ID SOFTWARE IN THE 90'S
+                          SALADS, STARBUCKS, CARS, PARKS
+                          BEER, COFFEE & CIGERETTES
+                          WATER & SKATEBOARING
+===========================================================================
+* What is included *
+
+New levels              : YUP
+Sounds                  : CUSTOM/WOLFENSTEIN 3D/DOOM 2/CASTLEVANIA
+Music                   : WOLFENSTEIN 3D/CUSTOM
+Graphics                : ID SOFTWARE/CUSTOM
+Dehacked/BEX Patch      : DEHACKED 
+Demos                   : No
+Other                   : CUSTOM DECORATES/SOUNDS BY SBV/CSNC
+Other files required    : USE THE DOOM 2 IWAD & RUN WITH ANY VERSION OF GZDOOM
+
+
+* Play Information *
+
+Game                    : DOOM 2 IWAD
+Map #                   : MAP01(ENTRY)MAP02(GAMEPLAY)MAP03(SPACEINVADERS!)///was going to be a secret but fuck it
+                                                                           this is probably my last doom modding
+                                                                        venture as im going to try my hand in WCD
+                                                                        SO I MADE THE OUTRO "FUN"
+Single Player           : YES (KNIFE START)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : EXPERIMENTAL, TO EXIT THE MAP YOU MUST FIND ALL SIX KEYS
+                          8 SECRETS. 
+                          I WOULDNT SHOOT THE COOL-AID MAN.
+                          65 "MONSTERS"
+                          6 KEYS HIDDEN IN THE WALLS
+                          PRESS F1 OR CLICK THE READ ME AT START UP
+
+Difficulty Settings     : CHOOSE ANY BUT ENEMIES WILL RESPAWN AFTER DEATH ON LIVING IS FOR WIMPS
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : FEW WEEKS OF BEING A STUPID BUM WITH NO LIFE 
+Editor(s) used          : NEWEST VERSION OF SLADE 3
+Known Bugs              : YOUR MOM
+                        
+
+May Not Run With        : WITH RUN NOT MAY
+
+Tested With             : GZFUCKINGDOOM VERSIONS 4.8.2.0 & 4.13.0.0 
+                       
+                          F1 FOR MORE INFORMATION
+
+
+***************************************************************************************************
+
+* Copyright / Permissions *
+
+Authors MAY e contents of this filJKHe as a base for
+modification or rmissions have been obtained from origGHina
+authors for any of their resouS es modified or includd in tis file.
+
+You MARTY distrGFibute this file, provided you include this text
+file, with no modifications.  Youe this file in any
+electronic forFJFGJGFJmat (BBS, Diskette, giant penises, CD, etc) as long as you include
+this file intact.  I rceiJKved  from the original
+authors of any modiluded content in this file to allow
+furtistribution.
+
+* Where to get the file that this text file describes *
+
+Web sites: https://www.moddb.com/members/supreme-bio-vizier/downloads
+
+//////////////////////////////////////////////////////////////////////
+}
+}

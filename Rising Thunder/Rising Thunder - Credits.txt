@@ -1,0 +1,35 @@
+ADDITIONAL CREDITS:
+aka What sources I've shamelessly ripped stuff from.
+
+Graphics taken from:
+- Wolfenstein 3D
+- Spear Of Destiny
+- The Spear of Destiny Mission Packs
+- Atina's female enemy templates
+- Doom
+
+Music taken from:
+- Ravage, by Alpha Helix
+- Total Distortion, by Pop Rocket
+
+Sounds taken from:
+- Wolfenstein 3D
+- The Spear of Destiny Mission Packs
+- Madness: Project Nexus 
+- Half-Life 2
+- Fallout 3 and 4
+- Megaman ZX
+- Megaman Zero
+- Postal 2
+- RTCW
+- Doom 64
+- Harvester
+- Quake
+- Shadow Warrior
+- Team Fortress 2
+
+Code:
+- Dugtrio17 - projectile bounce code
+- WSJ - preventing enemies from opening locked doors
+
+Odds are this might not be a complete list, as I forget stuff easily.

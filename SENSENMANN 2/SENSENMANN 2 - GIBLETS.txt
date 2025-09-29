@@ -1,0 +1,59 @@
+Thanks for downloading SENSENMANN 2. It is no secret that this mod is mainly meant as a good bit of fun and an homage to the legendary 2004 horror mod SENSENMANN by Mäx, rather than a fully fledged sequel.
+
+===PRACTICAL INFO ABOUT THE MOD===
+
+The original storyline of SENSENMANN is a pretty good one I must admit, but I only paid attention to the first two bosses' inclusion in terms of it. 6 levels have been made, more "vignettes" than actual maps I suppose. These new levels can be found on E1M1, E1M2, E1M10, E2M1, E3M1 & E3M10. All other levels have been blanked out for clarity.
+
+===BACKGROUND INFO & TRIBUTE===
+
+I found it funny to work with the coding changes present here, in addition to the many gory graphics. I have not worked with textured floors and ceiling since Project: Wolfgeist in early 2005 and never before with proper weather effects. That was fun.
+
+I made a few edits here and there and otherwise either kept the original material or added something already made that fit the premise. Some of the new music comes from Chris Chokan's legendary BAKED.ZIP file that was located on his very old Angelfire site.
+
+Other than that, my main inspiration for this set is Mäx of course in addition to Great Wasabi and Ryan Steinbruner (RIP), all of whom somewhat contributed to my learning to understand and appreciate gore, bloodshed and horror. In mid-2004 I was still growing and had only recently graduated from toys and comics to full-time computer games, surfing the net, music, getting ever so slowly into films and TV shows. I always had a hard time with horror, shock sites and whatnot, all these things that were present in the early 2000's and counted as "horror". Only later did I get into actual horror films, primarily slashers and the supernatural, mainly from the late 1960's onward, eschewing most modern ideas about horror. But in 2004, I was green as a pea and very sensitive about a lot of things. I did not take to horror too kindly. Being fully entrenched in Wolf3D mods, I still could not get past the fact that Sensenmann was an awful lot of fun. There was something about that atmosphere that creeped me out and definitely made me uncomfortable, but I kept feeling more and more satisfied each time I played it. When Mäx then put out The Untold Story some months later, that sealed the deal for me. Together with Great Wasabi's Dead World Rising 2 that had come out earlier in 2004, I was slowly learning to appreciate Doom/Blood/horror-inspired visuals more than just standard Wolf3D. And though it took me a long time to get there I am glad that there is still some frontiers left for me in Wolf3D modding yet unexplored. I am still taking baby steps toward actual horror mods, even here on the eve of my 20th anniversary as mapper/modder.
+
+Long story short - a huge THANK YOU goes out to Mäx, to Great Wasabi, and may Ryan Steinbruner rest in peace. Raw Meat was very crude but still had some nifty ideas that I tried to put to use in the first level of SENSENMANN 2. 2004 was one hell of a time for many things in my life, but Wolf3D modding definitely helped me progress and think differently and shook me out of my comfort zone. Thanks for everyone who has stuck by me and by the Wolf3D community and its mods for all these years. Eternal love and gratitude to id Software as well.
+
+==ART CREDITS & INSPIRATION===
+
+AReyeP
+Atina
+Barry Christian
+Ben Blaufarb
+BJ Rowan
+Codetech & Megabyte
+Colonel Bill & Bill Neisius
+Great Wasabi
+Joshua Waight
+Kuki
+Kyle Albert
+Nexion
+Ryan Steinbruner
+Spifferaenous
+Tris
+
+==SOUND CREDITS==
+
+Stock sounds from old archived websites
+Curious George Goes to... Takes... A dump, I suppose? Something like that. Fun game I played in the olden days ripe with sounds.
+Toto: Interactive Quest
+Wolfenken by Kenny Roels
+Samples borrowed from songs by David Bowie, Led Zeppelin & Gentle Giant
+Some original new sounds by yours truly.
+
+... As with original SENSENMANN,some material featured from BLOOD as well.
+
+==MUSIC CREDITS==
+
+"Death by Bordom" [sic], beat1jack.mid & heavy.mid by Chris Chokan
+"Pretty Fly (For a White Guy)" by The Offspring
+habit.mid by Eric Suen
+RAGE.IMF by ?
+Dungeon Cephalis level 1 music adapted by Amirtes (probably based on an actual song)
+
+=================
+
+Thanks for playing, folks! Happy belated Halloween. Now go chew on some giblets. Delicious giblets...
+
+Thomas Weiling
+11/4/24

@@ -1,0 +1,328 @@
+^P
+^C7d INTRODUCTION
+
+^C00 Thank you for downloading Retribution of the Overlord. Retribution of the Overlord is based on the source code of Project Toteneisenritter, featuring Amber Stone, the daughter of Blake Stone as the lead character.
+
+^C00 Here you will see the storyline and then the guides to playing the game.
+
+^P
+^C7d INTRODUCTION
+
+^C00 Big shout out to the Die hard Wolfer forum, AreYeP, MCS and especially Lin Yang for providing this amazing and incredible source code to play with.
+
+Thank you guys for all your support and talent in modding and coding.
+
+^P
+^C7d OTHER MODS BY ME
+
+^C00 Escape from Reichstag, Code 44, Forbidden Weapon, Goldfire 2010, Quarkblitz 2k23, The Lost Mutants.
+
+^P
+^C7d THE STORY
+
+^C00 Pyrus Goldfire met his demise at the hands of Blake Stone, ending his reign and restoring Peace and Order. While back on Earth, Amber Stone, had recently resigned from the British Military Force and was recovering. Amber had found the trauma too much to handle, seeing many deaths and failed missions.
+
+^P
+^G32,16,23
+^C7d THE STORY
+
+^C00 Spending time in the gym to release her frustration, Amber took civlian Life kindly and settled. However this was short lived and she felt the need to return to Duty. A report came from an old comrade.
+
+^P
+^C7d THE STORY
+
+^C00 "Greetings Amber Stone, I hope you are doing well, we have uncovered a new organisation across Seattle in America. They are a new corporation with unethical concepts and intent on taking over the World with their army."
+
+Amber's eyes rolled and she immediately jumped up. The organisation is listed as GOLD. The blueprints are e-mailed over and Amber reads. They show that an Overlord is overseeing GOLD's military forces.
+
+^P
+^C7d THE STORY
+
+^C00 Amber contacts her father Blake for advice. "Dad, have you heard of GOLD?", "Hello sweetheart, I have heard rumours, don't strain youself into unncessary trouble. However I would contact your military commander who can guide you".
+
+^P
+^C7d THE STORY
+
+^C00 Amber contacts her military commander, Commander Snipes who arranges her to come to the Air base. Upon arrival Snipes greets her. "This aircraft will take you to the domain of GOLD. We have coded it to look like one of theirs so they won't expect an outsider to be in their midst".
+
+"I will guide you throughout your assignment Amber Stone"
+
+^P
+^C7d THE STORY
+^G32,16,34
+
+^C00 "You have five units to infiltrate. The Military Installation, Storage Facilities, Production Plants, Transport Sector and finally the Space Station"
+
+^P
+^C7d THE STORY
+
+^C00 Once in the Transport sector, you should see some teleporters that will take you to Satellite HQ, Overlord's retreat. He's going to be around the Transport Sector but he's going to hurry off to the Satellite. Keep us informed of anything". Mind out for Professor Malik, he's behind the manufacturing and is GOLD's most senior scientist, behind the creations.
+
+^P
+^C7d THE STORY
+
+^C00 Amber takes an plain aircraft, sets the co-ordinates for the Military Sector of GOLD and heads over. "Good luck Amber Stone" says the Commander. "All the best to you". Amber flies overto Seattle, seeing a range of military installations combined together and sets in.
+
+OBJECTIVE: Infiltrate Military Installation, take out GOLD's soldiers and recruits, disrupt Military Operations to hinder war plan.
+
+^P
+^C7d FEATURES
+
+^C00* 28 new levels 
+* New enemies
+* Many new graphics & sounds
+* New Enviroments
+* 10 weapons
+* Changed help screen and end screen
+* Intermission text between units
+* Textured floor and ceilings
+* New music
+* Alarm sounding
+* Blake Stone style doors
+* In game messages
+* Exploding barrels
+
+^P
+^C7d NEW KEYS
+
+^C00 You can also toggle the crosshair and gun bobbing mode feature if you want.
+
+^C7d Gun Bobbing: ^C00 Press Backspace+B to turn Gun Bobbing mode on and off.
+
+^C7d Crosshair: ^C00 Press X to turn the Crosshair on and off.
+
+^P
+^C7d ITEMS
+
+^C00 Throughout the game, you will find supplies to help you throughout your mission. There consist of Health, Treasure, Ammo and some interesting things.
+
+^P
+^C7d ITEMS
+
+Treasure: ^C00Treasure was inherited by GOLD fom STAR after STAR was disbanded by Blake Stone. GOLD intend to distribute it to their forces and use it for funding more of their wicked operations.
+
+^C7d Gold bar: ^C00 100 points
+^C7d Chest: ^C00 1000 points
+^C7d Money Bag: ^C00 5000 points
+^C7d Xylan Orb: ^C00 5000 points
+
+^P
+^C7d ITEMS 
+
+Health: ^C00 Around the game, there are three kinds of health items. One is a candy bar, one is a steak one and one is a first aid kit. Your health can go up to 200%
+
+^C7d Candy bar: ^C00 4%
+
+^C7d Steak: ^C00 10%
+
+^C7d First Aid Kit: ^C00 25%
+
+^C7d Chicken: ^C00 5%
+
+^P
+^C7d ITEMS
+
+Keys: ^C00 If you can't open a door, you can find a keycard located somewhere within the level. The colours of keycard are yellow, blue, green and red.
+
+Extra Life: ^C00If you see a huge grey circle reading +1, this is an extra life for you.
+
+^c7dInvulnerability Orb- ^c00 When you find this powerup, you will be invulnerable for the rest of the level. If you find it, take it and kill all in your way. It is yellow in colour and very useful.
+
+^P
+^C7d WEAPONS
+
+^C00 There are ten weapons to use in the game. All weapons use ammunition except your fists. There are four ammo types which are chargepacks, multichargepacks, flame fuel and plasma force cells.
+
+Fist: ^C00If you're out of ammo, punch your enemies till they're out.
+
+^P
+^C7d WEAPONS
+
+^C7d Slow fire protector: ^C00The standard type of pistol weapon that Blake Stone took during the STAR days. It's yours now and your first gun.
+
+^C7d Rapid Assault rifle: ^C00Has the same firepower as those held by high up GOLD Military.
+
+^C7d Single fire rifle: ^C00A slow firing weapon with same ammunition as the Slow fire protector and Rapid Assault Rifle, but deadly on impact.
+
+^P
+^C7d WEAPONS
+
+^C7d Cell blaster: ^C00Fires cells repeatedly, hurting anything in its path, taking them out. Don't waste it.
+
+^C7d Dual Neutron Disruptor: ^C00A rapid shooting weapon, useful for fighting crowds of enemies.
+
+^C7d Plasma Discharge Unit: ^C00Uses multi charge packs as ammunition and damages instantly what it hits.
+
+^P
+^C7d WEAPONS
+
+Flamethrower: ^C00Cook your enemies with this device. Let the flames fly for yards until they hit something and it dies.
+
+^C7d Plasma Force Gun: ^C00This was produced by GOLD's scientists as a weapon for using in the battlefield. It's scarce as are Plasma Force cells. Use it wisely. Makes a beeping sound when it hits an enemy or destroyable object, signalling a target hit.
+
+^P
+^C7d WEAPONS
+  
+Triple laser rifle: ^C00A great weapon left behind by GOLD but it's for you to try out. Press the button repeatedly to fire and demolish all standing in your path.
+
+Press 0-9 to select the weapons you choose to fight with. You can use 10 weapons in total from fists to charge powered weapons to the Plasma Force Gun.
+
+^P
+^C7d THE ENEMY
+
+^C00Your opponents are from GOLD, the organisation, aiming to rebuild what Dr Goldfire left behind. You will encounter scientists, military, robotic enemies and mutants.
+
+^P
+^C7d THE ENEMY
+^G32,16,30
+
+^C7d GOLD Scientist: ^C00Workers for GOLD who produce mutants, robots and also work on maintenance, science and research. They're the weakest enemy around.
+
+^C7d GOLD Captain: ^C00GOLD's main military personnel who take no prisoners and kill any intruder within their sight. They are deadly and must be taken down first.
+
+^P
+^C7d THE ENEMY
+^G32,16,31
+
+^C7d GOLD Patrol: ^C00Armed with a basic weapon but dangerous in groups. They are fast and react sharply to intruders. Take them out fast.
+
+^C7d Service Droid: ^C00Hovering around GOLD buildings is a service droid. This droid will examine infrastructure, record activity and only stuns up close. Easy target to destroy.
+
+^P
+^C7d THE ENEMY
+^G32,16,32
+
+^C7d Robot dog: ^C00Blue coloured robot dogs that scuttle around the area and leap up and electric sock the intruder. Be careful wherever you go as they will chase you non stop until caught.
+
+^C7d GOLD Enforcer: ^C00These are more senior than a GOLD Captain and much meaner, bigger and nastier. Get far back, fire away, take cover and vice versa!, Dressed in yellow outfits.
+
+^P
+^C7d THE ENEMY
+^G32,16,42
+
+^C7d Gunner Robot: ^C00 These are mechanical guard robots produced by GOLD, guarding high security institutes, especially precious cargo for GOLD.
+
+^C7 Pulverizer Robot: ^C00More dangerous than a gunner robot and blue in colour, able to fire discharges and use hitscan ammo against an intruder. They were originally desgined for GOLD's war against the World. Prototypes with just plasma force cells are also available.
+
+^C7d Brute Mutant: ^C00A mutatnt that only hurts you by smacking you. Strong in health, stand back and blast away without being smashed in the face.
+
+^P
+^C7d THE ENEMY
+
+^C7d GOLD Space Guard: ^C00GOLD soldiers based onboard the Overlord's space station. It's hot up there so they are less armored.
+
+^C7d GOLD Troop: ^C00A GOLD soldier equipped with a flexible firearm for mobility. Watch you don't get caught off guard as they are skilled in their firepower.
+
+^C7d SecOps Guard: ^C00These guys, dressed in grey and armour guard high security areas and production facilities. They're ready to take down suspected intruders.
+
+^P
+^C7d THE ENEMY
+
+^C7d Security Officer: ^C00These guys guard the Transport Sector and are regularly on patrol. Don't mess. Wears green.
+
+^C7d SecOps Veteran: ^C00Despite not wearing GOLD uniforms, this is a different set of ranking military in red who are tougher than SecOps guards.
+
+^C7d Mutant Warrior: ^C00Cyborgs built for war mixed with flesh and tissue, already short tempered and attack any intruder in their path. They have rapid fire guns.
+
+^P
+^C7d THE ENEMY
+
+^C7d Professsor Malik: ^C00GOLD's Senior Scientist, crafting weapons and other tools for GOLD, he has crafted a full armoury and must be defeated.
+
+^C7d GOLD Overlord: ^C00This is GOLD's military leader, in command of the whole revenge for the destruction of Dr Goldfire and his organisation. He accesses his space station via a teleport system back on Earth so he can go to and from. His frame is on the wall.
+
+^P
+^C7d THE ENVIRONMENT
+
+^C00 Turret: Will shoot the player on site. Makes a mechnical sound, knowing you are nearby.
+
+^C00 Explodable Barrel: Blue barrels that can be blown up, damaging nearby enemies.
+
+^C00 CCTV Camera: The present of these alerts GOLD forces to any intruder in the building. They are shootable objects.
+
+^C00 Laser Trap: These will kill Amber in one hit and any unfortunate enemy who step in.
+
+^P
+^C7d TOOLS FOR CREATION
+
+^C7d WolfSignon 1.4: ^C00Signon Screen
+^C7d Wolfedit: ^C00Graphics Modification
+^C7d Codeblocks: ^C00Code Compiliation
+^C7d Chaosedit: ^C00Adding VGAGRAPH Images, Adding Levels, Adding Graphics & Sounds
+^C7d Notepad: ^C00HELPART, ENDART, INTART and editing the code.
+^C7d Paint: ^C00Graphics modification, assembling and recolouring.
+^C7d IMF Creator: ^C00Music Conversion
+^C7d WLEdit 4.5: ^C00Adding music into the audio files
+
+^P
+^C7d CREDITS:
+
+(Graphics, Sounds, Music)
+
+^C00 AreYep : Wolfendoom Graphics/Sounds
+Jamerr Productions: Graphics and sounds
+ID Software: Music, graphics and sound
+Parallax Software: Music and sounds
+LucasArts: Sounds
+Maijk Monkee: Images from his website which I used for a number of sprites
+Capstone Software: Sprites
+Doomjedi: Sprites
+
+^P
+^C7d CREDITS:
+
+(Coding)
+
+^C00 Ling Yan Zin: Project Toteneisenritter source code
+Kalnaren: Coding support and solutions
+MCS: Source Code Tutorials
+AreYeP: Source Code Tutorials
+Haasboy: Source Code Tutorials
+Officer-Michael John: Porting the Code from DOS to SDL
+
+^P
+^C7d CREDITS:
+
+(Editing Utilities)
+
+^C00 Florian Stohr: ChaosEdit 
+Adam Biser: IMFCreator
+CodeTech84: Wolf Sign On
+
+^P
+^C7d SPECIAL THANKS:
+
+^C00 MCS: Tips, advice and running stuff
+ID Software: Making Wolfenstein 3D
+DieHard Wolfers Community: Source Code, Advice
+You: Downloading and enjoying my mod.
+
+^P
+^C7d CONTACTING ME
+
+^C00 If you wish to send me comments regarding this mod, my current email address is j2k2201@outlook.com
+
+^P
+^C7d INSPIRATION AND DEVELOPMENT
+
+^C00 The below games helped to inspire Retribution of the Overlord
+-Blake Stone (Aliens of Gold)
+-Quake 2
+-Commander Keen
+-Descent
+-Doom
+-Star Wars: Jedi Outcast
+
+Development came from a strong desire to learn how to code. Blake Stone had so much potential so here you go!
+
+^P
+^C7d ENJOY PLAYING!
+
+^C00 I hope you enjoy Retribution of the Overlord, you will have a blast! Get ready Amber Stone, your mission starts now!
+
+^E
+
+
+
+ 
+

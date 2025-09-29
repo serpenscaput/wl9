@@ -1,0 +1,16 @@
+Thanks for downloading!
+Patch your Wolfenstein GBA ROM with the included IPS file.
+This can be done with Lunar IPS, or a similar tool.
+
+NOTE:
+The episode select screen shows 3 available episodes, however only the first 2 are available, as Dresden Strike and A Dark Secret have both been merged into Episode 1. I apologize for the inconvenience.
+
+CREDITS:
+
+ORIGINAL GAME -- id Software
+ORIGINAL PORT -- Stalker Entertainment
+
+PORTING WORK, TOOL DEVELOPMENT -- KellyM/Hydropolis
+Mac-paletted Mutants, Ubermutant, and Trans Grosse -- Perdition's Gate Enjoyer
+Fixed One Line of Code (thanks, by the way) -- renex
+Made WDC + the Jaguar extractor I used -- Adam Biser

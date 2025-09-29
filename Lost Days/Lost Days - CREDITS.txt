@@ -1,0 +1,23 @@
+
+CREDITS
+
+Original game :  Wolfenstein 3D (id Software)
+
+Used editor   :  HWE (Havoc)
+
+                 SLADE (Simon Judd)
+
+Graphics      :  Spear of Destiny (id Software)
+
+                 Spear Mission Packs (FormGen)
+                 
+                 Wolf3d Boss Generator (Dunkelschwamm)
+
+Music         :  Spear of Destiny (id Software / Bobby Prince)
+               
+
+             
+2024/10/12
+
+Ozeki
+

@@ -1,0 +1,13 @@
+Thanks for downloading!
+Patch your Wolfenstein GBA ROM with the included IPS file.
+This can be done with Lunar IPS, or a similar tool.
+
+CREDITS:
+
+ORIGINAL GAME -- id Software
+ORIGINAL PORT -- Stalker Entertainment
+
+PORTING WORK, TOOL DEVELOPMENT -- KellyM/Hydropolis
+Fixed One Line of Code (thanks, by the way) -- renex
+Real Hardware Playtesting -- AstroCreep
+Made WDC -- Adam Biser

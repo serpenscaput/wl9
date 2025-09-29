@@ -1,0 +1,29 @@
+IF YOU WANT THE MOD TO WORK, select questforthegrail.pk3 As well as a difficulty_pack and music_pack!!! THE MOD WILL NOT WORK OTHERWISE!!
+
+	Regular Difficulty:
+		-The regular wolf experience.
+		
+	Hard Difficulty:
+		-Faster enemies
+		-More accurate enemies
+		-Quicker aiming enemies
+		-Well-armed bosses
+		-Enemies flinch less
+		
+	Insane Difficulty:
+		-The way it was meant to be played!
+		-Less ammo scavenged from corpses
+		-Very fast enemies
+		-Extra accurate enemies
+		-Even Quicker aiming enemies
+		-Reloading
+		-Heavily-armed bosses
+		-Mini Bosses
+		-Enemies flinch much less
+		-Higher max ammo
+		-New Weapons
+		-New Enemies
+		
+		BIND YOUR ALT FIRE KEY FOR RELOADING
+		
+		

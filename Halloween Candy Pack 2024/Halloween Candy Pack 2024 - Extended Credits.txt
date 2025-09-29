@@ -1,0 +1,156 @@
+Exteneded Credits for KSS Series
+
+
+ * Recent Coding Help CREDITS *
+I would like to give a big thanks to the following
+people who have helped me since I re-began working on the KSS Engine 
+in the fall of 2021
+
+* TVP
+* Nex  
+* Astro  
+
+^P
+
+ ????
+
+^P
+More graphic from AREyeP and MCS are used 
+I arthacked one changing the backdrop color from white to Royal purple. It is a Nazi Heraldric Crest feat. Dual Lion Supported Crowned Swastika Blazen Coat of Arms. I also used some deciduous trees from EOD, for this edition so I could get it out on time for the Summer Solstice New Moon.
+I will make some deciduous tree graphics for future mods another time. I have made many plant gfx......
+
+
+^P
+If there are credits I neglected 
+Or Bugs or Issues
+ email me @ Falcon93ILM@Gmail.com
+
+^P
+
+^C09 
+
+The Knights of the SS series is also... 
+
+A Tribute to Wolfenstein 3D 
+&  Spear Of Destiny from ID Software
+And FormGen, and The Creators of MacWolf
+And this Game is also dedicated to the Wolf3D/SOD Mod Community 
+
+
+
+
+^P
+^C7D * KSS CREDITS *
+
+^C00 This is just a Mod; I only modified an existing game.
+Full Credit for Game Engine, Most Graphics, Sounds, and Game Design 
+goes to ID Software(TM) The creators of the Original Wolfenstein 3D and Spear of Destiny games. 
+If you enjoyed this Mod please purchase the original Wolfenstein 3D and Spear of Destiny Games.   
+They are available online for purchase. 
+
+^P
+^C7d      - Absolute Credits -
+  ID Software;
+^C00 Programming: John Carmack, John Romero * Creative Director: Tom Hall 
+* Artist: Adrian Carmack * BIZ: Jay Wilbur 
+* Computer Artist: Kevin CloudWith - * Distribution: FormGen 
+* Composer: Robert Prince 
+* Additional Programming: Jason Blochowiak 
+ Cheers to these Awesome Kats for making such an Amazing game series that has stood the test of time. 
+Without them none of this would be possible.
+
+^P
+^C7D I must also give a huge Thanks to the Wolfenstein ~ Spear Of Destiny : Mod Community and Everyone @ DieHardWolfers
+^C00 For creating the Mod Software used to edit the original games, for crafting the great mods that have inspired me, 
+And for taking the time to create the replacement graphics that I used, 
+And for having the grace to release them for use by the Wolf/SOD mod community.
+Even further for creating and maintaining an online community for Wolfenstein Modding.  
+If you enjoyed this Mod please go download some of the classic Wolf3D/SOD mods.
+
+^P
+  ^C7D        *Code Help Credits * 
+^C00 This Engine would not be possible without the Original ID Software Wolfesntsein and Spear Of Destiny Engine & Source Code, Rippers Wolf4SDL Porting, Community Fixes,
+as well as Endless Tutorials and Forum and ChatRoom Help by various members of the community 
+such as,  
+- Chis Chokan - Arayan Wolf3D
+- AlumiuN - Tricob - Adam Biser
+- ArEyeP - MCS - Brother Tank
+- Havoc - WL_Hack - Dark One - Ripper
+- Even... Officer Micheal-Jones 
+
+^P
+ ^C7D        *Code Tutorial Credits * 
+^C00 Tutorials from the following WolfModders have been used:
+WSJ, Paul Olstad, Richter Belmonte, Chris Chokan, ArEyeP, MCS, Brother Tank, Havoc, WL_Hack, Dark One, Ripper
+
+^P
+^C7D(+) Gold Cross Life Saver Awards to (+) 
+
+^C4b   
++ Chris Chokan + Arayan Wolf3D
++ AlumiuN + Tricob
+
+^P
+^C7D     * Graphic Credits 1 *
+^C00 * Wall Pack 1,2,3 - Giorgio 
+* Spear Resurrection Sprites Pack 
+- MCS Amsterdam and AReyeP
+* Various - Author Unknown 
+- Source AReyeP & MCS Wolf3d Texture Library
+ * Graphics - Ken O'Brien
+ * Megabyte - GFX Pack
+* NoniWalls2 - ?
+* FF Graphics Pack - James Shain.
+
+^P   
+^C7D     * Graphic Credits 2 *
+^C00 * Allgemeine-SS Pack 
+- Wolf Skevos-Jones.
+* Blue Helmeted Waffen SS aka SS Guy 
+- Gerolf
+* Classified Spoiler Graphics 
+- RGamesINC
+^P   
+
+ ^C7D    * Editing Software Credits *
+
+^C00 Game File Editing:
+*Wolf3d Data Compiler - Adam Biser
+*Chaos Edit - Chaos Software
+Graphis Editing :
+* GIMP * Chaos Edit * MS Paint
+ Audio Editing : Audacity
+Music Format Conversion :
+IMF Tools from Dark One
+Source Code Compiler : CodeBlocks  
+    
+
+^P
+^C7D * Inspirational Credits * 
+^C00 I would also like to thank my inspirations
+- The Resistance and Allied Forces of WWII 
+- Thelema - Therion - Lana Del Rey 
+- 420 - History - Castle Documentaries  
+- Rumors - Silly Conspiracy Theories 
+ - Wolfenstein 3D - Spear Of Destiny - RTCW
+4 Most Influential Wolf/SOD Mods:  
+- The Final Solution - Himmler's SS - Coming of the Storm
+- and the infamous... BW2SE
+* And Obviously this game was also inspired by the notorious NSDAP and Nazi SS. 
+
+^P
+^C7D     * Other Credits * 
+
+^C00 Another special thanks to Brian Lowe, Tristan Van Puten, and The Wolf3D Dome. Also to Dark One, StathMK, and RonWolf. 
+Also some weapon sound effects where modified and used from SoundBible. 
+ If I have neglected to credit your work please contact me at Falcon93ILM@Gmail.com 
+ and I will update the credits and make an updated release. 
+^P
+ ^C7D  - Falcon 93 Studios Credits -
+
+^C00  This Mod was crafted by Falcon 93 Studios
+Level Design, Story, Concepts, 
+And New Graphical Art
+ by Falcon*93.
+I can be reached AT Falcon93ILM@Gmail.com 
+Stay Tuned For New Releases.

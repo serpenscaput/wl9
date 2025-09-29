@@ -1,0 +1,3 @@
+- Wolf3DGuy (Base Mod, Coding and Graphics for Flamethrower and RocketLauncher)
+- AReyeP/DoubleShotgunGuy (Fixed graphics for guard)
+- Maggot_with_Rockets (Machine Gun pickup sprite)

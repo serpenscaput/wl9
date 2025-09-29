@@ -1,0 +1,39 @@
+WOLF2NEW - 2 new levels for wolf3d. 03-09-1993
+
+This archive contains two new levels for the REGISTERED version of WOLF3D.
+The first two levels of the first mission have been changed into something
+a *little* harder. I would have done more, but I don't have the time at the
+minute. Mabey sometime . . .
+I used WOLFMAP version 1.6 to create the levels. In order to keep the size 
+of the archive down, I only uploaded the 2 changed levels, not the entire
+GAMEMAPS.WL6 file. You WILL need a copy of WOLFMAP to install these levels.
+WOLFMAP should be availiable at the same place you found this.
+To install the 2 new levels, you will need to unzip the archive to extract 
+the GAMEMAPS.LOC and MAPHEAD.LOC files into your wolf directory. 
+WOLFMAP should also be in the same directory
+Then (after backing up the old GAMEMAPS.WL6 and MAPHEAD.WL6 files), run
+  wolfmap i 00-01
+to import the new levels into the wolf map files.
+Enjoy!
+
+Hints:
+  Most of the secrets are marked in some way. I *HATE* having to go
+  wallbanging over every single wall to find some passage to finish the level.
+  You don't have to use secrets to finish the levels. (no hidden keys)
+  That is assuming you can kill Hans with only a machine gun.
+  There is a secret evevator hidden on the first level though.
+
+Please upload this to other FTP sites for me, as I have only access to a slow
+internet link < 100 bytes per sec :-0    (yawning smiley)
+
+If you liked these levels, and/or would like to persuade me to do more,
+EMAIL comments,encouragement and ideas to:
+KINGC@UL.IE 
+(skilled, unemployed graduate software engineer looking for a job. Offers?)
+
+I also wrote a simple platform game back in '91, but it never got past BETA. 
+I may release it anyway, with full source, if anyone's interested. It does
+need a faster, yet bit compatable version, of the PUTIMAGE/GETIMAGE BGI
+routines for EGA 16 color graphics. (It flickers quite a lot).
+If anyone has such a routine (inline assembly for TP5.0), could they send me
+copy please!

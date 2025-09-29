@@ -1,0 +1,20 @@
+^P
+^G16,16,5
+^C7eCONGRATULATIONS!
+^C00
+After the skeleton of Olaf Schwartz crumbles in front of you, it is now time to proceed with your mission. You push a wall out to the exit and walk to the bunker of the mastermind, the creator of the leader of the Nazi party, Adolf Hitler.
+
+Some of the allied soldiers warn you of the dangers ahead, but it should be no match for you.
+
+^P
+^c7eMISSION: TERMINATE HITLER
+^c00"Agent Blazkowicz, these two missions have proven very successful. Everyone at the OSA congratulates you. However, your journey must not end yet. Your next task: Terminate Adolf Hitler."
+
+Play the 7-floor action-packed Episode 3 now!
+
+...or at least until it releases. Sorry, but what did you expect from a beta?
+...
+*sigh*
+Okay, fine... "EPISODE 3 APPROACHING SOON"
+
+^E

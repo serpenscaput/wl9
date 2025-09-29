@@ -1,0 +1,100 @@
+Falcon 93 Studios Presents
+
+Watch Tower
+
+
+From Halloween Candy Pack 2024
+
+From the Series Of Knights of the SS 
+ 
+K.S.S. : W.T. : V2
+
+****
+
+Mission Briefing
+
+Intel suggests that the Knights of the SS, have set up a magickal network of 
+Castles and Watchtowers to open portals to a the Black Sun, a realm similiar Thagirion. 
+
+The Magi Order is sending you to the West Tower of Blackstone Castle to investigate, 
+and seize a small but powerful Sieg Rune Stone. 
+
+Once inside the castle sneak into the ventillation shafts that where retrofitted to it.
+Don't get spotted before you get to the West Tower, crawl through the vents to get there. 
+
+****
+
+Notes on the Tower Experience 
+
+This level is an experiment to simulate vertical movement, 
+in Wolfenstein "3D" there is no vertical movement. 
+
+To simulate this I made floor textures that look like stairs, 
+wall textures with hand railings, and a stair way sign, 
+as well as archer windows and a tower top with archery defensive structures,
+ using textures and directional sprites. 
+
+Please send your feedback on these graphical illusionary methods to me at 
+Falcon93ILM@gmail.com
+
+
+****
+
+Game Guide
+
+I made some bonus areas by placing some doors that dont have keys, 
+in these areas there are important pickups, 
+to gain access lure enemies towards you by firing your guns and kill them in the doorframe, 
+if you don't block the door from closing with their corpses you will be stuck there. 
+... I almost forgot to mention, if you want the Gatlin Gun befor the first boss you must play 
+on Death Incanate difficulty setting to spawn the enemies behind the door for that bonus area,
+there is a secret pushwall before the second/final boss to get it though. 
+
+
+Also I used these doors on the east side of the Tower's stories
+ to give the illusion of a larger Castle connected to the Tower, those doors don't open.
+
+You will fight 2 bosses, they are possible with the MP40, I tested it, 
+but it will be easier by gaining access to the bonus areas and getting the gatlin gun
+before the first boss at the top of the Tower. 
+
+
+Also note this mini game/level uses a very basic SOD4SDL engine, 
+there are no additional weapons, but you dont need to reload either. 
+
+Also THE GAME WILL CRASH UPON COMPLETION, ie when you obtain the Bloody Sieg Rune
+THIS IS JUST HOW IT HAS TO BE WITH, SORRY. 
+
+****
+
+Credits 
+
+(See Extended Credits for a more thorough attribution)
+
+- ID Software : Original Games of Wolfenstein 3D and Spear of Destiny
+- Formgen SOD Expansion Packs
+- Shading on Pillars and Pedestals : Tris
+- Wolf3d Modding Community : SDL Port and Coding Tutorials
+- Aurora : Coding Help and Collosal Pack (Graphics)
+- Majik Monkee : General Scheissegesicht 
+- WSJ : General Steinkopf 
+- MCS & Areyep : Textures, Including some that I art hacked, 
+the Arch with Shield & Swords, and the defensive structures use as a base, textures 
+from them and another communtiy graphics pack which I modified.
+- Many many graphics from many many community graphics pack 
+including 
+- Ken O'Brien : Spider Webs, the base for my Knight Armors, several textures.
+- Giorgio : Textures
+- Rook Icon : Freepik
+
+Music Credits 
+Menu : Wondering About My Loved Ones : Bobby Prince
+Intro : Going Gaft : Bobby Prince
+Tower Level/in game : The Tower : Bobby Prince 
+Award Music : Scores : Bobby Prince
+The End : : Bobby Prince
+
+
+ ****
+HAPPY HALLOWEEN!
+-From Agent Falcon 93

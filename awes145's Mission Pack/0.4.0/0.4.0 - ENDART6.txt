@@ -1,0 +1,17 @@
+^P
+^G16,16,5
+^C7eCONGRATULATIONS!
+^C00
+Agent Blazkowicz, your mission is fully complete. You've stopped the evil Nazi regime and stomped its leader on the way. Every mad orchestrator is dead. Everyone here at the OSA headquarters congratulates you on your mission.
+
+There's some grey-skinned people now, hopeful they aren't too bad...
+^P
+^c7eYOU DID IT!
+^c00
+You have finished the sixth WolfALT episode! Thank you for playing this hack of Wolfenstein. Maybe, a new hack will emerge...
+
+THE END
+
+footnote from awes145:
+"shitty PC game hacks like this happen when idiots like me get fun tools like WDC. thanks for playing. until next time."
+^E

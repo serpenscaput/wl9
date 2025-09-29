@@ -1,0 +1,13 @@
+^P
+^G16,16,5
+^C7eOLAF DEFEATED...?
+^C00
+After escaping the revised Castle Wolfenstein you hear soft steps behind you followed by a cold feeling in your back. You awake in an elevator and step into a world of mutants and guards.
+
+Agent Blazkowicz, you must escape Castle Hollenhammer and defeat Olaf Schwartz once more! He is still living and wants to
+
+^P
+^c7eYOUR MISSION
+^c00
+take revenge on you! Play Episode 2 now and slam those bullets of yours in Olaf's head! The future of this world depends on you, Agent Blazkowicz.
+^E

@@ -1,0 +1,15 @@
+^P
+^G16,16,5
+^C7eHITLER GONE!
+^C00
+He's dead.
+
+You've done it. Nazi Germany's totalitarian leader has fallen, and it's all thanks to you. Now with him dead, you exit the bunker and onto the buildings of Nazi Germany. There's still guards waiting to seek blood. Put a stop to it before Fascism rises from its fall!
+
+But you've done it.
+^P
+^c7eYOUR ADVENTURE IS ENDING...
+^c00
+Fascism begins to fall in your next mission, but some people have backup plans to revive it. You must go stop them before Nazism rises again!
+
+^E

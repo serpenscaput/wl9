@@ -1,0 +1,52 @@
+^PAGE 1
+^G15,16,5
+^Cb4OOFERS MAGOOFERS
+^c11_ ^C00Funtime Land is one
+foofy step closer to 
+reclaiming its former
+glory. That cursed 
+pink boombox is back
+to normal, playing  
+the biggest hits of
+the day for all to enjoy. Huzzah I say!
+^c11_ ^c00BUT 'tis still too early to celebrate,
+'cause many a cursed object doth 
+still roam around these most foofy of
+premises. Deal with them, ^C21post haste! 
+
+^Cb4SECRETS & HINTS ^C00on the next 2 pages...
+^PAGE 2
+^G15,195,4
+^Cb4SECRETS & HINTS, pt 1
+^c80CHAPTER 1, LEVEL 4 ^c23
+"The Faux Pillars" ^C00
+A pink wall next to a 
+fake pillar leads to a 
+corridor w. 2 secrets
+
+^c80CHAPTER 2, LEVEL 6 ^Cb4"PinKdOoR=dAnGeR!" ^C00
+The butterfly room has a pushwall.
+Boombox holds key & also pushwall!
+
+^c64CHAPTER 3, LEVEL 3 ^cA5"303" ^C00
+Secret room behind the starting point!
+Stage = homage to Roland TB-303 synth
+
+^PAGE 3
+^G15,16,5
+^Cb4SECRETS & HINTS, pt 2
+^cd0CHAPTER 4, LEVEL 1 ^c56
+"Back Gardens" ^C00
+Butterflies swarm 
+around the pushwalls
+But there may be 
+spray cans hiding...
+
+^cd0CHAPTER 6, LEVEL 1 ^ca6"CAN-ga Line" ^C00
+The spray cans take a left for the 
+condiments+1UP. Go right = gold key
+There are shortcuts to both exits!
+Maybe you could ask Bitey for help?
+
+^c11_ ^C00Press ^C27escape ^C00to leave. 
+^E

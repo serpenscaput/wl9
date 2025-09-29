@@ -1,0 +1,18 @@
+^P
+^G16,16,5
+^C7eHITLER GONE!
+^C00
+He's dead.
+
+You've done it. Nazi Germany's totalitarian leader has fallen, and it's all thanks to you. Now with him dead, you exit the bunker and onto the buildings of Nazi Germany. There's still guards waiting to seek blood. Put a stop to it before Fascism rises from its fall!
+
+But you've done it.
+^P
+^c7eYOUR ADVENTURE IS ENDING...
+^c00
+In Paradise, you travel to a remote town in Arizona where terror is being strick up by a dude. The earth demands cleansing. B.J., being part of the OSA doesn't mean you can't stop this hell.
+
+With that... you start a journal entry.
+"10/17/97... The Earth is hungry. Its heart throbs and demands cleansing. The Earth is also thirsty."
+
+^E

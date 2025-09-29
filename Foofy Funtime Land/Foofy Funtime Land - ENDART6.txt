@@ -1,0 +1,53 @@
+^PAGE 1
+^G15,16,5
+^Cb4NO MORE SNAKES
+^c11_ ^C00I've HAD IT with 
+these motha-foofin'  
+snakes in that motha
+fjonkin' chest ^C1a! ^C18! ^C16! ^C14! 
+^c11_ ^CbcYou've beaten the 
+6th and final chapter! 
+^Cb9I hope you had fun :) 
+^c11_ ^CbcWhen I was around 16 years old, I 
+used to make my own Wolfenstein 3D 
+levels using a software called MapEdit. 
+^c11_ ^CbcThat was circa 1998. Fast forward 
+27 years: I am just now putting the 
+finishing touches on this, my Wolfen-
+stein 3D mod; ^Cb4FOOFY FUNTIME LAND! 
+^PAGE 2
+^G15,195,4
+^Cb4SECRETS & HINTS! 
+^c80CHAPTER 2, LEVEL 8 ^c3a
+"Hunted in Space" ^C00
+Invincible enemies 
+won't hurt those who
+ask Daddy whether or 
+not they can play :)
+
+^cd0CHAPTER 4, LEVEL 7 ^c56"16 Rooms" ^C00
+4x4; start is A1, exit is D4
+Let the glittery corners guide you
+
+^cb5CHAPTER 5, LEVEL 1 ^c80"The Forest" ^C00
+Flowers grow along righteous paths.
+Also ^Cb61-UP ^C00to the right of the exit!
+
+^PAGE 3
+^G15,16,5
+^Cb4MORE OF MY STUFF
+^c11_ ^C00If you like my silly
+"style" and want 
+more, you can find 
+most of my music,
+videos, drawings &
+streaming content 
+by going to this link:
+^C01https://linktr.ee/stellankarlsson
+^c13(sadly clicking the screen won't work)
+^c11_ ^C00For business inquiries or if you are 
+completely stuck in the game, you 
+can contact me at ^C01SGAK@mail.com
+
+^c11_ ^C00Press ^C27escape ^C00to leave. 
+^E

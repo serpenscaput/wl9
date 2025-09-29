@@ -1,0 +1,48 @@
+^PAGE 1
+^G15,16,5
+^Cb4WOWSERS McBOWSERS!
+^C00You got attacked by 
+many a big plastic duck. An abundance 
+one might say! :-)
+Also a ^C01blue boombox? ^C00
+BUT you prevailed!!!
+ ^C24Foofy 1    ^C2ADucks 0 ^C00
+But that's more than enough waffling, 
+let's get right into thiiings... ^C11Alex? ^C00
+So, what's next? 5 other missions are
+waiting for you, if you're up for it?
+
+The next page offers a few ^C20hints ^C00
+sponsored by ^C0FWhiteOut Athletics ^C00
+^PAGE 2
+^G15,195,4
+^Cb4SECRETS & HINTS! 
+^c80CHAPTER 2, LEVEL 1 ^c3a
+"Guiding Shrooms" ^C00
+Check the megaphone 
+room at the beginning!
+
+^cd0CHAPTER 4, LEVEL 1 ^c55"Back Gardens" ^C00
+A secret exit behind the regular exit
+
+^cb5CHAPTER 5, LEVEL 2 ^c80"44 Guest Rooms" ^C00
+First pushwall 2 rooms from the exit...
+
+^cd0CHAPTER 6, LEVEL 1 ^ca6"CAN-ga Line" ^C00
+Near a weapon in room with 14 ^C1aBiteys
+^PAGE 3
+^C00MORE TEXT? WELL APPARENTLY... ^C00
+^C1fThere is also text on this 
+^C1epage, informing you about 
+^C1dthe text you are reading. 
+^C1cAre you still reading? 
+^C1bPress ^C27escape ^C1bto leave. 
+
+^C1a...did you not hear me? 
+^C19You are allowed to leave this page!
+^C18Then why oh why do you linger? 
+^C17Why are you looking at me like that? 
+^C16I don't feel safe!!! 
+
+^C15HEEELP! 
+^E

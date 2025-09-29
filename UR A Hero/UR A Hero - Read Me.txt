@@ -1,0 +1,65 @@
+===========================================================================
+Advanced engine needed : Wolf4SDL
+Primary purpose        : Single play
+===========================================================================
+Title                  : UR A Hero
+Filename               : urahero
+Release Date	       : 4/1/25
+Author                 : Justy Zam/Justy&Raymond
+Email Address          : justyzam@gmail.com
+
+			 
+===========================================================================
+* What is included *
+
+New levels              : 3
+New Sounds              : Yes
+New Music               : Yes
+Graphics                : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+* Additional material & their sources*
+
+Brighter dungeon walls  : Giorgio's wallpacks
+Macenwolf walls		: BJ Rowan
+Improved officer set	: Architect
+Medkit & Dual Neutron
+Disruptor		: Jam Software/Blake Stone 
+Blake Stone music	: Jam Softawre/Bobby Prince
+Tester			: Nep/Reddimus
+
+
+* Play Information *
+
+Game                    : Wolfenstein 3D
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Registered Wolfenstein 3D (WL6)
+May Not Run With        : DOS (sorry :/)
+Tested With             : SDL
+Made using		: Chaosedit (Chaos Software) & WDC (Adam Biser)
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+UD REEAAA!
+Iltam zumra rashupti elatim. Littaid belet nisi rabit igigi. Ishtar zumra rashpti ilatim,litted belet issi rabit igigi!
+Shat mereshim mohammed lashat, zadmat imbiem ikram ukuzbump.
+(There is a mod that is made from the best quality copper)
+
+* Where to get the file that this text file describes *
+
+Ur City, Sumer, 3,300 BC

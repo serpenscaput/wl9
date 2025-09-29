@@ -1,0 +1,798 @@
+^P
+
+^P
+
+^C77 Table of contents:  	 	^> ^C77 =THE STORY SO FAR=
+			 	 	^> 
+^C0f 1) Rising Thunder   	 	^> ^C11 The year is ^C45 1977...
+			 	 	^> ^C11 It's been ^C45 22 ^C11 years 
+^C11 The Story......Pg 2  	 	^> ^C11 since Hitler's end.
+^C11 Gameplay........Pg 4 	 	^> 
+^C11 Weapons..........Pg 9   		^> ^C11 In rural Brooklyn,
+^C11 Items...............Pg 15      	^> ^C11 one of his many
+^C11 Enemies...........Pg 20   		^> ^C11 illegitimate sons has
+^C11 Bosses.............Pg 31 		^> ^C11 made a name for
+ 			 		^> ^C11 himself as a suave
+			 		^> ^C11 coke Kingpin.
+^C0f 2) More Tapes ^C00		 	^> 
+			 		^> ^C11 His name is Adolf
+^C11 Catalogue......Pg 40.4 		^> ^C11 Funkler. Using his
+^C11 Order..............Pg 52		^> ^C11 coke money, he will 
+			 		^> ^C11 bring the 4th Reich. 
+ 
+^P
+
+^C11You are officer ^C45 BJ	 	^> ^C11 Against the orders
+^C45Kickasskowicz. ^C11 You		^> of the Chief, you
+^C11are the loosest a	 		^> are going to take
+^C11loose cannon could	 		^> Funkler down, and
+^C11ever be. You eat	 		^> end his drug-fueled
+^C11napalm, shit glory,	 		^> domination plans!
+^C11and treat the Code	 		^> 
+^C11of Conduct more 	 		^>
+^C11like a Suggestion of 		^>
+^C11Conduct.		 		^> As Funkler has your
+			 		^> entire district in his
+			 		^> pocket, none would
+			 		^> even dare to help
+			 		^> you and your mission
+			 		^> might have some
+			 		^> nasty consequences
+			 		^> to deal with later.
+^G123,8,5
+^G72,155,6
+
+^P
+
+^C45 But you don't care.	 	^> ^C77 = THE GAMEPLAY =
+^C11 All that concerns	 		^>
+you right now is	 		^> Let's just get to
+sending that 		 		^> the point. Every
+corrupt mustached	 		^> enemy shoots ^C45 only
+^C11 bastard down to		 	^> ^C45 projectiles ^C11 now.
+the morgue so the	 		^> Forget the hitscan.
+city can rest easy.	 		^> ^C30 (There's only one
+			 		^> exception to this,
+			 		^> but that's for later)
+			 		^> ^C11
+			 		^> If you take damage,
+			 		^> the only way to heal
+			 		^> is by beating the
+					^> level you're on. The
+			 		^> amount of HP also
+			 		^> depends on difficulty.
+^G101,20,7
+^P
+
+^C77 Difficulty level 1:
+^C11 -Start with ^C45 3 HP
+^C11 -Ammo caps at ^C45 250
+^C11 -Slow projectiles
+
+^C70 If you have a fear
+of challenges, lack
+a spine, or are an
+actual chicken, then
+this difficulty is
+just right for your
+ultra-wimpy ass.
+
+Bet you can't lift
+a pencil without
+help, either.
+
+^G58,155,8
+^P
+
+^C77 Difficulty level 2:
+^C11 -Start with ^C45 2 HP
+^C11 -Ammo caps at ^C45 500
+^C11 -Regular speed
+projectiles
+
+^C70 Maybe you aren't
+a giant pussy, but
+your knees still
+buckle under the
+lightest pressure.
+
+If I were you, I'd
+reconsider my life
+choices right away.
+Like ASAP.
+
+^G58,155,9
+^P
+
+^C77 Difficulty level 3:
+^C11 -Start with ^C45 1 HP
+^C11 -Ammo caps at ^C45 750
+^C11 -Fast projectiles
+
+^C70 Now THIS is a real
+challenge! You might
+just have guts in
+you if you choose
+this difficulty.
+
+'Nuff said.
+
+^G58,155,35
+^P
+
+^C27 Difficulty level 4:
+^C11 -Start with ^C38 1 HP
+^C11 -Ammo caps at ^C38 999
+^C11 -Hitscanners only
+
+^C30Nope, not even
+I would dare pick
+this one. Hitscan is
+bad enough, but
+JUST 1HP?
+
+If you try playing
+the game like this,
+then you're either
+crazy, have a		 		^> ^C27 *Dramatization.
+^C30 deathwish, or both.
+
+^G58,155,36
+
+^P
+
+^C77 = THE WEAPONS = 	 ^>^C11 The following pages
+			 ^>will describe in
+If you're gonna		 ^>further detail the
+be personally bustin 	 ^>weapons of mass
+down the door of	 ^>massacre that you
+the 2nd most		 ^>will be using to 
+influential man on	 ^>give your enemies
+this side of the	 ^>the status of 
+country, it's better	 ^>"formerly alive", and
+to come prepared.	 ^>also their upgrades,
+			 ^>that can be found
+Your arsenal is a	 ^>around the place.
+little unorthodox,
+but it's just right
+for a job like this.
+Or maybe it's not.
+Who knows?
+
+^G139,170,37
+^P
+
+^C77 = THE WEAPONS - 1= 	 ^>= THE WEAPONS - 1=
+^C45 = The Kick		 ^>= The Shuriken
+
+^C11 The better one of 	 ^>Small metal stars,
+your left legs, it	 ^>that can instantly
+deals more damage	 ^>kill nonboss enemies.
+than the standard	 ^>They can go through
+knife, and has 		 ^>5 enemies, and 
+almost double the	 ^>bounce off of walls
+reach. It's perfect	 ^>5 times before
+for long-distance	 ^>they break.
+corner stabs/kicks.	 ^> ^C70 Dropped by the pink
+			 ^>VIP Guard.
+			 ^>
+			 ^>
+			 ^>
+^G160,36,23
+^G160,190,142
+^P
+
+^C77 = THE WEAPONS - 2=	 ^>= THE WEAPONS - 2=
+^C45 = The Pistol	 ^>= Upgraded Pistol
+
+^C11 A relatively basic	 ^> ^C70 Obtained after 
+^C11 sub-machine pistol, ^> ^C70picking up a pistol
+^C11 with an average 	 ^> ^C70upgrade kit.
+^C11 firing speed, with	 ^>The pistol is now
+an added silencer. 	 ^>fully automatic and
+Damage is about the	 ^>fires much faster.
+same as your basic	 ^>Damage is still the
+starting pistol.	 ^>same, however.
+
+^G160,36,143
+^G160,190,144
+^P	
+		
+^C77 = THE WEAPONS - 3=	 	^>= THE WEAPONS - 3=
+^C45 = The Machinegun	 	^>= The Shotgun
+
+^C11 Not much different	 	^>^C70 Replaces the
+^C11 from the classic	 	^>^C70 machinegun as the
+^C11 machinegun wielded 	 ^>^C70 slot 3 weapon. ^C11 Fires
+by the SS back in	 	^>4 projectiles in ran-
+the day. The only	 	^>dom angles between
+notable difference	 	^>- 20 to 20 degrees.
+is a slightly faster	 	^>Reloading it takes a
+firing speed. ^C70 Found	^>^C11 good few moments,
+^C70 on the tough mooks.	^>^C11 so time your shots
+			 	^>very carefully. Drop-
+			 	^>ped by the shotgun
+			 	^>mooks.
+
+^G160,36,145
+^G160,190,146
+^P
+
+^C27 = THE WEAPONS - 4=	 	^>
+^C38 = THE PILEDRIVER	 	^C11^>grunts included.
+			 	^>If the projectile
+What happens when	 	^>successfully reaches
+you comission a		 	^>the 3-tile mark, it
+mad scientist to	 	^>will release a flurry
+design a grenade	 	^>of projectiles in a
+launcher for you?	 	^>clockwise direction
+This. You get this.		^>thrice, then stop.
+			 	^>
+The Piledriver fires 	 	^>^C27 BE WARNED:
+^C11 a single projectile 	^>^C45 Its projectiles will
+^C11 that travels a 		^>^C45 hurt ^C27 you ^C45 as well as
+^C11 distance of 3 tiles, 	^>^C45 the enemy. ^C38 It also
+^C11 and deals enough	 	^> ^C38 eats up one fifth
+^C11 damage on to kill	 	^> ^C38 of your ammo per
+^C11 any nonboss enemy,	 	^> ^C38 each shot.
+
+^P
+
+^C27= THE WEAPONS - 4=
+^C38 = THE PILEDRIVER
+
+^C11 When equipped, it 
+will also make a
+lot of noise. The
+noise will not 
+alert enemies, but
+it can be a little
+distracting. 
+
+There's only one in
+the whole game,
+and it's also hidden.
+Good luck finding it.
+:^)
+
+^G0,145,147
+^P
+
+^C77 = THE ITEMS =
+
+^C11 Scattered across 
+the complex are a
+variety of items,
+which might be of
+help on your quest.
+
+^C45 1) Small ammo clip:
+^C11 -Red: Gives 8 ammo;
+-Pink: Gives between
+4 to 10 ammo;
+
+^C45 2) Big ammo clip:
+^C11 -Gives between
+25 to 30 ammo;
+
+^G0,145,148
+^P
+
+^C77 = THE ITEMS =
+
+^C45 3) Ammo box:
+^C11 -Gives 50 ammo;
+
+^C45 4) Ammo sphere:
+^C11 -Gives 500 ammo;
+
+^C45 5) Shotgun shells:
+^C11 -Give 4 ammo;
+
+^C45 6) Coke brick:
+^C11 -Makes your kick
+rapid fire;
+
+^G0,145,148
+^P
+
+^C77 = THE ITEMS =
+
+^C45 7) Wad of cash:
+^C11 -Gives 100 points;
+
+^C45 8) Stack of cash:
+^C11 -Gives 500 points;
+
+^C45 9) Gold bar:
+^C11 -Gives 1000 points;
+
+^C45 10) Suitcase:
+^C11 -Gives 5000 points;
+
+^C45 11) Weapon pickups:
+^C11 -Give weapons (duh).
+
+^G0,145,148
+^P
+
+^C77 = THE ITEMS =
+
+^C45 12) Shuriken box:
+^C11 -Gives 4 shurikens;
+
+^C27 WARNING: ^C11 You won't
+be able to pick up
+more shurikens until
+you run out of any
+you might already
+have!!!
+^C45 Example: ^C11 If you
+have 2 left, you
+can't pick up more
+until you use up
+the 2 you already
+have.
+
+^G0,145,148
+^P
+
+^C77= THE ITEMS =
+
+^C45 13) Pistol Kit:
+^C11 -Upgrades your
+pistol to the new
+and improved 
+FULL-AUTO SUPER
+PISTOL!
+
+^G0,145,148
+^P
+
+^C77 = THE ENEMIES =
+
+^C11 Funkler has hired a 
+varied cast of 
+bastiches to keep
+the place free of
+intruders.
+
+Especially intruders
+like you who seek
+to take him down.
+
+^G0,145,157
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 1 - Mooks =
+
+^C11 Your basic bunch
+of cannon fodder.
+Might be just a
+little crazy.
+
+^C45 1) Regular mook:
+^C11 Your average Joe
+with a pistol;
+
+^C70- Fires 1 shot;
+- Very weak;
+- Drops red ammo
+clip on death.
+
+^G0,145,149
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 1 - Mooks =
+
+^C45 2) Tough mook:
+^C11 Average machinegun
+enjoyer;
+
+^C70 - Fires 4 shots;
+- Very tough;
+- Drops machinegun
+or big ammo clip on
+death.
+
+^G0,145,149
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 1 - Mooks =
+
+^C45 3) Shotgun mook:
+^C11 BALD! BALD! BALD!
+
+^C70 - Fires 4 scattered
+shots;
+- Tough;
+- Drops shotgun or
+shotgun shells on
+death.
+
+^G0,145,149
+^P
+
+^C77 = THE ENEMIES = 
+^C45= 2 - VIP Guards =
+
+^C11 Are they strippers?
+Are they actual
+bodyguards?
+Are they both?
+Who knows?
+
+One thing's for
+certain- they'll
+kill you if you don't
+deal with them
+quickly enough.
+
+^G0,145,150
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 2 - VIP Guards =
+
+1) Katana guard:
+^C11 The greater of two
+whorevils.
+
+^C70 -Uses melee;
+-Very weak;
+-Super fast;
+-Silent;
+^C28 -She will DODGE
+ALL YOUR GUNFIRE!
+DEAL WITH HER USING
+MELEE OR SHURIKENS!
+^C70-Drops a wad of 
+cash on death.
+
+^G0,145,150
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 2 - VIP Guards =
+
+2) Shuriken guard:
+^C11 The lesser of two
+whorevils.
+
+^C70 -Throws somewhat
+fast shurikens;
+-Kinda weak;
+-Fast;
+-Also silent;
+-Can't dodge;
+-Drops a wad of 
+cash, and a box
+of shurikens on
+death.
+
+^G0,145,150
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 3 - The Grunts =
+
+^C11 Not as easy as the
+mooks, and not as
+hard as the bosses,
+the grunts stand
+as the mini-bosses
+of this mess.
+
+And of course, they
+come in 2 variants:
+melee & long-range.
+
+^G0,145,151
+^P
+
+^C77 = THE ENEMIES = 
+^C45= 3 - The Grunts =
+
+1) Impersonators:
+^C11After The King's un-
+timely death, many
+impersonators swit-
+ched to star Tony
+Manero instead.
+Some could not pull
+the look off, and 
+were instead hired
+by Funkler.
+
+^C70 -Very tough;
+-Uses melee;
+-Kinda slow;
+
+^G0,145,151
+^P
+
+^C77 = THE ENEMIES = 
+^C45= 3 - The Grunts =
+
+2) Gun Punks:
+^C11 Lowlife scum armed
+with guns.
+Just smart enough
+to use pistols, but
+not enough for any-
+thing better.
+
+^C70 -Very tough;
+-Uses gun;
+-Kinda slow;
+
+^G0,145,151
+^P
+
+^C77 = THE ENEMIES = 
+^C45 = 4 - The Balls =
+
+^C11 Certain disco balls
+around the place
+have been modified
+with built-in flamer
+cannons.
+
+^C70 When active, they
+will start firing
+flame shots in an
+X-shape.
+Keep in mind only
+SOME are like this,
+not all. Save your
+ammo until certain.
+
+^G0,145,152
+^P
+
+^C77= THE BOSSES =
+
+^C11 The platter of
+big cheeses, that
+run the show in
+this concrete shit-
+hole.
+All ruthless,
+all bastardly,
+all under Funkler's
+thumb.
+
+They won't give up
+unless either you,
+or they, are dead.
+
+^G0,145,157
+^P
+
+^C77 = THE BOSSES = 
+^C45 = 1 - Monroe Jr. =
+
+^C11 Son of an infamous
+colonel, who much
+like his dad, had
+his legs blown off
+from an explosive.
+He may be legless,
+but he'll leave you
+breathless.
+
+^G0,145,153
+^P
+
+^C77 = THE BOSSES = 
+^C45 = 2 - Dr.Dali =
+^C45 = & SL-VDR =
+
+^C11 Crazy argentinian
+scientiest and a
+close friend of
+Funkler, who once
+helped his dad
+flee to Argentina.
+He doesn't believe
+in the mooks'
+protection, so he
+keeps his robot
+assistant, SL-VDR
+close by.
+
+^G0,145,153
+^P
+
+^C2a= THE BOSSES =
+^C45= 3 -  Funkler's=
+^C45= Syndicate =
+
+^C11 A group of elite
+wackos of various
+backgrounds, who
+act as Funkler's
+personal assassin
+squad.
+
+They always move
+in a group, so god
+help you if you
+cross paths with
+them all.
+
+^G0,145,154
+^P
+
+^C2a= THE BOSSES =
+^C45= 3.1 - An Imp =
+^C45= called "Per Say" =
+
+^C11 Assassination is his
+side hustle. His main
+one is... Well, the
+outfit he's got
+ought to be a dead
+giveaway.
+
+His flameballs are
+slow, but super-
+deadly, so you bet-
+ter watch out.
+
+^G0,145,154
+^P
+
+^C2a= THE BOSSES =
+^C45= 3.2 - The Angel =
+^C45= of Meth =
+
+^C11 Even less human 
+than Per Say,
+but still a use-
+ful asset to the
+big man, since he
+can conjure Crystal
+goodness out of
+thin air. His gun
+fires magic rokets,
+which have a big
+area of effect.
+
+^G0,145,154
+^P
+
+^C2a= THE BOSSES =
+^C45= 3.3 -  The Face =
+^C45= of Death =
+
+^C11 Dal-I's precursor,
+made of spare bits
+and bobs.
+
+His absurd looks
+make fighting easy,
+as his victims are
+too busy laughing
+at him to fight
+back. His chainguns
+are fast, but
+super inaccurate.
+
+
+
+^G0,145,154
+^P
+
+^C2a= THE BOSSES =
+^C45= 3.4 -  Jillna of =
+^C45= the Concrete =
+
+^C11 Trainer and leader
+of the bodyguards.
+Fast, silent, and
+wields a magical
+sword. Sadly for 
+her, she's just
+as weak as her
+subordinates.
+Sadly for you,
+she can still
+dodge all your
+attacks.
+
+^G0,145,154
+^P
+
+^C2a= THE BOSSES =
+^C45= 3 -  Funkler's=
+^C45 = Syndicate =
+
+^C11 They are currently
+all away on a 
+mission, and things
+will get real bad
+real fast if they
+come back and find
+you in their home, 
+killing their friends
+and family.
+
+^G0,145,154
+^P
+
+^C77 = THE BOSSES =
+^C60 = 4 - A. Funkler=
+
+^C11 Drug Kingpin and
+son of Hitler, he
+rules his drug em-
+pire with a garish
+golden fist. Despite
+his looks, he's just
+as tough, if not
+tougher than his old
+man, so be ready
+for a hard fight.
+
+^G0,145,155
+
+
+
+^P
+
+^C45 = SPECIAL THANKS =
+^C45 = GO TO: =
+
+^Ca5 1) KS-PRESTO: ^C00
+^C11 For helping me out
+with the code of
+this mess.
+(Fun fact: He called
+it "worse than the
+ROTT source"!)
+
+^C60 2) GEROLF:
+^C11 For his stellar and
+in-depth playtest of
+the mod. I owe you
+one, man.
+^G0,145,156
+^P
+
+^C45 = SPECIAL THANKS =
+^C45 = GO TO: =
+
+^C04 3) JUSTY ZAM: ^C00
+^C11 For making map 2.
+This mod needed 
+a bit of variety,
+and he succeeded
+in adding some.
+
+^C00 4) YOU:
+^C11 For even bothering
+with this mess.
+ 
+
+
+^G0,145,156
+^P
+
+^C70 And that's about it!
+You are now more
+than ready to play
+(maybe even enjoy)
+Rising Thunder!
+
+^C45 For a list of stuff
+taken from other
+sources, refer to
+CREDITS.txt
+
+
+^G0,145,156
+^E	

@@ -1,0 +1,672 @@
+^PAGE 1
+^cB4DEFAULT CONTROLS:
+
+^c11_ ^cBcCtrl ^c00Attack ^c11_ ^cBcAlt ^c00Strafe 
+^c11_ ^cBcSpace ^c00Open ^c11_ ^cBcShift ^c00Run 
+
+^c00> ^c85OPTIONS ^c00in main menu to customize!
+
+^c11__ ^cB4F1 ^c00This page
+^c11__ ^cB5F2 ^c00Save ^c1a(F8 QuickSave)
+^c11__ ^cB6F3 ^c00Load ^c1a(F9 QuickLoad)
+^c11__ ^cB7F4 ^c00Sound menu
+^c11__ ^cB8F5 ^c00Resize view window
+^c11__ ^cB9F6 ^c00Controls
+^c11__ ^cBAF7 ^c00End current game
+^c11_ ^cBBF10 ^c00Exit
+
+Read on for useful hints etc.
+^PAGE 2
+^G16,220,97
+^cBDTABLE OF CONTENTS
+
+^cBCBACKSTORY : ^c003
+^cBBFOOD & AMMO : ^c004
+^cBATREASURES : ^c005
+^cB9GOOD TO KNOW : ^c006
+^cB8CONTROL SETUP : ^c007-8
+^cB7STAGE LIST : ^c009-14
+^cB6DIFFICULTY SETTINGS : ^c0015
+^cB5HINTS : ^c0016-28
+^cB4CONCLUSION : ^c0029
+^cB3THANK YOU : ^c0030
+
+^c02ID SOFTWARE ^cB3: ^c0031-36
+^c13(makers of Wolfenstein 3D)
+
+^PAGE 3
+^G16,16,3
+^c00< This face belongs to
+^cBcFoofy Fooferson, ^c00a round 
+and happy queer fjonk. 
+^c11_ ^c00One kinda fateful day, 
+Foofy became completely 
+inundated with cursed 
+sentient objects such 
+as ^c39rubber ducks, ^c8aspray-
+cans ^c00and ^c25megaphones! 
+^c11_ ^c00Help Foofy declutter ^c82Funtime Land ^c00
+by bonking, honking, bubbly-ubbling and 
+squirting the condiments of ..justice?
+
+^c11_ ^c7cBubbles ^c00are ammo. ^cb8Berries & fruits 
+^c00refill your health, because ^cB5yummy ^c00
+^PAGE 4
+^G22,200,12
+^cB4FOOD:
+^c11_ ^cBEApples ^c00refill 4% of 
+your health, ^cBdcherries 
+^c0010% and ^cBcwatermelon 
+^c00refills a whopping 25%!
+
+^cB4AMMO KABLAMMO:
+^c11_ ^c00One ^c7cbubble ^c00contains ^c7c8 ^c00pieces of 
+ammo, unless it's dropped by a foe, in 
+which case it only gives you ^c7c4 ^c00..aaw
+^c11_ ^c00Switch weapons with the 1-4 keys 
+(bonk, honk, auto-pop & rapid sploot). 
+
+^c11_ ^c00Using ^c21ketchup ^c00& ^c3amustard ^c00(WPN #4):
+^c00short bursts saves ammo. Just sayin'
+
+^PAGE 5
+^G18,190,4
+^cB4TREASURES / SCORING:
+^cB6COIN ^c00100 pts
+^cB8MONEYPOT ^c00500 pts
+^cBAGIFT ^c001000 pts
+^cBCDIAMOND ^c005000 pts
+
+^c39DUCK ^c00100 pts ^c15BITEY ^c00200 ^c8aSPRAY CAN ^c00400 
+^c79DIAMOND ^c00500 ^c25MEGAPHONE ^c00700 ^c69CLOWN ^c002000
+
+^c11_ ^c00You get a ^cBE1UP ^c00every ^cBE40,000 ^c00pts, 
+so collect those floopy treasures!
+^c11_ ^c00If you're lucky, you can find a 
+stray ^cBE1UP ^c00but they're super rare!
+^c00You can't have more than 9 lives tho
+^c13Much like a cat. Meow, purr etc. ^c00
+
+
+
+^PAGE 6
+^cB4GOOD TO KNOW:
+^c11_ ^c00Some walls can be pushed in order 
+to reveal ^cBEsecret rooms ^c00... sometimes
+there's even a ^c0Fglittery shimmer ^c00near 
+where secrets are hidden. 
+
+^c11_ ^c00It's worth mentioning that paintings 
+of ^c69clowns ^c00sometimes signify ^c21DANGER! ^c00
+^c11_ ^c00Speaking of danger; baddies do more 
+damage when they are close to you.
+^c13(and vice versa)
+
+^c11_ ^c00Each chapter contains not only 8 
+levels and a ^c4eBOSS STAGE ^c00but also a 
+^cBeSUPER ^cBdDUPER ^cBcSECRET ^cBbHIDDEN ^cBaLEVEL ^cb9(!!!)
+
+^PAGE 7
+^cB4CONTROL SETUP:
+^c11_ ^c00I ^c29highly ^c00recommended that you 
+customize the controls to suit your 
+playstyle before playing for the first 
+time! You can map ^c29keyboard + mouse 
+^c00and ^c29gamepad ^c00buttons by going to the
+^c85OPTIONS ^c00menu, then ^c85CONTROL SETUP ^c00and 
+^c85CUSTOMIZE CONTROLS! ^c00 You'll thank me!
+^c11_ ^c00There's also an ^c29AUTOMAP ^c00hotkey!!!
+Just SCROLL DOWN, ^c00past slots 0-9 etc.
+More ^c29Automap ^c00stuff under ^c85OPTIONS ^c00
+
+^cB4IMPORTANT: 
+^c11_ ^c00Connect a gamepad before starting
+the game! Toggle ^c29joystick enabled ^c00ON
+
+^PAGE 8
+^cB4CUSTOM ^c04CONTROL MAPPING ^cB4SUGGESTIONS: 
+^c80Key ^c85Keyboard ^ccaMse ^ccfMouse ^ca6Joy ^cacGamepad
+
+^c04FORWARD/BACKWARD ^c80Key ^c85W/S ^ca6
+^ca6Joy ^cacA1U/A1D ^c07Left joystick UP/DOWN
+^c04STRAFE ^c21(crabwalk) ^c04Left/Right ^c80Key ^c85Q/E ^ca6
+^ca6Joy ^cacA0U/A0D ^c07Left joystick LEFT/RIGHT
+^c04TURN ^c21(look around) ^c04Left/Right ^c80Key ^c85A/D ^ca6
+^ca6Joy ^cacA3U/A3D ^c07Right joystick LEFT/RIGHT
+
+^c04ATACK ^ccaMse ^ccfMS0 ^ca6Joy ^cacASD ^c07RightTrigger
+^c04USE/open ^ccaMse ^ccfMS1 ^ca6Joy ^cacJY0 ^c07Right btn
+^c04NEXT/PREV WPN ^ca6Joy ^cacJY10/JY9 ^c07RB/LB
+
+^c04AUTOMAP ^cacJoy JY4 ^c07Minus / select
+^PAGE 9
+^G16,16,42
+^c11_______________ ^c13* set exciter
+
+
+^c23CHAPTER 1: ^c80Boombox McGee
+^c801-1 ^c23The Back Garden ^c130:30
+^c801-2 ^c23Foofy Mansion 1 ^c132:00
+^c801-3 ^c23Symmetry Rooms ^c131:00*
+^c801-4 ^c23The Faux Pillars ^c131:30
+^c801-5 ^c23Locked Cabin 1 ^c131:00
+^c801-6 ^c23Foofy Mansion 2 ^c131:30
+^c801-7 ^c23Flowerpot Maze 1 ^c130:10
+^c801-8 ^c23Clown Rush 1 ^c130:10
+^c23BOSS: ^c80BOOMBOX MCGEE
+^c80SECRET: ^c23Darkness ^c11 next: 1-4
+^c11__________________________ ^c13STAGE LIST
+^PAGE 10
+^G16,16,43
+^c11______________ ^c13* it erects ex
+^c11_______________ ^c10* ^c13best scores
+
+^c3aCHAPTER 2: ^c80Banonkers!
+^c802-1 ^c3aGuiding Shrooms ^c131:00*
+^c802-2 ^c3aDining Halls ^c131:00
+^c802-3 ^c3aThe Library 1 ^c131:00 ^c10**
+^c802-4 ^c3aFour Gardens ^c130:20
+^c802-5 ^c3aThe Corridor ^c130:30
+^c802-6 ^cb4PinKdOoR=dAnGeR ^c132:30 ^c10* 
+^c802-7 ^c3aButterfly Cavern ^c130:30
+^c802-8 ^c3aHunted in Space ^c131:00
+^c3aBOSS: ^c80BLUE BANANA BOSS
+^c80SECRET: ^c3aShrooms = Safety ^c11 next: 2-2
+^c11__________________________ ^c13STAGE LIST
+^PAGE 11
+^G16,16,44
+^c11_______________ ^c13* recite sext
+
+
+^cA5CHAPTER 3: ^c64Clownface Face-Off!
+^c643-1 ^cA5The Huge Maze ^c131:30*
+^c643-2 ^cA5D6 Funhouse ^c131:00
+^c643-3 ^cA5303 ^c13^c133:03
+^c643-4 ^cA5House of Clowns! ^c130:40
+^c643-5 ^cA5Roomy Rooms! ^c130:40*
+^c643-6 ^cA5Slime Diamond ^c131:30
+^c643-7 ^cA5Garlandish ^c130:10
+^c643-8 ^cA5Clown Rush 2 ^c130:10
+^cA5BOSS: ^c64CLOWN FACE-OFF
+^c64SECRET: ^cA5Space Megaphones ^c11 next: 3-8
+^c11__________________________ ^c13STAGE LIST
+^PAGE 12
+^G16,16,45
+^c11______________ ^c13* test ex-rice
+
+
+^c56CHAPTER 4: ^cd0Snakey-Snoo's Domain
+^cd04-1 ^c56Back Gardens ^c130:30*
+^cd04-2 ^c56Strange Houses ^c131:30
+^cd04-3 ^c56Biomaze ^c131:00
+^cd04-4 ^c56Deja Vu ^c134:30
+^cd04-5 ^c56In and Out 1 ^c133:30
+^cd04-6 ^c56Two Paths ^c134:00
+^cd04-7 ^c5616 Rooms ^c131:00
+^cd04-8 ^c56In and Out 2 ^c131:40
+^c56BOSS: ^cd0SNAKEY-SNOO TIME
+^cd0SECRET: ^c56Pushwalls ^c11 next: 4-8
+^c11__________________________ ^c13STAGE LIST
+^PAGE 13
+^G16,16,46
+^c11_______________ ^c13* sit, excrete
+
+
+^c80CHAPTER 5: ^cb5Boombox Magoof!
+^cb55-1 ^c80The Forest ^c134:30
+^cb55-2 ^c8044 Guest Rooms ^c131:45*
+^cb55-3 ^c80Flowerpot Maze 2 ^c131:00
+^cb55-4 ^c80Purple Corridors ^c132:00
+^cb55-5 ^c80Locked Cabin 2 ^c130:30
+^cb55-6 ^c80Guiding Flutter ^c132:00*
+^cb55-7 ^c80Too Many Ducks 1 ^c132:30
+^cb55-8 ^c80Slime Dodger ^c130:10
+^c80BOSS: ^cb5BOOMBOX MAGOOF
+^cb5SECRET: ^c80Hidden Path ^c11 next: 5-8
+^c11__________________________ ^c13STAGE LIST
+^PAGE 14
+^G16,16,47
+^c11________________ ^c13* trisect.exe
+
+
+^cA6CHAPTER 6: ^cd0Hard Mode?
+^cd06-1 ^ca6CAN-ga Line ^c130:10*
+^cd06-2 ^ca6Wait, WHAT!? ^c130:10
+^cd06-3 ^ca6Too Many Ducks 2 ^c130:10
+^cd06-4 ^ca6Ducks N Crannies ^c130:30
+^cd06-5 ^ca6Pre-storm Calm ^c130:30
+^cd06-6 ^ca6The Library 2 ^c130:10
+^cd06-7 ^ca6Purple Bean ^c130:30
+^cd06-8 ^ca6The Back Garden? ^c131:00
+^ca6BOSS: ^cd0SNAKEY'S REVENGE
+^cd0SECRET: ^ca6Endless Corridor ^c11 next: 6-9
+^c11__________________________ ^c13STAGE LIST
+^PAGE 15
+^G27,16,31
+^G58,16,32
+^G96,16,33
+^G128,16,34
+^cB4How'd you like it?
+^c80EASY.. ^c00
+Very chill. Much easy! Still fun.
+
+^c8cPEASY. ^c00
+Same number of enemies, but 
+they hurt a little bit more..
+
+^ca6LEMON? ^c00
+More enemies. More ouchies. 
+
+^c21SQUEEZY! ^c00
+All of the enemies + they do a
+LOT of damage ^c21especially up close
+^c11______________ ^c13DIFFICULTY SETTINGS
+^PAGE 16
+^G16,260,42
+^c23CHAPTER 1: ^c80Boombox McGee
+^c11_ ^c00Easy does it! In the first 
+chapter, you may want to look 
+for patterns and then see if anything 
+breaks said pattern. For example: if 
+the level has two almost identical 
+rooms, what are the differences? 
+
+^c80LEVEL 1-1 ^c23The Back Garden ^c00
+^c11_ ^c00An open field where you can get to 
+know the controls. There are only 2-6 
+malicious plastic ducks to worry 
+about, depending on difficulty setting. 
+Can you 100% it & still get under PAR?
+^c11______________________________ ^c13HINTS
+^PAGE 17
+^G16,260,42
+^c80LEVEL 1-2 ^c23Foofy Mansion 1 ^c00
+^c11_ ^c00You'll need 2 keys. Secrets 
+are hidden in the butterfly 
+room & libraries. ^c21Beware the clown! ^c00
+
+^c80LEVEL 1-3 ^c23Symmetry Rooms ^c00
+^c11_ ^c00Any difference between left and 
+right? Deja vu may lead to a secret.
+
+^c80LEVEL 1-5 ^c23Locked Cabin 1 ^c00
+^c11_ ^cB4Pink key ^c00= shrooms ^c80Blue ^c00= flowers 
+
+^c80LEVEL 1-7 ^c23Flowerpot Maze 1 ^c00
+^c11_ ^c00Let potted plants lead the way!
+^c11______________________________ ^c13HINTS
+^PAGE 18
+^G16,260,43
+^c3aCHAPTER 2: ^c80Banonkers!
+^c80LEVEL 2-1 ^c3aGuiding Shrooms ^c00
+^c11_ ^c00In this lush forest, a trail 
+of mushrooms shall be your guide. 
+A loud foe might guard the secret.
+
+^c80LEVEL 2-3 ^c3aThe Library 1 ^c00
+^c11_ ^c00Coulrophobes might have a slight 
+advantage in this massive library! 
+^c11_ ^c00You might even run into that blue 
+banana-wielding maniac here!
+
+^c80LEVEL 2-4 ^c3aFour Gardens ^c00
+^c11_ ^c00What? A secret outer path???
+^c11______________________________ ^c13HINTS
+^PAGE 19
+^G16,260,43
+^c80LEVEL 2-5 ^c3aThe Corridor ^c00
+^c11_ ^c00Invincible creeps hide 
+behind some doors. Can you 
+tell which doors are safe to open?
+
+^c80LEVEL 2-6 ^cb4PinKdOoR=dAnGeR ^c04! ^c0c! ^c0e!
+^c11_ ^c02Oh ^c0dnO! ^c04tHe ^c05mUsHrOoMs ^c06iN ^c07LeVEL ^c081 
+^c09sEemS ^c0atO ^c01hAvE ^c0chAd ^c03HaLLuCinOGeNic 
+^c0epRoPeRtiEs! ^c0fyOu ^c10sHoULd ^c21bE ^c35fiNe ^c40aS ^c50LoNg 
+^c60aS ^c70YoU ^cB4> aVoiD tHe PiNk dOoRs < ^c68! ^c66! ^c64! ^c62! 
+^c01LeT ^c0etHoSe ^c32dUcKs ^c0asHoW ^c7FtHe ^c02wAy
+
+^c80LEVEL 2-8 ^c3aHunted in Space ^c00
+^c11_________________ ^c00...RUN! 
+^c11______________________________ ^c13HINTS
+^PAGE 20
+^G16,260,44
+^cA5CHAPTER 3: ^c64Clownface Face-Off!
+^c11_ ^c00If you thought the first 2 
+chapters were a bit too easy, 
+this one might offer more of a 
+challenge ...if you're up for it?
+
+^c64LEVEL 3-1 ^cA5The Huge Maze ^c00
+^c11_ ^c00Try not to get lost. Maybe you'll 
+manage to find a secret exit?
+
+^c64LEVEL 3-2 ^cA5D6 Funhouse ^c00
+^c11_ ^c00I know that D6 refers to a 6-sided 
+dice, but how does that relate to this 
+stage and its many rooms? Curious!
+^c11______________________________ ^c13HINTS
+^PAGE 21
+^G16,260,44
+^c64LEVEL ^cA5303 ^c00
+^c11_ ^c00Everybody needs a 303
+
+^c64LEVEL 3-5 ^cA5Roomy Rooms! ^c00
+^c11_ ^c00So many rooms, there's gotta be at 
+least one shortcut or secret exit?
+
+^c64LEVEL 3-7 ^cA5Garlandish ^c00
+^c11_ ^c00Is it true that you can finish this 
+stage in less than 10 seconds?
+
+^c64LEVEL 3-9 ^cA5Clown Face-Off ^c00
+^c11_ ^c00Could you sneak up on the Bubble 
+Clown through a secret room?
+^c11______________________________ ^c13HINTS
+^PAGE 22
+^G16,260,45
+^c56CHAPTER 4: ^cd0SnakeySnoo's Domain
+^c11_ ^c00Most stages in this chapter 
+have different environments 
+and challenges contained in individual 
+rooms. Like stages within stages ..ish
+
+^cd0LEVEL 4-2 ^c56Strange Houses ^c00
+^c11_ ^c0024 houses. Some hold treasure, 
+others deadly enemies. The exit is 
+behind one of the locked doors.
+
+^cd0LEVEL 4-3 ^c56Biomaze ^c00
+^c11_ ^c0048 rooms might seem excessive, 
+but luckily there are multiple exits.
+^c11______________________________ ^c13HINTS
+^PAGE 23
+^G16,260,45
+^cd0LEVEL 4-4 ^c56Deja Vu
+^c11_ ^c00This stage explores that 
+strange feeling we sometimes 
+get that we've lived through 
+something before, that what is 
+happening now has already happened.
+
+^cd0LEVEL 4-4 ^c56Deja Vu
+^c11_ ^c00This stage explores that strange 
+feeling we sometimes get that we've 
+lived through something before, that 
+what is happening now has already... 
+happened
+
+^c11______________________________ ^c13HINTS
+
+^PAGE 24
+^G16,260,46
+^c80CHAPTER 5: ^cb5Boombox Magoof!
+^c11_ ^c00This chapter revisits some 
+of the earlier stages, but 
+with an added level of difficulty. 
+Other stages offer brand new 
+challenges. One fun example is ^cb5LEVEL 
+5-7 ^c80Too Many Ducks 1 ^c00where each 
+room has one more duck than the 
+previous, making a total of ^c80136 ducks! ^c00
+
+^cb5LEVEL 5-2 ^c8044 Guest Rooms
+^c11_ ^c00Here's a hint: you'll need to push 
+12 walls (!) to find the secret exit.
+
+^c11______________________________ ^c13HINTS
+^PAGE 25
+^G16,260,46
+^cb5LEVEL 5-6 ^c80Guiding Flutter
+^c11_ ^c00First look where all of the 
+butterflies are headed, then 
+keep paying attention to the walls...
+
+^cb5LEVEL 5-8 ^c80Slime Dodger
+^c11_ ^c00Can't kill slime, just gotta avoid 
+contact (easier said than done)! The 
+exit is at the narrow end. Now ^c21RUN! ^c00
+
+^cb5LEVEL 5-9 ^c80Boombox Magoof
+^c11_ ^c00Like Boombox McGee from Chapter 
+1, but ^cb5pink ^c00and properly PISSED OFF
+Good luck!
+^c11______________________________ ^c13HINTS
+^PAGE 26
+^G16,260,47
+^cA6CHAPTER 6: ^cd0Hard Mode?
+^c11_ ^c00Stages that can all be 
+finished in between 10 to 30 
+seconds (except for the boss stage)... 
+IF you can find the super secret exit! 
+Otherwise you are quite possibly in 
+for a world of hurt. Just sayin'
+^c11_ ^c00This chapter also introduces walls 
+that you can walk through. They look 
+just like normal solid walls though. 
+
+^cd0LEVEL 6-1 ^ca6CAN-ga Line
+^c11_ ^c00It's like a conga line of spray cans. 
+The key to survival is patience...
+^c11______________________________ ^c13HINTS
+^PAGE 27
+^G16,260,47
+^cd0LEVEL 6-2 ^ca6Wait, WHAT!?
+^c11_ ^c00The first stage in which 
+you'll need to walk through 
+seemingly solid walls. The key to 
+success is, however... a literal key.
+
+^cd0LEVEL 6-5 ^ca6Pre-storm Calm
+^c11_ ^c00Who put up these fences? What do 
+they hide? Is there even a ^cB7pink ^c00key?
+
+^cd0LEVEL 6-8 ^ca6The Back Garden? ^c00
+^c11_ ^c00An open field where you can get to 
+know the controls? There are only 2-6 
+plastic ducks to worry about? Really?
+^c11______________________________ ^c13HINTS
+^PAGE 28
+^cB7CONCLUSION
+^c11_ ^c21Thanks for playing this game! 
+^c3APlease support the makers of the og 
+^cA5Wolfenstein 3D by buying their games. 
+
+^c11_ ^c47The sprites, maps, sound effects, 
+^c55music and text in this mod were all 
+^c65made by Stellan Karlsson ^c00( ^c21S ^cA5G ^c56A ^c80K ^c00)
+^c79https://linktr.ee/stellankarlsson
+^c80if you share this mod, plz gib credit
+
+^c11_ ^c8aSoftware used to make the mod 
+^cA6include: WDC (Wolf3D Data Compiler), 
+^cB4ECWolf, Blender, Aseprite & SLADE
+^PAGE 29
+^cB4THANK YOU
+^c00Finally, I want to say thank you to:
+
+^c00> ^cB4Simon ^c00& ^cB4PJ ^c00for playtesting/support.
+> The ^cB4Floop Squad ^c00for your words of 
+encouragement and for looking at 
+countless gameplay videos during the 
+development of this floopy mod.
+
+^c00> ^cB4YOU ^c00for playing the game
+
+^c00> ^cB4Foofy Fooferson ^c00for being a fjonk!
+
+
+(press ^c27ESC ^c00to return to the menu)
+
+^PAGE 30
+^c6fABOUT ^c02Id Software
+^c11_ ^c00The original game ^c6fWolfenstein 3D ^c00is 
+made by ^c02ID Software  ^c00released in 1992.
+
+^c11_ ^c00In order to play mods, you should 
+already have bought the game. If not 
+- do it ^c21NOW! ^c00(on Steam, GoG etc)
+
+
+
+
+
+
+
+^c11________________________ ^c13ID SOFTWARE
+^PAGE 31
+^c02Id Software is ^c00
+
+^c6dPROGRAMMERS ^c13(original game) ^c00
+^c00John Carmack
+John Romero
+
+^c6dARTIST
+^c00Adrian Carmack
+
+^c6dMANUAL DESIGN
+^c00Kevin Cloud
+
+^c6dCREATIVE DIRECTOR
+^c00Tom Hall
+^c11________________________ ^c13ID SOFTWARE
+^PAGE 32
+^c02Id Software is . . .
+
+^c6dCHIEF OPERATING OFFICER
+^c00Jay Wilbur
+
+^c6fCONTRIBUTORS
+
+^c6dCOMPOSER (original music)
+^c00Robert Prince
+
+^c6dADDITIONAL PROGRAMMING
+^c00Jason Blochowiak
+
+
+^c11________________________ ^c13ID SOFTWARE
+^PAGE 33
+^c02SPEAR OF DESTINY
+^c11_ ^c00This game boasts twenty levels, 4 
+tough bosses, plus new graphics & 
+music for the most amazing game yet!
+
+^c11_ ^c00The Spear of Destiny - legend has it 
+that with this spear no force may be 
+defeated in battle. 
+
+^c11_ ^c02FYI: Spear of Destiny is included 
+when you buy Wolfenstein 3D on Steam
+
+
+
+^c11________________________ ^c13ID SOFTWARE
+^PAGE 34
+^c6fFRIENDLY REMINDER
+^c11_ ^c00Episode One of the original game 
+was shareware. The other five 
+episodes were not. Please do not 
+distribute episodes two through six. 
+^c11_ ^c00Buy the game. It's often on sale, 
+but even when it's not, the price is 
+not steep for the amount of gameplay 
+
+
+
+
+
+
+^c11________________________ ^c13ID SOFTWARE
+^PAGE 35
+^c6fABOUT APOGEE ^c13(text from OG game) ^c00
+
+^c11_ ^c00Apogee's goal: to establish 
+themselves as the leading distributor 
+of commercial quality shareware 
+games. 
+
+^c11_ ^c00With enthusiasm and dedication, 
+Apogee thinks their goal can be 
+achieved. However, they need your 
+support. 
+
+^c11_ ^c00Shareware is not free software. 
+Buy the game. It's that simple.
+^PAGE 36
+^c11LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+^PAGE 37
+^G16,16,13
+^c11LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+^c00Fun fact: My own favorite levels are 
+^c231-6 ^c00, ^c3a2-1 ^c00, ^c3a2-6 ^c00, ^cA53-2 ^c00, ^c564-4 ^c00, ^c805-7 ^c00and ^ca66-8
+^PAGE 38
+^c11LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+^PAGE 39
+^c11LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+^PAGE 40
+^c11LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+LIM LIM LIM LIM LIM LIM LIM LIM LIM LIM
+^c14One last secret hint: 
+^c13in game, simultaneously press 3 
+buttons meaning glue in Swedish
+^E

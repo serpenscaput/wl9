@@ -1,0 +1,10 @@
+^P
+^G16,16,5
+^C7eMECHA 2-NZI FALLS!
+^C00
+It sparks and dies in front of you. It is now time to proceed on with your next mission, escaping Germany. However, there seems to be a little bit of backup plans, as you find yourself trapped in a room...
+^P
+^c7eTHE NEXT ADVENTURE AWAITS!
+^c00
+So don't wait . . . get out of there!
+^E

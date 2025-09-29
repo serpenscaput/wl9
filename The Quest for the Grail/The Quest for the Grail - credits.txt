@@ -1,0 +1,40 @@
+Spear of Destiny walls: Id Software
+Cellar walls: Ken O'Brien
+Cyan bricks: Id Software, JackaL
+Yellow bricks: Ken O'Brien, ArEyeP, Raven Software, Megabyte
+Kommando: Original sprite by doomjedi, edited by Captain J
+Scientist: WSJ
+Weapon Sounds: DICE
+Menu/pickup sounds: Rebellion
+Pistol, Knife, key, and SMG sprites: BeardedDoomGuy
+Officer Guard Hat: WSJ
+Unopenable Door:WoolieWool / Executor
+Extended Chaingun: Fox
+Explosion Sprites: Aurora
+Rifle Sprites: Jazzmaster9
+Paratroopers: Originally by WolferCooker, edited and reshaded by Jazzmaster9
+Hanging man in floor 1: Jazzmaster9
+Rifleman: Original sprite by FormGen, rifle and firing animation by WSJ, assembled by Executor, re-colourized by myself
+Base Game: ID Software
+Maps 1, 3, 5, 7- Boss Sprites and Concept: Justy Zam
+LZwolf Scripting - Maps 2, 4, 6, 8, 9, 10 - Story: Big Guy
+Pistol Sprites- BeardedDoomGuy 
+Knife and MP40 sprites -JoeyTD 
+Sound Work:Rebellion 
+Propaganda Minister:RussianStorm on Twitch and Youtube
+
+
+REGULAR Music:
+	> Porky's Pokies - Keiichi Suzuki, Hirokazu Tanaka
+	> Investigation ~ Opening 2011 - Noriyuki Iwadare
+	> Serious - Shogo Sakai
+	> Confrontation ~ Moderato 2011 - Noriyuki Iwadare
+	> Vs. Lancer - Composed by Toby Fox, Arrangement by ShinkoNet
+	> Cross Examination Allegro - Noriyuki Iwadare
+	> New Age Retro Hippie - Hiroshi Kanazu, Keiichi Suzuki, Hirokazu Tanaka
+	> _________ - Noriyuki Iwadare
+	> _________ - Noriyuki Iwadare
+	> CORE - Toby Fox
+	
+PABLO Music:
+	> Indiana Jones and the Fate of Atlantis Soundtrack
