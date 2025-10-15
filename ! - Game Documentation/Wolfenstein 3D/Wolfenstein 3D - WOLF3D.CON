@@ -1,0 +1,380 @@
+
+     =================================================================
+                -- WOLFENSTEIN 3-D CONFERENCE TRANSCRIPT --
+            The Gamers' Forum -- CompuServe Information Service
+                               May 23, 1992
+     =================================================================
+
+Nightie/HOST:  Welcome, everyone!  Tonight's conference is intended as an
+exchange between WOLFENSTEIN 3-D players and the game's designers.  Hints,
+strategy tips, technical help, etc. will be covered.  Our special guests
+include representatives of Id Software, designers of WOLF3-D as well as the
+two COMMANDER KEEN series games.  Id produces shareware games for
+IBM/compatibles.  Reps here tonight are:  Jay Wilbur, business and online
+support; John Carmack, software wizard of the group; John "Kill or be Killed"
+Romero, software engineer and resident WOLF3D expert (his best time for a
+game is 6:55); Tom Hall, creative director; and Kevin Cloud, artist/desktop
+publishing.  As a reminder, this is a formal conference.  If you're not
+familiar with the protocol, please read the FORMAL.CON file in Library 1
+(General/Help).  Now I'll begin by taking a list of questioners.  Anyone
+who'd like to ask a question, please signify now by entering a "?" on a line
+by itself. GA
+
+[At this point, a list of questioners was taken.]
+
+Nightie/HOST:  Okay, let's start with Brian.  GA, Brian!
+
+Brian Sauls:  Are you planning to use this technology with any other games?
+
+Id Software:  This technology is already way surpassed. We'll be using a
+modified version in the future for a gothic horror game -- VERY SCARY!
+
+Brian Sauls:  As a programmer, I can appreciate the work ya'll did.  I look
+forward to your next game.
+
+Nightie/HOST:  Mark Adams is up next.  GA, Mark.
+
+Mark Adams/SportSL:  I am quite impressed with the new game Wolfenstein 3-D!
+How do you see its use in other than "shoot-'em-up" type games?  Specifically
+adventure and RPG games? GA
+
+Id Software:  We could put viewscreens on the walls, computers, etc.
+Anything that would model a real world with a story around it.
+
+Nightie/HOST:  Okay, GA David.
+
+David E. Bork:  6:55?  What level was that on?  And what system was it on?
+
+Id Software:  The ENTIRE GAME was finished in 6:55 (Episode 1). On a 386/33.
+GA
+
+David E. Bork:  I meant what setting?  Can I play daddy?  Or I am Death
+Incarnate?
+
+Id Software:  That was on Bring 'Em On level using both mouse and keyboard. GA
+
+Nightie/HOST:  Okay, Mark Betz.  GA, Mark.
+
+Mark Betz/GD SL:  Hi, guys. Thanks for coming. First off, ritual congrats on
+an awesome piece of work.
+
+Id Software:  Thanks. GA
+
+Mark Betz/GD SL:  As you've noticed, I'm sure, the game got quite a reaction.
+I'd like to know if the comments about the game's violence has impacted you
+as designers?  Umm..._have_ impacted <g>.
+
+Id Software:  We just saw Lethal Weapon 3 and Alien3. We have judged Wolf3d
+as kinda wimpy compared to those modern-day entertainment vehicles.
+
+Mark Betz/GD SL:  I agree. Thanks for the response. GA
+
+Nightie/HOST:  I'd like to ask the guys from Id if they have a few comments
+in response to various technical problems I've seen raised on the board here.
+Since we're capturing a transcript of this conference, Id has an opportunity
+now to memorialize <g> some responses that they're probably tired of typing.
+GA
+
+Id Software:  Basically, all the tech problems have been fixed with version
+1.1.  We eliminated split-screen mode and got us a not-quite-compatible card
+and figured out any remaining technical bugs.  Thanks to everyone.
+
+[At this point, Id lost connection.]
+
+Nightie/HOST:  Okay, Id may be having a comm problem at the moment.  Let's
+give 'em a minute or two to get back online.  In the meantime, let's hear
+some quick opinions from players about the game.  Things you'd like Id to
+know.  Who's playing/finished, and what do you think?  GA
+
+Mark Betz/GD SL:  Nightie...I've finished twice, and I think it's a heck of a
+lot of fun.
+
+Nightie/HOST:  How fast, Mark? <g>
+
+Mark Betz/GD SL:  Nightie...umm, something on the order of 10:15:00 <g>.
+
+(\)ight(\/)ask):  Well, just thought I'd say that it definitely beats the
+originals, which I had beaten on the Apple. My only complaint is that the
+keyboard controls are way too touchy. That's it.
+
+Id Software:  CIM lost its mind.  We're back.  That 10:15 was most definitely
+a bug if you had re-loaded the game while playing.
+
+Nightie/HOST:  Thanks!  Okay, let's get back to formality.  Next up with a
+question is Dr. John.  GA.
+
+Dr John Linendoll:  Comment:  Murphy Brown vs. Arnold Schwarzenegger.
+Question:  Anything new on the German front? <g>  GA
+
+Id Software:  We are in an information vacuum, just like everybody else. As
+far as we know, it's not on the German-banned list. GA
+
+Dr John Linendoll:  Personally, do you feel the issue is one of sensitivity
+to symbols or one of violence?  GA
+
+Id Software:  Most likely, violence. GA
+
+Dr John Linendoll:  Thanks GA
+
+Nightie/HOST:  Okay, Mark Betz is up.  GA
+
+Mark Betz/GD SL:  I liked the "hollow-sounding wall" on level 10. Is that
+duplicated elsewhere in the game? GA
+
+Id Software:  What "hollow-sounding wall"? GA
+
+Nightie/HOST:  (Good one, Mark! <g>)
+
+Mark Betz/GD SL:  Oh, have I got a bug? On level 10, in the room with the
+Knight, you can see an empty square behind the Knight. Pounding on the wall
+in that vicinity you hear a definite change in tone. It sounds hollow <g>. I
+later found that the part behind the Knight was accessible from another room.
+GA
+
+Id Software:  That is a "pushable wall" that is not pushable from the
+position you're in when you're in the room with the knight.  It's a shortcut
+back from where the key is! GA
+
+Mark Betz/GD SL:  Pretty cool! I'm wondering why level 10 is accessible from
+level 1, and not from level 9. GA.
+
+Id Software:  Because we decided to make the Secret Level accessible from
+Level 1. GA
+
+Mark Betz/GD SL:  What a great reason! <g>>
+
+Id Software:  We just pick arbitrary numbers. GA
+
+Nightie/HOST:  Okay, ChrisR is next.  GA
+
+ChrisR:  From an engineering standpoint, how many man years did this take, do
+you use some third party libraries for anything, what compiler are you using,
+and you mentioned the technology for Wolf3d is old, how long have you been
+working on the "new" tech? GA
+
+Id Software:  This project was started on Dec. 15 and will be finished
+shortly.  It took roughly 5 months with 4 full-time guys working on it. We
+don't use ANY other libraries other than our own; we compiled with Borland
+C++ 3.0.  The technology took about 4 weeks to create. The New Tech took 4
+weeks as well to develop. GA
+
+Nightie/HOST:  Okay, next up is Crusader. GA
+
+Crusader:  I find that the basic stategy (once discovered) doesn't change
+much (lure guards to a doorway). Will there be any new "wrinkles" in the
+other 5 games? GA
+
+Id Software:  The new actors (mutants, officers, new bosses) take new
+strategies to conquer, but it's basically the same tactics. But -- you notice
+that you don't seem to stand in doorways very much when you're really P***ED!
+The other episodes are also incrementally tougher. GA
+
+Crusader:  WRT the speed you ran through the game (6:55) and the "par" for
+each level, this CAN'T include getting ALL the guards, treasures, and
+secrets, can it?
+
+Id Software:  No. This is getting to the elevator as FAST as you can! GA
+
+Crusader:  I ran lev 1 at "Daddy" and made it in 1:25 (going as fast as I
+could)!!  Right, what I thought. Thanks. GA
+
+Id Software:  It can be done in 25 seconds on Death Incarnate. GA
+
+Nightie/HOST:  Night Mask is up next.  GA
+
+(\)ight(\/)ask):  This may have been asked, but will there be versions of
+your games for the games systems, such as Genesis? GA
+
+Id Software:  Lynx! GA
+
+(\)ight(\/)ask):  Well...when you get a Genesis version, lemme know! :)
+Thanx!
+
+Id Software:  Genesis and Super Nintendo are sprite-based systems that don't
+handle texture-mapping very speedily.  GA
+
+Nightie/HOST:  Okay, why don't we just go informal now since we're a small
+group.  Brian can start.  If Id starts getting overwhelmed, I'll jump in <g>.
+GA Brian.
+
+Scott Miller:  Never done this before!
+
+Mark Betz/GD SL:  Hi, Scott! Welcome aboard!
+
+Brian Sauls:  Does ID software actually work in Texas (Garland)?
+
+Id Software:  Big time! GA
+
+Brian Sauls:  Why did ya'll choose to use Apogee for distribution?
+
+Id Software:  We've been working with Apogee for 2 years now. We didn't
+change anything! GA
+
+Brian Sauls:  I also am designing a game with a friend that was gonna compete
+w/ Apogee (ID!).
+
+Mark Betz/GD SL:  Brian...you've got your work cut out for you! <g>
+
+Mark Betz/GD SL:  Carmack-people... I've been wondering, did you have the
+artists produce wall segments at small detail, and scale them up, large
+detail and scale them down, or somewhere in the middle?
+
+David E. Bork:  Id, do you have any other games that aren't marketed by
+Apogee?
+
+Nightie/HOST:  Id has a couple of questions waiting, so others take your
+time, please.
+
+Id Software:  They were drawn at 64x64 size then scaled up/down in the game.
+By the way, our artist's last name is Carmack, too -- but no relation.
+
+Scott Miller:  Hi Kevin, can you read this, I have no idea what I'm doing! :)
+
+Nightie/HOST:  We see you, Scott.  Just hang in there <g>.
+
+Id Software:  AND that's Id, as in "DID"...not eye-dee! GA
+
+Mark Betz/GD SL:  Id...thanks for the info! The persping algorithms are
+beautiful! Did you do the rotations by mapping to a wire-frame?
+
+Brian Sauls:  No kidding! I thought about contacting ID to see if they needed
+more help.
+
+Id Software:  We have written LOTS of games that in the past 2 years that
+aren't marketed by Apogee! GFA
+
+Brian Sauls:  I also live/work in Carrolton, TX.
+
+Nightie/HOST:  Like what, Id?  GA
+
+Id Software:  Short, quick games for Gamer's Edge that helped us develop our
+tools and experience. They're published by Softdisk Publishing. Dangerous
+Dave II and Rescue Rover are some of our favorites. You've probably seen them
+on some pirate boards. GA
+
+Crusader:  Scott, you wanna drop a hint about the _one_ secret that won't be
+in the hint book (that you hinted at a couple of weeks ago)?? :)
+
+Scott Miller:  Crusader,  The secret that won't be in the Hint Book is about
+a *major* contest within the game regarding a secret area!
+
+Id Software:  We didn't map to wire frames. The engine is image-based rather
+than object-based. GA
+
+Brian Sauls:  When can we expect your next EXCITING game?
+
+Id Software:  Before Christmas, an awesome high-tech racing game -- a cross
+between the SNES F-Zero and Spy Hunter! With modem and Novell support! ga
+
+ChrisR:  Just Novell support? Why not other LANS too?
+
+Mark Betz/GD SL:  Scott.. please _do_ go on! <g>.
+
+Crusader:  Scott, I just LOVE hints like that!! <GG>
+
+Scott Miller:  The secret area is in one of the registered episodes, the
+first to discover it will get a ***BIG*** prize...that's all I can say now.
+<g>
+
+Crusader:  Scott, well, you better change how the maps are stored, cause
+otherwise it'll be a SHORT contest!
+
+Id Software:  RE: Novell -- working on other nets. GA
+
+ChrisR:  Hmmmm....
+
+Id Software:  WOW!  GOOD POINT! Time to "xxxxxx" the maps! GA
+
+Scott Miller:  I bet it'll be months before anyone finds the secret. We made
+it tough!!!
+
+Nightie/HOST:  Now that's a challenge, Scott! <g>
+
+Id Software:  Scott, there's a map printer OUT THERE! GA
+
+Scott Miller:  Jay, I know, what are we gonna do! <g>
+
+Crusader:  Not ONE map printer...TWO!!
+
+David E. Bork:  THREE
+
+Mark Betz/GD SL:  Cru... GAMERS has the best hackers, don't we <g>?
+
+Id Software:  What are they named?  EAT HOT-SCRAMBLED MAPS! GA
+
+Bill Holmes/Sports:  Sold to David Bork for Three! <g>
+
+Crusader:  Gee, Scott, you don't sound too worried. <g>
+
+Id Software:  Hack the maps after we toy with them! GA
+
+Crusader:  Mark, Right on! :)
+
+Mark Betz/GD SL:  Id... and another challenge! <g>.
+
+Scott Miller:  Ya gotta be register to win, though. hehe
+
+David E. Bork:  Scott...check the messages.  There are THREE versions in the
+GAMERS files. GA
+
+Id Software:  NO ONE WILL DECODE ID'S NEW MAPS! HA HAH HA HA HA! GA
+
+Crusader:  Scott, taken care of <g>
+
+Mark Betz/GD SL:  Id... Ha! you think a 128 bit CRC is enough! <g>.
+
+Nightie/HOST:  As long as Id can hack it!
+
+Crusader:  Id - a challenge like THAT is irresistible... <GGGG>
+
+Nightie/HOST:  Okay, I'm going to gavel this meeting to an official close.
+Anyone who'd like to receive SPOILERS via /SEN from Id can remain <g>.
+Thanks again for coming!
+
+Bill Holmes/Sports:  <yay ID>
+
+Dr John Linendoll:  Thanks Jay, Scott, everyone.  Nice meeting.
+
+Id Software:  HAVE FUN WITH THOSE MAPS! 64-BIT KEY!
+
+Mark Betz/GD SL:  Great CO, everyone! Have an excellent Memorial Day!
+
+Nightie/HOST:  <clap clap clap>  And a safe one!
+
+Crusader:  Party! ;)
+
+Bill Holmes/Sports:  Don't drink and game.
+
+Mark Betz/GD SL:  GUTEN TAG!
+
+Brian Sauls:  (Hard disk crash)
+
+Dr John Linendoll:  Auf wiedersehen
+
+ChrisR :  Ciao Dudes!
+
+Nightie/HOST:  Yeah, stay home and play WOLF3D <g>.
+
+Id Software:  The Boss on level 9 is called "Hans"! GA
+
+Nightie/HOST:  Nightie night, all!
+
+David E. Bork:  Bye, Yalll!!
+
+Crusader:  <ouch>
+
+Mark Betz/GD SL:  Id.. Happy Hans, the Man with Two Guns. He's a poor shot at
+a distance...but don't get close! <g>.
+
+Mark Betz/GD SL:  Seeya David!
+
+Dr John Linendoll:  Night all.
+
+Id Software:  He can be dealt with in 35 seconds! GA
+
+Mark Betz/GD SL:  Id... 35 seconds? I think I dropped him in less than that.
+Bye guys!  Thanks for coming!
+
+Id Software:  Bye everyone!
+
+[End of File]
